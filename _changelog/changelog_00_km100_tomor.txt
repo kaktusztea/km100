@@ -1,0 +1,132 @@
+﻿km100 szabályrendszer - tömör
+-----------------------------
+[ NAGY UPDATE ESETÉN A TELJES KÉPZETTSÉG ÉS FORTÉLY TÁBLÁZATOT TÖRÖLNI ÉS AZ ÚJJAL HELYETTESÍTENI!! ]
+[ ------------------------------------------------------------------------------------------------- ]
+[ FONTOS: A "Tömör" változat mindig elavult az aktuális TELJES verzióhoz képest, mivel ezt csak     ]
+[ időszakosan aktualizáljuk! ]
+[ ------------------------------------------------------------------------------------------------- ]
+
+v5.9 - 2008.03.19
+- CC licensz 
+
+---------------------------------------------
+v5.8 - 2008.03.14
+- Teljes "nagygenerál"
+  - Minden új szabály és módosítás bekerült. 
+
+---------------------------------------------
+v5.7
+- Mesterfegyver fortély bónuszai módosultak:
+  - Fokonként:  KÉ:+2; TÉ/VÉ:+3; SP:+1
+- 1HM = 5KP
+
+---------------------------------------------
+v5.6
+- Pszí aktualizálás
+
+---------------------------------------------
+v5.5
+- Kis javítások a Túlütéskor történteknél
+- Manőver táblázat frissítése az aktuálissal
+
+---------------------------------------------
+v5.4
+- Teljes "nagygenerál"
+  - Minden új szabály és módosítás bekerült. 
+
+---------------------------------------------
+v5.3 - 2007.10.17
+- CC
+
+---------------------------------------------
+v5.2
+- Aktualizálás
+
+---------------------------------------------
+v5.1
+- Formázások, tördelések, kisebb hibák javítása, bennmaradt régi szabályok eltávolítása
+
+---------------------------------------------
+v5.0
+- Teljes "nagygenerál"
+  - Minden új szabály és módosítás bekerült. Főleg a karakteralkotás és a harcrendszer változott.
+
+---------------------------------------------
+v4.3 - 2007.04.04
+- Puszta kéz harcértékei: KÉ: -10, TÉ: -10, VÉ: -10
+- Harcértékekhez hozzáadva: fegyver KÉ,TÉ,VÉ,CÉ
+
+---------------------------------------------
+v4.2 - 2007.03.13
+- Kiváró taktika bekerült
+
+---------------------------------------------
+v4.1 - 2007.03.09
+- Apró szinkronizálások a harcrendszer doksi és a tömör között.
+
+---------------------------------------------
+v4.0 - 2007.03.01
+- Kétkezes harc fortély:
+ - támadások sorrendje
+
+---------------------------------------------
+v3.9 - 2007.02.23
+- HM elosztás bekerült
+- max HM és CHM/szint
+- max 5HM egy harcértékre/szint
+- kis javítások
+
+---------------------------------------------
+v3.8 - 2007.02.xx
+- apróbb javítások
+
+---------------------------------------------
+v3.7 - 2007.01.29
+- Bekerültek a Távolsági harc fortélyai is!
+- Apró javítások (Kétkezes harc fortélynál pl.)
+- Távolsági harc fejezetben javítások
+
+---------------------------------------------
+v3.6 - 2007.01.26
+- Kis javítások, fogalmazás korrekciók, formázás
+
+---------------------------------------------
+v3.5 - 2007.01.26
+- Megszűnik az FP most már végleg!!
+- KÉ alap: 10, TÉ Alap: 20, VÉ alap: 100 mindenkinek!
+- A HM (Harcérték módosító) nem szintenként jár, hanem KP-ból kell megvenni (1 HM = 2 KP)
+- KP Alap maradt 150 KP, KP/Szint megnőtt 70 KP-ra.
+- Sima találatnál 1 ÉP seb + VÉ csökkentés
+- Túlütés: +20-nál: ÉP sebzés. További harcérték csökk nincs, az ÉP táblázatnál leírt levonások számítanak.
+
+- Fortélyok frissítve
+  - Vakharc kidolgozva
+  - Harci láz: TÉ is nő a +Erő miatt
+  - Páros harc fortély (még nincs teljesen kész)
+  - Alakzatharc (új Harci fortély)
+  - Fárasztás fortély módosult: 
+    "Ha a Fárasztás harci taktikát alkalmazod és rendelkezel ezzel a harci fortéllyal, akkor támadásonként nem 5, hanem 10 plusz VÉ-t csökkentesz ellenfeleden.
+     A fortély nagy ismerői a bajvívók és a harcosok.
+     Pusztításban nem alkalmazható."
+
+---------------------------------------------
+v3.4 - 2007.01.07
+- a speciális sebzés bónuszok (fejvadász bónusz, chi harc, hátbaszúrás) nem csökkentik az FP-t, csak az ÉP sebzésnél számítanak!
+
+---------------------------------------------
+v3.3 - 2006.12.29
+- Minden fok költsége: 15KP
+- Plusz kidolgozott Fortélyok  [Nincsenek beírva!!! Ezek csak a változások a 3.1-hez képest!!]
+  - Harci fortélyok: Alakzatharc, Páros harc, Vakharc
+
+---------------------------------------------
+v3.2 - 2006.12.04
+- Kábulat ÉP kifejtésénél jelentős változások (leginkább fogalmazást, tömörítést érintőek).
+
+====================== Orkos 1. alkalom óta történt változások =======================
+v3.1 - 2006.12.03
+- Ez lett kiadva az orkos kalandhoz
+
+---------------------------------------------
+v2.4 - 2006.12.xx
+- S4-ben rontott fájdalomtűrés → ájulás

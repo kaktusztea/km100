@@ -1,0 +1,52 @@
+
+=========== Fegyver KÉ, TÉ, VÉ, üres cella ellenõrzéssel ============
+
+KÉ
+=IF((ISNUMBER(VLOOKUP($A25;kezifegyverek_all;7;0))=1);(VLOOKUP($A25;kezifegyverek_all;7;0)+$C25*KP_tablazat.E$47);KP_tablazat.$F$55)
+
+
+TÉ
+=IF((ISNUMBER(VLOOKUP($A25;kezifegyverek_all;8;0))=1);(VLOOKUP($A25;kezifegyverek_all;8;0)+$C25*KP_tablazat.$F$47);KP_tablazat.$F$55)
+
+
+VÉ
+=IF((ISNUMBER(VLOOKUP($A25;kezifegyverek_all;9;0))=1);(VLOOKUP($A25;kezifegyverek_all;9;0)+$C25*KP_tablazat.$G$47);KP_tablazat.$F$55)
+
+
+
+========== Fegyveres harcértékek üres cella ellenõrzéssel ==============
+
+== KÉ full kézi ==
+
+=IF(ISNUMBER(D26);IF(ISNA((VLOOKUP((VLOOKUP($A26;kezifegyverek_all;11;0));harcmodor_harcertekek;4;0)));"nincs harcm";(VLOOKUP((VLOOKUP($A26;kezifegyverek_all;11;0));harcmodor_harcertekek;4;0)+$D26));KP_tablazat.$F$55)
+
+== TÉ full kézi ==
+=IF(ISNUMBER(E26);IF(ISNA((VLOOKUP((VLOOKUP($A26;kezifegyverek_all;11;0));harcmodor_harcertekek;5;0)));"nincs harcm";(VLOOKUP((VLOOKUP($A26;kezifegyverek_all;11;0));harcmodor_harcertekek;5;0)+$E26));KP_tablazat.$F$55)
+
+== VÉ full kézi ==
+
+=IF(ISNUMBER(F26);IF(ISNA((VLOOKUP((VLOOKUP($A26;kezifegyverek_all;11;0));harcmodor_harcertekek;6;0)));"nincs harcm";(VLOOKUP((VLOOKUP($A26;kezifegyverek_all;11;0));harcmodor_harcertekek;6;0)+$F26));KP_tablazat.$F$55)
+
+
+=================== Távolsági full harcértékek (üres cella ellenõrzéssel) ===================
+
+== Táv full KÉ ==
+
+=IF(ISNUMBER(D33);IF(ISNA((VLOOKUP((VLOOKUP($A33;tavolsagi_fegyverek_all;11;0));harcmodor_harcertekek;4;0)));"nincs harcm";(VLOOKUP((VLOOKUP($A33;tavolsagi_fegyverek_all;11;0));harcmodor_harcertekek;4;0)+$D33));KP_tablazat.$F$55)
+
+
+== Táv full CÉ ==
+
+=IF(ISNUMBER(E33);IF(ISNA((VLOOKUP((VLOOKUP($A33;tavolsagi_fegyverek_all;11;0));harcmodor_harcertekek;8;0)));"nincs harcm";(VLOOKUP((VLOOKUP($A33;tavolsagi_fegyverek_all;11;0));harcmodor_harcertekek;8;0)+$E33));KP_tablazat.$F$55)
+
+
+============  Tám/kör (üres mezõ ellenõrzéssel) ================
+
+=IF(ISNUMBER(VLOOKUP($A26;kezifegyverek_all;10;0));1+ROUNDDOWN(VLOOKUP(VLOOKUP($A26;kezifegyverek_all;11;0);harcmodor_harcertekek;7;0)/VLOOKUP($A26;kezifegyverek_all;10;0));KP_tablazat.$F$55)
+
+
+
+============== Távolsági fegyverek sebzése ================
+
+=IF(ISNUMBER(VLOOKUP($A33;tavolsagi_fegyverek_all;3;0))=1;(VLOOKUP($A33;tavolsagi_fegyverek_all;3;0)+($C33*KP_tablazat.$H$47)&" "&VLOOKUP($A33;tavolsagi_fegyverek_all;4;0)&IF(((ISNUMBER(VLOOKUP($A33;tavolsagi_fegyverek_all;5;0))=1)AND(VLOOKUP($A33;tavolsagi_fegyverek_all;5;0)>0));(" +"&VLOOKUP($A33;tavolsagi_fegyverek_all;5;0)&"Á");""));KP_tablazat.$F$55)
+

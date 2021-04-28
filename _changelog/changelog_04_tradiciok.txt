@@ -1,0 +1,42 @@
+﻿Tradíciók changelog
+--------------------
+
+v0.1.3 - 2008.06.09
+- A TODO és PROB bejegyzések kikerültek a közös TODO dokba.
+
+--------------------------------------------------------------------------
+v0.1.2 - 2008.04.19
+- Írástudó fortély
+   → Ha egy karalkter tiszta Tradíciót tanul, akkor automatikusan, ingyen megkapja az Írástudó fortélyt.
+
+-----------------------------------------------------
+v0.1.1 - 2008.04.14
+- Fő tradíció csoportok meghatározva
+- Féltradíciók bekerültek
+- #1 probléma megoldva (pszí iskolák az elnevezés, nem pszí-tradíciók)
+
+-----------------------------------------------------
+v0.1.0 - 2008.04.07
+- Doksi megnyitása
+- Tradíciók: 
+  → 50 KP-ba kerülnek, vannak speciális követelményeik, mely legtöbbször az előtörténet.
+
+  - Magasmágia : Csak 1.szinten vehető fel, később nem. Erre születni kell. Több útja lehet:
+     - Mozaikmágia
+     - Godoni mágia.. ??
+     - …?
+  - Slan??
+     - Csak 1.szinten vehető fel, később nem. Erre születni kell.
+  - Vulgármágia
+  - Tűzmágia
+  - Bárdmágia(?)
+  - Sámánmágia
+  - Papi mágia
+
+- TODO (Tradíciók)
+ - #1: Probléma: a Pszí tradíciók képzettségek! Ne keverjük össze ezzel. 
+       Valami más név kell valamelyiknek! Legyenek inkább Pszí-iskolák.
+ - #2: Tisztázni a Slant
+ - #3: Amit később is fel lehet venni, ott megvizsgálni, hogy 
+       az 50KP elköltése szintlépéskor nem okoz-e gondot...
+

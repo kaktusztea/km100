@@ -1,0 +1,776 @@
+﻿Fortélyok changelog
+===================
+
+--------------------------------------------------------------------------
+v1.1.8beta - 2013.08.29
+- Belharc fortély:
+  - A leírásban csak az első fok bónusza volt beírva.
+- Pszí alkalmazás fortély:
+ - 3. fok: "Tapasztalati szintenként 5Ψp vehető fel"
+     Hozzáfűzve: "visszamenőlegesen nem érvényes!"
+- Hangutánzás: 3 fokú lett, túl táp volt.
+  - 2.fok: Zajos háttérben megtévesztően képes utánozni egy előzőleg legalább 1 percig beszélni hallott személy hangját.
+  - 3.fok: Teljesen megtévesztő emberi hang utánzás csendes körülmények között is.
+
+- TODO_FORTÉLY_#2: Háttér fortélyokat kidolgozni
+   → Pl.  Fajok (Udvari ork, stb), Kiválasztott, stb.
+
+- Vértviselet fortély  
+	1 MGT → -0,5 KÉ, -1 TÉ,VÉ
+    1 MGT → -1/5 mozgást igénylő képzettségpróbákra (lefele kerekítve)
+
+	1.fok: -15 MGT
+	2.fok: -30 MGT
+	3.fok: -35 MGT
+		_Lemez_ mellvértnél: +5 VÉ
+		_Lemez_ full vértnél: +10 VÉ
+		
+--------------------------------------------------------------------------
+v1.1.7 - 2009.02.02
+- Vértviselet: 
+  → 1 MGT → -2 KÉ, -3 TÉ,VÉ
+  → 2.fok: Harcban ha vértet viselsz, 9-el csökken a vért MGT-je
+
+--------------------------------------------------------------------------
+v1.1.6 - 2009.02.01
+- Apró javítások
+
+--------------------------------------------------------------------------
+v1.1.5 - 2008.10.05
+- Apró javítások
+
+--------------------------------------------------------------------------
+v1.1.4 - 2008.10.03
+- Sárkány ököl:
+  → az egyes fokai magukban foglalják a "Mesterfegyver - Puszta kéz" fortélyt is.
+- Harcos elme:
+ → "NEM mérsékli a Fárasztás harci taktika használata során az alkalmazó által elszenvedett automatikus VÉ csökkenést."
+
+
+--------------------------------------------------------------------------
+v1.1.3 - 2008.10.02
+- Apró javítások
+
+--------------------------------------------------------------------------
+v1.1.2 - 2008.09.29
+- Vakharc követelményei módosultak
+ - 2. fok:
+   → Összpontosítás: 6.szint
+   → Hallás vagy Intuíció: +3*
+
+ - 3. fok:
+   → Összpontosítás: 9.szint
+   → Intuíció: +4*
+
+ - *2.fok speciális követelménye: +3-as Intuíció érzékszervi tulajdonság, 
+    amely lehet természetes eredetű, de elérhető a  „Hatodik érzék” 
+    pszí diszciplína használatával. VAGY: +3-as Hallás érzékszervi 
+    tulajdonság, amely lehet természetes eredetű, de elérhető a 
+    „Képességnövelés” pszí diszciplína használatával.
+
+ - *3.fok speciális követelménye: +4-es Intuíció érzékszervi tulajdonság, 
+    amely lehet természetes eredetű, de elérhető a  „Hatodik érzék” pszí 
+    diszciplína használatával.
+
+- Fárasztás
+ - Minden harcmodorban alkalmazható
+
+- Harcos elme:
+ -Bekerült: 4.fok*: Önuralom: +4, Chi harc használata
+
+--------------------------------------------------------------------------
+v1.1.1 - 2008.09.17
+- Mivel az Orvtámadás fortély megszűnt, ezért a titkos 3.foka is..
+
+--------------------------------------------------------------------------
+v1.1.0 - 2008.08.22
+- Purgálás
+
+--------------------------------------------------------------------------
+v1.0.9 - 2008.08.15
+- Belharc fortély 
+  - Fogalmazásban javítások
+
+--------------------------------------------------------------------------
+v1.0.8 - 2008.08.14
+- Sárkány ököl
+ - "Belharci szituációban mi legyen? Ugye ott -10-ről 0-ra emelkednek 
+    a Puszta Kéz értékei... Kapjon a Sárkány öklös +10-et simán?"
+
+- Belharc fortély
+ → konkrét fegyverre (Puszta kéz is az) lehet felvenni, így akár többször is.
+ → 1.fok: Ügyesség, Gyorsaság: +1; Közelharc - 6.szint
+ → 2.fok: Ügyesség, Gyorsaság: +2; Közelharc - 9.szint; Használt fegyverre: Mesterfegyver - 1.fok
+ - Testközelben érzed igazában elemedben magad.
+   Sikeres „Belharcba kerülés” manőver esetén a következő plusz harcértékek járnak:
+   KÉ: +2,  TÉ: +3,  VÉ: +3
+   Az ellenfél módosítóinak változását lásd a Harcrendszer fejezet „Belharc” harci taktika leírásánál!
+
+--------------------------------------------------------------------------
+v1.0.7 - 2008.07.31
+- Kétkezes harc fortély szinkronizálása a harcrendszer dokban leírtakkal
+
+--------------------------------------------------------------------------
+v1.0.6 - 2008.07.26
+- Apróbb javítások
+
+--------------------------------------------------------------------------
+v1.0.5 - 2008.07.24
+- Páros harc
+  → Fogalmazási hiba javítva
+  → 2. és 3. fokon kimaradt, hogy "túlerőből adódó" a VÉ csökkenés résznél
+- Lovas harc fortély
+ - Lovas harc során ezen fortély fokától függő mértékben a harcértékekhez 
+   hozzáadódnak a  Lovaglás képzettségből adódó harcérték pluszok. 
+   Ezeket úgy számítjuk ki, hogy a Lovaglás képzettséget egyszerűen Harcmodorként
+   kezeljük és a szintjének megfelelő KÉ/TÉ/VÉ és SP pluszokat vesszük.
+   A forgatott fegyver Harcmodorából adódó értékek továbbra is megmaradnak, 
+   tehát a fentiek bónuszként értelmezendők!
+
+   Alapeset: A bónuszok nem adódnak hozzá, de 3. szint alatti Lovaglás esetén 
+             elszenvedi a harcmodor szokásos harcérték büntetéseit.
+   1.fok: A bónuszok fele (felfele kerekítve) adódik hozzá a fegyveres harcértékekhez.
+   2.fok: A bónuszok 1:1-ben hozzáadódnak a fegyveres harcértékekhez
+
+--------------------------------------------------------------------------
+v1.0.4 - 2008.07.22
+- Harci láz
+- Sárkány ököl
+  → MF probléma orvosolva
+- "Harc mindhalálig" megszűnt
+
+--------------------------------------------------------------------------
+v1.0.3 - 2008.06.09
+- A TODO és PROB bejegyzések kikerültek a közös TODO dokba.
+
+--------------------------------------------------------------------------
+v1.0.2 - 2008.05.15.
+- Harci akrobatika - 1.fok
+  - Ügyesség követelménye csak +2 (+3 helyett)
+    (így van értelme a +2-es Ügyességnek is (max HM felvétel szempontból nem lenne))
+- Fárasztás fortély módosult, mivel módosult a Fárasztás harci taktika is
+  - Ha a Fárasztás harci taktikát alkalmazod és rendelkezel ezzel a harci fortéllyal, 
+    akkor további +3 VÉ-t csökkentesz ellenfeleden támadáskor.
+
+--------------------------------------------------------------------------
+v1.0.1 - 2008.05.13
+- Harci akrobatika: Alap leírás, fegyverek, vértek, alkalmazás limitek betétele.
+- Kétkezes harc: pár egyértelműsítés (fegyver pengehosszok)
+
+--------------------------------------------------------------------------
+v1.0.0 - 2008.05.12
+- Új: Harci akrobatika
+
+--------------------------------------------------------------------------
+v0.9.9 - 2008.04.19
+- Megszűntek a Háttér fortélyok és az egész Háttér fortély fejezet
+  - Kegyelt
+     - Fogékonyság: +1
+  - Slan
+  - Korg
+- Mesterfegyver fortély bekerült a Harci fortélyok közé
+- Írástudó fortély
+  - 15 KP, nincs kivételezés! :)
+  - Leírásához: "Minden nyelvet, amit legalább 4. szinten beszélsz, képes vagy 
+    írásban is megérteni, továbbá írni is tudsz vele."
+    Speciális: Ha Tradíciót veszel fel, automatikusan megkapod az Írástudó fortélyt. 
+- "Kitérés lövés elől": harci fortély, nem távolsági 
+- "Vakon varázslás" megszűnt
+- Pszí új neve: "Pszí alkalmazás"
+   - Leírásába bekerült minden a Pszí doksiból
+- [Megszűnt]: PROB_FORTÉLY_#2 - Kiválasztott fortély
+- Titkos fortélyok egy fejezetbe gyűjtve (minden típus)
+
+--------------------------------------------------------------------------
+v0.9.8 - 2008.04.16
+- Kobratánc harci fortélyhoz:
+  - Hatása: harci transz (kizökkenéshez mi kell?)
+  - Nő a harcos Sebesség értéke: +5
+   → Ez értelmetlen, mert annyit támad, amennyit az ellenfelek rá
+  - Sebzés: k20+2 SP (semmi más bónusz nem számít ) 
+  - TÉ: +10
+  - Páncéldobás esélyeit módosítja: 
+    - nagyobb esély a végtagokra  
+       VAGY
+    - (-20)% a páncéldobásra
+
+--------------------------------------------------------------------------
+v0.9.7 - 2008.04.14
+- "Alapelvek fortélyok kidolgozásához"
+- Kivéve, hogy max 1db 3.fokú fortély lehet. Hülyeség.
+- Konkrét példa beírása
+- Támadás erőből változott:
+  "TÉ-ből átrakhatsz a sebzésre 1:3 váltószámmal"  (eddig 1:5 volt)
+  "1. fok: legfeljebb +5 SP (-15TÉ)
+   2 .fok: legfeljebb +10 SP (-30TÉ)"
+- "Testőr" változott:
+  - a védett személynek nem csökken a VÉ-je, csak az alkalmazónak (testőrnek)
+- Célzás fortély:
+  - Ügyesség helyett Önuralom +1
+  - Alapeset: 1 célzással eltöltött kör után +10 CÉ módosítót kapsz
+  - Hatás: 1 célzással eltöltött kör után +20 CÉ módosítót kapsz
+- Gyors újratöltés: 
+  - "Kézi- vagy Könnyű nyílpuskád Sebesség értéket kap, melynek nagysága 7"
+   - Mesterfegyver (íjra)
+- Lovas íjászat
+  - Követelmény+: Mesterfegyver (íjra) - 2.fok
+  - Olyan lőfegyverekkel, amelyre Mesterfegyver fortély 2.fokon jártas vagy, 
+    a hátasról végzett távolsági támadásaid, negatív CÉ módosítója feleződik:
+     - Ügetés esetén: -20 CÉ helyett -10 CÉ
+     - Vágta esetén : -40 CÉ helyett -20 CÉ
+- Közeli lövés
+  - Ügyesség helyett Önuralom +1
+- Lövés futás közben
+  - Ügyesség helyett Önuralom +1
+- Lövés reflexből
+  - Ügyesség helyett Gyorsaság +1
+- Pontos Lövés
+  - Ügyesség helyett Önuralom +1
+- Távoli lövés
+  - Ügyesség helyett Önuralom +1
+  
+--------------------------------------------------------------------------
+v0.9.6 - 2008.04.14
+- Jóslás fortély bekerült (még csak ötlet)
+- Kocsihajtás: legyen inkább képzettség..?
+- Új karmák
+  - Gyerekgyilkos
+  - Hős
+  - Bajnok
+  - Alkoholista
+  - Összhang karma (mágikus)
+  - Profán (mágikus)
+  
+--------------------------------------------------------------------------
+v0.9.5 - 2008.04.13
+- Apró javítások a Vértviselet fortélyban.
+
+--------------------------------------------------------------------------
+v0.9.4 - 2008.04.07
+- [Megszűnt]: TODO_FORTÉLY_#4 - Páros harc (Ki lett dolgozva)
+- Nevelt fortélyok megszűntek
+- helyettük lettek Tradíciók és pszí iskola képzettségek, stb.
+- Hazudozás szociális fortély bekerült
+- Lenyűgözés, Beilleszkedő fortélyok megszűntek
+- Szociális fortélyok: bevezető szövegrész egyszerűsítése, szinkronba 
+  hozva az "Emberismeret" képzettség leírásával.
+- "Különleges faj": új tudományos fortély Élettanhoz
+
+--------------------------------------------------------------------------
+v0.9.3 - 2008.04.01
+- "Fejlett érzékszerv" fortély megszűnt
+
+--------------------------------------------------------------------------
+v0.9.2 - 2008.03.19.
+- CC licensz
+
+--------------------------------------------------------------------------
+v0.9.1 - 2008.03.17.
+- Kaméleon fortély
+  - Az Álcázás/Álruha képzettség tanulása során nem minden 3., hanem minden 2. szinten kap új szerepet a karakter.
+
+--------------------------------------------------------------------------
+v0.9.0 - 2008.03.14.
+- Harci anatómia - Leütés hátulról szituban is bónuszt ad (3.fokon is)
+
+--------------------------------------------------------------------------
+v0.8.9 - 2008.03.13.
+- Orvtámadás törölve (helyette: Harci anatómia)
+
+--------------------------------------------------------------------------
+v0.8.8 - 2008.03.12.
+- Harcos elme: kibővítve
+  - Minden foka 1-el mérsékli a sebesülés hatására elszenvedett TÉ csökkenést
+  - TODO: durvább követelmények kellenek, mert tápos fortély (vagy nem..?)
+- Harci fortélyokhoz ötlet:
+- Ötlet_1: HM követelményt bevezethetnénk: pl. 30 elköltött HM kell, 
+            hogy fel lehessen venni egy bizonyos fortélyt.
+- Ötlet_2:  a halálos harci fortély-kombók ellen: minden fortély adjon 
+            valamilyen típusú „karmát” és legyen „karma-limit” típusoktól 
+	    függően (karakter jellemétől függjön, hol a limit...?)
+
+--------------------------------------------------------------------------
+v0.8.7 - 2008.03.08
+- Karmák (Szerzett Fortélyok átnevezve)
+  (pl. Gyilkos)
+- Harci anatómia fortély félig kidolgozva
+
+--------------------------------------------------------------------------
+v0.8.6 - 2008.02.27
+- Fegyverrántás kidolgozva
+
+--------------------------------------------------------------------------
+v0.8.5 - 2008.02.24
+- Páros harc kidolgozva
+- Alakzatharc kidolgozva
+- Fárasztás kidolgozva
+- Hárítófegyver használat kidolgozva
+- Elsöprő roham kidolgozva
+ - Képzett rohamozó átnevezve: Elsöprő roham
+- Orvtámadás sebzés, 1.fok:+5SP, 2.fok:+10SP
+- [Megszűnt]: Speciális fegyver használata
+- [Megszűnt]: Vasököl
+- Testőr kidolgozva
+- Támadás erőből kidolgozva
+- [Törölve]: Hadrend
+- [Törölve]: Harci összpontosítás
+- [Törölve]: Allegheri
+- Kobratánc félkészre kidolgozva
+
+--------------------------------------------------------------------------
+v0.8.4 - 2007.12.18.
+- Kétkezes harc fortélyból kimaradt a Sebesség plusz. Pótolva.
+- Hangutánzásnál bennmaradt az Érzékenység (megszűnt) követelmény.
+
+--------------------------------------------------------------------------
+v0.8.3 - 2007.12.06.
+- Pszí alkalmazás fokainak beírása (részben)
+
+--------------------------------------------------------------------------
+v0.8.2 - 2007.11.25
+- Sárkány ököl fortély
+
+--------------------------------------------------------------------------
+v0.8.1 - 2007.11.23
+- Hibák bejelölgetése a harci fortélyokban
+
+--------------------------------------------------------------------------
+
+v0.8.0 - 2007.11.22
+- Fegyverrántáshoz: Átírni a fegyver előrántás és a rántás+támadás szerint bontva
+
+--------------------------------------------------------------------------
+v0.7.9 - 2007.11.14
+- Úszás - 1.fokhoz nincs Edzettség követelmény
+
+--------------------------------------------------------------------------
+v0.7.8 - 2007.11.10
+- Kétkezes harc fortély leírása szinkronba hozva a Harcrendszerben levővel.
+- Kétkezesség:
+  - Mindkét kezeddel levonás nélkül tudsz harcolni, de csak 1 fegyverrel!!
+  - „Páros hajítás” harci szituációban csak -15CÉ büntetés jár mindkét kézre.
+  - Ha legalább 1.fokon jártas vagy Kétkezes harcban és épp két fegyvert forgatsz, +1 járul harci Sebesség értékedhez.
+  
+--------------------------------------------------------------------------
+  v0.7.7 - 2007.10.27
+  - Új mágikus fortély: Elemi sík nyelve (választott nyelv)
+  - Megszűnik a max 30KP/szint és a "max 100KP első szinten" limit. Úgy is bonyolítottak :)
+  - "Fortélyok KP igénye és tanulása" fejezet egybevonva az "Általános szabályokkal"
+  
+--------------------------------------------------------------------------
+v0.7.6 - 2007.10.23
+- Mágikus háttér (és egyben nevelt) fortélyok megszűntek. Átmentek a Mágia doksiba 
+  "Mágia tradíciók" néven szétbontva (50KP)
+- Pajzshasználat fortélyt kicsit rendberaktam.
+  - Képzetlenül is lehet pajzzsal a kézben támadni
+  - MGT 0 lesz 2. fokon (harcban)
+
+--------------------------------------------------------------------------
+v0.7.5 - 2007.10.17
+- CC
+
+--------------------------------------------------------------------------
+v0.7.4 - 2007.06.19
+- Pajzshasználat: MGT részek kihúzva
+
+----------------------------------------------------------
+v0.7.3 - 2007.06.xx
+- ??
+
+----------------------------------------------------------
+v0.7.2 - 2007.06.14-15
+- Pajzshasználat fortély módosult (pajzsok értékei és levonások)
+
+----------------------------------------------------------
+v0.7.2 - 2007.06.11
+- Kis javítások
+
+----------------------------------------------------------
+v0.7.1 - 2007.06.06
+- Új titkos fortély: "Állat testvér"
+- Távoltartás harci fortély (terv)
+  - Jelenleg a Manőverekhez is be van írva. Harci fortély legyen vagy Manőver-ismeret??
+- Új titkos harci fortély: 
+  - Kobratánc
+    - Követelmények: Gorviki fejvadászklán; Összpontosítás – 9.szint ? ; Kétkezes harc – 2.fok
+    - Hatása: (még csak körvonalakban):
+       - harci transz (kizökkenéshez mi kell?)
+       - Nő a harcos Sebesség értéke: +5?
+       - Körönként: +1(2?)(k3?) SP; +5TÉ (hány körig??)
+----------------------------------------------------------
+v0.7.0 - 2007.06.05
+- "Manőver fortélyok" törölve
+  - A Harcrendszer alá megy minden és Manőver-ismeret lesz a nevük
+
+----------------------------------------------------------
+v0.6.9 - 2007.06.03
+- Titkos fortélyok - új fejezet
+  - "A Titkos fortélyok általában egyes képzettségek nagyon magas szinten történő művelői által, kivételes esetben tanulható – legtöbbször félmágikus – ismeretek.
+     Leírásukat lásd az egyes fortély kategóriák végén!"
+- Szerzett fortélyok - új fejezet
+  - "A Szerzett fortélyok speciális ismeretek, melyek követelményei nem számszerűek, hanem valamely esemény különleges cselekedet. Így nem kerülnek KP-ba sem, kaland során lehet „megszerezni” őket. Minden esetben a KM adja őket, a játékos nem veheti fel önként, valamint nem követelheti azt a KM-en.
+     A lenti fortélyok nem feltétlenül fednek le mindent, a KM ha úgy érzi az adott kaland hangulatához illene egy új, általa kitalált Szerzett fortély, akkor nyugodtan megadhatja, de legyen tekintettel az erőviszonyokra, szerzett fortélyként csak valamilyen színesítő, ismeretet adjon.
+     Versenyeken, klubokban viszont csak és kizárólag az itt leírt szerzett fortélyokat adhatja meg a KM a játékossal való egyeztetés után!"
+- "Százarcú" fortély: átírva: nehm pluszt ad, hanem:
+   - "Rögtönzött kellékekből is képes vagy álruhát barkácsolni. Gyorsan át tudsz változni. Ne feledjük: ilyen esetekben a próba célszáma növekszik!
+      Alapeset:: Gyors átöltözéskor  körülménytől függően + [1-6]-al nőhet a képzettségpróba nehézsége.
+      1.fok: A gyors átöltözés büntetését 3-al csökkentheted képzettségpróbánál. 
+      2.fok: A gyors átöltözés büntetését 6-al csökkentheted képzettségpróbánál. "
+- Kötéltánc
+  - Nem lesz, aki ezt felvenné..
+    (legyen 1 fokú?)
+- Biztos kezű mászó
+  - A rontások leeséstől véd. Bár az Erő és Edzettség bevetése ezt megoldja, szóval talán nem kell.
+
+- Új fortély: Élő álca (1 fok)
+ - Követelmény: Álcázás/Álruha: 15.szint
+   "Titkos, félmágikus ismeret. Csak az álcázás legnagyobb mesterei ismerik – állítólag.
+    Alkalmazója kellékek nélkül is képes átformálni vonásait. A hatás csak annyi lehet, amennyit maszk eszközökkel is el tudna érni. Például: pár perc alatt szakállat, bajszot növeszt, ráncokat varázsol az arcára, megváltozik szeme színe, stb."
+
+- Új fortély: Tapadás (1 fok)
+ - Követelmény: Mászás - 15.szint
+ - "Titkos, félmágikus ismeret.  
+    Képes vagy pókként megtapadni a falon – akár a mennyezeten is. A kapaszkodáshoz nincs szükséged kiszögelésre."
+
+----------------------------------------------------------
+v0.6.8 - 2007.06.01
+- Vértviselet fortély:
+  - az MGT csökkenések módosulnak (még nem fix, hogy mennyire. Össze kell hangolni a vértek MGT-jével).
+  - 1 MGT hatása: -5 KÉ és -10 TÉ,VÉ
+  - 1 MGT hatása: -1 büntetés mozgást igénylő képzettségpróbákra
+  - Könnyű vért: definiálni (súlyban?)
+  - Nehéz vért: definiálni (súlyban?)
+
+----------------------------------------------------------
+v0.6.7 - 2007.05.25
+- Gyors kezdeményezés ismét bekerült
+  → +4 KÉ
+  → Követelmény: Gyorsaság: +2  (még kérdéses)
+- Fegyverrántás fortély átdolgozva
+- Megszűnt: "Fegyvertelen Belharc" fortély
+
+----------------------------------------------------------
+v0.6.6 - 2007.05.07
+- Harci láz fortély: Edzettség helyett ne inkább Önuralom a követelmény..?
+  (A Fájdalomtűrés miatt)
+
+----------------------------------------------------------
+v0.6.5 - 2007.05.04
+- "Fegyvertelen Belharc" - kis kieg:
+  - "Belharci szituációban a következő belharcos manőverekre kapsz bónuszt..."
+
+--------------------------------------------------------
+v0.6.4 - 2007.05.03
+- "Fegyveres Belharc" és "Fegyvertelen Belharc" fortélyok pontosítása
+  - a követelmény még mindig hiányzik
+
+--------------------------------------------------------
+v0.6.3 - 2007.05.02
+- "Fegyveres Belharc" és "Fegyvertelen Belharc" fortélyok bekerültek
+
+--------------------------------------------------------
+v0.6.2 - 2007.04.26
+- Új fortély: Testőr
+- "Hasznos fortély, ha Védő Értékedet egy másik személyre is ki akarod terjeszteni."
+
+--------------------------------------------------------
+v0.6.1 - 2007.04.26
+- Úszás: hiányzott a 2.fok követelménye: Edzettség: +2
+- Futás: hiányzott a 2.fok követelménye: Edzettség: +2
+
+--------------------------------------------------------
+v0.6.0 - 2007.04.26
+- Harci lázba Fájdalomtűrés próba
+  - még kérdéses ez a fortély
+- Fegyverrántásba: "A fortély csak szemtől szembe alkalmazható."
+- Harc mindhalálig??? A Harci láz feleslegessé teszi az új Fájdalomtűrés-rontással..
+- Pajzshasználathoz a hátrányok beírása
+
+--------------------------------------------------------
+v0.5.9 - 2007.04.25
+- apró javítások
+- Pajzshasználat - 1.fok: csak +0 Erő követelmény. (+1 volt beírva)
+
+--------------------------------------------------------
+v0.5.8 - 2007.04.25
+- "Plusz támadás bal kézzel" fortély megszűnik
+- "Gyors kezdeményezés" megszűnik
+- Fortély „Táp kategóriák” fejezet (fejlesztéshez)
+
+--------------------------------------------------------
+v0.5.7 - 2007.04.23
+- Vértviselet végleges
+- Orvtámadás végleges
+
+--------------------------------------------------------
+v0.5.6 - 2007.04.20
+- Fárasztás fortély módosult: 10 helyett 15 VÉ csökk.
+
+--------------------------------------------------------
+v0.5.5 - 2007.04.16
+- [Új]: PROB_FORTÉLY_#4 - Nevelt fortélyok
+  - Karakteralkotás doksiból átemelve
+- Vértviselet fortély egységesítve és véglegesítve
+- Íjász fortélyokhoz: "Észlelés és Összpontosítás képzettségek mint követelmények"
+- "Fejlett érzékszerv" fortélyhoz: "Csak 1.tapasztalati szinten vehető fel!"
+- "Fárasztó" fortély új neve: "Fárasztás"
+
+--------------------------------------------------------
+v0.5.4 - 2007.04.15
+- Gyors újratöltés: Ügyesség helyett Gyorsaság +1 (köv)
+- Gyors Lövés: Ügyesség helyett Gyorsaság +1 (köv)
+- Kitartás, Futás, Sprint rendbetétele
+
+--------------------------------------------------------
+v0.5.3 - 2007.04.04
+- Pusztítás, Földharc, Belharc, Birkózás harci fortélyok megszűntek
+- Orvtámadás: beírva az új sebzés szerinti bónusz, de egyelőre ott marad a régi is, míg nem 
+              lesz fix az új rendszer
+- [Megszűnt]: PROB_FORTÉLY_#1 - Belharc, Földharc, Birkózás kapcsolata
+- Pajzshasználat - 1.fok
+  - Követelmény módosult: Erő: +0
+
+--------------------------------------------------------
+v0.5.2 - 2007.03.13
+- logó
+
+--------------------------------------------------------
+v0.5.1 - 2007.03.12
+- Gyors kezdeményezés
+  - 1HM= 4KP, ezért mindenki ezt veszi fel!
+- "Allegheri" fortély
+  - Védekezést tápoló dolgok. Pl a VÉ csökkenés feleződik, vagy ilyesmi. 
+    Probléma: ez inkább csak a könnyű kardos verziónál működik, egy pallosos ellen már nem...
+
+--------------------------------------------------------
+v0.5.0 - 2007.03.01
+- Apróbb javítások
+- Új fejezetek:
+  - Nevelt fortélyok
+  - Mágikus és misztikus fortélyok
+  - Pszí fortélyok
+
+--------------------------------------------------------
+v0.4.9 - 2007.03.01
+- Kétkezes harc fortély:
+- támadások sorrendje
+
+--------------------------------------------------------
+v0.4.8 - 2007.02.23
+- [Megszűnt]: TODO_FORTÉLY_#2. 
+- [Megszűnt]: TODO_FORTÉLY_#3. 
+- Orvtámadás
+ - 1.fok új követelmény: Összpontosítás: 3.szint
+ - 2.fok új követelmény: Összpontosítás: 6.szint
+ - 3.fok: Ez már mágikus hatású ismeret. Minden szúrás öl
+   - Követelményei: Ügyesség +4, Közelharc: 12.szint, Összpontosítás: 9.szint, „Halálos orvtámadás” fortély, Minimum 100 gyilkosság
+- Új fortély: Gyilkos
+  - 1 fok, Köv: Minimum 100 orvgyilkosság
+    "A rengeteg gyilkosság megmérgezte a lelkedet, olyan sötét praktikákat tanulhatsz, amik eddig elzárva voltak előtted. Ilyen pl. az Orvátmadás titkos 3.foka. Ennek viszont ára van. Ha nem leplezed, aurádon sötét foltként terjeng a sötétség."
+
+--------------------------------------------------------
+v0.4.7 - 2007.01.30
+- Kétkezes harc fortély:
+  - 2.fok: +2 támadás: bal kézzel (nem +1)
+  - Új probléma: Csak azonos harcmodorban forgatható együtt a két fegyver (és a kard+tőr kombó???)
+  - Új probléma: Harc közben fegyver-dobás bal kézzel?
+
+--------------------------------------------------------
+v0.4.6 - 2007.01.26
+- "Fárasztó" fotély módosult:
+  - "Ha a Fárasztás harci taktikát alkalmazod és rendelkezel ezzel a harci fortéllyal, akkor támadásonként nem 5, hanem 10 plusz VÉ-t csökkentesz ellenfeleden.
+     A fortély nagy ismerői a bajvívók és a harcosok.
+     Pusztításban nem alkalmazható."
+- Gyors kezdeményezés:
+   - Mivel 1HM=2KP, ezért nem éri meg felvenni!
+- Harcos elme fortély leírása változott:
+   -"A Fortély minden foka 1VÉ-t semlegesít az ellenfél VÉ csökkenést okozó
+   támadásaiból. Az ÉP seb okozta VÉ csökkenésre ez nem vonatkozik."
+
+--------------------------------------------------------
+v0.4.5 - 2007.01.26
+- Apró jav: Vakharc nem 2,hanem 3 fokú
+
+--------------------------------------------------------
+v0.4.4 - 2006.12.29
+- Nyelvtehetség fortély (Tudományos fortélyokhoz)  - még csak ötlet
+- Esetleg kevesebb KP-ért tanulhatna nyelveket.
+- [Új]: TODO_FORTÉLY_#4 - Páros harc
+- Követelményeit és a konkrét bónuszokat (harcértékekre) kidolgozni.
+- Páros harc követelményeinek vázolása
+- Új fortély: Alakzatharc (Harci fortély)
+  - Követelmények és konkrét harcérték bónuszok még itt is kidolgozatlanok.
+- [Új]: PROB_FORTÉLY_#3 - Faj-fortélyok
+  - A Fajok különleges képességeikkel együtt egy „csomagban” legyenek „beárazva” „Faj-fortélynak”?
+  Vagy az ember kapjon plusz KP-t...?
+  Esetleg a csak első szinten felvehető fortélyokat külön csoportosítsuk (Háttér?) ?
+- Pajzshasználat (még kidolgozatlan Fortély)
+  - Pajzsok VÉ-jét csökkenteni kéne
+- Vakharc fortély
+  Követelmények:  1:Összpontosítás: 3.szint  / 2:Összpontosítás: 6.szint / 
+                  3:Összpontosítás: 9.szint + Pszi – „Hatodik érzék” diszciplína használata
+    Fok / Szitu             Csönd és sötét          Zaj és sötét
+    Képzetlen               -30 KÉ, -50 TÉ/VÉ       -20 KÉ, -30 TÉ/VÉ
+    1.fok                   -20 KÉ, -30 TÉ/VÉ       -10 KÉ, -15 TÉ/VÉ
+    2.fok                   -10 KÉ, -15 TÉ/VÉ       nincs levonás
+    3.fok                   nincs levonás           nincs levonás
+    
+    
+--------------------------------------------------------
+v0.4.3 - 2006.12.25
+- Páros harc fortély.
+  - Még hiányoznak a harcértékek és a közös gyakorlás éveinek száma
+
+--------------------------------------------------------
+v0.4.3 - 2006.12.12
+- Fejlett érzékszerv fortély: konkrétabb, nem félreérthető megfogalmazás:
+  "Egy általad választott érzékszerved élesebb a többinél. Mikor ezt az érzékszervedet használod Észlelés képzettségpróbánál, +2 módosítót kapsz."
+- Apróbb javítások
+- [Új]: TODO_FORTÉLY_#3 - Fortély kategóriák
+  "Ki kéne alakítani 3, vagy 4 Fortély kategóriát attól függően, hogy mekkora tápot adnak. 
+  Félreértés elkerülése végett: igaz, hogy most is fokokra vannak osztva, de van amelyik 
+  csak 1 fokú és mégis nagy tápot ad (pl. Szabotőr).
+  Ennél vagy szabályt törünk és nem 15KP-ba kerül (ezt inkább ne), vagy durvább 
+  követelményeket állítunk a felvétele elé. Én ezt támogatnám. Viszont ezeket a követelményeket 
+  ne csak úgy hasra adjuk, legyenek standard-ok (képzettség szint, Tulajdonság követelmények, stb.) 
+  attól függően, hogy mekkora a táp. Gyakorlatilag tehát a táp mértékétől függően kategorizáljuk 
+  őket. (a külön fokokat is)."
+
+--------------------------------------------------------
+v0.4.2 - 2006.12.05
+- Harci láz: TÉ is nő a +Erő miatt
+- Af, Mf kifejezések cserése: 1.fok és 2.fok és kiemelíésük félkövérrel
+- PROB_FORTÉLY_#1 módosítva: "Belharc, Földharc, Birkózás kapcsolata"
+
+--------------------------------------------------------
+v0.4.1 - 2006.12.03
+- Orvtámadás - betéve a harci fortély táblázatba
+- Kisebb javítások
+
+--------------------------------------------------------
+v0.4.0 - 2006.12.02
+- Követelmények kidolgozása pár fortélynál
+
+--------------------------------------------------------
+v0.3.9 - 2006.12.02
+- Harci fortélyok nagy részén végigmentünk
+- Távolsági harc fortélyainak bemásolása
+- Fortélyok csoportosítása
+
+--------------------------------------------------------
+v0.3.8 - 2006.12.01
+- Új fortély: "Fejlett érzékszerv"   | 1 fokú | Edzettség: +1
+  - Egy általad választott érzékszerved élesebb a többinél. Észlelés képzettségpróbára +2 módosítót kapsz.
+
+--------------------------------------------------------
+v0.3.7 - 2006.11.30
+- Táblázat készítése harci fortélyoknak
+
+--------------------------------------------------------
+v0.3.6 - 2006.11.29
+- Könyvből beírva a Harci fortélyok (csak lista)
+
+--------------------------------------------------------
+v0.3.5 - 2006.11.29
+- Szónoklás szociális fortélyhoz:
+  - Agitátorság is ide tartozzon?
+- Úszás | 10/30 KP | Állóképesség: +1
+  - Alapeset: Az illető elmerül, fuldoklik
+  - Af: Tud úszni, hosszú távú úszás esetén Állóképesség próbára +2
+  - Mf: Mint az Af, de Állóképesség próbára +4
+- Futás | 10/30 KP | Állóképesség: +1
+  - Alapeset: Hosszútáv futásnál Állóképesség próba
+  - Af: Hosszútáv futáskor Állóképesség próbára +2
+  - Mf: Hosszútáv futáskor Állóképesség próbára +4
+
+--------------------------------------------------------
+v0.3.4 - 2006.11.29
+- Külső txt file-ból harci fortély lista bevágása
+
+--------------------------------------------------------
+v0.3.3 - 2006.11.28
+- Kisebb javítások, formázás
+
+--------------------------------------------------------
+v0.3.2 - 2006.11.27
+- Harci fortélyok csoportosításának elkezdése
+
+--------------------------------------------------------
+v0.3.1 - 2006.11.27
+- A frissen beírt/szelektált fortélyok csoportosítva lettek. Hiányos részek kiemelve sárgával.
+- Hátravan: harci, mágikus, pszi fortélyok + új fortélyok
+- 2.1.1: Általános szabályok
+  - A kihúzottak újra visszatéve
+- Megszűnt: TODO_FORTÉLY_#1. - Választott képzettség elsődleges
+
+--------------------------------------------------------
+v0.3.0 - 2006.11.26
+- Minden d20 Fortély átnézése (kivéve harci, mágikus, vagy pszi)
+  (Brutál szelektálás, minden vacak fortélyt kidobtunk)
+  - A doksi végén vanak, kategorizálni!!
+  
+--------------------------------------------------------
+  v0.2.7 - 2006.11.13
+- Mód: PROB_FORTÉLY_#1 - Belharc  és Földharc kapcsolata
+
+--------------------------------------------------------
+v0.2.6 - 2006.11.10
+- Új harci fortély: Harci láz
+
+--------------------------------------------------------
+v0.2.5 - 2006.11.07
+- Kisebb javítások
+
+--------------------------------------------------------
+v0.2.4 - 2006.10.28
+- "Képzett" fortély megszűnik
+
+--------------------------------------------------------
+v0.2.3 - 2006.10.24
+- Kisebb javítások
+
+--------------------------------------------------------
+v0.2.2 - 2006.10.20
+- Lovaglás Af,Mf bekerült
+- Kocsihajtás 
+  - Af: postakocsi
+  - Mf: harci szekerekre
+
+--------------------------------------------------------
+v0.2.1 - 2006.10.01
+- km20-as beírások áthúzottra formázása (lehet, hogy ki is lesznek törölve)
+
+--------------------------------------------------------
+v0.2.0 - 2006.09.27
+- Kisebb változtatások, javítások 
+
+--------------------------------------------------------
+v0.1.9 - 2006.09.05
+- Lovaglás megy fortélyba   Af, Mf
+
+--------------------------------------------------------
+v0.1.8 - 2006.08.27
+- Átkerült a Képzettséges doksiból a Fortély szintek problémája. Hány szintû fotélyok legyenek?
+Szociális fortélyok fejezetbe: politikai játszmák kifejtése: hivatkozás a "Mit tudok/tudhatok róla?" Szituációra. Plusz kisebb stilisztikai javítások.
+- Fortélyok szintjei: max 3-ról max 2-re csökkent. (10, 30KP)
+- Hidegvér és Tiszta fej kifejtése.
+- Új:
+ - Csomózás
+ - Kötelékbõl szabadulás
+ - Kocsihajtás
+ - Hangutánzás
+ - Szájról olvasás
+
+--------------------------------------------------------
+
+v0.1.7 - 2006.07.31
+- A Szociális fortélyok átkerültek ide a Képzettségek doksiból
+
+--------------------------------------------------------
+v0.1.6 - 2006.07.27
+- A fõdokumentumból kikerült ide az összes Harci fortély
+
+--------------------------------------------------------
+v0.1.5
+
+- Általános Fortélyok táblázat bekerült. Egy részük még kérdéses. Hogy KP-ba kerülnek-e, vagy külön pontba, az az is.

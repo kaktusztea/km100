@@ -1,0 +1,142 @@
+﻿Pszí changelog
+--------------
+
+v0.3.6 - 2008.04.13
+- apró javítások
+
+-----------------------------------------------------------
+v0.3.5 - 2008.04.10.
+- A pszí tradíciókat (képzettség) mostantól iskolának hívjuk, hogy
+  ne kavarodjon össze a mágia-tradíció jelentésével.
+  A mágia iskolák is képzettségek, ezért jobb az egységes elnevezés.
+
+-----------------------------------------------------------
+v0.3.4 - 2008.03.19.
+- CC licensz
+
+-----------------------------------------------------------
+v0.3.3 - 2007.12.06.
+- Ψp visszatérés táblázat
+
+-----------------------------------------------------------
+v0.3.2 - 2007.11.04
+- kis javítások
+
+-----------------------------------------------------------
+v0.3.1 - 2007.10.31
+- [Megszűnt]: 2# - Mik legyenek a "Pszí-[tradíció]" fortélyok követelményei?
+- 4 fokú fortély új neve: Pszí alkalmazás
+- pszí képzettségek új neve: pszí tradíciók
+- pszí tradíciók jellemzőinek kifejtése
+- Összes M*, Codex, Shadowrun diszciplína összegyűjtve táblázatba
+- ezekből alkotjuk újra a diszciplínákat
+- Pszí kisiskolák (??)
+
+-----------------------------------------------------------
+v0.3.0 - 2007.10.28
+- 1. és 2.fokon szintenként 4Ψp vehető
+- 3. és 4.fokon szintenként 5Ψp vehető
+
+-----------------------------------------------------------
+v0.2.9 - 2007.10.26
+- Mágikus akarat átkerült a Mágia doksiba
+- Nyitott kérdések a doksi elejére kerültek
+- Mágiaellenállás átkerült a Mágia doksiba
+
+-----------------------------------------------------------
+v0.2.8 - 2007.09.11
+- Apró javítások, a txt file-ok egy részének beemelése
+- Pszí-fortélyokból tanulható diszciplínák táblázatba foglalása
+
+-----------------------------------------------------------
+v0.2.7 - 2007.06.06
+- Új pszí fortély: Zárt elme
+  - "Képes az elmefürkészést becsapni. Fejvadászok, orvgyilkosok kedvelt diszciplínája."
+  - Kidolgozni
+
+-----------------------------------------------------------
+v0.2.6 - 2007.04.16
+- Mágiaellenállás
+  - Mágiaellenállásba számító Tulajdonságok
+  - Új: Fizikai mágiaellenállás (Önuralom + Edzettség ?)
+- Hatodik érzék diszciplínához: "Magas „Észlelés” képzettség követelmény."
+- "Tulajdonság növelés" diszciplína: "A faji max fölé nem mehet!"
+
+-----------------------------------------------------------
+v0.2.5 - 2007.03.26
+- Pszí iskolák: átlagos képzettségek (eddig átfogóak voltak)
+- 1 Ψp = 2KP (eddig 4 volt)
+- Statikus és dinamikus pajzsok "Leírás" részét kifejtettem.
+
+-----------------------------------------------------------
+v0.2.4 - 2007.03.13
+- logó
+
+-----------------------------------------------------------
+v0.2.3 - 2007.03.02
+- Minden külső anyag beolvasztása. Diszciplínák, ötletek, stb.
+
+-----------------------------------------------------------
+v0.2.2 - 2007.02.28
+- kis javítások
+
+-----------------------------------------------------------
+v0.2.1 - 2007.02.14
+- Teljes átstruktúrálás
+- Rengeteg javítás. Értelmetlen lenne mindent leírni, tök új az egész.
+
+-----------------------------------------------------------
+v0.2.0 - 2007.02.14
+- [Megszűnt]: Pszi_#1., Pszi_#2., Pszi_#3.
+- Teljesen újragondolt pszí rendszer alapjainak lefektetése!
+
+-----------------------------------------------------------
+v0.1.5 - 2007.01.07
+- Dupla szövegek kiszedése, szövegek, ötletek csoportosítása
+- [Új]: Pszi_#5 - Aktív mágikus akarat (mint az Aura)
+- [Új]: Pszi #6 - Statikus pajzs
+- [Új]: Pszi #7 - Dinamikus pajzs
+- Pszi_#2: Nehezebb, tápos diszciplínák KP-ból?
+  - Módosítás: "Tápos, vagy nehezebb Pszi diszciplínákat (pl. Hatodik érzék) külön Fortélyba
+  tesszük. Tehát KP-ért kell megvenni és követelményei is lehetnek. Esetleg 
+  lehetnek diszciplína-csomagok. Pl. Kráni pszí."
+- [Új]: Pszi_#4 - Pszi alapiskolák
+"Ezek menjenek külön „csomagba”, képzettségként, amiket külön növelni kell? 
+Alkalmazásuk: Pszi_#1.
+- Anyagi diszciplínák
+- Asztrál diszciplínák
+- Mentál diszciplínák
+
+- "Plusz ellenállások, módosítások" megszűnik, a tartalma bekerül a Mágiaellenállás (Pszi_#3) legelejére
+  - "Meglepődés / Harc/ Érzelmi sokk / másra koncentrálás közben ideiglenesen csökkenhessen a ME?
+     Eseteleg Összpontosítás próba, hogy csökken-e, vagy nem."
+
+
+v0.1.4 - 2006.11.07
+- Statikus pajzs részhez:
+  - Asztrálpajzs építéséhez lelki nyugalom szükségeltessen.
+    Valamilyen próbát is lehetne dobatni.
+  - Mentálpajzs építéséhez pedig higgadtnak kell lenni (??)
+  - Esetleg lehessen torz ideológiákból, eszelős, őrült érzelmekből is pajzsot építeni.
+    - Varázsláskor legyen érezhető a pajzs jellege?
+  -Plusz ellenállások
+     Harci lázban, vagy őrjöngésben emelkedjen az AME (és MME?)
+     Iskola szerint adjon ME-t a kapcsolódó mágikus jártasság
+     Pl. Mentálmágust nehezebb legyen lementálmágiázni
+
+-----------------------------------------------------------
+v0.1.3 - 2006.10.15
+- Asztrál és mentál pajzs jellegzetességei
+- Mágiaellenállás, Tudat jellemző
+
+-----------------------------------------------------------
+v0.1.2 - 2006.09.25
+- Mágiaellenállás téma végre bekerült.
+  → Még kiegészítésre szorul!
+
+-----------------------------------------------------------
+v0.1.1 - 2006.07.27
+  Pszi_#1 - Diszciplínák alkalmazási szintjei
+  Pszi_#2 - Nehezebb diszciplínák KP-ból?
+- Slan-2 - Éteriség (Levitáció)
+  "Legyen követelménye, ne tudja minden 1.szintû sudribunkó megcsinálni."

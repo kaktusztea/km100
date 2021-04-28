@@ -1,0 +1,615 @@
+﻿********************************************************************************
+* ! A jegyzetek kezelése Cherrytree alkalmazásban történik tovább (RPG_note) ! *
+********************************************************************************
+
+=====================================================================
+UTK kapcsán felmerült ötletek
+-----------------------------
+
+a. Képzettségpróba: számítson, hogy mennyivel lett meg?
+b. Harctéri gyakorlat képzettség
+  -> legyen? Trükközéshez. Inkább ne, arra ott vannak a manőverek.
+c. Elemi mágia: minden plusz erősség +1 szegmens
+d. Két varázslás között kell egy minimális idő (UTK-ban 2 szegmens)
+
+
+====================================================================
+
+-> Bevezető szöveg az elejére: milyen főbb értékek vannak: tulajdonságok, képzettségek, fortélyok, ...
+
+- Harci akrobatika mehessen szálfegyverrel is?
+
+- Harci anatómia fortély: mikor jár a +SP?
+
+- "Elsöprő roham" fortély megmaradjon?
+
+Harcrendszer
+--------------
+
+=======================
+KIEMELT HARCI PROBLÉMÁK
+=======================
+
+- Sebzésdobás (k20): ne csak az 1-es legyen kiemelt (1 ÉP seb max), hanem a 2 is (3 ÉP seb max).
+
+
+----
+- VÉ csökkentés hogy menjen?
+
+  a.) VÉ csökkentés
+     -> hátrányos helyzetű: (3 lehetőség van)
+  x     I. nem csökkent VÉ-t 
+        II. fix 2 VÉ-t csökkent...?
+        III. (Kiskocka/2) (fel vagy lefele kerekítve)
+     -> Előnyös helyzetű: kiskockával csökkent VÉ-t
+     -> +2 pengehossznál: nagykockával csökkent VÉ-t
+
+
+  b.) Ugyanez, csak 1 kategóriával nagyobb csökkentés
+     -> hátrányos helyzetű: kiskockával csökkent VÉ-t
+     -> Előnyös helyzetű: nagykockával csökkent VÉ-t
+     -> +2 pengehossznál: 2 kocka összegével csökkent VÉ-t
+
+     -> De ez már brutális lenne. 2 kör és vége a harcnak.
+       ->  Esetleg emelni az alap VÉ-t.. Az viszont az Első Vágás manőver és meglepetésből támadásokat rontaná le.
+  
+
+  c.) Mindenki kiskockával csökkent
+     -> Hátrányos helyzetű: -1 (-2)
+     -> Előnyös helyzetű: +1 (+2)
+     -> Fárasztás harci taktika: kiskockából nagykockát csinál (az alkalmazó 3 VÉ csökkenést szenved el)
+      -> 
+
+   ******* HA MEGVAN A VÉGLEGES, AKKOR MÓDOSÍTANI ANNAK MEGFELELŐEN MINDENHOL A HARCRENDSZER DOKBAN!! ********
+
+
+---- Manőverek ----
+- "Terelés" kapcsán: Kezdeményezés harci dominanciát jelentsen...? (ne..)
+
+- Manővereken végigmenni!
+
+
+- Minden manővnél meghatározni:
+  -> A Végrehajtás követelményét
+  -> Ha fejleszthető a manőver, akkor az 1.fok, 2.fok... felvételének követelményét
+  -> Hatását
+ 
+----------------------
+
+- Összpontosítás képzettség legyen egyáltalán? (Márk)
+
+
+B- Fájdalomtűrés:
+  -> Ájulás legyen S4-ben ((Edzettség+Fájdalomtűrés) képzettségpróba vagy simán Edzettség próba, vagy simán Önuralom..)?
+
+
+- Kezdeményezés
+ -> Most akkor vonjuk be a harci dominanciát, vagy csak a "ki üt előbb"-et jelentse?
+ -> A "Terelés" miatt fontos, ami most (még teljesen kidolgozatlan) manőver
+
+
+- Harci fortélyokon még egyszer végigmenni
+
+
+- Harci fortélyok (is) "beárazása" táp-kategóriák szerint és a követelményeiket újra meghatározni enek megfelelően.
+
+
+B- VÉ regenerálódás hogy legyen akkor?
+  (Részletes dokban: TODO_HARC_#60)
+
+
+- Sebzés VÉ levonásai jók (SP táblázat)?
+
+
+- Szűnjön meg teljesen a fegyvereknél a "Forgatási mód" (egykezes, kétkezes)? Végülis már nem kell semmire.
+  (talán ahhoz, hogy lehet -e pajzzsal együtt használni)
+
+
+- Földharc legyen külön (fortély)? (Iván)
+
+
+- Fegyvereknek a Harc doksiban is külön oszlop: harcmodor (hogy szinkronban legyen a karakteralkotó táblázatával)
+ -> Forgatási mód pedig megszűnik..?
+
+
+B- Külön fejezet: menekülés, üldözés
+   - Futás ellenpróba: Gyorsaságpróba!
+     (MGT!!! 1:1-ben levonódik a Gyorsaságból!)
+
+
+
+- Harcmodorok: egyértelművé tenni, hogy ez fegyver-kategóriákkal való bánást jelenti
+  -> Lehet h Pusztítás helyett "Zúzófegyverek"  és Közelharc helyett "Rövid fegyverek" kéne...?
+     Lándzsavívás helyett "Szálfegyverek"... Kardvívás helyett "Pengés fegyverek"? 
+
+
+
+- Fegyvereken végigmenni!
+
+
+
+B- Gyógyulás hogy legyen?  
+- Sebzés típusok, sebek jellege (TODO_HARC_#27)
+  - Kell, vagy túlbonyolít?
+  
+
+- Pajzsok
+  -> Véglegesítés, MGT tisztázása
+  -> Ha csak pajzs van a kézben, milyen értékekkel harcol és mi a pajzs KÉ,TÉ értéke (és a harcmodor)?
+  -> Nagy pajzs mellé max rövidkard méretű fegyvert lehet használni
+
+
+
+- Páncélok
+  -> SFÉ-k átgondolása
+  -> MGT-k meghatározása
+  -> Ár
+  -> Zajos páncél
+
+
+- Lovas harc
+   Ötlet: teljesen alap harcértékek (harcmodor is beszámít pl. kardvívás) PLUSZ hozzáadódnak 
+   a Lovaglás képzettségből bónuszok, mintha HARCMODOR lenne!!
+   Tehát 3.szintű lovaglással ugyanannyi a harcértéke, mint ló nélkül. Ez OK is szerintem.
+   A fölött viszont jönnek a pluszok. Mert hát egy képzett lovas ellen k. szar harcolni.
+
+
+=======================
+APRÓBB HARCI PROBLÉMÁK
+=======================
+
+- Erőbónusz
+- Erő +5: átütést ad (+1/+2?)
+
+- Közelharcos fegyverek meghatározása:
+  -> 0,5 pengénél rövidebb fegyverek? Ez jó így?
+
+- 00-ás dobás (PROB_HARC_#50)
+ -> ellenfél vért SFÉ nem számít?
+   -> Aranyharang?
+   -> Elemi Erő aura?
+ -> támadó +5 SP bónuszt adhat sebzéséhez. 
+
+B- Harci anatómia fortély követelményeinek kidolgozása
+
+- Testrészre támadás – PROB_HARC_#59.
+ -> A Harci anatómia erre is adjon valamilyen bónuszt...? Szerintem ne..
+
+- Támadó taktika alkalmazható legyen Meglepetés szituációban?
+  (Észrevétlen támadásnál nem alkalmazható)
+
+- Harci alakzatok összegyűjtése, kidolgozása 
+  -> Alakzatharc fortélyhoz
+
+- "Öklelés" és "Pajzzsal öklelés" manővereket összevonjuk?
+  
+
+B- Harci taktikák tisztázása
+ - Visszafogott csapás / Harc az ellenfél elfogásáért
+ - Mögékerülés, Rávetődés, Nyakba ugrás hátulról
+
+B- Csoportos fejezés
+
+B- Alkalmatlan fegyver dobása (fortély legyen?)
+
+B- Hátulról leütésnél: 
+      - a FT próba nehézsége inkább legyen pont akkora legyen, amekkora az okozott ÉP seb.
+       - Mi legyen az Erőbónusszal? Hozzáadódjon? Egyéb bónuszok nem adódnak hozzá.
+
+- Sebződések – PROB_HARC_#57.
+  A fegyver sebzések OK. De mi van a zuhanásos, megégős, stb sebződésekkel? Azt hogy dobjuk?
+
+- Élőholtak VÉ-je
+ -> Minden második kör elején visszaáll eredeti értékére. Jó ez így?
+
+- Kobratánc fortélyhoz: 
+  - max 6ÉP-s seb...?
+  - +15 TÉ, (+10 VÉ?)
+
+- "Kiáltás" Slan diszciplínia
+ -> +5 VÉ csökkentést is okozzon
+
+
+
+
+=====================================================================
+Karakteralkotó ods
+---------------
+
+- Pszí alkalmazás foka:
+  -> 3. és 4.fokon már szintenként 5 Pp vehető fel! A KP_tablazat fülre 1 mező helyett 2 és LOOKUP!
+
+- Az erőbónuszt a fegyverek sebzésére nem számolja.
+- A 4/6 SP típusú sebzések kezelése
+
+- Fortélyok mehetnének legördülő menübe (külön harci, mágikus, meg egyéb)
+- képzettségek választása legördülő menüből, mint a fegyvereknél, 
+  de ez csak felsorolásszerűen, nem kell a követelményeket számolnia. 
+  (probléma a kiegészítő infó miatt. Pl. "Történelemismeret - _Gorvik_")
+
+
+- Fegyverek: komment mező (pl Kétkezes kardnál sem jó a komment.)
+
+
+=====================================================================
+Tömör dok
+---------
+- Távharc oldalon 2x van a fegyverkategória táblázat
+- Távharcnál színeket kiszedni, mert nem nyomtatható
+- Csinálni KM számára JK stat lapot
+
+
+=====================================================================
+Karakteralkotás
+---------------
+
+-> Beírni, hogy nálunk a 3.szint a "régi' 1.szint. Az 1. és 2.szint az "előtörténet".
+
+-> Tulajdonságok maximuma: 7! 
+(ez a _határ_ bővülhet faji bónusz miatt (nem pluszt adnak, csak a felső határ bővül ki..??))
+
+-> Nyelvismeretekre nincs felső korlát (beírni)
+
+-> Mérgek
+ -> Másodlagos hatás
+ -> Hatás időtartama
+ -> Fájdalom mértéke (a fájdalmat okozó mérgeknél)
+ -> Milyen képzettség és milyen képzettségpróba kell
+   -> Mérgezés gyógyításához
+   -> Mérgezés felismeréséhez
+ 
+ 
+-> +5-ös tulajdonságok
+ - Erő +5: átütést ad (+1/+2?)
+ - Gyorsaság +5: +1 Sebzés? (nem értek egyet...)
+ - Ügyesség: ??
+
+
+-> Fajok ÉP módosítói, limitei (félig megvan)
+
+-> Mágikus tradíciók tanulása ötlet: Esetleg fel lehessen venni később is, de 4 szinten keresztül kelljen tanulni. Bejelenti a játékos szintlépésnél, aztán még 3 szintlépés kell, míg használhatja és felírhatja a lapjára.
+
+-> Fogékonyság tulajdonság mihez kell:
+   - Intuíció származtatott tulajdonság
+   - állatos képzettségek, pl lovaglás
+   - szexuális kultúra
+   - fontos az összes művészethez. bárdhoz hasonló karakterek nem működnek
+     alacsony érzékenységgel, ha a karakter mégis ilyet csinál, elmehet a
+     presszóba szintetizátorozni. maximum.
+       - papoknál lenne még kifejezett fontos szerepe, később kifejtem miért, 
+         bár remélem ezen nincs sok kifejtenivaló
+         - sámánok dettó
+   - boszorkányok
+   - speciális mágikus irányzatok - asztrálmágia, szellemtan, káosziskolák
+
+	======= UTK =======
+
+	   ---------- "Iskolák" ----------
+	- pl. különböző, konkrét! bosz.rendek, ordaniak különböző irányzatai
+	 -> Legyenek követelmények?
+	  Pl. Fátyol nővérei boszorkányszekta
+	   1. nővér: szexuális kultúra-4.szint, tánc-5.szint, stb.
+	   2. beavatott: Vulgár-asztrálmágia-5.szint, szexuális kultúra-8.szint, tánc-9.szint, Legendaismeret(Ibara)-5.szint, stb
+	   3...
+	   4. Rendfőnöknő: über követelmények
+	  Lehetne lazábban is! Pl. Egy vulgár mágiaiskola - 5.szinten (tehát megvan a szabadság és a színes karakter lehetőségei)
+	  -> Legyenek opcionálisan tanulható képzettségek is (x.szintig oktatják)
+	 -> És adjonak spéci cuccokat (mágia, pszí, amit _meg_lehet_venni_)... Vagy adja ingyé..? Inkább ne :)
+
+	-----------
+	Nem rendfüggő "alkaszt" ajánlásokat lehetne csinálni:
+	 -> Pl. Besurranó tolvaj: észlelés, tolvajlás, zárnyitás, lopakodás/rejt., értékbecslés - ékszerek, vakharc, 
+
+
+=====================================================================
+Észlelés és Érzékelés
+---------------------
+Kitéve külön doksiba.
+
+
+=====================================================================
+Képzettségek
+------------
+-> Kidolgozni a sablonnal az összes képzettséget + hozzájuk fortélyokat (ne túl sokat!)
+
+-> Rúnamágia kimaradt a Mozaikmágia iskolái közül
+-> Ősi nyelv ismerete ne legyen inkább Átfogó..? (Bár a sima nyelvismeret csak Könnyű)
+-> Kocsihajtás jelenleg 2 fokú fortély. Legyen inkább képzettség?
+-> A Csapdák _hatástalanítása_ hova tartozzon? Csapdaállítás, vagy Mechanika is jó?
+-> Mozaikmágia képzettség iskolák
+  - Átnevezni Kyr alapú mozaikmágiára
+  - Nincs ott az Elemi mágia
+-> Betenni a Godoni alapú mágiát is
+
+
+	Ezek többszintű képzettségek:
+
+	- Akrobatika
+	  - Esés
+	  - Ugrás
+	Művészeti képzettségek
+	  - Zeneszerző - Zene
+	Szerencsejáték 
+	  - Kártyázás
+	  - Kockázás
+	Értékbecslés
+	  - Értékbecslés - adott tárgycsoport
+	Szakma
+	  - hamisítás - szakma
+	Gyógyítás
+	  - Sebgyógyítás
+	  - Orvoslás
+	Történelemismeret
+	  - Történelemismeret - adott régió
+	  - Történelemismeret - adott város
+	Vallásismeret
+	  - Vallásismeret (adott hitvilág)
+	Méregmester
+	  - Méregkeverés (méreg csoport)
+	Hadászat
+	  - Taktika
+	  - Stratégia
+
+
+
+=====================================================================
+Távolsági harcrendszer
+----------------------
+- Nem hajításra készített tárgyaknál
+  - Maximális Hatótávjukhoz hozzáadható: ERŐ 
+- Nyílpuskák: Nem Páncéltörők (mer' az nincs), hanem Átütésük van (a KM-segédletből bemásolni)
+- Nem hajításra készített tárgyak:  "Erő módosító" helyett "Erő" (a KM-segédletből bemásolni)
+
+
+2007.01.28 kaland tapasztalatok:
+- Lövészet, Hajítás: halálosak. Talán túlságosan is.
+  - Túl kicsi a fej szorzója
+  - sima nyíl: magas átütés, kis sebzés legyen
+
+
+=====================================================================
+Tradíciók és Féltradíciók (cél-tradíciók)
+-----------------------------------------
+
+Tradíciók (50KP)
+ - mágikus
+ - Belső út (slan)
+ - Papi
+
+Céltradíciók (25KP)
+ - mágikus (pl. Quars tradíció)
+    - CSAK 1 bizonyos spec, egyedi mágia-iskola tanulható vele (Pl. Quars(árnymágia))
+ - fejvadász (slan-light)
+    - Durva követelmények!
+
+
+=====================================================================
+Fortélyok
+---------
+- Táp kategóriák belövése és hozzájuk igazítani a követelményeket!!
+
+  - Távoltartás harci fortély - kidolg. (vagy ez manőver?)
+  - Faj-fortélyok - PROB_FORTÉLY_#3.
+    A Fajok különleges képességeikkel együtt egy „csomagban” legyenek „beárazva” „Faj-fortélynak”?
+    Vagy az ember kapjon plusz KP-t...?
+    Esetleg a csak első szinten felvehető fortélyokat külön csoportosítsuk? (Háttér fortélyokat most szűntettük meg!)
+
+  - A Lovas fortélyoknál a Lovas íjászat 2x szerepel!
+
+- Új fortélyok kidolgozása (képzettség-kapcsoltak, kérdés, hogy mennyi kell?)
+
+
+= UTK fortély? =
+   --------- Háttér "fortélyok" ----------
+- mágikus fogékonyság háttér
+- pszí érzékenység háttér! (legyen?)
+- Nemesség!!! (ne legyen!! Bár Márk szereti)
+
+
+=====================================================================
+Slan
+----
+- Slan: tradíció (Belső út néven): 50KP
+  - Gyakorlatilag Pszí-2.foknak felel meg 
+  - "Belső út pszí" iskola tanulható vele
+  - chi harc + tanulhatóak spéci diszciplínák fortélyból
+  - Chi harc csak 4.szintű "Belső út" pszí iskolától (képzettség!) legyen alkalmazható
+
+      =	UTK =
+	- 3 felé vált a chi harc
+	  - Sárkány dühe adja a meglephetetlenséget és sebzés bónuszt (3.fok)
+	  - Sárkány tánca a HM bónuszokat (4.fok)
+	  - Sárkány ébredése a mágikus sebzést (5.fok)
+ 
+
+=====================================================================
+Pszí
+---------------
+- Max pszí pont mennyi legyen?
+ - hozzá kell hangolni a diszciplínák pszí pont igényeihez is!
+ a.) TSZ x (pszí fortély foka)
+ b.) TSZ x 4
+ -> egyik se igazán jó, de akkor már inkább a b.)
+
+
+- pszí érzékenység háttér legyen? (szerintem ne)
+- A Pszí iskolák legyenek Átfogóak! Hm?
+
+- Aura legyen: egységes mágiaellenállás. Nem külön asztrál/mentál pajzs. A/M sík azért van persze, de az Aura mindhárom síkon véd (asztrál/mentál/fizikai)
+  -> Olyan lenne, mint a statikus pajzs, de nem kell építgetni, viszont változhat hangulatok, események hatására is.
+     Akár csak bizonyos hatásokkal szemben gyengébb/erősebb lehet, stb.
+
+  + "Pszí Pajzs"  = régi "Dinamikus pajzs"
+    -> ezt lehet módosítgatni, de csak 1 támadást fogjon fel..? (D20 jó ötlete) Illetve gyengüljön a próbálkozásnál.
+
+  + Mágiatagadás fortély/háttér
+    - ME pontokat lehessen venni!! KP-ért.
+    - Ha van fizikai ellenállás, akkor a bosz.mesteri betegségmágia ellen jobban lehet védekezni.
+      Bár... ez talán pont jó..
+  + Tiszta elme (UTK diszc): kevés Pp -> rövid ideig nagy ME (kell ez...?)
+
+
+"Radar"
+  -> Új diszciplína (csak varázslóknak?)
+  -> Eddig automatice megérezte az aurákat a zónában. Mostantól ez kerüljön pszí pontba.
+  -> Magas szinten már a helyét is be tudja egyre pontosabban
+
+"Telepátia-boost"
+  -> Telepátia hatótáv növelő (Pl Ascyra ezt használta a "hazatelefonálásra")
+  -> Megnöveli a lehetséges telepátia hatótávot
+
+"Pajzskerülés"   (már van ilyen!!! )
+  - Nem tudom, hogy mágia vagy pszí diszc. legyen. Egyelőre a pszíhez rakom.
+    Magas szintű Tudatkontroll iskola esetén tanulható külön Pszí fortély.
+    Ne automatice sikeres, hanem valami próbával meg lehessen kerülni a pajzsot. Kelljen 
+    hozzá jópár infó az áldozatról, hangulati, és játék követelmények is 
+    kellenek.
+
+
+== UTK Pszí ==
+- Tudat és Test útja (3.fokú pszínél kell választani. Nekem nem tetszik)
+
+ME:
+- ME-t adhat még a mágiatagadás (szintenként 1-5 pont), a védőszellem (szintenként 2-3 pont) és az isteni kegy (vallásism-től függő bónusz
+
+- megjelenik a harmadik szem, Tudatnyitás címén. 
+  - Ez pyarroni 1.fok, és látjuk vele a belső síkokat. 
+  - egy lény asztrál- vagy mentáltestét megnézni miért kyr 5.fok? OK, hogy az asztrál/mentálszem több infót ad, de hol van itt a fokozatosság? 
+- Godoni út 3 diszc-val jelentkezik
+   1. egyszerű managyűjtés
+   2. manaháló vizsgálata
+   3. a mana egyszerű átirányítása (pl képes egy már működő varázslatot tovább táplálni vagy gyengíteni)
+
+- kyr: nincs komoly változás. Még mindig nem értem, hogy az érzékelés miért monopóliuma.
+
+
+=====================================================================
+Mágia
+---------------
+
+Beírni: max 0 MP / szint
+
+- Aurára ható és nem aurára ható varázslatok
+  (Gyulladj meg (aurára ható, az véd is), rálövök (nem aurára ható))
+
+  -> Aurára ható: tovább tart varázsolni
+
+- Varázslatok "érlelése"
+  -> Hosszú ideig érlelhet, formálhat egy varázslatot egy mágiatudó. Saját képére formálja, csiszolja, tökéletesíti. Ez kihat a lelkivilágára, viselkedésére is!
+  Játéktechnikailag még nem tudom, mi értelme lenne, de jól hangzik :)
+
+- Rúnamágia kimaradt
+- Démonok: van egy elég nagy SFÉ-je sima fegyver ellen. Nem sebezhetetlen. Ez az SFÉ nem számít mágikus, vagy áldott fegyver ellen.
+
+- védelem (papi oltár, varázslói jel, mittomén) boszorkány, varázsló, bm, pap mágia ellen?
+- a különböző seregek, toronnal határos mezőgazdasági övezetek hogyan védekeznek a mágia ellen? 
+- Fizikai ellenállásba mi számítson bele és számítson-e a pszí-pajzs?
+
+- Apró varázslatok
+  - Pl. Bosz.mesteri mágiában: apró hatások az áldozaton
+    (pl. Borzongás, Izzadás, Tüsszögés) Semmi más hatása nincs, de fosatásra és hangulatra jó.
+    Hogy tudjon aprókat is varázzolni, ne csak kombájn mód legyen.
+
+- A varázsló személyiségétől, aurájától függően mást és mást érezhet az áldozat, ha a mágia aktiválódik rajta. (Ha a varázsló odafigyel ennek elrejtésére (+3 szegmens pl.) akkor az áldozat nem 
+érzi ezt.)
+
+-> Varázsló  vs  Harcos harci helyzet
+   - Varázsló reakciója, kezdeményezése (fel tudja-e vonni a pajzsot pl. a dobótőr előtt)
+     - Külön fortély esetleg?
+   - Harcos hogy kerülhet el egy tűzkitörést? Stb.
+   - A távolság felmérése ne menjen automatice
+        9 m alatt   9-20m   21-40m   40m felett
+Tévedés       1 m    D4 m     D6 m         D8 m
+
+= UTK mágia =
+- Lehet, hogy az unlimited manavásárlás nem jó ötlet. Ha beáldoz 1 szintet, az nálunk 80/3=24MP!!
+  - Legyen mondjuk max 15MP/szint
+  - Tradíciókat is bontsuk fortélyra (4, vagy 5 fokú?)
+  - Meghatározná az alkalmazás fokát. Mint a pszínél. Bár kérdéses, hogy miben tudnánk differenciálni...
+- Varázslás ideje
+- Jelmágia visszafogása:
+  - Nagyon spéci anyagokra lehessen csak felírni
+  - az ilyen tárgyak zavarjanak bele a varázslásba (ha több van belőlük)
+
+- Elemi erő: az ütések gyengítsék!
+  - Ennek is 3 féle SFÉ-je legyen? Szúrás ellen a leggyengébb. Vágá, zúzás ellen kb. uakkora.
+
+- boszorkányok: táncmágiája (Ezer Fátyol Nővérei: dzsad szekta nyomja)
+- Árnymágia, Quars (fejvadászok): szerafizmus legyen! (Kornya)
+- Szerafizmus ne illeszkedjen direkt az újkori magasmágiába
+ - sokkal színesebb. Patrónustól függjön, hogy milyen hatalmat, formulákat ad. De hasson ki a felhasználóra.
+- Több defenzív mágiaforma (iskolánként, vagy metamágia alá?)
+
+
+
+
+========================================================================================
+---------------------- Tűzmágia by Stib ------------------------
+http://www.akonyvesbolt.com/forum/index.php/topic,76.msg17416.html#msg17416
+
+-A Tűzvarázslók leírásánál szerepel valami utalás arra, hogy azok a Tűzvarázslók, akik "elfordulnak" Sogrontól, elvesztik a hatalmukat. Ezt a szerafisták, és a Sogron útját járó papok esetében helyénvalónak is érzem. De a többiek nem veszíthetik el a hatalmuk, mivel eleve nem Sogrontól kapják, mivel tapasztalati mágiát űznek!
+
+-az új asztrál skálázás szerint, minél magasabb valakinek ez az értéke, annál érzékenyebb, illetve minél alacsonyabb, annál érzéketlenebb. Ezzel szemben, a feketemágia leírásánál büntetésként asztrál érték csökkenés a büntetés, akár csak régen, ami könnyebb ingerlékenységgel jár, akárcsak régen. NODE! Ha valaki érzéketlenebbé válik a külvilág felé, az kevésbé lesz ingerlékeny, míg egy érzelmekkel túlfűtött egyén, aki nem képes uralkodni magán (alacsony akaraterő), annál inkább! szerintem.
+
+-a könyvből kompletten hiányzik a toroni Sogron pap. jó, ez nekem különösebben nem fáj, és örülök neki, hogy az ordaniak teljes mértékben emberségesebbnek vannak beállítva, így már remélem nem fordulhat elő majd, hogy azt mondják nekem, hogy "túl nyugdt a Tűzvarázslóm, azok idegbeteg állatok." De, ettől függetlenül legalább említésre kerülhettek volna a toroniak, mint az érem másik oldala. A helyzet itt sajnos olyan, mint az ETK, és a PPL viszonya. Az alapkönyvben kevés utalá van csak a toroniakra, az is inkább csak a renegát tűzvarázslók révén. Nem olvastam még a teljes könyvet, csak részeit, szóval ha valaki mégis megtalálná a toroniakat, akkor utólag is elnézést! De ha nem...
+
+-Lathan, elmagyaráznád nekem, hogy hogyan működik a pszí tanulás? Szóval tudsz mint Tűzvarázsló pyar 3. fokot. és onnan hogyan, s miként tovább? tegyük fel, hogy később még godoni pszít is szeretnék tanulni hozzá, és a pyar magasabb fokait. hogyan működik is akkor ez pontosan? sajnos a leírásból eddig még nem sikerült megokosodnom.
+
+-Godoni örökség 4. fokú diszciplína. Hogyan is működik a második alkalmazási lehetőség? 1PP/5MP varázslat, azaz egy 12MP-os varázslatot 3PP-ból tudok 1 körrel tovább éltetni? Ha igen, akkor a további körök hogyan is vannak? Pontosabban, azt értem, hogy mintha időmágia mozaik lenne, de ott is az 1PP/5MP váltószámmal kell számolni, vagy sem? Mondjuk egy 12MP varázslat 5 körrel való meghosszabítása 5PP (3 a 12 MP miatt (3x5=15 >= 12), + 2 a 8MP-s 4 kör időmozaik végett) vagy 11PP (3+8)?
+
+-Két diszciplínának ugyan az a neve! Tűzgyüjtés (Godoni transz), illetve Godoni transz. Össze lehet őket vetni. Vagy az egyik, vagy a másik, de mindkettő egyszerre nem lehet! Smiley
+
+-A Tűzvarázslóktól eltűnt a hagyományos godoni módszer (MTK), de a Sárkánykirály pikkelye leírásában még mindíg szerepel. Akkor most van, vagy nincs? (az ETK-ban is csak egy apró, egyesítő táblázatban van benne)
+
+-Hová tűnt a Tűz teleportálása?
+
+-A Tűzhullám nemcsak drágább, de rövidebb is lett? Node kérem!! Akkor legalább csak az egyik, mert sok lesz a jóból...
+
+-Hová tűnt a Tűzlobbanás?!  Angry
+
+-Távoli tűz 1perc/TSz-ről 1 körre?? Nem lett kicsit kevés?
+
+-Hová tűnt Sogron szent tüze?!  Angry
+
+-Pusztító tűz?
+
+-A Sárkány lehelete aránytalanul drága lett, pedig régen se volt olcsó
+
+-A fémízzítás is elég drága lett. Ha jól látom 3x olyan drága, mint volt.
+
+-Tűzpenge?
+
+-HOL VAN A LÁNGKITÖRÉS?!  Angry Angry Angry
+
+-Belső tűz??  Angry
+
+-Tűzeső?
+
+-Még a tűzrablás is drágább lett? A Vérem nem kell?!
+
+-ÉS miért harcol jobban egy elementalista a Tűzlényekkel, mint egy tűzvarázsló?
+pl:
+
+Vizsgáljunk meg egy 10. szintű varázslót, és egy 10. szintű tűzvarázslót:
+
+TV - Tűzpárduc
+MP:20
+HM:+25
+Tám/kör:2
+
+V - Tűzpárduc (két köblábas méretűre kalibrálva, hogy legalább a sebzése ne legyen több...)
+MP: kb22 (6MP 2E Őstűz + 6MP/E Szabad forma + 10MP 6 kör időmágia)
+HM: +30
+Tám/kör: 5
+
+Gondolom már megint én vagyok az egyetlen, akinek szúrja a szemét...
+
+-Továbbá a Tűzlények megidézésénél le van írva, hogy a lények létezésének időtartama függ a Tűzvarázsló TSz-étől, ami régen tényleg így is volt. Ezzel szemben, az értékeknél már mindenhol egységesen 6 kör szerepel.
+
+-Ha a tűzgólem lefog egy ellenfelet, akkor az gondolom automatikusan sebződik körönként, amíg ki nem szabadul? Csak mert ez speciel nincs leírva sehol sem...
+
+Tűzvarázslók terén borzalmas lett a helyzet. Igaz, egyes varázslatok olcsóbbak lettek, de a lejobb varázslatokat egyszerűen kidobták, vagy aránytalanul megdrágították. Ezt nem kellett volna. Sad
+
+Mindemellett sok érdekes, és jó dolog van a könyvben, és biztos, hogy fogok még ezután is hibákat találni, de az a Tűzvarázslói mágia, aminek a játszhatóbbá tétele lett igérve, és úgy le lett tápolva, hogy rossz ránázni! Most komolyan. LEGALÁBB három kedvenc varázslatom, a legjobbak közül eltűnt a süllyesztőben. Ez számomra botrányos.
+-------------------------------------
+

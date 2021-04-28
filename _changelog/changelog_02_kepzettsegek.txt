@@ -1,0 +1,489 @@
+Képzettségek changelog
+----------------------
+
+v1.6.5 - 2013.08.30
+- "Belharc" mint képzettség nem létezik már. Fortély lett.
+
+--------------------------------------------------------------------------
+v1.6.4 - 2008.08.22
+- Purgálás
+
+--------------------------------------------------------------------------
+v1.6.3 - 2008.07.23
+- Max képzettség szintek változtak:
+ → A harci és misztikus képzettségek szintje legfeljebb (szint+3) lehet
+ → A többi képzettség értéke pedig legfeljebb (szint+8) lehet
+ 
+--------------------------------------------------------------------------
+v1.6.2 - 2008.07.22
+- Gyógyításba beletartozik a Sebgyógyítás és Orvoslás is
+
+--------------------------------------------------------------------------
+v1.6.1 - 2008.06.09
+- A TODO és PROB bejegyzések kikerültek a közös TODO dokba.
+- KP = Karakteralkotó Pont (nem Karakter Pont)
+
+--------------------------------------------------------------------------
+v1.6.0 - 2008.04.19
+- Történelemismeret képzettség
+ "Átfogó képzettségként felvéve:
+   - alacsonyabb szinten a hetedkori Ynev általános történelmét ismerjük
+   - magasabb szinten fellebbennek a titkok a régebbi korok titkairól is...
+  Átlagos képzettségként felvéve
+   - választanunk kell egy régiót, amelynek történelmében elmélyedni szándékozunk. 
+     Magasabb szinten az adott régió hetedkor előtti története itt is beletartozik a 
+     képzettségbe. Régiót az alábbiak közül választhatunk..."
+
+  - A Történelemismeret magába foglalja a legendák ismeretét is!
+
+- Művészetismeret képzettségek (Könnyű) bekerültek
+  - Festészet és Kalligráfia
+  - Szobrászat
+  - Irodalom és színjátszás
+  - Zene
+
+--------------------------------------------------------------------------
+v1.5.9 - 2008.04.14
+- Élettan: "Adjon bónuszt a „Harci anatómia” fortélyhoz hasonlóan?"
+- Mechanika
+ - A Fizikai és Matematikai ismeretek is ide tartoznak.
+ - Esetleg legyen Átfogó..?
+ - Csapdaállításnál: 
+   - mechanikus csapdák állításához követelmény lehet a Mechanika
+   - Esetleg Csapdaállítás 9. szintjénél legyen Mechanika követelmény
+ - Építészetnél
+   - ehhez is kelljen a Mechanika követelménynek!
+
+--------------------------------------------------------------------------
+v1.5.8 - 2008.04.08
+- Élettan: átfogó és nincsenek alárendelt képzettségei
+  - a spec alfajok fortélyba kerülnek: "Különleges faj" tudományos fortély
+
+--------------------------------------------------------------------------
+v1.5.7 - 2008.04.01
+- Lopakodás/rejtőzés kikerült külön doksiba
+
+--------------------------------------------------------------------------
+v1.5.6 - 2008.03.19.
+- CC licensz
+
+--------------------------------------------------------------------------
+v1.5.5 - 2008.03.17.
+- Álcázás álruha kinn külön doksiban!
+
+--------------------------------------------------------------------------
+v1.5.4 - 2008.03.14.
+- dok formázás
+
+--------------------------------------------------------------------------
+v1.5.3 - 2008.03.13.
+- Fájdalomtűrés mostantól harci képzettség
+
+--------------------------------------------------------------------------
+v1.5.2 - 2008.03.12.
+- Álcázás/álruha
+ - Beírva a szerepek és példák
+
+--------------------------------------------------------------------------
+v1.5.1 - 2007.12.18.
+- [Új]: TODO_KEPZETTSEGEK_#9 - Írástudó
+  - Fortély, vagy könnyű képzettség? Esetleg többfokú fortély? (én ezt támogatnám)
+    Pl. „ügyvéd” karakternél
+
+--------------------------------------------------------------------------
+v1.5.0 - 2007.11.17
+- Régi, megoldott problémák archíválása a "megoldottak" doksiba
+- Méregkeverésnél 1 közös táblázat
+
+--------------------------------------------------------------------------
+v1.4.9 - 2007.10.28
+- 2.2 "Képzettségek növelése" fejezet
+- Tisztázott fogalmazási hiba az 1.szintű karakter alkotásásnak kedvezményével kapcsolatban
+
+--------------------------------------------------------------------------
+v1.4.8 - 2007.10.23
+- KP/szint: (80+Int)/szint
+- Lovaglás és Léglovaglás átlagos képzettségek lettek (könnyűből)
+- Összpontosítás átlagos képzettség lett (átfogóból)
+- "Költészet" képzettség mostantól "Irodalom"
+- "Költészet ismeret" képzettség mostantól "Irodalom ismeret"
+
+--------------------------------------------------------------------------
+v1.4.7 - 2007.10.17
+- CC
+
+--------------------------------------------------------------------------
+v1.4.6 - 2007.06.08
+- Képzettség táblázatok újratördelve
+
+--------------------------------------------------------------------------
+v1.4.5 - 2007.06.08
+- Pár elavult szabály kiszedve
+
+--------------------------------------------------------------------------
+v1.4.4 - 2007.06.03
+- Mászás képzettséghez: kimásolva külön doksiba is, ott fejlesztendő tovább. A módosításokat vissza kell szinkronizálni a fő-képzettséges doksiba!
+
+--------------------------------------------------------------------------
+v1.4.3 - 2007.05.07
+- KP új neve: Karakter Pont
+
+--------------------------------------------------------------------------
+v1.4.2 - 2007.05.02
+- KP/Szint: 70 + Intelligencia
+ -- KP = 150 + Szint  x (70 + Intelligencia)
+- Szertartásrend: törölve végleg
+- Harci képzettségek alá nem lehet Átlagosként kinöveszteni konkrét fegyvert
+
+--------------------------------------------------------------------------
+v1.4.1 - 2007.04.26
+- Mászás: Attila példatörténete betéve
+- [Új]: Méregismeret - PROB_KEPZETTSEGEK_#22.
+-- Legyen ilyen passzív ismeretet adó képzettség? Pl. jellegzetes szagok, 
+   anyagok feismerése (pl. testőr, ételkóstoló számára)
+
+--------------------------------------------------------------------------
+v1.4.0 - 2007.04.25
+- Mászáshoz: Erő -2 követelmény
+
+--------------------------------------------------------------------------
+v1.3.9 - 2007.04.24
+- Apró módosítások
+
+--------------------------------------------------------------------------
+v1.3.8 - 2007.04.21
+- 3.3.2 - Képzettség ppontok elosztása
+  - Korlátozások eltörlése (felesleges)
+
+--------------------------------------------------------------------------
+v1.3.7 - 2007.04.20
+- Javítások Mászás képz.ben
+
+--------------------------------------------------------------------------
+v1.3.6 - 2007.04.20
+- Mászás képzettség kidolgozva az új sablon szerint
+
+--------------------------------------------------------------------------
+v1.3.5 - 2007.04.19
+- kis javítások
+- Mászás kidolgozás kezdete
+
+--------------------------------------------------------------------------
+v1.3.4 - 2007.04.16
+- 2.5 Képzettségek leírása
+ - kidolgozási szempontok
+- Előtörténet, személyiség fejezetet előrébb került a Tulajdonságok elé
+
+--------------------------------------------------------------------------
+v1.3.3 - 2007.04.15
+- [Megszűnt]: PROB_KEPZETTSEGEK_#18 - Szertartásrend
+- Nem lesz. Egyelőre.
+- [Megszűnt]: PROB_KEPZETTSEGEK_#21 - Vadászat
+- [Megszűnt]: PROB_KEPZETTSEGEK_#20 - Mágiaismeret
+- Mágiaismeret képzettség lesz (blöeh)
+- Gazdálkodás beolvadt a Szakmába
+- Hadászat átalakítva
+
+--------------------------------------------------------------------------
+v1.3.2 - 2007.04.13
+- Az ÖSSZES képzettségnek saját fejezet létrehozása, sorrend megtartásával
+- Előadókészség új neve: Szertartásrend
+- PROB_KEPZETTSEGEK_#18 - Szertartásrend 
+  - "Nem tisztázott, hogy mit adjon pontosan. Más is tanulhassa?"
+- [Megszűnt]: PROB_KEPZETTSEGEK_#19 - Herbalizmus
+  - Lesz Herbalizmus! (Átlagos)
+- [Megszűnt]: PROB_KEPZETTSEGEK_#11 - Összhang képzettségpróbánál
+- [Megszűnt]: PROB_KEPZETTSEGEK_#12 - Helyismeret
+- [Megszűnt]: PROB_KEPZETTSEGEK_#14 - Képzettség párok
+- Képzettség párok (2.3.3 alatt)
+  "Bizonyos képzettségek „függésben” vannak egymástól, azaz az adott képzettség legfeljebb egy meghatározott szinttel lehet magasabb a másik, kapcsolódó képzettségnél."
+- Új képzettség fejezetek:
+  - Vulgármágia képzettség iskolái
+  - Bárdmágia képzettség iskolái
+  - Ordani tűzmágia képzettség iskolái
+  - Mozaikmágia képzettség iskolái
+- Képzettségek leírásához: mire kell figyelni a képzettségek kidolgozásakor?
+
+--------------------------------------------------------------------------
+v1.3.1 - 2007.04.04
+- Belharc: Átfogó harci képzettség (harcmodor)
+  -- bekerült a táblázatba
+  -- 2.5.1 Harci képzettségek fejezetbe bekerült a rövid kifejtője, szabályai.
+
+--------------------------------------------------------------------------
+v1.3.0 - 2007.04.03
+- Természetjárás kifejtése bekerült.
+- Sérülés hatása képzettségpróbára (ez a Harcrendszer részben is benne van)
+    S1    S2    S3    S4
+fizikai -    -2    -4    -6
+egyéb    -    -    -1    -3
+
+- A fentivel [Megszűnt]: PROB_KEPZETTSEGEK_#3.
+
+--------------------------------------------------------------------------
+v1.2.9 - 2007.04.02
+- [Megszűnt]: TODO_KEPZETTSEGEK_#1 - Kasztok eltérő KP igényei
+- Helyismeretnél: kaszt szó kivétele
+
+--------------------------------------------------------------------------
+v1.2.8 - 2007.03.27
+- "Betegség-gyógyítás" munkanevű képzettség új neve: "Orvoslás" (átlagos)
+- Gyógyítás, Sebgyógyítás, Orvoslás: rövid kifejtők a Világi képzettségek alatt
+- [Új]: TODO_KEPZETTSEGEK_#22 - Képzettségek leírását kidolgozni
+
+--------------------------------------------------------------------------
+v1.2.7 - 2007.03.21
+- Méregkeverés, Méregmester képzettség és Méregellenállás
+  - Kisebb javítások
+  - Szintje nem lehet magasabb, mint Élettan, Herbalizmus és Alkímia képzettségek szintjeinek összege
+    (még csak ötlet)
+  - Differenciálás típus szerint:
+    -- Étel és italmérgek
+    -- Légi- és kontaktmérgek
+    -- Fegyvermérgek
+  - Összetevők szerint:
+    -- állati
+    -- növényi
+    -- ásványi (szervetlen)
+  - Másodlagos hatás
+
+--------------------------------------------------------------------------
+v1.2.6 - 2007.03.19
+- Méregkeverés, Méregmester képzettség és Méregellenállás teljes kifejtője
+- Képzettségpróba művészeti képzettségek esetén
+
+--------------------------------------------------------------------------
+v1.2.5 - 2007.03.13
+- logó
+
+--------------------------------------------------------------------------
+v1.2.4 - 2007.01.29
+- Megszűnt: TODO_KEPZETTSEGEK_#6. (Kasztok Elsődleges képzettségei)
+
+--------------------------------------------------------------------------
+v1.2.3 - 2007.01.26
+- Kis javítások
+
+--------------------------------------------------------------------------
+v1.2.2 - 2007.01.07
+- Összpontosítás képzettség: megmarad és Átfogóba egy.
+- Leírás kiegészítése: "Pszí és mágia alkalmazása nehéz körülmények között, rázós helyzetekben. 
+  Olyan helyzetekben, amelyek a külvilág kizárását igénylik. Normál, nyugodt helyzetben nem kell használni! 
+  A diszciplínák alkalmazásainak szintje nem függ ezen képzettségtől."
+- Megszűnt: PROB_KEPZETTSEGEK_#10 (Elsődleges képzettségek)
+- TODO_KEPZETTSEGEK_#6 gyakorlatilag ugyanez.
+
+--------------------------------------------------------------------------
+v1.2.1 - 2006.12.25
+- Taktika képzettséghez apró megjegyzés: vezetői tudás
+
+--------------------------------------------------------------------------
+v1.2.0 - 2006.12.02
+- Képzettségek növelése
+- "Egy  képzettség értéke legfeljebb (szint+3) lehet
+  Szintlépéskor legfeljebb 1-el növelhetőek a képzettségek, kivéve, ha 0-ról akar valaki egy
+  képzettséget tanulni. Ilyenkor szintlépéskor maximum 3.szintre növelheti az ilyen
+  képzettséget."
+  
+--------------------------------------------------------------------------
+v1.1.9 - 2006.11.30
+- Képzettségek max foka: (szint+3)
+  - 1. szinten max 4, utána 1-el növelhető minden szinten.
+- A KP táblázatban módosult a Könnyű oszlop. Eddig 72KP volt a 15. fok, most 65KP.
+
+--------------------------------------------------------------------------
+v1.1.8 - 2006.11.29
+- 2.3.4: Képzettségpróba
+  - Vállalás alfejezet: "A Vállalás értéke nem haladhatja meg képzettséged aktuális értékét! "
+
+--------------------------------------------------------------------------
+v1.1.7 - 2006.11.28
+- Ökölharc képzettség bekerült a Közelharc alá Átlagosként
+- Időjóslás: nem kell, ott van a 'Természetjárás - tájtípus'
+- Új: PROB_KEPZETTSEGEK_#19 - Herbalizmus
+   - Legyen, vagy ne?
+- Új: PROB_KEPZETTSEGEK_#20 - Mágiaismeret
+   - Legyen, vagy vesszen?
+- Új: PROB_KEPZETTSEGEK_#21 - Vadászat
+   - Legyen a természetjárás része?
+
+--------------------------------------------------------------------------
+v1.1.6 - 2006.11.27
+- Új: PROB_KEPZETTSEGEK_#18 - Előadókészség
+- Megoldva: PROB_KEPZETTSEGEK_#17. - Úszás, futás Fortélyba vagy képzettség
+  (Fortély mindkettő)
+- Új képzettség: Léglovaglás (Könnyű)
+
+--------------------------------------------------------------------------
+
+v1.1.5 - 2006.11.26
+- Földharc bekerült harci képzettségnek
+- Lovaglás ismét képzettség (könnyű).
+- Tolvajlás, Nyelvismeret kifejtők
+- Kocsihajtás törölve. Ment fortélyba.
+- Előadókészség képzettség: még nem tiszta, hogy mit foglal magában.
+- Tömegeket lehet vele befolyásolni? Csak papok tanulhatják? Stb.
+
+--------------------------------------------------------------------------
+v1.1.4 - 2006.11.13
+- Képzettséglistában javítások
+
+--------------------------------------------------------------------------
+v1.1.3 - 2006.11.11
+- Apróbb javítások
+
+--------------------------------------------------------------------------
+v1.1.2 - 2006.11.07
+- Új fejezet: 
+   2.2 : Képzettségek növelése
+    - 1.szintűen megalkotott karakter: max 5
+    - nem 1.szintűen megalkotott karakter : max (szint x 2)
+
+- Megoldva: PROB_KEPZETTSEGEK_#16. - Képzettség foka és növelése (max)
+- Megszűnt: ALT_KEPZETTSEGEK_#2. - Vállalás 2k10-es megoldása
+
+--------------------------------------------------------------------------
+v1.1.1 - 2006.10.28
+- Új: PROB_KEPZETTSEGEK_#17 - Úszás, futás Fortélyba vagy képzettség 
+  - Maradjanak „Könnyű” képzettségek, vagy menjenek fortélyba?
+- Keresés képzettség kifejtése
+- Észlelés képzettség kifejtése
+
+--------------------------------------------------------------------------
+v1.1.0 - 2006.10.20
+- [Kész] : PROB_KEPZETTSEGEK_#15. - Másodlagos dobások összetett próbához
+- [Új]: PROB_KEPZETTSEGEK_#16. - Képzettség foka és növelése (max) -  
+  Mennyi lehessen egy képzettség maximális értéke egy adott szinten?
+  Megoldás I:
+    - Ha a játékos 1.szintû karaktert alkot, akkor képzettségének értéke legfeljebb 5 lehessen.
+    - Ha nem 1. szintût alkot, akkor max (szint x 2). Mégpedig azért, hogy a késõbb kapott KP-kat 
+      ne "tuningolhassa vissza" az elsõ szintre.
+- 2.1.1: Képzettségek követelményei
+
+--------------------------------------------------------------------------
+v1.0.9 - 2006.09.27
+- Új képzettség: Nyomolvasás. Olyan Sherlock Holmes-os nyomértelmezés. Bõ leírása is bekerült. Még persze bõvíteni kell, de a lényeg benne van.
+- Összhangok fejezet
+
+--------------------------------------------------------------------------
+v1.0.8 - 2006.09.05
+- Lovaglás nem képzettség mostantól, hanem 2 fokú fortély
+
+--------------------------------------------------------------------------
+v1.0.7 - 2006.08.30
+- Harci képzettségek (mind Átfogó):
+    Közelharc
+    Kardvívás
+    Lándzsavívás
+    Pusztítás
+    Hajítás
+    Íjászat
+    Lövészet
+    Ostromlövészet
+
+- Kultúra megszûnik
+- Képzettségek táblázat fizikai átstuktúrálása
+
+--------------------------------------------------------------------------
+v1.0.6 - 2006.08.27
+- Biztos tudásból problémakör kiemelt fontossággal
+
+- TODO_KEPZETTSEGEK_#4 és TODO_KEPZETTSEGEK_#5 beolvasztva TODO_KEPZETTSEGEK_#3-ba.
+  (Biztos tudás, képzetlen próba, képzettség szintek kifejtõi)
+
+- TODO_KEPZETTSEGEK_#3 (Fortély szintek problémája) megszûnt, kikerült, át a Fortélyos doksiba.
+
+- Összpontosításhoz: "Pszí és mágia alkalmazása nehéz körülmények között."
+
+--------------------------------------------------------------------------
+v1.0.5 - 2006.08.21
+- Apró szövegbeni változtatások, javítások
+
+- Változtak az Átfogó képzettségek KP igényei:
+  1.fok: 6KP
+  15.fok: 244KP
+
+
+--------------------------------------------------------------------------
+v1.0.4 - 2006.08.01
+- Új: ALT_KEPZETTSEGEK_#3 - "Másodlagos dobások" összetett próbához
+(Be is lett írva a Képzettségpróba fejezetbe)
+
+Ha a karakternek egy olyan összetett feladatot kell elvégeznie, ami nem intézhetõ el 1db dobással (pl. megmászni egy hegyet, felmászni egy nagy várfalon), akkor igazságtalan lenne a maximális nehézséget többször megdobatni vele, hiszen így drasztikusan lecsökken az esélye a sikerre. Ilyenkor a következõ módszert használjuk:
+A játékkos dob egy próbát az indokolt maximális nehézségre (pl. Nagyon nehéz)
+Ezután dob több (a KM dönti el, hány) próbát 1 fokozattal (-3 célszám) alacsonyabb nehézség ellen. Pl. (2db Nehéz próbát). Így az eloszlás lineárisabb és a tudást is jobban jutalmazzuk és elkerüljük, hogy egy kezdõ - csak azért, mert szerencséset dobott - egy hosszú, részletes, tudását jóval meghaladó feladatot - véletlenül - megcsinálhasson. 
+
+- Tánc változott: A Tánc (általános) képzettséget Átlagosként veheti fel a karakter, és a mindenki által tanulható táncok tartoznak alá, legyenek mégoly ritkák is.
+Ettõl független a Tánc (speciális belsõ stílus) változata, amely Specializáció kategóriájú és nem tartozik a Tánc (általános) képzettség alá, attól külön fejlesztendõ, mivel egyedi, titkos, vagy nagyon speciális táncot takar. Ilyen például a toroni Vérnász.
+
+- Történelemismeret - Átfogó leírása változott:
+  "Átfogó képzettségként felvéve vagy 
+   -- a hetedkori Ynev általános történelmét
+   -- egy adott ynevi kor történelmének ismeretét 
+  értjük alatta."
+
+- Apróbb stilisztikai javítások
+
+--------------------------------------------------------------------------
+v1.0.3 - 2006.07.27
+- Az egyetlen Szociális képzettség az "Etikett" bevonva a Világi képzettségek alá
+
+- A nagy, terjedelmes táblázatokat összezsugorítottam 2 hasábos oldalakra.
+
+- Költészet alá bekerült a "Költészet ismeret" nevû passzív képzettség Könnyû képzettségként.
+  Leírása: "Ez a Költészet "passzív" változata, azaz csak a költemények ismeretét jelenti,
+            írói munkásság nem társul hozzá. Felvenni egy konkrét régió (ország) 
+            költészetére lehet."
+
+- A megoldott problémák elé bekerül az [OK] jelölés és ki lettek szürkítve.
+
+--------------------------------------------------------------------------
+v1.0.2 - 2006.07.27
+- Új: PROB_KARALKOT_#13 - Kevert kasztúság problémája
+
+- Új: PROB_KARALKOT_#14 - Képzettség párok
+
+- A karakteralkotás fejezet 1-1-ben kikerült a doksiból.
+
+-------------------------------------------------------------------------
+v1.0.0  - 2006.07.26
+- "Lelki képzettségek" átnevezve: "Misztikus képzettségek"-re.
+
+- Demonológia bekerült a "Misztikus képzettségek" közé, valamint a leírása is a "Képzettségek leírása" fejezetbe (doksi legeslegvége). A leírtak még nem véglegesek, mert a Demonológia még nyitott vitatémának számít a Képzettséges vitadoksiban (k100_kepzettsegek-v7.odt)
+
+- Fájdalomtûrés átment a Fizikai képzettségek közé
+
+- Lopakodás/Rejtõzés átkerült az Alviláhi képzettségek közé
+
+- Új probléma bejegyzések:
+   - PROB_KARALKOT_#11: Összhang képzettségpróbánál
+      "Kapcsolódó képzettség adhat összhangot a próbára. 
+       Hogy legyen? 1/5, vagy 1/3 értéke számítson be? 
+       És hogy szabályozzuk ezt?"
+   - PROB_KARALKOT_#12: Helyismeret
+      "Hány pontot oszthasson elsõ szinten? 
+      "Milyen levonás sújtsa, ha más városra kell dobnia, de azonos államban?"
+
+
+--------------------------------------------------------------------------
+v0.9.8
+- A Szociális Fortélyokhoz bekerült a "Tiszta fej" és a "Hidegvérû". Ugyan ezek Fortélyok, de itt is le vannak írva, mert van, aki szociális képzettségeket keresne (amik megszûntek).
+
+--------------------------------------------------------------------------
+v0.9.7
+- Tánc (full) Átfogóból átment Átlagos képzettségbe
+- Tánc (konkrét stílus) átment Spec.-be
+- TODO_KARALKOT_#8 (Gyógyítás képzettség)-hez:
+          o Új vélemény: "Ezt lefedi a 
+      Betegség-gyógyítás" képzettség. Hogy milyen módon történik (gyógyfüvek, félmágikus praktikák, ráolvasások) az szabály szempontjából mellékes. Vélemény?" 
+- Új: PROB_KARALKOT_#10. (Elsõdleges képzettségek):
+          o "Legyenek egyáltalán elsõdleges képzettségek?"
+- KP értékek (Átfogó, Átlagos, Spec) frissítve a KP számoló Calc doksiból 
+
+Jelenleg a fõ probléma:
+- KP Alap és KP/Szint meghatározás
+
+-- Ez a Calc-os dok-kal jól meghatározható... lenne, ha a Fortélyok végre helyükre kerülnének, meghatároznánk, hogy mi menjen Fortélyba és mi ne, és hogy hány KP-ba kerüljenek a Fortélyok egyes fokozatai. Plusz meg kell határozni, hogy mik legyenek alapból kaszt Fortélyok, amit szintlépéseknél kap az adott kaszt karaktere. 
+
+-- Tehát: a Fortélyok is KP-ból menjenek, vagy legyen "Fortély pont", amibõl lehetne felvenni Fortélyokat és szeparálva legyen a Képzettség Pontoktól.
+-- Kasztoknak egyedi KP/Szint értéke legyen, vagy legyen egységes?

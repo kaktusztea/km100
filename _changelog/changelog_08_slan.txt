@@ -1,0 +1,70 @@
+﻿Slan changelog
+----------------------
+
+v0.2.3 - 2008.04.13
+Ez még nem teljesen tiszta, ezért még meg kell beszélni!
+- Slan: tradíció (Belső út néven): 50KP
+  - Gyakorlatilag Pszí-2.foknak felel meg 
+  - "Belső út pszí" iskola tanulható vele
+  - chi harc + tanulhatóak spéci diszciplínák fortélyból
+- Chi harc csak 4.szintű "Belső út" pszí iskolától (képzettség!) legyen alkalmazható
+
+-----------------------------------------------------------
+v0.2.2 - 2008.04.07
+- Tisztázni, hogy hogyan fejlődnek a Slan technikák (pszi diszc, vagy 15KP-s fortélyok, stb)
+
+-----------------------------------------------------------
+v0.2.1 - 2008.03.19.
+- CC licensz
+- Első oldal és tartalomjegyzék bekerült
+
+-----------------------------------------------------------
+v0.2.0 - 2008.02.27
+- Sien-Su követelménye: Kétkezes harc - 3.fok
+
+-----------------------------------------------------------
+v0.1.9 - 2008.02.24
+- a Slan az Tradíció, nem nevelt fortély
+
+-----------------------------------------------------------
+v0.1.8 - 2007.10.28
+- Aranyharang növeli a FME-t
+
+-----------------------------------------------------------
+v0.1.7 - 2007.10.23
+- Slan kard fétis szerű tárgy. Nélküle nehezebbek a slan technikák.
+
+-----------------------------------------------------------
+v0.1.6 - 2007.06.06
+- kicsit kategorizáltam a technikákat
+- Új technika: Pusztító ököl: +SP-t ad.. (nem biztos h kell ez... ott van a Fegyvermester fortély is..)
+- A technikák esetleg legyenek iskola képzettségek...?
+  - Jópár technikánál ez tök jó lenne, de néhánynál nagyon nehezen lehetne őket differenciálni, szintekre bontani.
+
+-----------------------------------------------------------
+v0.1.5 - 2007.04.26
+- Chi harc ME-t is ad: +X ME (még nincs megbeszélt érték)
+
+-----------------------------------------------------------
+v0.1.4 - 2007.04.23
+- 1.szinten csak mesterkard, Slan kard csak később
+
+-----------------------------------------------------------
+v0.1.3 - 2007.04.19
+- [Megszűnt]:PROB_SLAN_#1 - Chi harc fegyverrel (fegyver)
+ -- A Chi harc lönnyebb és állandóan hasznáélható, de gyengébb lett (mint a Khirin)
+- Testuralom technika
+
+-----------------------------------------------------------
+v0.1.2 - 2007.03.13
+- logó
+
+-----------------------------------------------------------
+v0.1.1 - 2007.03.13
+- "Élő fegyver" fortély (nem technika): Megszűnteti a puszta kéz további levonásait
+Lásd A Harcrendszer "Harc puszta kézzel" fejezetét!
+
+-----------------------------------------------------------
+v0.1.0 - 2007.03.07
+- [Új]: PROB_SLAN_#1.
+  - Chi harc fegyverrel (fegyver) fortély

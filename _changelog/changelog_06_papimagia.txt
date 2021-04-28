@@ -1,0 +1,25 @@
+﻿Papi mágia changelog
+--------------------
+
+v0.0.5 - 2008.10.11
+- Istenek, befolyásuk és szféráik
+a.) verzió
+   Kicsit profánul hathat, de 1-15-ig kategorizálnák az isteneket
+   befolyásuk (hatalmuk Yn-en) szerint. Minden pap CSAK istene befolyási 
+   szintjéig juthat el az isten alá tartozó tanulható szférák (képzettségek) 
+   tanulásában. Pl. ha Morgena Befolyása 7-es, akkor papjai Morgena alá 
+   tartozó Szférákat (képzettségeket) csak 7.képzettség szintig fejleszthetik.
+b.) verzió
+   Kategória: -(5) - (+14). Egy erős isten 0-s. A gyengébbeknek magasabb
+   érték jut. Ennyi jön le a varázslatok erősségéből. Ahme Ramun a 
+   megtestesülésekor -5-ös (pl. egy 3E varázslat 8E-n jöhet létre)
+
+c.) verzió
+  Istenek kategorizálása: 4-14. Ezen a képzettség szinten kezdhetne csak 
+  el varázsolni. Erős isten: 4‑es, gyengébbek magasabb értékűek.
+
+---------------------------------------------------------------------
+v0.0.4 - 2008.09.18
+- Papi mágia kikerült ebbe a külső dokba
+- Minden szóban megbeszélt ötlet, irányelv beírva
+---------------------------------------------------------------------

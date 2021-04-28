@@ -1,0 +1,245 @@
+﻿Mágia changelog
+---------------
+
+
+v0.4.7 - 2015.05.04
+Régi rendszer hibái (Noro)„...alapvetően a mozaikos mágiarendszer erősen rossz volt. Soroljam? 
+→ Ötlet: elvi kategóriák
+ - aprócska
+ - átlagos
+ - masszív
+ - monumentális
+ - ???
+
+------------------------------------------------------
+v0.4.6 
+– TODO_MÁGIA_#12.
+
+ → Kiterjesztett varázslás
+   - Külön Képesség felvehető (3 fok): Kiterjesztett varázslás
+      → +2 pont fokonként a próbára a 2. fokig
+      → 3.fok: azokra is tud hatni, akiket nem lát és elvétik a mentőt X ellen
+   - A nehézség attól függ, hány plusz célra tud hatni
+
+------------------------------------------------------
+v0.4.5 
+- 2010.01.17
+- Manafelvonás, felhúzás 
+– TODO_MÁGIA_#11.
+   
+ → Varázslás előtt „felhúzza” a manát, így gyorsabban varázsolhat 
+    (de csak azt, amit meghatározott..?)
+
+
+------------------------------------------------------
+v0.4.4 - 2008.09.18
+- Papi mágia és Magasmágia kikerült külső dokba
+
+------------------------------------------------------
+v0.4.3 - 2008.08.22
+- Purgálás
+
+------------------------------------------------------
+v0.4.2 - 2008.07.07
+- "Mágikus emitter" ötlet beírva
+
+------------------------------------------------------
+v0.4.1 - 2008.04.14
+- Elemi mágia: külső doksi tartalma bekerült (v1.4)
+- Papi mágia (v0.0.2) bekerült (csak alapvetések és a Gyógyításról irányelvek)
+- Tradíciók rendbetétele
+- Összhang: mostantól karma (a "szerzett fortély" elnevezés megszűnt)
+
+------------------------------------------------------
+v0.4.0 - 2008.03.19.
+- CC licensz
+
+------------------------------------------------------
+v0.3.9 - 2007.10.31
+- Bárdmágia → Vakság
+- Szexuálmágia - csak nőknek
+- Mágiatradíciókhoz követelményekhez
+  - kiválasztott, fogékony
+
+------------------------------------------------------
+v0.3.8 - 2007.10.28
+- "A mágiaiskolák első 3 szinten csak elméleti tudást adnak, az alájuk tartozó
+  varázslatokat csak a képzettség 4.szintjétől alkalmazhatja a mágiatudó!"
+- "Mágiaellenállás" és "Mágikus ellenállások" fejezetek összevonva
+- "Énekmondói mágia" bekerült a mágia tradíciók közé
+- Mentálmágiához: emlék olvasás mellék-hatásai
+
+------------------------------------------------------
+v0.3.7 - 2007.10.26
+- Aktív mágikus akarat átmásolva a Pszí doksiból
+- Átnevezve: Mágikus Átütés
+- Varázslat Átütés újraértelmezése:
+  - Varázslat Átütése = Mágiaiskola szintje + Erősség (ezt lehet manából tovább erősíteni)
+  
+  ------------------------------------------------------
+v0.3.6 - 2007.10.23
+- Mágikus tradíciók bekerültek ebbe a doksiba. Mostantól nem nevelt, vagy háttér fortélyok,
+  hanem külön kezelendőek és 50KP-ba kerülnek.
+  
+------------------------------------------------------
+v0.3.5 - 2007.10.18
+- Noro és Saga ötletek bemásolása a fő mágia doksiba
+
+------------------------------------------------------
+v0.3.4 - 2007.10.16
+- [Új]: TODO_MÁGIA_#8 - Babonák beépítése
+    - Pl. víz felett rossz aludni, stb
+- Új fejezet: "Mágiaiskolák jellegzetességei"
+  - A mágiaiskolák egyes kiemelt szinjei (jellemzően magasabb szinteken) adjanak kis extrákat
+- Fejezet cím változtatás: "Maximum és Felvonható manapont fogalma"
+  - "Spéci pszí diszciplína: +x Ψp-ért +10% lehet az egyben felvonható mana"
+- Mágikus fáradáshoz: "Varázslatra jellemző testi tünetek (pl. tűzvihartól nagy fáradás, test kiszáradás, stb)"
+   - ez nem bizots, hogy kell
+- "Varázslat ideje" és "Mágikus fáradás" fejezet kikerült a Mozaikmágia alól a fő-mágia alfejezetek közé
+- Elemi mágia
+  - Őselem megkötése anyagban
+    - magas szinten ennél jönne elő pl. a tűzalak, vízalak, földalak, légies alak
+     (ez azért jó, mert pl. a Vulgármágiában van sima tűzalak, ami könnyebb is, de célvarázslat, míg 
+     itt sokkal szabadabb a varázsló, de nagyobb a varázslat költsége.
+- Új fejezet: Vulgármágia
+  - Betegségmágia iskola
+    - Fogfájás varázslat
+
+------------------------------------------------------
+v0.3.3 - 2007.10.15
+- Csendmágiába: hangtartomány szerinti szűrés
+- Törölve és archiválva: exponenciális MP mennyiség táblázat
+  (nem lesz exponenciális alapon növekedő MP mennyiség, mivel 
+   szét lesz választva a max mana és a max egyszerre elvarázsolható mana)
+- "Mágia tradíciók és mágia iskolák" fejezet érthetővé tétele, egyszerűsítése
+- Metamágia rész külön az iskolák fejezetébe
+- Szerteszét levő fejezetek rendberakása
+- A mágikus fáradás megjelenhetne KT (Kábulat Pont) „begyűjtésével”
+- Varázslás ideje: mágia tradíciótó fokától, VAGY az alkalmazott mágiaiskola szintjétől függjön
+
+------------------------------------------------------
+v0.3.2 - 2007.10.11
+- Ötlet Demonológiához
+
+------------------------------------------------------
+v0.3.1 - 2007.10.04
+- Kis javítások
+- Mágikus fáradás rész kibővítve
+
+------------------------------------------------------
+v0.3.0 - 2007.09.09
+- Mágia megzavarása (metamágia)
+
+------------------------------------------------------
+v0.2.9 - 2007.08.29
+- Összhangok
+ -- Összhang fortélyok
+- Mana "felvonás"
+
+------------------------------------------------------
+v0.2.8 - 2007.08.10
+- Mozaikmágia és iskoláinak szeparálása
+- Mozaikmágia világkép alapjainak lefektetése
+- Metamágia
+
+------------------------------------------------------
+v0.2.7 - 2007.06.18
+- Beírva: Csendmágia, Metamágia iskola vázlata
+- Asztálmágia, Mentálmágia ötletek beírva
+
+------------------------------------------------------
+v0.2.6 - 2007.06.05
+- [Új]: TODO_MÁGIA_#7 - Egyedi varázslatok
+
+------------------------------------------------------
+v0.2.5 - 2007.05.03
+- [Új]: PROB_MÁGIA_#1 - Kábulat ÉP-k gyógyulás papi gyógyítás hatására
+  - A KT-k elmúljanak a Papi gyógyítás hatására, vagy ne?
+
+------------------------------------------------------
+v0.2.4 - 2007.04.24
+- [Új]: Varázsló CÉ - TODO_MÁGIA_#6.
+- [Új]: Varázsló, pszí használó kezdeményezése  - TODO_MÁGIA_#7.
+
+------------------------------------------------------
+v0.2.3 - 2007.04.16
+- Legyen „Rituálé” nevű mágikus tradíció? (Attila ötlete)
+  -- erős, de nagyon lassú és bonyolult. Konkrét alkalmazási területe van.
+- Legyen „Jóslás” nevű fortély? (2 fokú)
+  -- Követelmény: Fogékonyság
+
+------------------------------------------------------
+v0.2.2 - 2007.04.09
+- [Új]: TODO_MÁGIA_#5 - Vulgármágiához ötletek
+------------------------------------------------------
+
+v0.2.1 - 2007.03.28
+- 1 MP = 3KP
+- Mágia szabályok
+	- 1 Mana pont = 3KP
+	- Mágia iskolák: átlagos képzettségek
+	- Az egyes kiemelt szinteknek követelményei vannak. Iskolánként eltérő. 
+	(A Mágiaiskolák követelményei magasabbak, keményebbek legyenek, mint a Pszí iskoláké)
+	- Főleg Tudományos képzettségek legyenek követelmények!
+- Asztrálmágia
+  - Követelmények: Emberismeret, Stabilitás Tulajdonság egyre magasabb fokai
+
+------------------------------------------------------
+v0.2.0 - 2007.03.19
+- [Új]: TODO_MÁGIA_#5 - Villámmágia
+- Mágia tradíciók
+
+------------------------------------------------------
+v0.1.9 - 2007.03.13
+- Kis változtatások
+
+------------------------------------------------------
+v0.1.8 - 2007.03.13
+- Asztrál és mentálmágia
+	Emberismeret követelmény
+		mondjuk 3-al alacsonyabb szinten kell, hogy meglegyen, mint a mágiaiskola
+	Állatokra asztrál- és mentálmágia követelmény
+		Természetjárás? Idomítás?
+- Boszorkánymesteri villámvarázs
+
+------------------------------------------------------
+v0.1.7 - 2007.01.07
+- Célszámok a távolságokra, képzettségpróba-szerűség. Csak mire dobjunk??
+Táv     Célszám 
+1-5m       
+6-10m      9
+...       12
+...       15
+...       18
+...       21
+
+------------------------------------------------------
+v0.1.6 - 2006.10.15
+- Kasztfüggõ Mágikus Fortélyok
+   - Összefoglalás
+- Új: TODO_MÁGIA_#4. - Szeráfi mágiák
+
+------------------------------------------------------
+
+v0.1.5 - 2006.10.15
+- Kisebb javítások.
+
+------------------------------------------------------
+v0.1.4 - 2006.08.30
+- "Ötletek" fejezet új neve: "Ötletek, alapkoncepció, sirámok"
+  - Bekerült pár vélemény a www.akonyvesbolt.com fórumából.
+
+------------------------------------------------------
+v0.1.3 - 2006.08.09
+Ötletekhez:
+ -- Minimum Intelligencia szükséges a Tapasztalati és a magas mágiához.
+    Mekkora? Tapasztalatihoz esetleg: +1, Magas mágiához: +2, vagy +3
+
+------------------------------------------------------
+v0.1.2 - 2006.07.27
+- ALT_MÁGIA_#1. és ALT_MÁGIA_#2. - Zóna kiterjesztés
+
+------------------------------------------------------
+v0.1.1 - 2006.07.25
+
+- Új: (TODO_MÁGIA_#3) Drágakõmágia és Rúnamágia külön mágiaiskola lesz, képzettségként megszûnnek.

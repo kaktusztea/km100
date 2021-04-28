@@ -1,0 +1,21 @@
+﻿Észlelés, érzékelés changelog
+-----------------------------
+
+v0.1.2 - 2008.07.24
+- Typo javítások
+
+----------------------------------------------------
+v0.1.1 - 2008.06.09
+- A TODO és PROB bejegyzések kikerültek a közös TODO dokba.
+
+----------------------------------------------------
+v0.1.0 - 2008.04.07
+- Doksi megnyitása
+- Érzékelés, észlelés
+  - (1) Tág értelmezés
+  - (2) Érzékek
+  - (3) Észlelés
+    - Milyen Tulajdonsággal dobjuk a próbát?
+    - (3a) Harcot megelőző szituáció
+    - (3b) Nem harci szituáció
+
