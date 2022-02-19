@@ -1,17 +1,15 @@
 # km100
 Egy fantasy világokra tervezett komplett szerepjáték rendszer.
 
-
+## Kivonatok
+* [Segédlet esszencia (PDF)](https://github.com/kaktusztea/km100/blob/master/km100__segedlet_v1.4.pdf)
 * [Tömör szabályrendszer (PDF)](https://github.com/kaktusztea/km100/blob/master/km100__tomor_v6.0.pdf)
 
-* [Segédlet esszencia (PDF)](https://github.com/kaktusztea/km100/blob/master/km100__segedlet_v1.4.pdf)
-
+## Karakteralkotók
 * [Karakteralkotó v7.0 (ODS)](https://github.com/kaktusztea/km100/blob/master/odt/01_km100_karakteralkotas/JK_karakteralkoto/karakteralkoto_v7.0.ods)
-
 * [NJK Karakteralkotó (PDF)](https://github.com/kaktusztea/km100/blob/master/km100__NJK_karlap_v1.1.pdf)
 
----
-
+## Részletes szabályrendszer
 * [Karakteralkotás](https://github.com/kaktusztea/km100/blob/master/km100_01_karakteralkotas.pdf)
 * [Képzettségrendszer](https://github.com/kaktusztea/km100/blob/master/km100_02_kepzettsegrendszer.pdf)
 * [Fortélyok](https://github.com/kaktusztea/km100/blob/master/km100_03_fortelyok.pdf)
