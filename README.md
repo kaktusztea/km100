@@ -20,7 +20,7 @@ Egy fantasy világokra tervezett komplett szerepjáték rendszer.
 * [Mágia](https://github.com/kaktusztea/km100/blob/master/km100_07_magia__main.pdf) <sub><sup>([changelog](https://github.com/kaktusztea/km100/blob/master/_changelog/changelog_06_magia.txt))</sub></sup>
   * [Magasmágia](https://github.com/kaktusztea/km100/blob/master/km100_07_magia_magasmagia__main.pdf) <sub><sup>([changelog](https://github.com/kaktusztea/km100/blob/master/_changelog/changelog_06_magasmagia.txt))</sub></sup>
     * [Elemi mágia](https://github.com/kaktusztea/km100/blob/master/km100_07_magia_magasmagia_elemi_magia.pdf)
-    * [Papi mágia](https://github.com/kaktusztea/km100/blob/master/km100_07_magia_papi.pdf) <sub><sup>([changelog](https://github.com/kaktusztea/km100/blob/master/_changelog/changelog_06_papimagia.txt))</sub></sup>
+  * [Papi mágia](https://github.com/kaktusztea/km100/blob/master/km100_07_magia_papi.pdf) <sub><sup>([changelog](https://github.com/kaktusztea/km100/blob/master/_changelog/changelog_06_papimagia.txt))</sub></sup>
 * [Slan](https://github.com/kaktusztea/km100/blob/master/km100_08_slan.pdf) <sub><sup>([changelog](https://github.com/kaktusztea/km100/blob/master/_changelog/changelog_08_slan.txt))</sub></sup>
 * [Érzékelés, Észlelés](https://github.com/kaktusztea/km100/blob/master/km100_09_erzekeles_eszleles.pdf) <sub><sup>([changelog](https://github.com/kaktusztea/km100/blob/master/_changelog/changelog_09_erzekeles_eszleles.txt))</sub></sup>
 * [Szituációk](https://github.com/kaktusztea/km100/blob/master/km100_10_szituaciok.pdf) <sub><sup>([changelog](https://github.com/kaktusztea/km100/blob/master/_changelog/changelog_10_szituaciok.txt))</sub></sup>
