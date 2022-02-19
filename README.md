@@ -10,7 +10,7 @@ Egy fantasy világokra tervezett komplett szerepjáték rendszer.
 * [NJK Karakteralkotó (PDF)](https://github.com/kaktusztea/km100/blob/master/km100__NJK_karlap_v1.1.pdf)
 
 ## Részletes szabályrendszer
-* [Karakteralkotás](https://github.com/kaktusztea/km100/blob/master/km100_01_karakteralkotas.pdf)
+* [Karakteralkotás](https://github.com/kaktusztea/km100/blob/master/km100_01_karakteralkotas.pdf) <sub><sup>([changelog](https://github.com/kaktusztea/km100/blob/master/_changelog/changelog_01_karakteralkotas.txt))</sub></sup>
 * [Képzettségrendszer](https://github.com/kaktusztea/km100/blob/master/km100_02_kepzettsegrendszer.pdf)
 * [Fortélyok](https://github.com/kaktusztea/km100/blob/master/km100_03_fortelyok.pdf)
 * [Tradíciók](https://github.com/kaktusztea/km100/blob/master/km100_04_tradiciok.pdf)
