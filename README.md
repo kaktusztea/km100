@@ -18,7 +18,7 @@ A harcrendszer kiemelten alapoz a szituációk eltérő voltára, ugyanaz a két
 A lőfegyverek alapesetben rendkívül halálosak a km100 világán, viszont a vérteknek szintén nagy szerep jut ennek ellensúlyozására, illetve a célpont láthatósága, mozgása is sokat nehezít.
 
 ## Kivonatok
-* [Segédlet esszencia (PDF)](https://github.com/kaktusztea/km100/blob/master/km100__segedlet_v1.4.pdf)
+* [Segédlet esszencia (PDF)](https://github.com/kaktusztea/km100/blob/master/km100__segedlet_v1.5.pdf)
 * [Tömör szabályrendszer (PDF)](https://github.com/kaktusztea/km100/blob/master/km100__tomor_v6.0.pdf)
 
 ## Karakteralkotók
