@@ -1,6 +1,22 @@
 # km100
 Egy fantasy világokra tervezett komplett szerepjáték rendszer.
 
+Filozófia: a km100 egy nagyfokú realitásra törekvő rendszer, sok szabállyal, mégis gördülékenynek tűnik játék során. Ennek oka, hogy a legtöbb számolást igénylő feladatot karakteralkotási időbe száműztünk. Így egy karakter megalkotása több időt vehet igénybe, viszont rendkívül egyedi, specializált végeredményt kapunk.
+
+Nincsenek szociális képzettségek,a meggyőzés, megfélemlítés, átverés jellegű szituációk a KM és a játékos közti párbeszéden, illetve az elképzelt karakteren múlik, nem egy-egy kockadobáson. Az ilyen jellegű helyzetek eredménye a KM érzésén múlik, így a rendszer a _szerep-játékra_ helyezi a hangsúlyt - szemben például egy számítógépes játékkal, ahol ezen értékek is mind számszerűsítve vannak. Az élő játék egyik legnagyobb előnyét fontosnak tartottuk kiemelten kezelni.
+
+A km100 rendszerében nincsenek kasztok, KP elköltésével lehet minden jellemzőt, értéket növelni. 
+* Tulajdonságok (Erő, Edzettség, Ügyesség, Gyorsaság, Intelligencia, Emlékezet,
+Önuralom, Fogékonyság, +Érzékek származtatva külön)
+* Képzettségek (Harci, Fizikai, Alvilági, Művészeti, Világi, Tudományos, Misztikus, Vulgármágia, Sámánmágia, Bárdmágia, Ordani tűzmágia, Mozaikmágia)
+* Fortélyok (Általános, Harci, Lovas, Íjász, Alvilági, Szociális, Világi, Tudományos, Művészeti, Mágikus/Misztikus, Pszí, Slan)
+* Harcértékek (KÉ, TÉ, VÉ, CÉ, MP (Manőver-pont), HM (Harcérték-módosító))
+* Pszi pont, Mana pont
+
+A harcrendszer kiemelten alapoz a szituációk eltérő voltára, ugyanaz a két karakter más-más körülmények, fegyverek, páncélok és taktikák alkalmazásával gyökeresen más esélyekkel indul, így aki ésszel harcol, nagyon sokat nyerhet.
+
+A lőfegyverek alapesetben rendkívül halálosak a km100 világán, viszont a vérteknek szintén nagy szerep jut ennek ellensúlyozására, illetve a célpont láthatósága, mozgása is sokat nehezít.
+
 ## Kivonatok
 * [Segédlet esszencia (PDF)](https://github.com/kaktusztea/km100/blob/master/km100__segedlet_v1.4.pdf)
 * [Tömör szabályrendszer (PDF)](https://github.com/kaktusztea/km100/blob/master/km100__tomor_v6.0.pdf)
