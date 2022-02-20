@@ -10,7 +10,7 @@ A km100 rendszerében nincsenek kasztok, KP elköltésével lehet minden jellemz
 Önuralom, Fogékonyság, +Érzékek származtatva külön)
 * Képzettségek (Harci, Fizikai, Alvilági, Művészeti, Világi, Tudományos, Misztikus, Mágiaiskolák (Vulgár, Sámán, Bárd, Ordani tűz, Mozaik))
 * Fortélyok (Általános, Harci, Lovas, Íjász, Alvilági, Szociális, Világi, Tudományos, Művészeti, Mágikus/Misztikus, Pszí, Slan)
-* Harcértékek (KÉ, TÉ, VÉ, CÉ, MP (Manőver-pont), HM (Harcérték-módosító))
+* Harcértékek (HM (Harcérték-módosító)). Származtatott értékek (nem kell KP): KÉ, TÉ, VÉ, CÉ, MP (Manőver-pont)
 * Pszi pont, Mana pont
 
 A harcrendszer kiemelten alapoz a szituációk eltérő voltára, ugyanaz a két karakter más-más körülmények, fegyverek, páncélok és taktikák alkalmazásával gyökeresen más esélyekkel indul, így aki ésszel harcol, nagyon sokat nyerhet.
