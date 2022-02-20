@@ -8,7 +8,7 @@ Nincsenek szociális képzettségek,a meggyőzés, megfélemlítés, átverés j
 A km100 rendszerében nincsenek kasztok, KP elköltésével lehet minden jellemzőt, értéket növelni. 
 * Tulajdonságok (Erő, Edzettség, Ügyesség, Gyorsaság, Intelligencia, Emlékezet,
 Önuralom, Fogékonyság, +Érzékek származtatva külön)
-* Képzettségek (Harci, Fizikai, Alvilági, Művészeti, Világi, Tudományos, Misztikus, Vulgármágia, Sámánmágia, Bárdmágia, Ordani tűzmágia, Mozaikmágia)
+* Képzettségek (Harci, Fizikai, Alvilági, Művészeti, Világi, Tudományos, Misztikus, Mágiaiskolák (Vulgár, Sámán, Bárd, Ordani tűz, Mozaik))
 * Fortélyok (Általános, Harci, Lovas, Íjász, Alvilági, Szociális, Világi, Tudományos, Művészeti, Mágikus/Misztikus, Pszí, Slan)
 * Harcértékek (KÉ, TÉ, VÉ, CÉ, MP (Manőver-pont), HM (Harcérték-módosító))
 * Pszi pont, Mana pont
