@@ -5,13 +5,16 @@ Filozófia: a km100 egy nagyfokú realitásra törekvő rendszer, sok szabállya
 
 Nincsenek szociális képzettségek,a meggyőzés, megfélemlítés, átverés jellegű szituációk a KM és a játékos közti párbeszéden, illetve az elképzelt karakteren múlik, nem egy-egy kockadobáson. Az ilyen jellegű helyzetek eredménye a KM érzésén múlik, így a rendszer a _szerep-játékra_ helyezi a hangsúlyt - szemben például egy számítógépes játékkal, ahol ezen értékek is mind számszerűsítve vannak. Az élő játék egyik legnagyobb előnyét fontosnak tartottuk kiemelten kezelni.
 
-A km100 rendszerében nincsenek kasztok, KP elköltésével lehet minden jellemzőt, értéket növelni. 
-* Tulajdonságok (Erő, Edzettség, Ügyesség, Gyorsaság, Intelligencia, Emlékezet,
-Önuralom, Fogékonyság, +Érzékek származtatva külön)
-* Képzettségek (Harci, Fizikai, Alvilági, Művészeti, Világi, Tudományos, Misztikus, Mágiaiskolák (Vulgár, Sámán, Bárd, Ordani tűz, Mozaik))
-* Fortélyok (Általános, Harci, Lovas, Íjász, Alvilági, Szociális, Világi, Tudományos, Művészeti, Mágikus/Misztikus, Pszí, Slan)
-* Harcértékek (HM (Harcérték-módosító)). Származtatott értékek (nem kell KP): KÉ, TÉ, VÉ, CÉ, MP (Manőver-pont)
-* Pszi pont, Mana pont
+A km100 rendszerében nincsenek kasztok, egyes jellemzőeket szabad pontokból, másokat KP elköltésével lehet növelni.
+### Szabad pontok
+* **Tulajdonságok**: Erő, Edzettség, Ügyesség, Gyorsaság, Intelligencia, Emlékezet, Önuralom, Fogékonyság, +Érzékek származtatva külön)
+* **Harcértékek**: Származtatott értékek: KÉ, TÉ, VÉ, CÉ, MP (Manőver-pont)
+
+### KP költésével növelt értékek
+* **Képzettségek**: Harci, Fizikai, Alvilági, Művészeti, Világi, Tudományos, Misztikus, Mágiaiskolák (Vulgár, Sámán, Bárd, Ordani tűz, Mozaik)
+* **Fortélyok**: Általános, Harci, Lovas, Íjász, Alvilági, Szociális, Világi, Tudományos, Művészeti, Mágikus/Misztikus, Pszí, Slan
+* **Harcértékek**: HM (Harcérték-módosító).
+* **Pszi pont, Mana pont**
 
 A harcrendszer kiemelten alapoz a szituációk eltérő voltára, ugyanaz a két karakter más-más körülmények, fegyverek, páncélok és taktikák alkalmazásával gyökeresen más esélyekkel indul, így aki ésszel harcol, nagyon sokat nyerhet.
 
