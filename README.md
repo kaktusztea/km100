@@ -7,7 +7,7 @@ Nincsenek szociális képzettségek,a meggyőzés, megfélemlítés, átverés j
 
 A km100 rendszerében nincsenek kasztok, egyes jellemzőeket szabad pontokból, másokat KP elköltésével lehet növelni.
 ### Szabad pontok
-* **Tulajdonságok**: Erő, Edzettség, Ügyesség, Gyorsaság, Intelligencia, Emlékezet, Önuralom, Fogékonyság, +Érzékek származtatva külön)
+* **Tulajdonságok**: Erő, Edzettség, Ügyesség, Gyorsaság, Intelligencia, Emlékezet, Önuralom, Fogékonyság; +Érzékek származtatva
 * **Harcértékek**: Származtatott értékek: KÉ, TÉ, VÉ, CÉ, MP (Manőver-pont)
 
 ### KP költésével növelt értékek
