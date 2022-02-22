@@ -8,7 +8,7 @@ Szociális képzettségekből egyedül az Etikett létezik, a meggyőzés, megf�
 A km100 rendszerében nincsenek kasztok, egyes jellemzőeket szabad pontokból, másokat KP elköltésével lehet növelni.
 ### Szabad pontok
 * **Tulajdonságok**: Erő, Edzettség, Ügyesség, Gyorsaság, Intelligencia, Emlékezet, Önuralom, Fogékonyság;&nbsp;&nbsp;&nbsp;+Érzékek származtatva
-* **Harcértékek**: Származtatott értékek: KÉ, TÉ, VÉ, CÉ, MP (Manőver-pont)
+* **Származtatott Harcértékek**: KÉ, TÉ, VÉ, CÉ, MP (Manőver-pont)
 
 ### KP költésével növelt értékek
 * **Képzettségek**: Harci, Fizikai, Alvilági, Művészeti, Világi, Tudományos, Misztikus, Mágiaiskolák (Vulgár, Sámán, Bárd, Ordani tűz, Mozaik)
