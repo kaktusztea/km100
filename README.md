@@ -26,7 +26,7 @@ A lőfegyverek alapesetben rendkívül halálosak, viszont a vérteknek szintén
 * [Tömör szabályrendszer (PDF)](https://github.com/kaktusztea/km100/blob/master/km100__tomor_v6.0.pdf)
 
 ## Karakteralkotók
-* [Karakteralkotó v7.0 (ODS)](https://github.com/kaktusztea/km100/blob/master/odt/01_km100_karakteralkotas/JK_karakteralkoto/karakteralkoto_v7.0.ods)
+* [Karakteralkotó v7.0 (ODS)](https://github.com/kaktusztea/km100/blob/master/odt/01_km100_karakteralkotas/JK_karakteralkoto/karakteralkoto_v7.0.ods) <sub><sup>([LibreOffice](https://www.libreoffice.org/download/download/))</sup></sub>
 * [NJK Karakteralkotó v1.1 (PDF)](https://github.com/kaktusztea/km100/blob/master/km100__NJK_karlap_v1.1.pdf)
 
 ## Részletes szabályrendszer
