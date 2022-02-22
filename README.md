@@ -3,22 +3,23 @@ Egy fantasy világokra tervezett komplett szerepjáték rendszer.
 
 Filozófia: a km100 egy nagyfokú realitásra törekvő rendszer, sok szabállyal, mégis gördülékenynek tűnik játék során. Ennek oka, hogy a legtöbb számolást igénylő feladatot karakteralkotási időbe száműztünk. Így egy karakter megalkotása több időt vehet igénybe, viszont rendkívül egyedi, specializált végeredményt kapunk.
 
-Nincsenek szociális képzettségek,a meggyőzés, megfélemlítés, átverés jellegű szituációk a KM és a játékos közti párbeszéden, illetve az elképzelt karakteren múlik, nem egy-egy kockadobáson. Az ilyen jellegű helyzetek eredménye a KM érzésén múlik, így a rendszer a _szerep-játékra_ helyezi a hangsúlyt - szemben például egy számítógépes játékkal, ahol ezen értékek is mind számszerűsítve vannak. Az élő játék egyik legnagyobb előnyét fontosnak tartottuk kiemelten kezelni.
+Szociális képzettségekből egyedül az Etikett létezik, a meggyőzés, megfélemlítés, átverés jellegű szituációk a KM és a játékos közti párbeszéden, illetve az elképzelt karakteren múlik, ezeket csak kapcsolódó fortélyok könnyíthetik meg, de nem pótolhatják. Az ilyen jellegű helyzetek eredménye egy "Emberismeret" képzettségpróba, ahol a célszámot a KM határozza meg az előadás alapján, így a rendszer a _szerep-játékra_ helyezi a hangsúlyt - szemben például egy számítógépes játékkal, ahol ezen értékek is mind számszerűsítve vannak. Az élő játék egyik legnagyobb előnyét fontosnak tartottuk kiemelten kezelni.
 
 A km100 rendszerében nincsenek kasztok, egyes jellemzőeket szabad pontokból, másokat KP elköltésével lehet növelni.
 ### Szabad pontok
-* **Tulajdonságok**: Erő, Edzettség, Ügyesség, Gyorsaság, Intelligencia, Emlékezet, Önuralom, Fogékonyság; +Érzékek származtatva
+* **Tulajdonságok**: Erő, Edzettség, Ügyesség, Gyorsaság, Intelligencia, Emlékezet, Önuralom, Fogékonyság;&nbsp;&nbsp;&nbsp;+Érzékek származtatva
 * **Harcértékek**: Származtatott értékek: KÉ, TÉ, VÉ, CÉ, MP (Manőver-pont)
 
 ### KP költésével növelt értékek
 * **Képzettségek**: Harci, Fizikai, Alvilági, Művészeti, Világi, Tudományos, Misztikus, Mágiaiskolák (Vulgár, Sámán, Bárd, Ordani tűz, Mozaik)
 * **Fortélyok**: Általános, Harci, Lovas, Íjász, Alvilági, Szociális, Világi, Tudományos, Művészeti, Mágikus/Misztikus, Pszí, Slan
 * **Harcértékek**: HM (Harcérték-módosító).
+* **Tradíciók** (Mágikus, Slan, Papi mágia), **Féltradíciók** (Quars, fejvadász)
 * **Pszi pont, Mana pont**
 
 A harcrendszer kiemelten alapoz a szituációk eltérő voltára, ugyanaz a két karakter más-más körülmények, fegyverek, páncélok és taktikák alkalmazásával gyökeresen más esélyekkel indul, így aki ésszel harcol, nagyon sokat nyerhet.
 
-A lőfegyverek alapesetben rendkívül halálosak a km100 világán, viszont a vérteknek szintén nagy szerep jut ennek ellensúlyozására, illetve a célpont láthatósága, mozgása is sokat nehezít.
+A lőfegyverek alapesetben rendkívül halálosak, viszont a vérteknek szintén nagy szerep jut (nem csak) ennek ellensúlyozására, illetve a célpont láthatósága, mozgása is sokat nehezít.
 
 ## Kivonatok
 * [Segédlet esszencia (PDF)](https://github.com/kaktusztea/km100/blob/master/km100__segedlet_v1.5.pdf)
