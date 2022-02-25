@@ -5,7 +5,7 @@ Filozófia: a km100 egy nagyfokú realitásra törekvő rendszer, sok szabállya
 
 Szociális képzettségekből egyedül az Etikett létezik, a meggyőzés, megfélemlítés, átverés jellegű szituációk a KM és a játékos közti párbeszéden, illetve az elképzelt karakteren múlik, ezeket csak kapcsolódó fortélyok könnyíthetik meg, de nem pótolhatják. Az ilyen jellegű helyzetek eredménye egy "Emberismeret" képzettségpróba, ahol a célszámot a KM határozza meg az előadás alapján, így a rendszer a _szerep-játékra_ helyezi a hangsúlyt - szemben például egy számítógépes játékkal, ahol ezen értékek is mind számszerűsítve vannak. Az élő játék egyik legnagyobb előnyét fontosnak tartottuk kiemelten kezelni.
 
-A km100 rendszerében nincsenek kasztok, egyes jellemzőeket szabad pontokból, másokat KP elköltésével lehet növelni.
+A km100 rendszerében nincsenek kasztok, egyes jellemzőket szabad pontokból, másokat KP elköltésével lehet növelni.
 ### Szabad pontok
 * **Tulajdonságok**: Erő, Edzettség, Ügyesség, Gyorsaság, Intelligencia, Emlékezet, Önuralom, Fogékonyság;&nbsp;&nbsp;&nbsp;+Érzékek származtatva
 * **Származtatott Harcértékek**: KÉ, TÉ, VÉ, CÉ, MP (Manőver-pont)
