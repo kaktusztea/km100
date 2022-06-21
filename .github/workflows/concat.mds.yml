@@ -1,0 +1,21 @@
+name: Concat markdowns
+
+on:
+  push:
+    branches: [ "master" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  concat:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Concat document files
+        uses: bayssmekanique/action-md-concat@v1
+        with:
+          srcDir: ./
+          destFile: ./fullDoc.md
