@@ -1,5 +1,5 @@
 Nonprofit szabályrendszer a M\* világához\
-Ailtas, 2013
+Ailtas, 2004-2022
 
 \
 Creative Commons License
@@ -67,19 +67,21 @@ A későbbiekben ezek a számok fogják alapját adni más, összetettebb jellem
 
 ---
 
-**Edzettség**
+**[Erő](#Erő)**
 
-**Ügyesség**
+**[Edzettség](#Edzettség)**
 
-**Gyorsaság**
+**[Ügyesség](#Ügyesség)**
 
-**Intelligencia**
+**[Gyorsaság](#Gyorsaság)**
 
-**Emlékezet**
+**[Intelligencia](#Intelligencia)**
 
-**Önuralom**
+**[Emlékezet](#Emlékezet)**
 
-**Fogékonyság**
+**[Önuralom](#Önuralom)**
+
+**[Fogékonyság](#Fogékonyság)**
 
 ---
 
