@@ -472,73 +472,68 @@ tartalékolhatsz is egy későbbi nagyobb „emelésre".)
 
 ### Fajok
 
--   Fajok különleges képességeit Háttér-fortélyból kelljen felvenni.
-    ⭕TODO⭕: kidolgozni azokat.
--   Vagy: „csomagban" lehessen megvenni a fajt. Pl. Elf -- 30KP és
-    megkapja a spec. képességeket.
--   Vagy: a fajok Érzék-bónuszai úgy alakulnak, hogy kötelezően meg kell
-    venniük azokat. (még nem eldöntött!!!) Pl. egy elfnek Látásra és
-    Hallásra +2 bónusza van.\
-    Ez 24 + 20 = 44 KP
+
+````diff
+- Fajok különleges képességeit Háttér-fortélyból kelljen felvenni.
+⭕TODO⭕: kidolgozni azokat.
+- Vagy: „csomagban" lehessen megvenni a fajt. Pl. Elf -- 30KP és megkapja a spec. képességeket.
+- Vagy: a fajok Érzék-bónuszai úgy alakulnak, hogy kötelezően meg kell venniük azokat. (még nem eldöntött!!!) Pl. egy elfnek Látásra és Hallásra +2 bónusza van. Ez 24 + 20 = 44 KP
+````
 
 #### Módosítók, korlátok
 
 Ha nem ember fajú karaktert alkotsz, akkor figyelembe kell venned az
 egyes fajok tulajdonság-korlátait.
 
-ember: \[-5;+5\] a határ mindenre
+**ember**
+> \[-5;+5\] a határ mindenre
 
-elf: Erő: \[-5; +4\] ; Edzettség: \[-5; +4\] ; Ügyesség \[-2;+6\] ;
-Gyorsaság \[-2;+6\] ;\
-Fogékonyság \[-3;+6\]\
-A „Kitartás"-t fortélyt fel *kell* vennie KP-ból, de nincs Edzettség
-követelménye.
+**elf**
+> Erő: \[-5; +4\] ; Edzettség: \[-5; +4\] ; Ügyesség \[-2;+6\] ; Gyorsaság \[-2;+6\] ; Fogékonyság \[-3;+6\] \
+A „Kitartás"-t fortélyt fel *kell* vennie KP-ból, de nincs Edzettség követelménye.
 
-félelf: Erő: \[-5;+4\] ; Gyorsaság \[-4;+6\]
+**félelf**
+> Erő: \[-5;+4\] ; Gyorsaság \[-4;+6\]
 
-törpe: Erő: \[-1;+5\] ; Gyorsaság \[-5;+4\] ; Edzettség \[-2;+6\] ;
-Emlékezet \[-5;+6\];\
-Fogékonyság \[-5;+3\] \
+**törpe**
+> Erő: \[-1;+5\] ; Gyorsaság \[-5;+4\] ; Edzettség \[-2;+6\] ; Emlékezet \[-5;+6\]; Fogékonyság \[-5;+3\] \
 Futásnál, úszásnál, gyaloglásnál sebessége 60%-a az emberének.
 
-ork: Erő: \[-1;+6\] ; Edzettség \[+0;+6\]; Intelligencia \[-5;+2\] ;
-Fogékonyság \[-5;+2\]
-
+**ork**
+> Erő: \[-1;+6\] ; Edzettség \[+0;+6\]; Intelligencia \[-5;+2\] ; Fogékonyság \[-5;+2\] \
 ÉP bónusz: +2
 
-udvari ork: Erő: \[-1;+6\] ; Edzettség \[-1;+5\]; Intelligencia
-\[-5;+3\] ; Fogékonyság \[-5;+4\]
-
+**udvari ork**
+> Erő: \[-1;+6\] ; Edzettség \[-1;+5\]; Intelligencia
+\[-5;+3\] ; Fogékonyság \[-5;+4\] \
 ÉP bónusz: +2
 
-kyr-vérű: Edzettség: \[-5;+4\] ; Önuralom \[-3;+6\] ; Fogékonyság
-\[-3;+6\]
+**kyr-vérű**
+> Edzettség: \[-5;+4\] ; Önuralom \[-3;+6\] ; Fogékonyság \[-3;+6\]
 
-amund: Erő \[0;+5\] ; Edzettség \[0;+5\] ; Intelligencia \[-5;+3\] ;
-Önuralom \[-5;+3\] ;\
-Fogékonyság \[-3; +6\]
+**amund**
+> Erő \[0;+5\] ; Edzettség \[0;+5\] ; Intelligencia \[-5;+3\] ; Önuralom \[-5;+3\] ; Fogékonyság \[-3; +6\]
 
-dzsenn: Intelligencia \[+1;+6\] ; Önuralom \[+1;+6\] ;\
+**dzsenn**
+> Intelligencia \[+1;+6\] ; Önuralom \[+1;+6\] ;\
 Kötelező a „Pszí -- Dzsenn" pszí tradíció fortélyt 1.szinten
 
-gnóm: Erő \[-5;+2\] ; Ügyesség \[-2;+5\], Intelligencia \[+0;+6\]\
-Futásnál, úszásnál, gyaloglásnál sebessége 60%-a az emberének.
-
+**gnóm**
+> Erő \[-5;+2\] ; Ügyesség \[-2;+5\], Intelligencia \[+0;+6\]\
+Futásnál, úszásnál, gyaloglásnál sebessége 60%-a az emberének. \
 ÉP levonás: -3 (minimum 1)
 
-goblin: Erő \[-5;+2\] ; Edzettség \[-2;+4\] ; Ügyesség \[-5;+6\] ;
-Intelligencia \[-5; +2\];\
-Önuralom \[-5 ;+2\] ;
-
+**goblin**
+> Erő \[-5;+2\] ; Edzettség \[-2;+4\] ; Ügyesség \[-5;+6\] ; Intelligencia \[-5; +2\]; Önuralom \[-5 ;+2\] \
 ÉP levonás: -4 (minimum 1)
 
-khál: Erő \[+1;+6\] ; Edzettség \[+1;+6\] ; Ügyesség \[+1;+5\] ;
+**khál**
+> Erő \[+1;+6\] ; Edzettség \[+1;+6\] ; Ügyesség \[+1;+5\] ;
 Gyorsaság \[+1;+6\] ;\
-Intelligencia \[-5 ; +2\] ; Önuralom \[-5 ; +2\] ; Fogékonyság
-\[-5;+3\]\*\
+Intelligencia \[-5 ; +2\] ; Önuralom \[-5 ; +2\] ; Fogékonyság \[-5;+3\]\*\
 \* Számukra az emberi civilizáció nehezebben érthető
 
-####  Hátrány
+#### Hátrány
 
 Az egyes fajok pozitív tulajdonságaiért „cserébe" fel is kell áldozni
 valamit. Mivel ezen a világon az ember a leggyorsabban fejlődni képes
