@@ -7,7 +7,7 @@ Ailtas, 2004-2022
 \
 `Creative Commons Licenc`
 
-Ez a dokumentum és egyes részletei, másolatai a [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.hu), azaz a
+Ez a dokumentum, egyes részletei, másolatai, valamint kapcsolódó részei a [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.hu), azaz a
 „Nevezd meg! – Ne add el! – Így add tovább!” 4.0 licenc feltételeinek megfelelően használható fel.
 
 # Áttekintés, bevezetés
@@ -18,7 +18,7 @@ A km100-nak nem célja helyettesíteni a hivatalos  szabályrendszert, amely a r
 
 Az évek során több \"alapmotort\" fejlesztettünk és dobtunk ki (ez leginkább a képzettségrendszerre igaz). Nem célunk (már) a teljesen eredeti és új rendszer kitalálása, több ötletet, megoldást, bevallottan más - már bizonyított - rendszerekből lestünk el. A cél, hogy a saját és más rendszerek jól működő részeit egy jól teljesítő, nem túlbonyolított, mégis logikus egységbe foglaljuk és pótoljunk (nekünk) régóta fájó hiányokat, vagy idegesítő logikátlanságokat.
 
-A rendszer nonprofit, soha semmilyen anyagi, vagy egyéb ellenszolgáltatást nem kérünk, vagy fogadunk el, viszont minden dokumentumra a Creative Commons [Nevezd meg!-Ne add el!-Így add tovább! 2.5 Magyarország](http://creativecommons.org/licenses/by-nc-sa/2.5/hu/) feltételei érvényesek.
+A rendszer nonprofit, soha semmilyen anyagi, vagy egyéb ellenszolgáltatást nem kérünk, vagy fogadunk el, viszont minden dokumentumra a `Creative Commons` bevezetőben említett feltételei érvényesek.
 
 # Karakteralkotás
 
