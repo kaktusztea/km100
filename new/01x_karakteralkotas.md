@@ -43,27 +43,14 @@ Irányelvek:
 
 ## Tulajdonságok
 
-Mikor karaktert alkotsz, elképzeled magad előtt a külsejét, megálmodod a belső jellemzőit, melyek személyiségét árnyalják. Egyes, erős testi illetve személyiség jegyeinek számértékkel való leírása nagyban
-megkönnyíti, hogy egy felületes, általános képet kapjunk a karakterről.
-A későbbiekben ezek a számok fogják alapját adni más, összetettebb jellemzőinek, számértékeinek, ezért javasolt igen áttekintően meghatározni őket. A fenti alapvető értékek leírását az ún. Tulajdonságokkal végezzük. Tulajdonságaidból 8 darab különbözőt definiálunk. Ezek az alábbi táblázat szerint kerülnek meghatározásra.
+Mikor karaktert alkotsz, elképzeled magad előtt a külsejét, megálmodod a belső jellemzőit, melyek személyiségét árnyalják. Egyes, erős testi illetve személyiség jegyeinek számértékkel való leírása nagyban megkönnyíti, hogy egy felületes, általános képet kapjunk a karakterről.
+A későbbiekben ezek a számok fogják alapját adni más, összetettebb jellemzőinek, számértékeinek, ezért javasolt igen áttekintően meghatározni őket. A fenti alapvető értékek leírását az ún. Tulajdonságokkal végezzük, melyekből 8 darab különbözőt definiálunk:
 
 ---
 
-**[Erő](#Erő)**
+**[Erő](#Erő)**, **[Edzettség](#Edzettség)**, **[Ügyesség](#Ügyesség)**, **[Gyorsaság](#Gyorsaság)**
 
-**[Edzettség](#Edzettség)**
-
-**[Ügyesség](#Ügyesség)**
-
-**[Gyorsaság](#Gyorsaság)**
-
-**[Intelligencia](#Intelligencia)**
-
-**[Emlékezet](#Emlékezet)**
-
-**[Önuralom](#Önuralom)**
-
-**[Fogékonyság](#Fogékonyság)**
+**[Intelligencia](#Intelligencia)**, **[Emlékezet](#Emlékezet)**, **[Önuralom](#Önuralom)**, **[Fogékonyság](#Fogékonyság)**
 
 ---
 
