@@ -1,10 +1,14 @@
+
+# km100
+
 Nonprofit szabályrendszer a M\* világához\
 Ailtas, 2004-2022
 
 \
-Creative Commons License
+`Creative Commons Licenc`
 
-Ezen dokumentum maga, továbbá részletei, vagy másolatai kizárólag a Creative Commons [Nevezd meg!-Ne add el!-Így add tovább! 2.5 Magyarország](http://creativecommons.org/licenses/by-nc-sa/2.5/hu/) Licenc feltételeinek megfelelően használható fel.
+Ez a dokumentum és egyes részletei, másolatai a [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.hu), azaz a
+„Nevezd meg! – Ne add el! – Így add tovább!” 4.0 licenc feltételeinek megfelelően használható fel.
 
 # Áttekintés, bevezetés
 
@@ -771,19 +775,11 @@ rendszerében csak az nő, amire költünk. Kivétel ez alól a Tudatalatti
 Mágiaellenállás (TME), amely a tapasztalattal és korral lassan magától
 nő.
 
-\--
+---
 
-Creative Commons License
+`Creative Commons Licenc`
 
-Ezen dokumentum maga, továbbá részletei, vagy másolatai kizárólag a
-Creative Commons „Nevezd meg!-Ne add el!-Így add tovább! 2.5
-Magyarország" ~~~~Licenc feltételeinek megfelelően használható fel~~*~~.
-~~*~~
+Ez a dokumentum és egyes részletei, másolatai a [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.hu), azaz a
+„Nevezd meg! – Ne add el! – Így add tovább!” 4.0 licenc feltételeinek megfelelően használható fel.
 
-~~~~Ailtas, 2010 ~~~~
-
-~~~~(~~**~~CC~~**~~(BY-NC-SA))~~~~ Fekete Bálint, 20~~~~13~~~~
-
-~~~~\--~~~~
-
-~~*~~ ~~*~~
+Ailtas 2022
