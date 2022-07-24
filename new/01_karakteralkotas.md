@@ -605,6 +605,7 @@ Minden élőlény a benne keringő testi és lelki energiának, az életerőnek 
 <br />
 
 <img src="images/01_eletero_tablazat.png" style="float: left; margin:0 15px 10px 0" width="400px" />
+
 A karakter aktuális fizikai állapotát az Életerő Pontok (`ÉP`) száma határozza meg, melyeket `4` egészség kategória közt a táblázatban egyenlő arányban (`össz ÉP 1/4-e minden oszlopba`) osztunk el. Ha maradékos az osztás, akkor a maradékot balról jobbra osszuk el.
 
 Ezek az ún. `sebesülés kategóriák` szimulálják, hogy milyen állapotban van a karakter. Az `S1` az enyhén sérült, az `S4` pedig a halálosan sérült állapotot jelöli.
