@@ -342,7 +342,8 @@ A rokkantság csökkenti a karakter fizikai Tulajdonságait is. Erre végképp n
 
 ## Tulajdonság értékek megállapítása
 
-A karakteralkotás kezdetén minden *Tulajdonságod* értéke `-5`. Első lépésben ossz el `64` pontot a nyolc T*ulajdonságod* között az alábbi táblázat szerint. (Megjegyzés: nem kell mindet elköltened, tartalékolhatsz is egy későbbi nagyobb „emelésre".)
+A karakteralkotás kezdetén minden Tulajdonságod értéke `-5`. Első lépésben ossz el `64` pontot a nyolc Tulajdonságod között az alábbi táblázat szerint.\
+Megjegyzés: nem kell mindet elköltened, tartalékolhatsz is egy későbbi nagyobb „emelésre".
 
 | Tulajdonság | Pont költség |
 | :-----: | :----: |
@@ -488,7 +489,7 @@ Gyorsaság [+1;+6] ; Intelligencia [-5 ; +2] ; Önuralom [-5 ; +2] ; Fogékonys�
 * Számukra az emberi civilizáció nehezebben érthető
 </code>
 
-#### Hátrány
+#### Fajok hátrányai
 
 Az egyes fajok pozitív tulajdonságaiért „cserébe" fel is kell áldozni
 valamit. Mivel ezen a világon az ember a leggyorsabban fejlődni képes
@@ -535,7 +536,7 @@ A KM meghatároz egy **4-9-ig** terjedő célszámot nehézségnek, a játékos 
 
 Ha a karakternek egy olyan összetett próbát kell tennie, ami nem intézhető el 1db dobással (pl. több fázisból álló kombinált mozdulatsor, egy összetett, hosszan tartó, hullámzó érzelemimpulzus értelmezése Fogékonyság próbával), akkor igazságtalan lenne a maximális nehézséget többször megdobatni vele, hiszen így drasztikusan lecsökken az esélye a sikerre. Ilyenkor a következő módszert használjuk:
 
-- [ ] A játékos dob egy próbát az indokolt maximális nehézségre (pl. „Nagyon nehéz" (Célszám:7))
+- [ ] A játékos dob egy próbát az indokolt maximális nehézségre (pl. „Nagyon nehéz" (`Célszám:7`))
 - [ ] Ezután dob több (a KM dönti el, hány) próbát **1 fokozattal alacsonyabb nehézség ellen**. Pl. (2db Nehéz próbát). Így a siker eloszlása sokkal fokozatosabb és a biztos tudást is jobban jutalmazzuk, valamint elkerüljük, hogy egy kezdő - csak azért, mert szerencséset dobott - egy hosszú, részletes, tudását jóval meghaladó feladatot „véletlenül" megcsinálhasson.
 - [ ] Hogy a másodlagos dobásból hány kell, az főleg attól függ, hogy a feladat „milyen hosszú", mennyire „többlépcsős".
 - [ ] Ha nagyon finom bontást akarunk, akkor akár 2 fokozattal alacsonyabb nehézségre is dobathatunk akár így is: Nagyon nehéz (1db), Nehéz(1db), Átlagos (1db).
@@ -543,10 +544,10 @@ Ha a karakternek egy olyan összetett próbát kell tennie, ami nem intézhető 
 #### Példa Összetett Tulajdonságpróbára
 
 ⚡ Elkapdosni a folyamatosan potyogó tányérokat
-- [ ] Tetves, a tolvaj Ügyessége: +3
-- [ ] A próba „Nagyon nehéz" (**Célszám: 7**)
+- [ ] Tetves, a tolvaj `Ügyessége: +3`
+- [ ] A próba „Nagyon nehéz" (`Célszám: 7`)
 - [ ] Mivel a feladat elég komplex és időben is elhúzódhat, ezért nem intézhető el a dolog 1db dobással. A KM 1db Másodlagos próbát ír elő.
-- [ ] Ekkor a próbák célszámai: 7 és 6 (50% és 66% esély a sikerre). Ezzel kb. 33%-a van a sikerre (0.5\*0.66). Látható, hogy az összetettebb feladatok nagyobb biztos tudást igényelnek.
+- [ ] Ekkor a próbák célszámai: `7` és `6` (`50%` és `66%` esély a sikerre). Ezzel kb. `33%`-a van a sikerre (`0.5\*0.66`). Látható, hogy az összetettebb feladatok nagyobb biztos tudást igényelnek.
 - [ ] Tehát a próbák:
 
 ```
@@ -564,13 +565,13 @@ Ilyenkor a KM határozza meg a feladat nehézségét és jelölje ki az elsődle
 
 Ezután a kiválasztott elsődleges Tulajdonságra dobjon próbát a karakter a KM által előzően meghatározott nehézségre, majd pedig egy másik próbát a másodlagos Tulajdonságra, a fenti nehézségnél 1-el könnyebb fokozattal.
 
-**Figyelem**
+> ❗Fontos
 
 A fenti szám nincs kőbe vésve! Ha a KM a másodlagos Tulajdonság szerepét
 még kevésbé érzi fontosnak, akkor akár 2-vel, vagy 3-al is csökkentheti
 annak Tulajdonságpróbáját.
 
-***Példa***:
+> Példa
 
 Továbbra is az első példánál maradva: ha a feladat „Nagyon nehéz" (7) és a KM az adott szituációban az Erő Tulajdonságot ítéli elsődlegesnek, akkor a dobandó próbák a következőek lesznek:
 
@@ -587,9 +588,9 @@ Továbbra is az első példánál maradva: ha a feladat „Nagyon nehéz" (7) é
 
 Ha két karakternek össze kell mérnie tudását egy konkrét Tulajdonsággal kapcsolatban (például ki tud tovább pénzt pörgetni a kezén), akkor Tulajdonság ellenpróbát kell dobniuk, amely a következőképpen néz ki:
 
-Mindkét játékos dob (NJK esetén természetesen a KM) **k6**-al, és az eredményt hozzáadja az adott Tulajdonságának értékéhez. Aki nagyobb számot kap eredményül, az nyer. Ha az eredmények azonosak, akkor patthelyzet alakul ki, a KM belátása szerint (esetleg némi idő elteltével) új ellenpróba dobható. Ha az adott szituációban nem lehetséges patthelyzet, akkor újra kell dobni k6-al (ekkor már nem kell hozzáadni a Tulajdonság értékét) és a nagyobb szám nyer.
+Mindkét játékos dob (NJK esetén természetesen a KM) `k6`-tal, és az eredményt hozzáadja az adott Tulajdonságának értékéhez. Aki nagyobb számot kap eredményül, az nyer. Ha az eredmények azonosak, akkor patthelyzet alakul ki, a KM belátása szerint (esetleg némi idő elteltével) új ellenpróba dobható. Ha az adott szituációban nem lehetséges patthelyzet, akkor újra kell dobni `k6`-tal (ekkor már nem kell hozzáadni a Tulajdonság értékét) és a nagyobb szám nyer.
 
-A fentiek alól kivételt képez az Erő-ellenpróba. Ott dobás nélkül mindig a nagyobb Erő Tulajdonsággal rendelkező karakter nyer.
+A fentiek alól kivételt képez az `Erő-ellenpróba`. Ott dobás nélkül mindig a nagyobb `Erő` Tulajdonsággal rendelkező karakter nyer.
 
 ---
 
@@ -604,11 +605,11 @@ Minden élőlény a benne keringő testi és lelki energiának, az életerőnek 
 <br />
 
 <img src="images/01_eletero_tablazat.png" style="float: left; margin:0 15px 10px 0" width="400px" />
-A karakter aktuális fizikai állapotát az Életerő Pontok (ÉP) száma határozza meg, melyeket 4 egészség kategória közt a táblázatban egyenlő arányban (össz ÉP 1/4-e minden oszlopba) osztunk el. Ha maradékos az osztás, akkor a maradékot balról jobbra osszuk el.
+A karakter aktuális fizikai állapotát az Életerő Pontok (`ÉP`) száma határozza meg, melyeket `4` egészség kategória közt a táblázatban egyenlő arányban (`össz ÉP 1/4-e minden oszlopba`) osztunk el. Ha maradékos az osztás, akkor a maradékot balról jobbra osszuk el.
 
-Ezek az ún. sebesülés kategóriák szimulálják, hogy milyen állapotban van a karakter. Az S1 az enyhén sérült, az S4 pedig a halálosan sérült állapotot jelöli.
+Ezek az ún. `sebesülés kategóriák` szimulálják, hogy milyen állapotban van a karakter. Az `S1` az enyhén sérült, az `S4` pedig a halálosan sérült állapotot jelöli.
 
-Az egyes kategóriák jelölésében az „S” a „Sebesülés” -re utal, a szám utána pedig könnyen azonosítja állapotunkat.
+Az egyes kategóriák jelölésében az `S` a „Sebesülés” -re utal, a szám utána pedig könnyen azonosítja állapotunkat.
 <br clear="left"/>
 
 A fenti ábra `18ÉP` elosztását mutatja be.
@@ -645,9 +646,9 @@ Lásd a ⭕ **Pszi** fejezetet!
 ## Fejlődés
 
 A karakter kalandjai során sokat tapasztal, ezáltal tanul. A tanulás folyamata a km100 rendszerében a tapasztaláson keresztül valósul meg.
-Minden olyan tett, cselekedet, élmény során, amely a karakter épülését, fejlődését szolgálja ún. Tapasztalati Pontot (TP) ad.
+Minden olyan tett, cselekedet, élmény során, amely a karakter épülését, fejlődését szolgálja ún. Tapasztalati Pontot (`TP`) ad.
 
-1000 TP összegyűjtése után a karakter szintet lép és a karakteralkotásnál meghatározott szabályok szerint növelheti karaktere egyes értékeit az ún. Karakter Pontokból (KP), melyeket ilyenkor kap. Ez utóbbi pontok elköltéséről láss alább egy rövid összegzést.
+`1000 TP` összegyűjtése után a karakter szintet lép és a karakteralkotásnál meghatározott szabályok szerint növelheti karaktere egyes értékeit az ún. Karakter Pontokból (`KP`), melyeket ilyenkor kap. Ez utóbbi pontok elköltéséről láss alább egy rövid összegzést.
 
 ## Karakter pontok (KP) elosztása
 
@@ -676,23 +677,24 @@ A karakterek 1. szinten `150 KP`-t (KP Alap), valamint minden szinten (elsőn is
 
 - Harcérték módosítók (HM) / Célzóérték módosítók (CM)
   - `1 HM/CM = 5 KP`
-  - `max (6+Ügyesség) HM/szint`\
+  - `maximum (6+Ügyesség) HM / szint` költhető\
     (HM = „puszta kezes" HM, amibe a TÉ és VÉ tartozik bele)
   - `max 4 CM/szint`\
     (CM = Célzó Érték Módosító, ami a CÉ-re fordítandó harcérték módosítót jelöli)
   - ⭕`max 5 HM/szint` tehető egy harcértékre⭕
 - Mana pontok, tanult Mágikus tradíció (ha van), Mágiaiskolák
   - `1 Mana pont = 3 KP`
-  - Mágikus tradíciók: `50KP`-ba kerülnek (csak 1x vehetőek fel) és követelményeik vannak (van amelyik, csak 1.szinten vehető fel). (Például: Kyr mozaikmágia, Vulgármágia, stb.)\
+  - Mágikus tradíciók: `50KP`-ba kerülnek (csak 1x vehetőek fel) és követelményeik vannak (van amelyik, csak 1. szinten vehető fel). (Például: Kyr mozaikmágia, Vulgármágia, stb.)
  ````diff
--    **Ötlet**: Esetleg fel lehessen venni később is, de 4 szinten keresztül kelljen tanulni. Bejelenti a játékos szintlépésnél, aztán még 3 szintlépés kell, míg használhatja és felírhatja a lapjára.
+- Ötlet: Esetleg fel lehessen venni később is, de 4 szinten keresztül kelljen tanulni.
+- Bejelenti a játékos szintlépésnél, aztán még 3 szintlépés kell, míg használhatja és felírhatja a lapjára.
 ````
 
   - Mágiaiskolák: Átlagos képzettségek. Csak azok a mágiaiskolák tanulhatóak, amelyek a karakter által ismert mágia tradíció alá tartoznak.
 
 - Pszí tradíció, Pszí iskolák, Pszí pontok
-  - 1ψp = 2 KP
-  - Pszí-alkalmazás: 4 fokú fortély egyre erősebb követelményekkel. Az alkalmazás fokát adja, nélküle nem lehet ψp-ot venni, vagy ψ tradíciót tanulni.
+  - `1ψp = 2 KP`
+  - Pszí-alkalmazás: `4 fokú fortély` egyre erősebb követelményekkel. Az alkalmazás fokát adja, nélküle nem lehet `ψp`-ot venni, vagy ψ tradíciót tanulni.
   - Pszí tradíciók: átlagos képzettségek: vannak erősségeik és csak bizonyos diszciplínákat ismernek
 
 ### Manőverek
@@ -710,13 +712,13 @@ A karakterek 1. szinten `150 KP`-t (KP Alap), valamint minden szinten (elsőn is
 
 ## Harcértékek, Jellemzők
 
-Hogy egy karakter milyen tapasztalt a harc terén, azt harcértékeivel jellemezzük. Nyilvánvaló, hogy akinek inkább a fegyverforgatás az élete, annak jobbak a harcértékei, mint annak, aki mágikus tudományokban mélyül el. A harcértékek tárgyalását lásd a Harcrendszer fejezet 2.2.1-es „Harcértékek" alfejezetében!
+Hogy egy karakter milyen tapasztalt a harc terén, azt harcértékeivel jellemezzük. Nyilvánvaló, hogy akinek inkább a fegyverforgatás az élete, annak jobbak a harcértékei, mint annak, aki mágikus tudományokban mélyül el. A harcértékek tárgyalását lásd a Harcrendszer fejezet `2.2.1`-es „Harcértékek" alfejezetében!
 
 ---
 
 # Képzettségek
 
-Lásd a ⭕ Képzettségek fejezetet.
+Lásd a ⭕Képzettségek⭕ fejezetet.
 
 ---
 
