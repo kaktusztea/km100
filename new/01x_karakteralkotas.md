@@ -137,11 +137,11 @@ Fejleszthető tulajdonság.
 
 **0**: Átlagos
 
-**+1/+2**: *Jól bírja a strapát, a menetelést, úszásban sokáig bírja, kiváló az egészsége, csak elvétve beteg.*
+**+1/+2**: Jól bírja a strapát, a menetelést, úszásban sokáig bírja, kiváló az egészsége, csak elvétve beteg.
 
 **+3/+4**: A természet vad gyermeke. Beteg sose volt. „Kicsattanó az egészsége" - mondogatják. Lemeríthetetlen.
 
-**+5**: *Legendás serpa, lerázhatatlan nyomolvasó. Minimális alvással is remekül bírja. Legendás egészségű, beteg soha nem volt, még a járványokkal, mérgekkel szemben is jó eséllyel száll harcba. ⭕TODO⭕: Extra*
+**+5**: Legendás serpa, lerázhatatlan nyomolvasó. Minimális alvással is remekül bírja. Legendás egészségű, beteg soha nem volt, még a járványokkal, mérgekkel szemben is jó eséllyel száll harcba. ⭕TODO⭕: Extra
 
 </code>
 
@@ -168,7 +168,7 @@ hogy enni tudjon.
 
 **+3/+4**: Szemet gyönyörködtető a mozgása. Ha képzik, ünnepelt táncos, vagy halálos gyilkolóművész is lehet belőle. Kész zsonglőr.
 
-**+5**: Világhírű mutatványos -- sokak szerint (tévesen) varázsló. Elit fejvadász iskolák legjobbjai. ⭕TODO⭕: Extra
+**+5**: Világhírű mutatványos - sokak szerint (tévesen) varázsló. Elit fejvadász iskolák legjobbjai. ⭕TODO⭕: Extra
 
 </code>
 
