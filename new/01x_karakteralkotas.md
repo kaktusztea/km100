@@ -379,8 +379,26 @@ A rokkantság csökkenti a karakter fizikai Tulajdonságait is. Erre végképp n
 
 A karakteralkotás kezdetén minden *Tulajdonságod* értéke `-5`. Első lépésben ossz el `64` pontot a nyolc T*ulajdonságod* között az alábbi táblázat szerint. (Megjegyzés: nem kell mindet elköltened, tartalékolhatsz is egy későbbi nagyobb „emelésre".)
 
-### Fajok
 
+| Tulajdonság | Pont költség |
+| :-----: | :----: |
+| -5 | - |
+| -4 | 1 |
+| -3 | 2 |
+| -2 | 3 |
+| -1 | 4 |
+| 0 | 5 |
+| 1 | 6 |
+| 2 | 8 |
+| 3 | 11 |
+| 4 | 15 |
+| 5 | 20 |
+| 6* | 26 |
+\* Csak faji módosítóval
+
+`Minden negyedik` karakterszinten kapsz további `+2` pontot, melyet szintén a fenti táblázat alapján fordíthatsz tulajdonságaid növelésére. Figyelem! Nem egy Tulajdonság értékét növelheted kettővel, hanem ennyi pontot kapsz, amelyből kigazdálkodhatsz egy Tulajdonság növelést. Az így kapott bónusz pontokat „tartalékolhatod” is. Például egy `+3`-ról `+4`-re való növelés költsége `4 pont`, amelyre `8 szint` fejlődés során tehetsz szert.
+
+### Fajok
 
 ````diff
 - Fajok különleges képességeit Háttér-fortélyból kelljen felvenni.
@@ -400,6 +418,8 @@ egyes fajok tulajdonság-korlátait.
 [-5;+5] a határ mindenre.
 </code>
 
+<br />
+
 **elf**
 
 <code>
@@ -408,10 +428,15 @@ Erő: [-5; +4] ; Edzettség: [-5; +4] ; Ügyesség [-2;+6] ; Gyorsaság [-2;+6] 
 A „Kitartás"-t fortélyt fel *kell* vennie KP-ból, de nincs Edzettség követelménye.
 </code>
 
+<br />
+
 **félelf**
+
 <code>
 Erő: [-5;+4] ; Gyorsaság [-4;+6]
 </code>
+
+<br />
 
 **törpe**
 
@@ -421,6 +446,8 @@ Erő: [-1;+5] ; Gyorsaság [-5;+4] ; Edzettség [-2;+6] ; Emlékezet [-5;+6]; Fo
 Futásnál, úszásnál, gyaloglásnál sebessége 60%-a az emberének.
 </code>
 
+<br />
+
 **ork**
 
 <code>
@@ -428,6 +455,8 @@ Erő: [-1;+6] ; Edzettség [+0;+6]; Intelligencia [-5;+2] ; Fogékonyság [-5;+2
 
 ÉP bónusz: +2
 </code>
+
+<br />
 
 **udvari ork**
 
@@ -438,17 +467,23 @@ Erő: [-1;+6] ; Edzettség [-1;+5]; Intelligencia
 ÉP bónusz: +2
 </code>
 
+<br />
+
 **kyr-vérű**
 
 <code>
 Edzettség: [-5;+4] ; Önuralom [-3;+6] ; Fogékonyság [-3;+6]
 </code>
 
+<br />
+
 **amund**
 
 <code>
 Erő [0;+5] ; Edzettség [0;+5] ; Intelligencia [-5;+3] ; Önuralom [-5;+3] ; Fogékonyság [-3; +6]
 </code>
+
+<br />
 
 **dzsenn**
 
@@ -458,6 +493,8 @@ Intelligencia [+1;+6] ; Önuralom [+1;+6] ;
 Kötelező a „Pszí -- Dzsenn" pszí tradíció fortélyt 1.szinten
 </code>
 
+<br />
+
 **gnóm**
 
 <code>
@@ -466,6 +503,8 @@ Erő [-5;+2] ; Ügyesség [-2;+5], Intelligencia [+0;+6\]
 Futásnál, úszásnál, gyaloglásnál sebessége 60%-a az emberének. ÉP levonás: -3 (minimum 1)
 </code>
 
+<br />
+
 **goblin**
 
 <code>
@@ -473,6 +512,8 @@ Erő [-5;+2] ; Edzettség [-2;+4] ; Ügyesség [-5;+6] ; Intelligencia [-5; +2];
 
 ÉP levonás: -4 (minimum 1)
 </code>
+
+<br />
 
 **khál**
 
@@ -491,8 +532,8 @@ lény, ezért hozzájuk képest a többi faj lassabban jut előre. Ennek
 szimulálását úgy jelenítjük meg, hogy magasabb a TP/Szint értékhatáruk.
 Hogy mennyivel, azt az alábbi táblázat szemlélteti.
 
-| Faj | TP/Szint  | Speciális
-| ----------- | ----------- | ----------- |
+| Faj | TP/Szint  | Speciális |
+| ----------- | :-----------: | :-----------: |
 | Ember | 1000 | ⭕ |
 | Elf | ⭕ | ⭕ |
 | Félelf | ⭕ | ⭕ |
@@ -586,23 +627,27 @@ Mindkét játékos dob (NJK esetén természetesen a KM) **k6**-al, és az eredm
 
 A fentiek alól kivételt képez az Erő-ellenpróba. Ott dobás nélkül mindig a nagyobb Erő Tulajdonsággal rendelkező karakter nyer.
 
+---
+
 ## Életerő pontok
 
-Minden élőlény a benne keringő testi és lelki energiának, az életerőnek
-köszönheti, hogy különbözik a közönséges tárgyaktól. Ez az energia ad
-életet, ha elhagyja testünk, meghalunk. Ezt szimuláljuk az ún. Életerő
-pontokkal. Hogy kinek mennyi van belőle (mennyivel életerősebb), az a
-karakterek Edzettség értékétől függ. Kiszámolása a következőképpen
-történik:
+Minden élőlény a benne keringő testi és lelki energiának, az életerőnek köszönheti, hogy különbözik a közönséges tárgyaktól. Ez az energia ad életet, ha elhagyja testünk, meghalunk. Ezt szimuláljuk az ún. Életerő pontokkal. Hogy kinek mennyi van belőle (mennyivel életerősebb), az a karakterek Edzettség értékétől függ. Kiszámolása a következőképpen történik:
+
+```
+ÉP = 12 + (Edzettség x 2)
+```
+
+<br />
+
+<img src="images/01_eletero_tablazat.png" style="float: left; margin:0 15px 10px 0" width="400px" />
+A karakter aktuális fizikai állapotát az Életerő Pontok (ÉP) száma határozza meg, melyeket 4 egészség kategória közt a táblázatban egyenlő arányban (össz ÉP 1/4-e minden oszlopba) osztunk el. Ha maradékos az osztás, akkor a maradékot balról jobbra osszuk el.
+Ezek az ún. sebesülés kategóriák szimulálják, hogy milyen állapotban van a karakter. Az S1 az enyhén sérült, az S4 pedig a halálosan sérült állapotot jelöli.
+Az egyes kategóriák jelölésében az „S” a „Sebesülés” -re utal, a szám utána pedig könnyen azonosítja állapotunkat.
+<br clear="left"/>
 
 A fenti ábra 18ÉP elosztását mutatja be.
 
-**Kábulat ÉP (KT): **Verekedésnél, leütésnél, kábulatnál, rosszullétnél
-használjuk a Kábulat ÉP Pontot (KT). Hatása ugyanolyan, mint az ÉP
-vesztés (lásd Sebesülés fejezet), de nem okozhat halált, mivel nem jár
-strukturális károsodással. Óránként 1 jön vissza. (Alvás közben óránként
-2) Alapállapotban nem létezik. Kifejtését lásd a **Harcrendszer
-Életerő** fejezetében.
+`Kábulat ÉP (KT)`: Verekedésnél, leütésnél, kábulatnál, rosszullétnél használjuk a Kábulat ÉP Pontot (KT). Hatása ugyanolyan, mint az ÉP vesztés (lásd Sebesülés fejezet), de nem okozhat halált, mivel nem jár strukturális károsodással. `Óránként 1 jön vissza`. (`Alvás közben óránként 2`) Alapállapotban nem létezik. Kifejtését lásd a ⭕**Harcrendszer Életerő** fejezetében.
 
 ## Méregellenállás
 
