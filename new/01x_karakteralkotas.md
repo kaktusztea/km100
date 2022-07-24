@@ -344,7 +344,6 @@ A rokkantság csökkenti a karakter fizikai Tulajdonságait is. Erre végképp n
 
 A karakteralkotás kezdetén minden *Tulajdonságod* értéke `-5`. Első lépésben ossz el `64` pontot a nyolc T*ulajdonságod* között az alábbi táblázat szerint. (Megjegyzés: nem kell mindet elköltened, tartalékolhatsz is egy későbbi nagyobb „emelésre".)
 
-
 | Tulajdonság | Pont költség |
 | :-----: | :----: |
 | -5 | - |
@@ -606,193 +605,135 @@ Minden élőlény a benne keringő testi és lelki energiának, az életerőnek 
 
 <img src="images/01_eletero_tablazat.png" style="float: left; margin:0 15px 10px 0" width="400px" />
 A karakter aktuális fizikai állapotát az Életerő Pontok (ÉP) száma határozza meg, melyeket 4 egészség kategória közt a táblázatban egyenlő arányban (össz ÉP 1/4-e minden oszlopba) osztunk el. Ha maradékos az osztás, akkor a maradékot balról jobbra osszuk el.
+
 Ezek az ún. sebesülés kategóriák szimulálják, hogy milyen állapotban van a karakter. Az S1 az enyhén sérült, az S4 pedig a halálosan sérült állapotot jelöli.
+
 Az egyes kategóriák jelölésében az „S” a „Sebesülés” -re utal, a szám utána pedig könnyen azonosítja állapotunkat.
 <br clear="left"/>
 
-A fenti ábra 18ÉP elosztását mutatja be.
+A fenti ábra `18ÉP` elosztását mutatja be.
 
-`Kábulat ÉP (KT)`: Verekedésnél, leütésnél, kábulatnál, rosszullétnél használjuk a Kábulat ÉP Pontot (KT). Hatása ugyanolyan, mint az ÉP vesztés (lásd Sebesülés fejezet), de nem okozhat halált, mivel nem jár strukturális károsodással. `Óránként 1 jön vissza`. (`Alvás közben óránként 2`) Alapállapotban nem létezik. Kifejtését lásd a ⭕**Harcrendszer Életerő** fejezetében.
-
-
-
-
-## Méregellenállás
-
-A Méregellenállás próba egyszerű Tulajdonság próba, melynél a karakter
-Edzettség Tulajdonsága számít.
-
-  ------------------------------------------
-  **Méregellenállás **\
-  (Edzettség + k6) **vs** Méreg Erőssége\*
-
-  ------------------------------------------
-
-\*A méregellenállást a méreg Erőssége (és NEM szintje) ellen kell
-dobni!!!
-
-Másodlagos hatás
-
-~~*~~A mérgeknek lehet ún. ~~****~~Másodlagos hatása~~****~~, amely a
-sikeres próba esetén következik be. Ennek hatása legfeljebb a rendes
-hatásnál 1-el (~~**~~2-vel???~~**~~) alacsonyabb kategóriájú lehet.\
-(Pl. Halál~~**~~→~~**~~Életveszély(~~**~~vagy Bódulat)~~**~~)~~*~~
-
-~~**~~
-
-## Mágiaellenállás
-
-Lásd a **Pszi** doksit.
-
-Majd ha ott kész, akkor beírni ide.
-
-## Fejlődés
-
-A karakter kalandjai során sokat tapasztal, ezáltal tanul. A tanulás
-folyamata a km100 rendszerében a tapasztaláson keresztül valósul meg.
-Minden olyan tett, cselekedet, élmény során, amely a karakter épülését,
-fejlődését szolgálja ún. Tapasztalati Pontot (TP) ad.
-
-1000 TP összegyűjtése után a karakter szintet lép és a
-karakteralkotásnál meghatározott szabályok szerint növelheti karaktere
-egyes értékeit az ún. Karakter Pontokból (KP), melyeket ilyenkor kap. Ez
-utóbbi pontok elköltéséről láss alább egy rövid összegzést.
-
-## Karakter pontok (KP) elosztása
-
-KP = 150 + (Tapasztalati szint x (80 + Intelligencia)) + (Tapasztalati
-szint x (15 + Emlékezet))\
-(ez utóbbi kizárólag NEM harci/misztikus ismeretekre költhető!)
-
-A karakterek 1. szinten **150 KP-**t (KP Alap), valamint minden szinten
-(elsőn is) **(80+Intelligencia) KP-t** kapnak. Ezen felül további
-(**15+Emlékezet**) KP jár szintenként, amit csak olyan ismeretre
-fordíthatnak, amely nem harci/misztikus jellegű. A játékosnak a fenti
-Karakter Pontjaiból kell felvennie a következőket:
-
--   Képzettségek
-
-```{=html}
-<!-- -->
-```
--   A harci és misztikus képzettségek szintje legfeljebb (**szint+3**)
-    lehet
--   A többi képzettség értéke pedig legfeljebb (**szint+8**) lehet
--   Szintlépéskor legfeljebb **2-vel** növelhetőek a képzettségek,
-    kivéve, ha 0-ról akar valaki egy képzettséget tanulni (ilyenkor
-    szintlépéskor maximum **3.szintre** növelheti egy lépésben a
-    képzettséget).
--   Egy Átlagos, vagy Specializáció képzettség legfeljebb 3-al lehet
-    magasabb, mint az őt magába foglaló Átfogó, vagy Átlagos képzettség.
-    Ha nincs fölé tartozó képzettség (pl. Nyelvismeret esetén), akkor
-    természetesen nincs felső korlát.
--   A képzettségek egyes kiemelt szintjeinek is lehetnek követelményei!
-    Magas szinten főleg.
-
-```{=html}
-<!-- -->
-```
--   Fortélyok
-
-```{=html}
-<!-- -->
-```
--   Nehézségük és összetettségük szerint csoportosítjuk őket. Lehetnek
-    1, vagy több fokúak.
--   Minden fok költsége: 15KP
--   Több fokú Fortélyoknál szintenként csak egy fokot lehet fejlődni
-    akkor is, ha lenne elég KP több fokra is! Ez alól kivétel az 1.
-    szint (karakteralkotás).
--   Egy szintlépés alkalmával nem vehető fel két olyan Fortély, amely
-    ugyanazt a jellemzőt/képzettséget, stb módosítja.
--   A fortélyoknak lehetnek követelményei: Tulajdonságok elvárt értékei,
-    képzettségek elvárt szintje, esetleg más fortélyok megléte, vagy
-    valamilyen nem számszerűsíthető körülmény.
-
-```{=html}
-<!-- -->
-```
--   Harcérték módosítók (HM) / Célzóérték módosítók (CM)
--   1 HM/CM = 5 KP
--   max (6+Ügyesség) HM/szint (HM = „puszta kezes" HM, amibe a TÉ és VÉ
-    tartozik bele)
--   max 4 CM/szint (CM = Célzó Érték Módosító, ami a CÉ-re fordítandó
-    harcérték módosítót jelöli)
--   max 5 HM/szint tehető egy harcértékre
--   Mana pontok, tanult Mágikus tradíció (ha van), Mágiaiskolák
--   1 Mana pont = 3 KP
--   Mágikus tradíciók: 50KP-ba kerülnek (csak 1x vehetőek fel) és
-    követelményeik vannak (van amelyik, csak 1.szinten vehető fel).
-    (Például: Kyr mozaikmágia, Vulgármágia, stb.)\
-    **Ötlet**: Esetleg fel lehessen venni később is, de 4 szinten
-    keresztül kelljen tanulni. Bejelenti a játékos szintlépésnél, aztán
-    még 3 szintlépés kell, míg használhatja és felírhatja a lapjára.
--   Mágiaiskolák: Átlagos képzettségek. Csak azok a mágiaiskolák
-    tanulhatóak, amelyek a karakter által ismert mágia tradíció alá
-    tartoznak.
-
-```{=html}
-<!-- -->
-```
--   Pszí tradíció, Pszí iskolák, Pszí pontok
--   1ψp = 2 KP
--   Pszí-alkalmazás: 4 fokú fortély egyre erősebb követelményekkel. Az
-    alkalmazás fokát adja, nélküle nem lehet ψp-ot venni, vagy ψ
-    tradíciót tanulni.
--   Pszí tradíciók: átlagos képzettségek: vannak erősségeik és csak
-    bizonyos diszciplínákat ismernek
-
-Manőverek
-
--   pl. lábsöprés, lefegyverzés, átdobás
--   Kivételek, mert **NEM** KP-ba, hanem Manőverfejlesztő Pontba
-    (**MFP**) kerülnek, amit automatikusan kap a játékos. (Σ MFP =
-    összes **nem-távolsági** harcmodor képzettségszintek összege)
--   Nem mind fejleszthető MFP-ből, van amit ráköltés nélkül simán „meg
-    lehet csinálni". De a legtöbb puszta végrehajtásának is van
-    szituációs, vagy egyéb követelménye.
-
-## Harcértékek, Jellemzők
-
-Hogy egy karakter milyen tapasztalt a harc terén, azt harcértékeivel
-jellemezzük. Nyilvánvaló, hogy akinek inkább a fegyverforgatás az élete,
-annak jobbak a harcértékei, mint annak, aki mágikus tudományokban mélyül
-el. A harcértékek tárgyalását lásd a Harcrendszer fejezet 2.2.1-es
-„Harcértékek" alfejezetében!
-
-# Képzettségek
-
-A Karakteralkotás és a Képzettségrendszer kikerült egy külön doksiba.
-
-# Fortélyok
-
-Kitéve külön doksiba.
-
-# Nem játékos karakterek
-
-A nem játékos karakterek, azaz az „NJK"-k a történet során felbukkanó
-olyan alakok, akiket nem a játékosok, hanem a KM személyesít meg és ő is
-irányítja őket. Céljaikat, gondolataikat a KM határozza meg, az a
-játékosok számára ismeretlen (kivéve persze, ha az NJK úgy dönt közli
-azokat, vagy valamilyen kényszerítő eszközzel kiszedik belőle).
-
-  --------------------------------------------------
-  NJK-kra nem érvényes a szint+3 képzettség limit!
-  --------------------------------------------------
-
-## NJK szintek
-
-Egy egyszerű paraszt öregkorára elérheti a 3-4. szintet is. Ez persze
-nem jár automatikus harcérték emelkedéssel, hiszen a **km100**
-rendszerében csak az nő, amire költünk. Kivétel ez alól a Tudatalatti
-Mágiaellenállás (TME), amely a tapasztalattal és korral lassan magától
-nő.
+`Kábulat ÉP (KT)`: Verekedésnél, leütésnél, kábulatnál, rosszullétnél használjuk a Kábulat ÉP Pontot (`KT`). Hatása ugyanolyan, mint az ÉP vesztés (lásd Sebesülés fejezet), de nem okozhat halált, mivel nem jár strukturális károsodással. `Óránként 1 jön vissza`. (`Alvás közben óránként 2`) Alapállapotban nem létezik. Kifejtését lásd a ⭕**Harcrendszer Életerő** fejezetében.
 
 ---
 
-`Creative Commons Licenc`
+## Méregellenállás
 
-Ez a dokumentum és egyes részletei, másolatai a [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.hu), azaz a
-„Nevezd meg! – Ne add el! – Így add tovább!” 4.0 licenc feltételeinek megfelelően használható fel.
+A Méregellenállás próba egyszerű Tulajdonság próba, melynél a karakter `Edzettség` Tulajdonsága számít.
 
-Ailtas 2022
+```
+(Edzettség + k6)  vs  Méreg Erőssége
+```
+
+`A méregellenállást a méreg Erőssége (és NEM szintje) ellen kell dobni!!!`
+
+### Másodlagos hatás
+
+A mérgeknek lehet ún. `Másodlagos hatása`, amely a
+sikeres próba esetén következik be. Ennek hatása legfeljebb a rendes hatásnál `1-el` (⭕2-vel???) alacsonyabb kategóriájú lehet. Pl. Halál → Életveszély (vagy Bódulat).
+
+---
+
+## Mágiaellenállás
+
+Lásd a ⭕ **Pszi** fejezetet!
+
+🚧 Majd ha ott kész, akkor beírni ide. 🚧
+
+---
+
+## Fejlődés
+
+A karakter kalandjai során sokat tapasztal, ezáltal tanul. A tanulás folyamata a km100 rendszerében a tapasztaláson keresztül valósul meg.
+Minden olyan tett, cselekedet, élmény során, amely a karakter épülését, fejlődését szolgálja ún. Tapasztalati Pontot (TP) ad.
+
+1000 TP összegyűjtése után a karakter szintet lép és a karakteralkotásnál meghatározott szabályok szerint növelheti karaktere egyes értékeit az ún. Karakter Pontokból (KP), melyeket ilyenkor kap. Ez utóbbi pontok elköltéséről láss alább egy rövid összegzést.
+
+## Karakter pontok (KP) elosztása
+
+```
+KP = 150 + (Tapasztalati szint x (80 + Intelligencia)) +
+           (Tapasztalati szint x (15 + Emlékezet))
+```
+
+> ez utóbbi (Emlékezethez kapcsolt pontok) kizárólag **NEM** harci/misztikus ismeretekre költhetők!
+
+A karakterek 1. szinten `150 KP`-t (KP Alap), valamint minden szinten (elsőn is) `(80+Intelligencia) KP`-t kapnak. Ezen felül további `(15+Emlékezet) KP` jár szintenként, amit csak olyan ismeretre fordíthatnak, amely nem harci/misztikus jellegű. A játékosnak a fenti Karakter Pontjaiból kell felvennie a következőket:
+
+- Képzettségek
+  - A harci és misztikus képzettségek szintje legfeljebb `szint+3` lehet
+  - A többi képzettség értéke pedig legfeljebb (**szint+8**) lehet
+  - Szintlépéskor `legfeljebb 2-vel` növelhetőek a képzettségek, kivéve, ha 0-ról akar valaki egy képzettséget tanulni (ilyenkor szintlépéskor `maximum 3.szintre` növelheti egy lépésben a képzettséget).
+  - Egy Átlagos, vagy Specializáció képzettség `legfeljebb 3`-al lehet magasabb, mint az őt magába foglaló Átfogó, vagy Átlagos képzettség. Ha nincs fölé tartozó képzettség (pl. Nyelvismeret esetén), akkor természetesen nincs felső korlát.
+  - A képzettségek egyes kiemelt szintjeinek is lehetnek követelményei! Magas szinten főleg.
+
+- Fortélyok
+  - Nehézségük és összetettségük szerint csoportosítjuk őket. Lehetnek 1, vagy több fokúak.
+  - Minden fok költsége: `15KP`
+  - Több fokú Fortélyoknál szintenként csak egy fokot lehet fejlődni akkor is, ha lenne elég KP több fokra is! Ez alól kivétel az 1. szint (karakteralkotás).
+  - Egy szintlépés alkalmával nem vehető fel két olyan Fortély, amely ugyanazt a jellemzőt/képzettséget, stb módosítja.
+  - A fortélyoknak lehetnek követelményei: Tulajdonságok elvárt értékei, képzettségek elvárt szintje, esetleg más fortélyok megléte, vagy valamilyen nem számszerűsíthető körülmény.
+
+- Harcérték módosítók (HM) / Célzóérték módosítók (CM)
+  - `1 HM/CM = 5 KP`
+  - `max (6+Ügyesség) HM/szint`\
+    (HM = „puszta kezes" HM, amibe a TÉ és VÉ tartozik bele)
+  - `max 4 CM/szint`\
+    (CM = Célzó Érték Módosító, ami a CÉ-re fordítandó harcérték módosítót jelöli)
+  - ⭕`max 5 HM/szint` tehető egy harcértékre⭕
+- Mana pontok, tanult Mágikus tradíció (ha van), Mágiaiskolák
+  - `1 Mana pont = 3 KP`
+  - Mágikus tradíciók: `50KP`-ba kerülnek (csak 1x vehetőek fel) és követelményeik vannak (van amelyik, csak 1.szinten vehető fel). (Például: Kyr mozaikmágia, Vulgármágia, stb.)\
+ ````diff
+-    **Ötlet**: Esetleg fel lehessen venni később is, de 4 szinten keresztül kelljen tanulni. Bejelenti a játékos szintlépésnél, aztán még 3 szintlépés kell, míg használhatja és felírhatja a lapjára.
+````
+
+  - Mágiaiskolák: Átlagos képzettségek. Csak azok a mágiaiskolák tanulhatóak, amelyek a karakter által ismert mágia tradíció alá tartoznak.
+
+- Pszí tradíció, Pszí iskolák, Pszí pontok
+  - 1ψp = 2 KP
+  - Pszí-alkalmazás: 4 fokú fortély egyre erősebb követelményekkel. Az alkalmazás fokát adja, nélküle nem lehet ψp-ot venni, vagy ψ tradíciót tanulni.
+  - Pszí tradíciók: átlagos képzettségek: vannak erősségeik és csak bizonyos diszciplínákat ismernek
+
+### Manőverek
+
+- pl. lábsöprés, lefegyverzés, átdobás
+- Kivételek, mert **NEM** KP-ba, hanem Manőverfejlesztő Pontba (`MFP`) kerülnek, amit automatikusan kap a játékos.
+
+```
+Σ MFP = összes nem-távolsági harcmodor képzettségszintek összege
+```
+
+- Nem mind fejleszthető MFP-ből, van amit ráköltés nélkül simán „meg lehet csinálni". De a legtöbb puszta végrehajtásának is van szituációs, vagy egyéb követelménye.
+
+---
+
+## Harcértékek, Jellemzők
+
+Hogy egy karakter milyen tapasztalt a harc terén, azt harcértékeivel jellemezzük. Nyilvánvaló, hogy akinek inkább a fegyverforgatás az élete, annak jobbak a harcértékei, mint annak, aki mágikus tudományokban mélyül el. A harcértékek tárgyalását lásd a Harcrendszer fejezet 2.2.1-es „Harcértékek" alfejezetében!
+
+---
+
+# Képzettségek
+
+Lásd a ⭕ Képzettségek fejezetet.
+
+---
+
+# Fortélyok
+
+Lásd a ⭕Fortélyok⭕ fejezetet.
+
+---
+
+# Nem játékos karakterek
+
+A nem játékos karakterek, azaz az „NJK"-k a történet során felbukkanó olyan alakok, akiket nem a játékosok, hanem a KM személyesít meg és ő is irányítja őket. Céljaikat, gondolataikat a KM határozza meg, az a játékosok számára ismeretlen (kivéve persze, ha az NJK úgy dönt közli azokat, vagy valamilyen kényszerítő eszközzel kiszedik belőle).
+
+```
+  NJK-kra nem érvényes a szint+3 képzettség limit!
+```
+
+## NJK szintek
+
+Egy egyszerű paraszt öregkorára elérheti a `3-4.` szintet is. Ez persze nem jár automatikus harcérték emelkedéssel, hiszen a `km100` rendszerében csak az nő, amire költünk. Kivétel ez alól a Tudatalatti Mágiaellenállás (`TME`), amely a tapasztalattal és korral lassan magától nő.
