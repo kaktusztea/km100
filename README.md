@@ -1,4 +1,5 @@
 # km100
+
 Egy fantasy világokra tervezett komplett szerepjáték rendszer.
 
 Filozófia: a km100 egy nagyfokú realitásra törekvő rendszer, sok szabállyal, mégis gördülékenynek tűnik játék során. Ennek oka, hogy a legtöbb számolást igénylő feladatot karakteralkotási időbe száműztünk. Így egy karakter megalkotása több időt vehet igénybe, viszont rendkívül egyedi, specializált végeredményt kapunk.
@@ -6,11 +7,14 @@ Filozófia: a km100 egy nagyfokú realitásra törekvő rendszer, sok szabállya
 Szociális képzettségekből egyedül az Etikett létezik, a meggyőzés, megfélemlítés, átverés jellegű szituációk a KM és a játékos közti párbeszéden, illetve az elképzelt karakteren múlik, ezeket csak kapcsolódó fortélyok könnyíthetik meg, de nem pótolhatják. Az ilyen jellegű helyzetek eredménye egy "Emberismeret" képzettségpróba, ahol a célszámot a KM határozza meg az előadás alapján, így a rendszer a _szerep-játékra_ helyezi a hangsúlyt - szemben például egy számítógépes játékkal, ahol ezen értékek is mind számszerűsítve vannak. Az élő játék egyik legnagyobb előnyét fontosnak tartottuk kiemelten kezelni.
 
 A km100 rendszerében nincsenek kasztok, egyes jellemzőket szabad pontokból, másokat KP elköltésével lehet növelni.
+
 ### Szabad pontok
+
 * **Tulajdonságok**: Erő, Edzettség, Ügyesség, Gyorsaság, Intelligencia, Emlékezet, Önuralom, Fogékonyság;&nbsp;&nbsp;&nbsp;+Érzékek származtatva
-* **Származtatott Harcértékek**: KÉ, TÉ, VÉ, CÉ, MP (Manőver-pont)
+* **Származtatott Harcértékek**: KÉ, TÉ, VÉ, CÉ, MFP (Manőverfejlesztő Pont)
 
 ### KP költésével növelt értékek
+
 * **Képzettségek**: Harci, Fizikai, Alvilági, Művészeti, Világi, Tudományos, Misztikus, Mágiaiskolák (Vulgár, Sámán, Bárd, Ordani tűz, Mozaik)
 * **Fortélyok**: Általános, Harci, Lovas, Íjász, Alvilági, Szociális, Világi, Tudományos, Művészeti, Mágikus/Misztikus, Pszí, Slan
 * **Harcérték módosítók** (HM)
@@ -22,14 +26,17 @@ A harcrendszer kiemelten alapoz a szituációk eltérő voltára, ugyanaz a két
 A lőfegyverek alapesetben rendkívül halálosak, viszont a vérteknek szintén nagy szerep jut (nem csak) ennek ellensúlyozására, illetve a célpont láthatósága, mozgása is sokat nehezít.
 
 ## Kivonatok
+
 * [Segédlet esszencia (PDF)](https://github.com/kaktusztea/km100/blob/master/km100__segedlet_v1.5.pdf)
 * [Tömör szabályrendszer (PDF)](https://github.com/kaktusztea/km100/blob/master/km100__tomor_v6.0.pdf)
 
 ## Karakteralkotók
+
 * [Karakteralkotó v7.0 (ODS)](https://github.com/kaktusztea/km100/blob/master/odt/01_km100_karakteralkotas/JK_karakteralkoto/karakteralkoto_v7.0.ods) <sub><sup>([LibreOffice](https://www.libreoffice.org/download/download/))</sup></sub>
 * [NJK Karakteralkotó v1.1 (PDF)](https://github.com/kaktusztea/km100/blob/master/km100__NJK_karlap_v1.1.pdf)
 
 ## Részletes szabályrendszer
+
 * [Karakteralkotás](https://github.com/kaktusztea/km100/blob/master/km100_01_karakteralkotas.pdf) (90%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/blob/master/_changelog/changelog_01_karakteralkotas.txt))</sub></sup>
 * [Képzettségrendszer](https://github.com/kaktusztea/km100/blob/master/km100_02_kepzettsegrendszer.pdf) (80%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/blob/master/_changelog/changelog_02_kepzettsegek.txt))</sub></sup>
 * [Fortélyok](https://github.com/kaktusztea/km100/blob/master/km100_03_fortelyok.pdf) (75%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/blob/master/_changelog/changelog_03_fortelyok.txt))</sub></sup>

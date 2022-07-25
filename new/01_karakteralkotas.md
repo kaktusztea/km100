@@ -361,7 +361,7 @@ Megjegyzés: nem kell mindet elköltened, tartalékolhatsz is egy későbbi nagy
 | 6* | 26 |
 \* Csak faji módosítóval
 
-`Minden negyedik` karakterszinten kapsz további `+2` pontot, melyet szintén a fenti táblázat alapján fordíthatsz tulajdonságaid növelésére. Figyelem! Nem egy Tulajdonság értékét növelheted kettővel, hanem ennyi pontot kapsz, amelyből kigazdálkodhatsz egy Tulajdonság növelést. Az így kapott bónusz pontokat „tartalékolhatod” is. Például egy `+3`-ról `+4`-re való növelés költsége `4 pont`, amelyre `8 szint` fejlődés során tehetsz szert.
+`Minden negyedik` karakterszinten kapsz további `+2` pontot, melyet szintén a fenti táblázat alapján fordíthatsz tulajdonságaid növelésére. Figyelem! Nem egy Tulajdonság értékét növelheted kettővel, hanem ennyi pontot kapsz, amelyből kigazdálkodhatsz egy Tulajdonság növelést. Az így kapott bónusz pontokat „tartalékolhatod” is. Például egy `+3`-ról `+4`-re való növelés költsége `4 pont`, amelyre `2 szint` fejlődés során tehetsz szert.
 
 ### Fajok
 
@@ -372,122 +372,100 @@ Megjegyzés: nem kell mindet elköltened, tartalékolhatsz is egy későbbi nagy
 - Vagy: a fajok Érzék-bónuszai úgy alakulnak, hogy kötelezően meg kell venniük azokat. (még nem eldöntött!!!) Pl. egy elfnek Látásra és Hallásra +2 bónusza van. Ez 24 + 20 = 44 KP
 ````
 
-#### Módosítók, korlátok
+#### Faji módosítók, korlátok
 
 Ha nem ember fajú karaktert alkotsz, akkor figyelembe kell venned az
 egyes fajok tulajdonság-korlátait.
 
-**ember**
+> **ember**
 
-<code>
-[-5;+5] a határ mindenre.
-</code>
+```
+[-5;+5] a határ mindenre
+```
 
-<br />
+> **elf**
 
-**elf**
-
-<code>
+```
 Erő: [-5; +4] ; Edzettség: [-5; +4] ; Ügyesség [-2;+6] ; Gyorsaság [-2;+6] ; Fogékonyság [-3;+6]
 
 A „Kitartás"-t fortélyt fel *kell* vennie KP-ból, de nincs Edzettség követelménye.
-</code>
+```
 
-<br />
+> **félelf**
 
-**félelf**
-
-<code>
+```
 Erő: [-5;+4] ; Gyorsaság [-4;+6]
-</code>
+```
 
-<br />
+> **törpe**
 
-**törpe**
-
-<code>
+```
 Erő: [-1;+5] ; Gyorsaság [-5;+4] ; Edzettség [-2;+6] ; Emlékezet [-5;+6]; Fogékonyság [-5;+3]
 
 Futásnál, úszásnál, gyaloglásnál sebessége 60%-a az emberének.
-</code>
+```
 
-<br />
+> **ork**
 
-**ork**
-
-<code>
+```
 Erő: [-1;+6] ; Edzettség [+0;+6]; Intelligencia [-5;+2] ; Fogékonyság [-5;+2]
 
 ÉP bónusz: +2
-</code>
+```
 
-<br />
+> **udvari ork**
 
-**udvari ork**
-
-<code>
+```
 Erő: [-1;+6] ; Edzettség [-1;+5]; Intelligencia
 [-5;+3] ; Fogékonyság [-5;+4]
 
 ÉP bónusz: +2
-</code>
+```
 
-<br />
+> **kyr-vérű**
 
-**kyr-vérű**
-
-<code>
+```
 Edzettség: [-5;+4] ; Önuralom [-3;+6] ; Fogékonyság [-3;+6]
-</code>
+```
 
-<br />
+> **amund**
 
-**amund**
-
-<code>
+```
 Erő [0;+5] ; Edzettség [0;+5] ; Intelligencia [-5;+3] ; Önuralom [-5;+3] ; Fogékonyság [-3; +6]
-</code>
+```
 
-<br />
+> **dzsenn**
 
-**dzsenn**
-
-<code>
+```
 Intelligencia [+1;+6] ; Önuralom [+1;+6] ;
 
 Kötelező a „Pszí -- Dzsenn" pszí tradíció fortélyt 1.szinten
-</code>
+```
 
-<br />
+> **gnóm**
 
-**gnóm**
-
-<code>
+```
 Erő [-5;+2] ; Ügyesség [-2;+5], Intelligencia [+0;+6\]
 
 Futásnál, úszásnál, gyaloglásnál sebessége 60%-a az emberének. ÉP levonás: -3 (minimum 1)
-</code>
+```
 
-<br />
+> **goblin**
 
-**goblin**
-
-<code>
+```
 Erő [-5;+2] ; Edzettség [-2;+4] ; Ügyesség [-5;+6] ; Intelligencia [-5; +2]; Önuralom [-5 ;+2]
 
 ÉP levonás: -4 (minimum 1)
-</code>
+```
 
-<br />
+> **khál**
 
-**khál**
-
-<code>
+```
 Erő [+1;+6] ; Edzettség [+1;+6] ; Ügyesség [+1;+5] ;
 Gyorsaság [+1;+6] ; Intelligencia [-5 ; +2] ; Önuralom [-5 ; +2] ; Fogékonyság [-5;+3]*
 
 * Számukra az emberi civilizáció nehezebben érthető
-</code>
+```
 
 #### Fajok hátrányai
 
@@ -664,7 +642,7 @@ A karakterek 1. szinten `150 KP`-t (KP Alap), valamint minden szinten (elsőn is
 
 - Képzettségek
   - A harci és misztikus képzettségek szintje legfeljebb `szint+3` lehet
-  - A többi képzettség értéke pedig legfeljebb (**szint+8**) lehet
+  - A többi képzettség értéke pedig legfeljebb `szint+8` lehet
   - Szintlépéskor `legfeljebb 2-vel` növelhetőek a képzettségek, kivéve, ha 0-ról akar valaki egy képzettséget tanulni (ilyenkor szintlépéskor `maximum 3.szintre` növelheti egy lépésben a képzettséget).
   - Egy Átlagos, vagy Specializáció képzettség `legfeljebb 3`-al lehet magasabb, mint az őt magába foglaló Átfogó, vagy Átlagos képzettség. Ha nincs fölé tartozó képzettség (pl. Nyelvismeret esetén), akkor természetesen nincs felső korlát.
   - A képzettségek egyes kiemelt szintjeinek is lehetnek követelményei! Magas szinten főleg.
@@ -701,7 +679,7 @@ A karakterek 1. szinten `150 KP`-t (KP Alap), valamint minden szinten (elsőn is
 ### Manőverek
 
 - pl. lábsöprés, lefegyverzés, átdobás
-- Kivételek, mert **NEM** KP-ba, hanem Manőverfejlesztő Pontba (`MFP`) kerülnek, amit automatikusan kap a játékos.
+- Kivételek, mert **NEM** KP-ba, hanem Manőverfejlesztő Pontba (`MFP`) kerülnek, amit automatikusan kap meg a játékos.
 
 ```
 Σ MFP = összes nem-távolsági harcmodor képzettségszintek összege
@@ -713,19 +691,7 @@ A karakterek 1. szinten `150 KP`-t (KP Alap), valamint minden szinten (elsőn is
 
 ## Harcértékek, Jellemzők
 
-Hogy egy karakter milyen tapasztalt a harc terén, azt harcértékeivel jellemezzük. Nyilvánvaló, hogy akinek inkább a fegyverforgatás az élete, annak jobbak a harcértékei, mint annak, aki mágikus tudományokban mélyül el. A harcértékek tárgyalását lásd a Harcrendszer fejezet `2.2.1`-es „Harcértékek" alfejezetében!
-
----
-
-# Képzettségek
-
-Lásd a ⭕Képzettségek⭕ fejezetet.
-
----
-
-# Fortélyok
-
-Lásd a ⭕Fortélyok⭕ fejezetet.
+Hogy egy karakter milyen tapasztalt a harc terén, azt harcértékeivel jellemezzük. Nyilvánvaló, hogy akinek inkább a fegyverforgatás az élete, annak jobbak a harcértékei, mint annak, aki mágikus tudományokban mélyül el. A harcértékek tárgyalását lásd a Harcrendszer fejezet, ⭕„Harcértékek"⭕ alfejezetében!
 
 ---
 
@@ -734,7 +700,7 @@ Lásd a ⭕Fortélyok⭕ fejezetet.
 A nem játékos karakterek, azaz az „NJK"-k a történet során felbukkanó olyan alakok, akiket nem a játékosok, hanem a KM személyesít meg és ő is irányítja őket. Céljaikat, gondolataikat a KM határozza meg, az a játékosok számára ismeretlen (kivéve persze, ha az NJK úgy dönt közli azokat, vagy valamilyen kényszerítő eszközzel kiszedik belőle).
 
 ```
-  NJK-kra nem érvényes a szint+3 képzettség limit!
+NJK-kra nem érvényes a szint+3 képzettség limit!
 ```
 
 ## NJK szintek
