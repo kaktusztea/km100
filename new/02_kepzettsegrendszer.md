@@ -34,9 +34,9 @@ A Specializált képzettségekkel együtt és azonos módon kezeljük a „`Kön
 
 Amennyiben a karakter rendelkezik olyan Képzettséggel, amely egy általa szintén ismert Képzettség alá tartozik (része), akkor ha a „magasabb kategóriájú" Képzettséget növeli, akkor az alá tartozó „alacsonyabb kategóriájú" képzettség értéke nem változik.
 
-> Például
+> Példa
 
-a karakter rendelkezik `6-os szintű` „Történelemismeret - Predoc" (**Specializáció**) és `3-as szintű` „Történelemismeret - Pyarroni államszövetség" (**Átlagos**) képzettséggel. Mivel Predoc a Pyarroni államszövetsége része, ezért a fenti, **Átlagos** képzettség tudásanyagába ez is beletartozik. Ekkor ha a karakter mondjuk `+2-vel` növeli az **Átlagos** képzettségét (`3+2=5`), attól a **Specializált** képzettsége továbbra is `6` marad, a növelés nem „tolta" maga előtt az alsóbb képzettséget.
+A karakter rendelkezik `6-os szintű` „Történelemismeret - Predoc" (**Specializáció**) és `3-as szintű` „Történelemismeret - Pyarroni államszövetség" (**Átlagos**) képzettséggel. Mivel Predoc a Pyarroni államszövetsége része, ezért a fenti, **Átlagos** képzettség tudásanyagába ez is beletartozik. Ekkor ha a karakter mondjuk `+2-vel` növeli az **Átlagos** képzettségét (`3+2=5`), attól a **Specializált** képzettsége továbbra is `6` marad, a növelés nem „tolta" maga előtt az alsóbb képzettséget.
 
 Ha az `Átlagos` képzettség értéke „beéri" a `Specializáltét`, akkor „magába olvasztja" azt. Természetesen bármikor „kinöveszthető" újra egy `Specializáció` az `Átlagos` képzettségből. Ugyanez igaz természetesen az `Átfogó` és az alá tartozó `Átlagos` képzettségekre is.
 
@@ -128,6 +128,8 @@ Tulajdonság + Képzettség + k10   vs.  Célszám
 
 Ha a KM úgy látja, hogy az adott próbánál több Tulajdonság is szerepet játszik, akkor a szükséges Tulajdonságok átlagával kell számolni.
 
+---
+
 ### Vállalás
 
 A Vállalás azt jelenti, hogy (ha a KM is beleegyezik) képzettségpróba esetén kaphatsz legfeljebb `+3` bónuszt a próbára - Te döntöd el mennyit. Minél többet vállalsz, annál nagyobb veszélynek teszed ki magad. Ugyanis a próba előtt „Vállalás próbát" kell dobni:
@@ -136,150 +138,99 @@ A Vállalás azt jelenti, hogy (ha a KM is beleegyezik) képzettségpróba eset�
 k6 vs. (a vállalás értéke)
 ```
 
-````diff
-- TODO: folytatás innen.
-````
-
-
-
-***Fontos:***** **A Vállalás értéke nem haladhatja meg képzettséged
+> **Fontos**: a Vállalás értéke nem haladhatja meg képzettséged
 aktuális értékét!
 
-Ha k6-on a Vállalás értékével megegyezőt, vagy kisebbet dobsz, akkor
-kritikus, halálos hibát vétesz és természetesen nem dobhatsz
-képzettségpróbát se. Ebből látszik, hogy vállalni csak nagyon fontos,
-ritka esetben van értelme. Úgy foglalhatjuk össze, hogy mikor vállalsz,
-olyankor megpróbálkozol valami olyan dologgal, ami hatékonyabb, mint
-jelenlegi tudásod, de még nem gyakoroltad be rendesen (pl. csak ellested
-a mesteredtől), így a rontásra is nagyobb az esélyed.
+Ha `k6`-on a Vállalás értékével megegyezőt, vagy kisebbet dobsz, akkor kritikus, halálos hibát vétesz és természetesen nem dobhatsz képzettségpróbát se. Ebből látszik, hogy vállalni csak nagyon fontos, ritka esetben van értelme. Úgy foglalhatjuk össze, hogy mikor vállalsz, olyankor megpróbálkozol valami olyan dologgal, ami hatékonyabb, mint jelenlegi tudásod, de még nem gyakoroltad be rendesen (pl. csak ellested a mesteredtől), így a rontásra is nagyobb az esélyed.
 
-A fenti példánál maradva egy 2-es Vállalás esetén már a következőképpen
-fest a próba:
+A fenti példánál maradva egy 2-es Vállalás esetén már a következőképpen fest a próba:
 
-Azaz: (9+k10) **vs.** 15
+```
+2 (Ügyesség) + 5 (Mászás) + 2 (Vállalás)+ k10   vs.  15 (Nagyon nehéz)
 
-Ez sokat dob az esélyeken, de megvan a rizikója is: ha a fenti karakter
-a dobás előtt a Vállalás-próbánál k6-on 1-et, vagy 2-t dob, akkor
-Halálos hibát vét!
 
-*Fontos*: összetett, több dobást igénylő képzettségpróbánál nem
-alkalmazható Vállalás! (pl. megmászni a nagy hegyet).
+Azaz: (9+k10)  vs  15
+```
+
+Ez sokat dob az esélyeken, de megvan a rizikója is: ha a fenti karakter a dobás előtt a Vállalás-próbánál k6-on 1-et, vagy 2-t dob, akkor Halálos hibát vét!
+
+> **Fontos**: összetett, több dobást igénylő képzettségpróbánál nem alkalmazható Vállalás! (pl. megmászni a nagy hegyet).
+
+---
 
 ### Próba biztos tudásból
 
-Bizonyos képzettségeket csak biztos tudásból lehet megpróbálni, nincs
-lehetőség képzettségpróba dobására. Tipikusan a „Tudok-e valamit
-róla?"-jellegű határozottan eldönthető esetekben. Ilyenkor a KM dönti
-el, hogy az adott képzettségszinttel az adott feladat megoldható, avagy
-sem.
+Bizonyos képzettségeket csak biztos tudásból lehet megpróbálni, nincs lehetőség képzettségpróba dobására. Tipikusan a „Tudok-e valamit róla?"-jellegű határozottan eldönthető esetekben. Ilyenkor a KM dönti el, hogy az adott képzettségszinttel az adott feladat megoldható, avagy sem.
+
+---
 
 ### Próba képzetlenül
 
-Ha a karakter egyáltalán nem jártas az adott képzettségben (vonatkozó
-értéke nulla), akkor -- ha a képzettség leírásánál engedélyezett a
-képzetlen dobás -- ugyanúgy próbát dob, mint bárki, de a célszám 3-al
-emelkedik. Egyes képzettségek esetén képzetlenség esetén *nem jár* a
-3-as, célszám emelő büntetés. Ilyenek tipikusan az alapvető fizikai
-képzettségek (mászás, esés, ugrás), valamint az olyanok, melyeket minden
-ember tud legalább minimális szinten, még ha soha nem is foglalkozott
+Ha a karakter egyáltalán nem jártas az adott képzettségben (vonatkozó értéke nulla), akkor -- ha a képzettség leírásánál engedélyezett a képzetlen dobás -- ugyanúgy próbát dob, mint bárki, de a `célszám 3-al emelkedik`. Egyes képzettségek esetén képzetlenség esetén **nem jár** a 3-as, célszám emelő büntetés. Ilyenek tipikusan az alapvető fizikai képzettségek (`mászás, esés, ugrás`), valamint az olyanok, melyeket minden ember tud legalább minimális szinten, még ha soha nem is foglalkozott
 vele.
 
-Hogy mely képzettségek esetén lehet képzetlenül is próbát tenni, azt az
-összefoglaló táblázatban találod. Ha az adott képzettséget nem lehet
-képzetlenül megpróbálni, akkor a KM egyszerűen megtagadja a próbát,
-automatikusan sikertelennek véve azt.
+Hogy mely képzettségek esetén lehet képzetlenül is próbát tenni, azt az összefoglaló táblázatban találod. Ha az adott képzettséget nem lehet képzetlenül megpróbálni, akkor a KM egyszerűen megtagadja a próbát, automatikusan sikertelennek véve azt.
 
-PROB_KEPZETTSEGEK\_#11. (összhang)
+⭕ PROB_KEPZETTSEGEK\_#11. (összhang) ⭕
+
+---
 
 ### Összetett képzettségpróba, Másodlagos próbadobások
 
-Ha a karakternek egy olyan összetett feladatot kell elvégeznie, ami nem
-intézhető el 1db dobással (pl. megmászni egy hegyet, vagy rettentő magas
-várfalat, esetleg órákon keresztül verset szavalni), akkor igazságtalan
-lenne a maximális nehézséget többször megdobatni vele, hiszen így
-drasztikusan lecsökken az esélye a sikerre. Ilyenkor a következő
-módszert használjuk:
+Ha a karakternek egy olyan összetett feladatot kell elvégeznie, ami nem intézhető el 1db dobással (pl. megmászni egy hegyet, vagy rettentő magas várfalat, esetleg órákon keresztül verset szavalni), akkor igazságtalan lenne a maximális nehézséget többször megdobatni vele, hiszen így drasztikusan lecsökken az esélye a sikerre. Ilyenkor a következő módszert használjuk:
 
--   A játékos dob egy próbát az indokolt maximális nehézségre (pl.
-    „Nagyon nehéz" (Célszám:12))
--   Ezután dob több (a KM dönti el, hány) próbát **1 fokozattal (-3
-    célszám) alacsonyabb nehézség ellen**. Pl. (2db Nehéz próbát). Így a
-    siker eloszlása sokkal fokozatosabb és a biztos tudást is jobban
-    jutalmazzuk, valamint elkerüljük, hogy egy kezdő -- csak azért, mert
-    szerencséset dobott -- egy hosszú, részletes, tudását jóval
-    meghaladó feladatot „véletlenül" megcsinálhasson.
--   Hogy a másodlagos dobásból hány kell, az főleg attól függ, hogy a
-    feladat „milyen hosszú", mennyire „többlépcsős".
--   Ha nagyon finom bontást akarunk, akkor akár 2 fokozattal (-6
-    célszám) alacsonyabb nehézségre is dobathatunk akár így is: Nagyon
-    nehéz (1db), Nehéz(1db), Átlagos (1db).
+- A játékos dob egy próbát az indokolt maximális nehézségre (pl. „Nagyon nehéz" (`Célszám:12`))
+- Ezután dob több (a KM dönti el, hány) próbát **1 fokozattal (-3 célszám) alacsonyabb nehézség ellen**. Pl. (`2db Nehéz próbát`). Így a siker eloszlása sokkal fokozatosabb és a biztos tudást is jobban jutalmazzuk, valamint elkerüljük, hogy egy kezdő - csak azért, mert szerencséset dobott - egy hosszú, részletes, tudását jóval meghaladó feladatot „véletlenül" megcsinálhasson.
+- Hogy a másodlagos dobásból hány kell, az főleg attól függ, hogy a feladat „milyen hosszú", mennyire „többlépcsős".
+- Ha nagyon finom bontást akarunk, akkor `akár 2 fokozattal` (-6  célszám) alacsonyabb nehézségre is dobathatunk akár így is: Nagyon nehéz (1db), Nehéz(1db), Átlagos (1db).
 
-#### Példa
+> Példa
 
--   Megmászni egy 200 ynevi láb magas, omladékos hegyet
--   Tetves, a tolvaj Mászás képzettsége: 7, Ügyessége: +2 , így 8+2 =
-    9-re dob majd rá k10-el.
--   A próba „Nagyon nehéz" (Célszám: 15)
--   Mivel az út hosszú, nem intézhető el a dolog 1db dobással, a KM 2db
-    Másodlagos próbát ír elő.
--   Ekkor a próbák célszámai: 15, 12, 12 (azaz 50%, 80% és 80% esély a
-    sikerre). Ezzel kb. 30%-a van a teljes feladat sikerére
-    (0.5\*0.8\*0.8). Látható, hogy az összetettebb feladatok nagyobb
-    fokú biztos tudást igényelnek.
--   Tehát a próbák:
+⚡ Megmászni egy 200 ynevi láb magas, omladékos hegyet
 
-```{=html}
-<!-- -->
+- Tetves, a tolvaj `Mászás képzettsége: 7`, `Ügyessége: +2` , így `8+2=9`-re dob majd rá `k10`-el.
+- A próba „Nagyon nehéz" (`Célszám: 15`)
+- Mivel az út hosszú, nem intézhető el a dolog 1db dobással, a KM `2db Másodlagos próbát` ír elő.
+- Ekkor a próbák célszámai: `15`, `12`, `12` (azaz `50%`, `80%` és `80%` esély a sikerre). Ezzel kb. `30%`-a van a teljes feladat sikerére (`0.5 x 0.8 x 0.8`). Látható, hogy az összetettebb feladatok nagyobb fokú biztos tudást igényelnek.
+- Tehát a próbák:
+
 ```
--   1x Nagyon nehéz (15) próba
--   2x Nehéz (12) próba
+- 1x Nagyon nehéz (15)
+- 2x Nehéz        (12)
+```
 
-TODO: Kidolgozni továbbiakat!
+⭕ **TODO**: Kidolgozni továbbiakat!⭕
+
+---
 
 ### Összhangok
 
-Vannak olyan esetek, amikor egyes képzettségek ismerete segítséget
-nyújthat más képzettségek használatakor. Az ilyet nevezzük Összhangnak.
-Természetesen a két érték nem adható össze, az aránytalansághoz vezetne.
+Vannak olyan esetek, amikor egyes képzettségek ismerete segítséget nyújthat más képzettségek használatakor. Az ilyet nevezzük Összhangnak. Természetesen a két érték nem adható össze, az aránytalansághoz vezetne.
 
-Ilyen esetekben attól függően, hogy mennyire kapcsolódik, a „kiegészítő"
-képzettség az adott feladathoz, annak 1/3-a, vagy 1/5-e adható hozzá
-képzettségpróbánál az elsődleges képzettség értékéhez. Tehát:
+Ilyen esetekben attól függően, hogy mennyire kapcsolódik, a „kiegészítő" képzettség az adott feladathoz, annak `1/3`-a, vagy `1/5`-e adható hozzá képzettségpróbánál az elsődleges képzettség értékéhez. Tehát:
 
--   Ha erősen kapcsolódik: 1/3-a adható hozzá
--   Ha közepesen kapcsolódik: 1/5-e adható hozzá
+```
+- Ha erősen kapcsolódik: 1/3-a adható hozzá
+- Ha közepesen kapcsolódik: 1/5-e adható hozzá
+```
 
-Például a karakter dulakodás nyomait találja egy erdei tisztáson.
-Valamilyen állat is ott volt. Ekkor Nyomolvasás képzettségpróbát kell
-dobnia, de mivel nagy segítséget jelentene, ha tudná, hogy milyen állat
-is volt jelen, ezért ebben az esetben a Természetjárás képzettség
-kiegészítő képzettségként működik. Mivel a jelen próbához a
-Természetjárás erősen kapcsolódik, ezért annak 1/3-a hozzáadható a
-karakter Nyomolvasás képzettségéhez (a próba idejére).
+Például a karakter dulakodás nyomait találja egy erdei tisztáson. Valamilyen állat is ott volt. Ekkor `Nyomolvasás` képzettségpróbát kell dobnia, de mivel nagy segítséget jelentene, ha tudná, hogy milyen állat is volt jelen, ezért ebben az esetben a `Természetjárás` képzettség kiegészítő képzettségként működik. Mivel a jelen próbához a `Természetjárás` erősen kapcsolódik, ezért annak `1/3`-a hozzáadható a karakter Nyomolvasás képzettségéhez (a próba idejére).
 
-### **Képzettség párok **
+---
 
-Bizonyos képzettségek „függésben" vannak egymással, azaz az adott
-képzettség legfeljebb egy meghatározott szinttel lehet magasabb a másik,
-kapcsolódó képzettségnél. Az ilyen egyedi függéseket jelezzük az adott
-képzettség leírásánál.
+### Képzettség párok
+
+Bizonyos képzettségek „függésben" vannak egymással, azaz az adott képzettség legfeljebb egy meghatározott szinttel lehet magasabb a másik, kapcsolódó képzettségnél. Az ilyen egyedi függéseket jelezzük az adott képzettség leírásánál.
+
+---
 
 ### Sérülés hatása képzettségpróbára
 
 Ha megsérül a karakter, képzettségpróbáira levonások járnak. Hogy mennyi, az attól függ, hogy melyik sebesülés kategóriában van, illetve hogy fizikai mozgást igénylő, vagy nem igénylő képzettségét teszi próbára:
 
+|      | S1  | S2 | S3 | S4 |
+| ---- | :----: | :----: | :----: | :----: |
+| **fizikai** | -  | -2 | -4 | -6 |
+| **egyéb**   | -  | -  | -1 | -3 |
 
-S1
-S2
-S3
-S4
-fizikai
--
--2
--4
--6
-egyéb
--
--
--1
--3
+---
