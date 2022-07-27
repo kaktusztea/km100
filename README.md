@@ -51,3 +51,9 @@ A lőfegyverek alapesetben rendkívül halálosak, viszont a vérteknek szintén
 * [Slan](https://github.com/kaktusztea/km100/blob/master/km100_08_slan.pdf) (25%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/blob/master/_changelog/changelog_08_slan.txt))</sub></sup>
 * [Érzékelés, Észlelés](https://github.com/kaktusztea/km100/blob/master/km100_09_erzekeles_eszleles.pdf) (90%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/blob/master/_changelog/changelog_09_erzekeles_eszleles.txt))</sub></sup>
 * [Szituációk](https://github.com/kaktusztea/km100/blob/master/km100_10_szituaciok.pdf) (20%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/blob/master/_changelog/changelog_10_szituaciok.txt))</sub></sup>
+
+---
+
+## [🚧 Fejlesztő portál 🚧](https://github.com/kaktusztea/km100/wiki)
+
+---
