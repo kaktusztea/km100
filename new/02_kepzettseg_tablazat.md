@@ -2,7 +2,11 @@
 
 🔴Átfogó képzettség 🔵Átlagos képzettség 🟢Specializáció
 
-⚪Kiegészítő Komment ⭕TODO, kérdéses
+🟡Különleges képzettség ⚪Kiegészítő Komment ⭕TODO, kérdéses
+
+---
+
+[Különleges képzettségek első szinten](#Különleges-képzettségek-első-szinten)
 
 ---
 
@@ -31,6 +35,38 @@
 [Ordani tűzmágia képzettség iskolái](#Ordani-tűzmágia-képzettség-iskolái)
 
 [Magasmágia képzettség iskolái](#Magasmágia-képzettség-iskolái)
+
+---
+
+## Különleges képzettségek első szinten
+
+### 🟡Helyismeret (városnyi terület)
+
+Ez egy speciális képzettség, melyre nem kell KP-t költeni. Minden karakter kezdéskor kap `10` szintnek megfelelő pontot, amit eloszthat az általa ismert városok/városnyi területek között. Például:
+
+* Helyismeret – Shadlek : 10
+
+   vagy
+
+* Helyismeret – Shadlek: 5, Helyismeret – Warwik: 3, Helyismeret – El Sobira fővárosa: 2
+
+* Ha a játékosnak a fenti érték nem elég, akkor 1.szinten – de csak akkor! - `Könnyű` képzettségként növelheti bármely városnyi területre vonatkoztatott Helyismeret képzettségét.
+
+* A Helyismeret értéke úgy változhat, hogy a KM egy kaland végén a `TP`-osztással együtt tetszés szerint ad pontot a karakterek Helyismeret képzettségére arra a helyre vonatkoztatva, ahol a kaland játszódott. Tehát ha a karakter a délvidékről származik és először volt Ifinben, akkor az eddig `0` értékű „Helyismeret – Ifin” képzettsége a kaland után akár `2`-re is nőhet, ha sok újdonságot tapasztalt a várossal kapcsolatban. Az ilyen értéknövelés nem igényel `KP` költést, "ingyenes".
+* Ha a karakter egy általa ismert várost magában foglaló országgal kapcsolatban dob Helyismeret képzettségpróbát, akkor használhatja a városra vonatkoztatott értékét `-3` büntetéssel.
+
+### 🟡Történelemismeret - saját város
+
+Első szinten minden karakter megkapja `3-as szinten` a saját városára vonatkoztatott Történelemismeret képzettséget. Ez az érték természetesen `KP`-ból szabadon tovább növelhető, valamint más városokra is korlátozás nélkül felvehető `KP`-ból.
+
+### 🟡Vallásismeret - saját vallás
+
+Első szinten minden karakter megkapja `3-as szinten` a saját vallására vonatkoztatott Vallásismeret képzettséget. Ez az érték természetesen `KP`-ból szabadon tovább növelhető, valamint más vallásokra is felvehető `KP`-ból, amennyiben ezt az előtörténet indokolja és a KM is engedélyezi.
+
+### 🟡Nyelvismeret - saját nyelv
+
+Első szinten minden karakter megkapja `6-as szinten` a saját anyanyelvéhez tartozó Nyelvismeret képzettséget.
+Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv ismeretét (Pyarroni) is. Amennyiben a karakter anyanyelve a Pyarroni, akkor csak azt kapja meg (`6-os szinten`), nem kap „ajándékba” más Nyelvismeret képzettséget, vagy Karakter Pontot! A képzettség KP-ból természetesen szabadon tovább növelhető.
 
 ---
 
