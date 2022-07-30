@@ -31,19 +31,17 @@ tökéletes a fizikai álca és a bónusz, ha hiteltelen az alakítás\...
 | Kismester (6)    | 1 szerep, ami passzol a személyiségéhez<br />+1 szerep, ami kicsit eltér a személyiségétől<br />Már a bajusz/szakáll készítése sem okoz gondot.<br />A ragasztott elemek 1 napig tartanak biztosan.<br />Példa: Képzett szélhámos  | Százarcú - 1.fok (4.szinten) | Ügyesség: 0<br />⭕Fogékonyság:0⭕ |
 | Mester (9)       | +1 szerep, ami kicsit eltér a személyiségétől<br />+1 szerep,ami közepesen eltér a személyiségétől<br />Alaposabban ismered az egyes izzadást gátló szereket, tartósabb ragasztókat. Összetételük ismeretében be tudod szerezni a hozzájuk való alapanyagokat. 1 perc alatt össze tudsz válogatni magadnak egy álcára valót az eléd kerülő rengeteg ruhából, kellékből (a felvétel persze már más tészta).<br />Az álcád karbantartás nélkül akár 2-3 napot is kibír.<br />Példa: beépülő fejvadász, orvgyilkos    | Százarcú - 2.fok (8.szinten) | Ügyesség: 1<br />⭕Fogékonyság:1⭕<br />⭕Alkímia – 3.szint⭕ |
 | Nagymester (12)  | +1 szerep,ami közepesen eltér a személyiségétől<br />+1 szerep, ami nagyon eltér a személyiségétől<br />Ha nincs megfelelő alapanyag a kencéidhez, akkor sem esel kétségbe, tudsz rögtönözni, ismersz helyettesítő anyagokat is. Rögtönzött felszerelést kevesebb, mint fél perc alatt össze tudsz válogatni. Az álcád karbantartás nélkül akár ⭕`XXX`⭕ napot is kibír.<br />Példa: „kaméleon” mestergyilkos   | - | Ügyesség: 1<br />⭕Fogékonyság:1⭕<br />Alkímia – 5.szint |
-| Élő legenda (15) | +1 szerep, ami ???
-Az álcád szinte már művészeti alkotás. Karbantartást nem igényel, sminked mintha második bőröd lenne. ⭕TODO⭕<br />Példa: Előbb a szakács fia volt, most épp a báróné!  | Élő álca<br />(titkos fortély) | Ügyesség: 2<br />⭕Fogékonyság:2⭕<br />Alkímia – 7.szint |
+| Élő legenda (15) | +1 szerep, ami ⭕???⭕<br />Az álcád szinte már művészeti alkotás. Karbantartást nem igényel, sminked mintha második bőröd lenne. ⭕TODO⭕<br />Példa: Előbb a szakács fia volt, most épp a báróné!  | Élő álca<br />(titkos fortély) | Ügyesség: 2<br />⭕Fogékonyság:2⭕<br />Alkímia – 7.szint |
 
 > Próbák
 
 | Célszám | Példa  |
-| ----------- | :-----------: |
+| ----------- | :----------- |
 | Könnyű       (6)  | Olyan álbajuszt/szakállat ragasztani, ami nem esik le egész nap.  |
 | Átlagos      (9)  |Azonos nemű és felépítésű, +/-20 év korú személlyé átvedleni.      |
 | Nehéz        (12) | 20 évnél nagyobb korkülönbséget hitelesen megjeleníteni. <br /><br />Más nemű, hasonló korú személlyé átvedleni. |
 | Nagyon nehéz (15) | Más felépítésű személlyé átvedleni. |
-| Rendkívül nehéz (18) | Más magasságú, nemű, teljesen más karakterű másik személlyé átváltozni.
-Más fajú (de hasonló testfelépítésű) lénnyé átalakulni. |
+| Rendkívül nehéz (18) | Más magasságú, nemű, teljesen más karakterű másik személlyé átváltozni.<br />Más fajú (de hasonló testfelépítésű) lénnyé átalakulni. |
 | Emberfeletti (21) | Egy kis cérnából és egy falevélből álcát készíteni. Más testfelépítésű lénnyé válni. |
 
 > Célszámot módosító körülmények
