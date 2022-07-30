@@ -4,6 +4,8 @@
 
 **Domináns Tulajdonságok**: xyz
 
+**Képzettség párja**: -
+
 **Leírás**: xyz
 
 **Kapcsolódó fortélyok**: xyz
@@ -22,14 +24,14 @@
 
 > Próbák
 
-  ---------------------- --
-  Könnyű (6)
-  Átlagos (9)
-  Nehéz (12)
-  Nagyon nehéz (15)
-  Rendkívül nehéz (18)
-  Emberfeletti (21)
-  ---------------------- --
+| Célszám | Példa  |
+| ----------- | :-----------: |
+| Könnyű       (6)  | |
+| Átlagos      (9)  | |
+| Nehéz        (12) | |
+| Nagyon nehéz (15) | |
+| Rendkívül nehéz (18) | |
+| Emberfeletti (21) | |
 
 > Célszámot módosító körülmények
 
