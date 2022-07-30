@@ -2,81 +2,26 @@
 
 Alább ismertetjük az egyes képzettségek részletes leírását.
 
+⭕ ??Gazdálkodás ??
+
+
 ### Harci képzettségek
 
-#### Közelharc
+Harcmodorok (Közelharc, Ökölharc, Kardvívás, Lándzsavívás, Pusztítás)
 
-...
+Távolsági harcmodorok (Hajítás, Íjászat, Lövészet, Ostromlövészet)
 
-##### Ökölharc
-
-Todo
-
-#### Belharc -- megszűnt, már fortély!! Ezt kitörölni innen (elmozgatni, a passzív doksiba)
-
-Alá tartozik:
-
--   Fegyvertelen belharc (átlagos)
--   Birkózás, dobási technikák, lefogás, csavarás, feszítés, törési
-    technikák ismeretének alapja. Egyes szintjei követelményei a fent
-    felsorolt belharci szituációban alkalmazott manőver fortélyok
-    tanulásának.
--   Fegyveres belharc (átlagos)
--   Mint a Fegyvertelen belharc, de fegyverek használata belharci
-    szituációban. Más jellegű Egyes szintjei követelményei belharci
-    szituációban alkalmazott fegyveres manőver fortélyoknak.
-
-Belharci szituációban a Belharc (illetve a fenti két képzettség
-valamelyike) adja a harcmodor által adott harcérték módosítókat. Más
-harcmodor bónuszai nem adódnak hozzá. Például ha Kardívívás-5.szint és
-Belharc-1.szint, akkor az 1.szintnek megfelelő harcmodor-módosítókat
-kell használni. Ez a Közelharc harcmodorra is igaz!! A Közelharc
-ismerete nem ad semmilyen pluszt belharci szituációban!
-
-A fentiek miatt érthető, hogy miért irtóznak a belharci szituációtól az
-olyan harcosok, akik képzetlenek ebben a harcmodorban -- beleértve a
-közelharcosokat is!
-
-\...
-
-#### Kardvívás
-
-TODO
-
-#### Lándzsavívás
-
-TODO
-
-#### Pusztítás
-
-TODO
-
-#### Hajítás
-
-TODO
-
-#### Íjászat
-
-TODO
-
-#### Lövészet
-
-TODO
-
-#### Ostromlövészet
-
-TODO
 
 ### Fizikai képzettségek
 
-#### Fájdalomtűrés
+Fájdalomtűrés (v0.71)   - ⭕ Update kell! Változott a szabály. Harcban nincs FT dobás.
+
 
 TODO: Leírás
 
 #### Mászás
 
-Figyelem: kimásolva külön doksiba is. Ott fejlesztendő tovább. A
-módosításokat vissza kell szinkronizálni ide!
+Figyelem: kimásolva külön doksiba.
 
 **Próba: **dobható
 
@@ -266,7 +211,7 @@ nem tudja magát kipihenni sem\>
 
 TODO
 
-#### Léglovaglás
+#### Léglovaglás (v0.7)
 
 Mint a lovaglás, csak repülő élőlényekre.
 
@@ -286,7 +231,7 @@ TODO
 
 ### Világi képzettségek
 
-#### Észlelés
+#### Észlelés (v0.95)
 
 Az Észlelés valaminek az észrevételét takarja. Ez lehet egy villanó tőr,
 egy meglapuló merénylő a lombok közt, egy árulkodó súrlódó nesz. Fontos,
@@ -305,7 +250,7 @@ dobott játékos.
 
 TODO
 
-#### Emberismeret
+#### Emberismeret  (v1.0)
 
 TODO
 
@@ -340,11 +285,9 @@ TODO
 
 TODO
 
-#### Etikett
+#### Etikett (v1.0)
 
-~~*~~Ha nincs épp Etikett az adott szituációban szükséges kultúrkörből,
-akkor be lehet számítani összhangként a meglevő „Etikettek" 1/5-ének
-összegét.~~*~~
+Ha nincs épp Etikett az adott szituációban szükséges kultúrkörből, akkor be lehet számítani összhangként a meglevő „Etikettek" 1/5-ének összegét.
 
 TODO
 
@@ -352,7 +295,7 @@ TODO
 
 TODO
 
-##### Értékbecslés(adott tárgycsoport)
+##### Értékbecslés(Átlagosként: adott tárgycsoport)
 
 fegyverek, ékszerek, festmények, szobrok, stb
 
@@ -369,6 +312,13 @@ TODO2
 #### Gyógyítás
 
 Átfogó. Magában foglalja a Sebgyógyítást és az Orvoslást is.
+
+⭕ Követelmény mindháromhoz: Herbalizmus, ...
+
+- Sebgyógyítás:
+  - Követelmény: x
+- Orvoslás: 2 próba (diagnózis, meggyógyítás)
+  - Követelmény: x
 
 TODO
 
@@ -409,7 +359,7 @@ TODO
 
 ### Alvilági képzettségek
 
-#### Lopakodás/Rejtőzés
+#### Lopakodás/Rejtőzés  (v0.1)
 
 Külső doksiban!
 
@@ -437,7 +387,7 @@ támpontokat, mankót adhat. Tehát ha a karakter megdobja próbáját, akkor
 a KM csak apró segítségeket tárhat a játékos elé, a megoldást nem
 kínálhatja tálcán.
 
-#### Álcázás/Álruha
+#### Álcázás/Álruha (v0.7.5)
 
 Külső doksiban!
 
@@ -558,7 +508,7 @@ TODO
 
 ~~~~
 
-#### Ősi kultúrák ismerete
+#### Ősi kultúrák ismerete (0.5)
 
 Ez a képzettség szándékosan különül el a Történelemismeret
 képzettségtől. A következőket kell tudni róla:
@@ -610,9 +560,10 @@ alfajokhoz külön fortély kell:
 
 Adjon bónuszt a „Harci anatómia" fortélyhoz hasonlóan?
 
-~~*~~TODO~~*~~
+TODO
 
-#### Méregkeverés
+#### Méregkeverés (1.1)
+⭕ formázni az új szerint, elválasztani a méregellenállástól?
 
 Ez a képzettség tanulható Átfogó képzettségként (ekkor minden típusú
 méregre vonatkozik), illetve Átlagos képzettségként -- ekkor választani
@@ -771,13 +722,13 @@ hatásnál 1-el (~~**~~2-vel???~~**~~) alacsonyabb kategóriájú lehet.\
 
 Ide tartozik az egyes ásványok ismerete is.
 
-~~*~~TODO~~*~~
+TODO
 
 ~~**~~
 
 #### Építészet
 
-~~*~~TODO~~*~~
+TODO
 
 #### Mágiaismeret
 
@@ -789,7 +740,7 @@ Azt nem ismeri fel, hogy éppen mit varázsol valaki!!
 
 #### Térképészet
 
-~~*~~TODO~~*~~
+TODO
 
 #### Mechanika
 
@@ -806,11 +757,11 @@ Csapdaállításnál:
 
 -   ehhez is kelljen a Mechanika követelménynek!
 
-~~*~~TODO~~*~~
+TODO
 
 #### Hadászat
 
-~~*~~TODO~~*~~
+TODO
 
 Része a Taktika és a Stratégia.
 
@@ -818,7 +769,7 @@ Része a Taktika és a Stratégia.
 
 (vezetői tudás)
 
-~~*~~TODO~~*~~
+TODO
 
 Taktika specializációk:
 
@@ -830,7 +781,7 @@ Taktika specializációk:
 
 (elmélet)
 
-~~*~~TODO~~*~~
+TODO
 
 Stratégia specializációk:
 
@@ -861,7 +812,7 @@ feladat célszámával.
 
 #### Festészet
 
-~~*~~TODO~~*~~
+TODO
 
 ##### Festészet-Hamisítás (spec)
 
@@ -873,7 +824,7 @@ feladat célszámával.
 
 #### Szobrászat
 
-~~*~~TODO~~*~~
+TODO
 
 ##### Szobrászat-Hamisítás (spec)
 
@@ -883,7 +834,7 @@ feladat célszámával.
 
 #### Kalligráfia
 
-~~*~~TODO~~*~~
+TODO
 
 ##### Kalligráfia-Hamisítás (spec)
 
@@ -951,38 +902,23 @@ TODO
 hozzá, hogy a karakter felvehesse. Kötött életmódot igényel. LEGYEN
 EGYÁLTALÁN?
 
-#### Demonológia
+#### Demonológia (v1.0 (Márk)
+⭕ még közösen át kell vizsgálni, véglegesíteni!
 
-Átfogó képzettség, és szintén alapos előtörténettel megtámogatott
-indoklás kell hozzá, hogy a karakter felvehesse. Alsóbb szinteken a
-képzettség csupán elméleti tudást takar. Magasabb szinten (9-es
-Demonológia képzettségtől) már lehetőséget ad a démonokra való
-varázslásra mentál és asztrálmágia formájában - amennyiben az alkalmazó
-képes a fenti iskolaformák varázslatait alkalmazni.
+Átfogó képzettség, és szintén alapos előtörténettel megtámogatott indoklás kell hozzá, hogy a karakter felvehesse. Alsóbb szinteken a képzettség csupán elméleti tudást takar. Magasabb szinten (9-es Demonológia képzettségtől) már lehetőséget ad a démonokra való varázslásra mentál és asztrálmágia formájában - amennyiben az alkalmazó képes a fenti iskolaformák varázslatait alkalmazni.
 
-Mindazonáltal démonokra varázsolni nem hétköznapi feladat. A varázslás
-előtt Demonológia képzettségpróba dobandó attól függően, hogy milyen
-csoportba tartozó démonra varázsol az illető (persze az is megér egy
-misét, hogy az alkalmazó felismeri-e, hogy milyen csoportú démont
-vezetett elé a rossz sors). A képzettségpróba nehézségei démonokra
-varázslás esetében:
+Mindazonáltal démonokra varázsolni nem hétköznapi feladat. A varázslás előtt Demonológia képzettségpróba dobandó attól függően, hogy milyen csoportba tartozó démonra varázsol az illető (persze az is megér egy misét, hogy az alkalmazó felismeri-e, hogy milyen csoportú démont vezetett elé a rossz sors). A képzettségpróba nehézségei démonokra varázslás esetében:
 
--   ~~*~~Szolgadémonokra: Nagyon nehéz próba (15)~~*~~
--   ~~*~~Közdémonokra: Rendkívül nehéz próba (18)~~*~~
--   ~~*~~Démonurakra: Emberfeletti próba (21)~~*~~
+- Szolgadémonokra: Nagyon nehéz próba (15)
+- Közdémonokra: Rendkívül nehéz próba (18)
+- Démonurakra: Emberfeletti próba (21)
 
-~~*~~Ha a fenti próba sikeres, akkor a démon játéktechnikailag rendes
+Ha a fenti próba sikeres, akkor a démon játéktechnikailag rendes
 mágiaellenállással rendelkező személynek minősül, és a varázslat
-erősítésétől függően hat, vagy nem hat rá a mágia.~~*~~
+erősítésétől függően hat, vagy nem hat rá a mágia.
 
-~~*~~Ha viszont a próba sikertelen\... ezt a KM fantáziájára bízzuk
-:)~~*~~
+Ha viszont a próba sikertelen\... ezt a KM fantáziájára bízzuk :)
 
-~~**~~
-
-~~**~~
-
-~~**~~
 
 ### Vulgármágia képzettség iskolái
 
