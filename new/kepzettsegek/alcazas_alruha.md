@@ -13,7 +13,7 @@ Fogékonyság
 
 **Leírás**: Az álcázás nagy előny, főleg ha vadásznak rád. Megfelelő maszk, smink, ruha, ezek elengedhetetlenek. Egy jó bajusz csodákat tehet, csak le ne essen a kritikus pillanatban.
 
-Álcázás/álruha képzettséggel megváltoztathatod külsődet, tudásodtól függ, hogy mennyire és milyen hitelesen. A képzettség a fentieken kívül úgynevezett „szerepeket" ad a karakternek. Ezek lehetnek pl. „pap", „nemes", „paraszt", stb. Arra jók, hogy alapvető - nem etikett! - viselkedési sablonokat adnak, melyek segítségével pl. elhitetheti a karakter a felületes szemlélővel, hogy ő pl. tényleg pap. Hogy ezek a szerepek mennyire passzolnak a karakterhez, az az előtörténettel való szinkrontól függ (beleértve a kalandok során történt előzményeket is. Pl. paraszt volt, de évek óta nemesi udvarba jár. Ekkor hamarabb is felveheti a „nemes" szerepet).
+Az Álcázás/álruha képzettséggel megváltoztathatod külsődet, tudásodtól függ, hogy mennyire és milyen hitelesen. A képzettség a fentieken kívül úgynevezett „szerepeket" ad a karakternek. Ezek lehetnek pl. „pap", „nemes", „paraszt", stb. Arra jók, hogy alapvető - nem etikett! - viselkedési sablonokat adnak, melyek segítségével pl. elhitetheti a karakter a felületes szemlélővel, hogy ő pl. tényleg pap. Hogy ezek a szerepek mennyire passzolnak a karakterhez, az az előtörténettel való szinkrontól függ (beleértve a kalandok során történt előzményeket is. Pl. paraszt volt, de évek óta nemesi udvarba jár. Ekkor hamarabb is felveheti a „nemes" szerepet).
 
 Minden szerep ⭕`„0-ra hoz" (??)`⭕, azaz nem kap levonásokat a karakter.
 Adott szituációban a KM dönt, hogy kell-e még valamilyen követelmény az
@@ -22,6 +22,8 @@ hiteles viselkedés előadása, a megtévesztés a szerepjáték része! Hiába
 tökéletes a fizikai álca és a bónusz, ha hiteltelen az alakítás\...
 
 **Kapcsolódó fortélyok**: Százarcú, Élő álca, ⭕`Kaméleon (2. képzettség szintenként kap egy új szerepet)`⭕
+
+<br />
 
 > Biztos tudás, követelmények
 
@@ -33,6 +35,8 @@ tökéletes a fizikai álca és a bónusz, ha hiteltelen az alakítás\...
 | Nagymester (12)  | +1 szerep,ami közepesen eltér a személyiségétől<br />+1 szerep, ami nagyon eltér a személyiségétől<br />Ha nincs megfelelő alapanyag a kencéidhez, akkor sem esel kétségbe, tudsz rögtönözni, ismersz helyettesítő anyagokat is. Rögtönzött felszerelést kevesebb, mint fél perc alatt össze tudsz válogatni. Az álcád karbantartás nélkül akár ⭕`XXX`⭕ napot is kibír.<br />Példa: „kaméleon” mestergyilkos   | - | Ügyesség: 1<br />⭕Fogékonyság:1⭕<br />Alkímia – 5.szint |
 | Élő legenda (15) | +1 szerep, ami ⭕???⭕<br />Az álcád szinte már művészeti alkotás. Karbantartást nem igényel, sminked mintha második bőröd lenne. ⭕TODO⭕<br />Példa: Előbb a szakács fia volt, most épp a báróné!  | Élő álca<br />(titkos fortély) | Ügyesség: 2<br />⭕Fogékonyság:2⭕<br />Alkímia – 7.szint |
 
+<br />
+
 > Próbák
 
 | Célszám | Példa  |
@@ -43,6 +47,8 @@ tökéletes a fizikai álca és a bónusz, ha hiteltelen az alakítás\...
 | Nagyon nehéz (15) | Más felépítésű személlyé átvedleni. |
 | Rendkívül nehéz (18) | Más magasságú, nemű, teljesen más karakterű másik személlyé átváltozni.<br />Más fajú (de hasonló testfelépítésű) lénnyé átalakulni. |
 | Emberfeletti (21) | Egy kis cérnából és egy falevélből álcát készíteni. Más testfelépítésű lénnyé válni. |
+
+<br />
 
 > Célszámot módosító körülmények
 

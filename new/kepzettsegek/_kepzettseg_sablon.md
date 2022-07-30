@@ -22,6 +22,8 @@
 | Nagymester (12)  | xyz <br /> Példa: x  |  |  |
 | Élő legenda (15) | xyz <br /> Példa: x  |  |  |
 
+<br />
+
 > Próbák
 
 | Célszám | Példa  |
@@ -33,6 +35,8 @@
 | Rendkívül nehéz (18) | |
 | Emberfeletti (21) | |
 
+<br />
+
 > Célszámot módosító körülmények
 
 - ⭕xyz
@@ -40,14 +44,5 @@
 ---
 
 <sub>
-Megjegyzés a kidolgozáshoz: Képzettség párok
-
-Bizonyos képzettségek „függésben\" vannak egymástól, azaz az adott
-képzettség legfeljebb egy meghatározott szinttel lehet magasabb a másik,
-kapcsolódó képzettségnél. Az ilyen egyedi függéseket jelezzük az adott
-képzettség leírásánál.\"
-
-Tehát, ha az épp kidolgozandó képzettségnek van ilyen párja, azt külön
-írjátok bele, de ne a leírásba, hanem külön sorba: \"Képzettség párja:
-xyz képzettség
+Megjegyzés a kidolgozáshoz: Képzettség párok<br />Bizonyos képzettségek „függésben" vannak egymástól, azaz az adott képzettség legfeljebb egy meghatározott szinttel lehet magasabb a másik, kapcsolódó képzettségnél. Az ilyen egyedi függéseket jelezzük az adott képzettség leírásánál.<br />Tehát, ha az épp kidolgozandó képzettségnek van ilyen párja, azt külön írjátok bele, de ne a leírásba, hanem külön sorba: "Képzettség párja: xyz képzettség"
 </sub>
