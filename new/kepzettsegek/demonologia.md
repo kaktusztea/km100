@@ -1,10 +1,8 @@
 #### Demonológia
 
-**Próba**: Csak biztos tudás. Vagy emlékszik az adatokra és a
-rituálékra, vagy nem.
+**Próba**: Idézés csak biztos tudásból: vagy emlékszik az adatokra és a rituálékra, vagy nem. Démonokra varázslásra (asztrál/mentál) van próba. Lásd lenn.
 
-**Domináns Tulajdonságok**: Emlékezet, Intelligencia és Önuralom a
-gondolkodásmódjuk kiismeréséhez, Fogékonyság az idézéshez
+**Domináns Tulajdonságok**: Emlékezet, Intelligencia és Önuralom a gondolkodásmódjuk kiismeréséhez, Fogékonyság az idézéshez.
 
 **Leírás**: Átfogó misztikus képzettség, amihez alapos, előtörténettel megtámogatott indoklás kell, hogy a karakter felvehesse. Alsóbb szinteken a képzettség csupán elméleti tudást takar. Magasabb szinten (9-es Demonológia képzettségtől) már lehetőséget ad a démonokra való varázslásra mentál és asztrálmágia formájában -  amennyiben az alkalmazó képes a fenti iskolaformák varázslatait alkalmazni.
 
@@ -31,13 +29,13 @@ gondolkodásmódjuk kiismeréséhez, Fogékonyság az idézéshez
 
 > Próbák
 
-Démonokra varázsolni nem hétköznapi feladat. A varázslás előtt `Demonológia` képzettségpróba dobandó attól függően, hogy milyen csoportba tartozó démonra varázsol az illető (persze az is megér egy misét, hogy az alkalmazó felismeri-e, hogy milyen csoportú démont vezetett elé a rossz sors). A képzettségpróba nehézségei démonokra varázslás esetében:
+Démonokra asztrális/mentális varázslatokkal hatni nem hétköznapi feladat és a varázslás előtt `Demonológia` képzettségpróbát igényel attól függően, hogy milyen csoportba tartozó démonra varázsol az illető (persze az is megér egy misét, hogy az alkalmazó felismeri-e, hogy milyen csoportú démont vezetett elé a rossz sors). A képzettségpróba nehézségei démonokra varázslás esetében:
 
 - Szolgadémonokra: Nagyon nehéz próba (15)
 - Közdémonokra: Rendkívül nehéz próba (18)
 - Démonurakra: Emberfeletti próba (21)
 
-Ha a fenti próba sikeres, akkor a démon játéktechnikailag rendes mágiaellenállással rendelkező személynek minősül, és a varázslat erősítésétől függően hat, vagy nem hat rá a mágia. Ha viszont a próba sikertelen... ezt a KM fantáziájára bízzuk :)
+Ha a fenti próba sikeres, akkor a démon játéktechnikailag rendes mágiaellenállással rendelkező személynek minősül, és a varázslat erősítésétől függően hat, vagy nem hat rá a mágia. Ha viszont a próba sikertelen... ezt a KM fantáziájára bízzuk 🙂
 
 | Célszám | Példa  |
 | ----------- | :-----------: |
