@@ -6,9 +6,9 @@
 
 **Képzettség párja**: -
 
-**Leírás**: xyz
-
 **Kapcsolódó fortélyok**: xyz
+
+**Leírás**: xyz
 
 <br />
 

@@ -11,6 +11,8 @@ Fogékonyság
 
 **Képzettség párja**: -
 
+**Kapcsolódó fortélyok**: Százarcú, Élő álca, ⭕`Kaméleon (2. képzettség szintenként kap egy új szerepet)`⭕
+
 **Leírás**: Az álcázás nagy előny, főleg ha vadásznak rád. Megfelelő maszk, smink, ruha, ezek elengedhetetlenek. Egy jó bajusz csodákat tehet, csak le ne essen a kritikus pillanatban.
 
 Az Álcázás/álruha képzettséggel megváltoztathatod külsődet, tudásodtól függ, hogy mennyire és milyen hitelesen. A képzettség a fentieken kívül úgynevezett „szerepeket" ad a karakternek. Ezek lehetnek pl. „pap", „nemes", „paraszt", stb. Arra jók, hogy alapvető - nem etikett! - viselkedési sablonokat adnak, melyek segítségével pl. elhitetheti a karakter a felületes szemlélővel, hogy ő pl. tényleg pap. Hogy ezek a szerepek mennyire passzolnak a karakterhez, az az előtörténettel való szinkrontól függ (beleértve a kalandok során történt előzményeket is. Pl. paraszt volt, de évek óta nemesi udvarba jár. Ekkor hamarabb is felveheti a „nemes" szerepet).
@@ -21,7 +23,6 @@ adott szerephez. A fenti szerepek tehát csak egy kis pluszt adnak, a
 hiteles viselkedés előadása, a megtévesztés a szerepjáték része! Hiába
 tökéletes a fizikai álca és a bónusz, ha hiteltelen az alakítás\...
 
-**Kapcsolódó fortélyok**: Százarcú, Élő álca, ⭕`Kaméleon (2. képzettség szintenként kap egy új szerepet)`⭕
 
 <br />
 

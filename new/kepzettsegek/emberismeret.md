@@ -10,11 +10,11 @@
 
 **Képzettség párja**: -
 
+**Kapcsolódó fortélyok**: Szónoklás, Meggyőzés, Hazudozás, Megfélemlítés
+
 **Leírás**: Más emberek viselkedésének, hangulatának feltérképezését, belső motivációinak kiismerését célzó „tudomány". Ennek az ismeretnek az elsajátítását leginkább a nagybetűs ÉLET segíti. Sok-sok beszélgetés, néha keserű tapasztalat.
 
 A képzettség annyiban speciális, hogy a (harcmodorokhoz hasonlóan) a 3.szint adja az „alapszintet", azaz egy felnőtt átlagember ekkora emberismerettel rendelkezik. Az ez alatti értékkel rendelkezők köznyelven a „szerencsétlen balek" és a „palimadár" kategóriába tartoznak..
-
-**Kapcsolódó fortélyok**: Szónoklás, Meggyőzés, Hazudozás, Megfélemlítés
 
 <br />
 
