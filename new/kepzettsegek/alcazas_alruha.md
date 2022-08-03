@@ -4,7 +4,7 @@
 - Ellenpróbával menjen? Melyik képzettséggel? Álcázás/álruha vs. Észlelés VAGY Emberismeret??
 ````
 
-**Próba:** dobható
+**Próba**: dobható
 
 **Domináns Tulajdonságok**: Ügyesség, Intelligencia, Önuralom,
 Fogékonyság
@@ -28,7 +28,7 @@ tökéletes a fizikai álca és a bónusz, ha hiteltelen az alakítás\...
 > Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás  | Speciális <br /> <sub>(tanulható fortély, különleges  képesség)</sub> | Követelmény |
-| ----- | :----- | :-----: | :-----: |
+| :----- | :----- | :-----: | :-----: |
 | Novícius (3)     | +1 szerep, ami passzol a személyiségéhez <br /> Tudsz bajuszt, kisebb szakállat ragasztani úgy, hogy jó eséllyel nem esik le. <br />⭕2x??⭕+1 szerep, ami passzol a személyiségéhez <br />Példa: Segéd a színházban | - | Ügyesség: 0 |
 | Kismester (6)    | +1 szerep, ami passzol a személyiségéhez<br />+1 szerep, ami kicsit eltér a személyiségétől<br />Már a bajusz/szakáll készítése sem okoz gondot.<br />A ragasztott elemek 1 napig tartanak biztosan.<br />Példa: Képzett szélhámos  | Százarcú - 1.fok (4.szinten) | Ügyesség: 0<br />⭕Fogékonyság:0⭕ |
 | Mester (9)       | +1 szerep, ami kicsit eltér a személyiségétől<br />+1 szerep,ami közepesen eltér a személyiségétől<br />Alaposabban ismered az egyes izzadást gátló szereket, tartósabb ragasztókat. Összetételük ismeretében be tudod szerezni a hozzájuk való alapanyagokat. 1 perc alatt össze tudsz válogatni magadnak egy álcára valót az eléd kerülő rengeteg ruhából, kellékből (a felvétel persze már más tészta).<br />⭕Az álcád karbantartás nélkül akár 2-3 napot is kibír.⭕<br />Példa: beépülő fejvadász, orvgyilkos    | Százarcú - 2.fok (8.szinten) | Ügyesség: 1<br />⭕Fogékonyság:1⭕<br />⭕Alkímia – 3.szint⭕ |

@@ -1,8 +1,8 @@
 #### Képzettség neve
 
-**Próba:** ⭕dobható / ⭕nincs, csak biztos tudásból
+**Próba**: Csak biztos tudásból. Vagy emlékszik az adatokra és a rituálékra, vagy nem.
 
-**Domináns Tulajdonságok**: xyz
+**Domináns Tulajdonságok**: Emlékezet, Intelligencia és Önuralom a gondolkodásmódjuk kiismeréséhez, Fogékonyság az idézéshez
 
 **Képzettség párja**: -
 
@@ -15,7 +15,7 @@
 > Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás  | Speciális <br /> <sub>(tanulható fortély, különleges  képesség)</sub> | Követelmény |
-| ----- | :-----: | :-----: | :-----: |
+| :----- | :----- | :-----: | :-----: |
 | Novícius (3)     | xyz <br /> Példa: x |  |  |
 | Kismester (6)    | xyz <br /> Példa: x  |  |  |
 | Mester (9)       | xyz <br /> Példa: x  |  |  |

@@ -138,7 +138,7 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🔵Nyomolvasás
 
-🔵Álcázás/Álruha
+🔵[Álcázás/Álruha](kepzettsegek/alcazas_alruha.md)
 
 🔵Tolvajlás
 
@@ -208,7 +208,7 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🔴Asztrológia*
 
-🔴Demonológia*
+🔴[Demonológia*](kepzettsegek/demonologia.md)
 
 ## Vulgármágia képzettség iskolái
 
