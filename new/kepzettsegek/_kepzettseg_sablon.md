@@ -15,7 +15,7 @@
 > Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás  | Speciális <br /> <sub>(tanulható fortély, különleges  képesség)</sub> | Követelmény |
-| ----- | :-----: | :-----: | :-----: |
+| :----- | :-----: | :-----: | :-----: |
 | Novícius (3)     | xyz <br /> Példa: x |  |  |
 | Kismester (6)    | xyz <br /> Példa: x  |  |  |
 | Mester (9)       | xyz <br /> Példa: x  |  |  |

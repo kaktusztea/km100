@@ -110,7 +110,7 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🔵Keresés
 
-🔵Emberismeret
+🔵[Emberismeret](kepzettsegek/emberismeret.md)
 
 🔵Természetjárás (adott tájtípus)
 
