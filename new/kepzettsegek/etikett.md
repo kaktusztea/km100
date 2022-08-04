@@ -1,6 +1,6 @@
 #### Etikett
 
-**Próba:**: dobható
+**Próba**: dobható
 
 **Domináns Tulajdonságok**: Fogékonyság, Intelligencia, Önuralom, Emlékezet
 
@@ -17,132 +17,28 @@ Ha nincs épp Etikett az adott szituációban szükséges kultúrkörből, akkor
 > Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás  | Speciális <br /> <sub>(tanulható fortély, különleges  képesség)</sub> | Követelmény |
-| :----- | :-----: | :-----: | :-----: |
-| Novícius (3)     | xyz <br /> Példa: x |  |  |
-| Kismester (6)    | xyz <br /> Példa: x  |  |  |
-| Mester (9)       | xyz <br /> Példa: x  |  |  |
-| Nagymester (12)  | xyz <br /> Példa: x  |  |  |
-| Élő legenda (15) | xyz <br /> Példa: x  |  |  |
+| :----- | :----- | :-----: | :-----: |
+| Novícius (3)     | Alapvető bejelentési társalgási formulák ismerete. Tudja, mikor hallgasson.<br />**Példa**: Kezdő udvaronc |  | Fogékonyság:&nbsp;0 |
+| Kismester (6)    | Bevonulási, bejelentési, köszöntő és udvarlási formulák lexikális ismerete.<br />**Példa**: Ifjú kardnemes.  |  | Intelligencia:&nbsp;0<br />Fogékonyság:&nbsp;+1 |
+| Mester (9)       |  Ismeri és érzi a nemesi társaság hangulatának változásait.<br />**Példa**: Pallérozott nemes, apró hercegség udvarmestere. | | Intelligencia:&nbsp;+1<br />Fogékonyság:&nbsp;+2 |
+| Nagymester (12)  | Már nem csak a hangulat megváltozását, hanem a tömeg igényeit is érzékeli, így  jókor képes azt manipulálni. <br />**Példa**: Tapasztalt bálozó, öreg róka. Udvari ceremóniamester. |  | Intelligencia:&nbsp;+2<br />Fogékonyság:&nbsp;+3 |
+| Élő legenda (15) |  Hírneve egy olyan fegyver, ami miatt a legtöbb konfliktust nyerő helyzetből kezdheti. <br />**Példa**: Legendás szarkavaró. Rettegik, tisztelik... és gyűlölik.    |  | Intelligencia:&nbsp;+2<br />Fogékonyság:&nbsp;+4 |
 
 <br />
 
 > Próbák
 
 | Célszám | Példa  |
-| ----------- | :-----------: |
-| Könnyű       (6)  | |
-| Átlagos      (9)  | |
-| Nehéz        (12) | |
-| Nagyon nehéz (15) | |
-| Rendkívül nehéz (18) | |
-| Emberfeletti (21) | |
+| ----------- | :----------- |
+| Könnyű       (6)  | Forma szerint bejelenteni a nemesi párt. |
+| Átlagos      (9)  | Forma szerint bejelenteni az ellenséges országból érkező követeket, pár mondatos bájcsevegést folytatni velük. |
+| Nehéz        (12) | Saját kultúrán belül mindenkivel rangjához illő formulákkal, szófordulatokat kommunikálni a teljes könnyedség látszatával, véletlen sértések elkerülésével. |
+| Nagyon nehéz (15) | Idegen kultúrába csöppenve elkerülni a sértéseket. Nemesi bálon hárítani a szóbeli rejtett  támadásokat. Szándékos bárbaj provokációt presztízsveszteség nélkül hárítani. |
+| Rendkívül nehéz (18) | Toroni vérnászt megnyerni. Több toroni dáma együttes támadását látszólag könnyedén hárítani. |
+| Emberfeletti (21) | Egy toroni nemesnek - kiről egy napja nyílt titok, hogy lebukott ereni ügynök -, túlélnie egy toroni vérnászt és az egész nemesi bált, sőt még a párbajra hívást is. |
 
 <br />
 
 > Célszámot módosító körülmények
 
-- ⭕xyz
-
-
-*Biztos tudás, követelmények*:
-
-+------------------+--------------------+----+-------------------+
-| Novícius (3)     | Alapvető           | \- | Fogékonyság: 0    |
-|                  | bejelentési,       |    |                   |
-|                  | társalgási         |    |                   |
-|                  | formulák ismerete. |    |                   |
-|                  | Tudja, mikor       |    |                   |
-|                  | hallgasson.        |    |                   |
-|                  |                    |    |                   |
-|                  | *Példa*: Kezdő     |    |                   |
-|                  | udvaronc           |    |                   |
-+------------------+--------------------+----+-------------------+
-| Kismester (6)    | Bevonulási,        | \- | Intelligencia: 0  |
-|                  | bejelentési,       |    |                   |
-|                  | köszöntő és        |    | Fogékonyság: +1   |
-|                  | udvarlási formulák |    |                   |
-|                  | lexikális          |    |                   |
-|                  | ismerete.          |    |                   |
-|                  |                    |    |                   |
-|                  | *Példa*: Ifjú      |    |                   |
-|                  | kardnemes.         |    |                   |
-+------------------+--------------------+----+-------------------+
-| Mester (9)       | Ismeri és érzi a   | \- | Intelligencia: +1 |
-|                  | nemesi társaság    |    |                   |
-|                  | hangulatának       |    | Fogékonyság: +2   |
-|                  | változásait.       |    |                   |
-|                  |                    |    |                   |
-|                  | *Példa*:           |    |                   |
-|                  | Pallérozott nemes, |    |                   |
-|                  | apró hercegség     |    |                   |
-|                  | udvarmestere.      |    |                   |
-+------------------+--------------------+----+-------------------+
-| Nagymester (12)  | Már nem csak a     | \- | Intelligencia: +2 |
-|                  | hangulat           |    |                   |
-|                  | megváltozását,     |    | Fogékonyság: +3   |
-|                  | hanem a tömeg      |    |                   |
-|                  | igényeit is        |    |                   |
-|                  | érzékeli, így      |    |                   |
-|                  | jókor képes azt    |    |                   |
-|                  | manipulálni.       |    |                   |
-|                  |                    |    |                   |
-|                  | *Példa*:           |    |                   |
-|                  | Tapasztalt bálozó, |    |                   |
-|                  | öreg róka. Udvari  |    |                   |
-|                  | ceremóniamester.   |    |                   |
-+------------------+--------------------+----+-------------------+
-| Élő legenda (15) | Hírneve egy olyan  | \- | Intelligencia: +2 |
-|                  | fegyver, ami miatt |    |                   |
-|                  | a legtöbb          |    | Fogékonyság: +4   |
-|                  | konfliktust nyerő  |    |                   |
-|                  | helyzetből         |    |                   |
-|                  | kezdheti.          |    |                   |
-|                  |                    |    |                   |
-|                  | *Példa*: Legendás  |    |                   |
-|                  | szarkavaró.        |    |                   |
-|                  | Rettegik,          |    |                   |
-|                  | tisztelik\... és   |    |                   |
-|                  | gyűlölik.          |    |                   |
-+------------------+--------------------+----+-------------------+
-
-( Lapozz )
-
-Próbák:
-
-+----------------------+----------------------------------------------+
-| Könnyű (6)           | Forma szerint bejelenteni a nemesi párt.     |
-+----------------------+----------------------------------------------+
-| Átlagos (9)          | Forma szerint bejelenteni az ellenséges      |
-|                      | országból érkező követeket, pár mondatos     |
-|                      | bájcsevegést folytatni velük.                |
-+----------------------+----------------------------------------------+
-| Nehéz (12)           | Saját kultúrán belül mindenkivel rangjához   |
-|                      | illő formulákkal, szófordulatokat            |
-|                      | kommunikálni a teljes könnyedség             |
-|                      | látszatával, véletlen sértések               |
-|                      | elkerülésével.                               |
-+----------------------+----------------------------------------------+
-| Nagyon nehéz (15)    | Idegen kultúrába csöppenve elkerülni a       |
-|                      | sértéseket.                                  |
-|                      |                                              |
-|                      | Nemesi bálon hárítani a szóbeli rejtett      |
-|                      | támadásokat.                                 |
-|                      |                                              |
-|                      | Szándékos bárbaj provokációt                 |
-|                      | presztízsveszteség nélkül hárítani.          |
-+----------------------+----------------------------------------------+
-| Rendkívül nehéz (18) | Toroni vérnászt megnyerni. Több toroni dáma  |
-|                      | együttes támadását látszólag könnyedén       |
-|                      | hárítani.                                    |
-+----------------------+----------------------------------------------+
-| Emberfeletti (21)    | Egy toroni nemesnek -- kiről egy napja nyílt |
-|                      | titok, hogy lebukott ereni ügynök --,        |
-|                      | túlélnie egy toroni vérnászt és az egész     |
-|                      | nemesi bált, sőt még a párbajra hívást is.   |
-+----------------------+----------------------------------------------+
-
-Célszámot módosító körülmények:
-
--   ~~*~~Bódult, részeg állapotban: + \[1-6\]~~*~~
-
-~~**~~
+- Bódult, részeg állapotban: `+[1-6]`

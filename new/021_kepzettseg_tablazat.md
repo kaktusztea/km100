@@ -120,7 +120,7 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🔵Szexuális kultúra
 
-🔵Etikett (adott kultúrkör)
+🔵[Etikett](kepzettsegek/etikett.md) (adott kultúrkör)
 
 🔵Hajózás 🟢Hajózás-spec ⭕TODO⭕
 
