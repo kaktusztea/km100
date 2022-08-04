@@ -1,17 +1,19 @@
 #### Etikett
 
-**Próba: **dobható
+**Próba:**: dobható
 
-**Domináns Tulajdonságok**: Fogékonyság, Intelligencia, Önuralom,
-Emlékezet
+**Domináns Tulajdonságok**: Fogékonyság, Intelligencia, Önuralom, Emlékezet
 
-**Leírás**: Hogy kell köszönteni a nemesi vendégeket, hogyan kell
-udvariasan hárítani egy meghívást, mi számít könnyed tréfának és mi
-halálos sértésnek? Egy adott kultúrkör etikettjében jártas egyén jól
-elboldogul a fenti problémákkal. A képzettség tehát nem más, mint a
-nemesi környezetben való érvényesülés képessége.
+**Képzettség párja**: -
 
 **Kapcsolódó fortélyok**: -
+
+**Leírás**: Hogy kell köszönteni a nemesi vendégeket, hogyan kell udvariasan hárítani egy meghívást, mi számít könnyed tréfának és mi halálos sértésnek? Egy adott kultúrkör etikettjében jártas egyén jól elboldogul a fenti problémákkal. A képzettség tehát nem más, mint a nemesi környezetben való érvényesülés képessége.
+
+Ha nincs épp Etikett az adott szituációban szükséges kultúrkörből, akkor be lehet számítani összhangként a meglevő „Etikettek” 1/5-ének összegét.
+
+
+
 
 *Biztos tudás, követelmények*:
 
