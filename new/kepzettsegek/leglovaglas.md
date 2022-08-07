@@ -31,7 +31,7 @@
 | Könnyű       (6)  | Egyedül megtenni egy iskolakört |
 | Átlagos      (9)  | Gond nélkül fel és leszállni. Zavaró körülmények nélkül akár hosszabb utat is megtenni. |
 | Nehéz        (12) | Fordulózni. Harcolni. Közepesen sérült hátassal navigálni. |
-| Nagyon nehéz (15) | Tömegben harcolni (levegőben). Erősen sérült hátassal rossz időben navigálni. Egyensúlyból kibillent hátas „rendezni”. |
+| Nagyon nehéz (15) | Tömegben harcolni (levegőben). Erősen sérült hátassal rossz időben navigálni. Egyensúlyból kibillent hátast „rendezni”. |
 | Rendkívül nehéz (18) | ⭕Zuhanásból sérült hátast kihozni.⭕ |
 | Emberfeletti (21) | Az évszázad viharában zuhanó hátasodat felhúzni, miközben ellenfeled nyakadat szorongatja. |
 
