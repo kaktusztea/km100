@@ -1,7 +1,10 @@
 Harcrendszer changelog
 ----------------------
+v1.5.0
+- Vértek, Páncélok külső doksi utolsó állapota beolvasztva
 
-v1.4.9 (beta)
+-------------------------------------------------------------------------
+v1.4.9
 - Buzogány, egykezes értékei kidolgozva
 
 - Lefegyverzés/Fegyvertörés manőver 3. foka:
@@ -11,9 +14,9 @@ v1.4.9 (beta)
   - most már mindenhol +20-anként +3SP  (max +9 SP)
 
 - 1.5 Vértek, Páncélok fejezet vége
-   - Vértviselet fortély  
+   - Vértviselet fortély
 	  → 3.fok: -35 MGT  (-45 MGT helyett)
-  
+
 -------------------------------------------------------------------------
 
 v1.4.8 - 2009.03.02
@@ -24,7 +27,7 @@ v1.4.8 - 2009.03.02
 -------------------------------------------------------------------------
 v1.4.7 - 2009.02.05
 - 1 MGT → -2 KÉ, -3 TÉ,VÉ
-- Fémből készült vért-anyagok MGT-je és SFÉ nem konkrét szám, hanem 
+- Fémből készült vért-anyagok MGT-je és SFÉ nem konkrét szám, hanem
   intervallum (anyag és elkészítés minőségtől függ)
 
 -------------------------------------------------------------------------
@@ -38,32 +41,32 @@ v1.4.5 - 2009.01.13
 -------------------------------------------------------------------------
 v1.4.4 - 2008.11.03
 - VÉ csökkentés módosult (remélem utoljára)
-  - Alaphelyzetben (nincs előnyös-hátrányos helyzet): 
+  - Alaphelyzetben (nincs előnyös-hátrányos helyzet):
     mindkét fél kiskockával csökkent (k100)
   - Legalább 1 penge fegyverméret különbségnél:
     - Előnyös helyzetű támadó:  (kiskocka+1)-el csökkent (k100)
     - Hátrányos helyzetű támadó: (kiskocka-1)-el csökkent (k100)
-  - 2 penge, vagy nagyobb méretkülönbségnél: 
+  - 2 penge, vagy nagyobb méretkülönbségnél:
     - Előnyös helyzetű támadó:  (kiskocka+2)-vel csökkent (k100)
     - Hátrányos helyzetű támadó: (kiskocka-1)-el csökkent (k100)
 
 - Fárasztás:
-  - Ha fárasztani kívánod ellenfeledet, ellenállását megtörni anélkül, 
-  hogy sebet ejtenél rajta, akkor a harc ugyanúgy folyik, mint más esetben, 
-  csak nyert kezdeményezést követően mindig +2-vel nő VÉ csökkentésed. 
-  Sebző támadás esetén pedig ugyanez, de elmarad maga a sebzés – helyette 
-  további +10-el csökkentheted ellenfeled Védő Értékét. Ehhez a taktikához 
-  „fel kell pörgethed” magad, így minden alkalmazásakor Te is elszenvedsz 
+  - Ha fárasztani kívánod ellenfeledet, ellenállását megtörni anélkül,
+  hogy sebet ejtenél rajta, akkor a harc ugyanúgy folyik, mint más esetben,
+  csak nyert kezdeményezést követően mindig +2-vel nő VÉ csökkentésed.
+  Sebző támadás esetén pedig ugyanez, de elmarad maga a sebzés – helyette
+  további +10-el csökkentheted ellenfeled Védő Értékét. Ehhez a taktikához
+  „fel kell pörgethed” magad, így minden alkalmazásakor Te is elszenvedsz
   egy +3 VÉ csökkenést.
-  A taktika használatát mindig a Kezdeményező dobás előtt kell bejelentened. 
-  Amennyiben elveszted a kezdeményezést, akkor sima harci kör következik 
-  számodra, amiben nem használhatsz semmilyen – kör elején bejelentendő – 
+  A taktika használatát mindig a Kezdeményező dobás előtt kell bejelentened.
+  Amennyiben elveszted a kezdeményezést, akkor sima harci kör következik
+  számodra, amiben nem használhatsz semmilyen – kör elején bejelentendő –
   harci taktikát.
 
 -------------------------------------------------------------------------
 v1.4.3 - 2008.10.11
 - Egy nagy szarvashiba javítása:
-   → ebben a dokban még nem volt kijavítva, hogy a 1 szint harcmodor képzettség nem +2, 
+   → ebben a dokban még nem volt kijavítva, hogy a 1 szint harcmodor képzettség nem +2,
       hanem +3 TÉ/VÉ/CÉ-t ad.
 
 -------------------------------------------------------------------------
@@ -77,11 +80,11 @@ v1.4.2 - 2008.10.02
   → Ha az ellenfél is tőrkarddal harcol, mindketten kapnak +10 VÉ bónuszt.
 
 - Manőverekhez:
-  A Végrehajtás dobása után – ha sikeres volt, ha nem – az ellenfél 
-  legközelebb már számít az ilyen jellegű támadásra, ezért amennyiben 
-  ismét ezt a Manővert kísérli meg a karakter, akkor az Ellenpróba 
-  során a célszám már +2-vel nőni fog (lásd: Ellenpróba) (nem halmozódik). 
-  Ilyen lehet még az is, ha a játékos az ellenfelét már látta korábban 
+  A Végrehajtás dobása után – ha sikeres volt, ha nem – az ellenfél
+  legközelebb már számít az ilyen jellegű támadásra, ezért amennyiben
+  ismét ezt a Manővert kísérli meg a karakter, akkor az Ellenpróba
+  során a célszám már +2-vel nőni fog (lásd: Ellenpróba) (nem halmozódik).
+  Ilyen lehet még az is, ha a játékos az ellenfelét már látta korábban
   küzdeni és egy konkrét manővert gyakran alkalmazni.
 
 - Erőbónusz: ismét megváltozott 500-adszorra :)
@@ -97,17 +100,17 @@ v1.4.2 - 2008.10.02
 -------------------------------------------------------------------------
 v1.4.1 - 2008.09.29
 - [LEZÁRVA]: PROB_HARC_#60 - 00-ás dobás
- - A 00-ás (100-as) támadó dobás kiemelt jelentőséggel bír. 
-   Ez szimbolizálja a „tökéletes csapást”, mely csak rendkívül ritkán 
-   következik be. Ilyenkor nem számít az ellenfél vértjének SFÉ-je (SFÉ=0), 
-   a támadó pedig +5 SP bónuszt adhat sebzéséhez. A fentiek alól kivételt 
-   képez a Slan „Aranyharang” technika használata és az Elemi Erő aura, 
+ - A 00-ás (100-as) támadó dobás kiemelt jelentőséggel bír.
+   Ez szimbolizálja a „tökéletes csapást”, mely csak rendkívül ritkán
+   következik be. Ilyenkor nem számít az ellenfél vértjének SFÉ-je (SFÉ=0),
+   a támadó pedig +5 SP bónuszt adhat sebzéséhez. A fentiek alól kivételt
+   képez a Slan „Aranyharang” technika használata és az Elemi Erő aura,
    de ott is érvényes a +5-ös sebzés. Ha nincs sebző támadás, akkor...
-   Fontos viszont megemlíteni, hogy amennyiben a 00-ás dobás ellenére 
-   sem sikerült az ellenféllel    szemben Túlütést elérni, akkor az okozott 
-   sebzés kimerül a jutalomként kapott +5 SP-ben (1ÉP + 5 VÉ csökkentés) 
+   Fontos viszont megemlíteni, hogy amennyiben a 00-ás dobás ellenére
+   sem sikerült az ellenféllel    szemben Túlütést elérni, akkor az okozott
+   sebzés kimerül a jutalomként kapott +5 SP-ben (1ÉP + 5 VÉ csökkentés)
    SFÉ természetesen ez esetben sincs.
-   Fárasztás harci taktika alkalmazásakor további +5 VÉ csökkentés bónuszt 
+   Fárasztás harci taktika alkalmazásakor további +5 VÉ csökkentés bónuszt
    kap a támadó.
 
 - Fárasztás taktika
@@ -128,16 +131,16 @@ v1.3.9 - 2008.09.17
    - Pajzs VÉ csak akkor számít, ha a pajzsot tartó kéz felőli oldalról jön a csapás.
 - Kábult/megrendült állapot
    -10KÉ, -20TÉ, -2 SP
-   - Kábulat, rosszullét, mérgezés esetén ideiglenesen ezek 
-     a levonások járnak. A KM – belátása szerint – adhat 
+   - Kábulat, rosszullét, mérgezés esetén ideiglenesen ezek
+     a levonások járnak. A KM – belátása szerint – adhat
      KT „sebesülést” is (pl. mérgezésnél)
 - Megszűnt: "Harc több ellenféllel" harci helyzet
    - A több támadó együttes VÉ csökkentése elég durva már, nem kell ez is
 - Garott sebzés: +8 / +4
-- Új jelölés fegyvereknél: 
+- Új jelölés fegyvereknél:
   (IV) Általános szabály íves fegyverekre:
    → Páncélozatlan ellenfél ellen +2 SP sebzésbónusz
-- "Rávetődés" és "Nyakba ugrás hátulról" harci taktika egyesítve. 
+- "Rávetődés" és "Nyakba ugrás hátulról" harci taktika egyesítve.
    Új név: Rávetődés hátulról
 
 -------------------------------------------------------------------------
@@ -145,7 +148,7 @@ v1.3.8 - 2008.09.16
 - Kharei nyílpuska kétkezes (bár úgy is megszűnik majd a forgatás módja)
 - Jatagánhoz: lehet, hogy 0,5 pengés...? (Márk)
 - (MK) - másfélkezes fegyverekre szabály
-  → Erőbónusz érthetőbb: 
+  → Erőbónusz érthetőbb:
      "Erőbónusz csak +2 Erő felett jár (tehát Erőbónusz = +2 feletti rész fele, lefele kerekítve)"
 
 -------------------------------------------------------------------------
@@ -155,16 +158,16 @@ v1.3.7 - 2008.08.22
 -------------------------------------------------------------------------
 v1.3.6 - 2008.08.15
 - [LEZÁRVA]: PROB_HARC_#46 - Belharc
- - Annyira kevés kérdéses pont volt már csak benne, hogy bekerült a 
+ - Annyira kevés kérdéses pont volt már csak benne, hogy bekerült a
    fő harcrendszer dokba.
 
 - Kibontakozás/Átsiklás manőverhez:
-  "Kibontakozás belharcból: 
+  "Kibontakozás belharcból:
    - Ugyanúgy dobandó, mint ha harcból akarnánk kibontakozni.
    - Ha az ellenfélnek Belharc fortélya van, akkor fokonként +2-vel nő a nehézség Ellenpróbánál
    - Ha az alkalmazónak Belharc fortélya van, akkor dobására fokonként +2 pontot kap Ellenpróbánál
-   -[KÉRDÉSES]: Ha belharci szituációban a belharcos sebesülést szenved és elrontja fájdalomtűrés próbáját 
-    (már nincs Fájdalomtűrés dobás sebesüléskor,... de itt esetleg dobhatunk...), akkor ellenfele – ha 
+   -[KÉRDÉSES]: Ha belharci szituációban a belharcos sebesülést szenved és elrontja fájdalomtűrés próbáját
+    (már nincs Fájdalomtűrés dobás sebesüléskor,... de itt esetleg dobhatunk...), akkor ellenfele – ha
     akarja –  automatikusan megszüntetheti a belharci szituációt, kibontakozhat belőle.
   - [KÉRDÉSES]: Sérülést bevállalva mindenképpen kijönni hogy lehessen?
 
@@ -176,7 +179,7 @@ v1.3.5 - 2008.08.14
 
 -------------------------------------------------------------------------
 v1.3.4 - 2008.07.31
-- Manőverek fejezetbe 
+- Manőverek fejezetbe
   → Szabályok aktulizálása a 2 sávos harcrendszerhez (VÉ csökk, vagy sebzés)
   → Sikertelen ellenpróba nem növeli a köv. próbálkozás nehézségét (túl durva lenne)
   → új fejezetek az elejére:
@@ -185,11 +188,11 @@ v1.3.4 - 2008.07.31
   → „Manőver-ismeret” és „Passzív Manőver” harci fortély fejezet előrehozása
   → "Manőverek nehézsége" fejezetbe jótanács:
      "Hasznos tanács a KM részére új (tanulható) manőver létrehozásakor:
-       Ha úgy érzed, az adott manőver túl tápos, emeld meg a nehézségét és adj több 
-       tanulható fokot. Így több MFP szükséges a nehézség csökkentéséhez és így 
+       Ha úgy érzed, az adott manőver túl tápos, emeld meg a nehézségét és adj több
+       tanulható fokot. Így több MFP szükséges a nehézség csökkentéséhez és így
        már meglesz az „ára”, ha valaki eséllyel alkalmazni akarja."
 
- 
+
 - Kétkezes Harcban kisebb javítások
   → 2.fokhoz ehhez: "Csak a főfegyver Mesterfegyver fortélya számít"  kiegészítés:
     → (akkor is, ha a két fegyver típusa ugyanaz!)
@@ -206,7 +209,7 @@ v1.3.3 - 2008.07.30
   - A nagyobbik fegyver csak az ügyesebbik kézben forgatható. Kivéve Kétkezesség fortély megléte.
   - Skálázott Sebesség-bónusz (minden 0,5 penge 1 pont Harcmodor-Sebesség levonást okoz)
 
-- "Lefegyverzés / Fegyvertörés" manőver 
+- "Lefegyverzés / Fegyvertörés" manőver
   → nehézsége 10-re emelkedett, mert tápos manőver, viszont:
   → 3 fokú lett (Így le lehet skálázni -6-al is akár, de 3 MFP-t kell költeni rá, hehe..)
 
@@ -221,18 +224,18 @@ v1.3.3 - 2008.07.30
         Ez a tényező kevésbé hangsúlyos, mint a sima Gáncsolásnál.
       - Csak kétlábú ellenfelek ellen alkalmazható, több lábbal rendelkező ellenfélnél Ökleléssel kell
         próbálkoznod.
-  → Hatás: Sikeresen kihúztad szálfegyvereddel ellenfeled lábát, aki a földre zuhan. Felállnia csak 
-     sikeres „Felállás földről” manőver alkalmazásával sikerülhet. A továbbiakban a Harc földön fekve 
+  → Hatás: Sikeresen kihúztad szálfegyvereddel ellenfeled lábát, aki a földre zuhan. Felállnia csak
+     sikeres „Felállás földről” manőver alkalmazásával sikerülhet. A továbbiakban a Harc földön fekve
      módosítói vonatkoznak rá.
 
 - Lánccsapda manőver
   - 1.fok követelménye: Kétkezes harc – 2.fok, Láncos fegyverre: Mesterfegyver fortély – 1.fok
-  - Hatás: Jobbkezes fegyvereddel elvezeted, bal kezedben tartott láncos fegyvereddel pedig foglyul 
-           ejted ellenfeled pengéjét, vagy fegyvertartó kezét, melyet a továbbiakban nem tud használni, 
-           amíg ki nem szabadítja azt. Amennyiben ellenfeled 0,5 pengénél nagyobb fegyvert forgat, 
-           dönthet: 
+  - Hatás: Jobbkezes fegyvereddel elvezeted, bal kezedben tartott láncos fegyvereddel pedig foglyul
+           ejted ellenfeled pengéjét, vagy fegyvertartó kezét, melyet a továbbiakban nem tud használni,
+           amíg ki nem szabadítja azt. Amennyiben ellenfeled 0,5 pengénél nagyobb fegyvert forgat,
+           dönthet:
              - elengedi a fegyvert, mellyel gyakorlatilag sikeres lefegyverzéssé változik a manőver
-             - továbbra is kezében tartja 
+             - továbbra is kezében tartja
                (0,5 pengénél kisebb fegyver tartása esetén kötelezően kézben marad).
 
 - Mesterjel manőver (2.fokú)
@@ -261,7 +264,7 @@ v1.3.3 - 2008.07.30
   - Speciális:
     Alkalmazható egyszerre, csoportosan is.
     Csoportot terelni nehezebb. Ilyenkor emelkedik a a nehézség (KM dönt).
-    Nehézség: Harci alakzatban használva jelentősen csökkenthetik a nehézséget. Az alakzatok jellemzőit 
+    Nehézség: Harci alakzatban használva jelentősen csökkenthetik a nehézséget. Az alakzatok jellemzőit
     ismerve a KM dönt [-4;+2]. Ez csökkenheti a végbevitel harcmodor követelményét is.
   - Hatás: arra tereli az ellenfelet, amerre akarja. Hátrálásnál nem kell használni, az megy magától!
 
@@ -271,8 +274,8 @@ v1.3.2 - 2008.07.24
 
 -----------------------------------------------------------------------
 v1.3.1 - 2008.07.23
-Ha teljes vértezetet visel valaki, akkor az összesített +4 járulékos MGT 
-helyett, csak +3-at kap, mivel a komplett páncél elemei egy összefüggő 
+Ha teljes vértezetet visel valaki, akkor az összesített +4 járulékos MGT
+helyett, csak +3-at kap, mivel a komplett páncél elemei egy összefüggő
 vértezet darabjai, melyek össze vannak próbálva.
 
 -----------------------------------------------------------------------
@@ -315,9 +318,9 @@ v1.2.7 - 2008.06.09
 - "Könnyű" és "Szálfegyver" forgatási módok megszűntek!
  → Valszeg a forgatási módok úgy, ahogy van megszűnnek majd en bloc. Még kell rá egy ámen, aztán törlöm :)
 - Kibontakozás/átsiklás manőverhez bekerült:
-  "Ha üldöznek, akkor Gyorsaság ellenpróbát kell dobnotok, amely. Ha te nyersz, akkor kereket 
-  oldottál, ha az üldöződ, akkor utolért és leadhat rád egy támadás hátulról (+10 TÉ), amely 
-  ellen a puszta kezes harcértékeiddel védekezhetsz. Fontos: az ellenpróbánál a résztvevők dobásából 
+  "Ha üldöznek, akkor Gyorsaság ellenpróbát kell dobnotok, amely. Ha te nyersz, akkor kereket
+  oldottál, ha az üldöződ, akkor utolért és leadhat rád egy támadás hátulról (+10 TÉ), amely
+  ellen a puszta kezes harcértékeiddel védekezhetsz. Fontos: az ellenpróbánál a résztvevők dobásából
   levonódik az aktuális MGT értékük!! Páncélban, pajzzsal futkározni nehezebb, nem igaz...?"
 
 -----------------------------------------------------------------------
@@ -328,7 +331,7 @@ v1.2.6 - 2008.06.08
  - vállalás: +1 pont → -15 VÉ (max +2 pont)
  - Fokéles támadás törölve
  - Elsöprés törölve
-[Megszűnt]: PROB_HARC_#49 - Harci kör 
+[Megszűnt]: PROB_HARC_#49 - Harci kör
 - Erőbónusz:
   - Az Erő tulajdonság fele hozzáadódik az SP értékhez (felfelé kerekítve)
 
@@ -349,7 +352,7 @@ v1.2.5 - 2008.05.15
 - [Lezárva]: PROB_HARC_#48 - HM korlát. Arányos növelés
   - Max 3-al lehet többet tenni az egyikre, mint a másikra (szintenként)
 - Lovas harchoz ötlet (a többi még kialakulatlan):
-  - Ötlet: teljesen alap harcértékek (harcmodor is beszámít pl. kardvívás) 
+  - Ötlet: teljesen alap harcértékek (harcmodor is beszámít pl. kardvívás)
     PLUSZ hozzáadódnak a Lovaglás képzettségből bónuszok, mintha HARCMODOR lenne!!
     Tehát 3.szintű lovaglással ugyanannyi a harcértéke, mint ló nélkül. Ez OK is szerintem.
     A fölött viszont jönnek a pluszok. Mert hát egy képzett lovas ellen k. szar harcolni.
@@ -382,11 +385,11 @@ v1.2.0 - 2008.05.06.
 - Támadások száma (2.2.5) fejezet újraírva
   → Minden fegyvernek egyedi Sebesség értéke van, nem a könnyű/egykezes/kétkezes számít a tám/kör-be
 
-- (MK) jelölés a másfélkezes kardokhoz. 
-  Általános szabály Másfélkezes fegyverekre, ha egy kézzel forgatják őket: 
+- (MK) jelölés a másfélkezes kardokhoz.
+  Általános szabály Másfélkezes fegyverekre, ha egy kézzel forgatják őket:
   → -3 KÉ, -5 TÉ, -5 TÉ
   → Átütés megszűnik (ha volt)
-  → Erőbónuszba csak az Erő +2 feletti része számít bele. 
+  → Erőbónuszba csak az Erő +2 feletti része számít bele.
   → Sebesség, Sebzés marad
 
 - Összes fegyver táblázat kiegészítése új oszlopokkal:
@@ -442,30 +445,30 @@ v1.1.4 - 2008.03.14.
 v1.1.3 - 2008.03.13.
 - Fegyverrántás az összefoglaló táblázatba is bekerült vázlatos formában
 - Észrevétlen támadás bevezető szöveg:
-  "Ha valaki úgy képes támadást leadni, hogy ellenfele erről az utolsó pillanatig 
+  "Ha valaki úgy képes támadást leadni, hogy ellenfele erről az utolsó pillanatig
    nem tud, tehát egyáltalán nem képes rá reagálni, akkor Észrevétlen támadásról beszélünk.
-   Észrevétlen támadáshoz az alkalmazónak sikeres ellenpróbát kell dobnia Lopakodás/rejtőzés 
+   Észrevétlen támadáshoz az alkalmazónak sikeres ellenpróbát kell dobnia Lopakodás/rejtőzés
    képzettségével áldozata Észlelés képzettsége ellen."
 
 --------------------------------------------------------------------------
 v1.1.2 - 2008.03.12.
 - Bekerült: Csataszabályok
-  Nagy tömegjelenetben a sok statisztika kezelése drasztikusan lelassíthatja a játékot. 
+  Nagy tömegjelenetben a sok statisztika kezelése drasztikusan lelassíthatja a játékot.
   Ilyenkor a következő – opcionális – szabályt javasoljuk:
   → +20 TÉ mindenkinek
   → Nincs VÉ csökkentés
   → Nincs páncéldobás
   → TÉ/VÉ értékeket kerekítjük 10-el oszthatóan (1-5: lefelé, 6-9: felfelé)
   → Támadó dobás eredményét is kerekítjük ugyanígy
-  → Erősített sebzés: 1-10 6Ép, 11-20 12Ép, 21-30 20Ép, 31-től Halál 
+  → Erősített sebzés: 1-10 6Ép, 11-20 12Ép, 21-30 20Ép, 31-től Halál
 - [Új]: PROB_HARC_#60 - Tapasztalati szint és Mágia célzása
 - [Új]: TODO_HARC_#61 - Őrjöngés harci képzettség ?
 - [Lezárva]: TODO_HARC_#37 - Fájdalomtűrés
-- [Lezárva]: PROB_HARC_#52 - Taktikák 
+- [Lezárva]: PROB_HARC_#52 - Taktikák
 - [Lezárva]: PROB_HARC_#53 - Fajok és Életerő Pont
   - Fix ÉP bónusz/hátrány az egyes fajoknak
 - [Lezárva]: PROB_HARC_#54 - Kezdeményező taktika
-- Fájdalomtűrés: 
+- Fájdalomtűrés:
   → Nincs dobás harc közben
   → Az egészség kategóriák TÉ büntetéséből lejön:
      (Fájdalomtűrés szintje + Önuralom + Harcos elme foka)
@@ -478,8 +481,8 @@ v1.1.2 - 2008.03.12.
 - [Új]: PROB_HARC_#59 - Testrészre támadás
   - A Harci anatómia erre is adjon bónuszt..?
   - Ez is legyen manőver vagy -20TÉ azt jólvan?
-  - Ha manőver, akkor: nehézsége: 5-7 (attól függ hova), a pontra támadás meg külön 
-     manőver legyen (ha a másikba nem számít bele a Harci anatómia), 
+  - Ha manőver, akkor: nehézsége: 5-7 (attól függ hova), a pontra támadás meg külön
+     manőver legyen (ha a másikba nem számít bele a Harci anatómia),
      annak nehézsége meg: 8-10 (vagy 10??)
 
 --------------------------------------------------------------------------
@@ -517,10 +520,10 @@ v1.0.7 - 2008.03.03
 v1.0.6 - 2008.03.02
 - Az uj_sebesules_rendszer.. dok részleges beolvasztása megtörtént
 - új sebzésrendszer, fegyver-tábálázatok
-- Első vágás manőver változásai: 
+- Első vágás manőver változásai:
   - Fegyverrántással együtt alkalmazható. Lásd a Fegyverrántás szituáció leírását.
   - Csak humanoid ellenfelekkel szemben használható
-  
+
 --------------------------------------------------------------------------
 v1.0.5 - 2008.02.28.
 - [Új]: TODO_HARC_#60 - Védő Érték regenerálódása
@@ -537,8 +540,8 @@ v1.0.5 - 2008.02.28.
 v1.0.4 - 2008.02.27
 - Fegyverrántás szituáció beintegrálása ebbe a dokba
 - Kétkezes harc - 3.fok bekerült
-  - "Méret limit: legfeljebb 1 penge + 0,5 penge kombinációval lehet 
-  kétkezes harcot folytatni. Kivéve a Kétkezes harc 3.fokát. 
+  - "Méret limit: legfeljebb 1 penge + 0,5 penge kombinációval lehet
+  kétkezes harcot folytatni. Kivéve a Kétkezes harc 3.fokát.
   Ekkor max. 2db 1 penge hosszú fegyvert forgathat. Ennek már követelménye is van: Erő +2 "
 - [Lezárva]: PROB_HARC_#56 - Öngyilkos roham
 - [Lezárva]: PROB_HARC_#55 - Roham
@@ -552,11 +555,11 @@ v1.0.3 - 2008.02.24
 --------------------------------------------------------------------------
 v1.0.2 - 2008.02.21
 - Cselekedetek alfejezet: (új)
-"Egyes rendszerek külön szabályozzák, hogy egyes cselekedetek, például varázsital felhajtása, 
-egy medál elővétele, sebkötözés (!!!), stb. harc közben mennyi időt vesz igénybe, hány támadás 
-elvesztését okozza és milyen egyéb hátrányokkal jár. A km100 rendszerében ilyen – véleményünk 
-szerint túlbonyolított – szabályokat nem alkalmaztunk. A KM az adott szituációt is figyelembe véve döntsön. 
-Pár irányelv: a cselekedet miatt x db támadását elveszíti; csökkentett Védő Értékkel harcol; 
+"Egyes rendszerek külön szabályozzák, hogy egyes cselekedetek, például varázsital felhajtása,
+egy medál elővétele, sebkötözés (!!!), stb. harc közben mennyi időt vesz igénybe, hány támadás
+elvesztését okozza és milyen egyéb hátrányokkal jár. A km100 rendszerében ilyen – véleményünk
+szerint túlbonyolított – szabályokat nem alkalmaztunk. A KM az adott szituációt is figyelembe véve döntsön.
+Pár irányelv: a cselekedet miatt x db támadását elveszíti; csökkentett Védő Értékkel harcol;
 kizárólag mozgásból adódó VÉ-vel rendelkezik (pl. sokkos állapotban botorkálás védekezés nélkül). Stb."
 - Belharci szitu: nem rövid fegyverek harcértéke -10/-10/-10-re esik (nem 0-ra), ahogy a puszta kéz.
 
@@ -584,7 +587,7 @@ v0.9.9 - 2007.12.18.
 - Mesterfegyver fortély bónuszai módosultak:
   - Fokonként:  KÉ:+2; TÉ/VÉ:+3; SP:+1
 - Kétkezes harc követelményeihez:
-   (Kérdéses még) 
+   (Kérdéses még)
      - 1.fok: főfegyverre Mesterfegyver – 1.fok
 - Manővereknél: Végrehajtás fázisban a rontásnál az ellenfél kap egy automatice soron kívüli támadást, DE
   bónusz TÉ nélkül! (eddig +20TÉ-t kapott)
@@ -606,26 +609,26 @@ v0.9.6 - 2007.11.22
 - [Módosítás]: TODO_HARC_#27 - Fegyverek
   - Fegyverméret-kategóriákat rendesen meghatározni
 - [Módosítás]: TODO_HARC_#33 - Manőverek
-  - Sikertelen Végrehajtás esetén jelenleg: az ellen kap egy extra 
+  - Sikertelen Végrehajtás esetén jelenleg: az ellen kap egy extra
     visszatámadást +20-al. Ez túl durva szerintem.
   - Mi legyen a rontott Ellenpróba esetén a következmény?
-  - Mesterfegyver fortély: több manőverhez követelmény. Viszont adjon-e megléte bónuszt? 
-    Mert ha követelmény is, akkor amint alkalmazza a karakter, máris kap bónuszt is! 
-    Esetleg ezt a nehézségbe kalkuláljuk be....? Valami egységes kéne, ne legyen olyan, 
+  - Mesterfegyver fortély: több manőverhez követelmény. Viszont adjon-e megléte bónuszt?
+    Mert ha követelmény is, akkor amint alkalmazza a karakter, máris kap bónuszt is!
+    Esetleg ezt a nehézségbe kalkuláljuk be....? Valami egységes kéne, ne legyen olyan,
     hogy valahol hozzáadódik, valahol nem.
 - [Módosítás]: TODO_HARC_#34 - Mesterfegyver fortély
   - Adjon több tápot?  Pl. a sebzésbónusz legyen a duplája (esetleg minden más is?)
     - Ellene: egy kis harcértékű fegyver értékei durván megtöbbszöröződnek
-    - Mellette: túl kevés a +1;+2;+2 a k100 skálán, valamint ne az abszolút értéket nézzük, 
-      hanem a fegyver kategóriák egymás közti távolságát. Ami viszont 2;4;4. 
-      Tehát 2.fokú mesterfegyver hoz szintbe egy fél pengényi hátrányt. 
-      Ez viszont lehet h tényleg kevés. Ha mondjuk +2;+3;+3 lenne, akkor 
-      3.fokú Mesterfegyverrel +6;+9;+9, ami kicsit több, mint 1 penge (+2KÉ,+1TÉ+1TÉ) 
+    - Mellette: túl kevés a +1;+2;+2 a k100 skálán, valamint ne az abszolút értéket nézzük,
+      hanem a fegyver kategóriák egymás közti távolságát. Ami viszont 2;4;4.
+      Tehát 2.fokú mesterfegyver hoz szintbe egy fél pengényi hátrányt.
+      Ez viszont lehet h tényleg kevés. Ha mondjuk +2;+3;+3 lenne, akkor
+      3.fokú Mesterfegyverrel +6;+9;+9, ami kicsit több, mint 1 penge (+2KÉ,+1TÉ+1TÉ)
       „távolság” kiegyenlítése.
 
 --------------------------------------------------------------------------
 v0.9.5 - 2007.11.21
-- [Új]: TODO_HARC_#39 - Mozgási sebesség 
+- [Új]: TODO_HARC_#39 - Mozgási sebesség
 - Páncélszúrás manőver módosítás: nehézség a vért lefedettségétől függ.
 - Sebződéskor Páncéldobás (opcionális): k10-el
 - Találat helye fejezet kifejtő
@@ -660,20 +663,20 @@ v0.9.0 - 2007.11.13
 
 --------------------------------------------------------------------------
 v0.8.9 - 2007.11.13
-- MGT végre ide is bekerült a Harcértékek fejezet alá: 
+- MGT végre ide is bekerült a Harcértékek fejezet alá:
   - 1 MGT → -5 KÉ, -10 TÉ,VÉ
   - 1 MGT → -1 mozgást igénylő képzettségpróbákra
 - [Aktualizálva]: TODO_HARC_#15 -  Pajzsok, Alkarvédők
 - [Aktualizálva]: TODO_HARC_#29 - Vértek, páncélok
 - [Aktualizálva]: TODO_HARC_#27 - Fegyverek
-- [Módosítva]: TODO_HARC_#28 - Harcmodorok 
+- [Módosítva]: TODO_HARC_#28 - Harcmodorok
    - Nem lesz "Harciskola" fortély (törölve)
 - [Lezárva]: PROB_HARC_#47 - Kezdeményezés újra
 - [Lezárva]: TODO_HARC_#30 - Fegyver, pajzs, Páncél rongálódás
 - [Lezárva]: TODO_HARC_#28 - Harcmodorok
 - [Új]: TODO_HARC_#33 - Manőverek
 - [Új]: TODO_HARC_#34 - Mesterfegyver fortély
-- [Új]: TODO_HARC_#35 - Harci fortélyok 
+- [Új]: TODO_HARC_#35 - Harci fortélyok
 - [Új]: TODO_HARC_#36 - Távolsági harcrendszer
 - [Új]: TODO_HARC_#37 - Fájdalomtűrés
 - [Új]: TODO_HARC_#38 - Gyógyulás
@@ -687,7 +690,7 @@ v0.8.9 - 2007.11.13
 
 --------------------------------------------------------------------------
 v0.8.8 - 2007.11.10
-- Kétkezes harcnál: 
+- Kétkezes harcnál:
   - VÉ-k is összeadódnak (minden harcérték)
   - Kétkezesség fortély: ha a Kétkezes harc legalább 1.fokú, akkor +1 Sebesség bónuszt ad
   - Sebzésnél a sebző fegyver megállapítása: a k20-as sebződobással együtt dobunk k6-al is
@@ -701,7 +704,7 @@ v0.8.8 - 2007.11.10
 v0.8.7 - 2007.11.09
 - Manőverek fejezet teljes átszerkesztése. Rengeteg egyszerűsítés a fogalmazásban, összevonások, érthetőbbé tétel (az egyes fázisok lépései még nem lettek átnevezve (pedig a sorrend változás miatt kéne)).
 - "Harcmodorok és Manőverek" fejezetben kis javítások fogalmazásban
-- Készületlenség állapothoz: 
+- Készületlenség állapothoz:
   "lásd Meglepetés. Ha egy karakter készületlen, akkor támadója a Meglepetés szituációnak megfelelő módosítókkal támadhat rá."
 
 --------------------------------------------------------------------------
@@ -709,11 +712,11 @@ v0.8.6 - 2007.10.28
 - Kétkezes harc megreformálása
 - Lovas harc elavult részeit áthúztam
 - Manőverek tanulásához:
-  "Minden Harcmodor képzettség szint 1 ún. manőverfejlesztő pontot (MFP) ad. 
+  "Minden Harcmodor képzettség szint 1 ún. manőverfejlesztő pontot (MFP) ad.
   Az egyes manőver ismeretek tanulása – nehézségtől függően – eltérő mennyiségű MFP-be kerülnek."
   → ehhez plusz komment:
   "Ha ezeken felül is manővert akar tanulni, akkor 1 fokra +10KP-t kell költenie."
-  
+
 --------------------------------------------------------------------------
 v0.8.5 - 2007.10.23
 - Pajzzsal öklelés manőver tisztázása
@@ -745,7 +748,7 @@ v0.8.0 - 2007.06.14
 
 ----------------------------------------------------------
 v0.7.9 - 2007.06.12
-- [Módosítva]: TODO_HARC_#29 - Vértek, páncélok  
+- [Módosítva]: TODO_HARC_#29 - Vértek, páncélok
   - Találat helye és beöltözés mértéke probléma boncolgatása
 
 ----------------------------------------------------------
@@ -784,7 +787,7 @@ v0.7.4 - 2007.06.05
   - bekerült probléma: Slan csillag
 - [Új]: PROB_HARC_#45 - Harci akrobatika
 - [Módosítva]: TODO_HARC_#15 - Pajzsok, Alkarvédők
-  - harc pajzzsal alá: 
+  - harc pajzzsal alá:
       - "Egyes fegyverek sebzése csökkenjen, ha a másik kézben pajzs van. Pl. az olyanoké, amikre másik kézzel rá szoktak segíteni."
       - "Láncos fegyverek ellen nem véd a pajzs (vagy csak kevesebbet)"
 - Manőverek:
@@ -804,7 +807,7 @@ v0.7.1 - 2007.05.25
 - [Lezárva]: PROB_HARC_#39 - Belharc, Közelharc, fegyveresen és fegyvertelenül
   - Nem lesz Belharc
 - [Lezárva]: PROB_HARC_#40 - Kezdeményezés
- - Megoldás:  KÉ = Sebesség + Fegyver KÉ 
+ - Megoldás:  KÉ = Sebesség + Fegyver KÉ
                    + tápok (Gyors kezdeményezés (+4), Kezdeményező taktika)
 - 2.2.6: Támadások száma
   - Javítva: fegyver kategóriák nevei (számozása)
@@ -960,7 +963,7 @@ v0.5.0b - 2007.04.11
 
 ----------------------------------------------------------
 v0.4.9 - 2007.04.04
-- [Lezárva]: PROB_HARC_#36 - Belharc, Földharc, Birkózás 
+- [Lezárva]: PROB_HARC_#36 - Belharc, Földharc, Birkózás
   (Belharc: harcmodor lesz két Átlagos alképzettséggel: fegyveres- és fegyvertelen belharc)
 - Belharcot, birkózást, földharcot érintő dolgok aktualizálása
 - Puszta kéz harcértékei (2.3.1):  KÉ: -10, TÉ: -10, VÉ: -10
@@ -987,12 +990,12 @@ v0.4.5 - 2007.03.13
 - [Új]: TODO_HARC_#25 - Támadás kijelölt testrészre
 - [Új]: PROB_HARC_#38 - Sebesülés, gyógyulás
    - Összevont téma
-   - Bekerült még: 
+   - Bekerült még:
       - Fájdalomtűrés próba
         Sebesülésnél rontott fájdalomtûrés próba esetén mi legyen?
 - [Lezárva]: PROB_HARC_#32
    - Beolvadt a "PROB_HARC_#38 - Sebesülés, gyógyulás"-ba
-- KÉ: 
+- KÉ:
    - Gyors Kezdeményezés – +5 KÉ  (1HM= 4KP, ezért mindenki ezt veszi fel!)
      Ezért talán szűnjön meg..
 - [Új]: TODO_HARC_#26 - Védő érték regenerálódása
@@ -1013,7 +1016,7 @@ v0.4.5 - 2007.03.13
 v0.4.4 - 2007.03.09
 - [Új]: TODO_HARC_#24 - Támadás szúrva/vágva/zúzva
 - Elavult beírások, hivatkozások törlése
-- Védő érték táblázatba kiemelés: 
+- Védő érték táblázatba kiemelés:
   - Nehézvértviselet – 2.fok
    (A vértviselet lehet h változik még!)
 
@@ -1035,7 +1038,7 @@ v0.4.3 - 2007.03.07
 v0.4.2 - 2007.02.23
 - TODO_HARC_#16 - Vértek, páncélok
   - Bekerült Márk, Noro és az én hozzászólásom a témában
-- [Lezárva]: PROB_HARC_#8 - Chi harc 
+- [Lezárva]: PROB_HARC_#8 - Chi harc
   - olyan lesz, mint a khirin
 - [Lezárva]: PROB_HARC_#10 - Hozzáférés, mögékerülés
   - Átment a Manőverekhez - [Új]: MANŐVER_#5.
@@ -1074,14 +1077,14 @@ v0.3.9 - 2007.01.27
    teljes legyen a kép.
 - Pajzsok, Alkarvédők  – TODO_HARC_#15.
   - Fortély itt is bekerült a leírásba, formázás
-  
+
 ----------------------------------------------------------
 v0.3.8 - 2007.01.26
 - Apróbb javítások
 
 ----------------------------------------------------------
 v0.3.7 - 2007.01.12
-- TODO_HARC_#16 - Vértek, páncélok  
+- TODO_HARC_#16 - Vértek, páncélok
   - Bővítés:  - "Fáradás vértezetben (ötlet fórumból)" szekció
               - Vértekkel kapcsolatos ötletek, kommentek fórumokból
 - Sebesüléssel kapcsolatos PROB bejegyzések összevonása
@@ -1098,26 +1101,26 @@ v0.3.6 - 2007.01.07
 - [Új]: PROB_HARC_#36 -Belharc, Földharc, Birkózás
   - Belharc, Földharc, Birkózás és fortélyaik
    (Képzett belharc, Képzett birkózás, Összeroppantás) rendbetétele!
-   Továbbá nyilvánvalóvá kell tennie, hogy nincs rendes harc közben pl. „Közel kerülés”, 
+   Továbbá nyilvánvalóvá kell tennie, hogy nincs rendes harc közben pl. „Közel kerülés”,
    mint a Codex-ben. Van sima harc, meg belharc, meg Birkózás (és Földharc?? :) )
 - [Új]: PROB_HARC_#34 - Elsődleges fegyver - legyen?
         Legyen?
     - 1.szinten lehetne választani (nem kötelezően)
     - +5 TÉ/CÉ járna rá
-    - Mindig ennek kell a legmagasabbnak lennie a képzettségek közt. 
+    - Mindig ennek kell a legmagasabbnak lennie a képzettségek közt.
       Ha nem, akkor nem jár rá a bónusz
-      - Ha lesznek hagyományos kasztok, akkor a Tolvaj – ha lőfegyver az 
+      - Ha lesznek hagyományos kasztok, akkor a Tolvaj – ha lőfegyver az
       elsődleges fegyvere (de CSAK AKKOR!) – +5 (+10?) CÉ-t kapjon.
 
 - [Új]: PROB_HARC_#35 - Sebzés skálázása a támadó dobás eredményétől függően
         Most túl elvágólagos. 30 feletti „túlütésnél” 1 ÉP, 50 felett meg rendes sebzés.
     Ha pl 70-el üti túl, akkor nőjön a sebzés, éppen túlütésnél meg csökkenjen. ???
-    Hogyan osszuk el úgy, hogy ne terhelje túl a KM-et, de a játékos se tudja meg, hogy 
+    Hogyan osszuk el úgy, hogy ne terhelje túl a KM-et, de a játékos se tudja meg, hogy
     mennyivel ütötte túl az ellenfelet?
 
 - 2.2.3 - Védő Érték
     - FP és VÉ csökkenés alá:
-    - "a speciális sebzés bónuszok (fejvadász bónusz, chi harc) nem csökkentik 
+    - "a speciális sebzés bónuszok (fejvadász bónusz, chi harc) nem csökkentik
     az FP-t, csak az ÉP sebzésnél számítanak!"
 
 - PROB_HARC_#2 (Sebzés bónusz vértnél) beolvasztva TODO_HARC_#16-ba (Vértek, Páncélok)
@@ -1137,11 +1140,11 @@ v0.3.5 - 2006.12.29
   sikátorban) szimulálhatnánk úgy, hogy pl. a KÉ dobásnál csak k6-al
   dobhat / nem dobhat / legrosszabb esetben dob, de az eredményt le kell
   _vonnia_ a KÉ-ből (KM dönt a helyzetet megítélve).
-  
+
   Esetleg a k100-as TÉ dobásnál a két k10 rosszabbik kombinációja
   számítana (kicsit Codex 2-szerű).
   Pl. a dobás: 7 és 3, akkor a hátrányosabb (37) verzió ér.
-  
+
   A fentiek az alapesettől eltérő esetekre vonatkoznának, tehát egy tőr
   vs. pallos esetén nem, mivel az a szituáció már ki van súlyozva a
   pallos magasabb harcértékeivel annak (pallosos) a javára.
@@ -1149,9 +1152,9 @@ v0.3.5 - 2006.12.29
 ----------------------------------------------------------
 v0.3.4 - 2006.12.05
 - 2.2: Fegyveres harc fejezet "Harcmodor és Fegyverforgatás képzettségek" alfejezete:
-  - Átfogalmazás: "A harci képzettségek aktuális fokától függ, hogy az alá tartozó fegyvereket milyen harcérték pluszokkal 
-    forgathatja a karakter. Amennyiben a Fegyverhasználat képzettség magasabb a fölé tartozó harcmodornál, akkor a 
-    Fegyverhasználat értéke számít, a bónuszok nem adódnak össze! Ha pedig a Harcmodor „beéri” az alá tartozó 
+  - Átfogalmazás: "A harci képzettségek aktuális fokától függ, hogy az alá tartozó fegyvereket milyen harcérték pluszokkal
+    forgathatja a karakter. Amennyiben a Fegyverhasználat képzettség magasabb a fölé tartozó harcmodornál, akkor a
+    Fegyverhasználat értéke számít, a bónuszok nem adódnak össze! Ha pedig a Harcmodor „beéri” az alá tartozó
     Fegyverforgatás(okat), akkor „beolvasztja” magába. (A Harcmodor növelése NEM „tolja maga előtt” a Fegyverhasználatot)"
 Földharc - TODO_HARC_#23.
 Leírást kidolgozni.
@@ -1167,7 +1170,7 @@ v0.3.3 - 2006.12.04
 v0.3.2 - 2006.12.03
 - Közrefogáshoz:
 "Ha a közrefogott kétkezes fegyvert forgat, akkor a közrefogók további +10TÉ-t kapnak."
-- Készült egy külön doksi: "Manőver táblázat". km100 kompatibilis. Ha kész, integrálni kell. 
+- Készült egy külön doksi: "Manőver táblázat". km100 kompatibilis. Ha kész, integrálni kell.
 - [Megoldva]: TODO_HARC_#6. - Hajítás elől kitérés
 - [Megoldva]: TODO_HARC_#1. - Harcmodorok
 - [Megoldva]: TODO_HARC_#3. - Kardvívás
@@ -1176,16 +1179,16 @@ v0.3.2 - 2006.12.03
 
 ----------------------------------------------------------
 v0.3.1 - 2006.12.02
-- 2.2.9 Harci taktikák fejezet 
+- 2.2.9 Harci taktikák fejezet
   - Fárasztás: kis javítás (FP csökk, aztán VÉ csökk)
   - Minden plusz támadás -20TÉ-vel megy
   - Leütés hátulról: aktualizálva, megformázva
 - Sebesülés
-  - ÉP táblázat: "Az Életerő Pontokat a táblázatban egyenlő arányban 
-  (össz ÉP 1/4-e minden oszlopba) osszuk el. Ha maradékos az osztás, 
+  - ÉP táblázat: "Az Életerő Pontokat a táblázatban egyenlő arányban
+  (össz ÉP 1/4-e minden oszlopba) osszuk el. Ha maradékos az osztás,
   akkor a maradékot balról jobbra osszuk el. )
   - FP = FP Alap + (2 x Edzettség) + Akaraterő + FP/Szint
-  
+
   ----------------------------------------------------------
 v0.3.0 - 2006.11.30
 - 2.2.12: Manőverek fejezet
@@ -1217,12 +1220,12 @@ v0.2.8 - 2006.11.28
 v0.2.7 - 2006.11.26
 - 2.2.8: Támadások száma: újratervezve, kidolgozva, újraírva
 - 2.2.1: Harcértékek: Rendesen kifejtve
-    - Bekerült: 
+    - Bekerült:
     - Harcérték Alap
     - Harci Tulajdonságok
     - Harcérték módosító
     - Harcmodor és Fegyverforgatás képzettségek
-    
+
 ----------------------------------------------------------
 v0.2.6 - 2006.11.13
 - Birkózás átnevezve: Földharc
@@ -1249,7 +1252,7 @@ v0.2.3 - 2006.11.10
 - Példa a sebesülésre: teljesen újraírva Lord Gustav sérülésének története
 - 2.1.5: Gyógyulás
   - Új modell (4 kategória a sebekre)
-  - Seb fertőződése: naponta állóképesség próba a legnagyobb seb 
+  - Seb fertőződése: naponta állóképesség próba a legnagyobb seb
     fele (felfelé kerekítve), mint célszám ellen
 - Új harcmodor: Birkózás
 - Új: TODO_HARC_#23 - Birkózás
@@ -1268,7 +1271,7 @@ v0.2.3 - 2006.11.10
 ----------------------------------------------------------
 v0.2.2 - 2006.11.07
 - Sebesülés
-  - 2.1.3 fejezet: Új, (remélhetőleg) egyszerűbb, 4 állapotos k100 kompatibilis módszer 
+  - 2.1.3 fejezet: Új, (remélhetőleg) egyszerűbb, 4 állapotos k100 kompatibilis módszer
 - Megoldva: PROB_HARC_#1. - Több támadás aránytalanságának csökkentése
 - Új: MANŐVER_#4. - Dobás nyakra kihúzott fegyverrel
 - A megoldott, nem aktuális TODO és PROB bejegyzések szeparálása
@@ -1276,7 +1279,7 @@ v0.2.2 - 2006.11.07
 ----------------------------------------------------------
 v0.2.1 - 2006.10.28
 - PROB_HARC fejezetben az elavult, nem k100 kompatibilis kérdéseket kiszedtem/átírtam.
-- PROB_HARC_#1 - Több támadás aránytalanságának csökkentése 
+- PROB_HARC_#1 - Több támadás aránytalanságának csökkentése
    - Bővítés: magyarázat, javítás: TÉ levonás: -10 támadásonként (a -5 kiszedve)
  - PROB_HARC_#19 - Fegyverek minősége
    - +1 helyett +5 harcérték (k100 kompatibilis)
@@ -1293,7 +1296,7 @@ v0.2.1 - 2006.10.28
    - k100-ra aktualizálva (a részletes leírása még hiányzik)
  - 2.2.4.3 fejezet : Védő Érték regenerálódása
    - Teljesen új táblázat, de az értékek még hiányosak!!
-     A VÉ regenerálódás az Állóképességtől ÉS a harcban (pihenés nélkül) töltött 
+     A VÉ regenerálódás az Állóképességtől ÉS a harcban (pihenés nélkül) töltött
      időtől függ.
  - 2.1.2: Kábulat ÉP rövidítése ezentúl: KT
  - 2.1.2.2: Példa Kábulat ÉP alkalmazására
@@ -1303,13 +1306,13 @@ v0.2.1 - 2006.10.28
  - Készületlenség: -20 VÉ
  - "Harcmodor sebzésbónusz" fejezet
    -  ez lett az új fejezetcím a (Fforgatás - Mf bónusz helyett)
-   
+
 ----------------------------------------------------------
 v0.2.0 - 2006.08.14
 - Új: PROB_HARC_#32 - Sebesülésnél visszatámadás
-  "Sebesülés (ÉP) esetén mi legyen? Visszatámadhat a sebesült, vagy 
-   nem? Vagy bizonyos arányú ÉP sebesülés felett  nem támadhat vissza. 
-   Pl. ha a seb nagyobb, mint az összes ÉP harmada, akkor nem támadhat 
+  "Sebesülés (ÉP) esetén mi legyen? Visszatámadhat a sebesült, vagy
+   nem? Vagy bizonyos arányú ÉP sebesülés felett  nem támadhat vissza.
+   Pl. ha a seb nagyobb, mint az összes ÉP harmada, akkor nem támadhat
    vissza."
 
 ----------------------------------------------------------
@@ -1321,7 +1324,7 @@ v0.1.9 - 2006.08.14
 ----------------------------------------------------------
 v0.1.8 - 2006.08.09
 - Megoldva: TODO_HARC_#23 - Nem alkalmas fegyver hajítása
-   Amennyiben valaki hajításra nem alkalmas fegyvert akar dobni, akkor az adott fegyver 
+   Amennyiben valaki hajításra nem alkalmas fegyvert akar dobni, akkor az adott fegyver
    forgatásában legalább Középfokon jártasnak kell lennie.
    Beírni
 
