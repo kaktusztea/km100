@@ -1,2 +1,5 @@
-Az itt tárolt file-ok már elavultak, tartalmuk be lett olvasztva máshova és szinte biztos, hogy módosult is.
-Csak biztonsági okokból lettek itt letárolva.
+## Az itt tárolt állományok típus szerint:
+
+* már elavultak, tartalmuk be lett olvasztva máshova, csak biztonsági okokból lettek itt letárolva
+* munkaállományok voltak, amelyek ellátták feladatukat
+* Konkrét problémákkal foglalkozó állományok, melyek sikeresen lezárásara kerültek, vagy elvetésre kerültek
