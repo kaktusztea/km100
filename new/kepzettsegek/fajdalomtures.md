@@ -8,14 +8,7 @@
 
 **Kapcsolódó fortélyok**: Harci láz, Kínokozás, Fakír, ⭕Harc mindhalálig⭕
 
-**Leírás**: Legyőzni a fájdalmat, legyőzni önmagunkat. Ez a képzettség
-nem véletlenül kapcsolódik szorosan a harchoz, hiszen az a harcos, aki
-nem képes legyűrni sebei fájdalmát, hamar elhullik. Sebesülésnél mindig
-Fájdalomtűrés próbát kell dobnod. Részleteket lásd a Harcrendszer
-Sebesülés fejezetében. A Fájdalomtűrés tanulásával egyre nagyobb
-fájdalmat vagy képes legyűrni, kivonni magad hatása alól. Ha harcban
-elrontod próbádat, +k3 Kábulat Pontot szenvedsz el. Ezt a képzettségedet
-használod váratlan fájdalmak kiállásakor, illetve kínzás elviselésénél.
+**Leírás**: Legyőzni a fájdalmat, legyőzni önmagunkat. Ez a képzettség nem véletlenül kapcsolódik szorosan a harchoz, hiszen az a harcos, aki nem képes legyűrni sebei fájdalmát, hamar elhullik. Sebesülésnél mindig `Fájdalomtűrés próbát` kell dobnod. Részleteket lásd a Harcrendszer (⭕link⭕)Sebesülés fejezetében. A Fájdalomtűrés tanulásával egyre nagyobb fájdalmat vagy képes legyűrni, kivonni magad hatása alól. Ha harcban elrontod próbádat, `+k3 Kábulat Pontot` szenvedsz el. Ezt a képzettségedet használod váratlan fájdalmak kiállásakor, illetve kínzás elviselésénél.
 
 <br />
 
