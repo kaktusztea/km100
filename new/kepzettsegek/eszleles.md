@@ -1,5 +1,7 @@
 #### Észlelés
 
+**Kapcsolódó főfejezet**: [Érzékelés, észlelés](../090_erzekeles_eszleles.md)
+
 **Próba**: dobható, és nincs kiemelt szinteken megkapott biztos tudás
 
 **Domináns Tulajdonságok**:
