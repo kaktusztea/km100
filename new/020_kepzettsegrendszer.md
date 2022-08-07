@@ -1,5 +1,20 @@
 # Képzettségrendszer
 
+- [Képzettségrendszer](#képzettségrendszer)
+  - [Képzettségek kategóriái](#képzettségek-kategóriái)
+  - [Képzettségek növelése](#képzettségek-növelése)
+  - [Képzettségek pontigényei](#képzettségek-pontigényei)
+    - [Képzettségek követelményei](#képzettségek-követelményei)
+    - [Karakter Pontok elosztása](#karakter-pontok-elosztása)
+  - [Képzettségpróba](#képzettségpróba)
+    - [Vállalás](#vállalás)
+    - [Próba biztos tudásból](#próba-biztos-tudásból)
+    - [Próba képzetlenül](#próba-képzetlenül)
+    - [Összetett képzettségpróba, Másodlagos próbadobások](#összetett-képzettségpróba-másodlagos-próbadobások)
+    - [Összhangok](#összhangok)
+    - [Képzettség párok](#képzettség-párok)
+    - [Sérülés hatása képzettségpróbára](#sérülés-hatása-képzettségpróbára)
+
 Mikor a játékos megalkotja karakterét, amellyel Ynev világán kalandozni fog, meghatározza azokat az ismereteket, jártasságokat, amelyeket az - addigi élete során - elsajátított. A km100 rendszere a fentieket a képzettségek és fortélyok tanulásával szimulálja. Ebben a fejezetben a Képzettségekkel fogunk foglalkozni. Minden Képzettséget egy számértékkel jellemzünk, amelyből kiderül, tulajdonosa mennyire jártas az adott témában.
 
 Ez az érték a karakter életútja során - a megszerzett tapasztalatoknak hála -, növekedhet, amely fejlődést a játékos Karakteralkotó Pontjai (`KP`) elosztásával jelenít meg.

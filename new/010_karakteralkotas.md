@@ -1,5 +1,42 @@
 # Karakteralkotás
 
+- [Karakteralkotás](#karakteralkotás)
+  - [Előtörténet, személyiség](#előtörténet-személyiség)
+  - [Szint, szintlépés, TP](#szint-szintlépés-tp)
+  - [Tulajdonságok](#tulajdonságok)
+    - [Erő](#erő)
+    - [Edzettség](#edzettség)
+    - [Ügyesség](#ügyesség)
+    - [Gyorsaság](#gyorsaság)
+    - [Intelligencia](#intelligencia)
+    - [Emlékezet](#emlékezet)
+    - [Önuralom](#önuralom)
+    - [Fogékonyság](#fogékonyság)
+  - [Érzékek (származtatott tulajdonságok)](#érzékek-származtatott-tulajdonságok)
+    - [Érzékek növelése](#érzékek-növelése)
+    - [Vakság, süketség](#vakság-süketség)
+    - [Tartós sérültség](#tartós-sérültség)
+  - [Tulajdonság értékek megállapítása](#tulajdonság-értékek-megállapítása)
+    - [Fajok](#fajok)
+      - [Faji módosítók, korlátok](#faji-módosítók-korlátok)
+      - [Fajok hátrányai](#fajok-hátrányai)
+  - [Tulajdonságpróba](#tulajdonságpróba)
+    - [Összetett Tulajdonságpróba](#összetett-tulajdonságpróba)
+      - [Példa Összetett Tulajdonságpróbára](#példa-összetett-tulajdonságpróbára)
+    - [Kombinált próbák](#kombinált-próbák)
+    - [Tulajdonság ellenpróba](#tulajdonság-ellenpróba)
+  - [Életerő pontok](#életerő-pontok)
+  - [Méregellenállás](#méregellenállás)
+    - [Másodlagos hatás](#másodlagos-hatás)
+  - [Mágiaellenállás](#mágiaellenállás)
+  - [Fejlődés](#fejlődés)
+  - [Karakter pontok (KP) elosztása](#karakter-pontok-kp-elosztása)
+    - [Manőverek](#manőverek)
+  - [Harcértékek, Jellemzők](#harcértékek-jellemzők)
+- [Nem játékos karakterek](#nem-játékos-karakterek)
+  - [NJK szintek](#njk-szintek)
+
+
 ⭕TODO⭕: Bevezetés
 
 ## Előtörténet, személyiség
