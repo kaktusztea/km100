@@ -1,0 +1,1 @@
+Importálásra, formázásra vár az odt dokumentumból.
