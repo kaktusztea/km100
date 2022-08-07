@@ -18,7 +18,7 @@
 ```
 
 | Képzettség szint | Biztos tudás  | Speciális <br /> <sub>(tanulható fortély, különleges  képesség)</sub> | Követelmény |
-| ----- | :----- | :-----: | :-----: |
+| :----- | :----- | :-----: | :-----: |
 | Novícius (3)     | Birtokában van a démoni világ alapvető elméleti ismereteinek.<br />(1) Démoni síkok felépítése, démonok hierarchiája. Képes megmondani egy lényről, hogy az démon-e.<br />(2), Ismeri az általános démoni tulajdonságokat<br />(3) Felismer a démonidézésre felkészített helyszíneket, tárgyakat.<br />**Példa**: Inkvizítor | - | Emlékezet +1 |
 | Kismester (6)    | Elkezdi a konkrét fajok tanulmányozását<br />(4) Az ismertebb démonok (lásd Bestiárium) nevének és főbb jellemzőinek ismerete (pl. vadász-, harcművész-, csábító-, tűzdémon stb.)<br />(5) Megismeri a fontosabb démoni síkok felépítését, azok urait, hercegeit<br />(6) Tudása kezd kiterjedni a kevésbé ismert fajokra és síkokra is<br />**Példa**: Démonikus varázsló | ⭕ | Emlékezet +2 |
 | Mester (9)       | Megismeri a démonok gondolkodását, és innentől kezdve képessé válik megdézésükre mágia igénybevétele nélkül is.<br />(7) Ismeri a gyengéit, erősségeit, mágikus és egyéb képességeit az ismertebb fajoknak<br />(8) Ismeri az alacsony intelligenciájú démonok gondolkodását, meg tudja mondani, mennyire veszélyes egy démon (kb. hányadik szintű karakternek felel meg)<br />(9) Alsórendű démonok idézése, urak és hercegek képességeinek ismerete. Innentől lehetőséges megpróbálni a démonokra való varázslást mentál és asztrálmágia formájában.<br />**Példa**: Nomád sámán  | ⭕ | Fogékonyság&nbsp;0<br />Intelligencia&nbsp;+1<br />Önuralom&nbsp;+1<br />Emlékezet&nbsp;+2 |
