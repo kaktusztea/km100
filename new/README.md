@@ -40,6 +40,7 @@ A lőfegyverek alapesetben rendkívül halálosak, viszont a vérteknek szintén
 * [Bevezető](000_bevezetes.md)
 * [Karakteralkotás](010_karakteralkotas.md) (90%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/010_karakteralkotas.md))</sub></sup>
 * [Képzettségrendszer](020_kepzettsegrendszer.md) (80%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/020_kepzettsegek.md))</sub></sup>
+  * [Képzettséglista](021_kepzettseglista.md) (90%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/021_kepzettseglista.md))</sub></sup>
 * [Fortélyok](030_fortelyok.md) (75%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/030_fortelyok.md))</sub></sup>
 * [Tradíciók](040_tradiciok.md) (60%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/040_tradiciok.md))</sub></sup>
 * [Harcrendszer](050_harc.md) (85%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/050_harcrendszer.md))</sub></sup>
