@@ -1,1 +1,0 @@
-A km100 PHP-harc külön könyvtárba lett téve, mert teljesen más ütemben frissül, mint a dok rész.
