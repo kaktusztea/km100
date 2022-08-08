@@ -55,19 +55,19 @@ A lőfegyverek alapesetben rendkívül halálosak, viszont a vérteknek szintén
   * [Fegyverek, pajzsok](059_fegyverek.md)
   * [Vértek, páncélok](059_vertek_pancelok.md)
 * [Távolsági harcrendszer](060_tavolsagi_harc.md) (90%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/060_tavolsagi_harc.md))</sub></sup>
-* [Pszi](060_pszi.md) (40%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/060_pszi.md))</sub></sup>
-  * [Pszi diszciplínák](061_pszi_diszciplinak.md) (0%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/061_pszi_diszciplinak.md))</sub></sup>
-* [Mágia](070_magia__main.md) (40%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/070_magia.md))</sub></sup>
-  * [Vulgármágia](071_vulgarmagia.md) (0%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/071_vulgarmagia.md))</sub></sup>
-  * [Sámánmágia](072_samanmagia.md) (0%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/072_samanmagia.md))</sub></sup>
-  * [Bárdmágia](073_bardmagia.md) (0%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/073_bardmagia.md))</sub></sup>
-  * [Tűzmágia](074_tuzmagia.md) (0%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/074_tuzmagia.md))</sub></sup>
-  * [Magasmágia](075_magia_magasmagia__main.md) (20%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/075_magasmagia.md))</sub></sup>
+* [Pszi](070_pszi.md) (40%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/070_pszi.md))</sub></sup>
+  * [Pszi diszciplínák](071_pszi_diszciplinak.md) (0%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/071_pszi_diszciplinak.md))</sub></sup>
+* [Mágia](080_magia__main.md) (40%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/080_magia.md))</sub></sup>
+  * [Vulgármágia](081_vulgarmagia.md) (0%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/081_vulgarmagia.md))</sub></sup>
+  * [Sámánmágia](082_samanmagia.md) (0%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/082_samanmagia.md))</sub></sup>
+  * [Bárdmágia](083_bardmagia.md) (0%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/083_bardmagia.md))</sub></sup>
+  * [Tűzmágia](084_tuzmagia.md) (0%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/084_tuzmagia.md))</sub></sup>
+  * [Magasmágia](085_magia_magasmagia__main.md) (20%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/085_magasmagia.md))</sub></sup>
     * [Elemi mágia](magia.magas/elemi_magia.md) (50%)
-  * [Papi mágia](079_magia_papi.md) (10%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/079_papimagia.md))</sub></sup>
-* [Slan](080_slan.md) (25%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/080_slan.md))</sub></sup>
-* [Érzékelés, Észlelés](090_erzekeles_eszleles.md) (90%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/090_erzekeles_eszleles.md))</sub></sup>
-* [Szituációk](100_szituaciok.md) (20%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/100_szituaciok.md))</sub></sup>
+  * [Papi mágia](089_magia_papi.md) (10%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/089_papimagia.md))</sub></sup>
+* [Slan](090_slan.md) (25%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/090_slan.md))</sub></sup>
+* [Érzékelés, Észlelés](100_erzekeles_eszleles.md) (90%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/100_erzekeles_eszleles.md))</sub></sup>
+* [Szituációk](110_szituaciok.md) (20%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/110_szituaciok.md))</sub></sup>
 
 ---
 
