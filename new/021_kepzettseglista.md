@@ -134,7 +134,7 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 ## Alvilági képzettségek
 
-🔵Lopakodás/Rejtőzés
+🔵[Lopakodás/Rejtőzés](kepzettsegek/lopakodas_rejtozes.md)
 
 🔵Nyomolvasás
 
