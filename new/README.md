@@ -50,7 +50,7 @@ A lőfegyverek alapesetben rendkívül halálosak, viszont a vérteknek szintén
   * [Kétkezes harc](054_ketkezes_harc.md)
   * [Harci taktikák (támadó, védő, roham, stb)](055_harci_taktikak.md)
   * [Lovas harc](056_lovas_harc.md)
-  * [Harci alakzatok, alakzatharc](057_harci_alakzatok.md)
+  * [Alakzatharc](057_alakzatharc.md)
   * [Manőverek](058_manoverek.md)
   * [Fegyverek, pajzsok](059_fegyverek.md)
   * [Vértek, páncélok](059_vertek_pancelok.md)
