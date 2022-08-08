@@ -1,0 +1,1 @@
+Kiemelni ide a Vértek, páncélok részt a Harcrendszer doksiból.

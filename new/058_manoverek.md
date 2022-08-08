@@ -1,0 +1,1 @@
+Kiemelni ide a manőverek részt a Harcrendszer doksiból.

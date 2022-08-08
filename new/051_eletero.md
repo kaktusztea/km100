@@ -1,0 +1,1 @@
+Kiemelni ide az életerő részt a Harcrendszer doksiból.

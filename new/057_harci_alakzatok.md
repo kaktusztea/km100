@@ -1,0 +1,1 @@
+Kiemelni ide a harci alakzatok részt a Harcrendszer doksiból.

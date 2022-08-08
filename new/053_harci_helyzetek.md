@@ -1,0 +1,1 @@
+Kiemelni ide a harci helyzetek részt a Harcrendszer doksiból.

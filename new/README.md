@@ -43,8 +43,18 @@ A lőfegyverek alapesetben rendkívül halálosak, viszont a vérteknek szintén
   * [Képzettséglista](021_kepzettseglista.md) (90%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/021_kepzettseglista.md))</sub></sup>
 * [Fortélyok](030_fortelyok.md) (75%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/030_fortelyok.md))</sub></sup>
 * [Tradíciók](040_tradiciok.md) (60%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/040_tradiciok.md))</sub></sup>
-* [Harcrendszer](050_harc.md) (85%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/050_harcrendszer.md))</sub></sup>
-* [Távolsági harcrendszer](051_tavharc.md) (90%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/051_tavolsagi_harc.md))</sub></sup>
+* [Harcrendszer](050_harc.md) (85%)
+  * [Életerő](051_eletero.md)
+  * [Harcértékek, **harc menete**, támadás/kör, sebzés, MGT, csataszabályok](052_harc.md)
+  * [Harci helyzetek (meglepetésből, helyhez kötve, magasabbról, stb.)](053_harci_helyzetek.md)
+  * [Kétkezes harc](054_ketkezes_harc.md)
+  * [Harci taktikák (támadó, védő, roham, stb)](055_harci_taktikak.md)
+  * [Lovas harc](056_lovas_harc.md)
+  * [Harci alakzatok, alakzatharc](057_harci_alakzatok.md)
+  * [Manőverek](058_manoverek.md)
+  * [Fegyverek, pajzsok](059_fegyverek.md)
+  * [Vértek, páncélok](059_vertek_pancelok.md)
+* [Távolsági harcrendszer](060_tavolsagi_harc.md) (90%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/060_tavolsagi_harc.md))</sub></sup>
 * [Pszi](060_pszi.md) (40%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/060_pszi.md))</sub></sup>
   * [Pszi diszciplínák](061_pszi_diszciplinak.md) (0%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/061_pszi_diszciplinak.md))</sub></sup>
 * [Mágia](070_magia__main.md) (40%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/070_magia.md))</sub></sup>
