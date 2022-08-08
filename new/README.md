@@ -49,9 +49,9 @@ A lőfegyverek alapesetben rendkívül halálosak, viszont a vérteknek szintén
   * [Harci helyzetek (meglepetésből, helyhez kötve, magasabbról, stb.)](053_harci_helyzetek.md)
   * [Kétkezes harc](054_ketkezes_harc.md)
   * [Harci taktikák (támadó, védő, roham, stb)](055_harci_taktikak.md)
-  * [Lovas harc](056_lovas_harc.md)
+  * [Manőverek](056_manoverek.md)
   * [Alakzatharc](057_alakzatharc.md)
-  * [Manőverek](058_manoverek.md)
+  * [Lovas harc](058_lovas_harc.md)
   * [Fegyverek, pajzsok](059_fegyverek.md)
   * [Vértek, páncélok](059_vertek_pancelok.md)
 * [Távolsági harcrendszer](060_tavolsagi_harc.md) (90%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/060_tavolsagi_harc.md))</sub></sup>
