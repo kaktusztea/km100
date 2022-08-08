@@ -92,13 +92,13 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 ## Fizikai képzettségek
 
-🔵Fájdalomtűrés
+🔵[Fájdalomtűrés](kepzettsegek/fajdalomtures.md)
 
 🔵Mászás
 
 🔵Lovaglás
 
-🔵Léglovaglás
+🔵[Léglovaglás](kepzettsegek/leglovaglas.md)
 
 🔴Akrobatika 🔵Esés 🔵Ugrás
 
