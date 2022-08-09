@@ -92,13 +92,13 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 ## Fizikai képzettségek
 
-🔵[Fájdalomtűrés](kepzettsegek/fajdalomtures.md)
+🔵[Fájdalomtűrés](kepzettsegek/fajdalomtures.md) <sup><sub>(70%)</sub></sup>
 
-🔵Mászás
+🔵[Mászás](kepzettsegek/maszas.md) <sup><sub>(90%)</sub></sup>
 
 🔵Lovaglás
 
-🔵[Léglovaglás](kepzettsegek/leglovaglas.md)
+🔵[Léglovaglás](kepzettsegek/leglovaglas.md) <sup><sub>(80%)</sub></sup>
 
 🔴Akrobatika 🔵Esés 🔵Ugrás
 
@@ -106,11 +106,11 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🟢Helyismeret*
 
-🔵[Észlelés](kepzettsegek/eszleles.md)
+🔵[Észlelés](kepzettsegek/eszleles.md) <sup><sub>(95%)</sub></sup>
 
 🔵Keresés
 
-🔵[Emberismeret](kepzettsegek/emberismeret.md)
+🔵[Emberismeret](kepzettsegek/emberismeret.md) <sup><sub>(90%)</sub></sup>
 
 🔵Természetjárás (adott tájtípus)
 
@@ -120,7 +120,7 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🔵Szexuális kultúra
 
-🔵[Etikett](kepzettsegek/etikett.md) (adott kultúrkör)
+🔵[Etikett](kepzettsegek/etikett.md) (adott kultúrkör)  <sup><sub>(100%)</sub></sup>
 
 🔵Hajózás 🟢Hajózás-spec ⭕TODO⭕
 
@@ -134,11 +134,11 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 ## Alvilági képzettségek
 
-🔵[Lopakodás/Rejtőzés](kepzettsegek/lopakodas_rejtozes.md)
+🔵[Lopakodás/Rejtőzés](kepzettsegek/lopakodas_rejtozes.md) <sup><sub>(10%)</sub></sup>
 
 🔵Nyomolvasás
 
-🔵[Álcázás/Álruha](kepzettsegek/alcazas_alruha.md)
+🔵[Álcázás/Álruha](kepzettsegek/alcazas_alruha.md) <sup><sub>(80%)</sub></sup>
 
 🔵Tolvajlás
 
@@ -208,7 +208,7 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🔴Asztrológia*
 
-🔴[Demonológia*](kepzettsegek/demonologia.md)
+🔴[Demonológia*](kepzettsegek/demonologia.md) <sup><sub>(80%)</sub></sup>
 
 ## Vulgármágia képzettség iskolái
 
