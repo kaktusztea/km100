@@ -88,8 +88,6 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🔴Ostromlövészet
 
-🔴Belharc 🔵Fegyvertelen belharc 🔵Fegyveres belharc ⭕TODO⭕
-
 ## Fizikai képzettségek
 
 🔵[Fájdalomtűrés](kepzettsegek/fajdalomtures.md) <sup><sub>(70%)</sub></sup>
