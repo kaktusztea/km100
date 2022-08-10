@@ -1,4 +1,4 @@
-#### Emberismeret
+#### 🔵 Emberismeret
 
 ````diff
 - Fontos: Etikett magas fokához legyen követelmény az Emberismeret.

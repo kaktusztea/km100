@@ -1,4 +1,4 @@
-#### Léglovaglás
+#### 🔵 Léglovaglás
 
 **Próba**: dobható
 

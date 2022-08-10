@@ -1,4 +1,4 @@
-#### Demonológia
+#### 🔴 Demonológia
 
 **Próba**: Idézés csak biztos tudásból: vagy emlékszik az adatokra és a rituálékra, vagy nem. Démonokra varázslásra (asztrál/mentál) van próba. Lásd lenn.
 

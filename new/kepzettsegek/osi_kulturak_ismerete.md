@@ -1,4 +1,4 @@
-#### Ősi kultúrák ismerete
+#### 🔵 Ősi kultúrák ismerete
 
 **Próba:** ⭕dobható / ⭕nincs, csak biztos tudásból
 

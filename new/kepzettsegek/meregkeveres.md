@@ -1,4 +1,4 @@
-#### Méregkeverés, Méregmester
+#### 🔵 Méregkeverés, 🔴 Méregmester
 
 **Próba:** nincs, csak biztos tudásból ⭕Így egyszerűbb, de ne lehessen elrontani egy méreg kikeverését...?⭕
 
@@ -6,7 +6,7 @@
 
 **Kapcsolódó fortélyok**: ⭕xyz
 
-**Leírás**: A méregkeverés képzettség tanulható `Átfogó` képzettségként (ekkor minden típusú méregre vonatkozik), illetve `Átlagos` képzettségként - ekkor választani kell, hogy mely típusú mérgeket tanulja a karakter a lenti három csoportból:
+**Leírás**: A méregkeverés képzettség tanulható `Átfogó` képzettségként (ekkor minden típusú méregre vonatkozik és **Méregmester** néven illetjük), illetve `Átlagos` képzettségként - ekkor választani kell, hogy mely típusú mérgeket tanulja a karakter a lenti három csoportból:
 
 - Étel és italmérgek
 - Légi- és kontaktmérgek

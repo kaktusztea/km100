@@ -1,4 +1,4 @@
-#### Fájdalomtűrés
+#### 🔵 Fájdalomtűrés
 
 **Próba**: dobható
 

@@ -1,4 +1,4 @@
-#### Lopakodás/rejtőzés
+#### 🔵 Lopakodás/rejtőzés
 
 ````diff
 -Mekkora nehézség módosítók kellenek különböző szituációkban

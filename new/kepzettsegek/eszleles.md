@@ -1,4 +1,4 @@
-#### Észlelés
+#### 🔵 Észlelés
 
 **Kapcsolódó főfejezet**: [Érzékelés, észlelés](../090_erzekeles_eszleles.md)
 
