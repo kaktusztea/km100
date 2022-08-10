@@ -1,8 +1,11 @@
-🔴 Gyógyítás
+#### 🔴 Gyógyítás
+
 Átfogó. Magában foglalja a Sebgyógyítást és az Orvoslást is.
 
-🔵 Sebgyógyítás
+#### 🔵 Sebgyógyítás
+
 Csak sebek gyógyítása
 
-🔵 Orvoslás
+#### 🔵 Orvoslás
+
 Csak betegségek gyógyítása

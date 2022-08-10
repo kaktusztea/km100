@@ -1,4 +1,4 @@
-🟢 Nyelvismeret
+#### 🟢 Nyelvismeret
 
 Beszélt nyelvek, Harci/Klán nyelvek, Speciális (Pl. ide tartozik a Kendőnyelv ismerete is.
 

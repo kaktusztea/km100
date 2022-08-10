@@ -1,3 +1,5 @@
+#### 🔵 Természetjárás (adott tájtípus)
+
 ⭕TODO: szokásos kifejtés, szintek, esetleges követelmények⭕
 
 Az adott  tájtípus ismerete, környezeti jellemzőkre vonatkozik. Magában foglalja a következőket.:

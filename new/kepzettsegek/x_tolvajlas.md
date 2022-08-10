@@ -1,4 +1,4 @@
-🔵 Tolvajlás
+#### 🔵 Tolvajlás
 
 Tipikusan ellenpróbás képesség.
 

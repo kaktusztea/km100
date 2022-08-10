@@ -1,4 +1,4 @@
-🔵 Nyomolvasás
+#### 🔵 Nyomolvasás
 
 Képes olvasni a nyomokból. „Mi történt itt?” Erre a kérdésre adja meg a választ a képzettség. Nem keverendő összes a Kereséssel, vagy az Észleléssel! A Keresés titkos rejtekajtók, zugok felkutatására való, az Észlelés pedig valaminek az észrevételét jelenti, értelmezését nem! Tehát lehet, hogy Watson, akinek jó az Észlelése, észrevesz egy hajszálat a földön, de csak Sherlock Holmes képes magas fokú Nyomolvasás képzettségével következtetni belőle valamire.
 

@@ -1,4 +1,7 @@
-🔵Idomítás
+#### 🔵 Idomítás
 
-🟢Idomítás-spec
+xyz
+
+#### 🟢 Idomítás-spec
+
 Van specializáció (konkrét állatra)
