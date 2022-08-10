@@ -55,7 +55,7 @@ Méreg szintje = Erősség + Súlyosság + Elállás + Hatóidő + Speciális
 
 | Hatás max súlyossága | Érték  | Követelmény |
 | :----------- | :----------- | :----------- |
-| Enyhe rosszullét, hányás | ⭕1  | ⭕- |
+| Enyhe rosszullét, hányás, alvás | ⭕1  | ⭕- |
 | Kábulat, Görcs | ⭕2  | ⭕- |
 | Bódulat, Részleges bénulás | ⭕3  | ⭕- |
 | Életveszély, Teljes bénulás | ⭕4  | ⭕- |
