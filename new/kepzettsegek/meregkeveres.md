@@ -1,5 +1,10 @@
 #### 🔴 Méregmester, 🔵 Méregkeverés
 
+````diff
+- Alvás: melyik "Hatás" kategóriába tartozzon?
+- Most a legenyhébben van (1), de lehet, hogy nehezebb alvást előidézni, mint pl. bódulatot...?
+````
+
 **Próba:** nincs, csak biztos tudásból ⭕Így egyszerűbb, de ne lehessen elrontani egy méreg kikeverését...?⭕
 
 **Domináns Tulajdonságok**: Emlékezet, Önuralom
