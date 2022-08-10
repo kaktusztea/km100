@@ -103,8 +103,7 @@ Méreg szintje = Erősség + Súlyosság + Elállás + Hatóidő + Speciális
 
 ---
 
-> Példa
-⚡ **Brutális altató (italméreg)**
+> Példa 1 ⚡ **Lórúgás (brutálisan erős altató - italméreg)**
 
 ```
 - Erősség: 10 (a legerősebb)
@@ -115,14 +114,70 @@ Méreg szintje = Erősség + Súlyosság + Elállás + Hatóidő + Speciális
 ```
 
 ```
-Így a méreg szintje: `20` → Minimum `10. szintű` méregkeverés szükséges
+Így a méreg szintje: 20
+ → Minimum 10. szintű méregkeverés szükséges
 ```
 
-A méregellenállást `10` ellen (**méreg erőssége**) kell dobni.
+A méregellenállást `10` ellen (**méreg erőssége**) kell dobni, még egy kicsattanó egészségű, 120 kilós barbár is szinte biztos, hogy kidől tőle egy kis délutáni durmolásra.
 
-Látható, hogy egy fél óra alatt ható ugyanilyen méreghez elég lenne a `8.szintű` méregkeverés is.
+🔆 Látható, hogy egy fél óra alatt ható, ugyanilyen méreghez elég lenne a `8.szintű` Méregkeverés képzettség is.
 
 <br />
+
+---
+
+> Példa 2 ⚡ **Könycsepp a pengén (halálos fegyverméreg)**
+
+```
+- Erősség: 6
+- Hatás max súlyossága: 5 (halál)
+- Meddig áll el: +2 (10 percig a pengére locsolva)
+- Hatóidő: +4 (gyors (10 szegmens)
+- 1 komponensű, 1 hordozó közeg, normál adag: +0
+```
+
+```
+Így a méreg szintje: 17
+ → Minimum 9. szintű Méregkeverés képzettség szükséges
+```
+
+🔆 A fenti fegyverméreg erőssége az átlagosnál kicsit erősebbnek mondható, de egy magas Edzettséggel bíró áldozat jó eséllyel megússza az elsődleges hatását (halál) és "csak" lebénul, vagy erős bódulatba kerül.
+
+Fontos, hogy amennyiben 10 percen belül nem kerül a pengéről véráramba, akkor nagyon gyorsan elveszíti hatóerejét.
+
+<br />
+
+---
+
+> Példa 3 ⚡ **Múló évszakok (többkomponensű mesteri ital/légiméreg)**
+
+```
+- Erősség: 5
+- Hatás max súlyossága: 5 (halál)
+- Meddig áll el: +6 (Örökké)
+- Hatóidő: +1 (fél nap múlva)
+- 4 komponensű, 2 hordozó közeg, normál adag: +6 +3
+```
+
+```
+Így a méreg szintje: 26
+ → Minimum 13. szintű Méregkeverés képzettség szükséges
+```
+
+Ez már tényleg művészet. Ha a méregkeverő irodalommal foglalkozna ilyen szinten, ünnepelt poéta vagy dalnok lehetne. Ez meg is látszik a rendkívül magas szinten és a képzettség követelményen.
+
+⚜️ "Az öreg király rajongott az orchideákért. Tavaszra, nyárra és őszre is volt egy-egy különleges, ritka fajtája végtelen udvarának kertjében. Tavasszal leszakajtotta a legszebbet a narancsszínből, nyáron a bíborszínből, ősszel a kékből. Mindhárom hálószobáját díszítette.
+
+Az ősi virág leszakajtása után az uralkodó este elfogyasztotta bőséges vacsoráját és borral öblítette le, mint mindig. Álma békés volt, olyannyira, hogy reggel már fel sem ébredt... "Öreg volt, szépen ment el" - mondták a szolgálók. Ételét átvizsgálva az udvari vajákosok és a varázsló semmit nem találtak. "Eljött az ideje." - mondták ők is.
+
+Fia nem lévén, unokaöccse lépett helyébe, ki - úgy mondják - már nagyon türelmetlen volt. Asszott, vén tudósa Taba el Ibarából mindig mellette ólálkodott - azt mondják életelixírt készít a hercegnek..."
+
+<br />
+
+🔆 A fenti méreget `4` komponensre bontotta a déli vajákos:
+a király borába (ital hordozó) adagolta hetente egyszer az elmúlt 9 hónapban. Önmagában ártalmatlan, így nem is kimutatható, viszont stabilan felgyűlt a szervezetben. A maradék 3 komponens a 3 orchidea (légi hordozó) virágpora volt, melyet a király belélegzett - hisz mindet a hálószobájába tette. Az első kettő leszakajtása után még nem történt semmi, a hatáshoz mind a háromra (plusz a borban levő alapméregre) szükség volt.
+
+A hatást eltolta fél nappal, hogy éjszaka jöjjön a vég, így a gyanú sem ébredt fel senkiben. Az Erősséget (`5`) bőven elégnek vélte - a király egészsége már amúgy is igen gyenge lábakon állt (`-1`).
 
 ---
 
@@ -131,8 +186,8 @@ Látható, hogy egy fél óra alatt ható ugyanilyen méreghez elég lenne a `8.
 A Méregellenállás próba egyszerű Tulajdonság próba, melynél a karakter `Edzettség` Tulajdonsága számít.
 
 ```
-          Méregellenállás próba:
-  (Edzettség + k6)  vs  Méreg Erőssége
+Méregellenállás próba:
+(Edzettség + k6)  vs  Méreg Erőssége
 ```
 
 > A méregellenállást a méreg Erőssége (és NEM szintje) ellen kell
