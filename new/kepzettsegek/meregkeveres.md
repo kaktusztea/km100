@@ -158,7 +158,7 @@ Fontos, hogy amennyiben 10 percen belül nem kerül a pengéről véráramba, ak
 - Hatás max súlyossága: 5 (halál)
 - Meddig áll el: +6 (Örökké)
 - Hatóidő: +1 (fél nap múlva)
-- 4 komponensű, 2 hordozó közeg, normál adag: +6 +3
+- 4 komponensű, 2 hordozó közeg, normál adag: +6 +3 +0
 - Szagtalan/ízetlen: +3
 ```
 
