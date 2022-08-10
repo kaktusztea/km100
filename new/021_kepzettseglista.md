@@ -182,7 +182,7 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🔵Térképészet
 
-🔵Ősi kultúrák ismerete (Külön ősi kultúránként) (Történem és Vallásismeret is egyben)
+🔵[Ősi kultúrák ismerete](kepzettsegek/osi_kulturak_ismerete.md) (Külön ősi kultúránként) (Történem és Vallásismeret is egyben) <sup><sub>(25%)</sub></sup>
 
 🔵Ősi nyelv ismerete (Külön ősi nyelvenként)
 
