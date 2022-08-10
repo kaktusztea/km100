@@ -98,6 +98,8 @@ Méreg szintje = Erősség + Súlyosság + Elállás + Hatóidő + Speciális
   - Több komponensű: minden újabb komponensre bontás: `+2`
   - Több hordozó közeg (étel/ital, légnemű, véráramban ható): plusz hordozónként `+3`
   - Kis mennyiség: ha egészen kis mennyiség is elég 1 adaghoz: `+2`
+  - Szintelen `+3`
+  - Szagtalan/ízetlen: `+3` (egyben értendő)
 
 <br />
 
@@ -157,11 +159,12 @@ Fontos, hogy amennyiben 10 percen belül nem kerül a pengéről véráramba, ak
 - Meddig áll el: +6 (Örökké)
 - Hatóidő: +1 (fél nap múlva)
 - 4 komponensű, 2 hordozó közeg, normál adag: +6 +3
+- Szagtalan/ízetlen: +3
 ```
 
 ```
-Így a méreg szintje: 26
- → Minimum 13. szintű Méregkeverés képzettség szükséges
+Így a méreg szintje: 29
+ → Minimum 15. szintű Méregkeverés képzettség szükséges!
 ```
 
 Ez már tényleg művészet. Ha a méregkeverő irodalommal foglalkozna ilyen szinten, ünnepelt poéta vagy dalnok lehetne. Ez meg is látszik a rendkívül magas szinten és a képzettség követelményen.
@@ -174,10 +177,9 @@ Fia nem lévén, unokaöccse lépett helyébe, ki - úgy mondják - már nagyon 
 
 <br />
 
-🔆 A fenti méreget `4` komponensre bontotta a déli vajákos:
-a király borába (ital hordozó) adagolta hetente egyszer az elmúlt 9 hónapban. Önmagában ártalmatlan, így nem is kimutatható, viszont stabilan felgyűlt a szervezetben. A maradék 3 komponens a 3 orchidea (légi hordozó) virágpora volt, melyet a király belélegzett - hisz mindet a hálószobájába tette. Az első kettő leszakajtása után még nem történt semmi, a hatáshoz mind a háromra (plusz a borban levő alapméregre) szükség volt.
+🔆 A fenti méreget `4` darab komponensre bontotta a déli vajákos: a király borába (ital hordozó) adagolta hetente egyszer az elmúlt 9 hónapban a szagtalan/ízetlen alapmérget, amely önmagában ártalmatlan, így nem is kimutatható, viszont stabilan felgyűlt a szervezetben. A maradék 3 komponens a 3 orchidea (légi hordozó) virágpora volt, melyet a király belélegzett - hisz mindet a hálószobájába tette. Az első kettő leszakajtása után még nem történt semmi, a hatáshoz mind a háromra (plusz a borban levő alapméregre) szükség volt.
 
-A hatást eltolta fél nappal, hogy éjszaka jöjjön a vég, így a gyanú sem ébredt fel senkiben. Az Erősséget (`5`) bőven elégnek vélte - a király egészsége már amúgy is igen gyenge lábakon állt (`-1`).
+A hatást a vajákos eltolta fél nappal, hogy éjszaka jöjjön a vég, így a gyanú sem ébredt fel senkiben. Az Erősséget (`5`) bőven elégnek vélte - a király egészsége már amúgy is igen gyenge lábakon állt (`-1`).
 
 ---
 
