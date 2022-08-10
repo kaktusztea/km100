@@ -1,6 +1,6 @@
 #### Méregkeverés, Méregmester
 
-**Próba:** nincs, csak biztos tudásból ⭕Így egyszerűbb, de ne lehessen elrontani egy méreg kiveverését...?⭕
+**Próba:** nincs, csak biztos tudásból ⭕Így egyszerűbb, de ne lehessen elrontani egy méreg kikeverését...?⭕
 
 **Domináns Tulajdonságok**: Emlékezet, Önuralom
 
