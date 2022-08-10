@@ -1,4 +1,4 @@
-#### 🔵 Méregkeverés, 🔴 Méregmester
+#### 🔴 Méregmester, 🔵 Méregkeverés
 
 **Próba:** nincs, csak biztos tudásból ⭕Így egyszerűbb, de ne lehessen elrontani egy méreg kikeverését...?⭕
 
