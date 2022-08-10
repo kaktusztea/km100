@@ -556,9 +556,12 @@ Ha a karakternek egy olyan összetett próbát kell tennie, ami nem intézhető 
 - [ ] Hogy a másodlagos dobásból hány kell, az főleg attól függ, hogy a feladat „milyen hosszú", mennyire „többlépcsős".
 - [ ] Ha nagyon finom bontást akarunk, akkor akár 2 fokozattal alacsonyabb nehézségre is dobathatunk akár így is: Nagyon nehéz (1db), Nehéz(1db), Átlagos (1db).
 
+<br />
+
 #### Példa Összetett Tulajdonságpróbára
 
-⚡ Elkapdosni a folyamatosan potyogó tányérokat
+> ⚡ Elkapdosni a folyamatosan potyogó tányérokat
+
 - [ ] Tetves, a tolvaj `Ügyessége: +3`
 - [ ] A próba „Nagyon nehéz" (`Célszám: 7`)
 - [ ] Mivel a feladat elég komplex és időben is elhúzódhat, ezért nem intézhető el a dolog 1db dobással. A KM 1db Másodlagos próbát ír elő.

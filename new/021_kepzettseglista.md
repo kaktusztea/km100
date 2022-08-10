@@ -198,7 +198,7 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🔴Vallásismeret (általános) 🔵 Vallásismeret (adott hitvilág)
 
-🔴Méregkeverés 🔵Méregkeverés (adott kategória: ételmérgek, légi- és kontaktmérgek, fegyvermérgek) 🟢Méregkeverés (egy konkrét méreg)
+🔴[Méregkeverés](kepzettsegek/meregkeveres.md) 🔵[Méregkeverés (adott kategória: ételmérgek, légi- és kontaktmérgek, fegyvermérgek)](kepzettsegek/meregkeveres.md) <sup><sub>(90%)</sub></sup>
 
 ## Misztikus képzettségek
 

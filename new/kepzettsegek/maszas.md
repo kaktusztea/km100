@@ -82,11 +82,11 @@ Hogy egy karakter hányas `Erő` tulajdonsággal képes még továbbmászni, az 
 
 <br />
 
-> Példa
-
-**Tetves, a tolvaj:**&nbsp;&nbsp;`Mászás: 9, Ügyesség: +3, Edzettség: +3, Erő: +1`
+> Példa ⚡
 
 ⚡ Részlet Tetves, a tolvaj küzdelmes útjából a **Szent Vágránáf ereklyéjét** őrző **Wakzahanbarr** erődmonostor cigiterasza alatti sziklafalon:
+
+**Tetves, a tolvaj:**&nbsp;&nbsp;`Mászás: 9, Ügyesség: +3, Edzettség: +3, Erő: +1`
 
 ```
 A mászás elején Tetves Mászás-próbát dob. A terep nehézsége 15-ös (nagyon nehéz).
