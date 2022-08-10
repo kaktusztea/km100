@@ -51,4 +51,4 @@ A szabályrendszer dokumentumaiban speciális unicode karaktereket használunk j
 
 ⭕ TODO: kidolgozásra/döntésre vár
 
-🔹 OUT-OF-SYNC: a megjelölt rész inkonzisztens állapotban van más dokumentumok tartalmával.
+🔹 [OUT-OF-SYNC](https://github.com/kaktusztea/km100/wiki/OUT-OF-SYNC): a megjelölt rész inkonzisztens állapotban van más dokumentumok tartalmával.
