@@ -1,0 +1,3 @@
+### Tudományos képzettségek
+
+⭕ Bevezetőt írni.

@@ -1,0 +1,3 @@
+### Misztikus képzettségek
+
+⭕ Bevezetőt írni.
