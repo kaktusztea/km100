@@ -190,6 +190,8 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🔵Mechanika 🟢Mechanika-spec ⭕TODO⭕
 
+🔴Élettan
+
 🔴Történelemismeret (Ynev) 🔵Történelemismeret - adott régió (pl. Toroni államszövetség, Pyarroni államszövetség) 🟢Történelemismeret - adott város (Erion, Ifin, stb.)
 
 🔴Hadászat 🔵Taktika (vezetői tudás) (szakaszvezető) 🟢Nehézlovas taktika, Falanx taktika, Íjász taktika, Fejvadászok vezetése, Testőrség vezetése, Útonállás/Rajtaütés (passzív tudásként is) 🔵Stratégia (elmélet) 🟢Csatatervezés, Hadtáp
