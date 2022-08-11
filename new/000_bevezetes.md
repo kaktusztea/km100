@@ -41,7 +41,7 @@ A szabályrendszer dokumentumaiban speciális unicode karaktereket használunk j
 
 ⚡ Példa
 
-🔆 Magyarázat
+🔆 Magyarázat, megjegyzés
 
 ⚜️ Példatörténet
 

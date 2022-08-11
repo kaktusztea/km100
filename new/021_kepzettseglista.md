@@ -2,7 +2,7 @@
 
 🔴Átfogó képzettség 🔵Átlagos képzettség 🟢Specializáció
 
-🟡Különleges képzettség ⚪Kiegészítő Komment ⭕TODO, kérdéses
+🟡Különleges képzettség 🔆Megjegyzés ⭕TODO, kérdéses
 
 ---
 
@@ -124,7 +124,7 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🔵Idomítás 🟢Idomítás-spec ⭕TODO⭕
 
-🔵**Szakma**: ács, kőműves, borbély, kádár, varga, szűcs, cserző, (fegyver)kovács, gazdálkodás(birtok), ékszerész, molnár, pék, szabó, kötélgyártó, lakatos, rejtjelfejtő 🟢**Hamisitás - Szakma** - Fegyverkovács, Ékszerész, stb. ⚪ 0-ról indul, 1x-es (specializációnak számít) és nem lehet nagyobb, mint a fölé tartozó képzettség!)
+🔵**Szakma**: ács, kőműves, borbély, kádár, varga, szűcs, cserző, (fegyver)kovács, gazdálkodás(birtok), ékszerész, molnár, pék, szabó, kötélgyártó, lakatos, rejtjelfejtő 🟢**Hamisitás - Szakma** - Fegyverkovács, Ékszerész, stb. 🔆 0-ról indul, 1x-es (specializációnak számít) és nem lehet nagyobb, mint a fölé tartozó képzettség!)
 
 🔴Gyógyítás 🔵Sebgyógyítás 🔵Orvoslás
 
@@ -172,7 +172,7 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 ## Tudományos képzettségek
 
-🟢Nyelvismeret: Beszélt nyelvek, Harci/Klán nyelvek, Speciális (Pl. Kendőnyelv). ⚪3-as szinttől, (ha van már Írástudó képessége), akkor tud írni/olvasni is az adott nyelven.)
+🟢Nyelvismeret: Beszélt nyelvek, Harci/Klán nyelvek, Speciális (Pl. Kendőnyelv). 🔆3-as szinttől, (ha van már Írástudó képessége), akkor tud írni/olvasni is az adott nyelven.)
 
 🔵Mágiaismeret
 
