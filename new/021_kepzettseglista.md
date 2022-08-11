@@ -40,7 +40,7 @@
 
 ## Különleges képzettségek első szinten
 
-### 🟡Helyismeret (városnyi terület)
+### 🟡[Helyismeret (városnyi terület)](kepzettsegek/helyismeret.md)
 
 Ez egy speciális képzettség, melyre nem kell KP-t költeni. Minden karakter kezdéskor kap `10` szintnek megfelelő pontot, amit eloszthat az általa ismert városok/városnyi területek között. Például:
 
@@ -55,38 +55,39 @@ Ez egy speciális képzettség, melyre nem kell KP-t költeni. Minden karakter k
 * A Helyismeret értéke úgy változhat, hogy a KM egy kaland végén a `TP`-osztással együtt tetszés szerint ad pontot a karakterek Helyismeret képzettségére arra a helyre vonatkoztatva, ahol a kaland játszódott. Tehát ha a karakter a délvidékről származik és először volt Ifinben, akkor az eddig `0` értékű „Helyismeret – Ifin” képzettsége a kaland után akár `2`-re is nőhet, ha sok újdonságot tapasztalt a várossal kapcsolatban. Az ilyen értéknövelés nem igényel `KP` költést, "ingyenes".
 * Ha a karakter egy általa ismert várost magában foglaló országgal kapcsolatban dob Helyismeret képzettségpróbát, akkor használhatja a városra vonatkoztatott értékét `-3` büntetéssel.
 
-### 🟡Történelemismeret - saját város
+### 🟡[Történelemismeret](kepzettsegek/x_tortenelemismeret.md) - saját város
 
 Első szinten minden karakter megkapja `3-as szinten` a saját városára vonatkoztatott Történelemismeret képzettséget. Ez az érték természetesen `KP`-ból szabadon tovább növelhető, valamint más városokra is korlátozás nélkül felvehető `KP`-ból.
 
-### 🟡Vallásismeret - saját vallás
+### 🟡[Vallásismeret](kepzettsegek/x_vallasismeret.md) - saját vallás
 
 Első szinten minden karakter megkapja `3-as szinten` a saját vallására vonatkoztatott Vallásismeret képzettséget. Ez az érték természetesen `KP`-ból szabadon tovább növelhető, valamint más vallásokra is felvehető `KP`-ból, amennyiben ezt az előtörténet indokolja és a KM is engedélyezi.
 
-### 🟡Nyelvismeret - saját nyelv
+### 🟡[Nyelvismeret](kepzettsegek/x_nyelvismeret.md) - saját nyelv
 
 Első szinten minden karakter megkapja `6-as szinten` a saját anyanyelvéhez tartozó Nyelvismeret képzettséget.
+
 Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv ismeretét (Pyarroni) is. Amennyiben a karakter anyanyelve a Pyarroni, akkor csak azt kapja meg (`6-os szinten`), nem kap „ajándékba” más Nyelvismeret képzettséget, vagy Karakter Pontot! A képzettség KP-ból természetesen szabadon tovább növelhető.
 
 ---
 
 ## Harci képzettségek
 
-🔴Közelharc
+🔴[Közelharc](kepzettsegek/x_harcmodorok.md)
 
-🔴Kardvívás
+🔴[Kardvívás](kepzettsegek/x_harcmodorok.md)
 
-🔴Lándzsavívás
+🔴[Lándzsavívás](kepzettsegek/x_harcmodorok.md)
 
-🔴Pusztítás
+🔴[Pusztítás](kepzettsegek/x_harcmodorok.md)
 
-🔴Hajítás
+🔴[Hajítás](kepzettsegek/x_hajitas.md)
 
-🔴Íjászat
+🔴[Íjászat](kepzettsegek/x_ijaszat.md)
 
-🔴Lövészet
+🔴[Lövészet](kepzettsegek/x_loveszet.md)
 
-🔴Ostromlövészet
+🔴[Ostromlövészet](magia.vulgar/x_ostromloveszet.md)
 
 ## Fizikai képzettségek
 
@@ -94,63 +95,61 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🔵[Mászás](kepzettsegek/maszas.md) <sup><sub>(90%)</sub></sup>
 
-🔵Lovaglás
+🔵[Lovaglás](kepzettsegek/x_lovaglas.md)
 
 🔵[Léglovaglás](kepzettsegek/leglovaglas.md) <sup><sub>(80%)</sub></sup>
 
-🔴Akrobatika 🔵Esés 🔵Ugrás
+🔴[Akrobatika](kepzettsegek/akrobatika_eses_ugras.md) 🔵 [Esés](kepzettsegek/akrobatika_eses_ugras.md) 🔵 [Ugrás](kepzettsegek/akrobatika_eses_ugras.md)
 
 ## Világi képzettségek
 
-🟢Helyismeret*
+🟢[Helyismeret](kepzettsegek/helyismeret.md)*
 
 🔵[Észlelés](kepzettsegek/eszleles.md) <sup><sub>(95%)</sub></sup>
 
-🔵Keresés
+🔵[Keresés](kepzettsegek/x_kereses.md)
 
 🔵[Emberismeret](kepzettsegek/emberismeret.md) <sup><sub>(90%)</sub></sup>
 
-🔵Természetjárás (adott tájtípus)
+🔵[Természetjárás](kepzettsegek/x_termeszetjaras.md) (adott tájtípus)
 
-🔵Herbalizmus
+🔵[Herbalizmus](kepzettsegek/x_herbalizmus.md)
 
-🔵Vadászat
+🔵[Vadászat](kepzettsegek/x_vadaszat.md)
 
-🔵Szexuális kultúra
+🔵[Szexuális kultúra](kepzettsegek/x_szexualis_kultura.md)
 
 🔵[Etikett](kepzettsegek/etikett.md) (adott kultúrkör)  <sup><sub>(100%)</sub></sup>
 
-🔵Hajózás 🟢Hajózás-spec ⭕TODO⭕
+🔵[Hajózás](kepzettsegek/x_hajozas.md) 🟢[Hajózás-spec](kepzettsegek/x_hajozas.md)
 
-🔵Idomítás 🟢Idomítás-spec ⭕TODO⭕
+🔵[Idomítás](kepzettsegek/x_idomitas.md) 🟢[Idomítás-spec](kepzettsegek/x_idomitas.md)
 
-🔵**Szakma**: ács, kőműves, borbély, kádár, varga, szűcs, cserző, (fegyver)kovács, gazdálkodás(birtok), ékszerész, molnár, pék, szabó, kötélgyártó, lakatos, rejtjelfejtő 🟢**Hamisitás - Szakma** - Fegyverkovács, Ékszerész, stb. 🔆 0-ról indul, 1x-es (specializációnak számít) és nem lehet nagyobb, mint a fölé tartozó képzettség!)
+🔵[Szakma](kepzettsegek/x_szakma_szakma.hamisitas.md): ács, kőműves, borbély, kádár, varga, szűcs, cserző, (fegyver)kovács, gazdálkodás(birtok), ékszerész, molnár, pék, szabó, kötélgyártó, lakatos, rejtjelfejtő 🟢[Hamisitás - Szakma](kepzettsegek/x_szakma_szakma.hamisitas.md) - Fegyverkovács, Ékszerész, stb. 🔆 0-ról indul, 1x-es (specializációnak számít) és nem lehet nagyobb, mint a fölé tartozó képzettség!)
 
-🔴Gyógyítás 🔵Sebgyógyítás 🔵Orvoslás
+🔴[Gyógyítás](kepzettsegek/x_gyogyitas_sebgyogyitas_orvoslas.md) 🔵[Sebgyógyítás](kepzettsegek/x_gyogyitas_sebgyogyitas_orvoslas.md) 🔵[Orvoslás](kepzettsegek/x_gyogyitas_sebgyogyitas_orvoslas.md)
 
-🔴Értékbecslés 🔵Értékbecslés (adott tárgycsoport: fegyverek, ékszerek, festmények, szobrok, stb)
+🔴[Értékbecslés](kepzettsegek/x_ertekbecsles.md) 🔵[Értékbecslés - adott tárgycsoport](kepzettsegek/x_ertekbecsles.md) (fegyverek, ékszerek, festmények, szobrok, stb)
 
 ## Alvilági képzettségek
 
 🔵[Lopakodás/Rejtőzés](kepzettsegek/lopakodas_rejtozes.md) <sup><sub>(10%)</sub></sup>
 
-🔵Nyomolvasás
+🔵[Nyomolvasás](kepzettsegek/nyomolvasas.md)
 
 🔵[Álcázás/Álruha](kepzettsegek/alcazas_alruha.md) <sup><sub>(80%)</sub></sup>
 
-🔵Tolvajlás
+🔵[Tolvajlás](kepzettsegek/x_tolvajlas.md)
 
-🔵Zsonglőrködés
+🔵[Zsonglőrködés](kepzettsegek/x_zsonglorkodes.md)
 
-🔵Kínzás
+🔵[Kínzás](kepzettsegek/x_kinzas.md)
 
-🔵Szerencsejáték
+🔵[Szerencsejáték](kepzettsegek/x_szerencsejatek.md) 🟢[Kártyázás](kepzettsegek/x_szerencsejatek.md) 🟢[Kockázás](kepzettsegek/x_szerencsejatek.md)
 
-🔵Kártyázás
+🔵[Zárnyitás](kepzettsegek/x_zarnyitas.md) 🟢[Zárnyitás - spec](kepzettsegek/x_zarnyitas.md)  ⭕LEGYEN??⭕
 
-🔵Zárnyitás 🟢spec? ⭕TODO⭕
-
-🔵Csapdaállítás 🟢spec? ⭕TODO⭕
+🔵[Csapdaállítás](kepzettsegek/x_csapdaallitas.md) 🟢[Csapdaállítás - spec](kepzettsegek/x_csapdaallitas.md) ⭕LEGYEN??⭕
 
 ## Művészeti képzettségek
 
