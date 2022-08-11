@@ -28,10 +28,10 @@ A képzettségeket kategóriákra bontjuk aszerint, mennyire átfogóak, mekkora
 A Képzettségeket és egymáshoz való viszonyukat legjobban halmazokkal tudnánk szemléltetni, melyek közül a legnagyobb (`Átfogó`) több kisebbet (`Átlagos`) tartalmaz, amelyek további még kisebb (`Specializált`) halmazokat foglalnak magukban. A „`Könnyű`" képzettségek nem tartoznak egyik felsorolt halmazba sem, önmagukban állnak, kezelésük viszont szinte mindenben megegyezik a Specializált képzettségekével (lásd később).
 
 | Képzettség kategória | Például |
-| ----------- | :-----------: |
+| ----------- | :----------- |
 | 🔴 **Átfogó** | Történelemismeret - Ynev |
 | 🔵 **Átlagos** | Történelemismeret - Pyarroni államszövetség,<br />vagy Történelemismeret - Kyria |
-| 🟢 **Specializált / Könnyű** | Történelemismeret -- Predoc |
+| 🟢 **Specializált / Könnyű** | Történelemismeret - Predoc |
 
 Az `Átfogó` képzettségek jellemzője, hogy általános, mindenre kiterjedő tudást nyújtanak az adott területen. Éppen ezért tanulásuk is tovább tart, ami meg is látszik a magasabb `KP` igényen. Ennek következménye, hogy magába foglal több konkrétabb Képzettséget, amelyeket az `Átlagos`, vagy `Specializált` kategóriákban találunk. Az ide tartozó képzettségeket tekinthetjük a legnagyobb halmaznak. Ilyen Átfogó képzettség például az általános történelemismeret : "`Történelemismeret - Ynev`".
 
