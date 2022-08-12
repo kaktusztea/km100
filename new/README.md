@@ -2,11 +2,23 @@
 
 Egy fantasy világokra tervezett komplett szerepjáték rendszer.
 
-Filozófia: a km100 egy nagyfokú realitásra törekvő rendszer, sok szabállyal, mégis gördülékenynek tűnik játék során. Ennek oka, hogy a legtöbb számolást igénylő feladatot karakteralkotási időbe száműztünk. Így egy karakter megalkotása több időt vehet igénybe, viszont rendkívül egyedi, specializált végeredményt kapunk.
+## Filozófia
+
+A km100 egy nagyfokú realitásra törekvő rendszer, sok szabállyal, mégis gördülékenynek tűnik játék során. Ennek oka, hogy a legtöbb számolást igénylő feladatot karakteralkotási időbe száműztünk. Így egy karakter megalkotása több időt vehet igénybe, viszont rendkívül egyedi, specializált végeredményt kapunk.
+
+Az első mindig a misztikus, kalandos történet hangulata és annak karakterei - a rendszer csak "másodhegedűs", ami a mesélő keze alá dolgozik és "aláteszi" a kereteket.
+
+Komplexebb események során a számolási terheket tudatosan eloszthatjuk a játékos és mesélő között. Ez utóbbi tehermentesítése is fontos szempont. Vannak "félkész" értékek, amiket a játékos (még dobálás előtt) előre kiszámolhat - így gyorsítva a játékot.
+
+Játékosok kreativitásának kiemelt mértékű jutalmazása nagyon fontos - ez a szituációk eltérő jellegének előtérbe helyezésével érhető el.
 
 Szociális képzettségekből egyedül az Etikett létezik, a meggyőzés, megfélemlítés, átverés jellegű szituációk a KM és a játékos közti párbeszéden, illetve az elképzelt karakteren múlik, ezeket csak kapcsolódó fortélyok könnyíthetik meg, de nem pótolhatják. Az ilyen jellegű helyzetek eredménye egy "Emberismeret" képzettségpróba, ahol a célszámot a KM határozza meg az előadás alapján, így a rendszer a _szerep-játékra_ helyezi a hangsúlyt - szemben például egy számítógépes játékkal, ahol ezen értékek is mind számszerűsítve vannak. Az élő játék egyik legnagyobb előnyét fontosnak tartottuk kiemelten kezelni.
 
 A km100 rendszerében nincsenek kasztok, egyes jellemzőket szabad pontokból, másokat KP elköltésével lehet növelni.
+
+---
+
+## Számok
 
 ### Szabad pontok
 
@@ -24,6 +36,8 @@ A km100 rendszerében nincsenek kasztok, egyes jellemzőket szabad pontokból, m
 A harcrendszer kiemelten alapoz a szituációk eltérő voltára, ugyanaz a két karakter más-más körülmények, fegyverek, páncélok és taktikák alkalmazásával gyökeresen más esélyekkel indul, így aki ésszel harcol, nagyon sokat nyerhet.
 
 A lőfegyverek alapesetben rendkívül halálosak, viszont a vérteknek szintén nagy szerep jut (nem csak) ennek ellensúlyozására, illetve a célpont láthatósága, mozgása is sokat nehezít.
+
+---
 
 ## Kivonatok
 

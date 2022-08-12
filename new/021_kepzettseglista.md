@@ -306,3 +306,7 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 ⭕Ceremoniális mágiák (???)
 
 🔴Demonológia (lásd: Misztikus képzettségek)
+
+## Papi mágia
+
+⭕Még az se biztos, hogy lesznek képzettség-alapú szférák⭕
