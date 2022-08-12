@@ -153,55 +153,55 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 ## Művészeti képzettségek
 
-🟢Művészetismeret (Festészet+Kalligráfia, Szobrászat, Irodalom+színjátszás, Zene)
+🟢[Művészetismeret](kepzettsegek/x_muveszetismeret.md) (Festészet+Kalligráfia, Szobrászat, Irodalom+színjátszás, Zene)
 
-🔵Ének
+🔵[Ének](kepzettsegek/x_enek.md)
 
-🔵Festészet 🟢Hamisítás-festészet (0-ról indul és nem lehet nagyobb, mint a fölé tartozó képzettség!)
+🔵[Festészet](kepzettsegek/x_festeszet.md) 🟢[Hamisítás-festészet](kepzettsegek/x_festeszet.md) (0-ról indul és nem lehet nagyobb, mint a fölé tartozó képzettség!)
 
-🔵Szobrászat 🟢Hamisítás-szobrászat (0-ról indul és nem lehet nagyobb, mint a fölé tartozó képzettség!)
+🔵[Szobrászat](kepzettsegek/x_szobraszat.md) 🟢[Hamisítás-szobrászat](kepzettsegek/x_szobraszat.md) (0-ról indul és nem lehet nagyobb, mint a fölé tartozó képzettség!)
 
-🔵Kalligráfia 🟢Hamisítás-kalligráfia (0-ról indul és nem lehet nagyobb, mint a fölé tartozó képzettség!)
+🔵[Kalligráfia](kepzettsegek/x_kalligrafia.md) 🟢[Hamisítás-kalligráfia](kepzettsegek/x_kalligrafia.md) (0-ról indul és nem lehet nagyobb, mint a fölé tartozó képzettség!)
 
-🔵Irodalom 🟢Irodalom ismeret (adott régió)
+🔵[Irodalom](kepzettsegek/x_irodalom.md) 🟢[Irodalom ismeret](kepzettsegek/x_irodalom.md) (adott régió)
 
-🔵Tánc 🟢Tánc (speciális belső stílus)
+🔵[Tánc](kepzettsegek/x_tanc.md) 🟢[Tánc](kepzettsegek/x_tanc.md) (speciális belső stílus)
 
-🔴Zeneszerző 🔵Zene (hangszercsoport: fúvós, pengetős, ütős, stb) 🟢Zene (konkrét hangszer)
+🔴[Zeneszerző](kepzettsegek/x_zene.md) 🔵[Zene](kepzettsegek/x_zene.md) (hangszercsoport: fúvós, pengetős, ütős, stb) 🟢[Zene](kepzettsegek/x_zene.md) (konkrét hangszer)
 
 ## Tudományos képzettségek
 
-🟢Nyelvismeret: Beszélt nyelvek, Harci/Klán nyelvek, Speciális (Pl. Kendőnyelv). 🔆3-as szinttől, (ha van már Írástudó képessége), akkor tud írni/olvasni is az adott nyelven.)
+🟢[Nyelvismeret](kepzettsegek/x_nyelvismeret.md): Beszélt nyelvek, Harci/Klán nyelvek, Speciális (Pl. Kendőnyelv). 🔆3-as szinttől, (ha van már Írástudó képessége), akkor tud írni/olvasni is az adott nyelven.)
 
-🔵Mágiaismeret
+🔵[Mágiaismeret](kepzettsegek/x_magiaismeret.md) - mágiaformánként
 
-🔵Építészet
+🔵[Építészet](kepzettsegek/x_epiteszet.md)
 
-🔵Térképészet
+🔵[Térképészet](kepzettsegek/x_terkepeszet.md)
 
 🔵[Ősi kultúrák ismerete](kepzettsegek/osi_kulturak_ismerete.md) (Külön ősi kultúránként) (Történem és Vallásismeret is egyben) <sup><sub>(25%)</sub></sup>
 
-🔵Ősi nyelv ismerete (Külön ősi nyelvenként)
+🔵[Ősi nyelv ismerete](kepzettsegek/x_osi_nyelv_ismerete.md) (Külön ősi nyelvenként)
 
-🔵Jogismeret (adott kultúrkör) (Pyarroni államszövetség, Toron, stb)
+🔵[Jogismeret](kepzettsegek/x_jogismeret.md) (adott kultúrkör) (Pyarroni államszövetség, Toron, stb)
 
-🔵Alkímia 🟢Alkímia-spec ⭕TODO⭕
+🔵[Alkímia](kepzettsegek/x_alkimia.md) 🟢[Alkímia-spec](kepzettsegek/x_alkimia.md) ⭕TODO⭕
 
-🔵Mechanika 🟢Mechanika-spec ⭕TODO⭕
+🔵[Mechanika](kepzettsegek/x_mechanika.md) 🟢[Mechanika-spec](kepzettsegek/x_mechanika.md) ⭕TODO⭕
 
-🔴Élettan
+🔴[Élettan](kepzettsegek/x_elettan.md)
 
-🔴Történelemismeret (Ynev) 🔵Történelemismeret - adott régió (pl. Toroni államszövetség, Pyarroni államszövetség) 🟢Történelemismeret - adott város (Erion, Ifin, stb.)
+🔴[Történelemismeret](kepzettsegek/x_tortenelemismeret.md) (Ynev) 🔵[Történelemismeret - adott régió](kepzettsegek/x_tortenelemismeret.md) (pl. Toroni államszövetség, Pyarroni államszövetség) 🟢[Történelemismeret - adott város](kepzettsegek/x_tortenelemismeret.md) (Erion, Ifin, stb.)
 
-🔴Hadászat 🔵Taktika (vezetői tudás) (szakaszvezető) 🟢Nehézlovas taktika, Falanx taktika, Íjász taktika, Fejvadászok vezetése, Testőrség vezetése, Útonállás/Rajtaütés (passzív tudásként is) 🔵Stratégia (elmélet) 🟢Csatatervezés, Hadtáp
+🔴[Hadászat](kepzettsegek/x_hadaszat.md) 🔵[Taktika](kepzettsegek/x_hadaszat.md) (vezetői tudás) (szakaszvezető) 🟢[Nehézlovas taktika](kepzettsegek/x_hadaszat.md), [Falanx taktika](kepzettsegek/x_hadaszat.md), [Íjász taktika](kepzettsegek/x_hadaszat.md), [Fejvadászok vezetése](kepzettsegek/x_hadaszat.md), [Testőrség vezetése](kepzettsegek/x_hadaszat.md), [Útonállás/Rajtaütés](kepzettsegek/x_hadaszat.md) (passzív tudásként is) 🔵[Stratégia](kepzettsegek/x_hadaszat.md) (elmélet) 🟢[Csatatervezés](kepzettsegek/x_hadaszat.md), [Hadtáp](kepzettsegek/x_hadaszat.md)
 
-🔴Vallásismeret (általános) 🔵 Vallásismeret (adott hitvilág)
+🔴[Vallásismeret](kepzettsegek/x_vallasismeret.md) (általános) 🔵[Vallásismeret](kepzettsegek/x_vallasismeret.md) (adott hitvilág)
 
 🔴[Méregkeverés](kepzettsegek/meregkeveres.md) 🔵[Méregkeverés (adott kategória: ételmérgek, légi- és kontaktmérgek, fegyvermérgek)](kepzettsegek/meregkeveres.md) <sup><sub>(90%)</sub></sup>
 
 ## Misztikus képzettségek
 
-🔵Összpontosítás
+🔵[Összpontosítás](kepzettsegek/x_osszpontositas.md)
 
 🔵Pszí iskolák
 
@@ -211,11 +211,13 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 ## Vulgármágia képzettség iskolái
 
+🔵[Árnyékmágia](magia.vulgar/arnyekmagia.md)
+
 🔵Asztrálmágia
 
 🔵Mentálmágia
 
-🔵Nekromancia
+🔵[Nekromancia](magia.vulgar/nekromancia.md)
 
 🔵Termékenységi mágia
 
@@ -223,13 +225,13 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🔵Betegségmágia
 
-🔵Méregmágia
+🔵[Méregmágia](magia.vulgar/meregmagia.md)
 
 🔵Szexuálmágia (bájolások is)
 
 🔵Tűzmágia
 
-🔵Villámmágia
+🔵[Villámmágia](magia.vulgar/villammagia.md)
 
 🔵Gyertyamágia
 
@@ -249,7 +251,7 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🔵Átkok
 
-🔵Idézőmágia
+🔵[Idézések](magia.saman/idezesek.md)
 
 🔵Maszkmágia
 
@@ -261,7 +263,7 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 ## Bárdmágia képzettség iskolái
 
-🔵Fénymágia
+🔵[Fénymágia](magia.bard/fenymagia.md)
 
 🔵Hangmágia
 
@@ -271,15 +273,25 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 ## Ordani tűzmágia képzettség iskolái
 
+🔵[Alapformák](magia.tuz/alapformak.md)
+
 🔵TODO⭕
 
 ## Magasmágia képzettség iskolái
+
+🔵Metamágia
+
+🔵[Elemi mágia](magia.magas/elemi_magia.md)
 
 🔵Természetes anyagok mágiája
 
 🔵Asztrálmágia
 
 🔵Mentálmágia
+
+🔵Fénymágia
+
+🔵Csendmágia
 
 🔵Időmágia
 
