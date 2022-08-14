@@ -37,6 +37,10 @@ A harcrendszer kiemelten alapoz a szituációk eltérő voltára, ugyanaz a két
 
 A lőfegyverek alapesetben rendkívül halálosak, viszont a vérteknek szintén nagy szerep jut (nem csak) ennek ellensúlyozására, illetve a célpont láthatósága, mozgása is sokat nehezít.
 
+Misztikus elemekben erős hangsúly van a hangulati és szituáció-függő aspektuson és a mágia kiszámíthatatlanságán: a mágia NEM egy alternatív fizika. Ugyanaz a varázslat máshogy viselkedhet, vagy könnyebb/nehezebb a körülmények/együttállások/alkalmazó személyétől/hatalmától függően. Egyes varázslatok fizikailag is kimerítőek lehetnek.
+
+Mágiában kisebb/nagyobb mellékhatások jelennek meg, különösen nagy hatalmú varázslatok esetében. Papi mágiában igencsak számít az adott isten aktuális "befolyása" a világon, a papok hatalom tekintetében nem tekinthetőek egyenlőnek.
+
 ---
 
 ## Kivonatok
