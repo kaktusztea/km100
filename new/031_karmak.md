@@ -12,14 +12,14 @@ Versenyeken, klubokban viszont csak és kizárólag az itt leírt Karmákat adha
 
 | 🟣 Hős | (1) |
 | :----------- | :----------- |
-| Követelmény&nbsp;	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Mindig segít a bajba jutottakon, mindig kész az önfeláldozásra, mindig a jó ügy érdekében cselekszik. Aki sok-sok hőstettet hajt végre, megkapja ezt a Karmát.   |
-| Hatás | 👀 **Pro**: Ez ténylegesen megnöveli az értékeit (mértékét még megbeszéljük), segítve ezzel további hőstetteit.<br />**Kontra**: Elég csak egyetlen rossz cselekedet, és elveszíti a karmát, és soha többé nem lehet visszaszerezni! Ekkor egy bukott hős karma a jutalma... 👀 |
+| Követelmény &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Mindig segít a bajba jutottakon, mindig kész az önfeláldozásra, mindig a jó ügy érdekében cselekszik. Aki sok-sok hőstettet hajt végre, megkapja ezt a Karmát.   |
+| Hatás | 👀 **Pro**: Ez ténylegesen megnöveli az értékeit (mértékét még megbeszéljük), segítve ezzel további hőstetteit.<br />**Kontra**: Elég csak egyetlen rossz cselekedet, és elveszíti a karmát, és soha többé nem lehet visszaszerezni! Ekkor egy **Bukott hős** karma a jutalma... 👀 |
 
 <br />
 
 | 🟣 Bajnok | (1) |
 | :----------- | :----------- |
-| Követelmény &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Hasonlít a hősre, de már nem feltétlenül kell jónak lennie. A hőstettei egyetlen csoportra korlátozódik. Ő a csoport hőse, egymaga hoz dicsőséget / védelmezi meg / viszi győzelemre a csoportot. Pl: Achilles |
+| Követelmény &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Hasonlít a hősre, de már nem feltétlenül kell jónak lennie. A hőstettei egyetlen csoportra korlátozódnak. Ő a csoport hőse, egymaga hoz dicsőséget / védelmezi meg / viszi győzelemre a csoportot. Pl: Achilles |
 | Hatás | ⭕??⭕ |
 
 <br />

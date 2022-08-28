@@ -37,7 +37,7 @@ A szabályrendszer dokumentumaiban speciális unicode karaktereket használunk j
 
 🟣 Fortély
 
-⚔️ Harci taktika, Harci szituáció vagy Manőver
+🗡️ Harci taktika, Harci szituáció vagy Manőver
 
 <br />
 
