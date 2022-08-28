@@ -1,4 +1,4 @@
-#### Harci anatómia (3)
+#### 🟣 Harci anatómia (3)
 
 Ismered a test sebezhető pontjait és tisztában vagy a létfontosságú belső szervek elhelyezkedésével.
 
@@ -14,3 +14,5 @@ Ismered a test sebezhető pontjait és tisztában vagy a létfontosságú belső
 - Csatabárdokkal, buzogányokkal, kétkezes fegyverekkel a fortély nem alkalmazható.
 - Nem alkalmazható 🗡️**Páncélszúrás manőver** alkalmazása közben.
 - A fent leírt előnyök nem érvényesülnek bármilyen világi, vagy mágikus módszerrel kiváltott harci lázban.
+
+---
