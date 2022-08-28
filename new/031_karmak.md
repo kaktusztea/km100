@@ -45,14 +45,14 @@ Versenyeken, klubokban viszont csak és kizárólag az itt leírt Karmákat adha
 
 <br />
 
-| 🟣 xxyy | (1) |
+| 🟣 Összhang | (%) |
 | :----------- | :----------- |
-| Követelmény &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; |  |
-| Hatás |  |
+| Követelmény &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; | Előtörténet |
+| Hatás |  Mágikus karma<br />Például:<br />• Esőben varázsló (30%)<br />• Tömegben varázsló (20%)<br />• stb<br />lásd a Mágia fejezet ⭕**„Összhang karmák”** fejezetét!⭕ |
 
 <br />
 
-| 🟣 xxyy | (1) |
+| 🟣 Profán | ⭕(??)⭕ |
 | :----------- | :----------- |
-| Követelmény &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; |  |
-| Hatás |  |
+| Követelmény &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; | Mágikus karma<br />„A cipőfűzőjét is mágiával köti be”<br />Minden apró piszlicsáré ügyet mágiával intéz, csak megmozdulni ne kelljen :) |
+| Hatás | **Pro**:<br />Az apró, kis hatású varázslatokat ingyen, vagy 1-2 Manáért tudja alkalmazni, annyira megszokottá, begyakorolttá vált a használatuk.<br />**Kontra**:<br />⭕• A nagy hatalmú varázslatokat dupla Manáért tudja csak alkalmazni⭕<br />⭕• Nem képes Rituális mágiák alkalmazására⭕ |
