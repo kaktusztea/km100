@@ -54,5 +54,5 @@ Versenyeken, klubokban viszont csak és kizárólag az itt leírt Karmákat adha
 
 | 🟣 Profán | ⭕(??)⭕ |
 | :----------- | :----------- |
-| Követelmény &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; | Mágikus karma<br />„A cipőfűzőjét is mágiával köti be”<br />Minden apró piszlicsáré ügyet mágiával intéz, csak megmozdulni ne kelljen :) |
-| Hatás | **Pro**:<br />Az apró, kis hatású varázslatokat ingyen, vagy 1-2 Manáért tudja alkalmazni, annyira megszokottá, begyakorolttá vált a használatuk.<br />**Kontra**:<br />⭕• A nagy hatalmú varázslatokat dupla Manáért tudja csak alkalmazni⭕<br />⭕• Nem képes Rituális mágiák alkalmazására⭕ |
+| Követelmény &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; | „A cipőfűzőjét is mágiával köti be”<br />Minden apró piszlicsáré ügyet mágiával intéz, csak megmozdulni ne kelljen :) |
+| Hatás | Mágikus karma<br />**Pro**:<br />Az apró, kis hatású varázslatokat ingyen, vagy 1-2 Manáért tudja alkalmazni, annyira megszokottá, begyakorolttá vált a használatuk.<br />**Kontra**:<br />⭕• A nagy hatalmú varázslatokat dupla Manáért tudja csak alkalmazni⭕<br />⭕• Nem képes Rituális mágiák alkalmazására⭕ |
