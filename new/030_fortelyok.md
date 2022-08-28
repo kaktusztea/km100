@@ -9,3 +9,29 @@ A Fortélyok egyedi ismeretek, melyeket ugyanúgy KP-ből vehet fel a karakter, 
 - Több fokú Fortélyoknál szintenként csak egy fokot lehet fejlődni akkor is, ha lenne elég KP több fokra is! **Ez alól kivétel az 1. szint (karakteralkotás).**
 - Egy szintlépés alkalmával nem vehető fel két olyan Fortély, amely ugyanazt a jellemzőt/képzettséget, stb módosítja.
 - A fortélyoknak lehetnek **követelményei**: Tulajdonságok elvárt értékei, képzettségek elvárt szintje, esetleg más fortélyok megléte, vagy valamilyen nem számszerűsíthető körülmény.
+
+---
+
+[Karmák](031_karmak.md)
+
+[Háttér fortélyok](032_hatter_fortelyok.md)
+
+---
+
+[Általános fortélyok](033_altalanos_fortelyok.md)
+
+[Alvilági és fizikai fortélyok](038_alvilagi_fizikai_fortelyok.md)
+
+---
+
+[Harci fortélyok](035_harci_fortelyok.md)
+
+[Íjász, hajítás fortélyok](036_ijasz_hajitas_fortelyok.md)
+
+[Lovas fortélyok](037_lovas_fortelyok.md)
+
+---
+
+[Titkos fortélyok](034_titkos_fortelyok.md)
+
+---
