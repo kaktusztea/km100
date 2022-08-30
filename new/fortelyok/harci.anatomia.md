@@ -15,4 +15,6 @@ Ismered a test sebezhető pontjait és tisztában vagy a létfontosságú belső
 - Nem alkalmazható 🗡️**Páncélszúrás manőver** alkalmazása közben.
 - A fent leírt előnyök nem érvényesülnek bármilyen világi, vagy mágikus módszerrel kiváltott harci lázban.
 
+<br />
+
 ---

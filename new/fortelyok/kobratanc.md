@@ -19,4 +19,6 @@ Harci transz ⭕(kizökkenéshez mi kell?)⭕
 - Támadások száma: max annyi, amennyi az ellenfél(felek) támadásai össz, mivel regál a támadásokra. Lemesélve:
   - Ő dob először (megelőző) támadást. Ha az sikeres (sebző), akkor az ellenfél elveszíti a támadását.
 
+<br />
+
 ---
