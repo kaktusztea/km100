@@ -1,5 +1,7 @@
 #### 🟣 Kobratánc (?? fok)
 
+⭕ Még kidolgozatlan⭕
+
 Végtagokat, hasat, páncéltalan részeket támad.
 
 | |  Követelmény | Hatás  |   |
@@ -9,13 +11,13 @@ Végtagokat, hasat, páncéltalan részeket támad.
 **Hatása**
 
 Harci transz ⭕(kizökkenéshez mi kell?)⭕
-- Nő a harcos Sebesség értéke: +5
+- Nő a harcos Sebesség értéke: `+5`
   - ⭕Ez értelmetlen, mert annyit támad, amennyit az ellenfelek rá!!⭕
-- Sebzés: k20+2 SP <sub>(semmi más bónusz nem számít)</sub>
-- TÉ: +10
+- Sebzés: `k20+2 SP` <sup><sub>(semmi más bónusz nem számít)</sup></sub>
+- TÉ: `+10`
 - ⭕Páncéldobás esélyeit módosítja:⭕
   - ⭕nagyobb esély a végtagokra⭕  VAGY
-  - ⭕-20% a páncéldobásra⭕
+  - ⭕`-20%` a páncéldobásra⭕
 - Támadások száma: max annyi, amennyi az ellenfél(felek) támadásai össz, mivel regál a támadásokra. Lemesélve:
   - Ő dob először (megelőző) támadást. Ha az sikeres (sebző), akkor az ellenfél elveszíti a támadását.
 
