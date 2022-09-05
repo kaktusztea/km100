@@ -2,6 +2,11 @@
 
 ⭕TODO: Erősebb követelményeket és 👀követni👀! Elég táp jelenleg⭕
 
+⭕Plusz követelmény ötlet⭕
+
+- ⭕Összpontosítás - 3/6/9/12 szint
+- ⭕Harcmodor, amit használ - 3/6/9/12 szint
+
 A harc ritmusát fenntartva, elméd erejének hála kevésbé merít ki a harc szellemileg.
 
 | |  Követelmény | Hatás  |
