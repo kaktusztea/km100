@@ -4,8 +4,8 @@ Képes vagy hárítófegyvert használni.
 
 | |  Követelmény | Hatás  |
 | :----------- | :-----------: | :----------- |
-| Alapeset| - | Hiába visel valaki hárítófegyvert, ha nem tudja használni, nem kap semmilyen pluszt. |
-| 1.fok | Ügyesség: +1 | Megkapja a hárítófegyver **VÉ** értékét is. |
+| Alapeset| - | Hiába viselsz hárítófegyvert kiegészítésként a nem-fegyverforgató kezedben, ha nem tudod használni, nem kapod meg annak Védő Értékét. (0-nak számít). |
+| 1.fok | Ügyesség: +1 | Megkapod a hárítófegyver **VÉ** értékét is. |
 
 
 <br />
