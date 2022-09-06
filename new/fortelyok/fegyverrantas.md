@@ -13,7 +13,7 @@ Bónuszok 🗡️**Fegyverrántás-szituációban** (az alkalmazó oldalán):
 
 **Megjegyzések**
 
-- Bővebben lásd a **Harcrendszer** fejezet ⭕**Fegyverrántás** alfejezetét!
+- Bővebben lásd a **Harcrendszer** fejezet ⭕🗡️**Fegyverrántás** alfejezetét!
 
 <br />
 
