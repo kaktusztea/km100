@@ -4,9 +4,9 @@
 
 Végtagokat, hasat, páncéltalan részeket támad.
 
-| |  Követelmény | Hatás  |   |
-| :----------- | :----------- | :----------- | :----------- |
-| 1.fok | Gorviki fejvadászklán<br />Összpontosítás&nbsp;–&nbsp;9.szint&nbsp;?<br />Kétkezes harc&nbsp;–&nbsp;2.fok<br />Kardvívás&nbsp;–&nbsp;9.szint | |
+| |  Követelmény | Hatás  |
+| :----------- | :----------- | :----------- |
+| 1.fok | Gorviki fejvadászklán<br />Összpontosítás&nbsp;–&nbsp;9.szint&nbsp;?<br />Kétkezes harc&nbsp;–&nbsp;2.fok<br />Kardvívás&nbsp;–&nbsp;9.szint |
 
 **Hatása**
 
