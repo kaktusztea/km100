@@ -9,7 +9,7 @@ Megjegyzés: a kapcsolat olyan konkrét állatokra vonatkozik, akikkel a viselő
 **Követelmény**
 
 - Idomítás / Lovaglás (csak lóra) / Léglovaglás (csak adott fajú repülő lényre) &nbsp;–&nbsp;⭕15.⭕szint<br />
-- Fogékonyság: +3
+- Fogékonyság: `+3`
 
 <br />
 
