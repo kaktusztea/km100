@@ -4,8 +4,8 @@
 
 | |  Követelmény | Hatás  |
 | :----------- | :----------- | :----------- |
-| 1.fok | Ügyesség:&nbsp;+2<br />Gyorsaság:&nbsp;+2<br />Akrobatika&nbsp;-&nbsp;4.szint | Az **Akrobatika** képzettséged `felét` hozzáadhatod bónuszként `TÉ/VÉ` értékeidhez.<br />🗡️**Kibontakozás/Átsiklás** manőverre `+1` bónuszt kapsz. |
-| 2.fok | Ügyesség:&nbsp;+4<br />Gyorsaság:&nbsp;+3<br />Akrobatika&nbsp;-&nbsp;8.szint | Az **Akrobatika** képzettségedet `1:1` hozzáadhatod bónuszként `TÉ/VÉ` értékeidhez.<br />🗡️**Kibontakozás/Átsiklás** manőverre `+3` bónuszt kapsz. |
+| 1.fok | Ügyesség:&nbsp;+2<br />Gyorsaság:&nbsp;+2<br />Akrobatika&nbsp;-&nbsp;4.szint | Az **Akrobatika** képzettséged `felét` hozzáadhatod bónuszként `TÉ/VÉ` értékeidhez.<br />🗡️ **Kibontakozás/Átsiklás** manőverre `+1` bónuszt kapsz. |
+| 2.fok | Ügyesség:&nbsp;+4<br />Gyorsaság:&nbsp;+3<br />Akrobatika&nbsp;-&nbsp;8.szint | Az **Akrobatika** képzettségedet `1:1` hozzáadhatod bónuszként `TÉ/VÉ` értékeidhez.<br />🗡️ **Kibontakozás/Átsiklás** manőverre `+3` bónuszt kapsz. |
 
 <br />
 

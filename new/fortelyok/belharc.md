@@ -2,7 +2,7 @@
 
 Testközelben érzed igazában elemedben magad.
 
-Sikeres 🗡️**Belharcba kerülés** manőver esetén 🗡️**Belharci szituációba** kerülsz és harcértékeidre – csak „Közelharc” harcmodor esetén – a következő pluszok járnak:
+Sikeres 🗡️ **Belharcba kerülés** manőver esetén 🗡️ **Belharci szituációba** kerülsz és harcértékeidre – csak „Közelharc” harcmodor esetén – a következő pluszok járnak:
 
 | |  Követelmény | Hatás  |
 | :----------- | :----------- | :----------- |
