@@ -3,7 +3,7 @@
 Sötétben apró neszek, megérzések segítenek csökkenteni a látáshiány okozta hátrányt.
 
 | |  Követelmény | Csönd és sötét | Zajok és sötét |
-| :----------- | :-----------: | :----------- | :----------- |
+| :----------- | :-----------: | :-----------: | :-----------: |
 | Képzetlen | - | `-30 KÉ`, `-50 TÉ/VÉ` | `-20 KÉ`, `-30 TÉ/VÉ` |
 | 1.fok | Összpontosítás&nbsp;–&nbsp;3.szint | `-20 KÉ`, `-30 TÉ/VÉ` | `-10 KÉ`, `-15 TÉ/VÉ` |
 | 2.fok | Összpontosítás&nbsp;–&nbsp;6.szint<br />Hallás vagy Intuíció: +3* | `-10 KÉ`, `-15 TÉ/VÉ` | nincs levonás |
