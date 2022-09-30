@@ -12,7 +12,7 @@ Az egyik legrégebbi alvilági mesterség, amelynek célja sokszor csak a szóra
 
 **Megjegyzések**
 
-- Nyelvi ismeretek, faji különbségek nehezítenek!!
+- Nyelvi ismeretek, faji különbségek nehezítenek!
 
 <br />
 
