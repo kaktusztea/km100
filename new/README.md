@@ -4,7 +4,7 @@ Egy fantasy világokra tervezett komplett szerepjáték rendszer.
 
 ## Filozófia
 
-A km100 egy nagyfokú realitásra törekvő rendszer, sok szabállyal, mégis gördülékenynek tűnik játék során. Ennek oka, hogy a legtöbb számolást igénylő feladatot karakteralkotási időbe száműztünk. Így egy karakter megalkotása több időt vehet igénybe, viszont rendkívül egyedi, specializált végeredményt kapunk.
+A km100 egy nagyfokú realitásra törekvő rendszer sok szabállyal, mégis gördülékenynek tűnik játék során. Ennek oka, hogy a legtöbb számolást igénylő feladatot karakteralkotási időbe száműztünk. Így egy karakter megalkotása több időt vehet igénybe, viszont rendkívül egyedi, specializált végeredményt kapunk.
 
 Az első mindig a misztikus, kalandos történet hangulata és annak karakterei - a rendszer csak "másodhegedűs", ami a mesélő keze alá dolgozik és "aláteszi" a kereteket.
 
