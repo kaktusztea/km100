@@ -16,9 +16,7 @@ A Fortélyok egyedi ismeretek, melyeket ugyanúgy KP-ből vehet fel a karakter, 
 
 [Háttér fortélyok](032_hatter_fortelyok.md)
 
-[Általános fortélyok](033_altalanos_fortelyok.md)
-
-[Alvilági és fizikai fortélyok](038_alvilagi_fizikai_fortelyok.md)
+[Általános, alvilági és fizikai fortélyok](033_altalanos_fortelyok.md)
 
 ---
 
@@ -30,6 +28,6 @@ A Fortélyok egyedi ismeretek, melyeket ugyanúgy KP-ből vehet fel a karakter, 
 
 ---
 
-[Titkos fortélyok](034_titkos_fortelyok.md)
+[Titkos fortélyok](038_titkos_fortelyok.md)
 
 ---
