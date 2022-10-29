@@ -153,8 +153,7 @@ A Vállalás azt jelenti, hogy (ha a KM is beleegyezik) képzettségpróba eset�
 k6 vs. (a vállalás értéke)
 ```
 
-> **Fontos**: a Vállalás értéke nem haladhatja meg képzettséged
-aktuális értékét!
+> **Fontos**: a Vállalás értéke nem haladhatja meg képzettséged aktuális értékét!
 
 Ha `k6`-on a Vállalás értékével megegyezőt, vagy kisebbet dobsz, akkor kritikus, halálos hibát vétesz és természetesen nem dobhatsz képzettségpróbát se. Ebből látszik, hogy vállalni csak nagyon fontos, ritka esetben van értelme. Úgy foglalhatjuk össze, hogy mikor vállalsz, olyankor megpróbálkozol valami olyan dologgal, ami hatékonyabb, mint jelenlegi tudásod, de még nem gyakoroltad be rendesen (pl. csak ellested a mesteredtől), így a rontásra is nagyobb az esélyed.
 
@@ -162,7 +161,6 @@ A fenti példánál maradva egy 2-es Vállalás esetén már a következőképpe
 
 ```
 2 (Ügyesség) + 5 (Mászás) + 2 (Vállalás)+ k10   vs.  15 (Nagyon nehéz)
-
 
 Azaz: (9+k10)  vs  15
 ```

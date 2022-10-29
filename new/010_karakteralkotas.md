@@ -101,25 +101,25 @@ A nyers, fizikai erődet mutatja. Gyakorlatilag, hogy „mennyire vagy erős".
 
 Fejleszthető tulajdonság.
 
-<code>
+```
 
-**-5**: Egy pakli kártyát megemelni már edzésnek számít.
+-5: Egy pakli kártyát megemelni már edzésnek számít.
 
-**-4/-3**: A szoba átrendezése is igazi erőpróba. Otthonülő alkat.
+-4/-3: A szoba átrendezése is igazi erőpróba. Otthonülő alkat.
 
-**-2/-1**: *Gyenge, ványadt alak.*
+-2/-1: Gyenge, ványadt alak.
 
-**0**: Átlagos
+0: Átlagos
 
-**+1/+2**: Elismerésre méltó izomzat, nem sokan kötekednek vele.
++1/+2: Elismerésre méltó izomzat, nem sokan kötekednek vele.
 
-**+3/+4**: Rendszeresen nyeri az erőviadalokat. ⭕TODO⭕ Aki teheti, kitér
-előle.
++3/+4: Rendszeresen nyeri az erőviadalokat.
+⭕TODO⭕ Aki teheti, kitér előle.
 
-**+5**: Legendás hős, puszta kézzel felemel egy szekeret, falat tör ököllel,
-rácsokat zúz. Istenként tisztelik, vagy rettegik. ⭕TODO⭕: Extra
++5: Legendás hős, puszta kézzel felemel egy szekeret, falat tör ököllel, rácsokat zúz. Istenként tisztelik, vagy rettegik.
+⭕TODO⭕: Extra
 
-</code>
+```
 
 ---
 
@@ -129,23 +129,23 @@ Mutatja kitartásodat, hogy mennyire vagy képes elviselni a tartós fizikai meg
 
 Fejleszthető tulajdonság.
 
-<code>
+```
 
-**-5**: Még ma meghal
+-5: Még ma meghal
 
-**-4/-3**: Szinte folyton ellátására szorul, állandóan veszélyben az élete. Egy könnyű nátha is elviheti. A rövid séta is hatalmas megterhelés számára.
+-4/-3: Szinte folyton ellátására szorul, állandóan veszélyben az élete. Egy könnyű nátha is elviheti. A rövid séta is hatalmas megterhelés számára.
 
-**-2/-1**: Utálja a lépcsőket, gyorsan kimerül. A városi sétát azért bírja. Gyakran beteg.
+-2/-1: Utálja a lépcsőket, gyorsan kimerül. A városi sétát azért bírja. Gyakran beteg.
 
-**0**: Átlagos
+0: Átlagos
 
-**+1/+2**: Jól bírja a strapát, a menetelést, úszásban sokáig bírja, kiváló az egészsége, csak elvétve beteg.
++1/+2: Jól bírja a strapát, a menetelést, úszásban sokáig bírja, kiváló az egészsége, csak elvétve beteg.
 
-**+3/+4**: A természet vad gyermeke. Beteg sose volt. „Kicsattanó az egészsége" - mondogatják. Lemeríthetetlen.
++3/+4: A természet vad gyermeke. Beteg sose volt. „Kicsattanó az egészsége" - mondogatják. Lemeríthetetlen.
 
-**+5**: Legendás serpa, lerázhatatlan nyomolvasó. Minimális alvással is remekül bírja. Legendás egészségű, beteg soha nem volt, még a járványokkal, mérgekkel szemben is jó eséllyel száll harcba. ⭕TODO⭕: Extra
++5: Legendás serpa, lerázhatatlan nyomolvasó. Minimális alvással is remekül bírja. Legendás egészségű, beteg soha nem volt, még a járványokkal, mérgekkel szemben is jó eséllyel száll harcba. ⭕TODO⭕: Extra
 
-</code>
+```
 
 ---
 
@@ -155,24 +155,24 @@ Jelzi cselekedeteid összehangoltságát, mozgásod kifinomultságát, precizit�
 
 Fejleszthető tulajdonság.
 
-<code>
+```
 
-**-5**: Kiesni az ágyból is nagy mutatvány, a kanalat a kézfejére kötözik,
+-5: Kiesni az ágyból is nagy mutatvány, a kanalat a kézfejére kötözik,
 hogy enni tudjon.
 
-**-4/-3**: A kulcs a legnagyobb ellensége, rendszeresen lefejeli az ajtófélfát.
+-4/-3: A kulcs a legnagyobb ellensége, rendszeresen lefejeli az ajtófélfát.
 
-**-2/-1**: Csetlik-botlik, minden elejt
+-2/-1: Csetlik-botlik, minden elejt
 
-**0**: Átlagos
+0: Átlagos
 
-**+1/+2**: Összehangolt, dinamikus mozgású, ügyesen pörgeti a pénzt az ujjai között
++1/+2: Összehangolt, dinamikus mozgású, ügyesen pörgeti a pénzt az ujjai között
 
-**+3/+4**: Szemet gyönyörködtető a mozgása. Ha képzik, ünnepelt táncos, vagy halálos gyilkolóművész is lehet belőle. Kész zsonglőr.
++3/+4: Szemet gyönyörködtető a mozgása. Ha képzik, ünnepelt táncos, vagy halálos gyilkolóművész is lehet belőle. Kész zsonglőr.
 
-**+5**: Világhírű mutatványos - sokak szerint (tévesen) varázsló. Elit fejvadász iskolák legjobbjai. ⭕TODO⭕: Extra
++5: Világhírű mutatványos - sokak szerint (tévesen) varázsló. Elit fejvadász iskolák legjobbjai. ⭕TODO⭕: Extra
 
-</code>
+```
 
 ---
 
@@ -182,24 +182,24 @@ Mutatja reflexeidet, hogy milyen gyorsan mozdulsz, ha reagálni kell valamire.
 
 Fejleszthető tulajdonság.
 
-<code>
+```
 
-**-5**: Látja, hogy jön, de reagálni felesleges. Úgy se tud. A csigák
+-5: Látja, hogy jön, de reagálni felesleges. Úgy se tud. A csigák
 elkapása is komoly reflexpróba.
 
-**-4/-3**: Mindig lassan mozdul. A csoszogás nála kocogás.
+-4/-3: Mindig lassan mozdul. A csoszogás nála kocogás.
 
-**-2/-1**: Egy leeső tányért elkapnia teljesen reménytelen. Lassan, vánszorogva fut.
+-2/-1: Egy leeső tányért elkapnia teljesen reménytelen. Lassan, vánszorogva fut.
 
-**0**: Átlagos
+0: Átlagos
 
-**+1/+2**: Figyelemre méltó reflexek. Rendkívül fürge.
++1/+2: Figyelemre méltó reflexek. Rendkívül fürge.
 
-**+3/+4**: Boszorkányos gyorsaságú, sokan trükkre gyanakszanak - alaptalanul. Sprintben nincs párja.
++3/+4: Boszorkányos gyorsaságú, sokan trükkre gyanakszanak - alaptalanul. Sprintben nincs párja.
 
-**+5**: Észre se venni, hogy mozdult. Villámgyors. Körbefut, mire észreveszed. ⭕TODO⭕: Extra
++5: Észre se venni, hogy mozdult. Villámgyors. Körbefut, mire észreveszed. ⭕TODO⭕: Extra
 
-</code>
+```
 
 ---
 
@@ -209,23 +209,23 @@ Jelzi szellemi felkészültségedet mind helyzetfelismerés, problémamegoldó k
 
 Nem fejleszthető tulajdonság.
 
-<code>
+```
 
-**-5**: Komplett idióta. Az evésen és alváson kívül minden kihívás számára.
+-5: Komplett idióta. Az evésen és alváson kívül minden kihívás számára.
 
-**-4/-3**: Ostoba, vagy szellemi sérült egyed. A kevés gondolkodást igénylő feladatok (pl. öldöklés fegyverrel) már nem okoznak neki gondot. Az egyszerű beszéd már megy neki.
+-4/-3: Ostoba, vagy szellemi sérült egyed. A kevés gondolkodást igénylő feladatok (pl. öldöklés fegyverrel) már nem okoznak neki gondot. Az egyszerű beszéd már megy neki.
 
-**-2/-1**: Hát nem egy lángész. Annyi esze azért van, hogy inkább péknek menjen, mint írnoknak.
+-2/-1: Hát nem egy lángész. Annyi esze azért van, hogy inkább péknek menjen, mint írnoknak.
 
-**0**: Átlagos
+0: Átlagos
 
-**+1/+2**: Gyors gondolkodású, jó problémamegoldó
++1/+2: Gyors gondolkodású, jó problémamegoldó
 
-**+3/+4**: Csiszolt elméje, villámgyors gondolkodása bámulatba ejtő. Mágiatudó, nagy konspirátor, veszélyes politikus lehet belőle.
++3/+4: Csiszolt elméje, villámgyors gondolkodása bámulatba ejtő. Mágiatudó, nagy konspirátor, veszélyes politikus lehet belőle.
 
-**+5**: Mindent átlát, a legrejtettebb összefüggések is világosak számára. Ha hatalomvágyó, iszonyú veszélyt jelent a világ számára. ⭕TODO⭕: Extra
++5: Mindent átlát, a legrejtettebb összefüggések is világosak számára. Ha hatalomvágyó, iszonyú veszélyt jelent a világ számára. ⭕TODO⭕: Extra
 
-</code>
+```
 
 ---
 
@@ -235,23 +235,23 @@ Memóriád fejlettségét mutatja, azt hogy mekkora tehetséged van lexikális i
 
 Fejleszthető tulajdonság.
 
-<code>
+```
 
-**-5**: A jelenben él. Ha régebben jobb volt a memóriája, akkor beszélni tud, de semmilyen emléke nincs. Ami 1 perccel ezelőtt volt, arra sem emlékszik.
+-5: A jelenben él. Ha régebben jobb volt a memóriája, akkor beszélni tud, de semmilyen emléke nincs. Ami 1 perccel ezelőtt volt, arra sem emlékszik.
 
-**-4/-3**: Nagyon rossz memória jellemzi, képtelen megjegyezni dolgokat, a tanulás számára kínkeserv.
+-4/-3: Nagyon rossz memória jellemzi, képtelen megjegyezni dolgokat, a tanulás számára kínkeserv.
 
-**-2/-1**: Gyakran elfelejt ezt-azt, elég szétszórt, gyakran bosszankodik, hogy már megint elfelejtett valamit.
+-2/-1: Gyakran elfelejt ezt-azt, elég szétszórt, gyakran bosszankodik, hogy már megint elfelejtett valamit.
 
-**0**: Átlagos
+0: Átlagos
 
-**+1/+2**: Pompás memóriája van. Mindent megjegyez, nem felejt el semmit.
++1/+2: Pompás memóriája van. Mindent megjegyez, nem felejt el semmit.
 
-**+3/+4**: Élő lexikon, adattár. Nem okoz számára gondot egész verseskötetek bebiflázása.
++3/+4: Élő lexikon, adattár. Nem okoz számára gondot egész verseskötetek bebiflázása.
 
-**+5**: Nem tanul, olvas. Számára ez ugyanazt jelenti. Minden megragad az emlékezetében méghozzá tökéletesen. Gyermekkorában történt eseményekre is pontosan emlékszik. Képes felidézni bármely beszélgetést szó szerint. Ha alacsony az Önuralma könnyen beleőrülhet. ⭕TODO⭕: Extra
++5: Nem tanul, olvas. Számára ez ugyanazt jelenti. Minden megragad az emlékezetében méghozzá tökéletesen. Gyermekkorában történt eseményekre is pontosan emlékszik. Képes felidézni bármely beszélgetést szó szerint. Ha alacsony az Önuralma könnyen beleőrülhet. ⭕TODO⭕: Extra
 
-</code>
+```
 
 ---
 
@@ -263,25 +263,25 @@ Fontos megjegyezni: az Önuralom nem összekeverendő a neveltetéssel. Példáu
 
 Fejleszthető tulajdonság.
 
-<code>
+```
 
-**-5**: Őrült elmebetegek sajátja. Ösztönlény.
+-5: Őrült elmebetegek sajátja. Ösztönlény.
 
-**-4/-3**: Teljesen érzelmei uralják, szélsőséges hangulatváltozásai vannak, meglehetősen kiszámíthatatlan. Színlelni képtelen. Önállótlan,
+-4/-3: Teljesen érzelmei uralják, szélsőséges hangulatváltozásai vannak, meglehetősen kiszámíthatatlan. Színlelni képtelen. Önállótlan,
 csordalény.
 
-**-2/-1**: Labilis személyiség, sokszor elragadják érzelmei, gondolkodását is inkább azok irányítják. Nem képes határozott döntéseket hozni. Érzelmei külső jeleiben is megmutatkoznak, beszédéből, mozdulataiból ránézésre látszik, ha valami baja van.
+-2/-1: Labilis személyiség, sokszor elragadják érzelmei, gondolkodását is inkább azok irányítják. Nem képes határozott döntéseket hozni. Érzelmei külső jeleiben is megmutatkoznak, beszédéből, mozdulataiból ránézésre látszik, ha valami baja van.
 
-**0**: Átlagos
+0: Átlagos
 
-**+1/+2**: Szilárd, céltudatos személyiség, aki jól uralja indulatait, nehezen kibillenthető. Remek parancsnok válhat belőle.
++1/+2: Szilárd, céltudatos személyiség, aki jól uralja indulatait, nehezen kibillenthető. Remek parancsnok válhat belőle.
 
-**+3/+4**: Híres hadvezér, neves aszkéta, vagy harcművész lehet. Érzelmeit jól uralja, ha olyan a személyisége, nehezebb észrevenni, ha hazudik.
++3/+4: Híres hadvezér, neves aszkéta, vagy harcművész lehet. Érzelmeit jól uralja, ha olyan a személyisége, nehezebb észrevenni, ha hazudik.
 
-**+5**: Megingathatatlan kőszikla. Tökéletesen uralja érzelmeit, teljesen el tud vonatkoztatni tőlük, kibillenteni szinte lehetetlen. Határozott, elképzeléseit mindig megvalósítja, a lehetetlen számára ismeretlen fogalom. Képes érzelmeit olyan fokon uralni, hogy külső jeleiből (testbeszéd, hang) képtelenség lelkiállapotára következtetni - leginkább egy gépre, vagy jégcsapra hasonlít. A fentiek a mágikus
++5: Megingathatatlan kőszikla. Tökéletesen uralja érzelmeit, teljesen el tud vonatkoztatni tőlük, kibillenteni szinte lehetetlen. Határozott, elképzeléseit mindig megvalósítja, a lehetetlen számára ismeretlen fogalom. Képes érzelmeit olyan fokon uralni, hogy külső jeleiből (testbeszéd, hang) képtelenség lelkiállapotára következtetni - leginkább egy gépre, vagy jégcsapra hasonlít. A fentiek a mágikus
 detektálásokat természetesen nem befolyásolják.
 
-</code>
+```
 
 ---
 
@@ -293,26 +293,26 @@ Fontos összetevője művészeti képzettségeknek illetve az Emberismeretnek, v
 
 Nem fejleszthető tulajdonság.
 
-<code>
+```
 
-**-5**: Van ő és ... senki más. Teljesen érzéketlen, akár egy gép.
+-5: Van ő és ... senki más. Teljesen érzéketlen, akár egy gép.
 Szeme láttára kiirthatják a családját, az sem mozdít meg benne semmit.
 Szörnyeteg. A művészeteket teljesen értelmetlennek tartaná, ha
 foglalkozna velük. De nem teszi.
 
-**-4/-3**: Hidegen hagyja a legtöbb dolog, sokszor ez alacsony belső motivációval párosul. Mások rezdüléseire teljes mértékben immúnis, számára csak a saját jelene létezik, a külső hatásokat meg se próbálja értelmezni. Nem indítja meg semmi, legfeljebb egy családtagja halála - egy kicsit. „Érzéketlen tuskó" - mondogatják.
+-4/-3: Hidegen hagyja a legtöbb dolog, sokszor ez alacsony belső motivációval párosul. Mások rezdüléseire teljes mértékben immúnis, számára csak a saját jelene létezik, a külső hatásokat meg se próbálja értelmezni. Nem indítja meg semmi, legfeljebb egy családtagja halála - egy kicsit. „Érzéketlen tuskó" - mondogatják.
 
-**-2/-1**: Nincs érzéke a hangulatok megragadásához, mágiával pszível, művészetekkel ne is próbálkozzon. Mások személyisége, mozgatórugói átláthatatlanok számára.
+-2/-1: Nincs érzéke a hangulatok megragadásához, mágiával pszível, művészetekkel ne is próbálkozzon. Mások személyisége, mozgatórugói átláthatatlanok számára.
 
-**0**: Átlagos
+0: Átlagos
 
-**+1/+2**: Szenzitív típus, jól ráérez a hangulatokra, mások mozgatórugóira. Érdemes mentális gyakorlatokkal foglalkoznia.
++1/+2: Szenzitív típus, jól ráérez a hangulatokra, mások mozgatórugóira. Érdemes mentális gyakorlatokkal foglalkoznia.
 
-**+3/+4**: „A vesédbe lát" -- mondogatják, és valóban. Mindig ráérez a „lékkörre", érdemes hallgatnia az ösztöneire. Kiváló mágiatudó, emberismerő válhat belőle.
++3/+4: „A vesédbe lát" -- mondogatják, és valóban. Mindig ráérez a „lékkörre", érdemes hallgatnia az ösztöneire. Kiváló mágiatudó, emberismerő válhat belőle.
 
-**+5**: Az ilyen emberek minden apró rezdülést érzékelnek, külső hangulatok iránt rendkívül fogékonyak. Remek emberismerő, vagy nagy művész válhat belőlük. Általában érzelemgazdag emberek, de van, akinél „mindössze" fantasztikus adottság, mélyebb érzelmek nélkül. Az ilyenekből lesznek a kiváló diplomaták, rettegett boszorkányok. Hatásában megegyezik a 1-es Erősítésű Asztrálszem diszciplínával, de passzív, állandóan működő képesség.
++5: Az ilyen emberek minden apró rezdülést érzékelnek, külső hangulatok iránt rendkívül fogékonyak. Remek emberismerő, vagy nagy művész válhat belőlük. Általában érzelemgazdag emberek, de van, akinél „mindössze" fantasztikus adottság, mélyebb érzelmek nélkül. Az ilyenekből lesznek a kiváló diplomaták, rettegett boszorkányok. Hatásában megegyezik a 1-es Erősítésű Asztrálszem diszciplínával, de passzív, állandóan működő képesség.
 
-</code>
+```
 
 ---
 
@@ -562,11 +562,11 @@ Ha a karakternek egy olyan összetett próbát kell tennie, ami nem intézhető 
 
 > ⚡ Elkapdosni a folyamatosan potyogó tányérokat
 
-- [ ] Tetves, a tolvaj `Ügyessége: +3`
-- [ ] A próba „Nagyon nehéz" (`Célszám: 7`)
-- [ ] Mivel a feladat elég komplex és időben is elhúzódhat, ezért nem intézhető el a dolog 1db dobással. A KM 1db Másodlagos próbát ír elő.
-- [ ] Ekkor a próbák célszámai: `7` és `6` (`50%` és `66%` esély a sikerre). Ezzel kb. `33%`-a van a sikerre (`0.5\*0.66`). Látható, hogy az összetettebb feladatok nagyobb biztos tudást igényelnek.
-- [ ] Tehát a próbák:
+- Tetves, a tolvaj `Ügyessége: +3`
+- A próba „Nagyon nehéz" (`Célszám: 7`)
+- Mivel a feladat elég komplex és időben is elhúzódhat, ezért nem intézhető el a dolog 1db dobással. A KM 1db Másodlagos próbát ír elő.
+- Ekkor a próbák célszámai: `7` és `6` (`50%` és `66%` esély a sikerre). Ezzel kb. `33%`-a van a sikerre (`0.5\*0.66`). Látható, hogy az összetettebb feladatok nagyobb biztos tudást igényelnek.
+- Tehát a próbák:
 
 ```
 - 1x Nagyon nehéz (7) ellen
