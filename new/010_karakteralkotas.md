@@ -116,7 +116,8 @@ Fejleszthető tulajdonság.
 +3/+4: Rendszeresen nyeri az erőviadalokat.
 ⭕TODO⭕ Aki teheti, kitér előle.
 
-+5: Legendás hős, puszta kézzel felemel egy szekeret, falat tör ököllel, rácsokat zúz. Istenként tisztelik, vagy rettegik.
++5: Legendás hős, puszta kézzel felemel egy szekeret, falat tör ököllel,
+rácsokat zúz. Istenként tisztelik, vagy rettegik.
 ⭕TODO⭕: Extra
 
 ```
@@ -133,17 +134,22 @@ Fejleszthető tulajdonság.
 
 -5: Még ma meghal
 
--4/-3: Szinte folyton ellátására szorul, állandóan veszélyben az élete. Egy könnyű nátha is elviheti. A rövid séta is hatalmas megterhelés számára.
+-4/-3: Szinte folyton ellátására szorul, állandóan veszélyben az élete.
+Egy könnyű nátha is elviheti. A rövid séta is hatalmas megterhelés számára.
 
 -2/-1: Utálja a lépcsőket, gyorsan kimerül. A városi sétát azért bírja. Gyakran beteg.
 
 0: Átlagos
 
-+1/+2: Jól bírja a strapát, a menetelést, úszásban sokáig bírja, kiváló az egészsége, csak elvétve beteg.
++1/+2: Jól bírja a strapát, a menetelést, úszásban sokáig bírja, kiváló az egészsége,
+csak elvétve beteg.
 
-+3/+4: A természet vad gyermeke. Beteg sose volt. „Kicsattanó az egészsége" - mondogatják. Lemeríthetetlen.
++3/+4: A természet vad gyermeke. Beteg sose volt. „Kicsattanó az egészsége" - mondogatják.
+Lemeríthetetlen.
 
-+5: Legendás serpa, lerázhatatlan nyomolvasó. Minimális alvással is remekül bírja. Legendás egészségű, beteg soha nem volt, még a járványokkal, mérgekkel szemben is jó eséllyel száll harcba. ⭕TODO⭕: Extra
++5: Legendás serpa, lerázhatatlan nyomolvasó. Minimális alvással is remekül bírja.
+Legendás egészségű, beteg soha nem volt, még a járványokkal, mérgekkel szemben is
+jó eséllyel száll harcba. ⭕TODO⭕: Extra
 
 ```
 
@@ -168,9 +174,11 @@ hogy enni tudjon.
 
 +1/+2: Összehangolt, dinamikus mozgású, ügyesen pörgeti a pénzt az ujjai között
 
-+3/+4: Szemet gyönyörködtető a mozgása. Ha képzik, ünnepelt táncos, vagy halálos gyilkolóművész is lehet belőle. Kész zsonglőr.
++3/+4: Szemet gyönyörködtető a mozgása. Ha képzik, ünnepelt táncos, vagy halálos
+gyilkolóművész is lehet belőle. Kész zsonglőr.
 
-+5: Világhírű mutatványos - sokak szerint (tévesen) varázsló. Elit fejvadász iskolák legjobbjai. ⭕TODO⭕: Extra
++5: Világhírű mutatványos - sokak szerint (tévesen) varázsló.
+Elit fejvadász iskolák legjobbjai. ⭕TODO⭕: Extra
 
 ```
 
@@ -213,7 +221,8 @@ Nem fejleszthető tulajdonság.
 
 -5: Komplett idióta. Az evésen és alváson kívül minden kihívás számára.
 
--4/-3: Ostoba, vagy szellemi sérült egyed. A kevés gondolkodást igénylő feladatok (pl. öldöklés fegyverrel) már nem okoznak neki gondot. Az egyszerű beszéd már megy neki.
+-4/-3: Ostoba, vagy szellemi sérült egyed. A kevés gondolkodást igénylő feladatok
+(pl. öldöklés fegyverrel) már nem okoznak neki gondot. Az egyszerű beszéd már megy neki.
 
 -2/-1: Hát nem egy lángész. Annyi esze azért van, hogy inkább péknek menjen, mint írnoknak.
 
@@ -221,9 +230,11 @@ Nem fejleszthető tulajdonság.
 
 +1/+2: Gyors gondolkodású, jó problémamegoldó
 
-+3/+4: Csiszolt elméje, villámgyors gondolkodása bámulatba ejtő. Mágiatudó, nagy konspirátor, veszélyes politikus lehet belőle.
++3/+4: Csiszolt elméje, villámgyors gondolkodása bámulatba ejtő. Mágiatudó,
+nagy konspirátor, veszélyes politikus lehet belőle.
 
-+5: Mindent átlát, a legrejtettebb összefüggések is világosak számára. Ha hatalomvágyó, iszonyú veszélyt jelent a világ számára. ⭕TODO⭕: Extra
++5: Mindent átlát, a legrejtettebb összefüggések is világosak számára.
+Ha hatalomvágyó, iszonyú veszélyt jelent a világ számára. ⭕TODO⭕: Extra
 
 ```
 
@@ -237,11 +248,14 @@ Fejleszthető tulajdonság.
 
 ```
 
--5: A jelenben él. Ha régebben jobb volt a memóriája, akkor beszélni tud, de semmilyen emléke nincs. Ami 1 perccel ezelőtt volt, arra sem emlékszik.
+-5: A jelenben él. Ha régebben jobb volt a memóriája, akkor beszélni tud,
+de semmilyen emléke nincs. Ami 1 perccel ezelőtt volt, arra sem emlékszik.
 
--4/-3: Nagyon rossz memória jellemzi, képtelen megjegyezni dolgokat, a tanulás számára kínkeserv.
+-4/-3: Nagyon rossz memória jellemzi, képtelen megjegyezni dolgokat,
+a tanulás számára kínkeserv.
 
--2/-1: Gyakran elfelejt ezt-azt, elég szétszórt, gyakran bosszankodik, hogy már megint elfelejtett valamit.
+-2/-1: Gyakran elfelejt ezt-azt, elég szétszórt, gyakran bosszankodik,
+hogy már megint elfelejtett valamit.
 
 0: Átlagos
 
@@ -249,7 +263,10 @@ Fejleszthető tulajdonság.
 
 +3/+4: Élő lexikon, adattár. Nem okoz számára gondot egész verseskötetek bebiflázása.
 
-+5: Nem tanul, olvas. Számára ez ugyanazt jelenti. Minden megragad az emlékezetében méghozzá tökéletesen. Gyermekkorában történt eseményekre is pontosan emlékszik. Képes felidézni bármely beszélgetést szó szerint. Ha alacsony az Önuralma könnyen beleőrülhet. ⭕TODO⭕: Extra
++5: Nem tanul, olvas. Számára ez ugyanazt jelenti. Minden megragad az emlékezetében
+méghozzá tökéletesen. Gyermekkorában történt eseményekre is pontosan emlékszik.
+Képes felidézni bármely beszélgetést szó szerint. Ha alacsony az Önuralma könnyen beleőrülhet.
+⭕TODO⭕: Extra
 
 ```
 
@@ -267,19 +284,26 @@ Fejleszthető tulajdonság.
 
 -5: Őrült elmebetegek sajátja. Ösztönlény.
 
--4/-3: Teljesen érzelmei uralják, szélsőséges hangulatváltozásai vannak, meglehetősen kiszámíthatatlan. Színlelni képtelen. Önállótlan,
-csordalény.
+-4/-3: Teljesen érzelmei uralják, szélsőséges hangulatváltozásai vannak,
+meglehetősen kiszámíthatatlan. Színlelni képtelen. Önállótlan, csordalény.
 
--2/-1: Labilis személyiség, sokszor elragadják érzelmei, gondolkodását is inkább azok irányítják. Nem képes határozott döntéseket hozni. Érzelmei külső jeleiben is megmutatkoznak, beszédéből, mozdulataiból ránézésre látszik, ha valami baja van.
+-2/-1: Labilis személyiség, sokszor elragadják érzelmei, gondolkodását is inkább azok irányítják.
+Nem képes határozott döntéseket hozni. Érzelmei külső jeleiben is megmutatkoznak,
+beszédéből, mozdulataiból ránézésre látszik, ha valami baja van.
 
 0: Átlagos
 
-+1/+2: Szilárd, céltudatos személyiség, aki jól uralja indulatait, nehezen kibillenthető. Remek parancsnok válhat belőle.
++1/+2: Szilárd, céltudatos személyiség, aki jól uralja indulatait, nehezen kibillenthető.
+Remek parancsnok válhat belőle.
 
-+3/+4: Híres hadvezér, neves aszkéta, vagy harcművész lehet. Érzelmeit jól uralja, ha olyan a személyisége, nehezebb észrevenni, ha hazudik.
++3/+4: Híres hadvezér, neves aszkéta, vagy harcművész lehet.
+Érzelmeit jól uralja, ha olyan a személyisége, nehezebb észrevenni, ha hazudik.
 
-+5: Megingathatatlan kőszikla. Tökéletesen uralja érzelmeit, teljesen el tud vonatkoztatni tőlük, kibillenteni szinte lehetetlen. Határozott, elképzeléseit mindig megvalósítja, a lehetetlen számára ismeretlen fogalom. Képes érzelmeit olyan fokon uralni, hogy külső jeleiből (testbeszéd, hang) képtelenség lelkiállapotára következtetni - leginkább egy gépre, vagy jégcsapra hasonlít. A fentiek a mágikus
-detektálásokat természetesen nem befolyásolják.
++5: Megingathatatlan kőszikla. Tökéletesen uralja érzelmeit, teljesen el tud vonatkoztatni tőlük, kibillenteni szinte lehetetlen.
+Határozott, elképzeléseit mindig megvalósítja, a lehetetlen számára ismeretlen fogalom.
+Képes érzelmeit olyan fokon uralni, hogy külső jeleiből (testbeszéd, hang)
+képtelenség lelkiállapotára következtetni - leginkább egy gépre, vagy jégcsapra hasonlít.
+A fentiek a mágikus detektálásokat természetesen nem befolyásolják.
 
 ```
 
@@ -300,17 +324,28 @@ Szeme láttára kiirthatják a családját, az sem mozdít meg benne semmit.
 Szörnyeteg. A művészeteket teljesen értelmetlennek tartaná, ha
 foglalkozna velük. De nem teszi.
 
--4/-3: Hidegen hagyja a legtöbb dolog, sokszor ez alacsony belső motivációval párosul. Mások rezdüléseire teljes mértékben immúnis, számára csak a saját jelene létezik, a külső hatásokat meg se próbálja értelmezni. Nem indítja meg semmi, legfeljebb egy családtagja halála - egy kicsit. „Érzéketlen tuskó" - mondogatják.
+-4/-3: Hidegen hagyja a legtöbb dolog, sokszor ez alacsony belső motivációval párosul.
+Mások rezdüléseire teljes mértékben immúnis, számára csak a saját jelene létezik,
+a külső hatásokat meg se próbálja értelmezni. Nem indítja meg semmi, legfeljebb egy
+családtagja halála - egy kicsit. „Érzéketlen tuskó" - mondogatják.
 
--2/-1: Nincs érzéke a hangulatok megragadásához, mágiával pszível, művészetekkel ne is próbálkozzon. Mások személyisége, mozgatórugói átláthatatlanok számára.
+-2/-1: Nincs érzéke a hangulatok megragadásához, mágiával pszível, művészetekkel
+ne is próbálkozzon. Mások személyisége, mozgatórugói átláthatatlanok számára.
 
 0: Átlagos
 
-+1/+2: Szenzitív típus, jól ráérez a hangulatokra, mások mozgatórugóira. Érdemes mentális gyakorlatokkal foglalkoznia.
++1/+2: Szenzitív típus, jól ráérez a hangulatokra, mások mozgatórugóira.
+Érdemes mentális gyakorlatokkal foglalkoznia.
 
-+3/+4: „A vesédbe lát" -- mondogatják, és valóban. Mindig ráérez a „lékkörre", érdemes hallgatnia az ösztöneire. Kiváló mágiatudó, emberismerő válhat belőle.
++3/+4: „A vesédbe lát" -- mondogatják, és valóban.
+Mindig ráérez a „lékkörre", érdemes hallgatnia az ösztöneire.
+Kiváló mágiatudó, emberismerő válhat belőle.
 
-+5: Az ilyen emberek minden apró rezdülést érzékelnek, külső hangulatok iránt rendkívül fogékonyak. Remek emberismerő, vagy nagy művész válhat belőlük. Általában érzelemgazdag emberek, de van, akinél „mindössze" fantasztikus adottság, mélyebb érzelmek nélkül. Az ilyenekből lesznek a kiváló diplomaták, rettegett boszorkányok. Hatásában megegyezik a 1-es Erősítésű Asztrálszem diszciplínával, de passzív, állandóan működő képesség.
++5: Az ilyen emberek minden apró rezdülést érzékelnek, külső hangulatok
+iránt rendkívül fogékonyak. Remek emberismerő, vagy nagy művész válhat belőlük.
+Általában érzelemgazdag emberek, de van, akinél „mindössze" fantasztikus adottság,
+mélyebb érzelmek nélkül. Az ilyenekből lesznek a kiváló diplomaták, rettegett boszorkányok.
+Hatásában megegyezik a 1-es Erősítésű Asztrálszem diszciplínával, de passzív, állandóan működő képesség.
 
 ```
 
