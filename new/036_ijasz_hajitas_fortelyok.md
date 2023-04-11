@@ -1,1 +1,0 @@
-## Íjász és hajítás fortélyok
