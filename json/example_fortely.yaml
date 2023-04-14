@@ -25,10 +25,10 @@ fokok:
         text: ""
       - név: "sikeres manőver"
         érték: "belharcba kerülés"
-        típus: 5            # akció
+        típus: 5              # akció típus
         text: "Csak akkor járnak a bónuszok, ha már benn vagy belharcban"
     hatástext: "Belharcban az említett bónuszok járnak számodra."
-    hatások:                  #  Ha nem számszerűsíthetőek, akkor a 'hatástext' mezőt töltsd csak ki, a 'hatások' legyen üres.
+    hatások:                  # Ha nem számszerűsíthetőek, akkor a 'hatástext' mezőt töltsd csak ki, a 'hatások' legyen üres.
       - név: KÉ
         érték: +2             # bónusz
         típus: 51             # 1: tulajdonság, 2: képzettség, 51: HM, 71: pszipont, 81: manapont
@@ -55,14 +55,14 @@ fokok:
         text: ""
       - név: "Mesterfegyver"
         érték: 1
-        típus: 3            # fortély
+        típus: 3            # fortély típus
         text: "A használt fegyverre"
       - név: "sikeres manőver"
         érték: "Csak akkor járnak a bónuszok, ha már benn vagy belharcban"
         típus: 5
         text: -
     hatástext: "Belharcban az említett bónuszok járnak számodra."
-    hatások:                  #  Ha nem számszerűsíthetőek, akkor a 'hatástext' mezőt töltsd csak ki, a 'hatások' legyen üres.
+    hatások:                  # Ha nem számszerűsíthetőek, akkor a 'hatástext' mezőt töltsd csak ki, a 'hatások' legyen üres.
       - név: KÉ
         érték: +2             # bónusz
         típus: 51             # 1: tulajdonság, 2: képzettség, 51: HM, 71: pszipont, 81: manapont
