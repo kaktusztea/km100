@@ -10,23 +10,23 @@ fokok:
     hatások:
   fok: 1
     követelmények:       
-      - típus: 1
+      - típus: 1            # 1: tulajdonság, 2: képzettség, 3: fortély, 4: tradíció, 5: akció, 7: előtörténet, 9: text (leírás)
         név: "ügyesség"
-        érték: 1           # 1: tulajdonság, 2: képzettség, 3: fortély, 4: tradíció, 5: akció, 7: előtörténet, 9: text (leírás)
-        text: ""              # 5. akció: { sikeres támadás, sebző támadás, sikeres manőver }
+        érték: 1
+        text: ""                # 5. akció: { sikeres támadás, sebző támadás, sikeres manőver }
       - típus: 1
         név: "gyorsaság"
         érték: 1
         text: ""
       - típus: 2
         név: "közelharc"
-        érték: 6    # képzettségnél ez 'szint'
+        érték: 6            # képzettségnél ez 'szint'
         text: ""
-      - típus: 5    # akció
+      - típus: 5            # akció
         név: "sikeres manőver"
         érték: "belharcba kerülés"
         text: -
-    hatások:               # ⭕TODO:  1: tulajdonság, 2: képzettség, 3: HM, 4: manapont, 5: pszi, 9: text (leírás)
+    hatások:               # 1: tulajdonság, 2: képzettség, 3: HM, 4: manapont, 5: pszi.  Ha egyik sem, akkor a 'hatástext' mezőt töltsd csak ki lenn, a 'hatások' legyen üres.
       - típus: 3   # HM: Harcérték módosító
         név: KÉ
         érték: +2
