@@ -2,13 +2,15 @@ név: "belharc"
 maxfok: 2
 leírás: "Testközelben érzed igazában elemedben magad. Sikeres 🗡️ Belharcba kerülés manőver esetén 🗡️ Belharci szituációba kerülsz és harcértékeidre – csak „Közelharc” harcmodor esetén – a következő pluszok járnak."
 megjegyzések:
-  text: "Ezt a fortélyt konkrét fegyverre (Puszta kéz is ide tartozik) kell felvenni, csak annak használatakor járnak a bónuszok. A Belharcot így többször is fel lehet venni - különböző fegyverekre."
-  text: "Az ellenfél módosítóinak változását lásd a Harcrendszer fejezet ⭕„Belharc” harci taktika leírásánál!"
+  - text: "Ezt a fortélyt konkrét fegyverre (Puszta kéz is ide tartozik) kell felvenni, csak annak használatakor járnak a bónuszok. A Belharcot így többször is fel lehet venni - különböző fegyverekre."
+  - text: "Az ellenfél módosítóinak változását lásd a Harcrendszer fejezet ⭕„Belharc” harci taktika leírásánál!"
 fokok:
-  fok: 0      # alapeset
+  - fok: 0                  # alapeset
+    status: ✅              # TODO: ⭕ / Done: ✅
     követelmények:
     hatások:
-  fok: 1
+  - fok: 1
+    status: ✅
     követelménytext: ""     # Általános szöveges követelmény erre a fokra. Lehet előtörténeti jellegű is.
     követelmények:
       - név: "ügyesség"
@@ -32,13 +34,17 @@ fokok:
       - név: KÉ
         érték: +2             # bónusz
         típus: 51             # 1: tulajdonság, 2: képzettség, 51: HM, 71: pszipont, 81: manapont
+        text: ""
       - név: TÉ
         érték: +3
         típus: 51
+        text: ""
       - név: VÉ
         érték: +3
         típus: 51
-  fok: 2
+        text: ""
+  - fok: 2
+    status: ✅
     követelménytext: ""
     követelmények:
       - név: "ügyesség"
@@ -66,9 +72,12 @@ fokok:
       - név: KÉ
         érték: +2             # bónusz
         típus: 51             # 1: tulajdonság, 2: képzettség, 51: HM, 71: pszipont, 81: manapont
+        text: ""
       - név: TÉ
         érték: +3
         típus: 51
+        text: ""
       - név: VÉ
         érték: +3
         típus: 51
+        text: ""

@@ -1,13 +1,15 @@
 név: ""
-maxfok: 1
+maxfok: 2
 leírás: ""
 megjegyzések:
   text: ""
 fokok:
-  fok: 0                      # alapeset
+  - fok: 0                    # alapeset
+    status:
     követelmények:
     hatások:
-  fok: 1
+  - fok: 1
+    status:
     követelménytext: ""       # Általános szöveges követelmény erre a fokra. Lehet előtörténeti jellegű is.
     követelmények:
       - név: "xxx"
@@ -20,13 +22,16 @@ fokok:
         text: ""
     hatástext: ""
     hatások:                  # Ha nem számszerűsíthetőek, akkor a 'hatástext' mezőt töltsd csak ki, a 'hatások' legyen üres.
-      - név: xyxy              
+      - név: xyxy
         érték: 0              # bónusz
         típus: 0              # 1: tulajdonság, 2: képzettség, 51: HM, 71: pszipont, 81: manapont
+        text: ""
       - név: yxyx
         érték: 0
         típus: 0
-  fok: 2
+        text: ""
+  - fok: 2
+    status:
     követelménytext: ""
     követelmények:
       - név: "xxx"
@@ -39,9 +44,11 @@ fokok:
         text: ""
     hatástext: ""
     hatások:
-      - név: xyxy              
+      - név: xyxy
         érték: 0
         típus: 0
+        text: ""
       - név: yxyx
         érték: 0
         típus: 0
+        text: ""
