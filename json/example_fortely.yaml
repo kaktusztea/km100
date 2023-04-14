@@ -25,6 +25,39 @@ fokok:
       - típus: 5            # akció
         név: "sikeres manőver"
         érték: "belharcba kerülés"
+        text: "Csak akkor járnak a bónuszok, ha már benn vagy belharcban"
+    hatások:               # 1: tulajdonság, 2: képzettség, 3: HM, 4: manapont, 5: pszi.  Ha egyik sem, akkor a 'hatástext' mezőt töltsd csak ki lenn, a 'hatások' legyen üres.
+      - típus: 3   # HM: Harcérték módosító
+        név: KÉ
+        érték: +2
+      - típus: 3
+        név: TÉ
+        érték: +3
+      - típus: 3
+        név: TÉ
+        érték: +3
+    hatástext: "Belharcban a lenti bónuszok járnak számodra."
+  fok: 2
+    követelmények:       
+      - típus: 1            # 1: tulajdonság, 2: képzettség, 3: fortély, 4: tradíció, 5: akció, 7: előtörténet, 9: text (leírás)
+        név: "ügyesség"
+        érték: 2
+        text: ""                # 5. akció: { sikeres támadás, sebző támadás, sikeres manőver }
+      - típus: 1
+        név: "gyorsaság"
+        érték: 2
+        text: ""
+      - típus: 2
+        név: "közelharc"
+        érték: 9            # képzettségnél ez 'szint'
+        text: ""
+      - típus: 3            # fortély
+        név: "Mesterfegyver"
+        érték: 1
+        text: "A használt fegyverre"       
+      - típus: 5            # akció
+        név: "sikeres manőver"
+        érték: "Csak akkor járnak a bónuszok, ha már benn vagy belharcban"
         text: -
     hatások:               # 1: tulajdonság, 2: képzettség, 3: HM, 4: manapont, 5: pszi.  Ha egyik sem, akkor a 'hatástext' mezőt töltsd csak ki lenn, a 'hatások' legyen üres.
       - típus: 3   # HM: Harcérték módosító
@@ -36,7 +69,4 @@ fokok:
       - típus: 3
         név: TÉ
         érték: +3
-    hatástext: "Csak ha már benn vagy belharcban"
-  fok: 2
-    követelmények:
-    hatások:
+    hatástext: "Belharcban a lenti bónuszok járnak számodra."
