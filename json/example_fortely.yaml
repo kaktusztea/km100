@@ -9,10 +9,11 @@ fokok:
     követelmények:
     hatások:
   fok: 1
+    követelménytext: ""     # Általános szöveges követelmény erre a fokra. Lehet előtörténeti jellegű is.
     követelmények:       
       - név: "ügyesség"
         érték: 1
-        típus: 1            #  1: tulajdonság, 2: képzettség, 3: fortély, 4: tradíció, 52: akció, 11: előtörténet, 99: text (leírás)
+        típus: 1            #  1: tulajdonság, 2: képzettség, 3: fortély, 4: tradíció, 52: akció
         text: ""                # 52. akció: { sikeres támadás, sebző támadás, sikeres manőver }
       - név: "gyorsaság"
         érték: 1
@@ -38,10 +39,11 @@ fokok:
         típus: 51
     hatástext: "Belharcban a lenti bónuszok járnak számodra."
   fok: 2
+    követelménytext: ""
     követelmények:       
       - név: "ügyesség"
         érték: 2
-        típus: 1            # 1: tulajdonság, 2: képzettség, 3: fortély, 4: tradíció, 52: akció, 11: előtörténet, 99: text (leírás)
+        típus: 1            # 1: tulajdonság, 2: képzettség, 3: fortély, 4: tradíció, 52: akció
         text: ""                # 52. akció: { sikeres támadás, sebző támadás, sikeres manőver }
       - név: "gyorsaság"
         érték: 2
