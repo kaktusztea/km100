@@ -4,22 +4,22 @@ leírás: ""
 megjegyzések:
   text: ""
 fokok:
-  fok: 0                    # alapeset
+  fok: 0                      # alapeset
     követelmények:
     hatások:
   fok: 1
-    követelménytext: ""     # Általános szöveges követelmény erre a fokra. Lehet előtörténeti jellegű is.
+    követelménytext: ""       # Általános szöveges követelmény erre a fokra. Lehet előtörténeti jellegű is.
     követelmények:
       - név: "xxx"
         érték: 0
-        típus: 0            #  1: tulajdonság, 2: képzettség, 3: fortély, 4: tradíció, 52: akció { sikeres támadás, sebző támadás, sikeres manőver }
+        típus: 0              #  1: tulajdonság, 2: képzettség, 3: fortély, 4: tradíció, 52: akció { sikeres támadás, sebző támadás, sikeres manőver }
         text: ""
       - név: "yyy"
         érték: 0
         típus: 0
         text: ""
     hatástext: ""
-    hatások:                  #  Ha nem számszerűsíthetőek, akkor a 'hatástext' mezőt töltsd csak ki, a 'hatások' legyen üres.
+    hatások:                  # Ha nem számszerűsíthetőek, akkor a 'hatástext' mezőt töltsd csak ki, a 'hatások' legyen üres.
       - név: xyxy              
         érték: 0              # bónusz
         típus: 0              # 1: tulajdonság, 2: képzettség, 51: HM, 71: pszipont, 81: manapont
