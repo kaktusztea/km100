@@ -8,7 +8,7 @@ https://stackoverflow.com/a/31057013
 
 __0331_mindennapi__fortelyok__           ( tag: __mindennapi__fortely__ )
 
-### Alviági és fizikai fortélyok
+### Alvilági és fizikai fortélyok
 
 __0332_alvilagi__fizikai__fortelyok__    ( tag: __alvilagi__fizikai__fortely__ )
 

@@ -1,5 +1,7 @@
+---
 név: "belharc"
 maxfok: 2
+kategória: "harci"
 leírás: "Testközelben érzed igazában elemedben magad. Sikeres 🗡️ Belharcba kerülés manőver esetén 🗡️ Belharci szituációba kerülsz és harcértékeidre – csak „Közelharc” harcmodor esetén – a következő pluszok járnak."
 megjegyzések:
   - text: "Ezt a fortélyt konkrét fegyverre (Puszta kéz is ide tartozik) kell felvenni, csak annak használatakor járnak a bónuszok. A Belharcot így többször is fel lehet venni - különböző fegyverekre."
@@ -66,7 +68,7 @@ fokok:
       - név: "sikeres manőver"
         érték: "Csak akkor járnak a bónuszok, ha már benn vagy belharcban"
         típus: 5
-        text: -
+        text: ""
     hatástext: "Belharcban az említett bónuszok járnak számodra."
     hatások:                  # Ha nem számszerűsíthetőek, akkor a 'hatástext' mezőt töltsd csak ki, a 'hatások' legyen üres.
       - név: KÉ
