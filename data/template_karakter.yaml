@@ -1,0 +1,34 @@
+név: ""
+faj: ""
+vallás: ""
+személyiségjegyek: ""
+kommunikáció_szociális_érzék: ""
+
+tapasztalati_szint: 1
+
+tulajdonságok:
+  - erő: 0
+    edzettség: 0
+    ügyesség: 0
+    gyorsaság: 0
+    intelligencia: 0
+    emlékezet: 0
+    önuralom: 0
+    fogékonyság: 0
+
+fortélyok:
+  - tartós_sérülés: 0   # max: 5
+  - vakság: 0           # max: 1
+  - süketség: 0         # max: 1
+
+képzettségek:
+  - helyismeret.spec: 10    # TODO: átfogó, átlagos, spec. hogy legyenek megkülönböztethetőek
+    helység: "saját város"
+  - történelemismeret.spec: 3
+    helység: "saját állam"
+  - vallásismeret.spec: 3
+    helység: "saját vallás"
+  - nyelvismeret: 9
+    helység: "saját nyelv"
+  - nyelvismeret: 6
+    helység: "közös nyelv"
