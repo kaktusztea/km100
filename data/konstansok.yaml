@@ -171,6 +171,5 @@ egészség.kategória.levonás:
   - érték: -30
     típus: 52    # TÉ
 
-kalk:        # Kalkulált értékek
+kalk:        # Kalkulált értékek ⭕TODO
 - erőbónusz: 0
-- 
