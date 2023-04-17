@@ -16,8 +16,10 @@ harcérték.alap.konstans:
 
 kp:
 - alap: 150
-- per.szint: 70
+- perszint: 70
+  leírás: "Szintenként ennyi plusz KP illeti a karaktert"
 - kiegeszito.per.szint: 20
+  leírás: "kiegészítő KP / szint (csak nem-harci és nem-mágikus célra költhető)"
 - fortély:	15
 - hm: 4
 - chm: 4
@@ -39,17 +41,34 @@ maxperszint:
 - mana: 10
 - pszipont: 4
 
-egészség.kategória.té.levonás:
-- s1: 0
-- s2: -10
-- s3: -20
-- s4: -30
+arányok:
+- mfp.per.manőver: 3
+  leírás: "Egy darab Manőver felvételéhez ennyi Manőverfejlesztő Pont (MFP) szükséges"
+- egyik.hm.nagyobb.lehet: 3
+  leírás: "Ennyivel lehet többet tenni TÉ-re és VÉ-re egymáshoz képest egy szintlépés alkalmával"
+- sp.íves.fegyver.bónusz: 2
+  leírás: "Íves fegyverek sebzésbónusza vértnélküli ellenfél esetén"
+- pszi.fortély.max.fok: 4
+- képzettség.max.szint.plusz: 8
+  leírás: "Ennyivel lehet nagyobb egy képzettség szintje, mint a karakter szintje"
+- harci.miszt.képz.szint.plusz: 3
+  leírás: "Ennyivel lehet nagyobb egy harci/misztikus képzettség szintje, mint a karakter szintje"
 
-erőbónusz: 0
-mfp.per.manőver: 3
-egyik.hm.nagyobb.lehet: 3
-sp.íves.fegyver.bónusz: 2
+egészség.kategória.levonás:
+- szint: S1
+- szint: S2
+  bünti:
+  - érték: -10
+    típus: 2     # TÉ
+- szint: S3
+  bünti:
+  - érték: -20
+    típus: TÉ    # TÉ 
+- szint: S3
+  bünti:
+  - érték: -30
+    típus: TÉ    # TÉ
 
-pszi.fortély.max.fok: 4
-képzettség.max.szint.plusz: 8       # szint + x
-harci.miszt.képz.szint.plusz: 3     # szint + x
+kalk:        # Kalkulált értékek
+- erőbónusz: 0
+- 
