@@ -38,9 +38,18 @@ harcérték.konstans:      # harcérték alap konstansai
 
 vértek:
   védett.terület:
-  - torzó: 50     # ennyi % védettségek ad
+  - torzó: 50       # ennyi % védettségek ad
   - sisak: 10
-  - végtagok: 10  # felkarok; alkarok; combok; lábszárak - tagonként ennyi % védettséget adnak
+  - végtagok: 10    # felkarok; alkarok; combok; lábszárak - tagonként ennyi % védettséget adnak
+  mgt:              # mozgásgátló tényező
+  - posztó: 3
+  - bőr: 6
+  - keményített.bőr: 9
+  - brigantin: -1            # ⭕
+  - lánc: 12
+  - sodrony: 15
+  - pikkely: 17              # ⭕
+  - lemez: 18                # ⭕
   struktúrák:
   - struktúra: "posztó/bunda"
     SFÉ.szúró: 0
