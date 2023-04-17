@@ -31,12 +31,18 @@ képzettségek:
     - spec: 3
       helység: "saját állam"
     - átlagos: 0
+      régió: ""         # Táblázatban összeállítható: {képzettségnév} ({régió})
     - átfogó: 0
+      terület: "Ynev"
+      unique: True
   vallásismeret:
     - spec: 3
       vallás: "saját vallás"
     - átlagos: 0
+      hitvilág: ""
     - átfogó: 0
+      terület: "általános"
+      unique: True
   nyelvismeret:
     - spec: 9
       nyelv: "saját nyelv"
