@@ -23,11 +23,11 @@ harci_helyzetek:
   megjegyzés: "Kábulat, rosszullét, mérgezés esetén ideiglenesen ezek a levonások járnak. A KM - belátása szerint - adhat KT „sebesülést” is (pl. mérgezésnél)"
   módosítók:
   - módosító: "-10"   # KÉ
-    típus: 1
+    típus: 51
   - módosító: "-20"   # TÉ
-    típus: 1
-  - módosító: "-2"   # SP
-    típus: 1
+    típus: 52
+  - módosító: "-2"    # SP
+    típus: 55
 - név: 
   megjegyzés: ""
   módosítók:
