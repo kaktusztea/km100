@@ -1,11 +1,11 @@
 - vért: xyz
-  struktúra: ""         # posztó/bunda, bőr, keményített bőr, brigantin, lánc, sodrony, pikkely, lemez
-  alapanyag: ""         # acél, bronz, abbitacél, mithrill, lunír
-  anyagminőség: xxxx
-  kidolgozottság: 3    # 1: pocsék, 2: gyenge, 3: átlagos, 4: jó, 5: mestermunka
+  struktúra: ""        # posztó/bunda, bőr, keményített bőr, brigantin, lánc, sodrony, pikkely, lemez
+  fémalapanyag: ""     # acél, bronz, abbitacél, mithrill, lunír -- csak ha valamilyen fémből van, egyébként üres: ""
+  anyagminőség: 0      # 1: rossz, 2: átlagos, 3: jó
+  kidolgozottság: 0    # 1: pocsék, 2: gyenge, 3: átlagos, 4: jó, 5: mestermunka
   mellvért: True       # Van benne mellvért tag? (50% védelem)
   sisak: False         # Van benne sisak tag?    (10% védelem)
-  végtagvédettség: 2  # 1-4 (felkarok; alkarok; combok; lábszárak -- tagonként 10%) 
+  végtagvédettség: 0  # 1-4 (felkarok; alkarok; combok; lábszárak -- tagonként 10%) 
   SFÉ:
   - szúró: 0
   - vágó: 0
