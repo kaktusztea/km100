@@ -22,14 +22,23 @@ fortélyok:
   - süketség: 0         # max: 1
 
 képzettségek:
-  - helyismeret:
-    spec: 10    # TODO: átfogó, átlagos, spec. hogy legyenek megkülönböztethetőek
-    helység: "saját város"
-  - történelemismeret.spec: 3
-    helység: "saját állam"
-  - vallásismeret.spec: 3
-    helység: "saját vallás"
-  - nyelvismeret: 9
-    helység: "saját nyelv"
-  - nyelvismeret: 6
-    helység: "közös nyelv"
+  helyismeret:
+    - spec: 10
+      helység: "saját város"
+    - spec: 0
+      helység: "másik hely"
+  történelemismeret:
+    - spec: 3
+      helység: "saját állam"
+    - átlagos: 0
+    - átfogó: 0
+  vallásismeret:
+    - spec: 3
+      vallás: "saját vallás"
+    - átlagos: 0
+    - átfogó: 0
+  nyelvismeret:
+    - spec: 9
+      nyelv: "saját nyelv"
+    - spec: 6
+      nyelv: "közös nyelv"
