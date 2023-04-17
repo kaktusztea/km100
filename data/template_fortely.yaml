@@ -1,9 +1,9 @@
 név: ""
 maxfok: 2
-kategória: ""   # karma, háttér, mindennapi, alvilági, fizikai, szociális, világi,
-leírás: ""          # tudományos, művészeti, harci, távharc, lovas, titkos
+kategória: ""   # karma, háttér, mindennapi, alvilági, fizikai, szociális, világi, tudományos, művészeti, harci, távharc, lovas, titkos
+leírás: ""
 megjegyzések:
-  text: ""
+  - text: ""      # Ebből lehet több entry
 fokok:
   - fok: 0                    # alapeset
     status:
