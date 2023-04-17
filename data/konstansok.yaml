@@ -30,12 +30,46 @@ codes:
 - pszipont: 71
 - manapont: 81
 
-
 harcérték.konstans:      # harcérték alap konstansai
 - ké: 10
 - té: 20
 - vé: 120
 - cé: -30
+
+vértek:
+  struktúrák:
+  - struktúra: "posztó/bunda"
+    SFÉ.szúró: 0
+    SFÉ.vágó: 2
+    SFÉ.zúzó: 2
+  - struktúra: "bőr"
+    SFÉ.szúró: 2
+    SFÉ.vágó: 4
+    SFÉ.zúzó: 2
+  - struktúra: "keményített  bőr"
+    SFÉ.szúró: 3
+    SFÉ.vágó: 5
+    SFÉ.zúzó: 3
+  - struktúra: "brigantin"   # ⭕
+    SFÉ.szúró: -1
+    SFÉ.vágó: -1
+    SFÉ.zúzó: -1
+  - struktúra: "lánc"
+    SFÉ.szúró: [8,10,12]
+    SFÉ.vágó: [5,7,9]
+    SFÉ.zúzó: [2,3,4]
+  - struktúra: "sodrony"
+    SFÉ.szúró: [10,12,14]    # ⭕
+    SFÉ.vágó: [7,9,11]
+    SFÉ.zúzó: [3,4,5]
+  - struktúra: "pikkely"
+    SFÉ.szúró: [10,12,14]    # ⭕
+    SFÉ.vágó: [11,13,15]
+    SFÉ.zúzó: [4,6,8]
+  - struktúra: "lemez"
+    SFÉ.szúró: [10,12,14]    # ⭕
+    SFÉ.vágó: [12,14,16]
+    SFÉ.zúzó: [7,9,11]
 
 kp:
 - alap: 150
