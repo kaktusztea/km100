@@ -50,6 +50,16 @@ vértek:
   - sodrony: 15
   - pikkely: 17              # ⭕
   - lemez: 18                # ⭕
+  mgt.szorzók:
+  - nem.merev.nem.fém: [4,2,1,0.5,-1]   # pocsék, gyenge, átlagos, jó, mestermunka. A -1 az 'undef' jelölése.
+  - nem.merev.fém: [4,3,2,1,0.5]
+  - merev.fém: [5,4,3,2,1]
+  ár.szorzók:
+  - pocsék: 0.1
+  - gyenge: 0.5
+  - átlagos: 1
+  - jó: 10
+  - mestermunka: 100
   struktúrák:
   - struktúra: "posztó/bunda"
     SFÉ.szúró: 0
