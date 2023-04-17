@@ -4,7 +4,15 @@ codes:
 - képzettség: 2
 - fortély: 3
 - tradíció: 4
-- akció: 52   # { sikeres támadás, sebző támadás, sikeres manőver }
+
+- KÉ: 51
+- TÉ: 52
+- VÉ: 53
+- CÉ: 54
+- SP: 55
+- MFP: 56
+- akció: 502   # { 501-50x: sikeres támadás, sebző támadás, sikeres manőver }
+
 - pszipont: 71
 - manapont: 81
 
