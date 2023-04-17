@@ -4,29 +4,34 @@ codes:
 - képzettség: 2
 - fortély: 3
 - tradíció: 4
-
                         # harcértékek
 - KÉ: 51
 - TÉ: 52
 - VÉ: 53
 - CÉ: 54
 - SP: 55
-- MFP: 56
+- osztó: 56
+- harcmodor: 57
+- sebesség: 58
+- MFP: 59
                         # fegyverek
 - sebzés.mód: 511       # S, V, Z (szúró / vágó / zúzó)
 - átütés: 512
 - íves.fegyver: 513
 - másfélkezes: 514
+- pengehossz: 515
+- sebesség.fegyver: 516
 
-
-- sikeres.támadás: 552   # akciók
+                        # akciók
+- sikeres.támadás: 552
 - sebző.támadás: 553
 - sikeres manőver: 554
 
 - pszipont: 71
 - manapont: 81
 
-harcérték.konstans:
+
+harcérték.konstans:      # harcérték alap konstansai
 - ké: 10
 - té: 20
 - vé: 120
