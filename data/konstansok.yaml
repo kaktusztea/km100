@@ -37,6 +37,10 @@ harcérték.konstans:      # harcérték alap konstansai
 - cé: -30
 
 vértek:
+  védett.terület:
+  - torzó: 50     # ennyi % védettségek ad
+  - sisak: 10
+  - végtagok: 10  # felkarok; alkarok; combok; lábszárak - tagonként ennyi % védettséget adnak
   struktúrák:
   - struktúra: "posztó/bunda"
     SFÉ.szúró: 0
