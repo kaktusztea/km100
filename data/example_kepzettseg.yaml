@@ -2,7 +2,7 @@ név: "Vallásismeret"
 kategóriák:
 - név: "spec"
   property: "vallás"
-  leírás: "Egy adott isten ismerete ⭕"
+  leírás: "Egy adott isten ismerete"
 - név: "átlagos"
   property: "hitvilág"
   leírás: "Egy adott hitvilág ismerete"
@@ -12,20 +12,20 @@ kategóriák:
 szintek:
 - szint: 3
   követelmények:
-  - név: "xyz"
-    érték: 0
-    típus: 0              # 1: tulajdonság, 2: képzettség, 3: fortély, 4: tradíció, 52: akció { sikeres támadás, sebző támadás, sikeres manőver }
-    text: ""              # Általános szöveges leírás a konkrét követelményre. Lehet előtörténeti jellegű is.
-  - név: "yzx"
-    érték: 0
-    típus: 0
-    text: ""
+  - név: "Történelemismeret"
+    érték: 6                   # 6.szint
+    típus: 2                   # képzettség // # 1: tulajdonság, 2: képzettség, 3: fortély, 4: tradíció, 52: akció { sikeres támadás, sebző támadás, sikeres manőver }
+    text: "A Vallásismeret alapjaihoz kell a Történelem ismerete is."  # Általános szöveges leírás a konkrét követelményre. Lehet előtörténeti jellegű is.
 - szint: 6
 - szint: 9
   követelmények:
-  - név: "xxx"            # Példa: "Szónoklás"
-    érték: 0              # Példa: 1 (1. fok)
-    típus: 0              # Példa: 3 (fortély)
-    text: ""              # Példa: "Ezen a szinten már tudnod kell ékes szókkal köszönteni a híveket"
+  - név: "Szónoklás"
+    érték: 1                    # 1.fok
+    típus: 3                    # 3: fortély
+    text: "Ezen a szinten már tudnod kell ékes szókkal köszönteni a híveket"
+  - név: "Meggyőzés"
+    érték: 1                    # 1.fok
+    típus: 3                    # 3: fortély
+    text: "Ezen a szinten már tudnod kell meggyőző erővel hatni a hívekre"
 - szint: 12
 - szint: 15
