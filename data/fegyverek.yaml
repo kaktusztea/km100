@@ -86,7 +86,8 @@
   ve: 1
   sebesseg: 5
   harcmodor: közelharc
-  megjegyzes: '-'
+  megjegyzes: ""
+
 - fegyver: Kriszkés
   tipus: egykezes
   SP: +3/0
@@ -130,7 +131,7 @@
   ve: -7
   sebesseg: 5
   harcmodor: közelharc
-  megjegyzes: Ugyanazok az értékei, mint a Vasökölnek.
+  megjegyzes: "Ugyanazok az értékei, mint a Vasökölnek."
   
 - fegyver: Méregfog
   tipus: egykezes
@@ -145,7 +146,7 @@
   ve: 3
   sebesseg: -1
   harcmodor: közelharc
-  megjegyzes: Ha sebzést okoz, befecskendezi a benne tárolt mérget.
+  megjegyzes: "Ha sebzést okoz, befecskendezi a benne tárolt mérget."
   
 - fegyver: Pugoss
   tipus: egykezes
@@ -190,7 +191,7 @@
   ve: 10
   sebesseg: 5
   harcmodor: közelharc
-  megjegyzes: Nagyon drága!
+  megjegyzes: "Nagyon drága!"
 
 - fegyver: Tőr, kígyó
   tipus: egykezes
@@ -220,7 +221,7 @@
   ve: -5
   sebesseg: 5
   harcmodor: közelharc
-  megjegyzes: ''
+  megjegyzes: ""
 
 - fegyver: Tőr, páncélszúró
   tipus: egykezes
@@ -235,7 +236,7 @@
   ve: 4
   sebesseg: ''           # ⭕
   harcmodor: közelharc
-  megjegyzes: '-'
+  megjegyzes: ""
 
 - fegyver: Tőr, Slan
   tipus: egykezes
@@ -250,7 +251,7 @@
   ve: 2
   sebesseg: 5
   harcmodor: közelharc
-  megjegyzes: ''
+  megjegyzes: ""
 
 - fegyver: Vasököl / páncélkesztyű
   tipus: egykezes
@@ -295,7 +296,7 @@
   ve: 13
   sebesseg: 6
   harcmodor: kardvívás
-  megjegyzes: ''
+  megjegyzes: ""
 
 - fegyver: Kard, fejvadász
   tipus: egykezes
@@ -340,7 +341,7 @@
   ve: 8
   sebesseg: 6
   harcmodor: kardvívás
-  megjegyzes: Elfek használják. Előtörténet!
+  megjegyzes: "Elfek használják. Előtörténet!"
 
 - fegyver: Kard, hosszú
   tipus: egykezes
@@ -355,7 +356,7 @@
   ve: 12
   sebesseg: 6
   harcmodor: kardvívás
-  megjegyzes: Nem éri meg, mert a másfélkezes sokkal jobb mindenben és nincs hátránya
+  megjegyzes: "Nem éri meg, mert a másfélkezes sokkal jobb mindenben és nincs hátránya"
 
 - fegyver: Kard, jatagán
   tipus: egykezes
@@ -400,7 +401,7 @@
   ve: 10
   sebesseg: 6
   harcmodor: kardvívás
-  megjegyzes: Elfek használják. Előtörténet!
+  megjegyzes: "Elfek használják. Előtörténet!"
   
 - fegyver: Kard, kígyó
   tipus: egykezes
@@ -415,7 +416,7 @@
   ve: 11
   sebesseg: 6
   harcmodor: kardvívás
-  megjegyzes: 'Szúró sebzés: +5 SP'
+  megjegyzes: "Szúró sebzés: +5 SP"
 
 - fegyver: Kard, Lagoss
   tipus: egykezes
@@ -430,7 +431,7 @@
   ve: ''
   sebesseg: ''
   harcmodor: kardvívás
-  megjegyzes: 'KF: Amennyiben ez nincs meg, akkor csak a Hosszúkard értékeivel forgatható.'
+  megjegyzes: "KF: Amennyiben ez nincs meg, akkor csak a Hosszúkard értékeivel forgatható."
 
 - fegyver: Kard, lovag
   tipus: egykezes
@@ -445,7 +446,7 @@
   ve: 12
   sebesseg: 7
   harcmodor: kardvívás
-  megjegyzes: 'Erő követelmény: +2'
+  megjegyzes: "Erő követelmény: +2"
 
 - fegyver: Kard, másfélkezes
   tipus: kétkezes
@@ -490,7 +491,7 @@
   ve: ''
   sebesseg: ''          # ⭕
   harcmodor: kardvívás
-  megjegyzes: (KF)
+  megjegyzes: "(KF)"
 
 - fegyver: Kard, rövid
   tipus: egykezes
@@ -595,7 +596,7 @@
   ve: ''
   sebesseg: ''
   harcmodor: kardvívás
-  megjegyzes: ''
+  megjegyzes: ""
 
 - fegyver: Predoci egyeneskard          # ⭕
   tipus: egykezes
@@ -610,7 +611,7 @@
   ve: ''
   sebesseg: ''
   harcmodor: kardvívás
-  megjegyzes: ''
+  megjegyzes: ""
 
 - fegyver: Sequor
   tipus: egykezes
@@ -625,7 +626,7 @@
   ve: ''
   sebesseg: ''
   harcmodor: kardvívás
-  megjegyzes: '(KF):'
+  megjegyzes: "(KF):"
 
 - fegyver: Tőrkard
   tipus: egykezes
@@ -655,7 +656,7 @@
   ve: ''
   sebesseg: ''
   harcmodor: pusztítás
-  megjegyzes: ''
+  megjegyzes: ""
 
 - fegyver: Bot, furkós
   tipus: egykezes
@@ -670,7 +671,7 @@
   ve: ''
   sebesseg: ''
   harcmodor: pusztítás
-  megjegyzes: ''
+  megjegyzes: ""
 
 - fegyver: Buzogány, egykezes
   tipus: egykezes
@@ -685,7 +686,7 @@
   ve: 8
   sebesseg: 7
   harcmodor: pusztítás
-  megjegyzes: ''
+  megjegyzes: ""
 
 - fegyver: Buzogány, kétkezes
   tipus: kétkezes
@@ -700,7 +701,7 @@
   ve: ''
   sebesseg: ''
   harcmodor: pusztítás
-  megjegyzes: ''
+  megjegyzes: ""
 
 - fegyver: Buzogány, láncos
   tipus: egykezes
@@ -715,7 +716,7 @@
   ve: ''
   sebesseg: ''
   harcmodor: pusztítás
-  megjegyzes: Pajzs VÉ a fele! (?)
+  megjegyzes: "Pajzs VÉ a fele! (?)"
 
 - fegyver: Buzogány, shadleki
   tipus: '??'
@@ -730,7 +731,7 @@
   ve: ''
   sebesseg: ''
   harcmodor: pusztítás
-  megjegyzes: ''
+  megjegyzes: ""
 
 - fegyver: Buzogány, tollas
   tipus: egykezes
@@ -745,7 +746,7 @@
   ve: ''
   sebesseg: ''
   harcmodor: pusztítás
-  megjegyzes: ''
+  megjegyzes: ""
 
 - fegyver: Buzogány, tüskés
   tipus: egykezes
@@ -760,7 +761,7 @@
   ve: ''
   sebesseg: ''
   harcmodor: pusztítás
-  megjegyzes: ''
+  megjegyzes: ""
 
 - fegyver: Csatabárd, egykezes
   tipus: egykezes
@@ -777,7 +778,7 @@
   ve: 8
   sebesseg: ''
   harcmodor: pusztítás
-  megjegyzes: ''
+  megjegyzes: ""
 
 - fegyver: Csatabárd, kétkezes          # ⭕
   tipus: kétkezes
@@ -792,7 +793,7 @@
   ve: 16
   sebesseg: ''
   harcmodor: pusztítás
-  megjegyzes: ''
+  megjegyzes: ""
 
 - fegyver: Csatacsákány          # ⭕
   tipus: egykezes
@@ -837,7 +838,7 @@
   ve: ''
   sebesseg: ''
   harcmodor: pusztítás
-  megjegyzes: ''
+  megjegyzes: ""
 
 - fegyver: Alabárd
   tipus: kétkezes
@@ -867,7 +868,7 @@
   ve: ''
   sebesseg: ''
   harcmodor: lándzsavívás
-  megjegyzes: ''
+  megjegyzes: ""
 
 - fegyver: Lándzsa          # ⭕
   tipus: kétkezes
@@ -882,7 +883,7 @@
   ve: 24
   sebesseg: ''
   harcmodor: lándzsavívás
-  megjegyzes: ''
+  megjegyzes: ""
 
 - fegyver: Pika          # ⭕
   tipus: kétkezes
@@ -897,7 +898,7 @@
   ve: ''
   sebesseg: ''
   harcmodor: lándzsavívás
-  megjegyzes: ''
+  megjegyzes: ""
 
 - fegyver: Szigony, egykezes
   tipus: egykezes
@@ -912,7 +913,7 @@
   ve: ''
   sebesseg: ''
   harcmodor: lándzsavívás
-  megjegyzes: ''
+  megjegyzes: ""
 
 - fegyver: Szigony, kétkezes
   tipus: kétkezes
@@ -927,4 +928,4 @@
   ve: ''
   sebesseg: ''
   harcmodor: lándzsavívás
-  megjegyzes: ''
+  megjegyzes: ""
