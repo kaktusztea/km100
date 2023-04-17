@@ -1,7 +1,7 @@
 ---
 név: "belharc"
 maxfok: 2
-kategória: "harci"
+csoport: "harci"
 leírás: "Testközelben érzed igazában elemedben magad. Sikeres 🗡️ Belharcba kerülés manőver esetén 🗡️ Belharci szituációba kerülsz és harcértékeidre – csak „Közelharc” harcmodor esetén – a következő pluszok járnak."
 megjegyzések:
   - text: "Ezt a fortélyt konkrét fegyverre (Puszta kéz is ide tartozik) kell felvenni, csak annak használatakor járnak a bónuszok. A Belharcot így többször is fel lehet venni - különböző fegyverekre."

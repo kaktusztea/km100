@@ -1,6 +1,6 @@
 név: ""
 maxfok: 2
-kategória: ""   # karma, háttér, mindennapi, alvilági, fizikai, szociális, világi, tudományos, művészeti, harci, távharc, lovas, titkos
+csoport: ""   # lásd konstansok.yaml / fortély.csoportok
 leírás: ""
 megjegyzések:
   - text: ""      # Ebből lehet több entry
@@ -16,7 +16,7 @@ fokok:
       - név: "xxx"
         enabled: True         # Ez a követelmény aktív, itt letiltható (akár csak ideiglenesen, tesztelési céllal). Normál állapot: True
         érték: 0
-        típus: 0              #  1: tulajdonság, 2: képzettség, 3: fortély, 4: tradíció, 52: akció { sikeres támadás, sebző támadás, sikeres manőver }
+        típus: 0              # lásd: konstansok.yaml
         text: ""
       - név: "yyy"
         enabled: True
@@ -28,7 +28,7 @@ fokok:
       - név: xyxy
         enabled: True         # Ez a hatás aktív, itt letiltható (akár csak ideiglenesen, tesztelési céllal)
         érték: 0              # bónusz
-        típus: 0              # 1: tulajdonság, 2: képzettség, 51: HM, 71: pszipont, 81: manapont
+        típus: 0              # lásd: konstansok.yaml
         text: ""
       - név: yxyx
         enabled: True

@@ -1,6 +1,6 @@
 név: ""
 maxfok: 2
-kategória: ""   # karma, háttér, mindennapi, alvilági, fizikai, szociális, világi,
+csoport: ""   # karma, háttér, mindennapi, alvilági, fizikai, szociális, világi,
 leírás: ""          # tudományos, művészeti, harci, távharc, lovas, titkos
 megjegyzések:
   - text: ""

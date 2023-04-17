@@ -1,4 +1,5 @@
 név: "Vallásismeret"
+csoport: "tudományos"         # lásd konstansok.yaml
 kategóriák:
 - név: "spec"
   enabled: True

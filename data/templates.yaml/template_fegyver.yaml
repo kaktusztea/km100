@@ -2,13 +2,13 @@
   tipus:                # egykezes / kétkezes
   SP: 0                 # Sebzés Pont
   sebzesmod: S          # S / V / Z  (Szúró, Vágó, Zúzó)
-  atutes: 0             # 0: nincs, X: ennyi SFÉ-t visz át.
+  atutes: 0             # 0: nincs, X: ennyi SFÉ-t visz át
   ives: false           # true/false. Íves fegyver -e. Ha igen, vért nélküli ellenfeleknél bónusz jár.
-  masfelkezes: false    # true/false.
+  masfelkezes: false    # true/false
   pengehossz: 1         # A fegyver hány penge hosszúságú (0; 0.5(rövid); 1; 1,5; 2)
   ke: 5                 # fegyver Kezdeményező Értéke (KÉ)
   te: 5                 # fegyver Támadó Értéke (TÉ)
   ve: 5                 # fegyver Védő Értéke (VÉ)
   sebesseg: 5           # fegyver Sebessége (támadások számában van szerepe)
   harcmodor: közelharc  # közelharc, kardvívás, pusztítás, lándzsavívás
-  megjegyzes: "Lorem ipsum"
+  megjegyzes: "ipsum"

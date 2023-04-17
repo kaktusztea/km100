@@ -1,9 +1,10 @@
 név: ""
+csoport: ""                    # lásd konstansok.yaml / képzettség.csoportok
 kategóriák:
 - név: "spec"
   enabled: False               # Létezik -e ennek a képzettségnek ilyen kategóriája. Pl. ha ez egy tisztán "átlagos" képzettség, akkor nincs 'spec' kategóriája.
   property: ""
-  leírás: "
+  leírás: ""
 - név: "átlagos"
   enabled: True
   property: ""
@@ -18,7 +19,7 @@ szintek:
   - név: ""
     enabled: True              # Ez a követelmény aktív, itt letiltható (akár csak ideiglenesen, tesztelési céllal). Normál állapot: True
     érték: 0                   # szint, fok, mana, pszipont, stb. értéke
-    típus: 0                   # 1: tulajdonság, 2: képzettség, 3: fortély, 4: tradíció, 52: akció { sikeres támadás, sebző támadás, sikeres manőver }
+    típus: 0                   # lásd: konstansok.yaml
     text: ""                   # Általános szöveges leírás a konkrét követelményre. Lehet előtörténeti jellegű is.
 - szint: 6
 - szint: 9

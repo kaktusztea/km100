@@ -165,11 +165,15 @@ egészség.kategória.levonás:
 - szint: S3
   bünti:
   - érték: -20
-    típus: 52    # TÉ 
+    típus: 52    # TÉ
 - szint: S3
   bünti:
   - érték: -30
     típus: 52    # TÉ
+
+fortély.csoportok: [karma, háttér, mindennapi, alvilági, fizikai, szociális, világi, tudományos, művészeti, harci, távharc, lovas, titkos]
+képzettség.csoportok: [harci, fizikai, világi, alvilági, tudományos, művészeti, misztikus, vulgármágia, ordani.tűzmágia, bárdmágia, mozaikmágia]
+# ⭕ a mágia csoportokból lehet, hogy hiányzik még pár
 
 kalk:        # Kalkulált értékek ⭕TODO
 - erőbónusz: 0
