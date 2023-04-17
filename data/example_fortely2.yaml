@@ -3,7 +3,7 @@ maxfok: 2
 kategória: ""   # karma, háttér, mindennapi, alvilági, fizikai, szociális, világi,
 leírás: ""          # tudományos, művészeti, harci, távharc, lovas, titkos
 megjegyzések:
-  text: ""
+  - text: ""
 fokok:
   - fok: 0                    # alapeset
     status:
