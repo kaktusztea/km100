@@ -14,20 +14,24 @@ fokok:
     követelménytext: ""       # Általános szöveges követelmény erre a fokra. Lehet előtörténeti jellegű is.
     követelmények:
       - név: "xxx"
+        enabled: True         # Ez a követelmény aktív, itt letiltható (akár csak ideiglenesen, tesztelési céllal). Normál állapot: True
         érték: 0
         típus: 0              #  1: tulajdonság, 2: képzettség, 3: fortély, 4: tradíció, 52: akció { sikeres támadás, sebző támadás, sikeres manőver }
         text: ""
       - név: "yyy"
+        enabled: True
         érték: 0
         típus: 0
         text: ""
     hatástext: ""
     hatások:                  # Ha nem számszerűsíthetőek, akkor a 'hatástext' mezőt töltsd csak ki, a 'hatások' legyen üres.
       - név: xyxy
+        enabled: True         # Ez a hatás aktív, itt letiltható (akár csak ideiglenesen, tesztelési céllal)
         érték: 0              # bónusz
         típus: 0              # 1: tulajdonság, 2: képzettség, 51: HM, 71: pszipont, 81: manapont
         text: ""
       - név: yxyx
+        enabled: True
         érték: 0
         típus: 0
         text: ""
@@ -36,20 +40,24 @@ fokok:
     követelménytext: ""
     követelmények:
       - név: "xxx"
+        enabled: True
         érték: 0
         típus: 0
         text: ""
       - név: "yyy"
+        enabled: True
         érték: 0
         típus: 0
         text: ""
     hatástext: ""
     hatások:
       - név: xyxy
+        enabled: True
         érték: 0
         típus: 0
         text: ""
       - név: yxyx
+        enabled: True
         érték: 0
         típus: 0
         text: ""
