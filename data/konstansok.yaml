@@ -55,6 +55,27 @@ vértek:
   - nem.merev.nem.fém: [4,2,1,0.5,-1]   # pocsék, gyenge, átlagos, jó, mestermunka. A -1 az 'undef' jelölése.
   - nem.merev.fém: [4,3,2,1,0.5]
   - merev.fém: [5,4,3,2,1]
+  fémalapanyagok:
+  - anyag: "acél"
+    sfé.bónusz: 0
+    alap.MGT: 0
+    ár.szorzó: 1
+  - anyag: "bronz"
+    sfé.bónusz: -3          # ⭕
+    alap.MGT: 6             # ⭕
+    ár.szorzó: 0.5          # ⭕
+  - anyag: "abbitacél"
+    sfé.bónusz: 2
+    alap.MGT: -1            # ⭕
+    ár.szorzó: 10
+  - anyag: "mithrill"
+    sfé.bónusz: 5
+    alap.MGT: -1            # ⭕
+    ár.szorzó: 100
+  - anyag: "lunír"
+    sfé.bónusz: -1          # ⭕
+    alap.MGT: -1            # ⭕
+    ár.szorzó: -1           # ⭕
   ár.szorzók:
   - pocsék: 0.1
   - gyenge: 0.5
