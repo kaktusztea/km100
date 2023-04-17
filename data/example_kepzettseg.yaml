@@ -1,0 +1,11 @@
+név: "Vallásismeret"
+kategóriák:
+  spec:
+	  - property: "vallás"
+		  leírás: "Egy adott isten ismerete ⭕"
+	  - átlagos
+  	  property: "hitvilág"
+      leírás: "Egy adott hitvilág ismerete"
+	  - átfogó
+	    property: "terület"
+      leírás: "Minden panteon, Ynev összes vallásának ismerete"
