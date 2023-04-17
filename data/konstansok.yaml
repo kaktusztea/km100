@@ -4,8 +4,7 @@ codes:
 - képzettség: 2
 - fortély: 3
 - tradíció: 4
-                        # harcértékek
-- KÉ: 51
+- KÉ: 51                # harcértékek
 - TÉ: 52
 - VÉ: 53
 - CÉ: 54
@@ -14,16 +13,15 @@ codes:
 - harcmodor: 57
 - sebesség: 58
 - MFP: 59
-                        # fegyverek
-- sebzés.mód: 511       # S, V, Z (szúró / vágó / zúzó)
-- átütés: 512
+
+- átütés: 511            # fegyverek
+- sebzés.mód: 512           # S, V, Z (szúró / vágó / zúzó)
 - íves.fegyver: 513
 - másfélkezes: 514
 - pengehossz: 515
 - sebesség.fegyver: 516
 
-                        # akciók
-- sikeres.támadás: 552
+- sikeres.támadás: 552   # akciók
 - sebző.támadás: 553
 - sikeres manőver: 554
 
@@ -41,6 +39,9 @@ vértek:
   - torzó: 50       # ennyi % védettségek ad
   - sisak: 10
   - végtagok: 10    # felkarok; alkarok; combok; lábszárak - tagonként ennyi % védettséget adnak
+  tenyérnyi.erősítés:
+  - MGT: [3,6]      # E két érték között, alak és súlyfüggő   # ⭕
+    SFÉ: [3,18]     # anyagfüggő (lásd lenn)
   mgt:              # mozgásgátló tényező
   - posztó: 3
   - bőr: 6
