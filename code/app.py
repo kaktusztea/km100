@@ -8,7 +8,7 @@ from flask import Flask, render_template, url_for, request, redirect
 from markupsafe import escape
 
 yy = None
-with open("/Users/kaktusz/repo/km100.dok/data/example_fortely1.yaml", "r") as stream:
+with open("../data/example_fortely1.yaml", "r") as stream:
     try:
         yy = yaml.safe_load(stream)
     except yaml.YAMLError as exc:
