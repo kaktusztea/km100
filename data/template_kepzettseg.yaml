@@ -16,6 +16,7 @@ szintek:
 - szint: 3
   követelmények:
   - név: ""
+    enabled: True              # Ez a követelmény aktív, itt letiltható (akár csak ideiglenesen, tesztelési céllal). Normál állapot: True
     érték: 0                   # szint, fok, mana, pszipont, stb. értéke
     típus: 0                   # 1: tulajdonság, 2: képzettség, 3: fortély, 4: tradíció, 52: akció { sikeres támadás, sebző támadás, sikeres manőver }
     text: ""                   # Általános szöveges leírás a konkrét követelményre. Lehet előtörténeti jellegű is.
