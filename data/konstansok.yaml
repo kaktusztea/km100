@@ -8,7 +8,7 @@ codes:
 - pszipont: 71
 - manapont: 81
 
-harcérték.alap.konstans:
+harcérték.konstans:
 - ké: 10
 - té: 20
 - vé: 120
