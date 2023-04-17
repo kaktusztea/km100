@@ -5,13 +5,23 @@ codes:
 - fortély: 3
 - tradíció: 4
 
+                        # harcértékek
 - KÉ: 51
 - TÉ: 52
 - VÉ: 53
 - CÉ: 54
 - SP: 55
 - MFP: 56
-- akció: 502   # { 501-50x: sikeres támadás, sebző támadás, sikeres manőver }
+                        # fegyverek
+- sebzés.mód: 511       # S, V, Z (szúró / vágó / zúzó)
+- átütés: 512
+- íves.fegyver: 513
+- másfélkezes: 514
+
+
+- sikeres.támadás: 552   # akciók
+- sebző.támadás: 553
+- sikeres manőver: 554
 
 - pszipont: 71
 - manapont: 81
