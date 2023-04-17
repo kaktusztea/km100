@@ -1,4 +1,13 @@
 ---
+codes:
+- tulajdonság: 1
+- képzettség: 2
+- fortély: 3
+- tradíció: 4
+- akció: 52   # { sikeres támadás, sebző támadás, sikeres manőver }
+- pszipont: 71
+- manapont: 81
+
 harcérték.alap.konstans:
 - ké: 10
 - té: 20
