@@ -1,7 +1,7 @@
 név: ""
 kategóriák:
 - név: "spec"
-  enabled: False
+  enabled: False               # Létezik -e ennek a képzettségnek ilyen kategóriája. Pl. ha ez egy tisztán "átlagos" képzettség, akkor nincs 'spec' kategóriája.
   property: ""
   leírás: "
 - név: "átlagos"
