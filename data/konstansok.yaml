@@ -59,15 +59,15 @@ egészség.kategória.levonás:
 - szint: S2
   bünti:
   - érték: -10
-    típus: 2     # TÉ
+    típus: 52     # TÉ
 - szint: S3
   bünti:
   - érték: -20
-    típus: TÉ    # TÉ 
+    típus: 52    # TÉ 
 - szint: S3
   bünti:
   - érték: -30
-    típus: TÉ    # TÉ
+    típus: 52    # TÉ
 
 kalk:        # Kalkulált értékek
 - erőbónusz: 0
