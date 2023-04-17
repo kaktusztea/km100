@@ -1,12 +1,15 @@
 név: "Vallásismeret"
 kategóriák:
 - név: "spec"
+  enabled: True
   property: "vallás"
   leírás: "Egy adott isten ismerete"
 - név: "átlagos"
+  enabled: True
   property: "hitvilág"
   leírás: "Egy adott hitvilág ismerete"
 - név: "átfogó"
+  enabled: True
   property: "terület"
   leírás: "Minden panteon, Ynev összes vallásának ismerete"
 szintek:
