@@ -16,6 +16,7 @@ szintek:
 - szint: 3
   követelmények:
   - név: "Történelemismeret"
+    enabled: True              # Ez a követelmény aktív, itt letiltható (akár csak ideiglenesen, tesztelési céllal)
     érték: 6                   # 6.szint
     típus: 2                   # képzettség // # 1: tulajdonság, 2: képzettség, 3: fortély, 4: tradíció, 52: akció { sikeres támadás, sebző támadás, sikeres manőver }
     text: "A Vallásismeret alapjaihoz kell a Történelem ismerete is."  # Általános szöveges leírás a konkrét követelményre. Lehet előtörténeti jellegű is.
@@ -23,10 +24,12 @@ szintek:
 - szint: 9
   követelmények:
   - név: "Szónoklás"
+    enabled: True
     érték: 1                    # 1.fok
     típus: 3                    # 3: fortély
     text: "Ezen a szinten már tudnod kell ékes szókkal köszönteni a híveket"
   - név: "Meggyőzés"
+    enabled: True
     érték: 1                    # 1.fok
     típus: 3                    # 3: fortély
     text: "Ezen a szinten már tudnod kell meggyőző erővel hatni a hívekre"
