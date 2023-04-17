@@ -1,41 +1,40 @@
 ---
-
 harcérték.alap.konstans:
-  - ké: 10
-  - té: 20
-  - vé: 120
-  - cé: -30
+- ké: 10
+- té: 20
+- vé: 120
+- cé: -30
 
 kp:
-  - alap: 150
-  - per.szint: 70
-  - kiegeszito.per.szint: 20
-  - fortély:	15
-  - hm: 4
-  - chm: 4
-  - mana: 3
-  - pszipont: 2
-  - tradíció: 50
-  - céltradíció: 25
-  - intuíció: 10
-  - látás: 7
-  - hallás: 7
-  - ízlelés.szaglás.tapintás: 7
-  - vakság: 45
-  - süketség: 35
-  - tartós.sérülés.per.fok: 10
+- alap: 150
+- per.szint: 70
+- kiegeszito.per.szint: 20
+- fortély:	15
+- hm: 4
+- chm: 4
+- mana: 3
+- pszipont: 2
+- tradíció: 50
+- céltradíció: 25
+- intuíció: 10
+- látás: 7
+- hallás: 7
+- ízlelés.szaglás.tapintás: 7
+- vakság: 45
+- süketség: 35
+- tartós.sérülés.per.fok: 10
 
 maxperszint:
-  - hm: 8
-  - chm: 4
-  - mana: 10
-  - pszipont: 4
+- hm: 8
+- chm: 4
+- mana: 10
+- pszipont: 4
 
 egészség.kategória.té.levonás:
-  - s1: 0
-  - s2: -10
-  - s3: -20
-  - s4: -30
+- s1: 0
+- s2: -10
+- s3: -20
+- s4: -30
 
 erőbónusz: 0
 mfp.per.manőver: 3
