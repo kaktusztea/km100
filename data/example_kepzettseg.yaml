@@ -1,11 +1,18 @@
 név: "Vallásismeret"
 kategóriák:
-- spec:
+- név: "spec"
   property: "vallás"
   leírás: "Egy adott isten ismerete ⭕"
-- átlagos:
+- név: "átlagos"
   property: "hitvilág"
   leírás: "Egy adott hitvilág ismerete"
-- átfogó:
+- név: "átfogó"
   property: "terület"
   leírás: "Minden panteon, Ynev összes vallásának ismerete"
+követelmények:
+- szint: 3
+  xyz
+- szint: 6
+- szint: 9
+- szint: 12
+- szint: 15
