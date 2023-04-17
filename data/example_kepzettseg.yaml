@@ -9,10 +9,23 @@ kategóriák:
 - név: "átfogó"
   property: "terület"
   leírás: "Minden panteon, Ynev összes vallásának ismerete"
-követelmények:
+szintek:
 - szint: 3
-  xyz
+  követelmények:
+  - név: "xyz"
+    érték: 0
+    típus: 0              # 1: tulajdonság, 2: képzettség, 3: fortély, 4: tradíció, 52: akció { sikeres támadás, sebző támadás, sikeres manőver }
+    text: ""              # Általános szöveges leírás a konkrét követelményre. Lehet előtörténeti jellegű is.
+  - név: "yzx"
+    érték: 0
+    típus: 0
+    text: ""
 - szint: 6
 - szint: 9
+  követelmények:
+  - név: "xxx"            # Példa: "Szónoklás"
+    érték: 0              # Példa: 1 (1. fok)
+    típus: 0              # Példa: 3 (fortély)
+    text: ""              # Példa: "Ezen a szinten már tudnod kell ékes szókkal köszönteni a híveket"
 - szint: 12
 - szint: 15
