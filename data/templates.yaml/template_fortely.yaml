@@ -13,51 +13,16 @@ fokok:
     status:
     követelménytext: ""       # Általános szöveges követelmény erre a fokra. Lehet előtörténeti jellegű is.
     követelmények:
-      - név: "xxx"
+      - név: "xxx"            # ebből több entry lehet
         enabled: True         # Ez a követelmény aktív, itt letiltható (akár csak ideiglenesen, tesztelési céllal). Normál állapot: True
         érték: 0
         típus: 0              # lásd: konstansok.yaml
         text: ""
-      - név: "yyy"
-        enabled: True
-        érték: 0
-        típus: 0
-        text: ""
     hatástext: ""
     hatások:                  # Ha nem számszerűsíthetőek, akkor csak a 'hatástext' mezőt töltsd ki, a 'hatások' legyen üres.
-      - név: xyxy
-        enabled: True         # Ez a hatás aktív, itt letiltható (akár csak ideiglenesen, tesztelési céllal)
+      - név: xyxy             # ebből több entry lehet
+        enabled: True         # ez a hatás aktív, itt letiltható (akár csak ideiglenesen, tesztelési céllal)
         érték: 0              # bónusz
         típus: 0              # lásd: konstansok.yaml
-        text: ""
-      - név: yxyx
-        enabled: True
-        érték: 0
-        típus: 0
-        text: ""
-  - fok: 2
-    status:
-    követelménytext: ""
-    követelmények:
-      - név: "xxx"
-        enabled: True
-        érték: 0
-        típus: 0
-        text: ""
-      - név: "yyy"
-        enabled: True
-        érték: 0
-        típus: 0
-        text: ""
-    hatástext: ""
-    hatások:
-      - név: xyxy
-        enabled: True
-        érték: 0
-        típus: 0
-        text: ""
-      - név: yxyx
-        enabled: True
-        érték: 0
-        típus: 0
-        text: ""
+        text: ""              # az adott hatás szöveges leírása (ha szükséges)
+ 
