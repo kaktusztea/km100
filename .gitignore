@@ -3,3 +3,4 @@
 *.odt#
 .obsidian
 .~lock*
+__pycache__
