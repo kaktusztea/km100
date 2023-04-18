@@ -1,12 +1,12 @@
 név: ""
 maxfok: 2
-csoport: ""   # lásd konstansok.yaml / fortély.csoportok
+csoport: ""                   # lásd konstansok.yaml / fortély.csoportok
 leírás: ""
 megjegyzések:
-  - text: ""      # Ebből lehet több entry
+  - text: ""                  # Ebből lehet több entry
 fokok:
   - fok: 0                    # alapeset
-    status:
+    status:                   # fejlesztéhez segítség: az adott fok kidolgozottsági állapotát jelzi. piros kör: fékész, zöld pipa: kész
     követelmények:
     hatások:
   - fok: 1
@@ -24,7 +24,7 @@ fokok:
         típus: 0
         text: ""
     hatástext: ""
-    hatások:                  # Ha nem számszerűsíthetőek, akkor a 'hatástext' mezőt töltsd csak ki, a 'hatások' legyen üres.
+    hatások:                  # Ha nem számszerűsíthetőek, akkor csak a 'hatástext' mezőt töltsd ki, a 'hatások' legyen üres.
       - név: xyxy
         enabled: True         # Ez a hatás aktív, itt letiltható (akár csak ideiglenesen, tesztelési céllal)
         érték: 0              # bónusz
