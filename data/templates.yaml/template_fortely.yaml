@@ -7,7 +7,9 @@ megjegyzések:
 fokok:
   - fok: 0                    # alapeset
     status:                   # fejlesztéhez segítség: az adott fok kidolgozottsági állapotát jelzi. piros kör: fékész, zöld pipa: kész
+    követelménytext: ""
     követelmények:
+    hatástext: ""
     hatások:
   - fok: 1
     status:
