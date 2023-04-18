@@ -10,5 +10,6 @@
   - szúró: 0
   - vágó: 0
   - zúzó: 0
+  - rongálódás: 0       # ennyivel csökken az SFÉ a páncél megrongálódott állapota miatt
   ár: 0                 # a páncél ára ezüstben
-  megjegyzes: "Lorem ipsum"
+  megjegyzes: ""        # honnan származik, egyedi jellemzők
