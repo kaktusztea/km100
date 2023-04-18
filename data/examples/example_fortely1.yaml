@@ -7,9 +7,11 @@ megjegyzések:
   - text: "Ezt a fortélyt konkrét fegyverre (Puszta kéz is ide tartozik) kell felvenni, csak annak használatakor járnak a bónuszok. A Belharcot így többször is fel lehet venni - különböző fegyverekre."
   - text: "Az ellenfél módosítóinak változását lásd a Harcrendszer fejezet ⭕„Belharc” harci taktika leírásánál!"
 fokok:
-  - fok: 0                  # alapeset
-    status: ✅              # TODO: ⭕ / Done: ✅
+  - fok: 0                   # alapeset
+    status: ✅               # TODO: ⭕ / Done: ✅
+    követelménytext: ""
     követelmények:
+    hatástext: ""
     hatások:
   - fok: 1
     status: ✅
