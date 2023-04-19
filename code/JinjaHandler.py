@@ -26,7 +26,7 @@ class JinjaHandler:
         if isinstance(self.context, dict):
             ydata = yaml.safe_load(yaml.dump(self.context))
         else:
-            ydata = yaml.safe_load(open(self.context))
+            ydata = yaml.safe_load(open(self.context, encoding="UTF-8"))
         return self.template.render(ydata)
 
     def render_write(self, outputfile=None):
