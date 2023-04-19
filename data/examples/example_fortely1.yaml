@@ -10,18 +10,18 @@ fokok:
   - fok: 0                   # alapeset
     status: ✅               # TODO: ⭕ / Done: ✅
     követelménytext: ""
-    követelmények:
+    követelmények: ""
     hatástext: ""
-    hatások:
+    hatások: ""
   - fok: 1
     status: ✅
-    követelménytext: ""     # Általános szöveges követelmény erre a fokra. Lehet előtörténeti jellegű is.
+    követelménytext: "Ezen feltételeknek teljesülniük kell"     # Általános szöveges követelmény erre a fokra. Lehet előtörténeti jellegű is.
     követelmények:
       - név: "ügyesség"
         enabled: True
         érték: 1
         típus: 1            # 1: tulajdonság, 2: képzettség, 3: fortély, 4: tradíció, 52: akció { sikeres támadás, sebző támadás, sikeres manőver }
-        text: ""
+        text: "csak tolvajoknak!"
       - név: "gyorsaság"
         enabled: True
         érték: 1
@@ -40,7 +40,7 @@ fokok:
     hatástext: "Belharcban az említett bónuszok járnak számodra."
     hatások:                  # Ha nem számszerűsíthetőek, akkor a 'hatástext' mezőt töltsd csak ki, a 'hatások' legyen üres.
       - név: KÉ
-        enabled: True
+        enabled: False
         érték: +2             # bónusz
         típus: 51             # 1: tulajdonság, 2: képzettség, 51: HM, 71: pszipont, 81: manapont
         text: ""
@@ -89,7 +89,7 @@ fokok:
         enabled: True
         érték: +2             # bónusz
         típus: 51             # 1: tulajdonság, 2: képzettség, 51: HM, 71: pszipont, 81: manapont
-        text: ""
+        text: "minden második körben"
       - név: TÉ
         enabled: True
         érték: +3
@@ -99,4 +99,4 @@ fokok:
         enabled: True
         érték: +3
         típus: 51
-        text: ""
+        text: "csak védekező harcban!"

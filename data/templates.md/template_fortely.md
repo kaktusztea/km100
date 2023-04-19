@@ -1,20 +1,45 @@
-#### 🟣 {{név}} ({{maxfok}})
+{% macro sentence_case(text) %}
+    {{- text[0]|upper}}{{text[1:] -}}
+{% endmacro %}
+#### 🟣 {{ sentence_case(név) }} ({{maxfok}})
 
 {{leírás}}
 
 | |  Követelmény | Hatás  |
 | :----------- | :----------- | :----------- |
-| Alapeset| - | lorem ipsum dorem amet lorem ipsum dorem amet lorem ipsum dorem amet |
-| 1.fok | loremipsum&nbsp;–&nbsp;1.szint<br />ipsum | lorem ipsum dorem amet lorem ipsum dorem amet lorem ipsum dorem amet |
-| 2.fok | lorem<br />ipsum&nbsp;–&nbsp;1.szint<br />ipsum | lorem ipsum dorem amet lorem ipsum dorem amet lorem ipsum dorem amet |
+{% for item in fokok -%}
+|
+{%- if item.fok > 0 -%}
+{{ item.fok }}.fok |
+{%- else -%}
+Alapeset |
+{%- endif %}
+{{- item.követelménytext -}}<br />
+{%- for kov in item.követelmények if item.követelmények and True == kov.enabled -%}
+{{ sentence_case(kov.név) }}: {{ kov.érték }}
+{%- if kov.text -%}
+ ({{ kov.text }})
+{%- endif -%}
+<br />
+{%- endfor -%}
+ | {{- item.hatástext -}}<br />
+{%- for hat in item.hatások if item.hatások and True == hat.enabled  -%}
+{{ sentence_case(hat.név) }}: {{ hat.érték }}
+{%- if hat.text -%}
+ ({{ hat.text }})
+{%- endif -%}
+<br />
+{%- endfor -%}
+ |
+{% endfor %}
 
 <br />
 
 **Megjegyzések**
 
-- lorem ipsum dorem amet lorem ipsum dorem amet lorem ipsum dorem 🗡️ amet
-- lorem ipsum dorem amet lorem ipsum dorem amet lorem ipsum dorem 🗡️ amet
-
+{% for megjegyzés in megjegyzések -%}
+- {{ megjegyzés.text }}
+{% endfor %}
 <br />
 
 ---
