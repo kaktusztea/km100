@@ -9,6 +9,6 @@ template_path =  sys.argv[2]
 context = sys.argv[3]
 outputfile = sys.argv[4]
 
-jh = jinjaHandler.JinjaHandler(template_dir=template_dir, template_path=template_path, context=context)
+jh = JinjaHandler.JinjaHandler(template_dir=template_dir, template_path=template_path, context=context)
 
 jh.render_write(outputfile=outputfile)
