@@ -34,9 +34,9 @@ képzettségek:
       régió: ""         # Táblázatban összeállítható: {képzettségnév} ({régió})
     - átfogó: 0
       terület: "Ynev"
-      unique: True
+      unique: True      # Nem lehet több "átfogó" típusú. Csekkoláshoz kell ez a flag
   vallásismeret:
-    - spec: 3
+    - spec: 3                # TODO: ez tuti spec?
       vallás: "saját vallás"
     - átlagos: 0
       hitvilág: ""

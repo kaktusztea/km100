@@ -35,7 +35,7 @@ fokok:
       - név: "sikeres manőver"
         enabled: True
         érték: "belharcba kerülés"
-        típus: 5              # akció típus
+        típus: 5              # akció típus                    ## TODO (változnak a sorszámok)
         text: "Csak akkor járnak a bónuszok, ha már benn vagy belharcban"
     hatástext: "Belharcban az említett bónuszok járnak számodra."
     hatások:                  # Ha nem számszerűsíthetőek, akkor a 'hatástext' mezőt töltsd csak ki, a 'hatások' legyen üres.
