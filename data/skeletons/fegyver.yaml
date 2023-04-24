@@ -1,5 +1,6 @@
 - fegyver: xyz          # fegyver neve. Pl. "kard, hosszú"
-  enabled: True         # használjuk -e ezt a fegyvert a rendszerben? Ha pl. kidolgozatlan, tilthatjuk.
+  version: 1            # a fegyver séma verziója
+  stage: ""             # alpha, beta, prod // alpha: változhat struktúrálisan, beta: kész, de még nem mehet prod-ba
   típus:                # egykezes / kétkezes
   KÉ: -1                # fegyver Kezdeményező Értéke (KÉ)
   TÉ: -1                # fegyver Támadó Értéke (TÉ)

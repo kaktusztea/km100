@@ -1,4 +1,5 @@
 név: ""
+version: 1                     # a kepzettseg séma verziója
 stage: ""                      # alpha, beta, prod // alpha: változhat struktúrálisan, beta: kész, de még nem mehet prod-ba
 csoport: ""                    # lásd konstansok.yaml / képzettség.csoportok
 kategóriák:

@@ -1,5 +1,6 @@
 ---
 név: "belharc"
+version: 1
 stage: "alpha"
 maxfok: 2
 csoport: "harci"

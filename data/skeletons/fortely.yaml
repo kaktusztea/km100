@@ -1,4 +1,5 @@
 név: ""
+version: 1                    # a fortely séma verziója
 stage: ""                     # alpha, beta, prod // alpha: változhat struktúrálisan, beta: kész, de még nem mehet prod-ba
 maxfok: 2
 csoport: ""                   # lásd konstansok.yaml / fortély.csoportok
