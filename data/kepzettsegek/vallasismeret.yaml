@@ -1,18 +1,20 @@
 név: "Vallásismeret"
+version: 1                     # a kepzettseg séma verziója
+stage: ""                      # alpha, beta, prod // alpha: változhat struktúrálisan, beta: kész, de még nem mehet prod-ba
 csoport: "tudományos"         # lásd konstansok.yaml
 kategóriák:
 - név: "spec"
   enabled: True
   property: "vallás"
-  leírás: "Egy adott isten ismerete"
+  text: "Egy adott isten ismerete"
 - név: "átlagos"
   enabled: True
   property: "hitvilág"
-  leírás: "Egy adott hitvilág ismerete"
+  text: "Egy adott hitvilág ismerete"
 - név: "átfogó"
   enabled: True
   property: "terület"
-  leírás: "Minden panteon, Ynev összes vallásának ismerete"
+  text: "Minden panteon, Ynev összes vallásának ismerete"
 szintek:
 - szint: 3
   követelmények:

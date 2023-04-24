@@ -6,15 +6,15 @@ kategóriák:
 - név: "spec"
   enabled: False               # Létezik -e ennek a képzettségnek ilyen kategóriája. Pl. ha ez egy tisztán "átlagos" képzettség, akkor nincs 'spec' kategóriája.
   property: ""
-  leírás: ""
+  text: ""
 - név: "átlagos"
   enabled: True
   property: ""
-  leírás: ""
+  text: ""
 - név: "átfogó"
   enabled: False
   property: ""
-  leírás: ""
+  text: ""
 szintek:
 - szint: 3
   követelmények:

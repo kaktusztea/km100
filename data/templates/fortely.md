@@ -14,7 +14,7 @@
 {%- else -%}
 Alapeset |
 {%- endif %}
-{{- item.követelménytext -}}<br />
+{{- item.követelménytext -}} {{ "<br />" if item.követelménytext }}
 {%- for kov in item.követelmények if item.követelmények and True == kov.enabled -%}
 {{ sentence_case(kov.név) }}: {{ kov.érték }}
 {%- if kov.text -%}
@@ -22,7 +22,9 @@ Alapeset |
 {%- endif -%}
 <br />
 {%- endfor -%}
- | {{- item.hatástext -}}<br />
+ | {%- for hattext in item.hatástext if item.hatástext -%}
+{{ hattext.text }}<br />
+{%- endfor -%}
 {%- for hat in item.hatások if item.hatások and True == hat.enabled  -%}
 {{ sentence_case(hat.név) }}: {{ hat.érték }}
 {%- if hat.text -%}
@@ -32,7 +34,6 @@ Alapeset |
 {%- endfor -%}
  |
 {% endfor %}
-
 <br />
 
 **Megjegyzések**

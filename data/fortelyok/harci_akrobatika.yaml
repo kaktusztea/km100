@@ -1,0 +1,50 @@
+név: "Harci akrobatika"
+version: 1
+stage: "alpha"
+maxfok: 2
+csoport: "harci"
+leírás: "„Pattog, mint a nikkelbolha” - mondják, ha harcolni látnak. Küzdelem közben akrobatikus elemeket – ugrásokat, vetődéseket, pörgéseket – alkalmazol, amelyek előnyhöz juttatnak a földhözragadt kis senkik ellen..."
+megjegyzések:
+  - text: "**Fegyverek**: A forgatott fegyverek össz pengehossza nem lehet nagyobb, mint `1 penge` (Például 1db hosszú kard, vagy 2db rövidkard), továbbá súlyuk is fontos tényező (KM dönt)."
+  - text: "**Vértek**: a fortély csak olyan hajlékony, könnyű, nem‑fém vértben használható, melynek nem nagyobb MGT-je ⭕X⭕-nél."
+  - text: "**Alkalmazás**:  ha olyan a szituáció, hogy az alkalmazó nem képes, vagy nem akarja alkalmazni harca közben ezt a stílust (pl. túl feltűnő lenne az ugrabugrálása), akkor nem kapja meg a leírt bónuszokat."
+  - text: "**Helyigény**: a KM dönt, hogy van-e elég hely az alkalmazáshoz, de ne legyen túl szigorú; egy közepes szobában is alkalmazható (falra ugrás, elrugaszkodás, stb)."
+fokok:
+  - fok: 1
+    status: ✅
+    követelménytext: ""
+    követelmények:
+      - név: "ügyesség"
+        enabled: True
+        érték: 2
+        típus: 1
+        text: ""
+      - név: "akrobatika"
+        enabled: True
+        érték: 4
+        típus: 2     # képzettség
+        text: ""
+    hatástext:
+      - text: "Az **Akrobatika** képzettséged `felét` hozzáadhatod bónuszként `TÉ/VÉ` értékeidhez."
+  - fok: 2
+    status: ✅
+    követelménytext: ""
+    követelmények:
+      - név: "ügyesség"
+        enabled: True
+        érték: 4
+        típus: 1
+        text: ""
+      - név: "gyorsaság"
+        enabled: True
+        érték: 3
+        típus: 1
+        text: ""
+      - név: "akrobatika"
+        enabled: True
+        érték: 8
+        típus: 2
+        text: ""
+    hatástext:
+    - text: "Az **Akrobatika** képzettségedet `1:1` hozzáadhatod bónuszként `TÉ/VÉ` értékeidhez."
+    - text: "🗡️ **Kibontakozás/Átsiklás** manőverre `+3` bónuszt kapsz."

@@ -15,7 +15,7 @@ codes:
 - MFP: 59
 
 - átütés: 511            # fegyverek
-- sebzés.mód: 512           # S, V, Z (szúró / vágó / zúzó)
+- sebzés.mód: 512        # S, V, Z (szúró / vágó / zúzó)
 - íves.fegyver: 513
 - másfélkezes: 514
 - pengehossz: 515

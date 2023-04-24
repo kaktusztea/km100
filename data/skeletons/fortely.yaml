@@ -11,7 +11,8 @@ fokok:
     status:                   # fejlesztéhez segítség: az adott fok kidolgozottsági állapotát jelzi. piros kör: fékész, zöld pipa: kész
     követelménytext: ""
     követelmények:
-    hatástext: ""
+    hatástext:
+      - text: ""
     hatások:
   - fok: 1
     status:
@@ -22,7 +23,8 @@ fokok:
         érték: 0
         típus: 0              # lásd: konstansok.yaml
         text: ""
-    hatástext: ""
+    hatástext:
+      - text: ""
     hatások:                  # Ha nem számszerűsíthetőek, akkor csak a 'hatástext' mezőt töltsd ki, a 'hatások' legyen üres.
       - név: xyxy             # ebből több entry lehet
         enabled: True         # ez a hatás aktív, itt letiltható (akár csak ideiglenesen, tesztelési céllal)

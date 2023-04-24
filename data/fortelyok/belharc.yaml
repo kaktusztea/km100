@@ -11,88 +11,41 @@ megjegyzések:
 fokok:
   - fok: 1
     status: ✅
-    követelménytext: "Ezen feltételeknek teljesülniük kell"     # Általános szöveges követelmény erre a fokra. Lehet előtörténeti jellegű is.
+    követelménytext: ""
     követelmények:
       - név: "ügyesség"
         enabled: True
-        érték: 1
-        típus: 1            # 1: tulajdonság, 2: képzettség, 3: fortély, 4: tradíció, 52: akció { sikeres támadás, sebző támadás, sikeres manőver }
-        text: "csak tolvajoknak!"
-      - név: "gyorsaság"
-        enabled: True
-        érték: 1
+        érték: 2
         típus: 1
         text: ""
-      - név: "közelharc"
+      - név: "akrobatika"
         enabled: True
-        érték: 6            # képzettségnél ez 'szint'
-        típus: 2            # képzettség
+        érték: 4
+        típus: 2
         text: ""
-      - név: "sikeres manőver"
-        enabled: True
-        érték: "belharcba kerülés"
-        típus: 5              # akció típus                    ## TODO (változnak a sorszámok)
-        text: "Csak akkor járnak a bónuszok, ha már benn vagy belharcban"
-    hatástext: "Belharcban az említett bónuszok járnak számodra."
-    hatások:                  # Ha nem számszerűsíthetőek, akkor a 'hatástext' mezőt töltsd csak ki, a 'hatások' legyen üres.
-      - név: KÉ
-        enabled: False
-        érték: +2             # bónusz
-        típus: 51             # 1: tulajdonság, 2: képzettség, 51: HM, 71: pszipont, 81: manapont
-        text: ""
-      - név: TÉ
-        enabled: True
-        érték: +3
-        típus: 51
-        text: ""
-      - név: VÉ
-        enabled: True
-        érték: +3
-        típus: 51
-        text: ""
+    hatástext:
+      - text: "Az **Akrobatika** képzettséged `felét` hozzáadhatod bónuszként `TÉ/VÉ` értékeidhez."
+    hatások: ""
   - fok: 2
     status: ✅
     követelménytext: ""
     követelmények:
       - név: "ügyesség"
         enabled: True
-        érték: 2
-        típus: 1            # 1: tulajdonság, 2: képzettség, 3: fortély, 4: tradíció, 52: akció { sikeres támadás, sebző támadás, sikeres manőver }
+        érték: 4
+        típus: 1
         text: ""
       - név: "gyorsaság"
         enabled: True
-        érték: 2
+        érték: 3
         típus: 1
         text: ""
-      - név: "közelharc"
+      - név: "akrobatika"
         enabled: True
-        érték: 9
+        érték: 8
         típus: 2
         text: ""
-      - név: "Mesterfegyver"
-        enabled: True
-        érték: 1
-        típus: 3            # fortély típus
-        text: "A használt fegyverre"
-      - név: "sikeres manőver"
-        enabled: True
-        érték: "Csak akkor járnak a bónuszok, ha már benn vagy belharcban"
-        típus: 5
-        text: ""
-    hatástext: "Belharcban az említett bónuszok járnak számodra."
-    hatások:                  # Ha nem számszerűsíthetőek, akkor a 'hatástext' mezőt töltsd csak ki, a 'hatások' legyen üres.
-      - név: KÉ
-        enabled: True
-        érték: +2             # bónusz
-        típus: 51             # 1: tulajdonság, 2: képzettség, 51: HM, 71: pszipont, 81: manapont
-        text: "minden második körben"
-      - név: TÉ
-        enabled: True
-        érték: +3
-        típus: 51
-        text: ""
-      - név: VÉ
-        enabled: True
-        érték: +3
-        típus: 51
-        text: "csak védekező harcban!"
+    hatástext:
+      - text: "Az **Akrobatika** képzettségedet `1:1` hozzáadhatod bónuszként `TÉ/VÉ` értékeidhez."
+      - text: "🗡️ **Kibontakozás/Átsiklás** manőverre `+3` bónuszt kapsz."
+    hatások: ""
