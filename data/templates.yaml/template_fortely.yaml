@@ -1,4 +1,5 @@
 név: ""
+stage: ""                     # alpha, beta, prod // alpha: változhat struktúrálisan, beta: kész, de még nem mehet prod-ba
 maxfok: 2
 csoport: ""                   # lásd konstansok.yaml / fortély.csoportok
 leírás: ""
@@ -27,4 +28,3 @@ fokok:
         érték: 0              # bónusz
         típus: 0              # lásd: konstansok.yaml
         text: ""              # az adott hatás szöveges leírása (ha szükséges)
- 

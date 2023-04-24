@@ -1,5 +1,6 @@
 ---
 név: "belharc"
+stage: "alpha"
 maxfok: 2
 csoport: "harci"
 leírás: "Testközelben érzed igazában elemedben magad. Sikeres 🗡️ Belharcba kerülés manőver esetén 🗡️ Belharci szituációba kerülsz és harcértékeidre – csak „Közelharc” harcmodor esetén – a következő pluszok járnak."
@@ -7,12 +8,6 @@ megjegyzések:
   - text: "Ezt a fortélyt konkrét fegyverre (Puszta kéz is ide tartozik) kell felvenni, csak annak használatakor járnak a bónuszok. A Belharcot így többször is fel lehet venni - különböző fegyverekre."
   - text: "Az ellenfél módosítóinak változását lásd a Harcrendszer fejezet ⭕„Belharc” harci taktika leírásánál!"
 fokok:
-  - fok: 0                   # alapeset
-    status: ✅               # TODO: ⭕ / Done: ✅
-    követelménytext: ""
-    követelmények: ""
-    hatástext: ""
-    hatások: ""
   - fok: 1
     status: ✅
     követelménytext: "Ezen feltételeknek teljesülniük kell"     # Általános szöveges követelmény erre a fokra. Lehet előtörténeti jellegű is.

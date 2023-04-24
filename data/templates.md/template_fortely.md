@@ -18,7 +18,7 @@ Alapeset |
 {%- for kov in item.követelmények if item.követelmények and True == kov.enabled -%}
 {{ sentence_case(kov.név) }}: {{ kov.érték }}
 {%- if kov.text -%}
- ({{ kov.text }})
+{{" "}} ({{ kov.text }})
 {%- endif -%}
 <br />
 {%- endfor -%}
@@ -26,7 +26,7 @@ Alapeset |
 {%- for hat in item.hatások if item.hatások and True == hat.enabled  -%}
 {{ sentence_case(hat.név) }}: {{ hat.érték }}
 {%- if hat.text -%}
- ({{ hat.text }})
+{{" "}} ({{ hat.text }})
 {%- endif -%}
 <br />
 {%- endfor -%}
