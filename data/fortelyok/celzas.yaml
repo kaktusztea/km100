@@ -1,0 +1,39 @@
+név: "célzás"
+version: 1
+stage: "beta"
+maxfok: 1
+csoport: "harci"
+leírás: "Rövidebb idő alatt felméred a szelet, a távolságot és a többi változót, ami lövésedet segíti, vagy gátolja - mikor kitartod célzással lövésedet."
+megjegyzések:
+  - text: "A **Célzás** csak kiszámíthatóan mozgó cél ellen alkalmazható."
+  - text: "Íjat legfeljebb `1` körig tarthatsz ki, utána minden további kör nemhogy javít, de ront a találati esélyeken (körönként ugyanennyit)."
+fokok:
+  - fok: 0
+    status: ✅
+    követelménytext: ""
+    követelmények: ""
+    hatástext:
+      - text: "1 célzással eltöltött kör után `+10 CÉ` módosítót kapsz."
+    hatások: ""
+  - fok: 1
+    status: ✅
+    követelménytext: ""
+    követelmények:
+      - név: "önuralom"
+        enabled: True
+        érték: 1
+        típus: 1
+        text: ""
+      - név: "hajítás,íjászat,lövészet"  # VAGY kapcsolat
+        enabled: True
+        érték: 5
+        típus: 2
+        text: ""
+      - név: "összpontosítás"
+        enabled: True
+        érték: 4
+        típus: 2
+        text: ""
+    hatástext:
+      - text: "`1` célzással eltöltött kör után ⭕`+20 CÉ`⭕ módosítót kapsz. Nem additív."
+    hatások: ""

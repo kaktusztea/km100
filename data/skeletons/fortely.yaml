@@ -18,7 +18,7 @@ fokok:
     status:
     követelménytext: ""       # Általános szöveges követelmény erre a fokra. Lehet előtörténeti jellegű is.
     követelmények:
-      - név: "xxx"            # ebből több entry lehet
+      - név: "xxx"            # ebből több entry lehet. Lehet vesszővel ellátott lista, ami VAGY kapcsolat:  név: "hajítás,íjászat,lövészet"
         enabled: True         # Ez a követelmény aktív, itt letiltható (akár csak ideiglenesen, tesztelési céllal). Normál állapot: True
         érték: 0
         típus: 0              # lásd: konstansok.yaml
