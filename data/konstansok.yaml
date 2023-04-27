@@ -1,5 +1,5 @@
 ---
-codes:
+code:
 - tulajdonság: 1
 - képzettség: 2
 - fortély: 3
@@ -23,7 +23,8 @@ codes:
 
 - sikeres.támadás: 552   # akciók
 - sebző.támadás: 553
-- sikeres manőver: 554
+- sikeres.manőver: 554   # esemény
+- manőver: 555           # egy konkrét manőverre vonatkozó érték dobásnál
 
 - pszipont: 71
 - manapont: 81

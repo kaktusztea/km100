@@ -7,18 +7,24 @@ leírás: ""
 megjegyzések:
   - text: ""                  # Ebből lehet több entry
 fokok:
-  - fok: 0                    # alapeset
-    status:                   # fejlesztéhez segítség: az adott fok kidolgozottsági állapotát jelzi. piros kör: fékész, zöld pipa: kész
+  - fok: 0                    # 0 == alapeset
+    status:                   # ⭕/✅ fejlesztéhez segítség: az adott fok kidolgozottsági állapotát jelzi. piros kör: fékész, zöld pipa: kész
     követelménytext: ""
     követelmények:
     hatástext:
-      - text: ""
-    hatások:
+      - text: ""              # Ebből lehet több entry
+    hatások: ""
+    kombihatások: ""
   - fok: 1
     status:
     követelménytext: ""       # Általános szöveges követelmény erre a fokra. Lehet előtörténeti jellegű is.
     követelmények:
-      - név: "xxx"            # ebből több entry lehet. Lehet vesszővel ellátott lista, ami VAGY kapcsolat:  név: "hajítás,íjászat,lövészet"
+      - név: "xxx"            # ebből több entry lehet.
+        enabled: True         # Ez a követelmény aktív, itt letiltható (akár csak ideiglenesen, tesztelési céllal). Normál állapot: True
+        érték: 0
+        típus: 0              # lásd: konstansok.yaml
+        text: ""
+      - név: "abc|def|ghi"    # | == VAGY kapcsolat, pl: "hajítás VAGY íjászat VAGY lövészet". ÉS kapcsolat nincs, arra csináljunk egy új rekordot.
         enabled: True         # Ez a követelmény aktív, itt letiltható (akár csak ideiglenesen, tesztelési céllal). Normál állapot: True
         érték: 0
         típus: 0              # lásd: konstansok.yaml
@@ -26,8 +32,16 @@ fokok:
     hatástext:
       - text: ""
     hatások:                  # Ha nem számszerűsíthetőek, akkor csak a 'hatástext' mezőt töltsd ki, a 'hatások' legyen üres.
-      - név: xyxy             # ebből több entry lehet
+      - név: "xyxy"           # ebből több entry lehet
         enabled: True         # ez a hatás aktív, itt letiltható (akár csak ideiglenesen, tesztelési céllal)
         érték: 0              # bónusz
         típus: 0              # lásd: konstansok.yaml
         text: ""              # az adott hatás szöveges leírása (ha szükséges)
+    kombihatások:             # Kombinált hatások. Egyik érték valamilyen aránya ad bónuszt egy másikra. Lehet üres ("").
+      - forrásnév: "efg"      # ebből több entry lehet
+        enabled: True         # ez a hatás aktív, itt letiltható (akár csak ideiglenesen, tesztelési céllal)
+        típus: 0              # lásd: konstansok.yaml
+        bónuszarány: 0        # Pl. 0.5, 1, 2, -1
+        célnév: "bnm"         # 
+        céltípus: 0           # lásd: konstansok.yaml
+        text: ""              # az adott kombinált hatás szöveges leírása (ha szükséges)

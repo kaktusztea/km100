@@ -13,8 +13,9 @@ fokok:
     követelménytext: ""
     követelmények: ""
     hatástext:
-      - text: "1 célzással eltöltött kör után `+10 CÉ` módosítót kapsz."
+      - text: "1 célzással eltöltött kör után `+10 CÉ` módosítót kapsz."
     hatások: ""
+    kombihatások: ""
   - fok: 1
     status: ✅
     követelménytext: ""
@@ -24,7 +25,7 @@ fokok:
         érték: 1
         típus: 1
         text: ""
-      - név: "hajítás,íjászat,lövészet"  # VAGY kapcsolat
+      - név: "hajítás|íjászat|lövészet"  # VAGY kapcsolat
         enabled: True
         érték: 5
         típus: 2
@@ -37,3 +38,5 @@ fokok:
     hatástext:
       - text: "`1` célzással eltöltött kör után ⭕`+20 CÉ`⭕ módosítót kapsz. Nem additív."
     hatások: ""
+    kombihatások: ""
+

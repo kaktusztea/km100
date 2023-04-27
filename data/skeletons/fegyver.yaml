@@ -11,7 +11,7 @@
     TÉ: 0
     VÉ: 0
     SP: 0
-  sebésmód: S           # S / V / Z  (Szúró, Vágó, Zúzó). Lehet több is (pl. S/V), a sorrend adja meg h elsődleges/másodlagos
+  sebésmód: S           # S / V / Z  (Szúró, Vágó, Zúzó). Lehet több is (pl. S/V), a sorrend adja meg hogy elsődleges/másodlagos
   átütés: 0             # 0: nincs, X: ennyi SFÉ-t visz át
   íves: False           # true/false. Íves fegyver -e. Ha igen, vért nélküli ellenfeleknél bónusz jár.
   anyag: ""             # acél, bronz, abbitacél, mithrill, lunír
