@@ -4,3 +4,4 @@
 .obsidian
 .~lock*
 __pycache__
+.vscode

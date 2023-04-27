@@ -16,7 +16,10 @@ Alapeset |
 {%- endif %}
 {{- item.követelménytext -}} {{ "<br />" if item.követelménytext }}
 {%- for kov in item.követelmények if item.követelmények and True == kov.enabled -%}
-{{ sentence_case(kov.név) }}: {{ kov.érték }}
+{{ sentence_case(kov.név) }}: {{ kov.érték -}}
+{%- if kov.típus == 2 -%}
+.szint
+{%- endif -%}
 {%- if kov.text -%}
 {{" "}} ({{ kov.text }})
 {%- endif -%}
