@@ -4,7 +4,7 @@ version: 1
 stage: "beta"
 maxfok: 2
 csoport: "harci"
-leírás: "Testközelben érzed igazában elemedben magad. Sikeres 🗡️ Belharcba kerülés manőver esetén 🗡️ Belharci szituációba kerülsz és harcértékeidre - csak „Közelharc” harcmodor esetén – a következő pluszok járnak."
+leírás: "Testközelben érzed igazában elemedben magad.<br />Sikeres 🗡️Belharcba kerülés🗡️ manőver esetén 🗡️Belharci szituációba🗡️ kerülsz és harcértékeidre - csak **Közelharc** harcmodor esetén - a lent leírt pluszok járnak."
 megjegyzések:
   - text: "Ezt a fortélyt konkrét fegyverre (Puszta kéz is ide tartozik) kell felvenni, csak annak használatakor járnak a bónuszok. A Belharcot így többször is fel lehet venni - különböző fegyverekre."
   - text: "Az ellenfél módosítóinak változását lásd a Harcrendszer fejezet ⭕„Belharc” harci taktika leírásánál!"
@@ -15,72 +15,77 @@ fokok:
     követelmények:
       - név: "ügyesség"
         enabled: True
-        érték: 2
+        érték: 1
         típus: 1
         text: ""
-      - név: "akrobatika"
+      - név: "gyorsaság"
         enabled: True
-        érték: 4
-        típus: 2
+        érték: 1
+        típus: 1
+        text: ""
+      - név: "közelharc"
+        enabled: True
+        érték: 6
+        típus: 2   # képzettség
         text: ""
     hatástext:
-      - text: "Testközelben érzed igazában elemedben magad.<br />Sikeres „Belharcba kerülés” manőver esetén Belharci szituációba kerülsz és harcértékeidre a következő pluszok járnak:"
-    hatások: ""
-    kombihatások:
-      - forrásnév: "akrobatika"
+      - text: ""
+    hatások:
+      - név: "KÉ"
         enabled: True
-        típus: 2         # képzettség
-        bónuszarány: 0.5
-        célnév: "TÉ"     # Harcérték esetén a 'céltípus' számít, ilyenkor ez csak text
-        céltípus: 52     # TÉ
+        érték: 2
+        típus: 51  # KÉ
         text: ""
-      - forrásnév: "akrobatika"
+      - név: "TÉ"
         enabled: True
-        típus: 2
-        bónuszarány: 0.5
-        célnév: "VÉ"     # Harcérték esetén a 'céltípus' számít, ilyenkor ez csak text
-        céltípus: 53     # VÉ
+        érték: 3
+        típus: 52  # TÉ
         text: ""
+      - név: "VÉ"
+        enabled: True
+        érték: 3
+        típus: 53  # VÉ
+        text: ""
+    kombihatások: ""
   - fok: 2
     status: ✅
     követelménytext: ""
     követelmények:
       - név: "ügyesség"
         enabled: True
-        érték: 4
+        érték: 2
         típus: 1
         text: ""
       - név: "gyorsaság"
         enabled: True
-        érték: 3
+        érték: 2
         típus: 1
         text: ""
-      - név: "akrobatika"
+      - név: "közelharc"
         enabled: True
-        érték: 8
+        érték: 9
         típus: 2
         text: ""
-    hatástext:
-      - text: "Az **Akrobatika** képzettségedet `1:1` hozzáadhatod bónuszként `TÉ/VÉ` értékeidhez."
-      - text: "🗡️ **Kibontakozás/Átsiklás** manőverre `+3` bónuszt kapsz."
+      - név: "mesterfegyver"
+        enabled: True
+        érték: 1
+        típus: 3  # fortély
+        text: "használt fegyverre"
+    hatástext: ""
     hatások:
-      - név: "Kibontakozás/Átsiklás"
+      - név: "KÉ"
         enabled: True
-        érték: 3         # dobás bónusz
-        típus: 555       # manőver
+        érték: 4
+        típus: 51  # KÉ
         text: ""
-    kombihatások:
-      - forrásnév: "akrobatika"
+      - név: "TÉ"
         enabled: True
-        típus: 2         # képzettség
-        bónuszarány: 1   # 1:1
-        célnév: "TÉ"     # Harcérték esetén a 'céltípus' számít, ilyenkor ez csak text
-        céltípus: 52     # TÉ
+        érték: 6
+        típus: 52  # TÉ
         text: ""
-      - forrásnév: "akrobatika"
+      - név: "VÉ"
         enabled: True
-        típus: 2
-        bónuszarány: 1   # 1:1
-        célnév: "VÉ"     # Harcérték esetén a 'céltípus' számít, ilyenkor ez csak text
-        céltípus: 53     # VÉ
+        érték: 6
+        típus: 53  # VÉ
         text: ""
+    kombihatások: ""

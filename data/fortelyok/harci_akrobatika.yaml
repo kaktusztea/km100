@@ -19,6 +19,11 @@ fokok:
         érték: 2
         típus: 1
         text: ""
+      - név: "gyorsaság"
+        enabled: True
+        érték: 2
+        típus: 1
+        text: ""
       - név: "akrobatika"
         enabled: True
         érték: 4
@@ -26,8 +31,27 @@ fokok:
         text: ""
     hatástext:
       - text: "Az **Akrobatika** képzettséged `felét` hozzáadhatod bónuszként `TÉ/VÉ` értékeidhez."
-    hatások: ""
-    kombihatások: ""      
+    hatások:
+      - név: "Kibontakozás/Átsiklás"
+        enabled: True
+        érték: 1         # dobás bónusz
+        típus: 555       # manőver
+        text: ""
+    kombihatások:
+      - forrásnév: "akrobatika"
+        enabled: True
+        típus: 2         # képzettség
+        bónuszarány: 0.5
+        célnév: "TÉ"     # Harcérték esetén a 'céltípus' számít, ilyenkor ez csak text
+        céltípus: 52     # TÉ
+        text: ""
+      - forrásnév: "akrobatika"
+        enabled: True
+        típus: 2
+        bónuszarány: 0.5
+        célnév: "VÉ"     # Harcérték esetén a 'céltípus' számít, ilyenkor ez csak text
+        céltípus: 53     # VÉ
+        text: ""
   - fok: 2
     status: ✅
     követelménytext: ""
@@ -50,12 +74,24 @@ fokok:
     hatástext:
     - text: "Az **Akrobatika** képzettségedet `1:1` hozzáadhatod bónuszként `TÉ/VÉ` értékeidhez."
     - text: "🗡️ **Kibontakozás/Átsiklás** manőverre `+3` bónuszt kapsz."
-    hatások: ""
+    hatások:
+      - név: "Kibontakozás/Átsiklás"
+        enabled: True
+        érték: 3         # dobás bónusz
+        típus: 555       # manőver
+        text: ""
     kombihatások:
-    - forrásnév: Akrobatika
-      enabled: True
-      típus: 0
-      bónuszarány: 0      # Pl. 0.5, 1, 2
-      célnév: ""          # sima esetén: üres, kölcsönös esetén: cél érték neve
-      céltípus: 52
-      text: ""
+      - forrásnév: "akrobatika"
+        enabled: True
+        típus: 2         # képzettség
+        bónuszarány: 1
+        célnév: "TÉ"     # Harcérték esetén a 'céltípus' számít, ilyenkor ez csak text
+        céltípus: 52     # TÉ
+        text: ""
+      - forrásnév: "akrobatika"
+        enabled: True
+        típus: 2
+        bónuszarány: 1
+        célnév: "VÉ"     # Harcérték esetén a 'céltípus' számít, ilyenkor ez csak text
+        céltípus: 53     # VÉ
+        text: ""
