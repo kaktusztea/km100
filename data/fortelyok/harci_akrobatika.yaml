@@ -1,7 +1,7 @@
 ---
 név: "harci akrobatika"
 névkomment: ""
-version: 1
+skeleton_version: 1
 stage: "beta"
 maxfok: 2
 csoport: "harci"

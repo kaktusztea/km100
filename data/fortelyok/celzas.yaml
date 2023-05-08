@@ -1,7 +1,7 @@
 ---
 név: "célzás"
 névkomment: ""
-version: 1
+skeleton_version: 1
 stage: "beta"
 maxfok: 1
 csoport: "harci"

@@ -1,5 +1,5 @@
 név: ""
-version: 1              # a karakter séma verziója
+skeleton_version: 1         # a karakter séma (skeleton) verziója
 faj: ""
 vallás: ""
 személyiségjegyek: ""
