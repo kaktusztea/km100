@@ -1,12 +1,10 @@
 #### 🟣 Célzás (1)
-
 Rövidebb idő alatt felméred a szelet, a távolságot és a többi változót, ami lövésedet segíti, vagy gátolja - mikor kitartod célzással lövésedet.
 
 | |  Követelmény | Hatás  |
-| :----------- | :-----------: | :----------- |
-| Alapeset| - | 1 célzással eltöltött kör után `+10 CÉ` módosítót kapsz. |
-| 1.fok | Önuralom +1<br />Hajítás/Íjászat/Lövészet&nbsp;–&nbsp;5.szint<br />Összpontosítás&nbsp;–&nbsp;4.szint | `1` célzással eltöltött kör után ⭕`+20 CÉ`⭕ módosítót kapsz. Nem additív. |
-
+| :----------- | :----------- | :----------- |
+| Alapeset || `1` célzással eltöltött kör után `+10 CÉ` módosítót kapsz. <br />|
+| 1.fok | Önuralom:&nbsp;+1<br /> Hajítás_íjászat_lövészet:&nbsp;5.szint<br /> Összpontosítás:&nbsp;4.szint<br />| `1` célzással eltöltött kör után ⭕`+20 CÉ`⭕ módosítót kapsz. Nem additív. <br />|
 
 <br />
 

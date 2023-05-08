@@ -1,4 +1,5 @@
 név: ""
+névkomment: ""                # a név melletti opcionális kiegészítő szöveg
 version: 1                    # a fortely séma verziója
 stage: ""                     # alpha, beta, prod // alpha: változhat struktúrálisan, beta: kész, de még nem mehet prod-ba
 maxfok: 2
@@ -24,7 +25,7 @@ fokok:
         érték: 0
         típus: 0              # lásd: konstansok.yaml
         text: ""
-      - név: "abc|def|ghi"    # | == VAGY kapcsolat, pl: "hajítás VAGY íjászat VAGY lövészet". ÉS kapcsolat nincs, arra csináljunk egy új rekordot.
+      - név: "abc_def_ghi"    # _ == VAGY kapcsolat, pl: "hajítás VAGY íjászat VAGY lövészet". ÉS kapcsolat nincs, arra csináljunk egy új rekordot.
         enabled: True         # Ez a követelmény aktív, itt letiltható (akár csak ideiglenesen, tesztelési céllal). Normál állapot: True
         érték: 0
         típus: 0              # lásd: konstansok.yaml
@@ -42,6 +43,6 @@ fokok:
         enabled: True         # ez a hatás aktív, itt letiltható (akár csak ideiglenesen, tesztelési céllal)
         típus: 0              # lásd: konstansok.yaml
         bónuszarány: 0        # Pl. 0.5, 1, 2, -1
-        célnév: "bnm"         # 
+        célnév: "bnm"         #
         céltípus: 0           # lásd: konstansok.yaml
         text: ""              # az adott kombinált hatás szöveges leírása (ha szükséges)
