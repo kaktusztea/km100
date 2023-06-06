@@ -1,7 +1,7 @@
 név: "alakzatharc"
 névkomment: "spec."
 skeleton_version: 2
-stage: "beta"
+stage: "alpha"
 maxfok: 2
 többszörösség:
   - enabled: True
