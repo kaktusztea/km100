@@ -1,9 +1,13 @@
 ---
 név: "harci akrobatika"
 névkomment: ""
-skeleton_version: 1
+skeleton_version: 2
 stage: "beta"
 maxfok: 2
+többszörösség:
+  - enabled: False
+    jellemzőtípus: ""
+    jellemzőlista: ""
 csoport: "harci"
 leírás: "„Pattog, mint a nikkelbolha” - mondják, ha harcolni látnak. Küzdelem közben akrobatikus elemeket - ugrásokat, vetődéseket, pörgéseket - alkalmazol, amelyek előnyhöz juttatnak a földhözragadt kis senkik ellen..."
 megjegyzések:
@@ -97,3 +101,5 @@ fokok:
         célnév: "VÉ"     # Harcérték esetén a 'céltípus' számít, ilyenkor ez csak text
         céltípus: 53     # VÉ
         text: ""
+todo:
+  - text: ""

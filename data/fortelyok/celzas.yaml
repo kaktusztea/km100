@@ -1,9 +1,13 @@
 ---
 név: "célzás"
 névkomment: ""
-skeleton_version: 1
+skeleton_version: 2
 stage: "beta"
 maxfok: 1
+többszörösség:
+  - enabled: False
+    jellemzőtípus: ""
+    jellemzőlista: ""
 csoport: "harci"
 leírás: "Rövidebb idő alatt felméred a szelet, a távolságot és a többi változót, ami lövésedet segíti, vagy gátolja - mikor kitartod célzással lövésedet."
 megjegyzések:
@@ -41,3 +45,5 @@ fokok:
       - text: "`1` célzással eltöltött kör után ⭕`+20 CÉ`⭕ módosítót kapsz. Nem additív."
     hatások: ""
     kombihatások: ""
+todo:
+  - text: ""

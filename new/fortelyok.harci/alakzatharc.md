@@ -1,10 +1,10 @@
-#### 🟣 Alakzatharc (spec.)
-
+#### 🟣 Alakzatharc (2) - spec.
 Sok féle alakzat létezik. Gyalogos, kisebb létszámra, nagy, csatatéri formációkra tervezett, valamint lovas alakzatok.
 
-| |  Követelmény | Hatás  |   |
-| :----------- | :-----------: | :----------- | :----------- |
-| spec fok | A társak is ismerjék az adott alakzatot<br />+<br />Alakzat függő, lásd azok leírását! | Az Alakzatharc fortélyt akárhányszor felveheted. Ilyenkor választhatsz `2` olyan alakzatot, melyek megtanulásának követelményeit teljesíteni tudod. |
+| |  Követelmény | Hatás  |
+| :----------- | :----------- | :----------- |
+| 1.fok |A társak is ismerjék az adott alakzatot<br />+<br />Alakzat függő, lásd azok leírását!<br />| Az Alakzatharc fortélyt akárhányszor felveheted. Ilyenkor választhatsz `2` olyan alakzatot, melyek megtanulásának követelményeit teljesíteni tudod. <br />|
+| 2.fok |A társak is ismerjék az adott alakzatot<br />+<br />Alakzat függő, lásd azok leírását!<br />| Az Alakzatharc fortélyt akárhányszor felveheted. Ilyenkor választhatsz `2` olyan alakzatot, melyek megtanulásának követelményeit teljesíteni tudod. <br />|
 
 <br />
 

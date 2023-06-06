@@ -1,9 +1,13 @@
 ---
 név: "belharc"
 névkomment: "adott fegyverre"
-skeleton_version: 1
+skeleton_version: 2
 stage: "beta"
 maxfok: 2
+többszörösség:
+  - enabled: False
+    jellemzőtípus: ""
+    jellemzőlista: ""
 csoport: "harci"
 leírás: "Testközelben érzed igazában elemedben magad.<br />Sikeres 🗡️Belharcba kerülés🗡️ manőver esetén 🗡️Belharci szituációba🗡️ kerülsz és harcértékeidre - csak **Közelharc** harcmodor esetén - a lent leírt pluszok járnak."
 megjegyzések:
@@ -90,3 +94,5 @@ fokok:
         típus: 53  # VÉ
         text: ""
     kombihatások: ""
+todo:
+  - text: ""

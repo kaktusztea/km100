@@ -1,8 +1,12 @@
-név: ""
+név: "alakzatharc"
 névkomment: ""                # a név melletti opcionális kiegészítő szöveg
-skeleton_version: 1           # a fortely séma (skeleton) verziója
+skeleton_version: 2           # a fortely séma (skeleton) verziója
 stage: ""                     # alpha, beta, prod // alpha: változhat struktúrálisan, beta: kész, de még nem mehet prod-ba
 maxfok: 2
+többszörösség:
+  - enabled: ""               # true / false: Engedélyezett -e a fortély többszöri felvétele
+    jellemzőtípus: ""         # Milyen jellemzőlista elemei szerint vehető fel többször. Pl: "harci alakzat"
+    jellemzőlista: ""         # Lista: Pl: "lovas ék; testudo; ..."  (harci alakzatok listája)
 csoport: ""                   # lásd konstansok.yaml / fortély.csoportok
 leírás: ""
 megjegyzések:
@@ -46,3 +50,6 @@ fokok:
         célnév: "bnm"         #
         céltípus: 0           # lásd: konstansok.yaml
         text: ""              # az adott kombinált hatás szöveges leírása (ha szükséges)
+todo:
+  - text: "⭕"
+  - text: "⭕"
