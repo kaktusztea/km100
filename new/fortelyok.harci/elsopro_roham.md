@@ -1,15 +1,16 @@
 #### 🟣 Elsöprő roham (1)
-
 Rutinos rohamozó vagy, jókor, megfelelő helyre csapsz futásból.
 
 | |  Követelmény | Hatás  |
 | :----------- | :----------- | :----------- |
-| 1.fok | Harcmodor&nbsp;-&nbsp;4.szint | Roham esetén KÉ:&nbsp;`+5`<br />Erőbónusz duplázódik. |
+| 1.fok | Közelharc_kardvívás_lándzsavívás_pusztítás:&nbsp;4.szint<br />| Roham esetén: <br />KÉ:&nbsp;`+5`<br />Erőbónusz x 1 → +erőbónusz  (duplázódik)<br />|
 
 <br />
 
 **Megjegyzések**
 
 - Öngyilkos roham esetén a fentiek nem használhatóak.
+
+<br />
 
 ---

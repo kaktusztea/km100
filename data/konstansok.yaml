@@ -20,6 +20,7 @@ code:
 - másfélkezes: 514
 - pengehossz: 515
 - sebesség.fegyver: 516
+- erőbónusz: 517
 
 - sikeres.támadás: 552   # akciók
 - sebző.támadás: 553
@@ -176,5 +177,5 @@ fortély.csoportok: [karma, háttér, mindennapi, alvilági, fizikai, szociális
 képzettség.csoportok: [harci, fizikai, világi, alvilági, tudományos, művészeti, misztikus, vulgármágia, ordani.tűzmágia, bárdmágia, mozaikmágia]
 # ⭕ a mágia csoportokból lehet, hogy hiányzik még pár
 
-kalk:        # Kalkulált értékek ⭕TODO
+kalk:        # Kalkulált értékek ⭕TODO: kell ez ide? Inkább külön kalkulalt_ertekek file képletekkel.
 - erőbónusz: 0

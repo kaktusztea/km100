@@ -1,0 +1,42 @@
+név: "elsöprő roham"
+névkomment: ""
+skeleton_version: 2
+stage: "alpha"
+maxfok: 1
+többszörösség:
+  - enabled: False
+    jellemzőtípus: ""
+    jellemzőlista: ""
+csoport: "harci"
+leírás: "Rutinos rohamozó vagy, jókor, megfelelő helyre csapsz futásból."
+megjegyzések:
+  - text: "Öngyilkos roham esetén a fentiek nem használhatóak."
+fokok:
+  - fok: 1
+    status:
+    követelménytext: ""
+    követelmények:
+      - név: "közelharc_kardvívás_lándzsavívás_pusztítás"  # ⭕
+        enabled: True         # Ez a követelmény aktív, itt letiltható (akár csak ideiglenesen, tesztelési céllal). Normál állapot: True
+        érték: 4
+        típus: 2              # harcmodor ⭕ vagy inkább képzettség?
+        text: ""
+    hatástext:
+      - text: "Roham esetén:"
+    hatások:
+      - név: "KÉ"
+        enabled: True
+        érték: 5
+        típus: 51
+        text: ""
+    kombihatások:
+      - forrásnév: "erőbónusz"
+        enabled: True
+        típus: 517         # erőbónusz
+        bónuszarány: 1     # 1:1-ben hozzáadódik, tehát 2x szorzó
+        célnév: "erőbónusz"
+        céltípus: 517      # erőbónusz
+        text: "duplázódik"
+todo:
+  - text: "⭕ harcmodort lekezelni a követelményeknél."
+  - text: "⭕ esetleg közelharc_kardvívás_pusztítás_... formában?"

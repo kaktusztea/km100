@@ -1,4 +1,4 @@
-név: "alakzatharc"
+név: ""
 névkomment: ""                # a név melletti opcionális kiegészítő szöveg
 skeleton_version: 2           # a fortely séma (skeleton) verziója
 stage: ""                     # alpha, beta, prod // alpha: változhat struktúrálisan, beta: kész, de még nem mehet prod-ba
