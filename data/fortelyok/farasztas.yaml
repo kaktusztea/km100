@@ -1,0 +1,33 @@
+név: "fárasztás"
+névkomment: ""
+skeleton_version: 2
+stage: "beta"
+maxfok: 1
+többszörösség:
+  - enabled: false
+    jellemzőtípus: ""
+    jellemzőlista: ""
+csoport: "harci"
+leírás: "A fortély nagy ismerői a bajvívók és harcosok."
+megjegyzések:
+  - text: "Pusztításban nem alkalmazható"
+  - text: "Közelharc harcmodorban csak szintén Közelharcban küzdő ellenfél ellen alkalmazható"
+fokok:
+  - fok: 1
+    status:
+    követelménytext: ""
+    követelmények:
+      - név: "közelharc_kardvívás_lándzsavívás"
+        enabled: True
+        érték: 6
+        típus: 2              # harcmodor ⭕ vagy inkább képzettség?
+        text: ""
+      - név: "ügyesség"
+        enabled: True
+        érték: 1
+        típus: 1              # tulajdonság
+        text: ""
+    hatástext:
+      - text: "Ha a **Fárasztás** harci taktikát alkalmazod akkor további `+3 VÉ`-t csökkentesz ellenfeleden támadáskor."
+    hatások: ""
+todo: ""
