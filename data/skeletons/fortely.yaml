@@ -43,13 +43,13 @@ fokok:
         típus: 0              # lásd: konstansok.yaml
         text: ""              # az adott hatás szöveges leírása (ha szükséges)
     kombihatások:             # Kombinált hatások. Egyik érték valamilyen aránya ad bónuszt egy másikra. Lehet üres ("").
-      - forrásnév: "efg"      # ebből több entry lehet
+      - forrásnév: "efg"      # A jellemző, ami a bónusz alapja. Ebből is több entry lehet
         enabled: True         # ez a hatás aktív, itt letiltható (akár csak ideiglenesen, tesztelési céllal)
         típus: 0              # lásd: konstansok.yaml
-        bónuszarány: 0        # Pl. 0.5, 1, 2, -1
-        célnév: "bnm"         #
+        bónuszarány: 0        # A forrás-jellemző mekkora része képzi a bónuszt. Pl. 0.5, 1, 2, -1
+        célnév: "bnm"         # A jellemző, amihez a bónusz hozzáadódik.
         céltípus: 0           # lásd: konstansok.yaml
         text: ""              # az adott kombinált hatás szöveges leírása (ha szükséges)
-todo:
+todo:                           # Ha a forrás és cél ugyanaz, akkor 'bónuszarány:1' a jellemző duplázását jelenti.
   - text: "⭕"
   - text: "⭕"

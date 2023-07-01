@@ -3,7 +3,7 @@ Rutinos rohamozó vagy, jókor, megfelelő helyre csapsz futásból.
 
 | |  Követelmény | Hatás  |
 | :----------- | :----------- | :----------- |
-| 1.fok | Közelharc_kardvívás_lándzsavívás_pusztítás:&nbsp;4.szint<br />| Roham esetén: <br />KÉ:&nbsp;`+5`<br />Erőbónusz x 1 → +erőbónusz  (duplázódik)<br />|
+| 1.fok | Közelharc_kardvívás_lándzsavívás_pusztítás:&nbsp;4.szint<br />| Roham esetén: <br />KÉ:&nbsp;`+5`<br />Erőbónusz: x2  (duplázódik)<br />|
 
 <br />
 

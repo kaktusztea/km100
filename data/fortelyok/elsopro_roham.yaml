@@ -17,7 +17,7 @@ fokok:
     követelménytext: ""
     követelmények:
       - név: "közelharc_kardvívás_lándzsavívás_pusztítás"  # ⭕
-        enabled: True         # Ez a követelmény aktív, itt letiltható (akár csak ideiglenesen, tesztelési céllal). Normál állapot: True
+        enabled: True
         érték: 4
         típus: 2              # harcmodor ⭕ vagy inkább képzettség?
         text: ""
@@ -26,7 +26,7 @@ fokok:
     hatások:
       - név: "KÉ"
         enabled: True
-        érték: 5
+        érték: 5   # KÉ bónusz
         típus: 51
         text: ""
     kombihatások:

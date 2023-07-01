@@ -39,7 +39,12 @@ Alapeset |
 <br />
 {%- endfor -%}
 {%- for khat in item.kombihatások if item.kombihatások and True == khat.enabled -%}
+
+{%- if khat.forrásnév == khat.célnév and khat.típus == khat.céltípus -%}
+{{ sentence_case(khat.forrásnév)}}: x{{ khat.bónuszarány+1 }}
+{%- else -%}
 {{ sentence_case(khat.forrásnév) }} x {{ khat.bónuszarány }} → +{{ khat.célnév }}
+{%- endif -%}
 {%- if khat.text -%}
 {{" "}} ({{ khat.text }})
 {%- endif -%}
