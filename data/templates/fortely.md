@@ -6,7 +6,10 @@
 {{- " - " -}}
 {{- névkomment }}
 {%- endif %}
-{{leírás}}
+
+{% for leírás in leírások -%}
+{{ leírás.text }}
+{% endfor %}
 
 | |  Követelmény | Hatás  |
 | :----------- | :----------- | :----------- |

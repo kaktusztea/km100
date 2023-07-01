@@ -1,7 +1,7 @@
 ---
 név: "harci akrobatika"
 névkomment: ""
-skeleton_version: 2
+skeleton_version: 3
 stage: "beta"
 maxfok: 2
 többszörösség:
@@ -9,7 +9,9 @@ többszörösség:
     jellemzőtípus: ""
     jellemzőlista: ""
 csoport: "harci"
-leírás: "„Pattog, mint a nikkelbolha” - mondják, ha harcolni látnak. Küzdelem közben akrobatikus elemeket - ugrásokat, vetődéseket, pörgéseket - alkalmazol, amelyek előnyhöz juttatnak a földhözragadt kis senkik ellen..."
+leírások:
+  - text: "„Pattog, mint a nikkelbolha” - mondják, ha harcolni látnak."
+  - text: "Küzdelem közben akrobatikus elemeket - ugrásokat, vetődéseket, pörgéseket - alkalmazol, amelyek előnyhöz juttatnak a földhözragadt kis senkik ellen..."
 megjegyzések:
   - text: "**Fegyverek**: A forgatott fegyverek össz pengehossza nem lehet nagyobb, mint `1 penge` (Például 1db hosszú kard, vagy 2db rövidkard), továbbá súlyuk is fontos tényező (KM dönt)."
   - text: "**Vértek**: a fortély csak olyan hajlékony, könnyű, nem-fém vértben használható, melynek nem nagyobb MGT-je ⭕X⭕-nél."

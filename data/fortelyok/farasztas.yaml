@@ -1,6 +1,6 @@
 név: "fárasztás"
 névkomment: ""
-skeleton_version: 2
+skeleton_version: 3
 stage: "beta"
 maxfok: 1
 többszörösség:
@@ -8,7 +8,8 @@ többszörösség:
     jellemzőtípus: ""
     jellemzőlista: ""
 csoport: "harci"
-leírás: "A fortély nagy ismerői a bajvívók és harcosok."
+leírások:
+  - text: "A fortély nagy ismerői a bajvívók és harcosok."
 megjegyzések:
   - text: "Pusztításban nem alkalmazható"
   - text: "Közelharc harcmodorban csak szintén Közelharcban küzdő ellenfél ellen alkalmazható"

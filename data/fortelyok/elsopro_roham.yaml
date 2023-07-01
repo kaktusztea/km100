@@ -1,6 +1,6 @@
 név: "elsöprő roham"
 névkomment: ""
-skeleton_version: 2
+skeleton_version: 3
 stage: "alpha"
 maxfok: 1
 többszörösség:
@@ -8,7 +8,8 @@ többszörösség:
     jellemzőtípus: ""
     jellemzőlista: ""
 csoport: "harci"
-leírás: "Rutinos rohamozó vagy, jókor, megfelelő helyre csapsz futásból."
+leírások:
+  - text: "Rutinos rohamozó vagy, jókor, megfelelő helyre csapsz futásból."
 megjegyzések:
   - text: "Öngyilkos roham esetén a fentiek nem használhatóak."
 fokok:

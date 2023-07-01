@@ -1,0 +1,51 @@
+név: "fegyverrántás"
+névkomment: ""
+skeleton_version: 3
+stage: "beta"
+maxfok: 2
+többszörösség:
+  - enabled: false
+    jellemzőtípus: ""
+    jellemzőlista: ""
+csoport: "harci"
+leírások:
+  - text: "Gyakorlottan rántasz fegyvert, így előnybe kerülhetsz kezdeményezésnél.<br />"
+  - text: "Bónuszok 🗡️**Fegyverrántás-szituációban** (az alkalmazó oldalán):"
+megjegyzések:
+  - text: "Bővebben lásd a **Harcrendszer** fejezet ⭕🗡️ **Fegyverrántás** alfejezetét!"
+fokok:
+  - fok: 1
+    status:
+    követelménytext: ""       # Általános szöveges követelmény erre a fokra. Lehet előtörténeti jellegű is.
+    követelmények:
+      - név: "gyorsaság"
+        enabled: True
+        érték: 1
+        típus: 1              # tulajdonság
+        text: ""
+    hatástext:
+      - text: ""
+    hatások:
+      - név: "KÉ"
+        enabled: True
+        érték: 5
+        típus: 52
+        text: ""
+  - fok: 2
+    status:
+    követelménytext: ""
+    követelmények:
+      - név: "gyorsaság"
+        enabled: True
+        érték: 2
+        típus: 1              # tulajdonság
+        text: ""
+    hatástext:
+      - text: ""
+    hatások:
+      - név: "KÉ"
+        enabled: True
+        érték: 10
+        típus: 52
+        text: ""
+todo: ""

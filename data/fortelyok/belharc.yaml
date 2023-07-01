@@ -1,7 +1,7 @@
 ---
 név: "belharc"
 névkomment: "adott fegyverre"
-skeleton_version: 2
+skeleton_version: 3
 stage: "beta"
 maxfok: 2
 többszörösség:
@@ -9,7 +9,9 @@ többszörösség:
     jellemzőtípus: ""
     jellemzőlista: ""
 csoport: "harci"
-leírás: "Testközelben érzed igazában elemedben magad.<br />Sikeres 🗡️Belharcba kerülés🗡️ manőver esetén 🗡️Belharci szituációba🗡️ kerülsz és harcértékeidre - csak **Közelharc** harcmodor esetén - a lent leírt pluszok járnak."
+leírások:
+  - text: "Testközelben érzed igazában elemedben magad."
+  - text: "Sikeres 🗡️Belharcba kerülés🗡️ manőver esetén 🗡️Belharci szituációba🗡️ kerülsz és harcértékeidre - csak **Közelharc** harcmodor esetén - a lent leírt pluszok járnak."
 megjegyzések:
   - text: "**Fontos**: Ezt a fortélyt konkrét fegyverre (Puszta kéz is ide tartozik) kell felvenni, csak annak használatakor járnak a bónuszok. A Belharcot így többször is fel lehet venni - különböző fegyverekre."
   - text: "Az ellenfél módosítóinak változását lásd a Harcrendszer fejezet ⭕„Belharc” harci taktika leírásánál!"
