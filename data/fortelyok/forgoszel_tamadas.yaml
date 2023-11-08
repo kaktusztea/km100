@@ -1,10 +1,10 @@
-név: ""
+név: "forgószél támadás"
 névkomment: ""                # a név melletti opcionális kiegészítő szöveg
 skeleton_version: 3           # a fortely séma (skeleton) verziója
-stage: ""                     # alpha, beta, prod // alpha: változhat struktúrálisan, beta: kész, de még nem mehet prod-ba
-maxfok: 2                     # Legfeljebb hány foka lehet a fortélynak
+stage: "beta"                     # alpha, beta, prod // alpha: változhat struktúrálisan, beta: kész, de még nem mehet prod-ba
+maxfok: 1
 többszörösség:
-  - enabled: ""               # true / false: Engedélyezett -e a fortély többszöri felvétele
+  - enabled: "false"
     jellemzőtípus: ""         # Milyen jellemzőlista elemei szerint vehető fel többször. Pl: "harci alakzat"
     jellemzőlista: ""         # Lista: Pl: "lovas ék; testudo; ..."  (harci alakzatok listája)
 csoport: ""                   # lásd konstansok.yaml / fortély.csoportok
@@ -15,11 +15,11 @@ megjegyzések:
 fokok:
   - fok: 0                    # 0 == alapeset
     status:                   # ⭕/✅ fejlesztéhez segítség: az adott fok kidolgozottsági állapotát jelzi. piros kör: fékész, zöld pipa: kész
-    követelménytext: ""       # Sima, szöveges követemény mező. Nem lesz kalkuláció alapja.
-    követelmények:            # Alapesetnél is lehet követelmény. Bővebb kifejtése az 1. foknál lejjebb.
+    követelménytext: ""
+    követelmények:
     hatástext:
-      - text: ""              # Ebből lehet több entry. sima szöveges hatás mező.
-    hatások: ""               #  Alapesetnél is lehet hatás. Bővebb kifejtése az 1. foknál lejjebb.
+      - text: ""              # Ebből lehet több entry
+    hatások: ""
     kombihatások: ""
   - fok: 1
     status:

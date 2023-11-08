@@ -26,6 +26,7 @@ code:
 - sebző.támadás: 553
 - sikeres.manőver: 554   # esemény
 - manőver: 555           # egy konkrét manőverre vonatkozó érték dobásnál
+- támadás.szám: 556
 
 - pszipont: 71
 - manapont: 81
