@@ -1,5 +1,7 @@
 #### 🔴 Méregmester, 🔵 Méregkeverés
 
+[🔹(OUT-OF-SYNC)](https://github.com/kaktusztea/km100/wiki/OUT-OF-SYNC#m%C3%A9regkever%C3%A9s)
+
 ````diff
 - Alvás: melyik "Hatás" kategóriába tartozzon?
 - Most a legenyhébben van (1), de lehet, hogy nehezebb alvást előidézni, mint pl. bódulatot...?
