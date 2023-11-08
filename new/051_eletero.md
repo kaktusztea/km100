@@ -53,7 +53,9 @@ A `KT` kiválóan alkalmas kocsmai verekedések, kisebb – nem „vérre menő�
 
 Gyakori eset, hogy valakinek ráhúznak egy nagyot a fejére. Például sisakos ellenfelet fejen találnak egy buzogánnyal. A sisak ugyan megvédi, de a feje mégis igen nagy traumát szenved el, pár körig meglehetősen kellemetlenül érzi magát. Ez természetesen helyzet specifikus, a – KM dönt –, de irányadónak elmondhatjuk, hogy ilyenkor például plusz 2-3 KT büntetést kap az áldozat, amelyek azonban pár kör alatt elmúlnak. Ne keverjük a „Fejbe vágást” a 🗡️"**Leütés hátulról**” harci taktikával! ⭕link⭕
 
-#### Példa Kábulat ÉP alkalmazására
+---
+
+##### ⚡ Példa Kábulat ÉP alkalmazására
 
 ```diff
 ⭕TODO: Aktualizálni a kész Orvtámadáshoz (amikor kész lesz). Nem lesz Orvtámadás fortély. Csak észrevétlen támadás van.
@@ -69,6 +71,7 @@ Látható, hogy a karaktert irdatlanul fejbe kólintották, ha elrontja **Fájda
 Ha további seb nem éri, akkor – a magához térés után – a `9 KT` 9 óra alatt tűnik el, Cravignon pedig `12 ÉP`-vel és egy púppal a fején éli tovább életét.
 
 ---
+
 ### 1.1.3 Sebesülés
 
 Ha a karakter találatot kap, harcértékeit - fizikumától függően - levonások sújtják. Persze ami például egy nyeszlett alakot az összeesés szélére sodor, az nem okoz akkora hátrányt egy edzett korgnak.
@@ -110,6 +113,8 @@ Ha harc közben más sebesülés kategóriába lép a karakter, TÉ levonást ka
 
 (Csökkenti: `Önuralom` + `Fájdalomtűrés`)
 
+---
+
 ##### ⚡ Példa Fájdalomtűrésre
 
 Tetves Fájdalomtűrése `7.szintű`, `Önuralma:+1` (`összesen:8`)
@@ -118,6 +123,8 @@ Ekkor az ő sebesülés táblázata így néz ki:
 | - | S1 | S2 | S3 | S4 |
 | :-----: | :----: | :----: | :----: | :----: |
 | TÉ levonás | - | -2 | -12 | -22 |
+
+---
 
 ##### Fájdalomtűrés harcon kívül
 
@@ -132,12 +139,16 @@ Ha megsérül a karakter, képzettségpróbáira levonások járnak. Hogy mennyi
 | Fizikai képzettség | - | -2 | -4 | -6 |
 | Egyéb képzettség | - | - | -1 | -3 |
 
+---
+
 #### Vértek, SFÉ
 
 ```diff
 - TODO. Lásd: Vértek, páncélok – TODO_HARC_#29.**
 Itt inkább az általános szabályokat írjuk be, a konkrét vérteket a doksi végén ismertessük táblázatos formában.
 ```
+
+---
 
 #### ⚡ Példa a sebesülésre
 
@@ -168,6 +179,8 @@ Gustav hátrálás közben belefejel a kovácsoltvas kapuba. `4KT` a büntetése
 
 Ha túléli a kalandot, akkor a „szerzett” `4 Kábulat ÉP` gyógyulása `4 óra` alatt, a sebek okozta ÉP csökkenés pedig a ⭕(link) „Sebek gyógyulása” fejezetben meghatározott ütemben történik.
 
+---
+
 ### 1.1.4 Haldoklás
 
 Ha a karakter ÉP-inek száma `0`-ra zuhan, akkor haldokolni kezd.
@@ -176,6 +189,8 @@ Ilyenkor dobnia kell egy `Edzettség` tulajdonságpróbát `Átlagos (5-ös)` ne
 
 **Stabilizálás**: `Sebgyógyítás`, vagy `Gyógyítás` képzettségpróba Átlagos (`9`) nehézség ellen. Ha egy karaktert stabilizáltak, akkor nem kell `Edzettség` próbát dobnia, de továbbra is igaz rá, hogy minden további sebzés azonnal végez vele.
 
+---
+
 ### 1.1.5 Gyógyulás
 
 ```diff
@@ -183,6 +198,7 @@ Ilyenkor dobnia kell egy `Edzettség` tulajdonságpróbát `Átlagos (5-ös)` ne
 ```
 
 #### Sebek jellege
+
 ```diff
 Kitéve a megoldandó dokba: Fegyverek – TODO_HARC_#27.
 ```
