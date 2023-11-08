@@ -32,7 +32,7 @@ A lőfegyverek alapesetben rendkívül halálosak, viszont a vérteknek szintén
 
 ## Karakteralkotók
 
-* [Karakteralkotó v7.1 (ODS)](https://github.com/kaktusztea/km100/raw/master/new/segedletek/karakteralkoto_v7.1.ods) <sub><sup>([LibreOffice](https://www.libreoffice.org/download/download/))</sup></sub>
+* [Karakteralkotó v7.2 (ODS)](https://github.com/kaktusztea/km100/raw/master/new/segedletek/karakteralkoto_v7.2.ods) <sub><sup>([LibreOffice](https://www.libreoffice.org/download/download/))</sup></sub>
 * [NJK Karakteralkotó v1.1 (PDF)](https://github.com/kaktusztea/km100/blob/master/km100__NJK_karlap_v1.1.pdf)
 
 ## Részletes szabályrendszer
