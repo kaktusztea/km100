@@ -70,7 +70,7 @@ Gyakori eset, hogy valakinek ráhúznak egy nagyot a fejére. Például sisakos 
 
 ---
 
-##### ⚡ Példa Kábulat ÉP alkalmazására
+#### ⚡ Példa Kábulat ÉP alkalmazására
 
 ```diff
 ⭕TODO: Aktualizálni a kész Orvtámadáshoz (amikor kész lesz). Nem lesz Orvtámadás fortély. Csak észrevétlen támadás van.
@@ -118,7 +118,7 @@ A Fájdalomtűrés képzettség fontos szerepet játszik a harcban elszenvedett 
 
 ---
 
-##### Fájdalomtűrés harc közben
+#### Fájdalomtűrés harc közben
 
 Ha harc közben más sebesülés kategóriába lép a karakter, TÉ levonást kap büntetésül. Ezt az értéket csökkenti a `Fájdalomtűrés` képzettség és az `Önuralom` tulajdonság összege.
 
@@ -132,7 +132,7 @@ Ha harc közben más sebesülés kategóriába lép a karakter, TÉ levonást ka
 
 ---
 
-##### ⚡ Példa Fájdalomtűrésre
+#### ⚡ Példa Fájdalomtűrésre
 
 Tetves Fájdalomtűrése `7.szintű`, `Önuralma:+1` (`összesen:8`)
 Ekkor az ő sebesülés táblázata így néz ki:
@@ -143,7 +143,7 @@ Ekkor az ő sebesülés táblázata így néz ki:
 
 ---
 
-##### Fájdalomtűrés harcon kívül
+#### Fájdalomtűrés harcon kívül
 
 Mérgezés, kínzás, egyéb fájdalom esetén a karakterek Fájdalomtűrés-próbát kell dobnia a KM által meghatározott célszámra.
 
