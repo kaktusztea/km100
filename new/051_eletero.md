@@ -1,7 +1,7 @@
 ## Életerő
 
 ### 1.1.1 Életerő Pont
-A Karakteralkotás fejezetben már ismertetett Életerő pontokat használjuk a harcban elszenvedett sérülések jegyzésére. Emlékeztetőül: `ÉP=12 + (Edzettség x2 )`
+A Karakteralkotás fejezetben már ismertetett Életerő pontokat használjuk a harcban elszenvedett sérülések jegyzésére. Emlékeztetőül: `ÉP=12 + (Edzettség x2)`
 
 Ha sebet kapunk, ezekből a pontokból kell levonnunk az okozott sérülést (lásd Sebesülés fejezet).
 
@@ -19,7 +19,7 @@ Az **Életerő Pontok** (ÉP) 4 egészség kategória közt egyenlő arányban o
 
 Az egyes kategóriák jelölésében az "`S`" a „Sebesülés” -re utal, a szám utána pedig könnyen azonosítja állapotunkat.
 
-A bal oldali ábra 18 ÉP elosztását mutatja be. Az állapot romlásának hatásait a „Sebesülés” fejezetben ismertetjük.
+A bal oldali ábra `18 ÉP` elosztását mutatja be. Az állapot romlásának hatásait a „Sebesülés” fejezetben ismertetjük.
 
 ### 1.1.2 Kábulat Életerő Pont (KT)
 
@@ -56,7 +56,6 @@ Gyakori eset, hogy valakinek ráhúznak egy nagyot a fejére. Például sisakos 
 #### Példa Kábulat ÉP alkalmazására
 
 ```diff
-
 ⭕TODO: Aktualizálni a kész Orvtámadáshoz (amikor kész lesz). Nem lesz Orvtámadás fortély. Csak észrevétlen támadás van.
 ```
 
@@ -68,3 +67,122 @@ Az összesített `KT` sebzés tehát: `4+7=11`. A hatás így `11 ÉP`-nyi sebre
 Látható, hogy a karaktert irdatlanul fejbe kólintották, ha elrontja **Fájdalomtűrés próbáját** `18-as célszám` ellen, akkor elájul. Maradt `2` „érintetlen” `ÉP`-je.
 
 Ha további seb nem éri, akkor – a magához térés után – a `9 KT` 9 óra alatt tűnik el, Cravignon pedig `12 ÉP`-vel és egy púppal a fején éli tovább életét.
+
+---
+### 1.1.3 Sebesülés
+
+Ha a karakter találatot kap, harcértékeit - fizikumától függően - levonások sújtják. Persze ami például egy nyeszlett alakot az összeesés szélére sodor, az nem okoz akkora hátrányt egy edzett korgnak.
+
+Ezért kerültek bevezetésre a sebesülés kategóriák. A karakter Életerejét 4 kategória szimbolizálja, melyek között karakteralkotáskor kell elosztani az **Életerő Pontokat.** (Lásd Karakteralkotás – Életerő Pontok)
+
+Mikor a karaktert sebesülés éri, elkezdi bejelölni az Életerő táblázatban a legmagasabb (`S1`) kategóriában lévő mezőket fentről lefelé. Mikor az első oszlop „betelt”, folytatja az `S2`, majd az `S3` kategóriában levőkkel és így tovább.
+
+Hasznos segítség lehet, ha sérüléskor nem beikszeljük az egyes négyzeteket, hanem a sebesülés „sorszámát” (hányadik seb a harc során) és annak jellegét (S,V,Z) írjuk beléjük (Szúró,Vágó,Zúzó), megkönnyítve a dolgunkat: rögtön látjuk, hány és mekkora sebünk van. (A Kábulat ÉP (KT) sérülések mezőbe pedig „`K`” betűt írjunk). Példa: „`Z2`” jelölés 4db rubrikában: ez a karakter második sebe és egy 4 ÉP-s zúzott sebet jelöl.
+
+![](./images/02_eletero_tablazat_harcertek_levonassal.png)
+
+Az első (`S1`) kategóriában lévő karaktert még nem sújtják negatív módosítók, sérülése – számára – olyan könnyű, ami nem akadályozza a harcban.
+
+Az `S2`, `S3` és `S4` kategóriákba kerülve viszont már rendre `-10`; `-20` és `-30` `TÉ` a harcérték büntetés. Ezeket az értékeket viszont mérsékli az `Önuralom` tulajdonság és a Fájdalomtűrés képzettség összege. Így tehát a levonások értéke karakterenként változik.
+
+`0 ÉP`-re érve a karakter elájul, és haldokolni kezd (Lásd **Haldoklás**). Ha további sebet kap, meghal.
+
+---
+
+#### Fájdalomtűrés
+
+```diff
+- Harc mindhalálig - fortély?
+- Ájulás legyen?
+```
+
+A Fájdalomtűrés képzettség fontos szerepet játszik a harcban elszenvedett sebek fájdalmának elnyomásában, illetve egyéb helyzetekben a kín elviselésében. Részben játéktechnikai gyorsítás miatt, részben azért teszünk különbséget a harc közben és azon kívüli fájdalomtűrés miatt, mert harc közben az adrenalin hatására jobban bírja a karakter a fájdalmat, valamint próbáltuk a harc heroizmusát megőrizni.
+
+##### Fájdalomtűrés harc közben
+
+Ha harc közben más sebesülés kategóriába lép a karakter, TÉ levonást kap büntetésül. Ezt az értéket csökkenti a `Fájdalomtűrés` képzettség és az `Önuralom` tulajdonság összege.
+
+**Bónusz**: a `Harcos elme` fortély minden foka további `1 pontot` csökkent.
+
+| - | S1 | S2 | S3 | S4 |
+| :-----: | :----: | :----: | :----: | :----: |
+| TÉ levonás | - | -10 | -20 | -30 |
+
+(Csökkenti: `Önuralom` + `Fájdalomtűrés`)
+
+##### ⚡ Példa Fájdalomtűrésre
+
+Tetves Fájdalomtűrése `7.szintű`, `Önuralma:+1` (`összesen:8`)
+Ekkor az ő sebesülés táblázata így néz ki:
+
+| - | S1 | S2 | S3 | S4 |
+| :-----: | :----: | :----: | :----: | :----: |
+| TÉ levonás | - | -2 | -12 | -22 |
+
+##### Fájdalomtűrés harcon kívül
+
+Mérgezés, kínzás, egyéb fájdalom esetén a karakterek Fájdalomtűrés-próbát kell dobnia a KM által meghatározott célszámra.
+
+#### Sérülés hatása képzettségpróbára
+
+Ha megsérül a karakter, képzettségpróbáira levonások járnak. Hogy mennyi, az attól függ, hogy melyik sebesülés kategóriában van, illetve hogy fizikai mozgást igénylő, vagy nem igénylő képzettségét teszi próbára:
+
+| - | S1 | S2 | S3 | S4 |
+| :-----: | :----: | :----: | :----: | :----: |
+| Fizikai képzettség | - | -2 | -4 | -6 |
+| Egyéb képzettség | - | - | -1 | -3 |
+
+#### Vértek, SFÉ
+
+```diff
+- TODO. Lásd: Vértek, páncélok – TODO_HARC_#29.**
+Itt inkább az általános szabályokat írjuk be, a konkrét vérteket a doksi végén ismertessük táblázatos formában.
+```
+
+#### ⚡ Példa a sebesülésre
+
+Az alábbi példa Lord Gustav – Domvik lovagjának – egészség kategóriáit mutatja. `17 ÉP`-je van, `Önuralom` tulajdonságának és `Fájdalomtűrés` képzettségének összege pedig `11`.
+`(Önuralom + Fájdalomtűrés) = 11`
+
+Ebben az esetben az ő Életerő táblázata a következőképpen néz ki: minden oszlopba `4` - `4` `ÉP` kerül (`17 / 4` kerekítve). A maradék `1 ÉP`-t pedig balról jobbra „osztjuk el”, tehát az `S1` oszlopba kerül.
+
+Sebek jellegének jelölései:
+- **S: Szúrt seb**
+- **V: Vágott seb**
+- **Z: Zúzott seb**
+- **K: Kábulat ÉP**
+
+![](./images/03_eletero_lord_gustav.png)
+
+Találat esetén a sebesülést először az `S1` rubrikában kezdjük jelölni, oszlopon belül pedig fentről lefelé. Ha Lord Gustav egy `2 ÉP`-s sebet kap, az az `S1` oszlopban kerül bejelölésre fentről lefele. Ilyenkor még nem sújtja levonás.
+
+Gustav ismét megsebesül. Ezúttal `5 ÉP`, ezzel az `S2` kategóriába kerül. Mivel a `(Fájdalomtűrés+Önuralom=11)` mérsékli a standard `S2`-nél használt (`-10TÉ`) büntetést, ezért még itt sincs `TÉ` levonás.
+
+A harmadik seb `4 ÉP`, Gustav a harmadik (közepesen sérült) kategóriába kerül. Alapból (`-20TÉ`) lenne a büntetés, de ez (`-9TÉ`)-re mérséklődik (`-11`).
+
+Gustav hátrálás közben belefejel a kovácsoltvas kapuba. `4KT` a büntetése. Ezzel az `S4` (utolsó) kategóriába került. Büntetése `-19TÉ` (a `-30` helyett).
+
+```diff
+- Ha kategóriában elrontja a fájdalomtűrés próbáját, (célszám:18) akkor el is ájul.
+```
+
+Ha túléli a kalandot, akkor a „szerzett” `4 Kábulat ÉP` gyógyulása `4 óra` alatt, a sebek okozta ÉP csökkenés pedig a ⭕(link) „Sebek gyógyulása” fejezetben meghatározott ütemben történik.
+
+### 1.1.4 Haldoklás
+
+Ha a karakter ÉP-inek száma `0`-ra zuhan, akkor haldokolni kezd.
+
+Ilyenkor dobnia kell egy `Edzettség` tulajdonságpróbát `Átlagos (5-ös)` nehézség ellen. Ha megdobja, életben marad, de `2 perc` múlva újra dobnia kell, míg nem stabilizálják. Ha elrontja, meghal.
+
+**Stabilizálás**: `Sebgyógyítás`, vagy `Gyógyítás` képzettségpróba Átlagos (`9`) nehézség ellen. Ha egy karaktert stabilizáltak, akkor nem kell `Edzettség` próbát dobnia, de továbbra is igaz rá, hogy minden további sebzés azonnal végez vele.
+
+### 1.1.5 Gyógyulás
+
+```diff
+- Kitéve a megoldandó dokba: Gyógyulás – TODO_HARC_#38.
+```
+
+#### Sebek jellege
+```diff
+Kitéve a megoldandó dokba: Fegyverek – TODO_HARC_#27.
+```
