@@ -1,7 +1,11 @@
 ## Életerő
 
 ### 1.1.1 Életerő Pont
-A Karakteralkotás fejezetben már ismertetett Életerő pontokat használjuk a harcban elszenvedett sérülések jegyzésére. Emlékeztetőül: `ÉP=12 + (Edzettség x2)`
+A Karakteralkotás fejezetben már ismertetett Életerő pontokat használjuk a harcban elszenvedett sérülések jegyzésére. Emlékeztetőül:
+
+```
+ÉP = 12 + (Edzettség x 2)
+```
 
 Ha sebet kapunk, ezekből a pontokból kell levonnunk az okozott sérülést (lásd Sebesülés fejezet).
 
