@@ -97,7 +97,7 @@ Mikor a karaktert sebesülés éri, elkezdi bejelölni az Életerő táblázatba
 
 Hasznos segítség lehet, ha sérüléskor nem beikszeljük az egyes négyzeteket, hanem a sebesülés „sorszámát” (hányadik seb a harc során) és annak jellegét (S,V,Z) írjuk beléjük (Szúró,Vágó,Zúzó), megkönnyítve a dolgunkat: rögtön látjuk, hány és mekkora sebünk van. (A Kábulat ÉP (KT) sérülések mezőbe pedig „`K`” betűt írjunk). Példa: „`Z2`” jelölés 4db rubrikában: ez a karakter második sebe és egy 4 ÉP-s zúzott sebet jelöl.
 
-![](./images/02_eletero_tablazat_harcertek_levonassal.png)
+![](./images/02_eletero_tablazat_harcertek_levonassal_small.png)
 
 Az első (`S1`) kategóriában lévő karaktert még nem sújtják negatív módosítók, sérülése – számára – olyan könnyű, ami nem akadályozza a harcban.
 
@@ -182,7 +182,7 @@ Sebek jellegének jelölései:
 - **Z: Zúzott seb**
 - **K: Kábulat ÉP**
 
-![](./images/03_eletero_lord_gustav.png)
+![](./images/03_eletero_lord_gustav_small.png)
 
 Találat esetén a sebesülést először az `S1` rubrikában kezdjük jelölni, oszlopon belül pedig fentről lefelé. Ha Lord Gustav egy `2 ÉP`-s sebet kap, az az `S1` oszlopban kerül bejelölésre fentről lefele. Ilyenkor még nem sújtja levonás.
 
