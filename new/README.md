@@ -48,11 +48,11 @@ Mágiában kisebb/nagyobb mellékhatások jelennek meg, különösen nagy hatalm
 ## Kivonatok
 
 - ⭕ [Segédlet esszencia (PDF)](https://github.com/kaktusztea/km100/blob/master/km100__segedlet_v1.5.pdf)
-- ⭕ [Tömör szabályrendszer (PDF)](https://github.com/kaktusztea/km100/blob/master/km100__tomor_v6.0.pdf)
+- ⭕ [Tömör szabályrendszer (PDF)](https://github.com/kaktusztea/km100/blob/master/km100__tomor_v6.1.pdf)
 
 ## Karakteralkotók
 
-- ⭕ [Karakteralkotó v7.0 (ODS)](https://github.com/kaktusztea/km100/raw/master/new/segedletek/karakteralkoto_v7.0.ods) <sub><sup>([LibreOffice](https://www.libreoffice.org/download/download/))</sup></sub>
+- ⭕ [Karakteralkotó v7.2 (ODS)](https://github.com/kaktusztea/km100/raw/master/new/segedletek/karakteralkoto_v7.2.ods) <sub><sup>([LibreOffice](https://www.libreoffice.org/download/download/))</sup></sub>
 - ⭕ [NJK Karakteralkotó v1.1 (PDF)](https://github.com/kaktusztea/km100/blob/master/km100__NJK_karlap_v1.1.pdf)
 
 ## Részletes szabályrendszer
@@ -60,39 +60,39 @@ Mágiában kisebb/nagyobb mellékhatások jelennek meg, különösen nagy hatalm
 - [Bevezető](000_bevezetes.md)
 - [Karakteralkotás](010_karakteralkotas.md) (90%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/010_karakteralkotas.md))</sub></sup>
 - [Képzettségrendszer](020_kepzettsegrendszer.md) (80%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/020_kepzettsegek.md))</sub></sup>
-  - [Képzettséglista](021_kepzettseglista.md) (90%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/021_kepzettseglista.md))</sub></sup>
+	  - [Képzettséglista](021_kepzettseglista.md) (90%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/021_kepzettseglista.md))</sub></sup>
 - [Fortélyok](030_fortelyok.md) (75%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/030_fortelyok.md))</sub></sup>
-  - [Karmák](031_karmak.md)
-  - [Háttér fortélyok](032_hatter_fortelyok.md)
-  - [Általános fortélyok](033_altalanos_fortelyok.md)
-  - [Alvilági és fizikai fortélyok](034_alvilagi_fizikai_fortelyok.md)
-  - [Harci fortélyok](035_harci_fortelyok.md)
-  - [Íjász, hajítás fortélyok](036_ijasz_hajitas_fortelyok.md)
-  - [Lovas fortélyok](037_lovas_fortelyok.md)
-  - [Titkos fortélyok](038_titkos_fortelyok.md)
+	  - [Karmák](031_karmak.md)
+	  - [Háttér fortélyok](032_hatter_fortelyok.md)
+	  - [Általános fortélyok](033_altalanos_fortelyok.md)
+	  - [Alvilági és fizikai fortélyok](034_alvilagi_fizikai_fortelyok.md)
+	  - [Harci fortélyok](035_harci_fortelyok.md)
+	  - [Íjász, hajítás fortélyok](036_ijasz_hajitas_fortelyok.md)
+	  - [Lovas fortélyok](037_lovas_fortelyok.md)
+	  - [Titkos fortélyok](038_titkos_fortelyok.md)
 - [Tradíciók](040_tradiciok.md) (60%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/040_tradiciok.md))</sub></sup>
 - [Harcrendszer](050_harcrendszer.md) (85%)
-  - [Életerő](051_eletero.md)
-  - [Harcértékek, **harc menete**, támadás/kör, sebzés, MGT, csataszabályok](052_harc_main.md)
-  - [Harci helyzetek (meglepetésből, helyhez kötve, magasabbról, stb.)](053_harci_helyzetek.md)
-  - [Kétkezes harc](054_ketkezes_harc.md)
-  - [Harci taktikák (támadó, védő, roham, stb)](055_harci_taktikak.md)
-  - [Manőverek](056_manoverek.md)
-  - [Alakzatharc](057_harci_alakzatok.md)
-  - [Lovas harc](058_lovas_harc.md)
-  - [Fegyverek, pajzsok](059_fegyverek.md)
-  - [Vértek, páncélok](059_vertek_pancelok.md)
+	  - [Életerő](051_eletero.md)
+	  - [Harcértékek, **harc menete**, Támadás/kör, Sebzés, Előnyös/hátrányos helyzet, MGT, csataszabályok](052_harc_main.md)
+	  - [Harci helyzetek (meglepetésből, helyhez kötve, magasabbról, stb.)](053_harci_helyzetek.md)
+	  - [Kétkezes harc](054_ketkezes_harc.md)
+	  - [Harci taktikák (támadó, védő, roham, stb)](055_harci_taktikak.md)
+	  - [Manőverek](056_manoverek.md)
+	  - [Alakzatharc](057_harci_alakzatok.md)
+	  - [Lovas harc](058_lovas_harc.md)
+	  - [Fegyverek, pajzsok](059_fegyverek.md)
+	  - [Vértek, páncélok](059_vertek_pancelok.md)
 - [Távolsági harcrendszer](060_tavolsagi_harc.md) (90%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/060_tavolsagi_harc.md))</sub></sup>
 - [Pszi](070_pszi.md) (40%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/070_pszi.md))</sub></sup>
-  - [Pszi diszciplínák](071_pszi_diszciplinak.md) (0%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/071_pszi_diszciplinak.md))</sub></sup>
+	  - [Pszi diszciplínák](071_pszi_diszciplinak.md) (0%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/071_pszi_diszciplinak.md))</sub></sup>
 - [Mágia](080_magiarendszer.md) (40%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/080_magiarendszer.md))</sub></sup>
-  - [Vulgármágia](081_vulgarmagia.md) (0%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/081_vulgarmagia.md))</sub></sup>
-  - [Sámánmágia](082_samanmagia.md) (0%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/082_samanmagia.md))</sub></sup>
-  - [Bárdmágia](083_bardmagia.md) (0%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/083_bardmagia.md))</sub></sup>
-  - [Tűzmágia](084_tuzmagia.md) (0%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/084_tuzmagia.md))</sub></sup>
-  - [Magasmágia](085_magasmagia.md) (20%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/085_magasmagia.md))</sub></sup>
-    - [Elemi mágia](magia.magas/elemi_magia.md) (50%)
-  - [Papi mágia](089_papimagia.md) (10%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/089_papimagia.md))</sub></sup>
+	  - [Vulgármágia](081_vulgarmagia.md) (0%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/081_vulgarmagia.md))</sub></sup>
+	  - [Sámánmágia](082_samanmagia.md) (0%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/082_samanmagia.md))</sub></sup>
+	  - [Bárdmágia](083_bardmagia.md) (0%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/083_bardmagia.md))</sub></sup>
+	  - [Tűzmágia](084_tuzmagia.md) (0%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/084_tuzmagia.md))</sub></sup>
+	  - [Magasmágia](085_magasmagia.md) (20%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/085_magasmagia.md))</sub></sup>
+	    - [Elemi mágia](magia.magas/elemi_magia.md) (50%)
+	  - [Papi mágia](089_papimagia.md) (10%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/089_papimagia.md))</sub></sup>
 - [Slan](090_slan.md) (25%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/090_slan.md))</sub></sup>
 - [Érzékelés, Észlelés](100_erzekeles_eszleles.md) (90%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/100_erzekeles_eszleles.md))</sub></sup>
 - [Szituációk](110_szituaciok.md) (20%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/110_szituaciok.md))</sub></sup>
