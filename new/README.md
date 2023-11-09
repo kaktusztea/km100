@@ -47,7 +47,7 @@ Mágiában kisebb/nagyobb mellékhatások jelennek meg, különösen nagy hatalm
 
 ## Kivonatok
 
-- ⭕ [Segédlet esszencia (PDF)](https://github.com/kaktusztea/km100/blob/master/km100__segedlet_v1.5.pdf)
+- ⭕ [Segédlet esszencia (PDF)](https://github.com/kaktusztea/km100/blob/master/km100__segedlet_v1.6.pdf)
 - ⭕ [Tömör szabályrendszer (PDF)](https://github.com/kaktusztea/km100/blob/master/km100__tomor_v6.1.pdf)
 
 ## Karakteralkotók
