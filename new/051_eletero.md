@@ -194,6 +194,7 @@ Gustav hátrálás közben belefejel a kovácsoltvas kapuba. `4KT` a büntetése
 
 ```diff
 - Ha kategóriában elrontja a fájdalomtűrés próbáját, (célszám:18) akkor el is ájul.
+- ⭕Mikor és mekkora célszámra kell Fájdalomtűrés próbát dobni?⭕ Kell egyáltalán?
 ```
 
 Ha túléli a kalandot, akkor a „szerzett” `4 Kábulat ÉP` gyógyulása `4 óra` alatt, a sebek okozta ÉP csökkenés pedig a ⭕(link) „Sebek gyógyulása” fejezetben meghatározott ütemben történik.
