@@ -73,7 +73,8 @@ Mágiában kisebb/nagyobb mellékhatások jelennek meg, különösen nagy hatalm
 - [Tradíciók](040_tradiciok.md) (60%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/040_tradiciok.md))</sub></sup>
 - [Harcrendszer](050_harcrendszer.md) (85%)
 	  - [Életerő](051_eletero.md)
-	  - [Harcértékek, **harc menete**, Támadás/kör, Sebzés, Előnyös/hátrányos helyzet, MGT, csataszabályok](052_harc_main.md)
+	  - [Harcértékek, MGT, Előnyös/hátrányos helyzet, Támadás/kör](052_01_harcertekek.md)
+	  - [Harc menete](052_02_harc_menete.md)
 	  - [Harci helyzetek (meglepetésből, helyhez kötve, magasabbról, stb.)](053_harci_helyzetek.md)
 	  - [Kétkezes harc](054_ketkezes_harc.md)
 	  - [Harci taktikák (támadó, védő, roham, stb)](055_harci_taktikak.md)
