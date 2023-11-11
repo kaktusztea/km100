@@ -1,4 +1,4 @@
-## 1.2.2 KÉ, TÉ, VÉ, CÉ
+## KÉ, TÉ, VÉ, CÉ
 
 És most lássuk a bevezetőben már említett négy konkrét harcértéket.
 

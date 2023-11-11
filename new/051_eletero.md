@@ -201,7 +201,7 @@ Ha túléli a kalandot, akkor a „szerzett” `4 Kábulat ÉP` gyógyulása `4 
 
 
 ---
-### 1.1.4 Haldoklás
+### Haldoklás
 
 Ha a karakter ÉP-inek száma `0`-ra zuhan, akkor haldokolni kezd.
 
@@ -211,7 +211,7 @@ Ilyenkor dobnia kell egy `Edzettség` tulajdonságpróbát `Átlagos (5-ös)` ne
 
 
 ---
-### 1.1.5 Gyógyulás
+### Gyógyulás
 
 ```diff
 - Kitéve a megoldandó dokba: Gyógyulás – TODO_HARC_#38.
