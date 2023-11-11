@@ -76,7 +76,7 @@ Mágiában kisebb/nagyobb mellékhatások jelennek meg, különösen nagy hatalm
 	- [Harcérték alapok, HM, Harcmodorok, Mesterfegyver](052_01_harcertekek_elemei.md)
 	- [KÉ, TÉ, VÉ, CÉ összefoglaló táblázatok](052_02_ke_te_ve_ce.md)
 	- [Mozgásgátló tényező (MGT)](053_01_mgt.md)
-	- [Előnyös és hátrányos helyzet](053_02_elonyos_hatranyos_helyzet.md)
+	- [Előnyös és hátrányos helyzet (VÉ csökkentés)](053_02_elonyos_hatranyos_helyzet.md)
 	- [Támadások száma](053_03_tamadasok_szama.md)
 	- [Harc menete](054_01_harc_menete.md)
 	- [Példaharc](054_02_peldaharc.md)
