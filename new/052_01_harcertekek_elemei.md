@@ -33,10 +33,10 @@ Első szinten minden karakter egységes konstans értékeket kap KÉ, TÉ, VÉ �
 Értékeik :
 
 ```
-- KÉ konstans: 10
-- TÉ konstans: 20
-- VÉ konstans: 120
-- CÉ konstans: -30
+KÉ konstans: 10
+TÉ konstans: 20
+VÉ konstans: 120
+CÉ konstans: -30
 ```  
 
 Ehhez az alapértékhez adódnak majd hozzá az egyéb módosítók.
@@ -75,18 +75,16 @@ A km100 rendszere az alábbi (átfogó) harci képzettségeket ismeri:
 **Közelharc, Kardvívás, Lándzsavívás, Pusztítás, Hajítás, Íjászat, Lövészet, Ostromlövészet**
 
 - **Közelharc: közelharci** **(legfeljebb 0,5 penge hosszú)** **fegyverek**
-    
 - **Kardvívás: minden „pengés” fegyver (kétkezes kard is)**
-    
 - **Pusztítás: zúzófegyverek, csatabárdok, csákány**
-    
 - **Lándzsavívás: Szálfegyverek**
     
 
 A harci képzettségek aktuális szintjétől függ, hogy az alá tartozó fegyvereket milyen általános harcérték pluszokkal forgathatja a karakter.  
-Megjegyzés: Az egyes fegyverek további erősítése a Mesterfegyver fortéllyal lehetséges.
+**Megjegyzés**: Az egyes fegyverek további erősítése a Mesterfegyver fortéllyal lehetséges.
 
- 
+</br>
+
 |Harcmodor Szint|Hatás*|
 | :---: | :---: |
 |Képzetlen|KÉ: -20, TÉ: -30, VÉ:-30, CÉ: -30|
