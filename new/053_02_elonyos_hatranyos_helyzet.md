@@ -1,0 +1,1 @@
+⭕ "Előnyös és hátrányos helyzet" ide (1.2.4)
