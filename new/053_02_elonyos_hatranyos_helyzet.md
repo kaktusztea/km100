@@ -1,4 +1,4 @@
-### Előnyös és hátrányos helyzet
+## Előnyös és hátrányos helyzet
 
 A harcban
 

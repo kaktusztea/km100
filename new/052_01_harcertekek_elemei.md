@@ -124,7 +124,7 @@ Minden nem-távolsági Harcmodor harmadik (**3.**) képzettség szintje 1 db ún
 
 Ha ezeken felül is manővert akar tanulni, akkor fokonként +10KP-t kell költenie.
 
-  ---
+---
 ### Mesterfegyver fortély
 
 A legtöbb esetben egy karakternek van egy (vagy több) fegyver típusa, amelyet előnyben részesít, gyakran forgat egy harcmodoron belül. A Mesterfegyver fortély segítségével egyes fegyverek harcértékeit tovább növelheti, így elszakadva kicsit tudásban a harcmodor többi fegyverétől. A Mesterfegyver fortélyt legfeljebb 3. fokon lehet felvenni az alábbi követelményekkel és jutalmakkal:
