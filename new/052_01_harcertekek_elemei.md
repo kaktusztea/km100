@@ -2,7 +2,6 @@
 Mikor két teremtmény fegyvert ragad és ütésekkel, szúrásokkal, vágásokkal, karmolással, harapással próbálják legyőzni egymást, akkor bizony **Fegyveres harcról** beszélünk.
 
 ---
-
 ## Harcértékek felépítése
 
 A karaktert a harcban harcértékei jellemzik. Ezek mutatják meg, hogy mennyire képzett a küzdelem egyes területein. Alapvetően négy érték határozza meg az aktuális harcértékeket, melyek szituációtól, forgatott fegyvertől, illetve harcmodortól függően változhatnak. Ezek a
@@ -46,8 +45,8 @@ Ehhez az alapértékhez adódnak majd hozzá az egyéb módosítók.
 
 Egyes Tulajdonságok értékei beleszámítanak a harcértékekbe. Hogy melyek azt az adott harcérték leírásánál találhatjuk a KÉ, TÉ, VÉ, CÉ fejezetben. ⭕(link)⭕
 
----
 
+---
 ### Harcérték Módosító (HM)
 
 Ahogy fejlődik, megjár sok harci helyzetet, a karakter általános harcértékei fejlődnek. Ezt szimbolizálja a Harcérték módosító, melyet a játékos vehet fel karaktere szintlépésének alkalmával.
@@ -67,8 +66,8 @@ A sima `HM` a `KÉ`, `TÉ`, és `VÉ` harcértékek növelésére szolgál, a `C
 
 Szintenként `TÉ`-re vagy `VÉ`-re **legfeljebb** `3`-al több `HM`-et lehet költeni, mint a másikra!
 
----
 
+---
 ### Harcmodor képzettségek
 
 A km100 rendszere az alábbi (átfogó) harci képzettségeket ismeri:
@@ -109,8 +108,8 @@ Megjegyzés: Az egyes fegyverek további erősítése a Mesterfegyver fortéllya
 
 *A távolsági fegyvereknél értelemszerűen csak +1 KÉ és +3 CÉ jár szintenként, hiszen nincs TÉ és VÉ értékük.
 
----
 
+---
 #### Harcmodorok és Manőverek
 
 A Manőverek alkalmazását, leírását részletesen lásd a „Manőverek” fejezetben.
@@ -128,7 +127,6 @@ Minden nem-távolsági Harcmodor harmadik (**3.**) képzettség szintje 1 db ún
 Ha ezeken felül is manővert akar tanulni, akkor fokonként +10KP-t kell költenie.
 
   ---
-
 ### Mesterfegyver fortély
 
 A legtöbb esetben egy karakternek van egy (vagy több) fegyver típusa, amelyet előnyben részesít, gyakran forgat egy harcmodoron belül. A Mesterfegyver fortély segítségével egyes fegyverek harcértékeit tovább növelheti, így elszakadva kicsit tudásban a harcmodor többi fegyverétől. A Mesterfegyver fortélyt legfeljebb 3. fokon lehet felvenni az alábbi követelményekkel és jutalmakkal:
