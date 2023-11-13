@@ -250,7 +250,7 @@ Néhány irányelv:
 
 ⚡Példa 1
 
-- Tetves Edzettsége: +2 → így 16 ÉP-je van
+- Tetves Edzettsége: `+2` → így `16 ÉP`-je van
 - Ősi ellenfele (Rühes) hosszú karddal (`SP: +3`) támad rá. Eltalálja, sebez.
 - Rühes dob: `k20+4` (hosszú kard)
 - `7`-et dob, így az eredmény: `7+4=11`
