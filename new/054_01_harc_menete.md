@@ -42,8 +42,9 @@ Ha két karakter azonos kezdeményezést ért el, és egymással harcolnak, akko
 ```
 Támadó dobás = Támadó Érték + k100
 ```
+
 ```
-(Minden újabb támadás a körben -10TÉ-vel megy)
+Minden újabb támadás a körben -10TÉ levonással megy (2.tám: -10,  3.tám: -20, ...)
 ```
 
 Harcban, támadáskor a játékos dob k100-al, majd a kapott értéket hozzáadja aktuális **Támadó Értékéhez**. Ennek értéke lesz a **Támadó dobás**. Amennyiben a támadónak több támadása van a körben, akkor minden egyes plusz támadás -10TÉ módosítóval történik.
