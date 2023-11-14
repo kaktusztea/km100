@@ -196,9 +196,10 @@ Természetesen nem mindegy, hogy egy támadás hol találta el az ellenfelet, hi
 
 ```
 Az Erő tulajdonság +2 feletti része 1:1-ben hozzáadódik az SP értékhez.
+Az Erő tulajdonság -2 alatti része 1:1-ben levonódik az SP értékből.
 ```
 
-Egyes fegyverek forgatása esetén a karakter fizikai ereje megnöveli az okozott sebzés. Tipikusan azok a fegyverek ezek, amelyek használata során a plusz erő használata felgyorsítja azt, jól kivezethető ívű csapások végezhetők vele. Továbbá számos fegyver van, melynek forgatása Erő követelményhez kötött, azaz csak megfelelő fizikumú karakter használhatja. Erről az egyes fegyverek egyéni leírásában találhatunk részleteket, de általánosságban az alábbi szabályok az irányadóak:
+Egyes fegyverek forgatása esetén a karakter fizikai ereje megnöveli az okozott sebzés. Tipikusan azok a fegyverek ezek, amelyek használata során a plusz erő használata felgyorsítja azt, jól kivezethető ívű csapások végezhetők vele. Továbbá számos fegyver van, melynek forgatása Erő követelményhez kötött, azaz csak megfelelő fizikumú karakter használhatja. Erről az egyes fegyverek egyéni leírásában találhatunk részleteket, de általánosságban a fenti szabályok az irányadóak.
 
 ---
 #### Élőholtak sebzése
