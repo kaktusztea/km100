@@ -6,7 +6,7 @@ v1.1.9 - 2023.11.14
 - Szerencsés: új fortély
 
 --------------------------------------------------------------------------
-v1.1.8beta - 2013.08.29
+v1.1.8 - 2013.08.29
 - Belharc fortély:
   - A leírásban csak az első fok bónusza volt beírva.
 - Pszí alkalmazás fortély:
