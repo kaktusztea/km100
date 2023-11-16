@@ -2,14 +2,14 @@
 
 ## Kivonatok
 
-- [Segédlet esszencia (játékalkalomra) (PDF)](https://github.com/kaktusztea/km100/blob/master/km100__segedlet_v1.6.pdf?raw=true)
--  [Tömör szabályrendszer (PDF)](https://github.com/kaktusztea/km100/blob/master/km100__tomor_v6.1.pdf?raw=true) (⭕néhol nem friss⭕)
+- [Segédlet esszencia (játékalkalomra) (PDF)](https://github.com/kaktusztea/km100/raw/master/km100__segedlet_v1.6.pdf?raw=true)
+-  [Tömör szabályrendszer (PDF)](https://github.com/kaktusztea/km100/raw/master/km100__tomor_v6.1.pdf?raw=true) (⭕néhol nem friss⭕)
 
 ## Karakteralkotók
 
 - [Karakteralkotó v7.2 (ODS)](https://github.com/kaktusztea/km100/raw/master/new/segedletek/karakteralkoto_v7.2.ods?raw=true) <sub><sup>([LibreOffice](https://www.libreoffice.org/download/download/))</sup></sub>
 -  [Karakteralkotáshoz táblázatok](https://github.com/kaktusztea/km100/raw/master/new/segedletek/km100_segedlet_karakteralkotas_v6.1.pdf?raw=true)
-- [NJK Karakteralkotó v1.1 (PDF)](https://github.com/kaktusztea/km100/blob/master/km100__NJK_karlap_v1.1.pdf?raw=true)
+- [NJK Karakteralkotó v1.1 (PDF)](https://github.com/kaktusztea/km100/raw/master/km100__NJK_karlap_v1.1.pdf?raw=true)
 
 ## Részletes szabályrendszer
 
