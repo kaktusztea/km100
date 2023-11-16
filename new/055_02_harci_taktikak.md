@@ -22,7 +22,7 @@ A taktikák használatát kör elején, kezdeményezés előtt kell bejelenteni,
 | Csonkolás **(X)**                   | • Kéz csonkolása: (áldozat `max ÉP / 3`) (felfele kerekítve) sebzés szükséges<br/>• Láb csonkolása: (áldozat `max ÉP / 2`) (felfele kerekítve) sebzés szükséges                                                                                                                                                                                                                                                                                                                                                                          |
 | Kijelölt testrészre támadás **(X)** | Sebző támadás `-20 TÉ`-vel                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | Pontok támadása harc közben **(X)** | • Követelmény: **Harci anatómia** fortély – `2.fok`<br/>• Követelmény: **Pontra támadás** manőver                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Visszafogott csapás / Harc az ellenfél elfogásáért **(X)** |  Bónuszt ad: Harci anatómia fortély                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Visszafogott csapás / Harc az ellenfél elfogásáért **(X)** |  Bónuszt ad: **Harci anatómia** fortély                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 
   
 ### Ökölszabály Védő Érték eltolásra
@@ -123,7 +123,7 @@ Kapcsolódó fortély: **Fárasztás** harci fortély
 
 ### Roham
 
-Roham esetén az első oda- és visszacsapás során a támadó `+20 TÉ` és `-40 VÉ` módosítót kap, és `+5 SP` bónuszt sebzésdobására (`+1` sebzés kategória). Az okozott **VÉ csökkentés** duplázódik.
+Roham esetén az első oda- és visszacsapás során a támadó `TÉ:+20` és `VÉ:-40` módosítót kap, és `+5 SP` bónuszt sebzésdobására (`+1` sebzés kategória). Az okozott **VÉ csökkentés** duplázódik.
 
 Ha roham során a karakter sebző támadást ér el, akkor a rohamozót sújtó **VÉ levonások** azonnal megszűnnek.
 
@@ -145,7 +145,7 @@ A roham vehemensebb (és őrültebb) verziója. A harcos ekkor szinte semmit nem
 
 Módosítók az első oda-vissza csapásnál:
 
-- `TÉ:+ 25` ; `VÉ:-50`
+- `TÉ:+25` ; `VÉ:-50`
 - VÉ csökkentés duplázódik  
 - Sebzés: `+7 SP`
 
@@ -170,7 +170,7 @@ Továbbá pár manőver könnyebbé válik Belharci szituációban: **Gáncsolá
 
 #### Belharcba kerülés manőver
 
-A Belharci szituációba kerüléshez ezt a manővert kell sikerrel végrehajtani. Nehézsége alapesetben 9-es, de fejleszthető (2 fokkal). ⭕Csak Közelharc harcmodor alkalmazása közben lehet megpróbálni.⭕ Bővebben lásd a manőver leírását.
+A Belharci szituációba kerüléshez ezt a manővert kell sikerrel végrehajtani. Nehézsége alapesetben `9`-es, de fejleszthető (`2 fokkal`). ⭕Csak Közelharc harcmodor alkalmazása közben lehet megpróbálni.⭕ Bővebben lásd a manőver leírását.
 
 #### Kibontakozás/Átsiklás manőver
 
@@ -211,7 +211,7 @@ Legfeljebb `2.fokon` tanulható fortély, amelyet **egy konkrét, választott be
 Amennyiben a belharcban levő harcost egy harmadik (vele nem belharcban levő) fél támadja, akkor a belharcos a**Harc helyhez kötve** szituáció VÉ büntetéseit szenvedi el, visszatámadni pedig nem tud, hiszen össze van akaszkodva másik ellenfelével. Kivétel: Sikeres **Leszorítás** (manőver) alkalmazása után, a leszorított áldozatot beforgathatja maga és a támadó közé, kvázi patthelyzetet okozva.
   
 
-⭕**Átnézendő:** `
+⭕**Átnézendő:**
 
 ```diff
 - Manőverek, amik megkövetelik a belharci szitut (és amiket ezzel kapcsolatban át kell nézni): Átdobás, Feszítés/kijövetel, Kéztörés, Lábtörés, Nyaktörés  
@@ -278,7 +278,7 @@ Ez azért van, mert egy járatlan támadó nem tudja olyan jól megbecsülni a s
 
 **Harci anatómia** fortély minden foka:
 - `3`-al emeli a **Fájdalomtűrés** célszámát
-- 1 seb kategóriával kevesebb kell (Pl. `2.fokon` már csak `3 ÉP` sebzés elég)
+- `1` seb kategóriával kevesebb kell (Pl. `2.fokon` már csak `3 ÉP` sebzés elég)
 - `K3` hatása `1` kategóriával csökken (Pl. `2.fokon` már sosincs `ÉP` seb)
 
 **Megjegyezés**: a Markolat sebzése: `k20 + 0 SP` (Zúzó)
