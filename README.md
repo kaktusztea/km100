@@ -27,12 +27,13 @@ A lőfegyverek alapesetben rendkívül halálosak, viszont a vérteknek szintén
 
 ## Kivonatok
 
-* [Segédlet esszencia (PDF)](https://github.com/kaktusztea/km100/blob/master/km100__segedlet_v1.6.pdf)
-* [Tömör szabályrendszer (PDF)](https://github.com/kaktusztea/km100/blob/master/km100__tomor_v6.1.pdf)
+* [Segédlet esszencia (játékalkalomra) (PDF)](https://github.com/kaktusztea/km100/blob/master/km100__segedlet_v1.6.pdf)
+* [Tömör szabályrendszer (PDF)](https://github.com/kaktusztea/km100/blob/master/km100__tomor_v6.1.pdf) (⭕néhol nem friss⭕)
 
 ## Karakteralkotók
 
 * [Karakteralkotó v7.2 (ODS)](https://github.com/kaktusztea/km100/raw/master/new/segedletek/karakteralkoto_v7.2.ods) <sub><sup>([LibreOffice](https://www.libreoffice.org/download/download/))</sup></sub>
+* [Karakteralkotáshoz táblázatok](km100_segedlet_karakteralkotas_v6.1.pdf)
 * [NJK Karakteralkotó v1.1 (PDF)](https://github.com/kaktusztea/km100/blob/master/km100__NJK_karlap_v1.1.pdf)
 
 ## Részletes szabályrendszer
