@@ -12,14 +12,22 @@ A Fortélyok egyedi ismeretek, melyeket ugyanúgy KP-ből vehet fel a karakter, 
 
 ---
 
-[Karmák](031_karmak.md)
+```diff
+- A Fortélyok még nincsenek mind markdown formátumba alakítva. Amíg elkészül a konvertálás, addig használd a régi PDF doksit:
+```
+ 
+[Fortélyok PDF doksi](https://github.com/kaktusztea/km100/blob/master/km100_03_fortelyok.pdf?raw=true) 
 
-[Háttér fortélyok](032_hatter_fortelyok.md)
+---
 
-[Általános, alvilági és fizikai fortélyok](033_altalanos_fortelyok.md)
+[Karmák](031_karmak.md) ✅
 
-[Harci fortélyok](034_harci_fortelyok.md)
+[Háttér fortélyok](032_hatter_fortelyok.md) 🚧
 
-[Titkos fortélyok](035_titkos_fortelyok.md)
+[Általános, alvilági és fizikai fortélyok](033_altalanos_fortelyok.md) 🚧
+
+[Harci fortélyok](034_harci_fortelyok.md) 🚧
+
+[Titkos fortélyok](035_titkos_fortelyok.md) 🚧
 
 ---

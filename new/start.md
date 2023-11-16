@@ -2,14 +2,14 @@
 
 ## Kivonatok
 
-- [Segédlet esszencia (játékalkalomra) (PDF)](https://github.com/kaktusztea/km100/blob/master/km100__segedlet_v1.6.pdf)
--  [Tömör szabályrendszer (PDF)](https://github.com/kaktusztea/km100/blob/master/km100__tomor_v6.1.pdf) (⭕néhol nem friss⭕)
+- [Segédlet esszencia (játékalkalomra) (PDF)](https://github.com/kaktusztea/km100/blob/master/km100__segedlet_v1.6.pdf?raw=true)
+-  [Tömör szabályrendszer (PDF)](https://github.com/kaktusztea/km100/blob/master/km100__tomor_v6.1.pdf?raw=true) (⭕néhol nem friss⭕)
 
 ## Karakteralkotók
 
-- [Karakteralkotó v7.2 (ODS)](https://github.com/kaktusztea/km100/raw/master/new/segedletek/karakteralkoto_v7.2.ods) <sub><sup>([LibreOffice](https://www.libreoffice.org/download/download/))</sup></sub>
--  [Karakteralkotáshoz táblázatok](km100_segedlet_karakteralkotas_v6.1.pdf)
-- [NJK Karakteralkotó v1.1 (PDF)](https://github.com/kaktusztea/km100/blob/master/km100__NJK_karlap_v1.1.pdf)
+- [Karakteralkotó v7.2 (ODS)](https://github.com/kaktusztea/km100/raw/master/new/segedletek/karakteralkoto_v7.2.ods?raw=true) <sub><sup>([LibreOffice](https://www.libreoffice.org/download/download/))</sup></sub>
+-  [Karakteralkotáshoz táblázatok](https://github.com/kaktusztea/km100/raw/master/new/segedletek/km100_segedlet_karakteralkotas_v6.1.pdf?raw=true)
+- [NJK Karakteralkotó v1.1 (PDF)](https://github.com/kaktusztea/km100/blob/master/km100__NJK_karlap_v1.1.pdf?raw=true)
 
 ## Részletes szabályrendszer
 
@@ -19,13 +19,13 @@
 	- [Képzettséglista](021_kepzettseglista.md) (90%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/021_kepzettseglista.md))</sub></sup>
 - [Fortélyok](030_fortelyok.md) (75%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/030_fortelyok.md))</sub></sup>
 	- [Karmák](031_karmak.md)
-	- [Háttér fortélyok](032_hatter_fortelyok.md)
-	- [Általános fortélyok](033_altalanos_fortelyok.md)
-	- [Alvilági és fizikai fortélyok](034_alvilagi_fizikai_fortelyok.md)
-	- [Harci fortélyok](035_harci_fortelyok.md)
-	- [Íjász, hajítás fortélyok](036_ijasz_hajitas_fortelyok.md)
-	- [Lovas fortélyok](037_lovas_fortelyok.md)
-	- [Titkos fortélyok](038_titkos_fortelyok.md)
+	- [Háttér fortélyok](032_hatter_fortelyok.md)🚧
+	- [Általános fortélyok](033_altalanos_fortelyok.md)🚧
+	- [Alvilági és fizikai fortélyok](034_alvilagi_fizikai_fortelyok.md)🚧
+	- [Harci fortélyok](035_harci_fortelyok.md)🚧
+	- [Íjász, hajítás fortélyok](036_ijasz_hajitas_fortelyok.md)🚧
+	- [Lovas fortélyok](037_lovas_fortelyok.md)🚧
+	- [Titkos fortélyok](038_titkos_fortelyok.md)🚧
 - [Tradíciók](040_tradiciok.md) (60%) <sub><sup>([changelog](https://github.com/kaktusztea/km100/commits/master/new/040_tradiciok.md))</sub></sup>
 - [Harcrendszer](050_harcrendszer.md) (85%)
 	- [Életerő](051_eletero.md)

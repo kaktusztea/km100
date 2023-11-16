@@ -4,5 +4,5 @@ A Titkos fortélyok általában egyes képzettségek nagyon magas szinten tört�
 
 ### Titkos harci fortélyok
 
-- [Kobratánc](fortelyok/kobratanc.md)
+- [Kobratánc](fortelyok.titkos/kobratanc.md)
 - TODO

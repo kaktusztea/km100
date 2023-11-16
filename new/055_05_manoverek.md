@@ -92,3 +92,8 @@ Az alábbiakban bemutatjuk a km100 által ismert manővereket. A KM bármikor r�
 
 ---
 
+🚧 Fejleszthető manőverek táblázat (odt to md) 🚧
+
+🚧 Szabályok, leírások, példák Manőverekre (odt to md) 🚧
+
+> Amíg a fentiek még nincsenek markdownba alakítva, használd a [Harcrendszer PDF doksit](https://github.com/kaktusztea/km100/blob/master/km100_05_harc.pdf?raw=true), abban minden benne van (1.2.15 fejezet).
