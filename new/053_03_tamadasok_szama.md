@@ -50,4 +50,4 @@ Minden újabb támadás során az aktuális Támadó Értékre -10 levonás jár
 - Második támadás: `-10TÉ`
 - Harmadik támadás: `-20TÉ`, stb
 
-További támadásokat `Kétkezes Harc` során szerezhet a karakter. Lásd a [Kétkezes Harc](055_03_ketkezes_harc.md) fejezetet!
+További támadásokat `Kétkezes Harc` során szerezhet a karakter. Lásd a [Kétkezes Harc](055_04_ketkezes_harc.md) fejezetet!
