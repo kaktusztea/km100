@@ -60,7 +60,6 @@
 - [Szituációk](110_szituaciok.md) (20%)
 
 ---
-
 ## [🚧 Fejlesztő portál 🚧](https://github.com/kaktusztea/km100/wiki)
 
 ---
