@@ -16,7 +16,7 @@ A Fortélyok egyedi ismeretek, melyeket ugyanúgy KP-ből vehet fel a karakter, 
 - A Fortélyok még nincsenek mind markdown formátumba alakítva. Amíg elkészül a konvertálás, addig használd a régi PDF doksit:
 ```
  
-[Fortélyok PDF doksi](https://github.com/kaktusztea/km100/raw/master/km100_03_fortelyok.pdf?raw=true) 
+[Fortélyok PDF doksi](https://github.com/kaktusztea/km100/raw/master/archive/pdf/km100_03_fortelyok.pdf?raw=true) 
 
 ---
 
