@@ -7,7 +7,7 @@
 
 ## Karakteralkotók
 
-- [Karakteralkotáshoz táblázatok](https://github.com/kaktusztea/km100/raw/master/md/segedletek/km100_segedlet_karakteralkotas_v6.2.pdf?raw=true)
+- [Karakteralkotáshoz táblázatok v6.2 (PDF)](https://github.com/kaktusztea/km100/raw/master/md/segedletek/km100_segedlet_karakteralkotas_v6.2.pdf?raw=true)
 - [Karakteralkotó v7.2 (ODS)](https://github.com/kaktusztea/km100/raw/master/md/segedletek/karakteralkoto_v7.2.ods?raw=true) <sub><sup>([LibreOffice](https://www.libreoffice.org/download/download/))</sup></sub>
 - [NJK Karakteralkotó v1.1 (PDF)](https://github.com/kaktusztea/km100/raw/master/md/segedletek/km100__NJK_karlap_v1.1.pdf?raw=true)
 
