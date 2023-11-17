@@ -48,13 +48,17 @@
 - [Pszi](070_pszi.md) (40%)
 	  - [Pszi diszciplínák](071_pszi_diszciplinak.md) (0%)
 - [Mágia](080_magiarendszer.md) (40%)
-	- [Vulgármágia](081_vulgarmagia.md) (0%)
-	- [Sámánmágia](082_samanmagia.md) (0%)
-	- [Bárdmágia](083_bardmagia.md) (0%)
-	- [Tűzmágia](084_tuzmagia.md) (0%)
 	- [Magasmágia](085_magasmagia.md) (20%)
-		- [Elemi mágia](magia.magas/elemi_magia.md) (50%)
-		- [Papi mágia](089_papimagia.md) (10%)
+		- [Elemi mágia iskola](magia.magas/elemi_magia.md) (50%) 🚧
+	- [Vulgármágia](081_vulgarmagia.md) (0%)
+		- [Árnyékmágia iskola](magia.vulgar/arnyekmagia) 🚧
+		- [Méregmágia iskola](magia.vulgar/meregmagia.md) ⭕
+		- [Méregmágia szemita](magia.vulgar/meregmagia.szemita.md) 🚧
+		- [Nekromancia iskola](magia.vulgar/nekromancia.md) 🚧
+	- [Sámánmágia](082_samanmagia.md) (0%) ⭕
+	- [Bárdmágia](083_bardmagia.md) (0%) ⭕
+	- [Ordani Tűzmágia](084_tuzmagia.md) (0%) ⭕
+	- [Papi mágia](089_papimagia.md) (10%) 🚧
 - [Slan](090_slan.md) (25%)
 - [Érzékelés, Észlelés](100_erzekeles_eszleles.md) (90%)
 - [Szituációk](110_szituaciok.md) (20%)

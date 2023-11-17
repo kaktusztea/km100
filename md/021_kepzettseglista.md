@@ -225,7 +225,7 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🔵Betegségmágia
 
-🔵[Méregmágia](magia.vulgar/meregmagia.md)
+🔵[Méregmágia](meregmagia.md)
 
 🔵Szexuálmágia (bájolások is)
 
