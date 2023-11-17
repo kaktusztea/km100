@@ -51,7 +51,7 @@
 	- [Magasmágia](085_magasmagia.md) (20%)
 		- [Elemi mágia iskola](magia.magas/elemi_magia.md) (50%) 🚧
 	- [Vulgármágia](081_vulgarmagia.md) (0%)
-		- [Árnyékmágia iskola](magia.vulgar/arnyekmagia) 🚧
+		- [Árnyékmágia iskola](magia.vulgar/arnyekmagia.md) 🚧
 		- [Méregmágia iskola](magia.vulgar/meregmagia.md) ⭕
 		- [Méregmágia szemita](magia.vulgar/meregmagia.szemita.md) 🚧
 		- [Nekromancia iskola](magia.vulgar/nekromancia.md) 🚧
