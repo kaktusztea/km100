@@ -48,7 +48,7 @@
 - [Pszi](070_pszi.md) (40%)
 	  - [Pszi diszciplínák](071_pszi_diszciplinak.md) (0%)
 - [Mágia](080_magiarendszer.md) (40%)
-	- [Magasmágia](085_magasmagia.md) (20%)
+	- [Magasmágia](085_magasmagia.md) (Kyr mozaik, Godoni hagyomány) (20%)
 		- [Elemi mágia iskola](magia.magas/elemi_magia.md) (50%) 🚧
 	- [Vulgármágia](081_vulgarmagia.md) (0%)
 		- [Árnyékmágia iskola](magia.vulgar/arnyekmagia.md) 🚧
@@ -57,8 +57,10 @@
 		- [Nekromancia iskola](magia.vulgar/nekromancia.md) 🚧
 	- [Sámánmágia](082_samanmagia.md) (0%) ⭕
 	- [Bárdmágia](083_bardmagia.md) (0%) ⭕
-	- [Ordani Tűzmágia](084_tuzmagia.md) (0%) ⭕
+	- [Godoni Tűzmágia](084_tuzmagia.md) (0%) ⭕
 	- [Papi mágia](089_papimagia.md) (10%) 🚧
+	- [Ork Énekmondói mágia](086_ork.enekmondoi.magia.md)
+	- [Rituálé](087_rituale.md)
 - [Slan](090_slan.md) (25%)
 - [Érzékelés, Észlelés](100_erzekeles_eszleles.md) (90%)
 - [Szituációk](110_szituaciok.md) (20%)
