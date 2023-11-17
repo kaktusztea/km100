@@ -87,7 +87,7 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🔴[Lövészet](kepzettsegek/x_loveszet.md)
 
-🔴[Ostromlövészet](magia.vulgar/x_ostromloveszet.md)
+🔴[Ostromlövészet](kepzettsegek/x_ostromloveszet.md)
 
 ## Fizikai képzettségek
 
