@@ -1,10 +1,10 @@
 ## Manőverek
 
 - [Manőver pont](#Manőver-pont)
-- [[#Manőver Célszáma|Manőver-Célszáma]]
-- [[#Manőverek végrehajtása, képzetlenség|Manőverek-végrehajtása,-képzetlenség]]
-- [[#Manőverek fejlesztése, manőver-ismeretek|Manőverek-fejlesztése,-manőver-ismeretek]]
-- [[#„Passzív Manőver” harci fortély ⭕EZ LEGYEN VAGY NE?⭕|„Passzív Manőver”-harci-fortély-⭕EZ-LEGYEN-VAGY-NE?⭕]]
+- [Manőver Célszáma](Manőver-Célszáma)
+- [Manőverek végrehajtása, képzetlenség](Manőverek-végrehajtása,-képzetlenség)
+- [Manőverek fejlesztése, manőver-ismeretek](Manőverek-fejlesztése,-manőver-ismeretek)
+- [„Passzív Manőver” harci fortély ⭕EZ LEGYEN VAGY NE?⭕](„Passzív Manőver”-harci-fortély-⭕EZ-LEGYEN-VAGY-NE?⭕)
 - [[#Manőver lista|Manőver-lista]]
 - [[#Nem-fejleszthető-manőverek|Nem-fejleszthető-manőverek]]
 	- [[#Nem fejleszthető manőverek#Átdobás|Átdobás]]
