@@ -1,6 +1,6 @@
 ## Manőverek
 
-- [Manőver pont](#Manőver pont)
+- [Manőver pont](#Manőver-pont)
 - [[#Manőver Célszáma|Manőver Célszáma]]
 - [[#Manőverek végrehajtása, képzetlenség|Manőverek végrehajtása, képzetlenség]]
 - [[#Manőverek fejlesztése, manőver-ismeretek|Manőverek fejlesztése, manőver-ismeretek]]
