@@ -62,6 +62,7 @@ A km100 harcrendszere lehetőséget ad rá, hogy a karakter harc közben ilyen s
 | „Manőver ismeret ellenfélnél – az adott manőverre” (ha van) | Fokonként: `+2`                                                               |
 | Módosító körülmények                                   | Tetszőleges KM által megadott +/- érték. Körülmény függő nehezítés/könnyítés. |
 
+<br/> 
 
 ---
 ### Manőverek végrehajtása, képzetlenség
@@ -89,6 +90,8 @@ Manőver-ismeret fokonként +2 módosítót ad az „Ellenpróba” dobásnál
 
 Ilyen ismeret lehet például a **Manőver – Gáncsolás** megtanulása, melynek bónuszát kizárólag **Gáncsolás** manőver esetén kapja meg a karakter. Az, hogy egy Manőver ismeretnek hány foka van, az az adott manőver leírásánál található meg.
 
+<br/> 
+
 ---
 
 ### Passzív Manőver harci fortély 
@@ -107,6 +110,8 @@ A „Passzív Manőver” fortély – ahogy a neve is mondja – passzív tudá
 A fortély többször is felvehető `3`-as „manőver-csoportokra”.
 
 **Figyelem**: a fortély nem ad módosítót a Manőverek végrehajtásához, mivel passzív tudás! A „Passzív manőver” harci fortély nem alkalmazható együtt a „Manőver ismeret” fortéllyal ugyanarra a manőverre. Ha az aktív manőver alkalmazást is megtanulja, akkor is csak a magasabb érték számít, a bónuszok **nem** adódnak össze!
+
+<br/> 
 
 ---
 
@@ -243,6 +248,8 @@ Az alábbiakban bemutatjuk a km100 által ismert manővereket. A KM bármikor r�
 	- Pajzshasználat – `2.fok`
 	- Nagy és Közepes pajzzsal lehet csak
 - Hatás: Pajzsoddal sikeresen feldöntötted ellenfeled, aki ettől kezdve (míg fel nem képes állni) a „**Harc földön fekve**” helyzet módosítóival harcol.
+
+<br/> 
 
 ---
 
@@ -462,6 +469,8 @@ Nem támadsz, hanem ⭕TODO⭕
 	- Csoportot terelni nehezebb. Ilyenkor emelkedik a a nehézség (KM dönt).
 - Nehézség🍁: Harci alakzatban használva jelentősen csökkenthetik a nehézséget. Az alakzatok jellemzőit ismerve a KM dönt [-4;+2]. Ez csökkenheti a végbevitel harcmodor követelményét is.
 - Hatás: arra tereli az ellenfelet, amerre akarja. Hátrálásnál nem kell használni, az megy magától!
+
+<br/> 
 
 ---
 
