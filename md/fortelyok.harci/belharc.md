@@ -1,5 +1,5 @@
 #### 🟣 Belharc (2) - adott fegyverre
-Testközelben érzed igazában elemedben magad.<br />Sikeres 🗡️Belharcba kerülés🗡️ manőver esetén 🗡️Belharci szituációba🗡️ kerülsz és harcértékeidre - csak **Közelharc** harcmodor esetén - a lent leírt pluszok járnak.
+Testközelben érzed igazában elemedben magad.<br />Sikeres 🗡️**Belharcba kerülés**🗡️ manőver esetén 🗡️Belharci szituációba🗡️ kerülsz és harcértékeidre - csak **Közelharc** harcmodor esetén - a lent leírt pluszok járnak.
 
 | |  Követelmény | Hatás  |
 | :----------- | :----------- | :----------- |

@@ -19,6 +19,20 @@
 	- [Öklelés](#Öklelés)
 	- [Pajzzsal öklelés](#Pajzzsal-öklelés)
 
+- [Fejleszthető manőverek](#Fejleszthető-manőverek)
+	- [Belharcba kerülés](#Belharcba-kerülés)
+	- [Belharcból kibontakozás](#Belharcból-kibontakozás)
+	- [Gáncsolás / Lábsöprés (lábbal)](#Gáncsolás--Lábsöprés-lábbal)
+	- [Kibontakozás/Átsiklás](#KibontakozásÁtsiklás)
+	- [Lábkirántás (szálfegyverrel](#Lábkirántás-szálfegyverrel)
+	- [Lánccsapda (láncos fegyverekre)](#Lánccsapda--láncos-fegyverekre)
+	- [Lefegyverzés / Fegyvertörés - egy konkrét harcmodorra](#Lefegyverzés--Fegyvertörés---egy-konkrét-harcmodorra)
+	- [Lefejelés](#Lefejelés)
+	- [Mesterjel](#Mesterjel)
+	- [Pajzstámadás](#Pajzstámadás)
+	- [Páncélszúrás](#Páncélszúrás)
+	- [Távoltartás⭕](#Távoltartás⭕)
+	- [Terelés](#Terelés)
 
 Harc közben gyakran előfordul, hogy egy karakter speciális húzásokkal próbálkozik, egyedi cseleket vet be, hogy megkönnyítse győzelmét, például kirúgja ellenfele lábát, vagy homokot szór annak szemébe. Sokszor van olyan is, hogy egy karakter különösen jó egy adott csel alkalmazásában és azt előszeretettel veti be minden új ellenfelénél. De ha egyszer olyannal kerül szembe, aki számít rá...
 
@@ -232,7 +246,226 @@ Az alábbiakban bemutatjuk a km100 által ismert manővereket. A KM bármikor r�
 
 ---
 
-🚧 Fejleszthető manőverek táblázat (odt to md) 🚧
+### Fejleszthető manőverek
+
+```
++2 Manőver Pont jár tanult fokonként
+```
+
+Az alábbiakban Manőverfejlesztő Pontokból (MFP) fejleszthető Manőverek listáját találhatjuk.
+
+#### Belharcba kerülés
+
+- Nehézség: `9` ⭕Ha nincs "`V`" fázis, minek van nehézsége??⭕
+- Fázisok: `M E`
+- Max fok: `2` 
+- Végbevitel követelménye:
+	- Belharcos fegyver használata
+	- **Közelharc** harcmodor
+- &#8291;1. fok követelmény: **Belharc** fortély - `1.fok` (az épp forgatott fegyverre)
+- &#8291;2. fok követelmény: **Belharc** fortély - `1.fok` (az épp forgatott fegyverre)
+- Speciális:
+	- `4`-el túldobott célszám esetén (Ellenpróbánál) sebző **Megakasztás** támadást elszenvedve is bekerülhet a karakter.
+	- Ellenfél háttal áll: célszámra: `-4`
+	- A fegyver-méretek eltérése is kiemelten érvényesül!!
+	  ⭕TODO: mennyi legyen kategóriánként?)⭕
+- Hatás: Sikeresen bekerültél belharcba, megkapod a Belharci szituációnál leírt módosítókat.
+- Kijövetel: Sikeres **Kibontakozás/Átsiklás** manőver. Lásd ott.
+- Megjegyezés: Ha az ellenfél úgy dönt, hogy szándékosan beengedi belharcba a karaktert, akkor nincs szükség a Manőverre, dobás nélkül megtörténik a bekerülés, amelyet kezdeményezés követ, majd a harc – immár a Belharc szabályainak megfelelően.
+
+---
+#### Belharcból kibontakozás
+
+Lásd: **Kibontakozás/Átsiklás**. ⭕(link)⭕
+
+---
+#### Gáncsolás / Lábsöprés (lábbal)
+- Nehézség: `8/5`
+- Fázisok: `E V`
+- Max fok: `1` 
+- Végbevitel követelménye: -
+- **1. fok** követelmény: Közelharc - `5.szint`, Aktuális harcmodor: - `5.szint`
+- Speciális: 
+	- Belharci szituációban a nehézség csak `5`
+	- Súlyos ellenfélnél: opcionális **Erőpróba** (KM dönt). Gondoljunk a nagy, páncélos ellenfelekre!
+	- Csak kétlábú ellenfelek ellen alkalmazható, több lábbal rendelkező ellenfélnél **Ökleléssel** kell próbálkoznod.
+- Hatás: Sikeresen kikaszáltad ellenfeled lábát, aki a földre zuhan. Felállnia csak sikeres „**Felállás földről**” manőver alkalmazásával sikerülhet. A továbbiakban a **Harc földön fekve** módosítói vonatkoznak rá.
+
+---
+
+#### Kibontakozás/Átsiklás
+
+- Nehézség: `5`
+- Fázisok: `E M`
+	- Ez speciális manőver, mert itt először dobjuk az Ellenpróbát, csak aztán a Megakasztás(oka)t.
+- Max fok: `2` 
+- **1.fok** követelménye: `Ügyesség: 0`
+- **2.fok** követelménye: `Ügyesség: +1`
+- Végbevitel követelménye: -
+- Speciális:
+	- A harcolók fegyver-méret különbsége számít! KM dönt, hogy mennyivel nő/csökken a célszám.
+	- Ha Ellenpróbánál a dobás `2`-vel meghaladja a célszámot, akkor egy ellenfél nem jogosult **Megakasztásra**. Ez további `+2`-enként további egy ellenfélre igaz.
+	- Kibontakozásnál nem folytatható Védekező harc, de **Védő taktika** igen.
+- Hatás: Sikerül a harcból kibontakoznod, ellenfele(i)d már nem támadhat(nak) rád. Most jön a futás... Ha üldöznek, akkor támadóddal **Gyorsaság** ellenpróbát kell dobnotok, amelyet, ha te nyertél, akkor kereket oldottál, ha viszont az üldöződ nyerte, akkor utolért és leadhat rád egy támadást hátulról (`+10 TÉ`), amely ellen puszta kezes harcértékeiddel védekezhetsz.
+- Több támadó:
+	- A célszámba a legmagasabb ellenfél-harcmodor-szint számít be
+	- Minden további ellenfél után `+2` járul a célszámhoz.
+	- A fegyverméret kategória különbségnél is a legnagyobb fegyverű ellenfél fegyveréhez kell viszonyítani.
+	- Belharcból kibontakozáshoz is ezt kell használni
+	- Képzett belharcos ellen nehezebb? +2..
+- Kibontakozás belharcból:
+	- Ugyanúgy dobandó, mint ha harcból akarnánk kibontakozni.
+	- Ha az ellenfélnek Belharc fortélya van, akkor fokonként +2-vel nő a nehézség Ellenpróbánál
+	- Ha az alkalmazónak Belharc fortélya van, akkor dobására fokonként +2 pontot kap Ellenpróbánál
+```diff
+- Ha belharci szituációban a belharcos sebesülést szenved és elrontja fájdalomtűrés próbáját (már nincs Fájdalomtűrés dobás sebesüléskor,... de itt esetleg dobhatunk...), akkor ellenfele – ha akarja – automatikusan megszüntetheti a belharci szituációt, kibontakozhat belőle.
+- Sérülést bevállalva mindenképpen kijönni hogy lehessen?
+```
+
+
+---
+#### Lábkirántás (szálfegyverrel)
+
+- Nehézség: `6`
+- Fázisok: `E V`
+- Max fok: `1` 
+- **1.fok** követelménye: Lándzsavívás – `6.szint`
+- Végbevitel követelménye: szálfegyver használata
+- Speciális:
+	- Kifejezetten lábkirántásra alkalmas fegyverre: +2 Manőver Pont
+	- Súlyos ellenfélnél: opcionális Erőpróba (KM dönt). Gondoljunk a nagy, páncélos ellenfelekre! Ez a tényező kevésbé hangsúlyos, mint a sima Gáncsolásnál.
+	- Csak kétlábú ellenfelek ellen alkalmazható, több lábbal rendelkező ellenfélnél Ökleléssel kell próbálkoznod.
+- Hatás: Sikeresen kihúztad szálfegyvereddel ellenfeled lábát, aki a földre zuhan. Felállnia csak sikeres „**Felállás földről**” manőver alkalmazásával sikerülhet. A továbbiakban a **Harc földön fekve** módosítói vonatkoznak rá.
+
+---
+#### Lánccsapda  (láncos fegyverekre)
+
+- Nehézség: `9`
+- Fázisok: `E V`
+- Max fok: `2` 
+- **1.fok követelménye**: Kétkezes harc – `2.fok`, Láncos fegyverre: Mesterfegyver fortély – `1.fok`
+- **2.fok követelménye**: Kétkezes harc – `2.fok`, Láncos fegyverre: Mesterfegyver fortély – `2.fok`
+- Végbevitel követelménye:
+	-  a balkezes fegyvernek láncnak, vagy lánccal felszereltnek kell lennie
+	- az alkalmazó kétkezes harcot folytat
+	- az ellenfél fegyvere csak egykezes lehet
+- Hatás: Jobbkezes fegyvereddel elvezeted, bal kezedben tartott láncos fegyvereddel pedig foglyul ejted ellenfeled pengéjét, vagy fegyvertartó kezét, melyet a továbbiakban nem tud használni, amíg ki nem szabadítja azt. Amennyiben ellenfeled `0,5` pengénél nagyobb fegyvert forgat, dönthet: 
+	- elengedi a fegyvert, mellyel gyakorlatilag sikeres lefegyverzéssé változik a manőver  
+	- továbbra is kezében tartja
+	  (0,5 pengénél kisebb fegyver tartása esetén kötelezően kézben marad). Ha kézben tartja, akkor az ellenfelet **Harc helyhez kötve** módosítói sújtják, elveszít minden bónuszt az adott fegyverre (Mf, stb), kétkezes harc esetén a továbbiakban a másik kezében tartott fegyver harcértékeivel küzd. Ha másik keze üres, akkor sújtják a **Harc puszta kézzel** fejezetben leírt levonások is, melyek minden pusztakezes harcosra vonatkoznak.
+- Hatás 2: a foglyul ejtett fegyverre a Lefegyverezés manőver csak `5`-ös nehézségű
+
+
+---
+#### Lefegyverzés / Fegyvertörés - egy konkrét harcmodorra
+
+Ha meg akarod fosztani ellenfeledet fegyverétől, vagy kiütve kezéből, vagy annak eltörésével, akkor lefegyverezés manővert kell alkalmaznod.
+
+- Nehézség: `10`
+- Fázisok: `E V`
+- Max fok: `3` 
+- **1.fok követelménye**: Harcmodor képzettség – `5.szint`
+  Ha bármely más harcmodorban eléri az 5.szintet, akkor onnantól kezdve abban a harcmodorban is jár a bónusz, nem szükséges újra pontot költeni a manőverre.
+- **2.fok követelménye**: 1.fok megléte, Harcmodor képzettség – `7.szint` és  Mesterfegyver fortély (választott fegyver) – `1.fok`
+  Amint egy újabb fegyverre felveszi a Mesterfegyver fortélyt (az adott harcmodorra) legalább 1.fokon, akkor onnan kezdve arra is tudja használni a 2.fokú lefegyverzést.
+- **3.fok**: Követelmény: 2.fok megléte, Harcmodor képzettség – 9.szint és Mesterfegyver fortély (választott fegyver) – `2.fok`
+- **Plusz módosító**: a használt fegyver mennyire alkalmas a másik fegyver elvételére. A KM dönt: [-2;+4] (Kétkezes harc sok esetben megkönnyíti a lefegyverzést)
+- Végbevitel követelménye: -
+- **Speciális**: 
+	- Hogy fegyvercsellel, végtagsebzéssel, vagy fegyvertöréssel fosztja meg ellenfelét a karakter, arról a KM dönt és az esetleges módosítókat is ő határozza meg.
+	- Karmok és szarvak ellen nem használható a Manőver, ott **Csonkolás** szükséges
+- Hatás: A lefegyverzés sikeres. Ellenfeled kezéből kihullik a fegyver, vagy eltörik.
+
+---
+#### Lefejelés
+⭕Belharcot előbb!⭕
+
+- Nehézség: `8/5`
+- Fázisok: `E V`
+- Max fok: `1` 
+- Végbevitel követelménye:
+	-  xyz
+- Speciális:
+	- Belharcban a nehézség csak 5
+	- Nem szükséges Belharc fortély
+	- ⭕Ellenfél képzett belharcos: lásd leírás⭕
+	- ⭕TODO: állatoknak általában van Belharcuk! (KM dönt)⭕
+- Hatás: Arcon fejelted áldozatodat.
+
+---
+
+#### Mesterjel
+
+- Nehézség: `10+12`🍁
+- Fázisok: `E V`
+- Max fok: `2` 
+- **1.fok követelmény**: Mesterfegyver – `2.fok`
+- **2.fok követelmény**: Mesterfegyver – `3.fok`
+- Speciális követelmény: A használt fegyver csak valamilyen (legfeljebb 1 penge hosszú) hegyes szúrófegyver lehet
+- Végbevitel követelménye: -
+- Hatás: Sikeres manőver esetén képes vagy mesterjeledet belekarcolni ellenfeled ruhájába/bőrébe. 🍁A nehézség a jel bonyolultságától függ.
+
+
+---
+#### Pajzstámadás
+
+- Nehézség: `6`
+- Fázisok: `E V`
+- Max fok: `1` 
+- **1. fok követelménye**: Aktuális harcmodor - `6.szint`, `Erő: +1`
+- Végbevitel követelménye: Aktuális harcmodor - `4.szint`
+- Speciális: Ez ellen a manőver ellen nem számít a pajzs adta Védő Érték!
+- Hatás: Sebzést dobsz. Zúzó- és kétkezes fegyverek sebzése (SP) `1:1`-ben csökkenti a pajzs **Védő Értékét**.
+
+---
+#### Páncélszúrás
+
+- Nehézség: `Lásd a leírást`
+- Fázisok: `E V`
+- Max fok: `2` 
+- **1. fok követelménye**: Aktuális harcmodor - `6.szint`
+- **2. fok követelménye**: Aktuális harcmodor - `9.szint`
+- Nehézség: vért lefedésétől függ %-ban: `1-10` (példa: Mellvért: `5`, teljes vért: `10`)
+- Speciális:
+	- Végrehajtás (támadás) során **nem kapja meg a +20 TÉ módosítót**! Nem elég a sima találat!
+	- Meglepetés esetén is kell Ellenpróbát dobni
+- Végbevitel követelménye:
+	-  Erre alkalmas fegyver (KM dönt), melynek pengéje befér az ellenfél páncéljának illesztékei közé
+	- Csak Közelharc vagy **Kardvívás** harcmodorban használható
+- Hatás: Képes vagy megtalálni ellenfeled páncélján a rést, ahol megkerülheted a vért adta védelmet. Ha fegyvereddel be tudtál szúrni az illesztékek között (a manőver sikerült), akkor dobj rendes sebzést, mely ellen áldozatodnak csak a vértezet alatt viselt további védelmei adnak **SFÉ**-t. Ne feledjük, hogy a teljes vértezet alatt sokszor láncinget viselnek!
+  Sikeres Páncélszúrás esetén az áldozat nem jogosult Páncéldobásra.
+
+
+---
+#### Távoltartás⭕
+
+Nem támadsz, hanem ⭕TODO⭕
+
+- Nehézség: `5`
+- Fázisok: `M E`
+- Max fok: `⭕TODO⭕` 
+- Végbevitel követelménye:
+	-  ⭕todo⭕
+- Hatás: ⭕todo⭕
+
+
+---
+#### Terelés
+
+- Nehézség: `8`🍁
+- Fázisok: `E`
+- Max fok: `1` 
+- **1.fok követelménye:** Aktuális harcmodor - `6.szint`
+- Végbevitel követelménye: Aktuális harcmodor - ⭕`6.szint`⭕
+- Speciális:
+	- Alkalmazható egyszerre, csoportosan is.
+	- Csoportot terelni nehezebb. Ilyenkor emelkedik a a nehézség (KM dönt).
+- Nehézség🍁: Harci alakzatban használva jelentősen csökkenthetik a nehézséget. Az alakzatok jellemzőit ismerve a KM dönt [-4;+2]. Ez csökkenheti a végbevitel harcmodor követelményét is.
+- Hatás: arra tereli az ellenfelet, amerre akarja. Hátrálásnál nem kell használni, az megy magától!
+
+---
+
+🚧Folytatás: Szabályok Manőverekre 🚧
 
 🚧 Szabályok, leírások, példák Manőverekre (odt to md) 🚧
 
