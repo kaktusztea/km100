@@ -154,8 +154,8 @@ Az alábbiakban bemutatjuk a km100 által ismert manővereket. A KM bármikor r�
 
 ---
 
-#### Kiegészítő támadás  ⭕KELL EZ?⭕
-
+#### Kiegészítő támadás
+ ⭕KELL EZ?⭕
 - Nehézség: `7`
 - Fázisok: `E V`
 - Végbevitel követelménye:
