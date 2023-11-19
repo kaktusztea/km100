@@ -1,14 +1,12 @@
 ## Manőverek
 
 - [Manőver pont](#Manőver-pont)
-- [[#Manőver Célszáma|Manőver Célszáma]]
-- [[#Manőverek végrehajtása, képzetlenség|Manőverek végrehajtása, képzetlenség]]
-- [[#Manőverek fejlesztése, manőver-ismeretek|Manőverek fejlesztése, manőver-ismeretek]]
-- [[#„Passzív Manőver” harci fortély ⭕EZ LEGYEN VAGY NE?⭕|„Passzív Manőver” harci fortély ⭕EZ LEGYEN VAGY NE?⭕]]
-	- [[#„Passzív Manőver” harci fortély ⭕EZ LEGYEN VAGY NE?⭕#Leírás|Leírás]]
-	- [[#„Passzív Manőver” harci fortély ⭕EZ LEGYEN VAGY NE?⭕#Hatás|Hatás]]
-- [[#Manőver lista|Manőver lista]]
-- [[#Nem fejleszthető manőverek|Nem fejleszthető manőverek]]
+- [[#Manőver Célszáma|Manőver-Célszáma]]
+- [[#Manőverek végrehajtása, képzetlenség|Manőverek-végrehajtása,-képzetlenség]]
+- [[#Manőverek fejlesztése, manőver-ismeretek|Manőverek-fejlesztése,-manőver-ismeretek]]
+- [[#„Passzív Manőver” harci fortély ⭕EZ LEGYEN VAGY NE?⭕|„Passzív Manőver”-harci-fortély-⭕EZ-LEGYEN-VAGY-NE?⭕]]
+- [[#Manőver lista|Manőver-lista]]
+- [[#Nem-fejleszthető-manőverek|Nem-fejleszthető-manőverek]]
 	- [[#Nem fejleszthető manőverek#Átdobás|Átdobás]]
 	- [[#Nem fejleszthető manőverek#Felállás földről|Felállás földről]]
 	- [[#Nem fejleszthető manőverek#Feszítés, Leszorítás / Feszítésből kijövetel|Feszítés, Leszorítás / Feszítésből kijövetel]]
