@@ -1,23 +1,23 @@
 ## Manőverek
 
 - [Manőver pont](#Manőver-pont)
-- [Manőver Célszáma](Manőver-Célszáma)
-- [Manőverek végrehajtása, képzetlenség](Manőverek-végrehajtása,-képzetlenség)
-- [Manőverek fejlesztése, manőver-ismeretek](Manőverek-fejlesztése,-manőver-ismeretek)
-- [„Passzív Manőver” harci fortély ⭕EZ LEGYEN VAGY NE?⭕](„Passzív Manőver”-harci-fortély-⭕EZ-LEGYEN-VAGY-NE?⭕)
-- [[#Manőver lista|Manőver-lista]]
-- [[#Nem-fejleszthető-manőverek|Nem-fejleszthető-manőverek]]
-	- [[#Nem fejleszthető manőverek#Átdobás|Átdobás]]
-	- [[#Nem fejleszthető manőverek#Felállás földről|Felállás földről]]
-	- [[#Nem fejleszthető manőverek#Feszítés, Leszorítás / Feszítésből kijövetel|Feszítés, Leszorítás / Feszítésből kijövetel]]
-	- [[#Nem fejleszthető manőverek#Kéztörés|Kéztörés]]
-	- [[#Nem fejleszthető manőverek#Kiegészítő támadás  ⭕KELL EZ?⭕|Kiegészítő támadás  ⭕KELL EZ?⭕]]
-	- [[#Nem fejleszthető manőverek#Lábtörés|Lábtörés]]
-	- [[#Nem fejleszthető manőverek#Leforgatás/Irányítás|Leforgatás/Irányítás]]
-	- [[#Nem fejleszthető manőverek#Pontra támadás|Pontra támadás]]
-	- [[#Nem fejleszthető manőverek#Nyaktörés|Nyaktörés]]
-	- [[#Nem fejleszthető manőverek#Öklelés|Öklelés]]
-	- [[#Nem fejleszthető manőverek#Pajzzsal öklelés|Pajzzsal öklelés]]
+- [Manőver Célszáma](#Manőver-Célszáma)
+- [Manőverek végrehajtása, képzetlenség](#Manőverek-végrehajtása,-képzetlenség)
+- [Manőverek fejlesztése, manőver-ismeretek](#Manőverek-fejlesztése,-manőver-ismeretek)
+- [Passzív Manőver harci fortély](#Passzív-Manőver-harci-fortély)
+- [Manőver lista](#Manőver-lista)
+- [Nem fejleszthető manőverek](#Nem-fejleszthető-manőverek)
+	- [Átdobás](#Átdobás)
+	- [Felállás földről](#Felállás-földről)
+	- [Feszítés, Leszorítás / Feszítésből kijövetel](#Feszítés,-Leszorítás-/-Feszítésből-kijövetel)
+	- [Kéztörés](#Kéztörés)
+	- [Kiegészítő támadás](#Kiegészítő-támadás)
+	- [Lábtörés](#Lábtörés)
+	- [Leforgatás/Irányítás](#Leforgatás/Irányítás)
+	- [Pontra támadás](#Pontra-támadás)
+	- [Nyaktörés](#Nyaktörés)
+	- [Öklelés](#Öklelés)
+	- [Pajzzsal öklelés](#Pajzzsal-öklelés)
 
 
 Harc közben gyakran előfordul, hogy egy karakter speciális húzásokkal próbálkozik, egyedi cseleket vet be, hogy megkönnyítse győzelmét, például kirúgja ellenfele lábát, vagy homokot szór annak szemébe. Sokszor van olyan is, hogy egy karakter különösen jó egy adott csel alkalmazásában és azt előszeretettel veti be minden új ellenfelénél. De ha egyszer olyannal kerül szembe, aki számít rá...
@@ -77,7 +77,8 @@ Ilyen ismeret lehet például a **Manőver – Gáncsolás** megtanulása, melyn
 
 ---
 
-### „Passzív Manőver” harci fortély ⭕EZ LEGYEN VAGY NE?⭕
+### Passzív Manőver harci fortély 
+⭕EZ LEGYEN VAGY NE?⭕
 
 Ennek a fortélynak valójában a **Harci fortélyok** ⭕(link)⭕ fejezetben van a helye, de tartalmilag ide kapcsolódik, ezért itt is ismertetésre kerül.
 
