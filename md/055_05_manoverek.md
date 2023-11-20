@@ -197,12 +197,11 @@ Az alábbiakban bemutatjuk a km100 által ismert manővereket. A KM bármikor r�
 
 #### Leforgatás/Irányítás
 
-- Nehézség: `8 / 4`
+- Nehézség: `8 / 4` (Lefeszített ellenfél ellen a nehézség csak `4`)
 - Fázisok: `E V`
 - Végbevitel követelménye:
-	-  ⭕TODO⭕
-- Speciális:  Lefeszített ellenfél ellen a nehézség csak `4`
-- Hatás: xyz
+	-  Belharci szituáció
+- Hatás: Képes vagy ellenfeledet a számodra kedvező irányba forgatni/terelni miközben összeakaszkodtok. Legfeljebb `5 méternyi` távot tetethetsz meg vele.
 
 ---
 
