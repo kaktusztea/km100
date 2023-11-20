@@ -1,0 +1,18 @@
+﻿KP költés 2 kategória.
+* Eddig: Harci+Misztikus
+* Egyéb
+
+Ez túl merev, legyen:
+* Primer képzettségek: minden Harci+Misztikus, Fájdalomtűrés, Észlelés, Emberismeret, Akrobatika
+* Szekunder képzettségek: az összes többi
+
+-------------------------------------------
+HM/Szint - doksik: out of sync
+* Karakteralkotás doksi:
+  * 1 HM = 5 KP
+  * Max HM/Szint 1 fajta értékre: 5
+* Karakteralkotó ods
+  * 1 HM = 4 KP !!!
+  * szintenként max 3 lehet a difi a TÉ/VÉ-re költött HM között
+
+-------------------------------------------
