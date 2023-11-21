@@ -273,7 +273,7 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 ## Ordani tűzmágia képzettség iskolái
 
-🔵[Alapformák](magia.tuz/alapformak.md)
+🔵[Alapformák](alapformak.md)
 
 🔵TODO⭕
 
