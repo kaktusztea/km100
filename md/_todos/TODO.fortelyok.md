@@ -29,6 +29,7 @@ Nem túl táp -e 1. fokúnak?
 ## Lovas íjászat
 
 Az "Alapeset" ugyanaz, mint az 1. fok!
+A Lovas fortélyoknál 2x szerepel!!
 
 ---
 
@@ -86,11 +87,7 @@ Vagy az ember kapjon plusz KP-t...?
 
 Esetleg a csak első szinten felvehető fortélyokat külön csoportosítsuk? (Háttér fortélyokat most szűntettük meg!)
 
----
 
-## A Lovas fortélyoknál
-
-A  Lovas íjászat 2x szerepel!
 
 ---
 

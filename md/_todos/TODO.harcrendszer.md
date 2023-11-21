@@ -95,6 +95,20 @@ b.) 3 sávos
 
 ---
 
+## Sebzésnél mi legyen a VÉ csökkentéssel?
+
+Ha mindent felfog a páncél, olyankor nincs VÉ csökk egyáltalán! 
+- Beta megoldás 1: a VÉ csökkentés az SFÉ nélküli sebzéshez tartozó VÉ csökkentés legyen. Bonyolít...
+- Beta megoldás 2: Sebző találat alapból 5 VÉ csökk mindig. Ehhez jön a sebzésből adódó VÉ csökk. Egyszerűbb, de kevébé realisztikus.
+
+Támadás erőből nem éri meg, a többszörös túlütés van olyan jó.
+- Beta megoldás: helyette legyen ez alapból egy harci taktika ("Támadás erőből") és lehessen fortéllyal rátápolni (??)
+
+00 dobás: tuti találat is legyen? Vagy CSAK 3 SP?
+- Beta megoldás: Szerintem legyen tuti találat.
+
+---
+
 ## Kezdeményezés
 
 → Most akkor vonjuk be a harci dominanciát, vagy csak a "ki üt előbb"-et jelentse?

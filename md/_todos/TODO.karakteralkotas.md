@@ -19,13 +19,6 @@ Kell, vagy túlbonyolít?
  
 ---
 
-## Ork
-
-- 2 foknak megfelelő "árú" Faj-fortély • Tulajdonságok: -1 látás, frankó szaglás • Napi 2 ÉP-t gyógyul 1 helyett
-- Dávid: az infralátás úgy működjön, mint a mély hangok hallása. Ha van fény, bezavar. _**Nem átváltok**__, mint egy kapcsolóval!_
-
----
-
 ## KP költés 2 kategória.
 
 * Eddig: Harci+Misztikus
@@ -66,7 +59,7 @@ Beírni
 
 ---
 
-## - +5-ös tulajdonságok
+## +5-ös tulajdonságok
 
 - Erő +5: átütést ad (+1/+2?)
 - Gyorsaság +5: +1 Sebzés? (nem értek egyet...)
@@ -76,7 +69,17 @@ Beírni
 
 ## Fajok ÉP módosítói, limitei
 
-Félig megvan
+- Félig megvan
+- A fajok spec. képességeit (pl. az Ultralátás) meg kell venni KP-ért?
+
+---
+
+## Ork
+
+- 2 foknak megfelelő "árú" Faj-fortély
+- Tulajdonságok: -1 látás, frankó szaglás
+- Napi 2 ÉP-t gyógyul 1 helyett
+- Dávid: az infralátás úgy működjön, mint a mély hangok hallása. Ha van fény, bezavar. _**Nem átváltok**__, mint egy kapcsolóval!_
 
 ---
 

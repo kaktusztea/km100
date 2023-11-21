@@ -1,3 +1,7 @@
+## LFG fórum topik
+https://lfg.hu/forum/topic/2178-pszi/
+
+---
 
 ## Max pszí pont mennyi legyen?
 
