@@ -24,17 +24,6 @@ Hm?
 
 ---
 
-## Aura
-
-Ez legyen.
-Egységes mágiaellenállás. Nem külön asztrál/mentál pajzs. A/M sík azért van persze, de az Aura mindhárom síkon véd (asztrál/mentál/fizikai)
-
-Olyan lenne, mint a statikus pajzs, de nem kell építgetni, viszont változhat hangulatok, események hatására is.
-
-Akár csak bizonyos hatásokkal szemben gyengébb/erősebb lehet, stb.
-
----
-
 ## Pajzsok
 
  - "Pszí Pajzs" = régi "Dinamikus pajzs"

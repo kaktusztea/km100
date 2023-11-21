@@ -1,40 +1,38 @@
+
+## Manapont vásárlás egyszerre
+ 
+- Lehet, hogy az unlimited manavásárlás nem jó ötlet. Ha beáldoz 1 szintet, az nálunk 80/3=24MP!!
+- Legyen mondjuk max 15MP/szint
+
+---
+
+## Mágiaiskolákat meghatározni az egyes Tradíciók alá
+
+- Demonológia a Képzettségek könyvtár alatt van jelenleg.
+- boszorkányok: táncmágiája (Ezer Fátyol Nővérei: dzsad szekta nyomja)
+- Árnymágia, Quars (fejvadászok): szerafizmus legyen! (Kornya)
+- Szerafizmus ne illeszkedjen direkt az újkori magasmágiába
+
+- sokkal színesebb. Patrónustól függjön, hogy milyen hatalmat, formulákat ad. De hasson ki a felhasználóra.
+
+- Több defenzív mágiaforma (iskolánként, vagy metamágia alá?)
+
+---
+
 ## Elemi mágia
 
 minden plusz erősség +1 szegmens varázslási idő
 
 ---
 
-## Delay
-Két varázslás között kell egy minimális idő (UTK-ban 2 szegmens)
+## Mágikus lövészet
 
----
-
-## mágikus lövészet
 Képzettség kerüljön be a harcmodorok közé
 
 - a "fegyver" a CÉ számolásnál az iskola szintjétől függjön (de ne legyen nagyon táp!)
 - külön mágikus fortélyok:ű
 	- "pontos mágikus lövész" - 1,2.szint ?
 	- követelményei: éles, extrém szituációk is legyenek, esetleg személyiségfüggő
-
----
-
-## Mágia pool
-
-Egy adott hatás mana igénye nem konstans. Ez egy keret, amiből egy adott tartományon belül fenntartható egy konstans állapot. Pl. enyhe öröm, kártevők távoltartása.
-
----
-
-## Reconnect
-Utólagos rácsatlakozás
-• egy varázslatra
-• más varázslatára
-
----
-
-## Mágia "kopása"
-
-Idővel gyengül a hatása, erőssége. Kidolgozni.
 
 ---
 
@@ -78,16 +76,10 @@ Pl. egy elégetett levél helyreállítása hamuból.
 
 • esetleg: ki lehessen pótolni. Pl. nincs elég mana _____
 
-### Random mágia ötletek
-
-Lehet, hogy el kéne szakadni a szegmens alapú varázslási időtől.
 
 ---
 
-Mágia előkészítése csökkenti a kiszámíthatatlanságot.
-
----
-
+## Halottbeszéltetés
 Halottbeszéltetés (testbe visszaidézve könnyebb)
 
 ---
@@ -96,17 +88,11 @@ Halottbeszéltetés (testbe visszaidézve könnyebb)
     - elemi mágia - víz
     - Természetismeret
 
----
-
-Egyszerre elvarázsolható mana: szint + (max mana /2)
-
----
-
-Mágikus karizma egy njk-n. Rögtön nagyon vonzónak találják.
 
 ---
 
 ## Elemi mágia kitörés
+
 - Távolság plusz szegmenseket ad hozzá
 - Erősség plusz szegmenseket ad hozzá ÉS sz elemtől függő mellékhatásokat. Pl. nagy tűzkitörés: több idő és látványosan szivárognak tűzszálak a varázslótól abba a pontba.
 
@@ -118,39 +104,9 @@ Mágikus karizma egy njk-n. Rögtön nagyon vonzónak találják.
 
 ---
 
-## Varázslás gyorsítása
-
-• több mana
-• emelkedő nehézség
-
----
-
 ## Tapadás/tapadósság mágia
 
 Összhangok, követelmények
-
----
-
-## Leplezés mozaik
-
-Akkor leplez sima vizsgálódás ellen teljesen, ha a legmagasabb mozaik erősségének megfelelő erősségű leplezést adunk hozzá. **VAGY** az össz mana x %-át.
-
-Ha ennél gyengébb a leplezés akkor is segít csak nem teljesen.
-
-**Tűzkitörés leplezés**: nem érződik a kiáramló hő a levegőben mikor a mana gyűlik a kitörés pontjába a robbanás előtt. Nem látszik az aurakapcsolat a varázslóval. X erejű őselem felett már láthatóak szabad szemmel is kísérő hatások.
-
-A tartósan leplezett varázslatok folyamatosan manát vonnak el a manahálóból. Ez feltűnhet, lehet árulkodó jel.
-
----
-
-## Manaháló
-
-Nem állandó, vannak manában gazdag, szegény és holt területek. Skála: 0-10 (0: holt, 10: nagyon gazdag) Alap: 5.
-
-1: holt terület
-2: 2,5x manaköltség ??? Külső erősre?
-3: 2x manaköltség
-4: 1,5x manaköltség
 
 ---
 
@@ -161,16 +117,44 @@ Szint == Nehézség??
 
 ---
 
-## Varázslás mellékhatások
-
-Pl. döglegyek hangja, bomlás szaga (a varázsló egyedi "lenyomata")
+## Mágiaismeret
+Nincs, ne is legyen, de 1-3. szintig felvehető mágiaiskola Tradíció nélkül, megfelelő előtörténeti indokkal. Az csak lexikális tudás és nem is fejleszthető tovább.
 
 ---
 
-## UTK kapcsán felmerült ötletek
+### Rúnamágia kimaradt
 
-c. Elemi mágia: minden plusz erősség +1 szegmens
-d. Két varázslás között kell egy minimális idő (UTK-ban 2 szegmens)
+Bizony.
+
+---
+
+## Apró varázslatok
+
+Például Boszorkánymesteri mágiában: apró hatások az áldozaton
+
+(pl. Borzongás, Izzadás, Tüsszögés) Semmi más hatása nincs, de fosatásra és hangulatra jó.
+
+Hogy tudjon aprókat is varázzolni, ne csak kombájn mód legyen.
+
+---
+
+## Elemi erő
+
+Az ütések gyengítsék! Ennek is 3 féle SFÉ-je legyen? Szúrás ellen a leggyengébb. Vágás, zúzás ellen kb. ugyanakkora.
+
+---
+
+## Mágikus jelek védelmei
+
+Védelem (papi oltár, varázslói jel, stb) boszorkány, varázsló, bm, pap mágia ellen?
+
+---
+
+## Jelmágia visszafogása
+
+- Nagyon spéci anyagokra lehessen csak felírni
+
+- az ilyen tárgyak zavarjanak bele a varázslásba (ha több van belőlük)
 
 ---
 

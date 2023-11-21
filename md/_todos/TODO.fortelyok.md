@@ -7,6 +7,7 @@ Kaland tapasztalat: Nagyon táp!🔴
 
 ## Forgószél támadás
 
+NE LEGYEN BONYOLULT ÉS SOK HA-AKKOR SZABÁLY!
 - max annyi ellenfélre lehessen egy csapással támadni, mint a karakter akt. tám/kör értéke
 - ez elhasználja az össz tám/kört!
 - plusz ellenfelenként -10 TÉ🟡(?), tehát 2 ellenfél ellen még nincs levonás, 3 ellen -10TÉ, 4 ellen -20TÉ (persze ha van ennyi támadása). Ez lehet h bonyolít és nem is éri meg felvenni akkor már.
@@ -30,14 +31,6 @@ Nem túl táp -e 1. fokúnak?
 
 Az "Alapeset" ugyanaz, mint az 1. fok!
 A Lovas fortélyoknál 2x szerepel!!
-
----
-
-## Kitartás
-
-Jobb, mint az Úszás és Futás - Dávid szerint.
-
-💡: Ne ~~+2~~-t, csak `+1`-et adjon Úszásra és Futásra is. Így a rövidtávfutást lehet a Sprinttel tápolni, a hosszútávot meg ezzel.
 
 ---
 
@@ -81,7 +74,7 @@ Kidolg. (vagy ez manőver?)
 
 ## Faj-fortélyok
 
-PROB_FORTÉLY_#3.
+PROB-FORTÉLY#3.
 
 A Fajok különleges képességeikkel együtt egy „csomagban” legyenek „beárazva” „Faj-fortélynak”?
 

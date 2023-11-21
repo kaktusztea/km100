@@ -1,5 +1,5 @@
 
-# Képzettség sablonok
+## Képzettség sablonok
 
 Kidolgozni a sablonnal az összes képzettséget + hozzájuk fortélyokat (ne túl sokat!).
 A szint követelmények legyenek inkább Tulajdonságok, nem akarunk egy tök kusza függőségi gráfot!
@@ -35,14 +35,19 @@ Kimaradt a Mozaikmágia iskolái közül
 
 Ne legyen inkább Átfogó..? (Bár a sima nyelvismeret csak Könnyű)
 
+---
+
 ### Kocsihajtás
 
 Jelenleg 2 fokú fortély. Legyen inkább képzettség?
+
+---
 
 ## A Csapdák _hatástalanítása_
 
 Hova tartozzon? Csapdaállítás, vagy Mechanika is jó?
 
+---
 
 ## Mozaikmágia képzettség iskolák
 

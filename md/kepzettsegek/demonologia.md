@@ -77,3 +77,9 @@ Alacsonyrendű és közrendű démonokat lehetséges megkötni, rabszolgává te
 > Síkkapuk nyitása
 
 ⭕Márk: Ehhez most nincs ötletem.⭕
+
+<br />
+
+> SFÉ irányelv
+
+A démonoknak  van egy elég nagy SFÉ-je sima fegyver ellen, de nem sebezhetetlenek. Ez az SFÉ nem számít mágikus, vagy áldott fegyver ellen.

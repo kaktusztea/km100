@@ -3,37 +3,33 @@
   - Mágiaiskolák szintjeinek összege?
   - Összpontosítás képzettség?
 
+Egységes mágiaellenállás. Nem külön asztrál/mentál pajzs. A/M sík azért van persze, de az Aura mindhárom síkon véd (asztrál/mentál/fizikai)
+
+Olyan lenne, mint a statikus pajzs, de nem kell építgetni, viszont változhat hangulatok, események hatására is.
+
+Akár csak bizonyos hatásokkal szemben gyengébb/erősebb lehet, stb.
+
 ---
 
-## Pszi fortély maradjon (?)
+## Pszi fortély megmaradjon (?)
 Aura:
 - képzettség külön + (szint x 3??)
 - Tradíciósok Átlagosként fejleszthetik, mások Átfogóként (?)
 - Ez a mágikus akarat és Mágiaellenállás is. 
 - Mivel alacsony szám mivel dobjunk rá? Tulajdonság beszámítson?
 
+---
+
 ## TODO: Átnézni a Codex Grimoire-t
  - Aura, mágikus akarat, ME
  - Mágiaiskolák
  - Hogyan integrálható km100-ba?
 
+---
+
 ## Mana pontot vegyünk vagy Aurát?
 - Külső Erő, Belső Erő
 - Papok? (külső erős?)
-
-## Hol van a max szint?
-Csinálni egy nagyhatalmú mágust pl.
-
----
-
-## Mágiaismeret
-Nincs, ne is legyen, de 1-3. szintig felvehető mágiaiskola Tradíció nélkül, megfelelő előtörténeti indokkal. Az csak lexikális tudás
-
----
-
-## Összhangok
-
-adhatnak boostot, kidolgozni őket a'la Codex.
 
 ---
 
@@ -44,3 +40,8 @@ adhatnak boostot, kidolgozni őket a'la Codex.
 
 ---
 
+## Fizikai ellenállás átalakítással szemben
+
+Fizikai ellenállásba mi számítson bele és számítson-e a pszí-pajzs / Aura?
+
+---

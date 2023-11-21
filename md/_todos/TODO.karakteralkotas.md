@@ -1,5 +1,9 @@
+## Hol van a max szint?
+Csinálni egy nagyhatalmú mágust pl.
 
-# Karakteralkotás, próbák
+---
+
+## Karakteralkotás, próbák
 
 - Képzettség vs Tulajdonság ellenpróba: Beta megoldás: dob képzettségpróbát vakon. Ha például az Átlagos szintet éri el a dobás, akkor a másik fél Átlagos nehézségű Tulajdonságpróbát dob. → Túl kell dobni, vagy elég megdobni??
 
