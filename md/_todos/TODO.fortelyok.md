@@ -37,6 +37,8 @@ A Lovas fortélyoknál 2x szerepel!!
 
 Jobb, mint az Úszás és Futás - Dávid szerint.
 
+💡: Ne ~~+2~~-t, csak `+1`-et adjon Úszásra és Futásra is. Így a rövidtávfutást lehet a Sprinttel tápolni, a hosszútávot meg ezzel.
+
 ---
 
 ### Harci akrobatika
