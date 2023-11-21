@@ -16,6 +16,11 @@ Követelmény:
 - Manavisszanyerés: csillagokból, a mágikus összhangzat megszólaltatásával.
 ```
 
+
+## Bárd varázslatok táblázat
+http://users.atw.hu/atlantisz/magus/D20/Varazslatok-Pszi/Bardmagia.pdf
+
+
 ### Vakság varázslat
 
 • Jelen formájában nagyon brutál
