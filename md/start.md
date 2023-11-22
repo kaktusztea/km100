@@ -4,6 +4,7 @@
 
 - [Segédlet esszencia (játékalkalomra) (PDF)](https://github.com/kaktusztea/km100/raw/master/md/segedletek/km100_segedlet_ingame_v1.6.pdf?raw=true)
 - [Tömör szabályrendszer 6.1 (PDF)](https://github.com/kaktusztea/km100/raw/master/md/segedletek/km100_tomor_v6.1.pdf?raw=true) (⭕néhol nem friss⭕)
+- [Study: Sebzés és VÉ csökkentés adminisztratív lépéseinek száma (odt)](https://github.com/kaktusztea/km100/blob/master/md/segedletek/Study_Sebzes_es_VE_csokk_lepesszama.pdf?raw=true)
 
 ## Karakteralkotók
 
