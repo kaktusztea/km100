@@ -2,15 +2,15 @@
 
 ## Kivonatok
 
-- [Segédlet esszencia (játékalkalomra) (PDF)](https://github.com/kaktusztea/km100/raw/master/md/segedletek/km100_segedlet_ingame_v1.6.pdf?raw=true)
-- [Tömör szabályrendszer 6.1 (PDF)](https://github.com/kaktusztea/km100/raw/master/md/segedletek/km100_tomor_v6.1.pdf?raw=true) (⭕néhol nem friss⭕)
-- [Study: Sebzés és VÉ csökkentés adminisztratív lépéseinek száma (odt)](https://github.com/kaktusztea/km100/blob/master/md/segedletek/Study_Sebzes_es_VE_csokk_lepesszama.pdf?raw=true)
+- [Segédlet esszencia (játékalkalomra) (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_ingame_v1.6.pdf?raw=true)
+- [Tömör szabályrendszer 6.1 (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_tomor_v6.1.pdf?raw=true) (⭕néhol nem friss⭕)
+- [Study: Sebzés és VÉ csökkentés adminisztratív lépéseinek száma (odt)](https://github.com/kaktusztea/km100/blob/master/segedlet/Study_Sebzes_es_VE_csokk_lepesszama.pdf?raw=true)
 
 ## Karakteralkotók
 
-- [Karakteralkotáshoz táblázatok v6.2 (PDF)](https://github.com/kaktusztea/km100/raw/master/md/segedletek/km100_segedlet_karakteralkotas_v6.2.pdf?raw=true)
-- [JK Karakteralkotó v7.2 (ODS)](https://github.com/kaktusztea/km100/raw/master/md/segedletek/karakteralkoto_v7.2.ods?raw=true) <sub><sup>([LibreOffice](https://www.libreoffice.org/download/download/))</sup></sub>
-- [NJK Karakterlapok v1.1 (PDF)](https://github.com/kaktusztea/km100/raw/master/md/segedletek/km100_NJK_karlap_v1.1.pdf?raw=true)
+- [Karakteralkotáshoz táblázatok v6.2 (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_karakteralkotas_v6.2.pdf?raw=true)
+- [JK Karakteralkotó v7.2 (ODS)](https://github.com/kaktusztea/km100/raw/master/segedlet/karakteralkoto_v7.2.ods?raw=true) <sub><sup>([LibreOffice](https://www.libreoffice.org/download/download/))</sup></sub>
+- [NJK Karakterlapok v1.1 (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.1.pdf?raw=true)
 
 ## Részletes szabályrendszer
 
