@@ -350,7 +350,7 @@ Hatásában megegyezik a 1-es Erősítésű Asztrálszem diszciplínával, de pa
 
 ### Vakság, süketség
 
-Vak, vagy süket karakter indítása esetén a karakter Látása/Hallása `-5`-ösnek számít, és a karakter soron kívül `1. szinten` kap cserébe X KP-t. Ahol X:
+Vak, vagy süket karakter indítása esetén a karakter **Érzékenysége** ilyen típusú érzékelésekre `-5`-ösnek számít, és a karakter soron kívül `1. szinten` kap cserébe X KP-t. Ahol X:
 
 ```
 - Vakság: + 40 KP
