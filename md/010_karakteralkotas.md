@@ -12,8 +12,6 @@
     - [Emlékezet](#emlékezet)
     - [Önuralom](#önuralom)
     - [Érzékenység](#érzékenység)
-  - [Érzékek (származtatott tulajdonságok)](#érzékek-származtatott-tulajdonságok)
-    - [Érzékek növelése](#érzékek-növelése)
     - [Vakság, süketség](#vakság-süketség)
     - [Tartós sérültség](#tartós-sérültség)
   - [Tulajdonság értékek megállapítása](#tulajdonság-értékek-megállapítása)
