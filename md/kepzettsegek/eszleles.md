@@ -7,7 +7,7 @@
 **Domináns Tulajdonságok**:
 
 - Intelligencia
-- Származtatott Érzékek: Intuíció (Fogékonyságból), Látás, Hallás, Szaglás, Tapintás, Ízlelés (Edzettségből)
+- Származtatott Érzékek: Intuíció (Érzékenységból), Látás, Hallás, Szaglás, Tapintás, Ízlelés (Edzettségből)
 
 **Képzettség párja**: -
 
@@ -52,9 +52,9 @@ Az viszont igaz, hogy az Észlelés képzettségpróba dobásakor legtöbbször 
 | :----- | :----- | :-----: | :-----: |
 | Novícius (3)     | Szemfüles csibész | - | - |
 | Kismester (6)    | Tapasztalt tolvaj | - | - |
-| Mester (9)       | Veterán fejvadász | - | Fogékonyság:&nbsp;+1 |
-| Nagymester (12)  | Elit, uralkodói testőr | Erős, leplezetlen mágikus jelenségeket általában megérzi és azok jellegét is (pozitív, negatív) | Fogékonyság:&nbsp;+2 |
-| Élő legenda (15) | Harcművész nagymester, mágus | „Valami nincs rendben” | Fogékonyság:&nbsp;+3 |
+| Mester (9)       | Veterán fejvadász | - | Érzékenység:&nbsp;+1 |
+| Nagymester (12)  | Elit, uralkodói testőr | Erős, leplezetlen mágikus jelenségeket általában megérzi és azok jellegét is (pozitív, negatív) | Érzékenység:&nbsp;+2 |
+| Élő legenda (15) | Harcművész nagymester, mágus | „Valami nincs rendben” | Érzékenység:&nbsp;+3 |
 
 <br />
 

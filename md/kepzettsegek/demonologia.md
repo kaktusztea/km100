@@ -2,7 +2,7 @@
 
 **Próba**: Idézés csak biztos tudásból: vagy emlékszik az adatokra és a rituálékra, vagy nem. Démonokra varázslásra (asztrál/mentál) van próba. Lásd lenn.
 
-**Domináns Tulajdonságok**: Emlékezet, Intelligencia és Önuralom a gondolkodásmódjuk kiismeréséhez, Fogékonyság az idézéshez.
+**Domináns Tulajdonságok**: Emlékezet, Intelligencia és Önuralom a gondolkodásmódjuk kiismeréséhez, Érzékenység az idézéshez.
 
 **Kapcsolódó fortélyok**: ⭕xyz
 
@@ -21,9 +21,9 @@
 | :----- | :----- | :-----: | :-----: |
 | Novícius (3)     | Birtokában van a démoni világ alapvető elméleti ismereteinek.<br />(1) Démoni síkok felépítése, démonok hierarchiája. Képes megmondani egy lényről, hogy az démon-e.<br />(2), Ismeri az általános démoni tulajdonságokat<br />(3) Felismer a démonidézésre felkészített helyszíneket, tárgyakat.<br />**Példa**: Inkvizítor | - | Emlékezet +1 |
 | Kismester (6)    | Elkezdi a konkrét fajok tanulmányozását<br />(4) Az ismertebb démonok (lásd Bestiárium) nevének és főbb jellemzőinek ismerete (pl. vadász-, harcművész-, csábító-, tűzdémon stb.)<br />(5) Megismeri a fontosabb démoni síkok felépítését, azok urait, hercegeit<br />(6) Tudása kezd kiterjedni a kevésbé ismert fajokra és síkokra is<br />**Példa**: Démonikus varázsló | ⭕ | Emlékezet +2 |
-| Mester (9)       | Megismeri a démonok gondolkodását, és innentől kezdve képessé válik megdézésükre mágia igénybevétele nélkül is.<br />(7) Ismeri a gyengéit, erősségeit, mágikus és egyéb képességeit az ismertebb fajoknak<br />(8) Ismeri az alacsony intelligenciájú démonok gondolkodását, meg tudja mondani, mennyire veszélyes egy démon (kb. hányadik szintű karakternek felel meg)<br />(9) Alsórendű démonok idézése, urak és hercegek képességeinek ismerete. Innentől lehetőséges megpróbálni a démonokra való varázslást mentál és asztrálmágia formájában.<br />**Példa**: Nomád sámán  | ⭕ | Fogékonyság&nbsp;0<br />Intelligencia&nbsp;+1<br />Önuralom&nbsp;+1<br />Emlékezet&nbsp;+2 |
-| Nagymester (12)  | (10) Az összes yneviek által ismert démon nevét és főbb jellemzőit tudja<br />(11) Közrendű démonok idézése, érti az átlagos intelligenciájú démonok logikáját<br />(12) Kapuk nyitása démoni síkokra<br />**Példa**: Démonikus mágus  | ⭕ | Fogékonyság&nbsp;+1<br />Intelligencia&nbsp;+2<br />Önuralom&nbsp;+2<br />Emlékezet&nbsp;+3 |
-| Élő legenda (15) | (13) Démonurak idézése, alacsonyrendű démon állandó megkötése<br />(14) minden adatod tud az összes ismert démonról, érti az intelligens démonok gondolkodásának logikáját<br />(15) Démonhercegek idézése, közrendű démon állandó megkötése<br />**Példa**: Démonimádó szekta nagymestere  | ⭕ | Fogékonyság&nbsp;+2<br />Intelligencia&nbsp;+3<br />Önuralom&nbsp;+3<br />Emlékezet&nbsp;+3 |
+| Mester (9)       | Megismeri a démonok gondolkodását, és innentől kezdve képessé válik megdézésükre mágia igénybevétele nélkül is.<br />(7) Ismeri a gyengéit, erősségeit, mágikus és egyéb képességeit az ismertebb fajoknak<br />(8) Ismeri az alacsony intelligenciájú démonok gondolkodását, meg tudja mondani, mennyire veszélyes egy démon (kb. hányadik szintű karakternek felel meg)<br />(9) Alsórendű démonok idézése, urak és hercegek képességeinek ismerete. Innentől lehetőséges megpróbálni a démonokra való varázslást mentál és asztrálmágia formájában.<br />**Példa**: Nomád sámán  | ⭕ | Érzékenység&nbsp;0<br />Intelligencia&nbsp;+1<br />Önuralom&nbsp;+1<br />Emlékezet&nbsp;+2 |
+| Nagymester (12)  | (10) Az összes yneviek által ismert démon nevét és főbb jellemzőit tudja<br />(11) Közrendű démonok idézése, érti az átlagos intelligenciájú démonok logikáját<br />(12) Kapuk nyitása démoni síkokra<br />**Példa**: Démonikus mágus  | ⭕ | Érzékenység&nbsp;+1<br />Intelligencia&nbsp;+2<br />Önuralom&nbsp;+2<br />Emlékezet&nbsp;+3 |
+| Élő legenda (15) | (13) Démonurak idézése, alacsonyrendű démon állandó megkötése<br />(14) minden adatod tud az összes ismert démonról, érti az intelligens démonok gondolkodásának logikáját<br />(15) Démonhercegek idézése, közrendű démon állandó megkötése<br />**Példa**: Démonimádó szekta nagymestere  | ⭕ | Érzékenység&nbsp;+2<br />Intelligencia&nbsp;+3<br />Önuralom&nbsp;+3<br />Emlékezet&nbsp;+3 |
 
 <br />
 

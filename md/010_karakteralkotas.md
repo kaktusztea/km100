@@ -11,7 +11,7 @@
     - [Intelligencia](#intelligencia)
     - [Emlékezet](#emlékezet)
     - [Önuralom](#önuralom)
-    - [Fogékonyság](#fogékonyság)
+    - [Érzékenység](#érzékenység)
   - [Érzékek (származtatott tulajdonságok)](#érzékek-származtatott-tulajdonságok)
     - [Érzékek növelése](#érzékek-növelése)
     - [Vakság, süketség](#vakság-süketség)
@@ -54,7 +54,7 @@ Kötelezően ki kell fejteni a karakter megalkotásakor:
   - mennyire kommunikatív, mekkora hatása van az emberekre,
     visszahúzódó-e, stb, megszégyenítéshez mennyire ért, mennyire
     mogorva, piszkálódó, stb
-  - Mennyire gazdag érzelmileg. A Önuralom , Fogékonyság csak támpontot,
+  - Mennyire gazdag érzelmileg. A Önuralom , Érzékenység csak támpontot,
     vázat adnak.
 
 ## Szint, szintlépés, TP
@@ -87,7 +87,7 @@ A későbbiekben ezek a számok fogják alapját adni más, összetettebb jellem
 
 **[Erő](#Erő)**, **[Edzettség](#Edzettség)**, **[Ügyesség](#Ügyesség)**, **[Gyorsaság](#Gyorsaság)**
 
-**[Intelligencia](#Intelligencia)**, **[Emlékezet](#Emlékezet)**, **[Önuralom](#Önuralom)**, **[Fogékonyság](#Fogékonyság)**
+**[Intelligencia](#Intelligencia)**, **[Emlékezet](#Emlékezet)**, **[Önuralom](#Önuralom)**, **[Érzékenység](#Érzékenység)**
 
 ---
 
@@ -311,7 +311,7 @@ A fentiek a mágikus detektálásokat természetesen nem befolyásolják.
 
 ### Érzékenység
 
-Az Fogékonyság részben a külvilág (leginkább más lények) rezdüléseinek érzékelését jeleníti. Ezen felül kisebb mértékben az érzelmi gazdagságot is jelképezi, de inkább a „detektáló" jellegű összetevő a kiemelt.
+Az Érzékenység részben a külvilág (leginkább más lények) rezdüléseinek érzékelését jeleníti. Ezen felül kisebb mértékben az érzelmi gazdagságot is jelképezi, de inkább a „detektáló" jellegű összetevő a kiemelt.
 
 Fontos összetevője művészeti képzettségeknek illetve az Emberismeretnek, beleszámít az Asztrális mágiaellenállásba is, valamint az **Észlelés** képzettséggel (⭕link⭕) párosítva a fizikai világban való érzékelést és észlelés-próbákat is ezzel végezzük (Intuíció, Látás, Hallás, Szaglás, Tapintás, Ízlelés).
 
@@ -428,7 +428,7 @@ egyes fajok tulajdonság-korlátait.
 > **elf**
 
 ```
-Erő: [-5; +4] ; Edzettség: [-5; +4] ; Ügyesség [-2;+6] ; Gyorsaság [-2;+6] ; Fogékonyság [-3;+6]
+Erő: [-5; +4] ; Edzettség: [-5; +4] ; Ügyesség [-2;+6] ; Gyorsaság [-2;+6] ; Érzékenység [-3;+6]
 
 A „Kitartás"-t fortélyt fel *kell* vennie KP-ból, de nincs Edzettség követelménye.
 ```
@@ -442,7 +442,7 @@ Erő: [-5;+4] ; Gyorsaság [-4;+6]
 > **törpe**
 
 ```
-Erő: [-1;+5] ; Gyorsaság [-5;+4] ; Edzettség [-2;+6] ; Emlékezet [-5;+6]; Fogékonyság [-5;+3]
+Erő: [-1;+5] ; Gyorsaság [-5;+4] ; Edzettség [-2;+6] ; Emlékezet [-5;+6]; Érzékenység [-5;+3]
 
 Futásnál, úszásnál, gyaloglásnál sebessége 60%-a az emberének.
 ```
@@ -450,7 +450,7 @@ Futásnál, úszásnál, gyaloglásnál sebessége 60%-a az emberének.
 > **ork**
 
 ```
-Erő: [-1;+6] ; Edzettség [+0;+6]; Intelligencia [-5;+2] ; Fogékonyság [-5;+2]
+Erő: [-1;+6] ; Edzettség [+0;+6]; Intelligencia [-5;+2] ; Érzékenység [-5;+2]
 
 ÉP bónusz: +2
 ```
@@ -458,7 +458,7 @@ Erő: [-1;+6] ; Edzettség [+0;+6]; Intelligencia [-5;+2] ; Fogékonyság [-5;+2
 > **udvari ork**
 
 ```
-Erő: [-1;+6] ; Edzettség [-1;+5]; Intelligencia; [-5;+3] ; Fogékonyság [-5;+4]
+Erő: [-1;+6] ; Edzettség [-1;+5]; Intelligencia; [-5;+3] ; Érzékenység [-5;+4]
 
 ÉP bónusz: +2
 ```
@@ -466,13 +466,13 @@ Erő: [-1;+6] ; Edzettség [-1;+5]; Intelligencia; [-5;+3] ; Fogékonyság [-5;+
 > **kyr-vérű**
 
 ```
-Edzettség: [-5;+4] ; Önuralom [-3;+6] ; Fogékonyság [-3;+6]
+Edzettség: [-5;+4] ; Önuralom [-3;+6] ; Érzékenység [-3;+6]
 ```
 
 > **amund**
 
 ```
-Erő [0;+5] ; Edzettség [0;+5] ; Intelligencia [-5;+3] ; Önuralom [-5;+3] ; Fogékonyság [-3; +6]
+Erő [0;+5] ; Edzettség [0;+5] ; Intelligencia [-5;+3] ; Önuralom [-5;+3] ; Érzékenység [-3; +6]
 ```
 
 > **dzsenn**
@@ -503,7 +503,7 @@ Erő [-5;+2] ; Edzettség [-2;+4] ; Ügyesség [-5;+6] ; Intelligencia [-5; +2];
 
 ```
 Erő [+1;+6] ; Edzettség [+1;+6] ; Ügyesség [+1;+5] ;
-Gyorsaság [+1;+6] ; Intelligencia [-5 ; +2] ; Önuralom [-5 ; +2] ; Fogékonyság [-5;+3]*
+Gyorsaság [+1;+6] ; Intelligencia [-5 ; +2] ; Önuralom [-5 ; +2] ; Érzékenység [-5;+3]*
 
 * Számukra az emberi civilizáció nehezebben érthető
 ```
@@ -553,7 +553,7 @@ A KM meghatároz egy **4-9-ig** terjedő célszámot nehézségnek, a játékos 
 
 ### Összetett Tulajdonságpróba
 
-Ha a karakternek egy olyan összetett próbát kell tennie, ami nem intézhető el 1db dobással (pl. több fázisból álló kombinált mozdulatsor, egy összetett, hosszan tartó, hullámzó érzelemimpulzus értelmezése Fogékonyság próbával), akkor igazságtalan lenne a maximális nehézséget többször megdobatni vele, hiszen így drasztikusan lecsökken az esélye a sikerre. Ilyenkor a következő módszert használjuk:
+Ha a karakternek egy olyan összetett próbát kell tennie, ami nem intézhető el 1db dobással (pl. több fázisból álló kombinált mozdulatsor, egy összetett, hosszan tartó, hullámzó érzelemimpulzus értelmezése Érzékenység próbával), akkor igazságtalan lenne a maximális nehézséget többször megdobatni vele, hiszen így drasztikusan lecsökken az esélye a sikerre. Ilyenkor a következő módszert használjuk:
 
 - [ ] A játékos dob egy próbát az indokolt maximális nehézségre (pl. „Nagyon nehéz" (`Célszám:7`))
 - [ ] Ezután dob több (a KM dönti el, hány) próbát **1 fokozattal alacsonyabb nehézség ellen**. Pl. (2db Nehéz próbát). Így a siker eloszlása sokkal fokozatosabb és a biztos tudást is jobban jutalmazzuk, valamint elkerüljük, hogy egy kezdő - csak azért, mert szerencséset dobott - egy hosszú, részletes, tudását jóval meghaladó feladatot „véletlenül" megcsinálhasson.

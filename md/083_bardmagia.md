@@ -9,7 +9,7 @@
 Követelmény: 
 - Zene – spec. hangszer (4.szint)
 - Ének – 4.szint
-- Fogékonyság: +1
+- Érzékenység: +1
 
 ```diff
 - Elvileg ez is tapasztalati mágia, de nem lenne jó betolni a Vulgármágia alá...
