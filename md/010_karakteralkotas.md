@@ -309,11 +309,11 @@ A fentiek a mágikus detektálásokat természetesen nem befolyásolják.
 
 ---
 
-### Fogékonyság
+### Érzékenység
 
-Az Fogékonyság a külvilág (leginkább más lények) rezdüléseinek érzékelését jeleníti. Ezen felül kisebb mértékben az érzelmi gazdagságot is jelképezi, de inkább a „detektáló" jellegű összetevő a kiemelt.
+Az Fogékonyság részben a külvilág (leginkább más lények) rezdüléseinek érzékelését jeleníti. Ezen felül kisebb mértékben az érzelmi gazdagságot is jelképezi, de inkább a „detektáló" jellegű összetevő a kiemelt.
 
-Fontos összetevője művészeti képzettségeknek illetve az Emberismeretnek, valamint beleszámít az Asztrális mágiaellenállásba is.
+Fontos összetevője művészeti képzettségeknek illetve az Emberismeretnek, beleszámít az Asztrális mágiaellenállásba is, valamint az **Észlelés** képzettséggel (⭕link⭕) párosítva a fizikai világban való érzékelést és észlelés-próbákat is ezzel végezzük (Intuíció, Látás, Hallás, Szaglás, Tapintás, Ízlelés).
 
 Nem fejleszthető tulajdonság.
 
@@ -349,36 +349,6 @@ Hatásában megegyezik a 1-es Erősítésű Asztrálszem diszciplínával, de pa
 
 ```
 
----
-
-## Érzékek (származtatott tulajdonságok)
-
-Hat van belőlük és az aktuálisan meglevő tulajdonságokból származtatjuk őket 1:1-ben. Emberek esetében `+5` a maximum
-
-```
-- Intuíció (Fogékonyságból) (ez gyakorlatilag a 6.érzék)
-- Látás (Edzettségből)
-- Hallás (Edzettségből)
-- Szaglás (Edzettségből)
-- Tapintás (Edzettségből)
-- Ízlelés (Edzettségből)
-```
-
----
-
-### Érzékek növelése
-
-Karakteralkotáskor (és csak akkor!) lehetőség van az egyes érzékek növelésére KP-ból.
-
-*Fontos*: az Érzékek csökkentésével NEM lehet KP-kat „visszanyerni"!
-
-```
-- Intuíció : 10 KP / pont
-- Látás: 7 KP / pont
-- Hallás: 7 KP / pont
-- Ízlelés+Szaglás egyben: 7 KP („csomagban" növelhetőek, egy 7 KP-s költés mindkettőt megnöveli)
-- Tapintás: 5 KP /pont
-```
 
 ---
 
