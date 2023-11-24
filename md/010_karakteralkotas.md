@@ -15,8 +15,7 @@
     - [Vakság, süketség](#vakság-süketség)
     - [Tartós sérültség](#tartós-sérültség)
   - [Tulajdonság értékek megállapítása](#tulajdonság-értékek-megállapítása)
-    - [Fajok](#fajok)
-      - [Faji módosítók, korlátok](#faji-módosítók-korlátok)
+  - [Fajok, Faji módosítók, korlátok](#fajok-faji-módosítók-korlátok)
   - [Tulajdonságpróba](#tulajdonságpróba)
     - [Összetett Tulajdonságpróba](#összetett-tulajdonságpróba)
       - [Példa Összetett Tulajdonságpróbára](#példa-összetett-tulajdonságpróbára)
@@ -402,16 +401,14 @@ Megjegyzés: nem kell mindet elköltened, tartalékolhatsz is egy későbbi nagy
 
 `Minden negyedik` karakterszinten kapsz további `+2` pontot, melyet szintén a fenti táblázat alapján fordíthatsz tulajdonságaid növelésére. Figyelem! Nem egy Tulajdonság értékét növelheted kettővel, hanem ennyi pontot kapsz, amelyből kigazdálkodhatsz egy Tulajdonság növelést. Az így kapott bónusz pontokat „tartalékolhatod” is. Például egy `+3`-ról `+4`-re való növelés költsége `4 pont`, amelyre `2 szint` fejlődés során tehetsz szert.
 
-### Fajok
+---
+
+#### Fajok, Faji módosítók, korlátok
 
 ````diff
-- Fajok különleges képességeit Háttér-fortélyból kelljen felvenni.
 ⭕TODO⭕: kidolgozni azokat.
-- Vagy: „csomagban" lehessen megvenni a fajt. Pl. Elf -- 30KP és megkapja a spec. képességeket.
-- Vagy: a fajok Érzék-bónuszai úgy alakulnak, hogy kötelezően meg kell venniük azokat. (még nem eldöntött!!!) Pl. egy elfnek Látásra és Hallásra +2 bónusza van. Ez 24 + 20 = 44 KP
+- a fajok Érzék-bónuszai úgy alakulnak, hogy kötelezően meg kell venniük minimum 1 fokot a felsorolt érzék-fortélyokból.
 ````
-
-#### Faji módosítók, korlátok
 
 Ha nem ember fajú karaktert alkotsz, akkor figyelembe kell venned az
 egyes fajok tulajdonság-korlátait.
