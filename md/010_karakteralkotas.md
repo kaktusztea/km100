@@ -406,8 +406,17 @@ Megjegyzés: nem kell mindet elköltened, tartalékolhatsz is egy későbbi nagy
 #### Fajok, Faji módosítók, korlátok
 
 ````diff
-⭕TODO⭕: kidolgozni azokat.
-- a fajok Érzék-bónuszai úgy alakulnak, hogy kötelezően meg kell venniük minimum 1 fokot a felsorolt érzék-fortélyokból.
+- a fajok Érzék-bónuszai úgy alakulnak, hogy kötelezően meg kell venniük minimum *1 fokot* a felsorolt érzék-fortélyokból.
+- minden fajnál más lista van, de az alábbiak egy részhalmaza. Lehet alacsonyabb max fok is, mint a lehetséges max.
+⭕TODO⭕: kidolgozni az érzék fortélyokat:
+-  Ultralátás - 3 fokú
+-  Infralátás - 2 fokú (ahogy Márk leírta)
+-  Elfszemű - 1 fokú
+-  Kutya hallású - 1 fokú
+-  Orkszaglású - 1 fokú
+-  Föld alatt tájékozódás - 1 fokú
+-  "Szuper tapintás" - ingyenes "háttér" fortély
+-  "Szuper ízlelés"  - ingyenes "háttér" fortély
 ````
 
 Ha nem ember fajú karaktert alkotsz, akkor figyelembe kell venned az
