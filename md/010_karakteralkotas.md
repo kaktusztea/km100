@@ -406,6 +406,10 @@ Megjegyzés: nem kell mindet elköltened, tartalékolhatsz is egy későbbi nagy
 #### Fajok, Faji módosítók, korlátok
 
 ````diff
+- Minden faj egy ingyenes Háttér fortélyként jelenik meg. Pl: "Háttér: Törpe"
+````
+
+````diff
 - a fajok Érzék-bónuszai úgy alakulnak, hogy kötelezően meg kell venniük minimum *1 fokot* a felsorolt érzék-fortélyokból.
 - minden fajnál más lista van, de az alábbiak egy részhalmaza. Lehet alacsonyabb max fok is, mint a lehetséges max.
 ⭕TODO⭕: kidolgozni az érzék fortélyokat:
