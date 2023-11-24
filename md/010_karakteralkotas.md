@@ -17,7 +17,6 @@
   - [Tulajdonság értékek megállapítása](#tulajdonság-értékek-megállapítása)
     - [Fajok](#fajok)
       - [Faji módosítók, korlátok](#faji-módosítók-korlátok)
-      - [Fajok hátrányai](#fajok-hátrányai)
   - [Tulajdonságpróba](#tulajdonságpróba)
     - [Összetett Tulajdonságpróba](#összetett-tulajdonságpróba)
       - [Példa Összetett Tulajdonságpróbára](#példa-összetett-tulajdonságpróbára)
@@ -505,32 +504,6 @@ Gyorsaság [+1;+6] ; Intelligencia [-5 ; +2] ; Önuralom [-5 ; +2] ; Érzékenys
 
 * Számukra az emberi civilizáció nehezebben érthető
 ```
-
-#### Fajok hátrányai
-
-Az egyes fajok pozitív tulajdonságaiért „cserébe" fel is kell áldozni
-valamit. Mivel ezen a világon az ember a leggyorsabban fejlődni képes
-lény, ezért hozzájuk képest a többi faj lassabban jut előre. Ennek
-szimulálását úgy jelenítjük meg, hogy magasabb a TP/Szint értékhatáruk.
-Hogy mennyivel, azt az alábbi táblázat szemlélteti.
-
-| Faj | TP/Szint  | Speciális |
-| ----------- | :-----------: | :-----------: |
-| Ember | 1000 | ⭕ |
-| Elf | ⭕ | ⭕ |
-| Félelf | ⭕ | ⭕ |
-| Törpe | ⭕ | ⭕ |
-| Ork | ⭕ | ⭕ |
-| udvari ork | ⭕ | ⭕ |
-| kyr-vérű | ⭕ | ⭕ |
-| amund | 1100 | • telekinézis:	+100 TP <br />• pirokinézis: +100 TP <br />• ultralátás: +150 TP<br />• telepátia: +100 TP <br />• egység: +??? TP |
-| dzsenn | ⭕ | ⭕ |
-| gnóm | ⭕ | ⭕ |
-| goblin | ⭕ | ⭕ |
-| khál | ⭕ | ⭕ |
-| wier | ⭕*szerintem hagyjuk ki*⭕ | ⭕ |
-
-<br />
 
 ---
 
