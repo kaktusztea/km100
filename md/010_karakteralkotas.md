@@ -488,8 +488,7 @@ Erő: [-1;+6] ; Edzettség [+0;+6]; Intelligencia [-5;+2] ; Fogékonyság [-5;+2
 > **udvari ork**
 
 ```
-Erő: [-1;+6] ; Edzettség [-1;+5]; Intelligencia
-[-5;+3] ; Fogékonyság [-5;+4]
+Erő: [-1;+6] ; Edzettség [-1;+5]; Intelligencia; [-5;+3] ; Fogékonyság [-5;+4]
 
 ÉP bónusz: +2
 ```
