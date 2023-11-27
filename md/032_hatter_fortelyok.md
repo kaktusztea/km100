@@ -25,7 +25,7 @@ Tehát például választhat egy **orkot**, akinek mindösszesen **Infralátás 
 #### Elf
 
 ```
-Erő: [-5; +4] ; Edzettség: [-5; +4] ; Ügyesség [-2;+6] ; Gyorsaság [-2;+6] ; Érzékenység [-3;+6]
+Erő: [-5; +4] ; Edzettség: [-5; +4] ; Ügyesség [-2;+6] ; Gyorsaság [-2;+6]
 ```
 
 Felvehető Érzék-Fortélyok maximuma:
@@ -61,7 +61,7 @@ Ajánlott képzettségek:
 #### Törpe
 
 ```
-Erő: [-1;+5] ; Gyorsaság [-5;+4] ; Edzettség [-2;+6] ; Emlékezet [-5;+6]; Érzékenység [-5;+3]
+Erő: [-1;+5] ; Gyorsaság [-5;+4] ; Edzettség [-2;+6] ; Emlékezet [-5;+6]
 ```
 
 🔆Futásnál, úszásnál, gyaloglásnál `-2` jár a Gyorsaságpróbáira.
@@ -81,7 +81,7 @@ Ajánlott képzettségek:
 #### Ork
 
 ```
-Erő: [-1;+6] ; Edzettség [+0;+6]; Intelligencia [-5;+2] ; Érzékenység [-5;+2]
+Erő: [-1;+6] ; Edzettség [+0;+6]; Intelligencia [-5;+2]
 ```
 
 Felvehető Érzék-Fortélyok maximuma:
@@ -100,7 +100,7 @@ Ajánlott képzettségek:
 #### Udvari ork
 
 ```
-Erő: [-1;+6] ; Edzettség [-1;+5]; Intelligencia; [-5;+3] ; Érzékenység [-5;+4]
+Erő: [-1;+6] ; Edzettség [-1;+5]; Intelligencia; [-5;+3]
 ```
 
 Felvehető Érzék-Fortélyok maximuma:
@@ -118,7 +118,7 @@ Ajánlott képzettségek:
 #### Kyr-vérű
 
 ```
-Edzettség: [-5;+4] ; Önuralom [-3;+6] ; Érzékenység [-3;+6]
+Edzettség: [-5;+4] ; Önuralom [-3;+6]
 ```
 
 Felvehető Érzék-Fortélyok maximuma:
@@ -136,7 +136,7 @@ Ajánlott képzettségek:
 #### Amund
 
 ```
-Erő [0;+5] ; Edzettség [0;+5] ; Intelligencia [-5;+3] ; Önuralom [-5;+3] ; Érzékenység [-3; +6]
+Erő [0;+5] ; Edzettség [0;+5] ; Intelligencia [-5;+3] ; Önuralom [-5;+3]
 ```
 
 🔆A Pszít nem képesek elsajátítani.
@@ -209,11 +209,11 @@ Ajánlott képzettségek:
 ---
 #### Khál
 
+Számukra az emberi civilizáció nehezebben érthető.
+
 ```
 Erő [+1;+6] ; Edzettség [+1;+6] ; Ügyesség [+1;+5] ;
-Gyorsaság [+1;+6] ; Intelligencia [-5 ; +2] ; Önuralom [-5 ; +2] ; Érzékenység [-5;+3]*
-
-* Számukra az emberi civilizáció nehezebben érthető
+Gyorsaság [+1;+6] ; Intelligencia [-5 ; +2] ; Önuralom [-5 ; +2]
 ```
 
 Felvehető Érzék-Fortélyok maximuma:
