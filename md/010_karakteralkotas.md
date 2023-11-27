@@ -403,117 +403,9 @@ Megjegyzés: nem kell mindet elköltened, tartalékolhatsz is egy későbbi nagy
 
 ---
 
-#### Fajok, Faji módosítók, korlátok
+## Fajok, Faji módosítók, korlátok
 
-````diff
-- Minden faj egy ingyenes Háttér fortélyként jelenik meg. Pl: "Háttér: Törpe"
-````
-
-````diff
-- a fajok Érzék-bónuszai úgy alakulnak, hogy kötelezően meg kell venniük minimum *1 fokot* a felsorolt érzék-fortélyokból.
-- minden fajnál más lista van, de az alábbiak egy részhalmaza. Lehet alacsonyabb max fok is, mint a lehetséges max.
-⭕TODO⭕: kidolgozni az érzék fortélyokat:
--  Ultralátás - 3 fokú
--  Infralátás - 2 fokú (ahogy Márk leírta)
--  Elfszemű - 1 fokú
--  Kutya hallású - 1 fokú
--  Orkszaglású - 1 fokú
--  Föld alatt tájékozódás - 1 fokú
--  "Szuper tapintás" - ingyenes "háttér" fortély
--  "Szuper ízlelés"  - ingyenes "háttér" fortély
-````
-
-Ha nem ember fajú karaktert alkotsz, akkor figyelembe kell venned az
-egyes fajok tulajdonság-korlátait.
-
-> **ember**
-
-```
-[-5;+5] a határ mindenre
-```
-
-> **elf**
-
-```
-Erő: [-5; +4] ; Edzettség: [-5; +4] ; Ügyesség [-2;+6] ; Gyorsaság [-2;+6] ; Érzékenység [-3;+6]
-
-A „Kitartás"-t fortélyt fel *kell* vennie KP-ból, de nincs Edzettség követelménye.
-```
-
-> **félelf**
-
-```
-Erő: [-5;+4] ; Gyorsaság [-4;+6]
-```
-
-> **törpe**
-
-```
-Erő: [-1;+5] ; Gyorsaság [-5;+4] ; Edzettség [-2;+6] ; Emlékezet [-5;+6]; Érzékenység [-5;+3]
-
-Futásnál, úszásnál, gyaloglásnál sebessége 60%-a az emberének.
-```
-
-> **ork**
-
-```
-Erő: [-1;+6] ; Edzettség [+0;+6]; Intelligencia [-5;+2] ; Érzékenység [-5;+2]
-
-ÉP bónusz: +2
-```
-
-> **udvari ork**
-
-```
-Erő: [-1;+6] ; Edzettség [-1;+5]; Intelligencia; [-5;+3] ; Érzékenység [-5;+4]
-
-ÉP bónusz: +2
-```
-
-> **kyr-vérű**
-
-```
-Edzettség: [-5;+4] ; Önuralom [-3;+6] ; Érzékenység [-3;+6]
-```
-
-> **amund**
-
-```
-Erő [0;+5] ; Edzettség [0;+5] ; Intelligencia [-5;+3] ; Önuralom [-5;+3] ; Érzékenység [-3; +6]
-```
-
-> **dzsenn**
-
-```
-Intelligencia [+1;+6] ; Önuralom [+1;+6] ;
-
-Kötelező a „Pszí -- Dzsenn" pszí tradíció fortélyt 1.szinten
-```
-
-> **gnóm**
-
-```
-Erő [-5;+2] ; Ügyesség [-2;+5], Intelligencia [+0;+6\]
-
-Futásnál, úszásnál, gyaloglásnál sebessége 60%-a az emberének. ÉP levonás: -3 (minimum 1)
-```
-
-> **goblin**
-
-```
-Erő [-5;+2] ; Edzettség [-2;+4] ; Ügyesség [-5;+6] ; Intelligencia [-5; +2]; Önuralom [-5 ;+2]
-
-ÉP levonás: -4 (minimum 1)
-```
-
-> **khál**
-
-```
-Erő [+1;+6] ; Edzettség [+1;+6] ; Ügyesség [+1;+5] ;
-Gyorsaság [+1;+6] ; Intelligencia [-5 ; +2] ; Önuralom [-5 ; +2] ; Érzékenység [-5;+3]*
-
-* Számukra az emberi civilizáció nehezebben érthető
-```
+A felvehető fajok mind Háttér-fortélyként vehetőek fel. Limitációik és felvehető - érzékeiket érintő - fortélyaikat [ott találod meg](./032_hatter_fortelyok#Fajok).
 
 ---
 
@@ -536,10 +428,10 @@ A KM meghatároz egy **4-9-ig** terjedő célszámot nehézségnek, a játékos 
 
 Ha a karakternek egy olyan összetett próbát kell tennie, ami nem intézhető el 1db dobással (pl. több fázisból álló kombinált mozdulatsor, egy összetett, hosszan tartó, hullámzó érzelemimpulzus értelmezése Érzékenység próbával), akkor igazságtalan lenne a maximális nehézséget többször megdobatni vele, hiszen így drasztikusan lecsökken az esélye a sikerre. Ilyenkor a következő módszert használjuk:
 
-- [ ] A játékos dob egy próbát az indokolt maximális nehézségre (pl. „Nagyon nehéz" (`Célszám:7`))
-- [ ] Ezután dob több (a KM dönti el, hány) próbát **1 fokozattal alacsonyabb nehézség ellen**. Pl. (2db Nehéz próbát). Így a siker eloszlása sokkal fokozatosabb és a biztos tudást is jobban jutalmazzuk, valamint elkerüljük, hogy egy kezdő - csak azért, mert szerencséset dobott - egy hosszú, részletes, tudását jóval meghaladó feladatot „véletlenül" megcsinálhasson.
-- [ ] Hogy a másodlagos dobásból hány kell, az főleg attól függ, hogy a feladat „milyen hosszú", mennyire „többlépcsős".
-- [ ] Ha nagyon finom bontást akarunk, akkor akár 2 fokozattal alacsonyabb nehézségre is dobathatunk akár így is: Nagyon nehéz (1db), Nehéz(1db), Átlagos (1db).
+- A játékos dob egy próbát az indokolt maximális nehézségre (pl. „Nagyon nehéz" (`Célszám:7`))
+- Ezután dob több (a KM dönti el, hány) próbát **1 fokozattal alacsonyabb nehézség ellen**. Pl. (2db Nehéz próbát). Így a siker eloszlása sokkal fokozatosabb és a biztos tudást is jobban jutalmazzuk, valamint elkerüljük, hogy egy kezdő - csak azért, mert szerencséset dobott - egy hosszú, részletes, tudását jóval meghaladó feladatot „véletlenül" megcsinálhasson.
+- Hogy a másodlagos dobásból hány kell, az főleg attól függ, hogy a feladat „milyen hosszú", mennyire „többlépcsős".
+- Ha nagyon finom bontást akarunk, akkor akár 2 fokozattal alacsonyabb nehézségre is dobathatunk akár így is: Nagyon nehéz (1db), Nehéz(1db), Átlagos (1db).
 
 <br />
 
