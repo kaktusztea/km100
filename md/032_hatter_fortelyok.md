@@ -217,7 +217,7 @@ Gyorsaság [+1;+6] ; Intelligencia [-5 ; +2] ; Önuralom [-5 ; +2] ; Érzékenys
 ```
 
 Felvehető Érzék-Fortélyok maximuma:
-- Elflátású - 1. fok ⭕
+- Elfszem - 1. fok ⭕
 - Kutya hallású - 1. fok
 - Orkszaglású - 1. fok
 
