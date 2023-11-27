@@ -122,13 +122,15 @@ Edzettség: [-5;+4] ; Önuralom [-3;+6] ; Érzékenység [-3;+6]
 ```
 
 Felvehető Érzék-Fortélyok maximuma:
-- ⭕
+- Ultralátás - 1. fok
 
 Ajánlott fortélyok:
 - ⭕
 
 Ajánlott képzettségek:
-- ⭕
+- Etikett (Kyr kultúrkör)
+- Ősi kultúrák ismerete (Kyr)
+- Ősi nyelv ismerete (Kyr)
 
 ---
 #### Amund
