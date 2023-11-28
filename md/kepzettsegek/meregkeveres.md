@@ -1,19 +1,18 @@
 #### 🔴 Méregmester, 🔵 Méregkeverés
 
-[🔹(OUT-OF-SYNC)](https://github.com/kaktusztea/km100/wiki/OUT-OF-SYNC#m%C3%A9regkever%C3%A9s)
-
 ````diff
+⭕TODO⭕
 - Alvás: melyik "Hatás" kategóriába tartozzon?
 - Most a legenyhébben van (1), de lehet, hogy nehezebb alvást előidézni, mint pl. bódulatot...?
 ````
 
-**Próba:** nincs, csak biztos tudásból ⭕Így egyszerűbb, de ne lehessen elrontani egy méreg kikeverését...?⭕
+**Próba**: van, a rontás rejtett, a játékos csak a méreg alkalmazásakor szembesül a balsikerrel (nem hat). 
 
 **Domináns Tulajdonságok**: Emlékezet, Önuralom
 
-**Kapcsolódó fortélyok**: ⭕xyz
+**Kapcsolódó fortélyok**: -
 
-**Leírás**: A méregkeverés képzettség tanulható `Átfogó` képzettségként (ekkor minden típusú méregre vonatkozik és **Méregmester** néven illetjük), illetve `Átlagos` képzettségként - ekkor választani kell, hogy mely típusú mérgeket tanulja a karakter a lenti három csoportból:
+**Leírás**: A méregkeverés képzettség tanulható **Átfogó** képzettségként (ekkor minden típusú méregre vonatkozik és **Méregmester** néven illetjük), illetve **Átlagos** képzettségként - ekkor választani kell, hogy mely típusú mérgeket tanulja a karakter a lenti három csoportból:
 
 - Étel és italmérgek
 - Légi- és kontaktmérgek
@@ -87,7 +86,7 @@ Méreg szintje = Erősség + Súlyosság + Elállás + Hatóidő + Speciális
 - **Hatóidő**
 
 | Milyen gyorsan hat? | Érték  | Követelmény |
-| :----------- | :----------- | :----------- |
+| :----------- | :-----------: | :-----------: |
 | 30 perc - 3 óra múlva | 0  | - |
 | 4 - 23 óra múlva      | +1  | 3.szint |
 | 2-20 perc múlva       | +1  | 3.szint |
