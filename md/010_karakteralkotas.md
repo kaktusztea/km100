@@ -318,30 +318,27 @@ Nem fejleszthető tulajdonság.
 -5: Van ő és ... senki más. Teljesen érzéketlen, akár egy gép.
 Szeme láttára kiirthatják a családját, az sem mozdít meg benne semmit.
 Szörnyeteg. A művészeteket teljesen értelmetlennek tartaná, ha
-foglalkozna velük. De nem teszi.
+foglalkozna velük. De nem teszi. A külső ingerek nem jutnak el hozzá.
 
 -4/-3: Hidegen hagyja a legtöbb dolog, sokszor ez alacsony belső motivációval párosul.
 Mások rezdüléseire teljes mértékben immúnis, számára csak a saját jelene létezik,
-a külső hatásokat meg se próbálja értelmezni. Nem indítja meg semmi, legfeljebb egy
-családtagja halála - egy kicsit. „Érzéketlen tuskó" - mondogatják.
+a külső hatásokat meg se próbálja értelmezni. Nem indítja meg semmi, legfeljebb egy családtagja halála - egy kicsit. „Érzéketlen tuskó" - mondogatják. Érzékei erősen fejletlenek.
 
 -2/-1: Nincs érzéke a hangulatok megragadásához, mágiával pszível, művészetekkel
-ne is próbálkozzon. Mások személyisége, mozgatórugói átláthatatlanok számára.
+ne is próbálkozzon. Mások személyisége, mozgatórugói átláthatatlanok számára. Érzékei gyengék.
 
 0: Átlagos
 
 +1/+2: Szenzitív típus, jól ráérez a hangulatokra, mások mozgatórugóira.
-Érdemes mentális gyakorlatokkal foglalkoznia.
+Érdemes mentális gyakorlatokkal foglalkoznia. Érzékei jónak mondhatóak.
 
 +3/+4: „A vesédbe lát" -- mondogatják, és valóban.
 Mindig ráérez a „lékkörre", érdemes hallgatnia az ösztöneire.
-Kiváló mágiatudó, emberismerő válhat belőle.
+Kiváló mágiatudó, emberismerő válhat belőle. Kifinomult érzékekkel rendelkezik.
 
 +5: Az ilyen emberek minden apró rezdülést érzékelnek, külső hangulatok
 iránt rendkívül fogékonyak. Remek emberismerő, vagy nagy művész válhat belőlük.
-Általában érzelemgazdag emberek, de van, akinél „mindössze" fantasztikus adottság,
-mélyebb érzelmek nélkül. Az ilyenekből lesznek a kiváló diplomaták, rettegett boszorkányok.
-Hatásában megegyezik a 1-es Erősítésű Asztrálszem diszciplínával, de passzív, állandóan működő képesség.
+Általában érzelemgazdag emberek, de van, akinél „mindössze" fantasztikus adottság, mélyebb érzelmek nélkül. Az ilyenekből lesznek a kiváló diplomaták, rettegett boszorkányok. Érzékei végtelenül kifinomultak.
 
 ```
 
