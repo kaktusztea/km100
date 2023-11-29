@@ -80,11 +80,11 @@ Egy karakter „fejlettségét" az abszolút szubjektív „Szint" értékkel je
 
 Az `1.szint` kiemelt, itt jóval több pontot kap a karakter értékei növelésére (megalapozására), mivel ez a szint magában foglalja a karakter indításakor (általában ifjúkor) felhalmozott addigi élettapasztalatokat.
 
-Az első 2 szint az előtörténet részének tekinthető, amennyiben ezt nem akarja lejátszani a parti, akkor ajánlott a 3. szinten való kezdés - más rendszerekhez képest az adja a "kezdő kalandozó" élettapasztalatot. Ennek további előnye, hogy így könnyebb 1, 2. szintű Nem Játékos Karakterek (NJK) alacsonyabb képességeit rendszerben megjeleníteni.
+Az első 2 szint az előtörténet részének tekinthető, amennyiben ezt nem akarja lejátszani a parti, akkor ajánlott a `3. szinten` való kezdés - más rendszerekhez képest az adja a "kezdő kalandozó" élettapasztalatot. Ennek további előnye, hogy így könnyebb `1.`, `2. szintű` **Nem Játékos Karakterek** (NJK) alacsonyabb képességeit rendszerben megjeleníteni.
 
 A karakter fejlődése természetesen folyamatos, de az adminisztráció megkönnyítése érdekében alkalmazzuk a „Szintlépés" fogalmát. Szintlépés olyankor következik be, amikor a KM úgy ítéli, a karakter jelentősen fejlődött, sokat tapasztalt és ennek ideje lenne értékeiben is megmutatkozniuk.
 
-Aki békésen, kihívások, újdonságok, megpróbáltatások nélkül éli életét, az nem tapasztal sokat, élete végére legfeljebb 4-5. szintre jut el.
+Aki békésen, kihívások, újdonságok, megpróbáltatások nélkül éli életét, az nem tapasztal sokat, élete végére legfeljebb `4-5. szintre` jut el.
 
 Irányelvek:
 
