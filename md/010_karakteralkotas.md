@@ -35,9 +35,30 @@
 
 ⭕TODO⭕: Bevezetés
 
+
+## Számok
+
+Rövid áttekintő summázatként álljanak itt a számok, amelyekkel a karakteralkotás során találkozunk.
+
+### Szabad pontok
+
+- **Tulajdonságok**: Erő, Edzettség, Ügyesség, Gyorsaság, Intelligencia, Emlékezet, Önuralom, Érzékenység;   +Érzékek származtatva
+- **Származtatott Harcértékek**: KÉ, TÉ, VÉ, CÉ, MFP (Manőverfejlesztő Pont)
+
+### KP költésével növelt értékek
+
+- **Képzettségek**: Harci, Fizikai, Alvilági, Művészeti, Világi, Tudományos, Misztikus, Mágiaiskolák (Vulgár, Sámán, Bárd, Ordani tűz, Mozaik)
+- **Fortélyok**: Általános, Harci, Lovas, Íjász, Alvilági, Szociális, Világi, Tudományos, Művészeti, Mágikus/Misztikus, Pszí, Slan
+- **Harcérték módosítók** (HM)
+- **Tradíciók** (Mágikus, Slan, Papi mágia), **Féltradíciók** (Quars, fejvadász)
+- **Pszi pont, Mana pont**
+
+---
 ## Előtörténet, személyiség
 
-⭕TODO⭕: Szépen kifejteni a lentieket.
+Mikor karaktert alkotunk (remélhetőleg) nem pusztán egy számhalmazt hozunk létre, hanem kidolgozzuk annak eddigi életét, hogy jutott el oda, hogy kalandozásra adja fejét.
+
+Az alábbiakban egy sorvezetőt szeretnénk adni, hogy milyen jellemzőket érdemes számba venni ennek leírásakor.
 
 Kötelezően ki kell fejteni a karakter megalkotásakor:
 
@@ -53,15 +74,15 @@ Kötelezően ki kell fejteni a karakter megalkotásakor:
   - Mennyire gazdag érzelmileg. A Önuralom , Érzékenység csak támpontot,
     vázat adnak.
 
-## Szint, szintlépés, TP
+## Szint, szintlépés
 
 Egy karakter „fejlettségét" az abszolút szubjektív „Szint" értékkel jellemezzük. Minél magasabb szintű valaki, annál több időt fordíthatott tanulásra, annál többet tapasztalt.
 
-Az 1.szint kiemelt, itt jóval több pontot kap a karakter értékei növelésére (megalapozására), mivel ez a szint magában foglalja a karakter indításakor (általában ifjúkor) felhalmozott addigi élettapasztalatokat.
+Az `1.szint` kiemelt, itt jóval több pontot kap a karakter értékei növelésére (megalapozására), mivel ez a szint magában foglalja a karakter indításakor (általában ifjúkor) felhalmozott addigi élettapasztalatokat.
 
-A fejlődés természetesen folyamatos, de az adminisztráció megkönnyítése érdekében alkalmazzuk a „Szintlépés" fogalmát. Szintlépés olyankor következik be, amikor a KM úgy ítéli, a karakter jelentősen fejlődött, sokat tapasztalt és ennek ideje lenne értékeiben is megmutatkozniuk.
+Az első 2 szint az előtörténet részének tekinthető, amennyiben ezt nem akarja lejátszani a parti, akkor ajánlott a 3. szinten való kezdés - más rendszerekhez képest az adja a "kezdő kalandozó" élettapasztalatot. Ennek további előnye, hogy így könnyebb 1, 2. szintű Nem Játékos Karakterek (NJK) alacsonyabb képességeit rendszerben megjeleníteni.
 
-`Tapasztalati pont (TP)`: a KM a fenti szabadelvű döntés helyett oszthat egy-egy tapasztalatot hozó esemény (harc, jó ötlet, érdekes szituáció, talpraesettség) úgynevezett Tapasztalati Pontokat. Szintlépés 1000 pontonként történik.
+A karakter fejlődése természetesen folyamatos, de az adminisztráció megkönnyítése érdekében alkalmazzuk a „Szintlépés" fogalmát. Szintlépés olyankor következik be, amikor a KM úgy ítéli, a karakter jelentősen fejlődött, sokat tapasztalt és ennek ideje lenne értékeiben is megmutatkozniuk.
 
 Aki békésen, kihívások, újdonságok, megpróbáltatások nélkül éli életét, az nem tapasztal sokat, élete végére legfeljebb 4-5. szintre jut el.
 
@@ -73,6 +94,8 @@ Irányelvek:
 6.szintű: tapasztalt harcos, elismert mágiatudó
 9.szintű: neves harcos, félelmetes mágiahasználó
 ```
+
+A szintlépés számszerű hatásait lásd a [Fejlődés](#fejlődés) fejezetben.
 
 ## Tulajdonságok
 
@@ -540,10 +563,10 @@ Lásd a ⭕ **Pszi** fejezetet!
 
 ## Fejlődés
 
-A karakter kalandjai során sokat tapasztal, ezáltal tanul. A tanulás folyamata a km100 rendszerében a tapasztaláson keresztül valósul meg.\
-Minden olyan tett, cselekedet, élmény során, amely a karakter épülését, fejlődését szolgálja tapasztalatot ad. Más rendszerekkel szemben nem számszerűsítjük ennek értékét.
+A karakter kalandjai során sokat tanul, mely az átélt események megtapasztalásán keresztül valósul meg.\
+Minden olyan tett, cselekedet, élmény során, amely a karakter épülését, fejlődését szolgálja tapasztalatot ad, viszont más rendszerekkel szemben mi nem számszerűsítjük ennek értékét.
 
-Mikor a mesélő (KM) úgy érzi, az adott játékos karaktere kellően sokat felődött, bejelenti annak szintlépését. Ekkor a játékos a karakteralkotásnál meghatározott szabályok szerint növelheti karaktere egyes értékeit az ún. Karakter Pontokból (`KP`), melyeket ilyenkor kap. Ez utóbbi pontok elköltéséről láss alább egy rövid összegzést.
+Mikor a mesélő (KM) úgy érzi, az adott játékos karaktere kellően sokat felődött, bejelenti annak szintlépését. Ekkor a játékos a karakteralkotásnál meghatározott szabályok szerint növelheti karaktere egyes értékeit az ún. **Karakter Pontokból** (`KP`), melyeket ilyenkor kap. Ez utóbbi pontok elköltéséről láss alább egy rövid összegzést.
 
 ## Karakter pontok (KP) elosztása
 
@@ -552,6 +575,7 @@ KP = 150 + (Tapasztalati szint x (80 + Intelligencia)) +
            (Tapasztalati szint x (15 + Emlékezet))
 ```
 
+> 🔆
 > ez utóbbi (Emlékezethez kapcsolt pontok) kizárólag **NEM** harci/misztikus ismeretekre költhetők!
 
 A karakterek 1. szinten `150 KP`-t (KP Alap), valamint minden szinten (elsőn is) `(80+Intelligencia) KP`-t kapnak. Ezen felül további `(15+Emlékezet) KP` jár szintenként, amit csak olyan ismeretre fordíthatnak, amely nem harci/misztikus jellegű. A játékosnak a fenti Karakter Pontjaiból kell felvennie a következőket:
