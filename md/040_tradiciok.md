@@ -1,6 +1,6 @@
 ## Tradíciók és Féltradíciók
 
-→ [STUDY: Tradíciók](./STUDY:-Tradíciók)
+→ [STUDY: Tradíciók](https://github.com/kaktusztea/km100/wiki/STUDY:-Tradíciók)
 
 ### Tradíciók
 50 KP-ba kerülnek, vannak speciális követelményeik, mely legtöbbször az előtörténet.
