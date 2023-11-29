@@ -301,6 +301,8 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🔵Drágakőmágia
 
+🔵Rúnamágia (?)
+
 ⭕Idézés (szellemek) (???)
 
 ⭕Ceremoniális mágiák (???)
