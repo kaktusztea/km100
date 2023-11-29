@@ -1,9 +1,3 @@
-```diff
-- TODO_HARC_#62.
-```
+## Harci alakzatok
 
-```diff
-- Kráni harci ék, pajzsfal, falanx, stb.
-- Kapcsolódik: **Alakzatharc** harci fortély.
-```
-
+Jelenleg a saját [STUDY oldalán](https://github.com/kaktusztea/km100/wiki/STUDY.harci.alakzatok) fejlesztjük. Amint ott elkészül, bemásolni ide.

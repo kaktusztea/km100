@@ -1,33 +1,3 @@
 ## Bárdmágia
 
-> 🚧ALPHA DRAFT🚧
-
-```
-50 KP Tradíció
-```
-
-Követelmény: 
-- Zene – spec. hangszer (4.szint)
-- Ének – 4.szint
-- Érzékenység: +1
-
-```diff
-- Elvileg ez is tapasztalati mágia, de nem lenne jó betolni a Vulgármágia alá...
-- Manavisszanyerés: csillagokból, a mágikus összhangzat megszólaltatásával.
-```
-
-
-## Bárd varázslatok táblázat
-http://users.atw.hu/atlantisz/magus/D20/Varazslatok-Pszi/Bardmagia.pdf
-
-
-### Vakság varázslat
-
-• Jelen formájában nagyon brutál
-• legyen könnyű létrehozni (mint most), de...
-• fenntartani legyen nehéz. Ha mozog a cél, „rajta kell tartani”
-• Összpontosítás próba
-• ha nem látja a célpontot, akkor arról lefoszlik a varázslat (ebbe mondjuk bele lehet kötni...)
-
-
-⭕Kidolgozandó.⭕
+Jelenleg a saját [STUDY oldalán](https://github.com/kaktusztea/km100/wiki/STUDY.magiatradicio.bardmagia) fejlesztjük. Amint ott elkészül, bemásolni ide.
