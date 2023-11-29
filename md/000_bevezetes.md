@@ -8,6 +8,8 @@ Ailtas, 2004-2023
 
 Ez a dokumentum és minden hozzá kapcsolódó szöveges, vagy bináris elem, azok egyes részletei, másolatai, valamint kapcsolódó részei mind a [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.hu), azaz a „Nevezd meg! – Ne add el! – Így add tovább!” 4.0 licenc feltételeinek megfelelően használható fel.
 
+**Kapcsolat**: `km100rpg _kukac_ protonmail _pont_ com`
+
 <br />
 
 # Áttekintés, bevezetés
