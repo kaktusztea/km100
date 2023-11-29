@@ -1,4 +1,22 @@
-Importálásra, formázásra vár az odt dokumentumból.
+## Tradíciók és Féltradíciók
+
+→ [STUDY: Tradíciók](./STUDY:-Tradíciók)
+
+### Tradíciók
+50 KP-ba kerülnek, vannak speciális követelményeik, mely legtöbbször az előtörténet.
+- Mágikus tradíciók (lásd Mágia fejezet)
+- Belső út (slan)
+- Papi mágia (vallás szerint. Pl. „Arel misztériuma”)
+
+### Féltradíciók
+
+25KP-ba kerülnek
+
+- Mágikus (pl. Quars tradíció) 
+  - CSAK 1 bizonyos spec, egyedi mágia-iskola tanulható vele (Pl. Quars(árnymágia)) 
+- fejvadász (slan-light)  (durva követelmények!)
 
 
-> Amíg a fentiek még nincsenek markdownba alakítva, használd a [Tradíciók PDF doksit](https://github.com/kaktusztea/km100/blob/master/archive/pdf/km100_04_tradiciok.pdf?raw=true), abban minden benne van.
+### Írástudó fortély extra
+
+Ha egy karakter tiszta Tradíciót tanul, akkor automatikusan, ingyen megkapja az **Írástudó*** fortélyt.
