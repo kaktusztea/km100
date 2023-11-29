@@ -1,3 +1,3 @@
-Importálásra, formázásra vár az odt dokumentumból.
+Kitéve [STUDY doksiba](https://github.com/kaktusztea/km100/wiki/STUDY.pszi.diszciplinak).
 
-> Amíg a fentiek még nincsenek markdownba alakítva, használd a [Pszí doksit](https://github.com/kaktusztea/km100/raw/master/archive/pdf/km100_06_pszi.pdf?raw=true), abban minden benne van.
+Ha ott ki lett dolgozva, bemásolni ide.
