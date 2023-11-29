@@ -540,10 +540,10 @@ Lásd a ⭕ **Pszi** fejezetet!
 
 ## Fejlődés
 
-A karakter kalandjai során sokat tapasztal, ezáltal tanul. A tanulás folyamata a km100 rendszerében a tapasztaláson keresztül valósul meg.
-Minden olyan tett, cselekedet, élmény során, amely a karakter épülését, fejlődését szolgálja ún. Tapasztalati Pontot (`TP`) ad.
+A karakter kalandjai során sokat tapasztal, ezáltal tanul. A tanulás folyamata a km100 rendszerében a tapasztaláson keresztül valósul meg.\
+Minden olyan tett, cselekedet, élmény során, amely a karakter épülését, fejlődését szolgálja tapasztalatot ad. Más rendszerekkel szemben nem számszerűsítjük ennek értékét.
 
-`1000 TP` összegyűjtése után a karakter szintet lép és a karakteralkotásnál meghatározott szabályok szerint növelheti karaktere egyes értékeit az ún. Karakter Pontokból (`KP`), melyeket ilyenkor kap. Ez utóbbi pontok elköltéséről láss alább egy rövid összegzést.
+Mikor a mesélő (KM) úgy érzi, az adott játékos karaktere kellően sokat felődött, bejelenti annak szintlépését. Ekkor a játékos a karakteralkotásnál meghatározott szabályok szerint növelheti karaktere egyes értékeit az ún. Karakter Pontokból (`KP`), melyeket ilyenkor kap. Ez utóbbi pontok elköltéséről láss alább egy rövid összegzést.
 
 ## Karakter pontok (KP) elosztása
 
