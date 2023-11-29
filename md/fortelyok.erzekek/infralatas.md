@@ -18,7 +18,7 @@ Sötétben (leginkább élőlények által kibocsátott) hőképek alapján is k
 
 - Felvételéhez olyan faj Háttér-fortélya szükséges, amelynél szerepel az Infralátás, mint felvehető Érzék-fortély
 - A távolság "használhatóságát" továbbra is az **Észlelés** képzettség határozza meg (mennyire folynak össze a hőfoltok).
-- A látótávolságot infrában az **Elfszem** Érzék-fortély is befolyásolja, ezért látnak az elfek a legtávolabb hőképek alapján.
+- A látótávolságot infrában a **Fejlett látás** Érzék-fortély is befolyásolja, ezért látnak az elfek a legtávolabb hőképek alapján.
 - &#8203;2. fokon sem adnak értékelhető képet egy föld alatti kripta hideg kőfalai
 - A látható fény "elnyomja" a hőképeket, napvilágnál nem használható, szürkületkor lassan kezd "átderengeni", sötétben magától átveszi a hagyományos látás szerepét.
 
