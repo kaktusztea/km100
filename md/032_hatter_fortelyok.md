@@ -34,7 +34,7 @@ Erő: [-5; +4] ; Edzettség: [-5; +4] ; Ügyesség [-2;+6] ; Gyorsaság [-2;+6]
 ```
 
 Felvehető Érzék-Fortélyok maximuma:
-- Elfszem - 1. fok
+- Fejlett látás - 1. fok
 - Infralátás - 2. fok
 
 Ajánlott fortélyok:
@@ -52,7 +52,7 @@ Erő: [-5;+4] ; Gyorsaság [-4;+6]
 ```
 
 Felvehető Érzék-Fortélyok maximuma:
-- Elfszem - 1. fok
+- Fejlett látás - 1. fok
 - Infralátás - 1. fok
 
 Ajánlott fortélyok:
@@ -92,7 +92,7 @@ Erő: [-1;+6] ; Edzettség [+0;+6]; Intelligencia [-5;+2]
 Felvehető Érzék-Fortélyok maximuma:
 - Infralátás - 2. fok
 - Barlangi tájékozódás - 1. fok
-- Orkszaglású - 1. fok
+- Fejlett szaglás - 1. fok
 
 Ajánlott fortélyok:
 - Kitartás ⭕
@@ -111,7 +111,7 @@ Erő: [-1;+6] ; Edzettség [-1;+5]; Intelligencia; [-5;+3]
 Felvehető Érzék-Fortélyok maximuma:
 - Infralátás - 1. fok
 - Barlangi tájékozódás - 1. fok
-- Orkszaglású - 1. fok
+- Fejlett szaglás - 1. fok
 
 Ajánlott fortélyok:
 - Kitartás ⭕
@@ -203,7 +203,7 @@ Erő [-5;+2] ; Edzettség [-2;+3] ; Ügyesség [-5;+6] ; Intelligencia [-5; +2];
 Felvehető Érzék-Fortélyok maximuma:
 - Infralátás - 1. fok
 - Barlangi tájékozódás - 1. fok
-- Orkszaglású - 1. fok ⭕
+- Fejlett szaglás - 1. fok ⭕
 
 Ajánlott fortélyok:
 - ⭕
@@ -222,9 +222,9 @@ Gyorsaság [+1;+6] ; Intelligencia [-5 ; +2] ; Önuralom [-5 ; +2]
 ```
 
 Felvehető Érzék-Fortélyok maximuma:
-- Elfszem - 1. fok ⭕
-- Kutya hallású - 1. fok
-- Orkszaglású - 1. fok
+- Fejlett látás - 1. fok ⭕
+- Fejlett hallás - 1. fok
+- Fejlett szaglás - 1. fok
 
 Ajánlott fortélyok:
 - Kitartás
