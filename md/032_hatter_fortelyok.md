@@ -52,11 +52,11 @@ Felvehető Érzék-Fortélyok maximuma:
 - Infralátás - 1. fok
 
 Ajánlott fortélyok:
-- Kitartás ⭕
+- Kitartás
 
 Ajánlott képzettségek:
 - Természetjárás
-- Lovaglás ⭕
+- Lovaglás
   
 ---
 #### Törpe
@@ -73,7 +73,7 @@ Felvehető Érzék-Fortélyok maximuma:
 - Barlangi tájékozódás - 1. fok
 
 Ajánlott fortélyok:
-- Kitartás ⭕
+- Kitartás
 
 Ajánlott képzettségek:
 - Keresés
@@ -92,7 +92,7 @@ Felvehető Érzék-Fortélyok maximuma:
 - Fejlett szaglás - 1. fok
 
 Ajánlott fortélyok:
-- Kitartás ⭕
+- Kitartás
 
 Ajánlott képzettségek:
 - Természetjárás
@@ -111,10 +111,10 @@ Felvehető Érzék-Fortélyok maximuma:
 - Fejlett szaglás - 1. fok
 
 Ajánlott fortélyok:
-- Kitartás ⭕
+- \-
 
 Ajánlott képzettségek:
-- Etikett (adott kultúrkör) ⭕
+- Etikett (adott kultúrkör)
 
 ---
 #### Kyr-vérű
@@ -127,7 +127,7 @@ Felvehető Érzék-Fortélyok maximuma:
 - Ultralátás - 1. fok
 
 Ajánlott fortélyok:
-- ⭕
+- \-
 
 Ajánlott képzettségek:
 - Etikett (Kyr kultúrkör)
