@@ -144,14 +144,13 @@ Erő [0;+5] ; Edzettség [0;+5] ; Intelligencia [-5;+3] ; Önuralom [-5;+3]
 🔆A Pszít nem képesek elsajátítani.
 
 Felvehető Érzék-Fortélyok maximuma:
-- Ultralátás - 3. fok
-- ⭕
+- Ultralátás - 3. fok (csak a papi kaszt)
 
 Ajánlott fortélyok:
-- ⭕
+- Kinokozás (ha amund kultúrában nevelkedett)
 
 Ajánlott képzettségek:
-- ⭕
+- Természetjárás - sivatag
 
 ---
 #### Dzsenn
@@ -161,13 +160,17 @@ Intelligencia [+1;+6] ; Önuralom [+1;+6]
 ```
 
 Felvehető Érzék-Fortélyok maximuma:
-- ⭕
+- nincs
 
 Ajánlott fortélyok:
 - Pszí alkalmazás
+- Szónoklás
+- Hidegvér
+- Tiszta fej
 
 Ajánlott képzettségek:
 - "Dzsenn pszí" pszi-iskola
+- Ősi nyelv - dzsenn
 
 ---
 #### Gnóm
@@ -179,12 +182,12 @@ Erő [-5;+2] ; Edzettség [-5;+3] ; Ügyesség [-2;+5] ; Intelligencia [+0;+6]
 🔆Futásnál, úszásnál, gyaloglásnál `-2` jár a Gyorsaságpróbáira.
 
 Felvehető Érzék-Fortélyok maximuma:
-- Ultralátás - 2. fok⭕
+- Ultralátás - 3. fok
 - Infralátás - 2. fok
 - Barlangi tájékozódás - 1. fok
 
 Ajánlott fortélyok:
-- ⭕
+- Zártörő
 
 Ajánlott képzettségek:
 - Mechanika
@@ -203,10 +206,15 @@ Felvehető Érzék-Fortélyok maximuma:
 - Fejlett szaglás - 1. fok
 
 Ajánlott fortélyok:
-- ⭕
+- Hazudozás
+- Suhanó árnyék
+- Szabotőr
+
+Speciális:
+- Kibontakozás manőver felvétele ajánlott :)
 
 Ajánlott képzettségek:
-- ⭕
+- alvilági képzettségek
 
 ---
 #### Khál
@@ -224,7 +232,7 @@ Felvehető Érzék-Fortélyok maximuma:
 - Fejlett szaglás - 1. fok
 
 Ajánlott fortélyok:
-- Természetes fegyver - 1.fok ⭕
+- Természetes fegyver - 1.fok ⭕TODO⭕
 - Kétkezes Harc
 - Kitartás
 
