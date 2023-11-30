@@ -13,7 +13,7 @@
 Észlelés (K) + Érzékenység (T)
 ```
 
-Az érzékeket (látás, halllás, szaglás, ízlelés) érintő próbákat **Észlelés** képzettségpróbával dobjuk, **Érzékenység** Tulajdonsággal.
+Az érzékeket (látás, hallás, szaglás, ízlelés) érintő próbákat **Észlelés** képzettségpróbával dobjuk, **Érzékenység** Tulajdonsággal.
 
 A fajok esetleges bónuszai felvehetőek Érzék-Fortélyként. Bővebben lásd a [Háttér fortélyok ](./032_hatter_fortelyok.md#faj-hátterek) fejezetben.
 
