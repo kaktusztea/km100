@@ -14,6 +14,8 @@ Sötétben (leginkább élőlények által kibocsátott) hőképek alapján is k
 
 <br />
 
+⭕Harcnál mit adnak?⭕
+
 **Megjegyzések**
 
 - Felvételéhez olyan [faj Háttér-fortélya](https://github.com/kaktusztea/km100/blob/master/md/032_hatter_fortelyok.md#fajok) szükséges, amelynél szerepel az Infralátás, mint felvehető Érzék-fortély
