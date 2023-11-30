@@ -8,14 +8,8 @@ Fajhoz felvehető Érzék-fortély.
 
 | |  Követelmény | Hatás  |
 | :----------- | :-----------: | :----------- |
-| Alapeset| - | Emberi szaglás |
-| 1.fok | "Háttér - *faj*" fortély | ⭕xyz |
-
-<br />
-
-**Megjegyzések**
-
-- ⭕xyz
+| Alapeset| - | - |
+| 1.fok | "Háttér - *faj*" fortély | ⭕Időérzék föld alatt is, Milyen mélyen van, Merre van észak |
  
 <br />
 
