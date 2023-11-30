@@ -4,14 +4,10 @@ A Háttér jellegű fortélyok ingyenes, számszerű előnyöket nem nyújtó je
 
 Ide tartoznak a játszható és nem játszható fajok, valamint előtörténetet színesítő, esetlegesen nehezítő(!) elemek, amennyiben a játékos hajlandó ezeket felvállalni.
 
-- Fajok
-- Származás
-- Nüanszok
-
 ---
-### Fajok
+### Faj hátterek
 
-Az alábbiakban a játszható és nem játszható fajok bemutatását, Tulajdonság-limiteit és speciálisan felvehető Érzék-Fortélyaikat találhatjuk. 
+Az alábbiakban a játszható és nem játszható fajok bemutatását, Tulajdonság-limiteit és speciálisan felvehető **Érzék-Fortélyaikat** találhatjuk. 
 
 🔆 Amennyiben egy játékos választ egy faj Háttért a karakterének, akkor az annál felsorolt lehetséges **Érzék-Fortélyok** közül **minimum 1 fokot** köteles felvenni hozzá.
 
@@ -233,3 +229,40 @@ Ajánlott képzettségek:
 - ⭕
 
 ---
+### Nüansz hátterek
+
+#### Fejlett tapintás (1)
+
+<!-- tag: erzekfortely -->
+
+Ingyenesen felvehető Érzék-fortély.
+
+Különlegesen kifinomult a tapintásod, ez lehet áldás és átok is.
+
+| |  Követelmény | Hatás  |
+| :----------- | :-----------: | :----------- |
+| Alapeset| - | Átlagos emberi tapintás |
+| 1.fok | - | `2x` érzékenyebb a tapintásod, mint egy átlagos emberé. Nem érdemes a hatást számszerűsíteni, a KM dönti el, hol hoz ez számodra előnyt, vagy súlyt hátránnyal. |
+
+<br />
+
+---
+#### Fejlett ízlelés (1)
+
+<!-- tag: erzekfortely -->
+
+Ingyenesen felvehető Érzék-fortély.
+
+Különlegesen kifinomult az ízlelésed, ez lehet áldás és átok is.
+
+| |  Követelmény | Hatás  |
+| :----------- | :-----------: | :----------- |
+| Alapeset| - | Átlagos emberi tapintás |
+| 1.fok | - | `2x` érzékenyebb az ízlelésed, mint egy átlagos emberé. Nem érdemes a hatást számszerűsíteni, a KM dönti el, hol hoz ez számodra előnyt, vagy súlyt hátránnyal. |
+
+<br />
+
+---
+### Származás hátterek
+
+#### Nemes
