@@ -263,6 +263,17 @@ Különlegesen kifinomult az ízlelésed, ez lehet áldás és átok is.
 <br />
 
 ---
-### Származás hátterek
+### Származás, jellem, küllem hátterek
 
-#### Nemes
+- Jóképű
+- Rusnya
+- Erdőlakó
+- Városlakó
+- Árva
+- Divatos
+- Nárcisztikus
+- Gondoskodó
+- Gyáva
+- Meggondolatlan
+- Pókiszony
+- Kígyóiszony
