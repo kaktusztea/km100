@@ -29,11 +29,16 @@ Megkülönböztetünk Harcot megelőző és harcon kívüli észlelés szituáci
 ### Aktív észlelés
 
 Azaz az "észreveszem-e?" jellegű szituációk
-
+```
+ +3 az Észlelés képzettségpróbára
+```
 - A karakter rákérdez, hogy érzékel-e egy konkrét dolgot
 - A karakter jelzi, hogy kifejezetten érzékeire figyel most (általánosságban)
 
 ### Passzív észlelés
+```
+ Módosulatlan nehézség az Észlelés képzettségpróbára
+```
 
 A karakternek feltűnik valami anélkül, hogy kifejezetten kereste volna/figyelt volna rá.
 
