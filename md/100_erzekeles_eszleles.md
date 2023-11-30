@@ -62,9 +62,9 @@ Itt képzettség ellenpróbát dobnak a felek: **Lopakodás/rejtőzés** vs **É
 
 Ilyen szituban a **Lopakodás/rejtőzést** általában **Ügyességgel**, az **Észlelést** pedig **Érzékenység** Tulajdonsággal dobjuk.
 
-- Ha az észlelő passzívan szemlélődik, mikor a támadás éri: alap ellenpróba
+- Ha az észlelő passzívan szemlélődik (passzív észlelés), mikor a támadás éri: alap ellenpróba
   (alapeset leírását és a próba körülményeit, módosítóit lásd a [Lopakodás/rejtőzés](kepzettsegek/lopakodas_rejtozes.md) képzettség leírásánál!)
-- Ha az észlelő odafigyel, számít a támadásra: `+3` jár a próbájára
+- Ha az észlelő odafigyel, számít a támadásra (aktív észlelés): `+3` jár a próbájára
 
 ### Nem harci szituáció
 
