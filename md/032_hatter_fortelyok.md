@@ -68,8 +68,9 @@ Erő: [-1;+5] ; Gyorsaság [-5;+4] ; Edzettség [-2;+6] ; Emlékezet [-5;+6]
 🔆Futásnál, úszásnál, gyaloglásnál `-2` jár a Gyorsaságpróbáira.
 
 Felvehető Érzék-Fortélyok maximuma:
+- Ultralátás - ?. fok
 - Infralátás - 2. fok
-- Barlangi tájékozódás - 1. fok (2⭕)
+- Barlangi tájékozódás - 1. fok
 
 Ajánlott fortélyok:
 - Kitartás ⭕
@@ -180,7 +181,7 @@ Erő [-5;+2] ; Edzettség [-5;+3] ; Ügyesség [-2;+5] ; Intelligencia [+0;+6]
 Felvehető Érzék-Fortélyok maximuma:
 - Ultralátás - 2. fok⭕
 - Infralátás - 2. fok
-- Barlangi tájékozódás - 1. fok ⭕?
+- Barlangi tájékozódás - 1. fok
 
 Ajánlott fortélyok:
 - ⭕
@@ -199,7 +200,7 @@ Erő [-5;+2] ; Edzettség [-2;+3] ; Ügyesség [-5;+6] ; Intelligencia [-5; +2];
 Felvehető Érzék-Fortélyok maximuma:
 - Infralátás - 1. fok
 - Barlangi tájékozódás - 1. fok
-- Fejlett szaglás - 1. fok ⭕
+- Fejlett szaglás - 1. fok
 
 Ajánlott fortélyok:
 - ⭕
@@ -218,15 +219,19 @@ Gyorsaság [+1;+6] ; Intelligencia [-5 ; +2] ; Önuralom [-5 ; +2]
 ```
 
 Felvehető Érzék-Fortélyok maximuma:
-- Fejlett látás - 1. fok ⭕
+- Fejlett látás - 1. fok
 - Fejlett hallás - 1. fok
 - Fejlett szaglás - 1. fok
 
 Ajánlott fortélyok:
+- Természetes fegyver - 1.fok ⭕
+- Kétkezes Harc
 - Kitartás
 
 Ajánlott képzettségek:
-- ⭕
+- Mászás
+- Ugrás
+- Akrobatika
 
 ---
 ### Nüansz hátterek
