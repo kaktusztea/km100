@@ -269,6 +269,10 @@ Sikeres **Végtagra támadást** kell végrehajtania, valamint megfelelő mennyi
 
 Ha a támadás túlütés, akkor és a sebzés legalább Súlyos lenne (`12 ÉP`), akkor az áldozat Fájdalomtűrés próbát dob `12`-es célszám (**Nehéz**) ellen, ezúttal **Edzettség** tulajdonsággal. Ha nincs meg, azonnal elájul.
 
+```
+Fájdalomtűrés (K) + Edzettség (T)  vs.  12
+```
+
 Hogy megkapjuk a valós ÉP seb mennyiségét, amit az áldozat elszenved, dobjunk `k3`-al:
 
 - `1`: nincs `ÉP` seb

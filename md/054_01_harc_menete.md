@@ -222,8 +222,8 @@ Abban, hogy a karakter aktuális sebesülési állapotában milyen ütemben vesz
 
 ```diff
 Kitéve a Megoldandók doksiba: 
-- TODO_HARC_#60.
-- TODO: az egyszerűbb (1 kör nyugi) lesz valszeg, de az edzettséget is bele kéne venni!
+- ⭕TODO_HARC_#60.
+- ⭕TODO: az egyszerűbb (1 kör nyugi) lesz valszeg, de az edzettséget is bele kéne venni!
 ```
 
 **Győzelmi szabály**: Ha a karakter végzett egy ellenfelével (úgy hiszi, legyőzte), akkor **Védő Értékéhez** visszatér `+10 pont` (a siker hatása a szervezetre + heroizmus).
@@ -231,7 +231,7 @@ Kitéve a Megoldandók doksiba:
 ---
 ### Zuhanás, megégés, zúzódás, varázslatok sebzése
 ```diff
-- TODO: Irányelvek kidolgozása: **PROB_HARC_#57.**
+- ⭕TODO: Irányelvek kidolgozása: **PROB_HARC_#57.**
 ```
 
 Természetesen nem csak fegyverek okozhatnak sérülést, hanem egy mágikus tűzgolyó, zuhanás a tetőről, stb. A mágikus hatások sebzéseit a **Mágia** (⭕link⭕) fejezetben tárgyaljuk, bővebben lásd ott.

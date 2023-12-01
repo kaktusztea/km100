@@ -28,7 +28,7 @@ A bal oldali ábra `18 ÉP` elosztását mutatja be. Az állapot romlásának ha
 ---
 ### Kábulat Életerő Pont (KT)
 
-A rendszer különbséget tesz a fizikai sérülés és a karakter azon állapota között, amely a pillanatnyi állapotát, ájulástól való „távolságát” meghatározza. Ez utóbbit szimulálja a Kábulat Életerő Pont (`KT`). A `KT` nem azonos a Fájdalomtűrés képzettséggel, tőle független fogalom. A `KT` jelenthet kábultságot, rosszullétet, mérgezés okozta gyengeséget, sőt másnaposságot is!
+A rendszer különbséget tesz a fizikai sérülés és a karakter azon állapota között, amely a pillanatnyi állapotát, ájulástól való „távolságát” meghatározza. Ez utóbbit szimulálja a **Kábulat Életerő Pont** (`KT`). A `KT` nem azonos a **Fájdalomtűrés** képzettséggel, tőle független fogalom. A `KT` jelenthet kábultságot, rosszullétet, mérgezés okozta gyengeséget, sőt másnaposságot is!
 
 A KT-nek nincs kezdeti értéke, csak a fenti hatások valamelyike következtében jöhet létre. Tehát ebből a szempontból jegyzése az `ÉP`-vel ellentétes. Mikor valaki olyan „sebesülést” szenved el, hogy `KT`-t „szerez”, a hatás megegyezik azzal, mint amit valós sebesülés esetén tapasztal, de nem jár strukturális károsodással (valódi ÉP sebbel), vagy halállal, legfeljebb ájulással. Tipikus esete a `KT` sebesülésnek, mikor valakit alaposan fejbe kólintanak. Ez – szándéktól függően – okozhat valós sebesülést is, de ezen kívül `Kábulat Életerő Pontokat` is szül. Másik példa lehet, mikor a karakter rosszullétet okozó mérget iszik.
 
@@ -101,13 +101,7 @@ Az `S2`, `S3` és `S4` kategóriákba kerülve viszont már rendre `-10`; `-20` 
 ---
 #### Fájdalomtűrés
 
-```diff
-- Harc mindhalálig - fortély?
-- Ájulás legyen?
-```
-
 A Fájdalomtűrés képzettség fontos szerepet játszik a harcban elszenvedett sebek fájdalmának elnyomásában, illetve egyéb helyzetekben a kín elviselésében. Részben játéktechnikai gyorsítás miatt, részben azért teszünk különbséget a harc közben és azon kívüli fájdalomtűrés miatt, mert harc közben az adrenalin hatására jobban bírja a karakter a fájdalmat, valamint próbáltuk a harc heroizmusát megőrizni.
-
 
 ---
 #### Fájdalomtűrés harc közben
@@ -124,9 +118,14 @@ Ha harc közben más sebesülés kategóriába lép a karakter, `TÉ` levonást 
 A levonást csökkenti: `Önuralom` + `Fájdalomtűrés`
 ```
 
-##### S4 kategóriás fájdalomtűrés
-⭕TODO⭕
+#### S4 kategóriás fájdalomtűrés
+⭕[Harci láz ad bónuszt?](https://github.com/kaktusztea/km100/wiki/ISSUE.fortelyok#harci-l%C3%A1z)
 
+```
+Fájdalomtűrés (K) + Edzettség (T)  vs.  12
+```
+
+Ha a karakter az S4-es (Súlyosan sebesült) kategóriába ér egyszeri Fájdalomtűrés próbát kell dobnia Nehéz (`12`) célszám ellen. Siker esetén ezt a próbát a következő sebesüléskor kell csak újradobnia.
 
 ---
 #### ⚡ Példa Fájdalomtűrésre
@@ -189,10 +188,7 @@ A harmadik seb `4 ÉP`, Gustav a harmadik (közepesen sérült) kategóriába ke
 
 Gustav hátrálás közben belefejel a kovácsoltvas kapuba. `4KT` a büntetése. Ezzel az `S4` (utolsó) kategóriába került. Büntetése `-19TÉ` (a `-30` helyett).
 
-```diff
-- Ha kategóriában elrontja a fájdalomtűrés próbáját, (célszám:18) akkor el is ájul.
-- ⭕Mikor és mekkora célszámra kell Fájdalomtűrés próbát dobni?⭕ Kell egyáltalán?
-```
+Mivel S4-es kategóriába került, jön az [automatikus Fájdalomtűrás próba](#s4-kateg%C3%B3ri%C3%A1s-f%C3%A1jdalomt%C5%B1r%C3%A9s) `12` (Nehéz) ellen Edzettséggel. Ha elrontja, akkor el is ájul.
 
 Ha túléli a kalandot, akkor a „szerzett” `4 Kábulat ÉP` gyógyulása `4 óra` alatt, a sebek okozta ÉP csökkenés pedig a ⭕(link) „Sebek gyógyulása” fejezetben meghatározott ütemben történik.
 
@@ -209,8 +205,11 @@ Ilyenkor dobnia kell egy `Edzettség` tulajdonságpróbát `Átlagos (5-ös)` ne
 
 ---
 ### Gyógyulás
-
-```diff
-- Kitéve a megoldandó dokba: Gyógyulás – TODO_HARC_#38.
+```
+1 ÉP / nap
+1 KT / óra
 ```
 
+⭕Jelenleg a saját [STUDY oldalán](https://github.com/kaktusztea/km100/wiki/STUDY.gyogyulas.gyogyitas) fejlesztjük. Amint ott elkészül, bemásolni ide.
+
+Jelenleg az `1 ÉP` / nap és `1 KT` / óra gyógyulás szabály az irányadó.

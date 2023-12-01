@@ -580,7 +580,7 @@ KP = 150 + (Tapasztalati szint x (80 + Intelligencia)) +
 ```
 
 > 🔆
-> ez utóbbi (Emlékezethez kapcsolt pontok) kizárólag **NEM** harci/misztikus ismeretekre költhetők!
+> ez utóbbi (Emlékezethez kapcsolt pontok) kizárólag **NEM** harci/misztikus ismeretekre költhetők! A Fájdalomtűrés is a harci képzettségek alá tartozik.
 
 A karakterek 1. szinten `150 KP`-t (KP Alap), valamint minden szinten (elsőn is) `(80+Intelligencia) KP`-t kapnak. Ezen felül további `(15+Emlékezet) KP` jár szintenként, amit csak olyan ismeretre fordíthatnak, amely nem harci/misztikus jellegű. A játékosnak a fenti Karakter Pontjaiból kell felvennie a következőket:
 

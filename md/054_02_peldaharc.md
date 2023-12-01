@@ -104,12 +104,13 @@ Gustavnak `3 ÉP`-je marad és `S4`-es kategóriába zuhan (további `-20 TÉ` b
 
 Aktuális harcértékei: `KÉ: 20, TÉ: 64, VÉ: 116, ÉP: 3`
 
-```diff
-- Ájulás ellen fájdalomtűrés próba lesz?
+Mivel `S4`-es kategóriába került automatikusan Fájdalomtűrés próbát kell dobnia Edzettséggel, hogy ne ájuljon el azonnal.
+
+```
+Fájdalomtűrés (K) + Edzettség (T)  vs.  12 (Nehéz)
 ```
 
-
-Gustav helyzete szinte reménytelen, támolyog, még egy apró seb és vége van. A játékos bejelenti, hogy a következő körben utolsó esélyként teljes **támadó taktikát** (`+15 TÉ; -30 VÉ`) alkalmaz, ha meg kell halni, tegye azt lovagként! Nem tudja, de ellenfele – látva elcsigázottságát –, szintén teljes támadó taktikát alkalmaz, hogy következő csapása biztos a túlvilágra küldje prédáját és gyorsan eltűnhessen az éjszakában. Az elgondolás jó... de az istenek ma máshogy akarták.
+Bár a fenti próbát sikeresen megdobja, Gustav helyzete szinte reménytelen, támolyog, még egy apró seb és vége van. A játékos bejelenti, hogy a következő körben utolsó esélyként teljes **támadó taktikát** (`+15 TÉ; -30 VÉ`) alkalmaz, ha meg kell halni, tegye azt lovagként! Nem tudja, de ellenfele – látva elcsigázottságát –, szintén teljes támadó taktikát alkalmaz, hogy következő csapása biztos a túlvilágra küldje prédáját és gyorsan eltűnhessen az éjszakában. Az elgondolás jó... de az istenek ma máshogy akarták.
 
 Tetves nyeri a kezdeményezést, viszont dobása csak `04` (összesen: `114`!), ami még így is talál (!) (tekintve, hogy a lovag `VÉ`-je csak `86` a Támadó taktika miatt), viszont sebzésnek `2`-t dob `k20`-on. Mivel `20`-nál többel ütötte túl ellenfelét, ezért a többszörös túlütésből további `+3 SP` jár, így a vége: `7 SP`... amit Gustav láncinge pont teljesen felfog (**páncéldobása** sikeres (`3`) volt)!
 
@@ -126,12 +127,8 @@ Gustav sebzése: k20 + 5 + 3 = 19 SP
 
 Tetvesnek nincs vértje, ezért a `19 SP` 1:1-ben számít → `12 ÉP` és `-25 VÉ`. Tetvesnek `1 ÉP`-je marad, majdnem kettészelték!
 
-```diff
-- Ájulás ellen fájdalomtűrés próba lesz?)
-```
+Míg Gustav 3 sebet (`15 ÉP`) is elviselt és talpon maradt, addig a gyengébb fizikumú Tetves már `12 ÉP`‑nél kidől. `1 ÉP`-je maradt, Fájdalomtűrés próbát dob `12` ellen, de elvéti és eszméletlenül rogy össze, miután értetlenül bámul a hasából kimeredő kardra. Ha nem látják el, perceken belül meghal.
 
-Míg Gustav 3 sebet (`15 ÉP`) is elviselt és talpon maradt, addig a gyengébb fizikumú Tetves már `12 ÉP`‑nél kidől. `1 ÉP`-je maradt, eszméletlenül rogy össze, miután értetlenül bámul a hasából kimeredő kardra. Ha nem látják el, perceken belül meghal.
-
-A lovag kín keservesen feltápászkodik, hite, bátorsága és a láncing megmentette az életét. A háttérben vasalt csizmák csattogása hallatszik, az őrjárat érkezik futva, de sok dolguk már nem akad...
+A lovag kínkeservesen feltápászkodik, hite, bátorsága és a láncing megmentette az életét. A háttérben vasalt csizmák csattogása hallatszik, az őrjárat érkezik futva, de sok dolguk már nem akad...
 
 ---
