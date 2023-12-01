@@ -1,4 +1,4 @@
-#### 🔵 Észlelés
+#### 🔴 Észlelés
 
 **Kapcsolódó főfejezet**: [Érzékelés, észlelés](../090_erzekeles_eszleles.md)
 
@@ -6,8 +6,8 @@
 
 **Domináns Tulajdonságok**:
 
+- Érzékenység (fizikai érzékekre is ez használandó)
 - Intelligencia
-- Származtatott Érzékek: Intuíció (Érzékenységból), Látás, Hallás, Szaglás, Tapintás, Ízlelés (Edzettségből)
 
 **Képzettség párja**: -
 
@@ -15,35 +15,7 @@
 
 **Leírás**: Az Észlelés valaminek az észrevételét takarja. Ez lehet egy villanó tőr, egy meglapuló merénylő a lombok közt, egy árulkodó súrlódó nesz. Fontos, hogy az Észlelés csak a momentum észrevételt jelenti, annak értelmezését nem! Az a játékos feladata, melyet esetleg megkönnyíthet a **Nyomolvasás** képzettség.
 
-Megkülönböztetünk Harcot megelőző és harcon kívüli észlelés szituációt, valamint ezeken belül aktív és passzív észlelést.
-
-<br />
-
-> Harcot megelőző szituáció
-
-Itt ellenpróbát dobnak a felek:
-```
-Lopakodás/rejtőzés  vs  Észlelés
-```
-
-Ilyen szituban a Lopakodás/rejtőzést általában `Ügyességgel`, az Észlelést pedig `Intuícióval` dobjuk.
-
-- Ha az észlelő passzívan figyel, mikor a támadás éri: alap ellenpróba (alapeset leírását és a próba körülményeit, módosítóit lásd a `Lopakodás/rejtőzés` képesség leírásánál!)
-- Ha az észlelő odafigyel, számít a támadásra: `+3` jár a próbájára
-
-<br />
-
-> Nem harci szituáció
-
-Sima próbadobás adott nehézségre (KM határozza meg.
-
-- Ha az észlelés passzív: alap nehézség ellen dob
-- Ha az észlelés aktív: egy kategóriával (`-3`) csökken a nehézség
-
-**Fontos megjegyzés**: Ne keverjük az Észlelés próbát az Érzékekre (származtatott tulajdonságok) dobott Tulajdonságpróbával! Pl. elolvasni egy távoli feliratot: Látásra dobott tulajdonságpróba, nem képzettségpróba, mert ez egy érzék‑függő próba, tanult ismereteknek itt nem jut szerep!
-
-Az viszont igaz, hogy az Észlelés képzettségpróba dobásakor legtöbbször a fenti Érzékeket használjuk a próbadobáshoz (pl. Látás+Észlelés).
-
+A képzettség szituációs alkalmazásáról bővebben az [Érzékelés, Észlelés](../100_erzekeles_eszleles.md) fejezetben olvashatsz.
 <br />
 
 > Biztos tudás, követelmények

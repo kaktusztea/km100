@@ -107,7 +107,7 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🟢[Helyismeret](kepzettsegek/helyismeret.md)*
 
-🔵[Észlelés](kepzettsegek/eszleles.md) <sup><sub>(95%)</sub></sup>
+🔴[Észlelés](kepzettsegek/eszleles.md) <sup><sub>(95%)</sub></sup>
 
 🔵[Keresés](kepzettsegek/x_kereses.md)
 
