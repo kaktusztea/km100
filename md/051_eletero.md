@@ -26,7 +26,6 @@ Az egyes kategóriák jelölésében az "`S`" a „Sebesülés” -re utal, a sz
 A bal oldali ábra `18 ÉP` elosztását mutatja be. Az állapot romlásának hatásait a „Sebesülés” fejezetben ismertetjük.
 
 ---
-
 ### Kábulat Életerő Pont (KT)
 
 A rendszer különbséget tesz a fizikai sérülés és a karakter azon állapota között, amely a pillanatnyi állapotát, ájulástól való „távolságát” meghatározza. Ez utóbbit szimulálja a Kábulat Életerő Pont (`KT`). A `KT` nem azonos a Fájdalomtűrés képzettséggel, tőle független fogalom. A `KT` jelenthet kábultságot, rosszullétet, mérgezés okozta gyengeséget, sőt másnaposságot is!
@@ -36,26 +35,22 @@ A KT-nek nincs kezdeti értéke, csak a fenti hatások valamelyike következtéb
 A sima `ÉP` és a `KT` értékek kezelése ugyanabban az ÉP táblázatban történik, hatásaik is megegyeznek, csak a `KT` esetén nincs valós fizikai sérülés. Így tehát a „sebesülés” okozta harcérték levonások úgy számítandóak, mintha valós sebzés történt volna! A gyakorlatban ez úgy néz ki, hogy ha a karakter Kábulat ÉP-t szerez, azt bejelöli a rendes `ÉP` táblázatban.
 
 ---
-
 #### Sebzések jelölése az ÉP táblázatban
 Először jelöljük be a valós sebesülés okozta ÉP-ket, majd utána a Kábulat ÉP-ket (ajánlott egy „**K**” betű írása a rubrikákba).
 
 Ha egy karakternek egy korábbi fejbekólintás okán vannak már `KT`-i és egy újabb – valós – sebet szerez, akkor az újabb sebet a legutolsó valós seb után írjuk be, a meglevő `KT`-ket pedig „toljuk lejjebb”. Ha `KT`-k hatására betelik az életerő táblázat, a karakter akkor is életben marad. Halált csak a valós `ÉP`-k 0-ra csökkenése okozhat.
 
 ---
-
 #### Kábulat ÉP gyógyulása
 
 A Kábulat ÉP, mivel nem valós sebesülés okozta, gyorsabban „gyógyul”, mint a valós ÉP seb. Fizikai behatás esetén kb. **óránként 1 pont „tűnik el”**, és így szép lassan „visszaolvad” a valós sebzésbe. Mérgezés, betegség esetén a hatás tartósabb is lehet, itt a KM dönt. **Alvás közben** a gyógyulási sebesség duplázódik, tehát **2KT/óra**. Ha a KM úgy látja indokoltnak eltérhet a fenti számoktól.
 
 ---
-
 #### Tartós rosszullét
 
 Ha a karakter például méregnek „köszönhetően” tartósan gyengélkedik, akkor tartósan alkalmazhatjuk a `KT`-ket, azaz a rosszullét idejére ezek megmaradnak, vagy lassabban tűnnek el.
 
 ---
-
 #### Verekedés, Kocsmai bunyó és Kábulat ÉP
 
 A `KT` kiválóan alkalmas kocsmai verekedések, kisebb – nem „vérre menő” – összetűzések szimulálására is. Mint ahogy azt a „Fegyverek” fejezetben láthatjuk, a Puszta kéz sebzése mindig `KT` (kivéve egyes harcművész stílusokat).
@@ -63,13 +58,11 @@ A `KT` kiválóan alkalmas kocsmai verekedések, kisebb – nem „vérre menő�
 **Minden 5. KT okoz csak 1 ÉP valós sebesülést.**
 
 ---
-
 #### Fejbe vágás
 
 Gyakori eset, hogy valakinek ráhúznak egy nagyot a fejére. Például sisakos ellenfelet fejen találnak egy buzogánnyal. A sisak ugyan megvédi, de a feje mégis igen nagy traumát szenved el, pár körig meglehetősen kellemetlenül érzi magát. Ez természetesen helyzet specifikus, a – KM dönt –, de irányadónak elmondhatjuk, hogy ilyenkor például plusz 2-3 KT büntetést kap az áldozat, amelyek azonban pár kör alatt elmúlnak. Ne keverjük a „Fejbe vágást” a 🗡️"**Leütés hátulról**” harci taktikával! ⭕link⭕
 
 ---
-
 #### ⚡ Példa Kábulat ÉP alkalmazására
 
 ```diff
@@ -86,7 +79,6 @@ Látható, hogy a karaktert irdatlanul fejbe kólintották, ha elrontja **Fájda
 Ha további seb nem éri, akkor – a magához térés után – a `9 KT` 9 óra alatt tűnik el, Cravignon pedig `12 ÉP`-vel és egy púppal a fején éli tovább életét.
 
 ---
-
 ### Sebesülés
 
 Ha a karakter találatot kap, harcértékeit - fizikumától függően - levonások sújtják. Persze ami például egy nyeszlett alakot az összeesés szélére sodor, az nem okoz akkora hátrányt egy edzett korgnak.
@@ -120,15 +112,20 @@ A Fájdalomtűrés képzettség fontos szerepet játszik a harcban elszenvedett 
 ---
 #### Fájdalomtűrés harc közben
 
-Ha harc közben más sebesülés kategóriába lép a karakter, TÉ levonást kap büntetésül. Ezt az értéket csökkenti a `Fájdalomtűrés` képzettség és az `Önuralom` tulajdonság összege.
+Ha harc közben más sebesülés kategóriába lép a karakter, `TÉ` levonást kap büntetésül. Ezt az értéket csökkenti a **Fájdalomtűrés** képzettség és az **Önuralom** tulajdonság összege.
 
-**Bónusz**: a `Harcos elme` fortély minden foka további `1 pontot` csökkent.
+⭕**Bónusz**: a **Harcos elme** fortély minden foka további `1 pontot` csökkent.⭕
 
 | - | S1 | S2 | S3 | S4 |
 | :-----: | :----: | :----: | :----: | :----: |
 | TÉ levonás | - | -10 | -20 | -30 |
 
-(Csökkenti: `Önuralom` + `Fájdalomtűrés`)
+```
+A levonást csökkenti: `Önuralom` + `Fájdalomtűrés`
+```
+
+##### S4 kategóriás fájdalomtűrés
+⭕TODO⭕
 
 
 ---
@@ -217,10 +214,3 @@ Ilyenkor dobnia kell egy `Edzettség` tulajdonságpróbát `Átlagos (5-ös)` ne
 - Kitéve a megoldandó dokba: Gyógyulás – TODO_HARC_#38.
 ```
 
-
----
-#### Sebek jellege
-
-```diff
-- Kitéve a megoldandó dokba: Fegyverek – TODO_HARC_#27.
-```
