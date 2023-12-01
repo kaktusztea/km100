@@ -9,7 +9,7 @@
 ## Karakteralkotók
 
 - [Karakteralkotáshoz táblázatok v6.2 (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_karakteralkotas_v6.2.pdf?raw=true)
-- [JK Karakteralkotó v7.3 (ODS)](https://github.com/kaktusztea/km100/raw/master/segedlet/karakteralkoto_v7.3.ods?raw=true) <sub><sup>([LibreOffice](https://www.libreoffice.org/download/download/))</sup></sub>
+- [JK Karakteralkotó v7.4 (ODS)](https://github.com/kaktusztea/km100/raw/master/segedlet/karakteralkoto_v7.4.ods?raw=true) <sub><sup>([LibreOffice](https://www.libreoffice.org/download/download/))</sup></sub>
 - [NJK Karakterlapok v1.1 (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.1.pdf?raw=true)
 
 ## Részletes szabályrendszer
@@ -68,7 +68,7 @@
 	- [Papi mágia](089_papimagia.md) (10%) 🚧
 	- [Ork Énekmondói mágia](086_ork.enekmondoi.magia.md)
 	- [Rituálé](087_rituale.md)
-- [Slan](090_slan.md) (25%)
+- [Slan](090_slan.md) (25%)🚧
 - [Érzékelés, Észlelés](100_erzekeles_eszleles.md) (90%)
 - [Szituációk](110_szituaciok.md) (20%)
 

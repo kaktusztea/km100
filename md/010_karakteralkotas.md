@@ -42,7 +42,7 @@ Rövid áttekintő summázatként álljanak itt a számok, amelyekkel a karakter
 
 ### Szabad pontok
 
-- **Tulajdonságok**: Erő, Edzettség, Ügyesség, Gyorsaság, Intelligencia, Emlékezet, Önuralom, Érzékenység;   +Érzékek származtatva
+- **Tulajdonságok**: Erő, Edzettség, Ügyesség, Gyorsaság, Intelligencia, Emlékezet, Önuralom, Érzékenység;
 - **Származtatott Harcértékek**: KÉ, TÉ, VÉ, CÉ, MFP (Manőverfejlesztő Pont)
 
 ### KP költésével növelt értékek
@@ -115,6 +115,10 @@ A Tulajdonságok értéke `-5` és `+5` között mozoghat (ezen a faji módosít
 ---
 
 ### Erő
+
+```
+1:1 beleszámít az SP (Sebzés Pont) értékbe +/- értékben egyaránt.
+```
 
 A nyers, fizikai erődet mutatja. Gyakorlatilag, hogy „mennyire vagy erős".
 

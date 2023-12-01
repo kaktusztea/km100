@@ -10,7 +10,7 @@ A fentiekben kifejtettük az egyes harcértékek kiszámításának módját. Mo
 ---
 ### Harci kör
 
-A harcot körökre osztjuk, minden kör **5 szegmenst** ölel fel. Ebben cselekedhet mindenki a kezdeményezés által meghatározott sorrendben.
+A harcot körökre osztjuk, minden kör ⭕**5 szegmenst**⭕ ölel fel. Ebben cselekedhet mindenki a kezdeményezés által meghatározott sorrendben.
 
 ---
 ### Cselekedetek
@@ -55,7 +55,7 @@ Azok a támadások, melyek majdnem betaláltak, komolyan igénybe veszik az áld
 |  Támadó dobás eredménye  | Hatás   |
 |:---:|:--- |
 | **TÉ < VÉ** | VÉ csökkentés<br/>• Alaphelyzetben (nincs előnyös-hátrányos helyzet):<br/>&nbsp;&nbsp;mindkét fél kiskockával csökkent (k100)<br/><br/>• Legalább 1 penge fegyverméret különbségnél:<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Előnyös helyzetű támadó: (kiskocka+1)-el csökkent (k100)<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Hátrányos helyzetű támadó: (kiskocka-1)-el csökkent (k100)<br/><br/>• 2 penge, vagy nagyobb méretkülönbségnél:<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Előnyös helyzetű támadó:  (kiskocka+2)-vel csökkent (k100)<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Hátrányos helyzetű támadó: (kiskocka-1)-el csökkent (k100)   |
-|  **TÉ >= VÉ** | Túlütés → Sebzés dobás<br/>• A sebzéshez az Erőbónusz és mágiából adódó bónuszok hozzáadódnak<br/>• Többszörös túlütés: +20-anként +3SP  (max +9 SP)<br/>• Páncéldobás (opcionális): k10-el dob az áldozat<br/>• VÉ csökkentés: ÉP sebtől függő VÉ csökkenés (lásd a Sebzés táblázatot) (csak!)    |
+|  **TÉ >= VÉ** | Túlütés → Sebzés dobás<br/>• A sebzéshez az Erőbónusz/Erőhiány és mágiából adódó bónuszok hozzáadódnak<br/>• Többszörös túlütés: +20-anként +3SP  (max +9 SP)<br/>• Páncéldobás (opcionális): k10-el dob az áldozat<br/>• VÉ csökkentés: ÉP sebtől függő VÉ csökkenés (lásd a Sebzés táblázatot) (csak!)    |
 
 **Megjegyzés**: az Harci anatóma ÉP bónusza csak akkor adható hozzá, ha az alap sebzés átment a páncélon!
 
@@ -195,8 +195,8 @@ Természetesen nem mindegy, hogy egy támadás hol találta el az ellenfelet, hi
 #### Erőbónusz és Erőhiány
 
 ```
-Az Erő tulajdonság +2 feletti része 1:1-ben hozzáadódik az SP értékhez.
-Az Erő tulajdonság -2 alatti része 1:1-ben levonódik az SP értékből.
+Az Erő tulajdonság 1:1-ben hozzáadódik az SP értékhez.
+Ha értéke negatív, akkor értelemszerűen levonódik belőle.
 ```
 
 Egyes fegyverek forgatása esetén a karakter fizikai ereje megnöveli az okozott sebzés. Tipikusan azok a fegyverek ezek, amelyek használata során a plusz erő használata felgyorsítja azt, jól kivezethető ívű csapások végezhetők vele. Továbbá számos fegyver van, melynek forgatása Erő követelményhez kötött, azaz csak megfelelő fizikumú karakter használhatja. Erről az egyes fegyverek egyéni leírásában találhatunk részleteket, de általánosságban a fenti szabályok az irányadóak.
