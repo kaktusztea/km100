@@ -22,8 +22,7 @@ A taktikák használatát kör elején, kezdeményezés előtt kell bejelenteni,
 | Csonkolás **(X)**                   | • Kéz csonkolása: (áldozat `max ÉP / 3`) (felfele kerekítve) sebzés szükséges<br/>• Láb csonkolása: (áldozat `max ÉP / 2`) (felfele kerekítve) sebzés szükséges       |
 | Kijelölt testrészre támadás **(X)** | Sebző támadás `TÉ:-20`-al                                                                          |
 | Pontok támadása harc közben **(X)** | • Követelmény: **Harci anatómia** fortély – `2.fok`<br/>• Követelmény: **Pontra támadás** manőver  |
-| Visszafogott csapás / Harc az ellenfél elfogásáért **(X)** |  Bónuszt ad: **Harci anatómia** fortély                                     |
-
+| Visszafogott csapás / Harc az ellenfél elfogásáért **(X)** |  ⭕TODO⭕ Bónuszt ad: **Harci anatómia** fortély                           |
   
 ### Ökölszabály Védő Érték eltolásra
 
@@ -322,3 +321,8 @@ Ha harc közben próbálsz ellenfeleden egy konkrét pont támadásával nagyobb
 → [Kidolgozás itt](https://github.com/kaktusztea/km100/wiki/TODO.harcrendszer#r%C3%A1vet%C5%91d%C3%A9s-h%C3%A1tulr%C3%B3l). Ha kész, bemozgatni ide.
 
 ---
+
+### Visszafogott csapás / Harc az ellenfél elfogásáért
+`PROB_HARC_#51.`
+
+→ [Kidolgozás itt](https://github.com/kaktusztea/km100/wiki/TODO.harcrendszer#visszafogott-csap%C3%A1s--harc-az-ellenf%C3%A9l-elfog%C3%A1s%C3%A1%C3%A9rt). Ha kész, bemozgatni ide.
