@@ -310,53 +310,15 @@ Ha harc közben próbálsz ellenfeleden egy konkrét pont támadásával nagyobb
 ---
 
 ### Mögékerülés
+`PROB_HARC_#51.`
 
-
-```diff
-- PROB_HARC_#51.
-```
-
-⭕ Belharc?
-
-Többen harcolnak egy ellenféllel. A társ hogyan fér hozzá az ellenfélhez, hogyan tud hátába kerülni** ⭕Mögékerülés (Manőver???)⭕
-
-	- Ha Manőver, a KM ne mondja el rögtön, hogy sikerült-e a próba. ⭕Csak a kör ??? végén.⭕
-	- ⭕Mennyi időbe telik a mögékerülés????⭕
-	- Csak Manőver-próbából áll
-
-```diff
-- Hogyan férhet hozzá egy karakter a társ által takart ellenfélhez?
-	- Nyílt terepen?
-	- És folyósón?
-- Hogyan tud a hátába kerülni?
-    
-- Folyton forognak az ellenfelek nem könnyű mögé kerülni főleg ha vigyáz rá az ellen, hogy a hátába kerüljenek (bár szerintem alapból vigyáz rá mindenki)
-```    
-
-```diff
-- Mással harcoló ellenfél hátába kerülni nem is olyan könnyű, hiszen a harc csupa forgás, nem egy helyben folyik. Ki tudja, hogy pár pillanattal később is arra mutatja -e a hátát, mint most.
-
-- Ráadásul minden harcos igyekszik védeni a hátát, így amennyiben látja a további támadókat, nem fordít hátat nekik.
-
-- A fenti okok miatt a Mögékerülésre nem adunk konkrét szabályt, döntsön a véletlen! Dobjunk k10-el minden körben!
-
-- Ha az ellenfél tudja, hogy hol vagyunk, akkor a 9-es és 10-es dobás esetén kerül olyan pozícióba, hogy épp a hátát mutatja nekünk. Ekkor leadhatunk rá 1, azaz egy támadást a körben hátulról.
-
-- Ha nem tud róla, akkor 6-10-es dobás esetén ismétlődnek meg a fentiek.
-```
+→ [Kidolgozás itt](https://github.com/kaktusztea/km100/wiki/TODO.harcrendszer#m%C3%B6g%C3%A9ker%C3%BCl%C3%A9s). Ha kész, bemozgatni ide.
 
 ---
 
 ### Rávetődés hátulról
-```diff
-- PROB_HARC_#51.
-```
+`PROB_HARC_#51.`
 
-- Megérzés: az áldozat jogosult
-- Követelmény: Meglepetés, vagy Észrevétlen támadás kell hozzá (Sikeres Lopakodás)    
-
-```diff
-- Tehát olyan, mint egy sikeres Manőver Előkészítés, ami után lehet dobni a Végrehajtást, azaz: sima sikeres (VÉ csökkentő) támadás. De az már túl könnyű! Mert a meglepetés is pluszt ad, meg hogy a sima támadás is elég, az is (-20).⭕
-``` 
+→ [Kidolgozás itt](https://github.com/kaktusztea/km100/wiki/TODO.harcrendszer#r%C3%A1vet%C5%91d%C3%A9s-h%C3%A1tulr%C3%B3l). Ha kész, bemozgatni ide.
 
 ---
