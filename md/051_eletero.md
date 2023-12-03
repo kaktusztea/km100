@@ -119,7 +119,7 @@ A levonást csökkenti: `Önuralom` + `Fájdalomtűrés`
 ```
 
 #### S4 kategóriás fájdalomtűrés
-⭕[Harci láz ad bónuszt?](https://github.com/kaktusztea/km100/wiki/ISSUE.fortelyok#harci-l%C3%A1z)
+⭕[Harci láz ad bónuszt?](https://github.com/kaktusztea/km100/wiki/ISSUE.TODO.fortelyok#harci-l%C3%A1z)
 
 ```
 Fájdalomtűrés (K) + Edzettség (T)  vs.  12
