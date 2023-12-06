@@ -6,6 +6,13 @@
 
 ---
 
+```
+→ Primer képzettségek: minden harci, misztikus, mágikus képzettség + Észlelés, Fájdalomtűrés
+→ Szekunder képzettségek: minden más képzettség
+```
+
+---
+
 [Különleges képzettségek első szinten](#Különleges-képzettségek-első-szinten)
 
 ---
