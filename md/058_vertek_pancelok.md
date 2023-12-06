@@ -1,3 +1,3 @@
-Kiemelni ide a Vértek, páncélok részt a Harcrendszer doksiból.
+A munka a [STUDY oldalon](https://github.com/kaktusztea/km100/wiki/STUDY.vertek.pancelok](https://github.com/kaktusztea/km100/wiki/STUDY.vertek.pancelok#v%C3%A9rtek-p%C3%A1nc%C3%A9lok-1)https://github.com/kaktusztea/km100/wiki/STUDY.vertek.pancelok#v%C3%A9rtek-p%C3%A1nc%C3%A9lok-1) folyik, ott megtalálod a migrált doksit.
 
-> Amíg a fentiek még nincsenek markdownba alakítva, használd a [Harcrendszer PDF doksit](https://github.com/kaktusztea/km100/raw/master/archive/pdf/km100_05_harc.pdf?raw=true), abban minden benne van.
+Még vannak nyitott problémák, azokat még ki kell vasalni, utána lesz átmásolva ide.
