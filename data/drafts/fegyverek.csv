@@ -39,9 +39,7 @@ Erő követelmény: +2"
 "Kard, hosszú";"egykezes";"4";" V/S";"0";"false";"false";"1";"6";"12";"12";"6";"kardvívás";"Nem éri meg, mert a másfélkezes sokkal jobb mindenben és nincs hátránya"
 "Kard, jatagán";"egykezes";"1";" V/S";"0";"true";"false";"1";"4";"8";"8";"6";"kardvívás";"Páncélozott ellenfélnél: SP:+1
 Páncél nélküli ellenfélnél: SP:+3"
-"Kard, kétkezes";"kétkezes";"8";"V/S";"0";"false";"false";"2";"10";"20";"15";"8";"kardvívás";"Ha közrefogják a forgatót, fegyverének VÉ-je 0-ra zuhan.
-Erő követelmény: +2
-Edzettség követelmény: +1"
+"Kard, kétkezes";"kétkezes";"8";"V/S";"0";"false";"false";"2";"10";"20";"15";"8";"kardvívás";"Erő követelmény: +2; Edzettség követelmény: +1"
 "Kard, khossas";"egykezes";"4";"V/S";"0";"false";"false";"1";"4";"11";"10";"6";"kardvívás";"Elfek használják. Előtörténet!"
 "Kard, kígyó";"egykezes";"3";" V/S";"0";"false";"false";"1";"5";"11";"11";"6";"kardvívás";"Szúró sebzés: +5 SP"
 "Kard, Lagoss ";"egykezes";;;"0";"false";"false";;;;;;"kardvívás";"KF: Amennyiben ez nincs meg, akkor csak a Hosszúkard értékeivel forgatható."
