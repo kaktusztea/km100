@@ -132,7 +132,7 @@ SP = k20 + Fegyver-sebzés + módosítók – (aktuális SFÉ)
 Az 1-es dobás (k20-on) mindig 1 ÉP seb (bónuszoktól függetlenül) amennyiben az SP dobás átment a páncél SFÉ-n
 ```
 
-Amennyiben a „Harc menete” (⭕link⭕) fejezetben leírt módon sikeres **Túlütést** értünk el, akkor ezt követően **Sebző Dobást** tehetünk `k20`-al, melyhez hozzáadódik a fegyver sebzése, a **Mesterfegyver** fortélyból és az **Erőbónuszból** adódó módosítók, valamint a **többszörös túlütésből**, **rohamból** és egyes fortélyokból (pl. Támadás Erőből) adódó extra értékek. Az így kapott SP értéket bemondja a támadó a támadás típusával együtt (pl. Szúrás).
+Amennyiben a korábban leírt módon sikeres [Túlütést](#t%C3%BAl%C3%BCt%C3%A9s) értünk el, akkor ezt követően **Sebző Dobást** tehetünk `k20`-al, melyhez hozzáadódik a fegyver sebzése, a **Mesterfegyver** fortélyból és az **Erőbónuszból** adódó módosítók, valamint a **többszörös túlütésből**, **rohamból** és egyes fortélyokból (pl. Támadás Erőből) adódó extra értékek. Az így kapott SP értéket bemondja a támadó a támadás típusával együtt (pl. Szúrás).
 
 A védő levonja belőle a a támadás típusának (pl. szúrás) megfelelő SFÉ értékét (pl. szúrás elleni) és a kapott értékhez rendelt ÉP értéket (lásd ÉP Sebzés oszlopot) levonja aktuális Életerő Pontjai számából, a VÉ csökkenést pedig aktuális Védő Értékéből. 
 
