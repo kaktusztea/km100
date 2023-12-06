@@ -565,6 +565,14 @@ Lásd a ⭕ **Pszi** fejezetet!
 
 ---
 
+## Primer és Szekunder ismeretek kategóriái
+```
+→ Primer ismeretek: minden harci, misztikus, mágikus képzettség, fortély + Észlelés, Fájdalomtűrés képzettség, HM, CM, Mana, Pszí pont
+→ Szekunder ismeretek: minden más
+```
+
+---
+
 ## Fejlődés
 
 A karakter kalandjai során sokat tanul, mely az átélt események megtapasztalásán keresztül valósul meg.\
@@ -576,13 +584,13 @@ Mikor a mesélő (KM) úgy érzi, az adott játékos karaktere kellően sokat fe
 
 ```
 KP = 150 + (Tapasztalati szint x (80 + Intelligencia)) +
-           (Tapasztalati szint x (15 + Emlékezet))
+           (Tapasztalati szint x (15 + Emlékezet))       → csak szekunder ismeretekre költhető
 ```
 
 > 🔆
-> ez utóbbi (Emlékezethez kapcsolt pontok) kizárólag **NEM** harci/misztikus ismeretekre költhetők! A Fájdalomtűrés is a harci képzettségek alá tartozik.
+> ez utóbbi (Emlékezethez kapcsolt pontok) kizárólag szekunder ismeretekre költhetőek!
 
-A karakterek 1. szinten `150 KP`-t (KP Alap), valamint minden szinten (elsőn is) `(80+Intelligencia) KP`-t kapnak. Ezen felül további `(15+Emlékezet) KP` jár szintenként, amit csak olyan ismeretre fordíthatnak, amely nem harci/misztikus jellegű. A játékosnak a fenti Karakter Pontjaiból kell felvennie a következőket:
+A karakterek 1. szinten `150 KP`-t (KP Alap), valamint minden szinten (elsőn is) `(80+Intelligencia) KP`-t kapnak. Ezen felül további `(15+Emlékezet) KP` jár szintenként, amit csak olyan ismeretre fordíthatnak, amelyek  [Szekunder ismeretek](#primer-es-szekunder-ismeretek-kategoriai) csoportba tartoznak. A játékosnak a fenti Karakter Pontjaiból kell felvennie a következőket:
 
 - Képzettségek
   - A harci és misztikus képzettségek szintje legfeljebb `szint+3` lehet
