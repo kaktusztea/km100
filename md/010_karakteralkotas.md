@@ -33,7 +33,7 @@
   - [NJK szintek](#njk-szintek)
 
 
-⭕TODO⭕: Bevezetés
+⭕TODO⭕: Bevezetés.
 
 
 ## Számok
