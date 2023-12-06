@@ -24,7 +24,6 @@ Ismered a fegyvereket remekül kiegészítő pajzsok használatát.
 **Megjegyzések**
 
 - Ha a karakter 🗡️ **Készületlen**, vagy 🗡️ **Meglepetés** támadás áldozata, akkor a `pajzs VÉ` nem adódik hozzá a aktuális `Védő Értékhez`.
-- Ha valaki pajzsot használ, akkor közrefogás esetén csak a `3.` ellenféltől kezdődik a plusz ellenfelenként járó `-10 VÉ`
 - Nagy pajzsot cipelni hosszú távon igen kimerítő, ezért is viszik lovon, vagy fegyverhordozókkal a harcosok. Továbbá behatolásnál, szűk helyen, sűrű erdőben képtelenség cipelni.
 
 <br />
