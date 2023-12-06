@@ -211,6 +211,38 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🔴[Demonológia*](kepzettsegek/demonologia.md) <sup><sub>(80%)</sub></sup>
 
+## Magasmágia képzettség iskolái
+
+🔵Metamágia
+
+🔵[Elemi mágia](magia.magas/elemi_magia.md)
+
+🔵Természetes anyagok mágiája
+
+🔵Asztrálmágia
+
+🔵Mentálmágia
+
+🔵Fénymágia
+
+🔵Csendmágia
+
+🔵Időmágia
+
+🔵Térmágia
+
+🔵Nekromancia
+
+🔵Drágakőmágia
+
+🔵Rúnamágia (?)
+
+⭕Idézés (szellemek) (CX Grimoire-ból?)
+
+⭕Ceremoniális mágiák (???)
+
+🔴Demonológia (lásd: Misztikus képzettségek)
+
 ## Vulgármágia képzettség iskolái
 
 🔵[Árnyékmágia](magia.vulgar/arnyekmagia.md)
@@ -245,6 +277,22 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 ⭕Ceremoniális mágiák (???)
 
+## Ordani tűzmágia képzettség iskolái
+
+🔵[Alapformák](magia.godoni.tuz/alapformak.md)
+
+🔵TODO⭕
+
+## Bárdmágia képzettség iskolái
+
+🔵[Fénymágia](magia.bard/fenymagia.md)
+
+🔵Hangmágia
+
+🔵Dalmágia
+
+🔵Asztrálmágia
+
 ## Sámánmágia képzettség iskolái
 
 🔵Szabadmágia
@@ -263,54 +311,14 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🔵Rituálé
 
-## Bárdmágia képzettség iskolái
+## Ork énekmondói mágia képzettség iskolái
 
-🔵[Fénymágia](magia.bard/fenymagia.md)
+🔵⭕TODO⭕
 
-🔵Hangmágia
+## Rituális mágia
 
-🔵Dalmágia
-
-🔵Asztrálmágia
-
-## Ordani tűzmágia képzettség iskolái
-
-🔵[Alapformák](magia.godoni.tuz/alapformak.md)
-
-🔵TODO⭕
-
-## Magasmágia képzettség iskolái
-
-🔵Metamágia
-
-🔵[Elemi mágia](magia.magas/elemi_magia.md)
-
-🔵Természetes anyagok mágiája
-
-🔵Asztrálmágia
-
-🔵Mentálmágia
-
-🔵Fénymágia
-
-🔵Csendmágia
-
-🔵Időmágia
-
-🔵Térmágia
-
-🔵Nekromancia
-
-🔵Drágakőmágia
-
-🔵Rúnamágia (?)
-
-⭕Idézés (szellemek) (???)
-
-⭕Ceremoniális mágiák (???)
-
-🔴Demonológia (lásd: Misztikus képzettségek)
+🔵⭕TODO⭕ (ha lesz)
 
 ## Papi mágia
 
-⭕Még az se biztos, hogy lesznek képzettség-alapú szférák⭕
+- [STUDY oldal: Varázslat szférák](https://github.com/kaktusztea/km100/wiki/STUDY.magiatradicio.papimagia#var%C3%A1zslat-szf%C3%A9r%C3%A1k) - mint iskola-képzettségek (draft)
