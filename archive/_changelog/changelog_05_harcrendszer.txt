@@ -1,11 +1,19 @@
 Harcrendszer changelog
 ----------------------
+
+v1.5.4
+...
+
+...
+Itt már folyt a markdownba alakítás, így igazából már nem aktív ez a dokumentum.
+A változtatásokat is csak ímmel-ámmal jegyezzük fel.
+...
+
+-------------------------------------------------------------------------
 v1.5.1
 - HM/CM: 5 KP (4 volt)
 
 -------------------------------------------------------------------------
-
-
 v1.5.0
 - Vértek, Páncélok külső doksi utolsó állapota beolvasztva
 
