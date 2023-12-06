@@ -16,7 +16,7 @@ Ismered a fegyvereket remekül kiegészítő pajzsok használatát.
 | |  Követelmény | Hatás  |
 | :----------- | :-----------: | :----------- |
 | Alapeset| - | Képzetlen pajzshasználó. A pajzs `VÉ` **felét** kapja csak meg, és magas TÉ levonást kap (lásd fenn). |
-| 1.fok | Erő: +0 | Tudsz pajzsot használni, megkapod annak teljes VÉ-jét.<br />A TÉ levonás csökken (lásd a táblázatot)<br />⭕MGT érvényesül? (az brutál levonás!)⭕ |
+| 1.fok | Erő: +0 | Tudsz pajzsot használni, megkapod annak teljes VÉ-jét.<br />A TÉ levonás csökken (lásd a táblázatot)<br />⭕MGT érvényesül? (az brutál levonás!)⭕<br />⭕MGT: változzon foktól függően, vagy ne? A fizikai képzettség- és tulajdonság-próbákra mindenképpen vonatkozzon. Az MGT amúgy más levonást ne adjon szerintem... ⭕ |
 | 2.fok | Erő: +1 | - A TÉ levonás csökken (lásd a táblázatot).<br />- MGT: harcban nem érvényesül a pajzs MGT büntetése.<br />- Támadhatsz is a pajzzsal.<br />- Ha csak pajzs van nálad, akkor azzal.<br />- Ha fegyver is van nálad: akkor VAGY a fegyverrel VAGY a pajzzsal támadhatsz.<br />- Tanulhatsz pajzsos Manőver ismereteket. |
 
 <br />
