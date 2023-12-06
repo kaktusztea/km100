@@ -27,7 +27,7 @@
   - [Mágiaellenállás](#mágiaellenállás)
   - [Fejlődés](#fejlődés)
   - [Karakter pontok (KP) elosztása](#karakter-pontok-kp-elosztása)
-    - [Manőverek](#manőverek)
+  - [Manőverek, Manőver Fejlesztő Pontok](#manőverek-manőver-fejlesztő-pontok)
   - [Harcértékek, Jellemzők](#harcértékek-jellemzők)
 - [Nem játékos karakterek](#nem-játékos-karakterek)
   - [NJK szintek](#njk-szintek)
@@ -620,7 +620,7 @@ A karakterek 1. szinten `150 KP`-t (KP Alap), valamint minden szinten (elsőn is
   - Pszí-alkalmazás: `4 fokú fortély` egyre erősebb követelményekkel. Az alkalmazás fokát adja, nélküle nem lehet `ψp`-ot venni, vagy ψ tradíciót tanulni.
   - Pszí tradíciók: átlagos képzettségek: vannak erősségeik és csak bizonyos diszciplínákat ismernek
 
-### Manőverek
+## Manőverek, Manőver Fejlesztő Pontok
 
 - pl. lábsöprés, lefegyverzés, átdobás
 - Kivételek, mert **NEM** KP-ba, hanem Manőverfejlesztő Pontba (`MFP`) kerülnek, amit automatikusan kap meg a játékos.
