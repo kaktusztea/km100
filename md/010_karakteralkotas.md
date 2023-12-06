@@ -591,7 +591,7 @@ KP = 150 + (Tapasztalati szint x (80 + Intelligencia)) +
 > 🔆
 > ez utóbbi (Emlékezethez kapcsolt pontok) kizárólag szekunder ismeretekre költhetőek!
 
-A karakterek 1. szinten `150 KP`-t (KP Alap), valamint minden szinten (elsőn is) `(80+Intelligencia) KP`-t kapnak. Ezen felül további `(15+Emlékezet) KP` jár szintenként, amit csak olyan ismeretre fordíthatnak, amelyek  [Szekunder ismeretek](#primer-es-szekunder-ismeretek-kategoriai) csoportba tartoznak. A játékosnak a fenti Karakter Pontjaiból kell felvennie a következőket:
+A karakterek 1. szinten `150 KP`-t (KP Alap), valamint minden szinten (elsőn is) `(80+Intelligencia) KP`-t kapnak. Ezen felül további `(15+Emlékezet) KP` jár szintenként, amit csak olyan ismeretre fordíthatnak, amelyek  [Szekunder ismeretek](#primer-%C3%A9s-szekunder-ismeretek-kateg%C3%B3ri%C3%A1i) csoportba tartoznak. A játékosnak a fenti Karakter Pontjaiból kell felvennie a következőket:
 
 - Képzettségek
   - A harci és misztikus képzettségek szintje legfeljebb `szint+3` lehet
