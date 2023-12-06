@@ -25,6 +25,7 @@
   - [Méregellenállás](#méregellenállás)
     - [Másodlagos hatás](#másodlagos-hatás)
   - [Mágiaellenállás](#mágiaellenállás)
+  - [Primer és Szekunder ismeretek kategóriái](#primer-%C3%A9s-szekunder-ismeretek-kateg%C3%B3ri%C3%A1i)
   - [Fejlődés](#fejlődés)
   - [Karakter pontok (KP) elosztása](#karakter-pontok-kp-elosztása)
   - [Manőverek, Manőver Fejlesztő Pontok](#manőverek-manőver-fejlesztő-pontok)
