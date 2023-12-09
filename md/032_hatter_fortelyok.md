@@ -242,7 +242,7 @@ Ajánlott képzettségek:
 - Akrobatika
 
 ---
-### Nüansz hátterek
+### Nüansz hátterek, művészeti hátterek
 
 #### Fejlett tapintás (1)
 
