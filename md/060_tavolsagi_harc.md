@@ -7,7 +7,7 @@
 A távolsági - lő- és hajítófegyverekkel - végzett harc során a védekező fél nem saját Védő Értékével vesz részt a harcban, ugyanolyan “céltárgynak” minősül, mint egy szalmabábú, vagy egy agyaggalamb. Ugyanakkor a célpont mozgásának jellege (lásd “Mozgás módosító**”** fejezetet) és a távolság erőteljesen befolyásolják a találat esélyeit. Lásd még: „Szándékos kitérés lövés elől” fejezetet. A támadó a távolsági harcban a **Célzó Értékét** használja, melynek megállapítása több tényezőtől függ.
 
 ---
-## Távolsági harc képzettségei
+## Távolsági harcmodor képzettségek
 
 - Hajítás
 - Íjászat
