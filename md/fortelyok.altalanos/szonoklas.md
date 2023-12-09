@@ -12,7 +12,7 @@ Oh, az a birka nép! Mind a lábad előtt hever, mikor súlyos gondokkal tépel�
 
 **Megjegyzések**
 
-- A szónoklat sikerét nagyban növelni képes, a hallgatóság nagy száma. Hogy mennyire, azt ne próbadobás, hanem szóbeli játék és a KM döntse el.
+- A szónoklat sikerét nagyban növelni képes a hallgatóság nagy száma. Hogy mennyire, azt ne próbadobás, hanem szóbeli játék és a KM döntse el.
 - Az agitátor-jellegű megmozdulások is ide tartoznak.
 
 <br />
