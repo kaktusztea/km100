@@ -1,5 +1,7 @@
 # Távolsági harcrendszer
 
+→ [TODO/ISSUE távharc](https://github.com/kaktusztea/km100/wiki/ISSUE.TODO.tavharc)
+
 A távolsági - lő- és hajítófegyverekkel - végzett harc során a védekező fél nem saját Védő Értékével vesz részt a harcban, ugyanolyan “céltárgynak” minősül, mint egy szalmabábú, vagy egy agyaggalamb. Ugyanakkor a célpont mozgásának jellege (lásd “Mozgás módosító**”** fejezetet) és a távolság erőteljesen befolyásolják a találat esélyeit. Lásd még: „Szándékos kitérés lövés elől” fejezetet. A támadó a távolsági harcban a **Célzó Értékét** használja, melynek megállapítása több tényezőtől függ.
 
 ---
@@ -13,6 +15,8 @@ A távolsági - lő- és hajítófegyverekkel - végzett harc során a védekez�
 
 ⭕TODO: Kifejteni. Íjászat és Lövészet **félképzetlen** kapcsolatban vannak egymással.⭕
 
+<br />
+
 ---
 ## CÉ alap
 ```
@@ -22,7 +26,7 @@ CÉ alap = -30 + Önuralom + CM
 Alapból mindenkinek `-30`, amihez hozzájön a karakter ⚪**Önuralom** Tulajdonsága, ezen kívül növelheti **Célzó Harcérték** módosítóból (CM).
 
 ---
-### Célzó Érték kiszámolása
+## Célzó Érték kiszámolása
 
 Mikor a támadó lövést, vagy hajítást végez, a Célzó Értékét állítja szembe a célpont távolsági Védő Értékével. A Célzó Érték kiszámolása a következőképpen történik.
 
@@ -46,7 +50,7 @@ Bővebben:
 |              Egyéb              | • Képzetlenségből adódó levonás: `CÉ:-40`<br>• Hirtelen lövés: `CÉ:-30`<br> • Az egyes Fortélyokból adódó bónuszok.<br>⚡Például: a célpont hirtelen átfut az úton be egy másik takarás védelmébe és ez a lövészt felkészületlenül éri<br><br> • Nem “belőtt” lőfegyver: `CÉ-30` (íjak) / `CÉ:-15` (nyílpuskák)<br> Ha a támadó most lő először a fegyverrel, akkor íjak esetében `CÉ:-30`, nyílpuskák használatánál pedig `CÉ:-15` módosító sújtja. Ha legalább fél órát töltött el a “belövéssel”, ez a módosító megszűnik. Egyébiránt a használat során folyamatosan tűnik el a hátrány (negyed óra után már csak `CÉ:-15` / `CÉ:-8` és így tovább).<br><br> • A fegyverek minősége befolyásolhatja azok Célzó értéket. |
 
 
-
+<br />
 
 ---
 ## Távolsági fegyver kategóriák, Fegyverek Célzó Értéke
@@ -89,6 +93,8 @@ Távolsági fegyverek esetén viszont nem mindegyiknek van **Sebesség** kategó
 Ebben az esetben lehet hasznos a „**Gyors újratöltés**” (⭕link) harci fortély.
 
 Az egyes fegyverek Sebesség kategóriáját lásd a **Harcrendszer** „**Fegyverek**” alfejezetében (táblázat)!
+
+<br />
 
 ---
 ## Célpont Védő Értékének kiszámolása
@@ -217,7 +223,7 @@ Ha valaki nagyfokú realisztikusságra törekszik, akkor alkalmazhatja az alább
 | ------------------------------------------ |:---------------:|
 | Szürkületi sötétben, vagy annál sötétebben |      `+2x`      |
 
-
+<br />
 
 ---
 ## Fegyver Osztó, Cellaszám
@@ -261,6 +267,7 @@ Minden távolba ható fegyvernek van **Hatótávja**, amely értelemszerűen az 
 
 ⚡Példa: a Könnyű nyílpuska **Hatótávja** `50`, tehát maximálisan `50` méterre lehet vele ellőni.
 
+<br />
 
 ---
 ## Harci körülmények, taktikák
@@ -300,6 +307,7 @@ A fegyver méretének az **Erő** Tulajdonság és a KM józan esze szab határt
 | A lövész képzetlen az adott fegyver használatában                   |                 `CÉ:-40`                 | -                                                                                                                                                                                                                                    |
 | Nem “belőtt” lőfegyver                                              | `CÉ:-30`&nbsp;(íjak)<br>`CÉ:-15`&nbsp;(nyílpuskák) | Egy lőfegyvert a karakternek „be kell lőni”, azaz kitapasztalni egyedi jellemzőit. Ez kb. fél óra gyakorlást jelent. Amíg a fegyver új használója ezt nem teszi meg, addig az adott fegyverre az itt leírt CÉ levonások vonatkoznak. |
 
+<br />
 
 ---
 ## Távolsági fegyverek minősége
@@ -308,6 +316,8 @@ Nem minden fegyver egyformán jó minőségű, valamelyik igazi mestermunka, pon
 
 A távolsági fegyverek minősége azok **CÉ**-jét javítja, vagy éppen rontja. Például egy átlagos könnyű nyílpuska `16`-es **CÉ**-vel bír. Egy kiváló nyílpuska, amely mestermunka, akár `20-25`-öt is elérhet, ugyanakkor egy ócskavasnál nem lehet meglepő az `8`-as érték. Szélsőséges esetben a fegyver **Osztó** értéke is módosulhat, de ökölszabályként kimondható, hogy az **Osztó** – minőségtől függően - **legfeljebb** `±1`-el változhat az alapértékhez képest, továbbá csak lőfegyverekre vonatkozik, hajítófegyverekre nem. Egy hajítófegyvernél legfeljebb akkor elképzelhető a **Osztó** változása, ha annyira rossz minőségű, hogy átkerül az `2`-esből a `1`-es kategóriába. Pozitív irányba nem módosulhat.
 
+<br />
+
 ---
 ## Fortélyok - Távolsági harc
 
@@ -315,6 +325,7 @@ A tapasztalt lövész (hajigász) nem csupán harcértékeivel tűnik ki társai
 
 ⭕⭕TODO: link a Távolsági harc fortélyokra⭕
 
+<br />
 
 ---
 ## Példalövészet
@@ -351,6 +362,7 @@ De lássunk egy bonyolultabb esetet.
 
 ⭕TODO: 2. példa⭕
 
+<br />
 
 ---
 ## Ritka, speciális esetek
