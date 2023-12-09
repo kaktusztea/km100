@@ -196,7 +196,7 @@ További opcionális szabály: amennyiben rendkívül erős szél fúj, akkor az
 | ⭕TODO⭕                 |          |            |
 | ⭕TODO⭕                 |          |            |
 
-🔺Ha a szorzó 0-ra, vagy az alá csökkenne: 🔺[ISSUE link](https://github.com/kaktusztea/km100/wiki/ISSUE.TODO.tavharc#km100-c%C3%A9lz%C3%A1s-szorz%C3%B3).
+→ 🔺ISSUE: [Ha a szorzó 0-ra, vagy az alá csökkenne](https://github.com/kaktusztea/km100/wiki/ISSUE.TODO.tavharc#km100-c%C3%A9lz%C3%A1s-szorz%C3%B3).
 
 ---
 #### Szorzó - Láthatóság módosító
