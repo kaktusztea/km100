@@ -3,7 +3,6 @@
 „Pattog, mint a nikkelbolha” - mondják, ha harcolni látnak.
 Küzdelem közben akrobatikus elemeket - ugrásokat, vetődéseket, pörgéseket - alkalmazol, amelyek előnyhöz juttatnak a földhözragadt kis senkik ellen...
 
-
 | |  Követelmény | Hatás  |
 | :----------- | :----------- | :----------- |
 | 1.fok | Ügyesség:&nbsp;+2<br /> Gyorsaság:&nbsp;+2<br /> Akrobatika:&nbsp;4.szint<br />| Az **Akrobatika** képzettséged `felét` hozzáadhatod bónuszként `TÉ/VÉ` értékeidhez. <br />Kibontakozás/Átsiklás:&nbsp;`+1`<br />Akrobatika x 0.5 → +TÉ<br />Akrobatika x 0.5 → +VÉ<br />|

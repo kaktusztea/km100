@@ -5,8 +5,8 @@ Oh, az a birka nép! Mind a lábad előtt hever, mikor súlyos gondokkal tépel�
 
 | |  Követelmény | Hatás  |
 | :----------- | :----------- | :----------- |
-| 1.fok | Intelligencia:&nbsp;`+1`<br />Emberismeret:&nbsp;`6.szint` | **Aktív alkalmazás**: áldozatod egy fokozattal (`+3`) nehezebb Emberismeret próbát dob<br />**Passzív alkalmazás**: rád próbálnak hatni és egy fokozattal (`-3`) könnyebb Emberismeret próbát dobsz |
-| 2.fok | Intelligencia:&nbsp;`+1`<br />Emberismeret:&nbsp;`9.szint` | **Aktív alkalmazás**: áldozatod két fokozattal (`+6`) nehezebb Emberismeret próbát dob<br />**Passzív alkalmazás**: rád próbálnak hatni és két fokozattal (`-6`) könnyebb Emberismeret próbát dobsz |
+| 1.fok | Intelligencia:&nbsp;`+1`<br />Emberismeret:&nbsp;`6.szint` | **Aktív alkalmazás**: áldozatod egy fokozattal (`+3`) nehezebb 🔵Emberismeret próbát dob<br />**Passzív alkalmazás**: rád próbálnak hatni és egy fokozattal (`-3`) könnyebb Emberismeret próbát dobsz |
+| 2.fok | Intelligencia:&nbsp;`+1`<br />Emberismeret:&nbsp;`9.szint` | **Aktív alkalmazás**: áldozatod két fokozattal (`+6`) nehezebb 🔵Emberismeret próbát dob<br />**Passzív alkalmazás**: rád próbálnak hatni és két fokozattal (`-6`) könnyebb Emberismeret próbát dobsz |
 
 <br />
 

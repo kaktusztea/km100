@@ -4,7 +4,7 @@
 
 | |  Követelmény | Hatás  |
 | :----------- | :----------- | :----------- |
-| Alapeset| - | Akrobatikára dobhatsz kötéltáncos szituációban ⭕(-6)-al⭕ |
+| Alapeset| - | 🔴Akrobatikára dobhatsz kötéltáncos szituációban ⭕(-6)-al⭕ |
 | 1.fok | Akrobatika: ⭕??? | 🔴Akrobatikára dobhatsz kötéltáncos szituációban `-2`-vel |
 | 2.fok | Akrobatika: ⭕??? | 🔴Akrobatikára dobhatsz kötéltáncos szituációban levonás nélkül |
 
