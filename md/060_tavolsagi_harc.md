@@ -215,7 +215,10 @@ A látási viszonyok erősen meghatározzák a távolsági harcot, hiszen péld�
 \* Csak Hatodik Érzék diszciplínával\
 \*\*A vaksötétben történő célzásról alább olvashatsz.
 
-##### 🔆Szürkület hatása a Szorzóra - Opcionális szabály
+→ 🔺ISSUE: [Vakharc számítson?](https://github.com/kaktusztea/km100/wiki/ISSUE.TODO.tavharc#szorz%C3%B3---l%C3%A1that%C3%B3s%C3%A1g-m%C3%B3dos%C3%ADt%C3%B3)
+
+---
+#### 🔆Szürkület hatása a Szorzóra - Opcionális szabály
 
 Ha valaki nagyfokú realisztikusságra törekszik, akkor alkalmazhatja az alábbi opcionális szabályt is: amennyiben a környezet legalább szürkületnek megfelelő sötétségű, akkor konstans +2x Szorzó módosító jár a VÉ kiszámításánál, mivel hiába jól kivehető a cél, sötétben sokkal nehezebb jól megbecsülni a távolságot.
  
