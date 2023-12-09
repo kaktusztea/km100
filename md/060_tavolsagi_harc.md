@@ -209,7 +209,8 @@ Ez a szám adja meg, hogy a fegyver **Osztójához** viszonyítva hányadik táv
 Például ha egy hosszú íjjal (melynek **Osztója** `3`) lövünk egy `7` méterre levő célra, annak Cellaszáma: `3`.  `7/3 → 3` mivel a `7` osztva `3`-al, felfelé kerekítve egyenlő `3`-al.
 
 Az egyszerűség kedvéért álljon erről itt egy ábra, melyről megérthetőek a fentiek.
-![](06_cellaszam.png)
+
+![](images/06_cellaszam.png)
 
 Ha a fegyver Osztója nem `3`, hanem mondjuk `2` lenne, akkor következésképpen a célpont **Cellaszáma** `4` lenne (`7/2`).
 
