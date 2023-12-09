@@ -22,7 +22,7 @@ A távolsági - lő- és hajítófegyverekkel - végzett harc során a védekez�
 ---
 ## CÉ alap
 ```
-CÉ alap = -30 + Önuralom + CM
+CÉ alap = -30 + (2 x Önuralom) + CM
 ```
 
 Alapból mindenkinek `-30`, amihez hozzájön a karakter ⚪**Önuralom** Tulajdonsága, ezen kívül növelheti **Célzó Harcérték** módosítóból (CM).
