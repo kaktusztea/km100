@@ -57,6 +57,7 @@ Bővebben:
 
 ---
 ## Célpont Védő Értékének kiszámolása
+
 A célpont Védő értéke reprezentálja a célpont eltalálásának nehézségét. Ugyanolyan célszámként viselkedik, mint a rendes Védő érték, azaz, ha a lövést/hajítást végző karakter Célzó Értékkel együtt számított Támadó dobása eléri, vagy meghaladja ezen értéket, akkor találatról beszélünk. Amennyiben az érték alatta marad, a támadás célt téveszt.
 
 A célpont **Védő Értékét**  az ún. Szorzó és a Cellaszám szorzataként kapjuk meg.
@@ -425,7 +426,9 @@ Ha van, akkor dobjunk K10-al, a dobáshoz ne adjunk hozzá semmit. A Célszám a
 Ha a próba sikertelen, akkor a lövés/dobás is automatikusan sikertelennek minősül. A rontás mértékétől függően közelben lévő barátot, szövetségest találhat el az eltévedt lövedék. Erről a KM dönt. Az 1-es dobás itt is mindig kudarc, a 10-es mindig siker.
 
 ---
-### Hajítás, fegyverdobás harc közben rosszabbik kézzel ⭕KELL EZ??⭕ EXTRÉM
+### Hajítás, fegyverdobás harc közben rosszabbik kézzel
+
+⭕KELL EZ??⭕
 
 ⭕TODO⭕ Szerintem nem kell, iszonyúan túlbonyolított
 
