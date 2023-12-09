@@ -4,6 +4,9 @@ A Háttér jellegű fortélyok ingyenes, számszerű előnyöket nem nyújtó je
 
 Ide tartoznak a játszható és nem játszható fajok, valamint előtörténetet színesítő, esetlegesen nehezítő(!) elemek, amennyiben a játékos hajlandó ezeket felvállalni.
 
+- [Faj hátterek](#faj-h%C3%A1tterek)
+- [Nüansz hátterek, művészeti hátterek](#n%C3%BCansz-h%C3%A1tterek-m%C5%B1v%C3%A9szeti-h%C3%A1tterek)
+- [Származás, jellem, küllem hátterek](#sz%C3%A1rmaz%C3%A1s-jellem-k%C3%BCllem-h%C3%A1tterek)
 ---
 ### Faj hátterek
 
