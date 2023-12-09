@@ -2,6 +2,8 @@
 
 → [TODO/ISSUE távharc](https://github.com/kaktusztea/km100/wiki/ISSUE.TODO.tavharc)
 
+
+
 A távolsági - lő- és hajítófegyverekkel - végzett harc során a védekező fél nem saját Védő Értékével vesz részt a harcban, ugyanolyan “céltárgynak” minősül, mint egy szalmabábú, vagy egy agyaggalamb. Ugyanakkor a célpont mozgásának jellege (lásd “Mozgás módosító**”** fejezetet) és a távolság erőteljesen befolyásolják a találat esélyeit. Lásd még: „Szándékos kitérés lövés elől” fejezetet. A támadó a távolsági harcban a **Célzó Értékét** használja, melynek megállapítása több tényezőtől függ.
 
 ---
@@ -53,54 +55,10 @@ Bővebben:
 <br />
 
 ---
-## Távolsági fegyver kategóriák, Fegyverek Célzó Értéke
-
-A távolsági fegyverek több kategóriába sorolhatóak attól függően, hogy általánosságban mennyire könnyű kezelni őket, mennyire alkalmasak messzi célok leküzdésére. Ezek szerint az alábbi módosítók járulnak ****minden**** karakter Célzó Értékéhez, aki a felsorolt fegyverek valamelyikét kezébe veszi. A lentiek csak irányadó számok a konkrét fegyverek Célzó Értéke és egyedi jellemzőik eltérhetnek ezen értékektől, de nagyjából ebben a skálán mozognak.
-
-   
-|            Fegyverkategória            |  CÉ   | Fegyverek                                              | Speciális                                                                                                                             |
-|:--------------------------------------:|:-----:| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Hajító szálfegyverek,<br>Egyéb tárgyak | `+0`  | Kard, zsámoly, korsó, hajításra nem alkalmas fegyverek | Maximális Hatótávjukhoz hozzáadható:  <br>(ERŐ x Osztó)                                                                               |
-|          Apró hajítófegyverek          | `+4`  | Tőr, dobótőr, hajítóbárd, dárda, lándzsa, kő           | -                                                                                                                                     |
-|                  Íjak                  | `+10` | Íjak                                                   | Sebzés bónusz: ERŐ Tulajdonság 1:1<br>(**ha** erre az Erőre lett tervezve)                                                            |
-|               Nyílpuskák               | `+16` | Nyílpuskák                                             | A kézi nyílpuskától felfelé **Páncéltörőnek** számítanak:<br>SFÉ = a vért rétegeinek száma<br>(mágikus vértek esetén a KM szava dönt) |
-
-🔆**Megjegyzés**: Amennyiben valaki hajításra nem alkalmas fegyvert akar dobni, akkor az adott fegyver harcmodorában kismesteri, azaz `6`.szinten jártasnak kell lennie. Ez alatt képzetlen fegyverhasználat büntetéseivel történhet a dobás.
-
-### Erőből / Ügyességből forgatott fegyverek
-
-Távolba ható fegyverek esetén különbséget teszünk **Erőből** és **Ügyességből** használtak között. A fenti tulajdonság szerepe a sebzésbónusz és a végső Célzó Érték kiszámításánál mutatkozik meg. Hogy egy fegyvert Erőből, vagy Ügyességből forgathatunk, azt a Távolsági fegyverek fejezet (⭕link) alatt található táblázatból olvashatjuk ki.
-
----
-## Támadások száma (Íjászat, Hajítás)
-```
-Sebesség = aktuális harcmodor + Gyorsaság Tulajdonság
-```
-
-Az íjász/hajigász támadásainak száma attól függ, hogy milyen képzett az adott fegyver használatában, vagy annak Harcmodorában, illetve fürge. Ezt a kapcsolódó harci képzettség foka és a Gyorsaság tulajdonság határozzák meg a fentiek szerint.
-
-Kézifegyvereknél az alábbi módon kategorizálunk:
-
-
-```
-(5) rövid fegyverek            → 5 Sebesség pontonként nő 1-el a támadások száma
-(6) egykezes és szálfegyverek  → 6 Sebesség pontonként nő 1-el a támadások száma
-(7) kétkezes fegyverek         → 7 Sebesség pontonként nő 1-el a támadások száma
-```
-
-Távolsági fegyverek esetén viszont nem mindegyiknek van **Sebesség** kategóriája, mivel újratöltésük annyi időt vesz igénybe, hogy nem lehetséges velük egy körben többször támadni (pl. nyílpuskák).
-
-Ebben az esetben lehet hasznos a „**Gyors újratöltés**” (⭕link) harci fortély.
-
-Az egyes fegyverek Sebesség kategóriáját lásd a **Harcrendszer** „**Fegyverek**” alfejezetében (táblázat)!
-
-<br />
-
----
 ## Célpont Védő Értékének kiszámolása
 A célpont Védő értéke reprezentálja a célpont eltalálásának nehézségét. Ugyanolyan célszámként viselkedik, mint a rendes Védő érték, azaz, ha a lövést/hajítást végző karakter Célzó Értékkel együtt számított Támadó dobása eléri, vagy meghaladja ezen értéket, akkor találatról beszélünk. Amennyiben az érték alatta marad, a támadás célt téveszt.
 
-A célpont **Védő Értékét**  az ún. Szorzó és a Cellaszám szorzataként kapjuk meg. Ezt bontásban a fenti Nézzük meg ezeket bontásban:
+A célpont **Védő Értékét**  az ún. Szorzó és a Cellaszám szorzataként kapjuk meg.
 
 ```
 Célpont VÉ = Szorzó  x  Cellaszám
@@ -108,11 +66,11 @@ Célpont VÉ = Szorzó  x  Cellaszám
 
 \-
 
-| **Szorzó** |                     | Univerzális szorzó, mely az alábbi módosítók összegéből (❗) áll             |
-| ---------- | ------------------- | -------------------------------------------------------------------------- |
-|            | Mozgás módosító     | A célpont mozgásának jellegéből adódó alap szorzó                          |
-|            | Méret módosító      | A célpont méretéből adódó módosító                                         |
-|            | Láthatóság módosító | A célpont láthatóságától és sötétben való zajosságától függő módosító      |
+| **Szorzó** |                     | Univerzális szorzó, mely az alábbi módosítók összegéből (❗) áll                           |
+| ---------- | ------------------- | ------------------------------------------------------------------------------------------ |
+|            | Mozgás módosító     | A célpont mozgásának jellegéből adódó alap szorzó                                          |
+|            | Méret módosító      | A célpont méretéből adódó módosító                                                         |
+|            | Láthatóság módosító | A célpont láthatóságától és sötétben való zajosságától függő módosító                      |
 |            | Egyéb módosítók     | Lővész mozgása, Szél hatása\*, Szürkület\*, Célpont zajossága (sötétben)<br />\*Opcionális |
 
 \-
@@ -143,6 +101,7 @@ A Szorzó a célpont Védő értékének kiszámolásában játszik szerepet. Az
 - Mozgás módosító (a célpont és a lövész mozgása is számít)
 - Méret módosító
 - Láthatóság módosító
+- Egyéb módosítók (Lővész mozgása, opcionálisan: Szél hatása\*, Szürkület\*, Célpont zajossága (sötétben))
 
 ---
 #### Szorzó - Mozgás módosító
@@ -168,18 +127,6 @@ Természetesen a lövést végző személy mozgása is befolyásolja a találati
 | A lövész lassan fut                | `+5x`  ❔ |            |
 | A lövész rohan                     | `+10x` ❔ |            |
 
-
-##### 🔆 Szél hatása a Szorzóra – Opcionális szabály
-
-További opcionális szabály: amennyiben rendkívül erős szél fúj, akkor az is módosíthatja a célpont Védő Értékét, mivel az erős széllökések eltéríthetik a lövedéket.
-
- 
-| Szél ereje          |  Szorzó módosító   |
-| ------------------- |:------------------:|
-| Nagyon erős szélben |        +4x         |
-| Viharos szélben     |        +8x         |
-| Orkán erejű szélben | A lövés lehetetlen |
-
 ---
 #### Szorzó - Méret módosító
 
@@ -201,7 +148,7 @@ További opcionális szabály: amennyiben rendkívül erős szél fúj, akkor az
 → 🔺ISSUE: [Ha a szorzó 0-ra, vagy az alá csökkenne](https://github.com/kaktusztea/km100/wiki/ISSUE.TODO.tavharc#km100-c%C3%A9lz%C3%A1s-szorz%C3%B3).
 
 ---
-#### Szorzó - Láthatóság módosító
+#### Szorzó - Láthatóság és hallhatóság módosító
 
 A látási viszonyok erősen meghatározzák a távolsági harcot, hiszen például félhomályban sokkal nehezebb eltalálni valakit, mint fényes nappal. Viszont... könnyebb valakit eltalálni sötétben, ha zajt ad ki. Ezeknek megfelelően a fenti körülmények is módosítják a Szorzó értékét, viszont egy Vakharcban járatos személy számára kisebb levonásokat okoznak. A fentieket ebben a táblázatban foglalhatjuk össze.
 
@@ -220,6 +167,18 @@ A látási viszonyok erősen meghatározzák a távolsági harcot, hiszen péld�
 → 🔺ISSUE: [Vakharc számítson?](https://github.com/kaktusztea/km100/wiki/ISSUE.TODO.tavharc#szorz%C3%B3---l%C3%A1that%C3%B3s%C3%A1g-m%C3%B3dos%C3%ADt%C3%B3)
 
 ---
+#### 🔆 Szél hatása a Szorzóra – Opcionális szabály
+
+További opcionális szabály: amennyiben rendkívül erős szél fúj, akkor az is módosíthatja a célpont Védő Értékét, mivel az erős széllökések eltéríthetik a lövedéket.
+
+ 
+| Szél ereje          |  Szorzó módosító   |
+| ------------------- |:------------------:|
+| Nagyon erős szélben |        +4x         |
+| Viharos szélben     |        +8x         |
+| Orkán erejű szélben | A lövés lehetetlen |
+
+---
 #### 🔆Szürkület hatása a Szorzóra - Opcionális szabály
 
 Ha valaki nagyfokú realisztikusságra törekszik, akkor alkalmazhatja az alábbi opcionális szabályt is: amennyiben a környezet legalább szürkületnek megfelelő sötétségű, akkor konstans +2x Szorzó módosító jár a VÉ kiszámításánál, mivel hiába jól kivehető a cél, sötétben sokkal nehezebb jól megbecsülni a távolságot.
@@ -231,11 +190,9 @@ Ha valaki nagyfokú realisztikusságra törekszik, akkor alkalmazhatja az alább
 <br />
 
 ---
-## Fegyver Osztó, Cellaszám
-
 ### Osztó
 
-Az **Osztó** szintén méterben megadott távolságérték és fegyverenként változik. Azt mutatja meg, hogy hány méterenként nő **az adott fegyverrel szemben** a célpont **Védő Értéke**. Gyakorlatilag azt befolyásolja, hogy a cél távolságának növekedésével milyen ütemben romlik találati esélyünk.
+Az fegyver **Osztó** szintén méterben megadott távolságérték és fegyverenként változik. Azt mutatja meg, hogy hány méterenként nő **az adott fegyverrel szemben** a célpont **Védő Értéke**. Gyakorlatilag azt befolyásolja, hogy a cél távolságának növekedésével milyen ütemben romlik találati esélyünk.
 
 Érthető, hogy egy nyílpuska **Osztója** nagyobb, mint egy dobótőré, hiszen az előbbivel jó eséllyel támadhatunk akár `30-40` méterre levő célpontot is, míg egy dobótőr esetében ez már a lehetetlen kategóriába tartozik. A fentieket alább, a **Cellaszám** tárgyalásánál érthetjük meg. 
 
@@ -265,12 +222,6 @@ Alább az egyes fegyver-kategóriák tipikus **Osztó** értékét látjuk. Ett�
 | **Nyílpuskák**                      |  `4`  | Minden nyílpuska  <br>kivéve Kézi és Kharei            | A kézi nyílpuskától felfelé Páncéltörőnek számítanak:<br><br>`SFÉ = a vért rétegeinek száma`<br>(mágikus vértek esetén a KM dönt) |
 
 🔆**Megjegyzés**: Javasoljuk a KM-nek, hogy ha esetleg mágikus, vagy kifejezetten jó minőségű fegyver értékeit akarja az alapértékhez képest módosítani, akkor az Osztó értékét lehetőleg **ne** módosítsa, inkább a fegyver **Célzó Értékét** változtassa.
-
-### Hatótáv
-
-Minden távolba ható fegyvernek van **Hatótávja**, amely értelemszerűen az adott fegyverrel elérhető legnagyobb lőtávolságot jelenti. Ezt minden fegyvernél számon tarjuk, értékét méterben jelezzük. A játékos nem lőhet/dobhat a fegyver hatótávján túl (illetve hajítás esetén még szerepet játszhat a támadó Ereje, de erről később).
-
-⚡Példa: a Könnyű nyílpuska **Hatótávja** `50`, tehát maximálisan `50` méterre lehet vele ellőni.
 
 <br />
 
@@ -314,8 +265,59 @@ A fegyver méretének az **Erő** Tulajdonság és a KM józan esze szab határt
 
 <br />
 
+
 ---
-## Távolsági fegyverek minősége
+## Távolsági fegyverek
+
+## Távolsági fegyver kategóriák, Fegyverek Célzó Értéke
+
+A távolsági fegyverek több kategóriába sorolhatóak attól függően, hogy általánosságban mennyire könnyű kezelni őket, mennyire alkalmasak messzi célok leküzdésére. Ezek szerint az alábbi módosítók járulnak ****minden**** karakter Célzó Értékéhez, aki a felsorolt fegyverek valamelyikét kezébe veszi. A lentiek csak irányadó számok a konkrét fegyverek Célzó Értéke és egyedi jellemzőik eltérhetnek ezen értékektől, de nagyjából ebben a skálán mozognak.
+
+   
+|            Fegyverkategória            |  CÉ   | Fegyverek                                              | Speciális                                                                                                                             |
+|:--------------------------------------:|:-----:| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Hajító szálfegyverek,<br>Egyéb tárgyak | `+0`  | Kard, zsámoly, korsó, hajításra nem alkalmas fegyverek | Maximális Hatótávjukhoz hozzáadható:  <br>(ERŐ x Osztó)                                                                               |
+|          Apró hajítófegyverek          | `+4`  | Tőr, dobótőr, hajítóbárd, dárda, lándzsa, kő           | -                                                                                                                                     |
+|                  Íjak                  | `+10` | Íjak                                                   | Sebzés bónusz: ERŐ Tulajdonság 1:1<br>(**ha** erre az Erőre lett tervezve)                                                            |
+|               Nyílpuskák               | `+16` | Nyílpuskák                                             | A kézi nyílpuskától felfelé **Páncéltörőnek** számítanak:<br>SFÉ = a vért rétegeinek száma<br>(mágikus vértek esetén a KM szava dönt) |
+
+🔆**Megjegyzés**: Amennyiben valaki hajításra nem alkalmas fegyvert akar dobni, akkor az adott fegyver harcmodorában kismesteri, azaz `6`.szinten jártasnak kell lennie. Ez alatt képzetlen fegyverhasználat büntetéseivel történhet a dobás.
+
+---
+## Támadások száma (Íjászat, Hajítás)
+```
+Sebesség = aktuális harcmodor + Gyorsaság Tulajdonság
+```
+
+Az íjász/hajigász támadásainak száma attól függ, hogy milyen képzett az adott fegyver használatában, vagy annak Harcmodorában, illetve fürge. Ezt a kapcsolódó harci képzettség foka és a Gyorsaság tulajdonság határozzák meg a fentiek szerint.
+
+Kézifegyvereknél az alábbi módon kategorizálunk:
+
+```
+(5) rövid fegyverek            → 5 Sebesség pontonként nő 1-el a támadások száma
+(6) egykezes és szálfegyverek  → 6 Sebesség pontonként nő 1-el a támadások száma
+(7) kétkezes fegyverek         → 7 Sebesség pontonként nő 1-el a támadások száma
+```
+
+Távolsági fegyverek esetén viszont nem mindegyiknek van **Sebesség** kategóriája, mivel újratöltésük annyi időt vesz igénybe, hogy nem lehetséges velük egy körben többször támadni (pl. nyílpuskák).
+
+Ebben az esetben lehet hasznos a „**Gyors újratöltés**” (⭕link) harci fortély.
+
+Az egyes fegyverek Sebesség kategóriáját lásd a **Harcrendszer** „**Fegyverek**” alfejezetében (táblázat)!
+
+### Erőből / Ügyességből forgatott fegyverek
+
+Távolba ható fegyverek esetén különbséget teszünk **Erőből** és **Ügyességből** használtak között. A fenti tulajdonság szerepe a sebzésbónusz és a végső Célzó Érték kiszámításánál mutatkozik meg. Hogy egy fegyvert Erőből, vagy Ügyességből forgathatunk, azt a Távolsági fegyverek fejezet (⭕link) alatt található táblázatból olvashatjuk ki.
+
+---
+### Hatótáv
+
+Minden távolba ható fegyvernek van **Hatótávja**, amely értelemszerűen az adott fegyverrel elérhető legnagyobb lőtávolságot jelenti. Ezt minden fegyvernél számon tarjuk, értékét méterben jelezzük. A játékos nem lőhet/dobhat a fegyver hatótávján túl (illetve hajítás esetén még szerepet játszhat a támadó Ereje, de erről később).
+
+⚡Példa: a Könnyű nyílpuska **Hatótávja** `50`, tehát maximálisan `50` méterre lehet vele ellőni.
+
+---
+### Távolsági fegyverek minősége
 
 Nem minden fegyver egyformán jó minőségű, valamelyik igazi mestermunka, pontos, megbízható, mások pedig olyan hitványul vannak összeeszkábálva, hogy még egy öt méterre álló gólemet se talál el vele az ember.
 
