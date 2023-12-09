@@ -50,7 +50,7 @@ Bővebben:
 |          Harcmodor CÉ           | Harcmodor képzettség szintje által kapott bónusz (lásd a harcmodor képzettségeket!)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 |               Mf                | Mesterfegyver fortély után járó bónusz, amennyiben a használt fegyverre felvette a karakter. Fokonként `CÉ:+3` bónusz.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |             Célzás              | `CÉ:+10` módosító 1 célzással eltöltött kör után<br> `CÉ:⭕+20` **Képzett Célzás** (⭕link) fortély megléte esetén. <br> 🔆Figyelem: íjnál csak 1 körig lehet kitartani!! 1 kör után körönként CÉ:-10 büntetés!                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|              Egyéb              | • Képzetlenségből adódó levonás: `CÉ:-40`<br>• Hirtelen lövés: `CÉ:-30`<br> • Az egyes Fortélyokból adódó bónuszok.<br>⚡Például: a célpont hirtelen átfut az úton be egy másik takarás védelmébe és ez a lövészt felkészületlenül éri<br><br> • Nem “belőtt” lőfegyver: `CÉ-30` (íjak) / `CÉ:-15` (nyílpuskák)<br> Ha a támadó most lő először a fegyverrel, akkor íjak esetében `CÉ:-30`, nyílpuskák használatánál pedig `CÉ:-15` módosító sújtja. Ha legalább fél órát töltött el a “belövéssel”, ez a módosító megszűnik. Egyébiránt a használat során folyamatosan tűnik el a hátrány (negyed óra után már csak `CÉ:-15` / `CÉ:-8` és így tovább).<br><br> • A fegyverek minősége befolyásolhatja azok Célzó értéket. |
+|              Egyéb              | • Képzetlenségből adódó levonás: `CÉ:-40`<br>• Hirtelen lövés: `CÉ:-30`<br> • Az egyes [Fortélyokból](#fort%C3%A9lyok---t%C3%A1vols%C3%A1gi-harc) adódó bónuszok.<br><br> • Nem “belőtt” lőfegyver: `CÉ-30` (íjak) / `CÉ:-15` (nyílpuskák)<br> Ha a támadó most lő először a fegyverrel, akkor íjak esetében `CÉ:-30`, nyílpuskák használatánál pedig `CÉ:-15` módosító sújtja. Ha legalább fél órát töltött el a “belövéssel”, ez a módosító megszűnik. Egyébiránt a használat során folyamatosan tűnik el a hátrány (negyed óra után már csak `CÉ:-15` / `CÉ:-8` és így tovább).<br><br> • A fegyverek minősége befolyásolhatja azok Célzó értéket. |
 
 
 <br />
@@ -72,7 +72,7 @@ Célpont VÉ = Szorzó  x  Cellaszám
 |            | Mozgás módosító     | A célpont mozgásának jellegéből adódó alap szorzó                                          |
 |            | Méret módosító      | A célpont méretéből adódó módosító                                                         |
 |            | Láthatóság módosító | A célpont láthatóságától és sötétben való zajosságától függő módosító                      |
-|            | Egyéb módosítók     | Lővész mozgása, Szél hatása\*, Szürkület\*, Célpont zajossága (sötétben)<br />\*Opcionális |
+|            | Egyéb módosítók     | Lővész mozgása,<br /> Szél hatása\*, Szürkület\*, Célpont zajossága* (sötétben)<br />\*Opcionális |
 
 \-
 
@@ -93,7 +93,7 @@ Nyílpuskák            - 4
 
 ---
 
-Az alábbiakban kifejtjük a fenti Szorzó táblázatban foglalt egyes értékek jelentését.
+Az alábbiakban kifejtjük a fenti **Szorzó** táblázatban foglalt egyes értékek jelentését.
 
 ### Szorzó
 
