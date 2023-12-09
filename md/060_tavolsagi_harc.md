@@ -1,3 +1,417 @@
-Importálásra, formázásra vár az odt dokumentumból.
+# Távolsági harcrendszer
 
-> Amíg a fentiek még nincsenek markdownba alakítva, használd a [Távolsági harcrendszer PDF doksit](https://github.com/kaktusztea/km100/raw/master/archive/pdf/km100_05_tavharc.pdf?raw=true), abban minden benne van.
+A távolsági - lő- és hajítófegyverekkel - végzett harc során a védekező fél nem saját Védő Értékével vesz részt a harcban, ugyanolyan “céltárgynak” minősül, mint egy szalmabábú, vagy egy agyaggalamb. Ugyanakkor a célpont mozgásának jellege (lásd “Mozgás módosító**”** fejezetet) és a távolság erőteljesen befolyásolják a találat esélyeit. Lásd még: „Szándékos kitérés lövés elől” fejezetet. A támadó a távolsági harcban a **Célzó Értékét** használja, melynek megállapítása több tényezőtől függ.
+
+---
+## Távolsági harc képzettségei
+
+- Hajítás
+- Íjászat
+- Lövészet
+- Ostromlövészet
+- Mágikus lövészet
+
+⭕TODO: Kifejteni. Íjászat és Lövészet **félképzetlen** kapcsolatban vannak egymással.⭕
+
+---
+## CÉ alap
+```
+CÉ alap = -30 + Önuralom + CM
+```
+
+Alapból mindenkinek `-30`, amihez hozzájön a karakter ⚪**Önuralom** Tulajdonsága, ezen kívül növelheti **Célzó Harcérték** módosítóból (CM).
+
+---
+### Célzó Érték kiszámolása
+
+Mikor a támadó lövést, vagy hajítást végez, a Célzó Értékét állítja szembe a célpont távolsági Védő Értékével. A Célzó Érték kiszámolása a következőképpen történik.
+
+
+```
+Támadó CÉ = -30 + (2 x Önuralom) + Fegyver CÉ + CM + Harcmodor CÉ + K100
+```
+
+Bővebben:
+
+ 
+|     **Összeadandó értékek**     | **Leírás**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|:-------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|             `k100`              | Dobás `K100`-al – támadó dobás esetén.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|              `-30`              | Konstans. Ez az érték gyakorlatilag a célpont Védő Érték alapját adná, de mivel itt csak 1x (karakteralkotáskor) kell vele számolni, ezért a számolás meggyorsítása miatt átkerült ide.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|          `2x` Önuralom          | Az Önuralom kétszerese                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Fegyver CÉ<br>(kategória függő) | Különbséget teszünk a fegyverkategóriák közt attól függően, hogy alapesetben milyen könnyű velük célba találni. Az alábbi értékek csak irányszámok, a konkrét fegyver értékek ettől eltérhetnek.<br> • Hajító szálfegyverek: `CÉ:+0`<br> • Apró hajítófegyverek: `CÉ:+4`<br> • Íjak: `CÉ:+10`<br> • Nyílpuskák: `CÉ:+16`<br> (A fentiek irányadó számok, egyes speciális fegyverek ezen értéke eltérhet ettől. Lásd a Távolsági fegyverek harcértékei (⭕link⭕) fejezetet!)                                                                                                                                                                                                                                               |
+|               CM                | Célzóérték Módosító. Szintenként legfeljebb `4` vehető fel. `1 CM = 4KP`                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|          Harcmodor CÉ           | Harcmodor képzettség szintje által kapott bónusz (lásd a harcmodor képzettségeket!)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|             Célzás              | `CÉ:+10` módosító 1 célzással eltöltött kör után<br> `CÉ:⭕+20` **Képzett Célzás** (⭕link) fortély megléte esetén. <br> 🔆Figyelem: íjnál csak 1 körig lehet kitartani!! 1 kör után körönként CÉ:-10 büntetés!                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|              Egyéb              | • Képzetlenségből adódó levonás: `CÉ:-40`<br>• Hirtelen lövés: `CÉ:-30`<br> • Az egyes Fortélyokból adódó bónuszok.<br>⚡Például: a célpont hirtelen átfut az úton be egy másik takarás védelmébe és ez a lövészt felkészületlenül éri<br><br> • Nem “belőtt” lőfegyver: `CÉ-30` (íjak) / `CÉ:-15` (nyílpuskák)<br> Ha a támadó most lő először a fegyverrel, akkor íjak esetében `CÉ:-30`, nyílpuskák használatánál pedig `CÉ:-15` módosító sújtja. Ha legalább fél órát töltött el a “belövéssel”, ez a módosító megszűnik. Egyébiránt a használat során folyamatosan tűnik el a hátrány (negyed óra után már csak `CÉ:-15` / `CÉ:-8` és így tovább).<br><br> • A fegyverek minősége befolyásolhatja azok Célzó értéket. |
+
+
+
+
+---
+## Távolsági fegyver kategóriák, Fegyverek Célzó Értéke
+
+A távolsági fegyverek több kategóriába sorolhatóak attól függően, hogy általánosságban mennyire könnyű kezelni őket, mennyire alkalmasak messzi célok leküzdésére. Ezek szerint az alábbi módosítók járulnak ****minden**** karakter Célzó Értékéhez, aki a felsorolt fegyverek valamelyikét kezébe veszi. A lentiek csak irányadó számok a konkrét fegyverek Célzó Értéke és egyedi jellemzőik eltérhetnek ezen értékektől, de nagyjából ebben a skálán mozognak.
+
+   
+|            Fegyverkategória            |  CÉ   | Fegyverek                                              | Speciális                                                                                                                             |
+|:--------------------------------------:|:-----:| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Hajító szálfegyverek,<br>Egyéb tárgyak | `+0`  | Kard, zsámoly, korsó, hajításra nem alkalmas fegyverek | Maximális Hatótávjukhoz hozzáadható:  <br>(ERŐ x Osztó)                                                                               |
+|          Apró hajítófegyverek          | `+4`  | Tőr, dobótőr, hajítóbárd, dárda, lándzsa, kő           | -                                                                                                                                     |
+|                  Íjak                  | `+10` | Íjak                                                   | Sebzés bónusz: ERŐ Tulajdonság 1:1<br>(**ha** erre az Erőre lett tervezve)                                                            |
+|               Nyílpuskák               | `+16` | Nyílpuskák                                             | A kézi nyílpuskától felfelé **Páncéltörőnek** számítanak:<br>SFÉ = a vért rétegeinek száma<br>(mágikus vértek esetén a KM szava dönt) |
+
+🔆**Megjegyzés**: Amennyiben valaki hajításra nem alkalmas fegyvert akar dobni, akkor az adott fegyver harcmodorában kismesteri, azaz `6`.szinten jártasnak kell lennie. Ez alatt képzetlen fegyverhasználat büntetéseivel történhet a dobás.
+
+### Erőből / Ügyességből forgatott fegyverek
+
+Távolba ható fegyverek esetén különbséget teszünk **Erőből** és **Ügyességből** használtak között. A fenti tulajdonság szerepe a sebzésbónusz és a végső Célzó Érték kiszámításánál mutatkozik meg. Hogy egy fegyvert Erőből, vagy Ügyességből forgathatunk, azt a Távolsági fegyverek fejezet (⭕link) alatt található táblázatból olvashatjuk ki.
+
+---
+## Támadások száma (Íjászat, Hajítás)
+```
+Sebesség = aktuális harcmodor + Gyorsaság Tulajdonság
+```
+
+Az íjász/hajigász támadásainak száma attól függ, hogy milyen képzett az adott fegyver használatában, vagy annak Harcmodorában, illetve fürge. Ezt a kapcsolódó harci képzettség foka és a Gyorsaság tulajdonság határozzák meg a fentiek szerint.
+
+Kézifegyvereknél az alábbi módon kategorizálunk:
+
+
+```
+(5) rövid fegyverek            → 5 Sebesség pontonként nő 1-el a támadások száma
+(6) egykezes és szálfegyverek  → 6 Sebesség pontonként nő 1-el a támadások száma
+(7) kétkezes fegyverek         → 7 Sebesség pontonként nő 1-el a támadások száma
+```
+
+Távolsági fegyverek esetén viszont nem mindegyiknek van **Sebesség** kategóriája, mivel újratöltésük annyi időt vesz igénybe, hogy nem lehetséges velük egy körben többször támadni (pl. nyílpuskák).
+
+Ebben az esetben lehet hasznos a „**Gyors újratöltés**” (⭕link) harci fortély.
+
+Az egyes fegyverek Sebesség kategóriáját lásd a **Harcrendszer** „**Fegyverek**” alfejezetében (táblázat)!
+
+---
+## Célpont Védő Értékének kiszámolása
+A célpont Védő értéke reprezentálja a célpont eltalálásának nehézségét. Ugyanolyan célszámként viselkedik, mint a rendes Védő érték, azaz, ha a lövést/hajítást végző karakter Célzó Értékkel együtt számított Támadó dobása eléri, vagy meghaladja ezen értéket, akkor találatról beszélünk. Amennyiben az érték alatta marad, a támadás célt téveszt.
+
+A célpont **Védő Értékét**  az ún. Szorzó és a Cellaszám szorzataként kapjuk meg. Ezt bontásban a fenti Nézzük meg ezeket bontásban:
+
+```
+Célpont VÉ = Szorzó  x  Cellaszám
+```
+
+\-
+
+| **Szorzó** |                     | Univerzális szorzó, mely az alábbi módosítók összegéből (❗) áll             |
+| ---------- | ------------------- | -------------------------------------------------------------------------- |
+|            | Mozgás módosító     | A célpont mozgásának jellegéből adódó alap szorzó                          |
+|            | Méret módosító      | A célpont méretéből adódó módosító                                         |
+|            | Láthatóság módosító | A célpont láthatóságától és sötétben való zajosságától függő módosító      |
+|            | Egyéb módosítók     | Lővész mozgása, Szél hatása\*, Szürkület\*, Célpont zajossága (sötétben)<br />\*Opcionális |
+
+\-
+
+**Cellaszám**
+A célpont Távolságának és a fegyver Osztójának hányadosa felfelé kerekítve.
+$$ Cellaszám = {cél\ távolsága\ (m) \over fegyver\ Osztó} → felfelé\ kerekítve $$
+
+\-
+
+**Fegyver osztó**
+```
+Nem hajítós tárgyak   - 1
+Apró hajítófegyverek  - 2
+Íjak                  - 3
+Nyílpuskák            - 4
+```
+
+---
+
+Az alábbiakban kifejtjük a fenti Szorzó táblázatban foglalt egyes értékek jelentését.
+
+### Szorzó
+
+A Szorzó a célpont Védő értékének kiszámolásában játszik szerepet. Az alábbi módosítók összege adja meg értékét:
+
+- Mozgás módosító (a célpont és a lövész mozgása is számít)
+- Méret módosító
+- Láthatóság módosító
+
+---
+#### Szorzó - Mozgás módosító
+
+Ha a célpont mozog, jóval nehezebb eltalálni. A távolság növekedésével ez a nehézség nem lineárisan, hanem exponenciálisan nő, éppen ezért érthető, hogy a mozgás is a Távolsági szorzó része. Alább az egyes mozgás típusokhoz tartozó módosítókat olvashatjuk.
+
+  
+| Célpont mozgásának jellege | Módosító | Megjegyzés                                                                                                                                                                          |
+|:--------------------------:|:--------:| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|            Álló            |   `3x`   | A célpont mozdulatlan                                                                                                                                                               |
+|     Lassú, egyenletes      |   `5x`   | Lassú séta, léptetés lovon.<br><br>⭕Többen harcolnak, bármelyik fél eltalálása jó. (Közéjük lövés)⭕<br><br>⭕(Vagy: 3x (álló), méret bónusz (-1/2x). Aztán k6, h kit talált el)⭕ |
+|     Gyors, egyenletes      |   `8x`   | Egyenletesen futó ember, vágtató lovas                                                                                                                                              |
+|      Kiszámíthatatlan      |  `15x`   | A célpont ugrál össze-vissza, cikk-cakkban fut.                                                                                                                                     |
+|      Harcoló célpont       |  `20x`   | Csak egy konkrét harcoló fél eltalálása jó.                                                                                                                                         |
+
+Természetesen a lövést végző személy mozgása is befolyásolja a találati esélyeket, hiszen könnyebb állva célozni, mint mondjuk futásból. A lövész mozgása az alábbiak szerint módosíthatja a **Szorzót**:
+
+  
+| Lövész mozgása                     | Módosító  | Megjegyzés |
+| ---------------------------------- |:---------:| ---------- |
+| Mozdulatlan / Álló lövész          | `+0x`  ❔ |            |
+| A lövész lassan egyenletesen sétál | `+2x`  ❔ |            |
+| A lövész lassan fut                | `+5x`  ❔ |            |
+| A lövész rohan                     | `+10x` ❔ |            |
+
+
+##### 🔆 Szél hatása a Szorzóra – Opcionális szabály
+
+További opcionális szabály: amennyiben rendkívül erős szél fúj, akkor az is módosíthatja a célpont Védő Értékét, mivel az erős széllökések eltéríthetik a lövedéket.
+
+ 
+| Szél ereje          |  Szorzó módosító   |
+| ------------------- |:------------------:|
+| Nagyon erős szélben |        +4x         |
+| Viharos szélben     |        +8x         |
+| Orkán erejű szélben | A lövés lehetetlen |
+
+---
+#### Szorzó - Méret módosító
+
+  
+| Célpont mérete           | Módosító | Megjegyzés |
+| ------------------------ |:--------:| ---------- |
+| Pénzérme                 |   +7x    |            |
+| Alma                     |   +5x    |            |
+| Fej, Dinnye, Macska      |  +3x⭕   |            |
+| Törpe, gyerek            |   +1x    |            |
+| Átlagos ember/elf méretű |   +0x    |            |
+| Ló oldalról, Ogre        |   -1x    |            |
+| Lovas                    |   -2x    |            |
+| ⭕TODO⭕                 |          |            |
+| ⭕TODO⭕                 |          |            |
+
+🔺Ha a szorzó 0-ra, vagy az alá csökkenne: 🔺[ISSUE link](https://github.com/kaktusztea/km100/wiki/ISSUE.TODO.tavharc#km100-c%C3%A9lz%C3%A1s-szorz%C3%B3).
+
+---
+#### Szorzó - Láthatóság módosító
+
+A látási viszonyok erősen meghatározzák a távolsági harcot, hiszen például félhomályban sokkal nehezebb eltalálni valakit, mint fényes nappal. Viszont... könnyebb valakit eltalálni sötétben, ha zajt ad ki. Ezeknek megfelelően a fenti körülmények is módosítják a Szorzó értékét, viszont egy Vakharcban járatos személy számára kisebb levonásokat okoznak. A fentieket ebben a táblázatban foglalhatjuk össze.
+
+| A célpont láthatósága és hangossága                                                                            | Módosító képzetlenül | Módosító  <br>Vakharc – 1.fok | Módosító  <br>Vakharc – 2.fok* |
+| -------------------------------------------------------------------------------------------------------------- |:--------------------:|:-----------------------------:|:------------------------------:|
+| **Jól kivehető kontúr**<br>(Pl. nappali célpont; napnyugtakor háztetőn álldogáló célpont)                      |        `+0x`         |             `+0x`             |             `+0x`              |
+| **Homályos kontúr**  <br>(Pl. félhomályban mozgó alaké;<br>testközelben levő célpont sötétben)                 |        `+3x`         |             `+2x`             |             `+1x`              |
+| **Éppen kivehető kontúr (zajos)**  <br>(Pl. sötétben moccanó, neszező árnyak)                                  |        `+6x`         |             `+5x`             |             `+4x`              |
+| **Éppen kivehető kontúr (csendes)**  <br>(Pl. Sötétben, csendben lapuló árnyak)                                |        `+15x`        |            `+10x`             |             `+5x`              |
+| **Háttérrel egybeolvadó kontúr (zajos)**  <br>(Pl. vaksötétben harcoló ellenfél;  <br>távoli célpont sötétben) |       `+15x*`        |            `+10x`             |             `+5x`              |
+| **Háttérrel egybeolvadó kontúr (csendes)**  <br>(Pl. lopakodó, némán osonó fejvadász)                          | Szinte lehetetlen**  |           `+12x`**            |            `+7x**`             |
+
+\* Csak Hatodik Érzék diszciplínával\
+\*\*A vaksötétben történő célzásról alább olvashatsz.
+
+##### 🔆Szürkület hatása a Szorzóra - Opcionális szabály
+
+Ha valaki nagyfokú realisztikusságra törekszik, akkor alkalmazhatja az alábbi opcionális szabályt is: amennyiben a környezet legalább szürkületnek megfelelő sötétségű, akkor konstans +2x Szorzó módosító jár a VÉ kiszámításánál, mivel hiába jól kivehető a cél, sötétben sokkal nehezebb jól megbecsülni a távolságot.
+ 
+| Speciális                                  | Szorzó Módosító |
+| ------------------------------------------ |:---------------:|
+| Szürkületi sötétben, vagy annál sötétebben |      `+2x`      |
+
+
+
+---
+## Fegyver Osztó, Cellaszám
+
+### Osztó
+
+Az **Osztó** szintén méterben megadott távolságérték és fegyverenként változik. Azt mutatja meg, hogy hány méterenként nő **az adott fegyverrel szemben** a célpont **Védő Értéke**. Gyakorlatilag azt befolyásolja, hogy a cél távolságának növekedésével milyen ütemben romlik találati esélyünk.
+
+Érthető, hogy egy nyílpuska **Osztója** nagyobb, mint egy dobótőré, hiszen az előbbivel jó eséllyel támadhatunk akár `30-40` méterre levő célpontot is, míg egy dobótőr esetében ez már a lehetetlen kategóriába tartozik. A fentieket alább, a **Cellaszám** tárgyalásánál érthetjük meg. 
+
+⚡Példa: a **Könnyű nyílpuska** **Osztója** `4`. Tehát `4` méterenként nő vele szemben a célpont Védő Értéke. 
+
+### Cellaszám
+
+$$ Cellaszám = {cél\ távolsága\ (m) \over fegyver\ Osztó} → felfelé\ kerekítve $$
+
+Ez a szám adja meg, hogy a fegyver **Osztójához** viszonyítva hányadik távolság “cellában” található a célpont. A Védő Érték kiszámításánál ezzel a számmal lesz beszorozva a **célpont szorzója**, amelyet a mozgás, méret, láthatóság, stb módosíthatnak (lásd alább).
+
+Például ha egy hosszú íjjal (melynek **Osztója** `3`) lövünk egy `7` méterre levő célra, annak Cellaszáma: `3`.  `7/3 → 3` mivel a `7` osztva `3`-al, felfelé kerekítve egyenlő `3`-al.
+
+Az egyszerűség kedvéért álljon erről itt egy ábra, melyről megérthetőek a fentiek.
+![](06_cellaszam.png)
+
+Ha a fegyver Osztója nem `3`, hanem mondjuk `2` lenne, akkor következésképpen a célpont **Cellaszáma** `4` lenne (`7/2`).
+
+Alább az egyes fegyver-kategóriák tipikus **Osztó** értékét látjuk. Ettől csak rendkívül kevés esetben tér el egyik-másik konkrét fegyver, azok is csak nagyon indokolt esetben. Látható, hogy minél pontosabb egy fegyver, annál nagyobb az **Osztó** értéke.
+
+
+| Fegyverkategória                    | Osztó | Példa fegyverek                                        | Speciális                                                                                                                         |
+| ----------------------------------- |:-----:| ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
+| **Nem hajításra készített tárgyak** |  `1`  | Kard, zsámoly, söröskorsó                              | Maximális Hatótávjukhoz hozzáadható:  <br>(`Erő x Osztó`)                                                                         |
+| **Apró hajítófegyverek**            |  `2`  | Tőr, dobótőr, hajítóbárd                               | -                                                                                                                                 |
+| **Íjak**                            |  `3`  | Rövid íj, hosszú íj,  <br>+ Kézi nyílpuska,  <br>dárda | Sebzés bónusz: Erő tulajdonság  <br>(ha erre az Erőre lett tervezve)                                                              |
+| **Nyílpuskák**                      |  `4`  | Minden nyílpuska  <br>kivéve Kézi és Kharei            | A kézi nyílpuskától felfelé Páncéltörőnek számítanak:<br><br>`SFÉ = a vért rétegeinek száma`<br>(mágikus vértek esetén a KM dönt) |
+
+🔆**Megjegyzés**: Javasoljuk a KM-nek, hogy ha esetleg mágikus, vagy kifejezetten jó minőségű fegyver értékeit akarja az alapértékhez képest módosítani, akkor az Osztó értékét lehetőleg **ne** módosítsa, inkább a fegyver **Célzó Értékét** változtassa.
+
+### Hatótáv
+
+Minden távolba ható fegyvernek van **Hatótávja**, amely értelemszerűen az adott fegyverrel elérhető legnagyobb lőtávolságot jelenti. Ezt minden fegyvernél számon tarjuk, értékét méterben jelezzük. A játékos nem lőhet/dobhat a fegyver hatótávján túl (illetve hajítás esetén még szerepet játszhat a támadó Ereje, de erről később).
+
+⚡Példa: a Könnyű nyílpuska **Hatótávja** `50`, tehát maximálisan `50` méterre lehet vele ellőni.
+
+
+---
+## Harci körülmények, taktikák
+
+### Szándékos kitérés lövés elől
+
+Ha valaki látja és van ideje felkészülni a rá leadott lövésre/hajításra, valamint rendelkezik elegendő hellyel a kitérésre és bejelenti, hogy megpróbálja elkerülni végzetét, akkor Gyorsaságpróbát kell dobnia, melynek nehézsége függ a lövést leadó személy távolságától, valamint az általa használt fegyvertől.
+
+   
+| Gyorsaságpróba célszám | Dobófegyverek |   Íjak    | Nyílpuskák |
+|:----------------------:|:-------------:|:---------:|:----------:|
+|           6            | Testközelben  |           |            |
+|           9            |    1m - 3m    |  0m - 5m  |  0m - 10m  |
+|           8            |    4m - 6m    | 6m - 10m  | 11m - 20m  |
+|           7            |    7m - 9m    | 11m - 15m | 21m - 30m  |
+|           6            |   10m - 12m   | 16m - 20m | 31m - 40m  |
+
+🔆**Megjegyzés**: A próbához `+2` járul, ha a karakter rendelkezik „**Kitérés lövés elől**” (⭕link⭕) harci fortéllyal.
+
+---
+### Páros, kétkezes hajítás
+
+Egyszerre két kézzel 1-1 fegyvert elhajítani. Ebben a szituációban `2`db célzó dobást tesz a karakter `CÉ:-30` módosítóval. Természetesen ha mindkettő talál, mindkettő sebez is.
+
+A fegyver méretének az **Erő** Tulajdonság és a KM józan esze szab határt.
+
+**Kétkezesség** fortély (⭕link⭕) megléte esetén csak `CÉ:-15` büntetés sújtja az alkalmazót.
+
+---
+### Egyéb körülmények
+  
+| Körülmény                                                           |               CÉ módosító                | Megjegyzés                                                                                                                                                                                                                           |
+|:------------------------------------------------------------------- |:----------------------------------------:| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| A célpont fekszik, guggol                                           |                  nincs                   | A védekező megváltozott mérete számít.                                                                                                                                                                                               |
+| `+1` kör Célzás                                                     |                 `CÉ:+10`                 | * Képzett célzás fortély megléte esetén: `CÉ:+20`<br>Íjjal legfeljebb `1` körig lehet a **Célzást** használni, hosszabb ideig való kitartása körönként `CÉ:-10` büntetést okoz.                                                      |
+| Hirtelen lövés:  <br>a célpont hirtelen tűnik fel, rögtön lőni kell |                 `CÉ:-30`                 | -                                                                                                                                                                                                                                    |
+| A lövész képzetlen az adott fegyver használatában                   |                 `CÉ:-40`                 | -                                                                                                                                                                                                                                    |
+| Nem “belőtt” lőfegyver                                              | `CÉ:-30`&nbsp;(íjak)<br>`CÉ:-15`&nbsp;(nyílpuskák) | Egy lőfegyvert a karakternek „be kell lőni”, azaz kitapasztalni egyedi jellemzőit. Ez kb. fél óra gyakorlást jelent. Amíg a fegyver új használója ezt nem teszi meg, addig az adott fegyverre az itt leírt CÉ levonások vonatkoznak. |
+
+
+---
+## Távolsági fegyverek minősége
+
+Nem minden fegyver egyformán jó minőségű, valamelyik igazi mestermunka, pontos, megbízható, mások pedig olyan hitványul vannak összeeszkábálva, hogy még egy öt méterre álló gólemet se talál el vele az ember.
+
+A távolsági fegyverek minősége azok **CÉ**-jét javítja, vagy éppen rontja. Például egy átlagos könnyű nyílpuska `16`-es **CÉ**-vel bír. Egy kiváló nyílpuska, amely mestermunka, akár `20-25`-öt is elérhet, ugyanakkor egy ócskavasnál nem lehet meglepő az `8`-as érték. Szélsőséges esetben a fegyver **Osztó** értéke is módosulhat, de ökölszabályként kimondható, hogy az **Osztó** – minőségtől függően - **legfeljebb** `±1`-el változhat az alapértékhez képest, továbbá csak lőfegyverekre vonatkozik, hajítófegyverekre nem. Egy hajítófegyvernél legfeljebb akkor elképzelhető a **Osztó** változása, ha annyira rossz minőségű, hogy átkerül az `2`-esből a `1`-es kategóriába. Pozitív irányba nem módosulhat.
+
+---
+## Fortélyok - Távolsági harc
+
+A tapasztalt lövész (hajigász) nem csupán harcértékeivel tűnik ki társai közül, hanem egyedi trükkökkel, ismeretekkel, amik egy bizonyos területen a többi fölé emelik. Az alább összegyűjtöttünk minden fortélyt, ami a Távolsági Harccal kapcsolatos.
+
+⭕⭕TODO: link a Távolsági harc fortélyokra⭕
+
+
+---
+## Példalövészet
+
+Tetves, a tolvaj-bérgyilkos egy raktár ablakából, nyílpuskával les a sikátorban közelgő áldozatára, egy tehetős kalmárra, aki éppen hazafelé battyog. A könnyű nyílpuska **Osztója:** `4`
+
+**Tetves Célzó Értéke**
+
+```
+CÉ = -30 (Konstans) + 6 (Önuralom 2x) + 16 (nyílpuska) +15 (CM) + 4 (lövészet) = 11
+```
+  
+**A célpont Védő Értéke**
+
+$$ VÉ = {5(lassan\ mozgó)+0(normál\ méret)+0(jól\ látható)}\ x\ {15(távolság)\over 4(nyílpuska\ osztója)}$$
+
+
+Az osztásnál felfelé kell kerekíteni, de erre most nincs is szükség. A Cellaszám `4`.
+```
+VÉ = 5x4 = 20
+```
+
+**Tehát a próba**
+
+```
+11 + k100  vs  20
+```
+
+azaz ha Tetves legalább `9`-et dob `k100`-on, akkor találatot ér el. Könnyű cél...
+
+Dob `k100`-zal, az eredmény `31`, végső `CÉ = 11+31 = 42`, tehát eltalálta a célt, dobhatja a sebzést.
+
+De lássunk egy bonyolultabb esetet.
+
+⭕TODO: 2. példa⭕
+
+
+---
+## Ritka, speciális esetek
+
+Az alábbi szabályokat csak nagyon kiélezett, fontos pillanatokban használjuk, mikor jut rá idő, tömegjelenetben semmiképp, mert borzasztóan lassítaná a harcot.
+
+### Távolsági harc vaksötétben, zajos célpontra
+
+Ha a karakternek nincs **Vakharc** fortélya, de alkalmazza a „Hatodik érzék” diszciplínát, akkor dobjunk `K10`-el, a dobáshoz ne adjunk hozzá semmit. A Célszám a célpont távolsága méterben. Ha sikeres a próba, akkor elkezdhetjük kiszámolni a CÉ és VÉ értékeket a táblázatban megadott 15x-ös **Látási Szorzóval**. Ha a karakter nem alkalmazza a diszciplínát, akkor a célszám 3-al nő.
+
+Ha a próba sikertelen, akkor a lövés/dobás is automatikusan sikertelennek minősül. A rontás mértékétől függően közelben lévő barátot, szövetségest találhat el az eltévedt lövedék. Erről a KM dönt. Az `1`-es dobás itt is mindig kudarc, a `10`-es mindig siker.
+
+Ha a támadó rendelkezik **Vakharc** fortéllyal (1, vagy 2. fok), akkor nem kell a fenti dobást elvégeznie, hanem rögtön lőhet a táblázatban megadott Láthatóság módosítókkal.
+
+Érthető, hogy közvetlen közelről egy képzetlen is valószínűleg betalál, viszont ahogy nő a távolság, úgy csökkenek (drasztikusan) találati esélyei.
+
+#### Példalövészet vaksötétben
+
+`4.`szintű harcos, Vakharcban képzetlen, **CÉ Alap**: `30`, **Önuralom**:`+3`, **Lövészet** – `9.szint`\
+**Fegyver**: nyílpuska
+
+```
+CÉ = 30 + 6(Önuralom) – 30(konstans) = 6
+```
+  
+
+**Célpont jellemzői**
+
+- Táv: 10m → Cellaszám: `4` (`10/3 → 4`)
+- Láthatóság: sötét, zajos célpont (`+12x`)
+
+A játékos először is dob `k10`-el. Ha az eredmény egyenlő `10`-el (`10m`) (`10%` esély), akkor lőhet a Vakharc–`1.`foknak megfelelő szorzóval (`+12x`). Ha ez sikerül, akkor, jön a **VÉ** számítás és a lövés, egyébként automatikusan célt téveszt.
+
+**Célpont sétál**
+
+- Mozgás: lassan mozgó (`+5x`)
+- `VÉ = 4 x(12+5) = 68`
+- Találati esély: `33%`
+
+**Célpont áll**
+
+- Mozgás: álló (`3x`)
+- `VÉ = 4 x(12+3) = 60`
+- Találati esély: `41%`
+
+#### Távolsági harc vaksötétben - Csendes célpont
+
+Mielőtt bármit kiszámolnánk, nézzük meg, van-e a karakternek **Vakharc** fortélya. Ha nincs, és a célpont nem ad ki semmilyen zajt (ne feledjük, vaksötétben vagyunk!), akkor a távolsági támadás automatikusan cél téveszt.
+
+Ha van, akkor dobjunk K10-al, a dobáshoz ne adjunk hozzá semmit. A Célszám alapfokú Vakharc esetében a célpont távolsága méterben, mesterfokú esetén pedig e szám fele. Ha sikeres a próba, akkor elkezdhetjük kiszámolni a CÉ és VÉ értékeket a fenti táblázatban foglalt **Látási Szorzóval.** **Amennyiben a karakter „Hatodik érzék” diszciplínát alkalmaz, a próba célszáma 3-al lecsökken.**
+
+Ha a próba sikertelen, akkor a lövés/dobás is automatikusan sikertelennek minősül. A rontás mértékétől függően közelben lévő barátot, szövetségest találhat el az eltévedt lövedék. Erről a KM dönt. Az 1-es dobás itt is mindig kudarc, a 10-es mindig siker.
+
+---
+### Hajítás, fegyverdobás harc közben rosszabbik kézzel ⭕KELL EZ??⭕ EXTRÉM
+
+⭕TODO⭕ Szerintem nem kell, iszonyúan túlbonyolított
+
+Testközelben sikeres `6`-os nehézségű **Gyorsaságpróba** esetén a célpont kitér a hajítás/lövés elől.
+
+Rejtett hajítás:
+- Követelmény: Fegyverrántás - 1 fok, Kétkezes harc - 1.fok
+- Fegyverrántás - 2 fok: Meglepetés esetén nehezíti az ellen Gyorsaságpróbáját +1-el
+- Kétkezes harc – 1.fokkal: -20CÉ módosító
+- Kétkezes harc – 2.fokkal: -10 CÉ módosító
