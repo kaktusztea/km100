@@ -113,6 +113,7 @@ Célpont VÉ = Szorzó  x  Cellaszám
 
 **Cellaszám**
 A célpont Távolságának és a fegyver Osztójának hányadosa felfelé kerekítve.
+
 $$ Cellaszám = {cél\ távolsága\ (m) \over fegyver\ Osztó} → felfelé\ kerekítve $$
 
 \-
