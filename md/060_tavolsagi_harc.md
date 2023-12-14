@@ -300,6 +300,7 @@ Ebben az esetben lehet hasznos a „**Gyors újratöltés**” (⭕link) harci f
 
 Az egyes fegyverek Sebesség kategóriáját lásd a **Harcrendszer** „**Fegyverek**” alfejezetében (táblázat)!
 
+---
 ### Erőből / Ügyességből forgatott fegyverek
 
 Távolba ható fegyverek esetén különbséget teszünk **Erőből** és **Ügyességből** használtak között. A fenti tulajdonság szerepe a sebzésbónusz és a végső Célzó Érték kiszámításánál mutatkozik meg. Hogy egy fegyvert Erőből, vagy Ügyességből forgathatunk, azt a Távolsági fegyverek fejezet (⭕link) alatt található táblázatból olvashatjuk ki.
