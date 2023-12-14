@@ -264,7 +264,7 @@ A fegyver méretének az **Erő** Tulajdonság és a KM józan esze szab határt
 ---
 ## Távolsági fegyverek
 
-## Távolsági fegyver kategóriák, Fegyverek Célzó Értéke
+### Távolsági fegyver kategóriák, Fegyverek Célzó Értéke
 
 A távolsági fegyverek több kategóriába sorolhatóak attól függően, hogy általánosságban mennyire könnyű kezelni őket, mennyire alkalmasak messzi célok leküzdésére. Ezek szerint az alábbi módosítók járulnak ****minden**** karakter Célzó Értékéhez, aki a felsorolt fegyverek valamelyikét kezébe veszi. A lentiek csak irányadó számok a konkrét fegyverek Célzó Értéke és egyedi jellemzőik eltérhetnek ezen értékektől, de nagyjából ebben a skálán mozognak.
 
@@ -279,7 +279,7 @@ A távolsági fegyverek több kategóriába sorolhatóak attól függően, hogy 
 🔆**Megjegyzés**: Amennyiben valaki hajításra nem alkalmas fegyvert akar dobni, akkor az adott fegyver harcmodorában kismesteri, azaz `6`.szinten jártasnak kell lennie. Ez alatt képzetlen fegyverhasználat büntetéseivel történhet a dobás.
 
 ---
-## Támadások száma (Íjászat, Hajítás)
+### Támadások száma (Íjászat, Hajítás)
 ```
 Sebesség = aktuális harcmodor + Gyorsaság Tulajdonság
 ```
