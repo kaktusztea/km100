@@ -3,6 +3,7 @@
 ## Kivonatok
 
 - [Segédlet esszencia (játékalkalomra, 5 oldal) v1.7 (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_ingame_v1.7.pdf?raw=true)
+- [Távharc segédlet v1.1](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_tavharc_1.1.pdf?raw=true)
 - [Tömör szabályrendszer v6.1 (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_tomor_v6.1.pdf?raw=true) (⭕néhol nem friss⭕)
 - [Study: Sebzés és VÉ csökkentés adminisztratív lépéseinek száma (odt)](https://github.com/kaktusztea/km100/blob/master/segedlet/Study_Sebzes_es_VE_csokk_lepesszama.pdf?raw=true)
 
