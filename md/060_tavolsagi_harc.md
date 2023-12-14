@@ -20,22 +20,17 @@ A távolsági - lő- és hajítófegyverekkel - végzett harc során a védekez�
 <br />
 
 ---
-## CÉ alap
-```
-CÉ alap = -30 + (2 x Önuralom) + CM
-```
-
-Alapból mindenkinek `-30`, amihez hozzájön a karakter ⚪**Önuralom** Tulajdonsága, ezen kívül növelheti **Célzó Harcérték** módosítóból (CM).
-
----
 ## Célzó Érték kiszámolása
 
 Mikor a támadó lövést, vagy hajítást végez, a Célzó Értékét állítja szembe a célpont távolsági Védő Értékével. A Célzó Érték kiszámolása a következőképpen történik.
 
+```
+Támadó CÉ = -30 + CM + Harcmodor CÉ + (2 x Önuralom/Erő) + Fegyver CÉ + Mf + K100
+```
 
-```
-Támadó CÉ = -30 + (2 x Önuralom) + Fegyver CÉ + CM + Harcmodor CÉ + Mf + K100
-```
+Alapból mindenki konstans `-30`-as értékkel kezd, amihez hozzájönnek a **Célzó Harcérték** módosítók (`CM`), majd a karakter ⚪**Önuralom** VAGY ⚪**Erő** Tulajdonsága ([fegyvertől függ](#er%C5%91b%C5%91l--%C3%BCgyess%C3%A9gb%C5%91l-forgatott-fegyverek)), utána a fegyver egyedi CÉ-je, az esetlegesen, az adott fegyverre felvett **Mesterfegyver** fortélyból adódó bónusz (`CÉ:+3/fok`) és végül a `k100`-as dobásból adódó random érték.
+
+
 
 Bővebben:
 
