@@ -129,7 +129,7 @@ Természetesen a lövést végző személy mozgása is befolyásolja a találati
 | ------------------------ |:--------:| ---------- |
 | Pénzérme                 |   +7x    |            |
 | Alma                     |   +5x    |            |
-| Fej, Dinnye, Macska      |  +3x⭕   |            |
+| Fej, Dinnye, Macska      |   +4x    |            |
 | Törpe, gyerek            |   +1x    |            |
 | Átlagos ember/elf méretű |   +0x    |            |
 | Ló oldalról, Ogre        |   -1x    |            |
