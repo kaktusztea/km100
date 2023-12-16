@@ -228,13 +228,22 @@ Alább az egyes fegyver-kategóriák tipikus **Osztó** értékét látjuk. Ett�
 Ha valaki látja és van ideje felkészülni a rá leadott lövésre/hajításra, valamint rendelkezik elegendő hellyel a kitérésre és bejelenti, hogy megpróbálja elkerülni végzetét, akkor Gyorsaságpróbát kell dobnia, melynek nehézsége függ a lövést leadó személy távolságától, valamint az általa használt fegyvertől.
 
    
-| Gyorsaságpróba célszám | Dobófegyverek |   Íjak    | Nyílpuskák |
-|:----------------------:|:-------------:|:---------:|:----------:|
-|           6            | Testközelben  |           |            |
-|           9            |    1m - 3m    |  0m - 5m  |  0m - 10m  |
-|           8            |    4m - 6m    | 6m - 10m  | 11m - 20m  |
-|           7            |    7m - 9m    | 11m - 15m | 21m - 30m  |
-|           6            |   10m - 12m   | 16m - 20m | 31m - 40m  |
+| Gyorsaságpróba célszám | Mágikus lövedék I. | Mágikus lövedék II. | Dobófegyverek,<br />ML III. |   Íjak,<br />ML IV. | Nyílpuskák,<br />ML V. |
+|:----------------------:|:------------------:|:-------------------:| ---------------------------:| -------------------:| ----------------------:|
+|           9            |                    |         1m          |           1m&nbsp;-&nbsp;3m |             0m - 5m |               0m - 10m |
+|           8            |                    |         2m          |                     4m - 6m |  6m&nbsp;-&nbsp;10m |    11m&nbsp;-&nbsp;20m |
+|           7            |                    |         3m          |           7m&nbsp;-&nbsp;9m | 11m&nbsp;-&nbsp;15m |    21m&nbsp;-&nbsp;30m |
+|           6            |                    |         4m          |         10m&nbsp;-&nbsp;12m | 16m&nbsp;-&nbsp;20m |    31m&nbsp;-&nbsp;40m |
+|           5            |         1m         |         5m          |                Testközelben |                     |                        |
+|           4            |         2m         |                     |                             |                     |                        |
+|           3            |         3m         |                     |                             |                     |                        |
+|           2            |         4m         |                     |                             |                     |                        |
+|           1            |         5m         |                     |                             |                     |                        |
+
+⭕TODO: hangolni még a fenti táblázatot.
+
+⭕Link: Elemi mágia - Formulák - Őselem idézése  (lehet h ki kéne szedni általános "Mágikus lövedék" szekcióba)
+
 
 🔆**Megjegyzés**: A próbához `+2` járul, ha a karakter rendelkezik „**Kitérés lövés elől**” (⭕link⭕) harci fortéllyal.
 
