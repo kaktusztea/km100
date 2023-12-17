@@ -224,7 +224,7 @@ A Hajítófegyverek sebzése általánosságban **Szúró** jellegű. Ahol ez m�
 
 ---
 ### Lőfegyverek harcértékei
-`TODO_HARC_#36.``
+`TODO_HARC_#36.`
 
 A Lőfegyverek sebzése általánosságban **Szúró** jellegű. Ahol ez másként van, ott az adott fegyver leírásánál a „**Speciális/Megjegyzés**” oszlopban ezt külön feltüntetjük.  
 
