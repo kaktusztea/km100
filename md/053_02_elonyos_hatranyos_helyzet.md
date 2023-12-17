@@ -1,4 +1,8 @@
 ## Előnyös és hátrányos helyzet
+```
+"Kiskocka": a két k10-es kocka közül a kisebbik értéket dobott.
+Például 49 → kiskocka: 4
+```
 
 A harcban
 
