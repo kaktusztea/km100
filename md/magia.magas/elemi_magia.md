@@ -1,4 +1,4 @@
-****## Elemi mágia
+## Elemi mágia
 
 A Magasmágia tradíció alá tartozó mágiaiskola.
   
