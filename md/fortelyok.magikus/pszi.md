@@ -23,6 +23,8 @@ A pszionikus iskolák tanulásának alapfeltétele magának a pszí alkalmazás 
 |**Nyugalomban**|⭕|⭕|⭕|⭕|
 |**Úton**|⭕|⭕|⭕|⭕|
 
+\* Harcban, súlyos sebesülten, kábultan, bódultan nem regenerálódnak a pszí pontok.
+
 <br />
 
 ---
