@@ -287,6 +287,9 @@ A távolsági fegyverek több kategóriába sorolhatóak attól függően, hogy 
 
 🔆**Megjegyzés**: Amennyiben valaki hajításra nem alkalmas fegyvert akar dobni, akkor az adott fegyver harcmodorában kismesteri, azaz `6`.szinten jártasnak kell lennie. Ez alatt képzetlen fegyverhasználat büntetéseivel történhet a dobás.
 
+- [Hajítófegyverek táblázata](./057_fegyverek.md#haj%C3%ADt%C3%B3fegyverek-harc%C3%A9rt%C3%A9kei)
+- [Lőfegyverek táblázata](./057_fegyverek.md#l%C5%91fegyverek-harc%C3%A9rt%C3%A9kei)
+
 ---
 ### Támadások száma (Íjászat, Hajítás)
 ```
