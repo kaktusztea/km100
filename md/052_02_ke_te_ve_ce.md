@@ -19,8 +19,9 @@ A karakter Kezdeményező Értékét a következőképpen kell kiszámítani:
 |Mesterfegyver fortély|+2 fokonként|
 |Speciális|- Gyors Kezdeményezés fortély: `+4 KÉ`<br>  - Szituációkból adódó módosítók<br>  - Mágia hatására kapott módosító|
 
----
+<br />
 
+---
 ### Védő Érték
 
 A Védő Érték szimbolizálja a karakter közelharcban nyújtott azon képességét, hogy mennyire hatásosan képes elhárítani, elkerülni az ellene intézett csapásokat. Értéke nem mondható konstansnak, hisz a harci helyzettől függően változik, ráadásul kihat rá a testi-lelki, szellemi fáradság és persze a sebesülés is (lásd később).
@@ -39,8 +40,9 @@ A Védő Érték szimbolizálja a karakter közelharcban nyújtott azon képess�
 |Pajzs VÉ|Értéke a pajzs jellegétől függ. Ha a karakter készületlen, vagy meglepetésből támadnak rá, a pajzs VÉ nem adódik hozzá a aktuális Védő Értékhez. Képzetlen Pajzshasználat esetén csak értékének fele számít be.|
 |Speciális|- Harc során bekövetkező csökkenés (sima találat esetén)<br>    - Sebesülésből adódó csökkenés<br>    - Fortélyokból adódó módosítók<br>    - Harci helyzetből adódó módosítók (pl. harc alulról, harc megrendülten, stb)<br>   - Fegyver minőségéből adódó módosító<br>&nbsp;&nbsp;&nbsp;&nbsp; - Mestermunka: max +5 VÉ<br>&nbsp;&nbsp;&nbsp;&nbsp; - Gyatra fegyver: max -10 VÉ<br>&nbsp;&nbsp;&nbsp;&nbsp; - Mágikus fegyver módosítói<br>        - Mágiából adódó módosítók|
 
----
+<br />
 
+---
 ### Támadó Érték
 
 A Támadó Érték szimbolizálja a harcos azon tulajdonságát, hogy az adott fegyverrel milyen hatékonyan képes ellenfele ellen támadást, támadásokat intézni.
@@ -70,8 +72,9 @@ Támadó dobás = Támadó Érték + k100
 
 Bővebben lásd a „Harc menete” fejezetben!
 
----
+<br />
 
+---
 ### Célzó Érték
 
  
