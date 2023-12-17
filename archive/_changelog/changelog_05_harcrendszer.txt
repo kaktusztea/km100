@@ -1,6 +1,12 @@
 Harcrendszer changelog
 ----------------------
 
+v1.5.5
+Minimál formázás.
+Markdownba konvertálás kész, archiválva.
+Ne módosítsd többet.
+
+
 v1.5.4
 ...
 
