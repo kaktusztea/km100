@@ -83,3 +83,9 @@ Alacsonyrendű és közrendű démonokat lehetséges megkötni, rabszolgává te
 > SFÉ irányelv
 
 A démonoknak  van egy elég nagy SFÉ-je sima fegyver ellen, de nem sebezhetetlenek. Ez az SFÉ nem számít mágikus, vagy áldott fegyver ellen.
+
+> Gyertya
+
+- ⭕Az idézésnél a gyertya elfújós dolog részben hülyeség, mert a gyertya tuti leég előbb utóbb. Kelljen hozzá egy Démon-szimpátia mozaik, ami idézéskor hozzákapcsolja a gyertyát a démonhoz. Viszont! Ezt fenn kelljen tartani. Vagy koncentrálni rá vagy időtartammal nyújtani a mozaikot.⭕
+
+Ha lejár, akkor a kapcsolat megszakad, a gyertya kialvása nem okozza a démon halálát.
