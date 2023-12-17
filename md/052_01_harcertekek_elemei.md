@@ -132,8 +132,8 @@ A legtöbb esetben egy karakternek van egy (vagy több) fegyver típusa, amelyet
      
 |Fok|Követelmény|KÉ|TÉ|VÉ|Sebzés|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|1|4. szint a harcmodorban|+2|+3|+3|+1|
-|2|8. szint a harcmodorban|+4|+6|+6|+2|
-|3|12. szint a harcmodorban|+6|+9|+9|+3|
+| 1.fok    | 4.szint a harcmodorban  | `KÉ:+2`, `TÉ:+3`, `VÉ:+3`, `SP:+1`     |
+| 2.fok    | 8.szint a harcmodorban  | `KÉ:+4`, `TÉ:+6`, `VÉ:+6`, `SP:+2`     |
+| 3.fok    | 12.szint a harcmodorban | `KÉ:+6`, `TÉ:+9`, `VÉ:+9`, `SP:+3`     |
 
 Bizonyos manővereknek követelménye lehet ennek a fortélynak valamely foka, melyet csak az adott fegyverrel képes végrehajtani a forgatója. Például: „Első vágás”, „Mesterjel”
