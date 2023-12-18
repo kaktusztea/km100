@@ -235,25 +235,24 @@ A Sebzést és Átütést a nyílhegy is meghatározza! ⭕TODO ⭕
 
 #### Íjász lőfegyverek
 
-| Fegyver           | Forgatás módja | SP  | Sebzés módja | Átütés | KÉ  | CÉ  | Osztó  | Hatótáv | Sebesség | Speciális / Megjegyzés                                                                             |     |
-| ----------------- | -------------- |:---:|:------------:|:------:|:---:|:---:|:------:| -------:|:--------:| -------------------------------------------------------------------------------------------------- | --- |
-| ⭕Rövid íj        | kétkezes       |     |     `+1`     |        |     | `+10` |   `2`    |   `60m`   |          | Az Erőbónusz csak akkor számít ha az íj erre az Erő értékre lett tervezve!                         |     |
-| ⭕Hosszú íj       | kétkezes       |     |     `+3`     |        |     | `+12` |   `3`    |  `120m`   |          | Az Erőbónusz csak akkor számít ha az íj erre az Erő értékre lett tervezve!                         |     |
-| ⭕Visszacsapó íj  | kétkezes       |     |     `+4`     |        |     | `+10` |   `3`    |  `160m`   |          | Az Erőbónusz csak akkor számít ha az íj erre az Erő értékre lett tervezve!                         |     |
-| ⭕Elf íj          | kétkezes       |     |     `+4`     |        |     | `+13` | `3(4\*)` |  `120m`   |          | \Csak a készítője (és egyben birtokosa) kezében, egyébként hagyományos íjként működik és Osztója: `3`. |     |
-| ⭕Fúvócső, kicsi  | egykezes       |     |    spec\*    |        |     | `+8`  |   `1`    |    `16m`  |          | \* `k20` dobásnál: `20`-as dobás: `1 ÉP`, különben `0 ÉP`                                             |     |
-| ⭕Fúvócső, vadász | kétkezes       |     |     `-10`    |        |     | `+10` |   `1`    |   `30m`   |          |                                                                                                    |     |
+| Fegyver           | Forgatás módja | SP  | Sebzés módja | Átütés | KÉ  |  CÉ   |  Osztó   | Hatótáv | Sebesség | Speciális / Megjegyzés                                                                                 |     |
+| ----------------- | -------------- |:---:|:------------:|:------:|:---:|:-----:|:--------:| -------:|:--------:| ------------------------------------------------------------------------------------------------------ | --- |
+| ⭕Rövid íj        | kétkezes       |     |     `+1`     |        |     | `+10` |   `2`    |   `60m` |          | Az Erőbónusz csak akkor számít ha az íj erre az Erő értékre lett tervezve!                             |     |
+| ⭕Hosszú íj       | kétkezes       |     |     `+3`     |        |     | `+12` |   `3`    |  `120m` |          | Az Erőbónusz csak akkor számít ha az íj erre az Erő értékre lett tervezve!                             |     |
+| ⭕Visszacsapó íj  | kétkezes       |     |     `+4`     |        |     | `+10` |   `3`    |  `160m` |          | Az Erőbónusz csak akkor számít ha az íj erre az Erő értékre lett tervezve!                             |     |
+| ⭕Elf íj          | kétkezes       |     |     `+4`     |        |     | `+13` | `3(4\*)` |  `120m` |          | \Csak a készítője (és egyben birtokosa) kezében, egyébként hagyományos íjként működik és Osztója: `3`. |     |
+| ⭕Fúvócső, kicsi  | egykezes       |     |    spec\*    |        |     | `+8`  |   `1`    |   `16m` |          | \* `k20` dobásnál: `20`-as dobás: `1 ÉP`, különben `0 ÉP`                                              |     |
+| ⭕Fúvócső, vadász | kétkezes       |     |    `-10`     |        |     | `+10` |   `1`    |   `30m` |          |                                                                                                        |     |
 
 
 #### Lövész lőfegyverek
 
 
-| Fegyver          | Forgatás módja | SP  | Sebzés módja | Átütés | KÉ  |  CÉ  | Osztó | Hatótáv | Sebesség | Speciális / Megjegyzés                                                         |
-| ---------------- | -------------- |:---:|:------------:|:------:|:---:|:----:|:-----:| -------:|:--------:| ------------------------------------------------------------------------------ |
-| Kézi nyílpuska   | egykezes       |  `+0` |      S       |        |     | `+10`\* |    3  |   20m |    ⭕    | * A kézi nyílpuska kevésbé pontos fegyver kis mérete miatt.                    |
-| Nyílpuska        | kétkezes       | `+5`  |      S       |  ⭕10  |     | `+16`  |   `4`   |  50m |    ⭕    | Nem páncéltörő ?? A nehézvértet átviszi, vagy nem?<br />Távolság-függő Átütés. |
-| Nehéz nyílpuska  | kétkezes       | `+14` |      S       |  ⭕10  |     | `+16`  |   `4`   |   80m |    ⭕    | Páncéltörő. Ez átviszi a nehézvértet is!                                        |
-| Shadoni páncéltörő | kétkezes       | `+20` |      Z       |  ⭕??  |     |  `+4`  |   `4`   |  ⭕120m |    ⭕    | Újratöltés: 1 emberrel: 3 kör, 2 emberrel: 1 kör<br />Páncéltörő            |
-| Kharei nyílpuska  | kétkezes       |   `+3` |      S       |        |     | `+14`  |   `4`   |     50m |    ⭕    | \* Míg ki nem fogy a tár. Újratöltés: 1 kör                                     |
-
+| Fegyver            | Forgatás módja |  SP   | Sebzés módja | Átütés | KÉ  |   CÉ    | Osztó | Hatótáv | Sebesség | Speciális / Megjegyzés                                                         |
+| ------------------ | -------------- |:-----:|:------------:|:------:|:---:|:-------:|:-----:| -------:|:--------:| ------------------------------------------------------------------------------ |
+| Kézi nyílpuska     | egykezes       | `+0`  |      S       |        |     | `+10`\* |   3   |     20m |    ⭕    | * A kézi nyílpuska kevésbé pontos fegyver kis mérete miatt.                    |
+| Nyílpuska          | kétkezes       | `+5`  |      S       |  ⭕10  |     |  `+16`  |  `4`  |     50m |    ⭕    | Nem páncéltörő ?? A nehézvértet átviszi, vagy nem?<br />Távolság-függő Átütés. |
+| Nehéz nyílpuska    | kétkezes       | `+14` |      S       |  ⭕10  |     |  `+16`  |  `4`  |     80m |    ⭕    | Páncéltörő. Ez átviszi a nehézvértet is!                                       |
+| Shadoni páncéltörő | kétkezes       | `+20` |      Z       |  ⭕??  |     |  `+4`   |  `4`  |  ⭕120m |    ⭕    | Újratöltés: 1 emberrel: 3 kör, 2 emberrel: 1 kör<br />Páncéltörő               |
+| Kharei nyílpuska   | kétkezes       | `+3`  |      S       |        |     |  `+14`  |  `4`  |     50m |    ⭕    | \* Míg ki nem fogy a tár. Újratöltés: 1 kör                                    |
 
