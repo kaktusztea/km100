@@ -17,22 +17,22 @@ Az alább következő mozaikok kivétel nélkül igen nagy nehézségűek, sőt 
 
 **VÉGZETES ÁRNYEK**
 
-| **Árnyék**                                                   | **Arány** | **MP** | **Nehézség** |
-| ------------------------------------------------------------ |:---------:|:------:|:------------:|
-| Éles, fekete, a háttértől jól elütő                          |    1:1    |  5 MP  |     75 %     |
-| Halványabb, elmosódottabb, de azért meg jól körülhatárolható |    1:1    | 10 MP  |     85 %     |
-| Elmosódott, a háttértől alig megkülönböztethető              |    1:1    | 15 MP  |    100 %     |
-| Minden méretváltozás (aranyban)                              |           | +5 MP  |     +5 %     |
+| **Árnyék**                                                   | **Arány** | **MP**  | **Nehézség** |
+| ------------------------------------------------------------ |:---------:|:-------:|:------------:|
+| Éles, fekete, a háttértől jól elütő                          |    1:1    | ⭕ 5 MP |      15      |
+| Halványabb, elmosódottabb, de azért meg jól körülhatárolható |    1:1    | ⭕10 MP |      18      |
+| Elmosódott, a háttértől alig megkülönböztethető              |    1:1    | ⭕15 MP |      21      |
+| Minden méretváltozás (aranyban)                              |           | ⭕+5 MP |      +1      |
 
 #### Például
-> Egy várban, a fáklyákkal megvilágított folyóson egy őr járkál fel és alá. Árnyéka jól látható a falon, éles kontúrokkal körülhatárolt, (1. kategória) viszont elég közel van a fényforráshoz. Ezenkívül a fal - melyre árnyékot vet - viszonylag távol van tőle, így árnyéka jóval nagyobbnak látszik (mondjuk 3-szoros) : `+3x5Mp / +3x5 %`
+> Egy várban, a fáklyákkal megvilágított folyóson egy őr járkál fel és alá. Árnyéka jól látható a falon, éles kontúrokkal körülhatárolt, (1. kategória) viszont elég közel van a fényforráshoz. Ezenkívül a fal - melyre árnyékot vet - viszonylag távol van tőle, így árnyéka jóval nagyobbnak látszik (mondjuk 3-szoros) : `+3x5Mp / +3x3 Nehézség`
 
 Tehát:
 
 |               |  Mana  | Nehézség |
 | ------------- |:------:|:--------:|
-| Alap          |  5 Mp  |   75%    |
-| Méretmódosító | +15 Mp |   +15%   |
+| Alap          |  5 Mp  |    15    |
+| Méretmódosító | +15 Mp |    +3    |
 | ------------  | ------ |  ------  |
 | Összesen      | 20 Mp  |   90%    |
 
