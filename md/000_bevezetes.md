@@ -1,7 +1,7 @@
 # km100 szerepjáték szabályrendszer
 
 Nonprofit szabályrendszer a M\* világához\
-Ailtas, 2004-2023
+Ailtas, 2004-2024
 
 \
 `Creative Commons Licenc`
