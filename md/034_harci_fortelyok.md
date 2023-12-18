@@ -27,7 +27,6 @@
 - [Kétkezesség](fortelyok.harci/ketkezesseg.md)
 - [Kínokozás](fortelyok.harci/kinokozas.md)
 - [Körkörös harc](fortelyok.harci/korkoros_harc.md)
-- [Lovas harc](fortelyok.harci/lovas_harc.md)
 - [Mesterfegyver](fortelyok.harci/mesterfegyver.md)
 - [Pajzshasználat](fortelyok.harci/pajzshasznalat.md)
 - [Páros harc](fortelyok.harci/paros_harc.md)
@@ -37,6 +36,12 @@
 - [Testőr](fortelyok.harci/testor.md)
 - [Vakharc](fortelyok.harci/vakharc.md)
 - [Vértviselet](fortelyok.harci/vertviselet.md)
+
+---
+## Lovas fortélyok
+
+- [Lovas harc](fortelyok.harci/lovas_harc.md)
+- [Lovas íjászat](fortelyok.harci/lovas_ijaszat.md)
 
 ---
 ## Távolsági harci fortélyok
@@ -51,5 +56,4 @@
 - [Lövés futás közben](fortelyok.harci/loves_futas_kozben.md)
 - [Lövés reflexből](fortelyok.harci/loves_reflexbol.md)
 - [Pontos lövés](fortelyok.harci/pontos_loves.md)
-- [Lovas íjászat](fortelyok.harci/lovas_ijaszat.md)
 - [Távoli lövés](fortelyok.harci/tavoli_loves.md)
