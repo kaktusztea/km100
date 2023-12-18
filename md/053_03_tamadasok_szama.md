@@ -1,9 +1,5 @@
 ## Támadások száma
 
-```diff
-- Fegyverek – TODO_HARC_#27.
-```
-
 ```
 Alapeset:  minden fegyver támadásainak száma: 1 / kör.
 ```
