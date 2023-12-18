@@ -6,9 +6,9 @@ A Titkos fortélyok általában egyes képzettségek nagyon magas szinten tört�
 
 `__titkos__fortelyok__`
 
-- [Állat testvér](fortelyok.titkos/allat_testver.md)
+- [Állat testvér](fortelyok.titkos/allat_testver.md) 🔺
 - [Élő álca](fortelyok.titkos/elo_alca.md)
-- [Kobratánc](fortelyok.titkos/kobratanc.md)
+- [Kobratánc](fortelyok.titkos/kobratanc.md) 🔺
 - [Tapadás](fortelyok.titkos/tapadas.md)
 
 ⭕TODO: kidolgozni még⭕

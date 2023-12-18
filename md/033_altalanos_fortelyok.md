@@ -6,12 +6,12 @@
 - [Csomózás; Kötelékből szabadulás](fortelyok.altalanos/csomozas__kotelekbol_szabadulas.md)
 - [Éber alvó](fortelyok.altalanos/eber_alvo.md)
 - [Fakír](fortelyok.altalanos/fakir.md)
-- [Gyöngyhalász](fortelyok.altalanos/gyongyhalasz.md)
+- [Gyöngyhalász](fortelyok.altalanos/gyongyhalasz.md) 🔺
 - [Hangutánzás](fortelyok.altalanos/hangutanzas.md)
 - [Kitartás](fortelyok.altalanos/kitartas.md)
 - [Kocsihajtás](fortelyok.altalanos/kocsihajtas.md)
 - [Sprint](fortelyok.altalanos/sprint.md)
-- [Szájról olvasás](fortelyok.altalanos/szajrol_olvasas.md)
+- [Szájról olvasás](fortelyok.altalanos/szajrol_olvasas.md) 🔺
 - [Szerencsés](fortelyok.altalanos/szerencses.md)
 
 ---
@@ -19,29 +19,29 @@
 
 ` tag: __erzek__fortely__`
 
-- [Barlangi tájékozódás](fortelyok.erzekek/barlangi_tajekozodas.md)
+- [Barlangi tájékozódás](fortelyok.erzekek/barlangi_tajekozodas.md) 🔺
 - [Fejlett hallás](fortelyok.erzekek/fejlett_hallas.md)
 - [Fejlett látás](fortelyok.erzekek/fejlett_latas.md)
-- [Fejlett szaglás](fortelyok.erzekek/fejlett_szaglas.md)
-- [Infralátás](fortelyok.erzekek/infralatas.md)
-- [Ultralátás](fortelyok.erzekek/ultralatas.md)
+- [Fejlett szaglás](fortelyok.erzekek/fejlett_szaglas.md) 🔺
+- [Infralátás](fortelyok.erzekek/infralatas.md) 🔺
+- [Ultralátás](fortelyok.erzekek/ultralatas.md) 🔺
 
 ---
 ## Alvilági és fizikai fortélyok
 
 `tag: __alvilagi__fizikai__fortely__`
 
-- [Biztos kezű mászó](fortelyok.altalanos/biztos_kezu_maszo.md)
+- [Biztos kezű mászó](fortelyok.altalanos/biztos_kezu_maszo.md) 🔺
 - [Futás](fortelyok.altalanos/futas.md)
 - [Kaméleon](fortelyok.altalanos/kameleon.md)
-- [Kötéltánc](fortelyok.altalanos/koteltanc.md)
-- [Pók](fortelyok.altalanos/pok.md)
-- [Suhanó árnyék](fortelyok.altalanos/suhano.arnyek.md)
+- [Kötéltánc](fortelyok.altalanos/koteltanc.md) 🔺
+- [Pók](fortelyok.altalanos/pok.md) 🔺
+- [Suhanó árnyék](fortelyok.altalanos/suhano.arnyek.md) 🔺
 - [Szabotőr](fortelyok.altalanos/szabotor.md)
 - [Százarcú](fortelyok.altalanos/szazarcu.md)
 - [Úszás](fortelyok.altalanos/uszas.md)
-- [Villámgyors keresés](fortelyok.altalanos/villamgyors.kereses.md)
-- [Zártörő](fortelyok.altalanos/zartoro.md)
+- [Villámgyors keresés](fortelyok.altalanos/villamgyors.kereses.md) 🔺
+- [Zártörő](fortelyok.altalanos/zartoro.md) 🔺
 
 ---
 ### Szociális fortélyok
@@ -59,11 +59,11 @@ Az alábbi Fortélyokat a játékos csak a KM engedélyével veheti fel, ÉS csa
 Szót érdemelnek még a politikai cselszövések, mint szociális vonatkozású tevékenységek. Ezek komplex szituációk, melyeket nem vonhatunk be a szabályrendszer alá, mégis egyes területein (pl. információk megszerzése) döntenünk kell. Az ilyen helyzetek kezeléséhez lásd a **„Mit tudok/tudhatok róla?”** fejezetet a szabályrendszer [Szituációk](../110_szituaciok) főfejezetében!
 
 - [Hazudozás](fortelyok.altalanos/hazudozas.md)
-- [Hidegvér](fortelyok.altalanos/hidegver.md)
+- [Hidegvér](fortelyok.altalanos/hidegver.md) 🔺
 - [Megfélemlítés](fortelyok.altalanos/megfelemlites.md)
 - [Meggyőzés](fortelyok.altalanos/meggyozes.md)
 - [Szónoklás](fortelyok.altalanos/szonoklas.md)
-- [Tiszta fej](fortelyok.altalanos/tiszta_fej.md)
+- [Tiszta fej](fortelyok.altalanos/tiszta_fej.md) 🔺
 
 ---
 ### Tudományos fortélyok
