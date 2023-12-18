@@ -1,5 +1,7 @@
 ## Háttér fortélyok
 
+<!-- tag: hatter__fortely -->
+
 A Háttér jellegű fortélyok ingyenes, számszerű előnyöket nem nyújtó jellemzők.
 
 Ide tartoznak a játszható és nem játszható fajok, valamint előtörténetet színesítő, esetlegesen nehezítő(!) elemek, amennyiben a játékos hajlandó ezeket felvállalni.

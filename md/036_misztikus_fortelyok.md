@@ -1,6 +1,6 @@
 ## Misztikus fortélyok
 
-`__misztikus__fortelyok__`
+<!-- tag: misztikus__fortely -->
 
 - [Elemi sík nyelve](fortelyok.misztikus/elemi_sik_nyelve.md) 🔺
 - [Pszí alkalmazás](fortelyok.misztikus/pszi.md) 🔺

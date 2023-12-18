@@ -1,6 +1,6 @@
 ## Harci fortélyok
 
-`__harci__fortelyok__`
+<!-- tag: harci__fortely -->
 
 - [Alakzatharc](fortelyok.harci/alakzatharc.md)
 - [Belharc](fortelyok.harci/belharc.md)

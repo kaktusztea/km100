@@ -1,5 +1,7 @@
 ## Karmák
 
+<!-- tag: karma__fortely -->
+
 A Karmák speciális jellemvonások, melyeket a fortély rendszeren belül kezelünk, **de nem kerülnek KP-ba**. Követelményeik nem számszerűek, hanem valamely esemény, különleges cselekedet, így kalandok során lehet „megszerezni” őket. Hatásuk a karakter Auráján is megjelenik. Minden esetben a KM adja őket, a játékos nem veheti fel önként, valamint nem követelheti azt a KM-en.
 
 A lenti karmák  nem feltétlenül fednek le mindent, a KM ha úgy érzi az adott kaland hangulatához illene egy új, általa kitalált Karma, akkor nyugodtan megadhatja, de legyen tekintettel az erőviszonyokra, Karmaként csak valamilyen színesítő ismeretet adjon.
