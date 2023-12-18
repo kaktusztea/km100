@@ -230,7 +230,7 @@ Tehát a támadásra kisebb a büntetés, mint puszta kézre, a védekezés visz
 ### Kijelölt testrészre támadás
 
 ```diff
-- Harci Anatómia adjon bónuszt? (**PROB_HARC_#59**)
+- Harci Anatómia adjon bónuszt? (PROB_HARC_#59)
 ```
 
 Ha küzdelem közben a harcos ellenfele egy konkrét testrészére kíván támadni, akkor ezt előre be kell jelentenie és utána sikeres, túlütő támadást kell dobnia `TÉ:-20` módosítóval.
