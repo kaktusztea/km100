@@ -1,5 +1,8 @@
 # Képzettségrendszer
 
+▲ [Nyitóoldal](./start.md)\
+→ [TODO/ISSUE képzettségrendszer](https://github.com/kaktusztea/km100/wiki/ISSUE.TODO.kepzettsegek)
+
 - [Képzettségrendszer](#képzettségrendszer)
   - [Képzettségek kategóriái](#képzettségek-kategóriái)
   - [Képzettségek növelése](#képzettségek-növelése)

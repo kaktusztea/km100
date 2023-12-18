@@ -1,5 +1,8 @@
 # Karakteralkotás
 
+▲ [Nyitóoldal](./start.md)\
+→ [TODO/ISSUE karakteralkotás](https://github.com/kaktusztea/km100/wiki/ISSUE.TODO.karakteralkotas)
+
 - [Karakteralkotás](#karakteralkotás)
   - [Előtörténet, személyiség](#előtörténet-személyiség)
   - [Szint, szintlépés, TP](#szint-szintlépés-tp)

@@ -1,5 +1,8 @@
 # Érzékelés, Észlelés
 
+▲ [Nyitóoldal](./start.md)\
+→ [TODO/ISSUE harcrendszer](https://github.com/kaktusztea/km100/wiki/ISSUE.TODO.erzekeles.eszleles)
+
 ## Tág értelmezés
 
 >⭕Észlelés és Érzékelés (nem csak képzettség szintjén!) tágan értelmezve (Hatodik érzék, mágikus érzékelés (pl. manában sűrű terület), pszí érzékelő diszciplínái, hangulatok megérzése (Intuíció+Emberismeret), stb)⭕

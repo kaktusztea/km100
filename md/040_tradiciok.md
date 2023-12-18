@@ -1,5 +1,6 @@
 ## Tradíciók és Féltradíciók
 
+▲ [Nyitóoldal](./start.md)\
 → [STUDY: Tradíciók](https://github.com/kaktusztea/km100/wiki/STUDY.Tradiciok)
 
 ### Tradíciók
