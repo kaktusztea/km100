@@ -14,24 +14,14 @@ A Fortélyok egyedi ismeretek, melyeket ugyanúgy KP-ből vehet fel a karakter, 
 - A fortélyoknak lehetnek **követelményei**: Tulajdonságok elvárt értékei, képzettségek elvárt szintje, esetleg más fortélyok megléte, vagy valamilyen nem számszerűsíthető körülmény.
 
 ---
+[Karmák](031_karmak.md)
 
-```diff
-- A Fortélyok már markdownba lettek alakítva, de még nincsenek tartalomjegyzékbe
-- linkelve. Addig használhatod a régi PDF doksit:
-```
- 
-[Fortélyok PDF doksi](https://github.com/kaktusztea/km100/raw/master/archive/pdf/km100_03_fortelyok.pdf?raw=true) 
+[Háttér fortélyok](032_hatter_fortelyok.md)
 
----
+[Általános, alvilági és fizikai fortélyok](033_altalanos_fortelyok.md)
 
-[Karmák](031_karmak.md) ✅
+[Harci fortélyok](034_harci_fortelyok.md)
 
-[Háttér fortélyok](032_hatter_fortelyok.md) 🚧
-
-[Általános, alvilági és fizikai fortélyok](033_altalanos_fortelyok.md) 🚧
-
-[Harci fortélyok](034_harci_fortelyok.md) 🚧
-
-[Titkos fortélyok](035_titkos_fortelyok.md) 🚧
+[Titkos fortélyok](035_titkos_fortelyok.md)
 
 ---
