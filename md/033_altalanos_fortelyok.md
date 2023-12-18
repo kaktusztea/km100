@@ -15,6 +15,16 @@
 - [Szerencsés](fortelyok.altalanos/szerencses.md)
 
 ---
+## Érzék fortélyok
+
+- [Barlangi tájékozódás](fortelyok.erzekek/barlangi_tajekozodas.md)
+- [Fejlett hallás](fortelyok.erzekek/fejlett_hallas.md)
+- [Fejlett látás](fortelyok.erzekek/fejlett_latas.md)
+- [Fejlett szaglás](fortelyok.erzekek/fejlett_szaglas.md)
+- [Infralátás](fortelyok.erzekek/infralatas.md)
+- [Ultralátás](fortelyok.erzekek/ultralatas.md)
+
+---
 ## Alvilági és fizikai fortélyok
 
 `tag: __alvilagi__fizikai__fortely__`
