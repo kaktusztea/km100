@@ -1,3 +1,0 @@
-### Alvilági képzettségek
-
-⭕ Bevezetőt írni.

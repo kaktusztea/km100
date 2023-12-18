@@ -1,3 +1,0 @@
-### Fizikai képzettségek
-
-⭕ Bevezetőt írni.

@@ -1,3 +1,0 @@
-### Világi képzettségek
-
-⭕ Bevezetőt írni.

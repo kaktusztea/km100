@@ -1,3 +1,0 @@
-### Harci képzettségek
-
-⭕ Bevezetőt írni.
