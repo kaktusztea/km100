@@ -57,9 +57,15 @@ A szabályrendszer dokumentumaiban speciális unicode karaktereket használunk j
 
 ⭕ TODO: kidolgozásra/döntésre vár
 
+🔺 ISSUE link (wiki)
+
 🔹 [OUT-OF-SYNC](https://github.com/kaktusztea/km100/wiki/OUT-OF-SYNC): a megjelölt rész inkonzisztens állapotban van más dokumentumok tartalmával.
 
 👀 [FIGYELT ELEM](https://github.com/kaktusztea/km100/wiki/FIGYELT-ELEMEK): a megjelölt részt figyelni kell egyensúly szempontból:
+
+🚧 In progress
+
+💡 Ötlet
 
 - Nem túl tápos/gyenge?
 - Gördülékeny vagy túl bonyolult?
