@@ -21,10 +21,11 @@
 - [Képzettséglista](021_kepzettseglista.md) (90%)
 - [Fortélyok](030_fortelyok.md)
 	- [Karmák](031_karmak.md)
-	- [Háttér fortélyok](032_hatter_fortelyok.md) 🚧
-	- [Általános, alvilági és fizikai fortélyok](033_altalanos_fortelyok.md) 🚧
-	- [Harci, távharc és lovas fortélyok](034_harci_fortelyok.md) 🚧
-	- [Titkos fortélyok](035_titkos_fortelyok.md) 🚧
+	- [Háttér fortélyok](032_hatter_fortelyok.md) 
+	- [Általános, alvilági és fizikai fortélyok](033_altalanos_fortelyok.md) 
+	- [Harci, távharc és lovas fortélyok](034_harci_fortelyok.md) 
+	- [Titkos fortélyok](035_titkos_fortelyok.md) 
+	- [Misztikus fortélyok](036_misztikus_fortelyok.md) 
 - [Tradíciók](040_tradiciok.md) (60%)
 - [Harcrendszer](050_harcrendszer.md) (85%)
 	- [Életerő](051_eletero.md)
