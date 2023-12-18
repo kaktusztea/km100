@@ -66,8 +66,3 @@ A szabályrendszer dokumentumaiban speciális unicode karaktereket használunk j
 🚧 In progress
 
 💡 Ötlet
-
-- Nem túl tápos/gyenge?
-- Gördülékeny vagy túl bonyolult?
-- Jól működik, vagy problémásan?
-- Nem borítja az erőviszonyokat?
