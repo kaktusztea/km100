@@ -17,6 +17,8 @@
 ---
 ## Érzék fortélyok
 
+` tag: __erzek__fortely__`
+
 - [Barlangi tájékozódás](fortelyok.erzekek/barlangi_tajekozodas.md)
 - [Fejlett hallás](fortelyok.erzekek/fejlett_hallas.md)
 - [Fejlett látás](fortelyok.erzekek/fejlett_latas.md)
