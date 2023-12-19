@@ -433,7 +433,7 @@ Megjegyzés: nem kell mindet elköltened, tartalékolhatsz is egy későbbi nagy
 
 ## Fajok, Faji módosítók, korlátok
 
-A felvehető fajok mind Háttér-fortélyként vehetőek fel. Limitációik és felvehető - érzékeiket érintő - fortélyaikat [ott találod meg](./032_hatter_fortelyok.md#Fajok).
+A felvehető fajok mind Háttér-fortélyként vehetőek fel. Limitációik és felvehető - érzékeiket érintő - fortélyaikat [ott találod meg](032_hatter_fortelyok.md#Fajok).
 
 ---
 
@@ -527,7 +527,7 @@ Minden élőlény a benne keringő testi és lelki energiának, az életerőnek 
 
 <br />
 
-![](./images/01_eletero_tablazat_small.png)
+![](images/01_eletero_tablazat_small.png)
 
 A karakter aktuális fizikai állapotát az Életerő Pontok (`ÉP`) száma határozza meg, melyeket `4` egészség kategória közt a táblázatban egyenlő arányban (`össz ÉP 1/4-e minden oszlopba`) osztunk el. Ha maradékos az osztás, akkor a maradékot balról jobbra osszuk el.
 
@@ -538,7 +538,7 @@ Az egyes kategóriák jelölésében az `S` a „Sebesülés” -re utal, a szá
 
 A fenti ábra `18ÉP` elosztását mutatja be.
 
-`Kábulat ÉP (KT)`: Verekedésnél, leütésnél, kábulatnál, rosszullétnél használjuk a Kábulat ÉP Pontot (`KT`). Hatása ugyanolyan, mint az ÉP vesztés (lásd [Sebesülés](./051_eletero.md#sebes%C3%BCl%C3%A9s) fejezet), de nem okozhat halált, mivel nem jár strukturális károsodással. `Óránként 1 jön vissza`. (`Alvás közben óránként 2`) Alapállapotban nem létezik. Kifejtését lásd a [Harcrendszer Életerő - Kábulat ÉP](./051_eletero.md#k%C3%A1bulat-%C3%A9leter%C5%91-pont-kt) fejezetében.
+`Kábulat ÉP (KT)`: Verekedésnél, leütésnél, kábulatnál, rosszullétnél használjuk a Kábulat ÉP Pontot (`KT`). Hatása ugyanolyan, mint az ÉP vesztés (lásd [Sebesülés](051_eletero.md#sebes%C3%BCl%C3%A9s) fejezet), de nem okozhat halált, mivel nem jár strukturális károsodással. `Óránként 1 jön vissza`. (`Alvás közben óránként 2`) Alapállapotban nem létezik. Kifejtését lásd a [Harcrendszer Életerő - Kábulat ÉP](051_eletero.md#k%C3%A1bulat-%C3%A9leter%C5%91-pont-kt) fejezetében.
 
 ---
 
@@ -557,13 +557,13 @@ A Méregellenállás próba egyszerű Tulajdonság próba, melynél a karakter `
 A mérgeknek lehet ún. `Másodlagos hatása`, amely a
 sikeres próba esetén következik be. Ennek hatása legfeljebb a rendes hatásnál `1-el` (⭕2-vel???) alacsonyabb kategóriájú lehet. Pl. Halál → Életveszély (vagy Bódulat).
 
-Bővebben lásd a [Méregkeverés](./kepzettsegek/meregkeveres.md) képzettség leírását.
+Bővebben lásd a [Méregkeverés](kepzettsegek/meregkeveres.md) képzettség leírását.
 
 ---
 
 ## Mágiaellenállás
 
-Lásd a [Pszi](./070_pszi.md) fejezetet!
+Lásd a [Pszi](070_pszi.md) fejezetet!
 
 🚧 Majd ha ott kész, akkor beírni ide. 🚧
 
@@ -647,7 +647,7 @@ A karakterek 1. szinten `150 KP`-t (KP Alap), valamint minden szinten (elsőn is
 
 ## Harcértékek, Jellemzők
 
-Hogy egy karakter milyen tapasztalt a harc terén, azt harcértékeivel jellemezzük. Nyilvánvaló, hogy akinek inkább a fegyverforgatás az élete, annak jobbak a harcértékei, mint annak, aki mágikus tudományokban mélyül el. A harcértékek tárgyalását lásd a Harcrendszer fejezet, [Harcértékek felépítése](./052_01_harcertekek_elemei.md) alfejezetében!
+Hogy egy karakter milyen tapasztalt a harc terén, azt harcértékeivel jellemezzük. Nyilvánvaló, hogy akinek inkább a fegyverforgatás az élete, annak jobbak a harcértékei, mint annak, aki mágikus tudományokban mélyül el. A harcértékek tárgyalását lásd a Harcrendszer fejezet, [Harcértékek felépítése](052_01_harcertekek_elemei.md) alfejezetében!
 
 ---
 
