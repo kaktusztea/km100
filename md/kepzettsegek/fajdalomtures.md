@@ -44,4 +44,4 @@ Ezt a képzettségedet használod váratlan fájdalmak kiállásakor, illetve k�
 > Célszámot módosító körülmények
 
 - Bódult állapot (áfiumok, kábítószerek hatására): mínusz ⭕`[1-15]`⭕
-- Harci láz (lásd a fortély leírását)
+- [Harci láz](fortelyok.harci/harci_laz.md) (lásd a leírását!)
