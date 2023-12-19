@@ -99,7 +99,7 @@ A manőver nehézségét egy számértékkel jellemezzük. Minden manővernek va
 
 A játékosnak a kör elején be kell jelentenie, hogy Manővert akar alkalmazni és azt is, hogy melyiket. Ezután a karakterek kezdeményezést dobnak (kivéve pl. a **Meglepetés** szituációt), majd mikor az alkalmazóra kerül a sor, jön a Manőver. Ha a KM úgy látja jónak, megtilthatja adott szituációban a Manőver alkalmazását. Amennyiben a játékos ezt a döntést nem képes kulturáltan kezelni, a KM növelje intenzíven a manőver nehézségét...
 
-Egy Manőver alkalmazása – jellegétől függően – legfeljebb az alábbi három (de nem kötelezően az összes!) alapfázisból állhat. Mindegyik opcionális, hogy melyikre van szükség, azt az adott Manőver leírásánál, (lásd összefoglaló táblázat) találjuk. Végrehajtásuk sorrendjében:
+Egy Manőver alkalmazása – jellegétől függően – legfeljebb az alábbi három (de nem kötelezően az összes!) alapfázisból állhat. Mindegyik opcionális, hogy melyikre van szükség, azt az adott Manőver leírásánál találjuk. Végrehajtásuk sorrendjében:
 
 - 1. **Megakasztás** (ha van)\
   ellenfél teszi (Sima támadás - ha sikeres, a Manőver rögtön sikertelen)
@@ -112,10 +112,9 @@ Egy Manőver alkalmazása – jellegétől függően – legfeljebb az alábbi h
   ```Manőver pont vs Célszám```
 
 ---
-
 #### Megakasztás (M)
 
-Megelőző támadási forma, melyre az ellenfél jogosult teljes, fegyveres `TÉ`-jével (soron kívüli extra támadás), ha az adott típusú manőver követelményei között ez szerepel (M). (Lásd táblázat)
+Megelőző támadási forma, melyre az ellenfél jogosult teljes, fegyveres `TÉ`-jével (soron kívüli extra támadás), ha az adott típusú manőver követelményei között ez szerepel (M).
 
 A Megakasztás az első fázis a Manőver végrehajtása során. Ha az így érkező támadás sebző, akkor a Manőver nem sikerült. (Tipikus példa, a harcból való **Kibontakozás**, vagy a **Belharcba kerülés**.)
   
@@ -126,7 +125,7 @@ A Megakasztás az első fázis a Manőver végrehajtása során. Ha az így érk
 
 Nem más, mint egy támadás az aktuális, **fegyveres TÉ** értékkel, melyhez `+20 TÉ` módosító járul. Ha ez a támadás sikeres, akkor a Végrehajtás is sikeres (sebzés nincs). (TÉ-be beleszámít a több támadás levonása is!)
 
-Ha a **Végrehajtás** sikertelen, akkor a helyzet megvolt, de nem sikerült kihasználni. A **Végrehajtás** **dobása** után – ha sikeres volt, ha nem – az ellenfél legközelebb már számít az ilyen jellegű támadásra, ezért amennyiben ismét ezt a Manővert kísérli meg a karakter, akkor az **Ellenpróba** során a célszám már **+2-vel** nőni fog (lásd: Ellenpróba) (nem halmozódik). Ilyen lehet még az is, ha a játékos az ellenfelét már látta korábban küzdeni és egy konkrét manővert gyakran alkalmazni.
+Ha a **Végrehajtás** sikertelen, akkor a helyzet megvolt, de nem sikerült kihasználni. A **Végrehajtás** **dobása** után – ha sikeres volt, ha nem – az ellenfél legközelebb már számít az ilyen jellegű támadásra, ezért amennyiben ismét ezt a Manővert kísérli meg a karakter, akkor az **Ellenpróba** során a célszám már **+2-vel** nőni fog (lásd: Ellenpróba lenn) (nem halmozódik). Ilyen lehet még az is, ha a játékos az ellenfelét már látta korábban küzdeni és egy konkrét manővert gyakran alkalmazni.
 
 A fentieken kívül minden **Manővernek** lehetnek egyéni, speciális követelményei, ezeket a saját leírásuknál található meg. A Manőverek fenti (legfeljebb) három „komponense” együtt kezelendő és együtt összesen egy „sima” támadást „emésztenek fel”.
 
@@ -194,7 +193,7 @@ A manőverek végrehajtásával bárki próbálkozhat, aki az adott manővernél
 
 ### Manőverek fejlesztése, manőver-ismeretek
 
-A manővereket „**Fejleszthető**” és „**Nem fejleszthető**” csoportokba soroljuk.(lásd lejjebb a két elkülönített táblázatot). Alkalmazásaik szabályai nem különböznek.
+A manővereket „**Fejleszthető**” és „**Nem fejleszthető**” csoportokba soroljuk.(lásd lejjebb a két elkülönített fejezetet). Alkalmazásaik szabályai nem különböznek.
 
 Egy karakter összes **nem-távolsági Harcmodor** képzettségeinek minden `3. szintje` után automatikusan kap egy-egy ún. „**Manőverfejlesztő pontot**” (MFP), amelyekből az említett „Fejleszthető” manőverekhez **Manőver-ismeret** fokokat lehet felvenni. **1 fok tanulása 1 MFP-be kerül**, továbbá a fokok tanulásának követelményeit is teljesíteni kell (lásd az adott manőverek leírásánál).
 
@@ -212,7 +211,6 @@ Ilyen ismeret lehet például a **Manőver – Gáncsolás** megtanulása, melyn
 <br/> 
 
 ---
-
 ### Manőver lista
 
 Az alábbiakban bemutatjuk a km100 által ismert manővereket. A KM bármikor rögtönözhet új manővert, mindössze az alábbiakat kell megtennie: meghatározni a Manőver alap nehézségét, végbevitelének követelményeit, szükséges fázisait (MEV), hatását, valamint az esetleges speciális követelményeket (képzettségpróba, stb). Amennyiben az új manőver fejleszthető, akkor az egyes tanulható fokok követelményeit is rögzíteni kell.
@@ -231,7 +229,6 @@ Az alábbiakban bemutatjuk a km100 által ismert manővereket. A KM bármikor r�
 - Hatás: Belharc közben fogást találsz ellenfeleden és átdobod a vállad felett. Innentől kezdve a [Harc földön fekve](055_01_harci_helyzetek.md#harc-földön-fekve) módosítói szerint kell számolni harcértékeit.
 
 ---
-
 #### 🗡️Felállás földről
 
 - Nehézség: `6`
@@ -241,7 +238,6 @@ Az alábbiakban bemutatjuk a km100 által ismert manővereket. A KM bármikor r�
 - Hatás: Sikerült harc közben a földről feltápászkodnod, folytathatod a harcot, immár levonások nélkül.
 
 ---
-
 #### 🗡️Feszítés, Leszorítás / Feszítésből kijövetel
 
 - Nehézség: `6` ± **Erő** különbség + (Ellenfél minden **Belharc** foka után `+2`)
@@ -258,7 +254,6 @@ Az alábbiakban bemutatjuk a km100 által ismert manővereket. A KM bármikor r�
 	- Amíg feszítve van, addig nem tud fegyverrel támadni és `TÉ/VÉ:-25` (`KÉ`-t elveszíti automatikusan)
 
 ---
-
 #### 🗡️Kéztörés
 
 - Nehézség:  `6` ± **Erő** különbség + (Ellenfél minden **Belharc** foka után `+2`)
@@ -270,7 +265,6 @@ Az alábbiakban bemutatjuk a km100 által ismert manővereket. A KM bármikor r�
 - Hatás: kitörted ellenfeled kezét, ⭕`5 ÉP`⭕ sebzés, a sérült kezét nem  használhatja harcra, amíg meg nem gyógyul.
 
 ---
-
 #### 🗡️Kiegészítő támadás
  ⭕KELL EZ?⭕
 - Nehézség: `7`
@@ -281,7 +275,6 @@ Az alábbiakban bemutatjuk a km100 által ismert manővereket. A KM bármikor r�
 - Hatás: Harc közben egy támadásod helyett valamilyen csalafinta, alattomos húzást vetsz be ellenfeled ellen. Ilyen lehet például, hogy öklöddel váratlanul az arcába csapsz, vagy térden rúgod, esetleg a vállába bokszolsz, stb. Ennek a támadásodnak a sebzése `k20+1`. (Természetesen az esetleges „kiegészítők”, mint *vaskesztyű*, *szegecsek* és az **Erőbónusz** szintén beleszámítanak a sebzésbe.) Ha a sebzés legalább `5`, akkor a fentieken kívül ellenfeled elveszíti következő támadását.
 
 ---
-
 #### 🗡️Lábtörés
 
 - Nehézség: `8` ± **Erő** különbség + (Ellenfél minden **Belharc** foka után `+2`)
@@ -292,7 +285,6 @@ Az alábbiakban bemutatjuk a km100 által ismert manővereket. A KM bármikor r�
 - Hatás: kitörted ellenfeled lábát, ⭕`6 ÉP`⭕ sebzés
 
 ---
-
 #### 🗡️Leforgatás/Irányítás
 
 - Nehézség: `8 / 4` (Lefeszített ellenfél ellen a nehézség csak `4`)
@@ -302,7 +294,6 @@ Az alábbiakban bemutatjuk a km100 által ismert manővereket. A KM bármikor r�
 - Hatás: Képes vagy ellenfeledet a számodra kedvező irányba forgatni/terelni miközben összeakaszkodtok. Legfeljebb `5 méternyi` távot tetethetsz meg vele.
 
 ---
-
 #### 🗡️Pontra támadás
 
 - Nehézség: `~10`
@@ -313,7 +304,6 @@ Az alábbiakban bemutatjuk a km100 által ismert manővereket. A KM bármikor r�
 - Megjegyzés: A „**Pontra támadás**” **nem** használható együtt a **Páncélszúrás** manőverrel! A testrésznek páncél által fedetlennek kell lennie.
 
 ---
-
 #### 🗡️Nyaktörés
 
 - Nehézség: `9`
@@ -326,7 +316,6 @@ Az alábbiakban bemutatjuk a km100 által ismert manővereket. A KM bármikor r�
 - Hatás: Kitörted ellenfeled nyakát. Amennyiben humanoid anatómiájú egyedről van szó, 1 körön belül meghal.
 
 ---
-
 #### 🗡️Öklelés
 
 - Nehézség: `⭕?⭕`
@@ -336,7 +325,6 @@ Az alábbiakban bemutatjuk a km100 által ismert manővereket. A KM bármikor r�
 - Hatás: ⭕TODO⭕
 
 ---
-
 #### 🗡️Pajzzsal öklelés
 
 - Nehézség: `7` ± **Erő** különbség + (Ellenfél minden **Pajzshasználat** foka után `+2` (ha használ épp pajzsot ő is))
@@ -349,7 +337,6 @@ Az alábbiakban bemutatjuk a km100 által ismert manővereket. A KM bármikor r�
 <br/> 
 
 ---
-
 ### Fejleszthető manőverek
 
 ```
@@ -374,7 +361,7 @@ Az alábbiakban Manőverfejlesztő Pontokból (`MFP`) fejleszthető Manőverek l
 	- A fegyver-méretek eltérése is kiemelten érvényesül!!
 	  ⭕TODO: mennyi legyen kategóriánként?)⭕
 - Hatás: Sikeresen bekerültél belharcba, megkapod a Belharci szituációnál leírt módosítókat.
-- Kijövetel: Sikeres **Kibontakozás/Átsiklás** manőver. Lásd ott.
+- Kijövetel: Sikeres [Kibontakozás/Átsiklás](#%EF%B8%8Fkibontakoz%C3%A1s%C3%A1tsikl%C3%A1s) manőver. Lásd ott.
 - Megjegyezés: Ha az ellenfél úgy dönt, hogy szándékosan beengedi belharcba a karaktert, akkor nincs szükség a Manőverre, dobás nélkül megtörténik a bekerülés, amelyet kezdeményezés követ, majd a harc – immár a Belharc szabályainak megfelelően.
 
 ---
@@ -396,7 +383,6 @@ Lásd: [Kibontakozás/Átsiklás](./055_05_manoverek.md#%EF%B8%8Fkibontakozásá
 - Hatás: Sikeresen kikaszáltad ellenfeled lábát, aki a földre zuhan. Felállnia csak sikeres „**Felállás földről**” manőver alkalmazásával sikerülhet. A továbbiakban a **Harc földön fekve** módosítói vonatkoznak rá.
 
 ---
-
 #### 🗡️Kibontakozás/Átsiklás
 
 - Nehézség: `5`
@@ -498,7 +484,6 @@ Ha meg akarod fosztani ellenfeledet fegyverétől, vagy kiütve kezéből, vagy 
 - Hatás: Arcon fejelted áldozatodat.
 
 ---
-
 #### 🗡️Mesterjel
 
 - Nehézség: `10+12`🍁
@@ -573,7 +558,6 @@ Nem támadsz, hanem ⭕TODO⭕
 
 
 ---
-
 ### ⚡Egyszerű példa egy Manőver alkalmazására
 
 **Rühes** külön ismeret nélkül megpróbálja lefegyverezni ellenfelét. Mindkettőjüknél hosszú kard van, Rühes kicsivel jobb vívó, és `MFP`-ből fejlesztette a **Lefegyverzés/Fegyvertörés** manővert `1.fokra`.
@@ -612,10 +596,9 @@ Ha Rühes megtanulná a Lefegyverezést  `2.fokon` Manőverfejlesztő Pontjaibó
 <br/>
 
 ---
-
 ### ⚡Összetettebb példa egy Manőver alkalmazására
 
-Tetves **Gáncsolást** akar alkalmazni. Ellenfelénél kard van, nála tőr és rendelkezik „Gáncsolás” Manőver ismerettel (`1 fok`). Bejelenti, hogy ezen kívül `2 pontot` vállal (lásd **Vállalás**) a cél érdekében → `VÉ:-20`
+Tetves **Gáncsolást** akar alkalmazni. Ellenfelénél kard van, nála tőr és rendelkezik „Gáncsolás” Manőver ismerettel (`1 fok`). Bejelenti, hogy ezen kívül `2 pontot` vállal (lásd [Vállalás](#v%C3%A1llal%C3%A1s)) a cél érdekében → `VÉ:-20`
 
 Tetves értékei:
 - Közelharc: `7.szint`

@@ -33,7 +33,7 @@ Minden fegyver rendelkezik egy **elsődleges támadási (sebzési) típussal**, 
 
 Egyes – speciális – fegyvereknél van megemlítve ez a szabály. Jelentése: a táblázatban leírt harcértékek csak akkor érvényesek, ha speciális iskolában, vagy onnan származó mestertől megtanulta a karakter a fegyver speciális fogásait. Ez részben előtörténet követelmény, amelyet fel kell tüntetni a karakterlapon. Bánjunk ezzel a követelménnyel szigorúan! Ha ez nincs meg, a KM dönt, hogy milyen – alacsonyabb – harcértékekkel forgathatja a karakter a fegyvert – már ha egyáltalán...
 
-A fegyverek egyedi fogásaihoz viszont követelmény a **Mesterfegyver fortély** `1.` vagy `2.` foka az adott fegyverre. Ezen speciális fogásokat fortélyok formájában tanulhatja meg a harcos. Leírásukat lásd a harci fortélyoknál. Azok a fegyverek számítanak „Speciálisnak”, amelyek komment mezőjében szerepel a „**KT**” jelölés.
+A fegyverek egyedi fogásaihoz viszont követelmény a [Mesterfegyver fortély](fortelyok.harci/mesterfegyver.md) `1.` vagy `2.` foka az adott fegyverre. Ezen speciális fogásokat fortélyok formájában tanulhatja meg a harcos. Leírásukat lásd a [harci fortélyoknál](034_harci_fortelyok.md). Azok a fegyverek számítanak „Speciálisnak”, amelyek komment mezőjében szerepel a „**KT**” jelölés.
 
 ### Puszta kéz
 
