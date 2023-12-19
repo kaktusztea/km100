@@ -6,7 +6,7 @@
 
 A Kezdeményező Érték szerepe a harcban, hogy meghatározza, ki „mozdul először” a harcban. Nem jelent harci dominanciát, csak azt, hogy ki a gyorsabb, ki cselekedhet a előbb.
 
-Kezdeményező dobás: minden kör elején `KÉ + k10`. A kezdeményezésről bővebben lásd a [Harc menete - Kezdeményezés](./054_01_02_harc_menete_reszletes.md#kezdem%C3%A9nyez%C3%A9s) fejezetet!
+Kezdeményező dobás: minden kör elején `KÉ + k10`. A kezdeményezésről bővebben lásd a [Harc menete - Kezdeményezés](054_01_02_harc_menete_reszletes.md#kezdem%C3%A9nyez%C3%A9s) fejezetet!
 
 A karakter Kezdeményező Értékét a következőképpen kell kiszámítani:
 

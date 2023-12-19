@@ -240,7 +240,7 @@ Ha küzdelem közben a harcos ellenfele egy konkrét testrészére kíván táma
 - Ennél pontosabb találatot harc közben meghatározni csak a **Pontra támadás** manőverrel lehet.
 - Találatkor sima sebzést dob a támadó
 - Plusz hatás: ha a Sebzés legalább Súlyos (`6 ÉP`), akkor az áldozat valamilyen nem-harcérték korlátozást szenved el. Például ha a cél a fegyverforgató kéz volt, akkor elejti fegyverét és nem képes tovább harcolni vele. Vagy: láb támadása esetén mozgási sebessége felére/harmadára esik vissza (KM dönt). Fejre támadásnál szemébe folyik a vére, esetleg elkábul.
-- Lásd még alább: [Csonkolás](./055_02_harci_taktikak.md#csonkol%C3%A1s-%C3%A9s-t%C3%B6r%C3%A9s) harci taktika.
+- Lásd még alább: [Csonkolás](055_02_harci_taktikak.md#csonkol%C3%A1s-%C3%A9s-t%C3%B6r%C3%A9s) harci taktika.
 
 ---
 

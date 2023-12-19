@@ -22,7 +22,7 @@ Teljes sötétben is képes vagy tájékozódni.
 - Felvételéhez olyan faj **Háttér-fortélya** szükséges, amelynél szerepel az Ultralátás, mint felvehető **Érzék-fortély**
 - A látás fekete-fehérben történik
 - A távolság "használhatóságát" továbbra is az **Észlelés** képzettség határozza meg
-- A látótávolságot ultralátásban a [Fejlett látás](./fejlett_latas.md) Érzék-fortély is befolyásolja
+- A látótávolságot ultralátásban a [Fejlett látás](fejlett_latas.md) Érzék-fortély is befolyásolja
 - A látható fény "elnyomja", napvilágnál nem használható, sötétben magától átveszi a hagyományos látás szerepét.
 
 <br />

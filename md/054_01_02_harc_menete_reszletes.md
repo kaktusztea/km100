@@ -147,7 +147,7 @@ A számolás jelentős része karakteralkotáskor történik, így a játékmene
 ---
 #### Harcérték csökkenés
 
-Ha valakit találat ért és átkerül másik sebesülés-kategóriába, `TÉ levonást` kap, melyet mérsékel a [Fájdalomtűrés képzettség](kepzettsegek/fajdalomtures.md) és [Önuralom tulajdonságok](./010_karakteralkotas.md#önuralom) összege. Bővebben lásd: [Fájdalomtűrés fejezetet](./051_eletero.md#f%C3%A1jdalomt%C5%B1r%C3%A9s)!
+Ha valakit találat ért és átkerül másik sebesülés-kategóriába, `TÉ levonást` kap, melyet mérsékel a [Fájdalomtűrés képzettség](kepzettsegek/fajdalomtures.md) és [Önuralom tulajdonságok](010_karakteralkotas.md#önuralom) összege. Bővebben lásd: [Fájdalomtűrés fejezetet](051_eletero.md#f%C3%A1jdalomt%C5%B1r%C3%A9s)!
 
 Ez azért előnyös, mert megint csak karakteralkotás időben számítjuk ki a fenti értékeket.
 
@@ -234,7 +234,7 @@ Kitéve a Megoldandók doksiba:
 - ⭕TODO: Irányelvek kidolgozása: **PROB_HARC_#57.**
 ```
 
-Természetesen nem csak fegyverek okozhatnak sérülést, hanem egy mágikus tűzgolyó, zuhanás a tetőről, stb. A mágikus hatások sebzéseit a [Mágia](./080_magiarendszer.md) fejezetben tárgyaljuk, bővebben lásd ott.
+Természetesen nem csak fegyverek okozhatnak sérülést, hanem egy mágikus tűzgolyó, zuhanás a tetőről, stb. A mágikus hatások sebzéseit a [Mágia](080_magiarendszer.md) fejezetben tárgyaljuk, bővebben lásd ott.
 
 Zuhanás, zúzódás, egyéb fizikai sérülések esetén a KM meghatároz egy sebzés értéket ugyanúgy, akár egy fegyver esetében. Pl. `+5+K20`. Az **SFÉ** ilyen esetekben legtöbbször nem számít, vagy csak igen mérsékelten. Ha számít, akkor általában a **zúzó SFÉ** értéket használjuk, de KM dönt, mivel ahány eset annyiféle.
 

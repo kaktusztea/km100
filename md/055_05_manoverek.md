@@ -367,7 +367,7 @@ Az alábbiakban Manőverfejlesztő Pontokból (`MFP`) fejleszthető Manőverek l
 ---
 #### 🗡️Belharcból kibontakozás
 
-Lásd: [Kibontakozás/Átsiklás](./055_05_manoverek.md#%EF%B8%8Fkibontakozásátsiklás) manőver.
+Lásd: [Kibontakozás/Átsiklás](055_05_manoverek.md#%EF%B8%8Fkibontakozásátsiklás) manőver.
 
 ---
 #### 🗡️Gáncsolás / Lábsöprés (lábbal)

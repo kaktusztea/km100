@@ -89,7 +89,7 @@ Mikor a karaktert sebesülés éri, elkezdi bejelölni az Életerő táblázatba
 
 Hasznos segítség lehet, ha sérüléskor nem beikszeljük az egyes négyzeteket, hanem a sebesülés „sorszámát” (hányadik seb a harc során) és annak jellegét (S,V,Z) írjuk beléjük (Szúró,Vágó,Zúzó), megkönnyítve a dolgunkat: rögtön látjuk, hány és mekkora sebünk van. (A Kábulat ÉP (KT) sérülések mezőbe pedig „`K`” betűt írjunk). Példa: „`Z2`” jelölés 4db rubrikában: ez a karakter második sebe és egy 4 ÉP-s zúzott sebet jelöl.
 
-![](./images/02_eletero_tablazat_harcertek_levonassal_small.png)
+![](images/02_eletero_tablazat_harcertek_levonassal_small.png)
 
 Az első (`S1`) kategóriában lévő karaktert még nem sújtják negatív módosítók, sérülése – számára – olyan könnyű, ami nem akadályozza a harcban.
 
@@ -179,7 +179,7 @@ Sebek jellegének jelölései:
 - **Z: Zúzott seb**
 - **K: Kábulat ÉP**
 
-![](./images/03_eletero_lord_gustav_small.png)
+![](images/03_eletero_lord_gustav_small.png)
 
 Találat esetén a sebesülést először az `S1` rubrikában kezdjük jelölni, oszlopon belül pedig fentről lefelé. Ha Lord Gustav egy `2 ÉP`-s sebet kap, az az `S1` oszlopban kerül bejelölésre fentről lefele. Ilyenkor még nem sújtja levonás.
 
@@ -191,7 +191,7 @@ Gustav hátrálás közben belefejel a kovácsoltvas kapuba. `4KT` a büntetése
 
 Mivel S4-es kategóriába került, jön az [automatikus Fájdalomtűrás próba](#s4-kateg%C3%B3ri%C3%A1s-f%C3%A1jdalomt%C5%B1r%C3%A9s) `12` (Nehéz) ellen Edzettséggel. Ha elrontja, akkor el is ájul.
 
-Ha túléli a kalandot, akkor a „szerzett” `4 Kábulat ÉP` gyógyulása `4 óra` alatt, a sebek okozta ÉP csökkenés pedig a [Gyógyulás](./051_eletero.md#gy%C3%B3gyul%C3%A1s) fejezetben meghatározott ütemben történik.
+Ha túléli a kalandot, akkor a „szerzett” `4 Kábulat ÉP` gyógyulása `4 óra` alatt, a sebek okozta ÉP csökkenés pedig a [Gyógyulás](051_eletero.md#gy%C3%B3gyul%C3%A1s) fejezetben meghatározott ütemben történik.
 
 
 ---

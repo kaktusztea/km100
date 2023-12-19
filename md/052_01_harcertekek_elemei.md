@@ -43,7 +43,7 @@ Ehhez az alapértékhez adódnak majd hozzá az egyéb módosítók.
 
 ### Harci Tulajdonságok
 
-Egyes Tulajdonságok értékei beleszámítanak a harcértékekbe. Hogy melyek azt az adott harcérték leírásánál találhatjuk a [KÉ, TÉ, VÉ, CÉ](./052_02_ke_te_ve_ce.md) fejezetben.
+Egyes Tulajdonságok értékei beleszámítanak a harcértékekbe. Hogy melyek azt az adott harcérték leírásánál találhatjuk a [KÉ, TÉ, VÉ, CÉ](052_02_ke_te_ve_ce.md) fejezetben.
 
 
 ---
@@ -110,7 +110,7 @@ A harci képzettségek aktuális szintjétől függ, hogy az alá tartozó fegyv
 ---
 #### Harcmodorok és Manőverek
 
-A Manőverek alkalmazását, leírását részletesen lásd a „[Manőverek](./055_05_manoverek.md)” fejezetben.
+A Manőverek alkalmazását, leírását részletesen lásd a „[Manőverek](055_05_manoverek.md)” fejezetben.
 
 Harc közben gyakran előfordul, hogy egy karakter speciális húzásokkal próbálkozik, egyedi cseleket vet be, hogy megkönnyítse győzelmét, például kirúgja ellenfele lábát, vagy homokot szór annak szemébe. Sokszor van olyan is, hogy egy karakter különösen jó egy adott csel alkalmazásában és azt előszeretettel veti be. Ezek a manőverek.
 
