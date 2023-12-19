@@ -17,7 +17,7 @@
 ---
 ## Érzék fortélyok
 
-` tag: __erzek__fortely__`
+<!-- tag: erzek__fortely -->
 
 - [Barlangi tájékozódás](fortelyok.erzekek/barlangi_tajekozodas.md) 🔺
 - [Fejlett hallás](fortelyok.erzekek/fejlett_hallas.md)
@@ -29,7 +29,7 @@
 ---
 ## Alvilági és fizikai fortélyok
 
-`tag: __alvilagi__fizikai__fortely__`
+<!-- tag: alvilagi__fizikai__fortely -->
 
 - [Biztos kezű mászó](fortelyok.altalanos/biztos_kezu_maszo.md) 🔺
 - [Futás](fortelyok.altalanos/futas.md)
@@ -46,7 +46,7 @@
 ---
 ### Szociális fortélyok
 
-`tag: __szocialis__fortely__`
+<!-- tag: szocialis__fortely -->
 
 A most következő fortélyok köztes pontot foglalnak el a játékos saját alakítása és a szabályrendszer között. Talán meglepő lehetett, hogy a Szociális képzettségeknél egyedül az Etikett szerepelt, de nem véletlenül! Szeretnénk leszögezni, hogy a meggyőzés, megfélemlítés, befolyásolás, ingerlés, valamint a szónoki helyzetek mind a szóbeli játék részei, nem intézhetőek el sima kockadobással. Mikor egy karakter nem mágikus befolyással kíván élni egy másik karakterre, olyankor a KM – a játékos alakítását elbírálva (beleszámítva a karakter jellemrajzát is) – megállapít egy célszámot, ami ellen a befolyásolni kívánt személynek Emberismeret próbát kell dobnia. (Ettől a KM különösen jó előadás és/vagy tökhülye áldozat esetén, vagy mert úgy tartja kedve – eltekinthet).
 
@@ -68,14 +68,8 @@ Szót érdemelnek még a politikai cselszövések, mint szociális vonatkozású
 ---
 ### Tudományos fortélyok
 
-`tag: __tudomanyos__fortely__`
+<!-- tag: tudomanyos__fortely -->
 
 - [Írástudó](fortelyok.altalanos/irastudo.md)
 - [Különleges faj](fortelyok.altalanos/kulonleges.faj.md)
 
-
-### Művészeti fortélyok
-
-`tag: __muveszeti__fortely__`
-
-⭕Ezek inkább ingyenes Háttér-fortélyok legyenek, különben nem veszi fel senki.⭕
