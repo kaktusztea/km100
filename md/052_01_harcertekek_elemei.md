@@ -43,7 +43,7 @@ Ehhez az alapértékhez adódnak majd hozzá az egyéb módosítók.
 
 ### Harci Tulajdonságok
 
-Egyes Tulajdonságok értékei beleszámítanak a harcértékekbe. Hogy melyek azt az adott harcérték leírásánál találhatjuk a KÉ, TÉ, VÉ, CÉ fejezetben. ⭕(link)⭕
+Egyes Tulajdonságok értékei beleszámítanak a harcértékekbe. Hogy melyek azt az adott harcérték leírásánál találhatjuk a [KÉ, TÉ, VÉ, CÉ](./052_02_ke_te_ve_ce.md) fejezetben.
 
 
 ---
