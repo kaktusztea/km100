@@ -112,7 +112,7 @@ Ha egy karakter készületlen, akkor támadója a **Meglepetés** szituációnak
 
 ---
 
-### Megrendült
+### Kábult / Bódult / Megrendült
 
 ```diff
 -  -10KÉ, -20TÉ, -2 Sebzés
