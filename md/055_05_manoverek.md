@@ -228,7 +228,7 @@ Az alábbiakban bemutatjuk a km100 által ismert manővereket. A KM bármikor r�
 	- Belharc – `1.fok`
 	- Belharci szituáció
 - Speciális: súlyos ellenfélnél opcionális **Erőpróba** (KM dönt)
-- Hatás: Belharc közben fogást találsz ellenfeleden és átdobod a vállad felett. Innentől kezdve a Harc földön fekve (⭕link⭕) módosítói szerint kell számolni harcértékeit.
+- Hatás: Belharc közben fogást találsz ellenfeleden és átdobod a vállad felett. Innentől kezdve a [Harc földön fekve](./055_01_02_harci_helyzetek.md#harc-f%C3%B6ld%C3%B6n-fekve) módosítói szerint kell számolni harcértékeit.
 
 ---
 
@@ -380,7 +380,7 @@ Az alábbiakban Manőverfejlesztő Pontokból (`MFP`) fejleszthető Manőverek l
 ---
 #### 🗡️Belharcból kibontakozás
 
-Lásd: **Kibontakozás/Átsiklás**. ⭕(link)⭕
+Lásd: [Kibontakozás/Átsiklás](./055_05_manoverek.md#%EF%B8%8Fkibontakozásátsiklás) manőver.
 
 ---
 #### 🗡️Gáncsolás / Lábsöprés (lábbal)
