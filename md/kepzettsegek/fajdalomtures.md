@@ -6,7 +6,7 @@
 
 **Képzettség párja**: -
 
-**Kapcsolódó fortélyok**: Harci láz, Kínokozás, Fakír, ⭕Harc mindhalálig⭕
+**Kapcsolódó fortélyok**: [Harci láz](fortelyok.harci/harci_laz.md), [Kínokozás](fortelyok.harci/kinokozas.md), [Fakír](fortelyok.altalanos/fakir.md), ⭕[Harc mindhalálig](https://github.com/kaktusztea/km100/wiki/ISSUE.TODO.fortelyok#harc-mindhal%C3%A1lig)⭕
 
 **Leírás**: Legyőzni a fájdalmat, legyőzni önmagunkat. Ez a képzettség nem véletlenül kapcsolódik szorosan a harchoz, hiszen az a harcos, aki nem képes legyűrni sebei fájdalmát, hamar elhullik. 
 
@@ -18,13 +18,13 @@ Ezt a képzettségedet használod váratlan fájdalmak kiállásakor, illetve k�
 
 > Biztos tudás, követelmények
 
-| Képzettség szint | Biztos tudás  | Speciális <br /> <sub>(tanulható fortély, különleges  képesség)</sub> | Követelmény |
-| :----- | :----- | :-----: | :-----: |
-| Novícius (3)     | ⭕xyz <br /> **Példa**: x |  | - |
-| Kismester (6)    | ⭕xyz <br /> **Példa**: x | ⭕Harc mindhalálig (4.szint)⭕ | Önuralom:&nbsp;0 |
-| Mester (9)       | ⭕xyz <br /> **Példa**: x |  | Önuralom:&nbsp;+1 |
-| Nagymester (12)  | ⭕xyz <br /> **Példa**: x |  | Önuralom:&nbsp;+2 |
-| Élő legenda (15) | ⭕xyz <br /> **Példa**: x |  | Önuralom:&nbsp;+3 |
+| Képzettség szint | Biztos tudás              | Speciális <br /> <sub>(tanulható fortély, különleges  képesség)</sub> |    Követelmény    |
+|:---------------- |:------------------------- |:---------------------------------------------------------------------:|:-----------------:|
+| Novícius (3)     | ⭕xyz <br /> **Példa**: x |                                                                       |         -         |
+| Kismester (6)    | ⭕xyz <br /> **Példa**: x |                                                                       | Önuralom:&nbsp;0  |
+| Mester (9)       | ⭕xyz <br /> **Példa**: x |                                                                       | Önuralom:&nbsp;+1 |
+| Nagymester (12)  | ⭕xyz <br /> **Példa**: x |                                                                       | Önuralom:&nbsp;+2 |
+| Élő legenda (15) | ⭕xyz <br /> **Példa**: x |                                                                       | Önuralom:&nbsp;+3 |
 
 <br />
 
