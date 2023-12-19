@@ -36,7 +36,7 @@
 - [Kaméleon](fortelyok.altalanos/kameleon.md)
 - [Kötéltánc](fortelyok.altalanos/koteltanc.md) 🔺
 - [Pók](fortelyok.altalanos/pok.md) 🔺
-- [Suhanó árnyék](fortelyok.altalanos/suhano.arnyek.md) 🔺
+- [Suhanó árnyék](fortelyok.altalanos/suhano_arnyek.md) 🔺
 - [Szabotőr](fortelyok.altalanos/szabotor.md)
 - [Százarcú](fortelyok.altalanos/szazarcu.md)
 - [Úszás](fortelyok.altalanos/uszas.md)

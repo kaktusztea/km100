@@ -62,15 +62,15 @@ Ez egy speciális képzettség, melyre nem kell KP-t költeni. Minden karakter k
 * A Helyismeret értéke úgy változhat, hogy a KM egy kaland végén a `TP`-osztással együtt tetszés szerint ad pontot a karakterek Helyismeret képzettségére arra a helyre vonatkoztatva, ahol a kaland játszódott. Tehát ha a karakter a délvidékről származik és először volt Ifinben, akkor az eddig `0` értékű „Helyismeret – Ifin” képzettsége a kaland után akár `2`-re is nőhet, ha sok újdonságot tapasztalt a várossal kapcsolatban. Az ilyen értéknövelés nem igényel `KP` költést, "ingyenes".
 * Ha a karakter egy általa ismert várost magában foglaló országgal kapcsolatban dob Helyismeret képzettségpróbát, akkor használhatja a városra vonatkoztatott értékét `-3` büntetéssel.
 
-### 🟡[Történelemismeret](kepzettsegek/x_tortenelemismeret.md) - saját város
+### 🟡[Történelemismeret](kepzettsegek/tortenelemismeret.md) - saját város
 
 Első szinten minden karakter megkapja `3-as szinten` a saját városára vonatkoztatott Történelemismeret képzettséget. Ez az érték természetesen `KP`-ból szabadon tovább növelhető, valamint más városokra is korlátozás nélkül felvehető `KP`-ból.
 
-### 🟡[Vallásismeret](kepzettsegek/x_vallasismeret.md) - saját vallás
+### 🟡[Vallásismeret](kepzettsegek/vallasismeret.md) - saját vallás
 
 Első szinten minden karakter megkapja `3-as szinten` a saját vallására vonatkoztatott Vallásismeret képzettséget. Ez az érték természetesen `KP`-ból szabadon tovább növelhető, valamint más vallásokra is felvehető `KP`-ból, amennyiben ezt az előtörténet indokolja és a KM is engedélyezi.
 
-### 🟡[Nyelvismeret](kepzettsegek/x_nyelvismeret.md) - saját nyelv
+### 🟡[Nyelvismeret](kepzettsegek/nyelvismeret.md) - saját nyelv
 
 Első szinten minden karakter megkapja `6-as szinten` a saját anyanyelvéhez tartozó Nyelvismeret képzettséget.
 
@@ -80,23 +80,23 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 ## Harci képzettségek
 
-🔴[Közelharc](kepzettsegek/x_harcmodorok.md)   <sup><sub>(0%)</sub></sup>
+🔴[Közelharc](kepzettsegek/harcmodorok.md)   <sup><sub>(0%)</sub></sup>
 
-🔴[Kardvívás](kepzettsegek/x_harcmodorok.md)
+🔴[Kardvívás](kepzettsegek/harcmodorok.md)
 
-🔴[Lándzsavívás](kepzettsegek/x_harcmodorok.md)
+🔴[Lándzsavívás](kepzettsegek/harcmodorok.md)
 
-🔴[Pusztítás](kepzettsegek/x_harcmodorok.md)
+🔴[Pusztítás](kepzettsegek/harcmodorok.md)
 
-🔴[Hajítás](kepzettsegek/x_hajitas.md) <sup><sub>(0%)</sub></sup>
+🔴[Hajítás](kepzettsegek/hajitas.md) <sup><sub>(0%)</sub></sup>
 
-🔴[Íjászat](kepzettsegek/x_ijaszat.md) <sup><sub>(0%)</sub></sup>
+🔴[Íjászat](kepzettsegek/ijaszat.md) <sup><sub>(0%)</sub></sup>
 
-🔴[Lövészet](kepzettsegek/x_loveszet.md) <sup><sub>(0%)</sub></sup>
+🔴[Lövészet](kepzettsegek/loveszet.md) <sup><sub>(0%)</sub></sup>
 
-🔴[Ostromlövészet](kepzettsegek/x_ostromloveszet.md) <sup><sub>(0%)</sub></sup>
+🔴[Ostromlövészet](kepzettsegek/ostromloveszet.md) <sup><sub>(0%)</sub></sup>
 
-🔴[Mágikus lövészet](kepzettsegek/x_magikus_loveszet.md) <sup><sub>(40%)</sub></sup>
+🔴[Mágikus lövészet](kepzettsegek/magikus_loveszet.md) <sup><sub>(40%)</sub></sup>
 
 ## Fizikai képzettségek
 
@@ -104,7 +104,7 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🔵[Mászás](kepzettsegek/maszas.md) <sup><sub>(90%)</sub></sup>
 
-🔵[Lovaglás](kepzettsegek/x_lovaglas.md) <sup><sub>(0%)</sub></sup>
+🔵[Lovaglás](kepzettsegek/lovaglas.md) <sup><sub>(0%)</sub></sup>
 
 🔵[Léglovaglás](kepzettsegek/leglovaglas.md) <sup><sub>(80%)</sub></sup>
 
@@ -116,29 +116,29 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🔵[Észlelés](kepzettsegek/eszleles.md) <sup><sub>(95%)</sub></sup>
 
-🔵[Keresés](kepzettsegek/x_kereses.md) <sup><sub>(10%)</sub></sup>
+🔵[Keresés](kepzettsegek/kereses.md) <sup><sub>(10%)</sub></sup>
 
 🔵[Emberismeret](kepzettsegek/emberismeret.md) <sup><sub>(90%)</sub></sup>
 
-🔵[Természetjárás](kepzettsegek/x_termeszetjaras.md) (adott tájtípus) <sup><sub>(20%)</sub></sup>
+🔵[Természetjárás](kepzettsegek/termeszetjaras.md) (adott tájtípus) <sup><sub>(20%)</sub></sup>
 
-🔵[Herbalizmus](kepzettsegek/x_herbalizmus.md) <sup><sub>(0%)</sub></sup>
+🔵[Herbalizmus](kepzettsegek/herbalizmus.md) <sup><sub>(0%)</sub></sup>
 
-🔵[Vadászat](kepzettsegek/x_vadaszat.md) <sup><sub>(10%)</sub></sup>
+🔵[Vadászat](kepzettsegek/vadaszat.md) <sup><sub>(10%)</sub></sup>
 
-🔵[Szexuális kultúra](kepzettsegek/x_szexualis_kultura.md) <sup><sub>(0%)</sub></sup>
+🔵[Szexuális kultúra](kepzettsegek/szexualis_kultura.md) <sup><sub>(0%)</sub></sup>
 
 🔵[Etikett](kepzettsegek/etikett.md) (adott kultúrkör)  <sup><sub>(100%)</sub></sup>
 
-🔵[Hajózás](kepzettsegek/x_hajozas.md) 🟢[Hajózás-spec](kepzettsegek/x_hajozas.md) <sup><sub>(7%)</sub></sup>
+🔵[Hajózás](kepzettsegek/hajozas.md) 🟢[Hajózás-spec](kepzettsegek/hajozas.md) <sup><sub>(7%)</sub></sup>
 
-🔵[Idomítás](kepzettsegek/x_idomitas.md) 🟢[Idomítás-spec](kepzettsegek/x_idomitas.md) <sup><sub>(0%)</sub></sup>
+🔵[Idomítás](kepzettsegek/idomitas.md) 🟢[Idomítás-spec](kepzettsegek/idomitas.md) <sup><sub>(0%)</sub></sup>
 
-🔵[Szakma](kepzettsegek/x_szakma_szakma.hamisitas.md): ács, kőműves, borbély, kádár, varga, szűcs, cserző, (fegyver)kovács, gazdálkodás(birtok), ékszerész, molnár, pék, szabó, kötélgyártó, lakatos, rejtjelfejtő 🟢[Hamisitás - Szakma](kepzettsegek/x_szakma_szakma.hamisitas.md) - Fegyverkovács, Ékszerész, stb. 🔆 0-ról indul, 1x-es (specializációnak számít) és nem lehet nagyobb, mint a fölé tartozó képzettség!) <sup><sub>(20%)</sub></sup>
+🔵[Szakma](kepzettsegek/szakma_szakma.hamisitas.md): ács, kőműves, borbély, kádár, varga, szűcs, cserző, (fegyver)kovács, gazdálkodás(birtok), ékszerész, molnár, pék, szabó, kötélgyártó, lakatos, rejtjelfejtő 🟢[Hamisitás - Szakma](kepzettsegek/szakma_szakma.hamisitas.md) - Fegyverkovács, Ékszerész, stb. 🔆 0-ról indul, 1x-es (specializációnak számít) és nem lehet nagyobb, mint a fölé tartozó képzettség!) <sup><sub>(20%)</sub></sup>
 
-🔴[Gyógyítás](kepzettsegek/x_gyogyitas_sebgyogyitas_orvoslas.md) 🔵[Sebgyógyítás](kepzettsegek/x_gyogyitas_sebgyogyitas_orvoslas.md) 🔵[Orvoslás](kepzettsegek/x_gyogyitas_sebgyogyitas_orvoslas.md) <sup><sub>(40%)</sub></sup>
+🔴[Gyógyítás](gyogyitas_sebgyogyitas_orvoslas.md) 🔵[Sebgyógyítás](gyogyitas_sebgyogyitas_orvoslas.md) 🔵[Orvoslás](gyogyitas_sebgyogyitas_orvoslas.md) <sup><sub>(40%)</sub></sup>
 
-🔴[Értékbecslés](kepzettsegek/x_ertekbecsles.md) 🔵[Értékbecslés - adott tárgycsoport](kepzettsegek/x_ertekbecsles.md) (fegyverek, ékszerek, festmények, szobrok, stb) <sup><sub>(0%)</sub></sup>
+🔴[Értékbecslés](kepzettsegek/ertekbecsles.md) 🔵[Értékbecslés - adott tárgycsoport](kepzettsegek/ertekbecsles.md) (fegyverek, ékszerek, festmények, szobrok, stb) <sup><sub>(0%)</sub></sup>
 
 ## Alvilági képzettségek
 
@@ -148,17 +148,17 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🔵[Álcázás/Álruha](kepzettsegek/alcazas_alruha.md) <sup><sub>(80%)</sub></sup>
 
-🔵[Tolvajlás](kepzettsegek/x_tolvajlas.md) <sup><sub>(10%)</sub></sup>
+🔵[Tolvajlás](kepzettsegek/tolvajlas.md) <sup><sub>(10%)</sub></sup>
 
-🔵[Zsonglőrködés](kepzettsegek/x_zsonglorkodes.md) <sup><sub>(0%)</sub></sup>
+🔵[Zsonglőrködés](kepzettsegek/zsonglorkodes.md) <sup><sub>(0%)</sub></sup>
 
-🔵[Kínzás](kepzettsegek/x_kinzas.md) <sup><sub>(0%)</sub></sup>
+🔵[Kínzás](kepzettsegek/kinzas.md) <sup><sub>(0%)</sub></sup>
 
-🔵[Szerencsejáték](kepzettsegek/x_szerencsejatek.md) 🟢[Kártyázás](kepzettsegek/x_szerencsejatek.md) 🟢[Kockázás](kepzettsegek/x_szerencsejatek.md) <sup><sub>(0%)</sub></sup>
+🔵[Szerencsejáték](kepzettsegek/szerencsejatek.md) 🟢[Kártyázás](kepzettsegek/szerencsejatek.md) 🟢[Kockázás](kepzettsegek/szerencsejatek.md) <sup><sub>(0%)</sub></sup>
 
-🔵[Zárnyitás](kepzettsegek/x_zarnyitas.md) 🟢[Zárnyitás - spec](kepzettsegek/x_zarnyitas.md) <sup><sub>(0%)</sub></sup>  ⭕LEGYEN??⭕
+🔵[Zárnyitás](kepzettsegek/zarnyitas.md) 🟢[Zárnyitás - spec](kepzettsegek/zarnyitas.md) <sup><sub>(0%)</sub></sup>  ⭕LEGYEN??⭕
 
-🔵[Csapdaállítás](kepzettsegek/x_csapdaallitas.md) 🟢[Csapdaállítás - spec](kepzettsegek/x_csapdaallitas.md) <sup><sub>(0%)</sub></sup>  ⭕LEGYEN??⭕
+🔵[Csapdaállítás](kepzettsegek/csapdaallitas.md) 🟢[Csapdaállítás - spec](kepzettsegek/csapdaallitas.md) <sup><sub>(0%)</sub></sup>  ⭕LEGYEN??⭕
 
 ## Művészeti képzettségek
 
@@ -170,57 +170,57 @@ A fentieket a KM összegzi és osztályzatot ad rá: `[-5; +5]` intervallumban, 
 Festészet + (Pszeudó tul.) + k10   vs   Célszám
 ```
 
-🟢[Művészetismeret](kepzettsegek/x_muveszetismeret.md) <sup><sub>(10%)</sub></sup> (Festészet+Kalligráfia, Szobrászat, Irodalom+színjátszás, Zene)
+🟢[Művészetismeret](kepzettsegek/muveszetismeret.md) <sup><sub>(10%)</sub></sup> (Festészet+Kalligráfia, Szobrászat, Irodalom+színjátszás, Zene)
 
-🔵[Ének](kepzettsegek/x_enek.md) <sup><sub>(0%)</sub></sup>
+🔵[Ének](kepzettsegek/enek.md) <sup><sub>(0%)</sub></sup>
 
-🔵[Festészet](kepzettsegek/x_festeszet.md) 🟢[Hamisítás-festészet](kepzettsegek/x_festeszet.md) <sup><sub>(5%)</sub></sup> (0-ról indul és nem lehet nagyobb, mint a fölé tartozó képzettség!)
+🔵[Festészet](kepzettsegek/festeszet.md) 🟢[Hamisítás-festészet](kepzettsegek/festeszet.md) <sup><sub>(5%)</sub></sup> (0-ról indul és nem lehet nagyobb, mint a fölé tartozó képzettség!)
 
-🔵[Szobrászat](kepzettsegek/x_szobraszat.md) 🟢[Hamisítás-szobrászat](kepzettsegek/x_szobraszat.md) <sup><sub>(5%)</sub></sup> (0-ról indul és nem lehet nagyobb, mint a fölé tartozó képzettség!)
+🔵[Szobrászat](kepzettsegek/szobraszat.md) 🟢[Hamisítás-szobrászat](kepzettsegek/szobraszat.md) <sup><sub>(5%)</sub></sup> (0-ról indul és nem lehet nagyobb, mint a fölé tartozó képzettség!)
 
-🔵[Kalligráfia](kepzettsegek/x_kalligrafia.md) 🟢[Hamisítás-kalligráfia](kepzettsegek/x_kalligrafia.md) <sup><sub>(5%)</sub></sup> (0-ról indul és nem lehet nagyobb, mint a fölé tartozó képzettség!)
+🔵[Kalligráfia](kepzettsegek/kalligrafia.md) 🟢[Hamisítás-kalligráfia](kepzettsegek/kalligrafia.md) <sup><sub>(5%)</sub></sup> (0-ról indul és nem lehet nagyobb, mint a fölé tartozó képzettség!)
 
-🔵[Irodalom](kepzettsegek/x_irodalom.md) 🟢[Irodalom ismeret](kepzettsegek/x_irodalom.md) <sup><sub>(40%)</sub></sup> (adott régió)
+🔵[Irodalom](kepzettsegek/irodalom.md) 🟢[Irodalom ismeret](kepzettsegek/irodalom.md) <sup><sub>(40%)</sub></sup> (adott régió)
 
-🔵[Tánc](kepzettsegek/x_tanc.md) 🟢[Tánc](kepzettsegek/x_tanc.md) <sup><sub>(20%)</sub></sup> (speciális belső stílus)
+🔵[Tánc](kepzettsegek/tanc.md) 🟢[Tánc](kepzettsegek/tanc.md) <sup><sub>(20%)</sub></sup> (speciális belső stílus)
 
-🔴[Zeneszerző](kepzettsegek/x_zene.md) 🔵[Zene](kepzettsegek/x_zene.md) <sup><sub>(10%)</sub></sup> (hangszercsoport: fúvós, pengetős, ütős, stb) 🟢[Zene](kepzettsegek/x_zene.md) (konkrét hangszer)
+🔴[Zeneszerző](kepzettsegek/zene.md) 🔵[Zene](kepzettsegek/zene.md) <sup><sub>(10%)</sub></sup> (hangszercsoport: fúvós, pengetős, ütős, stb) 🟢[Zene](kepzettsegek/zene.md) (konkrét hangszer)
 
 ## Tudományos képzettségek
 
-🟢[Nyelvismeret](kepzettsegek/x_nyelvismeret.md) <sup><sub>(40%)</sub></sup> Beszélt nyelvek, Harci/Klán nyelvek, Speciális (Pl. Kendőnyelv). 🔆3-as szinttől, (ha van már Írástudó képessége), akkor tud írni/olvasni is az adott nyelven.)
+🟢[Nyelvismeret](kepzettsegek/nyelvismeret.md) <sup><sub>(40%)</sub></sup> Beszélt nyelvek, Harci/Klán nyelvek, Speciális (Pl. Kendőnyelv). 🔆3-as szinttől, (ha van már Írástudó képessége), akkor tud írni/olvasni is az adott nyelven.)
 
-🔵[Építészet](kepzettsegek/x_epiteszet.md) <sup><sub>(0%)</sub></sup>
+🔵[Építészet](kepzettsegek/epiteszet.md) <sup><sub>(0%)</sub></sup>
 
-🔵[Térképészet](kepzettsegek/x_terkepeszet.md) <sup><sub>(0%)</sub></sup>
+🔵[Térképészet](kepzettsegek/terkepeszet.md) <sup><sub>(0%)</sub></sup>
 
 🔵[Ősi kultúrák ismerete](kepzettsegek/osi_kulturak_ismerete.md) (Külön ősi kultúránként) (Történem és Vallásismeret is egyben) <sup><sub>(25%)</sub></sup>
 
-🔵[Ősi nyelv ismerete](kepzettsegek/x_osi_nyelv_ismerete.md) <sup><sub>(0%)</sub></sup> (Külön ősi nyelvenként)
+🔵[Ősi nyelv ismerete](kepzettsegek/osi_nyelv_ismerete.md) <sup><sub>(0%)</sub></sup> (Külön ősi nyelvenként)
 
-🔵[Jogismeret](kepzettsegek/x_jogismeret.md) <sup><sub>(0%)</sub></sup> (adott kultúrkör) (Pyarroni államszövetség, Toron, stb)
+🔵[Jogismeret](kepzettsegek/jogismeret.md) <sup><sub>(0%)</sub></sup> (adott kultúrkör) (Pyarroni államszövetség, Toron, stb)
 
-🔵[Alkímia](kepzettsegek/x_alkimia.md) 🟢[Alkímia-spec](kepzettsegek/x_alkimia.md) <sup><sub>(0%)</sub></sup> ⭕TODO⭕
+🔵[Alkímia](kepzettsegek/alkimia.md) 🟢[Alkímia-spec](kepzettsegek/alkimia.md) <sup><sub>(0%)</sub></sup> ⭕TODO⭕
 
-🔵[Mechanika](kepzettsegek/x_mechanika.md) 🟢[Mechanika-spec](kepzettsegek/x_mechanika.md) <sup><sub>(5%)</sub></sup> ⭕TODO⭕
+🔵[Mechanika](kepzettsegek/mechanika.md) 🟢[Mechanika-spec](kepzettsegek/mechanika.md) <sup><sub>(5%)</sub></sup> ⭕TODO⭕
 
-🔴[Élettan](kepzettsegek/x_elettan.md) <sup><sub>(5%)</sub></sup>
+🔴[Élettan](kepzettsegek/elettan.md) <sup><sub>(5%)</sub></sup>
 
-🔴[Történelemismeret](kepzettsegek/x_tortenelemismeret.md) (Ynev) 🔵[Történelemismeret - adott régió](kepzettsegek/x_tortenelemismeret.md) (pl. Toroni államszövetség, Pyarroni államszövetség) 🟢[Történelemismeret - adott város](kepzettsegek/x_tortenelemismeret.md) (Erion, Ifin, stb.) <sup><sub>(30%)</sub></sup>
+🔴[Történelemismeret](kepzettsegek/tortenelemismeret.md) (Ynev) 🔵[Történelemismeret - adott régió](kepzettsegek/tortenelemismeret.md) (pl. Toroni államszövetség, Pyarroni államszövetség) 🟢[Történelemismeret - adott város](kepzettsegek/tortenelemismeret.md) (Erion, Ifin, stb.) <sup><sub>(30%)</sub></sup>
 
-🔴[Hadászat](kepzettsegek/x_hadaszat.md) 🔵[Taktika](kepzettsegek/x_hadaszat.md) (vezetői tudás) (szakaszvezető) 🟢[Nehézlovas taktika](kepzettsegek/x_hadaszat.md), [Falanx taktika](kepzettsegek/x_hadaszat.md), [Íjász taktika](kepzettsegek/x_hadaszat.md), [Fejvadászok vezetése](kepzettsegek/x_hadaszat.md), [Testőrség vezetése](kepzettsegek/x_hadaszat.md), [Útonállás/Rajtaütés](kepzettsegek/x_hadaszat.md) (passzív tudásként is) 🔵[Stratégia](kepzettsegek/x_hadaszat.md) (elmélet) 🟢[Csatatervezés](kepzettsegek/x_hadaszat.md), [Hadtáp](kepzettsegek/x_hadaszat.md) <sup><sub>(0%)</sub></sup>
+🔴[Hadászat](kepzettsegek/hadaszat.md) 🔵[Taktika](kepzettsegek/hadaszat.md) (vezetői tudás) (szakaszvezető) 🟢[Nehézlovas taktika](kepzettsegek/hadaszat.md), [Falanx taktika](kepzettsegek/hadaszat.md), [Íjász taktika](kepzettsegek/hadaszat.md), [Fejvadászok vezetése](kepzettsegek/hadaszat.md), [Testőrség vezetése](kepzettsegek/hadaszat.md), [Útonállás/Rajtaütés](kepzettsegek/hadaszat.md) (passzív tudásként is) 🔵[Stratégia](kepzettsegek/hadaszat.md) (elmélet) 🟢[Csatatervezés](kepzettsegek/hadaszat.md), [Hadtáp](kepzettsegek/hadaszat.md) <sup><sub>(0%)</sub></sup>
 
-🔴[Vallásismeret](kepzettsegek/x_vallasismeret.md) (általános) 🔵[Vallásismeret](kepzettsegek/x_vallasismeret.md) <sup><sub>(10%)</sub></sup> (adott hitvilág) 
+🔴[Vallásismeret](kepzettsegek/vallasismeret.md) (általános) 🔵[Vallásismeret](kepzettsegek/vallasismeret.md) <sup><sub>(10%)</sub></sup> (adott hitvilág) 
 
 🔴[Méregkeverés](kepzettsegek/meregkeveres.md) 🔵[Méregkeverés (adott kategória: ételmérgek, légi- és kontaktmérgek, fegyvermérgek)](kepzettsegek/meregkeveres.md) <sup><sub>(90%)</sub></sup>
 
 ## Misztikus képzettségek
 
-🔵[Összpontosítás](kepzettsegek/x_osszpontositas.md) <sup><sub>(10%)</sub></sup>
+🔵[Összpontosítás](kepzettsegek/osszpontositas.md) <sup><sub>(10%)</sub></sup>
 
 🔵Pszí iskolák
 
-🔴Asztrológia*
+🔴[Asztrológia](kepzettsegek/osszpontositas.md)*
 
 🔴[Demonológia*](kepzettsegek/demonologia.md) <sup><sub>(80%)</sub></sup>
 
