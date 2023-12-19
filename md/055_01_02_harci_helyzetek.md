@@ -186,7 +186,7 @@ Ebben az állapotban használhatja a **Kezdeményező Taktikát**, de semmilyen 
 
 ### Fegyverrántás
 
-Kapcsolódik: **Fegyverrántás harci fortély** ⭕link⭕
+Kapcsolódik: [Fegyverrántás](fortelyok.harci/fegyverrantas.md) harci fortély
 
 Fegyverrántás szituáción azt értjük, amikor valaki harci kontaktus közben próbálja előkapni fegyverét, hogy ne pusztakezes értékeivel legyen kénytelen küzdeni. Ez igen nehéz feladat, hiszen ellenfele által folyamatosan fenyegetve van.
 
