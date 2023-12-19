@@ -60,7 +60,7 @@ A `KT` kiválóan alkalmas kocsmai verekedések, kisebb – nem „vérre menő�
 ---
 #### Fejbe vágás
 
-Gyakori eset, hogy valakinek ráhúznak egy nagyot a fejére. Például sisakos ellenfelet fejen találnak egy buzogánnyal. A sisak ugyan megvédi, de a feje mégis igen nagy traumát szenved el, pár körig meglehetősen kellemetlenül érzi magát. Ez természetesen helyzet specifikus, a – KM dönt –, de irányadónak elmondhatjuk, hogy ilyenkor például plusz 2-3 KT büntetést kap az áldozat, amelyek azonban pár kör alatt elmúlnak. Ne keverjük a „Fejbe vágást” a 🗡️"**Leütés hátulról**” harci taktikával! ⭕link⭕
+Gyakori eset, hogy valakinek ráhúznak egy nagyot a fejére. Például sisakos ellenfelet fejen találnak egy buzogánnyal. A sisak ugyan megvédi, de a feje mégis igen nagy traumát szenved el, pár körig meglehetősen kellemetlenül érzi magát. Ez természetesen helyzet specifikus, a – KM dönt –, de irányadónak elmondhatjuk, hogy ilyenkor például plusz 2-3 KT büntetést kap az áldozat, amelyek azonban pár kör alatt elmúlnak. Ne keverjük a [Fejbe vágást](#fejbe-v%C3%A1g%C3%A1s) a 🗡️[Leütés hátulról](055_02_harci_taktikak.md#le%C3%BCt%C3%A9s-h%C3%A1tulr%C3%B3l-fejretark%C3%B3ra) harci taktikával!
 
 ---
 #### ⚡ Példa Kábulat ÉP alkalmazására
@@ -158,8 +158,10 @@ Ha megsérül a karakter, képzettségpróbáira levonások járnak. Hogy mennyi
 ---
 #### Vértek, SFÉ
 
+→ [STUDY: Vértek, Páncélok](https://github.com/kaktusztea/km100/wiki/STUDY.vertek.pancelok)
+
 ```diff
-- TODO. Lásd: Vértek, páncélok – TODO_HARC_#29.**
+- TODO. Lásd: Vértek, páncélok – TODO_HARC_#29.
 Itt inkább az általános szabályokat írjuk be, a konkrét vérteket a doksi végén ismertessük táblázatos formában.
 ```
 
@@ -190,7 +192,7 @@ Gustav hátrálás közben belefejel a kovácsoltvas kapuba. `4KT` a büntetése
 
 Mivel S4-es kategóriába került, jön az [automatikus Fájdalomtűrás próba](#s4-kateg%C3%B3ri%C3%A1s-f%C3%A1jdalomt%C5%B1r%C3%A9s) `12` (Nehéz) ellen Edzettséggel. Ha elrontja, akkor el is ájul.
 
-Ha túléli a kalandot, akkor a „szerzett” `4 Kábulat ÉP` gyógyulása `4 óra` alatt, a sebek okozta ÉP csökkenés pedig a ⭕(link) „Sebek gyógyulása” fejezetben meghatározott ütemben történik.
+Ha túléli a kalandot, akkor a „szerzett” `4 Kábulat ÉP` gyógyulása `4 óra` alatt, a sebek okozta ÉP csökkenés pedig a [Gyógyulás](./051_eletero.md#gy%C3%B3gyul%C3%A1s) fejezetben meghatározott ütemben történik.
 
 
 ---
