@@ -15,7 +15,7 @@ A karakter Kezdeményező Értékét a következőképpen kell kiszámítani:
 |Konstans|10 (minden karakternek)|
 |2 x Gyorsaság|A karakter Gyorsaság Tulajdonságának kétszerese|
 |Szint|A karakter szintje|
-|Harcmodor KÉ|Harcmodor képzettség szintje által kapott bónusz (lásd a harcmodor képzettségeket!)|
+|Harcmodor KÉ|Harcmodor képzettség szintje által kapott bónusz (lásd a [Harcmodor képzettségeket](052_01_harcertekek_elemei.md#harcmodor-k%C3%A9pzetts%C3%A9gek)!)|
 |Mesterfegyver fortély|+2 fokonként|
 |Speciális|- Gyors Kezdeményezés fortély: `+4 KÉ`<br>  - Szituációkból adódó módosítók<br>  - Mágia hatására kapott módosító|
 
@@ -32,7 +32,7 @@ A Védő Érték szimbolizálja a karakter közelharcban nyújtott azon képess�
 |Konstans|120 (minden karakternek)|
 |2 x Ügyesség|A karakter Ügyesség Tulajdonságának kétszerese|
 |2 x Gyorsaság|A karakter Gyorsaság Tulajdonságának kétszerese|
-|Harcmodor VÉ|Harcmodor képzettség szintje által kapott bónusz (lásd a harcmodor képzettségeket!)|
+|Harcmodor VÉ|Harcmodor képzettség szintje által kapott bónusz (lásd a [Harcmodor képzettségeket](052_01_harcertekek_elemei.md#harcmodor-k%C3%A9pzetts%C3%A9gek)!)|
 |Fegyver VÉ|A forgatott fegyver Védő Értéke|
 |Mesterfegyver fortély|+3 fokonként|
 |HM|A VÉ-re költött (KP-ból felvett) Harcérték módosító|
@@ -56,7 +56,7 @@ Az alábbi táblázat megadja, a Támadó Érték kiszámolásának módját.
 |2 x Erő|A karakter Erő Tulajdonságának kétszerese|
 |2 x Ügyesség|A karakter Ügyesség Tulajdonságának kétszerese|
 |2 x Gyorsaság|A karakter Gyorsaság Tulajdonságának kétszerese|
-|Harcmodor TÉ|Harcmodor képzettség szintje által kapott bónusz (lásd a harcmodor képzettségeket!)|
+|Harcmodor TÉ|Harcmodor képzettség szintje által kapott bónusz (lásd a [Harcmodor képzettségeket](052_01_harcertekek_elemei.md#harcmodor-k%C3%A9pzetts%C3%A9gek)!)|
 |Fegyver TÉ|A forgatott fegyver Támadó Értéke|
 |Mesterfegyver fortély|+3 fokonként|
 |HM|A VÉ-re költött (KP-ból felvett) Harcérték módosító|
@@ -70,7 +70,7 @@ Harcban, támadáskor a játékos dob `k100`-al, majd a kapott értéket hozzáa
 Támadó dobás = Támadó Érték + k100
 ```
 
-Bővebben lásd a „Harc menete” fejezetben!
+Bővebben lásd a [Harc menete - Támadás, Védő Érték csökkentése](054_01_02_harc_menete_reszletes.md#t%C3%A1mad%C3%A1s-v%C3%A9d%C5%91-%C3%A9rt%C3%A9k-cs%C3%B6kkent%C3%A9se) fejezetben!
 
 <br />
 
@@ -83,11 +83,11 @@ Bővebben lásd a „Harc menete” fejezetben!
 |K100|Dobás K100-al – támadó dobás esetén.|
 |-30|Konstans. Ez az érték gyakorlatilag a célpont Védő Érték alapját adná, de mivel itt csak 1x (karakteralkotáskor) kell vele számolni, ezért a számolás meggyorsítása miatt átkerült ide.|
 |2 x Önuralom|Az Önuralom kétszerese|
-|Harcmodor CÉ|Harcmodor képzettség szintje által kapott bónusz (lásd a harcmodor képzettségeket!)|
-|Fegyver CÉ<br><br>(kategória függő)|Különbséget teszünk a fegyverkategóriák közt attól függően, hogy alapesetben milyen könnyű velük célba találni. Az alábbi értékek csak irányszámok, a konkrét fegyver értékek ettől eltérhetnek.<br><br>- Hajító szálfegyverek: +0 CÉ<br>    <br>- Apró hajítófegyverek: +4 CÉ<br>    <br>- Íjak: +10 CÉ<br>    <br>- Nyílpuskák: +16 CÉ  <br>    (A fentiek irányadó számok, egyes speciális fegyverek ezen értéke eltérhet ettől. Lásd a Távolsági fegyverek harcértékei fejezetet!)|
+|Harcmodor CÉ|Harcmodor képzettség szintje által kapott bónusz (lásd a [Harcmodor képzettségeket](052_01_harcertekek_elemei.md#harcmodor-k%C3%A9pzetts%C3%A9gek)!)|
+|Fegyver CÉ<br><br>(kategória függő)|Különbséget teszünk a fegyverkategóriák közt attól függően, hogy alapesetben milyen könnyű velük célba találni. Az alábbi értékek csak irányszámok, a konkrét fegyver értékek ettől eltérhetnek.<br><br>- Hajító szálfegyverek: +0 CÉ<br>    <br>- Apró hajítófegyverek: +4 CÉ<br>    <br>- Íjak: +10 CÉ<br>    <br>- Nyílpuskák: +16 CÉ  <br>    (A fentiek irányadó számok, egyes speciális fegyverek ezen értéke eltérhet ettől. Lásd a [Távolsági fegyverek harcértékei](057_fegyverek.md#haj%C3%ADt%C3%B3fegyverek-harc%C3%A9rt%C3%A9kei) fejezetet!)|
 |Mesterfegyver fortély|+3 fokonként|
 |CM|Célzóérték Módosító. Szintnként legfeljebb 4 vehető fel. 1 CM = 5KP|
 |Célzás körönként|+10CÉ / kör amit célzással tölt el a támadó. Maximum 2 körig.  <br>+15CÉ / kör: Képzett Célzás fortély megléte esetén.<br><br>(Figyelem: íjnál csak 1 körig, alkalmazható mert nehéz kitartani!! 1 kör után körönként ugyanennyi levonás!)|
 |Egyéb|- Képzetlenségből adódó levonás: -40 CÉ<br>    <br>- Hirtelen lövés: -30 CÉ  <br>    (Pl. a célpont hirtelen átfut az úton be egy másik takarás védelmébe és ez a lövészt felkészületlenül éri)<br>    <br>- Az egyes Fortélyokból adódó bónuszok.<br>    <br>- Nem “belőtt” lőfegyver: -30 CÉ (íjak) / -15 CÉ (nyílpuskák)  <br>    Ha a támadó most lő először a fegyverrel, akkor íjak esetében -30CÉ, nyílpuskák használatánál pedig -15 CÉ módosító sújtja. Ha legalább fél órát töltött el a “belövéssel”, ez a módosító megszűnik. Egyébiránt a használat során folyamatosan tűnik el a hátrány (negyed óra után már csak -15 CÉ / -8 CÉ és így tovább).<br>    <br>- A fegyverek minősége befolyásolhatja azok Célzó értéket.|
 
-**Bővebben lásd a Távolsági Harc fejezetet!**
+→ Bővebben lásd a [Távolsági Harc](060_tavolsagi_harc.md) fejezetet!

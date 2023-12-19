@@ -7,7 +7,7 @@ A Karakteralkotás fejezetben már ismertetett Életerő pontokat használjuk a 
 ÉP = 12 + (Edzettség x 2)
 ```
 
-Ha sebet kapunk, ezekből a pontokból kell levonnunk az okozott sérülést (lásd Sebesülés fejezet).
+Ha sebet kapunk, ezekből a pontokból kell levonnunk az okozott sérülést (lásd [Sebesülés fejezet](#sebes%C3%BCl%C3%A9s)).
 
 **Életerő Pontok elosztása**
 
@@ -83,7 +83,7 @@ Ha további seb nem éri, akkor – a magához térés után – a `9 KT` 9 óra
 
 Ha a karakter találatot kap, harcértékeit - fizikumától függően - levonások sújtják. Persze ami például egy nyeszlett alakot az összeesés szélére sodor, az nem okoz akkora hátrányt egy edzett korgnak.
 
-Ezért kerültek bevezetésre a sebesülés kategóriák. A karakter Életerejét 4 kategória szimbolizálja, melyek között karakteralkotáskor kell elosztani az **Életerő Pontokat.** (Lásd Karakteralkotás – Életerő Pontok)
+Ezért kerültek bevezetésre a sebesülés kategóriák. A karakter Életerejét 4 kategória szimbolizálja, melyek között karakteralkotáskor kell elosztani az **Életerő Pontokat.** (Lásd [Karakteralkotás – Életerő Pontok](010_karakteralkotas.md#%C3%A9leter%C5%91-pontok))
 
 Mikor a karaktert sebesülés éri, elkezdi bejelölni az Életerő táblázatban a legmagasabb (`S1`) kategóriában lévő mezőket fentről lefelé. Mikor az első oszlop „betelt”, folytatja az `S2`, majd az `S3` kategóriában levőkkel és így tovább.
 
@@ -95,7 +95,7 @@ Az első (`S1`) kategóriában lévő karaktert még nem sújtják negatív mód
 
 Az `S2`, `S3` és `S4` kategóriákba kerülve viszont már rendre `-10`; `-20` és `-30` `TÉ` a harcérték büntetés. Ezeket az értékeket viszont mérsékli az `Önuralom` tulajdonság és a Fájdalomtűrés képzettség összege. Így tehát a levonások értéke karakterenként változik.
 
-`0 ÉP`-re érve a karakter elájul, és haldokolni kezd (Lásd **Haldoklás**). Ha további sebet kap, meghal.
+`0 ÉP`-re érve a karakter elájul, és haldokolni kezd (Lásd [Haldoklás](#haldokl%C3%A1s)). Ha további sebet kap, meghal.
 
 
 ---
@@ -161,8 +161,7 @@ Ha megsérül a karakter, képzettségpróbáira levonások járnak. Hogy mennyi
 → [STUDY: Vértek, Páncélok](https://github.com/kaktusztea/km100/wiki/STUDY.vertek.pancelok)
 
 ```diff
-- TODO. Lásd: Vértek, páncélok – TODO_HARC_#29.
-Itt inkább az általános szabályokat írjuk be, a konkrét vérteket a doksi végén ismertessük táblázatos formában.
+- Itt inkább az általános szabályokat írjuk be, a konkrét vérteket a doksi végén ismertessük táblázatos formában.
 ```
 
 

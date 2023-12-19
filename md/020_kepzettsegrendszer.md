@@ -3,20 +3,20 @@
 ▲ [Nyitóoldal](start.md)\
 → [TODO/ISSUE képzettségrendszer](https://github.com/kaktusztea/km100/wiki/ISSUE.TODO.kepzettsegek)
 
-- [Képzettségrendszer](#képzettségrendszer)
-  - [Képzettségek kategóriái](#képzettségek-kategóriái)
-  - [Képzettségek növelése](#képzettségek-növelése)
-  - [Képzettségek pontigényei](#képzettségek-pontigényei)
-    - [Képzettségek követelményei](#képzettségek-követelményei)
-    - [Karakter Pontok elosztása](#karakter-pontok-elosztása)
-  - [Képzettségpróba](#képzettségpróba)
-    - [Vállalás](#vállalás)
-    - [Próba biztos tudásból](#próba-biztos-tudásból)
-    - [Próba képzetlenül](#próba-képzetlenül)
-    - [Összetett képzettségpróba, Másodlagos próbadobások](#összetett-képzettségpróba-másodlagos-próbadobások)
-    - [Összhangok](#összhangok)
-    - [Képzettség párok](#képzettség-párok)
-    - [Sérülés hatása képzettségpróbára](#sérülés-hatása-képzettségpróbára)
+
+- [Képzettségek kategóriái](#képzettségek-kategóriái)
+- [Képzettségek növelése](#képzettségek-növelése)
+- [Képzettségek pontigényei](#képzettségek-pontigényei)
+  - [Képzettségek követelményei](#képzettségek-követelményei)
+  - [Karakter Pontok elosztása](#karakter-pontok-elosztása)
+- [Képzettségpróba](#képzettségpróba)
+  - [Vállalás](#vállalás)
+  - [Próba biztos tudásból](#próba-biztos-tudásból)
+  - [Próba képzetlenül](#próba-képzetlenül)
+  - [Összetett képzettségpróba, Másodlagos próbadobások](#összetett-képzettségpróba-másodlagos-próbadobások)
+  - [Összhangok](#összhangok)
+  - [Képzettség párok](#képzettség-párok)
+  - [Sérülés hatása képzettségpróbára](#sérülés-hatása-képzettségpróbára)
 
 Mikor a játékos megalkotja karakterét, amellyel Ynev világán kalandozni fog, meghatározza azokat az ismereteket, jártasságokat, amelyeket az - addigi élete során - elsajátított. A km100 rendszere a fentieket a képzettségek és fortélyok tanulásával szimulálja. Ebben a fejezetben a Képzettségekkel fogunk foglalkozni. Minden Képzettséget egy számértékkel jellemzünk, amelyből kiderül, tulajdonosa mennyire jártas az adott témában.
 
@@ -71,7 +71,6 @@ A „`Könnyű`" képzettségekben hamar el lehet érni a maximumot (ilyen pl az
 Az `Átfogó` csoport alá a nagyobb, átfogóbb képzettségek tartoznak, mint pl. a Történelemismeret, Sebgyógyítás, stb. Olyanok, amelyekben egy életen keresztül is lehet fejlődni.
 
 ---
-
 ## Képzettségek növelése
 
 A karakterek fejlődése természetesen nem lehet ugrásszerű, meg kell őriznünk a folyamatosság illúzióját szintlépéskor, el kell kerülnünk, hogy egy 3. szintű karakter 12-13-as értékekkel rohangáljon. Ugyanakkor fontos színesítő, ha egy 1. szintű karakter egyes területeken kitűnik társai közül. Általános szabályok:
@@ -83,7 +82,6 @@ A karakterek fejlődése természetesen nem lehet ugrásszerű, meg kell őrizn�
 - A képzettségek egyes kiemelt szintjeinek is lehetnek követelményei!  Magas szinten főleg.
 
 ---
-
 ## Képzettségek pontigényei
 
 A fejlődés Karakter Pontba (`KP`) kerül. A KP szimulálja az egyes képzettségek elsajátítására fordított tanulás „egységnyi mennyiséget". Hogy a korábban ismertetett három kategóriának (Átfogó, Átlagos, Spec/Könnyű) adott szinten mekkora a KP igénye, azt az alábbi táblázat adja meg:
@@ -111,7 +109,6 @@ A `KP igény` fokozatosan nő, tehát `1`-ről `2`-re sokkal könnyebb fejlődni
 A másik felső korlát lehet az adott kultúra fejletlensége, vagy korlátai. Például egy primitív nomád törzs kuruzslója nem fejlődhet Sebgyógyításban `6`-os érték fölé, mert nincs olyan forrás, ahonnan a hatékonyabb módszereket megtanulhatná. A KM mindig vegye figyelembe az adott körülményeket és fejlődési lehetőségeket.
 
 ---
-
 ### Képzettségek követelményei
 
 Nem csak a Fortélyoknak, a Képzettségek egyes szintjeinek is lehetnek követelményei. Ez persze nem minden Képzettségre igaz, de van, ahol szükséges.
@@ -119,14 +116,12 @@ Nem csak a Fortélyoknak, a Képzettségek egyes szintjeinek is lehetnek követe
 Ha egy képzettség egy bizonyos fokának eléréséhez szükség van valamilyen teljesítendő követelményre, akkor azt az adott képzettség leírásánál részletezzük.
 
 ---
-
 ### Karakter Pontok elosztása
 
 A karakteralkotás fejezetben ismerettük a Karakter Pontok értékének
 számítását. A képzettségek „vásárlása" is ezekből történik.
 
 ---
-
 ## Képzettségpróba
 
 Vesszük az adott szituációban épp szükséges Tulajdonság értékét (KM mondja meg, hogy melyiket), hozzáadjuk a Képzettség értékét, majd dobunk `k10`-es kockával és a fentieket összeadjuk. Ha a kapott szám nagyobb, vagy egyenlő a Célszámmal, akkor a próba sikerült.
@@ -147,7 +142,6 @@ Tulajdonság + Képzettség + k10   vs.  Célszám
 Ha a KM úgy látja, hogy az adott próbánál több Tulajdonság is szerepet játszik, akkor a szükséges Tulajdonságok átlagával kell számolni.
 
 ---
-
 ### Vállalás
 
 A Vállalás azt jelenti, hogy (ha a KM is beleegyezik) képzettségpróba esetén kaphatsz legfeljebb `+3` bónuszt a próbára - Te döntöd el mennyit. Minél többet vállalsz, annál nagyobb veszélynek teszed ki magad. Ugyanis a próba előtt „Vállalás próbát" kell dobni:
@@ -173,13 +167,11 @@ Ez sokat dob az esélyeken, de megvan a rizikója is: ha a fenti karakter a dob�
 > **Fontos**: összetett, több dobást igénylő képzettségpróbánál nem alkalmazható Vállalás! (pl. megmászni a nagy hegyet).
 
 ---
-
 ### Próba biztos tudásból
 
 Bizonyos képzettségeket csak biztos tudásból lehet megpróbálni, nincs lehetőség képzettségpróba dobására. Tipikusan a „Tudok-e valamit róla?"-jellegű határozottan eldönthető esetekben. Ilyenkor a KM dönti el, hogy az adott képzettségszinttel az adott feladat megoldható, avagy sem.
 
 ---
-
 ### Próba képzetlenül
 
 Ha a karakter egyáltalán nem jártas az adott képzettségben (vonatkozó értéke nulla), akkor -- ha a képzettség leírásánál engedélyezett a képzetlen dobás -- ugyanúgy próbát dob, mint bárki, de a `célszám 3-al emelkedik`. Egyes képzettségek esetén képzetlenség esetén **nem jár** a 3-as, célszám emelő büntetés. Ilyenek tipikusan az alapvető fizikai képzettségek (`mászás, esés, ugrás`), valamint az olyanok, melyeket minden ember tud legalább minimális szinten, még ha soha nem is foglalkozott
@@ -190,7 +182,6 @@ Hogy mely képzettségek esetén lehet képzetlenül is próbát tenni, azt az �
 ⭕ PROB_KEPZETTSEGEK\_#11. (összhang) ⭕
 
 ---
-
 ### Összetett képzettségpróba, Másodlagos próbadobások
 
 Ha a karakternek egy olyan összetett feladatot kell elvégeznie, ami nem intézhető el 1db dobással (pl. megmászni egy hegyet, vagy rettentő magas várfalat, esetleg órákon keresztül verset szavalni), akkor igazságtalan lenne a maximális nehézséget többször megdobatni vele, hiszen így drasztikusan lecsökken az esélye a sikerre. Ilyenkor a következő módszert használjuk:
@@ -216,7 +207,6 @@ Ha a karakternek egy olyan összetett feladatot kell elvégeznie, ami nem intéz
 ⭕ **TODO**: Kidolgozni továbbiakat!⭕
 
 ---
-
 ### Összhangok
 
 Vannak olyan esetek, amikor egyes képzettségek ismerete segítséget nyújthat más képzettségek használatakor. Az ilyet nevezzük Összhangnak. Természetesen a két érték nem adható össze, az aránytalansághoz vezetne.
@@ -231,13 +221,11 @@ Ilyen esetekben attól függően, hogy mennyire kapcsolódik, a „kiegészítő
 Például a karakter dulakodás nyomait találja egy erdei tisztáson. Valamilyen állat is ott volt. Ekkor `Nyomolvasás` képzettségpróbát kell dobnia, de mivel nagy segítséget jelentene, ha tudná, hogy milyen állat is volt jelen, ezért ebben az esetben a `Természetjárás` képzettség kiegészítő képzettségként működik. Mivel a jelen próbához a `Természetjárás` erősen kapcsolódik, ezért annak `1/3`-a hozzáadható a karakter Nyomolvasás képzettségéhez (a próba idejére).
 
 ---
-
 ### Képzettség párok
 
 Bizonyos képzettségek „függésben" vannak egymással, azaz az adott képzettség legfeljebb egy meghatározott szinttel lehet magasabb a másik, kapcsolódó képzettségnél. Az ilyen egyedi függéseket jelezzük az adott képzettség leírásánál.
 
 ---
-
 ### Sérülés hatása képzettségpróbára
 
 Ha megsérül a karakter, képzettségpróbáira levonások járnak. Hogy mennyi, az attól függ, hogy melyik sebesülés kategóriában van, illetve hogy fizikai mozgást igénylő, vagy nem igénylő képzettségét teszi próbára:

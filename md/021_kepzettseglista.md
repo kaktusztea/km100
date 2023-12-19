@@ -254,7 +254,7 @@ Festészet + (Pszeudó tul.) + k10   vs   Célszám
 
 ⭕Ceremoniális mágiák (???)
 
-🔴Demonológia (lásd: Misztikus képzettségek)
+🔴Demonológia
 
 ## Vulgármágia képzettség iskolái
 
