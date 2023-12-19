@@ -18,8 +18,6 @@ Az alábbiakban a játszható és nem játszható fajok bemutatását, Tulajdons
 
 Tehát például választhat egy **orkot**, akinek mindösszesen **Infralátás - 1.fok** Érzék-Fortélya van. Nincs kiemelkedően jó szaglása, vagy hallása és a föld alatt sem kap bónuszokat. Egy faj nem minden egyede egyforma. A játékos megkapja a lehetőséget egy sokféle különleges érzékkel megáldott egyed indítására, de az sok KP-ba fog kerülni - a választás az övé.
 
-⭕ Érzék-Fortélyokra a linkeket megcsinálni ⭕
-
 #### Ember
 
 ```
