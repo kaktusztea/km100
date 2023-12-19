@@ -193,7 +193,7 @@ Nehézsége alapesetben `5`-ös. Persze csak akkor kell a próba, ha valamelyik 
 Minden `0,5` pengés és annál kisebb méretű fegyver, kivéve ezek közül azokat a fegyvereket, melyek leírásánál külön meg van említve, hogy nem lehet velük belharcot folytatni (pl. rövidkard, csatabárd, …)
 
 #### Belharc fortély
-Legfeljebb `2.fokon` tanulható fortély, amelyet **egy konkrét, választott belharcos-fegyverre** lehet felvenni. Így többször is felvehető más-más fegyverekre. Belharci szituációban az adott fegyvert forgatva fokonként `KÉ:+2`, `TÉ/VÉ:+3` bónuszt ad. A bónuszok csak akkor élnek, ha az alkalmazó Belharci szituációban **Közelharc** harcmodort alkalmaz. Bővebben lásd a **Fortélyok** fejezetet a **Belharc fortély** ⭕(link)⭕ leírásánál.
+Legfeljebb `2.fokon` tanulható fortély, amelyet **egy konkrét, választott belharcos-fegyverre** lehet felvenni. Így többször is felvehető más-más fegyverekre. Belharci szituációban az adott fegyvert forgatva fokonként `KÉ:+2`, `TÉ/VÉ:+3` bónuszt ad. A bónuszok csak akkor élnek, ha az alkalmazó Belharci szituációban **Közelharc** harcmodort alkalmaz. Bővebben lásd a [Belharc fortély](fortelyok.harci/belharc.md) leírásánál.
 
 #### Általános szabályok belharci szituációra
 
@@ -239,7 +239,7 @@ Ha küzdelem közben a harcos ellenfele egy konkrét testrészére kíván táma
 - Ennél pontosabb találatot harc közben meghatározni csak a **Pontra támadás** manőverrel lehet.
 - Találatkor sima sebzést dob a támadó
 - Plusz hatás: ha a Sebzés legalább Súlyos (`6 ÉP`), akkor az áldozat valamilyen nem-harcérték korlátozást szenved el. Például ha a cél a fegyverforgató kéz volt, akkor elejti fegyverét és nem képes tovább harcolni vele. Vagy: láb támadása esetén mozgási sebessége felére/harmadára esik vissza (KM dönt). Fejre támadásnál szemébe folyik a vére, esetleg elkábul.
-- Lásd még alább: **Csonkolás** ⭕(link)⭕
+- Lásd még alább: [Csonkolás](./055_02_harci_taktikak.md#csonkol%C3%A1s-%C3%A9s-t%C3%B6r%C3%A9s) harci taktika.
 
 ---
 
@@ -288,21 +288,17 @@ Ez azért van, mert egy járatlan támadó nem tudja olyan jól megbecsülni a s
 
 ---
 
-### **Orvtámadás**
+### Orvtámadás
 
-```
-Kapcsoló fortély: "Harci anatómia"  ⭕(link)⭕
-```
+Kapcsoló fortély: [Harci anatómia](fortelyok.harci/harci_anatomia.md)
 
-Ha **Észrevétlen támadást** sikerül leadnod, akkor érvényesülnek a **Harci anatómia** fortélynál leírt bónuszok. `VÉ` értékét lásd az **Észrevétlen támadás** résznél. ⭕(link)⭕
+Ha **Észrevétlen támadást** sikerül leadnod, akkor érvényesülnek a **Harci anatómia** fortélynál leírt bónuszok. `VÉ` értékét lásd az [Észrevétlen támadás](./055_01_02_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s) résznél.
 
 ---
 
-### **Pontok támadása harc közben**
+### Pontok támadása harc közben
 
-```
-Kapcsoló fortély: "Harci anatómia"  ⭕(link)⭕
-```
+Kapcsoló fortély: [Harci anatómia](fortelyok.harci/harci_anatomia.md)
 
 Ha harc közben próbálsz ellenfeleden egy konkrét pont támadásával nagyobb sebzést elérni, vagy a **Harci anatómia** fortélynál leírt hatások valamelyikét elérni, akkor **Pontra támadás** manővert kell végezned (követelménye: **Harci anatómia** – `2.fok`). Amennyiben az sikeres, megkapod a fenti fortélynál megadott bónuszokat.
 
