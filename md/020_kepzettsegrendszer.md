@@ -1,6 +1,6 @@
 # Képzettségrendszer
 
-▲ [Nyitóoldal](./start.md)\
+▲ [Nyitóoldal](start.md)\
 → [TODO/ISSUE képzettségrendszer](https://github.com/kaktusztea/km100/wiki/ISSUE.TODO.kepzettsegek)
 
 - [Képzettségrendszer](#képzettségrendszer)

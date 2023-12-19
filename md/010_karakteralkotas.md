@@ -1,6 +1,6 @@
 # Karakteralkotás
 
-▲ [Nyitóoldal](./start.md)\
+▲ [Nyitóoldal](start.md)\
 → [TODO/ISSUE karakteralkotás](https://github.com/kaktusztea/km100/wiki/ISSUE.TODO.karakteralkotas)
 
 - [Karakteralkotás](#karakteralkotás)

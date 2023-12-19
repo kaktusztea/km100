@@ -1,6 +1,6 @@
 # Távolsági harcrendszer
 
-▲ [Nyitóoldal](./start.md)\
+▲ [Nyitóoldal](start.md)\
 → [TODO/ISSUE távharc](https://github.com/kaktusztea/km100/wiki/ISSUE.TODO.tavharc)
 
 

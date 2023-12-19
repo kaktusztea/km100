@@ -1,6 +1,6 @@
 # Fortélyok
 
-▲ [Nyitóoldal](./start.md)\
+▲ [Nyitóoldal](start.md)\
 → [TODO/ISSUE fortélyok](https://github.com/kaktusztea/km100/wiki/ISSUE.TODO.fortelyok)
 
 A Fortélyok egyedi ismeretek, melyeket ugyanúgy KP-ből vehet fel a karakter, mint a Képzettségeket, de legtöbbször pont rájuk épülnek, kiegészítik őket, valamint kevésbé differenciált tudást takarnak.
