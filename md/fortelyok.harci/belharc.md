@@ -11,7 +11,7 @@ Testközelben érzed igazában elemedben magad.<br />Sikeres 🗡️**Belharcba 
 **Megjegyzések**
 
 - **Fontos**: Ezt a fortélyt konkrét fegyverre (Puszta kéz is ide tartozik) kell felvenni, csak annak használatakor járnak a bónuszok. A Belharcot így többször is fel lehet venni - különböző fegyverekre.
-- Az ellenfél módosítóinak változását lásd a Harcrendszer fejezet ⭕„Belharc” harci taktika leírásánál!
+- Az ellenfél módosítóinak változását lásd a Harcrendszer fejezet [Belharc, belharci szituáció](055_02_harci_taktikak.md#belharc-belharci-szitu%C3%A1ci%C3%B3) harci taktika leírásánál!
 
 <br />
 

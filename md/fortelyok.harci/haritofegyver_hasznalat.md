@@ -13,7 +13,7 @@ Képes vagy hárítófegyvert használni.
 **Megjegyzések**
 
 - a hárítófegyverre is felvehető 🟣**Mesterfegyver** fortély. Ekkor annak VÉ bónusza is beszámít.
-- az egyes hárítófegyverek leírását lásd a Harcrendszer ⭕„Fegyverek” fejezetében.
+- az egyes hárítófegyverek leírását lásd a **Harcrendszer** [Fegyverek](057_fegyverek.md) fejezetében.
 - gyakori hárítófegyverek: alkarvédő, csatakesztyű, köpeny (köpenyvívás), tonfa, fejvadászkard.
 
 <br />
