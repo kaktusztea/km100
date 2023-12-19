@@ -41,9 +41,9 @@
 
 `__tavharc__fortelyok__`
 
-- [Célzás](fortelyok.harci/celzas.md) 🔺
 - [Gyors lövés](fortelyok.harci/gyors_loves.md) 🔺
 - [Gyors újratöltés](fortelyok.harci/gyors_ujratoltes.md) 🔺
+- [Képzett célzás](fortelyok.harci/kepzett_celzas.md) 🔺
 - [Kitérés lövés elől](fortelyok.harci/kiteres_loves_elol.md) 🔺
 - [Közeli lövés](fortelyok.harci/kozeli_loves.md)
 - [Lövés futás közben](fortelyok.harci/loves_futas_kozben.md)

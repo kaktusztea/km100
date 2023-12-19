@@ -1,4 +1,5 @@
-#### 🟣 Célzás (1)
+#### 🟣 Képzett célzás (1)
+
 Rövidebb idő alatt felméred a szelet, a távolságot és a többi változót, ami lövésedet segíti, vagy gátolja - mikor kitartod célzással lövésedet.
 
 | |  Követelmény | Hatás  |
@@ -10,7 +11,7 @@ Rövidebb idő alatt felméred a szelet, a távolságot és a többi változót,
 
 **Megjegyzések**
 
-- A **Célzás** csak kiszámíthatóan mozgó cél ellen alkalmazható.
+- A **Képzett célzás** csak kiszámíthatóan mozgó cél ellen alkalmazható.
 - Íjat legfeljebb `1` körig tarthatsz ki, utána minden további kör nemhogy javít, de ront a találati esélyeken (körönként ugyanennyit).
 
 <br />
