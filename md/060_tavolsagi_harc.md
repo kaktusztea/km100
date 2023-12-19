@@ -256,7 +256,7 @@ Egyszerre két kézzel 1-1 fegyvert elhajítani. Ebben a szituációban `2`db c�
 
 A fegyver méretének az **Erő** Tulajdonság és a KM józan esze szab határt.
 
-**Kétkezesség** fortély (⭕link⭕) megléte esetén csak `CÉ:-15` büntetés sújtja az alkalmazót.
+[Kétkezesség](fortelyok.harci/ketkezesseg.md)fortély megléte esetén csak `CÉ:-15` büntetés sújtja az alkalmazót.
 
 ---
 ### Egyéb körülmények
@@ -310,14 +310,14 @@ Kézifegyvereknél az alábbi módon kategorizálunk:
 
 Távolsági fegyverek esetén viszont nem mindegyiknek van **Sebesség** kategóriája, mivel újratöltésük annyi időt vesz igénybe, hogy nem lehetséges velük egy körben többször támadni (pl. nyílpuskák).
 
-Ebben az esetben lehet hasznos a „**Gyors újratöltés**” (⭕link) harci fortély.
+Ebben az esetben lehet hasznos a [Gyors újratöltés](fortelyok.harci/gyors_ujratoltes.md) harci fortély.
 
 Az egyes fegyverek Sebesség kategóriáját lásd a **Harcrendszer** „**Fegyverek**” alfejezetében (táblázat)!
 
 ---
 ### Erőből / Ügyességből forgatott fegyverek
 
-Távolba ható fegyverek esetén különbséget teszünk **Erőből** és **Ügyességből** használtak között. A fenti tulajdonság szerepe a sebzésbónusz és a végső Célzó Érték kiszámításánál mutatkozik meg. Hogy egy fegyvert Erőből, vagy Ügyességből forgathatunk, azt a Távolsági fegyverek fejezet (⭕link) alatt található táblázatból olvashatjuk ki.
+Távolba ható fegyverek esetén különbséget teszünk **Erőből** és **Ügyességből** használtak között. A fenti tulajdonság szerepe a sebzésbónusz és a végső Célzó Érték kiszámításánál mutatkozik meg. Hogy egy fegyvert Erőből, vagy Ügyességből forgathatunk, azt a [Távolsági fegyverek fejezet](./057_fegyverek.md#haj%C3%ADt%C3%B3fegyverek-harc%C3%A9rt%C3%A9kei) alatt található táblázatból olvashatjuk ki.
 
 ---
 ### Hatótáv
@@ -338,9 +338,7 @@ A távolsági fegyverek minősége azok **CÉ**-jét javítja, vagy éppen rontj
 ---
 ## Fortélyok - Távolsági harc
 
-A tapasztalt lövész (hajigász) nem csupán harcértékeivel tűnik ki társai közül, hanem egyedi trükkökkel, ismeretekkel, amik egy bizonyos területen a többi fölé emelik. Az alább összegyűjtöttünk minden fortélyt, ami a Távolsági Harccal kapcsolatos.
-
-⭕⭕TODO: link a Távolsági harc fortélyokra⭕
+A tapasztalt lövész (hajigász) nem csupán harcértékeivel tűnik ki társai közül, hanem egyedi trükkökkel, ismeretekkel, amik egy bizonyos területen a többi fölé emelik. Lásd bővebben a [Távolsági Harccal kapcsolatos fortélyokat](034_harci_fortelyok.md#t%C3%A1vols%C3%A1gi-harci-fort%C3%A9lyok)!
 
 <br />
 
