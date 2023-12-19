@@ -37,7 +37,7 @@
 	- [Harc menete (összefoglaló)](054_01_02_harc_menete_osszefoglalas.md)
 	- [Harc menete (részletes)](054_01_02_harc_menete_reszletes.md) (KÉ, Támadás, Sebzés, Sebződés)
 	- [Példaharc](054_02_peldaharc.md)
-	- [Harci helyzetek](055_01_02_harci_helyzetek.md) (meglepetésből, helyhez kötve, magasabbról, stb.)
+	- [Harci helyzetek](055_01_harci_helyzetek.md) (meglepetésből, helyhez kötve, magasabbról, stb.)
 	- [Harci taktikák](055_02_harci_taktikak.md) (támadó, védő, roham, stb)
 	- [Harci alakzatok, Alakzatharc](055_03_harci_alakzatok.md)
 	- [Kétkezes harc](055_04_ketkezes_harc.md)
