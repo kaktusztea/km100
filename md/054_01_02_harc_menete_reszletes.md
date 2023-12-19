@@ -147,9 +147,9 @@ A számolás jelentős része karakteralkotáskor történik, így a játékmene
 ---
 #### Harcérték csökkenés
 
-Ha valakit találat ért és átkerül másik sebesülés-kategóriába, `TÉ levonást` kap, melyet mérsékel a **Fájdalomtűrés** képzettség és **Önuralom** tulajdonságok összege. Bővebben lásd: Fájdalomtűrés fejezetet! ⭕link⭕
+Ha valakit találat ért és átkerül másik sebesülés-kategóriába, `TÉ levonást` kap, melyet mérsékel a [Fájdalomtűrés képzettség](kepzettsegek/fajdalomtures.md) és [Önuralom tulajdonságok](./010_karakteralkotas.md#önuralom) összege. Bővebben lásd: [Fájdalomtűrés fejezetet](./051_eletero.md#f%C3%A1jdalomt%C5%B1r%C3%A9s)!
 
-Ez azért előnyös, mert megint csak karakteralkotás időben számítjuk ki a fenti 
+Ez azért előnyös, mert megint csak karakteralkotás időben számítjuk ki a fenti értékeket.
 
 ---
 #### Támadás jellege, páncél SFÉ, fegyver Átütése
