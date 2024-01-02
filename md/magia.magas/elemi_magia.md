@@ -4,8 +4,8 @@ A Magasmágia tradíció alá tartozó mágiaiskola.
   
 | **Képzettség** | **Követelmény** | **Bónusz, Megjegyzés**                                                                                                                      |
 | -------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.szint        | Önuralom: 0     | 1-4.szintig csak elméleti ismeret.                                                                                                          |
-| 4.szint        | ⭕???           | **Már varázsolhat Elemi mágia mozaikokból a tanuló.**                                                                                       |
+| 1.szint        | Önuralom: 0     | 1-2.szintig csak elméleti ismeret.                                                                                                          |
+| 3.szint        | ⭕???           | **Már varázsolhat Elemi mágia mozaikokból a tanuló.**                                                                                       |
 | 6.szint        | ⭕???           | A varázsló már idézhet elementált.                                                                                                          |
 | 9.szint        | ⭕???           | A varázsló képes kommunikálni egy választott sík lényeivel.\*<br>→ Külön fortély felvehető: „Elemi sík nyelve” (plusz választott nyelv) |
 | 12.szint       | ⭕???           | A varázsló megpróbálhat síkurat idézni                                                                                                      |
