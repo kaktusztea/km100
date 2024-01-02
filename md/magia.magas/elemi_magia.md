@@ -34,14 +34,16 @@ A Magasmágia tradíció alá tartozó mágiaiskola.
 <br>
 
   
-| **Irányítás  <br>**(ahol a forma szerint értelmezhető) |              **+Nehézség**               | **Támadó érték**<br>(alap VÉ számít, ha nem mágikus a fegyver) |
+| **Irányítás  <br>**(ahol a forma szerint értelmezhető) |              **+Nehézség**               | **Támadó érték**<br>(ha az idézett forma közelharcba kezd az áldozattal)<br>(alap VÉ számít, ha nem mágikus a fegyver) |
 | ------------------------------------------------------ |:----------------------------------------:|:--------------------------------------------------------------:|
-| Lassú mozgatás,<br>Mágikus lövedék I.              |                    +3                    |                             TÉ=40                              |
-| Átlagos mozgatás,<br>Mágikus lövedék II.           |                    +6                    |                             TÉ=80                              |
-| Gyors mozgatás,<br>Mágikus lövedék III.            |                    +9                    |                             TÉ=120                             |
-| Nagyon gyors mozgatás,<br>Mágikus lövedék IV.      |                   +12                    |                             TÉ=160                             |
-| Nagyon gyors mozgatás,<br>Mágikus lövedék V.       |                   +15                    |                             TÉ=200                             |
-|                                                        | ⭕Összpontosítás próba nehézsége is nő⭕ |                                                                |
+| Lassú mozgatás,<br>Kocogó ember sebessége              |                    +3                    |                                TÉ=40                           |
+| Átlagos mozgatás,<br>Sprintelő ember sebessége         |                    +6                    |                                TÉ=80                           |
+| Gyors mozgatás,<br>Mágikus lövedék I.                  |                    +9                    |                                TÉ=120                          |
+| Nagyon gyors mozgatás,<br>Mágikus lövedék II.          |                   +12                    |                                TÉ=160                          |
+| Nagyon gyors mozgatás,<br>Mágikus lövedék III.         |                   +15                    |                                TÉ=200                          |
+|                                                        | ⭕Összpontosítás próba nehézsége is nő⭕ |                                                                 |
+
+⭕TODO: Link [Mágia célzására](https://github.com/kaktusztea/km100/wiki/STUDY.magia.celzasa), ha bekerül a fő doksiba.
 
 ##### Formák mérete és erőssége
 
