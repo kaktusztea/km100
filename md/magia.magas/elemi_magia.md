@@ -48,6 +48,8 @@ A Magasmágia tradíció alá tartozó mágiaiskola.
 
 ⭕TODO: Link [Mágia célzására](https://github.com/kaktusztea/km100/wiki/STUDY.magia.celzasa), ha bekerül a fő doksiba.
 
+⭕TODO: Méret módosító: ez is link a Mágia alaptörvényeire - ha kész lesz.
+
 ##### Formák mérete és erőssége
 
 Ha ez értelmezhető, akkor a formák méreténél a legnagyobb átmérőre vonatkoztatunk. Maximálisan annyi méter lehet a legnagyobb átmérő, mint amekkora a mozaik _Erőssége_. Viszont, ha növeljük az átmérőt, akkor az erősség is megoszlik a területen.
