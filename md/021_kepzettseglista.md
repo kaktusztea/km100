@@ -7,7 +7,7 @@
 ---
 
 ```
-→ Primer ismeretek alá tartozó képzettségek: minden harci, misztikus, mágikus képzettség + Észlelés, Fájdalomtűrés
+→ Primer ismeretek alá tartozó képzettségek: minden harci, misztikus, mágikus képzettség + Észlelés, Összpontosítás, Fájdalomtűrés
 → Szekunder ismeretek alá tartozó képzettségek: minden más képzettség
 ```
 

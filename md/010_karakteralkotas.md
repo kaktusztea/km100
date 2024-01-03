@@ -571,7 +571,7 @@ Lásd a [Pszi](070_pszi.md) fejezetet!
 
 ## Primer és Szekunder ismeretek kategóriái
 ```
-→ Primer ismeretek: minden harci, misztikus, mágikus képzettség, fortély + Észlelés, Fájdalomtűrés képzettség, HM, CM, Mana, Pszí pont
+→ Primer ismeretek: minden harci, misztikus, mágikus képzettség, fortély + Észlelés, Összpontosítás, Fájdalomtűrés képzettség, HM, CM, Mana, Pszí pont
 → Szekunder ismeretek: minden más
 ```
 
