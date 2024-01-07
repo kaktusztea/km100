@@ -216,6 +216,8 @@ Festészet + (Pszeudó tul.) + k10   vs   Célszám
 
 ## Misztikus képzettségek
 
+🔴 Tradíció
+
 🔵[Összpontosítás](kepzettsegek/osszpontositas.md) <sup><sub>(10%)</sub></sup>
 
 🔵Pszí iskolák

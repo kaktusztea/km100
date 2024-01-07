@@ -27,6 +27,11 @@
 	- [Titkos fortélyok](035_titkos_fortelyok.md) 
 	- [Misztikus fortélyok](036_misztikus_fortelyok.md) 
 - [Tradíciók](040_tradiciok.md) (60%)
+	- [Mágia tradíciók](041_00_magia_tradiciok)
+	- [Papi tradíciók](042_00_papi_tradiciok)
+	- [Fejvadász tradíció](043_fejvadasz_tradicio)
+	- [Faji tradíciók](044_faji_tradiciok)
+	- [Slan tradíció]()
 - [Harcrendszer](050_harcrendszer.md) (85%)
 	- [Életerő](051_eletero.md)
 	- [Harcérték alapok, HM, Harcmodorok, Mesterfegyver](052_01_harcertekek_elemei.md)
@@ -49,15 +54,15 @@
 - [Pszi](070_pszi.md) (40%)
 	  - [Pszi diszciplínák](071_pszi_diszciplinak.md) (0%)
 - [Mágia](080_magiarendszer.md) (40%)
-	- [Magasmágia](085_magasmagia.md) (Kyr mozaik, Godoni hagyomány) (20%)
+	- [Magasmágia](081_magasmagia.md) (Kyr mozaik, Godoni hagyomány) (20%)
 		- [Elemi mágia iskola](magia.magas/elemi_magia.md) (50%) 🚧
-	- [Vulgármágia](081_vulgarmagia.md) (0%)
+	- [Vulgármágia](082_vulgarmagia.md) (0%)
 		- [Árnyékmágia iskola](magia.vulgar/arnyekmagia.md) 🚧
 		- [Méregmágia iskola](magia.vulgar/meregmagia.md) ⭕
 		- [Méregmágia szemita](magia.vulgar/meregmagia.szemita.md) 🚧
 		- [Nekromancia iskola](magia.vulgar/nekromancia.md) 🚧
 		- [Villámmágia iskola](magia.vulgar/villammagia.md) 🚧
-	- [Sámánmágia](082_samanmagia.md) (0%) ⭕
+	- [Sámánmágia](085_samanmagia.md) (0%) ⭕
 		- [Idézések](magia.saman/idezesek.md)
 	- [Bárdmágia](083_bardmagia.md) (0%) ⭕
 		- [Dalmágia](magia.bard/dalmagia.md)
@@ -65,10 +70,10 @@
 		- [Hangmágia](magia.bard/hangmagia.md)
 	- [Godoni Tűzmágia](084_tuzmagia.md) (0%) ⭕
 		- [Alapformák](magia.godoni.tuz/alapformak.md)
-	- [Papi mágia](089_papimagia.md) (10%) 🚧
+	- [Papi mágia](090_papimagia.md) (10%) 🚧
 	- [Ork Énekmondói mágia](086_ork.enekmondoi.magia.md)
 	- [Rituálé](087_rituale.md)
-- [Slan](090_slan.md) (25%)🚧
+- [Slan](045_slan_tradicio.md) (25%)🚧
 - [Érzékelés, Észlelés](100_erzekeles_eszleles.md) (90%)
 - [Szituációk](110_szituaciok.md) (20%)
 
