@@ -5,7 +5,7 @@
 
 ### Tradíciók
 ```
-Átfogó, képzettség, primer (max: szint+3)
+Átfogó, primer képzettség (max: szint+3)
 ```
 
 A km100 rendszerében a Tradíciók reprezentálják az egyedi, különleges, karakter életútját alapjaiban meghatározó "csomagot". 1-2 kivételtől eltekintve a karakterek **csak 1 Tradíciót vehetnek fel**, azt is **csak 1. tapasztalati szinten**.
