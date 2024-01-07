@@ -14,7 +14,7 @@ Mindegyik Tradíció **Átfogó**, primer képzettség, így ez is csak `szint+3
 
 Milyen Tradíciókat ismer a km100 rendszere?
 
-- Mágikus tradíciók
+- Mágia tradíciók
 	- [Magasmágia (mozaikmágia)](041_01_magasmagia)
 	- Vulgármágia
 	- Ordani (godoni?) Tűzmágia
@@ -25,7 +25,7 @@ Milyen Tradíciókat ismer a km100 rendszere?
 - [Papi szakrális tradíciók](042_00_papi_tradiciok)
 - [Fejvadász tradíció](043_fejvadasz_tradicio)
 - [Faji tradíciók](044_faji_tradiciok)
-	- Dzsenn tradíció
+	- [Dzsenn tradíció](044_01_dzsenn_tradicio)
 	- Amund tradíció
 - [Slan tradíció](045_slan_tradicio)
 - Nem Játszható Tradíciók
@@ -37,29 +37,10 @@ Milyen Tradíciókat ismer a km100 rendszere?
 	- Gnóm mágia (?? Ez is irreál ??)
 	- Niare, Enoszuke?
 
-### Mágikus tradíciók
-```
-Metamágia Arkánum szint  ==  Mágikus tradíció szintje
-```
-A mágikus tradíciók részét képezi a mágiatörténet, a mágikus legendák, illetve a az adott tradíció alá tartozó kultúra, valamint a **Metamágia** Arkánum képzettség, amelynek szintje egyenlő magával a **Tradíció** képzettséggel (ingyen).
-    
-- `6.` szintű Tradíciótól
-    
-    - innentől lehet elkezdeni varázsolni egyáltalán, ez a feltétele a mágiaiskolák `3.` szintjének is
-    - tehát a karakter 3. tapasztalati szintjén lehet először varázsolni, amennyiben maximálisan növelte a nágikus 
-    - megállhatsz `6.` szinten. Ami feljebb van, azok a metamágia spécijei. Lásd [ott](https://github.com/kaktusztea/km100/wiki/STUDY.magia.metamagia).
-    - egyes metamágia formulákat szétszórhatjuk biztos tudás szintek közé
-    - `6.` szinten:
-        - Leplezés
-        - Fürkészés
-        - Destrukció
-        - Később a többit magasabb szinten
-- Metamágia iskolák tradíciók szerint eltérnek
-
 ### Tradíciók követelményei
 
-Minden 
+Minden Tradíciónak vannak valamilyen követelményei, ezek leírását lásd az adott Tradíció leírásában.
 
 ### Írástudó fortély extra
 
-Ha egy karakter tiszta Mágikus vagy Papi Tradíciót tanul, akkor automatikusan, ingyen megkapja az **Írástudó*** fortélyt.
+Ha egy karakter tiszta Mágikus vagy Papi Tradíciót tanul és eléri benne a `3.` szintet, akkor automatikusan, ingyen megkapja az [Írástudó](irastudo) fortélyt.

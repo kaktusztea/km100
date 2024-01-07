@@ -21,11 +21,11 @@ A mágikus tradíciók részét képezi a mágiatörténet, a mágikus legendák
 
 Magát a varázslást a beavatott csak `6.` szintű mágia Tradíciótól képes végezni, valamint ez a szint az előfeltétele az Arkánumok `3.` szintű felvételének is.
 
-A fentiekből következik, hogy egy karakter leghamarabb 3. tapasztalati szinten képes először varázsolni.
+A fentiekből következik, hogy egy karakter leghamarabb `3.` tapasztalati szinten képes először varázsolni - amennyiben maximális mértékben növelte Tradíció képzettségét.
 
 A karakter dönthet úgy, hogy megáll `6.` szinten a Tradícióban, ez nem korlátozza semmiben. Amiért mégis megérheti, az az azonos szintű Metamágia Arkánum, aminek nehezebb formulái magasabb szinten érhetőek el.
 
-A MetamágiaArkánumok tradíciók szerint eltérnek!
+A Metamágia Arkánumok tradíciók szerint eltérnek!
 
 ### Tradíciók követelményei
 
