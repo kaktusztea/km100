@@ -3,7 +3,7 @@
 ▲ [Nyitóoldal](start.md)\
 → [STUDY: Tradíciók](https://github.com/kaktusztea/km100/wiki/STUDY.Tradiciok)
 
-- [Magasmágia (mozaikmágia)](041_01_magasmagia)
+- [Magasmágia (mozaikmágia)](041_01_magasmagia.md)
 - Vulgármágia
 - Ordani (godoni?) Tűzmágia
 - Bárdmágia

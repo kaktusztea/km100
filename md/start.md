@@ -28,9 +28,16 @@
 	- [Misztikus fortélyok](036_misztikus_fortelyok.md) 
 - [Tradíciók](040_tradiciok.md) (60%)
 	- [Mágia tradíciók](041_00_magia_tradiciok)
+		- [Magasmágia (mozaikmágia)](041_01_magasmagia)
+		- Vulgármágia
+		- Ordani (godoni?) Tűzmágia
+		- Bárdmágia
+		- Sámánmágia
+		- Ork Énekmondói mágia
+		- Rituális mágia
 	- [Papi tradíciók](042_00_papi_tradiciok)
 	- [Fejvadász tradíció](043_fejvadasz_tradicio)
-	- [Faji tradíciók](044_faji_tradiciok)
+	- [Faji tradíciók](044_00_faji_tradiciok.md)
 	- [Slan tradíció]()
 - [Harcrendszer](050_harcrendszer.md) (85%)
 	- [Életerő](051_eletero.md)
