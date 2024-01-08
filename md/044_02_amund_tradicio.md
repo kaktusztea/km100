@@ -22,7 +22,7 @@ Fontos: csak 1 darab formulát használhat egyszerre, nem kombinálhatja őket m
 
 Előnye, hogy például a Manaszipoly Asztrálmágia formula nem használható rá, mivel nem történik Mana fókuszálás, továbbá Manaholt területeken is használható.
 
-Az Amund tradíció minden 3. szintje után **1 Od** pont jár. Ezt a tisztavérű ősfajok által használt ősmágiát csak akkor képes **Hatalomszavakká** alakítani, amennyiben felvette az [Ősi nyelv ismerete - Amund](kepzettsegek/osi_nyelv_ismerete.md) képzettséget és legalább `9.` szinten jártas benne. Amennyiben ez nincs meg, akkor csak Hatalomszavak elleni ösztönös védekezésre alkalmas.
+Az Amund tradíció minden 3. szintje után **1 Od** pont jár, ennek oka, hogy a különleges képességeik használata szervezetüket Od termelésére készteti. Ezt a tisztavérű ősfajok által használt ősmágiát csak akkor képes **Hatalomszavakká** alakítani, amennyiben felvette az [Ősi nyelv ismerete - Amund](kepzettsegek/osi_nyelv_ismerete.md) képzettséget és legalább `9.` szinten jártas benne. Amennyiben ez nincs meg, akkor csak Hatalomszavak elleni ösztönös védekezésre alkalmas.
 
 A dzsenn karakternek - amennyiben papi mágiatudó szeretne lenni - minimum `6.` szintre kell növelni a Amund Tradíció képzettségét, amely megfeleltethető a Papi mágia tradíciónak.
 
