@@ -33,4 +33,4 @@ Minden Tradíció szintjeinek lehetnek követelményei, amelyek biztosítják, h
 
 ### Írástudó fortély extra
 
-Ha egy karakter tiszta Mágikus vagy Papi Tradíciót tanul, akkor automatikusan, ingyen megkapja az **Írástudó*** fortélyt.
+Ha egy karakter tiszta Mágikus vagy Papi Tradíciót tanul, akkor automatikusan, ingyen megkapja az [Írástudó](fortelyok.altalanos/irastudo.md) fortélyt.
