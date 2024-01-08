@@ -28,19 +28,19 @@
 	- [Misztikus fortélyok](036_misztikus_fortelyok.md) 
 - [Tradíciók](040_tradiciok.md) (60%)
 	- [Mágia tradíciók](041_00_magia_tradiciok)
-		- [Magasmágia (mozaikmágia)](041_01_magasmagia)
+		- [Magasmágia (mozaikmágia)](041_01_magasmagia.md) (25%)🚧
 		- Vulgármágia
 		- Ordani (godoni?) Tűzmágia
 		- Bárdmágia
 		- Sámánmágia
 		- Ork Énekmondói mágia
 		- Rituális mágia
-	- [Papi tradíciók](042_00_papi_tradiciok)
-	- [Fejvadász tradíció](043_fejvadasz_tradicio)
+	- [Papi tradíciók](042_00_papi_tradiciok.md) (0%)🚧
+	- [Fejvadász tradíció](043_fejvadasz_tradicio.md) (10%)🚧
 	- [Faji tradíciók](044_00_faji_tradiciok.md)
 		- [Amund Tradíció](044_02_amund_tradicio.md)
 		- [Dzsenn Tradíció](044_01_dzsenn_tradicio.md)
-	- [Slan tradíció]()
+	- [Slan tradíció](045_slan_tradicio.md) (25%)🚧
 - [Harcrendszer](050_harcrendszer.md) (85%)
 	- [Életerő](051_eletero.md)
 	- [Harcérték alapok, HM, Harcmodorok, Mesterfegyver](052_01_harcertekek_elemei.md)
@@ -79,12 +79,12 @@
 		- [Hangmágia](magia.bard/hangmagia.md)
 	- [Godoni Tűzmágia](084_tuzmagia.md) (0%) ⭕
 		- [Alapformák](magia.godoni.tuz/alapformak.md)
-	- [Papi mágia](090_papimagia.md) (10%) 🚧
 	- [Ork Énekmondói mágia](086_ork.enekmondoi.magia.md)
 	- [Rituálé](087_rituale.md)
-- [Slan](045_slan_tradicio.md) (25%)🚧
-- [Érzékelés, Észlelés](100_erzekeles_eszleles.md) (90%)
-- [Szituációk](110_szituaciok.md) (20%)
+- [Papi mágia](090_papimagia.md) (10%) 🚧
+- [Varázstárgyak](100_varazstargyak.md)  (10%) 🚧
+- [Érzékelés, Észlelés](110_erzekeles_eszleles.md) (90%)
+- [Szituációk](120_szituaciok.md) (20%)
 
 ---
 ## [🚧 Fejlesztő portál 🚧](https://github.com/kaktusztea/km100/wiki)
