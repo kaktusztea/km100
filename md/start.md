@@ -38,6 +38,8 @@
 	- [Papi tradíciók](042_00_papi_tradiciok)
 	- [Fejvadász tradíció](043_fejvadasz_tradicio)
 	- [Faji tradíciók](044_00_faji_tradiciok.md)
+		- [Amund Tradíció](044_02_amund_tradicio.md)
+		- [Dzsenn Tradíció](044_01_dzsenn_tradicio.md)
 	- [Slan tradíció]()
 - [Harcrendszer](050_harcrendszer.md) (85%)
 	- [Életerő](051_eletero.md)
