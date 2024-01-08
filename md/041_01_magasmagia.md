@@ -10,7 +10,7 @@ A karakter dönthet úgy, hogy megáll `6.` szinten a Tradícióban, ez nem korl
 - Fürkészés
 - Destrukció
 
-A haladóbb formulák leírását ⭕lásd a Metamágia arkánum⭕ leírásánál!
+A haladóbb formulák leírását lásd lejjebb, a [Metamágia arkánum]() leírásánál!
 
 <br />
 
@@ -44,4 +44,6 @@ A haladóbb formulák leírását ⭕lásd a Metamágia arkánum⭕ leírásán�
 - ⭕xyz
 
 ---
+### Metamágia arkánum
 
+→ [STUDY: Metamágia](https://github.com/kaktusztea/km100/wiki/STUDY.magia.metamagia)
