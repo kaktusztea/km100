@@ -1,6 +1,6 @@
 ## Magasmágia tradíció / Metamágia arkánum
 
-▲ [Nyitóoldal](start.md)\
+▲ [Nyitóoldal](start.md)
 
 
 A karakter dönthet úgy, hogy megáll `6.` szinten a Tradícióban, ez nem korlátozza semmiben. Amiért mégis megérheti, az az azonos szintű Metamágia Arkánum, aminek nehezebb formulái magasabb szinten érhetőek el.
