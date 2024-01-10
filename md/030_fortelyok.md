@@ -20,8 +20,10 @@ A Fortélyok egyedi ismeretek, melyeket ugyanúgy KP-ből vehet fel a karakter, 
 
 [Általános, alvilági és fizikai fortélyok](033_altalanos_fortelyok.md)
 
-[Harci fortélyok](034_harci_fortelyok.md)
+[Harci, távharc és lovas fortélyok](034_harci_fortelyok.md)
 
 [Titkos fortélyok](035_titkos_fortelyok.md)
 
+[Misztikus fortélyok](036_misztikus_fortelyok.md)
+  
 ---
