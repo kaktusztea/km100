@@ -4,6 +4,11 @@
 
 A Karmák speciális jellemvonások, melyeket a fortély rendszeren belül kezelünk, **de nem kerülnek KP-ba**. Követelményeik nem számszerűek, hanem valamely esemény, különleges cselekedet, így kalandok során lehet „megszerezni” őket. Hatásuk a karakter Auráján is megjelenik. Minden esetben a KM adja őket, a játékos nem veheti fel önként, valamint nem követelheti azt a KM-en.
 
+Három forrásból juthatunk Karmához:
+- Az itt lent leírt konkrét karmák listájából, amennyiben a követelményeknek megfelel
+- Képzettségek magasabb szintjein ingyen kapott különleges képességekből
+- KM által kitalált, egyedi Karmákból (itt a mesélő ésszel adományozzon)
+
 A lenti karmák  nem feltétlenül fednek le mindent, a KM ha úgy érzi az adott kaland hangulatához illene egy új, általa kitalált Karma, akkor nyugodtan megadhatja, de legyen tekintettel az erőviszonyokra, Karmaként csak valamilyen színesítő ismeretet adjon.
 
 A karmák lehetnek a fortélyokhoz hasonlóan fokkal, vagy %-kal jellemezhetőek.
@@ -15,7 +20,7 @@ Versenyeken, klubokban viszont csak és kizárólag az itt leírt Karmákat adha
 | 🟣 Hős | (1) |
 | :----------- | :----------- |
 | Követelmény &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Mindig segít a bajba jutottakon, mindig kész az önfeláldozásra, mindig a jó ügy érdekében cselekszik. Aki sok-sok hőstettet hajt végre, megkapja ezt a Karmát.   |
-| Hatás | 👀 **Pro**: Ez ténylegesen megnöveli az értékeit (mértékét még megbeszéljük), segítve ezzel további hőstetteit.<br />**Kontra**: Elég csak egyetlen rossz cselekedet, és elveszíti a karmát, és soha többé nem lehet visszaszerezni! Ekkor egy **Bukott hős** karma a jutalma... 👀 |
+| Hatás | 👀 **Pro**: Ez ténylegesen megnöveli az értékeit ⭕(mértékét még megbeszéljük)⭕, segítve ezzel további hőstetteit.<br />**Kontra**: Elég csak egyetlen rossz cselekedet, és elveszíti a karmát, és soha többé nem lehet visszaszerezni! Ekkor egy **Bukott hős** karma a jutalma... 👀 |
 
 <br />
 
