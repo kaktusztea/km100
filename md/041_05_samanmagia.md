@@ -38,7 +38,7 @@ Most lássuk a **Sámánmágia Tradíció** egyes szintjeihez rendelt jellemzők
 - ⭕xyz
 
 ---
-### Tűz Metamágia arkánum
+### Sámán Metamágia arkánum
 
 `6.` szinten az alábbi formulák érhetőek el Sámán Metamágia Arkánumban:
 - ⭕Leplezés⭕ - itt is legyen?
