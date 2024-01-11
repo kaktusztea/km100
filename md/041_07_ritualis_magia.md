@@ -38,7 +38,7 @@ Most lássuk a **Rituális mágia Tradíció** egyes szintjeihez rendelt jellemz
 - ⭕xyz
 
 ---
-### Tűz Metamágia arkánum
+### Rituális mágia Metamágia arkánuma
 
 `6.` szinten az alábbi formulák érhetőek el Rituális mágia Metamágia Arkánumban:
 - ⭕Leplezés⭕ - itt is legyen?
