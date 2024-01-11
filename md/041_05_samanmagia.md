@@ -2,7 +2,7 @@
 
 ▲ [Nyitóoldal](start.md)
 
-A karakter dönthet úgy, hogy megáll `6.` szinten a Tradícióban, ez nem korlátozza semmiben. Amiért mégis megérheti, az az azonos szintű ⭕link fix⭕ [Vulg%C3%A1r-Metamágia Arkánum](#Vulgmetam%C3%A1gia-ark%C3%A1num), aminek nehezebb formulái magasabb szinten érhetőek el.
+A karakter dönthet úgy, hogy megáll `6.` szinten a Tradícióban, ez nem korlátozza semmiben. Amiért mégis megérheti, az az azonos szintű [Sámán Metamágia Arkánum](#s%C3%A1m%C3%A1n-metam%C3%A1gia-ark%C3%A1num), aminek nehezebb formulái magasabb szinten érhetőek el.
 
 Most lássuk a **Sámánmágia Tradíció** egyes szintjeihez rendelt jellemzőket:
 
