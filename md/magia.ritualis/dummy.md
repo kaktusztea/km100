@@ -1,3 +1,3 @@
 Rituális mágia iskolái jönnek ide. 
 
-Addig is: [Rituálé](087_rituale)
+Addig is: [Rituális mágia](../041_07_ritualis_magia.md)

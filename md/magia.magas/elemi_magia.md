@@ -1,6 +1,6 @@
 ## Elemi mágia
 
-A Magasmágia tradíció alá tartozó mágiaiskola.
+A Magasmágia tradíció alá tartozó arkánum (mágiaiskola).
   
 | **Képzettség** | **Követelmény** | **Bónusz, Megjegyzés**                                                                                                                      |
 | -------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -22,8 +22,6 @@ A Magasmágia tradíció alá tartozó mágiaiskola.
 - Nehézség: `6`
 - Időtartam: `1` kör (kérdéses még, hogy az időtartam kitolás hogy menjen)
 
-
- 
 | **Formák**                                             |          **+Nehézség**           |
 | ------------------------------------------------------ |:--------------------------------:|
 | Alapvető formák<br>(gömb, nyíl, kitörés, szőnyeg, fal) |                +0                |
@@ -32,7 +30,6 @@ A Magasmágia tradíció alá tartozó mágiaiskola.
 | Forma szétválasztása több részre                       |             +3/rész              |
 
 <br>
-
   
 | **Irányítás  <br>**(ahol a forma szerint értelmezhető) |              **+Nehézség**               | **Támadó érték**<br>(ha az idézett forma közelharcba kezd az áldozattal)<br>(alap VÉ számít, ha nem mágikus a fegyver) |
 | ------------------------------------------------------ |:----------------------------------------:|:--------------------------------------------------------------:|
@@ -56,17 +53,15 @@ Ha ez értelmezhető, akkor a formák méreténél a legnagyobb átmérőre vona
 
 ⚡**Példa**: egy `3` méter magas tűzfalat hoz létre `6E`-vel a varázsló. A tűzfal hatása ekkor `2E`-nek felel meg.
 
-  
-
 ##### Hatás-eloszlás
-(a Manamentes modellhez)
+⭕(a Manamentes modellhez)⭕
 A fenti példánál az ez `3`, mert annyira „nyújtja ki” a varázsló.
-
 
 ##### Sebződés
 
 ⭕Ez is kérdéses még, nem könnyű eldönteni, hogy random is legyen, de közben meg sok se legyen. Az alap sebzés a sebző elemmel való 2 szegmenses érintkezést jelenti kivéve a nyíl és a kitörés formát, ahol a sebzés egyben, azonnal történik. Ha a 2 szegmensnél tovább tartózkodik valaki az elemmel érintkezésben, akkor a többszörös idő többszörös sebzést okoz. 1 kör például már 5x-ös sebzést! Viszont nem fog senki egy tűzgolyóban álldogálni valószínűleg.⭕
 
+---
 ##### ⚡Példavarázslatok
 
 ###### Gyors tűzgolyó
@@ -74,8 +69,6 @@ A fenti példánál az ez `3`, mert annyira „nyújtja ki” a varázsló.
 - **E**: befektetett manától függ
 - **Nehézség**: `6 + 0 (gömb) + 3 (gyors) = 9`
 - **TÉ**=`100`
-
-  
 
 ###### Veszedelmes 2 fejű tűzsárkány
 
@@ -85,7 +78,6 @@ A fenti példánál az ez `3`, mert annyira „nyújtja ki” a varázsló.
   - A sárkány irányításához **Összpontosítás** próba is dobatható (KM határozza meg a célszámot)
 - **TÉ**=`100`
 
-
 ###### Lecsapó tűzkígyó
 
 - **E**: befektetett manától függ    
@@ -94,8 +86,6 @@ A fenti példánál az ez `3`, mert annyira „nyújtja ki” a varázsló.
 
 ---
 #### Elementál idézése
-
-
 | **Elementál** | **Mana** | **Nehézség** |     | **Körülmény** | **+Nehézség** |
 | ------------- | -------- | ------------ | --- | ------------- | ------------- |
 | Szolga        | `10`     | `10`         |     |               |               |
@@ -112,7 +102,7 @@ A megidézett elementálokra mentálisan, vagy asztrálisan hatni a következő 
 
 - Mana: lénytől függ
 - Nehézség: lénytől függ
-- Időtartam: ???
+- Időtartam: ⭕???⭕
   
 | **Elementál** | **Mana** | **Nehézség** |     | **Körülmény**          | **+Nehézség** |
 | ------------- | -------- | ------------ | --- | ---------------------- | ------------- |

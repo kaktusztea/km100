@@ -28,13 +28,13 @@
 	- [Misztikus fortélyok](036_misztikus_fortelyok.md) 
 - [Tradíciók](040_tradiciok.md) (60%)
 	- [Mágia tradíciók](041_00_magia_tradiciok)
-		- [Magasmágia (mozaikmágia)](041_01_magasmagia.md) (25%)🚧
-		- Vulgármágia
-		- Ordani (godoni?) Tűzmágia
-		- Bárdmágia
-		- Sámánmágia
-		- Ork Énekmondói mágia
-		- Rituális mágia
+		- [Magasmágia (mozaikmágia)](041_01_magasmagia.md)
+		- [Vulgármágia](041_02_vulgarmagia.md)
+		- [Ordani (godoni?) Tűzmágia](041_03_ordani_tuzmagia.md)
+		- [Bárdmágia](041_04_bardmagia.md)
+		- [Sámánmágia](041_05_samanmagia.md)
+		- [Ork Énekmondói mágia](041_06_ork_enekmondoi_magia.md) 
+		- [Rituális mágia](041_07_ritualis_magia.md)
 	- [Papi tradíciók](042_00_papi_tradiciok.md) (0%)🚧
 	- [Fejvadász tradíció](043_fejvadasz_tradicio.md) (10%)🚧
 	- [Faji tradíciók](044_00_faji_tradiciok.md)
@@ -63,24 +63,24 @@
 - [Pszi](070_pszi.md) (40%)
 	  - [Pszi diszciplínák](071_pszi_diszciplinak.md) (0%)
 - [Mágia](080_magiarendszer.md) (40%)
-	- [Magasmágia](081_magasmagia.md) (Kyr mozaik, Godoni hagyomány) (20%)
+	- [Magasmágia](041_01_magasmagia.md) (Kyr mozaik, Godoni hagyomány)(0%)🚧
 		- [Elemi mágia iskola](magia.magas/elemi_magia.md) (50%) 🚧
-	- [Vulgármágia](082_vulgarmagia.md) (0%)
+	- [Vulgármágia](041_02_vulgarmagia.md) (0%) 
 		- [Árnyékmágia iskola](magia.vulgar/arnyekmagia.md) 🚧
-		- [Méregmágia iskola](magia.vulgar/meregmagia.md) ⭕
+		- [Méregmágia iskola](magia.vulgar/meregmagia.md) 🚧
 		- [Méregmágia szemita](magia.vulgar/meregmagia.szemita.md) 🚧
 		- [Nekromancia iskola](magia.vulgar/nekromancia.md) 🚧
 		- [Villámmágia iskola](magia.vulgar/villammagia.md) 🚧
-	- [Sámánmágia](085_samanmagia.md) (0%) ⭕
-		- [Idézések](magia.saman/idezesek.md)
-	- [Bárdmágia](083_bardmagia.md) (0%) ⭕
+	- [Ordani (godoni?) Tűzmágia](041_03_ordani_tuzmagia.md) (0%)🚧
+		- [Alapformák](magia.godoni.tuz/alapformak.md)
+	- [Bárdmágia](041_04_bardmagia.md) (0%)🚧
 		- [Dalmágia](magia.bard/dalmagia.md)
 		- [Fénymágia](magia.bard/fenymagia.md)
 		- [Hangmágia](magia.bard/hangmagia.md)
-	- [Godoni Tűzmágia](084_tuzmagia.md) (0%) ⭕
-		- [Alapformák](magia.godoni.tuz/alapformak.md)
-	- [Ork Énekmondói mágia](086_ork.enekmondoi.magia.md)
-	- [Rituálé](087_rituale.md)
+	- [Sámánmágia](041_05_samanmagia.md)  (0%)🚧
+		- [Idézések](magia.saman/idezesek.md)
+	- [Ork Énekmondói mágia](041_06_ork_enekmondoi_magia.md) (0%)🚧
+	- [Rituális mágia](041_07_ritualis_magia.md) (0%)🚧
 - [Papi mágia](090_papimagia.md) (10%) 🚧
 - [Varázstárgyak](100_varazstargyak.md)  (10%) 🚧
 - [Érzékelés, Észlelés](110_erzekeles_eszleles.md) (90%)
