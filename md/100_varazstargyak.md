@@ -4,7 +4,7 @@
 
 A varázstárgyakat három kategóriára bonthatjuk:
 - [Rúnamágiával felruházott tárgyak](#r%C3%BAnam%C3%A1gi%C3%A1val-felruh%C3%A1zott-t%C3%A1rgyak)
-- Ereklyék, Mágikus emitterek
+- [Ereklyék, Mágikus emitterek](#erekly%C3%A9k-m%C3%A1gikus-emitterek)
 - Szellem által megszállt tárgyak
 
 ## Rúnamágiával felruházott tárgyak
