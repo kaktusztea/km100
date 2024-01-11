@@ -38,7 +38,7 @@ Most lássuk a **Ork énekmondói Tradíció** egyes szintjeihez rendelt jellemz
 - ⭕xyz
 
 ---
-### Tűz Metamágia arkánum
+### Ork énekmondói Metamágia arkánum
 
 `6.` szinten az alábbi formulák érhetőek el Ork énekmondói Metamágia Arkánumban:
 - ⭕Leplezés⭕ - itt is legyen?
