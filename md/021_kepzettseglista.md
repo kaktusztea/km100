@@ -104,7 +104,7 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🔵[Mászás](kepzettsegek/maszas.md) <sup><sub>(90%)</sub></sup>
 
-🔵[Lovaglás](kepzettsegek/lovaglas.md) <sup><sub>(0%)</sub></sup>
+🔴[Lovaglás](kepzettsegek/lovaglas.md) <sup><sub>(0%)</sub></sup>
 
 🔵[Léglovaglás](kepzettsegek/leglovaglas.md) <sup><sub>(80%)</sub></sup>
 
