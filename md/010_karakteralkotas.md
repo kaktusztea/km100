@@ -372,9 +372,7 @@ iránt rendkívül fogékonyak. Remek emberismerő, vagy nagy művész válhat b
 Általában érzelemgazdag emberek, de van, akinél „mindössze" fantasztikus adottság, mélyebb érzelmek nélkül. Az ilyenekből lesznek a kiváló diplomaták, rettegett boszorkányok. Érzékei végtelenül kifinomultak.
 
 ```
-
-
----
+## Fogyatékosságok
 
 ### Vakság, süketség
 
