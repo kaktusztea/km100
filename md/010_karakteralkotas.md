@@ -15,6 +15,7 @@
     - [Emlékezet](#emlékezet)
     - [Önuralom](#önuralom)
     - [Érzékenység](#érzékenység)
+  - [Fogyatékosságok](#fogyat%C3%A9koss%C3%A1gok)
     - [Vakság, süketség](#vakság-süketség)
     - [Tartós sérültség](#tartós-sérültség)
   - [Tulajdonság értékek megállapítása](#tulajdonság-értékek-megállapítása)
