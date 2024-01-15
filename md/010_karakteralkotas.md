@@ -5,7 +5,7 @@
 
 - [Karakteralkotás](#karakteralkotás)
   - [Előtörténet, személyiség](#előtörténet-személyiség)
-  - [Szint, szintlépés, TP](#szint-szintlépés-tp)
+  - [Szint, szintlépés, TP](#szint-szintl%C3%A9p%C3%A9s)
   - [Tulajdonságok](#tulajdonságok)
     - [Erő](#erő)
     - [Edzettség](#edzettség)
