@@ -27,7 +27,7 @@
 	- [Titkos fortélyok](035_titkos_fortelyok.md) 
 	- [Misztikus fortélyok](036_misztikus_fortelyok.md) 
 - [Tradíciók](040_tradiciok.md) (60%)
-	- [Mágia tradíciók](041_00_magia_tradiciok)
+	- [Mágia tradíciók](041_00_magia_tradiciok.md)
 		- [Magasmágia (mozaikmágia)](041_01_magasmagia.md)
 		- [Vulgármágia](041_02_vulgarmagia.md)
 		- [Ordani (godoni?) Tűzmágia](041_03_ordani_tuzmagia.md)
