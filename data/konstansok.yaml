@@ -49,7 +49,7 @@ vértek:
   - posztó: 3
   - bőr: 6
   - keményített.bőr: 9
-  - brigantin: -1            # ⭕
+  - fegyverkabát: -1            # ⭕
   - lánc: 12
   - sodrony: 15
   - pikkely: 17              # ⭕
@@ -98,7 +98,7 @@ vértek:
     SFÉ.szúró: 3
     SFÉ.vágó: 5
     SFÉ.zúzó: 3
-  - struktúra: "brigantin"   # ⭕
+  - struktúra: "fegyverkabát"   # ⭕
     SFÉ.szúró: -1
     SFÉ.vágó: -1
     SFÉ.zúzó: -1
