@@ -4,7 +4,7 @@
 
 ```
 - Mentálmágia (mint spec képesség) == Dzsenn tradíció szintje
-- Magasmágia == Amund tradíció szintje
+- Magasmágia == Dzsenn tradíció szintje
 - 1 Od / minden 3. Dzsenn tradíció szint után
   (Hatalomszavak csak "Ősi nyelv ismerete - 9.szint"-től kezdve)
 ```
