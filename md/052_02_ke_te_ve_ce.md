@@ -13,7 +13,8 @@ A karakter Kezdeményező Értékét a következőképpen kell kiszámítani:
 | 🗡️ | Kezdeményező Érték meghatározása  |
 |:---:|---|
 |Konstans|10 (minden karakternek)|
-|2 x Gyorsaság|A karakter Gyorsaság Tulajdonságának kétszerese|
+|Gyorsaság|A karakter Gyorsaság Tulajdonsága|
+|Intelligencia|A karakter Intelligencia Tulajdonsága|
 |Szint|A karakter szintje|
 |Harcmodor KÉ|Harcmodor képzettség szintje által kapott bónusz (lásd a [Harcmodor képzettségeket](052_01_harcertekek_elemei.md#harcmodor-k%C3%A9pzetts%C3%A9gek)!)|
 |Mesterfegyver fortély|+2 fokonként|
