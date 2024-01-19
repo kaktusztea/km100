@@ -12,10 +12,11 @@ Az első mindig a misztikus, kalandos történet hangulata és annak karakterei 
 
 A számos szabály ellenére sok helyen pont nem találunk számolást igénylő cselekedeteket, így a rendszer jobban jutalmazza az egyedi ötleteket és a nem-kockadobós szituációk kötetlensége is jobban a **szerep**játékra helyezi a hangsúlyt.
 
-Mikor mégis belép a rendszer, olyankor a komplexebb események során a számolási terheket tudatosan eloszthatjuk a játékos és mesélő között. Ez utóbbi tehermentesítése is fontos szempont. Vannak "félkész" értékek, amiket a játékos (még dobálás előtt) előre kiszámolhat - így gyorsítva a játékot.
-Játékosok kreativitásának kiemelt mértékű jutalmazása nagyon fontos - ez a szituációk eltérő jellegének előtérbe helyezésével érhető el, az ötletes megoldások, jó szituáció-felismerés nagy előnyt adhat harci helyzetekben.
+Ha viszont a játékosnak van egy (nem feltétlenül harci) jó ötlete, taktikája, akkor jól definiált szabályokat, eszközöket kap hozzá, hogy azt megvalósítsa. Mikor mégis belép a rendszer, olyankor a komplexebb események során a számolási terheket tudatosan eloszthatjuk a játékos és mesélő között. Ez utóbbi tehermentesítése is fontos szempont. Vannak "félkész" értékek, amiket a játékos (még dobálás előtt) előre kiszámolhat - így gyorsítva a játékot.
 
-Szociális képzettségekből egyedül az Etikett létezik, a meggyőzés, megfélemlítés, átverés jellegű szituációk a KM és a játékos közti párbeszéden, illetve az elképzelt karakteren múlik, ezeket csak kapcsolódó fortélyok könnyíthetik meg, de nem pótolhatják. Az ilyen jellegű helyzetek eredménye egy "Emberismeret" képzettségpróba, ahol a célszámot a KM határozza meg az előadás alapján, így a rendszer a _szerep-játékra_ helyezi a hangsúlyt - szemben például egy számítógépes játékkal, ahol ezen értékek is mind számszerűsítve vannak. Az élő játék egyik legnagyobb előnyét fontosnak tartottuk kiemelten kezelni.
+A játékosok kreativitásának kiemelt mértékű jutalmazása nagyon fontos - ez a szituációk eltérő jellegének előtérbe helyezésével érhető el, az ötletes megoldások, jó szituáció-felismerés nagy előnyt adhat harci helyzetekben (is).
+
+Szociális képzettségekből egyedül az Etikett létezik, a meggyőzés, megfélemlítés, átverés jellegű szituációk a KM és a játékos közti párbeszéden, illetve az elképzelt karakteren múlik, ezeket csak kapcsolódó fortélyok könnyíthetik meg, de nem pótolhatják. Az ilyen jellegű helyzetek eredménye egy "Emberismeret" képzettségpróba, ahol a célszámot a KM határozza meg az előadás alapján, így a rendszer a **_szerep-játékra_** helyezi a hangsúlyt - szemben például egy számítógépes játékkal, ahol ezen értékek is mind számszerűsítve vannak. Az élő játék egyik legnagyobb előnyét fontosnak tartottuk kiemelten kezelni.
 
 A km100 rendszerében nincsenek kasztok, egyes jellemzőket szabad pontokból, másokat KP elköltésével lehet növelni.
 
