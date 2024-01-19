@@ -41,8 +41,8 @@ Mágiában kisebb/nagyobb mellékhatások jelennek meg, különösen nagy hatalm
 
 ### KP költésével növelt értékek
 
-- **Képzettségek**: Harci, Fizikai, Alvilági, Művészeti, Világi, Tudományos, Misztikus, **Tradíciók** (Mágikus, Papi, Fejvadász, Faji, Slan), Mágiaiskolák (Vulgár, Sámán, Bárd, Ordani tűz, Mozaik)
-- **Fortélyok**: Általános, Harci, Lovas, Íjász, Alvilági, Szociális, Világi, Tudományos, Művészeti, Mágikus/Misztikus, Pszí, Slan
+- **Képzettségek**: Harci, Fizikai, Alvilági, Művészeti, Világi, Tudományos, Misztikus, **Tradíciók** (Mágikus, Papi, Fejvadász, Faji, Slan), Mágiaiskolák (Magas, Vulgár, Ordani tűz, Bárd, Sámán, Ork énekmondói, Rituális)
+- **Fortélyok**: Általános, Harci, Misztikus, Karma, Háttér
 - **Harcérték módosítók** (HM)
 
 ---
