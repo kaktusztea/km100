@@ -166,7 +166,7 @@ Bejutottál ellenfeled fegyverének fenyegető vége mögé, testközelbe, de ne
 - Átnézni ezeket a fortélyokat. Belharc fortély is kell hozzájuk?
 ```
 
-Továbbá pár manőver könnyebbé válik Belharci szituációban: **Gáncsolás/lábsöprés** (belharcban `+2` Ellenpróbánál)
+Továbbá pár manőver könnyebbé válik Belharci szituációban: [Gáncsolás/lábsöprés](055_05_manoverek.md#%EF%B8%8Fg%C3%A1ncsol%C3%A1s--l%C3%A1bs%C3%B6pr%C3%A9s-l%C3%A1bbal) (belharcban `+2` Ellenpróbánál)
 
 #### Belharcba kerülés manőver
 
