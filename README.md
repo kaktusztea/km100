@@ -36,7 +36,7 @@ Mágiában kisebb/nagyobb mellékhatások jelennek meg, különösen nagy hatalm
 
 ### Szabad pontok
 
-- **Tulajdonságok**: Erő, Edzettség, Ügyesség, Gyorsaság, Intelligencia, Emlékezet, Önuralom, Érzékenység;&nbsp;&nbsp;&nbsp;+Érzékek származtatva
+- **Tulajdonságok**: Erő, Edzettség, Ügyesség, Gyorsaság, Intelligencia, Emlékezet, Önuralom, Érzékenység
 - **Származtatott Harcértékek**: KÉ, TÉ, VÉ, CÉ, MFP (Manőverfejlesztő Pont)
 
 ### KP költésével növelt értékek
