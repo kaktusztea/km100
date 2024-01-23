@@ -16,7 +16,7 @@ Harcértékek = gyalogos harcértékek  +  harcmodor bónuszok Lovaglás képzet
 (Lovas harc fortély fokától függő mértékben)
 ```
 
-Akinek csak Lovaglás képzettsége van, még nem képes lóról harcolni, gyalogos harcértékeihez a képzetlen harcmodor harcérték levonásai adódnak **pluszban*** hozzá.
+Akinek csak Lovaglás képzettsége van, még nem képes lóról harcolni, gyalogos harcértékeihez a képzetlen harcmodor harcérték levonásai adódnak **pluszban** hozzá.
 
 - **Követelmény**: [Lovas harc](fortelyok.harci/lovas_harc.md) fortély
 - Az alapból használt gyalogos harcmodor harcértékei (pl. Kardvívás) számítanak és ehhez **hozzáadódik** a Lovaglás képzettségből - mint egy újabb harcmodorból adódó - bónuszok a [Lovas harc](fortelyok.harci/lovas_harc.md) fortélynál leírt mértékben.
