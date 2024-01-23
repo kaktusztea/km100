@@ -33,7 +33,7 @@ Ha nincs épp Etikett az adott szituációban szükséges kultúrkörből, akkor
 | Könnyű       (6)  | Forma szerint bejelenteni a nemesi párt. |
 | Átlagos      (9)  | Forma szerint bejelenteni az ellenséges országból érkező követeket, pár mondatos bájcsevegést folytatni velük. |
 | Nehéz        (12) | Saját kultúrán belül mindenkivel rangjához illő formulákkal, szófordulatokat kommunikálni a teljes könnyedség látszatával, véletlen sértések elkerülésével. |
-| Nagyon nehéz (15) | Idegen kultúrába csöppenve elkerülni a sértéseket. Nemesi bálon hárítani a szóbeli rejtett  támadásokat. Szándékos bárbaj provokációt presztízsveszteség nélkül hárítani. |
+| Nagyon nehéz (15) | Idegen kultúrába csöppenve elkerülni a sértéseket. Nemesi bálon hárítani a szóbeli rejtett  támadásokat. Szándékos párbaj provokációt presztízsveszteség nélkül hárítani. |
 | Rendkívül nehéz (18) | Toroni vérnászt megnyerni. Több toroni dáma együttes támadását látszólag könnyedén hárítani. |
 | Emberfeletti (21) | Egy toroni nemesnek - kiről egy napja nyílt titok, hogy lebukott ereni ügynök -, túlélnie egy toroni vérnászt és az egész nemesi bált, sőt még a párbajra hívást is. |
 
