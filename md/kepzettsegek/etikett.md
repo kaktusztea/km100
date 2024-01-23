@@ -1,6 +1,6 @@
 #### 🔵 Etikett (adott kultúrkör)
 
-**Próba**: dobható
+**Próba**: dobható, sokszor [összetett próba](../020_kepzettsegrendszer.md#%C3%B6sszetett-k%C3%A9pzetts%C3%A9gpr%C3%B3ba-m%C3%A1sodlagos-pr%C3%B3badob%C3%A1sok) indokolt
 
 **Domináns Tulajdonságok**: Érzékenység, Intelligencia, Önuralom, Emlékezet
 
