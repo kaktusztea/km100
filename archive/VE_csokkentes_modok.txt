@@ -1,0 +1,43 @@
+### a.) VÉ csökkentés
+
+**VÉ csökkentés** - HA MEGVAN A VÉGLEGES, AKKOR MÓDOSÍTANI ANNAK MEGFELELŐEN MINDENHOL A HARCRENDSZER DOKBAN!!
+
+Hátrányos helyzetű: (3 lehetőség van)
+
+### a.) megoldás verziói
+- I. Nem csökkent VÉ-t
+- II. fix 2 VÉ-t csökkent...?
+- III. (Kiskocka/2) (fel vagy lefele kerekítve)
+- Előnyös helyzetű: kiskockával csökkent VÉ-t
+- +2 pengehossznál: nagykockával csökkent VÉ-t
+
+
+### b.) Ugyanez, csak 1 kategóriával nagyobb csökkentés
+- hátrányos helyzetű: kiskockával csökkent VÉ-t
+- Előnyös helyzetű: nagykockával csökkent VÉ-t
+- +2 pengehossznál: 2 kocka összegével csökkent VÉ-t
+- De ez már brutális lenne. 2 kör és vége a harcnak.
+
+Esetleg emelni az alap VÉ-t.. Az viszont az Első Vágás manőver és meglepetésből támadásokat rontaná le.
+
+
+### c.) Mindenki **kiskockával** csökkent - **MOST EZT HASZNÁLJUK**
+
+- Hátrányos helyzetű: -1 (-2)
+- Előnyös helyzetű: +1 (+2)
+- Fárasztás harci taktika: kiskockából nagykockát csinál (az alkalmazó 3 VÉ csökkenést szenved el)
+
+---
+## Túlütés, VÉ csökkentés
+
+### a.) 2 sávos módszer - **MOST EZT HASZNÁLJUK**
+- adunk +20 VÉ-t mindenkinek
+- így a sima találat (TÉ dobás>=VÉ) rögtön sebző
+- ami támadó dobás a VÉ alá megy, az mindig VÉ-t csökkent. Muszáj, mert egy pajzsos fickó VÉ-jét senki nem verné le soha...
+
+### b.) 3 sávos módszer
+- marad, ahogy most
+- 20-al túl kell ütni a VÉ-t sebzéshez
+- VÉ csökkentés csak akkor van, ha túldobta a támadó a VÉ-t.
+
+
