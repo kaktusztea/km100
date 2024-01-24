@@ -620,7 +620,7 @@ A karakterek 1. szinten `150 KP`-t (KP Alap), valamint minden szinten (elsőn is
     (CM = Célzó Érték Módosító, ami a CÉ-re fordítandó harcérték módosítót jelöli)
   - ⭕`max 5 HM/szint` tehető egy harcértékre⭕
   
-  - Mágiaiskolák: Átlagos képzettségek. Csak azok a mágiaiskolák tanulhatóak, amelyek a karakter által ismert mágia tradíció alá tartoznak.
+- Mágiaiskolák: Átlagos képzettségek. Csak azok a mágiaiskolák tanulhatóak, amelyek a karakter által ismert mágia tradíció alá tartoznak.
 
 - Pszí tradíció, Pszí iskolák
   - Pszí-alkalmazás: `4 fokú fortély` egyre erősebb követelményekkel. Az alkalmazás fokát adja, nélküle nem lehet ψ iskolát tanulni.
