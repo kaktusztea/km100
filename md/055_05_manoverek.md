@@ -43,6 +43,7 @@
 	- [Távoltartás](#%EF%B8%8Ft%C3%A1voltart%C3%A1s)
 	- [Terelés](#%EF%B8%8Fterel%C3%A9s)
 
+- [Lovas Manőverek](#xxx)
 - [Egyszerű példa egy Manőver alkalmazására](#Egyszerű-példa-egy-Manőver-alkalmazására)
 - [Összetettebb példa egy Manőver alkalmazására](#Összetettebb-példa-egy-Manőver-alkalmazására)
 
@@ -555,7 +556,12 @@ Nem támadsz, hanem ⭕TODO⭕
 
 <br/> 
 
+---
+### Lovas Manőverek
 
+A lóval és ló ellen végbevihető Manőverek a [Lovas harc](056_lovas_harc.md#lovas-man%C5%91verek) fejezetben találhatóak.
+
+<br/> 
 
 ---
 ### ⚡Egyszerű példa egy Manőver alkalmazására
