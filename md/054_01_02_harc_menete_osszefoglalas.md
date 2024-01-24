@@ -17,7 +17,7 @@ Bónusz: Vértviselet – 3.szint : teljes vért SFÉ-je hozzáadható a VÉ-hez
 ---
 ### Kezdeményezés
 
-Minden kör elején van kezdeményezés, ami csak a cselekvési sorrend meghatározására szolgál, nem jelent dominanciát, vagy a harc irányítását. `1` kört `10` szegmenst (másodpercet) szimbolizál.
+Minden kör elején van kezdeményezés, ami csak a cselekvési sorrend meghatározására szolgál, nem jelent dominanciát, vagy a harc irányítását.
 
 KÉ dobás: `KÉ+k10` és a magasabb számot kapott kezd, `10`-es (`0`) dobásra rá lehet dobni újra
 
