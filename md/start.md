@@ -12,7 +12,7 @@
 ## Karakteralkotók
 
 - [Karakteralkotáshoz táblázatok v6.3 (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_karakteralkotas_v6.3.pdf?raw=true)
-- [JK Karakteralkotó v7.6 (ODS)](https://github.com/kaktusztea/km100/raw/master/segedlet/karakteralkoto_v7.6.ods?raw=true) <sub><sup>([LibreOffice](https://www.libreoffice.org/download/download/))</sup></sub>
+- [JK Karakteralkotó v7.7 (ODS)](https://github.com/kaktusztea/km100/raw/master/segedlet/karakteralkoto_v7.7.ods?raw=true) <sub><sup>([LibreOffice](https://www.libreoffice.org/download/download/))</sup></sub>
 - [NJK Karakterlapok v1.1 (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.1.pdf?raw=true)
 
 ## Részletes szabályrendszer
