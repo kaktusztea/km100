@@ -83,7 +83,7 @@ Megveted lábad és szálfegyvered végét a földbe támasztod. A fegyver hegye
 - Nehézség: 4⭕
 - Fázisok: (M)egakasztás, (E)llenpróba
 - Végbevitel követelménye: csak akkor lehet használni ha a szálfegyveres előnyben van fegyverhosszban a lovashoz képest!
-- Hatás: Sebző dobást teszel mielőtt a lovas lecsaphatna rád ⭕és a lovas elveszíti támadását, továbbrobog.⭕
+- Hatás: Sebző dobást teszel a lovasra mielőtt az lecsaphatna rád. ⭕A lovas elveszíti támadását és - csapásod eredmémyétől függően -  továbbrobog.⭕
 
 ---
 ### Manőver: Lótáncoltatás
