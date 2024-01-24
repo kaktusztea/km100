@@ -28,7 +28,7 @@ Azonos kezdeményezésnél: egyszerre csapnak
 ---
 ### Támadás
 
-Támadó dobás: `TÉ + k100`; `1 kör = 5 szegmens`
+Támadó dobás: `TÉ + k100`
 
 Minden újabb támadás a körben `TÉ:-10`-vel megy,
 
