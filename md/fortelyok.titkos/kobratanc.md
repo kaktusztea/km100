@@ -14,12 +14,15 @@ Harci transz ⭕(kizökkenéshez mi kell?)⭕
 - Nő a harcos Sebesség értéke: `+5`
   - ⭕Ez értelmetlen, mert annyit támad, amennyit az ellenfelek rá!!⭕
 - Sebzés: `k20+2 SP` <sup><sub>(semmi más bónusz nem számít)</sup></sub>
-- TÉ: `+10`
+  - max 6 ÉP seb??
+- TÉ: `+10` vagy `+15`??
+- VÉ: `+10`??
 - ⭕Páncéldobás esélyeit módosítja:⭕
   - ⭕nagyobb esély a végtagokra⭕  VAGY
   - ⭕`-20%` a páncéldobásra⭕
 - Támadások száma: max annyi, amennyi az ellenfél(felek) támadásai össz, mivel regál a támadásokra. Lemesélve:
   - Ő dob először (megelőző) támadást. Ha az sikeres (sebző), akkor az ellenfél elveszíti a támadását.
+
 
 <br />
 
