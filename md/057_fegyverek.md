@@ -174,7 +174,7 @@ Puszta kéz:  KÉ:-10,  TÉ:0,  VÉ:-10
 
 | **Fegyver**         | Forgatás módja | SP  | Sebzés módja | **Átütés** | **Pengehossz** | KÉ  | TÉ  | VÉ  | Sebesség | Speciális                        |
 | ------------------- | -------------- | --- | ------------ | ---------- | -------------- | --- | --- | --- | -------- | -------------------------------- |
-| ⭕Alabárd           | kétkezes       |     |              |            |                |     |     |     |          | Talán a legjobb a páncélok ellen |
+| ⭕Alabárd           | kétkezes       |     |  S+Z/V       |            |                |     |     |     |          | Talán a legjobb a páncélok ellen |
 | ⭕Bot, hosszú       | kétkezes       |     | Z            | 0          |                |     |     |     |          |                                  |
 | Lándzsa             | kétkezes       |     | S            |            | 3 penge        | 12  | 24  | 24  |          |                                  |
 | ⭕Pika              | kétkezes       |     | S            |            |                |     |     |     |          |                                  |
