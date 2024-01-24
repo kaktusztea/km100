@@ -2,7 +2,7 @@
 ## A harc menete – összefoglalás
 
 ```
-- KÉ = 10 + (2 x Gyorsaság) + Tapasztalati szint + Harcmodor bónusza + Fegyver KÉ
+- KÉ = 10 + (2 x Gyorsaság) + Tapasztalati szint + Harcmodor/Mágia-Tradíció bónusza + Fegyver KÉ
 
 - TÉ = 20 + 2 x (Erő + Ügyesség + Gyorsaság) + HM + Harcmodor bónusza + Fegyver TÉ
 
