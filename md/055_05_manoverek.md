@@ -43,7 +43,7 @@
 	- [Távoltartás](#%EF%B8%8Ft%C3%A1voltart%C3%A1s)
 	- [Terelés](#%EF%B8%8Fterel%C3%A9s)
 
-- [Lovas Manőverek](#xxx)
+- [Lovas Manőverek](#lovas-man%C5%91verek)
 - [Egyszerű példa egy Manőver alkalmazására](#Egyszerű-példa-egy-Manőver-alkalmazására)
 - [Összetettebb példa egy Manőver alkalmazására](#Összetettebb-példa-egy-Manőver-alkalmazására)
 
