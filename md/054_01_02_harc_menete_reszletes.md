@@ -10,7 +10,7 @@ A fentiekben kifejtettük az egyes harcértékek kiszámításának módját. Mo
 ---
 ### Harci kör
 
-A harcot körökre osztjuk, minden kör ⭕**5 szegmenst**⭕ ölel fel. Ebben cselekedhet mindenki a kezdeményezés által meghatározott sorrendben.
+A harcot körökre osztjuk, ebben cselekedhet mindenki a kezdeményezés által meghatározott sorrendben.
 
 ---
 ### Cselekedetek
