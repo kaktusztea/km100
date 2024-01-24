@@ -463,9 +463,10 @@ Ha meg akarod fosztani ellenfeledet fegyverétől, vagy kiütve kezéből, vagy 
 - **3.fok**: Követelmény: 2.fok megléte, Harcmodor képzettség – `9.szint` és Mesterfegyver fortély (választott fegyver) – `2.fok`
 - **Plusz módosító**: a használt fegyver mennyire alkalmas a másik fegyver elvételére. A KM dönt: `[-2;+4]` (Kétkezes harc sok esetben megkönnyíti a lefegyverzést)
 - Végbevitel követelménye: -
-- **Speciális**: 
-	- Hogy fegyvercsellel, végtagsebzéssel, vagy fegyvertöréssel fosztja meg ellenfelét a karakter, arról a KM dönt és az esetleges módosítókat is ő határozza meg.
-	- Karmok és szarvak ellen nem használható a Manőver, ott **Csonkolás** szükséges
+- **Speciális**:
+  - fából készült **szálfegyverek** törése alapból `2`-vel kisebb Nehézségű (`8`)
+  - Hogy fegyvercsellel, végtagsebzéssel, vagy fegyvertöréssel fosztja meg ellenfelét a karakter, arról a KM dönt és az esetleges módosítókat is ő határozza meg.
+  - Karmok és szarvak ellen nem használható a Manőver, ott **Csonkolás** szükséges
 - Hatás: A lefegyverzés sikeres. Ellenfeled kezéből kihullik a fegyver, vagy eltörik.
 
 ---
