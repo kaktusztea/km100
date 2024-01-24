@@ -20,8 +20,6 @@ Menet felfelé:
 
 **Domináns Tulajdonságok**: Ügyesség (a mászáshoz), Önuralom (rontott próbánál), Erő (erőtartalék kritikus helyzetben), Edzettség (rontáskor kitartani), Intelligencia (felmérni a mászandó terepet, helyeket)
 
-**Képzettség párja**: ⭕akrobatika?
-
 **Kapcsolódó fortélyok**: ⭕Biztos kezű mászó, Pók, ⭕Tapadás
 
 **Leírás**: Sokszor fordul elő, hogy fel kell jutni olyan helyekre, ahova egy átlagember nem képes. Ebben segít a Mászás képzettség. Magas szintű alkalmazói jellemzően egyes tolvaj- és fejvadászklánok elit tagjai.
@@ -39,6 +37,12 @@ Ha a terep (próba) nehézsége nem nagyobb a a Mászás képzettségnél, akkor
 | Mester (9)       | Ismeri az összes mászási technikát és faltípust, mászáshoz szükséges csomókat. Jó látási viszonyok közt ránézésre nagyjából meg tudja mondani, mennyire omladékos a terep. Tudja milyen testhelyzetben pihenjen kapaszkodás közben.<br />**Példa**: Képzett hegymászó, profi besurranó tolvaj | - | Erő:&nbsp;-2<br />Ügyesség:&nbsp;+2<br />Önuralom:&nbsp;+1 |
 | Nagymester (12)  | A fentieken kívül képes úgy tartalékolni az erejét, hogy hosszabb távon se fárad ki. Akár ⭕fél óráig⭕ is tartja magát puszta kézzel.<br />**Példa**: Neves mestergyilkos, behatoló egység vezető fejvadásza | - | Erő:&nbsp;-2<br />Ügyesség:&nbsp;+3<br />Önuralom:&nbsp;+2<br />Összpontosítás:&nbsp;3.szint |
 | Élő legenda (15) | Ilyen nincs!! A puszta, csúszós sziklafalon is felkúszik. Kézfeje, lába deformálódott – alkalmazkodva a mászás követelményeihez. Félmágikus hatású fortélyokat tanul. Függeszkedve ⭕1 órát⭕ is kibír!<br /> **Példa**: mágiával kondicionált elit birodalmi fejvadász | **„Tapadás”** fortély tanulható  | Erő:&nbsp;-2<br />Ügyesség:&nbsp;+4<br />Önuralom:&nbsp;+3<br />Összpontosítás:&nbsp;6.szint |
+
+<br />
+
+> Összhang
+
+Az [Akrobatika](akrobatika_eses_ugras.md) képzettség - helyzettől és a KM döntésétől függően - működhet [Összhangként](../020_kepzettsegrendszer.md#%C3%B6sszhangok).
 
 <br />
 

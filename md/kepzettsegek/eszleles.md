@@ -9,8 +9,6 @@
 - Érzékenység (fizikai érzékekre is ez használandó)
 - Intelligencia
 
-**Képzettség párja**: -
-
 **Kapcsolódó fortélyok**: Éber alvó
 
 **Leírás**: Az Észlelés valaminek az észrevételét takarja. Ez lehet egy villanó tőr, egy meglapuló merénylő a lombok közt, egy árulkodó súrlódó nesz. Fontos, hogy az Észlelés csak a momentum észrevételt jelenti, annak értelmezését nem! Az a játékos feladata, melyet esetleg megkönnyíthet a **Nyomolvasás** képzettség.

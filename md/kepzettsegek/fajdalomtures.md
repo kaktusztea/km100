@@ -4,8 +4,6 @@
 
 **Domináns Tulajdonságok**: Önuralom
 
-**Képzettség párja**: -
-
 **Kapcsolódó fortélyok**: [Harci láz](../fortelyok.harci/harci_laz.md), [Kínokozás](../fortelyok.harci/kinokozas.md), [Fakír](../fortelyok.altalanos/fakir.md), [Harci láz](../fortelyok.harci/harci_laz.md), ⭕[Harc mindhalálig](https://github.com/kaktusztea/km100/wiki/ISSUE.TODO.fortelyok#harc-mindhal%C3%A1lig)(nem létezik még)⭕
 
 **Leírás**: Legyőzni a fájdalmat, legyőzni önmagunkat. Ez a képzettség nem véletlenül kapcsolódik szorosan a harchoz, hiszen az a harcos, aki nem képes legyűrni sebei fájdalmát, hamar elhullik. 

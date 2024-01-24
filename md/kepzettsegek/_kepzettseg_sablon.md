@@ -4,8 +4,6 @@
 
 **Domináns Tulajdonságok**: xyz
 
-**Képzettség párja**: -
-
 **Kapcsolódó fortélyok**: xyz
 
 **Leírás**: xyz
@@ -43,6 +41,5 @@
 
 ---
 
-<sub>
-Megjegyzés a kidolgozáshoz: Képzettség párok<br />Bizonyos képzettségek „függésben" vannak egymástól, azaz az adott képzettség legfeljebb egy meghatározott szinttel lehet magasabb a másik, kapcsolódó képzettségnél. Az ilyen egyedi függéseket jelezzük az adott képzettség leírásánál.<br />Tehát, ha az épp kidolgozandó képzettségnek van ilyen párja, azt külön írjátok bele, de ne a leírásba, hanem külön sorba: "Képzettség párja: xyz képzettség"
-</sub>
+
+*Megjegyzés a kidolgozáshoz: [Összhangok](../020_kepzettsegrendszer.md#%C3%B6sszhangok). Bizonyos képzettségek "besegíthetnek" az adott képzettségbe, ezt nevezzük Összhangnak. Amennyiben ilyen előfordul az adott képzettségnél, akkor a "Próbák" bekezdés fölé illesszünk be egy "Összhangok" bekezdést.*

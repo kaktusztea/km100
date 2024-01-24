@@ -4,8 +4,6 @@
 
 **Domináns Tulajdonságok**: Emlékezet, Intelligencia
 
-**Képzettség párja**: -
-
 **Kapcsolódó fortélyok**: -
 
 **Leírás**: Ez a képzettség szándékosan különül el a Történelemismeret képzettségtől. A következőket kell tudni róla:

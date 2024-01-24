@@ -12,8 +12,6 @@
 
 **Domináns Tulajdonságok**: ⭕xyz
 
-**Képzettség párja**: -
-
 **Kapcsolódó fortélyok**: ⭕xyz
 
 **Leírás**: Beletartozik a rejtőzködés is. ⭕xyz

@@ -15,7 +15,6 @@
   - [Próba képzetlenül](#próba-képzetlenül)
   - [Összetett képzettségpróba, Másodlagos próbadobások](#összetett-képzettségpróba-másodlagos-próbadobások)
   - [Összhangok](#összhangok)
-  - [Képzettség párok](#képzettség-párok)
   - [Sérülés hatása képzettségpróbára](#sérülés-hatása-képzettségpróbára)
 
 Mikor a játékos megalkotja karakterét, amellyel Ynev világán kalandozni fog, meghatározza azokat az ismereteket, jártasságokat, amelyeket az - addigi élete során - elsajátított. A km100 rendszere a fentieket a képzettségek és fortélyok tanulásával szimulálja. Ebben a fejezetben a Képzettségekkel fogunk foglalkozni. Minden Képzettséget egy számértékkel jellemzünk, amelyből kiderül, tulajdonosa mennyire jártas az adott témában.
@@ -219,11 +218,6 @@ Ilyen esetekben attól függően, hogy mennyire kapcsolódik, a „kiegészítő
 ```
 
 Például a karakter dulakodás nyomait találja egy erdei tisztáson. Valamilyen állat is ott volt. Ekkor `Nyomolvasás` képzettségpróbát kell dobnia, de mivel nagy segítséget jelentene, ha tudná, hogy milyen állat is volt jelen, ezért ebben az esetben a `Természetjárás` képzettség kiegészítő képzettségként működik. Mivel a jelen próbához a `Természetjárás` erősen kapcsolódik, ezért annak `1/3`-a hozzáadható a karakter Nyomolvasás képzettségéhez (a próba idejére).
-
----
-### Képzettség párok
-
-Bizonyos képzettségek „függésben" vannak egymással, azaz az adott képzettség legfeljebb egy meghatározott szinttel lehet magasabb a másik, kapcsolódó képzettségnél. Az ilyen egyedi függéseket jelezzük az adott képzettség leírásánál.
 
 ---
 ### Sérülés hatása képzettségpróbára

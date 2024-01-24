@@ -4,8 +4,6 @@
 
 **Domináns Tulajdonságok**: Érzékenység, Intelligencia, Önuralom, Emlékezet
 
-**Képzettség párja**: -
-
 **Kapcsolódó fortélyok**: -
 
 **Leírás**: Hogy kell köszönteni a nemesi vendégeket, hogyan kell udvariasan hárítani egy meghívást, mi számít könnyed tréfának és mi halálos sértésnek? Egy adott kultúrkör (pl. toroni) etikettjében jártas egyén jól elboldogul a fenti problémákkal. A képzettség tehát nem más, mint a nemesi környezetben való érvényesülés képessége. A képzettség többször felvehető - különböző kultúrkörökre külön-külön.

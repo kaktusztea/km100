@@ -8,8 +8,6 @@
 
 **Domináns Tulajdonságok**: Érzékenység, Intelligencia
 
-**Képzettség párja**: -
-
 **Kapcsolódó fortélyok**: Szónoklás, Meggyőzés, Hazudozás, Megfélemlítés
 
 **Leírás**: Más emberek viselkedésének, hangulatának feltérképezését, belső motivációinak kiismerését célzó „tudomány". Ennek az ismeretnek az elsajátítását leginkább a nagybetűs ÉLET segíti. Sok-sok beszélgetés, néha keserű tapasztalat.

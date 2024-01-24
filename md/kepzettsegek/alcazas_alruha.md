@@ -9,8 +9,6 @@
 **Domináns Tulajdonságok**: Ügyesség, Intelligencia, Önuralom,
 Érzékenység
 
-**Képzettség párja**: -
-
 **Kapcsolódó fortélyok**: Százarcú, Élő álca, ⭕`Kaméleon (2. képzettség szintenként kap egy új szerepet)`⭕
 
 **Leírás**: Az álcázás nagy előny, főleg ha vadásznak rád. Megfelelő maszk, smink, ruha, ezek elengedhetetlenek. Egy jó bajusz csodákat tehet, csak le ne essen a kritikus pillanatban.
