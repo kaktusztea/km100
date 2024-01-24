@@ -195,6 +195,7 @@ Majdnem minden fegyver rendelkezik egy **elsődleges támadási (sebzési) típu
 
 A Harcrendszer végén található **Fegyvertáblázatban** minden fegyver támadási típusa megtalálható.
 
+---
 #### Egyenjogú támadási típus
 ```
 - nincs levonás egyik támadás típusnál sem
