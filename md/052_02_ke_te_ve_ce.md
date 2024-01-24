@@ -16,7 +16,7 @@ A karakter Kezdeményező Értékét a következőképpen kell kiszámítani:
 |Gyorsaság|A karakter Gyorsaság Tulajdonsága|
 |Intelligencia|A karakter Intelligencia Tulajdonsága|
 |Szint|A karakter szintje|
-|Harcmodor KÉ|Harcmodor képzettség szintje által kapott bónusz (lásd a [Harcmodor képzettségeket](052_01_harcertekek_elemei.md#harcmodor-k%C3%A9pzetts%C3%A9gek)!)<br />Varázslás kezdeményezése esetén itt a használt [Mágia Tradíció](041_00_magia_tradiciok.md) képzettség szintje számít. A bónuszok számítása a fentivel azonos.|
+|Harcmodor KÉ|Harcmodor képzettség szintje által kapott bónusz (lásd a [Harcmodor képzettségeket](052_01_harcertekek_elemei.md#harcmodor-k%C3%A9pzetts%C3%A9gek)!)<br />Varázslás kezdeményezése esetén itt a használt [Mágia Tradíció](041_00_magia_tradiciok.md) képzettség szintje számít. A bónuszok számítása a fentivel [azonos](052_01_harcertekek_elemei.md#harcmodor-k%C3%A9pzetts%C3%A9gek).|
 |Mesterfegyver fortély|+2 fokonként|
 |Speciális|- Gyors Kezdeményezés fortély: `+4 KÉ`<br>  - Szituációkból adódó módosítók<br>  - Mágia hatására kapott módosító|
 
