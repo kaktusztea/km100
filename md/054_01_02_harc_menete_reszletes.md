@@ -184,10 +184,24 @@ Egyes fegyverek többféle támadási formát is lehetővé tesznek, gondoljunk 
 
 ---
 #### Elsődleges támadási típus
+```
+- TÉ:-10   - másodlagos támadási típussal
+- TÉ:-20   - alkalmatlan támadási típussal
+- jelölése "/" jellel: például "V/S"
+- V: Vágás;  S: Szúrás;  Z: Zúzás
+```
 
-Minden fegyver rendelkezik egy elsődleges támadási (sebzési) típussal, pl. szúrás. Ha emellett más típusú támadásra is alkalmas, az csak másodlagos lehet. Ha a karakter nem jelenti be, hogy milyen típusú támadást akar leadni, akkor mindig az elsődleges támadás típust vesszük megtörténtnek. Például a hosszú kard támadási típusa: vágás/szúrás. Ekkor az alapértelmezett támadási típus a vágás. Ha a karakter bejelenti, hogy szúrni szeretne, akkor azt -10TÉ módosítóval teheti meg. Ha pedig zúzni szeretne (amire a fegyver alkalmatlan), akkor – ha a KM engedi – azt `-20TÉ`-vel teheti meg.
+Majdnem minden fegyver rendelkezik egy **elsődleges támadási (sebzési) típussal**, pl. szúrás. Ha emellett más típusú támadásra is alkalmas, az legtöbbször másodlagos lehet (kivételeket lásd lejjebb az "Egyenjogú támadási típus" bekezdésben). Ha a karakter nem jelenti be, hogy milyen típusú támadást akar leadni, akkor mindig az elsődleges támadás típust vesszük megtörténtnek. Például a hosszú kard: vágás/szúrás (V/S). Ekkor az alapértelmezett támadási típus a vágás. Ha a karakter bejelenti, hogy szúrni szeretne, akkor azt `TÉ:-10` módosítóval teheti meg. Ha pedig zúzni szeretne (amire a fegyver alkalmatlan), akkor – ha a KM engedi – azt `TÉ-20`-vel teheti meg.
 
 A Harcrendszer végén található **Fegyvertáblázatban** minden fegyver támadási típusa megtalálható.
+
+### Egyenjogú támadási típus
+```
+- nincs levonás egyik támadás típusnál sem
+- jelölése "+" jel: például "S+V"
+```
+
+Egyes fegyverekkel többféle támadási típust lehet használni anélkül, hogy a forgató hátrányba kerülne és levonást szenvedne el a TÉ-ből. Ilyen fegyvereknél az egyes támadási típusokat "+" jellel választjuk el.
 
 ---
 #### Átütés
