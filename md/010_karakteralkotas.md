@@ -52,11 +52,9 @@ Rövid áttekintő summázatként álljanak itt a számok, amelyekkel a karakter
 
 ### KP költésével növelt értékek
 
-- **Képzettségek**: Harci, Fizikai, Alvilági, Művészeti, Világi, Tudományos, Misztikus, Mágiaiskolák (Vulgár, Sámán, Bárd, Ordani tűz, Mozaik)
+- **Képzettségek**: Harci, Tradíciók, Fizikai, Alvilági, Művészeti, Világi, Tudományos, Misztikus, Mágiaiskolák (Vulgár, Sámán, Bárd, Ordani tűz, Mozaik)
 - **Fortélyok**: Általános, Harci, Lovas, Íjász, Alvilági, Szociális, Világi, Tudományos, Művészeti, Mágikus/Misztikus, Pszí, Slan
 - **Harcérték módosítók** (HM)
-- **Tradíciók** (Mágikus, Slan, Papi mágia), **Féltradíciók** (Quars, fejvadász)
-- **Pszi pont, Mana pont**
 
 ---
 ## Előtörténet, személyiség
@@ -570,7 +568,7 @@ Lásd a [Pszi](070_pszi.md) fejezetet!
 
 ## Primer és Szekunder ismeretek kategóriái
 ```
-→ Primer ismeretek: minden harci, misztikus, mágikus képzettség, fortély + Észlelés, Összpontosítás, Fájdalomtűrés képzettség, HM, CM, Mana, Pszí pont
+→ Primer ismeretek: minden harci, misztikus, mágikus képzettség, fortély + Észlelés, Összpontosítás, Fájdalomtűrés képzettség, HM, CM
 → Szekunder ismeretek: minden más
 ```
 
@@ -596,11 +594,16 @@ KP = 150 + (Tapasztalati szint x (80 + Intelligencia)) +
 A karakterek 1. szinten `150 KP`-t (KP Alap), valamint minden szinten (elsőn is) `(80+Intelligencia) KP`-t kapnak. Ezen felül további `(15+Emlékezet) KP` jár szintenként, amit csak olyan ismeretre fordíthatnak, amelyek  [Szekunder ismeretek](#primer-%C3%A9s-szekunder-ismeretek-kateg%C3%B3ri%C3%A1i) csoportba tartoznak. A játékosnak a fenti Karakter Pontjaiból kell felvennie a következőket:
 
 - Képzettségek
-  - A harci és misztikus képzettségek szintje legfeljebb `szint+3` lehet
+  - A harci, misztikus és Tradíció képzettségek szintje legfeljebb `szint+3` lehet
   - A többi képzettség értéke pedig legfeljebb `szint+8` lehet
   - Szintlépéskor `legfeljebb 2-vel` növelhetőek a képzettségek, kivéve, ha 0-ról akar valaki egy képzettséget tanulni (ilyenkor szintlépéskor `maximum 3.szintre` növelheti egy lépésben a képzettséget).
   - Egy Átlagos, vagy Specializáció képzettség `legfeljebb 3`-al lehet magasabb, mint az őt magába foglaló Átfogó, vagy Átlagos képzettség. Ha nincs fölé tartozó képzettség (pl. Nyelvismeret esetén), akkor természetesen nincs felső korlát.
   - A képzettségek egyes kiemelt szintjeinek is lehetnek követelményei! Magas szinten főleg.
+
+````diff
+- Ötlet: Esetleg fel lehessen venni Tradíciót később is, de 4 szinten keresztül kelljen tanulni.
+- Bejelenti a játékos szintlépésnél, aztán még 3 szintlépés kell, míg használhatja és felírhatja a lapjára.
+````
 
 - Fortélyok
   - Nehézségük és összetettségük szerint csoportosítjuk őket. Lehetnek 1, vagy több fokúak.
@@ -616,20 +619,12 @@ A karakterek 1. szinten `150 KP`-t (KP Alap), valamint minden szinten (elsőn is
   - `max 4 CM/szint`\
     (CM = Célzó Érték Módosító, ami a CÉ-re fordítandó harcérték módosítót jelöli)
   - ⭕`max 5 HM/szint` tehető egy harcértékre⭕
-- Mana pontok, tanult Mágikus tradíció (ha van), Mágiaiskolák
-  - `1 Mana pont = 3 KP`
-  - Mágikus tradíciók: `50KP`-ba kerülnek (csak 1x vehetőek fel) és követelményeik vannak (van amelyik, csak 1. szinten vehető fel). (Például: Kyr mozaikmágia, Vulgármágia, stb.)
- ````diff
-- Ötlet: Esetleg fel lehessen venni később is, de 4 szinten keresztül kelljen tanulni.
-- Bejelenti a játékos szintlépésnél, aztán még 3 szintlépés kell, míg használhatja és felírhatja a lapjára.
-````
-
+  
   - Mágiaiskolák: Átlagos képzettségek. Csak azok a mágiaiskolák tanulhatóak, amelyek a karakter által ismert mágia tradíció alá tartoznak.
 
-- Pszí tradíció, Pszí iskolák, Pszí pontok
-  - `1ψp = 2 KP`
-  - Pszí-alkalmazás: `4 fokú fortély` egyre erősebb követelményekkel. Az alkalmazás fokát adja, nélküle nem lehet `ψp`-ot venni, vagy ψ tradíciót tanulni.
-  - Pszí tradíciók: átlagos képzettségek: vannak erősségeik és csak bizonyos diszciplínákat ismernek
+- Pszí tradíció, Pszí iskolák
+  - Pszí-alkalmazás: `4 fokú fortély` egyre erősebb követelményekkel. Az alkalmazás fokát adja, nélküle nem lehet ψ iskolát tanulni.
+  - Pszí iskolák: átlagos képzettségek: vannak erősségeik és csak bizonyos diszciplínákat ismernek
 
 ## Manőverek, Manőver Fejlesztő Pontok
 
