@@ -20,31 +20,24 @@ Alább alapelveket találhatunk az egyes általános fegyverkategóriákhoz – 
 | kétkezes kard     | 2 penge       |      5      |             10             |             20             |             20             |
 | lándzsa           | szálfegyver   |      6      |             12             |             24             |             24             |
 
-
+---
 ### Elsődleges támadási típus
-```
-- TÉ:-10   - másodlagos támadási típussal
-- TÉ:-20   - alkalmatlan támadási típussal
-- jelölése "/" jellel: például "V/S"
-- V: Vágás;  S: Szúrás;  Z: Zúzás
-```
 
-Majdnem minden fegyver rendelkezik egy **elsődleges támadási (sebzési) típussal**, pl. szúrás. Ha emellett más típusú támadásra is alkalmas, az legtöbbször másodlagos lehet (kivételeket lásd lejjebb az "Egyenjogú támadási típus" bekezdésben). Ha a karakter nem jelenti be, hogy milyen típusú támadást akar leadni, akkor mindig az elsődleges támadás típust vesszük megtörténtnek. Például a hosszú kard: vágás/szúrás (V/S). Ekkor az alapértelmezett támadási típus a vágás. Ha a karakter bejelenti, hogy szúrni szeretne, akkor azt `TÉ:-10` módosítóval teheti meg. Ha pedig zúzni szeretne (amire a fegyver alkalmatlan), akkor – ha a KM engedi – azt `TÉ-20`-vel teheti meg.
+Lásd: [Harc menete → Elsődleges támadási típus](054_01_02_harc_menete_reszletes.md#els%C5%91dleges-t%C3%A1mad%C3%A1si-t%C3%ADpus)
 
+---
 ### Egyenjogú támadási típus
-```
-- nincs levonás egyik támadás típusnál sem
-- jelölése "+" jel: például "S+V"
-```
 
-Egyes fegyverekkel többféle támadási típust lehet használni anélkül, hogy a forgató hátrányba kerülne és levonást szenvedne el a TÉ-ből. Ilyen fegyvereknél az egyes támadási típusokat "+" jellel választjuk el.
+Lásd: [Harc menete → Egyenjogú támadási típus](054_01_02_harc_menete_reszletes.md#egyenjog%C3%BA-t%C3%A1mad%C3%A1si-t%C3%ADpus)
 
+---
 ### Különleges fegyver szabály (jelölése: KF)
 
 Egyes – speciális – fegyvereknél van megemlítve ez a szabály. Jelentése: a táblázatban leírt harcértékek csak akkor érvényesek, ha speciális iskolában, vagy onnan származó mestertől megtanulta a karakter a fegyver speciális fogásait. Ez részben előtörténet követelmény, amelyet fel kell tüntetni a karakterlapon. Bánjunk ezzel a követelménnyel szigorúan! Ha ez nincs meg, a KM dönt, hogy milyen – alacsonyabb – harcértékekkel forgathatja a karakter a fegyvert – már ha egyáltalán...
 
 A fegyverek egyedi fogásaihoz viszont követelmény a [Mesterfegyver fortély](fortelyok.harci/mesterfegyver.md) `1.` vagy `2.` foka az adott fegyverre. Ezen speciális fogásokat fortélyok formájában tanulhatja meg a harcos. Leírásukat lásd a [harci fortélyoknál](034_harci_fortelyok.md). Azok a fegyverek számítanak „Speciálisnak”, amelyek komment mezőjében szerepel a „**KT**” jelölés.
 
+---
 ### Puszta kéz
 
 A Puszta kéz kiemelt „fegyver”, hiszen mindig „ott van”. Puszta kézzel viszont bármilyen fegyver ellen meglehetősen kellemetlen harcolni, hiszen nincs mivel távol tartani, fenyegetni az ellenfelet. Ezért a Puszta kéz harcértékei mindenkinek a következők:
@@ -53,6 +46,7 @@ A Puszta kéz kiemelt „fegyver”, hiszen mindig „ott van”. Puszta kézzel
 Puszta kéz:  KÉ:-10,  TÉ:-10,  VÉ:-10
 ```
 
+---
 #### Érintő támadás
 
 Ha a cél csupán az ellenfél megérintése – nem sebzés –, akkor ezt könnyebben megteheti a támadó. Támadó Értékére nem jár levonás:
@@ -60,6 +54,8 @@ Ha a cél csupán az ellenfél megérintése – nem sebzés –, akkor ezt kön
 ```
 Puszta kéz:  KÉ:-10,  TÉ:0,  VÉ:-10
 ```
+
+<br />
 
 ---
 ### Közelharci fegyverek
