@@ -162,6 +162,10 @@ Puszta kéz:  KÉ:-10,  TÉ:0,  VÉ:-10
 
 ---
 ### Lándzsavívó fegyverek harcértékei
+
+❗A lándzsavívó, szálfegyverek használatához helyre van szükség. Amint beszűkült téren kell forgatni, harcértékük `0`-ra zuhan!
+
+A fenti alól kivétel, ha két oldalról határolva és onnan nem fenyegetve, egy adott irányba végzi a harcot a karakter (folyósón egy irányba küzdeni).
  
 | **Hegy**      | SP  | Sebzés módja | **Átütés** | Speciális                                                                                                                                                                                                                                                                                |
 | ------------- | --- | ------------ | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
