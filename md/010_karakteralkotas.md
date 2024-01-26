@@ -430,7 +430,7 @@ Megjegyzés: nem kell mindet elköltened, tartalékolhatsz is egy későbbi nagy
 
 ## Fajok, Faji módosítók, korlátok
 
-A felvehető fajok mind Háttér-fortélyként vehetőek fel. Limitációik és felvehető - érzékeiket érintő - fortélyaikat [ott találod meg](032_hatter_fortelyok.md#Fajok).
+Az egyes fajok mind **Faj-Háttereként** vehetőek fel. Limitációik és felvehető - érzékeiket érintő - fortélyaikat [ott találod meg](032_01_faj_hatterek.md).
 
 ---
 

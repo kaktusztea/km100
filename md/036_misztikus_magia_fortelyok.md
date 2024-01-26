@@ -1,4 +1,4 @@
-## Misztikus fortélyok
+## Misztikus és mágia fortélyok
 
 <!-- tag: misztikus__fortely -->
 

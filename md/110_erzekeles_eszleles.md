@@ -18,7 +18,7 @@
 
 Az érzékeket (látás, hallás, szaglás, ízlelés) érintő próbákat **Észlelés** képzettségpróbával dobjuk, **Érzékenység** Tulajdonsággal.
 
-A fajok esetleges bónuszai felvehetőek Érzék-Fortélyként. Bővebben lásd a [Háttér fortélyok ](032_hatter_fortelyok.md#faj-hátterek) fejezetben.
+A fajok esetleges bónuszai felvehetőek Érzék-Fortélyként. Bővebben lásd a [Faj Hátterek](032_01_faj_hatterek.md) fejezetben.
 
 ---
 ## Észlelés

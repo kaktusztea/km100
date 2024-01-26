@@ -1,16 +1,10 @@
-## Háttér fortélyok
-
-<!-- tag: hatter__fortely -->
-
-A Háttér jellegű fortélyok ingyenes, számszerű előnyöket nem nyújtó jellemzők.
-
-Ide tartoznak a játszható és nem játszható fajok, valamint előtörténetet színesítő, esetlegesen nehezítő(!) elemek, amennyiben a játékos hajlandó ezeket felvállalni.
-
-- [Faj hátterek](#faj-h%C3%A1tterek)
-- [Nüansz hátterek, művészeti hátterek](#n%C3%BCansz-h%C3%A1tterek-m%C5%B1v%C3%A9szeti-h%C3%A1tterek)
-- [Származás, jellem, küllem hátterek](#sz%C3%A1rmaz%C3%A1s-jellem-k%C3%BCllem-h%C3%A1tterek)
----
 ### Faj hátterek
+
+<!-- tag: faj__hatter -->
+
+```
+ Érzék-Fortélyok közül minimum 1 fokot fel kell venni
+```
 
 Az alábbiakban a játszható és nem játszható fajok bemutatását, Tulajdonság-limiteit és speciálisan felvehető **Érzék-Fortélyaikat** találhatjuk. 
 
@@ -18,15 +12,19 @@ Az alábbiakban a játszható és nem játszható fajok bemutatását, Tulajdons
 
 Tehát például választhat egy **orkot**, akinek mindösszesen **Infralátás - 1.fok** Érzék-Fortélya van. Nincs kiemelkedően jó szaglása, vagy hallása és a föld alatt sem kap bónuszokat. Egy faj nem minden egyede egyforma. A játékos megkapja a lehetőséget egy sokféle különleges érzékkel megáldott egyed indítására, de az sok KP-ba fog kerülni - a választás az övé.
 
+⭕Tartalomjegyzék ide⭕
+
 #### Ember
 
 ```
 [-5;+5] a határ minden Tulajdonságra
 ```
 
-  
+<br />
+
 ---
 #### Elf
+
 
 ```
 Erő: [-5; +4] ; Edzettség: [-5; +4] ; Ügyesség [-2;+6] ; Gyorsaság [-2;+6]
@@ -42,6 +40,8 @@ Ajánlott fortélyok:
 Ajánlott képzettségek:
 - [Természetjárás](kepzettsegek/termeszetjaras.md)
 - [Lovaglás](kepzettsegek/lovaglas.md)
+
+<br />
 
 ---
 #### Félelf
@@ -60,7 +60,9 @@ Ajánlott fortélyok:
 Ajánlott képzettségek:
 - [Természetjárás](kepzettsegek/termeszetjaras.md)
 - [Lovaglás](kepzettsegek/lovaglas.md)
-  
+
+<br />
+
 ---
 #### Törpe
 
@@ -82,6 +84,8 @@ Ajánlott képzettségek:
 - [Keresés](kepzettsegek/kereses.md)
 - [Építészet](kepzettsegek/epiteszet.md)
 
+<br />
+
 ---
 #### Ork
 
@@ -101,6 +105,8 @@ Ajánlott képzettségek:
 - [Természetjárás](kepzettsegek/termeszetjaras.md)
 - [Vadászat](kepzettsegek/vadaszat.md)
 
+<br />
+
 ---
 #### Udvari ork
 
@@ -118,6 +124,8 @@ Ajánlott fortélyok:
 
 Ajánlott képzettségek:
 - [Etikett](kepzettsegek/etikett.md) (adott kultúrkör)
+
+<br />
 
 ---
 #### Kyr-vérű
@@ -137,6 +145,8 @@ Ajánlott képzettségek:
 - [Ősi kultúrák ismerete](kepzettsegek/osi_kulturak_ismerete.md) (Kyr)
 - [Ősi nyelv ismerete](kepzettsegek/osi_nyelv_ismerete.md) (Kyr)
 
+<br />
+
 ---
 #### Amund
 
@@ -155,6 +165,8 @@ Ajánlott fortélyok:
 Ajánlott képzettségek:
 - [Természetjárás](kepzettsegek/termeszetjaras.md)  - sivatag
 -  [Kinzás](kepzettsegek/kinzas.md)
+
+<br />
 
 ---
 #### Dzsenn
@@ -176,6 +188,8 @@ Ajánlott képzettségek:
 - "Dzsenn pszí" pszi-iskola
 - [Ősi nyelv ismerete](kepzettsegek/osi_nyelv_ismerete.md) - dzsenn
 
+<br />
+
 ---
 #### Gnóm
 
@@ -196,6 +210,8 @@ Ajánlott fortélyok:
 Ajánlott képzettségek:
 - [Mechanika](kepzettsegek/mechanika.md)
 - [Térképészet](kepzettsegek/terkepeszet.md)
+
+<br />
 
 ---
 #### Goblin
@@ -219,6 +235,8 @@ Speciális:
 
 Ajánlott képzettségek:
 - alvilági képzettségek
+
+<br />
 
 ---
 #### Khál
@@ -244,53 +262,3 @@ Ajánlott képzettségek:
 - [Mászás](kepzettsegek/maszas.md)
 - [Ugrás](kepzettsegek/akrobatika_eses_ugras.md)
 - [Akrobatika](kepzettsegek/akrobatika_eses_ugras.md)
-
----
-### Nüansz hátterek, művészeti hátterek
-
-#### Fejlett tapintás (1)
-
-<!-- tag: erzekfortely -->
-
-Ingyenesen felvehető Érzék-fortély.
-
-Különlegesen kifinomult a tapintásod, ez lehet áldás és átok is.
-
-| |  Követelmény | Hatás  |
-| :----------- | :-----------: | :----------- |
-| Alapeset| - | Átlagos emberi tapintás |
-| 1.fok | - | `2x` érzékenyebb a tapintásod, mint egy átlagos emberé. Nem érdemes a hatást számszerűsíteni, a KM dönti el, hol hoz ez számodra előnyt, vagy súlyt hátránnyal. |
-
-<br />
-
----
-#### Fejlett ízlelés (1)
-
-<!-- tag: erzekfortely -->
-
-Ingyenesen felvehető Érzék-fortély.
-
-Különlegesen kifinomult az ízlelésed, ez lehet áldás és átok is.
-
-| |  Követelmény | Hatás  |
-| :----------- | :-----------: | :----------- |
-| Alapeset| - | Átlagos emberi tapintás |
-| 1.fok | - | `2x` érzékenyebb az ízlelésed, mint egy átlagos emberé. Nem érdemes a hatást számszerűsíteni, a KM dönti el, hol hoz ez számodra előnyt, vagy súlyt hátránnyal. |
-
-<br />
-
----
-### Származás, jellem, küllem hátterek
-
-- Jóképű
-- Rusnya
-- Erdőlakó
-- Városlakó
-- Árva
-- Divatos
-- Nárcisztikus
-- Gondoskodó
-- Gyáva
-- Meggondolatlan
-- Pókiszony
-- Kígyóiszony
