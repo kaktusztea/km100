@@ -7,11 +7,9 @@
 - [Tömör szabályrendszer v6.1 (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_tomor_v6.1.pdf?raw=true) (❗Utolsó frissítés: 2023-11-23)
 - [Study: Sebzés és VÉ csökkentés adminisztratív lépéseinek száma (pdf)](https://github.com/kaktusztea/km100/raw/master/segedlet/study_sebzes_es_VE_csokk_lepesszama.pdf?raw=true)
 
-
-
 ## Karakteralkotók
 
-- [JK Karakteralkotó v7.7.1 (ODS)](https://github.com/kaktusztea/km100/raw/master/segedlet/karakteralkoto_v7.7.1.ods?raw=true) <sub><sup>([LibreOffice](https://www.libreoffice.org/download/download/))</sup></sub>
+- [JK Karakteralkotó v7.8 (ODS)](https://github.com/kaktusztea/km100/raw/master/segedlet/karakteralkoto_v7.8.ods?raw=true) <sub><sup>([LibreOffice](https://www.libreoffice.org/download/download/))</sup></sub>
 - [Karakteralkotáshoz táblázatok v6.3 (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_karakteralkotas_v6.3.pdf?raw=true)
 - [NJK Karakterlapok v1.1 (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.1.pdf?raw=true)
 
