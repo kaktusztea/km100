@@ -16,7 +16,7 @@ A Fortélyok egyedi ismeretek, melyeket ugyanúgy KP-ből vehet fel a karakter, 
 ---
 [Karmák](031_karmak.md)
 
-[Háttér fortélyok](032_00_hattererek.md)
+[Hátterek](032_00_hattererek.md)
 
 [Általános, Érzék, Alvilági és Fizikai fortélyok](033_altalanos_fortelyok.md)
 
