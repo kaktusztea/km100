@@ -585,14 +585,14 @@ Mikor a mesélő (KM) úgy érzi, az adott játékos karaktere kellően sokat fe
 
 ```
 KP = 100 (KP Alap)
-     + Tapasztalati szint x (120 + (3 x Intelligencia))
-     + Tapasztalati szint x ( 50 + (3 x Emlékezet))    → csak szekunder ismeretre
+     + Tapasztalati szint x (120 + (2 x Intelligencia))
+     + Tapasztalati szint x ( 50 + (2 x Emlékezet))    → csak szekunder ismeretre
 ```
 
 > 🔆
 > ez utóbbi (Emlékezethez kapcsolt pontok) kizárólag **Szekunder** ismeretekre költhetőek!
 
-A karakterek 1. szinten `100 KP`-t (KP Alap), valamint minden szinten (elsőn is) `120 + (3 x Intelligencia) KP`-t kapnak. Ezen felül további `50 + (3 x Emlékezet) KP` jár szintenként, amit csak olyan ismeretre fordíthatnak, amelyek a [Szekunder ismeretek](#primer-%C3%A9s-szekunder-ismeretek-kateg%C3%B3ri%C3%A1i) csoportjába tartoznak. A játékosnak a fenti Karakter Pontjaiból kell felvennie a következőket:
+A karakterek 1. szinten `100 KP`-t (KP Alap), valamint minden szinten (elsőn is) `120 + (2 x Intelligencia) KP`-t kapnak. Ezen felül további `50 + (2 x Emlékezet) KP` jár szintenként, amit csak olyan ismeretre fordíthatnak, amelyek a [Szekunder ismeretek](#primer-%C3%A9s-szekunder-ismeretek-kateg%C3%B3ri%C3%A1i) csoportjába tartoznak. A játékosnak a fenti Karakter Pontjaiból kell felvennie a következőket:
 
 - Képzettségek
   - Primer képzettségek szintje legfeljebb `szint+3` lehet
