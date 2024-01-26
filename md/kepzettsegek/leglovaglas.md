@@ -4,7 +4,7 @@
 
 **Domináns Tulajdonságok**: Önuralom, Ügyesség, Gyorsaság
 
-**Kapcsolódó fortélyok**: [Állat testvér](../fortelyok.titkos/allat_testver.md)
+**Kapcsolódó fortélyok**: [Állat testvér](../032_02_bonusz_hatterek.md#-%C3%A1llat-testv%C3%A9r-1)
 
 **Leírás**: Ritka szerencsés, aki ezt a képzettséget tanulhatja, mert Ynev kevés levegőben meglovagolható teremtményeinek egyikét ülheti meg. `Pteropták, Wyvern-ek, Racklák` - hogy csak a közismertebbeket említsük. Aki léglovaglást tanul, az képes megülni a fent említett repülő lényeket a képzettség szintjétől függő tehetséggel.
 

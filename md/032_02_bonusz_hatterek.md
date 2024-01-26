@@ -2,7 +2,7 @@
 
 <!-- tag: bonusz__hatter -->
 
-⭕Bevezető⭕
+Általában egyes képzettségek nagyon magas szinten történő művelői által, kivételes esetben tanulható – legtöbbször félmágikus – ismeretek.
 
 ⭕Tartalomjegyzék ide⭕
 
