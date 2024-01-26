@@ -12,11 +12,11 @@ Most lássuk a **Magasmágia Tradíció** egyes szintjeihez rendelt jellemzőket
 
 | Képzettség szint | Biztos tudás  | Speciális <br /> <sub>(tanulható fortély, különleges  képesség)</sub> | Követelmény |
 | :----- | :----- | :----- | :-----: |
-| Novícius (3)     | xyz <br /> **Példa**: x | Ettől a szinttől képes a mágiahasználó Arkánumokat (mágiaiskola képzettségeket) tanulni, de ezen a szinten ezek még csak elméleti tudást adnak | ⭕ |
-| Kismester (6)    | xyz <br /> **Példa**: x | Ettől a szinttől képes a mágiahasználó a tanult Arkánumokat használni, magyarán varázsolni | ⭕ |
-| Mester (9)       | xyz <br /> **Példa**: x |  | ⭕ |
-| Nagymester (12)  | xyz <br /> **Példa**: x |  | ⭕ |
-| Élő legenda (15) | xyz <br /> **Példa**: x |  | ⭕ |
+| Novícius (3)     | xyz <br /> **Példa**: x | Ettől a szinttől képes a mágiahasználó Arkánumokat (mágiaiskola képzettségeket) tanulni, de ezen a szinten ezek még csak elméleti tudást adnak | Intelligencia:&nbsp;+?⭕ |
+| Kismester (6)    | xyz <br /> **Példa**: x | Ettől a szinttől képes a mágiahasználó a tanult Arkánumokat használni, magyarán varázsolni | Intelligencia:&nbsp;+?⭕ |
+| Mester (9)       | xyz <br /> **Példa**: x |  | Intelligencia:&nbsp;+?⭕ |
+| Nagymester (12)  | xyz <br /> **Példa**: x |  | Intelligencia:&nbsp;+?⭕ |
+| Élő legenda (15) | xyz <br /> **Példa**: x |  | Intelligencia:&nbsp;+?⭕ |
 
 <br />
 

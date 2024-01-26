@@ -228,29 +228,29 @@ Festészet + (Pszeudó tul.) + k10   vs   Célszám
 
 ## Magasmágia képzettség iskolái
 
-🔵Metamágia
+🔴Metamágia
 
-🔵[Elemi mágia](magia.magas/elemi_magia.md) <sup><sub>(30%)</sub></sup>
+🔴[Elemi mágia](magia.magas/elemi_magia.md) <sup><sub>(30%)</sub></sup>
 
-🔵Természetes anyagok mágiája
+🔴Természetes anyagok mágiája
 
-🔵Asztrálmágia
+🔴Asztrálmágia
 
-🔵Mentálmágia
+🔴Mentálmágia
 
-🔵Fénymágia
+🔴Fénymágia
 
-🔵Csendmágia
+🔴Csendmágia
 
-🔵Időmágia
+🔴Időmágia
 
-🔵Térmágia
+🔴Térmágia
 
-🔵Nekromancia
+🔴Nekromancia
 
-🔵Drágakőmágia
+🔴Drágakőmágia
 
-🔵Rúnamágia (?)
+🔴Rúnamágia (?)
 
 ⭕Idézés (szellemek) (CX Grimoire-ból?)
 
@@ -260,33 +260,33 @@ Festészet + (Pszeudó tul.) + k10   vs   Célszám
 
 ## Vulgármágia képzettség iskolái
 
-🔵[Árnyékmágia](magia.vulgar/arnyekmagia.md)  <sup><sub>(10%)</sub></sup>
+🔴[Árnyékmágia](magia.vulgar/arnyekmagia.md)  <sup><sub>(10%)</sub></sup>
 
-🔵Asztrálmágia
+🔴Asztrálmágia
 
-🔵Mentálmágia
+🔴Mentálmágia
 
-🔵[Nekromancia](magia.vulgar/nekromancia.md)  <sup><sub>(20%)</sub></sup>
+🔴[Nekromancia](magia.vulgar/nekromancia.md)  <sup><sub>(20%)</sub></sup>
 
-🔵Termékenységi mágia
+🔴Termékenységi mágia
 
-🔵Rontások+Átkok
+🔴Rontások+Átkok
 
-🔵Betegségmágia
+🔴Betegségmágia
 
-🔵[Méregmágia](meregmagia.md)  <sup><sub>(0%)</sub></sup>
+🔴[Méregmágia](meregmagia.md)  <sup><sub>(0%)</sub></sup>
 
-🔵Szexuálmágia (bájolások is)
+🔴Szexuálmágia (bájolások is)
 
-🔵Tűzmágia
+🔴Tűzmágia
 
-🔵[Villámmágia](magia.vulgar/villammagia.md)  <sup><sub>(0%)</sub></sup>
+🔴[Villámmágia](magia.vulgar/villammagia.md)  <sup><sub>(0%)</sub></sup>
 
-🔵Gyertyamágia
+🔴Gyertyamágia
 
-🔵Bábúmágia
+🔴Bábúmágia
 
-🔵Rituálék
+🔴Rituálék
 
 ⭕Bájitalok (???)
 
@@ -294,45 +294,45 @@ Festészet + (Pszeudó tul.) + k10   vs   Célszám
 
 ## Ordani tűzmágia képzettség iskolái
 
-🔵[Alapformák](magia.godoni.tuz/alapformak.md)  <sup><sub>(0%)</sub></sup>
+🔴[Alapformák](magia.godoni.tuz/alapformak.md)  <sup><sub>(0%)</sub></sup>
 
-🔵TODO⭕
+🔴TODO⭕
 
 ## Bárdmágia képzettség iskolái
 
-🔵[Fénymágia](magia.bard/fenymagia.md) <sup><sub>(0%)</sub></sup>
+🔴[Fénymágia](magia.bard/fenymagia.md) <sup><sub>(0%)</sub></sup>
 
-🔵Hangmágia
+🔴Hangmágia
 
-🔵Dalmágia
+🔴Dalmágia
 
-🔵Asztrálmágia
+🔴Asztrálmágia
 
 ## Sámánmágia képzettség iskolái
 
-🔵Szabadmágia
+🔴Szabadmágia
 
-🔵Ráolvasás
+🔴Ráolvasás
 
-🔵Átkok
+🔴Átkok
 
-🔵[Idézések](magia.saman/idezesek.md) <sup><sub>(0%)</sub></sup>
+🔴[Idézések](magia.saman/idezesek.md) <sup><sub>(0%)</sub></sup>
 
-🔵Maszkmágia
+🔴Maszkmágia
 
-🔵Természeti mágia
+🔴Természeti mágia
 
-🔵Bábúmágia
+🔴Bábúmágia
 
-🔵Rituálé
+🔴Rituálé
 
 ## Ork énekmondói mágia képzettség iskolái
 
-🔵⭕TODO⭕
+🔴⭕TODO⭕
 
 ## Rituális mágia
 
-🔵⭕TODO⭕ (ha lesz)
+🔴⭕TODO⭕ (ha lesz)
 
 ## Papi mágia
 

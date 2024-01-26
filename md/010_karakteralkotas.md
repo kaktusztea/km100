@@ -52,7 +52,7 @@ Rövid áttekintő summázatként álljanak itt a számok, amelyekkel a karakter
 
 ### KP költésével növelt értékek
 
-- **Képzettségek**: Harci, Tradíciók, Fizikai, Alvilági, Művészeti, Világi, Tudományos, Misztikus, Mágiaiskolák (Vulgár, Sámán, Bárd, Ordani tűz, Mozaik)
+- **Képzettségek**: Harci, Tradíció, Fizikai, Alvilági, Művészeti, Világi, Tudományos, Misztikus, Mágiaiskolák (Vulgár, Sámán, Bárd, Ordani tűz, Mozaik)
 - **Fortélyok**: Általános, Harci, Lovas, Íjász, Alvilági, Szociális, Világi, Tudományos, Művészeti, Mágikus/Misztikus, Pszí, Slan
 - **Harcérték módosítók** (HM)
 
@@ -378,8 +378,8 @@ iránt rendkívül fogékonyak. Remek emberismerő, vagy nagy művész válhat b
 Vak, vagy süket karakter indítása esetén a karakter **Érzékenysége** ilyen típusú érzékelésekre `-5`-ösnek számít, és a karakter soron kívül `1. szinten` kap cserébe X KP-t. Ahol X:
 
 ```
-- Vakság: + 40 KP
-- Süketség: + 30 KP
+- Vakság: +40 KP
+- Süketség: +30 KP
 ```
 
 *Fontos*: ha a karakter később (nem 1.szinten, karakteralkotáskor) lesz vak/süket, akkor természetesen NEM jár KP bónusz.
@@ -568,7 +568,7 @@ Lásd a [Pszi](070_pszi.md) fejezetet!
 
 ## Primer és Szekunder ismeretek kategóriái
 ```
-→ Primer ismeretek: minden harci, misztikus, mágikus képzettség, fortély + Észlelés, Összpontosítás, Fájdalomtűrés képzettség, HM, CM
+→ Primer ismeretek: minden harci, misztikus, mágikus képzettség és fortély + Észlelés, Összpontosítás, Fájdalomtűrés képzettség, HM, CM
 → Szekunder ismeretek: minden más
 ```
 
@@ -584,33 +584,33 @@ Mikor a mesélő (KM) úgy érzi, az adott játékos karaktere kellően sokat fe
 ## Karakter pontok (KP) elosztása
 
 ```
-KP = 150 + (Tapasztalati szint x (80 + Intelligencia)) +
-           (Tapasztalati szint x (15 + Emlékezet))       → csak szekunder ismeretekre költhető
+KP = 100 (KP Alap)
+     + Tapasztalati szint x (120 + (3 x Intelligencia))
+     + Tapasztalati szint x ( 50 + (3 x Emlékezet))    → csak szekunder ismeretre
 ```
 
 > 🔆
-> ez utóbbi (Emlékezethez kapcsolt pontok) kizárólag szekunder ismeretekre költhetőek!
+> ez utóbbi (Emlékezethez kapcsolt pontok) kizárólag **Szekunder** ismeretekre költhetőek!
 
-A karakterek 1. szinten `150 KP`-t (KP Alap), valamint minden szinten (elsőn is) `(80+Intelligencia) KP`-t kapnak. Ezen felül további `(15+Emlékezet) KP` jár szintenként, amit csak olyan ismeretre fordíthatnak, amelyek  [Szekunder ismeretek](#primer-%C3%A9s-szekunder-ismeretek-kateg%C3%B3ri%C3%A1i) csoportba tartoznak. A játékosnak a fenti Karakter Pontjaiból kell felvennie a következőket:
+A karakterek 1. szinten `100 KP`-t (KP Alap), valamint minden szinten (elsőn is) `120 + (3 x Intelligencia) KP`-t kapnak. Ezen felül további `50 + (3 x Emlékezet) KP` jár szintenként, amit csak olyan ismeretre fordíthatnak, amelyek a [Szekunder ismeretek](#primer-%C3%A9s-szekunder-ismeretek-kateg%C3%B3ri%C3%A1i) csoportjába tartoznak. A játékosnak a fenti Karakter Pontjaiból kell felvennie a következőket:
 
 - Képzettségek
-  - A harci, misztikus és Tradíció képzettségek szintje legfeljebb `szint+3` lehet
+  - Primer képzettségek szintje legfeljebb `szint+3` lehet
   - A többi képzettség értéke pedig legfeljebb `szint+8` lehet
   - Szintlépéskor `legfeljebb 2-vel` növelhetőek a képzettségek, kivéve, ha 0-ról akar valaki egy képzettséget tanulni (ilyenkor szintlépéskor `maximum 3.szintre` növelheti egy lépésben a képzettséget).
-  - Egy Átlagos, vagy Specializáció képzettség `legfeljebb 3`-al lehet magasabb, mint az őt magába foglaló Átfogó, vagy Átlagos képzettség. Ha nincs fölé tartozó képzettség (pl. Nyelvismeret esetén), akkor természetesen nincs felső korlát.
+  - Egy **Átlagos**, vagy **Specializáció** képzettség `legfeljebb 3`-al lehet magasabb, mint az őt magába foglaló **Átfogó**, vagy **Átlagos** képzettség. Ha nincs fölé tartozó képzettség (pl. Nyelvismeret esetén), akkor természetesen nincs felső korlát.
   - A képzettségek egyes kiemelt szintjeinek is lehetnek követelményei! Magas szinten főleg.
 
 ````diff
-- Ötlet: Esetleg fel lehessen venni Tradíciót később is, de 4 szinten keresztül kelljen tanulni.
-- Bejelenti a játékos szintlépésnél, aztán még 3 szintlépés kell, míg használhatja és felírhatja a lapjára.
+- Csak Faji Tradíció mellé lehet felvenni még egy másik Tradíciót?
 ````
 
 - Fortélyok
   - Nehézségük és összetettségük szerint csoportosítjuk őket. Lehetnek 1, vagy több fokúak.
   - Minden fok költsége: `15KP`
-  - Több fokú Fortélyoknál szintenként csak egy fokot lehet fejlődni akkor is, ha lenne elég KP több fokra is! Ez alól kivétel az 1. szint (karakteralkotás).
+  - Több fokú Fortélyoknál szintenként csak egy fokot lehet fejlődni akkor is, ha lenne elég KP több fokra is! Ez alól kivétel az `1.szint` (karakteralkotás).
   - Egy szintlépés alkalmával nem vehető fel két olyan Fortély, amely ugyanazt a jellemzőt/képzettséget, stb módosítja.
-  - A fortélyoknak lehetnek követelményei: Tulajdonságok elvárt értékei, képzettségek elvárt szintje, esetleg más fortélyok megléte, vagy valamilyen nem számszerűsíthető körülmény.
+  - A fortélyoknak lehetnek követelményei: Tulajdonságok elvárt értékei, Képzettségek elvárt szintje, esetleg más fortélyok megléte, vagy valamilyen nem számszerűsíthető körülmény.
 
 - Harcérték módosítók (HM) / Célzóérték módosítók (CM)
   - `1 HM/CM = 5 KP`
@@ -620,7 +620,7 @@ A karakterek 1. szinten `150 KP`-t (KP Alap), valamint minden szinten (elsőn is
     (CM = Célzó Érték Módosító, ami a CÉ-re fordítandó harcérték módosítót jelöli)
   - ⭕`max 5 HM/szint` tehető egy harcértékre⭕
   
-- Mágiaiskolák: Átlagos képzettségek. Csak azok a mágiaiskolák tanulhatóak, amelyek a karakter által ismert mágia tradíció alá tartoznak.
+- Mágiaiskolák: **Átfogó** képzettségek. Csak azok a mágiaiskolák tanulhatóak, amelyek a karakter által ismert mágia tradíció alá tartoznak.
 
 - Pszí tradíció, Pszí iskolák
   - Pszí-alkalmazás: `4 fokú fortély` egyre erősebb követelményekkel. Az alkalmazás fokát adja, nélküle nem lehet ψ iskolát tanulni.
@@ -628,14 +628,14 @@ A karakterek 1. szinten `150 KP`-t (KP Alap), valamint minden szinten (elsőn is
 
 ## Manőverek, Manőver Fejlesztő Pontok
 
-- pl. lábsöprés, lefegyverzés, átdobás
-- Kivételek, mert **NEM** KP-ba, hanem Manőverfejlesztő Pontba (`MFP`) kerülnek, amit automatikusan kap meg a játékos.
+Például Lábsöprés, Lefegyverzés, Átdobás, stb.\
+Kivételek, mert **NEM** KP-ba, hanem Manőverfejlesztő Pontba (`MFP`) kerülnek, amit automatikusan, ingyen kap meg a játékos.
 
 ```
 Σ MFP = összes nem-távolsági harcmodor képzettségszintek összege
 ```
 
-- Nem mind fejleszthető MFP-ből, van amit ráköltés nélkül simán „meg lehet csinálni". De a legtöbb puszta végrehajtásának is van szituációs, vagy egyéb követelménye.
+Nem mind fejleszthető MFP-ből, van amit ráköltés nélkül simán „meg lehet csinálni". De a legtöbb puszta végrehajtásának is van szituációs, vagy egyéb követelménye.
 
 ---
 
