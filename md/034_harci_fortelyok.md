@@ -33,13 +33,16 @@
 ---
 ## Lovas fortélyok
 
+<!-- tag: harci__lovas__fortely -->
+
+- [Léglovas harc](fortelyok.harci/leglovas_harc.md) 🔺
 - [Lovas harc](fortelyok.harci/lovas_harc.md) 🔺
 - [Lovas íjászat](fortelyok.harci/lovas_ijaszat.md)
 
 ---
 ## Távolsági harci fortélyok
 
-`__tavharc__fortelyok__`
+<!-- tag: tavharc__fortely -->
 
 - [Gyors lövés](fortelyok.harci/gyors_loves.md) 🔺
 - [Gyors újratöltés](fortelyok.harci/gyors_ujratoltes.md) 🔺

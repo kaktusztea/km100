@@ -5,9 +5,9 @@
 Aki lóról harcol, az előnyben van, részben a magasabb pozíció, részben lova állandó mozgása, fenyegetése miatt. Sok függ viszont a [Lovaglás képzettség](kepzettsegek/lovaglas.md) szintjétől és a [Lovas harc](fortelyok.harci/lovas_harc.md) fortély megtanult fokainak mértékétől.
 
 Kapcsolódó fortélyok:
-- [Lovas harc](https://github.com/kaktusztea/km100/blob/master/md/fortelyok.harci/lovas_harc.md) fortély
-- [Lovas íjászat](https://github.com/kaktusztea/km100/blob/master/md/fortelyok.harci/lovas_ijaszat.md) fortély
-- Lóval legázolás❓legyen❓
+- [Lovas harc](fortelyok.harci/lovas_harc.md) fortély
+- [Léglovas harc](fortelyok.harci/leglovas_harc.md) fortély
+- [Lovas íjászat](fortelyok.harci/lovas_ijaszat.md) fortély
 
 ---
 ## Harc lóhátról
@@ -31,7 +31,7 @@ Akinek csak Lovaglás képzettsége van, még nem képes lóról harcolni, gyalo
 
 ---
 ## Lovas harci taktikák
-### Lovas roham
+### Lovas roham / Léglovas roham
 ```
 - TÉ: 30
 - VÉ: -60
@@ -39,7 +39,8 @@ Akinek csak Lovaglás képzettsége van, még nem képes lóról harcolni, gyalo
 - 1 támadó csapás, 1 visszacsapás lehetséges
 ```
 
-Nincs elsöprőbb, mint egy lovas roham! Persze megfelelő feltételek szükségesek hozzá. Amennyiben ezek megvannak, a rohamozó komoly előnyhöz jut.
+Nincs elsöprőbb, mint egy lovas roham! Persze megfelelő feltételek szükségesek hozzá. Amennyiben ezek megvannak, a rohamozó komoly előnyhöz jut.\
+❗Az alább leírtak a levegőből indított **Léglovas rohamra** is érvényesek.
 
 Ilyen támadásnál összesen 1-1 oda- és visszatámadásra van lehetőség, utána a támadó továbbrobog.
 
@@ -75,15 +76,16 @@ Ha van még, akkor itt kidolgozni
 
 ## Lovas manőverek
 
-### Manőver: Lovas akasztása
+### Manőver: Lovas, léglovas akasztása
 
+❗Az alább leírtak a levegőből indított **Léglovas rohamra** is érvényesek.\
 Nem a lovas, hanem a **védekező gyalogos**, szálfegyverrel végezheti!\
 Megveted lábad és szálfegyvered végét a földbe támasztod. A fegyver hegye a feléd haladó lovas felé mutat. Megelőző támadásodnál támadódat a "Lovas roham" / "Lovas támadás galoppból" és egyéb harci taktikákból adódó VÉ levonások természetesen sújtják, így extrém veszélyes egy ilyen pikába hátassal belefutni.
 
 - Nehézség: 4⭕
 - Fázisok: (M)egakasztás, (E)llenpróba
 - Végbevitel követelménye: csak akkor lehet használni ha a szálfegyveres előnyben van fegyverhosszban a lovashoz képest!
-- Hatás: Sebző dobást teszel a lovasra mielőtt az lecsaphatna rád. ⭕A lovas elveszíti támadását és - csapásod eredmémyétől függően -  továbbrobog.⭕
+- Hatás: Sebző dobást teszel a lovasra mielőtt az lecsaphatna rád. A lovas elveszíti támadását és - csapásod eredményétől függően -  továbbrobog, megtorpan, esetleg kiesik a nyeregből ([Lovaglás](kepzettsegek/lovaglas.md)/[Léglovaglás](kepzettsegek/leglovaglas.md) képzettségpróba).
 
 ---
 ### Manőver: Lótáncoltatás
