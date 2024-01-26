@@ -33,14 +33,14 @@ Megkülönböztetünk Harcot megelőző és harcon kívüli észlelés szituáci
 
 Azaz az "észreveszem-e?" jellegű szituációk
 ```
- +3 az Észlelés képzettségpróbára
+ +3 az Észlelés képzettségpróba-dobásra
 ```
 - A karakter rákérdez, hogy érzékel-e egy konkrét dolgot
 - A karakter jelzi, hogy kifejezetten érzékeire figyel most (általánosságban)
 
 ### Passzív észlelés
 ```
- Módosulatlan nehézség az Észlelés képzettségpróbára
+ Módosulatlan nehézség az Észlelés képzettségpróba-dobásra
 ```
 
 A karakternek feltűnik valami anélkül, hogy kifejezetten kereste volna/figyelt volna rá.
