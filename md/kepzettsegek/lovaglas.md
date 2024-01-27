@@ -4,7 +4,7 @@
 
 **Domináns Tulajdonságok**: Önuralom, Ügyesség, Gyorsaság
 
-**Kapcsolódó fortélyok**: [Lovas harc](../fortelyok.harci/lovas_harc.md), [Állat testvér](042_bonusz_hatterek.md#-%C3%A1llat-testv%C3%A9r-1)
+**Kapcsolódó fortélyok**: [Lovas harc](../fortelyok.harci/lovas_harc.md), [Állat testvér](042_bonusz_hatterek.md#-%C3%A1llat-testv%C3%A9r)
 
 **Leírás**:  Aki léglovaglást tanul, az képes megülni a fent említett repülő lényeket a képzettség szintjétől függő tehetséggel.
 
