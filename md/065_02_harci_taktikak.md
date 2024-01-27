@@ -293,7 +293,7 @@ Ez azért van, mert egy járatlan támadó nem tudja olyan jól megbecsülni a s
 
 Kapcsoló fortély: [Harci anatómia](fortelyok.harci/harci_anatomia.md)
 
-Ha **Észrevétlen támadást** sikerül leadnod, akkor érvényesülnek a **Harci anatómia** fortélynál leírt bónuszok. `VÉ` értékét lásd az [Észrevétlen támadás](065_01_harci_helyzetek.md#észrevétlen-támadás) résznél.
+Ha **Észrevétlen támadást** sikerül leadnod, akkor érvényesülnek a **Harci anatómia** fortélynál leírt bónuszok. `VÉ` értékét lásd az [Észrevétlen támadás](065_01_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s) résznél.
 
 ---
 
