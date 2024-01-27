@@ -10,7 +10,9 @@
 
 - Árva
 - Erdőlakó
+- Jobbágy
 - Nemes
+- Polgár
 - Városlakó
 
 #### Jellem, fóbiák, hobbik
@@ -24,7 +26,9 @@
 
 #### Küllem, fizikum
 
+- Alacsony
 - Divatos
 - Jóképű
+- Magas
 - Rusnya
-
+- Sánta
