@@ -36,8 +36,8 @@
     - [Ordani (godoni?) Tűzmágia](051_03_ordani_tuzmagia.md)
     - [Bárdmágia](051_04_bardmagia.md)
     - [Sámánmágia](051_05_samanmagia.md)
-  - [Ork Énekmondói mágia](051_06_ork_enekmondoi_magia.md) 
-  - [Rituális mágia](051_07_ritualis_magia.md)
+    - [Ork Énekmondói mágia](051_06_ork_enekmondoi_magia.md) 
+    - [Rituális mágia](051_07_ritualis_magia.md)
   - [Papi tradíciók](052_00_papi_tradiciok.md) (0%)🚧
   - [Fejvadász tradíció](053_fejvadasz_tradicio.md) (10%)🚧
   - [Faji tradíciók](054_00_faji_tradiciok.md)
