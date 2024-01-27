@@ -156,6 +156,9 @@ Erő [0;+5] ; Edzettség [0;+5] ; Intelligencia [-5;+3] ; Önuralom [-5;+3]
 
 🔆A Pszít nem képesek elsajátítani.
 
+**Kötelezően** felvett:
+- [Faj Tradíció: Amund](054_02_amund_tradicio.md)
+
 Felvehető Érzék-Fortélyok maximuma:
 - [Ultralátás](fortelyok.erzekek/fejlett_szaglas.md) - 3. fok (csak a papi kaszt)
 
@@ -174,6 +177,9 @@ Ajánlott képzettségek:
 ```
 Intelligencia [+1;+6] ; Önuralom [+1;+6]
 ```
+
+**Kötelezően** felvett:
+- [Faj Tradíció: Dzsenn](054_01_dzsenn_tradicio.md)
 
 Felvehető Érzék-Fortélyok maximuma:
 - nincs
