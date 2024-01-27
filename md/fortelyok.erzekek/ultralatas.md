@@ -9,9 +9,9 @@ Teljes sötétben is képes vagy tájékozódni.
 | |  Követelmény | Hatás  |
 | :----------- | :-----------: | :----------- |
 | Alapeset| - | Emberi látás, teljes sötétben gyakorlatilag vakság. |
-| 1.fok | "Háttér - *faj*" fortély | Mintha telihold fényénél tájékozódnál vaksötétben |
-| 2.fok | "Háttér - *faj*" fortély | Mintha szürkületkor tájékozódnál. Vaksötétben is tud olvasni |
-| 3.fok | "Háttér - *faj*" fortély | Tökéletesen lát, mintha nappal lenne, látótávolság megegyezik |
+| 1.fok | Kapcsolódó<br />[Faj Háttér](../041_faj_hatterek.md) | Mintha telihold fényénél tájékozódnál vaksötétben |
+| 2.fok | Kapcsolódó<br />[Faj Háttér](../041_faj_hatterek.md) | Mintha szürkületkor tájékozódnál. Vaksötétben is tud olvasni |
+| 3.fok | Kapcsolódó<br />[Faj Háttér](../041_faj_hatterek.md) | Tökéletesen lát, mintha nappal lenne, látótávolság megegyezik |
 
 ⭕Harcnál mit adnak?⭕
 
@@ -19,7 +19,7 @@ Teljes sötétben is képes vagy tájékozódni.
 
 **Megjegyzések**
 
-- Felvételéhez olyan faj **Háttér-fortélya** szükséges, amelynél szerepel az Ultralátás, mint felvehető **Érzék-fortély**
+- Felvételéhez olyan [Faj-Háttér](041_faj_hatterek.md) szükséges, amelynél szerepel az **Ultralátás**, mint felvehető **Érzék-fortély**
 - A látás fekete-fehérben történik
 - A távolság "használhatóságát" továbbra is az **Észlelés** képzettség határozza meg
 - A látótávolságot ultralátásban a [Fejlett látás](fejlett_latas.md) Érzék-fortély is befolyásolja
