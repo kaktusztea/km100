@@ -4,6 +4,8 @@
 
 Általában egyes képzettségek nagyon magas szinten történő művelői által, kivételes esetben tanulható – legtöbbször félmágikus – ismeretek.
 
+A képzettségek leírásában találhatóak hivatkozások az alábbi Bónusz Hátterekre. Csak a megjelölt képzettség-szintek elérésekor kaphatja meg ezeket az ingyenes ismereteket a karakter.
+
 ⭕Tartalomjegyzék ide⭕
 
 #### 🟣 Állat testvér

@@ -2,7 +2,7 @@
 
 <!-- tag: szarmazas__jellem__kullem__hatter -->
 
-⭕Bevezető⭕
+Alább 1-2 szavas jelzőket találsz, amelyek további szinesítő elemeket adhatnak karaktered megalkotásakor.
 
 ⭕Tartalomjegyzék ide⭕
 
@@ -17,11 +17,14 @@
 
 #### Jellem, fóbiák, hobbik
 
+- Hallgatag
 - Nárcisztikus
 - Gondoskodó
 - Gyáva
+- Megbízhatatlan
 - Meggondolatlan
 - Pókiszony
+- Precíz
 - Kígyóiszony
 
 #### Küllem, fizikum
@@ -29,6 +32,9 @@
 - Alacsony
 - Divatos
 - Jóképű
+- Kövér
 - Magas
 - Rusnya
 - Sánta
+- Sebhelyes
+- Vékony

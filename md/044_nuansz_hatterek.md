@@ -2,16 +2,14 @@
 
 <!-- tag: nuansz__hatter -->
 
-⭕Bevezető⭕
+Apró, szinesítő ismeretek, amelyek nem nyújtanak jelentős előnyöket, hátrányokat, inkább a karakter felépítésében segítenek, érdekes elemként.
+
 
 ⭕Tartalomjegyzék ide⭕
 
-
 #### Fejlett tapintás (1)
 
-<!-- tag: nuansz__hatter -->
-
-Ingyenesen felvehető Érzék-fortély.
+Ingyenesen felvehető Érzék.
 
 Különlegesen kifinomult a tapintásod, ez lehet áldás és átok is.
 
@@ -25,9 +23,7 @@ Különlegesen kifinomult a tapintásod, ez lehet áldás és átok is.
 ---
 #### Fejlett ízlelés (1)
 
-<!-- tag: erzekfortely -->
-
-Ingyenesen felvehető Érzék-fortély.
+Ingyenesen felvehető Érzék.
 
 Különlegesen kifinomult az ízlelésed, ez lehet áldás és átok is.
 
@@ -37,3 +33,10 @@ Különlegesen kifinomult az ízlelésed, ez lehet áldás és átok is.
 | 1.fok | - | `2x` érzékenyebb az ízlelésed, mint egy átlagos emberé. Nem érdemes a hatást számszerűsíteni, a KM dönti el, hol hoz ez számodra előnyt, vagy súlyt hátránnyal. |
 
 <br />
+
+---
+#### Festő (1)
+
+<!-- tag: nuansz__hatter -->
+
+Jól bánsz az ecsettel, kedvtelésből, vagy önkifejezés céljából vetsz vászonra színes műveket.
