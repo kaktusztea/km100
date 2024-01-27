@@ -6,4 +6,4 @@
 
 **Kapcsolódó fortélyok**: -
 
-**Leírás**: A Tradíciók összefoglaló leírását és listáját lásd annak a saját fejezetében: [Tradíciók](040_tradiciok)
+**Leírás**: A Tradíciók összefoglaló leírását és listáját lásd annak a saját fejezetében: [Tradíciók](050_tradiciok.md)

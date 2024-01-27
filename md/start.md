@@ -20,70 +20,74 @@
 - [Képzettségrendszer](020_kepzettsegrendszer.md) (80%)
 - [Képzettséglista](021_kepzettseglista.md) (90%)
 - [Fortélyok](030_fortelyok.md)
-	- [Karmák](032_03_karmak.md)
-	- [Hátterek](032_00_hattererek.md) 
-	- [Általános, Érzék, Alvilági és Fizikai fortélyok](033_altalanos_fortelyok.md) 
-	- [Harci, Távharc és Lovas fortélyok](034_harci_fortelyok.md)  
-	- [Misztikus és Mágia fortélyok](035_misztikus_magia_fortelyok.md) 
-- [Tradíciók](040_tradiciok.md) (60%)
-	- [Mágia tradíciók](041_00_magia_tradiciok.md)
-		- [Magasmágia (mozaikmágia)](041_01_magasmagia.md)
-		- [Vulgármágia](041_02_vulgarmagia.md)
-		- [Ordani (godoni?) Tűzmágia](041_03_ordani_tuzmagia.md)
-		- [Bárdmágia](041_04_bardmagia.md)
-		- [Sámánmágia](041_05_samanmagia.md)
-		- [Ork Énekmondói mágia](041_06_ork_enekmondoi_magia.md) 
-		- [Rituális mágia](041_07_ritualis_magia.md)
-	- [Papi tradíciók](042_00_papi_tradiciok.md) (0%)🚧
-	- [Fejvadász tradíció](043_fejvadasz_tradicio.md) (10%)🚧
-	- [Faji tradíciók](044_00_faji_tradiciok.md)
-		- [Amund Tradíció](044_02_amund_tradicio.md)
-		- [Dzsenn Tradíció](044_01_dzsenn_tradicio.md)
-	- [Slan tradíció](045_slan_tradicio.md) (25%)🚧
-- [Harcrendszer](050_harcrendszer.md) (85%)
-	- [Életerő](051_eletero.md)
-	- [Harcérték alapok, HM, Harcmodorok, Mesterfegyver](052_01_harcertekek_elemei.md)
-	- [KÉ, TÉ, VÉ, CÉ összefoglaló táblázatok](052_02_ke_te_ve_ce.md)
-	- [Mozgásgátló tényező (MGT)](053_01_mgt.md)
-	- [Előnyös és hátrányos helyzet (VÉ csökkentés)](053_02_elonyos_hatranyos_helyzet.md)
-	- [Támadások száma](053_03_tamadasok_szama.md)
-	- [Harc menete (összefoglaló)](054_01_02_harc_menete_osszefoglalas.md)
-	- [Harc menete (részletes)](054_01_02_harc_menete_reszletes.md) (KÉ, Támadás, Sebzés, Sebződés)
-	- [Példaharc](054_02_peldaharc.md)
-	- [Harci helyzetek](055_01_harci_helyzetek.md) (meglepetésből, helyhez kötve, magasabbról, stb.)
-	- [Harci taktikák](055_02_harci_taktikak.md) (támadó, védő, roham, stb)
-	- [Harci alakzatok, Alakzatharc](055_03_harci_alakzatok.md)
-	- [Kétkezes harc](055_04_ketkezes_harc.md)
-	- [Manőverek](055_05_manoverek.md)
-	- [Lovas harc](056_lovas_harc.md)
-	- [Fegyverek, pajzsok](057_fegyverek.md)
-	- [Vértek, páncélok](058_vertek_pancelok.md)
-- [Távolsági harcrendszer](060_tavolsagi_harc.md) (90%)
-- [Pszi](070_pszi.md) (40%)
-	  - [Pszi diszciplínák](071_pszi_diszciplinak.md) (0%)
-- [Mágia](080_magiarendszer.md) (40%)
-	- [Magasmágia](041_01_magasmagia.md) (Kyr mozaik, Godoni hagyomány)(0%)🚧
-		- [Elemi mágia iskola](magia.magas/elemi_magia.md) (50%) 🚧
-	- [Vulgármágia](041_02_vulgarmagia.md) (0%) 
-		- [Árnyékmágia iskola](magia.vulgar/arnyekmagia.md) 🚧
-		- [Méregmágia iskola](magia.vulgar/meregmagia.md) 🚧
-		- [Méregmágia szemita](magia.vulgar/meregmagia.szemita.md) 🚧
-		- [Nekromancia iskola](magia.vulgar/nekromancia.md) 🚧
-		- [Villámmágia iskola](magia.vulgar/villammagia.md) 🚧
-	- [Ordani (godoni?) Tűzmágia](041_03_ordani_tuzmagia.md) (0%)🚧
-		- [Alapformák](magia.godoni.tuz/alapformak.md)
-	- [Bárdmágia](041_04_bardmagia.md) (0%)🚧
-		- [Dalmágia](magia.bard/dalmagia.md)
-		- [Fénymágia](magia.bard/fenymagia.md)
-		- [Hangmágia](magia.bard/hangmagia.md)
-	- [Sámánmágia](041_05_samanmagia.md)  (0%)🚧
-		- [Idézések](magia.saman/idezesek.md)
-	- [Ork Énekmondói mágia](041_06_ork_enekmondoi_magia.md) (0%)🚧
-	- [Rituális mágia](041_07_ritualis_magia.md) (0%)🚧
-- [Papi mágia](090_papimagia.md) (10%) 🚧
-- [Varázstárgyak](100_varazstargyak.md)  (10%) 🚧
-- [Érzékelés, Észlelés](110_erzekeles_eszleles.md) (90%)
-- [Szituációk](120_szituaciok.md) (20%)
+  - [Általános, Érzék, Alvilági és Fizikai fortélyok](033_altalanos_fortelyok.md) 
+  - [Harci, Távharc és Lovas fortélyok](034_harci_fortelyok.md)  
+  - [Misztikus és Mágia fortélyok](035_misztikus_magia_fortelyok.md)
+- [Hátterek](040_hattererek.md)
+  - [Faj Hátterek](041_faj_hatterek.md)
+  - [Bónusz Hátterek](042_bonusz_hatterek.md)
+  - [Karmák](043_karmak.md)
+  - [Nüansz és Művészeti Hátterek](044_nuansz_hatterek.md)
+  - [Származás, Jellem, Küllem Hátterek](045_szarmazas_jellem_kullem_hatterek.md)
+- [Tradíciók](050_tradiciok.md) (60%)
+  - [Mágia tradíciók](051_00_magia_tradiciok.md)
+    - [Magasmágia (mozaikmágia)](051_01_magasmagia.md)
+    - [Vulgármágia](051_02_vulgarmagia.md)
+    - [Ordani (godoni?) Tűzmágia](051_03_ordani_tuzmagia.md)
+    - [Bárdmágia](051_04_bardmagia.md)
+    - [Sámánmágia](051_05_samanmagia.md)
+  - [Ork Énekmondói mágia](051_06_ork_enekmondoi_magia.md) 
+  - [Rituális mágia](051_07_ritualis_magia.md)
+  - [Papi tradíciók](052_00_papi_tradiciok.md) (0%)🚧
+  - [Fejvadász tradíció](053_fejvadasz_tradicio.md) (10%)🚧
+  - [Faji tradíciók](054_00_faji_tradiciok.md)
+    - [Amund Tradíció](054_02_amund_tradicio.md)
+    - [Dzsenn Tradíció](054_01_dzsenn_tradicio.md)
+  - [Slan tradíció](055_slan_tradicio.md) (25%)🚧
+- [Harcrendszer](060_harcrendszer.md) (85%)
+  - [Életerő](061_eletero.md)
+  - [Harcérték alapok, HM, Harcmodorok, Mesterfegyver](062_01_harcertekek_elemei.md)
+  - [KÉ, TÉ, VÉ, CÉ összefoglaló táblázatok](062_02_ke_te_ve_ce.md)
+  - [Mozgásgátló tényező (MGT)](063_01_mgt.md)
+  - [Előnyös és hátrányos helyzet (VÉ csökkentés)](063_02_elonyos_hatranyos_helyzet.md)
+  - [Támadások száma](063_03_tamadasok_szama.md)
+  - [Harc menete (összefoglaló)](064_01_02_harc_menete_osszefoglalas.md)
+  - [Harc menete (részletes)](064_01_02_harc_menete_reszletes.md) (KÉ, Támadás, Sebzés, Sebződés)
+  - [Példaharc](064_02_peldaharc.md)
+  - [Harci helyzetek](065_01_harci_helyzetek.md) (meglepetésből, helyhez kötve, magasabbról, stb.)
+  - [Harci taktikák](065_02_harci_taktikak.md) (támadó, védő, roham, stb)
+  - [Harci alakzatok, Alakzatharc](065_03_harci_alakzatok.md)
+  - [Kétkezes harc](065_04_ketkezes_harc.md)
+  - [Manőverek](065_05_manoverek.md)
+  - [Lovas harc](066_lovas_harc.md)
+  - [Fegyverek, pajzsok](067_fegyverek.md)
+  - [Vértek, páncélok](068_vertek_pancelok.md)
+- [Távolsági harcrendszer](070_tavolsagi_harc.md) (90%)
+- [Pszi](080_pszi.md) (40%)
+  - [Pszi diszciplínák](081_pszi_diszciplinak.md) (0%)
+- [Mágia](090_magiarendszer.md) (40%)
+  - [Magasmágia](051_01_magasmagia.md) (Kyr mozaik, Godoni hagyomány)(0%)🚧
+    - [Elemi mágia iskola](magia.magas/elemi_magia.md) (50%) 🚧
+  - [Vulgármágia](051_02_vulgarmagia.md) (0%) 
+    - [Árnyékmágia iskola](magia.vulgar/arnyekmagia.md) 🚧
+    - [Méregmágia iskola](magia.vulgar/meregmagia.md) 🚧
+    - [Méregmágia szemita](magia.vulgar/meregmagia.szemita.md) 🚧
+    - [Nekromancia iskola](magia.vulgar/nekromancia.md) 🚧
+    - [Villámmágia iskola](magia.vulgar/villammagia.md) 🚧
+  - [Ordani (godoni?) Tűzmágia](051_03_ordani_tuzmagia.md) (0%)🚧
+    - [Alapformák](magia.godoni.tuz/alapformak.md)
+  - [Bárdmágia](051_04_bardmagia.md) (0%)🚧
+    - [Dalmágia](magia.bard/dalmagia.md)
+    - [Fénymágia](magia.bard/fenymagia.md)
+    - [Hangmágia](magia.bard/hangmagia.md)
+  - [Sámánmágia](051_05_samanmagia.md)  (0%)🚧
+    - [Idézések](magia.saman/idezesek.md)
+  - [Ork Énekmondói mágia](051_06_ork_enekmondoi_magia.md) (0%)🚧
+  - [Rituális mágia](051_07_ritualis_magia.md) (0%)🚧
+- [Papi mágia](100_papimagia.md) (10%) 🚧
+- [Varázstárgyak](110_varazstargyak.md)  (10%) 🚧
+- [Érzékelés, Észlelés](120_erzekeles_eszleles.md) (90%)
+- [Szituációk](130_szituaciok.md) (20%)
 
 ---
 ## [🚧 Fejlesztő portál 🚧](https://github.com/kaktusztea/km100/wiki)

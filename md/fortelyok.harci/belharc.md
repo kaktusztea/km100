@@ -1,5 +1,5 @@
 #### 🟣 Belharc (2) - adott fegyverre
-Testközelben érzed igazában elemedben magad.<br />Sikeres 🗡️[Belharcba kerülés](../055_05_manoverek.md#%EF%B8%8Fbelharcba-ker%C3%BCl%C3%A9s) manőver esetén 🗡️[Belharci szituációba](../055_02_harci_taktikak.md#belharc-belharci-szitu%C3%A1ci%C3%B3) kerülsz és harcértékeidre - csak **Közelharc** harcmodor esetén - a lent leírt pluszok járnak.
+Testközelben érzed igazában elemedben magad.<br />Sikeres 🗡️[Belharcba kerülés](065_05_manoverek.md#%EF%B8%8Fbelharcba-ker%C3%BCl%C3%A9s) manőver esetén 🗡️[Belharci szituációba](065_02_harci_taktikak.md#belharc-belharci-szitu%C3%A1ci%C3%B3) kerülsz és harcértékeidre - csak **Közelharc** harcmodor esetén - a lent leírt pluszok járnak.
 
 | |  Követelmény | Hatás  |
 | :----------- | :----------- | :----------- |
@@ -11,7 +11,7 @@ Testközelben érzed igazában elemedben magad.<br />Sikeres 🗡️[Belharcba k
 **Megjegyzések**
 
 - **Fontos**: Ezt a fortélyt konkrét fegyverre (Puszta kéz is ide tartozik) kell felvenni, csak annak használatakor járnak a bónuszok. A Belharcot így többször is fel lehet venni - különböző fegyverekre.
-- Az ellenfél módosítóinak változását lásd a Harcrendszer fejezet [Belharc, belharci szituáció](055_02_harci_taktikak.md#belharc-belharci-szitu%C3%A1ci%C3%B3) harci taktika leírásánál!
+- Az ellenfél módosítóinak változását lásd a Harcrendszer fejezet [Belharc, belharci szituáció](065_02_harci_taktikak.md#belharc-belharci-szitu%C3%A1ci%C3%B3) harci taktika leírásánál!
 
 <br />
 

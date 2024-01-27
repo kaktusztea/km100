@@ -231,7 +231,7 @@ Ajánlott fortélyok:
 - [Szabotőr](fortelyok.altalanos/szabotor.md)
 
 Speciális:
-- [Kibontakozás manőver](055_05_manoverek.md#%EF%B8%8Fkibontakozásátsiklás) felvétele ajánlott 🙂
+- [Kibontakozás manőver](065_05_manoverek.md%EF%B8%8Fkibontakozásátsiklás) felvétele ajánlott 🙂
 
 Ajánlott képzettségek:
 - alvilági képzettségek

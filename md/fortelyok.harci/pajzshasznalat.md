@@ -23,7 +23,7 @@ Ismered a fegyvereket remekül kiegészítő pajzsok használatát.
 
 **Megjegyzések**
 
-- Ha a karakter 🗡️[Készületlen](055_01_harci_helyzetek.md#k%C3%A9sz%C3%BCletlens%C3%A9g), vagy 🗡️[Meglepetés](055_01_harci_helyzetek.md#meglepet%C3%A9s) támadás áldozata, akkor a `pajzs VÉ` nem adódik hozzá a aktuális `Védő Értékhez`.
+- Ha a karakter 🗡️[Készületlen](065_01_harci_helyzetek.md#k%C3%A9sz%C3%BCletlens%C3%A9g), vagy 🗡️[Meglepetés](065_01_harci_helyzetek.md#meglepet%C3%A9s támadás áldozata, akkor a `pajzs VÉ` nem adódik hozzá a aktuális `Védő Értékhez`.
 - Nagy pajzsot cipelni hosszú távon igen kimerítő, ezért is viszik lovon, vagy fegyverhordozókkal a harcosok. Továbbá behatolásnál, szűk helyen, sűrű erdőben képtelenség cipelni.
 
 <br />

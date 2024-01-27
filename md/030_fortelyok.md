@@ -22,7 +22,7 @@ A fortélyoknak lehetnek **követelményei**: Tulajdonságok elvárt értékei, 
 
 ---
 
-[Hátterek](032_00_hattererek.md) (`0 KP`)
+[Hátterek](040_hattererek.md) (`0 KP`)
 
 [Általános, Érzék, Alvilági és Fizikai fortélyok](033_altalanos_fortelyok.md) (`15 KP/fok`)
 

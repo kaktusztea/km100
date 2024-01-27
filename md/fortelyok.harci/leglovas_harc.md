@@ -2,7 +2,7 @@
 
 Repülő hátason ülve sem esel kétségbe, ha harcolni kell.
 
-Léglovas harc során ezen fortély fokától függő mértékben harcértékeidhez hozzáadódnak a 🔵[Léglovaglás](../kepzettsegek/leglovaglas.md) képzettségből adódó harcérték pluszok. Ezeket úgy számítjuk ki, hogy a **Léglovaglás** képzettséget egyszerűen [Harcmodorként](../052_01_harcertekek_elemei.md#harcmodor-k%C3%A9pzetts%C3%A9gek) kezeljük és a szintjének megfelelő `KÉ/TÉ/VÉ` és `SP` pluszokat vesszük.
+Léglovas harc során ezen fortély fokától függő mértékben harcértékeidhez hozzáadódnak a 🔵[Léglovaglás](../kepzettsegek/leglovaglas.md) képzettségből adódó harcérték pluszok. Ezeket úgy számítjuk ki, hogy a **Léglovaglás** képzettséget egyszerűen [Harcmodorként](062_01_harcertekek_elemei.md#harcmodor-k%C3%A9pzetts%C3%A9gek) kezeljük és a szintjének megfelelő `KÉ/TÉ/VÉ` és `SP` pluszokat vesszük.
 
 A forgatott fegyver Harcmodorából adódó értékek továbbra is megmaradnak, tehát a fentiek bónuszként értelmezendők!
 
@@ -17,7 +17,7 @@ A forgatott fegyver Harcmodorából adódó értékek továbbra is megmaradnak, 
 
 **Speciális**
 
-- [Lovas harc fejezet](../056_lovas_harc.md) (itt tárgyaljuk a Léglovaglás részleteit is)
+- [Lovas harc fejezet](066_lovas_harc.md) (itt tárgyaljuk a Léglovaglás részleteit is)
 
 <br />
 

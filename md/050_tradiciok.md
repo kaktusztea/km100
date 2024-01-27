@@ -15,20 +15,20 @@ Mindegyik Tradíció **Átfogó**, primer képzettség, így ez is csak `szint+3
 
 Milyen Tradíciókat ismer a km100 rendszere?
 
-- [Mágia tradíciók általánosságai](041_00_magia_tradiciok.md)
-	- [Magasmágia (mozaikmágia)](041_01_magasmagia.md)
+- [Mágia tradíciók általánosságai](051_00_magia_tradiciok.md)
+	- [Magasmágia (mozaikmágia)](051_01_magasmagia.md)
 	- Vulgármágia
 	- Ordani (godoni?) Tűzmágia
 	- Bárdmágia
 	- Sámánmágia
 	- Ork Énekmondói mágia
 	- Rituális mágia
-- [Papi szakrális tradíciók általánosságai](042_00_papi_tradiciok.md)
-- [Fejvadász tradíció](043_fejvadasz_tradicio.md)
-- [Faji tradíciók általánosságai](044_00_faji_tradiciok.md)
-	- [Dzsenn tradíció](044_01_dzsenn_tradicio.md)
-	- [Amund Tradíció](044_02_amund_tradicio.md)
-- [Slan tradíció](045_slan_tradicio)
+- [Papi szakrális tradíciók általánosságai](052_00_papi_tradiciok.md)
+- [Fejvadász tradíció](053_fejvadasz_tradicio.md)
+- [Faji tradíciók általánosságai](054_00_faji_tradiciok.md)
+	- [Dzsenn tradíció](054_01_dzsenn_tradicio.md)
+	- [Amund Tradíció](054_02_amund_tradicio.md)
+- [Slan tradíció](055_slan_tradicio.md)
 - Nem Játszható Tradíciók
 	- Aquir eredetű
 	- Smaragdmágusok (Sheenwall)

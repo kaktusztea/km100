@@ -166,11 +166,11 @@ Bejutottál ellenfeled fegyverének fenyegető vége mögé, testközelbe, de ne
 - Átnézni ezeket a fortélyokat. Belharc fortély is kell hozzájuk?
 ```
 
-Továbbá pár manőver könnyebbé válik Belharci szituációban: [Gáncsolás/lábsöprés](055_05_manoverek.md#%EF%B8%8Fg%C3%A1ncsol%C3%A1s--l%C3%A1bs%C3%B6pr%C3%A9s-l%C3%A1bbal) (belharcban `+2` Ellenpróbánál)
+Továbbá pár manőver könnyebbé válik Belharci szituációban: [Gáncsolás/lábsöprés](065_05_manoverek.md#%EF%B8%8Fg%C3%A1ncsol%C3%A1s--l%C3%A1bs%C3%B6pr%C3%A9s-l%C3%A1bbal) (belharcban `+2` Ellenpróbánál)
 
 #### Belharcba kerülés manőver
 
-A Belharci szituációba kerüléshez ezt a manővert kell sikerrel végrehajtani. Nehézsége alapesetben `9`-es, de fejleszthető (`2 fokkal`). ⭕Csak Közelharc harcmodor alkalmazása közben lehet megpróbálni.⭕ Bővebben lásd a [manőver leírását](055_05_manoverek.md#%EF%B8%8Fbelharcba-ker%C3%BCl%C3%A9s).
+A Belharci szituációba kerüléshez ezt a manővert kell sikerrel végrehajtani. Nehézsége alapesetben `9`-es, de fejleszthető (`2 fokkal`). ⭕Csak Közelharc harcmodor alkalmazása közben lehet megpróbálni.⭕ Bővebben lásd a [manőver leírását](065_05_manoverek.md#%EF%B8%8Fbelharcba-ker%C3%BCl%C3%A9s).
 
 #### Kibontakozás/Átsiklás manőver
 
@@ -240,7 +240,7 @@ Ha küzdelem közben a harcos ellenfele egy konkrét testrészére kíván táma
 - Ennél pontosabb találatot harc közben meghatározni csak a **Pontra támadás** manőverrel lehet.
 - Találatkor sima sebzést dob a támadó
 - Plusz hatás: ha a Sebzés legalább Súlyos (`6 ÉP`), akkor az áldozat valamilyen nem-harcérték korlátozást szenved el. Például ha a cél a fegyverforgató kéz volt, akkor elejti fegyverét és nem képes tovább harcolni vele. Vagy: láb támadása esetén mozgási sebessége felére/harmadára esik vissza (KM dönt). Fejre támadásnál szemébe folyik a vére, esetleg elkábul.
-- Lásd még alább: [Csonkolás](055_02_harci_taktikak.md#csonkol%C3%A1s-%C3%A9s-t%C3%B6r%C3%A9s) harci taktika.
+- Lásd még alább: [Csonkolás](065_02_harci_taktikak.md#csonkol%C3%A1s-%C3%A9s-t%C3%B6r%C3%A9s) harci taktika.
 
 ---
 
@@ -265,7 +265,7 @@ Sikeres **Végtagra támadást** kell végrehajtania, valamint megfelelő mennyi
 ### Leütés hátulról (fejre/tarkóra)
 
 - Követelmény: **Észrevétlen támadás**
-- Célpont `VÉ = 30 + mozgás jellegétől függő módosító` (lásd [Észrevétlen támadás](055_01_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s))
+- Célpont `VÉ = 30 + mozgás jellegétől függő módosító` (lásd [Észrevétlen támadás](065_01_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s))
 
 Ha a támadás túlütés, akkor és a sebzés legalább Súlyos lenne (`12 ÉP`), akkor az áldozat Fájdalomtűrés próbát dob `12`-es célszám (**Nehéz**) ellen, ezúttal **Edzettség** tulajdonsággal. Ha nincs meg, azonnal elájul.
 
@@ -293,7 +293,7 @@ Ez azért van, mert egy járatlan támadó nem tudja olyan jól megbecsülni a s
 
 Kapcsoló fortély: [Harci anatómia](fortelyok.harci/harci_anatomia.md)
 
-Ha **Észrevétlen támadást** sikerül leadnod, akkor érvényesülnek a **Harci anatómia** fortélynál leírt bónuszok. `VÉ` értékét lásd az [Észrevétlen támadás](055_01_harci_helyzetek.md#észrevétlen-támadás) résznél.
+Ha **Észrevétlen támadást** sikerül leadnod, akkor érvényesülnek a **Harci anatómia** fortélynál leírt bónuszok. `VÉ` értékét lásd az [Észrevétlen támadás](065_01_harci_helyzetek.md#észrevétlen-támadás) résznél.
 
 ---
 
