@@ -3,42 +3,42 @@
 ▲ [Nyitóoldal](start.md)\
 → [TODO/ISSUE karakteralkotás](https://github.com/kaktusztea/km100/wiki/ISSUE.TODO.karakteralkotas)
 
-- [Karakteralkotás](#karakteralkotás)
-  - [Számok](#számok)
-    - [Szabad pontok](#szabad-pontok)
-    - [KP költésével növelt értékek](#kp-költésével-növelt-értékek)
-  - [Előtörténet, személyiség](#előtörténet-személyiség)
-  - [Szint, szintlépés](#szint-szintl%C3%A9p%C3%A9s)
-  - [Tulajdonságok](#tulajdonságok)
-    - [Erő](#erő)
-    - [Edzettség](#edzettség)
-    - [Ügyesség](#ügyesség)
-    - [Gyorsaság](#gyorsaság)
-    - [Intelligencia](#intelligencia)
-    - [Emlékezet](#emlékezet)
-    - [Önuralom](#önuralom)
-    - [Érzékenység](#érzékenység)
-  - [Fogyatékosságok](#fogyat%C3%A9koss%C3%A1gok)
-    - [Vakság, süketség](#vakság-süketség)
-    - [Tartós sérültség](#tartós-sérültség)
-  - [Tulajdonság értékek megállapítása](#tulajdonság-értékek-megállapítása)
-  - [Fajok, Faji módosítók, korlátok](#fajok-faji-módosítók-korlátok)
-  - [Tulajdonságpróba](#tulajdonságpróba)
-    - [Összetett Tulajdonságpróba](#összetett-tulajdonságpróba)
-      - [Példa Összetett Tulajdonságpróbára](#példa-összetett-tulajdonságpróbára)
-    - [Kombinált próbák](#kombinált-próbák)
-    - [Tulajdonság ellenpróba](#tulajdonság-ellenpróba)
-  - [Életerő pontok](#életerő-pontok)
-  - [Méregellenállás](#méregellenállás)
-    - [Másodlagos hatás](#másodlagos-hatás)
-  - [Mágiaellenállás](#mágiaellenállás)
-  - [Primer és Szekunder ismeretek kategóriái](#primer-%C3%A9s-szekunder-ismeretek-kateg%C3%B3ri%C3%A1i)
-  - [Fejlődés](#fejlődés)
-  - [Karakter pontok (KP) elosztása](#karakter-pontok-kp-elosztása)
-  - [Manőverek, Manőver Fejlesztő Pontok](#manőverek-manőver-fejlesztő-pontok)
-  - [Harcértékek, Jellemzők](#harcértékek-jellemzők)
+- [Számok](#számok)
+   - [Szabad pontok](#szabad-pontok)
+   - [KP költésével növelt értékek](#kp-költésével-növelt-értékek)
+- [Előtörténet, személyiség](#előtörténet-személyiség)
+- [Hátterek](#Hátterek)
+- [Szint, szintlépés](#szint-szintl%C3%A9p%C3%A9s)
+- [Tulajdonságok](#tulajdonságok)
+  - [Erő](#erő)
+  - [Edzettség](#edzettség)
+  - [Ügyesség](#ügyesség)
+  - [Gyorsaság](#gyorsaság)
+  - [Intelligencia](#intelligencia)
+  - [Emlékezet](#emlékezet)
+  - [Önuralom](#önuralom)
+  - [Érzékenység](#érzékenység)
+- [Fogyatékosságok](#fogyat%C3%A9koss%C3%A1gok)
+  - [Vakság, süketség](#vakság-süketség)
+  - [Tartós sérültség](#tartós-sérültség)
+- [Tulajdonság értékek megállapítása](#tulajdonság-értékek-megállapítása)
+- [Fajok, Faji módosítók, korlátok](#fajok-faji-módosítók-korlátok)
+- [Tulajdonságpróba](#tulajdonságpróba)
+  - [Összetett Tulajdonságpróba](#összetett-tulajdonságpróba)
+  -  [Példa Összetett Tulajdonságpróbára](#példa-összetett-tulajdonságpróbára)
+  -  [Kombinált próbák](#kombinált-próbák)
+  - [Tulajdonság ellenpróba](#tulajdonság-ellenpróba)
+-  [Életerő pontok](#életerő-pontok)
+- [Méregellenállás](#méregellenállás)
+  - [Másodlagos hatás](#másodlagos-hatás)
+- [Mágiaellenállás](#mágiaellenállás)
+- [Primer és Szekunder ismeretek kategóriái](#primer-%C3%A9s-szekunder-ismeretek-kateg%C3%B3ri%C3%A1i)
+- [Fejlődés](#fejlődés)
+- [Karakter pontok (KP) elosztása](#karakter-pontok-kp-elosztása)
+- [Manőverek, Manőver Fejlesztő Pontok](#manőverek-manőver-fejlesztő-pontok)
+- [Harcértékek, Jellemzők](#harcértékek-jellemzők)
 - [Nem játékos karakterek](#nem-játékos-karakterek)
-  - [NJK szintek](#njk-szintek)
+- [NJK szintek](#njk-szintek)
 
 
 ⭕TODO⭕: Bevezetés.
@@ -55,9 +55,9 @@ Rövid áttekintő summázatként álljanak itt a számok, amelyekkel a karakter
 
 ### KP költésével növelt értékek
 
-- **Képzettségek**: Harci, Tradíció, Fizikai, Alvilági, Művészeti, Világi, Tudományos, Misztikus, Mágiaiskolák (Vulgár, Sámán, Bárd, Ordani tűz, Mozaik)
+- **Képzettségek**: Harci, Tradíció, Fizikai, Alvilági, Művészeti, Világi, Tudományos, Misztikus, Mágiaiskolák (Magas, Vulgár, Sámán, Bárd, Ordani tűz, Ork énekmondói, Rituálé)
 - **Fortélyok**: Általános, Harci, Lovas, Íjász, Alvilági, Szociális, Világi, Tudományos, Művészeti, Mágikus/Misztikus, Pszí, Slan
-- **Harcérték módosítók** (HM)
+- **Harcérték módosítók** (HM/CM)
 
 ---
 ## Előtörténet, személyiség
@@ -68,18 +68,19 @@ Az alábbiakban egy sorvezetőt szeretnénk adni, hogy milyen jellemzőket érde
 
 Kötelezően ki kell fejteni a karakter megalkotásakor:
 
-- Külső megjelenés és hatásai
-  - Teljesen szabadon meghatározható a külső
-  - Ha valaki pl. csúnya, akkor nehezebben ismerkedik, ha szép, akkor
-    sok irigye van, szóval csak ésszel..
+Külső megjelenés és hatásai
+- Teljesen szabadon meghatározható a külső
+- Ha valaki pl. csúnya, akkor nehezebben ismerkedik, ha szép, akkor sok irigye van, szóval csak ésszel..
 
-- Személyiség, szociális „tulajdonságok"
-  - mennyire kommunikatív, mekkora hatása van az emberekre,
-    visszahúzódó-e, stb, megszégyenítéshez mennyire ért, mennyire
-    mogorva, piszkálódó, stb
-  - Mennyire gazdag érzelmileg. A Önuralom , Érzékenység csak támpontot,
-    vázat adnak.
+Személyiség, szociális „tulajdonságok"
+- mennyire kommunikatív, mekkora hatása van az emberekre, visszahúzódó-e, stb, megszégyenítéshez mennyire ért, mennyire mogorva, piszkálódó, stb
+- Mennyire gazdag érzelmileg. A Önuralom , Érzékenység csak támpontot, vázat adnak.
 
+## Hátterek
+
+Az imént felsorolt jellemzők mellett vannak "ingyenes" ismeretek, jellemzők, amelyek tovább szinesítik a karaktert. Ezeket Háttereknek nevezzük és számos típusuk van. Bővebben lásd a [Hátterek](040_hattererek.md) fejezetben.
+
+---
 ## Szint, szintlépés
 
 Egy karakter „fejlettségét" az abszolút szubjektív „Szint" értékkel jellemezzük. Minél magasabb szintű valaki, annál több időt fordíthatott tanulásra, annál többet tapasztalt.
@@ -436,7 +437,6 @@ Megjegyzés: nem kell mindet elköltened, tartalékolhatsz is egy későbbi nagy
 Az egyes fajok mind **Faj-Háttereként** vehetőek fel. Limitációik és felvehető - érzékeiket érintő - fortélyaikat [ott találod meg](041_faj_hatterek.md).
 
 ---
-
 ## Tulajdonságpróba
 
 Mikor a karakter olyan helyzetbe kerül, hogy valamelyik Tulajdonságát kell próbára tennie, – tehát nem valamelyik képzettségét érintő ismeretre van szükség –, akkor Tulajdonságpróbát kell tennie. Ez a következőképpen történik:
@@ -463,7 +463,7 @@ Ha a karakternek egy olyan összetett próbát kell tennie, ami nem intézhető 
 
 <br />
 
-#### Példa Összetett Tulajdonságpróbára
+### Példa Összetett Tulajdonságpróbára
 
 > ⚡ Elkapdosni a folyamatosan potyogó tányérokat
 
@@ -479,7 +479,6 @@ Ha a karakternek egy olyan összetett próbát kell tennie, ami nem intézhető 
 ```
 
 ---
-
 ### Kombinált próbák
 
 Az összetett próbákhoz hasonlóak a Kombinált próbák: adódhat olyan helyzet, hogy a karakternek több fajta Tulajdonságát kell próbára tenni egy adott szituációban. Pl. Erő és Ügyességpróbát is dobnia kell.
@@ -506,7 +505,6 @@ Továbbra is az első példánál maradva: ha a feladat „Nagyon nehéz" (7) é
 <sub>(Ha a KM szerint ebben az esetben az Ügyességpróba csak „apró kiegészítő", akkor az arra dobandó próba lehet „Átlagos" (5), vagy „Könnyű" (4) is) </sub>
 
 ---
-
 ### Tulajdonság ellenpróba
 
 Ha két karakternek össze kell mérnie tudását egy konkrét Tulajdonsággal kapcsolatban (például ki tud tovább pénzt pörgetni a kezén), akkor Tulajdonság ellenpróbát kell dobniuk, amely a következőképpen néz ki:
@@ -516,7 +514,6 @@ Mindkét játékos dob (NJK esetén természetesen a KM) `k6`-tal, és az eredm�
 A fentiek alól kivételt képez az `Erő-ellenpróba`. Ott dobás nélkül mindig a nagyobb `Erő` Tulajdonsággal rendelkező karakter nyer.
 
 ---
-
 ## Életerő pontok
 
 Minden élőlény a benne keringő testi és lelki energiának, az életerőnek köszönheti, hogy különbözik a közönséges tárgyaktól. Ez az energia ad életet, ha elhagyja testünk, meghalunk. Ezt szimuláljuk az ún. Életerő pontokkal. Hogy kinek mennyi van belőle (mennyivel életerősebb), az a karakterek Edzettség értékétől függ. Kiszámolása a következőképpen történik:
@@ -541,7 +538,6 @@ A fenti ábra `18ÉP` elosztását mutatja be.
 `Kábulat ÉP (KT)`: Verekedésnél, leütésnél, kábulatnál, rosszullétnél használjuk a Kábulat ÉP Pontot (`KT`). Hatása ugyanolyan, mint az ÉP vesztés (lásd [Sebesülés](061_eletero.md#sebes%C3%BCl%C3%A9s) fejezet), de nem okozhat halált, mivel nem jár strukturális károsodással. `Óránként 1 jön vissza`. (`Alvás közben óránként 2`) Alapállapotban nem létezik. Kifejtését lásd a [Harcrendszer Életerő - Kábulat ÉP](061_eletero.md#k%C3%A1bulat-%C3%A9leter%C5%91-pont-kt) fejezetében.
 
 ---
-
 ## Méregellenállás
 
 A Méregellenállás próba egyszerű Tulajdonság próba, melynél a karakter `Edzettség` Tulajdonsága számít.
@@ -560,15 +556,13 @@ sikeres próba esetén következik be. Ennek hatása legfeljebb a rendes hatásn
 Bővebben lásd a [Méregkeverés](kepzettsegek/meregkeveres.md) képzettség leírását.
 
 ---
-
 ## Mágiaellenállás
 
-Lásd a [Pszi](080_pszi.md) fejezetet!
+Lásd a [Mágiarendszer](090_magiarendszer.md) fejezetet!
 
 🚧 Majd ha ott kész, akkor beírni ide. 🚧
 
 ---
-
 ## Primer és Szekunder ismeretek kategóriái
 ```
 → Primer ismeretek: minden harci, misztikus, mágikus képzettség és fortély + Észlelés, Összpontosítás, Fájdalomtűrés képzettség, HM, CM
@@ -576,7 +570,6 @@ Lásd a [Pszi](080_pszi.md) fejezetet!
 ```
 
 ---
-
 ## Fejlődés
 
 A karakter kalandjai során sokat tanul, mely az átélt események megtapasztalásán keresztül valósul meg.\
@@ -599,7 +592,7 @@ A karakterek 1. szinten `100 KP`-t (KP Alap), valamint minden szinten (elsőn is
 
 - Képzettségek
   - Primer képzettségek szintje legfeljebb `szint+3` lehet
-  - A többi képzettség értéke pedig legfeljebb `szint+8` lehet
+  - Szekunder képzettség értéke pedig legfeljebb `szint+8` lehet
   - Szintlépéskor `legfeljebb 2-vel` növelhetőek a képzettségek, kivéve, ha 0-ról akar valaki egy képzettséget tanulni (ilyenkor szintlépéskor `maximum 3.szintre` növelheti egy lépésben a képzettséget).
   - Egy **Átlagos**, vagy **Specializáció** képzettség `legfeljebb 3`-al lehet magasabb, mint az őt magába foglaló **Átfogó**, vagy **Átlagos** képzettség. Ha nincs fölé tartozó képzettség (pl. Nyelvismeret esetén), akkor természetesen nincs felső korlát.
   - A képzettségek egyes kiemelt szintjeinek is lehetnek követelményei! Magas szinten főleg.
@@ -641,13 +634,11 @@ Kivételek, mert **NEM** KP-ba, hanem Manőverfejlesztő Pontba (`MFP`) kerülne
 Nem mind fejleszthető MFP-ből, van amit ráköltés nélkül simán „meg lehet csinálni". De a legtöbb puszta végrehajtásának is van szituációs, vagy egyéb követelménye.
 
 ---
-
 ## Harcértékek, Jellemzők
 
 Hogy egy karakter milyen tapasztalt a harc terén, azt harcértékeivel jellemezzük. Nyilvánvaló, hogy akinek inkább a fegyverforgatás az élete, annak jobbak a harcértékei, mint annak, aki mágikus tudományokban mélyül el. A harcértékek tárgyalását lásd a Harcrendszer fejezet, [Harcértékek felépítése](062_01_harcertekek_elemei.md) alfejezetében!
 
 ---
-
 # Nem játékos karakterek
 
 A nem játékos karakterek, azaz az „NJK"-k a történet során felbukkanó olyan alakok, akiket nem a játékosok, hanem a KM személyesít meg és ő is irányítja őket. Céljaikat, gondolataikat a KM határozza meg, az a játékosok számára ismeretlen (kivéve persze, ha az NJK úgy dönt közli azokat, vagy valamilyen kényszerítő eszközzel kiszedik belőle).
