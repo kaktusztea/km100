@@ -4,8 +4,8 @@
 
 ```
 - Mentálmágia (mint spec képesség) == Dzsenn tradíció szintje
-- Magasmágia == Dzsenn tradíció szintje
-- 1 Od / minden 3. Dzsenn tradíció szint után
+- Magasmágia == Dzsenn tradíció szintje ⭕EZ NAGYON TÁP. KÜLÖN KELLJEN INKÁBB FELVENNI⭕
+- 1 Od / minden 3. Dzsenn tradíció szint után ⭕EZ IS NAGYON TÁP⭕
   (Hatalomszavak csak "Ősi nyelv ismerete - 9.szint"-től kezdve)
 ```
 
