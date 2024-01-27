@@ -6,7 +6,7 @@
 
 ⭕Tartalomjegyzék ide⭕
 
-#### 🟣 Állat testvér (1)
+#### 🟣 Állat testvér
 
 A felsorolt valamelyik 3 képzettség legfelső fokán már olyan magas fokú kapcsolat jön létre ember és állat között – szinte lelki társsá válnak –, ami korlátozott telepátiát hoz létre.
 
@@ -22,7 +22,7 @@ Megjegyzés: a kapcsolat olyan konkrét állatokra vonatkozik, akikkel a viselő
 <br />
 
 ---
-#### 🟣 Élő álca (1)
+#### 🟣 Élő álca
 
 Titkos, félmágikus ismeret. Csak az álcázás legnagyobb mesterei ismerik – állítólag.
 
@@ -33,7 +33,7 @@ Titkos, félmágikus ismeret. Csak az álcázás legnagyobb mesterei ismerik –
 <br />
 
 ---
-#### 🟣 Kobratánc (?? fok)
+#### 🟣 Kobratánc
 
 ⭕ Még kidolgozatlan⭕
 
@@ -62,7 +62,7 @@ Harci transz ⭕(kizökkenéshez mi kell?)⭕
 <br />
 
 ---
-#### 🟣 Tapadás (1)
+#### 🟣 Tapadás
 
 Titkos, félmágikus ismeret.
 
