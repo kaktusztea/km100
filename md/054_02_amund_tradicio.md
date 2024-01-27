@@ -5,7 +5,7 @@
 ```
 - Asztrálmágia (mint spec képesség) == Amund tradíció szintje
 - Papi mágia == Amund tradíció szintje
-- 1 Od / minden 3. Amund tradíció szint után
+- 1 Od / minden 3. Amund tradíció szint után ⭕EZ IS NAGYON TÁP⭕
   (Hatalomszavak csak "Ősi nyelv ismerete - 9.szint"-től kezdve)
 ```
 
