@@ -3,8 +3,8 @@ Testközelben érzed igazában elemedben magad.<br />Sikeres 🗡️[Belharcba k
 
 | |  Követelmény | Hatás  |
 | :----------- | :----------- | :----------- |
-| 1.fok | Ügyesség:&nbsp;+1<br /> Gyorsaság:&nbsp;+1<br /> Közelharc:&nbsp;6.szint<br />|  KÉ:&nbsp;`+2`<br />TÉ:&nbsp;`+3`<br />VÉ:&nbsp;`+3`<br />|
-| 2.fok | Ügyesség:&nbsp;+2<br /> Gyorsaság:&nbsp;+2<br /> Közelharc:&nbsp;9.szint<br /> Mesterfegyver:&nbsp;1  (használt fegyverre)<br />| KÉ:&nbsp;`+4`<br />TÉ:&nbsp;`+6`<br />VÉ:&nbsp;`+6`<br />|
+| 1.fok | Ügyesség:&nbsp;`+1`<br /> Gyorsaság:&nbsp;`+1`<br /> Közelharc:&nbsp;`6.szint`<br />|  KÉ:&nbsp;`+2`<br />TÉ:&nbsp;`+3`<br />VÉ:&nbsp;`+3`<br />|
+| 2.fok | Ügyesség:&nbsp;`+2`<br /> Gyorsaság:&nbsp;`+2`<br /> Közelharc:&nbsp;`9.szint`<br /> Mesterfegyver:&nbsp;`1.fok`<br />(használt fegyverre)<br />| KÉ:&nbsp;`+4`<br />TÉ:&nbsp;`+6`<br />VÉ:&nbsp;`+6`<br />|
 
 <br />
 
