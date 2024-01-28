@@ -5,8 +5,8 @@ Bónuszok 🗡️[Fegyverrántás-szituációban](065_01_harci_helyzetek.md#fegy
 
 | |  Követelmény | Hatás  |
 | :----------- | :----------- | :----------- |
-| 1.fok | Gyorsaság:&nbsp;+1<br />|  KÉ:&nbsp;`+5`<br />|
-| 2.fok | Gyorsaság:&nbsp;+2<br />|  KÉ:&nbsp;`+10`<br />|
+| 1.fok | Gyorsaság:&nbsp;`+1`<br />|  KÉ:&nbsp;`+5`<br />|
+| 2.fok | Gyorsaság:&nbsp;`+2`<br />|  KÉ:&nbsp;`+10`<br />|
 
 <br />
 
