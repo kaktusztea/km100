@@ -41,9 +41,9 @@ Titkos, félmágikus ismeret. Csak az álcázás legnagyobb mesterei ismerik –
 ---
 #### 🟣 Harci láz 3
 
-A [Harci láz]() fortély 3. speciális foka.
+A [Harci láz](fortelyok.harci/harci_laz.md) fortély 3. speciális foka.
 
-Csak mágiával érhető el, például ork ereklye hatása, vagy Arel áldása. Ezek különleges állapotok, ezt a szintet nem lehet tanulással elérni, így KP-t sem lehet rá költeni.
+Csak mágiával érhető el, például ork ereklye hatása, vagy Arel áldása. Ezek különleges állapotok, ezt a szintet nem lehet tanulással elérni, így **KP**-t sem lehet rá költeni.
 
 Bővebben lásd a ⭕Mágia fejezetet⭕.
 
