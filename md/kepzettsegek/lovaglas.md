@@ -42,3 +42,4 @@
 > Célszámot módosító körülmények
 
 - ⭕Vad hátas: + [1-3]
+- Más fajú földi hátas esetén: [Lénylovas](../042_bonusz_hatterek.md#-l%C3%A9nylovas-faj-neve)
