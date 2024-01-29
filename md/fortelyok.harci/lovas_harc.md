@@ -17,7 +17,7 @@ A forgatott fegyver Harcmodorából adódó értékek továbbra is megmaradnak, 
 
 **Speciális**
 
-- [Harc lóhátról fejezet](066_harc_lohartol.md)
+- [Harc lóhátról fejezet](../066_harc_lohartol.md)
 
 <br />
 
