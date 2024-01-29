@@ -6,11 +6,11 @@
  Faj követelmény: Érzék-Fortélyok közül minimum 1 fokot fel kell venni
 ```
 
-Az alábbiakban a játszható és nem játszható fajok bemutatását, Tulajdonság-limiteit és speciálisan felvehető [Érzék-Fortélyaikat](fortelyok.erzekek) találhatjuk. 
+Az alábbiakban a játszható és nem játszható fajok bemutatását, Tulajdonság-limiteit és speciálisan felvehető [Érzék-Fortélyaikat](033_altalanos_fortelyok.md#érzék-fortélyok) találhatjuk. 
 
 🔆 Amennyiben egy játékos választ egy Faj Hátteret a karakterének, akkor az annál felsorolt lehetséges **Érzék-Fortélyok** közül **minimum 1 fokot** köteles felvenni hozzá.
 
-Tehát például választhat egy **orkot**, akinek mindösszesen **Infralátás - 1.fok** Érzék-Fortélya van. Nincs kiemelkedően jó szaglása, vagy hallása és a föld alatt sem kap bónuszokat. Egy faj nem minden egyede egyforma. A játékos megkapja a lehetőséget egy sokféle különleges érzékkel megáldott egyed indítására, de az sok KP-ba fog kerülni - a választás az övé.
+Tehát például választhat egy **orkot**, akinek mindösszesen "**Infralátás - 1.fok**" Érzék-Fortélya van. Nincs kiemelkedően jó szaglása, vagy hallása és a föld alatt sem kap bónuszokat. Egy faj nem minden egyede egyforma. A játékos megkapja a lehetőséget egy sokféle különleges érzékkel megáldott egyed indítására, de az sok KP-ba fog kerülni - a választás az övé.
 
 ⭕Tartalomjegyzék ide⭕
 
