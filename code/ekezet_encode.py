@@ -21,7 +21,7 @@ def encode_md_file(file_path):
         file.write(encoded_content)
 
 if __name__ == "__main__":
-    dirpath = 'C:\data\temp.else\km100\km100.code\md'
+    dirpath = '/repo/github/km100.code/md'
     list_of_files = {}
     for (dirpath, dirnames, filenames) in os.walk(dirpath):
         for filename in filenames:
