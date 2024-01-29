@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+import sys
 import re
 import os
 
@@ -21,6 +22,11 @@ def encode_md_file(file_path):
         file.write(encoded_content)
 
 if __name__ == "__main__":
+
+    encode_md_file('/repo/github/km100.code/code/test.md')
+
+    sys.exit(0)
+
     dirpath = '/repo/github/km100.code/md'
     list_of_files = {}
     for (dirpath, dirnames, filenames) in os.walk(dirpath):
