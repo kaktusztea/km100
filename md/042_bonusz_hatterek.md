@@ -64,6 +64,18 @@ Harci transz ⭕(kizökkenéshez mi kell?)⭕
 <br />
 
 ---
+#### 🟣 Lénylovas
+
+Ha van Lovaglás/Léglovaglás képzettséged, akkor ha egy eddig nem megült földi/légi hátas faj egyedének hátára pattannál, akkor használhatod a Lovaglás/Léglovaglás képzettséged.
+
+Ennek annyi feltétele van, hogy egy kis időt - minimum 1 órát - gyakorlásra kell szánnod a lényt megülve. Ha ez megtörténik, akkor onnantól képes leszel az adott állatot ugyanolyan képzettség-szinttel megülni, mint amelyik elsődleges fajhoz a képzettséget felvetted.
+
+Ha az idegen hátas lényt hirtelen ülöd meg, akkor a **képzetlen lovas** értékeivel használhatod csak.
+
+
+<br />
+
+---
 #### 🟣 Tapadás
 
 Titkos, félmágikus ismeret.
