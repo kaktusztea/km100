@@ -32,7 +32,7 @@ fokok:
         érték: 1
         típus: 1
         text: ""
-      - név: "hajítás_íjászat_lövészet"  # VAGY kapcsolat
+      - név: "íjászat_lövészet"  # VAGY kapcsolat
         enabled: True
         érték: 5
         típus: 2
