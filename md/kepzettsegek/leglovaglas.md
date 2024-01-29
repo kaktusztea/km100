@@ -6,6 +6,8 @@
 
 **Kapcsolódó fortélyok**: [Állat testvér](042_bonusz_hatterek.md#-%C3%A1llat-testv%C3%A9r)
 
+**Bónusz Háttér**: [Lénylovas](../042_bonusz_hatterek.md#-l%C3%A9nylovas-faj-neve)
+
 **Leírás**: Ritka szerencsés, aki ezt a képzettséget tanulhatja, mert Ynev kevés levegőben meglovagolható teremtményeinek egyikét ülheti meg. `Pteropták, Wyvern-ek, Racklák` - hogy csak a közismertebbeket említsük. Aki léglovaglást tanul, az képes megülni a fent említett repülő lényeket a képzettség szintjétől függő tehetséggel.
 
 <br />
