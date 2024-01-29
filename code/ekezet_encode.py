@@ -23,16 +23,15 @@ def encode_md_file(file_path):
 
 if __name__ == "__main__":
 
-    encode_md_file('/repo/github/km100.code/code/test.md')
+    thisdir = os.path.dirname(os.path.abspath(sys.argv[0])
+    encode_md_file(os.path.join(thisdir, 'test.md'))
 
     sys.exit(0)
 
-    dirpath = '/repo/github/km100.code/md'
+    # Skipped until test.md will be modified well
+    dirpath = os.path.join(thisdir, '../md')
     list_of_files = {}
     for (dirpath, dirnames, filenames) in os.walk(dirpath):
         for filename in filenames:
             if filename.endswith('.md'): 
-#               list_of_files[filename] = os.sep.join([dirpath, filename])
                 encode_md_file(os.sep.join([dirpath, filename]))
-
-#    encode_md_file(md_file_path)
