@@ -4,7 +4,7 @@ Képes vagy kommunikálni egy általad választott őselemi sík lakóival.
 
 | |  Követelmény | Hatás  |
 | :----------- | :----------- | :----------- |
-| 1.fok |Elemi mágia&nbsp;–&nbsp;9.szint<br />⭕???⭕ | Válassz egy síklakót. |
+| 1.fok |Elemi mágia&nbsp;–&nbsp;`9.szint`<br />⭕???⭕ | Válassz egy síklakót. |
 
 <br />
 
