@@ -4,8 +4,8 @@ Csomók ismerete.
 
 | |  Követelmény | Hatás  |
 | :----------- | :----------- | :----------- |
-| 1.fok | Ügyesség: 0 | Ügyesség ellenpróbához: `+2` |
-| 2.fok | Ügyesség: +1 | Ügyesség ellenpróbához: `+4` |
+| 1.fok | Ügyesség: `0` | Ügyesség ellenpróbához: `+2` |
+| 2.fok | Ügyesség: `+1` | Ügyesség ellenpróbához: `+4` |
 
 <br />
 
@@ -15,8 +15,8 @@ Könnyebben kibújsz kötelékeidből.
 
 | |  Követelmény | Hatás  |
 | :----------- | :----------- | :----------- |
-| 1.fok | Ügyesség: +1 | Ügyesség ellenpróbához: `+2` |
-| 2.fok | Ügyesség: +2 | Ügyesség ellenpróbához: `+4` |
+| 1.fok | Ügyesség: `+1` | Ügyesség ellenpróbához: `+2` |
+| 2.fok | Ügyesség: `+2` | Ügyesség ellenpróbához: `+4` |
 
 <br />
 
