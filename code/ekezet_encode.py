@@ -23,13 +23,14 @@ def encode_md_file(file_path):
 
 if __name__ == "__main__":
 
-    thisdir = os.path.dirname(os.path.abspath(sys.argv[0])
+    thisdir = os.path.dirname(os.path.abspath(sys.argv[0]))
     encode_md_file(os.path.join(thisdir, 'test.md'))
 
     sys.exit(0)
 
     # Skipped until test.md will be modified well
-    dirpath = os.path.join(thisdir, '../md')
+    dirpath = os.path.abspath(os.path.join(thisdir, '../md'))
+
     list_of_files = {}
     for (dirpath, dirnames, filenames) in os.walk(dirpath):
         for filename in filenames:
