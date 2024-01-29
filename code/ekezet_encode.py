@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import re
+import os
 
 def encode_anchor(match):
     anchor = match.group(1)
@@ -13,13 +14,19 @@ def encode_md_file(file_path):
         content = file.read()
 
 #    pattern = r'\(([^)]+)\)'
-    pattern = r'\(\#([^)]+)\)'
+    pattern = r'\w+\#([a-z].+)\).+'
     encoded_content = re.sub(pattern, encode_anchor, content)
 
     with open(file_path, 'w', encoding='utf-8') as file:
         file.write(encoded_content)
 
 if __name__ == "__main__":
-    md_file_path = '../md/010_karakteralkotas.md'
-    encode_md_file(md_file_path)
+    dirpath = 'C:\data\temp.else\km100\km100.code\md'
+    list_of_files = {}
+    for (dirpath, dirnames, filenames) in os.walk(dirpath):
+        for filename in filenames:
+            if filename.endswith('.md'): 
+#               list_of_files[filename] = os.sep.join([dirpath, filename])
+                encode_md_file(os.sep.join([dirpath, filename]))
 
+#    encode_md_file(md_file_path)
