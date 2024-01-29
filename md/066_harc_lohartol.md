@@ -1,6 +1,6 @@
 → Nyitott kérdések a [STUDY oldalán](https://github.com/kaktusztea/km100/wiki/STUDY.lovasharc).
 
-## Lovas harc menete, Fortélyai és Manőverei
+## Harc lóhátról, hátas Fortélyok és Manőverek
 
 Aki lóról harcol, az előnyben van, részben a magasabb pozíció, részben lova állandó mozgása, fenyegetése miatt. Sok függ viszont a [Lovaglás képzettség](kepzettsegek/lovaglas.md) szintjétől és a [Lovas harc](fortelyok.harci/lovas_harc.md) fortély megtanult fokainak mértékétől.
 

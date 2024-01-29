@@ -59,7 +59,7 @@
   - [Harci alakzatok, Alakzatharc](065_03_harci_alakzatok.md)
   - [Kétkezes harc](065_04_ketkezes_harc.md)
   - [Manőverek](065_05_manoverek.md)
-  - [Lovas harc](066_lovas_harc.md)
+  - [Harc lóhátról](066_harc_lohartol.md)
   - [Fegyverek, pajzsok](067_fegyverek.md)
   - [Vértek, páncélok](068_vertek_pancelok.md)
 - [Távolsági harcrendszer](070_tavolsagi_harc.md) (90%)

@@ -560,8 +560,7 @@ Nem támadsz, hanem ⭕TODO⭕
 ---
 ### Lovas Manőverek
 
-A lóval és ló ellen végbevihető Manőverek a [Lovas harc](066_lovas_harc.md##lovas-man%C5%91verek) fejezetben találhatóak.
-
+A lóval és ló ellen végbevihető Manőverek a [Harc lóhátról](066_harc_lohartol.md#lovas-man%C5%91verek) fejezetben találhatóak.
 <br/> 
 
 ---
