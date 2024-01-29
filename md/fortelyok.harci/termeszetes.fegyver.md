@@ -5,14 +5,14 @@ Olyan fajú karakterrel játszol, amelynek végtagjai / harapása, egyéb fizika
 |          |       Követelmény        | Hatás                                         |
 |:-------- |:------------------------:|:--------------------------------------------- |
 | Alapeset |            -             | A "Puszta kéz" sebzése `k20-5`                |
-| 1.fok    | "Háttér - _faj_" fortély | A "Puszta kéz" sebzése `k20+1`, mint egy tőré |
+| 1.fok    | [Faj Háttér](../041_faj_hatterek.md)             | A "Puszta kéz" sebzése `k20+1`, mint egy tőré |
 
 <br />
 
 **Megjegyzések**
 
-- Olyan "Háttér - faj" fortély, amely faj leírásában szerepel az ajánlottan felvehető fortélyok között a "Természetes fegyver"
-- Például "Háttér: Khál" fortély mellé vehető fel
+- Olyan  [Faj Háttér](../041_faj_hatterek.md), amely faj leírásában szerepel az ajánlottan felvehető fortélyok között a "Természetes fegyver"
+- Például [Faj Háttér: Khál](../041_faj_hatterek.md#kh%C3%A1l) mellé vehető fel
 
 <br />
 
