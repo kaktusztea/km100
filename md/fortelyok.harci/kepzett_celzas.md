@@ -5,7 +5,7 @@ Rövidebb idő alatt felméred a szelet, a távolságot és a többi változót,
 | |  Követelmény | Hatás  |
 | :----------- | :----------- | :----------- |
 | Alapeset || `1` célzással eltöltött kör után `+10 CÉ` módosítót kapsz. <br />|
-| 1.fok | Önuralom:&nbsp;+1<br /> Hajítás_íjászat_lövészet:&nbsp;5.szint<br /> Összpontosítás:&nbsp;4.szint<br />| `1` célzással eltöltött kör után ⭕`+20 CÉ`⭕ módosítót kapsz. Nem additív. <br />|
+| 1.fok | Önuralom:&nbsp;`+1`<br /> íjászat_lövészet:&nbsp;`5.szint`<br /> Összpontosítás:&nbsp;`4.szint`<br />| `1` célzással eltöltött kör után ⭕`+20 CÉ`⭕ módosítót kapsz. Nem additív. <br />|
 
 <br />
 
