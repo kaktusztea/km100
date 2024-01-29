@@ -4,7 +4,7 @@ Kifejezetten jól használod lőfegyveredet közeli célpontok ellen. Ez a Fort�
 
 | |  Követelmény | Hatás  |
 | :----------- | :-----------: | :----------- |
-| 1.fok | Önuralom +1<br />Hajítás/Íjászat/Lövészet&nbsp;–&nbsp;5.szint | Amennyiben célzásnál a **Cellaszám**: `1`, akkor `+10 CÉ` járul a **Célzó Értékedhez**. |
+| 1.fok | Önuralom `+1`<br />Íjászat/Lövészet&nbsp;–&nbsp;`5.szint` | Amennyiben célzásnál a **Cellaszám**: `1`, akkor `+10 CÉ` járul a **Célzó Értékedhez**. |
 
 <br />
 
