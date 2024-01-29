@@ -6,7 +6,7 @@
 
 **Kapcsolódó fortélyok**: [Lovas harc](../fortelyok.harci/lovas_harc.md), [Állat testvér](042_bonusz_hatterek.md#-%C3%A1llat-testv%C3%A9r)
 
-**Bónusz Háttér**: [Lénylovas](../042_bonusz_hatterek.md#-l%C3%A9nylovas-faj-neve)
+**Bónusz-Háttér**: [Lénylovas](../042_bonusz_hatterek.md#-l%C3%A9nylovas-faj-neve)
 
 **Leírás**:  Aki léglovaglást tanul, az képes megülni a fent említett repülő lényeket a képzettség szintjétől függő tehetséggel.
 
@@ -42,4 +42,4 @@
 > Célszámot módosító körülmények
 
 - ⭕Vad hátas: + [1-3]
-- Más fajú földi hátas esetén: [Lénylovas](../042_bonusz_hatterek.md#-l%C3%A9nylovas-faj-neve)
+- Más fajú földi hátas esetén: [Lénylovas](../042_bonusz_hatterek.md#-l%C3%A9nylovas-faj-neve) Bónusz-Háttér

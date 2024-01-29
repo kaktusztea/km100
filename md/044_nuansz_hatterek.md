@@ -2,7 +2,7 @@
 
 <!-- tag: nuansz__hatter -->
 
-Apró, szinesítő ismeretek, amelyek nem nyújtanak jelentős előnyöket, hátrányokat, inkább a karakter felépítésében segítenek, érdekes elemként.
+Apró, szinesítő ismeretek, amelyek nem nyújtanak jelentős előnyöket, hátrányokat, inkább a karakter felépítésében segítenek, érdekes elemként. A lentiek nem fednek le mindent, a KM és a játékos is közösen kitalálhatnak új, szinesítő Nüansz- és Művészeti Háttereket.
 
 
 ⭕Tartalomjegyzék ide⭕

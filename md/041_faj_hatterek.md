@@ -1,4 +1,4 @@
-### Faj hátterek
+### Faj Hátterek
 
 <!-- tag: faj__hatter -->
 

@@ -8,7 +8,7 @@ Két forrásból juthatunk Karmához:
 - Az itt lent leírt konkrét karmák listájából, amennyiben a követelményeknek megfelel
 - KM által kitalált, egyedi Karmákból (itt a mesélő ésszel adományozzon)
 
-A lenti Karmák nem feltétlenül fednek le mindent, a KM ha úgy érzi az adott kaland hangulatához illene egy új, általa kitalált Karma, akkor nyugodtan megadhatja, de legyen tekintettel az erőviszonyokra, Karmaként csak valamilyen színesítő ismeretet adjon.
+A lenti Karmák nem feltétlenül fednek le mindent, a KM ha úgy érzi az adott kaland hangulatához illene egy új, általa kitalált Karma, akkor nyugodtan megadhatja, de legyen tekintettel az erőviszonyokra, Karmaként csak valamilyen színesítő ismeretet adjon, ne számszerű előnyöket.
 
 A Karmák lehetnek önmagukban, vagy %-kal jellemezhetőek.
 

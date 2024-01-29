@@ -2,9 +2,12 @@
 
 <!-- tag: bonusz__hatter -->
 
-Általában egyes képzettségek nagyon magas szinten történő művelői által, kivételes esetben tanulható – legtöbbször félmágikus – ismeretek.
+Általában egyes képzettségek magasabb szintjein kapott, egyedi, speciális ismeretek.
+Ide tartoznak a nagyon magas szinten, kivételes esetben tanulható – legtöbbször félmágikus – ismeretek is.
 
-A képzettségek leírásában találhatóak hivatkozások az alábbi Bónusz Hátterekre. Csak a megjelölt képzettség-szintek elérésekor kaphatja meg ezeket az ingyenes ismereteket a karakter.
+A képzettségek leírásában találhatóak hivatkozások az alábbi Bónusz-Hátterekre. Csak a megjelölt képzettség-szintek elérésekor kaphatja meg ezeket az ingyenes ismereteket a karakter.
+
+Ide soroljuk azokat az egyedi Bónusz-Háttereket is, amelyek már meglevő képzettségeket szélesítenek ki, nagyon rövid "beszoktató" gyakorlás után. Erre jó példa a [Lénylovas](042_bonusz_hatterek.md#-l%C3%A9nylovas-faj-neve) Bónusz-Háttér.
 
 ⭕Tartalomjegyzék ide⭕
 
@@ -31,6 +34,25 @@ Titkos, félmágikus ismeret. Csak az álcázás legnagyobb mesterei ismerik –
 | |  Követelmény | Hatás  |   |
 | :----------- | :----------- | :----------- | :----------- |
 | 1.fok | Álcázás/Álruha: ⭕15.szint | Alkalmazója kellékek nélkül is képes átformálni vonásait. A hatás csak annyi lehet, amennyit maszkkészítő eszközökkel is el tudna érni. Például: pár perc alatt szakállat, bajszot növeszt, ráncokat varázsol az arcára, megváltozik szeme színe, stb. |
+
+<br />
+
+
+---
+#### 🟣 Harci láz 3
+
+A [Harci láz]() fortély 3. speciális foka.
+
+Csak mágiával érhető el, például ork ereklye hatása, vagy Arel áldása. Ezek különleges állapotok, ezt a szintet nem lehet tanulással elérni, így KP-t sem lehet rá költeni.
+
+Bővebben lásd a ⭕Mágia fejezetet⭕.
+
+- Erő, Edzettség, Gyorsaság tulajdonságpróbákra:&nbsp;`+3`<br />
+- KÉ:`+6`; TÉ:`+12`; VÉ:`-10`; SP:`+3`
+- Harcmodor Sebesség: `+3`
+- ÉP: `+6`
+- Mágiallenállás: `+10`
+- Sebesülés **TÉ** levonása `15`-el mérséklődik
 
 <br />
 
