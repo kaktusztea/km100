@@ -37,7 +37,7 @@ A szabályrendszer dokumentumaiban speciális unicode karaktereket használunk j
 🟢 Specializáció
 🟡 Különleges képzettség
 
-🟣 Fortély
+🟣 Fortély / Háttér
 
 🗡️ Harci taktika, Harci szituáció vagy Manőver
 
