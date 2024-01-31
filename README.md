@@ -59,7 +59,7 @@ A km100-nak nem célja helyettesíteni a hivatalos szabályrendszert, amely a r�
 Az évek során több \"alapmotort\" fejlesztettünk és dobtunk ki (ez leginkább a képzettségrendszerre igaz). Nem célunk (már) a teljesen eredeti és új rendszer kitalálása, több ötletet, megoldást, bevallottan más - már bizonyított - rendszerekből lestünk el. A cél, hogy a saját és más rendszerek jól működő részeit egy jól teljesítő, nem túlbonyolított, mégis logikus egységbe foglaljuk és pótoljunk (nekünk) régóta fájó hiányokat, vagy idegesítő logikátlanságokat.
 
 ## Licenc
-A rendszer nonprofit, soha semmilyen anyagi, vagy egyéb ellenszolgáltatást nem kérünk, vagy fogadunk el, viszont minden dokumentumra a `Creative Commons` fent említett feltételei érvényesek. [Bővebben itt](LICENSE).
+A rendszer nonprofit, soha semmilyen anyagi, vagy egyéb ellenszolgáltatást nem kérünk, vagy fogadunk el, viszont minden dokumentumra a `Creative Commons` licenc feltételei érvényesek. [Bővebben itt](LICENSE).
 
 ---
 
