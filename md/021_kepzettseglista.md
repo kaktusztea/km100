@@ -130,9 +130,9 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🔵[Etikett](kepzettsegek/etikett.md) (adott kultúrkör)  <sup><sub>(100%)</sub></sup>
 
-🔵[Hajózás](kepzettsegek/hajozas.md) 🟢[Hajózás-spec](kepzettsegek/hajozas.md) <sup><sub>(7%)</sub></sup>
+🔵[Hajózás](kepzettsegek/hajozas.md) <sup><sub>(0%)</sub></sup>
 
-🔵[Idomítás](kepzettsegek/idomitas.md) 🟢[Idomítás-spec](kepzettsegek/idomitas.md) <sup><sub>(0%)</sub></sup>
+🔵[Idomítás](kepzettsegek/idomitas.md) (állatcsoport) <sup><sub>(0%)</sub></sup> (többször felvehető)
 
 🔵[Szakma](kepzettsegek/szakma_szakma.hamisitas.md): ács, kőműves, borbély, kádár, varga, szűcs, cserző, (fegyver)kovács, gazdálkodás(birtok), ékszerész, molnár, pék, szabó, kötélgyártó, lakatos, rejtjelfejtő 🟢[Hamisitás - Szakma](kepzettsegek/szakma_szakma.hamisitas.md) - Fegyverkovács, Ékszerész, stb. 🔆 0-ról indul, 1x-es (specializációnak számít) és nem lehet nagyobb, mint a fölé tartozó képzettség!) <sup><sub>(20%)</sub></sup>
 
