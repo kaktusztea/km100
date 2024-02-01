@@ -138,7 +138,7 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🔴[Gyógyítás](gyogyitas_sebgyogyitas_orvoslas.md) 🔵[Sebgyógyítás](gyogyitas_sebgyogyitas_orvoslas.md) 🔵[Orvoslás](gyogyitas_sebgyogyitas_orvoslas.md) <sup><sub>(40%)</sub></sup>
 
-🔴[Értékbecslés](kepzettsegek/ertekbecsles.md) 🔵[Értékbecslés - adott tárgycsoport](kepzettsegek/ertekbecsles.md) (fegyverek, ékszerek, festmények, szobrok, stb) <sup><sub>(0%)</sub></sup>
+🔵[Értékbecslés](kepzettsegek/ertekbecsles.md) <sup><sub>(0%)</sub></sup>
 
 ## Alvilági képzettségek
 
