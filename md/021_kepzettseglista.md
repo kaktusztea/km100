@@ -184,7 +184,9 @@ Festészet + (Pszeudó tul.) + k10   vs   Célszám
 
 🔵[Tánc](kepzettsegek/tanc.md) 🟢[Tánc](kepzettsegek/tanc.md) <sup><sub>(20%)</sub></sup> (speciális belső stílus)
 
-🔴[Zeneszerző](kepzettsegek/zene.md) 🔵[Zene](kepzettsegek/zene.md) <sup><sub>(10%)</sub></sup> (hangszercsoport: fúvós, pengetős, ütős, stb) 🟢[Zene](kepzettsegek/zene.md) (konkrét hangszer)
+🔵[Zeneszerző](kepzettsegek/zeneszerzo.md)
+
+🔵[Zenélés](kepzettsegek/zeneles.md) <sup><sub>(10%)</sub></sup> (hangszercsoport: fúvós, pengetős, ütős, stb) - többször felvehető
 
 ## Tudományos képzettségek
 
