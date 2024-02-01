@@ -1,5 +1,4 @@
-🔵 Alkímia\
-🟢 Alkímia-spec⭕
+🔵 Alkímia
 
 Ide tartozik az egyes ásványok ismerete is.
 
