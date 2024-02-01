@@ -59,4 +59,5 @@ Ismered egy adott régió egy adott művészeti életét, alkotásait. Az alább
 - Színjátszás
 - Zene
 
-⚡Példa: "Művészetismeret - Festészet (Északi Szövetség)"
+⚡Példa: "Művészetismeret - Festészet (Északi Szövetség)"\
+🔆Korlát : legfeljebb annyi ilyen Hátteret fehetsz fel, amennyi az ⚪**Érzékenység** Tulajdonságod **kétszerese**.
