@@ -46,7 +46,7 @@ Különlegesen kifinomult a tapintásod, ez lehet áldás és átok is.
 Jól bánsz az ecsettel, kedvtelésből, vagy önkifejezés céljából vetsz vászonra színes műveket.
 
 ---
-#### Művéeszetismeret - adott művészet(régió)
+#### Művészetismeret - adott művészet(régió)
 
 <!-- tag: nuansz__hatter -->
 
