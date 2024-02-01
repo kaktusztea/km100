@@ -1,11 +1,4 @@
-#### 🔴 Zeneszerző
+#### 🔵 Zenélés (hangszercsoport)
 
-xyz
+Külön-külön fel lehet/kell venni az egyes hangszercsoportokra, mint "fúvós", "pengetős", "ütős", stb.
 
-#### 🔵 Zene (hangszercsoport)
-
-fúvós, pengetős, ütős, stb)
-
-#### 🟢 Zene (konkrét hangszer)
-
-lant, dob, stb.
