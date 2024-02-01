@@ -190,7 +190,7 @@ Festészet + (Pszeudó tul.) + k10   vs   Célszám
 
 ## Tudományos képzettségek
 
-🟢[Nyelvismeret](kepzettsegek/nyelvismeret.md) <sup><sub>(40%)</sub></sup> Beszélt nyelvek, Harci/Klán nyelvek, Speciális (Pl. Kendőnyelv). 🔆3-as szinttől, (ha van már Írástudó képessége), akkor tud írni/olvasni is az adott nyelven.)
+🟢[Nyelvismeret](kepzettsegek/nyelvismeret.md) (adott nyelv) <sup><sub>(40%)</sub></sup> (többször felvehető)
 
 🔵[Építészet](kepzettsegek/epiteszet.md) <sup><sub>(0%)</sub></sup>
 
