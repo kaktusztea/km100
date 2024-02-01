@@ -154,7 +154,7 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🔵[Kínzás](kepzettsegek/kinzas.md) <sup><sub>(0%)</sub></sup>
 
-🔵[Szerencsejáték](kepzettsegek/szerencsejatek.md) 🟢[Kártyázás](kepzettsegek/szerencsejatek.md) 🟢[Kockázás](kepzettsegek/szerencsejatek.md) <sup><sub>(0%)</sub></sup>
+🔵[Szerencsejáték](kepzettsegek/szerencsejatek.md) <sup><sub>(0%)</sub></sup>
 
 🔵[Zárnyitás](kepzettsegek/zarnyitas.md) 🟢[Zárnyitás - spec](kepzettsegek/zarnyitas.md) <sup><sub>(0%)</sub></sup>  ⭕LEGYEN??⭕
 
