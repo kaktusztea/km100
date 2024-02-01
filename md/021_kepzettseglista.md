@@ -120,7 +120,7 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🔵[Emberismeret](kepzettsegek/emberismeret.md) <sup><sub>(90%)</sub></sup>
 
-🔵[Természetjárás](kepzettsegek/termeszetjaras.md) (adott tájtípus) <sup><sub>(20%)</sub></sup> (többször felvehető)
+🔵[Természetjárás](kepzettsegek/termeszetjaras.md) (adott tájtípus) (többször felvehető) <sup><sub>(20%)</sub></sup>
 
 🔵[Herbalizmus](kepzettsegek/herbalizmus.md) <sup><sub>(0%)</sub></sup>
 
@@ -132,7 +132,7 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🔵[Hajózás](kepzettsegek/hajozas.md) <sup><sub>(0%)</sub></sup>
 
-🔵[Idomítás](kepzettsegek/idomitas.md) (állatcsoport) <sup><sub>(0%)</sub></sup> (többször felvehető)
+🔵[Idomítás](kepzettsegek/idomitas.md) (állatcsoport) (többször felvehető) <sup><sub>(0%)</sub></sup>
 
 🔵[Szakma](kepzettsegek/szakma_szakma.hamisitas.md): ács, kőműves, borbély, kádár, varga, szűcs, cserző, (fegyver)kovács, gazdálkodás(birtok), ékszerész, molnár, pék, szabó, kötélgyártó, lakatos, rejtjelfejtő 🟢[Hamisitás - Szakma](kepzettsegek/szakma_szakma.hamisitas.md) - Fegyverkovács, Ékszerész, stb. 🔆 0-ról indul, 1x-es (specializációnak számít) és nem lehet nagyobb, mint a fölé tartozó képzettség!) <sup><sub>(20%)</sub></sup>
 
@@ -173,23 +173,23 @@ Festészet + (Pszeudó tul.) + k10   vs   Célszám
 
 🔵[Ének](kepzettsegek/enek.md) <sup><sub>(0%)</sub></sup>
 
-🔵[Festészet](kepzettsegek/festeszet.md) 🟢[Hamisítás-festészet](kepzettsegek/festeszet.md) <sup><sub>(5%)</sub></sup> (0-ról indul és nem lehet nagyobb, mint a fölé tartozó képzettség!)
+🔵[Festészet](kepzettsegek/festeszet.md) 🟢[Hamisítás-festészet](kepzettsegek/festeszet.md) (0-ról indul és nem lehet nagyobb, mint a fölé tartozó képzettség!) <sup><sub>(5%)</sub></sup> 
 
-🔵[Szobrászat](kepzettsegek/szobraszat.md) 🟢[Hamisítás-szobrászat](kepzettsegek/szobraszat.md) <sup><sub>(5%)</sub></sup> (0-ról indul és nem lehet nagyobb, mint a fölé tartozó képzettség!)
+🔵[Szobrászat](kepzettsegek/szobraszat.md) 🟢[Hamisítás-szobrászat](kepzettsegek/szobraszat.md) (0-ról indul és nem lehet nagyobb, mint a fölé tartozó képzettség!) <sup><sub>(5%)</sub></sup> 
 
-🔵[Kalligráfia](kepzettsegek/kalligrafia.md) 🟢[Hamisítás-kalligráfia](kepzettsegek/kalligrafia.md) <sup><sub>(5%)</sub></sup> (0-ról indul és nem lehet nagyobb, mint a fölé tartozó képzettség!)
+🔵[Kalligráfia](kepzettsegek/kalligrafia.md) 🟢[Hamisítás-kalligráfia](kepzettsegek/kalligrafia.md) (0-ról indul és nem lehet nagyobb, mint a fölé tartozó képzettség!) <sup><sub>(5%)</sub></sup> 
 
-🔵[Irodalom](kepzettsegek/irodalom.md) 🟢[Irodalom ismeret](kepzettsegek/irodalom.md) <sup><sub>(40%)</sub></sup> (adott régió)
+🔵[Irodalom](kepzettsegek/irodalom.md) 🟢[Irodalom ismeret](kepzettsegek/irodalom.md) (adott régió) <sup><sub>(40%)</sub></sup>
 
-🔵[Tánc](kepzettsegek/tanc.md) 🟢[Tánc](kepzettsegek/tanc.md) <sup><sub>(20%)</sub></sup> (speciális belső stílus)
+🔵[Tánc](kepzettsegek/tanc.md) 🟢[Tánc](kepzettsegek/tanc.md) (speciális belső stílus) <sup><sub>(20%)</sub></sup> 
 
 🔵[Zeneszerző](kepzettsegek/zeneszerzo.md)
 
-🔵[Zenélés](kepzettsegek/zeneles.md) (hangszercsoport) <sup><sub>(10%)</sub></sup> - többször felvehető
+🔵[Zenélés](kepzettsegek/zeneles.md) (hangszercsoport) (többször felvehető) <sup><sub>(10%)</sub></sup>
 
 ## Tudományos képzettségek
 
-🟢[Nyelvismeret](kepzettsegek/nyelvismeret.md) (adott nyelv) <sup><sub>(40%)</sub></sup> (többször felvehető)
+🟢[Nyelvismeret](kepzettsegek/nyelvismeret.md) (adott nyelv) (többször felvehető) <sup><sub>(40%)</sub></sup>
 
 🔵[Építészet](kepzettsegek/epiteszet.md) <sup><sub>(0%)</sub></sup>
 
@@ -197,9 +197,9 @@ Festészet + (Pszeudó tul.) + k10   vs   Célszám
 
 🔵[Ősi kultúrák ismerete](kepzettsegek/osi_kulturak_ismerete.md) (Külön ősi kultúránként) (Történem és Vallásismeret is egyben) <sup><sub>(25%)</sub></sup>
 
-🔵[Ősi nyelv ismerete](kepzettsegek/osi_nyelv_ismerete.md) <sup><sub>(0%)</sub></sup> (Külön ősi nyelvenként)
+🔵[Ősi nyelv ismerete](kepzettsegek/osi_nyelv_ismerete.md) (Külön ősi nyelvenként) <sup><sub>(0%)</sub></sup>
 
-🔵[Jogismeret](kepzettsegek/jogismeret.md) <sup><sub>(0%)</sub></sup> (adott kultúrkör) (Pyarroni államszövetség, Toron, stb)
+🔵[Jogismeret](kepzettsegek/jogismeret.md) (adott kultúrkör) (Pyarroni államszövetség, Toron, stb) <sup><sub>(0%)</sub></sup>
 
 🔵[Alkímia](kepzettsegek/alkimia.md) <sup><sub>(0%)</sub></sup>
 
