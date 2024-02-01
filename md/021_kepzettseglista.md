@@ -120,7 +120,7 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🔵[Emberismeret](kepzettsegek/emberismeret.md) <sup><sub>(90%)</sub></sup>
 
-🔵[Természetjárás](kepzettsegek/termeszetjaras.md) (adott tájtípus) <sup><sub>(20%)</sub></sup>
+🔵[Természetjárás](kepzettsegek/termeszetjaras.md) (adott tájtípus) <sup><sub>(20%)</sub></sup> (többször felvehető)
 
 🔵[Herbalizmus](kepzettsegek/herbalizmus.md) <sup><sub>(0%)</sub></sup>
 
