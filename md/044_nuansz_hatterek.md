@@ -8,7 +8,7 @@ Apró, szinesítő ismeretek, amelyek nem nyújtanak jelentős előnyöket, hát
 - [Fejlett ízlelés]()
 - [Fejlett tapintás]()
 - [Festő]()
-- [Művéeszetismeret - adott művészet(régió)]()
+- [Művészetismeret - adott művészet(régió)]()
 
 ---
 #### Fejlett ízlelés
