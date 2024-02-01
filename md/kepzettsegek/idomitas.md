@@ -1,7 +1,6 @@
-#### 🔵 Idomítás
+#### 🔵 Idomítás (állatcsoportok)
 
-xyz
-
-#### 🟢 Idomítás-spec
-
-Van specializáció (konkrét állatra)
+Állatcsoportok
+- Hátasok
+- Madarak, Hüllők
+- Háziállatok
