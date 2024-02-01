@@ -156,9 +156,9 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🔵[Szerencsejáték](kepzettsegek/szerencsejatek.md) <sup><sub>(0%)</sub></sup>
 
-🔵[Zárnyitás](kepzettsegek/zarnyitas.md) 🟢[Zárnyitás - spec](kepzettsegek/zarnyitas.md) <sup><sub>(0%)</sub></sup>  ⭕LEGYEN??⭕
+🔵[Zárnyitás](kepzettsegek/zarnyitas.md) <sup><sub>(0%)</sub></sup>
 
-🔵[Csapdaállítás](kepzettsegek/csapdaallitas.md) 🟢[Csapdaállítás - spec](kepzettsegek/csapdaallitas.md) <sup><sub>(0%)</sub></sup>  ⭕LEGYEN??⭕
+🔵[Csapdaállítás](kepzettsegek/csapdaallitas.md) <sup><sub>(0%)</sub></sup>
 
 ## Művészeti képzettségek
 
