@@ -5,10 +5,10 @@
 Apró, szinesítő ismeretek, amelyek nem nyújtanak jelentős előnyöket, hátrányokat, inkább a karakter felépítésében segítenek, érdekes elemként. A lentiek nem fednek le mindent, a KM és a játékos is közösen kitalálhatnak új, szinesítő Nüansz- és Művészeti Háttereket.
 
 
-- [Fejlett ízlelés]()
-- [Fejlett tapintás]()
-- [Festő]()
-- [Művészetismeret - adott művészet(régió)]()
+- [Fejlett ízlelés](#fejlett-%C3%ADzlel%C3%A9s)
+- [Fejlett tapintás](#fejlett-tapint%C3%A1s)
+- [Festő](#fest%C5%91)
+- [Művészetismeret - adott művészet(régió)](#m%C5%B1v%C3%A9eszetismeret---adott-m%C5%B1v%C3%A9szetr%C3%A9gi%C3%B3)
 
 ---
 #### Fejlett ízlelés
