@@ -169,7 +169,7 @@ A fentieket a KM összegzi és osztályzatot ad rá: `[-5; +5]` intervallumban, 
 ```
 Festészet + (Pszeudó tul.) + k10   vs   Célszám
 ```
-🟣Művészetismeret: ez nem képzettség - ingyenes **Művészeti Háttér** lett. Bővebben [lásd ott](044_nuansz_hatterek.md#m%C5%B1v%C3%A9eszetismeret---adott-m%C5%B1v%C3%A9szetr%C3%A9gi%C3%B3).
+🟣Művészetismeret: ez nem képzettség - ingyenes **Művészeti Háttér** lett. Bővebben [lásd ott](044_nuansz_hatterek.md#m%C5%B1v%C3%A9szetismeret---adott-m%C5%B1v%C3%A9szetr%C3%A9gi%C3%B3).
 
 🔵[Ének](kepzettsegek/enek.md) <sup><sub>(0%)</sub></sup>
 
