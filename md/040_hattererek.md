@@ -2,6 +2,8 @@
 
 <!-- tag: hatter__fortely -->
 
+⚜️ [Nyitóoldal](start.md)
+
 A Hátterek ingyenes, változatos jellemzők.
 
 Ide tartoznak a játszható és nem játszható fajok, előtörténetet színesítő, esetlegesen nehezítő(!) elemek - amennyiben a játékos hajlandó ezeket felvállalni -, képzettségek magasabb szinjei által nyújtott előnyök (Bónusz Hátterek), valamint jellemet, küllemet leíró pár szavas Hátterek.
