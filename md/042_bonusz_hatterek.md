@@ -7,7 +7,7 @@ Ide tartoznak a nagyon magas szinten, kivételes esetben tanulható – legtöbb
 
 A képzettségek leírásában találhatóak hivatkozások az alábbi Bónusz-Hátterekre. Csak a megjelölt képzettség-szintek elérésekor kaphatja meg ezeket az ingyenes ismereteket a karakter.
 
-Ide soroljuk azokat az egyedi Bónusz-Háttereket is, amelyek már meglevő képzettségeket szélesítenek ki, nagyon rövid "beszoktató" gyakorlás után. Erre jó példa a [Lénylovas](042_bonusz_hatterek.md#-l%C3%A9nylovas-faj-neve) Bónusz-Háttér.
+Ide soroljuk azokat az egyedi Bónusz-Háttereket is, amelyek már meglevő képzettségeket szélesítenek ki nagyon rövid "beszoktató" gyakorlás után. Erre jó példa a [Lénylovas](042_bonusz_hatterek.md#-l%C3%A9nylovas-faj-neve) Bónusz-Háttér.
 
 ⭕Tartalomjegyzék ide⭕
 
