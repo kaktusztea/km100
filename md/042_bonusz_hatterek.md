@@ -9,8 +9,16 @@ A képzettségek leírásában találhatóak hivatkozások az alábbi Bónusz-H�
 
 Ide soroljuk azokat az egyedi Bónusz-Háttereket is, amelyek már meglevő képzettségeket szélesítenek ki nagyon rövid "beszoktató" gyakorlás után. Erre jó példa a [Lénylovas](042_bonusz_hatterek.md#-l%C3%A9nylovas-faj-neve) Bónusz-Háttér.
 
-⭕Tartalomjegyzék ide⭕
+---
+Tartalomjegyzék
+- [Állat testvér](#-%C3%A1llat-testv%C3%A9r)
+- [Élő álca](#-%C3%A9l%C5%91-%C3%A1lca)
+- [Harci láz 3](#-harci-l%C3%A1z-3)
+- [Kobratánc](#-kobrat%C3%A1nc)
+- [Lénylovas](#-l%C3%A9nylovas-faj-neve)
+- [Tapadás](#-tapad%C3%A1s)
 
+---
 #### 🟣 Állat testvér
 
 A felsorolt valamelyik 3 képzettség legfelső fokán már olyan magas fokú kapcsolat jön létre ember és állat között – szinte lelki társsá válnak –, ami korlátozott telepátiát hoz létre.\
