@@ -24,13 +24,12 @@ Tartalomjegyzék
 A felsorolt valamelyik 3 képzettség legfelső szintjein már olyan magas fokú kapcsolat jön létre ember és állat között – szinte lelki társsá válnak –, ami korlátozott telepátiát hoz létre.\
 A kapcsolat olyan konkrét állatokra vonatkozik, akikkel a viselője legalább 1 éve szoros napi érintkezésben van.
 
-**Követelmény**
+##### Követelmény
 
 - [Idomítás](kepzettsegek/idomitas.md) / [Lovaglás](kepzettsegek/lovaglas.md) (csak adott fajú földi hátasra) / [Léglovaglás](kepzettsegek/leglovaglas.md) (csak adott fajú repülő lényre) &nbsp;–&nbsp;`12-15.szint`<br />
 - Érzékenység: `+3`
 
-**Hatás a képzettség adott szintjén**
-
+##### Hatás a képzettség adott szintjén
 12. szint: a karakter a társául szegődött állattal folyamatos telepatikus kapcsolatban van, képes csupán a gondolataival irányítani őt. Az állat nem köteles engedelmeskedni, ez pusztán kétoldalú kommunikáció, nem akaratirányítás. A gondolatok átadása mellett egymás érzelmi állapotát és annak változásait is képesek érzékelni, átélni.
 15. szint: a lovas ideiglenesen egybeolvad asztrálian és mentálisan az állattal, egy egységet alkotnak. A lovas képes érzékelni az állat érzékszerveivel is, és saját testeként is mozoghat vele, amennyiben az engedélyezi ezt számára. A karakter és az állat képes bármekkora távolságból kommunikálni egymással.
 
@@ -41,9 +40,13 @@ A kapcsolat olyan konkrét állatokra vonatkozik, akikkel a viselője legalább 
 
 Titkos, félmágikus ismeret. Csak az álcázás legnagyobb mesterei ismerik – állítólag.
 
-| |  Követelmény | Hatás  |   |
-| :----------- | :----------- | :----------- | :----------- |
-| 1.fok | Álcázás/Álruha: ⭕15.szint | Alkalmazója kellékek nélkül is képes átformálni vonásait. A hatás csak annyi lehet, amennyit maszkkészítő eszközökkel is el tudna érni. Például: pár perc alatt szakállat, bajszot növeszt, ráncokat varázsol az arcára, megváltozik szeme színe, stb. |
+##### Követelmény
+- Álcázás/Álruha - `15.szint`
+
+##### Hatás a képzettség adott szintjén
+15. szint: Alkalmazója kellékek nélkül is képes átformálni vonásait. A hatás csak annyi lehet, amennyit maszkkészítő eszközökkel is el tudna érni. Például: pár perc alatt szakállat, bajszot növeszt, ráncokat varázsol az arcára, megváltozik szeme színe, stb. 
+
+
 
 <br />
 
@@ -73,17 +76,18 @@ Bővebben lásd a ⭕Mágia fejezetet⭕.
 
 Végtagokat, hasat, páncéltalan részeket támad.
 
-| |  Követelmény | Hatás  |
-| :----------- | :----------- | :----------- |
-| 1.fok | Gorviki fejvadászklán<br />Összpontosítás&nbsp;–&nbsp;9.szint&nbsp;?<br />Kétkezes harc&nbsp;–&nbsp;2.fok<br />Kardvívás&nbsp;–&nbsp;9.szint |
+##### Követelmény
+- Gorviki fejvadászklán
+- Kivívott tisztelet, előtörténet
+- Mester, aki tanítja
+- Összpontosítás - `9.szint`
+- Kétkezes harc - `2.fok`
+- Kardvívás - `9.szint`
 
-**Hatása**
-
+##### Hatás
 Harci transz ⭕(kizökkenéshez mi kell?)⭕
-- Nő a harcos Sebesség értéke: `+5`
-  - ⭕Ez értelmetlen, mert annyit támad, amennyit az ellenfelek rá!!⭕
 - Sebzés: `k20+2 SP` <sup><sub>(semmi más bónusz nem számít)</sup></sub>
-  - max 6 ÉP seb??
+  - max ⭕6 ÉP seb??
 - TÉ: `+10` vagy `+15`??
 - VÉ: `+10`??
 - ⭕Páncéldobás esélyeit módosítja:⭕
@@ -91,7 +95,6 @@ Harci transz ⭕(kizökkenéshez mi kell?)⭕
   - ⭕`-20%` a páncéldobásra⭕
 - Támadások száma: max annyi, amennyi az ellenfél(felek) támadásai össz, mivel regál a támadásokra. Lemesélve:
   - Ő dob először (megelőző) támadást. Ha az sikeres (sebző), akkor az ellenfél elveszíti a támadását.
-
 
 <br />
 
@@ -107,7 +110,6 @@ Ha harcolnál is, akkor a [Lovas harc](fortelyok.harci/lovas_harc.md) fortélyn�
 
 A Háttér többször felvehető - minden "bejáratott" hátas fajhoz külön.
 
-
 <br />
 
 ---
@@ -115,8 +117,11 @@ A Háttér többször felvehető - minden "bejáratott" hátas fajhoz külön.
 
 Titkos, félmágikus ismeret.
 
-| |  Követelmény | Hatás  |   |
-| :----------- | :----------- | :----------- | :----------- |
-| 1.fok | Mászás: ⭕15.szint | Képes vagy pókként megtapadni a falon – akár a mennyezeten is. A kapaszkodáshoz nincs szükséged kiszögelésre. |
+##### Követelmény
+- Életed a mászás
+- Mászás - `15.szint`
+
+##### Hatás a képzettség adott szintjén
+15.szint: Képes vagy pókként megtapadni a falon – akár a mennyezeten is. A kapaszkodáshoz nincs szükséged kiszögelésre.
 
 <br />
