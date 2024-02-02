@@ -30,7 +30,6 @@
   - [Tulajdonság ellenpróba](#tulajdonság-ellenpróba)
 -  [Életerő pontok](#életerő-pontok)
 - [Méregellenállás](#méregellenállás)
-  - [Másodlagos hatás](#másodlagos-hatás)
 - [Mágiaellenállás](#mágiaellenállás)
 - [Primer és Szekunder ismeretek kategóriái](#primer-%C3%A9s-szekunder-ismeretek-kateg%C3%B3ri%C3%A1i)
 - [Fejlődés](#fejlődés)
@@ -547,11 +546,6 @@ A Méregellenállás próba egyszerű Tulajdonság próba, melynél a karakter `
 ```
 
 `A méregellenállást a méreg Erőssége (és NEM szintje) ellen kell dobni!!!`
-
-### Másodlagos hatás
-
-A mérgeknek lehet ún. `Másodlagos hatása`, amely a
-sikeres próba esetén következik be. Ennek hatása legfeljebb a rendes hatásnál `1-el` (⭕2-vel???) alacsonyabb kategóriájú lehet. Pl. Halál → Életveszély (vagy Bódulat).
 
 Bővebben lásd a [Méregkeverés](kepzettsegek/meregkeveres.md) képzettség leírását.
 
