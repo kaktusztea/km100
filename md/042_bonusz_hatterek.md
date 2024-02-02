@@ -87,7 +87,7 @@ Legendás és rettegett gorviki fejvadász stílus, amely jellemzően végtagoka
 - Sebzés: `k20+2 SP`, de max `6`ÉP
 - Erőbónusz, Mesterfegyver és más **SP** bónuszok nem számítanak
 - TÉ: "Fejvadász Tradíció" szintje `1:1` hozzáadódik
-- VÉ: `+10`??
+- VÉ: `+10`⭕??
 - [Kijelölt testrészre támadás](065_02_harci_taktikak.md#kijel%C3%B6lt-testr%C3%A9szre-t%C3%A1mad%C3%A1s) harci taktikát `TÉ` levonás nélkül tudja alkalmazni.
 - Támadás/kör: pont annyi, amennyi az ellenfél(felek) támadásainak száma az alkalmazó felé összesen, mivel ő csak regál a támadásokra.
 - Minden felé irányuló támadás előtt a kobratáncos dob először egy kivételes, **megelőző** támadást. Ha az sikeres (sebző), akkor az ellenfél elveszíti a támadását.
