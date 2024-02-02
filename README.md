@@ -23,6 +23,7 @@ A harcrendszer kiemelten alapoz a szituációk eltérő voltára, ugyanaz a két
 
 A lőfegyverek alapesetben rendkívül halálosak, viszont a vérteknek szintén nagy szerep jut (nem csak) ennek ellensúlyozására, illetve a célpont láthatósága, mozgása is sokat nehezít.
 
+---
 ## Mágia
 
 Misztikus elemekben erős hangsúly van a hangulati és szituáció-függő aspektuson és a mágia kiszámíthatatlanságán: a mágia NEM egy alternatív fizika. Ugyanaz a varázslat máshogy viselkedhet, vagy könnyebb/nehezebb a körülmények/együttállások/alkalmazó személyétől/hatalmától függően. Egyes varázslatok fizikailag is kimerítőek lehetnek.
@@ -58,6 +59,7 @@ A km100-nak nem célja helyettesíteni a hivatalos szabályrendszert, amely a r�
 
 Az évek során több \"alapmotort\" fejlesztettünk és dobtunk ki (ez leginkább a képzettségrendszerre igaz). Nem célunk (már) a teljesen eredeti és új rendszer kitalálása, több ötletet, megoldást, bevallottan más - már bizonyított - rendszerekből lestünk el. A cél, hogy a saját és más rendszerek jól működő részeit egy jól teljesítő, nem túlbonyolított, mégis logikus egységbe foglaljuk és pótoljunk (nekünk) régóta fájó hiányokat, vagy idegesítő logikátlanságokat.
 
+---
 ## Licenc
 A rendszer nonprofit, soha semmilyen anyagi, vagy egyéb ellenszolgáltatást nem kérünk, vagy fogadunk el, viszont minden dokumentumra a `Creative Commons` licenc feltételei érvényesek. [Bővebben itt](LICENSE).
 
@@ -66,7 +68,7 @@ A rendszer nonprofit, soha semmilyen anyagi, vagy egyéb ellenszolgáltatást ne
 → [km100 szabályrendszer](./md/start.md)
 
 ---
-`km100`: Nonprofit szabályrendszer a M\* világához\
+km100: Nonprofit szabályrendszer a M\* világához\
 Ailtas, 2004-2024 ([CC](../LICENSE))
 
 **Kapcsolat**: `km100rpg _kukac_ protonmail _pont_ com`
