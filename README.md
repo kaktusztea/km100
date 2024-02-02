@@ -19,7 +19,7 @@ A játékosok kreativitásának kiemelt mértékű jutalmazása nagyon fontos - 
 ---
 ## Harcrendszer
 
-A harcrendszer kiemelten alapoz a szituációk eltérő voltára, ugyanaz a két karakter más-más körülmények, fegyverek, páncélok és taktikák alkalmazásával gyökeresen más esélyekkel indul, így aki ésszel harcol, nagyon sokat nyerhet.
+A harcrendszer kiemelten alapoz a szituációk eltérő voltára, ugyanaz a két karakter más-más körülmények, fegyverek, páncélok és taktikák alkalmazásával gyökeresen más esélyekkel indul, így aki ésszel harcol, nagyon sokat nyerhet. A csapatmunka és a taktikus gondolkodás - akár egy kis létszámú különleges egységnél - egészen erős következményeket is elérhet, mint például mindössze egy jólirányzott tőrszúrás okozta teljes győzelem a megfelelő időben és elkőkészítéssel.
 
 A lőfegyverek alapesetben rendkívül halálosak, viszont a vérteknek szintén nagy szerep jut (nem csak) ennek ellensúlyozására, illetve a célpont láthatósága, mozgása is sokat nehezít.
 
