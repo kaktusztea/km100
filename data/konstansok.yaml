@@ -175,7 +175,7 @@ egészség.kategória.levonás:
     típus: 52    # TÉ
 
 fortély.csoportok: [karma, háttér, mindennapi, alvilági, fizikai, szociális, világi, tudományos, művészeti, harci, távharc, lovas, titkos]
-képzettség.csoportok: [harci, fizikai, világi, alvilági, tudományos, művészeti, misztikus, vulgármágia, ordani.tűzmágia, bárdmágia, mozaikmágia]
+képzettség.csoportok: [harci, fizikai, világi, alvilági, tudományos, művészeti, misztikus, vulgármágia, ordani.tűzmágia, bárdmágia, magasmágia]
 # ⭕ a mágia csoportokból lehet, hogy hiányzik még pár
 
 kalk:        # Kalkulált értékek ⭕TODO: kell ez ide? Inkább külön kalkulalt_ertekek file képletekkel.
