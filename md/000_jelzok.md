@@ -1,5 +1,7 @@
 # Szimbólumok, jelzők
 
+⚜️ [Nyitóoldal](start.md)
+
 A szabályrendszer dokumentumaiban speciális unicode karaktereket használunk jelzőknek, melyek megkönnyítik az olvasást, értelemezést.
 
 ---
