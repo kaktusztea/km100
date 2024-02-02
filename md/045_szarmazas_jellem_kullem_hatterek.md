@@ -13,17 +13,26 @@ Alább 1-2 szavas jelzőket találsz, amelyek további szinesítő elemeket adha
 - Polgár
 - Városlakó
 
+
 #### Jellem, fóbiák, hobbik
 
-- Hallgatag
-- Nárcisztikus
+- Alattomos
+- Élet
 - Gondoskodó
 - Gyáva
+- Halál
+- Hallgatag
+- Káosz
+- Kígyóiszony
 - Megbízhatatlan
+- Megbízható
 - Meggondolatlan
+- Naív
+- Nárcisztikus
 - Pókiszony
 - Precíz
-- Kígyóiszony
+- Rend
+
 
 #### Küllem, fizikum
 
