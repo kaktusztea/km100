@@ -1,6 +1,7 @@
 # Érzékelés, Észlelés
 
-⚜️ [Nyitóoldal](start.md)\
+⚜️ [Nyitóoldal](start.md)
+
 → [TODO/ISSUE harcrendszer](https://github.com/kaktusztea/km100/wiki/ISSUE.TODO.erzekeles.eszleles)
 
 ## Tág értelmezés
