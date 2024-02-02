@@ -4,8 +4,6 @@
 
 Alább 1-2 szavas jelzőket találsz, amelyek további szinesítő elemeket adhatnak karaktered megalkotásakor. A lentiek nem fednek le mindent, a KM és a játékos is közösen kitalálhatnak új, szinesítő Háttereket bármelyik lenti kategóriában.
 
-⭕Tartalomjegyzék ide⭕
-
 #### Származás
 
 - Árva
