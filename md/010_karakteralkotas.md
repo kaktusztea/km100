@@ -60,6 +60,11 @@ Rövid áttekintő summázatként álljanak itt a számok, amelyekkel a karakter
 - **Harcérték módosítók** (HM/CM)
 
 ---
+## Karakteralkotó
+
+Egy km100 karakter megalkotása nagyságrendekkel meggyorsítható a Karakteralkotó használatával, amelynek aktuális verziója a [nyitóoldal tetején](start.md#karakteralkot%C3%B3k) található meg.
+
+---
 ## Előtörténet, személyiség
 
 Mikor karaktert alkotunk (remélhetőleg) nem pusztán egy számhalmazt hozunk létre, hanem kidolgozzuk annak eddigi életét, hogy jutott el oda, hogy kalandozásra adja fejét.
