@@ -6,6 +6,7 @@
 - [Számok](#számok)
    - [Szabad pontok](#szabad-pontok)
    - [KP költésével növelt értékek](#kp-költésével-növelt-értékek)
+- [Karakteralkotó](#karakteralkot%C3%B3)
 - [Előtörténet, személyiség](#előtörténet-személyiség)
 - [Hátterek](#Hátterek)
 - [Szint, szintlépés](#szint-szintl%C3%A9p%C3%A9s)
