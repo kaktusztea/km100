@@ -17,7 +17,7 @@
 - [Jelzők](000_jelzok.md)
 - [Karakteralkotás](010_karakteralkotas.md) (90%)
 - [Képzettségrendszer](020_kepzettsegrendszer.md) (80%)
-- [Képzettséglista](021_kepzettseglista.md) (90%)
+- [Képzettséglista](021_kepzettseglista.md) (90%)(20%)
 - [Fortélyok](030_fortelyok.md)
   - [Általános, Érzék, Alvilági és Fizikai fortélyok](033_altalanos_fortelyok.md) 
   - [Harci, Távharc és Lovas fortélyok](034_harci_fortelyok.md)  
