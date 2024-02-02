@@ -71,29 +71,26 @@ Bővebben lásd a ⭕Mágia fejezetet⭕.
 ---
 #### 🟣 Kobratánc
 
-⭕ Még kidolgozatlan⭕
-
-Végtagokat, hasat, páncéltalan részeket támad.
+Legendás és rettegett gorviki fejvadász stílus, amely jellemzően végtagokat, hasat és lehetőleg kis, páncéltalan részeket támad.
 
 ##### Követelmény
 - Gorviki fejvadászklán
 - Kivívott tisztelet, előtörténet
 - Mester, aki tanítja
+- Fejvadász Tradíció - `9.szint`
 - Összpontosítás - `9.szint`
 - Kétkezes harc - `2.fok`
 - Kardvívás - `9.szint`
 
 ##### Hatás
-Harci transz ⭕(kizökkenéshez mi kell?)⭕
-- Sebzés: `k20+2 SP` <sup><sub>(semmi más bónusz nem számít)</sup></sub>
-  - max ⭕6 ÉP seb??
-- TÉ: `+10` vagy `+15`??
+- Harci transz, ⭕(kizökkenéshez mi kell?)⭕
+- Sebzés: `k20+2 SP`, de max `6`ÉP
+- Erőbónusz, Mesterfegyver és más **SP** bónuszok nem számítanak
+- TÉ: "Fejvadász Tradíció" szintje `1:1` hozzáadódik
 - VÉ: `+10`??
-- ⭕Páncéldobás esélyeit módosítja:⭕
-  - ⭕nagyobb esély a végtagokra⭕  VAGY
-  - ⭕`-20%` a páncéldobásra⭕
-- Támadások száma: max annyi, amennyi az ellenfél(felek) támadásai össz, mivel regál a támadásokra. Lemesélve:
-  - Ő dob először (megelőző) támadást. Ha az sikeres (sebző), akkor az ellenfél elveszíti a támadását.
+- [Kijelölt testrészre támadás](065_02_harci_taktikak.md#kijel%C3%B6lt-testr%C3%A9szre-t%C3%A1mad%C3%A1s) harci taktikát `TÉ` levonás nélkül tudja alkalmazni.
+- Támadás/kör: pont annyi, amennyi az ellenfél(felek) támadásainak száma az alkalmazó felé összesen, mivel ő csak regál a támadásokra.
+- Minden felé irányuló támadás előtt a kobratáncos dob először egy kivételes, **megelőző** támadást. Ha az sikeres (sebző), akkor az ellenfél elveszíti a támadását.
 
 <br />
 
