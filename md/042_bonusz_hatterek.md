@@ -21,7 +21,7 @@ Tartalomjegyzék
 ---
 #### 🟣 Állat testvér
 
-A felsorolt valamelyik 3 képzettség legfelső fokán már olyan magas fokú kapcsolat jön létre ember és állat között – szinte lelki társsá válnak –, ami korlátozott telepátiát hoz létre.\
+A felsorolt valamelyik 3 képzettség legfelső szintjein már olyan magas fokú kapcsolat jön létre ember és állat között – szinte lelki társsá válnak –, ami korlátozott telepátiát hoz létre.\
 A kapcsolat olyan konkrét állatokra vonatkozik, akikkel a viselője legalább 1 éve szoros napi érintkezésben van.
 
 **Követelmény**
