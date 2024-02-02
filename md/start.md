@@ -9,8 +9,7 @@
 
 ## Karakteralkotók
 
-- [JK Karakteralkotó v7.8 (ODS)](https://github.com/kaktusztea/km100/raw/master/segedlet/karakteralkoto_v7.8.ods?raw=true) <sub><sup>([LibreOffice](https://www.libreoffice.org/download/download/))</sup></sub>
-- [Karakteralkotáshoz táblázatok v6.4 (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_karakteralkotas_v6.4.pdf?raw=true)
+- [JK Karakteralkotó v7.8 (ODS)](https://github.com/kaktusztea/km100/raw/master/segedlet/karakteralkoto_v7.8.ods?raw=true) <sub><sup>([LibreOffice](https://www.libreoffice.org/download/download/))</sup></sub>&nbsp;&nbsp;//&nbsp;&nbsp;[Karakteralkotás](010_karakteralkotas.md), [Képzettséglista](021_kepzettseglista.md), [Fortélyok](030_fortelyok.md), [Hátterek](040_hattererek.md), [Tradíciók](050_tradiciok.md)
 - [NJK Karakterlapok v1.1 (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.1.pdf?raw=true)
 
 ## Részletes szabályrendszer
