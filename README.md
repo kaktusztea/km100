@@ -66,7 +66,7 @@ A rendszer nonprofit, soha semmilyen anyagi, vagy egyéb ellenszolgáltatást ne
 → [km100 szabályrendszer](./md/start.md)
 
 ---
-Nonprofit szabályrendszer a M\* világához\
+`km100`: Nonprofit szabályrendszer a M\* világához\
 Ailtas, 2004-2024 ([CC](../LICENSE))
 
 **Kapcsolat**: `km100rpg _kukac_ protonmail _pont_ com`
