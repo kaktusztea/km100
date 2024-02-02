@@ -1,18 +1,12 @@
-# km100 szerepjáték szabályrendszer
-
-A km100 egy nonprofit szabályrendszer a M\* világához.
-
----
-## Jelzők
+# Szimbólumok, jelzők
 
 A szabályrendszer dokumentumaiban speciális unicode karaktereket használunk jelzőknek, melyek megkönnyítik az olvasást, értelemezést.
 
+---
+## Aktív jelzők
 ⚪ Tulajdonság
 
-🔴 Átfogó képzettség
-🔵 Átlagos képzettség
-🟢 Specializáció
-🟡 Különleges képzettség
+🔴 Átfogó képzettség 🔵 Átlagos képzettség 🟢 Specializáció 🟡 Különleges képzettség
 
 🟣 Fortély / Háttér
 
@@ -28,9 +22,10 @@ A szabályrendszer dokumentumaiban speciális unicode karaktereket használunk j
 
 🔆 Magyarázat, megjegyzés
 
-<br />
+✨ Mágia
 
-> Fejlesztést támogató jelzők
+---
+## Fejlesztést támogató jelzők
 
 ⭕ TODO: kidolgozásra/döntésre vár
 
