@@ -1,6 +1,6 @@
 ## Faji Tradíciók
 
-▲ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md)
 
 Az itt bemutatott faji tradíciók nem közönséges fajok leírását tartalmazzák, hanem csak azokét, amelyek valamely szempontból különlegesnek számítanak. Ilyenek az egyes játszható ősfajok, vagy speciális eredetű lények.
 

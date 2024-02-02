@@ -1,6 +1,6 @@
 # Távolsági harcrendszer
 
-▲ [Nyitóoldal](start.md)\
+⚜️ [Nyitóoldal](start.md)\
 → [TODO/ISSUE távharc](https://github.com/kaktusztea/km100/wiki/ISSUE.TODO.tavharc)
 
 A távolsági - lő- és hajítófegyverekkel - végzett harc során a védekező fél nem saját Védő Értékével vesz részt a harcban, ugyanolyan “céltárgynak” minősül, mint egy szalmabábú, vagy egy agyaggalamb. Ugyanakkor a célpont mozgásának jellege (lásd “Mozgás módosító" fejezetet) és a távolság erőteljesen befolyásolják a találat esélyeit. Lásd még: [Szándékos kitérés lövés elől](070_tavolsagi_harc.md#sz%C3%A1nd%C3%A9kos-kit%C3%A9r%C3%A9s-l%C3%B6v%C3%A9s-el%C5%91l) fejezetet. A támadó a távolsági harcban a **Célzó Értékét** használja, melynek megállapítása több tényezőtől függ.

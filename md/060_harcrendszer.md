@@ -1,6 +1,6 @@
 # Harcrendszer
 
-▲ [Nyitóoldal](start.md)\
+⚜️ [Nyitóoldal](start.md)\
 → [TODO/ISSUE harcrendszer](https://github.com/kaktusztea/km100/wiki/ISSUE.TODO.harcrendszer)
 
 A szabályrendszer legizgalmasabb része természetesen a harcrendszer. Itt találhatóak azok a szabályok, amelyek segítségével a játék során lemesélt harcokat szimulálni tudjuk.

@@ -1,6 +1,6 @@
 ## Amund Tradíció
 
-▲ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md)
 
 ```
 - Asztrálmágia (mint spec képesség) == Amund tradíció szintje

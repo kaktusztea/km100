@@ -1,6 +1,6 @@
 ## Bárdmágia tradíció / Bárd Metamágia arkánum
 
-▲ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md)
 
 A karakter dönthet úgy, hogy megáll `6.` szinten a Tradícióban, ez nem korlátozza semmiben. Amiért mégis megérheti, az az azonos szintű [Bárd Metamágia Arkánum](#t%C5%B1z-metam%C3%A1gia-ark%C3%A1num), aminek nehezebb formulái magasabb szinten érhetőek el.
 

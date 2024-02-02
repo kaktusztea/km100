@@ -1,6 +1,6 @@
 ## Mágia Tradíciók
 
-▲ [Nyitóoldal](start.md)\
+⚜️ [Nyitóoldal](start.md)\
 → [STUDY: Tradíciók](https://github.com/kaktusztea/km100/wiki/STUDY.tradiciok)
 
 - [Magasmágia (mozaikmágia)](051_01_magasmagia.md)

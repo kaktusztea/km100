@@ -1,6 +1,6 @@
 ## Rituális mágia tradíció / Rituális mágia Metamágia arkánum
 
-▲ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md)
 
 A karakter dönthet úgy, hogy megáll `6.` szinten a Tradícióban, ez nem korlátozza semmiben. Amiért mégis megérheti, az az azonos szintű [Rituális mágia Metamágia Arkánuma](#ritu%C3%A1lis-m%C3%A1gia-metam%C3%A1gia-ark%C3%A1numa), aminek nehezebb formulái magasabb szinten érhetőek el.
 

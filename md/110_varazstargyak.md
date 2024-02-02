@@ -1,6 +1,6 @@
 # Varázstárgyak
 
-▲ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md)
 
 → [STUDY: Varázstárgyak](https://github.com/kaktusztea/km100/wiki/STUDY.varazstargyak)
 
