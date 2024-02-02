@@ -14,7 +14,7 @@
 
 ## Részletes szabályrendszer
 
-- [Bevezető](000_bevezetes.md)
+- [Jelzők](000_jelzok.md)
 - [Karakteralkotás](010_karakteralkotas.md) (90%)
 - [Képzettségrendszer](020_kepzettsegrendszer.md) (80%)
 - [Képzettséglista](021_kepzettseglista.md) (90%)
