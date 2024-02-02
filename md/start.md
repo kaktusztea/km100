@@ -1,16 +1,16 @@
 # km100 szabályrendszer
 
-## Kivonatok
-
-- [Segédlet esszencia (játékalkalomra, 5 oldal) v1.7 (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_ingame_v1.7.pdf?raw=true)
-- [Távharc segédlet v1.1](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_tavharc_v1.1.pdf?raw=true)
-- [Tömör szabályrendszer v6.1 (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_tomor_v6.1.pdf?raw=true) (❗Utolsó frissítés: 2023-11-23)
-- [Study: Sebzés és VÉ csökkentés adminisztratív lépéseinek száma (pdf)](https://github.com/kaktusztea/km100/raw/master/segedlet/study_sebzes_es_VE_csokk_lepesszama.pdf?raw=true)
-
 ## Karakteralkotók
 
 - [JK Karakteralkotó v7.8 (ODS)](https://github.com/kaktusztea/km100/raw/master/segedlet/karakteralkoto_v7.8.ods?raw=true) <sub><sup>([LibreOffice](https://www.libreoffice.org/download/download/))</sup></sub>&nbsp;&nbsp;//&nbsp;&nbsp;[Karakteralkotás](010_karakteralkotas.md), [Képzettséglista](021_kepzettseglista.md), [Fortélyok](030_fortelyok.md), [Hátterek](040_hattererek.md), [Tradíciók](050_tradiciok.md)
 - [NJK Karakterlapok v1.1 (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.1.pdf?raw=true)
+
+## Kivonatok
+
+- [Segédlet esszencia (játékalkalomra, 5 oldal) v1.7 (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_ingame_v1.7.pdf?raw=true)
+- [Távharc segédlet v1.1](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_tavharc_v1.1.pdf?raw=true)
+- [Tömör szabályrendszer v6.1 (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_tomor_v6.1.pdf?raw=true) (❗Utolsó frissítés: 2023-11-23, elavult)
+- [Study: Sebzés és VÉ csökkentés adminisztratív lépéseinek száma (pdf)](https://github.com/kaktusztea/km100/raw/master/segedlet/study_sebzes_es_VE_csokk_lepesszama.pdf?raw=true)
 
 ## Részletes szabályrendszer
 
