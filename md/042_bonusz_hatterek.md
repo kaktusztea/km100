@@ -21,7 +21,7 @@ Megjegyzés: a kapcsolat olyan konkrét állatokra vonatkozik, akikkel a viselő
 
 **Követelmény**
 
-- **Idomítás** / **Lovaglás** (csak adott fajú földi hátasra) / **Léglovaglás** (csak adott fajú repülő lényre) &nbsp;–&nbsp;⭕15.⭕szint<br />
+- [Idomítás](kepzettsegek/idomitas.md) / [Lovaglás](kepzettsegek/lovaglas.md) (csak adott fajú földi hátasra) / [Léglovaglás](kepzettsegek/leglovaglas.md) (csak adott fajú repülő lényre) &nbsp;–&nbsp;⭕15.⭕szint<br />
 - Érzékenység: `+3`
 
 <br />
