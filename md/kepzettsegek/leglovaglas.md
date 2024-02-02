@@ -6,7 +6,7 @@
 
 **Kapcsolódó fortélyok**: [Léglovas harc](../fortelyok.harci/leglovas_harc.md)
 
-**Bónusz-Háttér**: [Állat testvér](042_bonusz_hatterek.md#-%C3%A1llat-testv%C3%A9r), [Lénylovas](../042_bonusz_hatterek.md#-l%C3%A9nylovas-faj-neve)
+**Bónusz-Háttér**: [Állat testvér](../042_bonusz_hatterek.md#-%C3%A1llat-testv%C3%A9r), [Lénylovas](../042_bonusz_hatterek.md#-l%C3%A9nylovas-faj-neve)
 
 **Leírás**: Ritka szerencsés, aki ezt a képzettséget tanulhatja, mert Ynev kevés levegőben meglovagolható teremtményeinek egyikét ülheti meg. `Pteropták, Wyvern-ek, Racklák` - hogy csak a közismertebbeket említsük. Aki léglovaglást tanul, az képes megülni a fent említett repülő lényeket a képzettség szintjétől függő tehetséggel. A tudás univerzális, némi gyakorlással más fajú légi hátasokra is használható - lásd a [Lénylovas](../042_bonusz_hatterek.md#-l%C3%A9nylovas-faj-neve) Bónusz Hátteret.
 
