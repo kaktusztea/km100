@@ -8,7 +8,7 @@
 
 **Bónusz-Háttér**: [Állat testvér](../042_bonusz_hatterek.md#-%C3%A1llat-testv%C3%A9r), [Lénylovas](../042_bonusz_hatterek.md#-l%C3%A9nylovas-faj-neve)
 
-**Leírás**:  Aki lovaglást tanul, az képes megülni egy választott földi hátast lényt (válassz fajt) - a képzettség szintjétől függő tehetséggel. A tudás univerzális, némi gyakorlással más fajú hátasokra is használható - lásd a [Lénylovas](../042_bonusz_hatterek.md#-l%C3%A9nylovas-faj-neve) Bónusz Hátteret.
+**Leírás**:  Aki lovaglást tanul, az képes megülni egy választott földi hátast lényt (válassz fajt) - a képzettség szintjétől függő tehetséggel. A tudás univerzális, némi gyakorlással más fajú földi hátasokra is használható - lásd a [Lénylovas](../042_bonusz_hatterek.md#-l%C3%A9nylovas-faj-neve) Bónusz Hátteret.
 
 **Speciális**: 
 
