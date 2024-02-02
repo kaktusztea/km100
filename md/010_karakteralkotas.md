@@ -62,7 +62,8 @@ Rövid áttekintő summázatként álljanak itt a számok, amelyekkel a karakter
 ---
 ## Karakteralkotó
 
-Egy km100 karakter megalkotása nagyságrendekkel meggyorsítható a Karakteralkotó használatával, amelynek aktuális verziója a [nyitóoldal tetején](start.md#karakteralkot%C3%B3k) található meg.
+Egy km100 karakter megalkotása nagyságrendekkel meggyorsítható a Karakteralkotó használatával.\
+Ennek aktuális verziója a [nyitóoldal tetején](start.md#karakteralkot%C3%B3k) található meg. Használatához [LibreOffice](https://www.libreoffice.org/download/download/) telepítése szükséges.
 
 ---
 ## Előtörténet, személyiség
