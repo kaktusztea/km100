@@ -13,16 +13,18 @@ Ide soroljuk azokat az egyedi Bónusz-Háttereket is, amelyek már meglevő kép
 
 #### 🟣 Állat testvér
 
-A felsorolt valamelyik 3 képzettség legfelső fokán már olyan magas fokú kapcsolat jön létre ember és állat között – szinte lelki társsá válnak –, ami korlátozott telepátiát hoz létre.
-
-Az ilyen kapcsolat csak egyszerűbb érzelmek, hangulatok, parancsok közvetítésére alkalmas.
-
-Megjegyzés: a kapcsolat olyan konkrét állatokra vonatkozik, akikkel a viselője legalább 1 éve szoros napi érintkezésben van.
+A felsorolt valamelyik 3 képzettség legfelső fokán már olyan magas fokú kapcsolat jön létre ember és állat között – szinte lelki társsá válnak –, ami korlátozott telepátiát hoz létre.\
+A kapcsolat olyan konkrét állatokra vonatkozik, akikkel a viselője legalább 1 éve szoros napi érintkezésben van.
 
 **Követelmény**
 
-- [Idomítás](kepzettsegek/idomitas.md) / [Lovaglás](kepzettsegek/lovaglas.md) (csak adott fajú földi hátasra) / [Léglovaglás](kepzettsegek/leglovaglas.md) (csak adott fajú repülő lényre) &nbsp;–&nbsp;⭕15.⭕szint<br />
+- [Idomítás](kepzettsegek/idomitas.md) / [Lovaglás](kepzettsegek/lovaglas.md) (csak adott fajú földi hátasra) / [Léglovaglás](kepzettsegek/leglovaglas.md) (csak adott fajú repülő lényre) &nbsp;–&nbsp;`12-15.szint`<br />
 - Érzékenység: `+3`
+
+**Hatás a képzettség adott szintjén**
+
+12. szint: a karakter a társául szegődött állattal folyamatos telepatikus kapcsolatban van, képes csupán a gondolataival irányítani őt. Az állat nem köteles engedelmeskedni, ez pusztán kétoldalú kommunikáció, nem akaratirányítás. A gondolatok átadása mellett egymás érzelmi állapotát és annak változásait is képesek érzékelni, átélni.
+15. szint: a lovas ideiglenesen egybeolvad asztrálian és mentálisan az állattal, egy egységet alkotnak. A lovas képes érzékelni az állat érzékszerveivel is, és saját testeként is mozoghat vele, amennyiben az engedélyezi ezt számára. A karakter és az állat képes bármekkora távolságból kommunikálni egymással.
 
 <br />
 
