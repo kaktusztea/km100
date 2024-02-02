@@ -1,9 +1,6 @@
 # km100 szerepjáték szabályrendszer
 
-Nonprofit szabályrendszer a M\* világához\
-Ailtas, 2004-2024 ([CC](../LICENSE))
-
-**Kapcsolat**: `km100rpg _kukac_ protonmail _pont_ com`
+A km100 egy nonprofit szabályrendszer a M\* világához.
 
 ---
 ## Jelzők
