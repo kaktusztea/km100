@@ -31,15 +31,15 @@
 | Célszám | Példa  |
 | :----------- | :----------- |
 | Könnyű       (6)  | Egyedül lassú tempóban átbaktatni a szomszédos faluba. |
-| Átlagos      (9)  |     xxxGond nélkül fel és leszállni. Zavaró körülmények nélkül akár hosszabb utat is megtenni. |
-| Nehéz        (12) |     xxxFordulózni. Harcolni. Közepesen sérült hátassal navigálni. |
-| Nagyon nehéz (15) |     xxxTömegben harcolni (levegőben). Erősen sérült hátassal rossz időben navigálni. Egyensúlyból kibillent hátast „rendezni”. |
+| Átlagos      (9)  |     xxx⭕Gond nélkül fel és leszállni. Zavaró körülmények nélkül akár hosszabb utat is megtenni. |
+| Nehéz        (12) |     xxx⭕Fordulózni. Harcolni. Közepesen sérült hátassal navigálni. |
+| Nagyon nehéz (15) |     xxx⭕Tömegben harcolni (levegőben). Erősen sérült hátassal rossz időben navigálni. Egyensúlyból kibillent hátast „rendezni”. |
 | Rendkívül nehéz (18) |  xxx⭕Zuhanásból sérült hátast kihozni.⭕ |
-| Emberfeletti (21) |     xxxAz évszázad viharában zuhanó hátasodat felhúzni, miközben ellenfeled nyakadat szorongatja. |
+| Emberfeletti (21) |     xxx⭕Az évszázad viharában zuhanó hátasodat felhúzni, miközben ellenfeled nyakadat szorongatja. |
 
 <br />
 
 > Célszámot módosító körülmények
 
-- ⭕Vad hátas: + [1-3]
+- ⭕Vad hátas: + [1-6]
 - Más fajú földi hátas esetén: [Lénylovas](../042_bonusz_hatterek.md#-l%C3%A9nylovas-faj-neve) Bónusz-Háttér
