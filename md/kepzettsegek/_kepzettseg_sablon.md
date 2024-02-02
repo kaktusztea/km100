@@ -6,13 +6,15 @@
 
 **Kapcsolódó fortélyok**: xyz
 
+**Bónusz-Háttér**: xyz
+
 **Leírás**: xyz
 
 <br />
 
 > Biztos tudás, követelmények
 
-| Képzettség szint | Biztos tudás  | Speciális <br /> <sub>(tanulható fortély, különleges  képesség)</sub> | Követelmény |
+| Képzettség szint | Biztos tudás  | Speciális <br /> <sub>(tanulható fortély<br />Bónusz-Háttér)</sub> | Követelmény |
 | :----- | :----- | :-----: | :-----: |
 | Novícius (3)     | xyz <br /> **Példa**: x |  |  |
 | Kismester (6)    | xyz <br /> **Példa**: x |  |  |
