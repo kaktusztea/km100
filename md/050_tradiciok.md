@@ -10,7 +10,8 @@
 - Mágia tradíciók 6. szinttől varázsolhatnak
 ```
 
-A km100 rendszerében a Tradíciók reprezentálják az egyedi, különleges, karakter életútját alapjaiban meghatározó "csomagot". 1-2 kivételtől eltekintve a karakterek **csak 1 Tradíciót vehetnek fel**, azt is **csak 1. tapasztalati szinten**.
+A km100 rendszerében a Tradíciók reprezentálják az egyedi, különleges, karakter életútját alapjaiban meghatározó "csomagot".\
+Egy-két kivételtől eltekintve a karakterek **csak 1 Tradíciót vehetnek fel**, azt is **csak 1. tapasztalati szinten**.
 
 Mindegyik Tradíció **Átfogó**, primer képzettség, így ez is csak `szint+3` határig növelhető.
 
