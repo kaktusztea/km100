@@ -1,5 +1,7 @@
 #### 🔴 Észlelés
 
+Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-ismeretek-kateg%C3%B3ri%C3%A1i).
+
 **Kapcsolódó főfejezet**: [Érzékelés, észlelés](120_erzekeles_eszleles.md)
 
 **Próba**: dobható, és nincs kiemelt szinteken megkapott biztos tudás
@@ -9,7 +11,7 @@
 - Érzékenység (fizikai érzékekre is ez használandó)
 - Intelligencia
 
-**Kapcsolódó fortélyok**: Éber alvó
+**Kapcsolódó fortélyok**: [Éber alvó](../fortelyok.altalanos/eber_alvo.md)
 
 **Leírás**: Az Észlelés valaminek az észrevételét takarja. Ez lehet egy villanó tőr, egy meglapuló merénylő a lombok közt, egy árulkodó súrlódó nesz. Fontos, hogy az Észlelés csak a momentum észrevételt jelenti, annak értelmezését nem! Az a játékos feladata, melyet esetleg megkönnyíthet a **Nyomolvasás** képzettség.
 
