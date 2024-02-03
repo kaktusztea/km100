@@ -44,6 +44,14 @@
 - [Zártörő](fortelyok.altalanos/zartoro.md) 🔺
 
 ---
+### Tudományos fortélyok
+
+<!-- tag: tudomanyos__fortely -->
+
+- [Írástudó](fortelyok.altalanos/irastudo.md)
+- [Különleges faj](fortelyok.altalanos/kulonleges.faj.md)
+
+---
 ### Szociális fortélyok
 
 <!-- tag: szocialis__fortely -->
@@ -64,12 +72,3 @@ Szót érdemelnek még a politikai cselszövések, mint szociális vonatkozású
 - [Meggyőzés](fortelyok.altalanos/meggyozes.md)
 - [Szónoklás](fortelyok.altalanos/szonoklas.md)
 - [Tiszta fej](fortelyok.altalanos/tiszta_fej.md) 🔺
-
----
-### Tudományos fortélyok
-
-<!-- tag: tudomanyos__fortely -->
-
-- [Írástudó](fortelyok.altalanos/irastudo.md)
-- [Különleges faj](fortelyok.altalanos/kulonleges.faj.md)
-
