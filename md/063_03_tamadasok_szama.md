@@ -1,4 +1,4 @@
-## Támadások száma
+## Támadások száma fegyverrel
 
 ```
 Alapeset:  minden fegyver támadásainak száma: 1 / kör.
@@ -16,31 +16,13 @@ Számszerűen: az aktuális fegyverhez tartozó harcmodor-képzettség szintje �
 „Harcmodor-Sebesség” = aktuális Harcmodor szint + Gyorsaság tulajdonság
 ```
 
-### "Varázslás-Sebesség"
-
-Varázslásnál ez felel meg a "Harcmodor-Sebességnek".
-
-Varázsláskor ugyanúgy Kezdeményezést dobunk, illetve a körön belüli varázslások száma is a harchoz hasonlóan történik.
-
-Itt a "Harcmodort" a "Mágia Tradíció" helyettesíti, annak szintje számít.
-
-```
- "Varázslás-Sebesség" = Mágia Tradíció szint + Gyorsaság tulajdonság 
-```
-
 ---
 ### „Fegyver-Sebesség”
 
 Szintén minden fegyvernek van egy egyedi Sebesség értéke, az ún. `„Fegyver-Sebesség”`. Minél kisebb ez a szám, annál fürgébb, minél nagyobb, annál lomhább az adott fegyver.
 
-### „Formula-Sebesség”
-
-A varázslásban ez felel meg a "Fegyver-Sebességnek".
-
-Értéke: ⭕TODO⭕
-
 ---
-### Plusz támadások száma
+### Plusz támadások száma (fegyverrel)
 
 A plusz támadások számát úgy kapjuk meg, hogy megvizsgáljuk, a `„Fegyver-Sebesség”` hányszor van meg a karakter aktuális „Harcmodor-Sebesség” értékében (lefelé kerekítve).
 
@@ -48,7 +30,8 @@ A plusz támadások számát úgy kapjuk meg, hogy megvizsgáljuk, a `„Fegyver
 Plusz támadások (db) = (Harcmodor Sebesség) / (Fegyver Sebesség)
 ```
 
-⚡Példa:
+---
+### ⚡Példa több fegyveres támadásra
 
 - Fegyver: Hosszú kard: `Fegyver-Sebesség: 6`
 - Harcmodor: `Kardvívás – 4.szint`
@@ -66,3 +49,36 @@ Minden újabb támadás során az aktuális Támadó Értékre -10 levonás jár
 - Harmadik támadás: `-20TÉ`, stb
 
 További támadásokat `Kétkezes Harc` során szerezhet a karakter. Lásd a [Kétkezes Harc](065_04_ketkezes_harc.md) fejezetet!
+
+---
+---
+## Támadások száma varázsláskor
+
+### "Varázskeret"
+
+Varázslásnál nagyjából ez felel meg a "Harcmodor-Sebességnek", annyi különbséggel, hogy a "Harcmodort" itt a "Mágia Tradíció" helyettesíti, annak szintje számít.
+
+```
+ "Varázslás-Sebesség" = Mágia Tradíció szint + Gyorsaság tulajdonság 
+```
+
+### „Formula-Sebesség”
+```
+ „Formula-Sebesség” = 4 + Varázslat Erőssége   (Magasmágiánál a legerősebb mozaik)
+```
+
+Varázslásnál ez felel meg a "Fegyver-Sebességnek", értéke minél magasabb, annál lassabban jön létre a varázslat.
+
+Látható, hogy az apró, kis változtató erejű mágiákból többet jóval könnyebben el lehet varázsolni, mint a nagyobb hatalmú varázslatokból.
+
+### Varázskeret csökkentése
+
+Először azt kell megvizsgálni, hogy a `"Formula-Sebesség"` eléri -e a **Varázskeretet**.
+- Ha alatta van, akkor ⭕a varázslatot csak a következő körben lehet ellőni.⭕
+- Ha felette van, akkor az aktuális  `„Formula-Sebesség”` értékét levonjuk a **Varázskeretből**. A karakter ebből a keretből gazdálkodhat még a kör hátralevő részében.
+
+```
+Varázskeret = Varázskeret - "Formula Sebesség"
+```
+
+A **Varázskeret** minden kör elején eredeti értékére "töltődik vissza".
