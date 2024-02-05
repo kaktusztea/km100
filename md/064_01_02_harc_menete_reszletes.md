@@ -44,7 +44,7 @@ Ugyanúgy, ahogy a sima Kezdeményezés
 ```
 
 Ha harcolni ÉS varázsolni is szeretnél a körben, akár körön belül váltva, akkor:
-- KÉ dobás előtt válassz: melyik KÉ értékedet használod: **Harcmodorból** vagy **Mágia-Tradícióbó** képzettségből adódót.
+- KÉ dobás előtt válassz: melyik KÉ értékedet használod: **Harcmodorból** vagy **Mágia-Tradíció** képzettségből adódót.
 - Ha a magasabb értékűt választod, mindenképpen azon típusú támadást kell először kell használnod
 - Ha mire sorra kerülsz mégis váltanál a másik támadási formára (mágia→harci; harci→mágia), akkor automatikusan átváltasz az alacsonyabb KÉ-típus értékére - ezzel vállalva, hogy rögtön hátrébb is eshetsz a sorrendben
 - Viszont ha az alacsonyabb KÉ-típus értéket választod, akkor **bármelyik** támadási formát (mágia/harci) válaszhatod mikor rád kerül a sor
