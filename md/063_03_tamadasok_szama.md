@@ -55,30 +55,31 @@ További támadásokat `Kétkezes Harc` során szerezhet a karakter. Lásd a [K�
 ## Támadások száma varázsláskor
 
 ### "Varázskeret"
-
-Varázslásnál nagyjából ez felel meg a "Harcmodor-Sebességnek", annyi különbséggel, hogy a "Harcmodort" itt a "Mágia Tradíció" helyettesíti, annak szintje számít.
-
 ```
  "Varázskeret" = Mágia Tradíció szint + Gyorsaság tulajdonság 
 ```
 
+Varázslásnál nagyjából ez felel meg a "Harcmodor-Sebességnek", annyi különbséggel, hogy a "Harcmodort" itt a "Mágia Tradíció" helyettesíti, annak szintje számít.
+
+
 ### „Formula-Sebesség”
 ```
- „Formula-Sebesség” = 4 + Varázslat Erőssége   (Magasmágiánál a legerősebb mozaik)
+„Formula-Sebesség” = 4 + Varázslat Erőssége   (Magasmágiánál a legerősebb mozaik)
 ```
 
 Varázslásnál ez felel meg a "Fegyver-Sebességnek", értéke minél magasabb, annál lassabban jön létre a varázslat.
 
 Látható, hogy az apró, kis változtató erejű mágiákból többet jóval könnyebben el lehet varázsolni, mint a nagyobb hatalmú varázslatokból.
 
-### Varázskeret csökkentése
 
-Először azt kell megvizsgálni, hogy a `"Formula-Sebesség"` eléri -e a **Varázskeretet**.
-- Ha alatta van, akkor ⭕a varázslatot csak a következő körben lehet ellőni.⭕
-- Ha felette van, akkor az aktuális  `„Formula-Sebesség”` értékét levonjuk a **Varázskeretből**. A karakter ebből a keretből gazdálkodhat még a kör hátralevő részében.
-
+### Varázskeret csökkentése varázsláskor
 ```
 Varázskeret = Varázskeret - "Formula Sebesség"
 ```
 
+Azt kell megvizsgálni, hogy a `"Formula-Sebesség"` eléri -e a **Varázskeretet**.
+- Ha egyenlő, vagy felette van, akkor az aktuális  `„Formula-Sebesség”` értékét levonjuk a **Varázskeretből**. A karakter a maradék keretből gazdálkodhat még a kör hátralevő részében.
+- Ha alatta van, akkor a varázslat "átcsúszik" a következő körre és rögtön annyival csökkenti a következő kör **Varázskeretét**, amennyivel alatta volt.
+
 A **Varázskeret** minden kör elején eredeti értékére "töltődik vissza".
+
