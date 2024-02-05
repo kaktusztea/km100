@@ -5,6 +5,7 @@ Alapeset:  minden fegyver támadásainak száma: 1 / kör.
 ```
 (néhány kivételnél ez kevesebb. Lásd a fegyver táblázatot)
 
+---
 ### „Harcmodor-Sebesség”
 
 Egy karakter plusz támadásainak száma attól függ, hogy milyen fegyvert forgat, mennyire képzett annak Harcmodorában, és hogy mennyire fürge (`Gyorsaság` tulajdonság).
@@ -16,6 +17,8 @@ Számszerűen: az aktuális fegyverhez tartozó harcmodor-képzettség szintje �
 ```
 
 ### "Varázslás-Sebesség"
+
+Varázslásnál ez felel meg a "Harcmodor-Sebességnek".
 
 Varázsláskor ugyanúgy Kezdeményezést dobunk, illetve a körön belüli varázslások száma is a harchoz hasonlóan történik.
 
@@ -29,6 +32,12 @@ Itt a "Harcmodort" a "Mágia Tradíció" helyettesíti, annak szintje számít.
 ### „Fegyver-Sebesség”
 
 Szintén minden fegyvernek van egy egyedi Sebesség értéke, az ún. `„Fegyver-Sebesség”`. Minél kisebb ez a szám, annál fürgébb, minél nagyobb, annál lomhább az adott fegyver.
+
+### „Formula-Sebesség”
+
+A varázslásban ez felel meg a "Fegyver-Sebességnek".
+
+Értéke: ⭕TODO⭕
 
 ---
 ### Plusz támadások száma
