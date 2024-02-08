@@ -134,7 +134,7 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🔵[Idomítás](kepzettsegek/idomitas.md) (állatcsoport) (többször felvehető) <sup><sub>20%)</sub></sup>
 
-🔵[Szakma](kepzettsegek/szakma_szakma.hamisitas.md): ács, kőműves, borbély, kádár, varga, szűcs, cserző, (fegyver)kovács, gazdálkodás(birtok), ékszerész, molnár, pék, szabó, kötélgyártó, lakatos, rejtjelfejtő 🟢[Hamisitás - Szakma](kepzettsegek/szakma_szakma.hamisitas.md) - Fegyverkovács, Ékszerész, stb. 🔆 0-ról indul, 1x-es (specializációnak számít) és nem lehet nagyobb, mint a fölé tartozó képzettség!) <sup><sub>(20%)</sub></sup>
+🔵[Szakma](szakma.md): ács, kőműves, borbély, kádár, varga, szűcs, cserző, (fegyver)kovács, gazdálkodás(birtok), ékszerész, molnár, pék, szabó, kötélgyártó, lakatos, rejtjelfejtő <sup><sub>(20%)</sub></sup>
 
 🔴[Gyógyítás](gyogyitas_sebgyogyitas_orvoslas.md) 🔵[Sebgyógyítás](gyogyitas_sebgyogyitas_orvoslas.md) 🔵[Orvoslás](gyogyitas_sebgyogyitas_orvoslas.md) <sup><sub>(40%)</sub></sup>
 
@@ -173,11 +173,11 @@ Festészet + (Pszeudó tul.) + k10   vs   Célszám
 
 🔵[Ének](kepzettsegek/enek.md) <sup><sub>(0%)</sub></sup>
 
-🔵[Festészet](kepzettsegek/festeszet.md) 🟢[Hamisítás-festészet](kepzettsegek/festeszet.md) (0-ról indul és nem lehet nagyobb, mint a fölé tartozó képzettség!) <sup><sub>(5%)</sub></sup> 
+🔵[Festészet](kepzettsegek/festeszet.md) <sup><sub>(5%)</sub></sup> 
 
-🔵[Szobrászat](kepzettsegek/szobraszat.md) 🟢[Hamisítás-szobrászat](kepzettsegek/szobraszat.md) (0-ról indul és nem lehet nagyobb, mint a fölé tartozó képzettség!) <sup><sub>(5%)</sub></sup> 
+🔵[Szobrászat](kepzettsegek/szobraszat.md) <sup><sub>(5%)</sub></sup> 
 
-🔵[Kalligráfia](kepzettsegek/kalligrafia.md) 🟢[Hamisítás-kalligráfia](kepzettsegek/kalligrafia.md) (0-ról indul és nem lehet nagyobb, mint a fölé tartozó képzettség!) <sup><sub>(5%)</sub></sup> 
+🔵[Kalligráfia](kepzettsegek/kalligrafia.md) <sup><sub>(5%)</sub></sup> 
 
 🔵[Irodalom](kepzettsegek/irodalom.md) 🟢[Irodalom ismeret](kepzettsegek/irodalom.md) (adott régió) <sup><sub>(40%)</sub></sup>
 
