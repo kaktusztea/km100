@@ -203,7 +203,7 @@ Festészet + (Pszeudó tul.) + k10   vs   Célszám
 
 🔵[Alkímia](kepzettsegek/alkimia.md) <sup><sub>(0%)</sub></sup>
 
-🔵[Mechanika](kepzettsegek/mechanika.md) <sup><sub>(5%)</sub></sup>
+🔴[Mechanika](kepzettsegek/mechanika.md) <sup><sub>(5%)</sub></sup>
 
 🔴[Élettan](kepzettsegek/elettan.md) <sup><sub>(5%)</sub></sup>
 
