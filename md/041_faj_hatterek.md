@@ -266,5 +266,4 @@ Ajánlott fortélyok:
 
 Ajánlott képzettségek:
 - [Mászás](kepzettsegek/maszas.md)
-- [Ugrás](kepzettsegek/akrobatika_eses_ugras.md)
-- [Akrobatika](kepzettsegek/akrobatika_eses_ugras.md)
+- [Akrobatika](kepzettsegek/akrobatika.md)

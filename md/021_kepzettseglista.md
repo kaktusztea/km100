@@ -108,7 +108,7 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🔵[Léglovaglás](kepzettsegek/leglovaglas.md) <sup><sub>(80%)</sub></sup>
 
-🔴[Akrobatika](kepzettsegek/akrobatika_eses_ugras.md) 🔵 [Esés](kepzettsegek/akrobatika_eses_ugras.md) 🔵 [Ugrás](kepzettsegek/akrobatika_eses_ugras.md)
+🔴[Akrobatika](kepzettsegek/akrobatika.md)
 
 ## Világi képzettségek
 

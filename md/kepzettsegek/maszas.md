@@ -42,7 +42,7 @@ Ha a terep (próba) nehézsége nem nagyobb a a Mászás képzettségnél, akkor
 
 > Összhang
 
-Az [Akrobatika](akrobatika_eses_ugras.md) képzettség - helyzettől és a KM döntésétől függően - működhet [Összhangként](../020_kepzettsegrendszer.md#%C3%B6sszhangok).
+Az [Akrobatika](akrobatika.md) képzettség - helyzettől és a KM döntésétől függően - működhet [Összhangként](../020_kepzettsegrendszer.md#%C3%B6sszhangok).
 
 <br />
 
