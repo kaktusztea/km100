@@ -26,7 +26,7 @@ Pár irányelv, amit a KM alkalmazhat:
 ### Kezdeményezés
 
 ```
-KÉ + k10
+Harci KÉ + k10
 ```
 
 Minden kör elején van kezdeményező dobás, ami csak a cselekvési sorrend meghatározására szolgál, nem foglalja magába a harci dominanciát, a harc irányítását.
@@ -40,18 +40,18 @@ Ha két karakter azonos kezdeményezést ért el, és egymással harcolnak, akko
 ### Varázslás kezdeményezése
 
 ```
-Ugyanúgy, ahogy a sima Kezdeményezés
+Varázslás KÉ + k10
 ```
 
-Ha harcolni ÉS varázsolni is szeretnél a körben, akár körön belül váltva, akkor:
-- KÉ dobás előtt válassz: melyik KÉ értékedet használod: **Harcmodorból** vagy **Mágia-Tradíció** képzettségből adódót.
-- Ha a magasabb értékűt választod, mindenképpen azon típusú támadást kell először kell használnod
+### Speciális szituáció: Harc ÉS Varázslás egy körben
+
+Ha olyan speciális helyzet áll elő, hogy harcolni ÉS varázsolni is szeretnél körön belül váltva, akkor:
+- KÉ dobás előtt válassz: melyik KÉ értékedet használod: "Harci KÉ", vagy "Varázslás KÉ".
+- Ha a magasabb értékűt választod, akkor mindenképpen az annak megfelelő típusú támadást kell először kell használnod (harc, varázslás).
 - Ha mire sorra kerülsz mégis váltanál a másik támadási formára (mágia→harci; harci→mágia), akkor automatikusan átváltasz az alacsonyabb KÉ-típus értékére - ezzel vállalva, hogy rögtön hátrébb is eshetsz a sorrendben
 - Viszont ha az alacsonyabb KÉ-típus értéket választod, akkor **bármelyik** támadási formát (mágia/harci) válaszhatod mikor rád kerül a sor
 - Többet is támadhatsz AKKOR ha a választott KÉ-típusban már többet tudsz támadni
 - Támadás/kör: a választott KÉ-típus által adott. Ha támadás típust váltasz, de azzal a típussal nem lenne meg az újabb támadás, akkor természetesen nem is kapod meg.
-
-
 
 
 ---
