@@ -2,6 +2,10 @@
 
 ⚜️ [Nyitóoldal](start.md)
 
+ → [STUDY fejlesztő oldal](https://github.com/kaktusztea/km100/wiki/STUDY.magiatradicio.vulgarmagia)
+
+<br />
+
 A karakter dönthet úgy, hogy megáll `6.` szinten a Tradícióban, ez nem korlátozza semmiben. Amiért mégis megérheti, az az azonos szintű [Vulár-Metamágia Arkánum](#vulg%C3%A1r-metam%C3%A1gia-ark%C3%A1num), aminek nehezebb formulái magasabb szinten érhetőek el.
 
 Most lássuk a **Vulgármágia Tradíció** egyes szintjeihez rendelt jellemzőket:
