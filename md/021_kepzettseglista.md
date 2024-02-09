@@ -181,7 +181,7 @@ Festészet + (Pszeudó tul.) + k10   vs   Célszám
 
 🔵[Irodalom](kepzettsegek/irodalom.md) 🟢[Irodalom ismeret](kepzettsegek/irodalom.md) (adott régió) <sup><sub>(40%)</sub></sup>
 
-🔵[Tánc](kepzettsegek/tanc.md) 🟢[Tánc](kepzettsegek/tanc.md) (speciális belső stílus) <sup><sub>(20%)</sub></sup> 
+🔵[Tánc](kepzettsegek/tanc.md) <sup><sub>(20%)</sub></sup> 
 
 🔵[Zeneszerző](kepzettsegek/zeneszerzo.md)
 
