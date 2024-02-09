@@ -8,6 +8,12 @@ A Kezdeményező Érték szerepe a harcban, hogy meghatározza, ki „mozdul el�
 
 Kezdeményező dobás: minden kör elején `KÉ + k10`. A kezdeményezésről bővebben lásd a [Harc menete - Kezdeményezés](064_01_02_harc_menete_reszletes.md#kezdem%C3%A9nyez%C3%A9s) fejezetet!
 
+Két típusú KÉ létezik:
+- Fegyveres KÉ
+- Varázslás KÉ
+
+A fenti két KÉ számítása azonos, egyedül a "Harcmodor"/"Mágia Tradíció" által adott bónuszban térnek el (lásd lenn). Külön számolandóak és külön is kezelendőek. Bővebben lásd a [Harc menete](064_01_02_harc_menete_reszletes.md#kezdem%C3%A9nyez%C3%A9s) - "Kezdeményezés" és "Varázslás kezdeményezése" bekezdéseket.
+
 A karakter Kezdeményező Értékét a következőképpen kell kiszámítani:
 
 | 🗡️ | Kezdeményező Érték meghatározása  |
@@ -16,8 +22,8 @@ A karakter Kezdeményező Értékét a következőképpen kell kiszámítani:
 |Gyorsaság|A karakter Gyorsaság Tulajdonsága|
 |Intelligencia|A karakter Intelligencia Tulajdonsága|
 |Szint|A karakter szintje|
-|Harcmodor KÉ|Harcmodor képzettség szintje által kapott bónusz (lásd a [Harcmodor képzettségeket](062_01_harcertekek_elemei.md#harcmodor-k%C3%A9pzetts%C3%A9gek)!)<br />Varázslás kezdeményezése esetén itt a használt [Mágia Tradíció](051_00_magia_tradiciok.md) képzettség szintje számít. A bónuszok számítása a fentivel [azonos](062_01_harcertekek_elemei.md#harcmodor-k%C3%A9pzetts%C3%A9gek).|
-|Mesterfegyver fortély|+2 fokonként|
+|Harcmodor KÉ /<br />Varázslás KÉ|[Harcmodor képzettség](062_01_harcertekek_elemei.md#harcmodor-k%C3%A9pzetts%C3%A9gek) szintje által kapott bónusz /<br />[Mágia Tradíció](051_00_magia_tradiciok.md) által kapott bónusz (mintha [Harcmodor képzettség](062_01_harcertekek_elemei.md#harcmodor-k%C3%A9pzetts%C3%A9gek) lenne) |
+|Mesterfegyver fortély|+2 fokonként (csak harcos KÉ esetén)|
 |Speciális|- Gyors Kezdeményezés fortély: `+4 KÉ`<br>  - Szituációkból adódó módosítók<br>  - Mágia hatására kapott módosító|
 
 <br />
