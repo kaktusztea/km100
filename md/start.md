@@ -2,7 +2,7 @@
 
 ## Karakteralkotók
 
-- [JK Karakteralkotó v7.9 (ODS)](../segedlet/karakteralkoto_v7.9.ods?raw=true) <sub><sup>([LibreOffice](https://www.libreoffice.org/download/download/))</sup></sub>&nbsp;&nbsp;//&nbsp;&nbsp;[Karakteralkotás](010_karakteralkotas.md), [Képzettséglista](021_kepzettseglista.md), [Fortélyok](030_fortelyok.md), [Hátterek](040_hattererek.md), [Tradíciók](050_tradiciok.md)
+- [JK Karakteralkotó v7.9.1 (ODS)](../segedlet/karakteralkoto_v7.9.1.ods?raw=true) <sub><sup>([LibreOffice](https://www.libreoffice.org/download/download/))</sup></sub>&nbsp;&nbsp;//&nbsp;&nbsp;[Karakteralkotás](010_karakteralkotas.md), [Képzettséglista](021_kepzettseglista.md), [Fortélyok](030_fortelyok.md), [Hátterek](040_hattererek.md), [Tradíciók](050_tradiciok.md)
 - [NJK Karakterlapok v1.1 ODT](../segedlet/km100_NJK_karlap_v1.1.odt?raw=true), [PDF](../segedlet/km100_NJK_karlap_v1.1.pdf?raw=true), [kétoldalas ODT](../segedlet/km100_NJK_karlap_v1.1_ketoldalas.odt)
 
 ## Kivonatok

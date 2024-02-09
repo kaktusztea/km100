@@ -217,6 +217,8 @@ Festészet + (Pszeudó tul.) + k10   vs   Célszám
 
 ## Misztikus képzettségek
 
+🔴[Aurafejlesztés](kepzettsegek/aurafejlesztes.md)
+
 🔴 Tradíció
 
 🔵[Összpontosítás](kepzettsegek/osszpontositas.md) <sup><sub>(10%)</sub></sup>
