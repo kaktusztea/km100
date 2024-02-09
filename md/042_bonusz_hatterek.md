@@ -16,6 +16,7 @@ Tartalomjegyzék
 - [Harci láz 3](#-harci-l%C3%A1z-3)
 - [Kobratánc](#-kobrat%C3%A1nc)
 - [Lénylovas](#-l%C3%A9nylovas-faj-neve)
+- [Tánc: speciális/belső stílus](xyz)
 - [Tapadás](#-tapad%C3%A1s)
 
 ---
@@ -109,6 +110,10 @@ A Háttér többször felvehető - minden "bejáratott" hátas fajhoz külön.
 <br />
 
 ---
+#### 🟣Tánc: speciális/belső stílus
+
+Többször felvehető. Ez általában egyedi, titkos, vagy nagyon speciális táncot takar, mint például a **Toroni Vérnász**. Magától értetődik, hogy speciális/belső táncstílus tanulásához megfelelő előtörténeti kapcsolat, vagy komoly indoklás szükséges, melyre a KM is rábólint.
+
 #### 🟣 Tapadás
 
 Titkos, félmágikus ismeret.
