@@ -62,7 +62,7 @@
 - [Távolsági harcrendszer](070_tavolsagi_harc.md) (90%)
 - [Pszi](080_pszi.md) (40%)
   - [Pszi diszciplínák](081_pszi_diszciplinak.md) (0%)
-- [Mágia](090_magiarendszer.md) (40%)
+- [Mágiarendszer](090_magiarendszer.md) (40%)
   - [Magasmágia](051_01_magasmagia.md) (Kyr mozaik, Godoni hagyomány)(0%)🚧
     - [Elemi mágia iskola](magia.magas/elemi_magia.md) (50%) 🚧
   - [Vulgármágia](051_02_vulgarmagia.md) (0%) 
