@@ -28,7 +28,7 @@
   - [Származás, Jellem, Küllem Hátterek](045_szarmazas_jellem_kullem_hatterek.md)
 - [Tradíciók](050_tradiciok.md) (60%)
   - [Mágia tradíciók](051_00_magia_tradiciok.md)
-    - [Magasmágia (mozaikmágia)](051_01_magasmagia.md)
+    - [Magasmágia](051_01_magasmagia.md)
     - [Vulgármágia](051_02_vulgarmagia.md)
     - [Ordani (godoni?) Tűzmágia](051_03_ordani_tuzmagia.md)
     - [Bárdmágia](051_04_bardmagia.md)
