@@ -1,3 +1,0 @@
-#### 🔴 Ostromlövészet
-
-xyz

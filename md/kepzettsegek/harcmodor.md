@@ -20,12 +20,12 @@ Alább összesen 4 különálló ilyen harcmodor képzettség általános leír�
 
 > Biztos tudás, követelmények
 
-| Képzettség szint | Biztos tudás              |                                          Speciális <br /> <sub>(tanulható fortély<br />Bónusz-Háttér)</sub>                                          |  Követelmény  |
-|:---------------- |:------------------------- |:----------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------:|
+| Képzettség szint | Biztos tudás              | Speciális <br /><sub>(tanulható fortély, Bónusz-Háttér)</sub>                                                                                   |  Követelmény  |
+|:---------------- |:------------------------- |:---------------------------------------------------------------------------------------------------------------------------------------------------- |:-------------:|
 | Novícius (3)     |                           |                                                                                                                                                      | Ügyesség: `0` |
 | Kismester (6)    |                           |                                                                                                                                                      | Ügyesség: `1` |
 | Mester (9)       | ⭕xyz <br /> **Példa**: x |                                                                                                                                                      | Ügyesség: `2` |
-| Nagymester (12)  | ⭕xyz <br /> **Példa**: x |                                           Bármilyen fegyvert veszel a kezedbe, annak Sebzése mágikus lesz.                                           | Ügyesség: `3` |
+| Nagymester (12)  | ⭕xyz <br /> **Példa**: x | Bármilyen fegyvert veszel a kezedbe, annak Sebzése mágikus lesz.                                                                                     | Ügyesség: `3` |
 | Élő legenda (15) | ⭕xyz <br /> **Példa**: x | Ha nálad alacsonyabb szintű ellenfelet megsebzel, az azonnal teljesen harcképtelen lesz.<br />Vagy `0` ÉP-re, vagy **max KT**-re kerül (te döntesz). | Ügyesség: `3` |
 
 <br />
