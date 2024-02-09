@@ -66,7 +66,7 @@
   - [Mágiaelmélet](091_magiaelmelet.md)
   - [Mágia alapszabályok](092_magia_alapszabalyok.md)
   - [Aura](093_aura.md)
-  - [Magasmágia](051_01_magasmagia.md) (Kyr mozaik, Godoni hagyomány)(0%)🚧
+  - [Magasmágia](051_01_magasmagia.md) (0%)🚧
     - [Elemi mágia iskola](magia.magas/elemi_magia.md) (50%) 🚧
   - [Vulgármágia](051_02_vulgarmagia.md) (0%) 
     - [Árnyékmágia iskola](magia.vulgar/arnyekmagia.md) 🚧
