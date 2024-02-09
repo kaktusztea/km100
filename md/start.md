@@ -63,6 +63,9 @@
 - [Pszi](080_pszi.md) (40%)
   - [Pszi diszciplínák](081_pszi_diszciplinak.md) (0%)
 - [Mágiarendszer](090_magiarendszer.md) (40%)
+  - [Mágiaelmélet](091_magiaelmelet.md)
+  - [Mágia alapszabályok](092_magia_alapszabalyok.md)
+  - [Aura](093_aura.md)
   - [Magasmágia](051_01_magasmagia.md) (Kyr mozaik, Godoni hagyomány)(0%)🚧
     - [Elemi mágia iskola](magia.magas/elemi_magia.md) (50%) 🚧
   - [Vulgármágia](051_02_vulgarmagia.md) (0%) 
