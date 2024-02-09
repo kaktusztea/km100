@@ -2,6 +2,10 @@
 
 ⚜️ [Nyitóoldal](start.md)
 
+→ [STUDY fejlesztő oldal](https://github.com/kaktusztea/km100/wiki/STUDY.magiatradicio.samanmagia)
+
+<br />
+
 A karakter dönthet úgy, hogy megáll `6.` szinten a Tradícióban, ez nem korlátozza semmiben. Amiért mégis megérheti, az az azonos szintű [Sámán Metamágia Arkánum](#s%C3%A1m%C3%A1n-metam%C3%A1gia-ark%C3%A1num), aminek nehezebb formulái magasabb szinten érhetőek el.
 
 Most lássuk a **Sámánmágia Tradíció** egyes szintjeihez rendelt jellemzőket:
