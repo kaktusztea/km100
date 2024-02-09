@@ -25,7 +25,7 @@ Alább összesen 4 különálló ilyen harcmodor képzettség általános leír�
 | Novícius (3)     |                           |                                                                                                                                                      | Ügyesség: `0` |
 | Kismester (6)    |                           |                                                                                                                                                      | Ügyesség: `1` |
 | Mester (9)       | ⭕xyz <br /> **Példa**: x |                                                                                                                                                      | Ügyesség: `2` |
-| Nagymester (12)  | ⭕xyz <br /> **Példa**: x |                                           Bármilyen lőfegyver/hajítófegyver kerül a kezedbe, nem kell "belőnöd", gyakorolnod vele, büntetés nélkül azonnal teljes harcértékeddel tudod használni.                                           | Ügyesség: `3` |
+| Nagymester (12)  | ⭕xyz <br /> **Példa**: x |                                           Bármilyen lőfegyver/hajítófegyver kerül a kezedbe, nem kell "belőnöd", gyakorolnod vele, büntetés nélkül azonnal teljes harcértékeddel tudod használni.<br>(alapeset: [Célzó Érték kiszámolása](../070_tavolsagi_harc.md) → "Egyéb" sor)                                           | Ügyesség: `3` |
 | Élő legenda (15) | ⭕xyz <br /> **Példa**: x | Nem kell látnod a célt, érzed. Akár csukott szemmel, vagy tejfehér ködben is lőhetsz/hajíthatsz. | Ügyesség: `3` |
 
 <br />
