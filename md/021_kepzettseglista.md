@@ -148,7 +148,7 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🔵[Álcázás/Álruha](kepzettsegek/alcazas_alruha.md) <sup><sub>(80%)</sub></sup>
 
-🔵[Tolvajlás](kepzettsegek/tolvajlas.md) <sup><sub>(10%)</sub></sup>
+🔵[Lopás](kepzettsegek/lopas.md) <sup><sub>(10%)</sub></sup>
 
 🔵[Zsonglőrködés](kepzettsegek/zsonglorkodes.md) <sup><sub>(0%)</sub></sup>
 
