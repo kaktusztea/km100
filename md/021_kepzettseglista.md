@@ -80,21 +80,21 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 ## Harci képzettségek
 
-🔴[Közelharc](kepzettsegek/harcmodorok.md)   <sup><sub>(0%)</sub></sup>
+🔴[Közelharc](kepzettsegek/harcmodor.md)  <sup><sub>(60%)</sub></sup>
 
-🔴[Kardvívás](kepzettsegek/harcmodorok.md)
+🔴[Kardvívás](kepzettsegek/harcmodor.md)
 
-🔴[Lándzsavívás](kepzettsegek/harcmodorok.md)
+🔴[Lándzsavívás](kepzettsegek/harcmodor.md)
 
-🔴[Pusztítás](kepzettsegek/harcmodorok.md)
+🔴[Pusztítás](kepzettsegek/harcmodor.md)
 
-🔴[Hajítás](kepzettsegek/hajitas.md) <sup><sub>(0%)</sub></sup>
+🔴[Hajítás](kepzettsegek/tavolsagi_harcmodor.md) <sup><sub>(40%)</sub></sup>
 
-🔴[Íjászat](kepzettsegek/ijaszat.md) <sup><sub>(0%)</sub></sup>
+🔴[Íjászat](kepzettsegek/tavolsagi_harcmodor.md)
 
-🔴[Lövészet](kepzettsegek/loveszet.md) <sup><sub>(0%)</sub></sup>
+🔴[Lövészet](kepzettsegek/tavolsagi_harcmodor.md)
 
-🔴[Ostromlövészet](kepzettsegek/ostromloveszet.md) <sup><sub>(0%)</sub></sup>
+🔴[Ostromlövészet](kepzettsegek/tavolsagi_harcmodor.md)
 
 🔴[Mágikus lövészet](kepzettsegek/magikus_loveszet.md) <sup><sub>(40%)</sub></sup>
 
