@@ -2,6 +2,12 @@
 #### 🔵 Történelemismeret - adott régió (pl. Toroni államszövetség, Pyarroni államszövetség)\
 #### 🟢 Történelemismeret - adott város (Erion, Ifin, stb.)
 
+⭕**TODO**⭕
+- csak régióra legyen a képzettség?
+- Ingyenes Háttér az egyes városokra? (1 fokú?)
+
+
+---
 Magába foglalja a legendák ismeretét is!
 
 >🔴 Átfogó képzettségként felvéve:
@@ -33,3 +39,7 @@ Választanunk kell egy régiót, amelynek történelmében elmélyedni szándék
 **Fontos**: A Történelemismeret alapvetően az emberi történelem írott részét jelenti (magyarán azt, amiről van elég írott forrás, ezek hozzáférhetőek és jórészt földolgozottak). Minden más az Ősi Kultúrák ismeretébe tartozik.
 
 `Specializáció` típusú képzettségként felvéve: egy adott város történelmét ismerhetjük.
+
+**Háttér-Bónuszok:**
+12. szint: postcognition álmok (látja a valós régmúlt eseményeit álmában)
+15. szint: jósol képes történelmi/társadalmi mértékben
