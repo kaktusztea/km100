@@ -28,10 +28,12 @@ A karakter dönthet úgy, hogy megáll `6.` szinten a Tradícióban, ez nem korl
 
 A Metamágia Arkánumok tradíciók szerint eltérnek!
 
+---
 ### Tradíciók követelményei
 
 Minden Tradíció szintjeinek lehetnek követelményei, amelyek biztosítják, hogy csak tálentummal megáldott személyek tanulhassák az adott ismereteket.
 
+---
 ### Írástudó fortély extra
 
 Ha egy karakter tiszta Mágikus vagy Papi Tradíciót tanul, akkor automatikusan, ingyen megkapja az [Írástudó](fortelyok.altalanos/irastudo.md) fortélyt.
