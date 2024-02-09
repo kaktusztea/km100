@@ -114,6 +114,8 @@ A Háttér többször felvehető - minden "bejáratott" hátas fajhoz külön.
 
 Többször felvehető. Ez általában egyedi, titkos, vagy nagyon speciális táncot takar, mint például a **Toroni Vérnász**. Magától értetődik, hogy speciális/belső táncstílus tanulásához megfelelő előtörténeti kapcsolat, vagy komoly indoklás szükséges, melyre a KM is rábólint.
 
+<br />
+
 ---
 #### 🟣 Tapadás
 
