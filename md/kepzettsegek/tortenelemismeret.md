@@ -41,5 +41,6 @@ Választanunk kell egy régiót, amelynek történelmében elmélyedni szándék
 `Specializáció` típusú képzettségként felvéve: egy adott város történelmét ismerhetjük.
 
 **Háttér-Bónuszok:**
+
 12. szint: postcognition álmok (látja a valós régmúlt eseményeit álmában)
 15. szint: jósol képes történelmi/társadalmi mértékben
