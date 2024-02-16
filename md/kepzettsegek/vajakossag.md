@@ -1,22 +1,23 @@
-🔵 Alkímia
+#### 🔵 Vajákosság
 
 **Próba:** dobható
 
-**Domináns Tulajdonságok**: Intelligencia, Emlékezet
+**Domináns Tulajdonságok**: Emlékezet, Intelligencia
 
-**Kapcsolódó fortélyok**: ⭕xyz
+**Kapcsolódó fortélyok**: xyz
 
-**Bónusz-Háttér**: ⭕xyz
+**Bónusz-Háttér**: xyz
 
-**Leírás**: A jól felszerelt, világi tudósok, királyi kegyeltek, buzgó kutatók szakterülete. Labor (akár tábori is) felszerelést igényel. Ide tartoznak az alábbi ismeretek:
-- anyagok összetevőinek elemzése saját laboreszközökkel, kémiai kísérletek
-- szerves és növényi anyagok kutatása
-- savas, lúgos anyagok, illatszerek, ragasztók, festékek előállítása
-- arannyá változtatás (nagyon magas szinten félmágikus hatás)
-- mágiához szükséges fizikai komponensek létrehozása, szekszerű tárolása, tartósítása
-- Prima Materia, Mindent Oldó Szer kutatása
-- Mérgek **alapanyagainak** előállítása (nem magának a méregnek!)
-- Kapcsolódó képzettség: [Méregkeverés](meregkeveres.md)
+**Leírás**: A "gyógyszerész". Akár a lápi boszorkány, akár mágiatudó lótifuti segédje, aki napokig járja az erdőt és a vadont ritka alapanyagok után kutatva.
+
+- növényi anyagok ismerete
+- állatokból kinyert anyagok ismerete
+- gyógyhatású készítmények előállítása, ezekkel való gyógyítás
+- bájitalok, varázsszerek készítése, enyhébb, gyengébb hatású mágikus italok kikeverése (például "Erő növelő főzet", "Látópor", amely csíp ugyan, de infralátást ad)
+- tudatmódositó szerek, bóditószerek, afrodoziákumok előállítása
+- mágikus gyógyitalok készitése: ezek alapanyaga sokszor ritka szörnyetegek testrészei, 
+- pl. egy mágiás boszinak elég a 7. szint ugyanahoz, mint egy önmagában levő Vajákosság
+- **Képzettség összhang**: [Természetjárás](termeszetjaras.md) (erős), [Vadászat](vadaszat.md) (gyenge)
 
 <br />
 
@@ -48,3 +49,4 @@
 > Célszámot módosító körülmények
 
 - ⭕xyz
+

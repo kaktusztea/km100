@@ -122,7 +122,7 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🔵[Természetjárás](kepzettsegek/termeszetjaras.md) (adott tájtípus) (többször felvehető) <sup><sub>(20%)</sub></sup>
 
-🔵[Herbalizmus](kepzettsegek/herbalizmus.md) <sup><sub>(0%)</sub></sup>
+🔵[Vajákosság](kepzettsegek/vajakossag.md) <sup><sub>(40%)</sub></sup>
 
 🔵[Vadászat](kepzettsegek/vadaszat.md) <sup><sub>(10%)</sub></sup>
 

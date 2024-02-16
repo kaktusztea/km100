@@ -1,3 +1,0 @@
-#### 🔵 Herbalizmus
-
-Kapcsolódik: Méregkeverés képzettséghez.
