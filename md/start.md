@@ -86,8 +86,10 @@
   - [Rituális mágia](051_07_ritualis_magia.md) (0%)🚧
 - [Papi mágia](100_papimagia.md) (10%) 🚧
 - [Varázstárgyak](110_varazstargyak.md)  (10%) 🚧
-- [Érzékelés, Észlelés](120_erzekeles_eszleles.md) (90%)
-- [Szituációk](130_szituaciok.md) (20%)
+- [Gyógyítás, gyógyulás](120_gyogyitas_gyogyulas.md)
+- [Mérgek, méregkeverés](130_mergek.md)
+- [Érzékelés, Észlelés](140_erzekeles_eszleles.md) (90%)
+- [Szituációk](150_szituaciok.md) (20%)
 
 ---
 ## [🚧 Fejlesztő portál 🚧](https://github.com/kaktusztea/km100/wiki)

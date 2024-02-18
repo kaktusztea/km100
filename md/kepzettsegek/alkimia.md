@@ -9,26 +9,25 @@
 **Bónusz-Háttér**: ⭕xyz
 
 **Leírás**: A jól felszerelt, világi tudósok, királyi kegyeltek, buzgó kutatók szakterülete. Labor (akár tábori is) felszerelést igényel. Ide tartoznak az alábbi ismeretek:
-- anyagok összetevőinek elemzése saját laboreszközökkel, kémiai kísérletek
+- anyagok összetevőinek elemzése saját laboreszközökkel; kémiai kísérletek
 - szerves és növényi anyagok kutatása
 - savas, lúgos anyagok, illatszerek, ragasztók, festékek előállítása
-- arannyá változtatás (nagyon magas szinten félmágikus hatás)
+- arany transzmutáció (nagyon magas szinten - félmágikus hatás)
 - mágiához szükséges fizikai komponensek létrehozása, szekszerű tárolása, tartósítása
 - Prima Materia, Mindent Oldó Szer kutatása
-- Mérgek **alapanyagainak** előállítása (nem magának a méregnek!)
-- Kapcsolódó képzettség: [Méregkeverés](meregkeveres.md)
+- Mérgek **alapanyagainak** előállítása (nem magának a méregnek!). Ez által speciális követelménye is a [Méregkeverés](meregkeveres.md) képzettségnek!
 
 <br />
 
 > Biztos tudás, követelmények
 
-| Képzettség szint | Biztos tudás            | Speciális <br /><sub>(tanulható fortély<br />Bónusz-Háttér)</sub> | Követelmény |
-|:---------------- |:----------------------- |:------------------------------------------------------------------ |:-----------:|
-| Novícius (3)     | xyz <br /> **Példa**: x |                                                                    |             |
-| Kismester (6)    | xyz <br /> **Példa**: x |                                                                    |             |
-| Mester (9)       | xyz <br /> **Példa**: x |                                                                    |             |
-| Nagymester (12)  | xyz <br /> **Példa**: x |                                                                    |             |
-| Élő legenda (15) | xyz <br /> **Példa**: x |                                                                    |             |
+| Képzettség szint | Biztos tudás              | Speciális <br /><sub>(tanulható fortély<br />Bónusz-Háttér)</sub> |     Követelmény      |
+|:---------------- |:------------------------- |:----------------------------------------------------------------- |:--------------------:|
+| Novícius (3)     | ⭕xyz <br /> **Példa**: x |                                                                   | Emlékezet:&nbsp;`+0`<br />Intelligencia:&nbsp;`+0` |
+| Kismester (6)    | ⭕xyz <br /> **Példa**: x |                                                                   | Emlékezet:&nbsp;`+1`<br />Intelligencia:&nbsp;`+1` |
+| Mester (9)       | ⭕xyz <br /> **Példa**: x |                                                                   | Emlékezet:&nbsp;`+2`<br />Intelligencia:&nbsp;`+2` |
+| Nagymester (12)  | ⭕xyz <br /> **Példa**: x |                                                                   | Emlékezet:&nbsp;`+2`<br />Intelligencia:&nbsp;`+2` |
+| Élő legenda (15) | ⭕xyz <br /> **Példa**: x |                                                                   | Emlékezet:&nbsp;`+3`<br />Intelligencia:&nbsp;`+3` |
 
 <br />
 
@@ -36,15 +35,15 @@
 
 | Célszám | Példa  |
 | :----------- | :----------- |
-| Könnyű       (6)  | |
-| Átlagos      (9)  | |
-| Nehéz        (12) | |
-| Nagyon nehéz (15) | |
-| Rendkívül nehéz (18) | |
-| Emberfeletti (21) | |
+| Könnyű       (6)  | ⭕ |
+| Átlagos      (9)  | ⭕ |
+| Nehéz        (12) | ⭕ |
+| Nagyon nehéz (15) | ⭕ |
+| Rendkívül nehéz (18) | ⭕ |
+| Emberfeletti (21) | ⭕Arany előállítása, végleges transzmutációval<br />Prima Materia előállítása<br />Mindent oldó szer előállítása |
 
 <br />
 
 > Célszámot módosító körülmények
 
-- ⭕xyz
+- Rosszul felszerelt labor, műszerek hiánya: `[+3-9]`
