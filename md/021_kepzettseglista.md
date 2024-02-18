@@ -134,9 +134,9 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🔵[Idomítás](kepzettsegek/idomitas.md) (állatcsoport) (többször felvehető) <sup><sub>20%)</sub></sup>
 
-🔵[Szakma](szakma.md): ács, kőműves, borbély, kádár, varga, szűcs, cserző, (fegyver)kovács, gazdálkodás(birtok), ékszerész, molnár, pék, szabó, kötélgyártó, lakatos, rejtjelfejtő <sup><sub>(20%)</sub></sup>
+🔵[Szakma](kepzettsegek/szakma.md): ács, kőműves, borbély, kádár, varga, szűcs, cserző, (fegyver)kovács, gazdálkodás(birtok), ékszerész, molnár, pék, szabó, kötélgyártó, lakatos, rejtjelfejtő <sup><sub>(20%)</sub></sup>
 
-🔴[Gyógyítás](gyogyitas_sebgyogyitas_orvoslas.md) 🔵[Sebgyógyítás](gyogyitas_sebgyogyitas_orvoslas.md) 🔵[Orvoslás](gyogyitas_sebgyogyitas_orvoslas.md) <sup><sub>(40%)</sub></sup>
+🔴[Gyógyítás](kepzettsegek/gyogyitas.md) <sup><sub>(40%)</sub></sup>
 
 🔵[Értékbecslés](kepzettsegek/ertekbecsles.md) <sup><sub>(0%)</sub></sup>
 
@@ -277,7 +277,7 @@ Festészet + (Pszeudó tul.) + k10   vs   Célszám
 
 🔴Betegségmágia
 
-🔴[Méregmágia](meregmagia.md)  <sup><sub>(0%)</sub></sup>
+🔴[Méregmágia](magia.vulgar/meregmagia.md)  <sup><sub>(0%)</sub></sup>
 
 🔴Szexuálmágia (bájolások is)
 
