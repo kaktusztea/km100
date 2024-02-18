@@ -10,8 +10,7 @@
 
 **Bónusz-Háttér**: xyz
 
-**Leírás**: Igen sokszintű képzettség, amely alacsony szinten a betegségek és sebek kezelését gyógyszerekkel, kencékkel, magasabb szinten félmágikus energiaátadással végzi.
-A Gyógyítás tehát magában foglalja a sebgyógyítást és az orvoslást is.
+**Leírás**: Igen sokszintű képzettség, amely alacsony szinten a betegségek és sebek kezelését gyógyszerekkel, kencékkel, magasabb szinten félmágikus energiaátadással végzi. A Gyógyítás tehát magában foglalja a sebgyógyítást és az orvoslást is.
 
 A képzettség az alábbi tevékenységeket fedi le:
 - vérzés elállítása
@@ -55,7 +54,7 @@ Vajákosság szint követelmény: `Gyógyítandó ÉP / 2`
 | Kismester (6)    | ⭕xyz <br /> **Példa**: x |                                                                    |             |
 | Mester (9)       | A Vajákosság szint követelménye a felére csökken, az energia átadása egyre hangsúlyosabb. |                                                                    |             |
 | Nagymester (12)  | Már nincs szükség fizikai komponensre, tisztán kézrátételes gyógyítás történik. |                                                                    |             |
-| Élő legenda (15) | Képes vagy feltámasztani egy halott humanoid lényt, de ez nem veszélytelen.<br />Megvan rá az esély, hogy a művelet Nekromanciába fordul. Erre annyi % esély lesz, ahány perce a haláleset történt. Ebben az esetben egy [Bukott Gyógyító](../043_karma_hatterek.md) Karma Háttér a "jutalmad" és soha többet nem leszel képes gyógyítani, képzettséged visszaesik `8.szintre` és többet nem is növelheted e fölé.  |                                                                    |             |
+| Élő legenda (15) | Képes vagy feltámasztani egy halott elszabású lényt, de ez nem veszélytelen.<br />Megvan rá az esély, hogy a művelet Nekromanciába fordul. Erre annyi % esély lesz, ahány perce a haláleset történt. Ebben az esetben egy [Bukott Gyógyító](../043_karma_hatterek.md) Karma Háttér a "jutalmad" és soha többet nem leszel képes gyógyítani, képzettséged visszaesik `8.szintre` és többet nem is növelheted e fölé.  |                                                                    |             |
 
 <br />
 
