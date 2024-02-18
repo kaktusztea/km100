@@ -30,11 +30,18 @@ Versenyeken, klubokban csak és kizárólag az itt leírt Karmákat adhatja meg 
 
 <br />
 
-| 🟣 Hirhedt |  |
-| :--- | :--- |
-| Követelmény &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Számos, nagy port kavart ügyben részt vettél, amiben neved, fizimiskád is említésre került. |
-| Hatás | Híred messze megelőz. Ha aktív tevékenységed környékén lófrálsz, jó esély van rá, hogy felismernek... és nem csak a rajongók. % dobás dönt, az esélyt a KM határozza meg. |
-|  |  |
+| 🟣 Hirhedt                                            |                                                                                                                                                                           |
+|:----------------------------------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Követelmény &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Számos, nagy port kavart ügyben részt vettél, amiben neved, fizimiskád is említésre került.                                                                               |
+| Hatás                                                 | Híred messze megelőz. Ha aktív tevékenységed környékén lófrálsz, jó esély van rá, hogy felismernek... és nem csak a rajongók. % dobás dönt, az esélyt a KM határozza meg. |
+
+<br />
+
+
+| 🟣 Bukott Gyógyító                                    |                                                                                                                                                                |
+|:----------------------------------------------------- |:-------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Követelmény &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Halott feltámasztással próbálkoztál kézrátétellel, de szerencsétlenségedre a művelet Nekromanciába fordult, a lélek már eltávozott és erővel rángattad vissza. |
+| Hatás                                                 | Soha többet nem leszel képes kézrátétellel gyógyítani, Gyógyítás képzettséged visszaesik `8.szintre` és többet nem is növelheted e fölé. A művelet Aurádon is látható foltot ejt.                       |
 
 <br />
 
@@ -59,7 +66,7 @@ Versenyeken, klubokban csak és kizárólag az itt leírt Karmákat adhatja meg 
 
 <br />
 
-| 🟣 Összhang | (%) |
+| 🟣 Mágikus Összhang | (%) |
 | :----------- | :----------- |
 | Követelmény &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; | Előtörténet |
 | Hatás |  Mágikus karma<br />Például:<br />• Esőben varázsló (30%)<br />• Tömegben varázsló (20%)<br />• stb<br />lásd a Mágia fejezet ⭕**„Összhang karmák”** fejezetét!⭕ |
