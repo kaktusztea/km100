@@ -16,8 +16,9 @@
 - bájitalok, varázsszerek készítése, enyhébb, gyengébb hatású mágikus italok kikeverése (például "Erő növelő főzet", "Látópor", amely csíp ugyan, de infralátást ad)
 - tudatmódositó szerek, bóditószerek, afrodoziákumok előállítása
 - mágikus gyógyitalok készitése: ezek alapanyaga sokszor ritka szörnyetegek testrészei, 
-- pl. egy mágiás boszinak elég a 7. szint ugyanahoz, mint egy önmagában levő Vajákosság
+- egy vulgármágiát gyakorló boszorkány alacsonyabb szinten ért ugyanahhoz, mint egy önmagában levő Vajákosság képzettséggel bíró karakter
 - **Képzettség összhang**: [Természetjárás](termeszetjaras.md) (erős), [Vadászat](vadaszat.md) (gyenge)
+- **Gyógyítás** képzettséghez szükséges orvosságok alapanyagainak beszerzéséhez szükséges képzettség
 
 <br />
 
