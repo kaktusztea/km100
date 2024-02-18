@@ -13,7 +13,7 @@
 - növényi anyagok ismerete
 - állatokból kinyert anyagok ismerete
 - gyógyhatású készítmények előállítása, ezekkel való gyógyítás
-- bájitalok, varázsszerek készítése, enyhébb, gyengébb hatású mágikus italok kikeverése (például "Erő növelő főzet", "Látópor", amely csíp ugyan, de infralátást ad)
+- ⭕bájitalok, ⭕varázsszerek készítése, enyhébb, ⭕gyengébb hatású mágikus italok kikeverése (például "Erő növelő főzet", "Látópor", amely csíp ugyan, de infralátást ad)
 - tudatmódositó szerek, bóditószerek, afrodoziákumok előállítása
 - mágikus gyógyitalok készitése: ezek alapanyaga sokszor ritka szörnyetegek testrészei, vagy még ritkább növények hajtásai
 - egy vulgármágiát gyakorló boszorkány alacsonyabb szinten ért ugyanahhoz, mint egy önmagában levő Vajákosság képzettséggel bíró karakter
