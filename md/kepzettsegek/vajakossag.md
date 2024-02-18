@@ -4,9 +4,9 @@
 
 **Domináns Tulajdonságok**: Emlékezet, Intelligencia
 
-**Kapcsolódó fortélyok**: xyz
+**Kapcsolódó fortélyok**: ⭕xyz
 
-**Bónusz-Háttér**: xyz
+**Bónusz-Háttér**: ⭕xyz
 
 **Leírás**: A "gyógyszerész". Akár a lápi boszorkány, akár mágiatudó lótifuti segédje, aki napokig járja az erdőt és a vadont ritka alapanyagok után kutatva.
 
@@ -25,11 +25,11 @@
 
 | Képzettség szint | Biztos tudás            | Speciális <br /><sub>(tanulható fortély<br />Bónusz-Háttér)</sub> | Követelmény |
 |:---------------- |:----------------------- |:------------------------------------------------------------------ |:-----------:|
-| Novícius (3)     | xyz <br /> **Példa**: x |                                                                    |             |
-| Kismester (6)    | xyz <br /> **Példa**: x |                                                                    |             |
-| Mester (9)       | xyz <br /> **Példa**: x |                                                                    |             |
-| Nagymester (12)  | xyz <br /> **Példa**: x |                                                                    |             |
-| Élő legenda (15) | xyz <br /> **Példa**: x |                                                                    |             |
+| Novícius (3)     | ⭕xyz <br /> **Példa**: x |                                                                    |             |
+| Kismester (6)    | ⭕xyz <br /> **Példa**: x |                                                                    |             |
+| Mester (9)       | ⭕xyz <br /> **Példa**: x |                                                                    |             |
+| Nagymester (12)  | ⭕xyz <br /> **Példa**: x |                                                                    |             |
+| Élő legenda (15) | ⭕xyz <br /> **Példa**: x |                                                                    |             |
 
 <br />
 
@@ -37,12 +37,12 @@
 
 | Célszám | Példa  |
 | :----------- | :----------- |
-| Könnyű       (6)  | |
-| Átlagos      (9)  | |
-| Nehéz        (12) | |
-| Nagyon nehéz (15) | |
-| Rendkívül nehéz (18) | |
-| Emberfeletti (21) | |
+| Könnyű       (6)  | ⭕ |
+| Átlagos      (9)  | ⭕ |
+| Nehéz        (12) | ⭕ |
+| Nagyon nehéz (15) | ⭕ |
+| Rendkívül nehéz (18) | ⭕ |
+| Emberfeletti (21) | ⭕ |
 
 <br />
 
