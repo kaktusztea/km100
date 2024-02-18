@@ -2,7 +2,7 @@
 
 A harc során, vagy egyéb fizikai behatás során szerzett sebesülések ellátására és gyógyítására több módszer létezik.
 
-A Sebesülés modellel már megismerkedtünk a harcrendszer [Életerő fejezetében](061_eletero.md), ebben a fejezetben viszont a rendszer olyan különböző aspektusait gyűjtöttük egy helyre, amelyek képesek a sérült karakterek ellátására.
+A Sebesülés modellel már megismerkedtünk a harcrendszer [Életerő fejezetében](061_eletero.md#sebes%C3%BCl%C3%A9s), ebben a fejezetben viszont a rendszer olyan különböző aspektusait gyűjtöttük egy helyre, amelyek képesek a sérült karakterek ellátására.
 
 ## Természetes gyógyulás
 
