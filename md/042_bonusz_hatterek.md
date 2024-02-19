@@ -36,6 +36,22 @@ A felsorolt valamelyik 3 képzettség legfelső szintjein már olyan magas fokú
 <br />
 
 ---
+#### 🟣 Boncolás (faj neve)
+
+A [Harci anatómia](fortelyok.harci/harci_anatomia.md) fortély kiegészítéseként juthatsz hozzá.
+
+Ha alaposan felboncolsz egy nem elfszabású lényt, akkor onnantól arra a fajra is alkalmazhatod a **Harci Anatómia** fortély előnyeit. Ekkor egy "**Boncolás (faj neve)**" Bónusz-Hátteret kapsz. A boncolásnak kaland során kell megtörténnie, nem lehet előtörténetből, vagy játékon kívül.
+
+A sikeres boncoláshoz képzettségpróba dobandó:
+- **Élettan + Emlékezet** próba célszáma: `9`
+- **Élettan + Emlékezet** másodlagos próba célszáma: `6`
+- legalább egy nap időtartam, míg a boncolás folyik
+
+ A fenti információ más módon - ritka, titkos fóliásokkal bújásával - is kinyerhető, amennyiben azokban részletes leírás található a lény anatómiájáról.
+
+<br />
+
+---
 #### 🟣 Élő álca
 
 Titkos, félmágikus ismeret. Csak az álcázás legnagyobb mesterei ismerik – állítólag.
