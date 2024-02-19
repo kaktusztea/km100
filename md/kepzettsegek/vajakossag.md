@@ -12,7 +12,7 @@
 
 - növényi anyagok ismerete
 - állatokból kinyert anyagok ismerete
-- gyógyhatású készítmények előállítása, ezekkel való gyógyítás
+- gyógyhatású készítmények előállítása recept alapján
 - ⭕bájitalok, ⭕varázsszerek készítése, enyhébb, ⭕gyengébb hatású mágikus italok kikeverése (például "Erő növelő főzet", "Látópor", amely csíp ugyan, de infralátást ad)
 - tudatmódositó szerek, bóditószerek, afrodoziákumok előállítása
 - mágikus gyógyitalok készitése: ezek alapanyaga sokszor ritka szörnyetegek testrészei, vagy még ritkább növények hajtásai
