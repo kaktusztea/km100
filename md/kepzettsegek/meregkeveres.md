@@ -8,7 +8,7 @@
 
 **Kapcsolódó fortélyok**: -
 
-**Leírás**: Ismered a különböző hatású és erősségű mérgek kikeverésének módját, receptjeit.
+**Leírás**: A Méregkeverés képzettség megadja, hogy az alkalmazó milyen típusú, hatékonyságú mérget képes megalkotni. Ismered a különböző hatású és erősségű mérgek kikeverésének módját, receptjeit.
 
 <br />
 
