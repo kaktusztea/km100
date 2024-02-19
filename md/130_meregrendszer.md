@@ -10,10 +10,12 @@ A mérgeket összetevő szerint csoportosítva pedig szintén három kategóriá
 - növényi
 - ásványi (szervetlen)
 
+A **Méregkeverés** külön képzettség, működését lásd [annak leírásában](kepzettsegek/meregkeveres.md).
+
 ---
 ## A méreg szintje
 
-A Méregkeverés képzettség megadja, hogy az alkalmazó milyen típusú, hatékonyságú mérget képes megalkotni. A mérgeket elkészítésük bonyolultsága szerint egy ún. Szinttel jellemzünk.
+A mérgeket elkészítésük bonyolultsága szerint egy ún. Szinttel jellemzünk.
 
 ```
 Méreg szintje = Erősség + Súlyosság + Elállás + Hatóidő + Speciális
