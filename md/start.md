@@ -87,7 +87,7 @@
 - [Papi mágia](100_papimagia.md) (10%) 🚧
 - [Varázstárgyak](110_varazstargyak.md)  (10%) 🚧
 - [Gyógyítás, gyógyulás](120_gyogyitas_gyogyulas.md)
-- [Mérgek, méregkeverés](130_mergek.md)
+- [Méregrendszer, Mérgek](130_meregrendszer.md)
 - [Érzékelés, Észlelés](140_erzekeles_eszleles.md) (90%)
 - [Szituációk](150_szituaciok.md) (20%)
 
