@@ -16,7 +16,7 @@ Amennyiben a vérzést sikerült valamilyen módon elállítani, a sebesült kar
 ---
 ## [Vajákosság](kepzettsegek/vajakossag.md) képzettség, gyógyitalok
 
-A "gyógyszerész". Akár a lápi boszorkány, akár mágiatudó lótifuti segédje, aki napokig járja az erdőt és a vadont ritka alapanyagok után kutatva.
+A "gyógyszerész". Akár a lápi boszorkány, akár mágiatudó lótifuti segédje, aki napokig járja az erdőt és a vadont ritka alapanyagok után kutatva. Gyógyításra nem képes, de a gyógyszerek előállításához szükséges növényi és állati alapanyagokat be tudja szerezni. Minél magasabb a képzettsége, annál ritkábbakat.
 
 ---
 ## [Gyógyítás](kepzettsegek/gyogyitas.md) képzettség

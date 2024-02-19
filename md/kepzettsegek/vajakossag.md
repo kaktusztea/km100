@@ -4,21 +4,19 @@
 
 **Domináns Tulajdonságok**: Emlékezet, Intelligencia
 
-**Kapcsolódó fortélyok**: ⭕xyz
+**Kapcsolódó fortélyok**: -
 
 **Bónusz-Háttér**: ⭕xyz
 
 **Leírás**: A "gyógyszerész". Akár a lápi boszorkány, akár mágiatudó lótifuti segédje, aki napokig járja az erdőt és a vadont ritka alapanyagok után kutatva.
 
-- növényi anyagok ismerete
+- növényi alapanyagok ismerete
 - állatokból kinyert anyagok ismerete
-- ⭕gyógyhatású készítmények előállítása recept alapján
-- ⭕bájitalok, ⭕varázsszerek készítése, enyhébb, ⭕gyengébb hatású mágikus italok kikeverése (például "Erő növelő főzet", "Látópor", amely csíp ugyan, de infralátást ad)
-- tudatmódositó szerek, bóditószerek, afrodoziákumok előállítása
-- mágikus gyógyitalok készitése: ezek alapanyaga sokszor ritka szörnyetegek testrészei, vagy még ritkább növények hajtásai
-- egy vulgármágiát gyakorló boszorkány alacsonyabb szinten ért ugyanahhoz, mint egy önmagában levő Vajákosság képzettséggel bíró karakter
 - **Gyógyítás** képzettséghez szükséges orvosságok alapanyagainak beszerzéséhez szükséges képzettség
-- mágikus gyógyitalt **NEM** képes készíteni
+- Gyógyítás képzettséggel rendelkező karaktertől kapott konkrét recept alapján képes gyógyhatású, tudatmódositó, bódító és afrodiziákum készítmények előállítására. Önállóan nem.
+- ⭕bájitalok, ⭕varázsszerek készítése, enyhébb, ⭕gyengébb hatású mágikus italok kikeverése (például "Erő növelő főzet", "Látópor", amely csíp ugyan, de infralátást ad rövid ideig)
+- mágikus gyógyitalok alapanyagainak beszerzése: ezek sokszor ritka szörnyetegek testrészei, vagy még ritkább növények hajtásai. Mágikus gyógyitalt önnálóan **NEM** képes készíteni.
+- egy Vulgármágiát gyakorló boszorkány alacsonyabb szinten ért ugyanahhoz, mint egy önmagában levő Vajákosság képzettséggel bíró karakter
 
 <br />
 
