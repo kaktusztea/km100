@@ -66,7 +66,7 @@ Vegyük figyelembe viszont, hogy a hordozó közeg (levegő, fegyver pengéje, s
 - Most a legenyhébben van (1), de lehet, hogy nehezebb alvást előidézni, mint pl. bódulatot...?
 ````
 
-| Hatás max súlyossága | Érték  | Követelmény |
+| Hatás max súlyossága | Érték  | Méregkeverés követelmény |
 | :----------- | :----------- | :----------- |
 | Enyhe rosszullét, hányás, alvás | ⭕1  | ⭕- |
 | Kábulat, Görcs | ⭕2  | ⭕- |
@@ -103,7 +103,7 @@ Meddig áll el szabad levegőn/folyadékban?
 ---
 ### (4) Hatóidő
 
-| Milyen gyorsan hat? | Érték  | Követelmény |
+| Milyen gyorsan hat? | Érték  | Méregkeverés követelmény |
 | :----------- | :-----------: | :-----------: |
 | 30 perc - 3 óra múlva | 0  | - |
 | 4 - 23 óra múlva      | +1  | 3.szint |
