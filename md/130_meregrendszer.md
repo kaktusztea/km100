@@ -43,13 +43,17 @@ A Méregellenállás próba egyszerű Tulajdonság próba, melynél a karakter `
 A **Méreg erőssége** `(1-10)` intervallumban mozog.\
 Ez adja meg, hogy mennyire nehezen áll ellen a szervezet a méregnek, mennyire hatékony. Gyakorlatilag az összetevők „erejétől" függ. A hatékonyabb (esetleg titkos) összetevők ismerete a magas szintű méregkeverés ismérve.
 
-Az `1`-es a leggyengébb, a `10`-es a legerősebb mérgek jellemzője, de tarsuk észben, hogy **az erősség nem egyenlő a romboló hatással!**. Léteznek például nagyon hatékony, 10-es erősségű altatók is).
+Az `1`-es a leggyengébb, a `10`-es a legerősebb mérgek jellemzője, de tartsuk észben, hogy **az Erősség nem egyenlő a romboló hatással!** Léteznek például nagyon hatékony, `10`-es erősségű altatók is.
 
-**Plusz adag**: ha a normális adagnál nagyobb mennyiséget használunk fel, megnőhet a méreg erőssége (KM dönt).\
-**Szabály**: **a méreg erősségét az adag növelésével legfeljebb duplájára növelhetjük!!**\
-Vegyük figyelembe viszont, hogy a hordozó közeg (levegő, fegyver pengéje, stb) legfeljebb mekkora adagot képes tárolni, valamint egyéb nehezítő körülményeket is:\
+#### Plusz adag
 
-például az italméregben nagyobb mennyiségnél nagyon feltűnő lehet a megváltozott íz, stb. ⭕TODO: adag növelés és Erősség növekedés matematikai kapcsolata⭕
+Ha a normális adagnál nagyobb mennyiséget használunk fel, megnőhet a méreg erőssége (KM dönt).\
+**Szabály**: **a méreg erősségét az adag növelésével legfeljebb ⭕duplájára⭕ növelhetjük!!**\
+⭕TODO: adag növelés és Erősség növekedés matematikai kapcsolata⭕
+
+Vegyük figyelembe viszont, hogy a hordozó közeg (levegő, fegyver pengéje, stb) legfeljebb mekkora adagot képes tárolni, valamint egyéb nehezítő körülményeket is: például az italméregben nagyobb mennyiségnél nagyon feltűnő lehet a megváltozott íz, stb.
+
+
 
 <br />
 
