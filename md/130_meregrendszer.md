@@ -30,7 +30,7 @@ Méreg szintje = Erősség + Súlyosság + Elállás + Hatóidő + Speciális
 
 A Méregellenállás próba egyszerű Tulajdonság próba, melynél a karakter `Edzettség` Tulajdonsága számít.
 
-> A méregellenállást a méreg Erőssége (és NEM szintje) ellen kell dobni!!!
+**FONTOS**: A méregellenállást a méreg **Erőssége** (és NEM szintje) ellen kell dobni!!!
 
 <br />
 
