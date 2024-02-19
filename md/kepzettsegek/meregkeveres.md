@@ -1,4 +1,4 @@
-#### 🔴 Méregmester, 🔵 Méregkeverés
+#### 🔴 Méregkeverés
 
 ````diff
 ⭕TODO⭕
@@ -12,13 +12,13 @@
 
 **Kapcsolódó fortélyok**: -
 
-**Leírás**: A méregkeverés képzettség tanulható **Átfogó** képzettségként (ekkor minden típusú méregre vonatkozik és **Méregmester** néven illetjük), illetve **Átlagos** képzettségként - ekkor választani kell, hogy mely típusú mérgeket tanulja a karakter a lenti három csoportból:
+**Leírás**: A mérgeket jelleg szerint három csoportra bontjuk:
 
 - Étel és italmérgek
 - Légi- és kontaktmérgek
 - Fegyvermérgek
 
-A mérgek összetevő szerint csoportosítva három kategóriába sorolhatók:
+A mérgeket összetevő szerint csoportosítva pedig szintén három kategóriába sorolhatjuk:
 
 - állati
 - növényi
