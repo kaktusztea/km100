@@ -32,9 +32,9 @@ Egy jó „szakembernek" tudnia kell, hogy a fenti anyagokból (állat, növény
 
 **Limitek**
 
-🔻 A Méregkeverés képzettség szintje nem lehet magasabb, mint az `Élettan`, `Herbalizmus` és `Alkímia` képzettségek szintjeinek összege. ⭕PROBLÉMA: Élettan is „halmazos" képzettség (Átfogó-Átlagos)⭕
+🔻 A Méregkeverés képzettség szintje nem lehet magasabb, mint az `Élettan`, `Vajákosság` és `Alkímia` képzettségek szintjeinek összege.
 
-🔻 Hogy egy nyersanyagból a karakter ki tud-e vonni méreganyagot, az a fenti képzettségek szintjétől (is) függ. A konkrét esetet és körülményeket figyelembe véve a KM dönt.
+🔻 Méreganyagok kivonásához növényből/állatból a `Vajákosság`, ásványokból az `Alkímia` képzettség szükséges.
 
 🔻 A méregkeverő legfeljebb olyan Szintű mérget képes kikeverni, ami **nem nagyobb a Méregkeverés képzettség szintjének kétszeresénél**. Valamint szükséges a megfelelő összetevők megléte!
 
