@@ -8,11 +8,10 @@
 
 **Bónusz-Háttér**: ⭕xyz
 
-**Leírás**: A "gyógyszerész". Akár a lápi boszorkány, akár mágiatudó lótifuti segédje, aki napokig járja az erdőt és a vadont ritka alapanyagok után kutatva.
+**Leírás**: A "gyógyszerész". Akár a lápi boszorkány, akár mágiatudó lótifuti segédje, aki napokig járja az erdőt és a vadont ritka alapanyagok után kutatva. A [Gyógyítás](gyogyitas.md) képzettséghez szükséges orvosságok alapanyagainak beszerzéséhez szükséges képzettség. Továbbá:
 
 - növényi alapanyagok ismerete
 - állatokból kinyert anyagok ismerete
-- **Gyógyítás** képzettséghez szükséges orvosságok alapanyagainak beszerzéséhez szükséges képzettség
 - Gyógyítás képzettséggel rendelkező karaktertől kapott konkrét recept alapján képes gyógyhatású, tudatmódositó, bódító és afrodiziákum készítmények előállítására. Önállóan nem.
 - ⭕bájitalok, ⭕varázsszerek készítése, enyhébb, ⭕gyengébb hatású mágikus italok kikeverése (például "Erő növelő főzet", "Látópor", amely csíp ugyan, de infralátást ad rövid ideig)
 - mágikus gyógyitalok alapanyagainak beszerzése: ezek sokszor ritka szörnyetegek testrészei, vagy még ritkább növények hajtásai. Mágikus gyógyitalt önnálóan **NEM** képes készíteni.
