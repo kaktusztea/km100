@@ -81,7 +81,7 @@ A hatékony támadás helyett mindent feláldozol a minél nagyobb sebzés okoz�
 +1 SP → -3 TÉ
 ```
 
-A [Harci anatómia](fortelyok.harci/harci_anatomia.md) fortély fokai a fenti TÉ büntetés mértékét csökkentik
+A [Harci anatómia](fortelyok.harci/harci_anatomia.md) fortély fokai a fenti TÉ büntetés mértékét csökkentik.
 
 A plusz `SP` értéke legfeljebb az [Élettan](kepzettsegek/elettan.md) képzettség szintjével megegyező lehet.
 
