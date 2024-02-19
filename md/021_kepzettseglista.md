@@ -213,7 +213,7 @@ Festészet + (Pszeudó tul.) + k10   vs   Célszám
 
 🔴[Vallásismeret](kepzettsegek/vallasismeret.md) (általános) 🔵[Vallásismeret](kepzettsegek/vallasismeret.md) <sup><sub>(10%)</sub></sup> (adott hitvilág) 
 
-🔴[Méregkeverés](kepzettsegek/meregkeveres.md) 🔵[Méregkeverés (adott kategória: ételmérgek, légi- és kontaktmérgek, fegyvermérgek)](kepzettsegek/meregkeveres.md) <sup><sub>(90%)</sub></sup>
+🔴[Méregkeverés](kepzettsegek/meregkeveres.md) <sup><sub>(90%)</sub></sup>
 
 ## Misztikus képzettségek
 
