@@ -1,5 +1,7 @@
 #### 🔴 Méregkeverés
 
+→ [Lásd: Méregrendszer](../130_meregrendszer.md)
+
 **Próba**: van, a rontás rejtett, a játékos csak a méreg alkalmazásakor szembesül a balsikerrel (nem hat). 
 
 **Domináns Tulajdonságok**: Emlékezet, Önuralom, Intelligencia
