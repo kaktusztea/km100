@@ -1,6 +1,6 @@
 # Gyógyítás, gyógyulás
 
-→ [STUDY: Gyógyítás](https://github.com/kaktusztea/km100/wiki/STUDY.gyogyulas.gyogyitas)
+→ [STUDY: Gyógyítás](https://github.com/kaktusztea/km100/wiki/STUDY.gyogyitas.gyogyulas)
 
 A harc során, vagy egyéb fizikai behatás során szerzett sebesülések ellátására és gyógyítására több módszer létezik.
 
