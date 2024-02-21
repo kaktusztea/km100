@@ -39,7 +39,7 @@ A felsorolt valamelyik 3 képzettség legfelső szintjein már olyan magas fokú
 ---
 #### 🟣 Boncolás (faj neve)
 
-A [Harci anatómia](fortelyok.harci/harci_anatomia.md) fortély kiegészítéseként juthatsz hozzá.
+A [Harci anatómia](fortelyok.harci/harci_anatomia.md) vagy a [Különleges faj](fortelyok.altalanos/kulonleges.faj.md) fortély kiegészítéseként juthatsz hozzá.
 
 Ha alaposan felboncolsz egy nem elfszabású lényt, akkor onnantól arra a fajra is alkalmazhatod a **Harci Anatómia** fortély előnyeit. Ekkor egy "**Boncolás (faj neve)**" Bónusz-Hátteret kapsz. A boncolásnak kaland során kell megtörténnie, nem lehet előtörténetből, vagy játékon kívül.
 
