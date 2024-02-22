@@ -8,7 +8,7 @@
 
 **Kapcsolódó fortélyok**: -
 
-**Leírás**: A Méregkeverés képzettség megadja, hogy az alkalmazó milyen típusú, hatékonyságú mérget képes megalkotni. Ismered a különböző hatású és erősségű mérgek kikeverésének módját, receptjeit.
+**Leírás**: Ismered a különböző hatású és erősségű mérgek kikeverésének módját, receptjeit. Magasabb szinten egyre komplexebb, rafináltabb keverékeket vagy képes összeállítani.
 
 <br />
 
@@ -16,13 +16,15 @@
 
 **Limitek**
 
+🔻 A méregkeverő legfeljebb olyan Szintű mérget képes kikeverni, ami **nem nagyobb a Méregkeverés képzettség szintjének kétszeresénél**. Valamint szükséges a megfelelő összetevők megléte!
+
 Egy jó „szakembernek" tudnia kell, hogy a fenti anyagokból (állat, növény, ásvány) hogyan vonja ki a méreganyagot, ezért a lenti képzettség limit vonatkozik rá:
 
 🔻 A Méregkeverés képzettség szintje nem lehet magasabb, mint az `Élettan`, `Vajákosság` és `Alkímia` képzettségek szintjeinek összege.
 
 🔻 Méreganyagok kivonásához növényből/állatból a `Vajákosság`, ásványokból az `Alkímia` képzettség szükséges.
 
-🔻 A méregkeverő legfeljebb olyan Szintű mérget képes kikeverni, ami **nem nagyobb a Méregkeverés képzettség szintjének kétszeresénél**. Valamint szükséges a megfelelő összetevők megléte!
+
 
 <br />
 
