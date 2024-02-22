@@ -39,3 +39,22 @@ Egy jó „szakembernek" tudnia kell, hogy a fenti anyagokból (állat, növény
 | Mester (9)       | ⭕xyz <br /> **Példa**: x | ⭕ | Lásd: "Limitek" bekezdés |
 | Nagymester (12)  | ⭕xyz <br /> **Példa**: x | ⭕ | Lásd: "Limitek" bekezdés |
 | Élő legenda (15) | ⭕xyz <br /> **Példa**: x | ⭕ | Lásd: "Limitek" bekezdés |
+
+<br />
+
+> Próbák
+
+| Célszám | Példa  |
+| :----------- | :----------- |
+| Könnyű       (6)  | |
+| Átlagos      (9)  | |
+| Nehéz        (12) | |
+| Nagyon nehéz (15) | |
+| Rendkívül nehéz (18) | |
+| Emberfeletti (21) | |
+
+<br />
+
+> Célszámot módosító körülmények
+
+- ⭕xyz
