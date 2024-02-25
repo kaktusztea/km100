@@ -100,13 +100,17 @@ A karakter fejlődése természetesen folyamatos, de az adminisztráció megkön
 
 Aki békésen, kihívások, újdonságok, megpróbáltatások nélkül éli életét, az nem tapasztal sokat, élete végére legfeljebb `4-5. szintre` jut el.
 
+A km100 rendszerében a `15.szint` az elérhető maximum fejlődésben.
+
 Irányelvek:
 
 ```
-1.szintű karakter: tapasztalatlan mesterlegény vándorlása megkezdésekor
-3.szintű: Más rendszereknél ez az 1.szint
-6.szintű: tapasztalt harcos, elismert mágiatudó
-9.szintű: neves harcos, félelmetes mágiahasználó
+1.szintű karakter: tapasztalatlan mesterlegény vándorlása megkezdésekor.
+3.szintű: Novícius. Más rendszereknél ez az 1.szint.
+6.szintű: Kismester. Tapasztalt harcos, elismert mágiatudó.
+9.szintű: Mester. Neves harcos, félelmetes mágiahasználó.
+12.szintű: Nagymester. Ünnepelt hadvezér, retteget magitor, főpap.
+15.szintű: Világhírű legenda, érák formálója.
 ```
 
 A szintlépés számszerű hatásait lásd a [Fejlődés](#fejlődés) fejezetben.
