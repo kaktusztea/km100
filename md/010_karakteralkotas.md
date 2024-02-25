@@ -116,6 +116,9 @@ Irányelvek:
 A szintlépés számszerű hatásait lásd a [Fejlődés](#fejlődés) fejezetben.
 
 ## Tulajdonságok
+```
+[-5; +5]  - faj/mágia által max +7 
+```
 
 Mikor karaktert alkotsz, elképzeled magad előtt a külsejét, megálmodod a belső jellemzőit, melyek személyiségét árnyalják. Egyes, erős testi illetve személyiség jegyeinek számértékkel való leírása nagyban megkönnyíti, hogy egy felületes, általános képet kapjunk a karakterről.
 A későbbiekben ezek a számok fogják alapját adni más, összetettebb jellemzőinek, számértékeinek, ezért javasolt igen áttekintően meghatározni őket. A fenti alapvető értékek leírását az ún. Tulajdonságokkal végezzük, melyekből 8 darab különbözőt definiálunk:
@@ -128,7 +131,9 @@ A későbbiekben ezek a számok fogják alapját adni más, összetettebb jellem
 
 ---
 
-A Tulajdonságok értéke `-5` és `+5` között mozoghat (ezen a faji módosítók utólag változtathatnak). A `-5` értelemszerűen a leggyengébb, súlyosan fogyatékos karakterek sajátja, míg a `+5`-ös értékkel bírók a legendák héroszai, irigyelt, rosszabb esetben gyűlölt nagyságok. A kinézetre és érzelmi „felépítésre" vonatkozó jellemzőket a játékosra bízzuk, dolgozza ki ő karakteralkotáskor, a KM-el egyeztetve. Hisszük, hogy nem kell mindent számszerűsíteni. Ezek részben szabadon  meghatározható jellemzők, részben a játékos beleélőképességén múlnak, azaz milyen hatással vannak más karakterekre.
+A Tulajdonságok értéke alapesetben `-5` és `+5` között mozoghat. A `-5` értelemszerűen a leggyengébb, súlyosan fogyatékos karakterek sajátja, míg a `+5`-ös értékkel bírók a legendák héroszai, irigyelt, rosszabb esetben gyűlölt nagyságok. A fenti határokon a [faji módosítók](041_faj_hatterek.md), illetve esetleges mágikus hatások változtathatnak, de ökölszabály, hogy **elszabásúak** egyik tulajdonsága sem nőhet `+7` fölé semmilyen körülmények között.
+
+A kinézetre és érzelmi „felépítésre" vonatkozó jellemzőket a játékosra bízzuk, dolgozza ki ő karakteralkotáskor, a KM-el egyeztetve. Hisszük, hogy nem kell mindent számszerűsíteni. Ezek részben szabadon  meghatározható jellemzők, részben a játékos beleélőképességén múlnak, azaz milyen hatással vannak más karakterekre.
 
 ---
 
