@@ -89,6 +89,9 @@ Az imént felsorolt jellemzők mellett vannak "ingyenes" ismeretek, jellemzők, 
 
 ---
 ## Szint, szintlépés
+```
+Maximum karakter szint: 15
+```
 
 Egy karakter „fejlettségét" az abszolút szubjektív „Szint" értékkel jellemezzük. Minél magasabb szintű valaki, annál több időt fordíthatott tanulásra, annál többet tapasztalt.
 
