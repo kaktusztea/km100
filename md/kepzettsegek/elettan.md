@@ -1,4 +1,4 @@
-🔴 Élettan
+#### 🔴 Élettan
 
 - Magába foglalja az összes közismert faj ismeretét
 - A speciálisabb fajokhoz külön fortély kell:
@@ -8,3 +8,6 @@
 - Adjon bónuszt a „Harci anatómia” fortélyhoz hasonlóan?⭕
 - nekromanciához is kell
 - gólem előállitáshoz is kell
+
+##### Bónusz-Hátterek
+- `15.szint`: "Röntgen" látás. Ránéz valakire és látja, hogy pl. veseköve van. Maszkon, ruhán átlát.
