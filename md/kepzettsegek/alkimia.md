@@ -39,8 +39,8 @@
 | Átlagos      (9)  | ⭕ |
 | Nehéz        (12) | ⭕ |
 | Nagyon nehéz (15) | ⭕ |
-| Rendkívül nehéz (18) | ⭕ |
-| Emberfeletti (21) | ⭕Arany előállítása, végleges transzmutációval<br />Prima Materia előállítása<br />Mindent oldó szer előállítása |
+| Rendkívül nehéz (18) | Arany előállítása, végleges transzmutációval<br />Mindent oldó szer előállítása |
+| Emberfeletti (21) | Prima Materia előállítása |
 
 <br />
 
