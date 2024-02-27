@@ -16,7 +16,8 @@ A **Méregkeverés** külön képzettség, működését lásd [annak leírásá
 ---
 ## A méreg szintje
 
-A mérgeket elkészítésük bonyolultsága szerint egy ún. Szinttel jellemzünk.\
+A mérgeket elkészítésük bonyolultsága szerint egy ún. Szinttel jellemzünk.
+
 A méreg kikeverése **Méregkeverés** képzettpróbához kötött, amelynek célszáma a **Méreg szintjével** azonos.
 
 ```
