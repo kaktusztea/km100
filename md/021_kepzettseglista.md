@@ -197,7 +197,7 @@ Festészet + (Pszeudó tul.) + k10   vs   Célszám
 
 🔵[Ősi kultúrák ismerete](kepzettsegek/osi_kulturak_ismerete.md) (Külön ősi kultúránként) (Történem és Vallásismeret is egyben) <sup><sub>(25%)</sub></sup>
 
-🔵[Ősi nyelv ismerete](kepzettsegek/osi_nyelv_ismerete.md) (Külön ősi nyelvenként) <sup><sub>(0%)</sub></sup>
+🔴[Ősi nyelv ismerete](kepzettsegek/osi_nyelv_ismerete.md) (Külön ősi nyelvenként) <sup><sub>(0%)</sub></sup>
 
 🔵[Jogismeret](kepzettsegek/jogismeret.md) (adott kultúrkör) (Pyarroni államszövetség, Toron, stb) <sup><sub>(0%)</sub></sup>
 
