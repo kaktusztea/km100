@@ -13,7 +13,7 @@
 ## Részletes szabályrendszer
 
 - [Jelzők](000_jelzok.md)
-- [Karakteralkotás](010_karakteralkotas.md) (90%)
+- [Karakteralkotás, Tulajdonságok](010_karakteralkotas.md) (90%)
 - [Képzettségrendszer](020_kepzettsegrendszer.md) (80%)
 - [Képzettséglista](021_kepzettseglista.md) (90%)(20%)
 - [Fortélyok](030_fortelyok.md)

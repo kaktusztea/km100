@@ -203,21 +203,51 @@ Ha a karakternek egy olyan összetett feladatot kell elvégeznie, ami nem intéz
 - 2x Nehéz        (12)
 ```
 
-⭕ **TODO**: Kidolgozni továbbiakat!⭕
+⭕ **TODO**: Kidolgozni további példákat⭕
 
 ---
 ### Összhangok
 
-Vannak olyan esetek, amikor egyes képzettségek ismerete segítséget nyújthat más képzettségek használatakor. Az ilyet nevezzük Összhangnak. Természetesen a két érték nem adható össze, az aránytalansághoz vezetne.
+Vannak olyan esetek, amikor egyes képzettségek ismerete helyettesítő segítséget nyújthat más képzettségek használatakor. Az ilyet nevezzük Összhangnak.
 
-Ilyen esetekben attól függően, hogy mennyire kapcsolódik, a „kiegészítő" képzettség az adott feladathoz, annak `1/3`-a, vagy `1/5`-e adható hozzá képzettségpróbánál az elsődleges képzettség értékéhez. Tehát:
+Attól függően, hogy mennyire kapcsolódik a „kiegészítő" képzettség az adott feladathoz, annak `1/3`-a, vagy `1/5`-e helyettesíthető be az elsődleges képzettséghez:
+- Erős összhang: (`1/3`)
+- Közepes összhang: (`1/5`)
+
+Tehát:
 
 ```
-- Ha erősen kapcsolódik: 1/3-a adható hozzá
-- Ha közepesen kapcsolódik: 1/5-e adható hozzá
+- Ha erősen kapcsolódik:    (szint/3) működik behelyettesítő értékként
+- Ha közepesen kapcsolódik: (szint/5) működik behelyettesítő értékként
+- Maximum elérhető szint Összhangokkal: 5
+- lefelé kerekítünk
 ```
 
-Például a karakter dulakodás nyomait találja egy erdei tisztáson. Valamilyen állat is ott volt. Ekkor `Nyomolvasás` képzettségpróbát kell dobnia, de mivel nagy segítséget jelentene, ha tudná, hogy milyen állat is volt jelen, ezért ebben az esetben a `Természetjárás` képzettség kiegészítő képzettségként működik. Mivel a jelen próbához a `Természetjárás` erősen kapcsolódik, ezért annak `1/3`-a hozzáadható a karakter Nyomolvasás képzettségéhez (a próba idejére).
+A fentieknek csak kismesteri (`6`.) szint **alatt** van csak értelme, azaz a helyettesítő képzettség(ek) legfeljebb `5.szintig` adhatnak helyettesítő értéket.
+
+❗**Fontos**: a helyettesítő értékek NEM adódnak hozzá a helyettesített képzettséghez.
+
+#### ⚡Példa-1: Nyomolvasás összhangokkal
+
+A karakter dulakodás nyomait találja egy erdei tisztáson. Valamilyen állat is volt ott. Ekkor `Nyomolvasás` képzettségpróbát kellene dobnia, de mivel ebben csak nagyon alacsony szinten járatos (`2.`), ezért egy kapcsolódó képzettsége segítségére támaszkodik. A KM az adott helyzetben ezt jól megindokoltnak látja, így engedélyezi.
+
+- Nyomolvasás: `2.szint` 
+- Természetjárás: `9.szint`  (Erős Összhang Nyomolvasással)
+
+Ez ebben az esetben a `Természetjárás` képzettség az, amely helyettesítő képzettségként működik. Mivel a jelen próbához a `Természetjárás` erősen kapcsolódik, ezért annak `1/3`-a működhet `Nyomolvasás` képzettségként (a próba idejére): `9/3 = 3`
+
+Tehát a próbát `3 + Érzékenység  vs  Próba célszám` értékekkel dobja.
+
+#### ⚡Példa-2: Helyismeret összhangokkal
+
+- Helyismeret - `0.szint` (teljesen járatlan)
+- Történelemismeret - `6.szint` (Erős Összhang Helyismerettel)
+- Vallásismeret - `12.szint` (Közepes Összhang Helyismerettel)
+
+Ekkor a **Történelemismeret** `6/3 = 2`, a **Vallásismeret** pedig `12/5 ~= 2` értéket szolgáltat.
+Tehát összesen `2+1 = 4`
+
+Tehát a próbát `4 + Érzékenység  vs  Próba célszám` értékekkel dobja.
 
 ---
 ### Sérülés hatása képzettségpróbára
