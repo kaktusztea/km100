@@ -14,13 +14,13 @@ Ha nincs épp Etikett az adott szituációban szükséges kultúrkörből, akkor
 
 > Biztos tudás, követelmények
 
-| Képzettség szint | Biztos tudás                                                                                                                                                                        | Speciális <br /><sub>(tanulható fortély, Bónusz-Háttér)</sub> |                   Követelmény                    |
-|:---------------- |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:------------------------------------------------------------- |:------------------------------------------------:|
-| Novícius (3)     | Alapvető bejelentési társalgási formulák ismerete. Tudja, mikor hallgasson.<br />**Példa**: Kezdő udvaronc                                                                          |                                                               |               Érzékenység:&nbsp;0                |
-| Kismester (6)    | Bevonulási, bejelentési, köszöntő és udvarlási formulák lexikális ismerete.<br />**Példa**: Ifjú kardnemes.                                                                         |                                                               | Intelligencia:&nbsp;0<br />Érzékenység:&nbsp;+1  |
-| Mester (9)       | Ismeri és érzi a nemesi társaság hangulatának változásait.<br />**Példa**: Pallérozott nemes, apró hercegség udvarmestere.                                                          |                                                               | Intelligencia:&nbsp;+1<br />Érzékenység:&nbsp;+2 |
-| Nagymester (12)  | Már nem csak a hangulat megváltozását, hanem a tömeg igényeit is érzékeli, így  jókor képes azt manipulálni. <br />**Példa**: Tapasztalt bálozó, öreg róka. Udvari ceremóniamester. |                                                               | Intelligencia:&nbsp;+2<br />Érzékenység:&nbsp;+3 |
-| Élő legenda (15) | Hírneve egy olyan fegyver, ami miatt a legtöbb konfliktust nyerő helyzetből kezdheti. <br />**Példa**: Legendás szarkavaró. Rettegik, tisztelik... és gyűlölik.                     |                                                               | Intelligencia:&nbsp;+2<br />Érzékenység:&nbsp;+4 |
+| Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub>                                                                                                  |                   Követelmény                    |
+|:---------------- |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:------------------------------------------------:|
+| Novícius (3)     | Alapvető bejelentési társalgási formulák ismerete. Tudja, mikor hallgasson.<br />**Példa**: Kezdő udvaronc                                                                          |               Érzékenység:&nbsp;0                |
+| Kismester (6)    | Bevonulási, bejelentési, köszöntő és udvarlási formulák lexikális ismerete.<br />**Példa**: Ifjú kardnemes.                                                                         | Intelligencia:&nbsp;0<br />Érzékenység:&nbsp;+1  |
+| Mester (9)       | Ismeri és érzi a nemesi társaság hangulatának változásait.<br />**Példa**: Pallérozott nemes, apró hercegség udvarmestere.                                                          | Intelligencia:&nbsp;+1<br />Érzékenység:&nbsp;+2 |
+| Nagymester (12)  | Már nem csak a hangulat megváltozását, hanem a tömeg igényeit is érzékeli, így  jókor képes azt manipulálni. <br />**Példa**: Tapasztalt bálozó, öreg róka. Udvari ceremóniamester. | Intelligencia:&nbsp;+2<br />Érzékenység:&nbsp;+3 |
+| Élő legenda (15) | Hírneve egy olyan fegyver, ami miatt a legtöbb konfliktust nyerő helyzetből kezdheti. <br />**Példa**: Legendás szarkavaró. Rettegik, tisztelik... és gyűlölik.                     | Intelligencia:&nbsp;+2<br />Érzékenység:&nbsp;+4 |
 
 <br />
 

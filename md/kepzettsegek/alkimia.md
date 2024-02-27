@@ -21,13 +21,13 @@
 
 > Biztos tudás, követelmények
 
-| Képzettség szint | Biztos tudás              | Speciális <br /><sub>(tanulható fortély<br />Bónusz-Háttér)</sub> |     Követelmény      |
-|:---------------- |:------------------------- |:----------------------------------------------------------------- |:--------------------:|
-| Novícius (3)     | ⭕xyz <br /> **Példa**: x |                                                                   | Emlékezet:&nbsp;`+0`<br />Intelligencia:&nbsp;`+0` |
-| Kismester (6)    | ⭕xyz <br /> **Példa**: x |                                                                   | Emlékezet:&nbsp;`+1`<br />Intelligencia:&nbsp;`+1` |
-| Mester (9)       | ⭕xyz <br /> **Példa**: x |                                                                   | Emlékezet:&nbsp;`+2`<br />Intelligencia:&nbsp;`+2` |
-| Nagymester (12)  | ⭕xyz <br /> **Példa**: x |                                                                   | Emlékezet:&nbsp;`+2`<br />Intelligencia:&nbsp;`+2` |
-| Élő legenda (15) | ⭕xyz <br /> **Példa**: x |                                                                   | Emlékezet:&nbsp;`+3`<br />Intelligencia:&nbsp;`+3` |
+| Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub> |                    Követelmény                     |
+|:---------------- |:---------------------------------------------------------------------------------- |:--------------------------------------------------:|
+| Novícius (3)     | ⭕xyz <br /> **Példa**: x                                                          | Emlékezet:&nbsp;`+0`<br />Intelligencia:&nbsp;`+0` |
+| Kismester (6)    | ⭕xyz <br /> **Példa**: x                                                          | Emlékezet:&nbsp;`+1`<br />Intelligencia:&nbsp;`+1` |
+| Mester (9)       | ⭕xyz <br /> **Példa**: x                                                          | Emlékezet:&nbsp;`+2`<br />Intelligencia:&nbsp;`+2` |
+| Nagymester (12)  | ⭕xyz <br /> **Példa**: x                                                          | Emlékezet:&nbsp;`+2`<br />Intelligencia:&nbsp;`+2` |
+| Élő legenda (15) | ⭕xyz <br /> **Példa**: x                                                          | Emlékezet:&nbsp;`+3`<br />Intelligencia:&nbsp;`+3` |
 
 <br />
 

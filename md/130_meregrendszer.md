@@ -15,7 +15,8 @@ A **Méregkeverés** külön képzettség, működését lásd [annak leírásá
 ---
 ## A méreg szintje
 
-A mérgeket elkészítésük bonyolultsága szerint egy ún. Szinttel jellemzünk.
+A mérgeket elkészítésük bonyolultsága szerint egy ún. Szinttel jellemzünk.\
+A méreg kikeverése **Méregkeverés** képzettpróbához kötött, amelynek célszáma a **Méreg szintjével** azonos.
 
 ```
 Méreg szintje = Erősség + Súlyosság + Elállás + Hatóidő + Speciális
@@ -74,8 +75,6 @@ Vegyük figyelembe viszont, hogy a hordozó közeg (levegő, fegyver pengéje, s
 | Életveszély, Teljes bénulás | ⭕4  | ⭕- |
 | Halál | ⭕5  | ⭕- |
 
-
-
 #### Másodlagos hatás
 
 A mérgeknek lehet ún. **Másodlagos hatása**, amely a sikeres próba esetén következik be. Ennek hatása legfeljebb a rendes hatásnál 1-el ⭕(2-vel???)⭕ alacsonyabb kategóriájú lehet. (Pl. Halál→Életveszély(⭕vagy Bódulat⭕))
@@ -83,19 +82,33 @@ A mérgeknek lehet ún. **Másodlagos hatása**, amely a sikeres próba esetén 
 <br />
 
 ---
-### (3) Elállás
+### (3) Elállás / Kiürülés
 
-Meddig áll el szabad levegőn/folyadékban?
+Ez a tétel attól függ, hogy milyen típusú mérget szándékozik készíteni a méregkeverő:
 
-| Meddig áll el? | Érték  | Méregkeverés követelmény |
-| :----------- | :----------- | :----------- |
-| Pár másodperc | 0  | - |
-| 1 perc  | 1  | - |
-| 10 perc | 2  | - |
-| 1 óra   | 3  | 3.szint |
-| 1 nap   | 4  | 6.szint |
-| 1 hónap | 5  | 9.szint |
-| Örökké  | 6  | 12.szint |
+- **Elállás**: kizárólag fegyvermérgek esetén: meddig áll el szabad levegőn/folyadékban?
+- **Kiürülés**: minden más méreg típus esetén - mennyi idő alatt ürül ki az áldozat szervezetéből
+
+#### (3a) Elállás
+
+| Meddig áll el? | Érték | Méregkeverés követelmény |
+|:-------------- |:-----:|:------------------------:|
+| Pár másodperc  |   0   |            -             |
+| 1 perc         |   1   |            -             |
+| 10 perc        |   2   |            -             |
+| 1 óra          |   3   |         3.szint          |
+| 1 nap          |   4   |         6.szint          |
+| 1 hónap        |   5   |         9.szint          |
+| Örökké         |   6   |         12.szint         |
+
+#### (3b) Kiürülés
+
+| Mennyi idő alatt ürül ki | Érték | Méregkeverés követelmény |
+|:------------------------ |:-----:|:------------------------:|
+| 1 kör                    |   0   |         3.szint          |
+| 1 óra                    |   1   |         6.szint          |
+| 1 nap                    |   2   |         9.szint          |
+| 1 hét                    |   3   |         12.szint         |
 
 <br />
 
@@ -129,6 +142,7 @@ Meddig áll el szabad levegőn/folyadékban?
 - Szagtalan/ízetlen: `+3` (egyben értendő)
 
 <br />
+
 
 ---
 ## Példamérgek
@@ -206,5 +220,3 @@ Fia nem lévén, unokaöccse lépett helyébe, ki - úgy mondják - már nagyon 
 🔆 A fenti méreget `4` darab komponensre bontotta a déli vajákos: a király borába (ital hordozó) adagolta hetente egyszer az elmúlt 9 hónapban a szagtalan/ízetlen alapmérget, amely önmagában ártalmatlan, így nem is kimutatható, viszont stabilan felgyűlt a szervezetben. A maradék 3 komponens a 3 orchidea (légi hordozó) virágpora volt, melyet a király belélegzett - hisz mindet a hálószobájába tette. Az első kettő leszakajtása után még nem történt semmi, a hatáshoz mind a háromra (plusz a borban levő alapméregre) szükség volt.
 
 A hatást a vajákos eltolta fél nappal, hogy éjszaka jöjjön a vég, így a gyanú sem ébredt fel senkiben. Az Erősséget (`5`) bőven elégnek vélte - a király Egészsége (`-1`) már amúgy is igen gyenge lábakon állt.
-
-

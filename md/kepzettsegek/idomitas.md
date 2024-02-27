@@ -20,13 +20,13 @@ Többször felvehető.
 
 > Biztos tudás, követelmények
 
-| Képzettség szint | Biztos tudás              | Speciális <br /><sub>(tanulható fortély, Bónusz-Háttér)</sub>       | Követelmény |
-|:---------------- |:------------------------- |:------------------------------------------------------------------- |:-----------:|
-| Novícius (3)     | ⭕xyz <br /> **Példa**: x |                                                                     |             |
-| Kismester (6)    | ⭕xyz <br /> **Példa**: x |                                                                     |             |
-| Mester (9)       | ⭕xyz <br /> **Példa**: x |                                                                     |             |
-| Nagymester (12)  | ⭕xyz <br /> **Példa**: x | [Állat testvér](../042_bonusz_hatterek.md#-%C3%A1llat-testv%C3%A9r) |             |
-| Élő legenda (15) | ⭕xyz <br /> **Példa**: x | [Állat testvér](../042_bonusz_hatterek.md#-%C3%A1llat-testv%C3%A9r) |             |
+| Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub> | Követelmény |
+| :--------------- | :--------------------------------------------------------------------------------- | :---------: |
+| Novícius (3)     | ⭕xyz <br /> **Példa**: x                                                           |             |
+| Kismester (6)    | ⭕xyz <br /> **Példa**: x                                                           |             |
+| Mester (9)       | ⭕xyz <br /> **Példa**: x                                                           |             |
+| Nagymester (12)  | [Állat testvér](../042_bonusz_hatterek.md#-%C3%A1llat-testv%C3%A9r)                |             |
+| Élő legenda (15) | [Állat testvér](../042_bonusz_hatterek.md#-%C3%A1llat-testv%C3%A9r)                |             |
 
 <br />
 

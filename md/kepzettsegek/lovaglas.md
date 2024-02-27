@@ -16,13 +16,13 @@
 
 > Biztos tudás, követelmények
 
-| Képzettség szint | Biztos tudás                                                                                    | Speciális <br /><sub>(tanulható fortély, Bónusz-Háttér)</sub>       |   Követelmény    |
-|:---------------- |:----------------------------------------------------------------------------------------------- |:------------------------------------------------------------------- |:----------------:|
-| Novícius (3)     | Lassan léptető hátast képes vagy óvatosan navigálni.<br />**Példa**: Újonc lovas        |                                                                     | Önuralom:&nbsp;0 |
-| Kismester (6)    | Képes vagy egyenletes galoppra, vágtára.    |                                                                     | Önuralom:&nbsp;0 |
-| Mester (9)       | Képes nyereg nélkül, "szőrén" megülni a hátast.            |                                                                     | Önuralom:&nbsp;0 |
-| Nagymester (12)  | ⭕xyz <br /> **Példa**: xyz⭕                                                                   | [Állat testvér](../042_bonusz_hatterek.md#-%C3%A1llat-testv%C3%A9r) | Önuralom:&nbsp;0 |
-| Élő legenda (15) | Szinte egybeforr hátasával.⭕⭕ | [Állat testvér](../042_bonusz_hatterek.md#-%C3%A1llat-testv%C3%A9r) | Önuralom:&nbsp;0 |
+| Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub>                   |   Követelmény    |
+| :--------------- | :--------------------------------------------------------------------------------------------------- | :--------------: |
+| Novícius (3)     | Lassan léptető hátast képes vagy óvatosan navigálni.<br />**Példa**: Újonc lovas                     | Önuralom:&nbsp;0 |
+| Kismester (6)    | Képes vagy egyenletes galoppra, vágtára.                                                             | Önuralom:&nbsp;0 |
+| Mester (9)       | Képes nyereg nélkül, "szőrén" megülni a hátast.                                                      | Önuralom:&nbsp;0 |
+| Nagymester (12)  | [Állat testvér](../042_bonusz_hatterek.md#-%C3%A1llat-testv%C3%A9r)<br>⭕xyz <br /> **Példa**: xyz⭕   | Önuralom:&nbsp;0 |
+| Élő legenda (15) | [Állat testvér](../042_bonusz_hatterek.md#-%C3%A1llat-testv%C3%A9r)<br>Szinte egybeforr hátasával.⭕⭕ | Önuralom:&nbsp;0 |
 
 <br />
 
