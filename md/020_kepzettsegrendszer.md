@@ -231,7 +231,7 @@ A fentieknek csak kismesteri (`6`.) szint **alatt** van csak értelme, azaz a he
 
 A karakter dulakodás nyomait találja egy erdei tisztáson. Valamilyen állat is volt ott. Ekkor `Nyomolvasás` képzettségpróbát kellene dobnia, de mivel ebben csak nagyon alacsony szinten járatos (`2.`), ezért egy kapcsolódó képzettsége segítségére támaszkodik. A KM az adott helyzetben ezt jól megindokoltnak látja, így engedélyezi.
 
-- Nyomolvasás: `2.szint` 
+- Nyomolvasás: `2.szint`
 - Természetjárás: `9.szint`  (Erős Összhang Nyomolvasással)
 
 Ez ebben az esetben a `Természetjárás` képzettség az, amely helyettesítő képzettségként működik. Mivel a jelen próbához a `Természetjárás` erősen kapcsolódik, ezért annak `1/3`-a működhet `Nyomolvasás` képzettségként (a próba idejére): `9/3 = 3`
