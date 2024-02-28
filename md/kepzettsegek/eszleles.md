@@ -20,13 +20,13 @@ A képzettség szituációs alkalmazásáról bővebben az [Érzékelés, észle
 
 > Biztos tudás, követelmények
 
-| Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub> | Speciális <br /><sub>(tanulható fortély, Bónusz-Háttér)</sub>                                   |     Követelmény      |
-| :--------------- | :--------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------- | :------------------: |
-| Novícius (3)     | Szemfüles csibész                                                                  | -                                                                                               |          -           |
-| Kismester (6)    | Tapasztalt tolvaj                                                                  | -                                                                                               |          -           |
-| Mester (9)       | Veterán fejvadász                                                                  | -                                                                                               | Érzékenység:&nbsp;+1 |
-| Nagymester (12)  | Elit, uralkodói testőr                                                             | Erős, leplezetlen mágikus jelenségeket általában megérzi és azok jellegét is (pozitív, negatív) | Érzékenység:&nbsp;+2 |
-| Élő legenda (15) | Harcművész nagymester, mágus                                                       | „Valami nincs rendben”                                                                          | Érzékenység:&nbsp;+3 |
+| Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub>                                           |   Követelmény    |
+| :--------------- | :--------------------------------------------------------------------------------------------------------------------------- | :--------------: |
+| Novícius (3)     | Szemfüles csibész                                                                                                            |        -         |
+| Kismester (6)    | Tapasztalt tolvaj                                                                                                            |        -         |
+| Mester (9)       | Veterán fejvadász                                                                                                            | Érzékenység:`+1` |
+| Nagymester (12)  | Elit, uralkodói testőr.<br />Erős, leplezetlen mágikus jelenségeket általában megérzi és azok jellegét is (pozitív, negatív) | Érzékenység:`+2` |
+| Élő legenda (15) | Harcművész nagymester, mágus.<br />„Valami nincs rendben”                                                                    | Érzékenység:`+3` |
 
 <br />
 
