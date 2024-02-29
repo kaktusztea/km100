@@ -6,8 +6,7 @@
 
 **Próba**: dobható
 
-**Domináns Tulajdonságok**: Ügyesség, Intelligencia, Önuralom
-Érzékenység
+**Domináns Tulajdonságok**: Ügyesség, Intelligencia, Önuralom, Érzékenység
 
 **Kapcsolódó fortélyok**: [Százarcú](../fortelyok.altalanos/szazarcu.md), [Kaméleon](../fortelyok.altalanos/kameleon.md)
 
