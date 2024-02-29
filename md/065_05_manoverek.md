@@ -459,7 +459,7 @@ Ha meg akarod fosztani ellenfeledet fegyverétől, vagy kiütve kezéből, vagy 
 - **1.fok követelménye**: Harcmodor képzettség – `5.szint`
   Ha bármely más harcmodorban eléri az 5.szintet, akkor onnantól kezdve abban a harcmodorban is jár a bónusz, nem szükséges újra pontot költeni a manőverre.
 - **2.fok követelménye**: 1.fok megléte, Harcmodor képzettség – `7.szint` és  Mesterfegyver fortély (választott fegyver) – `1.fok`
-  Amint egy újabb fegyverre felveszi a Mesterfegyver fortélyt (az adott harcmodorra) legalább `1.fokon`, akkor onnan kezdve arra is tudja használni a `2.fokú` lefegyverzést.
+  Amint egy újabb fegyverre felveszed a Mesterfegyver fortélyt (az adott harcmodorra) legalább `1.fokon`, akkor onnan kezdve arra is tudod használni a `2.fokú` lefegyverzést.
 - **3.fok**: Követelmény: 2.fok megléte, Harcmodor képzettség – `9.szint` és Mesterfegyver fortély (választott fegyver) – `2.fok`
 - **Plusz módosító**: a használt fegyver mennyire alkalmas a másik fegyver elvételére. A KM dönt: `[-2;+4]` (Kétkezes harc sok esetben megkönnyíti a lefegyverzést)
 - Végbevitel követelménye: -
