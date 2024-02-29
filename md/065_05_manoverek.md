@@ -501,13 +501,15 @@ Ha meg akarod fosztani ellenfeledet fegyverétől, vagy kiütve kezéből, vagy 
 ---
 #### 🗡️Pajzstámadás
 
+Szándékosan rongálod ellenfeled pajzsát, csökkentve annak Védő Értékét.
+
 - Nehézség: `6`
 - Fázisok: `E V`
 - Max fok: `1` 
 - **1. fok követelménye**: Aktuális harcmodor - `6.szint`, `Erő: +1`
 - Végbevitel követelménye: Aktuális harcmodor - `4.szint`
 - Speciális: Ez ellen a manőver ellen nem számít a pajzs adta Védő Érték!
-- Hatás: Sebzést dobsz. Zúzó- és kétkezes fegyverek sebzése (SP) `1:1`-ben csökkenti a pajzs **Védő Értékét**.
+- Hatás: Sebzést dobsz. Zúzó- és kétkezes fegyverek sebzése (SP) `1:1`-ben csökkenti ellenfeled pajzsának **Védő Értékét** (véglegesen).
 
 ---
 #### 🗡️Páncélszúrás
