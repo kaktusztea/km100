@@ -72,9 +72,9 @@ Vajákosság szint követelmény: `Gyógyítandó ÉP / 2`
 | Könnyű       (6)  | ⭕ |
 | Átlagos      (9)  | ⭕ |
 | Nehéz        (12) | ⭕ |
-| Nagyon nehéz (15) | ⭕ |
-| Rendkívül nehéz (18) | ⭕ |
-| Emberfeletti (21) | ⭕ |
+| Nagyon nehéz (15) | 1 S kategóriát kézrátétellel begyógyítani (ÉP → KT) |
+| Rendkívül nehéz (18) | 2 S kategóriát kézrátétellel begyógyítani (ÉP → KT) |
+| Emberfeletti (21) | 3 S kategóriát kézrátétellel begyógyítani (ÉP → KT) |
 
 <br />
 
