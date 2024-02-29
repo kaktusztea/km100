@@ -116,17 +116,7 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🔵[Észlelés](kepzettsegek/eszleles.md) <sup><sub>(95%)</sub></sup>
 
-🔵[Keresés](kepzettsegek/kereses.md) <sup><sub>(10%)</sub></sup>
-
-🔵[Emberismeret](kepzettsegek/emberismeret.md) <sup><sub>(90%)</sub></sup>
-
-🔵[Természetjárás](kepzettsegek/termeszetjaras.md) (adott tájtípus) (többször felvehető) <sup><sub>(20%)</sub></sup>
-
-🔵[Vajákosság](kepzettsegek/vajakossag.md) <sup><sub>(40%)</sub></sup>
-
-🔵[Vadászat](kepzettsegek/vadaszat.md) <sup><sub>(10%)</sub></sup>
-
-🔵[Szexuális kultúra](kepzettsegek/szexualis_kultura.md) <sup><sub>(0%)</sub></sup>
+🔵[Értékbecslés](kepzettsegek/ertekbecsles.md) <sup><sub>(0%)</sub></sup>
 
 🔵[Etikett](kepzettsegek/etikett.md) (adott kultúrkör)  <sup><sub>(100%)</sub></sup>
 
@@ -134,11 +124,21 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🔵[Idomítás](kepzettsegek/idomitas.md) (állatcsoport) (többször felvehető) <sup><sub>20%)</sub></sup>
 
+🔵[Keresés](kepzettsegek/kereses.md) <sup><sub>(10%)</sub></sup>
+
+🔵[Emberismeret](kepzettsegek/emberismeret.md) <sup><sub>(90%)</sub></sup>
+
 🔵[Szakma](kepzettsegek/szakma.md): ács, kőműves, borbély, kádár, varga, szűcs, cserző, (fegyver)kovács, gazdálkodás(birtok), ékszerész, molnár, pék, szabó, kötélgyártó, lakatos, rejtjelfejtő <sup><sub>(20%)</sub></sup>
 
-🔴[Gyógyítás](kepzettsegek/gyogyitas.md) <sup><sub>(40%)</sub></sup>
+🔵[Szexuális kultúra](kepzettsegek/szexualis_kultura.md) <sup><sub>(0%)</sub></sup>
 
-🔵[Értékbecslés](kepzettsegek/ertekbecsles.md) <sup><sub>(0%)</sub></sup>
+🔵[Természetjárás](kepzettsegek/termeszetjaras.md) (adott tájtípus) (többször felvehető) <sup><sub>(20%)</sub></sup>
+
+🔵[Vajákosság](kepzettsegek/vajakossag.md) <sup><sub>(40%)</sub></sup>
+
+🔵[Vadászat](kepzettsegek/vadaszat.md) <sup><sub>(10%)</sub></sup>
+
+🔴[Világi gyógyítás](kepzettsegek/vilagi.gyogyitas.md) <sup><sub>(40%)</sub></sup>
 
 ## Alvilági képzettségek
 

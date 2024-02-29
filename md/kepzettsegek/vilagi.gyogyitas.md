@@ -1,4 +1,4 @@
-#### 🔴 Gyógyítás
+#### 🔴 Világi gyógyítás
 
 → [STUDY: Gyógyítás](https://github.com/kaktusztea/km100/wiki/STUDY.gyogyulas.gyogyitas)
 

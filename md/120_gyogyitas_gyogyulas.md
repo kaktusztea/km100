@@ -2,6 +2,9 @@
 
 → [STUDY: Gyógyítás](https://github.com/kaktusztea/km100/wiki/STUDY.gyogyitas.gyogyulas)
 
+→ [STUDY: Papi mágia Gyógyítás szféra / Sebgyógyítás](https://github.com/kaktusztea/km100/wiki/STUDY.papimagia.szfera.gyogyitas#sebgy%C3%B3gy%C3%ADt%C3%A1s)
+
+---
 A harc során, vagy egyéb fizikai behatás során szerzett sebesülések ellátására és gyógyítására több módszer létezik.
 
 A Sebesülés modellel már megismerkedtünk a harcrendszer [Életerő fejezetében](061_eletero.md#sebes%C3%BCl%C3%A9s), ebben a fejezetben viszont a rendszer olyan különböző aspektusait gyűjtöttük egy helyre, amelyek képesek a sérült karakterek ellátására.
@@ -22,7 +25,7 @@ Amennyiben a vérzést sikerült valamilyen módon elállítani, a sebesült kar
 A "gyógyszerész". Akár a lápi boszorkány, akár mágiatudó lótifuti segédje, aki napokig járja az erdőt és a vadont ritka alapanyagok után kutatva. **Gyógyításra NEM képes**, de a gyógyszerek előállításához szükséges növényi és állati alapanyagokat be tudja szerezni. Minél magasabb a képzettsége, annál ritkábbakat.
 
 ---
-## [Gyógyítás](kepzettsegek/gyogyitas.md) képzettség
+## [Világi gyógyítás](kepzettsegek/vilagi.gyogyitas.md) képzettség
 
 Alacsony szinten a betegségek és sebek kezelését gyógyszerekkel, kencékkel, magasabb szinten félmágikus energiaátadással végzi.
 
@@ -30,5 +33,3 @@ Alacsony szinten a betegségek és sebek kezelését gyógyszerekkel, kencékkel
 ## Papi gyógyítás
 
 Isteni energiákkal, pusztán kézrátéttellel és a pap hitével való gyógyítás.
-
-
