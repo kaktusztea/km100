@@ -17,8 +17,8 @@
   - mágikus alapanyagok, lények testrészei, kristály,
   - adott csillagállások
 - ⭕bájitalok, ⭕varázsszerek készítése, enyhébb, ⭕gyengébb hatású mágikus italok kikeverése (például "Erő növelő főzet", "Látópor", amely csíp ugyan, de infralátást ad rövid ideig)
-  - Szerelmi bájital (megrendelő haj, köröm, stb.). A célponttal meg kell itatni.
-  - Erőnövelő kenőcs. Követelmény:
+  - ⭕Szerelmi bájital (megrendelő haj, köröm, stb.). A célponttal meg kell itatni.
+  - ⭕Erőnövelő kenőcs. Követelmény:
     - medveháj
     - telihold
     - rengeteg más növény
