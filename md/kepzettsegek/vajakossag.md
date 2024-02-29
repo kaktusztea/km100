@@ -13,7 +13,15 @@
 - növényi alapanyagok ismerete
 - állatokból kinyert anyagok ismerete
 - Gyógyítás képzettséggel rendelkező karaktertől kapott konkrét recept alapján képes gyógyhatású, tudatmódositó, bódító és afrodiziákum készítmények előállítására. Önállóan nem.
+- mágikus italok, porok. Követleményei:
+  - mágikus alapanyagok, lények testrészei, kristály,
+  - adott csillagállások
 - ⭕bájitalok, ⭕varázsszerek készítése, enyhébb, ⭕gyengébb hatású mágikus italok kikeverése (például "Erő növelő főzet", "Látópor", amely csíp ugyan, de infralátást ad rövid ideig)
+  - Szerelmi bájital (megrendelő haj, köröm, stb.). A célponttal meg kell itatni.
+  - Erőnövelő kenőcs. Követelmény:
+    - medveháj
+    - telihold
+    - rengeteg más növény
 - mágikus gyógyitalok alapanyagainak beszerzése: ezek sokszor ritka szörnyetegek testrészei, vagy még ritkább növények hajtásai. Mágikus gyógyitalt önnálóan **NEM** képes készíteni.
 - egy Vulgármágiát gyakorló boszorkány alacsonyabb szinten ért ugyanahhoz, mint egy önmagában levő Vajákosság képzettséggel bíró karakter
 
