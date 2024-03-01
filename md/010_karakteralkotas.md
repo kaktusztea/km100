@@ -588,8 +588,7 @@ Lásd a [Mágiarendszer](090_magiarendszer.md) fejezetet!
 ---
 ## Fejlődés
 
-A karakter kalandjai során sokat tanul, mely az átélt események megtapasztalásán keresztül valósul meg.\
-Minden olyan tett, cselekedet, élmény során, amely a karakter épülését, fejlődését szolgálja tapasztalatot ad, viszont más rendszerekkel szemben mi nem számszerűsítjük ennek értékét.
+A karakter kalandjai során sokat tanul, mely az átélt események megtapasztalásán keresztül valósul meg. Minden olyan tett, cselekedet, élmény során, amely a karakter épülését, fejlődését szolgálja tapasztalatot ad, viszont más rendszerekkel szemben mi nem számszerűsítjük ennek értékét.
 
 Mikor a mesélő (KM) úgy érzi, az adott játékos karaktere kellően sokat felődött, bejelenti annak szintlépését. Ekkor a játékos a karakteralkotásnál meghatározott szabályok szerint növelheti karaktere egyes értékeit az ún. **Karakter Pontokból** (`KP`), melyeket ilyenkor kap. Ez utóbbi pontok elköltéséről láss alább egy rövid összegzést.
 
@@ -601,8 +600,8 @@ KP = 100 (KP Alap)
      + Tapasztalati szint x ( 50 + (2 x Emlékezet))    → csak szekunder ismeretre
 ```
 
-> 🔆
-> ez utóbbi (Emlékezethez kapcsolt pontok) kizárólag **Szekunder** ismeretekre költhetőek!
+**🔆Fontos:**\
+ez utóbbi (Emlékezethez kapcsolt pontok) kizárólag **Szekunder** ismeretekre költhetőek!
 
 A karakterek 1. szinten `100 KP`-t (KP Alap), valamint minden szinten (elsőn is) `120 + (2 x Intelligencia) KP`-t kapnak. Ezen felül további `50 + (2 x Emlékezet) KP` jár szintenként, amit csak olyan ismeretre fordíthatnak, amelyek a [Szekunder ismeretek](#primer-%C3%A9s-szekunder-ismeretek-kateg%C3%B3ri%C3%A1i) csoportjába tartoznak. A játékosnak a fenti Karakter Pontjaiból kell felvennie a következőket:
 
