@@ -138,7 +138,7 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🔵[Vadászat](kepzettsegek/vadaszat.md) <sup><sub>(10%)</sub></sup>
 
-🔴[Világi gyógyítás](kepzettsegek/vilagi.gyogyitas.md) <sup><sub>(40%)</sub></sup>
+🔴[Orvoslás](kepzettsegek/orvoslas.md) <sup><sub>(40%)</sub></sup>
 
 ## Alvilági képzettségek
 

@@ -1,4 +1,4 @@
-#### 🔴 Világi gyógyítás
+#### 🔴 Orvoslás
 
 → [STUDY: Gyógyítás](https://github.com/kaktusztea/km100/wiki/STUDY.gyogyulas.gyogyitas)
 
@@ -10,7 +10,7 @@
 
 **Bónusz-Háttér**: xyz
 
-**Leírás**: Igen sokszintű képzettség, amely alacsony szinten a betegségek és sebek kezelését gyógyszerekkel, kencékkel, magasabb szinten félmágikus energiaátadással végzi. A Gyógyítás tehát magában foglalja a sebgyógyítást és az orvoslást is.
+**Leírás**: Igen sokszintű képzettség, amely alacsony szinten a betegségek és sebek kezelését gyógyszerekkel, kencékkel, magasabb szinten félmágikus energiaátadással végzi. Az Orvoslás tehát magában foglalja a sebgyógyítást és nagyon fejlett szinten a gyógyítást is.
 
 A képzettség az alábbi tevékenységeket fedi le:
 - vérzés elállítása
