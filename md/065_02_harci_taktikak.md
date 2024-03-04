@@ -307,18 +307,15 @@ Ha harc közben próbálsz ellenfeleden egy konkrét pont támadásával nagyobb
 
 ---
 ### Mögékerülés
-`PROB_HARC_#51.`
 
-→ [Kidolgozás itt](https://github.com/kaktusztea/km100/wiki/ISSUE.TODO.harcrendszer#m%C3%B6g%C3%A9ker%C3%BCl%C3%A9s). Ha kész, bemozgatni ide.
+→ [Kidolgozás itt](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.harcrendszer#harci-taktik%C3%A1k-tiszt%C3%A1z%C3%A1sa). Ha kész, bemozgatni ide.
 
 ---
 ### Rávetődés hátulról
-`PROB_HARC_#51.`
 
-→ [Kidolgozás itt](https://github.com/kaktusztea/km100/wiki/ISSUE.TODO.harcrendszer#r%C3%A1vet%C5%91d%C3%A9s-h%C3%A1tulr%C3%B3l). Ha kész, bemozgatni ide.
+→ [Kidolgozás itt](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.harcrendszer#harci-taktik%C3%A1k-tiszt%C3%A1z%C3%A1sa). Ha kész, bemozgatni ide.
 
 ---
 ### Visszafogott csapás / Harc az ellenfél elfogásáért
-`PROB_HARC_#51.`
 
-→ [Kidolgozás itt](https://github.com/kaktusztea/km100/wiki/ISSUE.TODO.harcrendszer#visszafogott-csap%C3%A1s--harc-az-ellenf%C3%A9l-elfog%C3%A1s%C3%A1%C3%A9rt). Ha kész, bemozgatni ide.
+→ [Kidolgozás itt](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.harcrendszer#harci-taktik%C3%A1k-tiszt%C3%A1z%C3%A1sa). Ha kész, bemozgatni ide.
