@@ -38,7 +38,7 @@
 	- [Lefegyverzés / Fegyvertörés - egy konkrét harcmodorra](#%EF%B8%8Flefegyverz%C3%A9s--fegyvert%C3%B6r%C3%A9s---egy-konkr%C3%A9t-harcmodorra)
 	- [Lefejelés](#%EF%B8%8Flefejel%C3%A9s)
 	- [Mesterjel](#%EF%B8%8Fmesterjel)
-	- [Pajzsrombolás](#%EF%B8%8Frombol&aacute;s)
+	- [Pajzsrombolás](#%EF%B8%8Fpajzsrombol%C3%A1s)
 	- [Páncélszúrás](#%EF%B8%8Fp%C3%A1nc%C3%A9lsz%C3%BAr%C3%A1s)
 	- [Távoltartás](#%EF%B8%8Ft%C3%A1voltart%C3%A1s)
 	- [Terelés](#%EF%B8%8Fterel%C3%A9s)
