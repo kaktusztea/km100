@@ -1,6 +1,6 @@
 ## Dzsenn Tradíció
 
-⚜️ [Nyitóoldal](start.md)\
+⚜️ [Nyitóoldal](start.md)
 
 ```
 - Mentálmágia (mint spec képesség) == Dzsenn tradíció szintje
