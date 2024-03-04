@@ -52,7 +52,7 @@ Vajákosság szint követelmény: `Gyógyítandó ÉP / 2`
 | :--------------- | :------------------------------------------------------------------------------------------------------------------------------ | :---------: |
 | Novícius (3)     | Közepes seb (max `6 ÉP`) vérzésének elállítása                                                                                  |             |
 | Kismester (6)    | Gyógyulási sebesség szorzó: `x2`                                                                                                |             |
-| Mester (9)       | Gyógyulási sebesség szorzó: `x3`<br />A Vajákosság szint követelménye a felére csökken, az energia átadása egyre hangsúlyosabb. |             |
+| Mester (9)       | Gyógyulási sebesség szorzó: `x3`<br />Ettől a szinttől kezdve vagy képes kézrátétellel gyógyítást megpróbálni.<br />A Vajákosság szint követelménye a felére csökken, az energia átadása egyre hangsúlyosabb. |             |
 | Nagymester (12)  | Gyógyulási sebesség szorzó: `x4`<br />Már nincs szükség fizikai komponensre, tisztán kézrátételes gyógyítás történik.            |             |
 | Élő legenda (15) | Gyógyulási sebesség szorzó: ⭕`x5`<br />                                                                                        |             |
 
