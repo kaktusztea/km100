@@ -74,7 +74,7 @@ Vajákosság szint követelmény: `Gyógyítandó ÉP / 2`
 | Nehéz        (12) | ⭕ |
 | Nagyon nehéz (15) | 1 S kategóriát kézrátétellel begyógyítani (ÉP → KT) |
 | Rendkívül nehéz (18) | 2 S kategóriát kézrátétellel begyógyítani (ÉP → KT) |
-| Emberfeletti (21) | 3 S kategóriát kézrátétellel begyógyítani (ÉP → KT) |
+| Emberfeletti (21) | 3 S kategóriát kézrátétellel begyógyítani (ÉP → KT); csonkolást gyógyítani (csak ha megvan a végtag) |
 
 <br />
 
