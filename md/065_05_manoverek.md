@@ -38,7 +38,7 @@
 	- [Lefegyverzés / Fegyvertörés - egy konkrét harcmodorra](#%EF%B8%8Flefegyverz%C3%A9s--fegyvert%C3%B6r%C3%A9s---egy-konkr%C3%A9t-harcmodorra)
 	- [Lefejelés](#%EF%B8%8Flefejel%C3%A9s)
 	- [Mesterjel](#%EF%B8%8Fmesterjel)
-	- [Pajzstámadás](#%EF%B8%8Fpajzst%C3%A1mad%C3%A1s)
+	- [Pajzsrombolás](#%EF%B8%8Frombol&aacute;s)
 	- [Páncélszúrás](#%EF%B8%8Fp%C3%A1nc%C3%A9lsz%C3%BAr%C3%A1s)
 	- [Távoltartás](#%EF%B8%8Ft%C3%A1voltart%C3%A1s)
 	- [Terelés](#%EF%B8%8Fterel%C3%A9s)
@@ -499,7 +499,7 @@ Ha meg akarod fosztani ellenfeledet fegyverétől, vagy kiütve kezéből, vagy 
 
 
 ---
-#### 🗡️Pajzstámadás
+#### 🗡️Pajzsrombolás
 
 Szándékosan rongálod ellenfeled pajzsát, csökkentve annak Védő Értékét.
 
