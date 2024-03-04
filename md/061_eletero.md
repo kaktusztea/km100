@@ -108,7 +108,7 @@ A Fájdalomtűrés képzettség fontos szerepet játszik a harcban elszenvedett 
 
 Ha harc közben más sebesülés kategóriába lép a karakter, `TÉ` levonást kap büntetésül. Ezt az értéket csökkenti a **Fájdalomtűrés** képzettség és az **Önuralom** tulajdonság összege.
 
-⭕**Bónusz**: a **Harcos elme** fortély minden foka további `1 pontot` csökkent.⭕
+⭕**Bónusz**: a [Harcos elme](fortelyok.harci/harcos_elme.md) fortély minden foka további `1 pontot` csökkent.⭕
 
 | - | S1 | S2 | S3 | S4 |
 | :-----: | :----: | :----: | :----: | :----: |
