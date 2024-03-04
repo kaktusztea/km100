@@ -7,7 +7,7 @@
 
 ## Kivonatok
 
-- [Segédlet esszencia játékalkalomra v1.7 (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_ingame_v1.7.pdf?raw=true)
+- [Segédlet esszencia játékalkalomra v1.8 (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_ingame_v1.8.pdf?raw=true)
 - [Távharc segédlet v1.1 (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_tavharc_v1.1.pdf?raw=true)
 
 ## Részletes szabályrendszer
