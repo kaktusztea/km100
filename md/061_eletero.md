@@ -105,27 +105,22 @@ A Fájdalomtűrés képzettség fontos szerepet játszik a harcban elszenvedett 
 
 ---
 #### Fájdalomtűrés harc közben
+```
+- TÉ levonást csökkenti: Önuralom + Fájdalomtűrés
+- S4: Fájdalomtűrés (K) + Edzettség (T)  vs.  12
+```
 
 Ha harc közben más sebesülés kategóriába lép a karakter, `TÉ` levonást kap büntetésül. Ezt az értéket csökkenti a **Fájdalomtűrés** képzettség és az **Önuralom** tulajdonság összege.
-
-⭕**Bónusz**: a [Harcos elme](fortelyok.harci/harcos_elme.md) fortély minden foka további `1 pontot` csökkent.⭕
 
 | - | S1 | S2 | S3 | S4 |
 | :-----: | :----: | :----: | :----: | :----: |
 | TÉ levonás | - | -10 | -20 | -30 |
 
-```
-A levonást csökkenti: `Önuralom` + `Fájdalomtűrés`
-```
 
 #### S4 kategóriás fájdalomtűrés
 ⭕[Harci láz ad bónuszt?](https://github.com/kaktusztea/km100/wiki/ISSUE.TODO.fortelyok#harci-l%C3%A1z)
 
-```
-Fájdalomtűrés (K) + Edzettség (T)  vs.  12
-```
-
-Ha a karakter az S4-es (Súlyosan sebesült) kategóriába ér egyszeri Fájdalomtűrés próbát kell dobnia Nehéz (`12`) célszám ellen. Siker esetén ezt a próbát a következő sebesüléskor kell csak újradobnia.
+Ha a karakter az S4-es (Súlyosan sebesült) kategóriába ér egyszeri [Fájdalomtűrés](kepzettsegek/fajdalomtures.md) próbát kell dobnia Nehéz (`12`) célszám ellen. Siker esetén ezt a próbát a következő sebesüléskor kell csak újradobnia.
 
 ---
 #### ⚡ Példa Fájdalomtűrésre
