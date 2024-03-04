@@ -1,6 +1,6 @@
 # km100
 
-Egy fantasy világokra tervezett komplett szerepjáték rendszer ([CC](LICENSE)).
+Egy fantasy világokra tervezett komplett, asztali (papír, kockák) szerepjáték rendszer ([CC](LICENSE)).
 
 → [km100 szabályrendszer](./md/start.md)
 
