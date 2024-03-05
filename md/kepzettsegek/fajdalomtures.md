@@ -6,7 +6,7 @@ Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-
 
 **Domináns Tulajdonságok**: Önuralom
 
-**Kapcsolódó fortélyok**: [Harci láz](../fortelyok.harci/harci_laz.md), [Kínokozás](../fortelyok.harci/kinokozas.md), [Fakír](../fortelyok.altalanos/fakir.md), [Harci láz](../fortelyok.harci/harci_laz.md), ⭕[Harc mindhalálig](https://github.com/kaktusztea/km100/wiki/ISSUE.TODO.fortelyok#harc-mindhal%C3%A1lig)(nem létezik még)⭕
+**Kapcsolódó fortélyok**: [Harci láz](../fortelyok.harci/harci_laz.md), [Kínokozás](../fortelyok.harci/kinokozas.md), [Fakír](../fortelyok.altalanos/fakir.md), [Harci láz](../fortelyok.harci/harci_laz.md), ⭕[Harc mindhalálig](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.fortelyok#harc-mindhal%C3%A1lig)(nem létezik még)⭕
 
 **Leírás**: Legyőzni a fájdalmat, legyőzni önmagunkat. Ez a képzettség nem véletlenül kapcsolódik szorosan a harchoz, hiszen az a harcos, aki nem képes legyűrni sebei fájdalmát, hamar elhullik. 
 
