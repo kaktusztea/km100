@@ -6,7 +6,7 @@ Küzdelem közben akrobatikus elemeket - ugrásokat, vetődéseket, pörgéseket
 | |  Követelmény | Hatás  |
 | :----------- | :----------- | :----------- |
 | 1.fok | Ügyesség:&nbsp;`+2`<br /> Gyorsaság:&nbsp;`+2`<br /> Akrobatika:&nbsp;`4.szint`<br />| Az [Akrobatika](../kepzettsegek/akrobatika.md) képzettséged `felét` hozzáadhatod bónuszként `TÉ/VÉ` értékeidhez. <br />Kibontakozás/Átsiklás:&nbsp;`+1`<br />Akrobatika x `0.5` → +TÉ<br />Akrobatika x `0.5` → +VÉ<br /> |
-| 2.fok | Ügyesség:&nbsp;`+4`<br /> Gyorsaság:&nbsp;`+3`<br /> Akrobatika:&nbsp;`8.szint`<br />| Az [Akrobatika](../kepzettsegek/akrobatika.md) képzettségedet `1:1` hozzáadhatod bónuszként `TÉ/VÉ` értékeidhez. <br />🗡️ [Kibontakozás/Átsiklás](065_05_manoverek.md#%EF%B8%8Fkibontakoz%C3%A1s%C3%A1tsikl%C3%A1) manőverre `+3` bónuszt kapsz. <br />Kibontakozás/Átsiklás:&nbsp;`+3`<br />Akrobatika x `1` → +TÉ<br />Akrobatika x `1` → +VÉ<br /> |
+| 2.fok | Ügyesség:&nbsp;`+4`<br /> Gyorsaság:&nbsp;`+3`<br /> Akrobatika:&nbsp;`8.szint`<br />| Az [Akrobatika](../kepzettsegek/akrobatika.md) képzettségedet `1:1` hozzáadhatod bónuszként `TÉ/VÉ` értékeidhez. <br />🗡️ [Kibontakozás/Átsiklás](../065_05_manoverek.md#%EF%B8%8Fkibontakoz%C3%A1s%C3%A1tsikl%C3%A1) manőverre `+3` bónuszt kapsz. <br />Kibontakozás/Átsiklás:&nbsp;`+3`<br />Akrobatika x `1` → +TÉ<br />Akrobatika x `1` → +VÉ<br /> |
 
 <br />
 
