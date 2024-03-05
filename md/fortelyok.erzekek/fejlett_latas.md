@@ -9,7 +9,7 @@ Különlegesen éles a szemed, messzire ellátsz.
 | |  Követelmény | Hatás  |
 | :----------- | :-----------: | :----------- |
 | Alapeset| - | Emberi látás |
-| 1.fok | Kapcsolódó [Faj Háttér](../041_faj_hatterek.md) | `2x` messzebbre lász, mint egy átlagos ember. A látást érintő Észleléspróbákra `+2` bónuszt kapsz. |
+| 1.fok | Kapcsolódó [Faj&nbsp;Háttér](../041_faj_hatterek.md) | `2x` messzebbre lász, mint egy átlagos ember. A látást érintő Észleléspróbákra `+2` bónuszt kapsz. |
 
 <br />
 
