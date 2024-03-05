@@ -15,6 +15,6 @@ Fajhoz felvehető Érzék-fortély.
 
 **Megjegyzések**
 
-- Felvételéhez olyan [Faj-Háttér](041_faj_hatterek.md) szükséges, amelynél szerepel az **Barlangi tájékozódás**, mint felvehető Érzék-fortély
+- Felvételéhez olyan [Faj-Háttér](../041_faj_hatterek.md) szükséges, amelynél szerepel az **Barlangi tájékozódás**, mint felvehető Érzék-fortély
 
 ---
