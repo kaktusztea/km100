@@ -1,4 +1,4 @@
-### 🟡 Helyismeret (városnyi terület)
+#### 🟡 Helyismeret (városnyi terület)
 
 Ez egy speciális képzettség, melyre nem kell KP-t költeni. Minden karakter kezdéskor kap `10` szintnek megfelelő pontot, amit eloszthat az általa ismert városok/városnyi területek között. Például:
 
