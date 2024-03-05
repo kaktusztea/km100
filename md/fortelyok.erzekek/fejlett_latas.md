@@ -15,7 +15,7 @@ Különlegesen éles a szemed, messzire ellátsz.
 
 **Megjegyzések**
 
-- Felvételéhez olyan [Faj-Háttér](041_faj_hatterek.md) szükséges, amelynél szerepel az **Fejlett látás**, mint felvehető Érzék-fortély
+- Felvételéhez olyan [Faj-Háttér](../041_faj_hatterek.md) szükséges, amelynél szerepel az **Fejlett látás**, mint felvehető Érzék-fortély
 - Infrára is vonatkozik, így aki ezt felveszi, az a hőkép-tartományban is messzebbre ellátsz. Jellemzően ilyenek az elfek.
 
 <br />
