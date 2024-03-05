@@ -2,7 +2,7 @@
 
 ⚜️ [Nyitóoldal](start.md)
 
-→ [TODO/ISSUE harcrendszer](https://github.com/kaktusztea/km100/wiki/ISSUE.TODO.erzekeles.eszleles)
+→ [TODO/ISSUE harcrendszer](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.erzekeles.eszleles)
 
 ## Tág értelmezés
 

@@ -2,7 +2,7 @@
 
 ⚜️ [Nyitóoldal](start.md)
 
-→ [TODO/ISSUE távharc](https://github.com/kaktusztea/km100/wiki/ISSUE.TODO.tavharc)
+→ [TODO/ISSUE távharc](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.tavharc)
 
 A távolsági - lő- és hajítófegyverekkel - végzett harc során a védekező fél nem saját Védő Értékével vesz részt a harcban, ugyanolyan “céltárgynak” minősül, mint egy szalmabábú, vagy egy agyaggalamb. Ugyanakkor a célpont mozgásának jellege (lásd “Mozgás módosító" fejezetet) és a távolság erőteljesen befolyásolják a találat esélyeit. Lásd még: [Szándékos kitérés lövés elől](070_tavolsagi_harc.md#sz%C3%A1nd%C3%A9kos-kit%C3%A9r%C3%A9s-l%C3%B6v%C3%A9s-el%C5%91l) fejezetet. A támadó a távolsági harcban a **Célzó Értékét** használja, melynek megállapítása több tényezőtől függ.
 
@@ -137,9 +137,9 @@ Természetesen a lövést végző személy mozgása is befolyásolja a találati
 | ⭕TODO⭕                 |          |            |
 | ⭕TODO⭕                 |          |            |
 
-→ 🔺ISSUE: [Túl kicsi a fej szorzója](https://github.com/kaktusztea/km100/wiki/ISSUE.TODO.tavharc#l%C3%B6v%C3%A9szet-haj%C3%ADt%C3%A1s-kaland-tapasztalatok)
+→ 🔺ISSUE: [Túl kicsi a fej szorzója](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.tavharc#l%C3%B6v%C3%A9szet-haj%C3%ADt%C3%A1s-kaland-tapasztalatok)
 
-→ 🔺ISSUE: [Ha a szorzó 0-ra, vagy az alá csökkenne](https://github.com/kaktusztea/km100/wiki/ISSUE.TODO.tavharc#km100-c%C3%A9lz%C3%A1s-szorz%C3%B3).
+→ 🔺ISSUE: [Ha a szorzó 0-ra, vagy az alá csökkenne](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.tavharc#km100-c%C3%A9lz%C3%A1s-szorz%C3%B3).
 
 ---
 #### Szorzó - Láthatóság és hallhatóság módosító
@@ -158,7 +158,7 @@ A látási viszonyok erősen meghatározzák a távolsági harcot, hiszen péld�
 \* Csak Hatodik Érzék diszciplínával\
 \*\*A vaksötétben történő célzásról alább olvashatsz.
 
-→ 🔺ISSUE: [Vakharc számítson?](https://github.com/kaktusztea/km100/wiki/ISSUE.TODO.tavharc#szorz%C3%B3---l%C3%A1that%C3%B3s%C3%A1g-m%C3%B3dos%C3%ADt%C3%B3)
+→ 🔺ISSUE: [Vakharc számítson?](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.tavharc#szorz%C3%B3---l%C3%A1that%C3%B3s%C3%A1g-m%C3%B3dos%C3%ADt%C3%B3)
 
 ---
 #### 🔆 Szél hatása a Szorzóra – Opcionális szabály

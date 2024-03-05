@@ -2,7 +2,7 @@
 
 ⚜️ [Nyitóoldal](start.md)
 
-→ [TODO/ISSUE képzettségrendszer](https://github.com/kaktusztea/km100/wiki/ISSUE.TODO.kepzettsegek)
+→ [TODO/ISSUE képzettségrendszer](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.kepzettsegek)
 
 
 - [Képzettségek kategóriái](#képzettségek-kategóriái)
