@@ -1,5 +1,8 @@
 #### 🔴 Ősi nyelv ismerete  (ősi nyelvenként)
 
+→ [STUDY](https://github.com/kaktusztea/km100/wiki/STUDY.osi.nyelv.ismerete)
+
+---
 **Próba:** ⭕dobható / ⭕nincs, csak biztos tudásból
 
 **Domináns Tulajdonságok**: xyz
