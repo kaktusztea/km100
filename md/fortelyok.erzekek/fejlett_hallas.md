@@ -15,6 +15,6 @@ Különlegesen jó a hallásod, messziről meghallasz olyat, amit egy átlagembe
 
 **Megjegyzések**
 
-- Felvételéhez olyan [Faj-Háttér](041_faj_hatterek.md) szükséges, amelynél szerepel az **Fejlett hallás**, mint felvehető Érzék-fortély
+- Felvételéhez olyan [Faj-Háttér](../041_faj_hatterek.md) szükséges, amelynél szerepel az **Fejlett hallás**, mint felvehető Érzék-fortély
 
 ---
