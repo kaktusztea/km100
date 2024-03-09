@@ -135,6 +135,7 @@ A különböző fém ötvözetek alapanyagai változtathatnak az MGT értékeken
 
 Aki erősebb, azt kevésbé korlátozza egy nehezebb páncél.
 
+---
 #### Vért kidolgozottsága, csatolt elemek száma
 
 
