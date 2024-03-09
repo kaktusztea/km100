@@ -76,7 +76,7 @@ Az `Átfogó` csoport alá a nagyobb, átfogóbb képzettségek tartoznak, mint 
 A karakterek fejlődése természetesen nem lehet ugrásszerű, meg kell őriznünk a folyamatosság illúzióját szintlépéskor, el kell kerülnünk, hogy egy 3. szintű karakter 12-13-as értékekkel rohangáljon. Ugyanakkor fontos színesítő, ha egy 1. szintű karakter egyes területeken kitűnik társai közül. Általános szabályok:
 
 - A harci és misztikus képzettségek szintje legfeljebb (`szint+3`) lehet
-- A többi képzettség értéke pedig legfeljebb (`szint+8`) lehet
+- A többi képzettség értéke pedig legfeljebb (`szint+6`) lehet
 - Szintlépéskor legfeljebb `2-vel` növelhetőek a képzettségek, kivéve, ha 0-ról akar valaki egy képzettséget tanulni. Ilyenkor szintlépéskor maximum `3.szintre` növelheti egy lépésben az ilyen képzettséget.
 - Egy Átlagos, vagy Specializáció képzettség `legfeljebb 3-al lehet magasabb`, mint az őt magába foglaló Átfogó, vagy Átlagos képzettség.  Ha nincs fölé tartozó képzettség (pl. Nyelvismeret esetén), akkor természetesen nincs felső korlát.
 - A képzettségek egyes kiemelt szintjeinek is lehetnek követelményei!  Magas szinten főleg.

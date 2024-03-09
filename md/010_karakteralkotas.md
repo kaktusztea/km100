@@ -598,6 +598,9 @@ Mikor a mesélő (KM) úgy érzi, az adott játékos karaktere kellően sokat fe
 KP = 100 (KP Alap)
      + Tapasztalati szint x (120 + (2 x Intelligencia))
      + Tapasztalati szint x ( 50 + (2 x Emlékezet))    → csak szekunder ismeretre
+
+Primer képzettségek max:    (szint x 3)
+Szekunder képzettségek max: (szint x 6)
 ```
 
 **🔆Fontos:**\
@@ -607,7 +610,7 @@ A karakterek 1. szinten `100 KP`-t (KP Alap), valamint minden szinten (elsőn is
 
 - Képzettségek
   - Primer képzettségek szintje legfeljebb `szint+3` lehet
-  - Szekunder képzettség értéke pedig legfeljebb `szint+8` lehet
+  - Szekunder képzettség értéke pedig legfeljebb `szint+6` lehet
   - Szintlépéskor `legfeljebb 2-vel` növelhetőek a képzettségek, kivéve, ha 0-ról akar valaki egy képzettséget tanulni (ilyenkor szintlépéskor `maximum 3.szintre` növelheti egy lépésben a képzettséget).
   - Egy **Átlagos**, vagy **Specializáció** képzettség `legfeljebb 3`-al lehet magasabb, mint az őt magába foglaló **Átfogó**, vagy **Átlagos** képzettség. Ha nincs fölé tartozó képzettség (pl. Nyelvismeret esetén), akkor természetesen nincs felső korlát.
   - A képzettségek egyes kiemelt szintjeinek is lehetnek követelményei! Magas szinten főleg.
