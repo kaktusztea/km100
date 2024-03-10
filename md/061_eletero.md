@@ -41,6 +41,11 @@ Először jelöljük be a valós sebesülés okozta ÉP-ket, majd utána a Kábu
 Ha egy karakternek egy korábbi fejbekólintás okán vannak már `KT`-i és egy újabb – valós – sebet szerez, akkor az újabb sebet a legutolsó valós seb után írjuk be, a meglevő `KT`-ket pedig „toljuk lejjebb”. Ha `KT`-k hatására betelik az életerő táblázat, a karakter akkor is életben marad. Halált csak a valós `ÉP`-k 0-ra csökkenése okozhat.
 
 ---
+#### Túlcsordult Kábulat ÉP
+
+Amennyiben az életerő táblázat "betelt" és vannak benne Kábulat ÉP pontok, akkor a "túlcsorduló" bármilyen sebzés (ÉP, KT) felülről átírja a KT pontokat ÉP pontokra.
+
+---
 #### Kábulat ÉP gyógyulása
 
 A Kábulat ÉP, mivel nem valós sebesülés okozta, gyorsabban „gyógyul”, mint a valós ÉP seb. Fizikai behatás esetén kb. **óránként 1 pont „tűnik el”**, és így szép lassan „visszaolvad” a valós sebzésbe. Mérgezés, betegség esetén a hatás tartósabb is lehet, itt a KM dönt. **Alvás közben** a gyógyulási sebesség duplázódik, tehát **2KT/óra**. Ha a KM úgy látja indokoltnak eltérhet a fenti számoktól.
