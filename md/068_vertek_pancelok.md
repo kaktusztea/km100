@@ -1,6 +1,6 @@
 ## Vértek, Páncélok
 
-→ [STUDY oldal](https://github.com/kaktusztea/km100/wiki/STUDY.vertek.pancelok#v%C3%A9rtek-p%C3%A1nc%C3%A9lok-1)
+→ [TODO/ISSUE oldal](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.vertek.pancelok)
 
 Még vannak nyitott problémák, azokat még ki kell vasalni.
 
