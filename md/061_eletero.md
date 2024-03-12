@@ -41,6 +41,11 @@ Először jelöljük be a valós sebesülés okozta ÉP-ket, majd utána a Kábu
 Ha egy karakternek egy korábbi fejbekólintás okán vannak már `KT`-i és egy újabb – valós – sebet szerez, akkor az újabb sebet a legutolsó valós seb után írjuk be, a meglevő `KT`-ket pedig „toljuk lejjebb”. Ha `KT`-k hatására betelik az életerő táblázat, a karakter akkor is életben marad. Halált csak a valós `ÉP`-k 0-ra csökkenése okozhat.
 
 ---
+#### Valós ÉP seb elszenvedése Kábulat ÉP után
+
+Amennyiben a karakter életerő táblázatában van bármennyi KT, akkor egy újabb, - immár valós - ÉP seb elszenvedésekor először ezeket a KT jelölőket "alakítsuk" át valós sebbé és csak utána jelöljünk be újabb seb rubrikákat. Egyszerűen fogalmazva: egy valós sebzés először a KT-kat írja át és csak a "maradék" sebez újonnan. 
+
+---
 #### Túlcsordult Kábulat ÉP
 
 Amennyiben az életerő táblázat "betelt" és vannak benne Kábulat ÉP pontok, akkor a "túlcsorduló" bármilyen sebzés (ÉP, KT) felülről átírja a KT pontokat ÉP pontokra.
