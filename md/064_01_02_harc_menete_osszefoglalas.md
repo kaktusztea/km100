@@ -71,11 +71,11 @@ Fegyvermérettől függően előnyös/hátrányos helyzetű támadó (`1` penge 
 ### Dinamikus SP módosítók
 (Ezek a módosítók harc közben szituációtól függően adódhatnak hozzá az SP értékhez)
 
-| Módosító                            | Érték                                                           |
-| ----------------------------------- | --------------------------------------------------------------- |
-| Többszörös túlütés  <br>(20-anként) | `+3 SP`  (max `+9 SP`)                                          |
-| Roham                               | `+5 SP`                                                         |
-| 00-ás dobás                         | `+5 SP`, SFÉ nem számít  <br>Fárasztáskor: még `+5` VÉ csökk.** |
+| Módosító                            | Érték                                                             |
+| ----------------------------------- | ----------------------------------------------------------------- |
+| Többszörös túlütés  <br>(20-anként) | `+3 SP`  (max `+9 SP`)                                            |
+| Roham                               | `+5 SP`                                                           |
+| 00-ás dobás                         | `+5 SP`, SFÉ nem számít  <br>Fárasztáskor: még `+5` VÉ csökkentés |
 
 <br />
 
