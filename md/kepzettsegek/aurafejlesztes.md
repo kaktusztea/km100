@@ -12,8 +12,7 @@
 Lásd: [Aura](https://github.com/kaktusztea/km100/wiki/STUDY.magia.Aura#modell-a) (⭕link véglegesítése, ha kész⭕)
 
 <br />
-
-> Biztos tudás, követelmények
+##### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub> | Követelmény |
 |:---------------- |:---------------------------------------------------------------------------------- |:-----------:|
@@ -24,8 +23,7 @@ Lásd: [Aura](https://github.com/kaktusztea/km100/wiki/STUDY.magia.Aura#modell-a
 | Élő legenda (15) | xyz <br /> **Példa**: x                                                            |             |
 
 <br />
-
-> Próbák
+#####  Próbák
 
 | Célszám | Példa  |
 | :----------- | :----------- |
@@ -38,7 +36,7 @@ Lásd: [Aura](https://github.com/kaktusztea/km100/wiki/STUDY.magia.Aura#modell-a
 
 <br />
 
-> Célszámot módosító körülmények
+##### Célszámot módosító körülmények
 
 - ⭕xyz
 

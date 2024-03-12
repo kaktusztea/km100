@@ -16,7 +16,7 @@ A képzettség annyiban speciális, hogy a (harcmodorokhoz hasonlóan) a 3.szint
 
 <br />
 
-> Biztos tudás, követelmények
+##### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub>                                                                                                                                                                                                                      | xy  |                   Követelmény                    |
 | :--------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-- | :----------------------------------------------: |
@@ -28,7 +28,7 @@ A képzettség annyiban speciális, hogy a (harcmodorokhoz hasonlóan) a 3.szint
 
 <br />
 
-> Aktív próbák
+##### Aktív próbák
 
 Ilyenkor az Emberismeret egyfajta „radarként” működik, megpróbál a különböző jelek alapján következtetésekre jutni. Ez lehet tudatos, vagy tudatlan vizsgálódás, lényeg, hogy nem az alkalmazót, vagy személyiségét éri külső behatás más által (lásd Passzív próbáknál), hanem ő érzékel bizonyos jeleket.
 
@@ -47,7 +47,7 @@ Ilyenkor az Emberismeret egyfajta „radarként” működik, megpróbál a kül
 
 <br />
 
-> Célszámot módosító körülmények
+##### Célszámot módosító körülmények
 
 - Rövidebb a kontaktus ideje és/vagy kevésbé mély az alapesetnél: `[+1; +6]`
 - Hosszabb a kontaktus ideje és/vagy elmélyültebb az alapesetnél: `[-1; -6]`
@@ -56,7 +56,7 @@ Ilyenkor az Emberismeret egyfajta „radarként” működik, megpróbál a kül
 
 <br />
 
-> Passzív próbák
+##### Passzív próbák
 
 Az Emberismeret passzív alkalmazásként a karakter képes az őt célzó, nem mágikus megtévesztő hatások (például hazudik a csapos) felismerésére is: mikor egy karakter (nem mágikus) befolyással kíván élni egy másik karakterre, olyankor a KM - a karakter alakítását elbírálva (beleszámítva a karakter jellemrajzát is) megállapít egy célszámot, ami ellen a befolyásolni kívánt személynek Emberismeret próbát kell dobnia. (Ettől a KM különösen jó előadás és/vagy tökhülye áldozat esetén, vagy mert úgy tartja kedve - eltekinthet).
 

@@ -64,9 +64,9 @@ Ez egy speciális képzettség, melyre nem kell KP-t költeni. Minden karakter k
 * A Helyismeret értéke úgy változhat, hogy a KM egy kaland végén a `TP`-osztással együtt tetszés szerint ad pontot a karakterek Helyismeret képzettségére arra a helyre vonatkoztatva, ahol a kaland játszódott. Tehát ha a karakter a délvidékről származik és először volt Ifinben, akkor az eddig `0` értékű „Helyismeret – Ifin” képzettsége a kaland után akár `2`-re is nőhet, ha sok újdonságot tapasztalt a várossal kapcsolatban. Az ilyen értéknövelés nem igényel `KP` költést, "ingyenes".
 * Ha a karakter egy általa ismert várost magában foglaló országgal kapcsolatban dob Helyismeret képzettségpróbát, akkor használhatja a városra vonatkoztatott értékét `-3` büntetéssel.
 
-### 🟡[Történelemismeret](kepzettsegek/tortenelemismeret.md) - saját város
+### 🟡[Történelemismeret](kepzettsegek/tortenelemismeret.md) - saját régió
 
-Első szinten minden karakter megkapja `3-as szinten` a saját városára vonatkoztatott Történelemismeret képzettséget. Ez az érték természetesen `KP`-ból szabadon tovább növelhető, valamint más városokra is korlátozás nélkül felvehető `KP`-ból.
+Első szinten minden karakter megkapja `3-as szinten` a saját régiójára vonatkoztatott Történelemismeret (Átlagos) képzettséget. Ez az érték természetesen `KP`-ból szabadon tovább növelhető.
 
 ### 🟡[Vallásismeret](kepzettsegek/vallasismeret.md) - saját vallás
 
@@ -209,7 +209,7 @@ Festészet + (Pszeudó tul.) + k10   vs   Célszám
 
 🔴[Élettan](kepzettsegek/elettan.md) <sup><sub>(5%)</sub></sup>
 
-🔴[Történelemismeret](kepzettsegek/tortenelemismeret.md) (Ynev) 🔵[Történelemismeret - adott régió](kepzettsegek/tortenelemismeret.md) (pl. Toroni államszövetség, Pyarroni államszövetség) 🟢[Történelemismeret - adott város](kepzettsegek/tortenelemismeret.md) (Erion, Ifin, stb.) <sup><sub>(30%)</sub></sup> 🔁
+🔵[Történelemismeret - adott régió](kepzettsegek/tortenelemismeret.md) <sup><sub>(40%)</sub></sup> 🔁
 
 🔴[Hadászat](kepzettsegek/hadaszat.md) 🔵[Taktika](kepzettsegek/hadaszat.md) (vezetői tudás) (szakaszvezető) 🟢[Nehézlovas taktika](kepzettsegek/hadaszat.md), [Falanx taktika](kepzettsegek/hadaszat.md), [Íjász taktika](kepzettsegek/hadaszat.md), [Fejvadászok vezetése](kepzettsegek/hadaszat.md), [Testőrség vezetése](kepzettsegek/hadaszat.md), [Útonállás/Rajtaütés](kepzettsegek/hadaszat.md) (passzív tudásként is) 🔵[Stratégia](kepzettsegek/hadaszat.md) (elmélet) 🟢[Csatatervezés](kepzettsegek/hadaszat.md), [Hadtáp](kepzettsegek/hadaszat.md) <sup><sub>(0%)</sub></sup> 🔁
 

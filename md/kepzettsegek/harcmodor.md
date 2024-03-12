@@ -20,7 +20,7 @@ Ezek a képzettségek - szintjüktől függően - büntetéseket/bónuszokat adn
 
 <br />
 
-> Biztos tudás, követelmények
+##### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub>                                                                   |  Követelmény  |
 |:---------------- |:---------------------------------------------------------------------------------------------------------------------------------------------------- |:-------------:|

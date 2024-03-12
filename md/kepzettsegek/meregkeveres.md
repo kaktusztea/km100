@@ -13,7 +13,7 @@
 <br />
 
 ---
-> Biztos tudás, követelmények
+##### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub>                                                                                                                 |       Követelmény        |
 | :--------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------: |
@@ -25,7 +25,7 @@
 
 <br />
 
-> Próbák
+##### Próbák
 
 A méreg kikeverése **Méregkeverés** képzettpróbához kötött, amelynek célszáma a **Méreg szintjével** azonos.\
 A **Méreg szintjének** számítása a [Méregrendszer](../130_meregrendszer.md) fejezetben található.
@@ -41,13 +41,13 @@ A **Méreg szintjének** számítása a [Méregrendszer](../130_meregrendszer.md
 
 <br />
 
-> Erős Összhangok
+##### Erős Összhangok
 - Alkímia
 - Vajákosság 
 
 <br />
 
-> Megjegyzések 
+##### Megjegyzések 
 - Méreganyagok kivonásához növényből/állatból a **Vajákosság**, ásványokból az **Alkímia** képzettség szükséges. Emiatt:
 - Méreg alapanyagok követelménye: `(Alkimia + Vajákosság) >= (méreg szintje / 2)`
   - Például: méreg szintje: `16`, ez `8`-as követelmény: `(alkimia+vajákosság)` szint összege legalább `8` legyen.
