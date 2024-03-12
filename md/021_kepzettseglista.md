@@ -68,9 +68,9 @@ Ez egy speciális képzettség, melyre nem kell KP-t költeni. Minden karakter k
 
 Első szinten minden karakter megkapja `3-as szinten` a saját régiójára vonatkoztatott Történelemismeret (Átlagos) képzettséget. Ez az érték természetesen `KP`-ból szabadon tovább növelhető.
 
-### 🟡[Vallásismeret](kepzettsegek/vallasismeret.md) - saját vallás
+### 🟡[Vallásismeret](kepzettsegek/vallasismeret.md) - saját pantheon
 
-Első szinten minden karakter megkapja `3-as szinten` a saját vallására vonatkoztatott Vallásismeret képzettséget. Ez az érték természetesen `KP`-ból szabadon tovább növelhető, valamint más vallásokra is felvehető `KP`-ból, amennyiben ezt az előtörténet indokolja és a KM is engedélyezi.
+Első szinten minden karakter megkapja `3-as szinten` a saját vallási pantheonjára vonatkoztatott Vallásismeret (Átlagos) képzettséget. Ez az érték természetesen `KP`-ból szabadon tovább növelhető.
 
 ### 🟡[Nyelvismeret](kepzettsegek/nyelvismeret.md) - saját nyelv
 
@@ -213,7 +213,7 @@ Festészet + (Pszeudó tul.) + k10   vs   Célszám
 
 🔴[Hadászat](kepzettsegek/hadaszat.md) 🔵[Taktika](kepzettsegek/hadaszat.md) (vezetői tudás) (szakaszvezető) 🟢[Nehézlovas taktika](kepzettsegek/hadaszat.md), [Falanx taktika](kepzettsegek/hadaszat.md), [Íjász taktika](kepzettsegek/hadaszat.md), [Fejvadászok vezetése](kepzettsegek/hadaszat.md), [Testőrség vezetése](kepzettsegek/hadaszat.md), [Útonállás/Rajtaütés](kepzettsegek/hadaszat.md) (passzív tudásként is) 🔵[Stratégia](kepzettsegek/hadaszat.md) (elmélet) 🟢[Csatatervezés](kepzettsegek/hadaszat.md), [Hadtáp](kepzettsegek/hadaszat.md) <sup><sub>(0%)</sub></sup> 🔁
 
-🔴[Vallásismeret](kepzettsegek/vallasismeret.md) (általános) 🔵[Vallásismeret](kepzettsegek/vallasismeret.md) <sup><sub>(10%)</sub></sup> (adott hitvilág) 🔁
+ 🔵[Vallásismeret](kepzettsegek/vallasismeret.md) <sup><sub>(10%)</sub></sup> (adott pantheon) 🔁
 
 🔴[Méregkeverés](kepzettsegek/meregkeveres.md) <sup><sub>(90%)</sub></sup>
 

@@ -1,13 +1,7 @@
-#### 🔴 Vallásismeret
+#### 🔵 Vallásismeret (adott pantheon)
 
-Általános.
+Többször felvehető.
 
-#### 🔵 Vallásismeret (adott hitvilág)
+🔆 Első szinten minden karakter megkapja `3-as szinten` a saját vallási pantheonjára vonatkoztatott Vallásismeret képzettséget. Ez az érték természetesen `KP`-ból szabadon tovább növelhető.
 
-xyz
-
-🔆 Első szinten minden karakter megkapja `3-as szinten` a saját vallására vonatkoztatott Vallásismeret képzettséget. Ez az érték természetesen `KP`-ból szabadon tovább növelhető, valamint más vallásokra is felvehető `KP`-ból, amennyiben ezt az előtörténet indokolja és a KM is engedélyezi.
-
-#### 🟢 Vallásismeret spec - ⭕LEGYEN??⭕
-
-xyz
+A képzettség (immár `0`-ról növelve) természetesen más pantheonokra is felvehető `KP`-ból, amennyiben ezt az előtörténet indokolja és a KM is engedélyezi.
