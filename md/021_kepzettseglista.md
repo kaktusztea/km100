@@ -2,12 +2,14 @@
 
 🔴Átfogó képzettség 🔵Átlagos képzettség 🟢Specializáció
 
-🟡Különleges képzettség 🔆Megjegyzés ⭕TODO, kérdéses
+🟡Különleges képzettség, 🔁Többször felvehető, 🔆Megjegyzés ⭕TODO, kérdéses
 
 ---
 
 ```
-→ Primer ismeretek alá tartozó képzettségek: minden harci, misztikus, mágikus képzettség + Észlelés, Összpontosítás, Fájdalomtűrés
+→ Primer ismeretek alá tartozó képzettségek: minden harci, misztikus, mágikus képzettség
+                                             + Észlelés, Összpontosítás, Fájdalomtűrés,
+                                             + Akrobatika, Lopakodás/rejtőzés
 → Szekunder ismeretek alá tartozó képzettségek: minden más képzettség
 ```
 
@@ -118,21 +120,21 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv 
 
 🔵[Értékbecslés](kepzettsegek/ertekbecsles.md) <sup><sub>(0%)</sub></sup>
 
-🔵[Etikett](kepzettsegek/etikett.md) (adott kultúrkör)  <sup><sub>(100%)</sub></sup>
+🔵[Etikett](kepzettsegek/etikett.md) (adott kultúrkör)  <sup><sub>(100%)</sub></sup> 🔁
 
 🔵[Hajózás](kepzettsegek/hajozas.md) <sup><sub>(0%)</sub></sup>
 
-🔵[Idomítás](kepzettsegek/idomitas.md) (állatcsoport) (többször felvehető) <sup><sub>20%)</sub></sup>
+🔵[Idomítás](kepzettsegek/idomitas.md) (állatcsoport) <sup><sub>20%)</sub></sup> 🔁
 
 🔵[Keresés](kepzettsegek/kereses.md) <sup><sub>(10%)</sub></sup>
 
 🔵[Emberismeret](kepzettsegek/emberismeret.md) <sup><sub>(90%)</sub></sup>
 
-🔵[Szakma](kepzettsegek/szakma.md): ács, kőműves, borbély, kádár, varga, szűcs, cserző, (fegyver)kovács, gazdálkodás(birtok), ékszerész, molnár, pék, szabó, kötélgyártó, lakatos, rejtjelfejtő <sup><sub>(20%)</sub></sup>
+🔵[Szakma](kepzettsegek/szakma.md): ács, kőműves, borbély, kádár, varga, szűcs, cserző, (fegyver)kovács, gazdálkodás(birtok), ékszerész, molnár, pék, szabó, kötélgyártó, lakatos, rejtjelfejtő <sup><sub>(20%)</sub></sup> 🔁
 
 🔵[Szexuális kultúra](kepzettsegek/szexualis_kultura.md) <sup><sub>(0%)</sub></sup>
 
-🔵[Természetjárás](kepzettsegek/termeszetjaras.md) (adott tájtípus) (többször felvehető) <sup><sub>(20%)</sub></sup>
+🔵[Természetjárás](kepzettsegek/termeszetjaras.md) (adott tájtípus) <sup><sub>(20%)</sub></sup> 🔁
 
 🔵[Vajákosság](kepzettsegek/vajakossag.md) <sup><sub>(40%)</sub></sup>
 
@@ -179,17 +181,17 @@ Festészet + (Pszeudó tul.) + k10   vs   Célszám
 
 🔵[Kalligráfia](kepzettsegek/kalligrafia.md) <sup><sub>(5%)</sub></sup> 
 
-🔵[Irodalom](kepzettsegek/irodalom.md) 🟢[Irodalom ismeret](kepzettsegek/irodalom.md) (adott régió) <sup><sub>(40%)</sub></sup>
+🔵[Irodalom](kepzettsegek/irodalom.md) 🟢[Irodalom ismeret](kepzettsegek/irodalom.md) (adott régió) <sup><sub>(40%)</sub></sup> 🔁
 
 🔵[Tánc](kepzettsegek/tanc.md) <sup><sub>(20%)</sub></sup> 
 
 🔵[Zeneszerző](kepzettsegek/zeneszerzo.md)
 
-🔵[Zenélés](kepzettsegek/zeneles.md) (hangszercsoport) (többször felvehető) <sup><sub>(10%)</sub></sup>
+🔵[Zenélés](kepzettsegek/zeneles.md) (hangszercsoport) <sup><sub>(10%)</sub></sup> 🔁
 
 ## Tudományos képzettségek
 
-🟢[Nyelvismeret](kepzettsegek/nyelvismeret.md) (adott nyelv) (többször felvehető) <sup><sub>(40%)</sub></sup>
+🟢[Nyelvismeret](kepzettsegek/nyelvismeret.md) (adott nyelv) <sup><sub>(40%)</sub></sup> 🔁
 
 🔵[Építészet](kepzettsegek/epiteszet.md) <sup><sub>(0%)</sub></sup>
 
@@ -197,9 +199,9 @@ Festészet + (Pszeudó tul.) + k10   vs   Célszám
 
 🔵[Ősi kultúrák ismerete](kepzettsegek/osi_kulturak_ismerete.md) (Külön ősi kultúránként) (Történem és Vallásismeret is egyben) <sup><sub>(25%)</sub></sup>
 
-🔴[Ősi nyelv ismerete](kepzettsegek/osi_nyelv_ismerete.md) (Külön ősi nyelvenként) <sup><sub>(0%)</sub></sup>
+🔴[Ősi nyelv ismerete](kepzettsegek/osi_nyelv_ismerete.md) (Külön ősi nyelvenként) <sup><sub>(0%)</sub></sup> 🔁
 
-🔵[Jogismeret](kepzettsegek/jogismeret.md) (adott kultúrkör) (Pyarroni államszövetség, Toron, stb) <sup><sub>(0%)</sub></sup>
+🔵[Jogismeret](kepzettsegek/jogismeret.md) (adott kultúrkör) (Pyarroni államszövetség, Toron, stb) <sup><sub>(0%)</sub></sup> 🔁
 
 🔵[Alkímia](kepzettsegek/alkimia.md) <sup><sub>(0%)</sub></sup>
 
@@ -207,11 +209,11 @@ Festészet + (Pszeudó tul.) + k10   vs   Célszám
 
 🔴[Élettan](kepzettsegek/elettan.md) <sup><sub>(5%)</sub></sup>
 
-🔴[Történelemismeret](kepzettsegek/tortenelemismeret.md) (Ynev) 🔵[Történelemismeret - adott régió](kepzettsegek/tortenelemismeret.md) (pl. Toroni államszövetség, Pyarroni államszövetség) 🟢[Történelemismeret - adott város](kepzettsegek/tortenelemismeret.md) (Erion, Ifin, stb.) <sup><sub>(30%)</sub></sup>
+🔴[Történelemismeret](kepzettsegek/tortenelemismeret.md) (Ynev) 🔵[Történelemismeret - adott régió](kepzettsegek/tortenelemismeret.md) (pl. Toroni államszövetség, Pyarroni államszövetség) 🟢[Történelemismeret - adott város](kepzettsegek/tortenelemismeret.md) (Erion, Ifin, stb.) <sup><sub>(30%)</sub></sup> 🔁
 
-🔴[Hadászat](kepzettsegek/hadaszat.md) 🔵[Taktika](kepzettsegek/hadaszat.md) (vezetői tudás) (szakaszvezető) 🟢[Nehézlovas taktika](kepzettsegek/hadaszat.md), [Falanx taktika](kepzettsegek/hadaszat.md), [Íjász taktika](kepzettsegek/hadaszat.md), [Fejvadászok vezetése](kepzettsegek/hadaszat.md), [Testőrség vezetése](kepzettsegek/hadaszat.md), [Útonállás/Rajtaütés](kepzettsegek/hadaszat.md) (passzív tudásként is) 🔵[Stratégia](kepzettsegek/hadaszat.md) (elmélet) 🟢[Csatatervezés](kepzettsegek/hadaszat.md), [Hadtáp](kepzettsegek/hadaszat.md) <sup><sub>(0%)</sub></sup>
+🔴[Hadászat](kepzettsegek/hadaszat.md) 🔵[Taktika](kepzettsegek/hadaszat.md) (vezetői tudás) (szakaszvezető) 🟢[Nehézlovas taktika](kepzettsegek/hadaszat.md), [Falanx taktika](kepzettsegek/hadaszat.md), [Íjász taktika](kepzettsegek/hadaszat.md), [Fejvadászok vezetése](kepzettsegek/hadaszat.md), [Testőrség vezetése](kepzettsegek/hadaszat.md), [Útonállás/Rajtaütés](kepzettsegek/hadaszat.md) (passzív tudásként is) 🔵[Stratégia](kepzettsegek/hadaszat.md) (elmélet) 🟢[Csatatervezés](kepzettsegek/hadaszat.md), [Hadtáp](kepzettsegek/hadaszat.md) <sup><sub>(0%)</sub></sup> 🔁
 
-🔴[Vallásismeret](kepzettsegek/vallasismeret.md) (általános) 🔵[Vallásismeret](kepzettsegek/vallasismeret.md) <sup><sub>(10%)</sub></sup> (adott hitvilág) 
+🔴[Vallásismeret](kepzettsegek/vallasismeret.md) (általános) 🔵[Vallásismeret](kepzettsegek/vallasismeret.md) <sup><sub>(10%)</sub></sup> (adott hitvilág) 🔁
 
 🔴[Méregkeverés](kepzettsegek/meregkeveres.md) <sup><sub>(90%)</sub></sup>
 
