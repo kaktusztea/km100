@@ -45,8 +45,7 @@ Vajákosság szint követelmény: `Gyógyítandó ÉP / 2`
 <br />
 
 ---
-
-> Biztos tudás, követelmények
+##### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub>                                              | Követelmény |
 | :--------------- | :------------------------------------------------------------------------------------------------------------------------------ | :---------: |
@@ -58,14 +57,14 @@ Vajákosság szint követelmény: `Gyógyítandó ÉP / 2`
 
 <br />
 
-> Összhangok
+##### Összhangok
 
 - [Élettan](elettan.md): **Erős Összhang**
 - Vajákosság **NEM** ad Összhangot, mert az csak a gyógyszer komponens beszerzésének követelménye.
 
 <br />
 
-> Próbák
+##### Próbák
 
 | Célszám | Példa  |
 | :----------- | :----------- |
@@ -78,6 +77,6 @@ Vajákosság szint követelmény: `Gyógyítandó ÉP / 2`
 
 <br />
 
-> Célszámot módosító körülmények
+##### Célszámot módosító körülmények
 
 - ⭕xyz

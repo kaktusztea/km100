@@ -18,7 +18,7 @@ Többször felvehető.
 
 <br />
 
-> Biztos tudás, követelmények
+##### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub> | Követelmény |
 | :--------------- | :--------------------------------------------------------------------------------- | :---------: |
@@ -30,7 +30,7 @@ Többször felvehető.
 
 <br />
 
-> Próbák
+##### Próbák
 
 | Célszám | Példa  |
 | :----------- | :----------- |
@@ -43,7 +43,7 @@ Többször felvehető.
 
 <br />
 
-> Célszámot módosító körülmények
+##### Célszámot módosító körülmények
 
 - ⭕xyz
 

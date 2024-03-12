@@ -20,7 +20,7 @@ Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-
 
 <br />
 
-> Biztos tudás, követelmények
+##### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub> | Követelmény |
 | :--------------- | :--------------------------------------------------------------------------------- | :---------: |
@@ -32,7 +32,7 @@ Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-
 
 <br />
 
-> Próbák
+##### Próbák
 
 **Alapeset**: kőpadló, nem zajos ruha, félhomály (közepes fáklyafény), gyenge alapzaj (pl. tücsök cirip, fáklya ropogás)
 
@@ -47,6 +47,6 @@ Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-
 
 <br />
 
-> Célszámot módosító körülmények
+##### Célszámot módosító körülmények
 
 - ⭕xyz

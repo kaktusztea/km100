@@ -18,7 +18,7 @@ Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-
 A képzettség szituációs alkalmazásáról bővebben az [Érzékelés, észlelés](../140_erzekeles_eszleles.md) fejezetben olvashatsz.
 <br />
 
-> Biztos tudás, követelmények
+##### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub>                                           |   Követelmény    |
 | :--------------- | :--------------------------------------------------------------------------------------------------------------------------- | :--------------: |
@@ -30,7 +30,7 @@ A képzettség szituációs alkalmazásáról bővebben az [Érzékelés, észle
 
 <br />
 
-> Próbák
+##### Próbák
 
 | Célszám | Példa  |
 | :----------- | :----------- |
@@ -43,7 +43,7 @@ A képzettség szituációs alkalmazásáról bővebben az [Érzékelés, észle
 
 <br />
 
-> Célszámot módosító körülmények
+##### Célszámot módosító körülmények
 
 - Zavaró körülmények: `[+1;+6]`
 - Ha az észlelés aktív: `-3` (egy kategória)

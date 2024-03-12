@@ -26,7 +26,7 @@ Menet felfelé:
 
 <br />
 
-> Biztos tudás, követelmények
+##### Biztos tudás, követelmények
 
 Ha a terep (próba) nehézsége nem nagyobb a a Mászás képzettségnél, akkor azon a terepen a mászó bárhol képes megállva kipihenni magát.
 
@@ -40,13 +40,13 @@ Ha a terep (próba) nehézsége nem nagyobb a a Mászás képzettségnél, akkor
 
 <br />
 
-> Összhang
+##### Összhang
 
 Az [Akrobatika](akrobatika.md) képzettség - helyzettől és a KM döntésétől függően - működhet [Összhangként](../020_kepzettsegrendszer.md#%C3%B6sszhangok).
 
 <br />
 
-> Próbák
+##### Próbák
 
 | Célszám | Példa  |
 | :----------- | :----------- |
@@ -59,7 +59,7 @@ Az [Akrobatika](akrobatika.md) képzettség - helyzettől és a KM döntésétő
 
 <br />
 
-> Célszámot módosító körülmények
+##### Célszámot módosító körülmények
 
 - Gyorsan mászni: +3
 - Sötétben mászni: +[3-6]
@@ -70,7 +70,7 @@ Az [Akrobatika](akrobatika.md) képzettség - helyzettől és a KM döntésétő
 
 <br />
 
-> **Edzettség és Erő**
+##### Edzettség és Erő
 
 Rontott Mászás próba esetén dobható – a rontás mértékétől függő – Edzettségpróba (`1 pont rontás: Könnyű próba`, `2 pont rontás: Átlagos próba`, stb), hogy a kritikus (rontott) szituációban képes -e megtartani magát a mászó. Ha nem, lehullik, mint a falevél, ha igen, sikerül megkapaszkodnia egy stabil pozícióban. Az Edzettségpróbára „rátehet” a karakter az `Erő` tulajdonságából, kvázi erőtartalékait felemésztve. Ennek viszont ára van: az így átcsoportosított Erő pontok elvesznek, és óránként csak `1` tér vissza (⭕vagy esetleg inkább 10 percenként 1⭕).
 
@@ -78,7 +78,7 @@ Rontott Mászás próba esetén dobható – a rontás mértékétől függő �
 
 <br />
 
-> **Önuralom**
+##### Önuralom
 
 Ha a próbát nagyon kiélezett, életveszélyes helyzetben rontja el a karakter, a KM dönthet úgy, hogy `Önuralom` próbát dobat. Ha ez nincs meg, akkor a KM-nek jogában áll, hogy tetszőlegesen nagy `Erő` tulajdonság tartalékot felhasználtasson a karakterrel (adrenalin hatása). Így jó eséllyel meg tud kapaszkodni, de minden erőtartalékát feléli, gyakorlatilag remegve a falhoz tapadva marad, további mászása erősen kérdéses, segítségre szorul.
 
@@ -86,7 +86,7 @@ Hogy egy karakter hányas `Erő` tulajdonsággal képes még továbbmászni, az 
 
 <br />
 
-> Példa ⚡
+##### Példa ⚡
 
 ⚡ Részlet Tetves, a tolvaj küzdelmes útjából a **Szent Vágránáf ereklyéjét** őrző **Wakzahanbarr** erődmonostor cigiterasza alatti sziklafalon:
 

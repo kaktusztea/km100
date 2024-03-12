@@ -12,7 +12,7 @@ Ha nincs épp Etikett az adott szituációban szükséges kultúrkörből, akkor
 
 <br />
 
-> Biztos tudás, követelmények
+##### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub>                                                                                                  |                   Követelmény                    |
 |:---------------- |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:------------------------------------------------:|
@@ -24,7 +24,7 @@ Ha nincs épp Etikett az adott szituációban szükséges kultúrkörből, akkor
 
 <br />
 
-> Próbák
+##### Próbák
 
 | Célszám | Példa  |
 | ----------- | :----------- |
@@ -37,6 +37,6 @@ Ha nincs épp Etikett az adott szituációban szükséges kultúrkörből, akkor
 
 <br />
 
-> Célszámot módosító körülmények
+##### Célszámot módosító körülmények
 
 - Bódult, részeg állapotban: `+[1-6]`

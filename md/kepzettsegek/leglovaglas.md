@@ -12,7 +12,7 @@
 
 <br />
 
-> Biztos tudás, követelmények
+##### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub>                                                                                 |   Követelmény    |
 | :--------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------: |
@@ -24,7 +24,7 @@
 
 <br />
 
-> Próbák
+##### Próbák
 
 | Célszám              | Példa                                                                                                                   |
 | :------------------- | :---------------------------------------------------------------------------------------------------------------------- |
@@ -37,7 +37,7 @@
 
 <br />
 
-> Célszámot módosító körülmények
+##### Célszámot módosító körülmények
 
 - Vad hátas: + [1-3]
 - Más fajú légi hátas esetén: [Lénylovas](../042_bonusz_hatterek.md#-l%C3%A9nylovas-faj-neve) Bónusz-Háttér
