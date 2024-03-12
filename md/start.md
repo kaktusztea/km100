@@ -95,3 +95,4 @@
 ## [🚧 Fejlesztő portál 🚧](https://github.com/kaktusztea/km100/wiki)
 
 ---
+
