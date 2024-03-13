@@ -8,6 +8,7 @@
 - [Fakír](fortelyok.altalanos/fakir.md)
 - [Gyöngyhalász](fortelyok.altalanos/gyongyhalasz.md) 🔺
 - [Hangutánzás](fortelyok.altalanos/hangutanzas.md)
+- [Irodalmár](fortelyok.altalanos/irodalmar.md)
 - [Kitartás](fortelyok.altalanos/kitartas.md)
 - [Kocsihajtás](fortelyok.altalanos/kocsihajtas.md)
 - [Sprint](fortelyok.altalanos/sprint.md)
