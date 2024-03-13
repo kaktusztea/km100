@@ -211,7 +211,9 @@ Festészet + (Pszeudó tul.) + k10   vs   Célszám
 
 🔵[Történelemismeret - adott régió](kepzettsegek/tortenelemismeret.md) <sup><sub>(40%)</sub></sup> 🔁
 
-🔴[Hadászat](kepzettsegek/hadaszat.md) 🔵[Taktika](kepzettsegek/hadaszat.md) (vezetői tudás) (szakaszvezető) 🟢[Nehézlovas taktika](kepzettsegek/hadaszat.md), [Falanx taktika](kepzettsegek/hadaszat.md), [Íjász taktika](kepzettsegek/hadaszat.md), [Fejvadászok vezetése](kepzettsegek/hadaszat.md), [Testőrség vezetése](kepzettsegek/hadaszat.md), [Útonállás/Rajtaütés](kepzettsegek/hadaszat.md) (passzív tudásként is) 🔵[Stratégia](kepzettsegek/hadaszat.md) (elmélet) 🟢[Csatatervezés](kepzettsegek/hadaszat.md), [Hadtáp](kepzettsegek/hadaszat.md) <sup><sub>(0%)</sub></sup> 🔁
+🔵[Taktika](kepzettsegek/taktika.md) <sup><sub>(0%)</sub></sup> 🔁
+
+🔵[Stratégia](kepzettsegek/taktika.md) <sup><sub>(0%)</sub></sup> 🔁
 
  🔵[Vallásismeret](kepzettsegek/vallasismeret.md) <sup><sub>(10%)</sub></sup> (adott pantheon) 🔁
 
