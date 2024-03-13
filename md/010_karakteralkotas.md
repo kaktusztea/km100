@@ -606,13 +606,12 @@ Szekunder képzettségek max: (szint x 6)
 **🔆Fontos:**\
 ez utóbbi (Emlékezethez kapcsolt pontok) kizárólag **Szekunder** ismeretekre költhetőek!
 
-A karakterek 1. szinten `100 KP`-t (KP Alap), valamint minden szinten (elsőn is) `120 + (2 x Intelligencia) KP`-t kapnak. Ezen felül további `50 + (2 x Emlékezet) KP` jár szintenként, amit csak olyan ismeretre fordíthatnak, amelyek a [Szekunder ismeretek](#primer-%C3%A9s-szekunder-ismeretek-kateg%C3%B3ri%C3%A1i) csoportjába tartoznak. A játékosnak a fenti Karakter Pontjaiból kell felvennie a következőket:
+A karakterek 1. tapasztalati-szinten (TSz) `100 KP`-t (KP Alap), valamint minden tapasztalati-szinten (elsőn is) `120 + (2 x Intelligencia) KP`-t kapnak. Ezen felül további `50 + (2 x Emlékezet) KP` jár tapasztalati-szintenként, amit csak olyan ismeretre fordíthatnak, amelyek a [Szekunder ismeretek](#primer-%C3%A9s-szekunder-ismeretek-kateg%C3%B3ri%C3%A1i) csoportjába tartoznak. A játékosnak a fenti Karakter Pontjaiból kell felvennie a következőket:
 
 - Képzettségek
-  - Primer képzettségek szintje legfeljebb `szint+3` lehet
-  - Szekunder képzettség értéke pedig legfeljebb `szint+6` lehet
-  - Szintlépéskor `legfeljebb 2-vel` növelhetőek a képzettségek, kivéve, ha 0-ról akar valaki egy képzettséget tanulni (ilyenkor szintlépéskor `maximum 3.szintre` növelheti egy lépésben a képzettséget).
-  - Egy **Átlagos**, vagy **Specializáció** képzettség `legfeljebb 3`-al lehet magasabb, mint az őt magába foglaló **Átfogó**, vagy **Átlagos** képzettség. Ha nincs fölé tartozó képzettség (pl. Nyelvismeret esetén), akkor természetesen nincs felső korlát.
+  - Primer képzettségek szintje legfeljebb `Tsz+3` lehet
+  - Szekunder képzettségek értéke legfeljebb `Tsz+6` lehet
+  - Tapasztalati-szint lépéskor `legfeljebb 2-vel` növelhetőek a képzettségek, kivéve, ha `0`-ról akar valaki egy képzettséget tanulni (ilyenkor tapasztalati-szint lépéskor `maximum 3.szintre` növelheti egy lépésben a képzettséget).
   - A képzettségek egyes kiemelt szintjeinek is lehetnek követelményei! Magas szinten főleg.
 
 ````diff
@@ -628,11 +627,11 @@ A karakterek 1. szinten `100 KP`-t (KP Alap), valamint minden szinten (elsőn is
 
 - Harcérték módosítók (HM) / Célzóérték módosítók (CM)
   - `1 HM/CM = 5 KP`
-  - `maximum (6+Ügyesség) HM / szint` költhető\
+  - `maximum (6+Ügyesség) HM / Tsz` költhető\
     (HM = „puszta kezes" HM, amibe a TÉ és VÉ tartozik bele)
-  - `max 4 CM/szint`\
+  - `max 4 CM/Tsz`\
     (CM = Célzó Érték Módosító, ami a CÉ-re fordítandó harcérték módosítót jelöli)
-  - ⭕`max 5 HM/szint` tehető egy harcértékre⭕
+  - ⭕`max 5 HM/Tsz` tehető egy harcértékre⭕
   
 - Mágiaiskolák: **Átfogó** képzettségek. Csak azok a mágiaiskolák tanulhatóak, amelyek a karakter által ismert mágia tradíció alá tartoznak.
 
@@ -643,10 +642,10 @@ A karakterek 1. szinten `100 KP`-t (KP Alap), valamint minden szinten (elsőn is
 ## Manőverek, Manőver Fejlesztő Pontok
 
 Például Lábsöprés, Lefegyverzés, Átdobás, stb.\
-Kivételek, mert **NEM** KP-ba, hanem Manőverfejlesztő Pontba (`MFP`) kerülnek, amit automatikusan, ingyen kap meg a játékos.
+Kivételek, mert **NEM** KP-ba, hanem Manőverfejlesztő Pontokba (`MFP`) kerülnek, amelyeket automatikusan, ingyen kap meg a játékos.
 
 ```
-Σ MFP = összes nem-távolsági harcmodor képzettségszintek összege
+Σ MFP = (összes nem-távolsági harcmodor képzettségszintek összege) / 3
 ```
 
 Nem mind fejleszthető MFP-ből, van amit ráköltés nélkül simán „meg lehet csinálni". De a legtöbb puszta végrehajtásának is van szituációs, vagy egyéb követelménye.
