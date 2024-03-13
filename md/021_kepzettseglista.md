@@ -177,11 +177,11 @@ Festészet + (Pszeudó tul.) + k10   vs   Célszám
 
 🔵[Festészet](kepzettsegek/festeszet.md) <sup><sub>(5%)</sub></sup> 
 
-🔵[Szobrászat](kepzettsegek/szobraszat.md) <sup><sub>(5%)</sub></sup> 
+🟢[Irodalom ismeret](kepzettsegek/irodalom_ismeret.md) (adott régió) <sup><sub>(40%)</sub></sup> 🔁
 
 🔵[Kalligráfia](kepzettsegek/kalligrafia.md) <sup><sub>(5%)</sub></sup> 
 
-🔵[Irodalom](kepzettsegek/irodalom.md) 🟢[Irodalom ismeret](kepzettsegek/irodalom.md) (adott régió) <sup><sub>(40%)</sub></sup> 🔁
+🔵[Szobrászat](kepzettsegek/szobraszat.md) <sup><sub>(5%)</sub></sup> 
 
 🔵[Tánc](kepzettsegek/tanc.md) <sup><sub>(20%)</sub></sup> 
 
