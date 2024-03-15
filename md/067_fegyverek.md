@@ -139,22 +139,22 @@ Puszta kéz:  KÉ:-10,  TÉ:0,  VÉ:-10
 ---
 ### Pusztító fegyverek harcértékei
      
-| **Fegyver**                               | Forgatás módja | SP  | Sebzés módja           | **Átütés** | **Pengehossz** | KÉ  | TÉ  | VÉ  | Sebesség | Speciális                                                                      |
-| ----------------------------------------- | -------------- | --- | ---------------------- | ---------- | -------------- | --- | --- | --- | -------- | ------------------------------------------------------------------------------ |
-| ⭕Balta                                   | egykezes       |     |                        | 0          |                |     |     |     |          |                                                                                |
-| ⭕Bot, rövid                              | egykezes       |     |                        | 0          |                |     |     |     |          |                                                                                |
-| ⭕Bot, furkós                             | egykezes       |     |                        | 0          |                |     |     |     |          |                                                                                |
-| Buzogány, egykezes                        | egykezes       | 5   | Z                      | 0          | 1 penge        | 4   | 12  | 8   | 7        |                                                                                |
-| ⭕Buzogány, kétkezes                      | kétkezes       |     |                        | 0          |                |     |     |     |          |                                                                                |
-| ⭕Buzogány, láncos                        | egykezes       |     |                        |            |                |     |     |     |          | Pajzs VÉ a fele! (?)                                                           |
-| ⭕Buzogány, shadleki                      | ??             |     |                        |            |                |     |     |     |          |                                                                                |
-| ⭕Buzogány, tollas                        | egykezes       |     |                        | !          |                |     |     |     |          |                                                                                |
-| ⭕Buzogány, tüskés  <br />_csatacsillag_? | egykezes       |     |                        | !!         |                |     |     |     |          |                                                                                |
-| Csatabárd, egykezes                       | egykezes       | +4  | V  <br />(néha szúrás) | ??         | 0,5 penge      | 4   | 8   | 8   | 6        |                                                                                |
-| Csatabárd, kétkezes                       | kétkezes       | +8  | ??                     | ??         | 1,5 penge      | 8   | 16  | 16  |          |                                                                                |
-| Csatacsákány                              | egykezes       | +3  | S?                     | 10 !       | 1 penge        | 4   | 8   | 8   |          | Nagyon vérzik<br />50% az esély, hogy beragad és nem lehet kihúzni harc közben |
-| ⭕Cséphadaró                              | kétkezes       |     |                        | 0          |                |     |     |     |          | EZ NEM SZÁLFEGYVER?                                                            |
-| ⭕Harci kalapács                          | ??             |     |                        |            |                |     |     |     |          |                                                                                |
+| **Fegyver**                             | Forgatás módja | SP   | Sebzés módja           | **Átütés** | **Pengehossz** | KÉ  | TÉ   | VÉ   | Sebesség | Speciális                                                                      |
+| --------------------------------------- | -------------- | ---- | ---------------------- | ---------- | -------------- | --- | ---- | ---- | -------- | ------------------------------------------------------------------------------ |
+| Balta                                   | egykezes       |      |                        | `0`        |                |     |      |      |          |                                                                                |
+| Bot, rövid                              | egykezes       |      |                        | `0`        |                |     |      |      |          |                                                                                |
+| Bot, furkós                             | egykezes       |      |                        | `0`        |                |     |      |      |          |                                                                                |
+| Buzogány, egykezes                      | egykezes       | `5`  | Z                      | `0`        | 1 penge        | `4` | `12` | `8`  | `7`      |                                                                                |
+| Buzogány, kétkezes                      | kétkezes       |      |                        | `0`        |                |     |      |      |          |                                                                                |
+| Buzogány, láncos                        | egykezes       |      |                        |            |                |     |      |      |          | Pajzs VÉ a fele! (?)                                                           |
+| Buzogány, shadleki                      | ??             |      |                        |            |                |     |      |      |          |                                                                                |
+| Buzogány, tollas                        | egykezes       |      |                        | ⭕!         |                |     |      |      |          |                                                                                |
+| Buzogány, tüskés  <br />_csatacsillag_? | egykezes       |      |                        | ⭕!!        |                |     |      |      |          |                                                                                |
+| Csatabárd, egykezes                     | egykezes       | `+4` | V  <br />(néha szúrás) | ??         | 0,5 penge      | `4` | `8`  | `8`  | `6`      |                                                                                |
+| Csatabárd, kétkezes                     | kétkezes       | `+8` | ??                     | ??         | 1,5 penge      | `8` | `16` | `16` |          |                                                                                |
+| Csatacsákány                            | egykezes       | `+3` | S?                     | `10` !     | 1 penge        | `4` | `8`  | `8`  |          | Nagyon vérzik<br />50% az esély, hogy beragad és nem lehet kihúzni harc közben |
+| Cséphadaró                              | kétkezes       |      |                        | `0`        |                |     |      |      |          | ⭕EZ NEM SZÁLFEGYVER?                                                           |
+| Harci kalapács                          | ??             |      |                        |            |                |     |      |      |          |                                                                                |
 
 ---
 ### Lándzsavívó fegyverek harcértékei
@@ -172,14 +172,14 @@ A fenti alól kivétel, ha két oldalról határolva és onnan nem fenyegetve, e
 
 ⭕Méret: MGT bejön nagy méretnél⭕
 
-| **Fegyver**         | Forgatás módja | SP  | Sebzés módja | **Átütés** | **Pengehossz** | KÉ  | TÉ  | VÉ  | Sebesség | Speciális                        |
-| ------------------- | -------------- | --- | ------------ | ---------- | -------------- | --- | --- | --- | -------- | -------------------------------- |
-| ⭕Alabárd           | kétkezes       |     |  S+Z/V       |            |                |     |     |     |          | Talán a legjobb a páncélok ellen |
-| ⭕Bot, hosszú       | kétkezes       |     | Z            | 0          |                |     |     |     |          |                                  |
-| Lándzsa             | kétkezes       |     | S            |            | 3 penge        | 12  | 24  | 24  |          |                                  |
-| ⭕Pika              | kétkezes       |     | S            |            |                |     |     |     |          |                                  |
-| ⭕Szigony, egykezes | egykezes       |     |              |            |                |     |     |     |          |                                  |
-| ⭕Szigony, kétkezes | kétkezes       |     |              |            |                |     |     |     |          |                                  |
+| **Fegyver**       | Forgatás módja | SP  | Sebzés módja | **Átütés** | **Pengehossz** | KÉ  | TÉ  | VÉ  | Sebesség | Speciális                        |
+| ----------------- | -------------- | --- | ------------ | ---------- | -------------- | --- | --- | --- | -------- | -------------------------------- |
+| Alabárd           | kétkezes       |     | S+Z/V        |            |                |     |     |     |          | Talán a legjobb a páncélok ellen |
+| Bot, hosszú       | kétkezes       |     | Z            | 0          |                |     |     |     |          |                                  |
+| Lándzsa           | kétkezes       |     | S            |            | 3 penge        | 12  | 24  | 24  |          |                                  |
+| Pika              | kétkezes       |     | S            |            |                |     |     |     |          |                                  |
+| Szigony, egykezes | egykezes       |     |              |            |                |     |     |     |          |                                  |
+| Szigony, kétkezes | kétkezes       |     |              |            |                |     |     |     |          |                                  |
 
 <br />
 
@@ -200,35 +200,35 @@ A fenti alól kivétel, ha két oldalról határolva és onnan nem fenyegetve, e
 A Hajítófegyverek sebzése általánosságban **Szúró** jellegű. Ahol ez másként van, ott az adott fegyver leírásánál a „Speciális/Megjegyzés” oszlopban ezt külön feltüntetjük.
 
 #### Hajító szálfegyverek (Hajítás)
-| Fegyver         | Forgatás módja | SP  | Sebzés módja | Átütés | KÉ  | CÉ  | Osztó | Hatótáv | Sebesség | Speciális / Megjegyzés                                                                     |
-| --------------- | -------------- |:---:|:------------:|:------:|:---:|:---:|:-----:| -------:|:--------:| ------------------------------------------------------------------------------------------ |
-| ⭕Könnyű kopja  |                |     |              |        |     |     |   1   |     60m |          | Követelmény: Erő `+3`                                                                      |
-| ⭕Lándzsa  (?)  |                |     |              |        |     |     |   1   |     60m |          | Követelmény: Erő `+2`                                                                      |
-| ⭕Dárda, hajító |                |     |              |        |     |     |   2   |     60m |          | Követelmény: Erő `+0`<br />Pajzsba dobva csökkenti annak Védő Értékét a dobott SP értékkel |
+| Fegyver       | Forgatás módja | SP  | Sebzés módja | Átütés | KÉ  | CÉ  | Osztó | Hatótáv | Sebesség | Speciális / Megjegyzés                                                                     |
+| ------------- | -------------- | :-: | :----------: | :----: | :-: | :-: | :---: | ------: | :------: | ------------------------------------------------------------------------------------------ |
+| Könnyű kopja  | kétkezes       |     |              |        |     |     |   1   |     60m |    9     | Követelmény: Erő `+3`                                                                      |
+| Lándzsa  (?)  | egykezes       |     |              |        |     |     |   1   |     60m |    8     | Követelmény: Erő `+2`                                                                      |
+| Dárda, hajító | egykezes       |     |              |        |     |     |   2   |     60m |    7     | Követelmény: Erő `+0`<br />Pajzsba dobva csökkenti annak Védő Értékét a dobott SP értékkel |
 
 <br />
 
 #### Hajítófegyverek (Hajítás)
-| Fegyver        | Forgatás módja | SP  | Sebzés módja | Átütés | KÉ  | CÉ  | Osztó | Hatótáv | Sebesség | Speciális / Megjegyzés                                                                                                                                                                                 |
-| -------------- | -------------- |:---:|:------------:|:------:|:---:|:---:|:-----:| -------:|:--------:| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ⭕Bola         | egykezes       |     |              |        |     | +2  |   1   |     20m |          |                                                                                                                                                                                                        |
-| ⭕Hajítóbárd   | egykezes       |     |              |        |     | +4  |   2   |  ⭕20m* |          | Maximális hatótávolsága:  <br />`20+(Erő x 4)` méterben<br />Pajzsba dobva csökkenti annak Védő Értékét a dobott **SP** értékkel                                                                       |
-| ⭕Hajítótőr    | egykezes       | +0  |      S       |        |     | +4  |   2   |     15m |          | Automatikusan jár rá a **Közeli lövés** fortélynál leírt `CÉ:+10` bónusz ha a célpont Cellaszáma 1.<br />Erőbónusz: **Erő** `1:1`-ben beszámít<br />⭕**SFÉ** bónusz még ellene esetleg.. (dupla SFÉ?) |
-| ⭕kő, alma     | egykezes       |     |              |        |     | +0  |   1   |    20m* |          | Maximális hatótávolsága: <br />`20+(Erő x 5)` méterben                                                                                                                                                 |
-| ⭕Parittya     | egykezes       | +0  |              |        |     | +4  |   2   |     70m |          | Lehet nagy sebzése, de az SFÉ duplán számítson ellene (vagy SFÉ bónusz)                                                                                                                                |
-| ⭕Ramiera (?)  | egykezes       |     |              |        |     | +1  |   1   |     10m |          |                                                                                                                                                                                                        |
-| ⭕Slan csillag | egykezes       |     |              |        |     | +3  |   1   |     15m |          |                                                                                                                                                                                                        |
-| ⭕Tőr          | egykezes       |     |              |        |     | +2  |   2   |     10m |          |                                                                                                                                                                                                        |
+| Fegyver      | Forgatás módja |  SP  | Sebzés módja | Átütés |  KÉ  |  CÉ  | Osztó | Hatótáv | Sebesség | Speciális / Megjegyzés                                                                                                                                                                                |
+| ------------ | -------------- | :--: | :----------: | :----: | :--: | :--: | :---: | ------: | :------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Bola         | egykezes       |  -   |      -       |  `0`   |      | `+2` |  `1`  |     20m |   `10`   |                                                                                                                                                                                                       |
+| Hajítóbárd   | egykezes       | `+2` |      Z       |        |      | `+4` |  `2`  |    20m* |   `6`    | Maximális hatótávolsága:  <br />`20+(Erő x 4)` méterben<br />Pajzsba dobva csökkenti annak Védő Értékét a dobott **SP** értékkel                                                                      |
+| Hajítótőr    | egykezes       | `+0` |      S       |  `0`   | `12` | `+4` |  `2`  |     15m |   `5`    | Automatikusan jár rá a **Közeli lövés** fortélynál leírt `CÉ:+10` bónusz ha a célpont Cellaszáma 1.<br />Erőbónusz: **Erő** `1:1`-ben beszámít<br />⭕**SFÉ** bónusz még ellene esetleg.. (dupla SFÉ?) |
+| kő, alma     | egykezes       |      |      Z       |  `0`   |      | `+0` |  `1`  |    20m* |   `5`    | Maximális hatótávolsága: <br />`20+(Erő x 5)` méterben                                                                                                                                                |
+| Parittya     | egykezes       | `+0` |      Z       |  `0`   |      | `+4` |  `2`  |     70m |   `9`    | Lehet nagy sebzése, de az SFÉ duplán számítson ellene (vagy SFÉ bónusz)                                                                                                                               |
+| Ramiera (?)  | egykezes       | `+0` |      S       |  `0`   |      | `+1` |  `1`  |     10m |   `6`    |                                                                                                                                                                                                       |
+| Slan csillag | egykezes       | `-5` |      S       |  `0`   |      | `+3` |  `1`  |     15m |   `4`    |                                                                                                                                                                                                       |
+| Tőr          | egykezes       | `+0` |      S       |  `0`   |      | `+2` |  `2`  |     10m |   `6`    |                                                                                                                                                                                                       |
 
 <br />
 
 #### Egyéb távolsági fegyverek (Hajítás)
 
-| Fegyver    | Forgatás módja | SP  | Sebzés módja | Átütés | KÉ  | CÉ  | Osztó | Hatótáv | Sebesség | Speciális / Megjegyzés                  |
-| ---------- | -------------- | --- | ------------ |:------:|:---:|:---:|:-----:|:-------:| -------- | --------------------------------------- |
-| ⭕Dobóháló |                |     |              |        |     | +0  |   1   |   4m*   |          | Maximális hatótávolsága: 4+Erő méterben |
-| ⭕Köpeny   | egykezes       |     |              |        |     | +0  |   1   |   4m    |          |                                         |
-| ⭕Lasszó   | egykezes       |     |              |        |     | +0  |   1   |   10m   |          |                                         |
+| Fegyver  | Forgatás módja | SP  | Sebzés módja | Átütés | KÉ  | CÉ  | Osztó | Hatótáv | Sebesség | Speciális / Megjegyzés                  |
+| -------- | -------------- | --- | ------------ | :----: | :-: | :-: | :---: | :-----: | -------- | --------------------------------------- |
+| Dobóháló |                |     |              |   0    |     | +0  |   1   |   4m*   |          | Maximális hatótávolsága: 4+Erő méterben |
+| Köpeny   | egykezes       |     |              |   0    |     | +0  |   1   |   4m    |          |                                         |
+| Lasszó   | egykezes       |     |              |   0    |     | +0  |   1   |   10m   |          |                                         |
 
 
 <br />
@@ -246,24 +246,25 @@ A Sebzést és Átütést a nyílhegy is meghatározza! ⭕TODO ⭕
 
 #### Íjász lőfegyverek
 
-| Fegyver           | Forgatás módja | SP  | Sebzés módja | Átütés | KÉ  |  CÉ   |  Osztó   | Hatótáv | Sebesség | Speciális / Megjegyzés                                                                                 |     |
-| ----------------- | -------------- |:---:|:------------:|:------:|:---:|:-----:|:--------:| -------:|:--------:| ------------------------------------------------------------------------------------------------------ | --- |
-| ⭕Rövid íj        | kétkezes       |     |     `+1`     |        |     | `+10` |   `2`    |   `60m` |          | Az Erőbónusz csak akkor számít ha az íj erre az Erő értékre lett tervezve!                             |     |
-| ⭕Hosszú íj       | kétkezes       |     |     `+3`     |        |     | `+12` |   `3`    |  `120m` |          | Az Erőbónusz csak akkor számít ha az íj erre az Erő értékre lett tervezve!                             |     |
-| ⭕Visszacsapó íj  | kétkezes       |     |     `+4`     |        |     | `+10` |   `3`    |  `160m` |          | Az Erőbónusz csak akkor számít ha az íj erre az Erő értékre lett tervezve!                             |     |
-| ⭕Elf íj          | kétkezes       |     |     `+4`     |        |     | `+13` | `3(4\*)` |  `120m` |          | \Csak a készítője (és egyben birtokosa) kezében, egyébként hagyományos íjként működik és Osztója: `3`. |     |
-| ⭕Fúvócső, kicsi  | egykezes       |     |    spec\*    |        |     | `+8`  |   `1`    |   `16m` |          | \* `k20` dobásnál: `20`-as dobás: `1 ÉP`, különben `0 ÉP`                                              |     |
-| ⭕Fúvócső, vadász | kétkezes       |     |    `-10`     |        |     | `+10` |   `1`    |   `30m` |          |                                                                                                        |     |
+| Fegyver         | Forgatás módja |   SP   | Sebzés módja | Átütés |  KÉ  |  CÉ   | Osztó | Hatótáv | Sebesség | Speciális / Megjegyzés                                                                                                     |     |
+| --------------- | -------------- | :----: | :----------: | :----: | :--: | :---: | :---: | ------: | :------: | -------------------------------------------------------------------------------------------------------------------------- | --- |
+| Rövid íj        | kétkezes       |  `+1`  |      S       |  `0`   |      | `+10` |  `2`  |   `60m` |          | Az Erőbónusz csak akkor számít ha az íj erre az Erő értékre lett tervezve!                                                 |     |
+| Hosszú íj       | kétkezes       |  `+3`  |      S       |  `0`   |      | `+12` |  `3`  |  `120m` |          | Az Erőbónusz csak akkor számít ha az íj erre az Erő értékre lett tervezve!                                                 |     |
+| Visszacsapó íj  | kétkezes       |  `+4`  |      S       |   ⭕    |      | `+10` |  `3`  |  `160m` |          | Az Erőbónusz csak akkor számít ha az íj erre az Erő értékre lett tervezve!                                                 |     |
+| Elf íj          | kétkezes       |  `+4`  |      S       |   ⭕    | `+5` | `+13` |  `4`  |  `120m` |          | Csak a készítője (és egyben birtokosa) kezében érvényes értékek, egyébként hagyományos íjként működik, aminek Osztója: `3` |     |
+| Fúvócső, kicsi  | egykezes       | spec\* |      S       |  `0`   |      | `+8`  |  `1`  |   `16m` |          | \* `k20` dobásnál: `20`-as dobás: `1 ÉP`, különben `0 ÉP`                                                                  |     |
+| Fúvócső, vadász | kétkezes       | `-10`  |      S       |  `0`   |      | `+10` |  `1`  |   `30m` |          |                                                                                                                            |     |
 
 
 #### Lövész lőfegyverek
 
 
-| Fegyver            | Forgatás módja |  SP   | Sebzés módja | Átütés | KÉ  |   CÉ    | Osztó | Hatótáv | Sebesség | Speciális / Megjegyzés                                                         |
-| ------------------ | -------------- |:-----:|:------------:|:------:|:---:|:-------:|:-----:| -------:|:--------:| ------------------------------------------------------------------------------ |
-| Kézi nyílpuska     | egykezes       | `+0`  |      S       |        |     | `+10`\* |   3   |     20m |    ⭕    | * A kézi nyílpuska kevésbé pontos fegyver kis mérete miatt.                    |
-| Nyílpuska          | kétkezes       | `+5`  |      S       |  ⭕10  |     |  `+16`  |  `4`  |     50m |    ⭕    | Nem páncéltörő ?? A nehézvértet átviszi, vagy nem?<br />Távolság-függő Átütés. |
-| Nehéz nyílpuska    | kétkezes       | `+14` |      S       |  ⭕10  |     |  `+16`  |  `4`  |     80m |    ⭕    | Páncéltörő. Ez átviszi a nehézvértet is!                                       |
-| Shadoni páncéltörő | kétkezes       | `+20` |      Z       |  ⭕??  |     |  `+4`   |  `4`  |  ⭕120m |    ⭕    | Újratöltés: 1 emberrel: 3 kör, 2 emberrel: 1 kör<br />Páncéltörő               |
-| Kharei nyílpuska   | kétkezes       | `+3`  |      S       |        |     |  `+14`  |  `4`  |     50m |    ⭕    | \* Míg ki nem fogy a tár. Újratöltés: 1 kör                                    |
+| Fegyver            | Forgatás módja |      SP      | Sebzés módja | Átütés | KÉ  |   CÉ    | Osztó | Hatótáv | Sebesség | Speciális / Megjegyzés                                                          |
+| ------------------ | -------------- | :----------: | :----------: | :----: | :-: | :-----: | :---: | ------: | :------: | ------------------------------------------------------------------------------- |
+| Kézi nyílpuska     | egykezes       |     `+0`     |      S       |        |     | `+10`\* |  `3`  |     20m |   `9`    | * A kézi nyílpuska kevésbé pontos fegyver kis mérete miatt.                     |
+| Nyílpuska          | kétkezes       |     `+6`     |      S       |  ⭕10   |     |  `+16`  |  `4`  |     50m |   `12`   | ⭕Nem páncéltörő ?? A nehézvértet átviszi, vagy nem?<br />Távolság-függő Átütés. |
+| Nehéz nyílpuska    | kétkezes       |    `+14`     |      S       |  ⭕10   |     |  `+16`  |  `4`  |     80m |   `15`   | Páncéltörő. Ez átviszi a nehézvértet is!                                        |
+| Shadoni páncéltörő | kétkezes       |    `+20`     |      Z       |  ⭕20   |     |  `+4`   |  `4`  |   ⭕120m |    -     | Újratöltés: 1 emberrel: 3 kör, 2 emberrel: 1 kör<br />Páncéltörő                |
+| Kharei nyílpuska   | kétkezes       |     `+3`     |      S       |        |     |  `+14`  |  `4`  |     50m |   `5`    | \* Míg ki nem fogy a tár. Újratöltés: 1 kör                                     |
+| Aquir nyílpuska    | egykezes       | `halál / +6` |      S       |        |     |  `+16`  |  `3`  |     50m |   `6`    | - Halálos hatása csak aquir kézben érvényesül<br>- Páncéltörő                   |
 
