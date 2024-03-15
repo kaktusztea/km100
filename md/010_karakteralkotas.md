@@ -464,12 +464,12 @@ A KM meghatároz egy **4-9-ig** terjedő célszámot nehézségnek, a játékos 
 
 | Tulajdonságpróba <br /><sub>(dobás k6-al)</sub>  |  Célszám |
 |----------|:-------------:|
-| Könnyű  |  4 |
-| Átlagos |  5 |
-| Nehéz   |  6 |
-| Nagyon nehéz |  7|
-| Rendkívül nehéz |  8|
-| Emberfeletti |  9|
+| Könnyű   | 3 |
+| Átlagos  | 4 |
+| Nehéz    | 5 |
+| Nagyon nehéz | 6 |
+| Rendkívül nehéz | 7 |
+| Emberfeletti | 8 |
 
 ### Összetett Tulajdonságpróba
 
