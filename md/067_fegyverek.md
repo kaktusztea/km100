@@ -254,7 +254,7 @@ A Sebzést és Átütést a nyílhegy is meghatározza! ⭕TODO ⭕
 | Hosszú íj       | kétkezes       |  `+3`  |      S       |  `0`   |      | `+12` |  `3`  |  `120m` |          | Az Erőbónusz csak akkor számít ha az íj erre az Erő értékre lett tervezve!                                                 |     |
 | Visszacsapó íj  | kétkezes       |  `+4`  |      S       |   ⭕    |      | `+10` |  `3`  |  `160m` |          | Az Erőbónusz csak akkor számít ha az íj erre az Erő értékre lett tervezve!                                                 |     |
 | Elf íj          | kétkezes       |  `+4`  |      S       |   ⭕    | `+5` | `+13` |  `4`  |  `120m` |          | Csak a készítője (és egyben birtokosa) kezében érvényes értékek, egyébként hagyományos íjként működik, aminek Osztója: `3` |     |
-| Fúvócső, kicsi  | egykezes       | spec\* |      S       |  `0`   |      | `+8`  |  `1`  |   `16m` |          | \* `k20` dobásnál: `20`-as dobás: `1 ÉP`, különben `0 ÉP`                                                                  |     |
+| Fúvócső, kicsi  | egykezes       | spec\* |      S       |  `0`   |      | `+8`  |  `1`  |   `16m` |          | `k20` dobásnál: `20`-as dobás: `1 ÉP`, különben `0 ÉP`                                                                     |     |
 | Fúvócső, vadász | kétkezes       | `-10`  |      S       |  `0`   |      | `+10` |  `1`  |   `30m` |          |                                                                                                                            |     |
 
 
