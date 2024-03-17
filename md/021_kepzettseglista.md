@@ -74,7 +74,7 @@ Első szinten minden karakter megkapja `3-as szinten` a saját vallási pantheon
 
 ### 🟡[Nyelvismeret](kepzettsegek/nyelvismeret.md) - saját nyelv
 
-Első szinten minden karakter megkapja `6-as szinten` a saját anyanyelvéhez tartozó Nyelvismeret képzettséget.
+Első szinten minden karakter megkapja `6-os szinten` a saját anyanyelvéhez tartozó Nyelvismeret képzettséget.
 
 Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv ismeretét (Pyarroni) is. Amennyiben a karakter anyanyelve a Pyarroni, akkor csak azt kapja meg (`6-os szinten`), nem kap „ajándékba” más Nyelvismeret képzettséget, vagy Karakter Pontot! A képzettség KP-ból természetesen szabadon tovább növelhető.
 
