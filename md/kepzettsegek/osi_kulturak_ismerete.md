@@ -8,8 +8,8 @@
 
 **Leírás**: Ez a képzettség szándékosan különül el a Történelemismeret képzettségtől. A következőket kell tudni róla:
 
-- Nem lehet Átfogó képzettségként felvenni, kultúránként kell tanulni (összhang persze lehet, ha  indokolt - pl. Dawa és Ryek esetén).
-- Magas szinten (`9. fok felett`) általában nem nélkülözheti sem az adott ősi nyelv ismeretét, sem a saját kutatást. ⭕TODO⭕
+- Kultúránként kell tanulni (összhang persze lehet, ha indokolt - pl. Dawa és Ryek esetén).
+- Magas szinten (`9. fok felett`) általában nem nélkülözheti sem az adott [Ősi nyelv ismeretét](osi_nyelv_ismerete.md), sem a saját kutatást. ⭕TODO⭕
 - Néhány kivételtől eltekintve nem ártatlan dolog ilyet tanulni: kevés helyen, titkos tudásként oktatják.
 - Az ősi kutúrák ismerete - épp mert olyan keveset tudunk róluk - nem csak a történelem ismeretet foglalják magukban, hanem az egész kultúráét (már amennyi tudható erről), azaz nincs külön ősi kultúrák vallásismeret, építészettörténet, stb.
 - Ősi kultúrák: Cranta, Kyria, Dawa, Ryek, Démonikus Óbirodalom, Godon, Aquír (⭕észak és dél külön?⭕), Elf, Törpe, Amund, Dzsenn, ⭕Ork (?)⭕
