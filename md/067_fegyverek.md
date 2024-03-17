@@ -21,7 +21,6 @@ Alább alapelveket találhatunk az egyes általános fegyverkategóriákhoz – 
 | alabárd           | 3 penge       |      7      |             12             |             28             |             28             |
 | lándzsa           | 4 penge       |      9      |             18             |             36             |             36             |
 
-
 ---
 ### Elsődleges támadási típus
 
@@ -108,7 +107,6 @@ Puszta kéz:  KÉ:-10,  TÉ:0,  VÉ:-10
 - Páncélozatlan ellenfél ellen +2 SP sebzésbónusz
 ```
 
-
 | **Fegyver**          | Forgatás módja |  SP  | Sebzés módja | **Átütés** | **Pengehossz** |  KÉ  |  TÉ  |  VÉ  | Sebesség | Speciális                                                                                                                                                                                                                                                                                                                                                                                                    |
 | -------------------- | :------------: | :--: | :----------: | :--------: | :------------: | :--: | :--: | :--: | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Kard, dzsenn szablya |    egykezes    | `+4` |     V/S      |    `0`     |    1 penge     | `8`  | `15` | `15` |   `5`    | **(IV)** fegyver                                                                                                                                                                                                                                                                                                                                                                                             |
@@ -188,11 +186,11 @@ A fenti alól kivétel, ha két oldalról természetes, vagy épített kordonnal
 ---
 ### Lovas fegyverek harcértékei
 
-| **Fegyver**              | Forgatás módja | SP  | Sebzés módja | **Átütés** | **Pengehossz** | KÉ  | TÉ  | VÉ  | Sebesség | Speciális |
-| ------------------------ | :------------: | :-: | :----------: | :--------: | :------------: | :-: | :-: | :-: | :------: | --------- |
-| ??? ⭕ Kopja, könnyű      |                |     |              |            |                |     |     |     |          |           |
-| ??? ⭕ Kopja, lovas       |                |     |              |            |                |     |     |     |          |           |
-| ??? ⭕ Kopja,, nehézlovas |                |     |              |            |                |     |     |     |          |           |
+| **Fegyver**             | Forgatás módja | SP  | Sebzés módja | **Átütés** | **Pengehossz** | KÉ  | TÉ  | VÉ  | Sebesség | Speciális |
+| ----------------------- | :------------: | :-: | :----------: | :--------: | :------------: | :-: | :-: | :-: | :------: | --------- |
+| ??? ⭕ Kopja, könnyű     |                |     |              |            |                |     |     |     |          |           |
+| ??? ⭕ Kopja, lovas      |                |     |              |            |                |     |     |     |          |           |
+| ??? ⭕ Kopja, nehézlovas |                |     |              |            |                |     |     |     |          |           |
 
 <br />
 
@@ -211,16 +209,16 @@ A Hajítófegyverek sebzése általánosságban **Szúró** jellegű. Ahol ez m�
 <br />
 
 #### Hajítófegyverek (Hajítás)
-| Fegyver      | Forgatás módja |  SP  | Sebzés módja | Átütés |  KÉ  |  CÉ  | Osztó | Hatótáv | Sebesség | Speciális / Megjegyzés                                                                                                                                                              |
-| ------------ | :------------: | :--: | :----------: | :----: | :--: | :--: | :---: | ------: | :------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Bola         |    egykezes    |  -   |      -       |  `0`   |      | `+2` |  `1`  |   `20m` |   `10`   |                                                                                                                                                                                     |
-| Hajítóbárd   |    egykezes    | `+2` |      Z       |        |      | `+4` |  `2`  |  `20m`* |   `6`    | Maximális hatótávolsága:  <br />`20+(Erő x 4)` méterben<br />Pajzsba dobva csökkenti annak Védő Értékét a dobott **SP** értékkel                                                    |
-| Hajítótőr    |    egykezes    | `+0` |      S       |  `0`   | `12` | `+4` |  `2`  |   `15m` |   `5`    | Automatikusan jár rá a **Közeli lövés** fortélynál leírt `CÉ:+10` bónusz ha a célpont Cellaszáma 1.<br />Erőbónusz beszámít.<br />⭕**SFÉ** bónusz még ellene esetleg.. (dupla SFÉ?) |
-| kő, alma     |    egykezes    |      |      Z       |  `0`   |      | `+0` |  `1`  |  `20m`* |   `5`    | Maximális hatótávolsága: <br />`20+(Erő x 5)` méterben                                                                                                                              |
-| Parittya     |    egykezes    | `+0` |      Z       |  `0`   |      | `+4` |  `2`  |   `70m` |   `9`    | Lehet nagy sebzése, de az SFÉ duplán számítson ellene (vagy SFÉ bónusz)                                                                                                             |
-| Ramiera (?)  |    egykezes    | `+0` |      S       |  `0`   |      | `+1` |  `1`  |   `10m` |   `6`    |                                                                                                                                                                                     |
-| Slan csillag |    egykezes    | `-5` |      S       |  `0`   |      | `+3` |  `1`  |   `15m` |   `4`    |                                                                                                                                                                                     |
-| Tőr          |    egykezes    | `+0` |      S       |  `0`   |      | `+2` |  `2`  |   `10m` |   `6`    |                                                                                                                                                                                     |
+| Fegyver      | Forgatás módja |  SP  | Sebzés módja | Átütés |  KÉ  |  CÉ  | Osztó | Hatótáv | Sebesség | Speciális / Megjegyzés                                                                                                                                                             |
+| ------------ | :------------: | :--: | :----------: | :----: | :--: | :--: | :---: | ------: | :------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Bola         |    egykezes    |  -   |      -       |  `0`   |  ⭕   | `+2` |  `1`  |   `20m` |   `10`   |                                                                                                                                                                                    |
+| Hajítóbárd   |    egykezes    | `+2` |      Z       |        |  ⭕   | `+4` |  `2`  |  `20m`* |   `6`    | Maximális hatótávolsága:  <br />`20+(Erő x 4)` méterben<br />Pajzsba dobva csökkenti annak Védő Értékét a dobott **SP** értékkel                                                   |
+| Hajítótőr    |    egykezes    | `+0` |      S       |  `0`   | `12` | `+4` |  `2`  |   `15m` |   `5`    | Automatikusan jár rá a **Közeli lövés** fortélynál leírt `CÉ:+10` bónusz ha a célpont Cellaszáma 1.<br />Erőbónusz beszámít.<br />❗A Hajítótőr ellen minden **SFÉ** duplán számít❗ |
+| kő, alma     |    egykezes    |      |      Z       |  `0`   | `8`  | `+0` |  `1`  |  `20m`* |   `5`    | Maximális hatótávolsága: <br />`20+(Erő x 5)` méterben                                                                                                                             |
+| Parittya     |    egykezes    | `+0` |      Z       |  `0`   | `4`  | `+4` |  `2`  |   `70m` |   `9`    | Lehet nagy sebzése, de az SFÉ duplán számítson ellene (vagy SFÉ bónusz)                                                                                                            |
+| Ramiera      |    egykezes    | `+0` |      S       |  `0`   |  ⭕   | `+1` |  `1`  |   `10m` |   `6`    |                                                                                                                                                                                    |
+| Slan csillag |    egykezes    | `-5` |      S       |  `0`   |  ⭕   | `+3` |  `1`  |   `15m` |   `4`    |                                                                                                                                                                                    |
+| Tőr          |    egykezes    | `+0` |      S       |  `0`   |  ⭕   | `+2` |  `2`  |   `10m` |   `6`    |                                                                                                                                                                                    |
 
 <br />
 
@@ -228,15 +226,14 @@ A Hajítófegyverek sebzése általánosságban **Szúró** jellegű. Ahol ez m�
 
 | Fegyver  | Forgatás módja | SP  | Sebzés módja | Átütés | KÉ  |  CÉ  | Osztó | Hatótáv | Sebesség | Speciális / Megjegyzés                    |
 | -------- | :------------: | :-: | :----------: | :----: | :-: | :--: | :---: | :-----: | :------: | ----------------------------------------- |
-| Dobóháló |                |     |              |  `0`   |     | `+0` |  `1`  |  `4m`*  |          | Maximális hatótávolsága: `4+Erő` méterben |
-| Köpeny   |    egykezes    |     |              |  `0`   |     | `+0` |  `1`  |  `4m`   |          |                                           |
-| Lasszó   |    egykezes    |     |              |  `0`   |     | `+0` |  `1`  |  `10m`  |          |                                           |
+| Dobóháló |                |  -  |      -       |  `0`   |     | `+0` |  `1`  |  `4m`*  |   `10`   | Maximális hatótávolsága: `4+Erő` méterben |
+| Köpeny   |    egykezes    |  -  |      -       |  `0`   |     | `+0` |  `1`  |  `4m`   |    ⭕     |                                           |
+| Lasszó   |    egykezes    |  -  |      -       |  `0`   |     | `+0` |  `1`  |  `10m`  |   `9`    | Sebesülés az esés következtében lehet.    |
 
 <br />
 
 ---
 ### Lőfegyverek harcértékei
-`TODO_HARC_#36.`
 
 A Lőfegyverek sebzése általánosságban **Szúró** jellegű. Ahol ez másként van, ott az adott fegyver leírásánál a „**Speciális/Megjegyzés**” oszlopban ezt külön feltüntetjük.  
 
@@ -249,16 +246,15 @@ A Sebzést és Átütést a nyílhegy is meghatározza! ⭕TODO ⭕
 
 | Fegyver         | Forgatás módja |   SP   | Sebzés módja | Átütés |  KÉ  |  CÉ   | Osztó | Hatótáv | Sebesség | Speciális / Megjegyzés                                                                                                     |     |
 | --------------- | :------------: | :----: | :----------: | :----: | :--: | :---: | :---: | ------: | :------: | -------------------------------------------------------------------------------------------------------------------------- | --- |
-| Rövid íj        |    kétkezes    |  `+1`  |      S       |  `0`   |  ⭕   | `+10` |  `2`  |   `60m` |    ⭕     | Az Erőbónusz csak akkor számít ha az íj erre az Erő értékre lett tervezve! Erőbónusz max: `+2`                             |     |
-| Hosszú íj       |    kétkezes    |  `+3`  |      S       |  `0`   |  ⭕   | `+12` |  `3`  |  `120m` |    ⭕     | Az Erőbónusz csak akkor számít ha az íj erre az Erő értékre lett tervezve! Erőbónusz max: `+3`                             |     |
-| Visszacsapó íj  |    kétkezes    |  `+4`  |      S       |   ⭕    |  ⭕   | `+10` |  `3`  |  `160m` |    ⭕     | Az Erőbónusz csak akkor számít ha az íj erre az Erő értékre lett tervezve!                                                 |     |
-| Elf íj          |    kétkezes    |  `+4`  |      S       |   ⭕    | `+5` | `+13` |  `4`  |  `120m` |    ⭕     | Csak a készítője (és egyben birtokosa) kezében érvényes értékek, egyébként hagyományos íjként működik, aminek Osztója: `3` |     |
-| Fúvócső, kicsi  |    egykezes    | spec\* |      S       |  `0`   |  ⭕   | `+8`  |  `1`  |   `16m` |    ⭕     | `k20` dobásnál: `20`-as dobás: `1 ÉP`, különben `0 ÉP`                                                                     |     |
-| Fúvócső, vadász |    kétkezes    | `-10`  |      S       |  `0`   |  ⭕   | `+10` |  `1`  |   `30m` |    ⭕     |                                                                                                                            |     |
+| Rövid íj        |    kétkezes    |  `+1`  |      S       |  `0`   |  ⭕   | `+10` |  `2`  |   `60m` |   `5`    | Az Erőbónusz csak akkor számít ha az íj erre az Erő értékre lett tervezve! Erőbónusz max: `+2`                             |     |
+| Hosszú íj       |    kétkezes    |  `+3`  |      S       |  `0`   |  ⭕   | `+12` |  `3`  |  `120m` |   `7`    | Az Erőbónusz csak akkor számít ha az íj erre az Erő értékre lett tervezve! Erőbónusz max: `+3`                             |     |
+| Visszacsapó íj  |    kétkezes    |  `+4`  |      S       |   ⭕    |  ⭕   | `+10` |  `3`  |  `160m` |   `7`    | Az Erőbónusz csak akkor számít ha az íj erre az Erő értékre lett tervezve!                                                 |     |
+| Elf íj          |    kétkezes    |  `+4`  |      S       |   ⭕    | `+5` | `+13` |  `4`  |  `120m` |   `6`    | Csak a készítője (és egyben birtokosa) kezében érvényes értékek, egyébként hagyományos íjként működik, aminek Osztója: `3` |     |
+| Fúvócső, kicsi  |    egykezes    | spec\* |      S       |  `0`   |  ⭕   | `+8`  |  `1`  |   `16m` |   `8`    | `k20` dobásnál: `20`-as dobás: `1 ÉP`, különben `0 ÉP`                                                                     |     |
+| Fúvócső, vadász |    kétkezes    | `-10`  |      S       |  `0`   |  ⭕   | `+10` |  `1`  |   `30m` |   `9`    |                                                                                                                            |     |
 
 
 #### Lövész lőfegyverek
-
 
 | Fegyver            | Forgatás módja |      SP      | Sebzés módja | Átütés | KÉ  |   CÉ    | Osztó | Hatótáv | Sebesség | Speciális / Megjegyzés                                                          |
 | ------------------ | -------------- | :----------: | :----------: | :----: | :-: | :-----: | :---: | ------: | :------: | ------------------------------------------------------------------------------- |
@@ -268,4 +264,3 @@ A Sebzést és Átütést a nyílhegy is meghatározza! ⭕TODO ⭕
 | Shadoni páncéltörő | kétkezes       |    `+20`     |      Z       |  ⭕20   |     |  `+4`   |  `4`  | ⭕`120m` |    -     | Újratöltés: 1 emberrel: `3` kör, 2 emberrel: `1` kör<br />Páncéltörő            |
 | Kharei nyílpuska   | kétkezes       |     `+3`     |      S       |   ⭕    |     |  `+14`  |  `4`  |   `50m` |   `5`    | \* Míg ki nem fogy a tár. Újratöltés: `1` kör                                   |
 | Aquir nyílpuska    | egykezes       | `halál / +6` |      S       |   ⭕    |     |  `+16`  |  `3`  |   `50m` |   `6`    | - Halálos hatása csak aquir kézben érvényesül<br>- Páncéltörő                   |
-
