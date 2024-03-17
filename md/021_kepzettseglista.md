@@ -201,7 +201,7 @@ Festészet + (Pszeudó tul.) + k10   vs   Célszám
 
 🔴[Ősi nyelv ismerete](kepzettsegek/osi_nyelv_ismerete.md) (Külön ősi nyelvenként) <sup><sub>(0%)</sub></sup> 🔁
 
-🔵[Jogismeret](kepzettsegek/jogismeret.md) (adott kultúrkör) (Pyarroni államszövetség, Toron, stb) <sup><sub>(0%)</sub></sup> 🔁
+🔵[Jogismeret](kepzettsegek/jogismeret.md) (adott kultúrkör)  <sup><sub>(0%)</sub></sup> 🔁
 
 🔵[Alkímia](kepzettsegek/alkimia.md) <sup><sub>(0%)</sub></sup>
 
