@@ -230,11 +230,11 @@ Ha valaki látja és van ideje felkészülni a rá leadott lövésre/hajításra
    
 | Gyorsaságpróba célszám | Dobófegyverek,<br />Mágikus lövedék I. | Íjak,<br />Mágikus lövedék II. | Nyílpuskák,<br />Mágikus lövedék III. |
 |:----------------------:| --------------------------------------:| ------------------------------:| -------------------------------------:|
-|           9            |                      1m&nbsp;-&nbsp;3m |                        0m - 5m |                              0m - 10m |
-|           8            |                                4m - 6m |             6m&nbsp;-&nbsp;10m |                   11m&nbsp;-&nbsp;20m |
-|           7            |                      7m&nbsp;-&nbsp;9m |            11m&nbsp;-&nbsp;15m |                   21m&nbsp;-&nbsp;30m |
-|           6            |                    10m&nbsp;-&nbsp;12m |            16m&nbsp;-&nbsp;20m |                   31m&nbsp;-&nbsp;40m |
-|           5            |                           Testközelben |                                |                                       |
+|           8            |                      1m&nbsp;-&nbsp;3m |                        0m - 5m |                              0m - 10m |
+|           7            |                                4m - 6m |             6m&nbsp;-&nbsp;10m |                   11m&nbsp;-&nbsp;20m |
+|           6            |                      7m&nbsp;-&nbsp;9m |            11m&nbsp;-&nbsp;15m |                   21m&nbsp;-&nbsp;30m |
+|           5            |                    10m&nbsp;-&nbsp;12m |            16m&nbsp;-&nbsp;20m |                   31m&nbsp;-&nbsp;40m |
+|           4            |                           Testközelben |                                |                                       |
 
 Lásd: [Elemi mágia - Formulák - Őselem idézése](magia.magas/elemi_magia.md#%C5%91selem-id%C3%A9z%C3%A9se)\
 ⭕(lehet h ki kéne szedni általános "Mágikus lövedék" szekcióba)⭕
