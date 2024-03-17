@@ -422,18 +422,3 @@ Mielőtt bármit kiszámolnánk, nézzük meg, van-e a karakternek **Vakharc** f
 Ha van, akkor dobjunk K10-al, a dobáshoz ne adjunk hozzá semmit. A Célszám alapfokú Vakharc esetében a célpont távolsága méterben, mesterfokú esetén pedig e szám fele. Ha sikeres a próba, akkor elkezdhetjük kiszámolni a CÉ és VÉ értékeket a fenti táblázatban foglalt **Látási Szorzóval.** **Amennyiben a karakter „Hatodik érzék” diszciplínát alkalmaz, a próba célszáma 3-al lecsökken.**
 
 Ha a próba sikertelen, akkor a lövés/dobás is automatikusan sikertelennek minősül. A rontás mértékétől függően közelben lévő barátot, szövetségest találhat el az eltévedt lövedék. Erről a KM dönt. Az 1-es dobás itt is mindig kudarc, a 10-es mindig siker.
-
----
-### Hajítás, fegyverdobás harc közben rosszabbik kézzel
-
-⭕KELL EZ??⭕
-
-⭕TODO⭕ Szerintem nem kell, iszonyúan túlbonyolított
-
-Testközelben sikeres `6`-os nehézségű **Gyorsaságpróba** esetén a célpont kitér a hajítás/lövés elől.
-
-Rejtett hajítás:
-- Követelmény: Fegyverrántás - 1 fok, Kétkezes harc - 1.fok
-- Fegyverrántás - 2 fok: Meglepetés esetén nehezíti az ellen Gyorsaságpróbáját +1-el
-- Kétkezes harc – 1.fokkal: -20CÉ módosító
-- Kétkezes harc – 2.fokkal: -10 CÉ módosító
