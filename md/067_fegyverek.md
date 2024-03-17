@@ -145,16 +145,15 @@ Puszta kéz:  KÉ:-10,  TÉ:0,  VÉ:-10
 | Bot, rövid                              |    egykezes    | `-3` |           Z            |    `0`     |   0,5 penge    | `6` | `9`  | `6`  |   `5`    |                                                                                |
 | Bot, furkós                             |    egykezes    | `-1` |           Z            |    `0`     |    1 penge     | `4` | `10` | `8`  |   `6`    |                                                                                |
 | Buzogány, egykezes                      |    egykezes    | `5`  |           Z            |    `0`     |    1 penge     | `4` | `12` | `8`  |   `7`    |                                                                                |
-| Buzogány, kétkezes                      |    kétkezes    |  ⭕   |                        |    `0`     |                |     |      |      |          |                                                                                |
-| Buzogány, láncos                        |    egykezes    |  ⭕   |                        |            |                |     |      |      |          | Pajzs VÉ a fele! (?)                                                           |
-| Buzogány, shadleki                      |       ??       |  ⭕   |                        |            |                |     |      |      |          |                                                                                |
-| Buzogány, tollas                        |    egykezes    |  ⭕   |                        |     ⭕!     |                |     |      |      |          |                                                                                |
+| Buzogány, kétkezes                      |    kétkezes    |  ⭕   |           Z            |    `0`     |                |     |      |      |          |                                                                                |
+| Buzogány, láncos                        |    egykezes    |  ⭕   |           Z            |    `0`     |                |     |      |      |          | Pajzs VÉ a fele! (?)                                                           |
+| Buzogány, shadleki                      |      ⭕??       |  ⭕   |           Z            |     ⭕      |                |     |      |      |          |                                                                                |
+| Buzogány, tollas                        |    egykezes    |  ⭕   |           Z            |     ⭕!     |                |     |      |      |          |                                                                                |
 | Buzogány, tüskés  <br />_csatacsillag_? |    egykezes    |  ⭕   |                        |    ⭕!!     |                |     |      |      |          |                                                                                |
 | Csatabárd, egykezes                     |    egykezes    | `+4` | V  <br />(néha szúrás) |     ??     |   0,5 penge    | `4` | `8`  | `8`  |   `6`    |                                                                                |
 | Csatabárd, kétkezes                     |    kétkezes    | `+8` |           ??           |     ??     |   1,5 penge    | `8` | `16` | `16` |          |                                                                                |
 | Csatacsákány                            |    egykezes    | `+3` |           S?           |   `10` !   |    1 penge     | `4` | `8`  | `8`  |          | Nagyon vérzik<br />50% az esély, hogy beragad és nem lehet kihúzni harc közben |
-| Cséphadaró                              |    kétkezes    |  ⭕   |                        |    `0`     |                |     |      |      |          | ⭕EZ NEM SZÁLFEGYVER?                                                           |
-| Harci kalapács                          |       ??       |  ⭕   |                        |            |                |     |      |      |          |                                                                                |
+| Harci kalapács                          |       ??       |  ⭕   |           Z            |     0      |                |     |      |      |          |                                                                                |
 
 ---
 ### Lándzsavívó fegyverek harcértékei
@@ -262,5 +261,5 @@ A Sebzést és Átütést a nyílhegy is meghatározza! ⭕TODO ⭕
 | Nyílpuska          | kétkezes       |     `+6`     |      S       |  ⭕10   |     |  `+16`  |  `4`  |   `50m` |   `12`   | ⭕Nem páncéltörő ?? A nehézvértet átviszi, vagy nem?<br />Távolság-függő Átütés. |
 | Nehéz nyílpuska    | kétkezes       |    `+14`     |      S       |  ⭕10   |     |  `+16`  |  `4`  |   `80m` |   `15`   | Páncéltörő. Ez átviszi a nehézvértet is!                                        |
 | Shadoni páncéltörő | kétkezes       |    `+20`     |      Z       |  ⭕20   |     |  `+4`   |  `4`  | ⭕`120m` |    -     | Újratöltés: 1 emberrel: `3` kör, 2 emberrel: `1` kör<br />Páncéltörő            |
-| Kharei nyílpuska   | kétkezes       |     `+3`     |      S       |   ⭕    |     |  `+14`  |  `4`  |   `50m` |   `5`    | \* Míg ki nem fogy a tár. Újratöltés: `1` kör                                   |
+| Kharei nyílpuska   | kétkezes       |     `+3`     |      S       |  `0`   |     |  `+14`  |  `4`  |   `50m` |   `5`    | \* Míg ki nem fogy a tár. Újratöltés: `1` kör                                   |
 | Aquir nyílpuska    | egykezes       | `halál / +6` |      S       |   ⭕    |     |  `+16`  |  `3`  |   `50m` |   `6`    | - Halálos hatása csak aquir kézben érvényesül<br>- Páncéltörő                   |
