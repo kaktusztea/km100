@@ -220,6 +220,11 @@ Alább az egyes fegyver-kategóriák tipikus **Osztó** értékét látjuk. Ett�
 
 <br />
 
+### Sebzés bónusz hiánya
+
+Távolsági fegyverek esetén nincs többszörös túlütésből adódó plusz sebzés.
+
+
 ---
 ## Harci körülmények, taktikák
 
