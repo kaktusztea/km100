@@ -1,7 +1,7 @@
 ## Általános fortélyok
 
 <!-- tag: altalanos__fortely -->
- 
+
 - [Baráti állatok](fortelyok.altalanos/barati_allatok.md)
 - [Csomózás; Kötelékből szabadulás](fortelyok.altalanos/csomozas__kotelekbol_szabadulas.md)
 - [Éber alvó](fortelyok.altalanos/eber_alvo.md)

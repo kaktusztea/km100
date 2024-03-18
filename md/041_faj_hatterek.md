@@ -6,7 +6,7 @@
  Faj követelmény: Érzék-Fortélyok közül minimum 1 fokot fel kell venni
 ```
 
-Az alábbiakban a játszható és nem játszható fajok bemutatását, Tulajdonság-limiteit és speciálisan felvehető [Érzék-Fortélyaikat](033_altalanos_fortelyok.md#érzék-fortélyok) találhatjuk. 
+Az alábbiakban a játszható és nem játszható fajok bemutatását, Tulajdonság-limiteit és speciálisan felvehető [Érzék-Fortélyaikat](033_altalanos_fortelyok.md#érzék-fortélyok) találhatjuk.
 
 🔆 Amennyiben egy játékos választ egy Faj Hátteret a karakterének, akkor az annál felsorolt lehetséges **Érzék-Fortélyok** közül **minimum 1 fokot** köteles felvenni hozzá.
 

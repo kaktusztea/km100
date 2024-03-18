@@ -59,15 +59,15 @@ A km100 harcrendszere lehetőséget ad rá, hogy a karakter harc közben ilyen s
 - Egy Manőver végrehajtása `1 támadást` emészt fel, nem szükséges hozzá nyert kezdeményezés
 
 - Manővert ellenfél **ellen** alkalmazunk. Így például kiszaltózni az ablakon, vagy leugrani a várfalról **nem** számít Manővernek!
-  
+
 - Ha minden kötelező fázisa (`M E V`) sikeres, akkor az adott Manőver „Hatás” részénél leírtak következnek be
-  
+
 - Végrehajtás fázisa aktuális **fegyveres** `TÉ`-vel történik (kivéve, ha más szerepel a Manőver leírásában.)
-  
+
 - Meglepett, készületlen ellenfél esetén kimarad a **Megakasztás** és az **Ellenpróba** fázis
-  
+
 - Manővereknek lehet:
-	- speciális könnyítő/nehezítő körülményei (+/- módosítók a nehézségre)  
+	- speciális könnyítő/nehezítő körülményei (+/- módosítók a nehézségre)
 	- extra végbeviteli követelményei: Ezek nélkül a KM dönt, hogy végrehajtható -e és ha igen, mekkora plusz célszám büntetéssel
 
 - Manőver alkalmazásakor nem folytatható **Védekező harc**, de **Támadó/Védő** harci taktika igen
@@ -79,7 +79,7 @@ A km100 harcrendszere lehetőséget ad rá, hogy a karakter harc közben ilyen s
 ---
 ### Manőverek nehézsége
 
- 
+
 | Nehézség     | Érték |
 | ------------ |:-----:|
 | Mindennapos  |   2   |
@@ -90,7 +90,7 @@ A km100 harcrendszere lehetőséget ad rá, hogy a karakter harc közben ilyen s
 
 A manőver nehézségét egy számértékkel jellemezzük. Minden manővernek van egy alapnehézsége. Az adott manőver ezzel az értékkel szerepel az **Ellenpróba** **során**. E táblázatban csak irányadó számok szerepelnek, új manőver kitalálásakor hasznos. A manőverek nehézsége ezen értékek közé is eshet.
 
-> **Hasznos tanács** KM részére új (tanulható) manőver létrehozásakor: 
+> **Hasznos tanács** KM részére új (tanulható) manőver létrehozásakor:
 > ha úgy érzed, az adott manőver túl tápos, emeld meg a nehézségét és adj több tanulható fokot. Így több MFP szükséges a nehézség csökkentéséhez és így már meglesz az „ára”, ha valaki eséllyel alkalmazni akarja.
 
 <br/>
@@ -104,7 +104,7 @@ Egy Manőver alkalmazása – jellegétől függően – legfeljebb az alábbi h
 
 - 1. **Megakasztás** (ha van)\
   ellenfél teszi (Sima támadás - ha sikeres, a Manőver rögtön sikertelen)
-   
+
 - 2. **Végrehajtás** (manővert végző teszi)\
   Sebzést érő támadás szükséges, `TÉ+20`-al, (aktuális, fegyveres `TÉ` számít), de nem okoz sebet.\
   Mindig ezt dobjuk előbb, mert ez ad leggyorsabban eredményt 🔆
@@ -118,7 +118,7 @@ Egy Manőver alkalmazása – jellegétől függően – legfeljebb az alábbi h
 Megelőző támadási forma, melyre az ellenfél jogosult teljes, fegyveres `TÉ`-jével (soron kívüli extra támadás), ha az adott típusú manőver követelményei között ez szerepel (M).
 
 A Megakasztás az első fázis a Manőver végrehajtása során. Ha az így érkező támadás sebző, akkor a Manőver nem sikerült. (Tipikus példa, a harcból való **Kibontakozás**, vagy a **Belharcba kerülés**.)
-  
+
 <br/>
 
 ---
@@ -143,7 +143,7 @@ Manőver pont + k10   vs.  Manőver célszáma
 <br/>
 
 ##### Manőver Pont
- 
+
 | Módosító                                              | Érték                                                             |
 | ----------------------------------------------------- | ----------------------------------------------------------------- |
 | Harcmodor                                             | Az alkalmazó aktuálisan használt harcmodor képzettségének szintje |
@@ -181,12 +181,12 @@ A karakter – **Ellenpróba** során – dönthet úgy, hogy `VÉ`-je egy rész
 
 - Ha a Manőver sikeres, akkor az ellenfél következő visszatámadásakor már nincs levonás
 
-<br/> 
+<br/>
 
 ---
 ### Manőverek végrehajtása, képzetlenség
 
-A manőverek végrehajtásával bárki próbálkozhat, aki az adott manővernél leírt **Végbevitel-követelményeket** teljesíti. Amennyiben nem teljesíti, akkor is nekifuthat, de az 
+A manőverek végrehajtásával bárki próbálkozhat, aki az adott manővernél leírt **Végbevitel-követelményeket** teljesíti. Amennyiben nem teljesíti, akkor is nekifuthat, de az
 
 ```
 ... Ellenpróba dobásánál a célszám az ő számára 3-al megemelkedik.
@@ -209,7 +209,7 @@ Manőver-ismeret fokonként +2 módosítót ad az „Ellenpróba” dobásnál
 
 Ilyen ismeret lehet például a **Manőver – Gáncsolás** megtanulása, melynek bónuszát kizárólag **Gáncsolás** manőver esetén kapja meg a karakter. Az, hogy egy Manőver ismeretnek hány foka van, az az adott manőver leírásánál található meg.
 
-<br/> 
+<br/>
 
 ---
 ### Manőver lista
@@ -335,7 +335,7 @@ Az alábbiakban bemutatjuk a km100 által ismert manővereket. A KM bármikor r�
 	- Nagy és Közepes pajzzsal lehet csak
 - Hatás: Pajzsoddal sikeresen feldöntötted ellenfeled, aki ettől kezdve (míg fel nem képes állni) a „**Harc földön fekve**” helyzet módosítóival harcol.
 
-<br/> 
+<br/>
 
 ---
 ### Fejleszthető manőverek
@@ -350,7 +350,7 @@ Az alábbiakban Manőverfejlesztő Pontokból (`MFP`) fejleszthető Manőverek l
 
 - Nehézség: `9`
 - Fázisok: `M E`
-- Max fok: `2` 
+- Max fok: `2`
 - Végbevitel követelménye:
 	- Belharcos fegyver használata
 	- **Közelharc** harcmodor
@@ -374,10 +374,10 @@ Lásd: [Kibontakozás/Átsiklás](065_05_manoverek.md#%EF%B8%8Fkibontakozásáts
 #### 🗡️Gáncsolás / Lábsöprés (lábbal)
 - Nehézség: `8/5`
 - Fázisok: `E V`
-- Max fok: `1` 
+- Max fok: `1`
 - Végbevitel követelménye: -
 - **1. fok** követelmény: Közelharc - `5.szint`, Aktuális harcmodor: - `5.szint`
-- Speciális: 
+- Speciális:
 	- Belharci szituációban a nehézség csak `5`
 	- Súlyos ellenfélnél: opcionális **Erőpróba** (KM dönt). Gondoljunk a nagy, páncélos ellenfelekre!
 	- Csak kétlábú ellenfelek ellen alkalmazható, több lábbal rendelkező ellenfélnél **Ökleléssel** kell próbálkoznod.
@@ -389,7 +389,7 @@ Lásd: [Kibontakozás/Átsiklás](065_05_manoverek.md#%EF%B8%8Fkibontakozásáts
 - Nehézség: `5`
 - Fázisok: `E M`
 	- Ez speciális manőver, mert itt először dobjuk az Ellenpróbát, csak aztán a Megakasztás(oka)t.
-- Max fok: `2` 
+- Max fok: `2`
 - **1.fok** követelménye: `Ügyesség: 0`
 - **2.fok** követelménye: `Ügyesség: +1`
 - Végbevitel követelménye: -
@@ -420,7 +420,7 @@ Lásd: [Kibontakozás/Átsiklás](065_05_manoverek.md#%EF%B8%8Fkibontakozásáts
 
 - Nehézség: `6`
 - Fázisok: `E V`
-- Max fok: `1` 
+- Max fok: `1`
 - **1.fok** követelménye: Lándzsavívás – `6.szint`
 - Végbevitel követelménye: szálfegyver használata
 - Speciális:
@@ -434,15 +434,15 @@ Lásd: [Kibontakozás/Átsiklás](065_05_manoverek.md#%EF%B8%8Fkibontakozásáts
 
 - Nehézség: `9`
 - Fázisok: `E V`
-- Max fok: `2` 
+- Max fok: `2`
 - **1.fok követelménye**: Kétkezes harc – `2.fok`, Láncos fegyverre: Mesterfegyver fortély – `1.fok`
 - **2.fok követelménye**: Kétkezes harc – `2.fok`, Láncos fegyverre: Mesterfegyver fortély – `2.fok`
 - Végbevitel követelménye:
 	-  a balkezes fegyvernek láncnak, vagy lánccal felszereltnek kell lennie
 	- az alkalmazó kétkezes harcot folytat
 	- az ellenfél fegyvere csak egykezes lehet
-- Hatás: Jobbkezes fegyvereddel elvezeted, bal kezedben tartott láncos fegyvereddel pedig foglyul ejted ellenfeled pengéjét, vagy fegyvertartó kezét, melyet a továbbiakban nem tud használni, amíg ki nem szabadítja azt. Amennyiben ellenfeled `0,5` pengénél nagyobb fegyvert forgat, dönthet: 
-	- elengedi a fegyvert, mellyel gyakorlatilag sikeres lefegyverzéssé változik a manőver  
+- Hatás: Jobbkezes fegyvereddel elvezeted, bal kezedben tartott láncos fegyvereddel pedig foglyul ejted ellenfeled pengéjét, vagy fegyvertartó kezét, melyet a továbbiakban nem tud használni, amíg ki nem szabadítja azt. Amennyiben ellenfeled `0,5` pengénél nagyobb fegyvert forgat, dönthet:
+	- elengedi a fegyvert, mellyel gyakorlatilag sikeres lefegyverzéssé változik a manőver
 	- továbbra is kezében tartja
 	  (`0,5` pengénél kisebb fegyver tartása esetén kötelezően kézben marad). Ha kézben tartja, akkor az ellenfelet **Harc helyhez kötve** módosítói sújtják, elveszít minden bónuszt az adott fegyverre (Mf, stb), kétkezes harc esetén a továbbiakban a másik kezében tartott fegyver harcértékeivel küzd. Ha másik keze üres, akkor sújtják a **Harc puszta kézzel** fejezetben leírt levonások is, melyek minden pusztakezes harcosra vonatkoznak.
 - Hatás 2: a foglyul ejtett fegyverre a Lefegyverezés manőver csak `5`-ös nehézségű
@@ -455,7 +455,7 @@ Ha meg akarod fosztani ellenfeledet fegyverétől, vagy kiütve kezéből, vagy 
 
 - Nehézség: `10`
 - Fázisok: `E V`
-- Max fok: `3` 
+- Max fok: `3`
 - **1.fok követelménye**: Harcmodor képzettség – `5.szint`
   Ha bármely más harcmodorban eléri az 5.szintet, akkor onnantól kezdve abban a harcmodorban is jár a bónusz, nem szükséges újra pontot költeni a manőverre.
 - **2.fok követelménye**: 1.fok megléte, Harcmodor képzettség – `7.szint` és  Mesterfegyver fortély (választott fegyver) – `1.fok`
@@ -475,7 +475,7 @@ Ha meg akarod fosztani ellenfeledet fegyverétől, vagy kiütve kezéből, vagy 
 
 - Nehézség: `8/5`
 - Fázisok: `E V`
-- Max fok: `1` 
+- Max fok: `1`
 - Végbevitel követelménye:
 	-  xyz
 - Speciális:
@@ -490,7 +490,7 @@ Ha meg akarod fosztani ellenfeledet fegyverétől, vagy kiütve kezéből, vagy 
 
 - Nehézség: `10+12`🍁
 - Fázisok: `E V`
-- Max fok: `2` 
+- Max fok: `2`
 - **1.fok követelmény**: Mesterfegyver – `2.fok`
 - **2.fok követelmény**: Mesterfegyver – `3.fok`
 - Speciális követelmény: A használt fegyver csak valamilyen (legfeljebb 1 penge hosszú) hegyes szúrófegyver lehet
@@ -505,7 +505,7 @@ Szándékosan rongálod ellenfeled pajzsát, csökkentve annak Védő Értékét
 
 - Nehézség: `6`
 - Fázisok: `E V`
-- Max fok: `1` 
+- Max fok: `1`
 - **1. fok követelménye**: Aktuális harcmodor - `6.szint`, `Erő: +1`
 - Végbevitel követelménye: Aktuális harcmodor - `4.szint`
 - Speciális: Ez ellen a manőver ellen nem számít a pajzs adta Védő Érték!
@@ -516,7 +516,7 @@ Szándékosan rongálod ellenfeled pajzsát, csökkentve annak Védő Értékét
 
 - Nehézség: `Lásd a leírást`
 - Fázisok: `E V`
-- Max fok: `2` 
+- Max fok: `2`
 - **1. fok követelménye**: Aktuális harcmodor - `6.szint`
 - **2. fok követelménye**: Aktuális harcmodor - `9.szint`
 - Nehézség: vért lefedésétől függ %-ban: `1-10` (példa: Mellvért: `5`, teljes vért: `10`)
@@ -537,7 +537,7 @@ Nem támadsz, hanem ⭕TODO⭕
 
 - Nehézség: `5`
 - Fázisok: `M E`
-- Max fok: `⭕TODO⭕` 
+- Max fok: `⭕TODO⭕`
 - Végbevitel követelménye:
 	-  ⭕todo⭕
 - Hatás: ⭕todo⭕
@@ -548,7 +548,7 @@ Nem támadsz, hanem ⭕TODO⭕
 
 - Nehézség: `8`🍁
 - Fázisok: `E`
-- Max fok: `1` 
+- Max fok: `1`
 - **1.fok követelménye:** Aktuális harcmodor - `6.szint`
 - Végbevitel követelménye: Aktuális harcmodor - ⭕`6.szint`⭕
 - Speciális:
@@ -557,13 +557,13 @@ Nem támadsz, hanem ⭕TODO⭕
 - Nehézség🍁: Harci alakzatban használva jelentősen csökkenthetik a nehézséget. Az alakzatok jellemzőit ismerve a KM dönt `[-4;+2]`. Ez csökkenheti a végbevitel harcmodor követelményét is.
 - Hatás: arra tereli az ellenfelet, amerre akarja. Hátrálásnál nem kell használni, az megy magától!
 
-<br/> 
+<br/>
 
 ---
 ### Lovas Manőverek
 
 A lóval és ló ellen végbevihető Manőverek a [Harc lóhátról](066_harc_lohartol.md#lovas-man%C5%91verek) fejezetben találhatóak.
-<br/> 
+<br/>
 
 ---
 ### ⚡Egyszerű példa egy Manőver alkalmazására
@@ -617,19 +617,19 @@ Tetves értékei:
 
 Ellenfelének értékei:
 - Kardvívás: `6.szint`
-- VÉ: `140` 
+- VÉ: `140`
 - Nincs „**Gáncsolás**” Manőver ismerete
-  
+
 A Gáncsolás manőver nehézsége: `8` (belharcban `5` lenne, de ez most nem áll fenn)\
 Gáncsolás fázisai: sikeres Végrehajtás (`V`) és Ellenpróba (`E`) szükséges.
 
 1. Végrehajtás: Tetves leadja támadását. `55+20+k100 = 142`, ez nagyobb mint ellenfele `VÉ`-je
     → Sikeres Végrehajtás
-    
+
 2. Ellenpróba
 - Tetves manőver pontjai: `7+2+2 = 11`
     (közelharc + „Gáncsolás” manőver ismeret bónusza + vállalás)
-    
+
 - Célszám: `8+6+2=16`
   (ellenfél kardvívása + gáncsolás nehézsége + a fegyverméretek különbözősége miatt a KM megnöveli `2`-vel a célszámot)
 

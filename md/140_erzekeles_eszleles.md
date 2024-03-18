@@ -53,7 +53,7 @@ A karakternek feltűnik valami anélkül, hogy kifejezetten kereste volna/figyel
 
 - **Észlelés** + **Érzékenység**: Követik-e? ; Észreveszi-e a ruha alatt villanó tőrt?
 - **Észlelés** + **Intelligencia** : Rájön-e, hogy mit vett észre? (az igazi szakáll nem nő így például)
-   
+
 ---
 ### Harcot megelőző szituáció
 

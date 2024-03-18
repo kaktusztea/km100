@@ -56,7 +56,7 @@ További támadásokat `Kétkezes Harc` során szerezhet a karakter. Lásd a [K�
 
 ### "Varázskeret"
 ```
- "Varázskeret" = Mágia Tradíció szint + ⭕Gyorsaság⭕ tulajdonság 
+ "Varázskeret" = Mágia Tradíció szint + ⭕Gyorsaság⭕ tulajdonság
 ```
 
 Varázslásnál nagyjából ez felel meg a "Harcmodor-Sebességnek", annyi különbséggel, hogy a "Harcmodort" itt a "Mágia Tradíció" helyettesíti, annak szintje számít.

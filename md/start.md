@@ -17,8 +17,8 @@
 - [Képzettségrendszer](020_kepzettsegrendszer.md) (80%)
 - [Képzettséglista](021_kepzettseglista.md) (90%)(20%)
 - [Fortélyok](030_fortelyok.md)
-  - [Általános, Érzék, Alvilági és Fizikai fortélyok](033_altalanos_fortelyok.md) 
-  - [Harci, Távharc és Lovas fortélyok](034_harci_fortelyok.md)  
+  - [Általános, Érzék, Alvilági és Fizikai fortélyok](033_altalanos_fortelyok.md)
+  - [Harci, Távharc és Lovas fortélyok](034_harci_fortelyok.md)
   - [Misztikus és Mágia fortélyok](035_misztikus_magia_fortelyok.md)
 - [Hátterek](040_hattererek.md)
   - [Faj Hátterek](041_faj_hatterek.md)
@@ -33,7 +33,7 @@
     - [Ordani (godoni?) Tűzmágia](051_03_ordani_tuzmagia.md)
     - [Bárdmágia](051_04_bardmagia.md)
     - [Sámánmágia](051_05_samanmagia.md)
-    - [Ork Énekmondói mágia](051_06_ork_enekmondoi_magia.md) 
+    - [Ork Énekmondói mágia](051_06_ork_enekmondoi_magia.md)
     - [Rituális mágia](051_07_ritualis_magia.md)
   - [Papi tradíciók](052_00_papi_tradiciok.md) (0%)🚧
   - [Fejvadász tradíció](053_fejvadasz_tradicio.md) (10%)🚧
@@ -68,7 +68,7 @@
   - [Aura](093_aura.md)
   - [Magasmágia](051_01_magasmagia.md) (0%)🚧
     - [Elemi mágia iskola](magia.magas/elemi_magia.md) (50%) 🚧
-  - [Vulgármágia](051_02_vulgarmagia.md) (0%) 
+  - [Vulgármágia](051_02_vulgarmagia.md) (0%)
     - [Árnyékmágia iskola](magia.vulgar/arnyekmagia.md) 🚧
     - [Méregmágia iskola](magia.vulgar/meregmagia.md) 🚧
     - [Méregmágia szemita](magia.vulgar/meregmagia.szemita.md) 🚧

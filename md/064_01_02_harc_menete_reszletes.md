@@ -152,7 +152,7 @@ Az 1-es dobás (k20-on) mindig 1 ÉP seb (bónuszoktól függetlenül) amennyibe
 
 Amennyiben a korábban leírt módon sikeres [Túlütést](#t%C3%BAl%C3%BCt%C3%A9s) értünk el, akkor ezt követően **Sebző Dobást** tehetünk `k20`-al, melyhez hozzáadódik a fegyver sebzése, a **Mesterfegyver** fortélyból és az **Erőbónuszból** adódó módosítók, valamint a **többszörös túlütésből**, **rohamból** és egyes fortélyokból (pl. Támadás Erőből) adódó extra értékek. Az így kapott SP értéket bemondja a támadó a támadás típusával együtt (pl. Szúrás).
 
-A védő levonja belőle a a támadás típusának (pl. szúrás) megfelelő SFÉ értékét (pl. szúrás elleni) és a kapott értékhez rendelt ÉP értéket (lásd **ÉP Sebzés** oszlopot) levonja aktuális Életerő Pontjai számából, a VÉ csökkenést pedig aktuális Védő Értékéből. 
+A védő levonja belőle a a támadás típusának (pl. szúrás) megfelelő SFÉ értékét (pl. szúrás elleni) és a kapott értékhez rendelt ÉP értéket (lásd **ÉP Sebzés** oszlopot) levonja aktuális Életerő Pontjai számából, a VÉ csökkenést pedig aktuális Védő Értékéből.
 
 Sebzés esetén nincs kiskocka VÉ csökkentés, csak a táblázatban levő érték!
 
@@ -254,7 +254,7 @@ Abban, hogy a karakter aktuális sebesülési állapotában milyen ütemben vesz
 ### Védő Érték regenerálódása
 
 ```diff
-Kitéve a Megoldandók doksiba: 
+Kitéve a Megoldandók doksiba:
 - ⭕TODO_HARC_#60.
 - ⭕TODO: az egyszerűbb (1 kör nyugi) lesz valszeg, de az edzettséget is bele kéne venni!
 ```
@@ -291,7 +291,7 @@ Néhány irányelv:
 - `7`-et dob, így az eredmény: `7+4=11`
 - A `11 SP` seb-kategóriájához `6 ÉP` veszteség tartozik
 - Tetves levon `6 ÉP`-t `16 ÉP`-jéből, marad `10 ÉP`-je.
-  
+
 ⚡Példa 2
 
 - Cobaq Ereje: `+5`, Kétkezes kardot (`+8`) forgat
