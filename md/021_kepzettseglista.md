@@ -51,7 +51,7 @@
 
 ### 🟡[Helyismeret (városnyi terület)](kepzettsegek/helyismeret.md)
 
-Ez egy speciális képzettség, melyre nem kell KP-t költeni. Minden karakter kezdéskor kap `10` szintnek megfelelő pontot, amit eloszthat az általa ismert városok/városnyi területek között. Például:
+Ez egy speciális (Könnyű) képzettség, melyre nem kell KP-t költeni. Minden karakter kezdéskor kap `10` szintnek megfelelő pontot, amit eloszthat az általa ismert városok/városnyi területek között. Például:
 
 * Helyismeret – Shadlek : 10
 
@@ -74,9 +74,9 @@ Első szinten minden karakter megkapja `3-as szinten` a saját vallási pantheon
 
 ### 🟡[Nyelvismeret](kepzettsegek/nyelvismeret.md) - saját nyelv
 
-Első szinten minden karakter megkapja `6-os szinten` a saját anyanyelvéhez tartozó Nyelvismeret képzettséget.
+Első szinten minden karakter megkapja `6-os szinten` a saját anyanyelvéhez tartozó Nyelvismeret (Könnyű) képzettséget.
 
-Továbbá – a fentin kívül – megkapja még `3-as szinten` a Közös nyelv ismeretét (Pyarroni) is. Amennyiben a karakter anyanyelve a Pyarroni, akkor csak azt kapja meg (`6-os szinten`), nem kap „ajándékba” más Nyelvismeret képzettséget, vagy Karakter Pontot! A képzettség KP-ból természetesen szabadon tovább növelhető.
+Továbbá – a fentin kívül – megkapja még `3-as szinten` egy másodlagos nyelvre is. Az elsődleges és másodlagos nyelvek közül az egyiknek a Pyarroni (Közös) nyelvnek kell lennie.
 
 ---
 
