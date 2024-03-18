@@ -2,6 +2,7 @@
 
 - [Szabályok manőverekre](#Szabályok-manőverekre)
 - [Manőverek nehézsége](#Manőverek-nehézsége)
+
 - [Manőver végrehajtásának lépései](#Manőver-végrehajtásának-lépései)
 	- [Megakasztás (M)](#Megakasztás-M)
 	- [Végrehajtás (V)](#Végrehajtás-V)
@@ -9,8 +10,10 @@
 		- [Manőver Pont](#Manőver-Pont)
 		- [Célszám](#Célszám)
 	- [Vállalás](#Vállalás)
+
 - [Manőverek végrehajtása, képzetlenség](#Manőverek-végrehajtása-képzetlenség)
 - [Manőverek fejlesztése, manőver-ismeretek](#Manőverek-fejlesztése-manőver-ismeretek)
+
 - [Manőver lista](#Manőver-lista)
 - [Nem fejleszthető manőverek](#Nem-fejleszthető-manőverek)
 	- [Átdobás](#%EF%B8%8F%C3%A1tdob%C3%A1s)
@@ -24,6 +27,7 @@
 	- [Nyaktörés](#%EF%B8%8Fnyakt%C3%B6r%C3%A9s)
 	- [Öklelés](#%EF%B8%8F%C3%B6klel%C3%A9s)
 	- [Pajzzsal öklelés](#%EF%B8%8Fpajzzsal-%C3%B6klel%C3%A9s)
+
 - [Fejleszthető manőverek](#Fejleszthető-manőverek)
 	- [Belharcba kerülés](#%EF%B8%8Fbelharcba-ker%C3%BCl%C3%A9s)
 	- [Belharcból kibontakozás](#%EF%B8%8Fbelharcb%C3%B3l-kibontakoz%C3%A1s)
@@ -38,6 +42,7 @@
 	- [Páncélszúrás](#%EF%B8%8Fp%C3%A1nc%C3%A9lsz%C3%BAr%C3%A1s)
 	- [Távoltartás](#%EF%B8%8Ft%C3%A1voltart%C3%A1s)
 	- [Terelés](#%EF%B8%8Fterel%C3%A9s)
+
 - [Lovas Manőverek](#lovas-man%C5%91verek)
 - [Egyszerű példa egy Manőver alkalmazására](#Egyszerű-példa-egy-Manőver-alkalmazására)
 - [Összetettebb példa egy Manőver alkalmazására](#Összetettebb-példa-egy-Manőver-alkalmazására)
@@ -147,6 +152,7 @@ Manőver pont + k10   vs.  Manőver célszáma
 | Módosító                                              | Érték                                                             |
 | ----------------------------------------------------- | ----------------------------------------------------------------- |
 | Harcmodor                                             | Az alkalmazó aktuálisan használt harcmodor képzettségének szintje |
+| HM / 10                                               | A nem-távolsági harcmodorokra elköltött **Harcérték Módosítók** (HM) tizede. |
 | „Manőver ismeret<br>(az adott manőverre)”<br>(ha van) | Fokonként: `+2`                                                   |
 | Vállalás                                              | `+1` pont → `-15 VÉ`<br>(Maximum vállalás: **+ 2**)               |
 | + k10                                                 | Dobás `k10`-el                                                    |
@@ -158,6 +164,7 @@ Manőver pont + k10   vs.  Manőver célszáma
 | Módosító                                               | Érték                                                                                                                                 |
 | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
 | Manőver Nehézség                                       | Az adott Manőver alapnehézsége                                                                                                        |
+| HM / 10                                                | Az ellenfél nem-távolsági harcmodorokra elköltött **Harcérték Módosítóinak** (HM) tizede.                                               |
 | Harcmodor                                              | Az ellenfél aktuálisan használt harcmodor képzettségének szintje                                                                      |
 | „Manőver ismeret – (az adott manőverre)”  <br>(ha van) | Fokonként: `+2`                                                                                                                         |
 | Módosító körülmények                                   | `[-5;+5]` Tetszőleges KM által megadott +/- érték. Körülmény függő nehezítés ill. könnyítés. (Pl. eltérő fegyverméretek, bódulat, stb.) |
@@ -168,7 +175,7 @@ Az **Ellenpróba** dobása során a KM meghatározza a próba célszámát, a j�
 
 Ha csak az **Ellenpróba** az adott Manőver követelménye, akkor annak sikere esetén az egész **Manőver** automatikusan sikeresnek tekinthető.
 
-- Ha a körben a manőver az utolsó „támadás”, akkor rontott Végrehajtás esetén Vállalásának VÉ levonása „átcsúszik” a következő körre
+- Ha a körben a manőver az utolsó „támadás”, akkor rontott Végrehajtás esetén Vállalásának VÉ levonása „átcsúszik” a következő körre.
 
 - A KM a körülményektől és szituációtól függően adhat pozitív/negatív célszám módosítót [+5;-5] értékhatáron belül. Sőt, a KM dönthet úgy, hogy a feltételei adottak, nincs szükség Ellenpróbára.
 
@@ -264,6 +271,7 @@ Az alábbiakban bemutatjuk a km100 által ismert manővereket. A KM bármikor r�
 	- Belharc – `1.fok`
 	- Közelharc – `6 .szint`
 - Hatás: kitörted ellenfeled kezét, ⭕`5 ÉP`⭕ sebzés, a sérült kezét nem  használhatja harcra, amíg meg nem gyógyul.
+- ⭕Páncél nehezítsen?⭕
 
 ---
 #### 🗡️Kiegészítő támadás
