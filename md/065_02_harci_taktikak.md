@@ -24,7 +24,7 @@ A taktikák használatát kör elején, kezdeményezés előtt kell bejelenteni,
 | Kijelölt testrészre támadás **(X)**                        | Sebző támadás `TÉ:-20`-al                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | Pontok támadása harc közben **(X)**                        | • Követelmény: **Harci anatómia** fortély – `2.fok`<br/>• Követelmény: **Pontra támadás** manőver                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | Visszafogott csapás / Harc az ellenfél elfogásáért **(X)** | ⭕TODO⭕ Bónuszt ad: **Harci anatómia** fortély                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-  
+
 ### Ökölszabály Védő Érték eltolásra
 
 Egyes taktikák kombinálhatóak egymással, mások nem (lásd leírásukat), de fontos szabály, hogy **Védő Értékedet** legfeljebb `-30`-al tolhatod el.
@@ -95,7 +95,7 @@ Ha inkább bevárod ellenfeled támadását, kifejezetten az ellencsapásra kés
 Ha úgy döntesz, hogy a fenti feltételekkel lemondasz a kezdeményezésről, cserébe az adott körben **első visszatámadásodra** `+5 TÉ` módosítót kapsz.
 
 A Kiváró taktika alkalmazható **Támadó taktikával** együtt is, továbbá roham ellen is bevethető, de **nem** használható **Védő Taktikával** együtt, sőt több ellenféllel való harc esetén sem!
-  
+
 ---
 ### Védekező harc
 
@@ -116,8 +116,8 @@ Fontos, hogy másra nem pazarolhatod figyelmedet, kizárólag a védekezésre. H
 
 - Nyert kezdeményezés szükséges
 - VÉ csökkentésre: `+2`
-- Sebzés helyett: további `+10 VÉ` csökkentés (a többszörös túlütés nem növeli tovább)  
-	- Hátrány: a "sebzős" esetben az intenzív plusz mozgástól te is elszenvedsz konstans `3 VÉ` csökkenést. 
+- Sebzés helyett: további `+10 VÉ` csökkentés (a többszörös túlütés nem növeli tovább)
+	- Hátrány: a "sebzős" esetben az intenzív plusz mozgástól te is elszenvedsz konstans `3 VÉ` csökkenést.
 
 Ha fárasztani kívánod ellenfeledet, ellenállását megtörni anélkül, hogy sebet ejtenél rajta, akkor a harc ugyanúgy folyik, mint más esetben, csak nyert kezdeményezést követően mindig `+2`-vel nő **VÉ csökkentésed**.
 
@@ -154,7 +154,7 @@ A roham vehemensebb (és őrültebb) verziója. A harcos ekkor szinte semmit nem
 Módosítók az első oda-vissza csapásnál:
 
 - `TÉ:+25` ; `VÉ:-50`
-- VÉ csökkentés duplázódik  
+- VÉ csökkentés duplázódik
 - Sebzés: `+7 SP`
 
 ---
@@ -182,7 +182,7 @@ A Belharci szituációba kerüléshez ezt a manővert kell sikerrel végrehajtan
 
 #### Kibontakozás/Átsiklás manőver
 
-A **Belharci szituációból** kijövetelre ennek sikeres végrehajtására van szükség.  
+A **Belharci szituációból** kijövetelre ennek sikeres végrehajtására van szükség.
 Nehézsége alapesetben `5`-ös. Persze csak akkor kell a próba, ha valamelyik fél benn akarja tartani a másikat.
 
 - Ha az ellenfélnek Belharc fortélya van, akkor fokonként `+2`-vel nő a nehézség Ellenpróbánál
@@ -217,12 +217,12 @@ Legfeljebb `2.fokon` tanulható fortély, amelyet **egy konkrét, választott be
 ```
 
 Amennyiben a belharcban levő harcost egy harmadik (vele nem belharcban levő) fél támadja, akkor a belharcos a**Harc helyhez kötve** szituáció VÉ büntetéseit szenvedi el, visszatámadni pedig nem tud, hiszen össze van akaszkodva másik ellenfelével. Kivétel: Sikeres **Leszorítás** (manőver) alkalmazása után, a leszorított áldozatot beforgathatja maga és a támadó közé, kvázi patthelyzetet okozva.
-  
+
 
 ⭕**Átnézendő:**
 
 ```diff
-- Manőverek, amik megkövetelik a belharci szitut (és amiket ezzel kapcsolatban át kell nézni): Átdobás, Feszítés/kijövetel, Kéztörés, Lábtörés, Nyaktörés  
+- Manőverek, amik megkövetelik a belharci szitut (és amiket ezzel kapcsolatban át kell nézni): Átdobás, Feszítés/kijövetel, Kéztörés, Lábtörés, Nyaktörés
 -	    Ezek natív végrehajtásához követelmény a Belharci szituáció.
 ```
 

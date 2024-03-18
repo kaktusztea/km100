@@ -120,7 +120,7 @@ A szintlépés számszerű hatásait lásd a [Fejlődés](#fejlődés) fejezetbe
 
 ## Tulajdonságok
 ```
-[-5; +5]  - faj/mágia által max +7 
+[-5; +5]  - faj/mágia által max +7
 ```
 
 Mikor karaktert alkotsz, elképzeled magad előtt a külsejét, megálmodod a belső jellemzőit, melyek személyiségét árnyalják. Egyes, erős testi illetve személyiség jegyeinek számértékkel való leírása nagyban megkönnyíti, hogy egy felületes, általános képet kapjunk a karakterről.
@@ -632,7 +632,7 @@ A karakterek 1. tapasztalati-szinten (TSz) `100 KP`-t (KP Alap), valamint minden
   - `max 4 CM/Tsz`\
     (CM = Célzó Érték Módosító, ami a CÉ-re fordítandó harcérték módosítót jelöli)
   - ⭕`max 5 HM/Tsz` tehető egy harcértékre⭕
-  
+
 - Mágiaiskolák: **Átfogó** képzettségek. Csak azok a mágiaiskolák tanulhatóak, amelyek a karakter által ismert mágia tradíció alá tartoznak.
 
 - Pszí tradíció, Pszí iskolák

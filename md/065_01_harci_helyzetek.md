@@ -144,7 +144,7 @@ Ilyenkor ellenfele `Védő Értékét` annak mozgási jellege és mérete határ
 
 <br/>
 
- 
+
 | **Célpont mérete** | **VÉ** |
 | ------------------ | ------ |
 | Óriás              | -30    |

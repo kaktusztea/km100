@@ -33,7 +33,7 @@ A karakter Kezdeményező Értékét a következőképpen kell kiszámítani:
 
 A Védő Érték szimbolizálja a karakter közelharcban nyújtott azon képességét, hogy mennyire hatásosan képes elhárítani, elkerülni az ellene intézett csapásokat. Értéke nem mondható konstansnak, hisz a harci helyzettől függően változik, ráadásul kihat rá a testi-lelki, szellemi fáradság és persze a sebesülés is (lásd később).
 
- 
+
 | 🗡️ | Védő Érték meghatározása |
 |:---:|---|
 |Konstans|120 (minden karakternek)|
@@ -56,7 +56,7 @@ A Támadó Érték szimbolizálja a harcos azon tulajdonságát, hogy az adott f
 
 Az alábbi táblázat megadja, a Támadó Érték kiszámolásának módját.
 
- 
+
 | 🗡️ | Támadó Érték meghatározása |
 |:---:|---|
 |Konstans|20 (minden karakternek)|
@@ -84,7 +84,7 @@ Bővebben lásd a [Harc menete - Támadás, Védő Érték csökkentése](064_01
 ---
 ### Célzó Érték
 
- 
+
 | 🗡️ | Célzó Érték kiszámítása |
 |:---:|---|
 |K100|Dobás K100-al – támadó dobás esetén.|

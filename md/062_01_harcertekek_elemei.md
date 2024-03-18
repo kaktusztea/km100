@@ -6,7 +6,7 @@ Mikor két teremtmény fegyvert ragad és ütésekkel, szúrásokkal, vágásokk
 
 A karaktert a harcban harcértékei jellemzik. Ezek mutatják meg, hogy mennyire képzett a küzdelem egyes területein. Alapvetően négy érték határozza meg az aktuális harcértékeket, melyek szituációtól, forgatott fegyvertől, illetve harcmodortól függően változhatnak. Ezek a
 
-- Kezdeményező Érték    
+- Kezdeményező Érték
 - Támadó Érték
 - Védő Érték
 - Célzó Érték
@@ -37,7 +37,7 @@ KÉ konstans: 10
 TÉ konstans: 20
 VÉ konstans: 120
 CÉ konstans: -30
-```  
+```
 
 Ehhez az alapértékhez adódnak majd hozzá az egyéb módosítók.
 
@@ -78,9 +78,9 @@ A km100 rendszere az alábbi (átfogó) harci képzettségeket ismeri:
 - **Kardvívás: minden „pengés” fegyver (kétkezes kard is)**
 - **Pusztítás: zúzófegyverek, csatabárdok, csákány**
 - **Lándzsavívás: Szálfegyverek**
-    
 
-A harci képzettségek aktuális szintjétől függ, hogy az alá tartozó fegyvereket milyen általános harcérték pluszokkal forgathatja a karakter.  
+
+A harci képzettségek aktuális szintjétől függ, hogy az alá tartozó fegyvereket milyen általános harcérték pluszokkal forgathatja a karakter.
 **Megjegyzés**: Az egyes fegyverek további erősítése a Mesterfegyver fortéllyal lehetséges.
 
 </br>
@@ -129,7 +129,7 @@ Ha ezeken felül is manővert akar tanulni, akkor fokonként +10KP-t kell költe
 
 A legtöbb esetben egy karakternek van egy (vagy több) fegyver típusa, amelyet előnyben részesít, gyakran forgat egy harcmodoron belül. A Mesterfegyver fortély segítségével egyes fegyverek harcértékeit tovább növelheti, így elszakadva kicsit tudásban a harcmodor többi fegyverétől. A Mesterfegyver fortélyt legfeljebb 3. fokon lehet felvenni az alábbi követelményekkel és jutalmakkal:
 
-     
+
 |Fok|Követelmény|KÉ|TÉ|VÉ|Sebzés|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 1.fok    | 4.szint a harcmodorban  | `KÉ:+2`, `TÉ:+3`, `VÉ:+3`, `SP:+1`     |

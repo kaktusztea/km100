@@ -138,7 +138,7 @@ Puszta kéz:  KÉ:-10,  TÉ:0,  VÉ:-10
 
 ---
 ### Pusztító fegyverek harcértékei
-     
+
 | **Fegyver**                             | Forgatás módja |  SP  |      Sebzés módja      | **Átütés** | **Pengehossz** | KÉ  |  TÉ  |  VÉ  | Sebesség | Speciális                                                                      |
 | --------------------------------------- | :------------: | :--: | :--------------------: | :--------: | :------------: | :-: | :--: | :--: | :------: | ------------------------------------------------------------------------------ |
 | Balta                                   |    egykezes    |  ⭕   |                        |    `0`     |                |     |      |      |          |                                                                                |
@@ -161,7 +161,7 @@ Puszta kéz:  KÉ:-10,  TÉ:0,  VÉ:-10
 ❗A lándzsavívó, szálfegyverek használatához helyre van szükség. Amint beszűkült téren kell forgatni, harcértékük `0`-ra zuhan!
 
 A fenti alól kivétel, ha két oldalról természetes, vagy épített kordonnal határolva áll a fegyveres és oldalról nem fenyegetve, egy adott irányba végzi a harcot a karakter (folyósón egy irányba küzdeni).
- 
+
 | **Hegy**      |  SP  | Sebzés módja | **Átütés** | Speciális                                                                                                                                                                                                                                                                               |
 | ------------- |:----:|:------------:|:----------:| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Keskeny hegyű | `+2` |      S       |    `4`     | Kis területet roncsol, de páncélokat jól üti át                                                                                                                                                                                                                                         |
@@ -234,7 +234,7 @@ A Hajítófegyverek sebzése általánosságban **Szúró** jellegű. Ahol ez m�
 ---
 ### Lőfegyverek harcértékei
 
-A Lőfegyverek sebzése általánosságban **Szúró** jellegű. Ahol ez másként van, ott az adott fegyver leírásánál a „**Speciális/Megjegyzés**” oszlopban ezt külön feltüntetjük.  
+A Lőfegyverek sebzése általánosságban **Szúró** jellegű. Ahol ez másként van, ott az adott fegyver leírásánál a „**Speciális/Megjegyzés**” oszlopban ezt külön feltüntetjük.
 
 A Sebzést és Átütést a nyílhegy is meghatározza! ⭕TODO ⭕
 

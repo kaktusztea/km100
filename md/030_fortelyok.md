@@ -28,5 +28,5 @@ A fortélyoknak lehetnek **követelményei**: Tulajdonságok elvárt értékei, 
 [Harci, Távharc és Lovas fortélyok](034_harci_fortelyok.md)
 
 [Misztikus és Mágia fortélyok](035_misztikus_magia_fortelyok.md)
-  
+
 ---

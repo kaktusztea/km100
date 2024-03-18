@@ -61,7 +61,7 @@ Titkos, félmágikus ismeret. Csak az álcázás legnagyobb mesterei ismerik –
 - Álcázás/Álruha - `15.szint`
 
 ##### Hatás a képzettség adott szintjén
-15. szint: Alkalmazója kellékek nélkül is képes átformálni vonásait. A hatás csak annyi lehet, amennyit maszkkészítő eszközökkel is el tudna érni. Például: pár perc alatt szakállat, bajszot növeszt, ráncokat varázsol az arcára, megváltozik szeme színe, stb. 
+15. szint: Alkalmazója kellékek nélkül is képes átformálni vonásait. A hatás csak annyi lehet, amennyit maszkkészítő eszközökkel is el tudna érni. Például: pár perc alatt szakállat, bajszot növeszt, ráncokat varázsol az arcára, megváltozik szeme színe, stb.
 
 
 

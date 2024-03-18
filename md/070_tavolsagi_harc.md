@@ -102,7 +102,7 @@ A Szorzó a célpont Védő értékének kiszámolásában játszik szerepet. Az
 
 Ha a célpont mozog, jóval nehezebb eltalálni. A távolság növekedésével ez a nehézség nem lineárisan, hanem exponenciálisan nő, éppen ezért érthető, hogy a mozgás is a Távolsági szorzó része. Alább az egyes mozgás típusokhoz tartozó módosítókat olvashatjuk.
 
-  
+
 | Célpont mozgásának jellege | Módosító | Megjegyzés                                                                                                                                                                          |
 |:--------------------------:|:--------:| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |            Álló            |   `3x`   | A célpont mozdulatlan                                                                                                                                                               |
@@ -113,7 +113,7 @@ Ha a célpont mozog, jóval nehezebb eltalálni. A távolság növekedésével e
 
 Természetesen a lövést végző személy mozgása is befolyásolja a találati esélyeket, hiszen könnyebb állva célozni, mint mondjuk futásból. A lövész mozgása az alábbiak szerint módosíthatja a **Szorzót**:
 
-  
+
 | Lövész mozgása                     | Módosító  | Megjegyzés |
 | ---------------------------------- |:---------:| ---------- |
 | Mozdulatlan / Álló lövész          | `+0x`  ❔ |            |
@@ -124,7 +124,7 @@ Természetesen a lövést végző személy mozgása is befolyásolja a találati
 ---
 #### Szorzó - Méret módosító
 
-  
+
 | Célpont mérete           | Módosító | Megjegyzés |
 | ------------------------ |:--------:| ---------- |
 | Pénzérme                 |   +7x    |            |
@@ -165,7 +165,7 @@ A látási viszonyok erősen meghatározzák a távolsági harcot, hiszen péld�
 
 További opcionális szabály: amennyiben rendkívül erős szél fúj, akkor az is módosíthatja a célpont Védő Értékét, mivel az erős széllökések eltéríthetik a lövedéket.
 
- 
+
 | Szél ereje          |  Szorzó módosító   |
 | ------------------- |:------------------:|
 | Nagyon erős szélben |        +4x         |
@@ -176,7 +176,7 @@ További opcionális szabály: amennyiben rendkívül erős szél fúj, akkor az
 #### 🔆Szürkület hatása a Szorzóra - Opcionális szabály
 
 Ha valaki nagyfokú realisztikusságra törekszik, akkor alkalmazhatja az alábbi opcionális szabályt is: amennyiben a környezet legalább szürkületnek megfelelő sötétségű, akkor konstans +2x Szorzó módosító jár a VÉ kiszámításánál, mivel hiába jól kivehető a cél, sötétben sokkal nehezebb jól megbecsülni a távolságot.
- 
+
 | Speciális                                  | Szorzó Módosító |
 | ------------------------------------------ |:---------------:|
 | Szürkületi sötétben, vagy annál sötétebben |      `+2x`      |
@@ -188,9 +188,9 @@ Ha valaki nagyfokú realisztikusságra törekszik, akkor alkalmazhatja az alább
 
 Az fegyver **Osztó** szintén méterben megadott távolságérték és fegyverenként változik. Azt mutatja meg, hogy hány méterenként nő **az adott fegyverrel szemben** a célpont **Védő Értéke**. Gyakorlatilag azt befolyásolja, hogy a cél távolságának növekedésével milyen ütemben romlik találati esélyünk.
 
-Érthető, hogy egy nyílpuska **Osztója** nagyobb, mint egy dobótőré, hiszen az előbbivel jó eséllyel támadhatunk akár `30-40` méterre levő célpontot is, míg egy dobótőr esetében ez már a lehetetlen kategóriába tartozik. A fentieket alább, a **Cellaszám** tárgyalásánál érthetjük meg. 
+Érthető, hogy egy nyílpuska **Osztója** nagyobb, mint egy dobótőré, hiszen az előbbivel jó eséllyel támadhatunk akár `30-40` méterre levő célpontot is, míg egy dobótőr esetében ez már a lehetetlen kategóriába tartozik. A fentieket alább, a **Cellaszám** tárgyalásánál érthetjük meg.
 
-⚡Példa: a **Könnyű nyílpuska** **Osztója** `4`. Tehát `4` méterenként nő vele szemben a célpont Védő Értéke. 
+⚡Példa: a **Könnyű nyílpuska** **Osztója** `4`. Tehát `4` méterenként nő vele szemben a célpont Védő Értéke.
 
 ### Cellaszám
 
@@ -232,7 +232,7 @@ Távolsági fegyverek esetén nincs többszörös túlütésből adódó plusz s
 
 Ha valaki látja és van ideje felkészülni a rá leadott lövésre/hajításra, valamint rendelkezik elegendő hellyel a kitérésre és bejelenti, hogy megpróbálja elkerülni végzetét, akkor Gyorsaságpróbát kell dobnia, melynek nehézsége függ a lövést leadó személy távolságától, valamint az általa használt fegyvertől.
 
-   
+
 | Gyorsaságpróba célszám | Dobófegyverek,<br />Mágikus lövedék I. | Íjak,<br />Mágikus lövedék II. | Nyílpuskák,<br />Mágikus lövedék III. |
 |:----------------------:| --------------------------------------:| ------------------------------:| -------------------------------------:|
 |           8            |                      1m&nbsp;-&nbsp;3m |                        0m - 5m |                              0m - 10m |
@@ -257,7 +257,7 @@ A fegyver méretének az **Erő** Tulajdonság és a KM józan esze szab határt
 
 ---
 ### Egyéb körülmények
-  
+
 | Körülmény                                                           |                    CÉ módosító                     | Megjegyzés                                                                                                                                                                                                                           |
 |:------------------------------------------------------------------- |:--------------------------------------------------:| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | A célpont fekszik, guggol                                           |                       nincs                        | A védekező megváltozott mérete számít.                                                                                                                                                                                               |
@@ -276,7 +276,7 @@ A fegyver méretének az **Erő** Tulajdonság és a KM józan esze szab határt
 
 A távolsági fegyverek több kategóriába sorolhatóak attól függően, hogy általánosságban mennyire könnyű kezelni őket, mennyire alkalmasak messzi célok leküzdésére. Ezek szerint az alábbi módosítók járulnak ****minden**** karakter Célzó Értékéhez, aki a felsorolt fegyverek valamelyikét kezébe veszi. A lentiek csak irányadó számok a konkrét fegyverek Célzó Értéke és egyedi jellemzőik eltérhetnek ezen értékektől, de nagyjából ebben a skálán mozognak.
 
-   
+
 |            Fegyverkategória            |  CÉ   | Fegyverek                                              | Speciális                                                                                                                             |
 |:--------------------------------------:|:-----:| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
 | Hajító szálfegyverek,<br>Egyéb tárgyak | `+0`  | Kard, zsámoly, korsó, hajításra nem alkalmas fegyverek | Maximális Hatótávjukhoz hozzáadható:  <br>(ERŐ x Osztó)                                                                               |
@@ -349,7 +349,7 @@ Tetves, a tolvaj-bérgyilkos egy raktár ablakából, nyílpuskával les a siká
 ```
 CÉ = -30 (Konstans) + 6 (Önuralom 2x) + 16 (nyílpuska) +15 (CM) + 4 (lövészet) = 11
 ```
-  
+
 **A célpont Védő Értéke**
 
 $$ VÉ = {5(lassan\ mozgó)+0(normál\ méret)+0(jól\ látható)}\ x\ {15(távolság)\over 4(nyílpuska\ osztója)}$$
@@ -399,7 +399,7 @@ Ha a támadó rendelkezik **Vakharc** fortéllyal (1, vagy 2. fok), akkor nem ke
 ```
 CÉ = 30 + 6(Önuralom) – 30(konstans) = 6
 ```
-  
+
 
 **Célpont jellemzői**
 

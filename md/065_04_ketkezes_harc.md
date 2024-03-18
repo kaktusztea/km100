@@ -1,7 +1,7 @@
 ## Kétkezes harc
 
 „_Két fegyver jobb, mint egy_” - ez az egyszerű megállapítás igaz is lehet, kiegészítve azzal, hogy csak akkor, ha az illető ért a páros fegyverhasználathoz.
-   
+
 | **Ismeret foka** | **Harcértékek** | **Harcmodor-Sebesség** | **Követelmény** |
 |--------------------------|-------------------------------------------------------------------|:---------:|:---------------------------------------------|
 |Alapeset<br/>(képzetlenül)| • Főfegyver (nagyobb fegyver) harcmodora és értékei számítanak<br/>• `KÉ/TÉ/VÉ: -10`                                                                                 | `+1`  | - |
