@@ -2,7 +2,6 @@
 
 - [Szabályok manőverekre](#Szabályok-manőverekre)
 - [Manőverek nehézsége](#Manőverek-nehézsége)
-
 - [Manőver végrehajtásának lépései](#Manőver-végrehajtásának-lépései)
 	- [Megakasztás (M)](#Megakasztás-M)
 	- [Végrehajtás (V)](#Végrehajtás-V)
@@ -10,10 +9,8 @@
 		- [Manőver Pont](#Manőver-Pont)
 		- [Célszám](#Célszám)
 	- [Vállalás](#Vállalás)
-
 - [Manőverek végrehajtása, képzetlenség](#Manőverek-végrehajtása-képzetlenség)
 - [Manőverek fejlesztése, manőver-ismeretek](#Manőverek-fejlesztése-manőver-ismeretek)
-
 - [Manőver lista](#Manőver-lista)
 - [Nem fejleszthető manőverek](#Nem-fejleszthető-manőverek)
 	- [Átdobás](#%EF%B8%8F%C3%A1tdob%C3%A1s)
@@ -27,7 +24,6 @@
 	- [Nyaktörés](#%EF%B8%8Fnyakt%C3%B6r%C3%A9s)
 	- [Öklelés](#%EF%B8%8F%C3%B6klel%C3%A9s)
 	- [Pajzzsal öklelés](#%EF%B8%8Fpajzzsal-%C3%B6klel%C3%A9s)
-
 - [Fejleszthető manőverek](#Fejleszthető-manőverek)
 	- [Belharcba kerülés](#%EF%B8%8Fbelharcba-ker%C3%BCl%C3%A9s)
 	- [Belharcból kibontakozás](#%EF%B8%8Fbelharcb%C3%B3l-kibontakoz%C3%A1s)
@@ -42,7 +38,6 @@
 	- [Páncélszúrás](#%EF%B8%8Fp%C3%A1nc%C3%A9lsz%C3%BAr%C3%A1s)
 	- [Távoltartás](#%EF%B8%8Ft%C3%A1voltart%C3%A1s)
 	- [Terelés](#%EF%B8%8Fterel%C3%A9s)
-
 - [Lovas Manőverek](#lovas-man%C5%91verek)
 - [Egyszerű példa egy Manőver alkalmazására](#Egyszerű-példa-egy-Manőver-alkalmazására)
 - [Összetettebb példa egy Manőver alkalmazására](#Összetettebb-példa-egy-Manőver-alkalmazására)
@@ -55,6 +50,11 @@ A km100 harcrendszere lehetőséget ad rá, hogy a karakter harc közben ilyen s
 
 ---
 ### Szabályok manőverekre
+
+- Manővert csak az aktuálisan használt harcmodor `3.szintjétől` lehet rendesen használni, alatta a **Manőver Nehézsége** magasabb
+  - harcmodor `0.szint` esetén: `+3`
+  - harcmodor `1.szint` esetén: `+2`
+  - harcmodor `2.szint` esetén: `+1`
 
 - Egy Manőver végrehajtása `1 támadást` emészt fel, nem szükséges hozzá nyert kezdeményezés
 
