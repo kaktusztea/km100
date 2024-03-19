@@ -2,5 +2,5 @@ Megnézzük, hogy milyen értékeket kapunk 15. szinten, ami a tervezett maximum
 
 Módosítottuk a KP javadalmazást a v8.0.0-hOz képest. Új:
 - KP Alap: 100
-- Primer KP:  120 + Intelligencia / szint
+- Primer KP:  100 + Intelligencia / szint
 - Szekunder KP: 50 + Emlékezet / szint
