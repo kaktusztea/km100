@@ -90,7 +90,7 @@ Az imént felsorolt jellemzők mellett vannak "ingyenes" ismeretek, jellemzők, 
 ---
 ## Szint, szintlépés
 ```
-Maximum karakter szint: 15
+Maximum karakter szint: 20
 ```
 
 Egy karakter „fejlettségét" az abszolút szubjektív „Szint" értékkel jellemezzük. Minél magasabb szintű valaki, annál több időt fordíthatott tanulásra, annál többet tapasztalt.
@@ -101,9 +101,9 @@ Az első 2 szint az előtörténet részének tekinthető, amennyiben ezt nem ak
 
 A karakter fejlődése természetesen folyamatos, de az adminisztráció megkönnyítése érdekében alkalmazzuk a „Szintlépés" fogalmát. Szintlépés olyankor következik be, amikor a KM úgy ítéli, a karakter jelentősen fejlődött, sokat tapasztalt és ennek ideje lenne értékeiben is megmutatkozniuk.
 
-Aki békésen, kihívások, újdonságok, megpróbáltatások nélkül éli életét, az nem tapasztal sokat, élete végére legfeljebb `4-5. szintre` jut el.
+Aki békésen, kihívások, újdonságok, megpróbáltatások nélkül éli életét, az nem tapasztal sokat, élete végére legfeljebb `5-6. szintre` jut el.
 
-A km100 rendszerében a `15.szint` az elérhető maximum fejlődésben.
+A km100 rendszerében a `20.szint` az elérhető maximum fejlődésben.
 
 Irányelvek karakter szintekre:
 
@@ -111,9 +111,9 @@ Irányelvek karakter szintekre:
 1.szint: Tapasztalatlan mesterlegény vándorlása megkezdésekor.
 3.szint: Novícius. Más rendszereknél ez az 1.szint.
 6.szint: Kismester. Tapasztalt harcos, elismert mágiatudó.
-9.szint: Mester. Neves harcos, félelmetes mágiahasználó.
-12.szint: Nagymester. Ünnepelt hadvezér, retteget magitor, főpap.
-15.szint: Világhírű legenda, érák formálója.
+10.szint: Mester. Neves harcos, félelmetes mágiahasználó. 
+15.szint: Nagymester. Ünnepelt hadvezér, retteget magitor, főpap.
+20.szint: Világhírű legenda, érák formálója.
 ```
 
 A szintlépés számszerű hatásait lásd a [Fejlődés](#fejlődés) fejezetben.
@@ -595,9 +595,9 @@ Mikor a mesélő (KM) úgy érzi, az adott játékos karaktere kellően sokat fe
 ## Karakter pontok (KP) elosztása
 
 ```
-KP = 100 (KP Alap)
-     + Tapasztalati szint x (120 + (2 x Intelligencia))
-     + Tapasztalati szint x ( 50 + (2 x Emlékezet))    → csak szekunder ismeretre
+KP = 150 (KP Alap)
+     + Tapasztalati szint x (100 + (2 x Intelligencia))
+     + Tapasztalati szint x ( 40 + (2 x Emlékezet))    → csak szekunder ismeretre
 
 Primer képzettségek max:    (szint x 3)
 Szekunder képzettségek max: (szint x 6)
@@ -606,7 +606,7 @@ Szekunder képzettségek max: (szint x 6)
 **🔆Fontos:**\
 ez utóbbi (Emlékezethez kapcsolt pontok) kizárólag **Szekunder** ismeretekre költhetőek!
 
-A karakterek 1. tapasztalati-szinten (TSz) `100 KP`-t (KP Alap), valamint minden tapasztalati-szinten (elsőn is) `120 + (2 x Intelligencia) KP`-t kapnak. Ezen felül további `50 + (2 x Emlékezet) KP` jár tapasztalati-szintenként, amit csak olyan ismeretre fordíthatnak, amelyek a [Szekunder ismeretek](#primer-%C3%A9s-szekunder-ismeretek-kateg%C3%B3ri%C3%A1i) csoportjába tartoznak. A játékosnak a fenti Karakter Pontjaiból kell felvennie a következőket:
+A karakterek 1. tapasztalati-szinten (TSz) `150 KP`-t (KP Alap), valamint minden tapasztalati-szinten (elsőn is) `100 + (2 x Intelligencia) KP`-t kapnak. Ezen felül további `40 + (2 x Emlékezet) KP` jár tapasztalati-szintenként, amit csak olyan ismeretre fordíthatnak, amelyek a [Szekunder ismeretek](#primer-%C3%A9s-szekunder-ismeretek-kateg%C3%B3ri%C3%A1i) csoportjába tartoznak. A játékosnak a fenti Karakter Pontjaiból kell felvennie a következőket:
 
 - Képzettségek
   - Primer képzettségek szintje legfeljebb `Tsz+3` lehet
