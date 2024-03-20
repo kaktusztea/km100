@@ -88,32 +88,34 @@ Személyiség, szociális „tulajdonságok"
 Az imént felsorolt jellemzők mellett vannak "ingyenes" ismeretek, jellemzők, amelyek tovább szinesítik a karaktert. Ezeket Háttereknek nevezzük és számos típusuk van. Bővebben lásd a [Hátterek](040_hattererek.md) fejezetben.
 
 ---
-## Szint, szintlépés
+## Tapasztalati szint, szintlépés
 ```
-Maximum karakter szint: 20
+Maximum karakter szint: 21
 ```
 
-Egy karakter „fejlettségét" az abszolút szubjektív „Szint" értékkel jellemezzük. Minél magasabb szintű valaki, annál több időt fordíthatott tanulásra, annál többet tapasztalt.
+Egy karakter „fejlettségét" az abszolút szubjektív „**Tapasztalati szint**" értékkel jellemezzük. Minél magasabb szintű valaki, annál több időt fordíthatott tanulásra, annál többet tapasztalt.
 
-Az `1.szint` kiemelt, itt jóval több pontot kap a karakter értékei növelésére (megalapozására), mivel ez a szint magában foglalja a karakter indításakor (általában ifjúkor) felhalmozott addigi élettapasztalatokat.
+Az `1.tapasztalati szint` kiemelt, itt jóval több pontot kap a karakter értékei növelésére (megalapozására), mivel ez a szint magában foglalja a karakter indításakor (általában ifjúkor) felhalmozott addigi élettapasztalatokat.
 
-Az első 2 szint az előtörténet részének tekinthető, amennyiben ezt nem akarja lejátszani a parti, akkor ajánlott a `3. szinten` való kezdés - más rendszerekhez képest az adja a "kezdő kalandozó" élettapasztalatot. Ennek további előnye, hogy így könnyebb `1.`, `2. szintű` **Nem Játékos Karakterek** (NJK) alacsonyabb képességeit rendszerben megjeleníteni.
+Az első 2 tapasztalati szint az előtörténet részének tekinthető, amennyiben ezt nem akarja lejátszani a parti, akkor ajánlott a `3. szinten` való kezdés - más rendszerekhez képest az adja a "kezdő kalandozó" élettapasztalatot. Ennek további előnye, hogy így könnyebb `1.`, `2. szintű` **Nem Játékos Karakterek** (NJK) alacsonyabb képességeit rendszerben megjeleníteni.
 
 A karakter fejlődése természetesen folyamatos, de az adminisztráció megkönnyítése érdekében alkalmazzuk a „Szintlépés" fogalmát. Szintlépés olyankor következik be, amikor a KM úgy ítéli, a karakter jelentősen fejlődött, sokat tapasztalt és ennek ideje lenne értékeiben is megmutatkozniuk.
 
 Aki békésen, kihívások, újdonságok, megpróbáltatások nélkül éli életét, az nem tapasztal sokat, élete végére legfeljebb `5-6. szintre` jut el.
 
-A km100 rendszerében a `20.szint` az elérhető maximum fejlődésben.
+A km100 rendszerében a `21.szint` a maximum elérhető fejlődés tekintetében.
 
 Irányelvek karakter szintekre:
 
 ```
 1.szint: Tapasztalatlan mesterlegény vándorlása megkezdésekor.
 3.szint: Novícius. Más rendszereknél ez az 1.szint.
-6.szint: Kismester. Tapasztalt harcos, elismert mágiatudó.
-10.szint: Mester. Neves harcos, félelmetes mágiahasználó. 
+6.szint: Tapasztalt gyakornok. Sorkatona pár év tapasztalattal, tapasztalt varázslósegéd.
+9.szint: Kismester. Tapasztalt harcos, elismert mágiatudó.
+12.szint: Mester. Neves harcos, félelmetes mágiahasználó. 
 15.szint: Nagymester. Ünnepelt hadvezér, retteget magitor, főpap.
-20.szint: Világhírű legenda, érák formálója.
+18.szint: Világhírű legenda.
+21.szint: Érák formálója.
 ```
 
 A szintlépés számszerű hatásait lásd a [Fejlődés](#fejlődés) fejezetben.
