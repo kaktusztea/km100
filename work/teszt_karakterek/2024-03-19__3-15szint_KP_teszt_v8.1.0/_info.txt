@@ -1,6 +1,6 @@
-Megnézzük, hogy milyen értékeket kapunk 15. szinten, ami a tervezett maximum szint lesz.
+Megnézzük, hogy milyen értékeket kapunk 20. szinten, ami a tervezett maximum szint lesz.
 
-Módosítottuk a KP javadalmazást a v8.0.0-hOz képest. Új:
-- KP Alap: 100
+Módosítottuk a KP javadalmazást. Új:
+- KP Alap: 150
 - Primer KP:  100 + Intelligencia / szint
-- Szekunder KP: 50 + Emlékezet / szint
+- Szekunder KP: 40 + Emlékezet / szint
