@@ -4,7 +4,7 @@ Egyszerre mindkét kezedben képes vagy fegyvert forgatni.
 
 | |  Követelmény | Hatás  |
 | :----------- | :----------- | :----------- |
-| Alapeset| - | Képzetlen kétkezes harc esetén két fegyver használatakor a főfegyver (nagyobb fegyver) harcmodora és értékei számítanak, a második fegyver értékei `0`-nak számítanak.<br />`-10`&nbsp;KÉ/TÉ/VÉ<br />`+1`&nbsp;Harcmodor-Sebesség |
+| Alapeset| - | Képzetlen kétkezes harc esetén két fegyver használatakor a főfegyver (nagyobb fegyver) harcmodora és értékei számítanak, a második fegyver értékei `0`-nak számítanak. Egyik fegyver 🗡️[Mesterfegyver](mesterfegyver.md) fortélya sem számít.<br />`-10`&nbsp;KÉ/TÉ/VÉ<br />`+1`&nbsp;Harcmodor-Sebesség |
 | 1.fok | Főfegyver harcmodora<br />- `6.`szint<br />Kiegészítő fegyver harcmodora<br />- `3.`szint | Főfegyver (nagyobb fegyver) harcmodora számít. Fegyver harcértékek összeadódnak. Egyik fegyver 🗡️[Mesterfegyver](mesterfegyver.md) fortélya sem számít.<br />`+3` Harcmodor-Sebesség* |
 | 2.fok | Főfegyver harcmodora&nbsp;–&nbsp;`9.`szint<br />Kiegészítő fegyver harcmodora&nbsp;–&nbsp;`6.`szint | Mint az 1.fok, de csak a főfegyver 🗡️[Mesterfegyver](mesterfegyver.md) fortélya számít (akkor is, ha a két fegyver típusa ugyanaz!) Továbbá: `+6` Harcmodor-Sebesség* |
 | 3.fok | Főfegyver harcmodora&nbsp;–&nbsp;`9.`szint<br />Kiegészítő fegyver harcmodora&nbsp;–&nbsp;`9.`szint | Mint az 2.fok, de mindkét fegyver 🗡️[Mesterfegyver](mesterfegyver.md) fortélya beszámít (annál hosszabbak esetén viszont semmilyen bónusz nem számít és a fegyverek harcértéke 0)<br />`+6` Harcmodor-Sebesség* (ez nem emelkedik) |
