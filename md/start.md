@@ -2,7 +2,7 @@
 
 ## Karakteralkotók
 
-- [JK Karakteralkotó v8.1.1 (ODS)](https://github.com/kaktusztea/km100/raw/master/segedlet/karakteralkoto_v8.1.1.ods?raw=true) <sub><sup>([LibreOffice](https://www.libreoffice.org/download/download/))</sup></sub>&nbsp;&nbsp;//&nbsp;&nbsp;[Karakteralkotás](010_karakteralkotas.md), [Képzettséglista](021_kepzettseglista.md), [Fortélyok](030_fortelyok.md), [Hátterek](040_hattererek.md), [Tradíciók](050_tradiciok.md)
+- [JK Karakteralkotó v8.2.0 (ODS)](https://github.com/kaktusztea/km100/raw/master/segedlet/karakteralkoto_v8.2.0.ods?raw=true) <sub><sup>([LibreOffice](https://www.libreoffice.org/download/download/))</sup></sub>&nbsp;&nbsp;//&nbsp;&nbsp;[Karakteralkotás](010_karakteralkotas.md), [Képzettséglista](021_kepzettseglista.md), [Fortélyok](030_fortelyok.md), [Hátterek](040_hattererek.md), [Tradíciók](050_tradiciok.md)
 - [NJK Karakterlap v1.2 ODT](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2.odt?raw=true), [PDF](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2.pdf?raw=true); [NJK kétoldalas v1.2 ODT](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2_ketoldalas.odt)
 
 ## Kivonatok
@@ -95,4 +95,3 @@
 ## [🚧 Fejlesztő portál 🚧](https://github.com/kaktusztea/km100/wiki)
 
 ---
-
