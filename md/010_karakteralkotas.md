@@ -447,7 +447,8 @@ Megjegyzés: nem kell mindet elköltened, tartalékolhatsz is egy későbbi nagy
 | 4 | 15 |
 | 5 | 20 |
 | 6* | 26 |
-\* Csak faji módosítóval
+| 7* | 33 |
+\* Csak faji módosítóval, vagy mágiával
 
 `Minden negyedik` karakterszinten kapsz további `+2` pontot, melyet szintén a fenti táblázat alapján fordíthatsz tulajdonságaid növelésére. Figyelem! Nem egy Tulajdonság értékét növelheted kettővel, hanem ennyi pontot kapsz, amelyből kigazdálkodhatsz egy Tulajdonság növelést. Az így kapott bónusz pontokat „tartalékolhatod” is. Például egy `+3`-ról `+4`-re való növelés költsége `4 pont`, amelyre `2 szint` fejlődés során tehetsz szert.
 
