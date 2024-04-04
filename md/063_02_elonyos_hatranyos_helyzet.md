@@ -10,7 +10,7 @@ A harcban
 
 - **Hátrányos helyzetű**: aki a harci helyzetben vagy kisebb méretű fegyverének (legalább 1 penge méretkülönbség), vagy a `Beszorított helyzetének` köszönhetően köszönhetően hátrányban van.
 
-A fentiek a **Védő Érték** csökkentéskor mutatkoznak meg sikeres támadás (nem túlütés) esetén.
+A fentiek a **Védő Érték** csökkentéskor mutatkoznak meg (sikertelen támadás esetén).
 
 ---
 

@@ -67,13 +67,13 @@ Minden újabb támadás a körben -10TÉ levonással megy (2.tám: -10,  3.tám:
 
 Harcban, támadáskor a játékos dob k100-al, majd a kapott értéket hozzáadja aktuális **Támadó Értékéhez**. Ennek értéke lesz a **Támadó dobás**. Amennyiben a támadónak több támadása van a körben, akkor minden egyes plusz támadás -10TÉ módosítóval történik.
 
-Azok a támadások, melyek majdnem betaláltak, komolyan igénybe veszik az áldozat figyelmét, állóképességét. Ha a támadás nem érte el a megtámadott Védő Értékét, akkor Védő Értékére ideiglenes csökkenést szenved el. Ha a támadás eléri, vagy meghaladja a VÉ-t, akkor pedig sebző támadásról (túlütésről) beszélünk. Hogy harc közben a védekezőnek milyen jellemzője csökken, azt az alábbi táblázat mutatja:
+Azok a támadások, melyek majdnem betaláltak, komolyan igénybe veszik az áldozat figyelmét, állóképességét. Ha a támadás nem érte el a megtámadott Védő Értékét, akkor Védő Értékére ideiglenes csökkenést szenved el. Ha a támadás eléri, vagy meghaladja a VÉ-t, akkor pedig sebző támadásról (**találatról**) beszélünk. Hogy harc közben a védekezőnek milyen jellemzője csökken, azt az alábbi táblázat mutatja:
 
 
-|  Támadó dobás eredménye  | Hatás   |
-|:---:|:--- |
-| **TÉ < VÉ** | VÉ csökkentés<br/>• Alaphelyzetben (nincs előnyös-hátrányos helyzet):<br/>&nbsp;&nbsp;mindkét fél kiskockával csökkent (k100)<br/><br/>• Legalább 1 penge fegyverméret különbségnél:<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Előnyös helyzetű támadó: (kiskocka+1)-el csökkent (k100)<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Hátrányos helyzetű támadó: (kiskocka-1)-el csökkent (k100)<br/><br/>• 2 penge, vagy nagyobb méretkülönbségnél:<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Előnyös helyzetű támadó:  (kiskocka+2)-vel csökkent (k100)<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Hátrányos helyzetű támadó: (kiskocka-1)-el csökkent (k100)   |
-|  **TÉ >= VÉ** | Túlütés → Sebzés dobás<br/>• A sebzéshez az Erőbónusz/Erőhiány és mágiából adódó bónuszok hozzáadódnak<br/>• Többszörös túlütés: +20-anként +3SP  (max +9 SP)<br/>• Páncéldobás (opcionális): k10-el dob az áldozat<br/>• VÉ csökkentés: ÉP sebtől függő VÉ csökkenés (lásd a [Sebzés](#sebz%C3%A9s) táblázatot) (csak!)    |
+| Támadó dobás eredménye | Hatás                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| :--------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|      **TÉ < VÉ**       | VÉ csökkentés<br/>• Alaphelyzetben (nincs előnyös-hátrányos helyzet):<br/>&nbsp;&nbsp;mindkét fél kiskockával csökkent (k100)<br/><br/>• Legalább 1 penge fegyverméret különbségnél:<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Előnyös helyzetű támadó: (kiskocka+1)-el csökkent (k100)<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Hátrányos helyzetű támadó: (kiskocka-1)-el csökkent (k100)<br/><br/>• 2 penge, vagy nagyobb méretkülönbségnél:<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Előnyös helyzetű támadó:  (kiskocka+2)-vel csökkent (k100)<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Hátrányos helyzetű támadó: (kiskocka-1)-el csökkent (k100) |
+|      **TÉ >= VÉ**      | Találat → Sebzés dobás<br/>• A sebzéshez az Erőbónusz/Erőhiány és mágiából adódó bónuszok hozzáadódnak<br/>• Többszörös találat: +20-anként +3SP  (max +9 SP)<br/>• Páncéldobás (opcionális): k10-el dob az áldozat<br/>• VÉ csökkentés: ÉP sebtől függő VÉ csökkenés (lásd a [Sebzés](#sebz%C3%A9s) táblázatot) (csak!)                                                                                                                                                                                                                                                                                                           |
 
 **Megjegyzés**: az Harci anatóma ÉP bónusza csak akkor adható hozzá, ha az alap sebzés átment a páncélon!
 
@@ -86,22 +86,22 @@ A rendszer előnye, hogy a több támadó okozta fenyegetés sokkal fajsúlyosab
 Megnő a támadó/védő **taktika** jelentősége is. Egy sebesült harcos ellen jó taktika a támadó **taktika**, bár megvannak a veszélyei is, váratlan vereséghez is vezethet. A harc elején pedig – ha az idő engedi – hasznos lehet a védekezést preferáló taktikát választani kivéve, ha nagyon sietős az ellenfél elintézése. A megfelelő harcmodorok kombinálása színessé, izgalmassá teszi a küzdelmet.
 
 ---
-#### Túlütés
+#### Találat
 
 ```
 TÉ >= VÉ
 ```
-Túlütésnek nevezzük azt a támadást, amelynek értéke eléri, vagy meghaladja a Védő Értékét. Ilyenkor a támadó Sebzésdobást tesz.
+Találatnak nevezzük azt a támadást, amelynek értéke eléri, vagy meghaladja a Védő Értékét. Ilyenkor a támadó Sebzésdobást tesz, a védekező pedig Páncéldobást.
 
 **Figyelem**: az SP nem azonos az okozott ÉP sebbel! (lásd [Sebzés](#sebz%C3%A9s) fejezet).
 
-#### Többszörös túlütés
+#### Többszörös találat
 
 ```
 TÉ >= VÉ + 20/40/60  →  +3SP/+6SP/+9SP
 ```
 
-Amennyiben a túlütés olyan sikeres lett, hogy további `20`-al nagyobb az ellenfél Védő értékénél, akkor a támadó `+3 SP` bónuszt (nem ÉP!) kap. Ez ismétlődhet, tehát minden további `+20` után jár a `+3 SP`. Példa: `TÉ=175, VÉ=100`. Ekkor `140`-nél és `160`-nál kap bónuszt a támadó, tehát `+6 SP` extra jár sebzésére. A Többszörös túlütés által adható maximum sebzésbónusz: `+9`.
+Amennyiben a találat olyan sikeres lett, hogy további `20`-al nagyobb az ellenfél Védő értékénél, akkor a támadó `+3 SP` bónuszt (nem ÉP!) kap. Ez ismétlődhet, tehát minden további `+20` után jár a `+3 SP`. Példa: `TÉ=175, VÉ=100`. Ekkor `140`-nél és `160`-nál kap bónuszt a támadó, tehát `+6 SP` extra jár sebzésére. A **Többszörös találat** által adható maximum sebzésbónusz: `+9`.
 
 #### 00-ás (100-as) támadó dobás
 
@@ -110,12 +110,12 @@ Amennyiben a túlütés olyan sikeres lett, hogy további `20`-al nagyobb az ell
 Támadó: +5 SP
 ```
 
-A `00`-ás (100-as) támadó dobás kiemelt jelentőséggel bír. Ez szimbolizálja a „tökéletes csapást”, mely csak rendkívül ritkán következik be. Ilyenkor nem számít az ellenfél vértjének SFÉ-je (`SFÉ=0`), a támadó pedig `+5 SP` bónuszt adhat sebzéséhez. A fentiek alól kivételt képez a Slan „Aranyharang” technika használata és az Elemi Erő aura, de ott is érvényes a +5-ös sebzés. Ha nincs sebző támadás, akkor...
+A `00`-ás (100-as) támadó dobás kiemelt jelentőséggel bír. Ez szimbolizálja a „tökéletes csapást”, mely csak rendkívül ritkán következik be. Ilyenkor nem számít az ellenfél vértjének SFÉ-je (`SFÉ=0`), a támadó pedig `+5 SP` bónuszt adhat sebzéséhez. A fentiek alól kivételt képez a Slan „Aranyharang” technika használata és az Elemi Erő aura, de ott is érvényes a `+5` sebzés. 
 
-Fontos viszont megemlíteni, hogy amennyiben a 00-ás dobás ellenére sem sikerült az ellenféllel szemben Túlütést elérni, akkor az okozott sebzés kimerül a jutalomként kapott +5 SP-ben (1ÉP + 5 VÉ csökkentés) SFÉ természetesen ez esetben sincs.
+Fontos viszont megemlíteni, hogy amennyiben a `00`-ás dobás ellenére sem sikerült az ellenféllel szemben **Találatot** elérni, akkor az okozott sebzés kimerül a jutalomként kapott `+5` SP-ben (`1ÉP + 5 VÉ csökkentés`) SFÉ természetesen ez esetben sincs.
 
 ```
-"Fárasztás" harci taktika alkalmazásakor további +5 VÉ csökkentés bónuszt kap a támadó.
+"Fárasztás" harci taktika alkalmazásakor 00 dobás esetén további +5 VÉ csökkentés bónuszt kap a támadó.
 ```
 
 #### 01-es támadó dobás (balsiker)
@@ -128,7 +128,7 @@ A `01`-es támadó dobás szintén kiemelt, de ezúttal negatív felhanggal. Ily
 ```
 SP = k20 + Fegyver-sebzés + módosítók – (aktuális SFÉ)
 
-- módosítók: Mesterfegyver fortély, Erőbónusz, többszörös túlütés, roham, támadás erőből
+- módosítók: Mesterfegyver fortély, Erőbónusz, Többszörös találat, roham, támadás erőből
 - SFÉ: páncéltól, támadási típustól és a fegyver Átütésétől függ
 ```
 
@@ -149,11 +149,11 @@ SP = k20 + Fegyver-sebzés + módosítók – (aktuális SFÉ)
 Az 1-es dobás (k20-on) mindig 1 ÉP seb (bónuszoktól függetlenül) amennyiben az SP dobás átment a páncél SFÉ-n
 ```
 
-Amennyiben a korábban leírt módon sikeres [Túlütést](#t%C3%BAl%C3%BCt%C3%A9s) értünk el, akkor ezt követően **Sebző Dobást** tehetünk `k20`-al, melyhez hozzáadódik a fegyver sebzése, a **Mesterfegyver** fortélyból és az **Erőbónuszból** adódó módosítók, valamint a **többszörös túlütésből**, **rohamból** és egyes fortélyokból (pl. Támadás Erőből) adódó extra értékek. Az így kapott SP értéket bemondja a támadó a támadás típusával együtt (pl. Szúrás).
+Amennyiben a korábban leírt módon sikeres [Találatot](#t%C3%BAl%C3%BCt%C3%A9s) értünk el, akkor ezt követően **Sebző Dobást** tehetünk `k20`-al, melyhez hozzáadódik a fegyver sebzése, a [Mesterfegyver](fortelyok.harci/mesterfegyver.md) fortélyból és az [Erőbónuszból](064_01_02_harc_menete_osszefoglalas.md#statikus-sp-m%C3%B3dos%C3%ADt%C3%B3k) adódó módosítók, valamint a **Többszörös találatból**, [Rohamból](065_02_harci_taktikak.md#harci-taktik%C3%A1k) és egyes fortélyokból (pl. [Támadás Erőből](fortelyok.harci/tamadas_erobol.md)) adódó extra értékek. Az így kapott SP értéket bemondja a támadó a támadás típusával együtt (pl. Szúrás).
 
-A védő levonja belőle a a támadás típusának (pl. szúrás) megfelelő SFÉ értékét (pl. szúrás elleni) és a kapott értékhez rendelt ÉP értéket (lásd **ÉP Sebzés** oszlopot) levonja aktuális Életerő Pontjai számából, a VÉ csökkenést pedig aktuális Védő Értékéből.
+A védő levonja az számból a támadás típusának (pl. szúrás) megfelelő SFÉ értékét (pl. szúrás elleni), amely a vértjénél szerepel. A kapott, csökkentett SP értékhez rendelt ÉP értéket (lásd **ÉP Sebzés** oszlopot) levonja aktuális Életerő Pontjai számából, a VÉ csökkenést pedig aktuális Védő Értékéből.
 
-Sebzés esetén nincs kiskocka VÉ csökkentés, csak a táblázatban levő érték!
+Sebzés esetén nincs kis/nagykocka VÉ csökkentés, csak a táblázatban levő érték!
 
 ```diff
 - ⭕ Ha levédi a páncél az SP-t, akkor nincs VÉ csökkenés, míg ha nincs sebzés, akkor van... Erre kitalálni valami nem bonyolított megoldást.⭕
