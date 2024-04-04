@@ -128,7 +128,7 @@ A `01`-es támadó dobás szintén kiemelt, de ezúttal negatív felhanggal. Ily
 ```
 SP = k20 + Fegyver-sebzés + módosítók – (aktuális SFÉ)
 
-- módosítók: Mesterfegyver fortély, Erőbónusz, Többszörös találat, roham, támadás erőből
+- módosítók: Mesterfegyver fortély, Erőbónusz, Többszörös találat, Roham, Támadás erőből fortély
 - SFÉ: páncéltól, támadási típustól és a fegyver Átütésétől függ
 ```
 
@@ -149,9 +149,9 @@ SP = k20 + Fegyver-sebzés + módosítók – (aktuális SFÉ)
 Az 1-es dobás (k20-on) mindig 1 ÉP seb (bónuszoktól függetlenül) amennyiben az SP dobás átment a páncél SFÉ-n
 ```
 
-Amennyiben a korábban leírt módon sikeres [Találatot](#t%C3%BAl%C3%BCt%C3%A9s) értünk el, akkor ezt követően **Sebző Dobást** tehetünk `k20`-al, melyhez hozzáadódik a fegyver sebzése, a [Mesterfegyver](fortelyok.harci/mesterfegyver.md) fortélyból és az [Erőbónuszból](064_01_02_harc_menete_osszefoglalas.md#statikus-sp-m%C3%B3dos%C3%ADt%C3%B3k) adódó módosítók, valamint a **Többszörös találatból**, [Rohamból](065_02_harci_taktikak.md#harci-taktik%C3%A1k) és egyes fortélyokból (pl. [Támadás Erőből](fortelyok.harci/tamadas_erobol.md)) adódó extra értékek. Az így kapott SP értéket bemondja a támadó a támadás típusával együtt (pl. Szúrás).
+Amennyiben a korábban leírt módon sikeres [Találatot](#t%C3%BAl%C3%BCt%C3%A9s) értünk el, akkor ezt követően **Sebző Dobást** tehetünk `k20`-al, melyhez hozzáadódik a fegyver sebzése, a [Mesterfegyver](fortelyok.harci/mesterfegyver.md) fortélyból és az [Erőbónuszból](064_01_02_harc_menete_osszefoglalas.md#statikus-sp-m%C3%B3dos%C3%ADt%C3%B3k) adódó módosítók, valamint a [Többszörös találatból](#t%C3%B6bbsz%C3%B6r%C3%B6s-tal%C3%A1lat), [Rohamból](065_02_harci_taktikak.md#harci-taktik%C3%A1k) és egyes fortélyokból (pl. [Támadás Erőből](fortelyok.harci/tamadas_erobol.md)) adódó extra értékek. Az így kapott SP értéket bemondja a támadó a támadás típusával együtt (pl. Szúrás).
 
-A védő levonja az számból a támadás típusának (pl. szúrás) megfelelő SFÉ értékét (pl. szúrás elleni), amely a vértjénél szerepel. A kapott, csökkentett SP értékhez rendelt ÉP értéket (lásd **ÉP Sebzés** oszlopot) levonja aktuális Életerő Pontjai számából, a VÉ csökkenést pedig aktuális Védő Értékéből.
+A védő levonja a számból a támadás típusának (pl. szúrás) megfelelő SFÉ értékét (pl. szúrás elleni), amely a vértjénél szerepel. A kapott, csökkentett SP értékhez rendelt ÉP értéket (lásd **ÉP Sebzés** oszlopot) levonja aktuális Életerő Pontjai számából, a VÉ csökkenést pedig aktuális Védő Értékéből.
 
 Sebzés esetén nincs kis/nagykocka VÉ csökkentés, csak a táblázatban levő érték!
 
