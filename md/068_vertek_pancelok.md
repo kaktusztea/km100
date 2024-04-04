@@ -10,7 +10,8 @@ Kapcsolódó harci fortély: **[Vértviselet](https://github.com/kaktusztea/km10
 Egy páncélt három jellemző ír le: a Sebzésfelfogó Érték (**SFÉ**), a Mozgásgátló tényező (**MGT**) és az **Ár**. Ezeket az alábbi jellemzők befolyásolják:
 
 - SFÉ
-  - választott struktúra (bőr, sodrony, stb) és annak anyagminősége
+  - választott struktúra (bőr, sodrony, stb)
+  - anyagminőség
   - alapanyag típus (fém vérteknél: milyen fémből készült)
 
 - MGT
@@ -21,7 +22,8 @@ Egy páncélt három jellemző ír le: a Sebzésfelfogó Érték (**SFÉ**), a M
   - csatolt elemek száma
 
 - Ár
-  - választott struktúra (bőr, sodrony, stb) és annak anyagminősége
+  - választott struktúra (bőr, sodrony, stb)
+  - anyagminőség
   - alapanyag típus (fém vérteknél: milyen fémből készült)
   - vért kidolgozottsága (illesztések)
 
@@ -32,7 +34,7 @@ A fenti jellemzők fordított nézetőpontból:
 - választott struktúra (bőr, sodrony, stb) → SFÉ-re, Alap-MGT-re hat
 - alapanyag (fém vérteknél: milyen fémből készült) → SFÉ-re hat
 - alapanyag típus (acél, abbit, mithrill) → SFÉ-re, Alap-MGT-re hat
-- kidolgozottság minősége (illesztések) → MGT-re hat
+- kidolgozottság (illesztések minősége) → MGT-re hat
 - mennyire passzol a vértviselő testére → MGT-re hat
 - csatolt elemek száma → MGT-re és védett területre hat
 
@@ -57,30 +59,29 @@ Az SFÉ értékét a páncél fizikai felépítése, anyaga adja. Az egyes pánc
 Az egyes **fém-páncél** példányok struktúrális minősége erősen eltérhet (függ az anyagtól és a készítő mestertől is). Lenn SFÉ határokkal jelezzük ezt a jelenséget. Például "Szúró 10-12-14" azt jelenti, hogy 10-14-es intervallumon belül lehet az ilyen anyagú vért, az átlagos struktúrális-minőség a 12-es.\
 A jobb minőség nagyon megdobhatja a vért árát.
 
-|**Páncél struktúra**|**Szúró SFÉ**|**Vágó SFÉ**|**Zúzó SFÉ**|**Ár**|
-|---|---|---|---|---|
-|Posztó/Bunda|0|2|2|⭕?%|
-|Fegyverkabát|⭕|⭕|⭕|⭕?%|
-|Bőr|2|4|2|⭕?%|
-|Keményített bőr|3|5|3|⭕?%|
-|Brigantin|⭕|⭕|⭕|⭕?%|
-|Lánc/Sodrony|5-7-9|8-10-12|2-3-4|?% - 60% - ⭕?%|
-|(régi Sodrony)|⭕10-12-14⭕|7-9-11|3-4-5|⭕?% - 100% - ⭕?%|
-|Pikkelypáncél|⭕10-12-14⭕|11-13-15|4-6-8|⭕?% - ?% - ⭕?%|
-|Lemezpáncél|⭕10-12-14⭕|12-14-16|7-9-11|70% - 160% - 250%|
+| **Páncél struktúra** | **Szúró SFÉ** | **Vágó SFÉ** | **Zúzó SFÉ** | +/- |      **Ár**       |
+| -------------------- | :-----------: | :----------: | :----------: | :-: | :---------------: |
+| Posztó/Bunda         |       1       |      2       |      2       |  0  |        ⭕?%        |
+| Fegyverkabát         |       3       |      3       |      2       |  0  |        ⭕?%        |
+| Bőr                  |       8       |      6       |      5       |  2  |        ⭕?%        |
+| Brigantin            |      10       |      12      |      7       |  2  |        ⭕?%        |
+| Lánc/Sodrony         |       8       |      13      |      5       |  2  |  ?% - 60% - ⭕?%   |
+| Pikkelypáncél        |      12       |      13      |      6       |  2  |  ⭕?% - ?% - ⭕?%   |
+| Lemezpáncél          |      15       |      18      |      10      |  2  | 70% - 160% - 250% |
+⭕TODO: fenti értékek hangolása
 
 ---
 #### Fém vértek alapanyaga - SFÉ
 
 A különböző fém ötvözetek alapanyagai változtathatnak az SFÉ értékeken. Amihez viszonyítunk az alaphelyzetben az az acél.
 
-||SFÉ|Ár (anyag-szorzó)|
-|---| :---: | :---: |
-|Acél|+0|1x|
-|Bronz|-5|0,5x|
-|Abbitacél|+5|10x|
-|Mithrill|+10|100x|
-|Lunír|⭕+10-20|"a csillagos ég"|
+|           |   SFÉ    | Ár (anyag-szorzó) |
+| --------- |:--------:|:-----------------:|
+| Acél      |    +0    |        1x         |
+| Bronz     |    -5    |       0,5x        |
+| Abbitacél |    +5    |        10x        |
+| Mithrill  |   +10    |       100x        |
+| Lunír     | ⭕+10-20 | "a csillagos ég"  |
 
 <br />
 
@@ -101,30 +102,28 @@ KM dönt, de például kézügyességet érintő Ügyességpróbára nyilván ne
 
 Az alábbi alapértékeket akkor kell beleszámítani az MGT-be, ha a karakter visel mellvért-darabot.
 
-|**Struktúra**|**Mellvért MGT alap**|
-| :--- | :---: |
-|Posztó|3|
-|Fegyverkabát|⭕?|
-|Bőr|6-9|
-|(régi Keményített bőr)|9|
-|Brigantin|⭕?|
-|Lánc/Sodrony|12-15|
-|(régi Sodrony)|15|
-|Pikkely|⭕17?|
-|Lemez|18|
+| **Struktúra** | **Mellvért MGT alap** |
+| :------------ | :-------------------: |
+| Posztó        |          `3`          |
+| Fegyverkabát  |          `3`          |
+| Bőr           |          `8`          |
+| Brigantin     |         `11`          |
+| Lánc/Sodrony  |         `13`          |
+| Pikkely       |         `17`          |
+| Lemez         |         `18`          |
 
 ---
 #### Fém vértek alapanyagai - MGT
 
 A különböző fém ötvözetek alapanyagai változtathatnak az MGT értékeken. Amihez viszonyítunk az alaphelyzetben az az acél.
 
-| | Alap MGT |
-|---| :---: |
-|Acél|+0|
-|Bronz|⭕+6|
-|Abbitacél|⭕-?|
-|Mithrill|⭕-?|
-|Lunír|⭕-?|
+|           | Alap MGT |
+| --------- | :------: |
+| Acél      |   `+0`   |
+| Bronz     |  ⭕`+6`   |
+| Abbitacél |   ⭕-?    |
+| Mithrill  |   ⭕-?    |
+| Lunír     |   ⭕-?    |
 
 ---
 #### Erőbónusz MGT csökkentése
@@ -138,19 +137,18 @@ Aki erősebb, azt kevésbé korlátozza egy nehezebb páncél.
 ---
 #### Vért kidolgozottsága, csatolt elemek száma
 
-
 ```
 → Kidolgozottság: a lenti táblázatból megállapított szám.
 → Σ Plusz MGT = (kidolgozottság x csatolt elemek száma (mellvért darab is beszámít!))
 ```
 
-|Kat|Struktúra|Pocsék|**Gyenge munka**|Átlagos|Jó munka|**Mestermunka**|
-| --- | --- | :---: | :---: | :---: | :---: | :---: |
-|I.|Nem merev, nem fém|3|2|1|0,5|-|
-|II.|Nem merev, fém|4|3|2|1|0,5|
-|III.|Merev, fém|5|4|3|2|1|
-|   |   |   |   |   |   |   |
-||Ár szorzó (kidolgozottság)|x 0,1|X 0,5|-|x 10|x 100|
+| Kat  | Struktúra                  | Pocsék  | **Gyenge munka** | Átlagos | Jó munka | **Mestermunka** |
+| ---- | -------------------------- | :-----: | :--------------: | :-----: | :------: | :-------------: |
+| I.   | Nem merev, nem fém         |   `3`   |       `2`        |   `1`   |  `0,5`   |       `-`       |
+| II.  | Nem merev, fém             |   `4`   |       `3`        |   `2`   |   `1`    |      `0,5`      |
+| III. | Merev, fém                 |   `5`   |       `4`        |   `3`   |   `2`    |       `1`       |
+|      |                            |         |                  |         |          |                 |
+|      | Ár szorzó (kidolgozottság) | `x 0,1` |     `x 0,5`      |    -    |  `x 10`  |     `x 100`     |
 
 A vért elemek kapcsolódásainak jó kidolgozottsága alapvető fontosságú a gördülékeny mozgáshoz. Egy rossz illesztékekkel készített vértezet rettenetesen nehezíti a mozgást viselője számára, nem minden a nagy SFÉ. Kiváló alapanyagból is lehet hitványul megformált munkát készíteni, fontos tehát a jó készítő mester is.
 
@@ -174,16 +172,15 @@ Megjegyzések:
 
 A vértek viselése embert próbáló feladat. Éppen ezért a vértek viselésének követelményeket állítottunk:
 
-|Full MGT|Erő követelmény|
-| :---: | :---: |
-|10-20|+1|
-|21-30|+2|
-|31-40|+3|
-|41-50|+4|
+| Full MGT  | Erő követelmény |
+| :-------: | :-------------: |
+| `10`-`20` |      `+1`       |
+| `21`-`30` |      `+2`       |
+| `31`-`40` |      `+3`       |
+| `41`-`50` |      `+4`       |
 
 ---
 #### Rossz méretű vért viselése – MGT növekedés
-
 
 ```
 Kidolgozottság érték módosítható, ha nem passszol a páncél
@@ -227,11 +224,11 @@ Ha megsérül a vért, az bizony előbb-utóbb akadályozni fog a mozgásban.
 ---
 ### Páncél tagok és a védett terület
 
-|**Páncél tag**|**Véd**|**Tulajdonságok, védett helyek**|
-| --- | :---: | --- |
-|Mellvért|50%|Csak a torzót védi elöl, hátul, oldalt.|
-|+ Sisak|+10%|A fejet védi|
-|Felkarok / alkarok / combok / lábszárak|+10%\*|Tagonként értendő a +10%.|
+| **Páncél tag**                          | **Véd**  | **Tulajdonságok, védett helyek**        |
+| --------------------------------------- | :------: | --------------------------------------- |
+| Mellvért                                |  `50%`   | Csak a torzót védi elöl, hátul, oldalt. |
+| + Sisak                                 |  `+10%`  | A fejet védi                            |
+| Felkarok / alkarok / combok / lábszárak | `+10%`\* | Tagonként értendő a `+10%`.             |
 
 <br />
 
@@ -271,7 +268,6 @@ Ennek a fortélynak az ismerete csökkenti az MGT okozta levonások hatását.
 ### Páncél Ára
 
 A páncél teljes árát a következőképpen kaphatjuk meg:
-
 
 ```
 Teljes ár = (Mellvért ár) + (Csatolt tagok ára)
