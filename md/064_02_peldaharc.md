@@ -112,13 +112,13 @@ Fájdalomtűrés (K) + Edzettség (T)  vs.  12 (Nehéz)
 
 Bár a fenti próbát sikeresen megdobja, Gustav helyzete szinte reménytelen, támolyog, még egy apró seb és vége van. A játékos bejelenti, hogy a következő körben utolsó esélyként teljes **támadó taktikát** (`+15 TÉ; -30 VÉ`) alkalmaz, ha meg kell halni, tegye azt lovagként! Nem tudja, de ellenfele – látva elcsigázottságát –, szintén teljes támadó taktikát alkalmaz, hogy következő csapása biztos a túlvilágra küldje prédáját és gyorsan eltűnhessen az éjszakában. Az elgondolás jó... de az istenek ma máshogy akarták.
 
-Tetves nyeri a kezdeményezést, viszont dobása csak `04` (összesen: `114`!), ami még így is talál (!) (tekintve, hogy a lovag `VÉ`-je csak `86` a Támadó taktika miatt), viszont sebzésnek `2`-t dob `k20`-on. Mivel `20`-nál többel ütötte túl ellenfelét, ezért a többszörös túlütésből további `+3 SP` jár, így a vége: `7 SP`... amit Gustav láncinge pont teljesen felfog (**páncéldobása** sikeres (`3`) volt)!
+Tetves nyeri a kezdeményezést, viszont dobása csak `04` (összesen: `114`!), ami még így is talál (!) (tekintve, hogy a lovag `VÉ`-je csak `86` a Támadó taktika miatt), viszont sebzésnek `2`-t dob `k20`-on. Mivel `20`-nál többel ütötte túl ellenfelét, ezért a **Többszörös találatból** további `+3 SP` jár, így a vége: `7 SP`... amit Gustav láncinge pont teljesen felfog (**páncéldobása** sikeres (`3`) volt)!
 
 Tetves kardja lecsusszan az felé dobogó lovag vértjéről, aki visszatámadva... `97`-et dob. Tetves is elveszített már **Védő Értékéből** a harc során, alaphelyzetben aktuális `VÉ`-je `146`, de most ugye neki is `-30` büntetés van (támadó taktika `146-30=116`)
 
 ```
 Gustav támadása: 64+97 = 151
-  → többszörös (+1x) túlütés: +3 SP
+  → többszörös találat (+1x): +3 SP
 ```
 
 ```
