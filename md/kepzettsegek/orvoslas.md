@@ -1,6 +1,6 @@
 #### 🔴 Orvoslás
 
-→ [STUDY: Gyógyítás](https://github.com/kaktusztea/km100/wiki/STUDY.gyogyulas.gyogyitas)
+→ [STUDY: Gyógyítás](https://github.com/kaktusztea/km100/wiki/STUDY.gyogyitas.gyogyulas)
 
 **Próba:** dobható
 
