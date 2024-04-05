@@ -533,7 +533,7 @@ Szándékosan rongálod ellenfeled pajzsát, csökkentve annak Védő Értékét
 	- Meglepetés esetén is kell **Ellenpróbát** dobni
 - Végbevitel követelménye:
 	-  Erre alkalmas fegyver (KM dönt), melynek pengéje befér az ellenfél páncéljának illesztékei közé
-	- Csak Közelharc vagy **Kardvívás** harcmodorban használható
+	- Csak **Közelharc** vagy **Kardvívás** harcmodorban használható
 - Hatás: Képes vagy megtalálni ellenfeled páncélján a rést, ahol megkerülheted a vért adta védelmet. Ha fegyvereddel be tudtál szúrni az illesztékek között (a manőver sikerült), akkor dobj rendes sebzést, mely ellen áldozatodnak csak a vértezet alatt viselt további védelmei adnak **SFÉ**-t. Ne feledjük, hogy a teljes vértezet alatt sokszor láncinget viselnek!
   Sikeres Páncélszúrás esetén az áldozat nem jogosult **Páncéldobásra**.
 
