@@ -584,9 +584,11 @@ Rühes értékei:
 - TÉ: `55 / 45`
 - VÉ: `125`
 - Lefegyverzés/Fegyvertörés manőver - `1.fok`
+- `HM/10`: `37/10 = 3`
 
 Ellenfelének értékei:
 - Kardvívás: `6.szint`
+- `HM/10`: `32/10 = 3`
 - VÉ: `115`
 
 A Lefegyverzés manőver nehézsége: `10`\
@@ -597,17 +599,17 @@ A Lefegyverezés fázisai: sikeres Végrehajtás (`V`) és Ellenpróba (`E`) sz�
    → Sikeres Végrehajtás
 
 2. Ellenpróba  (`E`)
-- Tetves dobása:  `7` (kardvívás) + `2` (Lefegyverzés:`1.fok`) + `k10`
-- Célszám: `6 + 10 = 16` (ellenfél kardvívása + Lefegyverzés nehézsége)
+- Tetves dobása:  `10` (kardvívás + HM/10) + `2` (Lefegyverzés:`1.fok`) + `k10`
+- Célszám: `6 + 3 + 10 = 19` (ellenfél kardvívása + HM/10 + Lefegyverzés nehézsége)
 
 
 ```
-A próbadobás így:   (9 + k10)  vs.  16
+A próbadobás így:   (12 + k10)  vs.  19
 ```
 
 Tehát ha Rühes legalább  `7`-et dob  `k10`-en, akkor az **Ellenpróba** is sikeres és így az egész manőver is, ellenfele kardja kihullik annak kezéből. Látható, hogy a **Lefegyverzés** külön ismeret nélkül nem könnyű művelet.
 
-Ha Rühes megtanulná a Lefegyverezést  `2.fokon` Manőverfejlesztő Pontjaiból ( `MFP`), akkor már `+4` járna a próbadobására ( `11+k10`) és így már `5`-ös dobással is sikert érhetne el. Ha viszont ellenfele is jártas lenne – mondjuk csak `1.fokon` – Lefegyverzésben, akkor az ő `+2` bónusza mérsékelné Rühes `+4`-es bónuszát és ismét csak a `7`-es dobással(vagy felette) lenne eredményes.
+Ha Rühes megtanulná a Lefegyverezést  `2.fokon` Manőverfejlesztő Pontjaiból ( `MFP`), akkor már `+4` járna a próbadobására ( `14+k10`) és így már `5`-ös dobással is sikert érhetne el. Ha viszont ellenfele is jártas lenne – mondjuk csak `1.fokon` – Lefegyverzésben, akkor az ő `+2` bónusza mérsékelné Rühes `+4`-es bónuszát és ismét csak a `7`-es dobással(vagy felette) lenne eredményes.
 
 <br/>
 
@@ -622,9 +624,11 @@ Tetves értékei:
 - TÉ: `55`
 - VÉ: `125` ; A Vállalás miatt csak: `105`
 - Manőver ismeret – Gáncsolás – `1.fok`
+- `HM/10`: `37/10 = 3`
 
 Ellenfelének értékei:
 - Kardvívás: `6.szint`
+- `HM/10`: `32/10 = 3`
 - VÉ: `140`
 - Nincs „**Gáncsolás**” Manőver ismerete
 
@@ -635,14 +639,14 @@ Gáncsolás fázisai: sikeres Végrehajtás (`V`) és Ellenpróba (`E`) szüksé
     → Sikeres Végrehajtás
 
 2. Ellenpróba
-- Tetves manőver pontjai: `7+2+2 = 11`
+- Tetves manőver pontjai: `7+3+2+2 = 14`
     (közelharc + „Gáncsolás” manőver ismeret bónusza + vállalás)
 
-- Célszám: `8+6+2=16`
-  (ellenfél kardvívása + gáncsolás nehézsége + a fegyverméretek különbözősége miatt a KM megnöveli `2`-vel a célszámot)
+- Célszám: `8+3+6+2=19`
+  (ellenfél kardvívása + HM/10 + Gáncsolás nehézsége + a fegyverméretek különbözősége miatt a KM megnöveli `2`-vel a célszámot)
 
 ```
-A próbadobás így:  (11 + k10)   vs.  16
+A próbadobás így:  (14 + k10)   vs.  19
 ```
 
 Tehát ha Tetves legalább `5`-öt dob `k10`-en, akkor az **Ellenpróba** (`E`) is sikeres és így az egész manőver is az, kikaszálta ellenfele lábát. Ha nem sikerült volna a manőver, akkor ellenfele következő rendes visszatámadása ellen Tetves `-20 VÉ` büntetés szenvedett volna el (a Vállalás miatt).
