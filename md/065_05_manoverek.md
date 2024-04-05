@@ -33,7 +33,7 @@
 	- [Belharcból kibontakozás](#%EF%B8%8Fbelharcb%C3%B3l-kibontakoz%C3%A1s)
 	- [Gáncsolás / Lábsöprés (lábbal)](#%EF%B8%8Fg%C3%A1ncsol%C3%A1s--l%C3%A1bs%C3%B6pr%C3%A9s-l%C3%A1bbal)
 	- [Kibontakozás/Átsiklás](#%EF%B8%8Fkibontakoz%C3%A1s%C3%A1tsikl%C3%A1s)
-	- [Lábkirántás (szálfegyverrel](#%EF%B8%8Fl%C3%A1bkir%C3%A1nt%C3%A1s-sz%C3%A1lfegyverrel)
+	- [Lábkirántás (szálfegyverrel)](#%EF%B8%8Fl%C3%A1bkir%C3%A1nt%C3%A1s-sz%C3%A1lfegyverrel)
 	- [Lánccsapda (láncos fegyverekre)](#%EF%B8%8Fl%C3%A1nccsapda--l%C3%A1ncos-fegyverekre)
 	- [Lefegyverzés / Fegyvertörés - egy konkrét harcmodorra](#%EF%B8%8Flefegyverz%C3%A9s--fegyvert%C3%B6r%C3%A9s---egy-konkr%C3%A9t-harcmodorra)
 	- [Lefejelés](#%EF%B8%8Flefejel%C3%A9s)
