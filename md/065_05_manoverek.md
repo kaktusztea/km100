@@ -107,14 +107,14 @@ A játékosnak a kör elején be kell jelentenie, hogy Manővert akar alkalmazni
 
 Egy Manőver alkalmazása – jellegétől függően – legfeljebb az alábbi három (de nem kötelezően az összes!) alapfázisból állhat. Mindegyik opcionális, hogy melyikre van szükség, azt az adott Manőver leírásánál találjuk. Végrehajtásuk sorrendjében:
 
-- 1. **Megakasztás** (ha van)\
+- `1.` **Megakasztás** (ha van)\
   ellenfél teszi (Sima támadás - ha sikeres, a Manőver rögtön sikertelen)
 
-- 2. **Végrehajtás** (manővert végző teszi)\
+- `2.` **Végrehajtás** (manővert végző teszi)\
   Sebzést érő támadás szükséges, `TÉ+20`-al, (aktuális, fegyveres `TÉ` számít), de nem okoz sebet.\
   Mindig ezt dobjuk előbb, mert ez ad leggyorsabban eredményt 🔆
 
-- 3. **Ellenpróba** (manővert végző teszi)\
+- `3.` **Ellenpróba** (manővert végző teszi)\
   ```Manőver pont vs Célszám```
 
 ---
