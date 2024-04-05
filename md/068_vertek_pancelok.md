@@ -54,34 +54,44 @@ Az SFÉ független attól, hogy csak egy mellvért-darab, vagy teljes páncélza
 
 #### Páncél struktúrák, alapanyag minősége
 
-Az SFÉ értékét a páncél fizikai felépítése, anyaga adja. Az egyes páncél struktúrák különbözőképpen alkalmasak a három fő támadási típus (szúró/vágó/zúzó) ellen való védekezésre. Sebzéskor a támadó karakter dobás után bemondja végleges SP értékét (példa: „18, Szúró”), és az áldozat annak megfelelő (szúró) SFÉ értéket von le belőle.
+Az SFÉ értékét a páncél fizikai felépítése, anyaga adja. Az egyes páncél struktúrák különbözőképpen alkalmasak a három fő támadási típus (szúró/vágó/zúzó) ellen való védekezésre. Sebzéskor a támadó karakter dobás után bemondja végleges SP értékét (példa: "`18, Szúró`”), és az áldozat annak megfelelő (`Szúró`) SFÉ értéket von le belőle.
 
-Az egyes **fém-páncél** példányok struktúrális minősége erősen eltérhet (függ az anyagtól és a készítő mestertől is). Lenn SFÉ határokkal jelezzük ezt a jelenséget. Például "Szúró 10-12-14" azt jelenti, hogy 10-14-es intervallumon belül lehet az ilyen anyagú vért, az átlagos struktúrális-minőség a 12-es.\
-A jobb minőség nagyon megdobhatja a vért árát.
+Az egyes **fém-páncél** példányok struktúrális minősége erősen eltérhet (függ az anyagtól és a készítő mestertől is). Lenn a `+/-` oszlopnál jelezzük ennek az SFÉ "mozgástérnek a kereteit. A jobb anyagminőség viszont nagyon megdobhatja a vért árát - lásd "Ár" oszlop.
 
-| **Páncél struktúra** | **Szúró SFÉ** | **Vágó SFÉ** | **Zúzó SFÉ** | +/- |      **Ár**       |
-| -------------------- | :-----------: | :----------: | :----------: | :-: | :---------------: |
-| Posztó/Bunda         |       1       |      2       |      2       |  0  |        ⭕?%        |
-| Fegyverkabát         |       3       |      3       |      2       |  0  |        ⭕?%        |
-| Bőr                  |       6       |      8       |      5       |  2  |        ⭕?%        |
-| Brigantin            |      10       |      12      |      7       |  2  |        ⭕?%        |
-| Lánc/Sodrony         |       8       |      13      |      5       |  2  |  ?% - 60% - ⭕?%   |
-| Pikkelypáncél        |      12       |      13      |      6       |  2  |  ⭕?% - ?% - ⭕?%   |
-| Lemezpáncél          |      15       |      18      |      10      |  2  | 70% - 160% - 250% |
+| **Páncél struktúra** | **Szúró SFÉ** | **Vágó SFÉ** | **Zúzó SFÉ** | Energia SFÉ | +/- | **Ár** |
+| -------------------- | :-----------: | :----------: | :----------: | :---------: | :-: | :----: |
+| Posztó/Bunda         |      `1`      |     `2`      |     `2`      |      ⭕      | `0` | `0.1x` |
+| Fegyverkabát         |      `3`      |     `3`      |     `2`      |      ⭕      | `0` |  `1x`  |
+| Bőr                  |      `6`      |     `8`      |     `5`      |      ⭕      | `2` |  `1x`  |
+| Brigantin            |     `10`      |     `12`     |     `7`      |      ⭕      | `2` |  `3x`  |
+| Lánc/Sodrony         |      `8`      |     `13`     |     `5`      |      ⭕      | `3` | `10x`  |
+| Pikkelypáncél        |     `12`      |     `13`     |     `6`      |      ⭕      | `3` | `50x`  |
+| Lemezpáncél          |     `15`      |     `18`     |     `10`     |      ⭕      | `4` | `100x` |
 ⭕TODO: fenti értékek hangolása
+
+| Anyagminőség +SFÉ |    Ár    |
+| :---------------: | :------: |
+|       `-4`        | `1/10 x` |
+|       `-3`        | `1/7 x`  |
+|       `-2`        | `1/4 x`  |
+|       `-1`        | `1/2 x`  |
+|       `+1`        |   `2x`   |
+|       `+2`        |   `4x`   |
+|       `+3`        |   `7x`   |
+|       `+4`        |  `10x`   |
 
 ---
 #### Fém vértek alapanyaga - SFÉ
 
 A különböző fém ötvözetek alapanyagai változtathatnak az SFÉ értékeken. Amihez viszonyítunk az alaphelyzetben az az acél.
 
-|           |   SFÉ    | Ár (anyag-szorzó) |
-| --------- |:--------:|:-----------------:|
-| Acél      |    +0    |        1x         |
-| Bronz     |    -5    |       0,5x        |
-| Abbitacél |    +5    |        10x        |
-| Mithrill  |   +10    |       100x        |
-| Lunír     | ⭕+10-20 | "a csillagos ég"  |
+|           |    SFÉ    | Ár (anyag-szorzó) |
+| --------- | :-------: | :---------------: |
+| Acél      |   `+0`    |       `1x`        |
+| Bronz     |   `-5`    |      `0,5x`       |
+| Abbitacél |   `+5`    |       `10x`       |
+| Mithrill  |   `+10`   |      `100x`       |
+| Lunír     | ⭕`+10-20` | "a csillagos ég"  |
 
 <br />
 
@@ -121,9 +131,9 @@ A különböző fém ötvözetek alapanyagai változtathatnak az MGT értékeken
 | --------- | :------: |
 | Acél      |   `+0`   |
 | Bronz     |  ⭕`+6`   |
-| Abbitacél |   ⭕-?    |
-| Mithrill  |   ⭕-?    |
-| Lunír     |   ⭕-?    |
+| Abbitacél |  ⭕`-5`   |
+| Mithrill  |  ⭕`-10`  |
+| Lunír     |  ⭕`-15`  |
 
 ---
 #### Erőbónusz MGT csökkentése
@@ -148,7 +158,7 @@ Aki erősebb, azt kevésbé korlátozza egy nehezebb páncél.
 | II.  | Nem merev, fém             |   `4`   |       `3`        |   `2`   |   `1`    |      `0,5`      |
 | III. | Merev, fém                 |   `5`   |       `4`        |   `3`   |   `2`    |       `1`       |
 |      |                            |         |                  |         |          |                 |
-|      | Ár szorzó (kidolgozottság) | `x 0,1` |     `x 0,5`      |    -    |  `x 10`  |     `x 100`     |
+|      | Ár szorzó (kidolgozottság) | `x 0,1` |     `x 0,5`      |  `x 1`  |  `x 10`  |     `x 100`     |
 
 A vért elemek kapcsolódásainak jó kidolgozottsága alapvető fontosságú a gördülékeny mozgáshoz. Egy rossz illesztékekkel készített vértezet rettenetesen nehezíti a mozgást viselője számára, nem minden a nagy SFÉ. Kiváló alapanyagból is lehet hitványul megformált munkát készíteni, fontos tehát a jó készítő mester is.
 
