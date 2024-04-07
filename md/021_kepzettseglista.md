@@ -213,7 +213,7 @@ Festészet + (Pszeudó tul.) + k10   vs   Célszám
 
 🔵[Taktika](kepzettsegek/taktika.md) <sup><sub>(0%)</sub></sup> 🔁
 
-🔵[Stratégia](kepzettsegek/taktika.md) <sup><sub>(0%)</sub></sup> 🔁
+🔵[Stratégia](kepzettsegek/strategia.md) <sup><sub>(0%)</sub></sup> 🔁
 
  🔵[Vallásismeret](kepzettsegek/vallasismeret.md) <sup><sub>(10%)</sub></sup> (adott pantheon) 🔁
 
