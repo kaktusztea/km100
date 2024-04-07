@@ -223,7 +223,7 @@ Festészet + (Pszeudó tul.) + k10   vs   Célszám
 
 🔴[Aurafejlesztés](kepzettsegek/aurafejlesztes.md)
 
-🔴 Tradíció
+🔴[Tradíció](kepzettsegek/tradicio.md)
 
 🔵[Összpontosítás](kepzettsegek/osszpontositas.md) <sup><sub>(10%)</sub></sup>
 
