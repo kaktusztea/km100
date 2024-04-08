@@ -1,21 +1,3 @@
-## Általános fortélyok
-
-<!-- tag: altalanos__fortely -->
-
-- [Baráti állatok](fortelyok.altalanos/barati_allatok.md)
-- [Csomózás; Kötelékből szabadulás](fortelyok.altalanos/csomozas__kotelekbol_szabadulas.md)
-- [Éber alvó](fortelyok.altalanos/eber_alvo.md)
-- [Fakír](fortelyok.altalanos/fakir.md)
-- [Gyöngyhalász](fortelyok.altalanos/gyongyhalasz.md) 🔺
-- [Hangutánzás](fortelyok.altalanos/hangutanzas.md)
-- [Irodalmár](fortelyok.altalanos/irodalmar.md)
-- [Kitartás](fortelyok.altalanos/kitartas.md)
-- [Kocsihajtás](fortelyok.altalanos/kocsihajtas.md)
-- [Sprint](fortelyok.altalanos/sprint.md)
-- [Szájról olvasás](fortelyok.altalanos/szajrol_olvasas.md) 🔺
-- [Szerencsés](fortelyok.altalanos/szerencses.md)
-
----
 ## Érzék fortélyok
 
 <!-- tag: erzek__fortely -->
@@ -33,13 +15,23 @@
 <!-- tag: alvilagi__fizikai__fortely -->
 
 - [Biztos kezű mászó](fortelyok.altalanos/biztos_kezu_maszo.md) 🔺
+- [Csomózás; Kötelékből szabadulás](fortelyok.altalanos/csomozas__kotelekbol_szabadulas.md)
+- [Éber alvó](fortelyok.altalanos/eber_alvo.md)
+- [Fakír](fortelyok.altalanos/fakir.md)
 - [Futás](fortelyok.altalanos/futas.md)
+- [Gyöngyhalász](fortelyok.altalanos/gyongyhalasz.md) 🔺
+- [Hangutánzás](fortelyok.altalanos/hangutanzas.md)
 - [Kaméleon](fortelyok.altalanos/kameleon.md)
+- [Kitartás](fortelyok.altalanos/kitartas.md)
+- [Kocsihajtás](fortelyok.altalanos/kocsihajtas.md)
 - [Kötéltánc](fortelyok.altalanos/koteltanc.md) 🔺
 - [Pók](fortelyok.altalanos/pok.md) 🔺
+- [Sprint](fortelyok.altalanos/sprint.md)
 - [Suhanó árnyék](fortelyok.altalanos/suhano_arnyek.md) 🔺
 - [Szabotőr](fortelyok.altalanos/szabotor.md)
+- [Szájról olvasás](fortelyok.altalanos/szajrol_olvasas.md) 🔺
 - [Százarcú](fortelyok.altalanos/szazarcu.md)
+- [Szerencsés](fortelyok.altalanos/szerencses.md)
 - [Úszás](fortelyok.altalanos/uszas.md)
 - [Villámgyors keresés](fortelyok.altalanos/villamgyors.kereses.md) 🔺
 - [Zártörő](fortelyok.altalanos/zartoro.md) 🔺
@@ -50,6 +42,7 @@
 <!-- tag: tudomanyos__fortely -->
 
 - [Írástudó](fortelyok.altalanos/irastudo.md)
+- [Irodalmár](fortelyok.altalanos/irodalmar.md)
 - [Különleges faj](fortelyok.altalanos/kulonleges.faj.md)
 
 ---
@@ -57,6 +50,7 @@
 
 <!-- tag: szocialis__fortely -->
 
+- [Baráti állatok](fortelyok.altalanos/barati_allatok.md)
 - [Hazudozás](fortelyok.altalanos/hazudozas.md)
 - [Hidegvér](fortelyok.altalanos/hidegver.md) 🔺
 - [Megfélemlítés](fortelyok.altalanos/megfelemlites.md)
