@@ -23,7 +23,7 @@ A fortélyoknak lehetnek **követelményei**: Tulajdonságok elvárt értékei, 
 
 ---
 
-[Általános, Érzék, Alvilági és Fizikai fortélyok](033_altalanos_fortelyok.md)
+[Érzék, Alvilági/Fizikai, Tudományos, Szociális fortélyok](033_altalanos_fortelyok.md)
 
 [Harci, Távharc és Lovas fortélyok](034_harci_fortelyok.md)
 
