@@ -17,7 +17,7 @@
 - [Képzettségrendszer](020_kepzettsegrendszer.md) (80%)
 - [Képzettséglista](021_kepzettseglista.md) (90%)(20%)
 - [Fortélyok](030_fortelyok.md)
-  - [Általános, Érzék, Alvilági és Fizikai fortélyok](033_altalanos_fortelyok.md)
+  - [Érzék, Alvilági és Fizikai fortélyok](033_altalanos_fortelyok.md)
   - [Harci, Távharc és Lovas fortélyok](034_harci_fortelyok.md)
   - [Misztikus és Mágia fortélyok](035_misztikus_magia_fortelyok.md)
 - [Hátterek](040_hattererek.md)
