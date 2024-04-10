@@ -37,7 +37,7 @@
 - [Zártörő](fortelyok.altalanos/zartoro.md) 🔺
 
 ---
-### Tudományos fortélyok
+## Tudományos fortélyok
 
 <!-- tag: tudomanyos__fortely -->
 
@@ -46,7 +46,7 @@
 - [Különleges faj](fortelyok.altalanos/kulonleges.faj.md)
 
 ---
-### Szociális fortélyok
+## Szociális fortélyok
 
 <!-- tag: szocialis__fortely -->
 
