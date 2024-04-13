@@ -134,11 +134,9 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` egy másodlagos 
 
 🔵[Szexuális kultúra](kepzettsegek/szexualis_kultura.md) <sup><sub>(0%)</sub></sup>
 
-🔵[Természetjárás](kepzettsegek/termeszetjaras.md) (adott tájtípus) <sup><sub>(20%)</sub></sup> 🔁
+🔵[Természetjárás](kepzettsegek/termeszetjaras.md) (adott tájtípus) <sup><sub>(30%)</sub></sup> 🔁
 
 🔵[Vajákosság](kepzettsegek/vajakossag.md) <sup><sub>(40%)</sub></sup>
-
-🔵[Vadászat](kepzettsegek/vadaszat.md) <sup><sub>(10%)</sub></sup>
 
 🔴[Orvoslás](kepzettsegek/orvoslas.md) <sup><sub>(40%)</sub></sup>
 
