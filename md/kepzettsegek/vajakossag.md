@@ -42,7 +42,6 @@
 ##### Összhangok
 
 - [Természetjárás](termeszetjaras.md): **Erős Összhang**
-- [Vadászat](vadaszat.md): **Gyenge Összhang**
 
 <br />
 

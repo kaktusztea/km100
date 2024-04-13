@@ -1,20 +1,21 @@
 #### 🔵 Természetjárás (adott tájtípus)
 
-Többször felvehető.
+Többször (4x) felvehető képzettség - adott tájtípusra.
 
 **Tájtípusok**:
 - dzsungel
 - sivatag
-- magaslati
-- mocsaras
-- pusztai
+- magaslati (sarkvidék)
 - erdős
-- ⭕
 
-⭕TODO: szokásos kifejtés, szintek, esetleges követelmények⭕
+A fentiek között Erős összhang van (ami alacsony szinteken helyettesítőként működhet).
 
-Az adott  tájtípus ismerete, környezeti jellemzőkre vonatkozik. Magában foglalja a következőket:
-- Túlélés, hideg és meleg elleni technikák, tájékozódás
-- Állat és növényvilág részleges ismerete
+Az adott tájtípus ismerete környezeti jellemzőkre vonatkozik és magában foglalja a következőket:
+- Túlélés, hideg és meleg elleni technikák, tűzrakás
+- Tájékozódás
+- Állat és növényvilág részleges ismerete, szokásaik ("Erdőjárás")
+- Vadászat (átlagos, nem-szörny állatokra sima próbadobással)
 - Élelem fellelése. Például bogyók, zuzmók, gombák, stb
 - Víz megtalálása (ha van egyáltalán)
+
+⭕TODO: szokásos kifejtés, szintek, esetleges követelmények⭕

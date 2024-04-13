@@ -103,7 +103,6 @@ Ajánlott fortélyok:
 
 Ajánlott képzettségek:
 - [Természetjárás](kepzettsegek/termeszetjaras.md)
-- [Vadászat](kepzettsegek/vadaszat.md)
 
 <br />
 
