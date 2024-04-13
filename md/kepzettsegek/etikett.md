@@ -16,7 +16,7 @@ A képzettség három különböző jellegben vehető fel és ezek általános t
 Természetesen nem mindegy, melyik kultúrkörben kell a társasági kihívásokat teljesíteni, de az alapismeret és a gyors tanulás képessége mindegyiknek alapvető része. Például egy "Etikett (Udvari): `9.szint`"-el rendelkező pyarroni nemes pár nap alatt képes megtanulni a toroni udvari Etikett szabályait, mert már megvan a mentális "váz", amire csak fel kell "aggatnia" az új tudást.
 
 Hogy az adott Etikett szint használható -e egyes kultúrkörökhöz (Toroni, Tiadlani, Kráni, stb.) azt ingyens Bónusz Hátterek adják meg.\
-A karakter a képzettség felvételekor megkapja saját kultúrkörét mint Bónusz Fortélyt.
+A karakter a képzettség felvételekor megkapja saját kultúrkörét mint Bónusz Háttér.
 
 ```
 ⚡ Példa: "Etikett (Udvari) kultúrkör: Toron"
