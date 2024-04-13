@@ -1,4 +1,4 @@
-#### 🔵 Etikett (adott kultúrkör)
+#### 🔵 Etikett (Udvari / Polgári / Alvilági)
 
 **Próba**: dobható, sokszor [összetett próba](../020_kepzettsegrendszer.md#%C3%B6sszetett-k%C3%A9pzetts%C3%A9gpr%C3%B3ba-m%C3%A1sodlagos-pr%C3%B3badob%C3%A1sok) indokolt
 
@@ -6,13 +6,35 @@
 
 **Kapcsolódó fortélyok**: -
 
-**Leírás**: Hogy kell köszönteni a nemesi vendégeket, hogyan kell udvariasan hárítani egy meghívást, mi számít könnyed tréfának és mi halálos sértésnek? Egy adott kultúrkör (pl. toroni) etikettjében jártas egyén jól elboldogul a fenti problémákkal. A képzettség tehát nem más, mint a nemesi környezetben való érvényesülés képessége. A képzettség többször felvehető - különböző kultúrkörökre külön-külön.
+**Leírás**: Hogy kell köszönteni a nemesi vendégeket, hogyan kell udvariasan hárítani egy meghívást, mi számít könnyed tréfának és mi halálos sértésnek az alvilágban? Kitől fogadjunk el ital meghívást a kocsmában?
 
-Ha nincs épp Etikett az adott szituációban szükséges kultúrkörből, akkor be lehet számítani összhangként a meglevő „Etikettek” 1/5-ének összegét.
+A képzettség három különböző jellegben vehető fel és ezek általános tudást nyújtanak:
+- Udvari
+- Polgári
+- Alvilági
+
+Természetesen nem mindegy, melyik kultúrkörben kell a társasági kihívásokat teljesíteni, de az alapismeret és a gyors tanulás képessége mindegyiknek alapvető része. Például egy "Etikett (Udvari): `9.szint`"-el rendelkező pyarroni nemes pár nap alatt képes megtanulni a toroni udvari Etikett szabályait, mert már megvan a mentális "váz", amire csak fel kell "aggatnia" az új tudást.
+
+Hogy az adott Etikett szint használható -e egyes kultúrkörökhöz (Toroni, Tiadlani, Kráni, stb.) azt ingyens Bónusz Hátterek adják meg.\
+A karakter a képzettség felvételekor megkapja saját kultúrkörét mint Bónusz Fortélyt.
+
+```
+⚡ Példa: "Etikett (Udvari) kultúrkör: Toron"
+```
+
+Újabb kultúrkör Hátterek szerzése:\
+kalandozásai során a karakter számos helyre elvetődik. Ha ott rászán pár napot az adott kultúra adott Etikett jellegének (Udvari, Polgári, Alvilági) tanulmányozására, akkor már ott is képes lesz képzettségét maximális hatékonysággal kiaknázni, próbákat dobni rá.
+
+Ha nincs épp meg az adott szituációban a szükséges kultúrkörhöz tartozó Bónusz Háttér, akkor `+3`-al emelkednek a próbák nehézségei, amíg rá nem szánja a szükséges, rövid időt a Háttér megszerzésére a karakter.
+
+Jellegek közti Összhang:\
+be lehet számítani összhangként a meglevő „Etikettek” 1/3-ének összegét (Erős Összhang) helyettesítésként. Például egy "Etikett (Polgári): 9. szint" beszámítható "Etikett (Udvari): 3.szint"-nek.
 
 <br />
 
 ##### Biztos tudás, követelmények
+
+⭕ TODO: Polgári és Alvilági példák
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub>                                                                                                  |                   Követelmény                    |
 |:---------------- |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:------------------------------------------------:|
