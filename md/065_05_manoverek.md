@@ -362,8 +362,8 @@ Az alábbiakban Manőverfejlesztő Pontokból (`MFP`) fejleszthető Manőverek l
 - Végbevitel követelménye:
 	- Belharcos fegyver használata
 	- **Közelharc** harcmodor
-- &#8291;1. fok követelmény: **Belharc** fortély - `1.fok` (az épp forgatott fegyverre)
-- &#8291;2. fok követelmény: **Belharc** fortély - `1.fok` (az épp forgatott fegyverre)
+- &#8291;1. fok követelmény: **Belharc** fortély - `1.fok`
+- &#8291;2. fok követelmény: **Belharc** fortély - `1.fok`
 - Speciális:
 	- `4`-el túldobott célszám esetén (Ellenpróbánál) sebző **Megakasztás** támadást elszenvedve is bekerülhet a karakter.
 	- Ellenfél háttal áll: célszámra: `-4`
