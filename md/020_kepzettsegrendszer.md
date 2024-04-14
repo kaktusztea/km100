@@ -238,16 +238,14 @@ Ez ebben az esetben a `Természetjárás` képzettség az, amely helyettesítő 
 
 Tehát a próbát `3 + Érzékenység  vs  Próba célszám` értékekkel dobja.
 
-#### ⚡Példa-2: Helyismeret összhangokkal
+#### ⚡Példa-2: Történelemismeret összhangokkal
 
-- Helyismeret - `0.szint` (teljesen járatlan)
-- Történelemismeret - `6.szint` (Erős Összhang Helyismerettel)
-- Vallásismeret - `12.szint` (Közepes Összhang Helyismerettel)
+- Történelemismeret - `0.szint`
+- Vallásismeret - `12.szint` (Erős Összhang Történelemismerettel)
 
-Ekkor a **Történelemismeret** `6/3 = 2`, a **Vallásismeret** pedig `12/5 ~= 2` értéket szolgáltat.
-Tehát összesen `2+1 = 4`
+Ekkor a **Vallásismeret** `12/3 ~= 4` értéket szolgáltat.
 
-Tehát a próbát `4 + Érzékenység  vs  Próba célszám` értékekkel dobja.
+Tehát a próbát `4 + Emlékezet  vs  Próba célszám` értékekkel dobja.
 
 ---
 ### Sérülés hatása képzettségpróbára
