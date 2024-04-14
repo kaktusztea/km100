@@ -185,7 +185,7 @@ Festészet + (Pszeudó tul.) + k10   vs   Célszám
 
 🔵[Zeneszerző](kepzettsegek/zeneszerzo.md)
 
-🔵[Zenélés](kepzettsegek/zeneles.md) (hangszercsoport) <sup><sub>(10%)</sub></sup> 🔁
+🟢[Zenélés](kepzettsegek/zeneles.md) (hangszercsoport) <sup><sub>(30%)</sub></sup> 🔁
 
 ## Tudományos képzettségek
 
