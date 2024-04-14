@@ -29,8 +29,6 @@ Például egy "Etikett (Polgári): 9. szint" beszámítható "Etikett (Udvari): 
 
 ##### Biztos tudás, követelmények
 
-⭕ TODO: Polgári és Alvilági példák
-
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub>                                                                                                                                |                   Követelmény                    |
 | :--------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------: |
 | Novícius (3)     | Alapvető bejelentési társalgási formulák ismerete. Tudja, mikor hallgasson.<br />**Példa**: Kezdő udvaronc, Bandatag                                                                                              |               Érzékenység:&nbsp;0                |
