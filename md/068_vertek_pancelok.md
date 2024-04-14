@@ -103,6 +103,7 @@ A különböző fém ötvözetek alapanyagai változtathatnak az SFÉ értékeke
 → Σ MGT = Alap MGT - (Erő x 2) + Csatolt MGT
 → 1 MGT → -0,5 KÉ, -1 TÉ,VÉ
 → 1 MGT → -1/5 mozgást igénylő képzettségpróbákra (lefele kerekítve)
+→ Tulajdonságpróbákra alapból nem jár büntetés, de helyzet-függően a KM adhat
 ```
 
 Harc és mozgás során a vértek, egyes pajzsok, valamint a felszerelés egyes elemei korlátozhatják a karaktereket. Ennek szimulálására van a Mozgásgátló Tényező – röviden **MGT**. A fenti vérteknek, pajzsoknak és egyes fegyvereknek van MGT értéke. Alapesetben a páncél Struktúráknál leírt MGT alapértékekhez hozzáadjuk a kategória- és minőségfüggő értékeket kapcsolt darabonként, beleértve a torzót védő mellvértet is.
