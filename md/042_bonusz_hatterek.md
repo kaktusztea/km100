@@ -16,6 +16,7 @@ Tartalomjegyzék
 - [Élő álca](#-%C3%A9l%C5%91-%C3%A1lca)
 - [Harci láz 3](#-harci-l%C3%A1z-3)
 - [Kobratánc](#-kobrat%C3%A1nc)
+- [Kultúrkör](xyz)   TODO
 - [Lénylovas](#-l%C3%A9nylovas-faj-neve)
 - [Tánc: speciális/belső stílus](#t%C3%A1nc-speci%C3%A1lisbels%C5%91-st%C3%ADlus)
 - [Tapadás](#-tapad%C3%A1s)
@@ -111,6 +112,24 @@ Legendás és rettegett gorviki fejvadász stílus, amely jellemzően végtagoka
 - Minden felé irányuló támadás előtt a kobratáncos dob először egy kivételes, **megelőző** támadást. Ha az sikeres (sebző), akkor az ellenfél elveszíti a támadását.
 
 <br />
+
+---
+#### 🟣 Kultúrkör
+
+```
+⚡ Példa: "Kultúrkör: Toron"
+```
+
+A karakter a képzettség felvételekor megkapja saját kultúrkörét mint Bónusz Hátteret.
+
+Kalandozásai során a karakter számos helyre elvetődik. Ha ott rászán pár napot az adott kultúra tanulmányozására, akkor már ott is képes lesz Kultúrkör-függő képzettségeit maximális hatékonysággal kiaknázni, próbákat dobni rá. Ez minden, kultúrköri ismeretet igénylő képzettségre igaz. Hogy mennyi idő szükséges ennek aktív megszerzésére (napok, hetek), azt a KM határozza meg. A játékosnak jeleznie kell, hogy aktívan tanulmányozza az adott kultúrkört (könyvtár, bálok, kocsmák, stb. látogatása, helyi kapcsolatrendszer kiépítése).
+
+Ha nincs épp meg az adott szituációban a szükséges kultúrkörhöz tartozó Bónusz Háttér, akkor `+3`-al emelkednek az adott képzettség próbáinak nehézségei, amíg a karakter rá nem szánja a szükséges időt a kapcsolódó Kultúrkör Háttér megszerzésére.
+
+```
+⚡ Képzettség példa: Etikett
+```
+
 
 ---
 #### 🟣 Lénylovas (faj neve)
