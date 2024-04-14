@@ -88,6 +88,28 @@ Bővebben lásd a ⭕Mágia fejezetet⭕.
 <br />
 
 ---
+
+#### 🟣 Helyismeret (városnyi terület) (3)
+
+3 fokú ingyenes ismeret, amelyet az előtörténet és az átélt kalandok adhatnak.
+
+`1. fok`: Ideiglenesen tartózkodtál a városban pár ⭕minimum 3 napot⭕.
+`2. fok`: Átlagpolgár, aki a városban született és él, ismeri az intézményeket, piacokat, vezetőket
+`3. fok`: Ismered az adott hely erőviszonyainak mélyebb rétegeit, szervezeteit
+
+ Minden karakter kezdéskor kap `3` foknak megfelelő pontot, amiből felvehet Helyismeret Hátteret és eloszthat az általa ismert városok/városnyi területek között. Például:
+
+- Helyismeret – Shadlek : 3
+
+   vagy<br /><br />
+
+- Helyismeret – Shadlek: 1, Helyismeret – Warwik: 1, Helyismeret – El Sobira fővárosa: 1
+
+A **Helyismeret** értéke úgy változhat, hogy a KM egy kaland végén tetszés szerint ad pontot a karakterek Helyismeret Hátterére arra a helyre vonatkoztatva, ahol a kaland játszódott. Tehát ha a karakter a délvidékről származik és először volt Ifinben, akkor az eddig `0` értékű „Helyismeret – Ifin” Háttere a kaland után `1`-re nőhet, ha igazán a "mélyébe csöppent", sok újdonságot tapasztalt a várossal kapcsolatban, akkor akár `2`-re is ugorhat. Az ilyen értéknövelés nem igényel `KP` költést, "ingyenes".
+
+⭕Biztos tudás, Próbák, stb.⭕
+
+---
 #### 🟣 Kobratánc
 
 Legendás és rettegett gorviki fejvadász stílus, amely jellemzően végtagokat, hasat és lehetőleg kis, páncéltalan részeket támad.
