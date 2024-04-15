@@ -72,4 +72,4 @@ A rendszer nonprofit, soha semmilyen anyagi, vagy egyéb ellenszolgáltatást ne
 
 **Kapcsolat**: `km100rpg _kukac_ protonmail _pont_ com`
 
-Ailtas, 2004-2024 ([CC](LICENSE))
+Ailtas, Kaktusztea, 2004-2024 ([CC](LICENSE))
