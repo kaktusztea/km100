@@ -47,7 +47,7 @@
   - [KÉ, TÉ, VÉ, CÉ összefoglaló táblázatok](062_02_ke_te_ve_ce.md)
   - [Mozgásgátló tényező (MGT)](063_01_mgt.md)
   - [Előnyös és hátrányos helyzet (VÉ csökkentés)](063_02_elonyos_hatranyos_helyzet.md)
-  - [Támadások száma](063_03_tamadasok_szama.md)
+  - [Támadások száma, Akciók, Mozgás](063_03_tamadasok_szama__akcio__mozgas.md)
   - [Harc menete (összefoglaló)](064_01_02_harc_menete_osszefoglalas.md)
   - [Harc menete (részletes)](064_01_02_harc_menete_reszletes.md) (KÉ, Támadás, Sebzés, Sebződés)
   - [Példaharc](064_02_peldaharc.md)
