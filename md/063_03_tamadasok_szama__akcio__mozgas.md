@@ -1,9 +1,19 @@
-## Támadások száma fegyverrel
+## Támadások száma fegyverrel, mágiával, Akció
 
 ```
 Alapeset:  minden fegyver támadásainak száma: 1 / kör.
 ```
 (néhány kivételnél ez kevesebb. Lásd a fegyver táblázatot)
+
+---
+### Akció fogalma
+
+Az Akció a harcban megtett elemi cselekedet. 1 Akció az alábbiak cselekedetekkel egyenértékű:
+- 1 harci támadás
+- 1 Manőver
+- 1 Varázslás
+
+A körön belüli Akciók számát lent írjuk le.
 
 ---
 ### „Harcmodor-Sebesség”
@@ -83,3 +93,21 @@ Azt kell megvizsgálni, hogy a `"Formula-Sebesség"` eléri -e a **Varázskerete
 
 A **Varázskeret** minden kör elején eredeti értékére "töltődik vissza".
 
+---
+### Mozgás harcban, mozgás hatása támadások számára
+
+Harc közben nem ugyanazon a pár négyzetméteres területen mozog a karakter, sokszor át kell rohannia segíteni másnak, vagy épp visszavonulnia (már ha sikerült kibontakoznia). A harci körben való mozgás 
+
+#### Maximum mozgás, maximum támadással
+```
+Max Mozgás egy körben  =  (5 + Gyorsaság) méter
+```
+
+Egy karakter egy harci körön belül szabadon mozoghat maximum (`5 + Gyorsaság Tulajdonság`) mennyiségű métert anélkül, hogy elveszítene egyet is támadásaiból.
+#### Maximum mozgás egy körben
+
+Ha a karakter a `Max mozgás` távolságnál mindenképpen nagyobb távot akar megtenni egy körben és még 1 db támadást le is akar adni, akkor azt megteheti az alábbi megkötésekkel:
+
+- Maximum táv: `Max mozgás x 2 (méterben)`
+- A körben nem lehet/lehetett ezen kívül más támadása
+- Csak [Roham](065_02_harci_taktikak.md#roham) Harci taktikával végezhető a támadás
