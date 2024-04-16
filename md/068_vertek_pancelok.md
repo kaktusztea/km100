@@ -353,7 +353,7 @@ A lehető legátlagosabb sodronying, sisakon kívül mindent beborítva.
 #### Ár
 
 - Alap:
-	- Struktúra: Sodrony: `10x
+	- Struktúra: Sodrony: `10x`
 	- Anyagminőség átlagos: `1x`
 	- Kidolgozottság „gyenge”: `0,5x`
 - Mellvért ár : `10x x 1x x 0,5  =  5x`
