@@ -585,6 +585,7 @@ Lásd a [Mágiarendszer](090_magiarendszer.md) fejezetet!
 → Primer ismeretek: minden harci, misztikus, mágikus képzettség és fortély, HM, CM
                     + Észlelés, Összpontosítás, Fájdalomtűrés,
                     + Akrobatika, Lopakodás/rejtőzés képzettség
+                    + Nyomolvasás
 → Szekunder ismeretek: minden más
 ```
 
