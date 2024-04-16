@@ -6,14 +6,11 @@ Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-
 
 **Próba**: dobható, és nincs kiemelt szinteken megkapott biztos tudás
 
-**Domináns Tulajdonságok**:
+**Domináns Tulajdonságok**: Érzékenység (fizikai érzékekre is ez használandó), Intelligencia
 
-- Érzékenység (fizikai érzékekre is ez használandó)
-- Intelligencia
+**Kapcsolódó fortélyok**:  [Keresés](kereses.md), [Villámgyors keresés](villamgyors.kereses.md)  [Éber alvó](../fortelyok.altalanos/eber_alvo.md)
 
-**Kapcsolódó fortélyok**: [Éber alvó](../fortelyok.altalanos/eber_alvo.md)
-
-**Leírás**: Az Észlelés valaminek az észrevételét takarja. Ez lehet egy villanó tőr, egy meglapuló merénylő a lombok közt, egy árulkodó súrlódó nesz. Fontos, hogy az Észlelés csak a momentum észrevételt jelenti, annak értelmezését nem! Az a játékos feladata, melyet esetleg megkönnyíthet a **Nyomolvasás** képzettség.
+**Leírás**: Az Észlelés valaminek az észrevételét takarja. Ez lehet egy villanó tőr, egy meglapuló merénylő a lombok közt, egy árulkodó súrlódó nesz. Fontos, hogy az Észlelés csak a momentum észrevételt jelenti, annak értelmezését nem! Az a játékos feladata, melyet esetleg megkönnyíthet például a [Nyomozás](nyomozas.md), vagy a [Természetjárás](termeszetjaras.md) képzettség.
 
 A képzettség szituációs alkalmazásáról bővebben az [Érzékelés, észlelés](../140_erzekeles_eszleles.md) fejezetben olvashatsz.
 <br />
@@ -32,14 +29,14 @@ A képzettség szituációs alkalmazásáról bővebben az [Érzékelés, észle
 
 ##### Próbák
 
-| Célszám | Példa  |
-| :----------- | :----------- |
-| Könnyű       (6)  | Észrevenni a sarok mögül kilépő, csattogó lovaskatonát |
-| Átlagos      (9)  | 1. Erdőben sétálva észrevenni a fán rohangáló mókust.<br />2. Mozaikpadló mintázatában egy élesen elütő kockát kiszúrni.<br />3. Világosban, a szobában levő egyetlen festmény mögül apró lyukon leskelődő amatőr kémet észrevenni. |
-| Nehéz        (12) | 1. Észrevenni egy majdnem zajtalanul fejedre zuhanó sziklát néma csendben.<br />2. Kiszúrni a libbenő ruha alatt a tőrt. |
-| Nagyon nehéz (15) | 1. Észrevenni egy fejedre zuhanó sziklát zajban.<br />2. Átlagos minőségű ételmérget kiszúrni (szaglás/ízlelés) |
-| Rendkívül nehéz (18) | 1. Egy képteremben, világosban kiszúrni a festmény mögül apró lyukon leskelődő kémet.<br />2. "Nem vagyok egyedül" érzése (világosban és sötétben egyaránt ugyanaz a nehézség (Intuíció)) |
-| Emberfeletti (21) | Az ilyen nehéz próbákat szinte mindig az Intuíció érzékszerv segítségével dobjuk.<br />1. Mágikus csapda kitörését megérezni egy szemvillanással a kisülés előtt.<br />2. Szellemlény érintését megérezni - mágikus ismeretek nélkül.<br />3. Íztelen, szagtalan ételméreg kiszúrása |
+| Célszám              | Példa                                                                                                                                                                                                                                                                                |
+| :------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Könnyű       (6)     | Észrevenni a sarok mögül kilépő, csattogó lovaskatonát                                                                                                                                                                                                                               |
+| Átlagos      (9)     | 1. Erdőben sétálva észrevenni a fán rohangáló mókust.<br />2. Mozaikpadló mintázatában egy élesen elütő kockát kiszúrni.<br />3. Világosban, a szobában levő egyetlen festmény mögül apró lyukon leskelődő amatőr kémet észrevenni.                                                  |
+| Nehéz        (12)    | 1. Észrevenni egy majdnem zajtalanul fejedre zuhanó sziklát néma csendben.<br />2. Kiszúrni a libbenő ruha alatt a tőrt.<br />3. Jól álcázott rejtett ajtót megtalálni 5 perc alatt.                                                                                                 |
+| Nagyon nehéz (15)    | 1. Észrevenni egy fejedre zuhanó sziklát zajban.<br />2. Átlagos minőségű ételmérget kiszúrni (szaglás/ízlelés)<br />3. Jól beépített, rejtett titkos fiókot megtalálni egy nagyobb méretű bútorban.                                                                                 |
+| Rendkívül nehéz (18) | 1. Egy képteremben, világosban kiszúrni a festmény mögül apró lyukon leskelődő kémet.<br />2. "Nem vagyok egyedül" érzése (világosban és sötétben egyaránt ugyanaz a nehézség (Intuíció))                                                                                            |
+| Emberfeletti (21)    | Az ilyen nehéz próbákat szinte mindig az Intuíció érzékszerv segítségével dobjuk.<br />1. Mágikus csapda kitörését megérezni egy szemvillanással a kisülés előtt.<br />2. Szellemlény érintését megérezni - mágikus ismeretek nélkül.<br />3. Íztelen, szagtalan ételméreg kiszúrása |
 
 <br />
 

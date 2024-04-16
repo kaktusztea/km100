@@ -22,6 +22,7 @@
 - [Gyöngyhalász](fortelyok.altalanos/gyongyhalasz.md) 🔺
 - [Hangutánzás](fortelyok.altalanos/hangutanzas.md)
 - [Kaméleon](fortelyok.altalanos/kameleon.md)
+- [Keresés](fortelyok.altalanos/kereses.md)
 - [Kitartás](fortelyok.altalanos/kitartas.md)
 - [Kocsihajtás](fortelyok.altalanos/kocsihajtas.md)
 - [Kötéltánc](fortelyok.altalanos/koteltanc.md) 🔺

@@ -109,9 +109,9 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` egy másodlagos 
 
 🔵[Idomítás](kepzettsegek/idomitas.md) (állatcsoport) <sup><sub>20%)</sub></sup> 🔁
 
-🔵[Keresés](kepzettsegek/kereses.md) <sup><sub>(10%)</sub></sup>
-
 🔵[Emberismeret](kepzettsegek/emberismeret.md) <sup><sub>(90%)</sub></sup>
+
+🔵[Nyomozás](kepzettsegek/nyomozas.md) <sup><sub>(50%)</sub></sup>
 
 🔵[Szakma](kepzettsegek/szakma.md): ács, kőműves, borbély, kádár, varga, szűcs, cserző, (fegyver)kovács, gazdálkodás(birtok), ékszerész, molnár, pék, szabó, kötélgyártó, lakatos, rejtjelfejtő <sup><sub>(20%)</sub></sup> 🔁
 
