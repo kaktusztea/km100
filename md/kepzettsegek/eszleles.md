@@ -8,7 +8,7 @@ Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-
 
 **Domináns Tulajdonságok**: Érzékenység (fizikai érzékekre is ez használandó), Intelligencia
 
-**Kapcsolódó fortélyok**:  [Keresés](kereses.md), [Villámgyors keresés](villamgyors.kereses.md)  [Éber alvó](../fortelyok.altalanos/eber_alvo.md)
+**Kapcsolódó fortélyok**:  [Keresés](../fortelyok.altalanos/kereses.md), [Villámgyors keresés](../fortelyok.altalanos/villamgyors.kereses.md)  [Éber alvó](../fortelyok.altalanos/eber_alvo.md)
 
 **Leírás**: Az Észlelés valaminek az észrevételét takarja. Ez lehet egy villanó tőr, egy meglapuló merénylő a lombok közt, egy árulkodó súrlódó nesz. Fontos, hogy az Észlelés csak a momentum észrevételt jelenti, annak értelmezését nem! Az a játékos feladata, melyet esetleg megkönnyíthet például a [Nyomozás](nyomozas.md), vagy a [Természetjárás](termeszetjaras.md) képzettség.
 
