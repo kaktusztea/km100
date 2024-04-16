@@ -1,6 +1,6 @@
 # Képzettségek
 
-🔴Átfogó képzettség 🔵Átlagos képzettség 🟢Specializáció
+🔴Átfogó képzettség 🔵Átlagos képzettség 🟢Könnyű képzettség
 
 🟡Különleges képzettség, 🔁Többször felvehető, 🔆Megjegyzés ⭕TODO, kérdéses
 
