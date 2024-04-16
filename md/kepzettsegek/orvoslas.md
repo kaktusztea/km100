@@ -6,9 +6,9 @@
 
 **Domináns Tulajdonságok**: Érzékenység, Emlékezet, Intelligencia
 
-**Kapcsolódó fortélyok**:  ⭕xyz
+**Kapcsolódó fortélyok**:  [Élettan](../fortelyok.altalanos/elettan.md)
 
-**Bónusz-Háttér**: xyz
+**Bónusz-Háttér**: ⭕xyz
 
 **Leírás**: Igen sokszintű képzettség, amely alacsony szinten a betegségek és sebek kezelését gyógyszerekkel, kencékkel, magasabb szinten félmágikus energiaátadással végzi. Az Orvoslás tehát magában foglalja a sebgyógyítást és nagyon fejlett szinten a gyógyítást is.
 
@@ -59,7 +59,6 @@ Vajákosság szint követelmény: `Gyógyítandó ÉP / 2`
 
 ##### Összhangok
 
-- [Élettan](elettan.md): **Erős Összhang**
 - Vajákosság **NEM** ad Összhangot, mert az csak a gyógyszer komponens beszerzésének követelménye.
 
 <br />

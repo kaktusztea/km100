@@ -44,12 +44,9 @@ A [Harci anatómia](fortelyok.harci/harci_anatomia.md) vagy a [Különleges faj]
 
 Ha alaposan felboncolsz egy nem elfszabású lényt, akkor onnantól arra a fajra is alkalmazhatod a **Harci Anatómia** fortély előnyeit. Ekkor egy "**Boncolás (faj neve)**" Bónusz-Hátteret kapsz. A boncolásnak kaland során kell megtörténnie, nem lehet előtörténetből, vagy játékon kívül.
 
-A sikeres boncoláshoz képzettségpróba dobandó:
-- **Élettan + Emlékezet** próba célszáma: `9`
-- **Élettan + Emlékezet** másodlagos próba célszáma: `6`
-- legalább egy nap időtartam, míg a boncolás folyik
+A sikeres boncoláshoz [Élettan](fortelyok.altalanos/elettan.md) fortély 2. fok szükséges és legalább egy nap időtartam, míg a boncolás folyik.
 
- A fenti információ más módon - ritka, titkos fóliásokkal bújásával - is kinyerhető, amennyiben azokban részletes leírás található a lény anatómiájáról.
+A fenti információ más módon - ritka, titkos fóliásokkal bújásával - is kinyerhető, amennyiben azokban részletes leírás található a lény anatómiájáról.
 
 <br />
 

@@ -186,8 +186,6 @@ Festészet + (Pszeudó tul.) + k10   vs   Célszám
 
 🔴[Mechanika](kepzettsegek/mechanika.md) <sup><sub>(5%)</sub></sup>
 
-🔴[Élettan](kepzettsegek/elettan.md) <sup><sub>(5%)</sub></sup>
-
 🔵[Történelemismeret - adott régió](kepzettsegek/tortenelemismeret.md) <sup><sub>(40%)</sub></sup> 🔁
 
 🔵[Taktika](kepzettsegek/taktika.md) <sup><sub>(0%)</sub></sup> 🔁
