@@ -1,4 +1,4 @@
-#### 🔵/🔴?? Pszí Használat
+#### 🔴Pszí iskola
 
 Kapcsolódó:
 - [Pszí főfejezet](080_pszi.md)

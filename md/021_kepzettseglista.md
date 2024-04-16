@@ -127,8 +127,6 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` egy másodlagos 
 
 🔵[Lopakodás/Rejtőzés](kepzettsegek/lopakodas_rejtozes.md) <sup><sub>(15%)</sub></sup>
 
-🔵[Nyomolvasás](kepzettsegek/nyomolvasas.md) <sup><sub>(20%)</sub></sup>
-
 🔵[Álcázás/Álruha](kepzettsegek/alcazas_alruha.md) <sup><sub>(80%)</sub></sup>
 
 🔵[Lopás](kepzettsegek/lopas.md) <sup><sub>(10%)</sub></sup>
@@ -208,7 +206,7 @@ Festészet + (Pszeudó tul.) + k10   vs   Célszám
 
 🔵[Összpontosítás](kepzettsegek/osszpontositas.md) <sup><sub>(10%)</sub></sup>
 
-🔵[Pszí használat](kepzettsegek/pszi_hasznalat.md)
+🔴[Pszí iskola](kepzettsegek/pszi_iskola.md)
 
 🔴[Asztrológia](kepzettsegek/osszpontositas.md)*
 
