@@ -65,21 +65,21 @@ Páncél nélküli ellenfélnél: SP:+5"
 "Tőrkard";"egykezes";"2";"S";"0";"0";"false";"1";"6";"12";"12";"5";"kardvívás";"Pontra támadás: kisebb TÉ levonással (TODO)
 Erőbónusz nem számít!
 Olyan fegyver ellen, amik nem háríthatóak csuklóból: VÉ csökk?? (Pusztító fegyverek ellen fokozottan!!!) Sokkal könnyebb ellene a fegyvertörés"
-"Bot, rövid";"egykezes";;;"0";"0";"false";;;;;;"pusztítás";
-"Bot, furkós";"egykezes";;;"0";"0";"false";;;;;;"pusztítás";
-"Buzogány, egykezes";"egykezes";"5";"Z";"0";"0";"false";"1";"4";"12";"8";"7";"pusztítás";
-"Buzogány, kétkezes";"kétkezes";;;;"0";"false";;;;;;"pusztítás";
-"Buzogány, láncos";"egykezes";;;;"0";"false";;;;;;"pusztítás";"Pajzs VÉ a fele! (?)"
-"Buzogány, shadleki";"??";;;;"0";"false";;;;;;"pusztítás";
-"Buzogány, tollas";"egykezes";;;"!";"0";"false";;;;;;"pusztítás";
-"Buzogány, tüskés";"egykezes";;;"!!";"0";"false";;;;;;"pusztítás";
+"Bot, rövid";"egykezes";;;"0";"0";"false";;;;;;"zúzás";
+"Bot, furkós";"egykezes";;;"0";"0";"false";;;;;;"zúzás";
+"Buzogány, egykezes";"egykezes";"5";"Z";"0";"0";"false";"1";"4";"12";"8";"7";"zúzás";
+"Buzogány, kétkezes";"kétkezes";;;;"0";"false";;;;;;"zúzás";
+"Buzogány, láncos";"egykezes";;;;"0";"false";;;;;;"zúzás";"Pajzs VÉ a fele! (?)"
+"Buzogány, shadleki";"??";;;;"0";"false";;;;;;"zúzás";
+"Buzogány, tollas";"egykezes";;;"!";"0";"false";;;;;;"zúzás";
+"Buzogány, tüskés";"egykezes";;;"!!";"0";"false";;;;;;"zúzás";
 "Csatabárd, egykezes";"egykezes";"4";"V
-(néha szúrás)";"??";"0";"false";"0.5";"4";"8";"8";;"pusztítás";
-"Csatabárd, kétkezes";"kétkezes";"8";"??";"??";"0";"false";"1.5";"8";"16";"16";;"pusztítás";
-"Csatacsákány";"egykezes";"3";"S?";"10 !";"0";"false";"0.5";"4";"8";"8";;"pusztítás";"Nagyon vérzik
+(néha szúrás)";"??";"0";"false";"0.5";"4";"8";"8";;"zúzás";
+"Csatabárd, kétkezes";"kétkezes";"8";"??";"??";"0";"false";"1.5";"8";"16";"16";;"zúzás";
+"Csatacsákány";"egykezes";"3";"S?";"10 !";"0";"false";"0.5";"4";"8";"8";;"zúzás";"Nagyon vérzik
 50% az esély, hogy beragad és nem lehet kihúzni harc közben"
-"Cséphadaró";"kétkezes";;;"0";"0";"false";;;;;;"pusztítás";"EZ NEM SZÁLFEGYVER?"
-"Harci kalapács";"??";;;;"0";"false";;;;;;"pusztítás";
+"Cséphadaró";"kétkezes";;;"0";"0";"false";;;;;;"zúzás";"EZ NEM SZÁLFEGYVER?"
+"Harci kalapács";"??";;;;"0";"false";;;;;;"zúzás";
 "Alabárd";"kétkezes";;;;;"false";;;;;;"lándzsavívás";"Talán a legjobb a páncélok ellen"
 "Bot, hosszú";"kétkezes";;"Z";"0";"0";"false";;;;;;"lándzsavívás";
 "Lándzsa";"kétkezes";;"S";;"0";"false";"3";"12";"24";"24";;"lándzsavívás";

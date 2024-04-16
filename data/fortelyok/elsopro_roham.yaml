@@ -17,7 +17,7 @@ fokok:
     status:
     követelménytext: ""
     követelmények:
-      - név: "közelharc_kardvívás_lándzsavívás_pusztítás"  # ⭕
+      - név: "közelharc_kardvívás_lándzsavívás_zúzás"  # ⭕
         enabled: True
         érték: 4
         típus: 2              # harcmodor ⭕ vagy inkább képzettség?
@@ -40,4 +40,4 @@ fokok:
         text: "duplázódik"
 todo:
   - text: "⭕ harcmodort lekezelni a követelményeknél."
-  - text: "⭕ esetleg közelharc_kardvívás_pusztítás_... formában?"
+  - text: "⭕ esetleg közelharc_kardvívás_zúzás_... formában?"

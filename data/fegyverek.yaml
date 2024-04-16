@@ -655,7 +655,7 @@
   te: ''
   ve: ''
   sebesseg: ''
-  harcmodor: pusztítás
+  harcmodor: zúzás
   megjegyzes: ""
 
 - fegyver: Bot, furkós
@@ -670,7 +670,7 @@
   te: ''
   ve: ''
   sebesseg: ''
-  harcmodor: pusztítás
+  harcmodor: zúzás
   megjegyzes: ""
 
 - fegyver: Buzogány, egykezes
@@ -685,7 +685,7 @@
   te: 12
   ve: 8
   sebesseg: 7
-  harcmodor: pusztítás
+  harcmodor: zúzás
   megjegyzes: ""
 
 - fegyver: Buzogány, kétkezes
@@ -700,7 +700,7 @@
   te: ''
   ve: ''
   sebesseg: ''
-  harcmodor: pusztítás
+  harcmodor: zúzás
   megjegyzes: ""
 
 - fegyver: Buzogány, láncos
@@ -715,7 +715,7 @@
   te: ''
   ve: ''
   sebesseg: ''
-  harcmodor: pusztítás
+  harcmodor: zúzás
   megjegyzes: "Pajzs VÉ a fele! (?)"
 
 - fegyver: Buzogány, shadleki
@@ -730,7 +730,7 @@
   te: ''
   ve: ''
   sebesseg: ''
-  harcmodor: pusztítás
+  harcmodor: zúzás
   megjegyzes: ""
 
 - fegyver: Buzogány, tollas
@@ -745,7 +745,7 @@
   te: ''
   ve: ''
   sebesseg: ''
-  harcmodor: pusztítás
+  harcmodor: zúzás
   megjegyzes: ""
 
 - fegyver: Buzogány, tüskés
@@ -760,7 +760,7 @@
   te: ''
   ve: ''
   sebesseg: ''
-  harcmodor: pusztítás
+  harcmodor: zúzás
   megjegyzes: ""
 
 - fegyver: Csatabárd, egykezes
@@ -777,7 +777,7 @@
   te: 8
   ve: 8
   sebesseg: ''
-  harcmodor: pusztítás
+  harcmodor: zúzás
   megjegyzes: ""
 
 - fegyver: Csatabárd, kétkezes          # ⭕
@@ -792,7 +792,7 @@
   te: 16
   ve: 16
   sebesseg: ''
-  harcmodor: pusztítás
+  harcmodor: zúzás
   megjegyzes: ""
 
 - fegyver: Csatacsákány          # ⭕
@@ -807,7 +807,7 @@
   te: 8
   ve: 8
   sebesseg: ''          # ⭕
-  harcmodor: pusztítás
+  harcmodor: zúzás
   megjegyzes: "Nagyon vérzik; 50% az esély, hogy beragad és nem lehet kihúzni harc közben"
 
 - fegyver: Cséphadaró          # ⭕
@@ -822,7 +822,7 @@
   te: ''
   ve: ''
   sebesseg: ''
-  harcmodor: pusztítás
+  harcmodor: zúzás
   megjegyzes: EZ NEM SZÁLFEGYVER?          # ⭕
 
 - fegyver: Harci kalapács          # ⭕
@@ -837,7 +837,7 @@
   te: ''
   ve: ''
   sebesseg: ''
-  harcmodor: pusztítás
+  harcmodor: zúzás
   megjegyzes: ""
 
 - fegyver: Alabárd

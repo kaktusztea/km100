@@ -73,7 +73,7 @@ Továbbá – a fentin kívül – megkapja még `3-as szinten` egy másodlagos 
 
 🔴[Lándzsavívás](kepzettsegek/harcmodor.md)
 
-🔴[Pusztítás](kepzettsegek/harcmodor.md)
+🔴[Zúzás](kepzettsegek/harcmodor.md)
 
 🔴[Hajítás](kepzettsegek/tavolsagi_harcmodor.md) <sup><sub>(40%)</sub></sup>
 
