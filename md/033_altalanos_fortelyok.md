@@ -42,6 +42,7 @@
 
 <!-- tag: tudomanyos__fortely -->
 
+- [Élettan](fortelyok.altalanos/elettan.md)
 - [Írástudó](fortelyok.altalanos/irastudo.md)
 - [Irodalmár](fortelyok.altalanos/irodalmar.md)
 - [Különleges faj](fortelyok.altalanos/kulonleges.faj.md)
