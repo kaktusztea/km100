@@ -208,7 +208,7 @@ Festészet + (Pszeudó tul.) + k10   vs   Célszám
 
 🔵[Összpontosítás](kepzettsegek/osszpontositas.md) <sup><sub>(10%)</sub></sup>
 
-🔵Pszí iskolák
+🔵[Pszí használat](kepzettsegek/pszi_hasznalat.md)
 
 🔴[Asztrológia](kepzettsegek/osszpontositas.md)*
 
