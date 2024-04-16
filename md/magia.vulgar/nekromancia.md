@@ -53,12 +53,12 @@ Ha nem komplett testre, hanem kisebb – akár önálló – testrészekre (dara
 
 Ez a formula a halott szövet összekapcsolására való. Itt is megmutatkozik az erős szemita jelleg, hisz minden egy konkrét, specializált cél érdekében történik.
 
-A sikeres varázslathoz élettan képzettségpróba is szükséges.
+A sikeres varázslathoz [Élettan](../fortelyok.altalanos/elettan.md) fortély 2. fok szükséges.
 
 
 ```
 Nehézsége:               (a varázslat szintje) x 10%
-Esély a transzmutációra: (Élettan képzettség %) vs. (Varázslat szint) x 10%
+Esély a transzmutációra: ??% ⭕TODO: Képlet⭕
 ```
   
 

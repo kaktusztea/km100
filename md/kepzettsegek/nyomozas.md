@@ -6,7 +6,7 @@ Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-
 
 **Domináns Tulajdonságok**: Intelligencia, Emlékezet
 
-**Kapcsolódó fortélyok**: [Keresés](kereses.md), [Élettan](../fortelyok.altalanos/elettan.md) (boncoláshoz) - ⭕TODO: majd ha fortély lesz, ⭕link fix
+**Kapcsolódó fortélyok**: [Keresés](kereses.md), [Élettan](../fortelyok.altalanos/elettan.md) (boncoláshoz)
 
 **Bónusz-Háttér**: ⭕xyz
 
