@@ -4,7 +4,6 @@
 
 → [TODO/ISSUE képzettségrendszer](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.kepzettsegek)
 
-
 - [Képzettségek kategóriái](#képzettségek-kategóriái)
 - [Képzettségek növelése](#képzettségek-növelése)
 - [Képzettségek pontigényei](#képzettségek-pontigényei)
@@ -26,49 +25,19 @@ Ez az érték a karakter életútja során - a megszerzett tapasztalatoknak hál
 
 A képzettségeket kategóriákra bontjuk aszerint, mennyire átfogóak, mekkora ismeretanyagot ölelnek fel, tehát **nem** tanulásuk „nehézsége" szerint próbálunk különbséget tenni! Három kategóriát különbözetünk meg:
 
-> 🔴 Átfogó, 🔵 Átlagos, 🟢 Specializált/Könnyű
+> 🔴 Átfogó, 🔵 Átlagos, 🟢 Könnyű
 
-A Képzettségeket és egymáshoz való viszonyukat legjobban halmazokkal tudnánk szemléltetni, melyek közül a legnagyobb (`Átfogó`) több kisebbet (`Átlagos`) tartalmaz, amelyek további még kisebb (`Specializált`) halmazokat foglalnak magukban. A „`Könnyű`" képzettségek nem tartoznak egyik felsorolt halmazba sem, önmagukban állnak, kezelésük viszont szinte mindenben megegyezik a Specializált képzettségekével (lásd később).
+| Képzettség kategória | Például                   |
+| -------------------- | :------------------------ |
+| 🔴 **Átfogó**        | Történelemismeret         |
+| 🔵 **Átlagos**       | Emberismeret              |
+| 🟢 Könnyű            | Zenélés (ütős hangszerek) |
 
-| Képzettség kategória | Például |
-| ----------- | :----------- |
-| 🔴 **Átfogó** | Történelemismeret - Ynev |
-| 🔵 **Átlagos** | Történelemismeret - Pyarroni államszövetség,<br />vagy Történelemismeret - Kyria |
-| 🟢 **Specializált / Könnyű** | Történelemismeret - Predoc |
-
-Az `Átfogó` képzettségek jellemzője, hogy általános, mindenre kiterjedő tudást nyújtanak az adott területen. Éppen ezért tanulásuk is tovább tart, ami meg is látszik a magasabb `KP` igényen. Ennek következménye, hogy magába foglal több konkrétabb Képzettséget, amelyeket az `Átlagos`, vagy `Specializált` kategóriákban találunk. Az ide tartozó képzettségeket tekinthetjük a legnagyobb halmaznak. Ilyen Átfogó képzettség például az általános történelemismeret : "`Történelemismeret - Ynev`".
+Az `Átfogó` képzettségek jellemzője, hogy általános, mindenre kiterjedő tudást nyújtanak az adott területen. Éppen ezért tanulásuk is tovább tart, ami meg is látszik a magasabb `KP` igényen.
 
 Az `Átlagos` képzettségek már jóval konkrétabb, - így gyorsabban tanulható - tudást takarnak (így KP igényük is alacsonyabb), egy konkrét feladatkörrel foglalkoznak, viszont azon belül mindennel, például a „`Történelemismeret - Pyarroni államszövetség`" képzettség kizárólag a nevéből adódó terület történelmét foglalja magában.
 
-Végére maradtak a `Specializált` képzettségek, amelyek egy adott terület egy konkrét, szűk problémakörével foglalkoznak. Könnyen megtanulhatóak, de viszonylag szűk, gyakorlatias tudást takarnak. A fenti példánál maradva a „`Történelemismeret - Predoc`" kizárólag Predoc állam történelmének ismeretét nyújtja, ha tágabb tudásra vágyunk, ahhoz már legalább Átlagos Képzettséget kell felvennünk.
-
-Természetesen a karakter egy bizonyos szinten túl nem fejlődhet egy adott specializált képzettségben, szüksége van az átfogóbb tudásra is. Szabály, hogy:
-
-```
-A Specializált és az őt magába foglaló Átlagos képzettség közti különbség legfeljebb 3 lehet.
-```
-
-A Specializált képzettségekkel együtt és azonos módon kezeljük a „`Könnyű`" képzettségeket, melyek azért kerültek ebbe a csoportba, mert tanulásuk során hamar el lehet érni a maximumot, így KP igényük is alacsony. Egyetlen különbség a Specializált képzettségekhez képest, hogy egy `Könnyű` képzettségnek nincsen felsőbb halmaza (Átlagos, vagy Átfogó), amibe beletartozna, így a maximum 3-as különbség limit itt nem is értelmezhető.
-
-Amennyiben a karakter rendelkezik olyan Képzettséggel, amely egy általa szintén ismert Képzettség alá tartozik (része), akkor ha a „magasabb kategóriájú" Képzettséget növeli, akkor az alá tartozó „alacsonyabb kategóriájú" képzettség értéke nem változik.
-
-> Példa
-
-A karakter rendelkezik `6-os szintű` „Történelemismeret - Predoc" (**Specializáció**) és `3-as szintű` „Történelemismeret - Pyarroni államszövetség" (**Átlagos**) képzettséggel. Mivel Predoc a Pyarroni államszövetsége része, ezért a fenti, **Átlagos** képzettség tudásanyagába ez is beletartozik. Ekkor ha a karakter mondjuk `+2-vel` növeli az **Átlagos** képzettségét (`3+2=5`), attól a **Specializált** képzettsége továbbra is `6` marad, a növelés nem „tolta" maga előtt az alsóbb képzettséget.
-
-Ha az `Átlagos` képzettség értéke „beéri" a `Specializáltét`, akkor „magába olvasztja" azt. Természetesen bármikor „kinöveszthető" újra egy `Specializáció` az `Átlagos` képzettségből. Ugyanez igaz természetesen az `Átfogó` és az alá tartozó `Átlagos` képzettségekre is.
-
-> Összefoglalva
-
-A képzettségeket három kategóriába sorolhatjuk. Ezek a következőek:
-
-- 🔴 Átfogó
-- 🔵 Átlagos
-- 🟢 Specializáció, illetve „Könnyű" képzettségek
-
-A „`Könnyű`" képzettségekben hamar el lehet érni a maximumot (ilyen pl az Úszás, Futás, Nyelvismeret).
-
-Az `Átfogó` csoport alá a nagyobb, átfogóbb képzettségek tartoznak, mint pl. a Történelemismeret, Sebgyógyítás, stb. Olyanok, amelyekben egy életen keresztül is lehet fejlődni.
+Végére maradtak a `Könnyű` képzettségek, amelyek egy adott terület szűkebb problémakörével foglalkoznak. Könnyen megtanulhatóak, de viszonylag kevésbé tág, gyakorlatias tudást takarnak. Tanulásukban hamar el lehet érni a maximumot, így KP igényük is alacsony. 
 
 ---
 ## Képzettségek növelése
@@ -78,7 +47,6 @@ A karakterek fejlődése természetesen nem lehet ugrásszerű, meg kell őrizn�
 - A harci és misztikus képzettségek szintje legfeljebb (`szint+3`) lehet
 - A többi képzettség értéke pedig legfeljebb (`szint+6`) lehet
 - Szintlépéskor legfeljebb `2-vel` növelhetőek a képzettségek, kivéve, ha 0-ról akar valaki egy képzettséget tanulni. Ilyenkor szintlépéskor maximum `3.szintre` növelheti egy lépésben az ilyen képzettséget.
-- Egy Átlagos, vagy Specializáció képzettség `legfeljebb 3-al lehet magasabb`, mint az őt magába foglaló Átfogó, vagy Átlagos képzettség.  Ha nincs fölé tartozó képzettség (pl. Nyelvismeret esetén), akkor természetesen nincs felső korlát.
 - A képzettségek egyes kiemelt szintjeinek is lehetnek követelményei!  Magas szinten főleg.
 
 ---
@@ -86,27 +54,27 @@ A karakterek fejlődése természetesen nem lehet ugrásszerű, meg kell őrizn�
 
 A fejlődés Karakter Pontba (`KP`) kerül. A KP szimulálja az egyes képzettségek elsajátítására fordított tanulás „egységnyi mennyiséget". Hogy a korábban ismertetett három kategóriának (Átfogó, Átlagos, Spec/Könnyű) adott szinten mekkora a KP igénye, azt az alábbi táblázat adja meg:
 
-| Fokozat | Képzettség Szint | 🔴 Átfogó |       | 🔵 Átlagos |       | 🟢 Spec /<br />Könnyű |       |
-| ------- | :--------------: | :----: | :---- | :------: | :---- | :---------: | :---- |
-|             | 1  | 6   | +6KP  | 4   | +4KP  | 2  | +2KP |
-|             | 2  | 10  | +4KP  | 6   | +2KP  | 3  | +1KP |
-| Novícius    | 3  | 16  | +6KP  | 9   | +3KP  | 5  | +2KP |
-|             | 4  | 24  | +8KP  | 13  | +4KP  | 7  | +3KP |
-|             | 5  | 34  | +10KP | 18  | +5KP  | 10 | +3KP |
-| Kismester   | 6  | 46  | +12KP | 24  | +6KP  | 13 | +4KP |
-|             | 7  | 60  | +14KP | 31  | +7KP  | 17 | +4KP |
-|             | 8  | 76  | +16KP | 39  | +8KP  | 21 | +5KP |
-| Mester      | 9  | 94  | +18KP | 48  | +9KP  | 26 | +5KP |
-|             | 10 | 114 | +20KP | 58  | +10KP | 31 | +6KP |
-|             | 11 | 136 | +22KP | 69  | +11KP | 37 | +6KP |
-| Nagymester  | 12 | 160 | +24KP | 81  | +12KP | 43 | +7KP |
-|             | 13 | 186 | +26KP | 94  | +13KP | 50 | +7KP |
-|             | 14 | 214 | +28KP | 108 | +14KP | 57 | +8KP |
-| Élő legenda | 15 | 244 | +30KP | 123 | +15KP | 65 | +8KP |
+| Fokozat     | Képzettség Szint | 🔴 Átfogó |       | 🔵 Átlagos |       | 🟢Könnyű |      |
+| ----------- | :--------------: | :-------: | :---- | :--------: | :---- | :------: | :--- |
+|             |        1         |     6     | +6KP  |     4      | +4KP  |    2     | +2KP |
+|             |        2         |    10     | +4KP  |     6      | +2KP  |    3     | +1KP |
+| Novícius    |        3         |    16     | +6KP  |     9      | +3KP  |    5     | +2KP |
+|             |        4         |    24     | +8KP  |     13     | +4KP  |    7     | +3KP |
+|             |        5         |    34     | +10KP |     18     | +5KP  |    10    | +3KP |
+| Kismester   |        6         |    46     | +12KP |     24     | +6KP  |    13    | +4KP |
+|             |        7         |    60     | +14KP |     31     | +7KP  |    17    | +4KP |
+|             |        8         |    76     | +16KP |     39     | +8KP  |    21    | +5KP |
+| Mester      |        9         |    94     | +18KP |     48     | +9KP  |    26    | +5KP |
+|             |        10        |    114    | +20KP |     58     | +10KP |    31    | +6KP |
+|             |        11        |    136    | +22KP |     69     | +11KP |    37    | +6KP |
+| Nagymester  |        12        |    160    | +24KP |     81     | +12KP |    43    | +7KP |
+|             |        13        |    186    | +26KP |     94     | +13KP |    50    | +7KP |
+|             |        14        |    214    | +28KP |    108     | +14KP |    57    | +8KP |
+| Élő legenda |        15        |    244    | +30KP |    123     | +15KP |    65    | +8KP |
 
-A `KP igény` fokozatosan nő, tehát `1`-ről `2`-re sokkal könnyebb fejlődni, mint mondjuk `4`-ről `5`-re. Átfogó és Átlagos képzettségben hagyományos tanulással `legfeljebb 13`-ig lehet fejlődni. `14`-es és `15`-ös szintre csak úgy juthat el a karakter, ha a képzettséggel kapcsolatos, nagyon ritka titkos tudásra tesz szert. Ez kaland alapja is lehet!! Pl. megszerezni a "Gyógyító Érintés Tudományának Titkos Fóliását" (Sebgyógyításhoz).
+A `KP igény` fokozatosan nő, tehát `1`-ről `2`-re sokkal könnyebb fejlődni, mint mondjuk `4`-ről `5`-re. Átfogó és Átlagos képzettségben hagyományos tanulással `legfeljebb 13`-ig lehet fejlődni. `14`-es és `15`-ös szintre csak úgy juthat el a karakter, ha a képzettséggel kapcsolatos, nagyon ritka titkos tudásra tesz szert. Ez kaland alapja is lehet!! Pl. megszerezni a "Gyógyító Érintés Tudományának Titkos Fóliását" (**Orvosláshoz**).
 
-A másik felső korlát lehet az adott kultúra fejletlensége, vagy korlátai. Például egy primitív nomád törzs kuruzslója nem fejlődhet Sebgyógyításban `6`-os érték fölé, mert nincs olyan forrás, ahonnan a hatékonyabb módszereket megtanulhatná. A KM mindig vegye figyelembe az adott körülményeket és fejlődési lehetőségeket.
+A másik felső korlát lehet az adott kultúra fejletlensége, vagy korlátai. Például egy primitív nomád törzs kuruzslója nem fejlődhet **Vajákosságban** `6`-os érték fölé, mert nincs olyan forrás, ahonnan a hatékonyabb módszereket megtanulhatná. A KM mindig vegye figyelembe az adott körülményeket és fejlődési lehetőségeket.
 
 ---
 ### Képzettségek követelményei
