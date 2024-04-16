@@ -1,10 +1,13 @@
 #### 🟣 Villámgyors keresés (1)
 
-Gyorsabban tudsz mászni.
+Gyorsabban tudsz keresni, kutatni egy helyiségben.
 
-| |  Követelmény | Hatás  |
-| :----------- | :----------- | :----------- |
-| 1.fok | Keresés: ⭕???⭕ | Alapesetben ha gyorsabban akarsz valamit megtalálni, akkor emelkedik a célszám. A Villámgyors keresés ilyen helyzetekben `3`-al mérsékeli a célszám emelkedést. |
+Kapcsolódó fortély: [Keresés](kereses.md)
+
+|          | Követelmény              | Hatás                                                                                                                                             |
+| :------- | :----------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Alapeset | -                        | Alapesetben ha gyorsabban akarsz valamit megtalálni, akkor `+3`-al emelkedik az [Észlelés](../kepzettsegek/eszleles.md) képzettségpróba célszáma. |
+| `1.fok`  | Észlelés:&nbsp;`3.szint` | A Villámgyors keresés kapkodós helyzetekben nullázza a fenti büntetést.                                                                           |
 
 <br />
 

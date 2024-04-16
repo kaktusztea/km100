@@ -78,10 +78,11 @@ Felvehető Érzék-Fortélyok maximuma:
 - [Barlangi tájékozódás](fortelyok.erzekek/barlangi_tajekozodas.md) - 1. fok
 
 Ajánlott fortélyok:
+- [Keresés](fortelyok.altalanos/kereses.md)
+- [Villámgyors keresés](fortelyok.altalanos/villamgyors.kereses.md)
 - [Kitartás](fortelyok.altalanos/kitartas.md)
 
 Ajánlott képzettségek:
-- [Keresés](kepzettsegek/kereses.md)
 - [Építészet](kepzettsegek/epiteszet.md)
 
 <br />

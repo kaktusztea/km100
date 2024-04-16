@@ -26,7 +26,7 @@ A fajok esetleges bónuszai felvehetőek Érzék-Fortélyként. Bővebben lásd 
 
 Idézet az [Észlelés](kepzettsegek/eszleles.md) képzettség leírásából:
 
-*"Az Észlelés valaminek az észrevételét takarja. Ez lehet egy villanó tőr, egy meglapuló merénylő a lombok közt, egy árulkodó súrlódó nesz. Fontos, hogy az Észlelés csak a momentum észrevételt jelenti, annak értelmezését nem! Az a játékos feladata, melyet esetleg megkönnyíthet a **Nyomolvasás** képzettség."*
+*"Az Észlelés valaminek az észrevételét takarja. Ez lehet egy villanó tőr, egy meglapuló merénylő a lombok közt, egy árulkodó súrlódó nesz. Fontos, hogy az Észlelés csak a momentum észrevételt jelenti, annak értelmezését nem! Az a játékos feladata, melyet esetleg megkönnyíthet például a **Nyomozás**, vagy a **Természetjárás** képzettség."*
 
 Megkülönböztetünk Harcot megelőző és harcon kívüli észlelés szituációt, valamint ezeken belül aktív és passzív észlelést.
 
@@ -52,7 +52,7 @@ A karakternek feltűnik valami anélkül, hogy kifejezetten kereste volna/figyel
 ### Milyen Tulajdonsággal dobjuk a próbát?
 
 - **Észlelés** + **Érzékenység**: Követik-e? ; Észreveszi-e a ruha alatt villanó tőrt?
-- **Észlelés** + **Intelligencia** : Rájön-e, hogy mit vett észre? (az igazi szakáll nem nő így például)
+- **Észlelés**/**Nyomozás** + **Intelligencia** : Rájön-e, hogy mit vett észre? (az igazi szakáll nem nő így például)
 
 ---
 ### Harcot megelőző szituáció
