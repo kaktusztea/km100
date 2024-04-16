@@ -43,7 +43,16 @@ A fenti jellemzők fordított nézetőpontból:
 ---
 ### Sebzésfelfogó Érték (SFÉ)
 
-Minden páncél rendelkezik **három** úgynevezett Sebzés Felfogó Értékkel (**SFÉ**), amely a páncél nyújtotta védelmet hivatott szimulálni (szúró/vágó/zúzófegyverek ellen). Az SFÉ értéke sebzéskor levonódik a támadás `SP` értékéből (nem a sebzésből!), így jó eséllyel csökkenti a sebzés kategóriáját. Természetesen a támadás jellege (`Szúró`/`Vágó`/`Zúzó`) határozza meg, hogy mely SFÉ értéket kell a csapással szembeállítani.
+Minden páncél rendelkezik **három** úgynevezett Sebzés Felfogó Értékkel (**SFÉ**), amely a páncél nyújtotta védelmet hivatott szimulálni (szúró/vágó/zúzófegyverek ellen). Az SFÉ értéke sebzéskor levonódik a támadás `SP` értékéből (nem a sebzésből!), így jó eséllyel csökkenti a sebzés kategóriáját.
+
+Egy páncélnak **4 fajta SFÉ értéke van**, a támadás jellegétől függ, hogy melyiket kell figyelembe venni, a csapással szembeállítani:
+- `Szúró`
+- `Vágó`
+- `Zúzó`
+- `Energia`
+	- Villám, Tűz, Fagy támadás tartozik ide.
+	- A fém vértek, ha felforrósódnak, folyamatos sebzést okozhatnak. Erről a KM dönt.
+	- Fém vértet **villámmal** könnyebb eltalálni, mivel az magához vonzza az ilyen energiát. Ilyenkor a támadó számára a Célzás számításánál az Osztó érték `1`-el nő.
 
 Megkülönböztetünk
 
@@ -54,7 +63,7 @@ Az SFÉ független attól, hogy csak egy mellvért-darab, vagy teljes páncélza
 
 #### Páncél struktúrák, Anyagminőség
 
-Az SFÉ értékét a páncél fizikai felépítése, anyaga adja. Az egyes páncél **Struktúrák** különbözőképpen alkalmasak a három fő támadási típus (szúró/vágó/zúzó) ellen való védekezésre. Sebzéskor a támadó karakter dobás után bemondja végleges SP értékét (példa: "`18, Szúró`”), és az áldozat annak megfelelő (`Szúró`) SFÉ értéket von le belőle.
+Az SFÉ értékét a páncél fizikai felépítése, anyaga adja. Az egyes páncél **Struktúrák** különbözőképpen alkalmasak a négy fő támadási típus (szúró/vágó/zúzó/energia) ellen való védekezésre. Sebzéskor a támadó karakter dobás után bemondja végleges SP értékét (példa: "`18, Szúró`”), és az áldozat annak megfelelő (`Szúró`) SFÉ értéket von le belőle.
 
 Az egyes **fém-páncél** példányok struktúrális Anyagminősége erősen eltérhet (függ az alapanyag (ötvözet) összetételétől és a készítő mestertől anyagmegmunkálási ismereteitől is). Lenn a `+/-` oszlopnál jelezzük ennek az SFÉ "mozgástérnek" a kereteit. A jobb anyagminőség viszont nagyon megdobhatja a vért árát - lásd "Ár" oszlop.
 
@@ -212,10 +221,11 @@ Az új páncél viszont úgy áll hősünkön, mint tehénen a gatya. Testalkata
 
 ---
 #### Egydarabos tag (alkarvédő, lábszárvédő) viselése - MGT
+```
+Vértviselet fortély nem mérsékli MGT hatásukat!
+```
 
-⭕TODO: külön értékük legyen (anyagfüggő!!), vagy használjuk erre is a táblázatot simán?⭕
-
-**Vértviselet fortély nem mérsékli MGT hatásukat!**
+Használd a [Csatolt MGT](#csatolt-mgt-v%C3%A9rt-kidolgozotts%C3%A1ga-csatolt-elemek-sz%C3%A1ma) táblázatot - egy ekkora kis tagnál nem érdemes anyagfüggő részletekbe belemenni.
 
 Használatukról a „**Hárítófegyver használat**” fortély ad útmutatást.
 
@@ -231,7 +241,7 @@ Az elszenvedett csapások alapján a KM meghatároz egy **az egész vértre** vo
 
 Ha megsérül a vért, az bizony előbb-utóbb akadályozni fog a mozgásban.
 
-⭕**Opcionális szabály**: az **MGT** az eredetihez képest annyi százalékkal nő, amennyi a vért Sérülés jellemzője.⭕
+**Opcionális szabály**: az **MGT** az eredetihez képest annyi százalékkal nő, amennyi a vért Sérülés jellemzője.
 
 <br />
 
@@ -273,12 +283,15 @@ Ennek a fortélynak az ismerete csökkenti az MGT okozta levonások hatását.
 - Full vértnél: VÉ:+10
 ```
 
-⭕A Tulajdonság- és Képzettségpróbáknál is csökkenjen a büntetés?⭕
+⭕Képzettségpróbáknál is csökkenjen a büntetés?⭕
 
 <br />
 
 ---
 ### Páncél Ára
+```
+1x == minden tekintetből átlagos bőr mellvért ára
+```
 
 A páncél teljes árát a következőképpen kaphatjuk meg:
 
@@ -290,7 +303,8 @@ A páncél teljes árát a következőképpen kaphatjuk meg:
 
 - a mellvért-darab árát az **SFÉ** táblázatban találjuk (szorzó) és az Anyagminőségtől is függ.
 - a **Kidolgozottság** szorzót a [Vértek kidolgozottsága](#v%C3%A9rt-kidolgozotts%C3%A1ga-csatolt-elemek-sz%C3%A1ma)  táblázat tartalmazza. Érthető módon ha jobb a kidolgozottság, drágább a páncél.
-- Ha fém vértről beszélünk és a vért nem hagyományosan acélból készült, akkor a [Fém vértek alapanyagai](#f%C3%A9m-v%C3%A9rtek-alapanyaga---sf%C3%A9) táblázatban található **Fémanyag-szorzó** értéket is be kell vonni. (az Acél szorzója: `1`) Pl. abbitacél esetén az értéket `10`-zel kell szorozni.
+- Ha fém vértről beszélünk és a vért nem hagyományosan acélból készült, akkor a [Fém vértek alapanyagai](#f%C3%A9m-v%C3%A9rtek-alapanyaga---sf%C3%A9) táblázatban található **Fémanyag-szorzó** értéket is be kell vonni (az Acél szorzója: `1`).\
+  Például **abbitacél** esetén az értéket `10`-zel kell szorozni.
 
 #### Csatolt tagok ára
 ```
@@ -312,59 +326,70 @@ Az SFÉ táblázatban nem véletlenül _szorzó_ értékek szerepelnek arany, va
 
 **JK**: „Milyen a páncélja?”
 
-**KM**: „Ez egy Sodrony páncél. Anyaga acél, Anyagminősége (`-1`)-es (SFÉ-re), Kidolgozottsága Gyenge. Három tagot látsz: mellvért-darabot, felkar-tagot, alkar-tagot. Méretben passzol rád, nem kapsz extra büntetést.”
+**KM**: „Ez egy Sodrony páncél. Fémalapanyaga acél, Anyagminősége (`-1`)-es (SFÉ-re), Kidolgozottsága Gyenge. Három tagot látsz: mellvért-darabot, felkar-tagot, alkar-tagot. Méretben passzol rád, nem kapsz extra büntetést.”
 
 ---
 ### ⚡Példa 1: Átlagos páncél
 
+A lehető legátlagosabb sodronying, sisakon kívül mindent beborítva.
 #### SFÉ
-
-- Alap SFÉ: `8` / `13` / `5`
-- Alapanyag minősége átlagos: `+0 SFÉ`
-- Acél:  `+0 SFÉ`
-- Végső **SFÉ**: `8` / `13` / `5 SFÉ`
+- Sodronying
+- Alap SFÉ: `8` / `13` / `5` / `15`
+- Anyagminőség átlagos: `+0 SFÉ`
+- Fémalapanyag: Acél: `+0 SFÉ`
+- **Végső SFÉ**: `8` / `13` / `5` / `15 SFÉ`
 
 #### MGT
 
-- Sodronying, gyenge Kidolgozottságú (nem az alapanyag, az elkészítés gyenge!)
+- Sodronying
+- Kidolgozottság gyenge (nem az alapanyag, az elkészítés gyenge!)
 - Alap MGT: `13` (Lánc/Sodrony)
 - Kidolgozottság: Nem merev, fém (II.kat) / Gyenge munka → `+3` MGT / tag
 - Védett terület: mellkas, felkar, alkarok, combok → `4` db tag
 - Karakter Erő tulajdonsága legyen: `+2` → (`2 x 2 = 4` MGT csökkentés)
 
-Összesen tehát: `13 + (4 x 3) - (2 x 2) = 21 MGT`
+Összesen tehát: `13  +  (4 x 3)  -  (2 x 2) = 21 MGT`
 
 #### Ár
 
-- Alap: Sodrony: `10x`, Anyagminőség átlagos: `1x`, Kidolgozottság „gyenge”: `0,5x`
+- Alap:
+	- Sodrony: `10x
+	- Anyagminőség átlagos: `1x`
+	- Kidolgozottság „gyenge”: `0,5x`
 - Mellvért ár : `10x x 1x x 0,5  =  5x`
 - Így 1db tag ára: `5x / 5) = 1x`
-- Végleges ár: `5x + (3 x 1x) = 8x`, azaz egy átlagos acél mellvért darab nyolcszorosába kerül a fenti teljes páncél-kombó (csak `3` taggal szoroztunk, mert a mellvért-darabot már beleszámoltuk).
+- Végleges ár: `5x + (3 x 1x) = 8x`, azaz egy átlagos bőr mellvért darab nyolcszorosába kerül a fenti teljes páncél-kombó (csak `3` taggal szoroztunk, mert a mellvért-darabot már beleszámoltuk).
 
 ---
-### ⚡Példa 2: Egy vért, amiben a lehető legnehezebb mozogni
+### ⚡Példa 2: Legvacakabb teljes lemezvért
 
-… és még az anyagminősége is a legvacakabb.\
-Lemezvért, pocsék kidolgozottságú, anyaga: bronz
+... amiben a lehető legnehezebb mozogni (Kidolgozottság: pocsék, Fémalapanyaga: bronz) és még az Anyagminősége is a legvacakabb. Mindent lefed.
 #### SFÉ
 
-- Alap SFÉ: `15 / 18 / 10`
-- Alapanyag minősége: leggyengébb: `SFÉ:-2`
-- Bronz: `SFÉ:-3`
-- Végső **SFÉ**:  `10 / 13 / 5`
+- Lemezvért
+- Alap SFÉ: `15 / 18 / 10` / `20`
+- Anyagminőség leggyengébb: `SFÉ:-2`
+- Fémalapanyag: Bronz: `SFÉ:-3`
+- **Végső SFÉ**:  `10 / 13 / 5` / `15`
 
 #### MGT
 
-- Alap MGT: `18` (lemez) + `6` (bronz)
+- Alap MGT:
+	- Lemez: `18`
+	- Fémalapanyag: Bronz: `6`
 - Kidolgozottság: Merev, fém (III.kat) / Pocsék munka → `+5` MGT / tag
 - Védett terület: mellkas, felkar, alkarok, combok, lábszárak, fej → `6` db tag
 - Karakter **Erő** tulajdonsága legyen: `+1` → (`2 x 1 = 2` MGT csökkentés)
 
-Összesen tehát: `18 + 6 + (6 x 5) – (2 x 1) = 52 MGT`
+Összesen tehát: `(18 + 6)  +  (6 x 5)  –  (2 x 1) = 52 MGT`
 
 #### Ár
 
-- Alap:  Lemez:`100x`, vacak Anyagminőség: `0,1x`, a Kidolgozottság vacak: `0,1x` és bronzból van: `0,5x`
+- Alap: 
+	- Lemez:`100x`
+	- Anyagminőség vacak: `0,1x`
+	- Kidolgozottság pocsék munka: `0,1x`
+	- Fémalapanyag: Bronz: `0,5x`
 - Mellvért ár: `100x x 0,1 x 0,1 x 0,5  =  0,5x`
 - Így 1 db tag ára: `0,5x / 5 = 0,1x`
-- Végleges ár: `0,5x + (0,1 x 5) = 1x`, azaz pontosan egy átlagos acél mellvért árának megfelelő pénzbe kerül a fenti teljes gyatra páncél-kombó (csak 5 taggal szoroztunk mert a mellvért-darabot már beleszámoltuk).
+- Végleges ár: `0,5x + (0,1 x 5) = 1x`, azaz pontosan egy átlagos bőr mellvért árának megfelelő pénzbe kerül a fenti **teljes** gyatra páncél-kombó (csak 5 taggal szoroztunk mert a mellvért-darabot már beleszámoltuk).
