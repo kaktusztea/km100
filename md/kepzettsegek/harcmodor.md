@@ -13,8 +13,8 @@ A harcmodorok a közvetlenül, fegyverrel való harc képességét fedik le. Kat
 Alább összesen 4 különálló ilyen harcmodor képzettség általános leírását találjuk:
 - Közelharc
 - Kardvívás
-- Lándzsavívás
 - Zúzás
+- Lándzsavívás
 
 Ezek a képzettségek - szintjüktől függően - büntetéseket/bónuszokat adnak harcértékedre. Bővebben lásd a [Harcértékek elemei - Harcmodor képzettségek](../062_01_harcertekek_elemei.md#harcmodor-k%C3%A9pzetts%C3%A9gek) fejezetet.
 
@@ -23,10 +23,10 @@ Ezek a képzettségek - szintjüktől függően - büntetéseket/bónuszokat adn
 ##### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub>                                                                   |  Követelmény  |
-|:---------------- |:---------------------------------------------------------------------------------------------------------------------------------------------------- |:-------------:|
+| :--------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: |
 | Novícius (3)     |                                                                                                                                                      | Ügyesség: `0` |
 | Kismester (6)    |                                                                                                                                                      | Ügyesség: `1` |
-| Mester (9)       | ⭕xyz <br /> **Példa**: x                                                                                                                            | Ügyesség: `2` |
+| Mester (9)       | ⭕xyz <br /> **Példa**: x                                                                                                                             | Ügyesség: `2` |
 | Nagymester (12)  | Bármilyen fegyvert veszel a kezedbe, annak Sebzése mágikus lesz.                                                                                     | Ügyesség: `3` |
 | Élő legenda (15) | Ha nálad alacsonyabb szintű ellenfelet megsebzel, az azonnal teljesen harcképtelen lesz.<br />Vagy `0` ÉP-re, vagy **max KT**-re kerül (te döntesz). | Ügyesség: `3` |
 
