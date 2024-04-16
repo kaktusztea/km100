@@ -19,5 +19,5 @@
   másfélkezes: False    # true/false
   pengehossz: -1        # fegyver hány penge hosszúságú (0; 0.5(rövid); 1; 1.5; 2)
   sebesség: -1          # fegyver Sebessége (támadások számában van szerepe)
-  harcmodor: ""         # közelharc, kardvívás, pusztítás, lándzsavívás
+  harcmodor: ""         # közelharc, kardvívás, zúzás, lándzsavívás
   megjegyzés: ""        # fegyver egyedi külleme, származása, mágikus, szakrális jellemzői

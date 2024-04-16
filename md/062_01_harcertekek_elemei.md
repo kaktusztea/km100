@@ -72,11 +72,11 @@ Szintenként `TÉ`-re vagy `VÉ`-re **legfeljebb** `3`-al több `HM`-et lehet k�
 
 A km100 rendszere az alábbi (átfogó) harci képzettségeket ismeri:
 
-**Közelharc, Kardvívás, Lándzsavívás, Pusztítás, Hajítás, Íjászat, Lövészet, Ostromlövészet**
+**Közelharc, Kardvívás, Lándzsavívás, Zúzás, Hajítás, Íjászat, Lövészet, Ostromlövészet**
 
 - **Közelharc: közelharci** ⭕**(legfeljebb 0,5 penge hosszú)**⭕ **fegyverek**
 - **Kardvívás: minden „pengés” fegyver (kétkezes kard is)**
-- **Pusztítás: zúzófegyverek, csatabárdok, csákány**
+- **Zúzás: zúzófegyverek, csatabárdok, csákány**
 - **Lándzsavívás: Szálfegyverek**
 
 
