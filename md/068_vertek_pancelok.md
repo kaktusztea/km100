@@ -333,7 +333,7 @@ Az SFÉ táblázatban nem véletlenül _szorzó_ értékek szerepelnek arany, va
 
 A lehető legátlagosabb sodronying, sisakon kívül mindent beborítva.
 #### SFÉ
-- Sodronying
+- Struktúra: Sodronying
 - Alap SFÉ: `8` / `13` / `5` / `15`
 - Anyagminőség átlagos: `+0 SFÉ`
 - Fémalapanyag: Acél: `+0 SFÉ`
@@ -341,7 +341,7 @@ A lehető legátlagosabb sodronying, sisakon kívül mindent beborítva.
 
 #### MGT
 
-- Sodronying
+- Struktúra: Sodronying
 - Kidolgozottság gyenge (nem az alapanyag, az elkészítés gyenge!)
 - Alap MGT: `13` (Lánc/Sodrony)
 - Kidolgozottság: Nem merev, fém (II.kat) / Gyenge munka → `+3` MGT / tag
@@ -353,7 +353,7 @@ A lehető legátlagosabb sodronying, sisakon kívül mindent beborítva.
 #### Ár
 
 - Alap:
-	- Sodrony: `10x
+	- Struktúra: Sodrony: `10x
 	- Anyagminőség átlagos: `1x`
 	- Kidolgozottság „gyenge”: `0,5x`
 - Mellvért ár : `10x x 1x x 0,5  =  5x`
@@ -366,7 +366,7 @@ A lehető legátlagosabb sodronying, sisakon kívül mindent beborítva.
 ... amiben a lehető legnehezebb mozogni (Kidolgozottság: pocsék, Fémalapanyaga: bronz) és még az Anyagminősége is a legvacakabb. Mindent lefed.
 #### SFÉ
 
-- Lemezvért
+- Struktúra: Lemezpáncél
 - Alap SFÉ: `15 / 18 / 10` / `20`
 - Anyagminőség leggyengébb: `SFÉ:-2`
 - Fémalapanyag: Bronz: `SFÉ:-3`
@@ -375,7 +375,7 @@ A lehető legátlagosabb sodronying, sisakon kívül mindent beborítva.
 #### MGT
 
 - Alap MGT:
-	- Lemez: `18`
+	- Struktúra: Lemez: `18`
 	- Fémalapanyag: Bronz: `6`
 - Kidolgozottság: Merev, fém (III.kat) / Pocsék munka → `+5` MGT / tag
 - Védett terület: mellkas, felkar, alkarok, combok, lábszárak, fej → `6` db tag
@@ -386,7 +386,7 @@ A lehető legátlagosabb sodronying, sisakon kívül mindent beborítva.
 #### Ár
 
 - Alap: 
-	- Lemez:`100x`
+	- Struktúra: Lemez:`100x`
 	- Anyagminőség vacak: `0,1x`
 	- Kidolgozottság pocsék munka: `0,1x`
 	- Fémalapanyag: Bronz: `0,5x`
