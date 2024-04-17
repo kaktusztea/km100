@@ -35,7 +35,7 @@ A képzettségeket kategóriákra bontjuk aszerint, mennyire átfogóak, mekkora
 
 Az `Átfogó` képzettségek jellemzője, hogy általános, mindenre kiterjedő tudást nyújtanak az adott területen. Éppen ezért tanulásuk is tovább tart, ami meg is látszik a magasabb `KP` igényen.
 
-Az `Átlagos` képzettségek már jóval konkrétabb, - így gyorsabban tanulható - tudást takarnak (így KP igényük is alacsonyabb), egy konkrét feladatkörrel foglalkoznak, viszont azon belül mindennel, például a „`Történelemismeret - Pyarroni államszövetség`" képzettség kizárólag a nevéből adódó terület történelmét foglalja magában.
+Az `Átlagos` képzettségek már jóval konkrétabb, - így gyorsabban tanulható - tudást takarnak (így KP igényük is alacsonyabb), egy konkrét feladatkörrel foglalkoznak, viszont azon belül mindennel.
 
 Végére maradtak a `Könnyű` képzettségek, amelyek egy adott terület szűkebb problémakörével foglalkoznak. Könnyen megtanulhatóak, de viszonylag kevésbé tág, gyakorlatias tudást takarnak. Tanulásukban hamar el lehet érni a maximumot, így KP igényük is alacsony. 
 
