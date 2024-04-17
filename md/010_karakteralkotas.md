@@ -56,8 +56,8 @@ Rövid áttekintő summázatként álljanak itt a számok, amelyekkel a karakter
 
 ### KP költésével növelt értékek
 
-- **Képzettségek**: Harci, Tradíció, Fizikai, Alvilági, Művészeti, Világi, Tudományos, Misztikus, Mágiaiskolák (Magas, Vulgár, Sámán, Bárd, Ordani tűz, Ork énekmondói, Rituálé)
-- **Fortélyok**: Általános, Harci, Lovas, Íjász, Alvilági, Szociális, Világi, Tudományos, Művészeti, Mágikus/Misztikus, Pszí, Slan
+- **Képzettségek**: Harci, Tradíció, Fizikai, Alvilági, Művészeti, Világi, Tudományos, Misztikus, Tradíciók (Mágia: Magasmágia, Vulgár, Sámán, Bárd, Ordani tűz, Ork énekmondói, Rituálé; Slan, Faj, Fejvadász), Pszí-iskola
+- **Fortélyok**: Általános, Harci, Lovas, Íjász, Alvilági, Szociális, Világi, Tudományos, Művészeti, Mágikus/Misztikus
 - **Harcérték módosítók** (HM/CM)
 
 ---
@@ -82,6 +82,7 @@ Külső megjelenés és hatásai
 Személyiség, szociális „tulajdonságok"
 - mennyire kommunikatív, mekkora hatása van az emberekre, visszahúzódó-e, stb, megszégyenítéshez mennyire ért, mennyire mogorva, piszkálódó, stb
 - Mennyire gazdag érzelmileg. A Önuralom , Érzékenység csak támpontot, vázat adnak.
+- A fentieket az ingyenes [Hátterek](040_hattererek.md) alkalmazásával modellezzük
 
 ## Hátterek
 
