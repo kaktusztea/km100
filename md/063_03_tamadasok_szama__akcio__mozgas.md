@@ -89,7 +89,7 @@ Varázskeret = Varázskeret - "Formula Sebesség"
 
 Azt kell megvizsgálni, hogy a `"Formula-Sebesség"` eléri -e a **Varázskeretet**.
 - Ha egyenlő, vagy felette van, akkor az aktuális  `„Formula-Sebesség”` értékét levonjuk a **Varázskeretből**. A karakter a maradék keretből gazdálkodhat még a kör hátralevő részében.
-- Ha alatta van, akkor a varázslat "átcsúszik" a következő körre és rögtön annyival csökkenti a következő kör **Varázskeretét**, amennyivel alatta volt.
+- Ha alatta van, akkor ebben a körben már nem lesz több befejezett mágia, a varázslat "átcsúszik" a következő körre és rögtön annyival csökkenti a következő kör **Varázskeretét**, amennyivel alatta volt.
 
 A **Varázskeret** minden kör elején eredeti értékére "töltődik vissza".
 
