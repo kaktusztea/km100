@@ -52,7 +52,7 @@ A karakterek fejlődése természetesen nem lehet ugrásszerű, meg kell őrizn�
 ---
 ## Képzettségek pontigényei
 
-A fejlődés Karakter Pontba (`KP`) kerül. A KP szimulálja az egyes képzettségek elsajátítására fordított tanulás „egységnyi mennyiséget". Hogy a korábban ismertetett három kategóriának (Átfogó, Átlagos, Spec/Könnyű) adott szinten mekkora a KP igénye, azt az alábbi táblázat adja meg:
+A fejlődés Karakter Pontba (`KP`) kerül. A KP szimulálja az egyes képzettségek elsajátítására fordított tanulás „egységnyi mennyiséget". Hogy a korábban ismertetett három kategóriának (Átfogó, Átlagos, Könnyű) adott szinten mekkora a KP igénye, azt az alábbi táblázat adja meg:
 
 | Fokozat     | Képzettség Szint | 🔴 Átfogó |       | 🔵 Átlagos |       | 🟢Könnyű |      |
 | ----------- | :--------------: | :-------: | :---- | :--------: | :---- | :------: | :--- |
