@@ -86,8 +86,7 @@ Ha egy képzettség egy bizonyos fokának eléréséhez szükség van valamilyen
 ---
 ### Karakter Pontok elosztása
 
-A karakteralkotás fejezetben ismerettük a Karakter Pontok értékének
-számítását. A képzettségek „vásárlása" is ezekből történik.
+A karakteralkotás fejezetben ismerettük a [Karakter Pontok](https://github.com/kaktusztea/km100/blob/master/md/010_karakteralkotas.md#karakter-pontok-kp-elosztása) (KP) értékének számítását. A képzettségek „vásárlása" is ezekből történik.
 
 ---
 ## Képzettségpróba
