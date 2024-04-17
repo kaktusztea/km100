@@ -12,7 +12,6 @@
 - gólem előállitáshoz is kell
 - Nyomozás képzettséghez Kapcsolódó fortély (boncolás, halott vizsgálata)
 
-- 
 
 | |  Követelmény | Hatás  |
 | :----------- | :----------- | :----------- |
