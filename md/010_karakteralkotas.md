@@ -82,7 +82,6 @@ Külső megjelenés és hatásai
 Személyiség, szociális „tulajdonságok"
 - mennyire kommunikatív, mekkora hatása van az emberekre, visszahúzódó-e, stb, megszégyenítéshez mennyire ért, mennyire mogorva, piszkálódó, stb
 - Mennyire gazdag érzelmileg. A Önuralom , Érzékenység csak támpontot, vázat adnak.
-- A fentieket az ingyenes [Hátterek](040_hattererek.md) alkalmazásával modellezzük
 
 ## Hátterek
 
