@@ -9,8 +9,7 @@
 ```
 → Primer ismeretek alá tartozó képzettségek: minden harci, misztikus, mágikus képzettség
                                              + Észlelés, Összpontosítás, Fájdalomtűrés,
-                                             + Akrobatika, Lopakodás/rejtőzés
-                                             + Nyomozás
+                                             + Akrobatika, Lopakodás/rejtőzés, Nyomozás
 → Szekunder ismeretek alá tartozó képzettségek: minden más képzettség
 ```
 
