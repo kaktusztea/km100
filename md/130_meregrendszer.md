@@ -140,7 +140,7 @@ Ez a tétel attól függ, hogy milyen típusú mérget szándékozik készíteni
 - Több komponensű: minden újabb komponensre bontás: `+2`
 - Több hordozó közeg (étel/ital, légnemű, véráramban ható): plusz hordozónként `+3`
 - Kis mennyiség: ha egészen kis mennyiség is elég 1 adaghoz: `+2`
-- Szintelen: `+3`
+- Színtelen: `+3`
 - Szagtalan/ízetlen: `+3` (egyben értendő)
 
 <br />
