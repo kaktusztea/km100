@@ -137,8 +137,7 @@ Edzettség: [-5;+4] ; Önuralom [-3;+6]
 Felvehető Érzék-Fortélyok maximuma:
 - [Ultralátás](fortelyok.erzekek/fejlett_szaglas.md) - 1. fok
 
-Ajánlott fortélyok:
-- \-
+Ajánlott fortélyok: -
 
 Ajánlott képzettségek:
 - [Etikett](kepzettsegek/etikett.md) (Kyr kultúrkör)
