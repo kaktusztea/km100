@@ -8,7 +8,7 @@ A szabályrendszer dokumentumaiban speciális unicode karaktereket használunk j
 ## Aktív jelzők
 ⚪ Tulajdonság
 
-🔴 Átfogó képzettség 🔵 Átlagos képzettség 🟢 Specializáció 🟡 Különleges képzettség
+🔴 Átfogó képzettség 🔵 Átlagos képzettség 🟢 Könnyű képzettség 🟡 Különleges képzettség
 
 🟣 Fortély / Háttér
 
@@ -18,7 +18,7 @@ A szabályrendszer dokumentumaiban speciális unicode karaktereket használunk j
 
 🔻 Követelmény, limit
 
-⚡ Példa cím
+⚡ Példa
 
 ⚜️ Példatörténet
 
