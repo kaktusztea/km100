@@ -2,7 +2,7 @@
 
 „_Két fegyver jobb, mint egy_” - ez az egyszerű megállapítás igaz is lehet, kiegészítve azzal, hogy csak akkor, ha az illető ért a páros fegyverhasználathoz.
 
-| **Ismeret foka** | **Harcértékek** | **Harcmodor-Sebesség** | **Követelmény** |
+| **Ismeret foka** | **Harcértékek** | **Harckeret** | **Követelmény** |
 |--------------------------|-------------------------------------------------------------------|:---------:|:---------------------------------------------|
 |Alapeset<br/>(képzetlenül)| • Főfegyver (nagyobb fegyver) harcmodora és értékei számítanak<br/>• `KÉ/TÉ/VÉ: -10`                                                                                 | `+1`  | - |
 |Kétkezes harc - 1.fok     | • Főfegyver (nagyobb fegyver) harcmodora számít<br/> • Fegyver harcértékek összeadódnak<br/> • Egyik fegyver **Mesterfegyver** fortélya sem számít                       | `+3🔆` | Főfegyver harcmodora – 6.szint<br/>Kiegészítő fegyver harcmodora – 3.szint |
@@ -11,9 +11,9 @@
 |_Speciális:_<br/>**Kétkezesség** fortély | Ha a karakter legalább `1.fokú` **Kétkezes harccal** rendelkezik, akkor a **Kétkezesség** fortély felvétele esetén további `+1` Sebesség bónuszt kap. | `+1`  | - |
 
 
-### Harcmodor-Sebesség bónusz
+### Harckeret bónusz
 
-🔆Látható, hogy a fortély felvétele az aktuális **Harcmodor-sebesség** értéket is növeli, így juthat újabb támadásokhoz a karakter. A sebesség bónusz végső értékét úgy kapjuk meg, hogy még fegyver-függő levonásokat alkalmazunk rá az alábbiak szerint:
+🔆Látható, hogy a fortély felvétele az aktuális **Harckeret** értéket is növeli, így juthat újabb támadásokhoz a karakter. A sebesség bónusz végső értékét úgy kapjuk meg, hogy még fegyver-függő levonásokat alkalmazunk rá az alábbiak szerint:
 - Adjuk össze a forgatott 2 fegyver pengehosszait
 - Minden `0,5` penge `1` ponttal csökkenti a bónuszt\
 **Fontos**: A „rövid” fegyverek `0` pengének számítanak számolásnál!
@@ -34,5 +34,5 @@
 
 ### ⚡Példa-2
 - Harc `2db`, `1` pengés fegyverrel (például 2 db szablya)
-- Össz hosszuk: `1 + 1 = 2 penge  →  2/0,5 = 4`, tehát a **Harcmodor-Sebesség** bónuszok `4`-el csökkennek.\
+- Össz hosszuk: `1 + 1 = 2 penge  →  2/0,5 = 4`, tehát a **Harckeret** bónuszok `4`-el csökkennek.\
 `(1.fok: -1(!)  ;  2.fok:+2)`

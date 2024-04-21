@@ -16,28 +16,28 @@ Az Akció a harcban megtett elemi cselekedet. 1 Akció az alábbiak cselekedetek
 A körön belüli Akciók számát lent írjuk le.
 
 ---
-### „Harcmodor-Sebesség”
+### Harckeret
 
 Egy karakter plusz támadásainak száma attól függ, hogy milyen fegyvert forgat, mennyire képzett annak Harcmodorában, és hogy mennyire fürge (`Gyorsaság` tulajdonság).
 
-Számszerűen: az aktuális fegyverhez tartozó harcmodor-képzettség szintje és a Gyorsaság tulajdonság összege határozzák meg az ún. **Harcmodor-Sebesség**”értéket. Ez – mint – sejthető harcmodoronként egyedi érték.
+Számszerűen: az aktuális fegyverhez tartozó harcmodor-képzettség szintje és a Gyorsaság tulajdonság összege határozzák meg az ún. **Harckeret** értéket. Ez – mint – sejthető harcmodoronként egyedi érték.
 
 ```
-„Harcmodor-Sebesség” = aktuális Harcmodor szint + Gyorsaság tulajdonság
+Harckeret = aktuális Harcmodor szint + Gyorsaság tulajdonság
 ```
 
 ---
-### „Fegyver-Sebesség”
+### Fegyver Sebesség
 
-Szintén minden fegyvernek van egy egyedi Sebesség értéke, az ún. `„Fegyver-Sebesség”`. Minél kisebb ez a szám, annál fürgébb, minél nagyobb, annál lomhább az adott fegyver.
+Szintén minden fegyvernek van egy egyedi **Sebesség** értéke. Minél kisebb ez a szám, annál fürgébb, minél nagyobb, annál lomhább az adott fegyver.
 
 ---
 ### Plusz támadások száma (fegyverrel)
 
-A plusz támadások számát úgy kapjuk meg, hogy megvizsgáljuk, a `„Fegyver-Sebesség”` hányszor van meg a karakter aktuális „Harcmodor-Sebesség” értékében (lefelé kerekítve).
+Az alap 1 támadáson felül kapott **plusz** támadások számát úgy kapjuk meg, hogy megvizsgáljuk, a `„Fegyver-Sebesség”` hányszor van meg a karakter aktuális „Harckeret” értékében (lefelé kerekítve).
 
 ```
-Plusz támadások (db) = (Harcmodor Sebesség) / (Fegyver Sebesség)
+Plusz támadások (db) = Harckeret / (Fegyver Sebesség)
 ```
 
 ---
@@ -47,9 +47,9 @@ Plusz támadások (db) = (Harcmodor Sebesség) / (Fegyver Sebesség)
 - Harcmodor: `Kardvívás – 4.szint`
 - Gyorsaság tulajdonság: `+3`
 
-Ekkor az aktuális Harcmodor-Sebesség érték:  `4+3 = 7`
+Ekkor az aktuális Harckeret érték:  `4+3 = 7`
 
-Mivel ez elérte a`6`-os értéket, ezért `+1` támadás – összesen tehát már `2db` jár körönként. A 3 támadást `12`-es, a 4 támadást pedig `18`-as `„Harcmodor-Sebesség”` értéknél kapja meg.
+Mivel ez elérte a`6`-os értéket, ezért `+1` támadás – összesen tehát már `2db` jár körönként. A 3 támadást `12`-es, a 4 támadást pedig `18`-as **Harckeret** értéknél kapja meg.
 
 ```
 Minden újabb támadás során az aktuális Támadó Értékre -10 levonás jár!
@@ -64,41 +64,51 @@ További támadásokat `Kétkezes Harc` során szerezhet a karakter. Lásd a [K�
 ---
 ## Támadások száma varázsláskor
 
-### "Varázskeret"
-```
- "Varázskeret" = Mágia Tradíció szint + ⭕Gyorsaság⭕ tulajdonság
-```
+### Varázskeret
 
-Varázslásnál nagyjából ez felel meg a "Harcmodor-Sebességnek", annyi különbséggel, hogy a "Harcmodort" itt a "Mágia Tradíció" helyettesíti, annak szintje számít.
-
-
-### „Formula-Sebesség”
 ```
-„Formula-Sebesség” = 4 + Varázslat Erőssége   (Magasmágiánál a legerősebb mozaik)
+ Varázskeret = Mágia Tradíció szint + Összpontosítás szint
 ```
 
-Varázslásnál ez felel meg a "Fegyver-Sebességnek", értéke minél magasabb, annál lassabban jön létre a varázslat.
+Varázslásnál nagyjából ez felel meg a **Harckeretnek**.
 
-Látható, hogy az apró, kis változtató erejű mágiákból többet jóval könnyebben el lehet varázsolni, mint a nagyobb hatalmú varázslatokból.
 
+### Formula Sebesség
+
+```
+Formula-Sebesség = Max Erősség + Max Komplexitás
+```
+
+A varázslatban használt összes formula közül a legmagasabb Komplexitás értéket és a legmagasabb Erősség értéket kell összeadnunk.
+
+Varázslásnál ez felel meg a **Fegyver Sebességnek**, értéke minél magasabb, annál lassabban jön létre a varázslat.
+
+Látható, hogy az apró, egyszerű, kis változtató erejű mágiákból többet jóval könnyebben el lehet varázsolni, mint a nagyobb hatalmú varázslatokból.
 
 ### Varázskeret csökkentése varázsláskor
 ```
 Varázskeret = Varázskeret - "Formula Sebesség"
 ```
 
-Azt kell megvizsgálni, hogy a `"Formula-Sebesség"` eléri -e a **Varázskeretet**.
-- Ha egyenlő, vagy felette van, akkor az aktuális  `„Formula-Sebesség”` értékét levonjuk a **Varázskeretből**. A karakter a maradék keretből gazdálkodhat még a kör hátralevő részében.
-- Ha alatta van, akkor ebben a körben már nem lesz több befejezett mágia, a varázslat "átcsúszik" a következő körre és rögtön annyival csökkenti a következő kör **Varázskeretét**, amennyivel alatta volt.
+Kör elején azt kell megvizsgálni, hogy a `"Formula-Sebesség"` eléri -e a **Varázskeretet**.
 
-A **Varázskeret** minden kör elején eredeti értékére "töltődik vissza".
+Ha egyenlő, vagy alatta van, akkor az aktuális  `„Formula-Sebesség”` értékét levonjuk a **Varázskeretből**. A karakter a maradék keretből gazdálkodhat még a kör hátralevő részében.
+
+Ha felette van, akkor ebben a körben már nem lesz több befejezett mágia, a varázslat "átcsúszik" a következő körre és rögtön annyival csökkenti a következő kör **Varázskeretét**, amennyivel alatta volt.
+
+**Következő körbe átcsúszó varázslatot csak a kör elején lehet megkezdeni!**
+
+A **Varázskeret** minden kör elején eredeti értékére "töltődik vissza" - kivéve az átcsúszó varázslatok esetén.
+
+Egy nagy, hosszú varázslat akár sok körön át is "csúszhat", ez idő alatt a varázstudó mozdulatlanul állhat, vagy legfeljebb lassú, egyenletes sétát végezhet.
 
 ---
 ### Mozgás harcban, mozgás hatása támadások számára
 
-Harc közben nem ugyanazon a pár négyzetméteres területen mozog a karakter, sokszor át kell rohannia segíteni másnak, vagy épp visszavonulnia (már ha sikerült kibontakoznia). A harci körben való mozgás 
+Harc közben nem ugyanazon a pár négyzetméteres területen mozog a karakter, sokszor át kell rohannia segíteni másnak, vagy épp visszavonulnia (már ha sikerült kibontakoznia). A harci körben való mozgás
 
 #### Maximum mozgás, maximum támadással
+
 ```
 Max Mozgás egy körben  =  (5 + Gyorsaság) méter
 ```
