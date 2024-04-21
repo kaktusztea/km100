@@ -46,13 +46,14 @@ A fenti jellemzők fordított nézetőpontból:
 Minden páncél rendelkezik **három** úgynevezett Sebzés Felfogó Értékkel (**SFÉ**), amely a páncél nyújtotta védelmet hivatott szimulálni (szúró/vágó/zúzófegyverek ellen). Az SFÉ értéke sebzéskor levonódik a támadás `SP` értékéből (nem a sebzésből!), így jó eséllyel csökkenti a sebzés kategóriáját.
 
 Egy páncélnak **4 fajta SFÉ értéke van**, a támadás jellegétől függ, hogy melyiket kell figyelembe venni, a csapással szembeállítani:
+
 - `Szúró`
 - `Vágó`
 - `Zúzó`
 - `Energia`
-	- Villám, Tűz, Fagy támadás tartozik ide.
-	- A fém vértek, ha felforrósódnak, folyamatos sebzést okozhatnak. Erről a KM dönt.
-	- Fém vértet **villámmal** könnyebb eltalálni, mivel az magához vonzza az ilyen energiát. Ilyenkor a támadó számára a Célzás számításánál az Osztó érték `1`-el nő.
+  - Villám, Tűz, Fagy támadás tartozik ide.
+ 	- A fém vértek, ha felforrósódnak, folyamatos sebzést okozhatnak. Erről a KM dönt.
+ 	- Fém vértet **villámmal** könnyebb eltalálni, mivel az magához vonzza az ilyen energiát. Ilyenkor a támadó számára a Célzás számításánál az Osztó érték `1`-el nő.
 
 Megkülönböztetünk
 
@@ -76,6 +77,7 @@ Az egyes **fém-páncél** példányok struktúrális Anyagminősége erősen el
 | Lánc/Sodrony  |      `8`      |     `13`     |     `5`      |    `15`     | `3` | `10x`  |
 | Pikkelypáncél |     `12`      |     `13`     |     `6`      |    `15`     | `3` | `50x`  |
 | Lemezpáncél   |     `15`      |     `18`     |     `10`     |    `20`     | `4` | `100x` |
+
 ⭕TODO: fenti értékek hangolása
 
 A fenti +/- oszlophoz tartozó Ár -szorzó:
@@ -385,7 +387,7 @@ A lehető legátlagosabb sodronying, sisakon kívül mindent beborítva.
 
 #### Ár
 
-- Alap: 
+- Alap:
 	- Struktúra: Lemez:`100x`
 	- Anyagminőség vacak: `0,1x`
 	- Kidolgozottság pocsék munka: `0,1x`
