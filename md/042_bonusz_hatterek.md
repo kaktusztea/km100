@@ -78,7 +78,7 @@ Bővebben lásd a ⭕Mágia fejezetet⭕.
 
 - Erő, Edzettség, Gyorsaság tulajdonságpróbákra:&nbsp;`+3`<br />
 - KÉ:`+6`; TÉ:`+12`; VÉ:`-10`; SP:`+3`
-- Harcmodor Sebesség: `+3`
+- Harckeret: `+3`
 - ÉP: `+6`
 - Mágiallenállás: `+10`
 - Sebesülés **TÉ** levonása `15`-el mérséklődik

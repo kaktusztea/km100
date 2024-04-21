@@ -44,8 +44,8 @@ Fegyvermérettől függően előnyös/hátrányos helyzetű támadó (`1` penge 
 
 - **VÉ regenerálódás:** `1` kör pihenéssel töltött idővel visszatérnek a harcban - **nem sérüléssel** - elvesztett VÉ-k.
 - **Támadások száma**: `1` + plusz támadások
-- **Plusz támadások (db)** = (Harcmodor-Sebesség) / (Fegyver-Sebesség)
-  - **Harcmodor-Sebesség** = aktuális harcmodor + Gyorsaság tulajdonság
+- **Plusz támadások (db)** = Harckeret / (Fegyver-Sebesség)
+  - **Harckeret** = aktuális harcmodor + Gyorsaság tulajdonság
   - **Fegyver-Sebesség** : fegyverenként eltérő egyéni érték (lásd a [Fegyverek táblázatot](067_fegyverek.md)!)
 - **Győzelmi szabály**: Ha a karakter végzett egy ellenfelével (úgy hiszi, legyőzte), akkor Védő Értékéhez visszatér `+10` pont. (a siker hatása a szervezetre + heroizmus). Persze itt is lehetnek kivételek (barát megölése, stb).
 
