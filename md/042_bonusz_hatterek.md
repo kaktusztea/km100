@@ -11,6 +11,7 @@ Ide soroljuk azokat az egyedi Bónusz-Háttereket is, amelyek már meglevő kép
 
 ---
 Tartalomjegyzék
+
 - [Állat testvér](#-%C3%A1llat-testv%C3%A9r)
 - [Boncolás](#-boncol%C3%A1s-faj-neve)
 - [Élő álca](#-%C3%A9l%C5%91-%C3%A1lca)
@@ -61,7 +62,6 @@ Titkos, félmágikus ismeret. Csak az álcázás legnagyobb mesterei ismerik –
 
 ##### Hatás a képzettség adott szintjén
 15. szint: Alkalmazója kellékek nélkül is képes átformálni vonásait. A hatás csak annyi lehet, amennyit maszkkészítő eszközökkel is el tudna érni. Például: pár perc alatt szakállat, bajszot növeszt, ráncokat varázsol az arcára, megváltozik szeme színe, stb.
-
 
 
 <br />
@@ -178,10 +178,12 @@ Többször felvehető. Ez általában egyedi, titkos, vagy nagyon speciális tá
 Titkos, félmágikus ismeret.
 
 ##### Követelmény
+
 - Életed a mászás
 - Mászás - `15.szint`
 
 ##### Hatás a képzettség adott szintjén
+
 15.szint: Képes vagy pókként megtapadni a falon – akár a mennyezeten is. A kapaszkodáshoz nincs szükséged kiszögelésre.
 
 <br />
