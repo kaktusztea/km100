@@ -150,13 +150,10 @@ A fentieket a KM összegzi és osztályzatot ad rá: `[-5; +5]` intervallumban, 
 ```
 Festészet + (Pszeudó tul.) + k10   vs   Célszám
 ```
-🟣[Művészetismeret](044_nuansz_hatterek.md#m%C5%B1v%C3%A9szetismeret---adott-m%C5%B1v%C3%A9szetr%C3%A9gi%C3%B3): ez nem képzettség, hanem ingyenes **Művészeti Háttér**.
 
 🔵[Ének](kepzettsegek/enek.md) <sup><sub>(0%)</sub></sup>
 
 🔵[Festészet](kepzettsegek/festeszet.md) <sup><sub>(5%)</sub></sup>
-
-🟢[Irodalom ismeret](kepzettsegek/irodalom_ismeret.md) (adott régió) <sup><sub>(40%)</sub></sup> 🔁
 
 🔵[Kalligráfia](kepzettsegek/kalligrafia.md) <sup><sub>(5%)</sub></sup>
 
@@ -172,25 +169,29 @@ Festészet + (Pszeudó tul.) + k10   vs   Célszám
 
 🟢[Nyelvismeret](kepzettsegek/nyelvismeret.md) (adott nyelv) <sup><sub>(40%)</sub></sup> 🔁
 
+🔵[Alkímia](kepzettsegek/alkimia.md) <sup><sub>(0%)</sub></sup>
+
 🔵[Építészet](kepzettsegek/epiteszet.md) <sup><sub>(0%)</sub></sup>
 
-🔵[Térképészet](kepzettsegek/terkepeszet.md) <sup><sub>(0%)</sub></sup>
+🔵[Jogismeret](kepzettsegek/jogismeret.md) (adott kultúrkör)  <sup><sub>(0%)</sub></sup> 🔁
+
+🔴[Mechanika](kepzettsegek/mechanika.md) <sup><sub>(5%)</sub></sup>
+
+🔵[Műveltség](kepzettsegek/muveltseg.md)  <sup><sub>(50%)</sub></sup>
 
 🔵[Ősi kultúrák ismerete](kepzettsegek/osi_kulturak_ismerete.md) (Külön ősi kultúránként) (Történem és Vallásismeret is egyben) <sup><sub>(25%)</sub></sup> 🔁
 
 🔴[Ősi nyelv ismerete](kepzettsegek/osi_nyelv_ismerete.md) (Külön ősi nyelvenként) <sup><sub>(0%)</sub></sup> 🔁
 
-🔵[Jogismeret](kepzettsegek/jogismeret.md) (adott kultúrkör)  <sup><sub>(0%)</sub></sup> 🔁
-
-🔵[Alkímia](kepzettsegek/alkimia.md) <sup><sub>(0%)</sub></sup>
-
-🔴[Mechanika](kepzettsegek/mechanika.md) <sup><sub>(5%)</sub></sup>
-
-🔵[Történelemismeret - adott régió](kepzettsegek/tortenelemismeret.md) <sup><sub>(40%)</sub></sup> 🔁
+🔵[Stratégia](kepzettsegek/strategia.md) <sup><sub>(0%)</sub></sup> 🔁
 
 🔵[Taktika](kepzettsegek/taktika.md) <sup><sub>(0%)</sub></sup> 🔁
 
-🔵[Stratégia](kepzettsegek/strategia.md) <sup><sub>(0%)</sub></sup> 🔁
+🔵[Térképészet](kepzettsegek/terkepeszet.md) <sup><sub>(0%)</sub></sup>
+
+🔵[Történelemismeret - adott régió](kepzettsegek/tortenelemismeret.md) <sup><sub>(40%)</sub></sup> 🔁
+
+
 
  🔵[Vallásismeret](kepzettsegek/vallasismeret.md) <sup><sub>(10%)</sub></sup> (adott pantheon) 🔁
 
