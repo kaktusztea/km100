@@ -295,6 +295,6 @@ Néhány irányelv:
 
 - Cobaq Ereje: `+5`, Kétkezes kardot (`+8`) forgat
 - Így sebzésdobása: `k20+13`, tehát minimum `14 SP`-t sebez, ami már `6 ÉP`.
-- Ha `7`-nél nagyobbat dob (`65%`), akkor már `20 ÉP` sebet okoz, ami legtöbbször halálos
+- Ha `7`-nél nagyobbat dob (`65%`), akkor már `15 ÉP` sebet okoz, ami sokszor már halálos
 
 ---
