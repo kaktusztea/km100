@@ -184,10 +184,10 @@ Ha nincs épp meg az adott szituációban a szükséges kultúrkörhöz tartozó
 - ⭕TODO⭕
 
 ##### Kultúrkör-függő Képzettségek
-- [Etikett](etikett.md)
-- [Műveltség](muveltseg.md)
-- [Történelemismeret](tortenelemismeret.md)
-- [Vallásismeret](vallasismeret.md)
+- [Etikett](kepzettsegek/etikett.md)
+- [Műveltség](kepzettsegek/muveltseg.md)
+- [Történelemismeret](kepzettsegek/tortenelemismeret.md)
+- [Vallásismeret](kepzettsegek/vallasismeret.md)
 
 
 ---
