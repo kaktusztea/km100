@@ -18,7 +18,7 @@ Tartalomjegyzék
 - [Harci láz 3](#-harci-l%C3%A1z-3)
 - [Helyismeret](#-helyismeret-v%C3%A1rosnyi-ter%C3%BClet-3)
 - [Kobratánc](#-kobrat%C3%A1nc)
-- [Kultúrkör](#-kult%C3%BArk%C3%B6r-3)
+- [Kultúrkör](#-kult%C3%BArk%C3%B6r-adott-kult%C3%BArk%C3%B6r-3)
 - [Lénylovas](#-l%C3%A9nylovas-faj-neve)
 - [Tánc: speciális/belső stílus](#t%C3%A1nc-speci%C3%A1lisbels%C5%91-st%C3%ADlus)
 - [Tapadás](#-tapad%C3%A1s)
