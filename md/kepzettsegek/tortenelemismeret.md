@@ -8,10 +8,10 @@
 
 **Kapcsolódó fortélyok**: -
 
-**Bónusz-Háttér *
+**Bónusz-Háttér**: - 
 
 ##### Követelmények
--  [Kultúrkör](../042_bonusz_hatterek.md#-kult%C3%BArk%C3%B6r-3): Az Alapeset, ha a próbát érintő **Kultúrkör** Háttér legalább `2.fokon` megvan. Amennyiben nincs meg, vagy ez alatti, akkor a próba **Nehézsége** `+3` ponttal emelkedik.
+ [Kultúrkör](../042_bonusz_hatterek.md#-kult%C3%BArk%C3%B6r-3): Az Alapeset, ha a próbát érintő **Kultúrkör** Háttér legalább `2.fokon` megvan. Amennyiben nincs meg, vagy ez alatti, akkor a próba **Nehézsége** a Kultúrkörnél leírt mértékben emelkedik.
 
 **Leírás**: Alacsonyabb szinten a hetedkori Ynev általános történelmét ismered, magasabb szinten fellebbennek a titkok a régebbi korok titkairól is.
 
@@ -61,5 +61,5 @@
 
 ##### Célszámot módosító körülmények
 
-- ⭕xyz
-
+- Nehézség büntetés, ha nincs kapcsolódó [Kultúrkör](../042_bonusz_hatterek.md#-kult%C3%BArk%C3%B6r) Bónusz Háttér `2.fokon`.
+ 

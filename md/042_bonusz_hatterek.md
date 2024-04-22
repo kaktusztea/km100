@@ -168,6 +168,10 @@ Legendás és rettegett gorviki fejvadász stílus, amely jellemzően végtagoka
 - Kaland végén kaphatóak újabb pontok ingyen, a KM-től
 
 ⚡ Példa: "Kultúrkör: Toron (2), "Kultúrkör: Pyarron (1)"
+
+Kapcsolódó Képzettség-próba:
+  ha nincs meg a megkövetelt Kultúrkör fok, akkor +3 Nehézség.
+
 ```
 
 `1.fok`: Egy hetet eltöltöttél egy, vagy több olyan helyen, ahol aktív kapcsolatban voltál az adott kultúrkörrel
