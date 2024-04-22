@@ -1,16 +1,14 @@
 
 ## A harc menete – részletes leírás
 
-```diff
-- A támadások leadása: sorban – felváltva! – mindenki leadja a támadásait, aztán, akinek marad, az leadja a „maradékot”.
-```
-
 A fentiekben kifejtettük az egyes harcértékek kiszámításának módját. Most lássuk, a fentieket hogyan alkalmazza a harcos, mikor küzdelemre kerül sor.
 
 ---
 ### Harci kör
 
 A harcot körökre osztjuk, ebben cselekedhet mindenki a kezdeményezés által meghatározott sorrendben.
+
+Mindenki leadja támadásait, aztán ugyanebben a sorrendben a több támadással rendelkező karakterek újra - egészen addig, míg van valaki, akinek még van támadása.
 
 ---
 ### Cselekedetek
@@ -62,7 +60,7 @@ Támadó dobás = Támadó Érték + k100
 ```
 
 ```
-Minden újabb támadás a körben -10TÉ levonással megy (2.tám: -10,  3.tám: -20, ...)
+Minden újabb támadás a körben -10 TÉ levonással megy (2.tám: -10,  3.tám: -20, ...)
 ```
 
 Harcban, támadáskor a játékos dob k100-al, majd a kapott értéket hozzáadja aktuális **Támadó Értékéhez**. Ennek értéke lesz a **Támadó dobás**. Amennyiben a támadónak több támadása van a körben, akkor minden egyes plusz támadás -10TÉ módosítóval történik.
