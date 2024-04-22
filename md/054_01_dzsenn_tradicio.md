@@ -3,7 +3,7 @@
 ⚜️ [Nyitóoldal](start.md)
 
 ```
-- Mentálmágia (mint spec képesség) == (Dzsenn tradíció szintje) - 8
+- Mentálmágia (mint spec képesség) == ((Dzsenn tradíció szintje) és (Ősi nyelv - Dzsenn) közül az alacsonyabb) - 8
 - Magasmágia == Dzsenn tradíció szintje ⭕EZ NAGYON TÁP. KÜLÖN KELLJEN INKÁBB FELVENNI⭕
 ```
 
