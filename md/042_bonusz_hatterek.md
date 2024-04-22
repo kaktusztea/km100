@@ -100,11 +100,13 @@ Minden karakter kezdéskor kap `3` foknak megfelelő pontot, amiből felvehet He
 
 `1. fok`: Ideiglenesen tartózkodtál a városban pár ⭕minimum 1 hetet⭕.
 - alap tájékozkodás
+
 `2. fok`: Átlagpolgár, aki a városban született és él, ismeri az intézményeket, piacokat, vezetőket
 - részletes tájékozkodás
 - helyi látványosság, politika
 - konkrét személyek
 - helyi kocsmák ismerete
+
 `3. fok`: Ismered az adott hely erőviszonyainak mélyebb rétegeit, szervezeteit. Az adott városban születtél és nőttél fel, vagy az utolsó 10 évedet ebben a városban töltötted.
 - hol keresül a törpék csak ultralátással látható barlangrajzai
 - helyi pletykák ismerete és megszerzése
