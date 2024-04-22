@@ -88,24 +88,49 @@ Bővebben lásd a ⭕Mágia fejezetet⭕.
 ---
 
 #### 🟣 Helyismeret (városnyi terület) (3)
+```
+- többször felvehető
+- 3 fokú
+- 3 pont osztható el 1.szinten
+- Kaland végén kaphatóak újabb pontok ingyen, a KM-től
+```
 
-3 fokú ingyenes ismeret, amelyet az előtörténet és az átélt kalandok adhatnak.
+3 fokú ingyenes ismeret, amelyet az előtörténet és az átélt kalandok adhatnak.\
+Minden karakter kezdéskor kap `3` foknak megfelelő pontot, amiből felvehet Helyismeret Hátteret és eloszthat az általa ismert városok/városnyi területek között. 
 
-`1. fok`: Ideiglenesen tartózkodtál a városban pár ⭕minimum 3 napot⭕.
+`1. fok`: Ideiglenesen tartózkodtál a városban pár ⭕minimum 1 hetet⭕.
+- alap tájékozkodás
 `2. fok`: Átlagpolgár, aki a városban született és él, ismeri az intézményeket, piacokat, vezetőket
-`3. fok`: Ismered az adott hely erőviszonyainak mélyebb rétegeit, szervezeteit
+- részletes tájékozkodás
+- helyi látványosság, politika
+- konkrét személyek
+- helyi kocsmák ismerete
+`3. fok`: Ismered az adott hely erőviszonyainak mélyebb rétegeit, szervezeteit. Az adott városban születtél és nőttél fel, vagy az utolsó 10 évedet ebben a városban töltötted.
+- hol keresül a törpék csak ultralátással látható barlangrajzai
+- helyi pletykák ismerete és megszerzése
+- alvilági alakokat hol keresd
+- helyi színdarabok
 
- Minden karakter kezdéskor kap `3` foknak megfelelő pontot, amiből felvehet Helyismeret Hátteret és eloszthat az általa ismert városok/városnyi területek között. Például:
+##### Leírás
 
-- Helyismeret – Shadlek : 3
-
-   vagy<br /><br />
-
-- Helyismeret – Shadlek: 1, Helyismeret – Warwik: 1, Helyismeret – El Sobira fővárosa: 1
+A játékosnak jeleznie kell, hogy aktívan tanulmányozza az adott kultúrkört (könyvtár, bálok, kocsmák, stb. látogatása, helyi kapcsolatrendszer kiépítése).
 
 A **Helyismeret** értéke úgy változhat, hogy a KM egy kaland végén tetszés szerint ad pontot a karakterek Helyismeret Hátterére arra a helyre vonatkoztatva, ahol a kaland játszódott. Tehát ha a karakter a délvidékről származik és először volt Ifinben, akkor az eddig `0` értékű „Helyismeret – Ifin” Háttere a kaland után `1`-re nőhet, ha igazán a "mélyébe csöppent", sok újdonságot tapasztalt a várossal kapcsolatban, akkor akár `2`-re is ugorhat. Az ilyen értéknövelés nem igényel `KP` költést, "ingyenes".
 
-⭕Biztos tudás, Próbák, stb.⭕
+⚡ Példa-1: "Helyismeret: Shadlek (3)"
+
+⚡ Példa-2: "Helyismeret: Shadlek (2), "Helyismeret: Gianag (1)"
+
+Kalandozásai során a karakter számos helyre elvetődik.  Ha ott rászán időt a város tanulmányozására, akkor már ott is képes lesz Helyismeret-függő képzettségeit maximális hatékonysággal kiaknázni, büntetés nélküli próbákat dobni rá. Ez minden, Helyismeret ismeretet igénylő képzettségre igaz, viszont a Helyismereet igényük (fokban) eltérő.
+
+Hogy mely foka adja meg az adott városban a levonások nélküli használatot, az az adott képzettség leírásánál szerepel. A KM ezt - az adott szituációban - felülbírálhatja. 
+
+Ha nincs épp meg az adott szituációban a szükséges Helyismerethez tartozó **Helyismeret** Bónusz Háttér, akkor `+3`-al emelkednek az adott képzettség próbáinak nehézségei, amíg a karakter rá nem szánja a szükséges időt a kapcsolódó Kultúrkör Háttér megszerzésére.
+
+##### Próbák
+
+A **Helyismeret** Háttér egyes fokai írják le, hogy biztos tudásból milyen ismeretekkel bír a karakter. Tisztán **Helyismeretre** nem dobunk próbát. Kapcsolódó képzettségekre viszont dobhatunk.
+
 
 ---
 #### 🟣 Kobratánc
@@ -171,7 +196,7 @@ Kalandozásai során a karakter számos helyre elvetődik.  Ha ott rászán idő
 
 Hogy mely foka adja meg az adott kultúrkörben a levonások nélküli használatot, az az adott képzettség leírásánál szerepel. A KM ezt - az adott szituációban - felülbírálhatja. 
 
-Ha nincs épp meg az adott szituációban a szükséges kultúrkörhöz tartozó Bónusz Háttér, akkor `+3`-al emelkednek az adott képzettség próbáinak nehézségei, amíg a karakter rá nem szánja a szükséges időt a kapcsolódó Kultúrkör Háttér megszerzésére.
+Ha nincs épp meg az adott szituációban a szükséges kultúrkörhöz tartozó **Kultúrkör** Bónusz Háttér, akkor `+3`-al emelkednek az adott képzettség próbáinak nehézségei, amíg a karakter rá nem szánja a szükséges időt a kapcsolódó Kultúrkör Háttér megszerzésére.
 
 ##### Kultúrkör lista
 - toroni
