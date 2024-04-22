@@ -250,13 +250,11 @@ Abban, hogy a karakter aktuális sebesülési állapotában milyen ütemben vesz
 ---
 ### Védő Érték regenerálódása
 
-```diff
-Kitéve a Megoldandók doksiba:
-- ⭕TODO_HARC_#60.
-- ⭕TODO: az egyszerűbb (1 kör nyugi) lesz valszeg, de az edzettséget is bele kéne venni!
-```
+A karakternek minimum `1 kör`, zavartalan, nyugodt testi ÉS szellemi pihenésre van szüksége, hogy visszanyerje Védő Értékét.
 
-**Győzelmi szabály**: Ha a karakter végzett egy ellenfelével (úgy hiszi, legyőzte), akkor **Védő Értékéhez** visszatér `+10 pont` (a siker hatása a szervezetre + heroizmus).
+Ha például üldözik és ő megbújik egy kis beugróban, akkor Védő Értéke NEM regenerálódik, mert bármikor rajtaüthetnek, nem engedhet ki, figyelme továbbra is ki van hegyezve.
+
+**Győzelmi szabály**: Ha a karakter végzett egy nagyjából hasonló tudású, vagy erősebb ellenfelével (úgy hiszi, legyőzte), akkor **Védő Értékéhez** visszatér `+10 pont` (a siker hatása a szervezetre + heroizmus).
 
 ---
 ### Zuhanás, megégés, zúzódás, varázslatok sebzése
