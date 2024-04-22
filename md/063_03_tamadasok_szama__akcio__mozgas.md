@@ -88,17 +88,17 @@ Látható, hogy az apró, egyszerű, kis változtató erejű mágiákból többe
 ### Varázskeret csökkentése varázsláskor
 ```
 Varázskeret = Varázskeret - "Formula Sebesség"
+
+Következő körbe átcsúszó varázslatot csak a kör elején lehet megkezdeni!
 ```
 
-Kör elején azt kell megvizsgálni, hogy a `"Formula-Sebesség"` eléri -e a **Varázskeretet**.
+A **Varázskeret** minden kör elején eredeti értékére "töltődik vissza".
 
-Ha egyenlő, vagy alatta van, akkor az aktuális  `„Formula-Sebesség”` értékét levonjuk a **Varázskeretből**. A karakter a maradék keretből gazdálkodhat még a kör hátralevő részében.
+Kör elején azt kell megvizsgálni, hogy a **"Formula-Sebesség"** eléri -e a **Varázskeretet**.
 
-Ha felette van, akkor ebben a körben már nem lesz több befejezett mágia, a varázslat "átcsúszik" a következő körre és rögtön annyival csökkenti a következő kör **Varázskeretét**, amennyivel alatta volt.
+`1.` Ha egyenlő, vagy alatta van, akkor az aktuális **"Formula-Sebesség"** értékét levonjuk a **Varázskeretből**. A karakter a maradék keretből gazdálkodhat még a kör hátralevő részében.
 
-**Következő körbe átcsúszó varázslatot csak a kör elején lehet megkezdeni!**
-
-A **Varázskeret** minden kör elején eredeti értékére "töltődik vissza" - kivéve az átcsúszó varázslatok esetén.
+`2.` Ha felette van, akkor a kört teljes egészében varázslással tölti a mágiatudó, a varázslat "átcsúszik" a következő körre és rögtön annyival csökkenti a következő kör **Varázskeretét**, amennyivel alatta volt.
 
 Egy nagy, hosszú varázslat akár sok körön át is "csúszhat", ez idő alatt a varázstudó mozdulatlanul állhat, vagy legfeljebb lassú, egyenletes sétát végezhet.
 
