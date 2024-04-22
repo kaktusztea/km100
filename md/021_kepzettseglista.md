@@ -177,6 +177,8 @@ Festészet + (Pszeudó tul.) + k10   vs   Célszám
 
 🔴[Mechanika](kepzettsegek/mechanika.md) <sup><sub>(5%)</sub></sup>
 
+🔴[Méregkeverés](kepzettsegek/meregkeveres.md) <sup><sub>(90%)</sub></sup>
+
 🔵[Műveltség](kepzettsegek/muveltseg.md)  <sup><sub>(50%)</sub></sup>
 
 🔵[Ősi kultúrák ismerete](kepzettsegek/osi_kulturak_ismerete.md) (Külön ősi kultúránként) (Történem és Vallásismeret is egyben) <sup><sub>(25%)</sub></sup> 🔁
@@ -191,11 +193,9 @@ Festészet + (Pszeudó tul.) + k10   vs   Célszám
 
 🔵[Történelemismeret - adott régió](kepzettsegek/tortenelemismeret.md) <sup><sub>(40%)</sub></sup> 🔁
 
+🔵[Vallásismeret](kepzettsegek/vallasismeret.md) <sup><sub>(10%)</sub></sup> (adott pantheon) 🔁
 
 
- 🔵[Vallásismeret](kepzettsegek/vallasismeret.md) <sup><sub>(10%)</sub></sup> (adott pantheon) 🔁
-
-🔴[Méregkeverés](kepzettsegek/meregkeveres.md) <sup><sub>(90%)</sub></sup>
 
 ## Misztikus képzettségek
 
