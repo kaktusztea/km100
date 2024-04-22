@@ -191,7 +191,7 @@ Festészet + (Pszeudó tul.) + k10   vs   Célszám
 
 🔵[Térképészet](kepzettsegek/terkepeszet.md) <sup><sub>(0%)</sub></sup>
 
-🔵[Történelemismeret - adott régió](kepzettsegek/tortenelemismeret.md) <sup><sub>(40%)</sub></sup> 🔁
+🔴[Történelemismeret](kepzettsegek/tortenelemismeret.md) <sup><sub>(40%)</sub></sup> 
 
 🔵[Vallásismeret](kepzettsegek/vallasismeret.md) <sup><sub>(10%)</sub></sup> (adott pantheon) 🔁
 
