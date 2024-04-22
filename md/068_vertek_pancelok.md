@@ -111,15 +111,23 @@ A különböző fém ötvözetek alapanyagai változtathatnak az SFÉ értékeke
 ### Mozgásgátló Tényező (MGT)
 
 ```
-→ Σ MGT = Alap MGT - (Erő x 2) + Csatolt MGT
+→ Σ MGT = Alap MGT + Csatolt MGT - (Erő x 2)
+
 → 1 MGT → -0,5 KÉ, -1 TÉ,VÉ
+  → MGT értékét csökkenti a Vértviselet fortély (lásd ott)
+
 → 1 MGT → -1/5 mozgást igénylő képzettségpróbákra (lefele kerekítve)
-→ Tulajdonságpróbákra alapból nem jár büntetés, de helyzet-függően a KM adhat
+  → MGT értékét NEM csökkenti a Vértviselet fortély!
+
+→ Tulajdonságpróbákra alapból nem jár MGT-ből származó büntetés,
+  de helyzet-függően a KM adhat
 ```
 
-Harc és mozgás során a vértek, egyes pajzsok, valamint a felszerelés egyes elemei korlátozhatják a karaktereket. Ennek szimulálására van a Mozgásgátló Tényező – röviden **MGT**. A fenti vérteknek, pajzsoknak és egyes fegyvereknek van MGT értéke. Alapesetben a páncél Struktúráknál leírt MGT alapértékekhez hozzáadjuk a kategória- és minőségfüggő értékeket kapcsolt darabonként, beleértve a torzót védő mellvértet is.
+Harc és mozgás során a vértek, egyes pajzsok, valamint a felszerelés egyes elemei korlátozhatják a karaktereket. Ennek szimulálására van a Mozgásgátló Tényező – röviden **MGT**.
 
-KM dönt, de például kézügyességet érintő **Ügyességpróbára** nyilván nem jár levonás, ha nincs páncélkesztyűben a játékos.
+A fenti vérteknek, pajzsoknak és egyes fegyvereknek van MGT értéke. Alapesetben a páncél Struktúráknál leírt MGT alapértékekhez hozzáadjuk a Fémealapanyag (ha van), majd a Kidolgozottság-függő értékeket kapcsolt darabonként, beleértve a torzót védő mellvértet is.
+
+A Képzettségpróbák és Tulajdonságpróbák esetében a fent leírtak az irányadóak, de helyzettől függően a KM dönthet úgy, hogy az MGT adjon büntetést bizonyos próbáknál, míg másoknál ne.
 
 ---
 #### Alap (mellvért) MGT
