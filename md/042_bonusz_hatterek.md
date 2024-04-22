@@ -18,7 +18,7 @@ Tartalomjegyzék
 - [Harci láz 3](#-harci-l%C3%A1z-3)
 - [Helyismeret](#-helyismeret-v%C3%A1rosnyi-ter%C3%BClet-3)
 - [Kobratánc](#-kobrat%C3%A1nc)
-- [Kultúrkör](#-kult%C3%BArk%C3%B6r)
+- [Kultúrkör](#-kult%C3%BArk%C3%B6r-3)
 - [Lénylovas](#-l%C3%A9nylovas-faj-neve)
 - [Tánc: speciális/belső stílus](#t%C3%A1nc-speci%C3%A1lisbels%C5%91-st%C3%ADlus)
 - [Tapadás](#-tapad%C3%A1s)
@@ -134,9 +134,10 @@ Legendás és rettegett gorviki fejvadász stílus, amely jellemzően végtagoka
 <br />
 
 ---
-#### 🟣 Kultúrkör (3)
+#### 🟣 Kultúrkör (adott kultúrkör) (3)
 
 ```
+- többször felvehető
 - 3 fokú
 - 3 pont osztható el 1.szinten
 - Kaland végén kaphatóak újabb pontok ingyen, a KM-től
@@ -144,14 +145,13 @@ Legendás és rettegett gorviki fejvadász stílus, amely jellemzően végtagoka
 ⚡ Példa: "Kultúrkör: Toron (2), "Kultúrkör: Pyarron (1)"
 ```
 
-##### 1.fok
-Egy hetet eltöltöttél egy, vagy több olyan helyen, ahol aktív kapcsolatban voltál az adott kultúrkörrel
-##### 2.fok
-Legalább 1 évet eltöltöttél az adott kultúrkörben, vagy megállás nélkül azt tanulmányoztad otthonodban. Itt a KM adhat kedvezményt.
-##### 3.fok
-Az adott kultúrkörben születtél és nőttél fel, vagy az utolsó 10 évedet ebben a kultúrában töltötted.
+`1.fok`: Egy hetet eltöltöttél egy, vagy több olyan helyen, ahol aktív kapcsolatban voltál az adott kultúrkörrel
+`2.fok`:  Legalább 1 évet eltöltöttél az adott kultúrkörben, vagy megállás nélkül azt tanulmányoztad otthonodban. Itt a KM adhat kedvezményt.
+`3.fok`:  Az adott kultúrkörben születtél és nőttél fel, vagy az utolsó 10 évedet ebben a kultúrában töltötted.
 
-A karakter a képzettség felvételekor kap 3 pontot, amit eloszthat Kultúrkör Hátterei között. Lehet, hogy csak 1 adott Kultúrkört ismer 3. fokon, de lehet akár 1-1-1 is, ha soha nem töltött huzamosabb időt életében egy kultúrában.
+A karakter a képzettség felvételekor kap `3` pontot, amit eloszthat **Kultúrkör** Hátterei között. Lehet, hogy csak 1 adott Kultúrkört ismer `3. fokon`, de lehet akár `1-1-1` is, ha soha nem töltött huzamosabb időt életében egy kultúrában.
+
+Egy-egy kaland végén a KM - ha úgy gondolja - adhat `1` pontot a karakternek az adott kultúrára, ahol a játék zajlott, attól függően, hogy a `3` fokú skálán véleménye szerint hol helyezkedik el. Lásd a fokok követelményeit fenn!
 ##### Leírás
 Mi tartozik bele ebbe az ismeretbe? Az adott kultúrkörön belül a(z)...
 - zenék
@@ -173,13 +173,21 @@ Hogy mely foka adja meg az adott kultúrkörben a levonások nélküli használa
 
 Ha nincs épp meg az adott szituációban a szükséges kultúrkörhöz tartozó Bónusz Háttér, akkor `+3`-al emelkednek az adott képzettség próbáinak nehézségei, amíg a karakter rá nem szánja a szükséges időt a kapcsolódó Kultúrkör Háttér megszerzésére.
 
-```
-Kultúrkör-függő Képzettségek:
-  - Etikett
-  - Műveltség
-  - Történelemismeret
-  - Vallásismeret
-```
+##### Kultúrkör lista
+- toroni
+- pyarroni
+- shadoni
+- kráni
+- ibarai
+- törpe
+- elf
+- ⭕TODO⭕
+
+##### Kultúrkör-függő Képzettségek
+- [Etikett](etikett.md)
+- [Műveltség](muveltseg.md)
+- [Történelemismeret](tortenelemismeret.md)
+- [Vallásismeret](vallasismeret.md)
 
 
 ---
@@ -201,6 +209,10 @@ A Háttér többször felvehető - minden "bejáratott" hátas fajhoz külön.
 
 Többször felvehető. Ez általában egyedi, titkos, vagy nagyon speciális táncot takar, mint például a **Toroni Vérnász**. Magától értetődik, hogy speciális/belső táncstílus tanulásához megfelelő előtörténeti kapcsolat, vagy komoly indoklás szükséges, melyre a KM is rábólint.
 
+##### Követelmény
+- Kultúrkör: (adott kultúrkör) (3)
+- Műveltség - `9.szint`
+
 <br />
 
 ---
@@ -215,6 +227,6 @@ Titkos, félmágikus ismeret.
 
 ##### Hatás a képzettség adott szintjén
 
-15.szint: Képes vagy pókként megtapadni a falon – akár a mennyezeten is. A kapaszkodáshoz nincs szükséged kiszögelésre.
+`15.szint`: Képes vagy pókként megtapadni a falon – akár a mennyezeten is. A kapaszkodáshoz nincs szükséged kiszögelésre.
 
 <br />

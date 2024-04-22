@@ -44,20 +44,3 @@ Különlegesen kifinomult a tapintásod, ez lehet áldás és átok is.
 <!-- tag: nuansz__hatter -->
 
 Jól bánsz az ecsettel, kedvtelésből, vagy önkifejezés céljából vetsz vászonra színes műveket.
-
----
-#### Művészetismeret - adott művészet(régió)
-
-<!-- tag: nuansz__hatter -->
-
-Ismered egy adott régió egy adott művészeti életét, alkotásait. Az alábbi művészeti ágakból mehetsz fel ismeretet:
-
-- Festészet
-- Kalligráfia
-- Szobrászat
-- Irodalom
-- Színjátszás
-- Zene
-
-⚡Példa: "Művészetismeret - Festészet (Északi Szövetség)"\
-🔆Korlát : legfeljebb annyi ilyen Hátteret vehetsz fel, amennyi az ⚪**Érzékenység** Tulajdonságod.
