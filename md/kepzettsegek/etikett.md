@@ -15,9 +15,8 @@ A képzettség három különböző jellegben vehető fel (akár mind a három k
 
 Természetesen nem mindegy, melyik kultúrkörben kell a társasági kihívásokat teljesíteni, de az alapismeret és a gyors tanulás képessége mindegyik képzettség jelleg alapvető része. Például egy "Etikett (Udvari): `9.szint`"-el rendelkező pyarroni nemes pár nap alatt képes megtanulni a toroni udvari Etikett szabályait, mert már megvan a mentális "váz", amire csak fel kell "aggatnia" az új tudást. Ezt a  [Kultúrkör](../042_bonusz_hatterek.md#-kult%C3%BArk%C3%B6r) Bónusz háttér rendszerén keresztül szimuláljuk.
 
-
 ##### Kultúrkör Bónusz Hátterek
-Ha a karakter rendelkezik az épp a helyszínen található kultúrkört lefedő [Kultúrkör](../042_bonusz_hatterek.md#-kult%C3%BArk%C3%B6r) Bónusz háttérrel, akkor képes a kapcsolódó Etikett képzettségét ott büntetések nélkül alkalmazni. Ha nem, akkor csak az ott leírt nehezítéssel tudja a képzettséget alkalmazni.
+Ha a karakter rendelkezik az épp a helyszínen található kultúrkört lefedő [Kultúrkör](../042_bonusz_hatterek.md#-kult%C3%BArk%C3%B6r)  (`1.fok`) Bónusz háttérrel, akkor képes a kapcsolódó Etikett képzettségét ott büntetések nélkül alkalmazni. Ha nem, akkor csak az ott leírt nehezítéssel tudja a képzettséget alkalmazni.
 
 Bővebben lásd a  **Kultúrkör** Bónusz háttér leírását.
 
@@ -44,9 +43,9 @@ Például egy "Etikett (Polgári): 9. szint" beszámítható "Etikett (Udvari): 
 
 | Célszám              | Példa                                                                                                                                                                     |
 | -------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Könnyű       (6)     | Forma szerint bejelenteni a nemesi párt.                                                                                                                                  |
-| Átlagos      (9)     | Forma szerint bejelenteni az ellenséges országból érkező követeket, pár mondatos bájcsevegést folytatni velük.                                                            |
-| Nehéz        (12)    | Saját kultúrán belül mindenkivel rangjához illő formulákkal, szófordulatokat kommunikálni a teljes könnyedség látszatával, véletlen sértések elkerülésével.               |
+| Könnyű (6)           | Forma szerint bejelenteni a nemesi párt.                                                                                                                                  |
+| Átlagos (9)          | Forma szerint bejelenteni az ellenséges országból érkező követeket, pár mondatos bájcsevegést folytatni velük.                                                            |
+| Nehéz (12)           | Saját kultúrán belül mindenkivel rangjához illő formulákkal, szófordulatokat kommunikálni a teljes könnyedség látszatával, véletlen sértések elkerülésével.               |
 | Nagyon nehéz (15)    | Idegen kultúrába csöppenve elkerülni a sértéseket. Nemesi bálon hárítani a szóbeli rejtett  támadásokat. Szándékos párbaj provokációt presztízsveszteség nélkül hárítani. |
 | Rendkívül nehéz (18) | Toroni vérnászt megnyerni. Több toroni dáma együttes támadását látszólag könnyedén hárítani.                                                                              |
 | Emberfeletti (21)    | Egy toroni nemesnek - kiről egy napja nyílt titok, hogy lebukott ereni ügynök -, túlélnie egy toroni vérnászt és az egész nemesi bált, sőt még a párbajra hívást is.      |
@@ -56,3 +55,4 @@ Például egy "Etikett (Polgári): 9. szint" beszámítható "Etikett (Udvari): 
 ##### Célszámot módosító körülmények
 
 - Bódult, részeg állapotban: `+[1-6]`
+- Nehézség büntetés, ha nincs kapcsolódó [Kultúrkör](../042_bonusz_hatterek.md#-kult%C3%BArk%C3%B6r) Bónusz Háttér `1.fokon`.
