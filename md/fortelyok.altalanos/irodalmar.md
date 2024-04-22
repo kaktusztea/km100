@@ -1,6 +1,6 @@
 #### 🟣 Irodalmár (1)
 
-Kapcsolódó képzettség: [Irodalom ismeret](../kepzettsegek/irodalom_ismeret.md)
+Kapcsolódó képzettség: [Műveltség](../kepzettsegek/muveltseg.md)
 
 |       | Követelmény                                                                                                                                                                                                                    | Hatás                                                                                                                              |
 | :---- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------- |
@@ -9,6 +9,6 @@ Kapcsolódó képzettség: [Irodalom ismeret](../kepzettsegek/irodalom_ismeret.m
 
 **Megjegyzések**
 
-- Csak egyszer kell felvenni, utána minden `6.szintet` elért **Irodalom ismeret** képzettséggel használható.
+- Csak egyszer kell felvenni, utána minden `2.fokot` meghaladó **Kultúrkör** alatt használható.
 
 ---
