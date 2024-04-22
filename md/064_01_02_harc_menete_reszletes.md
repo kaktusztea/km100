@@ -19,7 +19,7 @@ Egyes rendszerek külön szabályozzák, hogy egyes cselekedetek, például var�
 
 Pár irányelv, amit a KM alkalmazhat:
 - a cselekedet miatt x db támadását elveszíti
-- csökkentett Védő Értékkel harcol;
+- csökkentett Védő Értékkel harcol
 - kizárólag mozgásból adódó VÉ-vel rendelkezik (pl. sokkos állapotban botorkálás védekezés nélkül). Stb...
 
 ---
