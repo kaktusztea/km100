@@ -1,6 +1,6 @@
-#### 🔵 Történelemismeret - adott régió
+#### 🔴 Történelemismeret
 
-Többször (9x) felvehető képzettség. Magába foglalja a legendák ismeretét is.
+Általános ismeret, magába foglalja a legendák ismeretét is.
 
 **Próba:** dobható
 
@@ -8,9 +8,12 @@ Többször (9x) felvehető képzettség. Magába foglalja a legendák ismeretét
 
 **Kapcsolódó fortélyok**: -
 
-**Bónusz-Háttér**: ⭕
+**Bónusz-Háttér *
 
-**Leírás**: Válassz egy régiót, amelynek történelmében elmélyedni szándékozol. Alacsonyabb szinten a hetedkori Ynev általános történelmét ismered, magasabb szinten fellebbennek a titkok a régebbi korok titkairól is.
+##### Követelmények
+-  [Kultúrkör](../042_bonusz_hatterek.md#-kult%C3%BArk%C3%B6r-3): Az Alapeset, ha a próbát érintő **Kultúrkör** Háttér legalább `2.fokon` megvan. Amennyiben nincs meg, vagy ez alatti, akkor a próba **Nehézsége** `+3` ponttal emelkedik.
+
+**Leírás**: Alacsonyabb szinten a hetedkori Ynev általános történelmét ismered, magasabb szinten fellebbennek a titkok a régebbi korok titkairól is.
 
 **ÉSZAKON**:
 
@@ -39,7 +42,7 @@ Többször (9x) felvehető képzettség. Magába foglalja a legendák ismeretét
 | Élő legenda (15) | ⭕xyz <br /> **Példa**: x                                                           |             |
 ##### Bónusz-Hátterek
 
-9. szint: ⭕TODO⭕; Hatodkori történelem
+9. szint: ⭕TODO⭕; Hatodkori történelem ismerete
 12. szint: Ötödkori történelem; Postcognition álmok (látja a valós régmúlt eseményeit álmában)
 15. szint: Negyedkori történelem; Jósolni képes történelmi/társadalmi mértékben
 
