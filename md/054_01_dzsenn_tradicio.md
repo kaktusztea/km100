@@ -3,10 +3,8 @@
 ⚜️ [Nyitóoldal](start.md)
 
 ```
-- Mentálmágia (mint spec képesség) == Dzsenn tradíció szintje
+- Mentálmágia (mint spec képesség) == (Dzsenn tradíció szintje) - 8
 - Magasmágia == Dzsenn tradíció szintje ⭕EZ NAGYON TÁP. KÜLÖN KELLJEN INKÁBB FELVENNI⭕
-- 1 Od / minden 3. Dzsenn tradíció szint után ⭕EZ IS NAGYON TÁP⭕
-  (Hatalomszavak csak "Ősi nyelv ismerete - 9.szint"-től kezdve)
 ```
 
 Követelmények:
@@ -36,11 +34,11 @@ Továbbá minden Arkánumot rendesen tanulnia kell - a Mentálmágiát nem kell 
 ### Egyedi Dzsenn diszciplínák
 
 #### Agytörlés
+⭕Ez szerintem Hatalomszó! Lásd Summarium példatörténet. NE lehessen felvenni⭕
 Dzsenn tradíció szintek (biztos tudás (⭕vagy próba legyen?)):
 - 6.szint - alapkövetelmény, max a mai nap emlékeinek törlése, 50% esély, hogy visszatérnek
 - 9.szint - max 2 hét törlése, 30% esély, hogy visszatérnek
 - 12.szint - max 1 év törlése, 10% esély, hogy visszatérnek
 - 15.szint - max minden emlék végleges törlése, nem térnek vissza soha
-
 
 ⭕TODO: átnézni⭕
