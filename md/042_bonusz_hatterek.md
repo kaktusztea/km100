@@ -174,8 +174,8 @@ Kapcsolódó Képzettség-próba:
 
 ```
 
-`1.fok`: Egy hetet eltöltöttél egy, vagy több olyan helyen, ahol aktív kapcsolatban voltál az adott kultúrkörrel
-`2.fok`:  Legalább 1 évet eltöltöttél az adott kultúrkörben, vagy megállás nélkül azt tanulmányoztad otthonodban. Itt a KM adhat kedvezményt.
+`1.fok`: Egy hetet eltöltöttél egy, vagy több olyan helyen, ahol aktív kapcsolatban voltál az adott kultúrkörrel\
+`2.fok`:  Legalább 1 évet eltöltöttél az adott kultúrkörben, vagy megállás nélkül azt tanulmányoztad otthonodban. Itt a KM adhat kedvezményt.\
 `3.fok`:  Az adott kultúrkörben születtél és nőttél fel, vagy az utolsó 10 évedet ebben a kultúrában töltötted.
 
 A karakter a képzettség felvételekor kap `3` pontot, amit eloszthat **Kultúrkör** Hátterei között. Lehet, hogy csak 1 adott Kultúrkört ismer `3. fokon`, de lehet akár `1-1-1` is, ha soha nem töltött huzamosabb időt életében egy kultúrában.
