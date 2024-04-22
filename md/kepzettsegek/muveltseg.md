@@ -18,7 +18,7 @@
 
 **Követelmény**:
   - [Kultúrkör](../042_bonusz_hatterek.md#-kult%C3%BArk%C3%B6r-3) (adott kultúra) - `2.fok` - enélkül `+3` nehezítés a képzettségpróbákra
-  - [Nyelvismeret](nyelvismeret.md) szintje felső limitet von. Ha magasabb is a Kultúra szintje, a próbában az adott művészeti körben használt nyelvre vonatkozó Nyelvisemeret szintjére dobunk.
+  - [Nyelvismeret](nyelvismeret.md) szintje felső limitet von. Ha magasabb a **Műveltség** szintje, mint az adott művészeti körben használt Nyelv ismerete, akkor a próbában a **Nyelvismeret** szintjével dobunk.
 
 **Összhagok:**
 - [Történelemismeret](tortenelemismeret.md) (Erős összhang)
