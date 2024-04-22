@@ -134,20 +134,51 @@ Legendás és rettegett gorviki fejvadász stílus, amely jellemzően végtagoka
 <br />
 
 ---
-#### 🟣 Kultúrkör
+#### 🟣 Kultúrkör (3)
 
 ```
-⚡ Példa: "Kultúrkör: Toron"
+- 3 fokú
+- 3 pont osztható el 1.szinten
+- Kaland végén kaphatóak újabb pontok ingyen, a KM-től
+
+⚡ Példa: "Kultúrkör: Toron (2), "Kultúrkör: Pyarron (1)"
 ```
 
-A karakter a képzettség felvételekor megkapja saját kultúrkörét mint Bónusz Hátteret.
+##### 1.fok
+Egy hetet eltöltöttél egy, vagy több olyan helyen, ahol aktív kapcsolatban voltál az adott kultúrkörrel
+##### 2.fok
+Legalább 1 évet eltöltöttél az adott kultúrkörben, vagy megállás nélkül azt tanulmányoztad otthonodban. Itt a KM adhat kedvezményt.
+##### 3.fok
+Az adott kultúrkörben születtél és nőttél fel, vagy az utolsó 10 évedet ebben a kultúrában töltötted.
 
-Kalandozásai során a karakter számos helyre elvetődik. Ha ott rászán pár napot az adott kultúra tanulmányozására, akkor már ott is képes lesz Kultúrkör-függő képzettségeit maximális hatékonysággal kiaknázni, próbákat dobni rá. Ez minden, kultúrköri ismeretet igénylő képzettségre igaz. Hogy mennyi idő szükséges ennek aktív megszerzésére (napok, hetek), azt a KM határozza meg. A játékosnak jeleznie kell, hogy aktívan tanulmányozza az adott kultúrkört (könyvtár, bálok, kocsmák, stb. látogatása, helyi kapcsolatrendszer kiépítése).
+A karakter a képzettség felvételekor kap 3 pontot, amit eloszthat Kultúrkör Hátterei között. Lehet, hogy csak 1 adott Kultúrkört ismer 3. fokon, de lehet akár 1-1-1 is, ha soha nem töltött huzamosabb időt életében egy kultúrában.
+##### Leírás
+Mi tartozik bele ebbe az ismeretbe? Az adott kultúrkörön belül a(z)...
+- zenék
+- ételek
+- szokások
+- népszokások
+- ünnepek
+- szleng
+- hírességek
+- alkudozás kultúrája
+
+⚡Példa-1: szakállas törpe nőket hogyan különböztessünk meg?
+
+⚡Példa-2: mikor van az éves Ocsánysimogató ünnep és mit kell olyankor csinálni?
+
+Kalandozásai során a karakter számos helyre elvetődik.  Ha ott rászán időt az helyi kultúra tanulmányozására, akkor már ott is képes lesz Kultúrkör-függő képzettségeit maximális hatékonysággal kiaknázni, büntetés nélküli próbákat dobni rá. Ez minden, kultúrköri ismeretet igénylő képzettségre igaz, viszont a Kultúrkör igényük (fokban) eltérő.
+
+Hogy mely foka adja meg az adott kultúrkörben a levonások nélküli használatot, az az adott képzettség leírásánál szerepel. A KM ezt - az adott szituációban - felülbírálhatja. 
 
 Ha nincs épp meg az adott szituációban a szükséges kultúrkörhöz tartozó Bónusz Háttér, akkor `+3`-al emelkednek az adott képzettség próbáinak nehézségei, amíg a karakter rá nem szánja a szükséges időt a kapcsolódó Kultúrkör Háttér megszerzésére.
 
 ```
-⚡ Képzettség példa: Etikett
+Kultúrkör-függő Képzettségek:
+  - Etikett
+  - Műveltség
+  - Történelemismeret
+  - Vallásismeret
 ```
 
 
