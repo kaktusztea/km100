@@ -1,8 +1,8 @@
 #### 🟢 Nyelvismeret (adott nyelv)
 
-Beszélt nyelvek, Harci/Klán nyelvek, Speciális (Pl. ide tartozik a Kendőnyelv ismerete is.
+Beszélt nyelvek, Harci/Klán nyelvek, Speciális nyelvek, például ide tartozik a Kendőnyelv ismerete is.
 
--  3-as szinttől, (ha van már [Írástudó](../fortelyok.altalanos/irastudo.md)  fortélya), akkor tud írni/olvasni is az adott nyelven.
-- _6. fok: Anyanyelvi szint
-- _9. fok: Udvari társalgási szint, szónoki nyelvhasználat szintje. Több dialektust ismer.
-- _12. fok és felette: tolmácsok, szinkrontolmácsok, műfordítók. Az Irodalom képzettség szintjétől függően minőségben az adott nyelvre képes verseket, balladákat is lefordítani.
+- `3.szinttől`: ha van már [Írástudó](../fortelyok.altalanos/irastudo.md) fortélyod, akkor tudsz írni/olvasni is az adott nyelven.
+- `6. szint`: Anyanyelvi szint
+- `9. szint`: Udvari társalgási szint, szónoki nyelvhasználat szintje. Több dialektust ismer.
+- `12. szint`: tolmácsok, szinkrontolmácsok, műfordítók. Az [Műveltség](muveszet.md) képzettség szintjétől függően minőségben az adott nyelvre képes verseket, balladákat is lefordítani.
