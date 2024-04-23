@@ -1,4 +1,4 @@
-#### 🔵Műveltség
+#### 🔵 Műveltség
 
 **Próba:** dobható
 
