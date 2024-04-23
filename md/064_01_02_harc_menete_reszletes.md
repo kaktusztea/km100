@@ -3,6 +3,8 @@
 
 A fentiekben kifejtettük az egyes harcértékek kiszámításának módját. Most lássuk, a fentieket hogyan alkalmazza a harcos, mikor küzdelemre kerül sor.
 
+A számolás jelentős része karakteralkotáskor történik, így a játékmenet kellően gyors marad.
+
 ---
 ### Harci kör
 
@@ -132,7 +134,7 @@ SP = k20 + Fegyver-sebzés + módosítók – (aktuális SFÉ)
 
 | **SP** | **ÉP Sebzés** | **VÉ csökkentés** |
 | :----: | :-----------: | :---------------: |
-|  ..-5  |     1 ÉP      |       -5 VÉ       |
+|  0-5   |     1 ÉP      |       -5 VÉ       |
 |  6-10  |     3 ÉP      |      -10 VÉ       |
 | 11-15  |     6 ÉP      |      -15 VÉ       |
 | 16-20  |     10 ÉP     |      -20 VÉ       |
@@ -153,11 +155,7 @@ A védő levonja a számból a támadás típusának (pl. szúrás) megfelelő S
 
 Sebzés esetén nincs kis/nagykocka VÉ csökkentés, csak a táblázatban levő érték!
 
-```diff
-- ⭕ Ha levédi a páncél az SP-t, akkor nincs VÉ csökkenés, míg ha nincs sebzés, akkor van... Erre kitalálni valami nem bonyolított megoldást.⭕
-```
-
-A számolás jelentős része karakteralkotáskor történik, így a játékmenet kellően gyors marad.
+Ha a SP érték a páncél SFÉ levonása után `0`-ra csökken, a VÉ csökkentés akkor is fixen `-5`.
 
 ---
 #### Harcérték csökkenés
