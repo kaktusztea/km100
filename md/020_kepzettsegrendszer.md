@@ -141,11 +141,13 @@ Bizonyos képzettségeket csak biztos tudásból lehet megpróbálni, nincs lehe
 ---
 ### Próba képzetlenül
 
-Ha a karakter egyáltalán nem jártas az adott képzettségben (vonatkozó értéke nulla), akkor -- ha a képzettség leírásánál engedélyezett a képzetlen dobás -- ugyanúgy próbát dob, mint bárki, de a `célszám 3-al emelkedik`. Egyes képzettségek esetén képzetlenség esetén **nem jár** a 3-as, célszám emelő büntetés. Ilyenek tipikusan az alapvető fizikai képzettségek (`mászás, akrobatika`), valamint az olyanok, melyeket minden ember tud legalább minimális szinten, még ha soha nem is foglalkozott vele.
+```
+→ +3 a próba nehézségére
+→ Fizikai képzettségeknél nincs büntetés
+```
+Ha a karakter egyáltalán nem jártas az adott képzettségben (vonatkozó értéke nulla), akkor - ha a képzettség leírásánál engedélyezett a képzetlen dobás - ugyanúgy próbát dob, mint bárki, de a **célszám `3`-al emelkedik**. Fizikai képzettségeknél **nem jár** a `3`-as, célszám emelő büntetés.
 
-Hogy mely képzettségek esetén lehet képzetlenül is próbát tenni, azt az összefoglaló táblázatban találod. Ha az adott képzettséget nem lehet képzetlenül megpróbálni, akkor a KM egyszerűen megtagadja a próbát, automatikusan sikertelennek véve azt.
-
-⭕ PROB_KEPZETTSEGEK\_#11. (összhang) ⭕
+Ha az adott képzettséget nem lehet képzetlenül megpróbálni, akkor a KM egyszerűen megtagadja a próbát, automatikusan sikertelennek véve azt.
 
 ---
 ### Összetett képzettségpróba, Másodlagos próbadobások
