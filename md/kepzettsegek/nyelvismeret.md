@@ -7,3 +7,6 @@ Beszélt nyelvek, Harci/Klán nyelvek, Speciális nyelvek, például ide tartozi
 - `9. szint`: Udvari társalgási szint, szónoki nyelvhasználat szintje. Több dialektust ismer.
 - `12. szint`: tolmácsok, szinkrontolmácsok, műfordítók. Az [Műveltség](muveltseg.md) képzettség szintjétől függően minőségben az adott nyelvre képes verseket, balladákat is lefordítani.
 
+##### Speciális
+
+A Nyelvismeret képzettségre nem vonatkozik a szint limit, akár már első szinten is felvehető akár `15. szinten` is.
