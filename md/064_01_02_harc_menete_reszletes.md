@@ -256,16 +256,12 @@ Ha például üldözik és ő megbújik egy kis beugróban, akkor Védő Érték
 
 ---
 ### Zuhanás, megégés, zúzódás, varázslatok sebzése
-```diff
-- ⭕TODO: Irányelvek kidolgozása: **PROB_HARC_#57.**
-```
+
+⭕TODO: [Irányelvek kidolgozása](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.harcrendszer#nem-harci-sebz%C5%91d%C3%A9sek)
 
 Természetesen nem csak fegyverek okozhatnak sérülést, hanem egy mágikus tűzgolyó, zuhanás a tetőről, stb. A mágikus hatások sebzéseit a [Mágia](090_magiarendszer.md) fejezetben tárgyaljuk, bővebben lásd ott.
 
-Zuhanás, zúzódás, egyéb fizikai sérülések esetén a KM meghatároz egy sebzés értéket ugyanúgy, akár egy fegyver esetében. Pl. `+5+K20`. Az **SFÉ** ilyen esetekben legtöbbször nem számít, vagy csak igen mérsékelten. Ha számít, akkor általában a **zúzó SFÉ** értéket használjuk, de KM dönt, mivel ahány eset annyiféle.
-
-Néhány irányelv:
-- ⭕TODO⭕
+Zuhanás, zúzódás, egyéb fizikai sérülések esetén a KM meghatároz egy sebzés értéket ugyanúgy, akár egy fegyver esetében. Pl. `K20+5`. Az **SFÉ** ilyen esetekben legtöbbször nem számít, vagy csak igen mérsékelten. Ha számít, akkor általában a **zúzó SFÉ** értéket használjuk, de KM dönt, mivel ahány eset annyiféle.
 
 ---
 
