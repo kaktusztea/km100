@@ -1,4 +1,6 @@
-###  Származás, jellem, küllem hátterek
+###  Leíró Hátterek
+
+Ide tartoznak a karakter Származását, Jellemét, Küllemét leíró Hátterek.
 
 <!-- tag: szarmazas__jellem__kullem__hatter -->
 
