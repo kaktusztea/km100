@@ -50,9 +50,11 @@ Az `1`-es a leggyengébb, a `10`-es a legerősebb mérgek jellemzője, de tartsu
 
 #### Plusz adag
 
-Ha a normális adagnál nagyobb mennyiséget használunk fel, megnőhet a méreg erőssége (KM dönt).\
-**Szabály**: **a méreg erősségét az adag növelésével legfeljebb ⭕duplájára⭕ növelhetjük!!**\
-⭕TODO: adag növelés és Erősség növekedés matematikai kapcsolata⭕
+Ha a normális adagnál kisebb, vagy nagyobb mennyiséget használunk fel, csökkenhet/megnőhet a méreg erőssége (KM dönt).
+
+**Erősség változása**:
+- Kis adag: Erősség `50%`-al csökken (lefele kerekítünk)
+- Nagy adag: Erősség: `50%`-al nő (lefele kerekítünk)
 
 Vegyük figyelembe viszont, hogy a hordozó közeg (levegő, fegyver pengéje, stb) legfeljebb mekkora adagot képes tárolni, valamint egyéb nehezítő körülményeket is: például az italméregben nagyobb mennyiségnél nagyon feltűnő lehet a megváltozott íz, stb.
 
@@ -69,13 +71,13 @@ Vegyük figyelembe viszont, hogy a hordozó közeg (levegő, fegyver pengéje, s
 - Most a legenyhébben van (1), de lehet, hogy nehezebb alvást előidézni, mint pl. bódulatot...?
 ````
 
-| Hatás max súlyossága | Érték  | Méregkeverés követelmény |
-| :----------- | :----------- | :----------- |
-| Enyhe rosszullét, hányás, alvás | ⭕1  | ⭕- |
-| Kábulat, Görcs | ⭕2  | ⭕- |
-| Bódulat, Részleges bénulás | ⭕3  | ⭕- |
-| Életveszély, Teljes bénulás | ⭕4  | ⭕- |
-| Halál | ⭕5  | ⭕- |
+| Hatás max súlyossága            | Érték |
+|:------------------------------- |:----- |
+| Enyhe rosszullét, hányás, alvás | ⭕1   |
+| Kábulat, Görcs                  | ⭕2   |
+| Bódulat, Részleges bénulás      | ⭕3   |
+| Életveszély, Teljes bénulás     | ⭕4   |
+| Halál                           | ⭕5   |
 
 #### Másodlagos hatás
 
@@ -139,9 +141,12 @@ Ez a tétel attól függ, hogy milyen típusú mérget szándékozik készíteni
 
 - Több komponensű: minden újabb komponensre bontás: `+2`
 - Több hordozó közeg (étel/ital, légnemű, véráramban ható): plusz hordozónként `+3`
-- Kis mennyiség: ha egészen kis mennyiség is elég 1 adaghoz: `+2`
+- Több hordozó közegből csak `1` amiben hatóanyag van, a többi természetes alapanyag: `+3`
+- Sűrű: ha egészen kis mennyiség is elég 1 adaghoz: `+2`
 - Színtelen: `+3`
 - Szagtalan/ízetlen: `+3` (egyben értendő)
+- Félrevezető tünetek: `+3/+6` (két lépcső lehetséges, ennyivel nő a méreg azonosítás nehézsége)
+- Szabadban sem eloszló légméreg: itt nincs nehézség módosító, hanem olyan fizikai közvetítő kell, ami ezt megoldja: egy labdacs, ami látványosan okádja a füstöt - folyamatos utánpótlást adva.
 
 <br />
 
@@ -156,7 +161,7 @@ Ez a tétel attól függ, hogy milyen típusú mérget szándékozik készíteni
 - Hatás max súlyossága: 1 (alvás)
 - Meddig áll el: +4 (1 nap folyadékban)
 - Hatóidő: +5 (azonnal)
-- 1 komponensű, 1 hordozó közeg, normál adag: +0
+- 1 komponensű, 1 hordozó közeg, nem-sűrű: +0
 ```
 
 ```
@@ -178,7 +183,7 @@ A méregellenállást `10` ellen (**méreg erőssége**) kell dobni, még egy ki
 - Hatás max súlyossága: 5 (halál)
 - Meddig áll el: +2 (10 percig a pengére locsolva)
 - Hatóidő: +4 (gyors (10 szegmens)
-- 1 komponensű, 1 hordozó közeg, normál adag: +0
+- 1 komponensű, 1 hordozó közeg, nem-sűrű: +0
 ```
 
 ```
@@ -200,25 +205,55 @@ Fontos, hogy amennyiben 10 percen belül nem kerül a pengéről véráramba, ak
 - Hatás max súlyossága: 5 (halál)
 - Meddig áll el: +6 (Örökké)
 - Hatóidő: +1 (fél nap múlva)
-- 4 komponensű, 2 hordozó közeg, normál adag: +6 +3 +0
+- 3 komponensű, 2 hordozó közeg (levegő, folyadék), nem-sűrű: +4 +3 +0
+- Csak 1 komponensben van hatóanyag, a többi természetes: +3
 - Szagtalan/ízetlen: +3
 ```
 
 ```
-Így a méreg szintje: 29
- → Minimum 15. szintű Méregkeverés képzettség szükséges!
+Így a méreg szintje: 30
+ → Minimum 15. szintű Méregkeverés képzettség szükséges 5-ös Tulajdonsággal!
 ```
 
 Ez már tényleg művészet. Ha a méregkeverő irodalommal foglalkozna ilyen szinten, ünnepelt poéta vagy dalnok lehetne. Ez meg is látszik a rendkívül magas szinten és a képzettség követelményen.
 
-⚜️ "Az öreg király rajongott az orchideákért. Tavaszra, nyárra és őszre is volt egy-egy különleges, ritka fajtája végtelen udvarának kertjében. Tavasszal leszakajtotta a legszebbet a narancsszínből, nyáron a bíborszínből, ősszel a kékből. Mindhárom hálószobáját díszítette.
+⚜️ "Az öreg király rajongott az orchideákért. Tavaszra és nyárra is volt egy-egy különleges, ritka fajtája végtelen udvarának kertjében. Tavasszal leszakajtotta a legszebbet a narancsszínből, nyáron a bíborszínből. Mindkettő hálószobáját díszítette.
 
-Az őszi virág leszakajtása után az uralkodó este elfogyasztotta bőséges vacsoráját és borral öblítette le, mint mindig. Álma békés volt, olyannyira, hogy reggel már fel sem ébredt... "Öreg volt, szépen ment el" - mondták a szolgálók. Ételét átvizsgálva az udvari vajákosok és a varázsló semmit nem találtak. "Eljött az ideje." - mondták ők is.
+A nyári virág leszakajtása után az uralkodó este elfogyasztotta bőséges vacsoráját és borral öblítette le, mint mindig. Álma békés volt, olyannyira, hogy reggel már fel sem ébredt... "Öreg volt, szépen ment el" - mondták a szolgálók. Ételét átvizsgálva az udvari vajákosok és a varázsló semmit nem találtak. "Eljött az ideje." - mondták ők is.
 
 Fia nem lévén, unokaöccse lépett helyébe, ki - úgy mondják - már nagyon türelmetlen volt. Asszott, vén tudósa Taba el Ibarából mindig mellette ólálkodott - azt mondják életelixírt készít a hercegnek..."
 
 <br />
 
-🔆 A fenti méreget `4` darab komponensre bontotta a déli vajákos: a király borába (ital hordozó) adagolta hetente egyszer az elmúlt 9 hónapban a szagtalan/ízetlen alapmérget, amely önmagában ártalmatlan, így nem is kimutatható, viszont stabilan felgyűlt a szervezetben. A maradék 3 komponens a 3 orchidea (légi hordozó) virágpora volt, melyet a király belélegzett - hisz mindet a hálószobájába tette. Az első kettő leszakajtása után még nem történt semmi, a hatáshoz mind a háromra (plusz a borban levő alapméregre) szükség volt.
+🔆 A fenti méreget `3` darab komponensre bontotta a déli vajákos: a király borába (ital hordozó) adagolta hetente egyszer az elmúlt 9 hónapban a szagtalan/ízetlen alapmérget, amely önmagában ártalmatlan, így nem is kimutatható, viszont stabilan felgyűlt a szervezetben. A maradék 2 komponens a 2 orchidea (légi hordozó) virágpora volt, melyet a király belélegzett - hisz mindet a hálószobájába tette. Az első leszakajtása után még nem történt semmi, a hatáshoz mind a kettőre (plusz a borban levő alapméregre) szükség volt.
 
 A hatást a vajákos eltolta fél nappal, hogy éjszaka jöjjön a vég, így a gyanú sem ébredt fel senkiben. Az Erősséget (`5`) bőven elégnek vélte - a király Egészsége (`-1`) már amúgy is igen gyenge lábakon állt.
+
+---
+## Méregérzékelés
+
+Kiszagolod -e a neked felszolgált borban a mérget, feltűnik -e szoba levegőjében terjengő kesernyés szag?
+
+Ha több a méregnek több hordozója van, mindegyikre külön próbá(k) dobható(ak) - kivéve ha az adott komponens természetes alapú (mondjuk sima virágpor, alapból nem is mérhező).
+
+**Méregkeverés próba**
+- Ez a próba csak akkor dobható (az Érzékenység tulajdonságpróba mellett), ha a karakter rendelkezik ezzel a képzettségel - legalább `3.szinten`.
+- Alap célszám: `xy` ⭕TODO⭕
+
+**Érzékenység tulajdonságpróba**
+- Alap célszám: `4` (átlagos)
+- Kis (fél) mennyiség: `+1`
+- Dupla mennyiség: `-1`
+- Sűrű: `+1` (azonos hatás, fele adagnál)
+- Színtelen: `+1`
+- Szagtalan: `+1`
+
+### Hány adag méreg készíthető?
+
+Ez az alapanyagok beszerezhetőségétől függ. Amennyiben megvan az **Alkímia+Vajákosság** követelmény és az alapanyagok nem rendkívül ritkák, vagy teljesen egyediek, akkor - az ésszerűség határait betartva - bármennyi adag készíthető.
+
+## Fajok különbözősége
+
+Alapesetben nem teszünk különbséget, a Méregkeverők tisztában vannak Ynev leggyakoribb elfszabású teremtményeinek méreggel szembeni tulajdonságaival.
+
+Amennyiben nem hagyományos, rika fajról van szó, ahhoz a [Különleges faj](fortelyok.altalanos/kulonleges.faj.md) fortély megléte szükséges az adott fajra felvéve.

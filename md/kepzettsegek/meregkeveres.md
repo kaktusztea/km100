@@ -27,17 +27,15 @@
 
 ##### Próbák
 
-A méreg kikeverése **Méregkeverés** képzettpróbához kötött, amelynek célszáma a **Méreg szintjével** azonos.\
-A **Méreg szintjének** számítása a [Méregrendszer](../130_meregrendszer.md) fejezetben található.
+A méreg kikeverése **Méregkeverés** képzettpróbához kötött, amelynek célszáma a **Méreg szintjével** azonos. A **Méreg szintjének** számítása a [Méregrendszer](../130_meregrendszer.md) fejezetben található.
 
-| Célszám | Példa  |
-| :----------- | :----------- |
-| Könnyű       (6)  | |
-| Átlagos      (9)  | |
-| Nehéz        (12) | |
-| Nagyon nehéz (15) | |
-| Rendkívül nehéz (18) | |
-| Emberfeletti (21) | |
+
+##### Méreg azonosítása tünetek, környezeti hatás alapján
+- Sima Méregkeverés próba
+- Alap célszám: `6`
+- Félrevezető (speciális) :`+3/6`
+- [Élettan](../fortelyok.altalanos/elettan.md) fortély: `-2 / fok`
+
 
 <br />
 
@@ -52,6 +50,6 @@ A **Méreg szintjének** számítása a [Méregrendszer](../130_meregrendszer.md
 - Méreg alapanyagok követelménye: `(Alkimia + Vajákosság) >= (méreg szintje / 2)`
   - Például: méreg szintje: `16`, ez `8`-as követelmény: `(alkimia+vajákosság)` szint összege legalább `8` legyen.
   - ez megvalósulhat így például: Alkimia: `3`, Vajákosság: `5`
-  - Ha csak szervetlen alkotóelemet akar a méregkeverő, akkor csak az Alkimia tudja az alapanyag követelményt teljesiteni
-  - Ha csak állati/növényi alkotóelemet akar a méregkeverő, akkor csak a Vajákosság tudja az alapanyag követelményt teljesiteni
+  - Ha csak szervetlen alkotóelemet akar a méregkeverő, akkor csak az **Alkímia** tudja az alapanyag követelményt teljesiteni
+  - Ha csak állati/növényi alkotóelemet akar a méregkeverő, akkor csak a **Vajákosság** tudja az alapanyag követelményt teljesiteni
 - Ellenméreg kikeverése: Ellenpróba a méreg szintje ellen
