@@ -194,16 +194,16 @@ Tehát:
 
 A fentieknek csak kismesteri (`6`.) szint **alatt** van csak értelme, azaz a helyettesítő képzettség(ek) legfeljebb `5.szintig` adhatnak helyettesítő értéket.
 
-❗**Fontos**: a helyettesítő értékek NEM adódnak hozzá a helyettesített képzettséghez.
+❗**Fontos**: a helyettesítő értékek NEM adódnak hozzá a helyettesített képzettséghez, kiváltják azt.
 
-#### ⚡Példa-1: Nyomolvasás összhangokkal
+#### ⚡Példa-1: Nyomozás összhangokkal
 
-A karakter dulakodás nyomait találja egy erdei tisztáson. Valamilyen állat is volt ott. Ekkor `Nyomolvasás` képzettségpróbát kellene dobnia, de mivel ebben csak nagyon alacsony szinten járatos (`2.`), ezért egy kapcsolódó képzettsége segítségére támaszkodik. A KM az adott helyzetben ezt jól megindokoltnak látja, így engedélyezi.
+A karakter egy bűntény helyszínén gyanús személyekkel találkozik. Kikérezné őket, **Nyomozás** képzettségpróbát kéne dobnia. Mivel **Nyomozás** képzettsége csak `2.szintű`, ezért egy kapcsolódó képzettsége segítségére támaszkodik, amiben sokkal járatosabb és le is fedi az aktuális szituációban szükséges ismeretet. A KM az adott helyzetben ezt jól megindokoltnak látja, így engedélyezi.
 
-- Nyomolvasás: `2.szint`
-- Természetjárás: `9.szint`  (Erős Összhang Nyomolvasással)
+- Nyomozás `2.szint`
+- Emberismeret: `9.szint`  (Erős Összhang Nyomozás képzettséggel)
 
-Ez ebben az esetben a `Természetjárás` képzettség az, amely helyettesítő képzettségként működik. Mivel a jelen próbához a `Természetjárás` erősen kapcsolódik, ezért annak `1/3`-a működhet `Nyomolvasás` képzettségként (a próba idejére): `9/3 = 3`
+Ebben az esetben az **Emberismeret** képzettség az, amely helyettesítő képzettségként működik. Mivel a jelen próbához az **Emberismeret** erősen kapcsolódik, ezért annak `1/3`-a működhet **Nyomozás** képzettségként (a próba idejére): `9/3 = 3`
 
 Tehát a próbát `3 + Érzékenység  vs  Próba célszám` értékekkel dobja.
 
