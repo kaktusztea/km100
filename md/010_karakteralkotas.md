@@ -638,9 +638,9 @@ A karakterek 1. tapasztalati-szinten (TSz) `150 KP`-t (KP Alap), valamint minden
 
 - Mágiaiskolák: **Átfogó** képzettségek. Csak azok a mágiaiskolák tanulhatóak, amelyek a karakter által ismert mágia tradíció alá tartoznak.
 
-- Pszí tradíció, Pszí iskolák
+- Pszí tradíció, Pszí iskola
   - Pszí-alkalmazás: `4 fokú fortély` egyre erősebb követelményekkel. Az alkalmazás fokát adja, nélküle nem lehet ψ iskolát tanulni.
-  - Pszí iskolák: átlagos képzettségek: vannak erősségeik és csak bizonyos diszciplínákat ismernek
+  - Pszí iskola: Átfogó képzettség. Extra diszciplínákat egyes Tradíciók (Mágikus, Faj) adhatnak
 
 ## Manőverek, Manőver Fejlesztő Pontok
 
