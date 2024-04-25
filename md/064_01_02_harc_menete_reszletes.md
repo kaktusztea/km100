@@ -233,7 +233,11 @@ Egyes fegyverek forgatása esetén a karakter fizikai ereje megnöveli az okozot
 ---
 #### Élőholtak sebzése
 
-Mivel nem fáradnak szellemileg, legfeljebb ideiglenes hátrányos harci pozícióba kerülnek, ezért az élőholtak VÉ-je minden ⭕második⭕ kör elején visszaáll eredeti értékére. Ezen kívül a különböző támadási módok ellen különféleképpen ellenállóak, azok sebzése a következőképpen alakul:
+```
+Élőholt VÉ visszaáll minden 2. kör elején
+```
+
+Mivel nem fáradnak szellemileg, legfeljebb ideiglenes hátrányos harci pozícióba kerülnek, ezért az élőholtak VÉ-je **minden második** kör elején visszaáll eredeti értékére. Ezen kívül a különböző támadási módok ellen különféleképpen ellenállóak, azok sebzése a következőképpen alakul:
 
 - Szúrófegyverek sebzése: negyed SP sebzés (lefele kerekítve) + nincs Erőbónusz
 - Vágófegyverek sebzése: fele SP sebzés (lefele) + van Erőbónusz. Csonkoláskor normál sebzés.
