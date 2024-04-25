@@ -8,6 +8,8 @@ Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-
 
 **Kapcsolódó fortélyok**:  [Keresés](../fortelyok.altalanos/kereses.md), [Keresés](../fortelyok.altalanos/kereses.md), [Élettan](../fortelyok.altalanos/elettan.md) (boncoláshoz)
 
+**Erős Összhang**: [Emberismeret](emberismeret.md) (szituáció-függő)
+
 **Bónusz-Háttér**: ⭕xyz
 
 **Leírás**: Egy helyszín átvizsgálásakor rengeteg nyom van, amit értelmezni kell, illetve az felderítés eljárásrendjének ismerete is fontos segítséget adhat. Az alábbi példák segítenek leírni, milyen jellegű információk nyerhetők a képzettség segítségével:
