@@ -1,45 +1,37 @@
-#### 🔵 Etikett (Udvari / Polgári / Alvilági)
+#### 🔵 Etikett
 
 **Próba**: dobható, sokszor [összetett próba](../020_kepzettsegrendszer.md#%C3%B6sszetett-k%C3%A9pzetts%C3%A9gpr%C3%B3ba-m%C3%A1sodlagos-pr%C3%B3badob%C3%A1sok) indokolt
 
 **Domináns Tulajdonságok**: Érzékenység, Intelligencia, Önuralom, Emlékezet
 
-**Kapcsolódó Fortélyok, Hátterek**: [Kultúrkör](../042_bonusz_hatterek.md#-kult%C3%BArk%C3%B6r)
+**Kapcsolódó Fortélyok**: -
 
-**Leírás**: Hogy kell köszönteni a nemesi vendégeket, hogyan kell udvariasan hárítani egy meghívást, mi számít könnyed tréfának és mi halálos sértésnek az alvilágban? Kitől fogadjunk el ital meghívást a kocsmában?
+**Kapcsolódó Szabad Hátterek**: [Kultúrkör](../043_bonusz_hatterek.md#-kultúrkör)
 
-A képzettség három különböző jellegben vehető fel (akár mind a három külön-külön) és ezek általános tudást nyújtanak:
-- Udvari
-- Polgári
-- Alvilági
+**Leírás**: Hogy kell köszönteni a nemesi vendégeket, hogyan kell udvariasan hárítani egy meghívást, mi számít könnyed tréfának és mi halálos sértésnek? A képzettség elsősorban az udvari, nemesi környezetben való "viselkedést" fedi.
 
-Természetesen nem mindegy, melyik kultúrkörben kell a társasági kihívásokat teljesíteni, de az alapismeret és a gyors tanulás képessége mindegyik képzettség jelleg alapvető része. Például egy "Etikett (Udvari): `9.szint`"-el rendelkező pyarroni nemes pár nap alatt képes megtanulni a toroni udvari Etikett szabályait, mert már megvan a mentális "váz", amire csak fel kell "aggatnia" az új tudást. Ezt a  [Kultúrkör](../042_bonusz_hatterek.md#-kult%C3%BArk%C3%B6r) Bónusz háttér rendszerén keresztül szimuláljuk.
+Természetesen nem mindegy, melyik kultúrkörben kell a társasági kihívásokat teljesíteni, de az alapismeret és a gyors tanulás képessége mindegyik képzettség jelleg alapvető része. Például egy "Etikett: `9.szint`"-el rendelkező pyarroni nemes pár nap alatt képes megtanulni a toroni udvari Etikett szabályait, mert már megvan a mentális "váz", amire csak fel kell "aggatnia" az új tudást. Ezt a  [Kultúrkör](../043_bonusz_hatterek.md#-kultúrkör) Szabad Háttér rendszerén keresztül szimuláljuk.
 
-##### Kultúrkör Bónusz Hátterek
-Ha a karakter rendelkezik az épp a helyszínen található kultúrkört lefedő [Kultúrkör](../042_bonusz_hatterek.md#-kult%C3%BArk%C3%B6r)  (`1.fok`) Bónusz háttérrel, akkor képes a kapcsolódó Etikett képzettségét ott büntetések nélkül alkalmazni. Ha nem, akkor csak az ott leírt nehezítéssel tudja a képzettséget alkalmazni.
+##### Kultúrkör Szabad Hátterek
+Ha a karakter rendelkezik az épp a helyszínen található kultúrkört lefedő [Kultúrkör](../043_bonusz_hatterek.md#-kultúrkör)  (⭕`1.fok`⭕) Szabad háttérrel, akkor képes a kapcsolódó Etikett képzettségét ott büntetések nélkül alkalmazni. Ha nem, akkor csak ⭕az ott leírt⭕ nehezítéssel tudja a képzettséget alkalmazni.
 
-Bővebben lásd a  **Kultúrkör** Bónusz háttér leírását.
-
-##### Jellegek közti Összhang
-Egy meglevő, más jellegre felvett  „Etikett” `1/3`-a **Erős Összhang** helyettesítésként beszámítható.\
-Például egy "Etikett (Polgári): 9. szint" beszámítható "Etikett (Udvari): 3.szint"-nek.
+Bővebben lásd a  **Kultúrkör** Szabad háttér leírását.
 
 <br />
 
 ##### Biztos tudás, követelmények
 
-| Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub>                                                                                                                                |                   Követelmény                    |
-| :--------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------: |
-| Novícius (3)     | Alapvető bejelentési társalgási formulák ismerete. Tudja, mikor hallgasson.<br />**Példa**: Kezdő udvaronc, Bandatag                                                                                              |               Érzékenység:&nbsp;0                |
-| Kismester (6)    | Bevonulási, bejelentési, köszöntő és udvarlási formulák lexikális ismerete.<br />**Példa**: Ifjú kardnemes, Hivatalnok, Alvilági "Intéző"                                                                         | Intelligencia:&nbsp;0<br />Érzékenység:&nbsp;+1  |
-| Mester (9)       | Ismeri és érzi a nemesi társaság hangulatának változásait.<br />**Példa**: Pallérozott nemes, apró hercegség udvarmestere; Hivatalvezető; Bandafőnök                                                              | Intelligencia:&nbsp;+1<br />Érzékenység:&nbsp;+2 |
-| Nagymester (12)  | Már nem csak a hangulat megváltozását, hanem a tömeg igényeit is érzékeli, így  jókor képes azt manipulálni. <br />**Példa**: Tapasztalt bálozó, öreg róka. Udvari ceremóniamester; Kormányzó; Szekta/Maffiafőnök | Intelligencia:&nbsp;+2<br />Érzékenység:&nbsp;+3 |
-| Élő legenda (15) | Hírneve egy olyan fegyver, ami miatt a legtöbb konfliktust nyerő helyzetből kezdheti. <br />**Példa**: Legendás szarkavaró. Rettegik, tisztelik... és gyűlölik.                                                   | Intelligencia:&nbsp;+2<br />Érzékenység:&nbsp;+4 |
+| Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub>                                                                                                 |                   Követelmény                    |
+| :--------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------: |
+| Novícius (3)     | Alapvető bejelentési társalgási formulák ismerete. Tudja, mikor hallgasson.<br />**Példa**: Kezdő udvaronc                                                                         |               Érzékenység:&nbsp;0                |
+| Kismester (6)    | Bevonulási, bejelentési, köszöntő és udvarlási formulák lexikális ismerete.<br />**Példa**: Ifjú kardnemes, Hivatalnok                                                             | Intelligencia:&nbsp;0<br />Érzékenység:&nbsp;+1  |
+| Mester (9)       | Ismeri és érzi a nemesi társaság hangulatának változásait.<br />**Példa**: Pallérozott nemes, apró hercegség udvarmestere;                                                         | Intelligencia:&nbsp;+1<br />Érzékenység:&nbsp;+2 |
+| Nagymester (12)  | Már nem csak a hangulat megváltozását, hanem a tömeg igényeit is érzékeli, így  jókor képes azt manipulálni. <br />**Példa**: Tapasztalt bálozó, öreg róka. Udvari ceremóniamester | Intelligencia:&nbsp;+2<br />Érzékenység:&nbsp;+3 |
+| Élő legenda (15) | Hírneve egy olyan fegyver, ami miatt a legtöbb konfliktust nyerő helyzetből kezdheti. <br />**Példa**: Legendás szarkavaró. Rettegik, tisztelik... és gyűlölik.                    | Intelligencia:&nbsp;+2<br />Érzékenység:&nbsp;+4 |
 
 <br />
 
 ##### Próbák
-⭕TODO: példák a Polgári és Alvilági esetekre is
 
 | Célszám              | Példa                                                                                                                                                                     |
 | -------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -55,4 +47,4 @@ Például egy "Etikett (Polgári): 9. szint" beszámítható "Etikett (Udvari): 
 ##### Célszámot módosító körülmények
 
 - Bódult, részeg állapotban: `+[1-6]`
-- Nehézség büntetés, ha nincs kapcsolódó [Kultúrkör](../042_bonusz_hatterek.md#-kult%C3%BArk%C3%B6r) Bónusz Háttér `1.fokon`.
+- Nehézség büntetés, ha nincs kapcsolódó [Kultúrkör](../043_bonusz_hatterek.md#-kultúrkör) Szabad Háttér ⭕`1.fokon`⭕.

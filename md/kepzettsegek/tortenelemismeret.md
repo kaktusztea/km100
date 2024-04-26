@@ -1,6 +1,6 @@
 #### 🔴 Történelemismeret
 
-Általános ismeret, magába foglalja a legendák ismeretét is.
+Általános ismeret, magába foglalja a legendák ismeretét is és az ősi kultúrák ismeretét is.
 
 **Próba:** dobható
 
@@ -8,21 +8,23 @@
 
 **Kapcsolódó fortélyok**: -
 
-**Bónusz-Háttér**: - 
+**Bónusz-Háttér**: ⭕
+
+**Szabad Hátterek**: Kultúrkör ⭕link⭕
 
 ##### Követelmények
- [Kultúrkör](../042_bonusz_hatterek.md#-kult%C3%BArk%C3%B6r-3): Az Alapeset, ha a próbát érintő **Kultúrkör** Háttér legalább `2.fokon` megvan. Amennyiben nincs meg, vagy ez alatti, akkor a próba **Nehézsége** a Kultúrkörnél leírt mértékben emelkedik.
+ [Kultúrkör](../043_bonusz_hatterek.md#-kultúrkör-3): Az Alapeset, ha a próbát érintő **Kultúrkör** Háttér legalább `2.fokon` megvan. Amennyiben nincs meg, vagy ez alatti, akkor a próba **Nehézsége**⭕ a Kultúrkörnél leírt mértékben emelkedik.⭕
 
 **Leírás**: Alacsonyabb szinten a hetedkori Ynev általános történelmét ismered, magasabb szinten fellebbennek a titkok a régebbi korok titkairól is.
 
 **ÉSZAKON**:
-
+⭕Ezeket szinkronba hozni a Kultúrkörökkel⭕
 - Északi Szövetség és a vörös hadurak országai
 - Toron és a fekete hadurak országai (Abaszisz, Gro-Ugon, az északi városállamok - mint Rowon, Alidax -, stb.)
 - Godora és Erion (beleértve a környéket is, pl. Elátkozott Vidék, Sheral nyugati része, stb.)
 
 **DÉLEN**:
-
+⭕Ezeket szinkronba hozni a Kultúrkörökkel⭕
 - Krán és a déli nomádok
 - Pyarroni Államszövetség és Yllinor
 - Shadon és környéke
@@ -61,5 +63,5 @@
 
 ##### Célszámot módosító körülmények
 
-- Nehézség büntetés, ha nincs kapcsolódó [Kultúrkör](../042_bonusz_hatterek.md#-kult%C3%BArk%C3%B6r) Bónusz Háttér `2.fokon`.
+- Nehézség büntetés, ha nincs kapcsolódó [Kultúrkör](../043_bonusz_hatterek.md#-kultúrkör) Bónusz Háttér `2.fokon`.
  

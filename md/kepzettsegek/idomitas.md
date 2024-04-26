@@ -8,7 +8,7 @@ Többször felvehető.
 
 **Kapcsolódó fortélyok**: xyz
 
-**Bónusz-Háttér**: [Állat testvér](../042_bonusz_hatterek.md#-%C3%A1llat-testv%C3%A9r)
+**Bónusz-Háttér**: [Állat testvér](../043_bonusz_hatterek.md#-állat-testvér)
 
 **Leírás**: a képzettség egyes állatcsoportok idomítását fogja egybe, így többször is felvehető. Az alábbi állatcsoportokra lehet megtanulni:
 - Hátasok
@@ -25,8 +25,8 @@ Többször felvehető.
 | Novícius (3)     | ⭕xyz <br /> **Példa**: x                                                           |             |
 | Kismester (6)    | ⭕xyz <br /> **Példa**: x                                                           |             |
 | Mester (9)       | ⭕xyz <br /> **Példa**: x                                                           |             |
-| Nagymester (12)  | [Állat testvér](../042_bonusz_hatterek.md#-%C3%A1llat-testv%C3%A9r)                |             |
-| Élő legenda (15) | [Állat testvér](../042_bonusz_hatterek.md#-%C3%A1llat-testv%C3%A9r)                |             |
+| Nagymester (12)  | [Állat testvér](../043_bonusz_hatterek.md#-állat-testvér)                |             |
+| Élő legenda (15) | [Állat testvér](../043_bonusz_hatterek.md#-állat-testvér)                |             |
 
 <br />
 

@@ -8,14 +8,14 @@ Többször felvehető.
 
 **Kapcsolódó képzettség**: xyz
 
-**Bónusz-Háttér**:  [Kultúrkör](../042_bonusz_hatterek.md#-kult%C3%BArk%C3%B6r), ⭕
+**Bónusz-Háttér**:  [Kultúrkör](../043_bonusz_hatterek.md#-kultúrkör), ⭕
 
 **Leírás**: Képes vagy használni az adott hangszercsoport alá tartozó hangszereket. Az alábbi hangszercsoportokra veheted fel a képzettséget:
 - fúvós
 - pengetős
 - ütős
 
-Az általad ismert [Kultúrkörök](../042_bonusz_hatterek.md#-kult%C3%BArk%C3%B6r) zenéiből ismersz műveket.
+Az általad ismert [Kultúrkörök](../043_bonusz_hatterek.md#-kultúrkör) zenéiből ismersz műveket.
 
 <br />
 

@@ -4,7 +4,7 @@ Ha olyan faj anatómiáját akarod megismerni, amely KM-ed szerint nem fér bele
 
 |       | Követelmény                                                                                                                                                                           | Hatás                              |
 | :---- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------------------------------- |
-| 1.fok | Történet, előtörténet.<br />[Élettan](elettan.md) fok (változó, KM dönt),<br />[Boncolás](../042_bonusz_hatterek.md#-boncol%C3%A1s-faj-neve) Bónusz-Háttér az adott faj egy egyedére. | Ismered a megadott faj anatómiáját |
+| 1.fok | Történet, előtörténet.<br />[Élettan](elettan.md) fok (változó, KM dönt),<br />[Boncolás](../043_bonusz_hatterek.md#-boncolás-faj-neve) Bónusz-Háttér az adott faj egy egyedére. | Ismered a megadott faj anatómiáját |
 
 <br />
 

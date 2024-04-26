@@ -1,8 +1,7 @@
 # Képzettségek
 
-🔴Átfogó képzettség 🔵Átlagos képzettség 🟢Könnyű képzettség
-
-🟡Különleges képzettség, 🔁Többször felvehető, 🔆Megjegyzés ⭕TODO, kérdéses
+🔴Átfogó képzettség 🔵Átlagos képzettség
+🔁Többször felvehető, 🔆Megjegyzés ⭕TODO, kérdéses
 
 ---
 
@@ -44,24 +43,6 @@
 [Ordani tűzmágia képzettség iskolái](#Ordani-tűzmágia-képzettség-iskolái)
 
 [Magasmágia képzettség iskolái](#Magasmágia-képzettség-iskolái)
-
----
-
-## Különleges képzettségek első szinten
-
-### 🟡[Történelemismeret](kepzettsegek/tortenelemismeret.md) - saját régió
-
-Első szinten minden karakter megkapja `3-as szinten` a saját régiójára vonatkoztatott Történelemismeret (Átlagos) képzettséget. Ez az érték természetesen `KP`-ból szabadon tovább növelhető.
-
-### 🟡[Vallásismeret](kepzettsegek/vallasismeret.md) - saját pantheon
-
-Első szinten minden karakter megkapja `3-as szinten` a saját vallási pantheonjára vonatkoztatott Vallásismeret (Átlagos) képzettséget. Ez az érték természetesen `KP`-ból szabadon tovább növelhető.
-
-### 🟡[Nyelvismeret](kepzettsegek/nyelvismeret.md) - saját nyelv
-
-Első szinten minden karakter megkapja `6-os szinten` a saját anyanyelvéhez tartozó Nyelvismeret (Könnyű) képzettséget.
-
-Továbbá – a fentin kívül – megkapja még `3-as szinten` egy másodlagos nyelvre is. Az elsődleges és másodlagos nyelvek közül az egyiknek a Pyarroni (Közös) nyelvnek kell lennie.
 
 ---
 
@@ -180,8 +161,6 @@ Festészet + (Pszeudó tul.) + k10   vs   Célszám
 🔴[Méregkeverés](kepzettsegek/meregkeveres.md) <sup><sub>(90%)</sub></sup>
 
 🔵[Műveltség](kepzettsegek/muveltseg.md)  <sup><sub>(50%)</sub></sup>
-
-🔵[Ősi kultúrák ismerete](kepzettsegek/osi_kulturak_ismerete.md) (Külön ősi kultúránként) (Történem és Vallásismeret is egyben) <sup><sub>(25%)</sub></sup> 🔁
 
 🔴[Ősi nyelv ismerete](kepzettsegek/osi_nyelv_ismerete.md) (Külön ősi nyelvenként) <sup><sub>(0%)</sub></sup> 🔁
 
