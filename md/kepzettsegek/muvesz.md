@@ -1,36 +1,25 @@
-#### 🔵 Műveltség
-
-⭕TODO:  átnevezni? Művészeti ismereteket fed. Matek, gazdaság, nincs benne.⭕
+#### 🔵 Művész
 
 **Próba:** dobható
 
-**Domináns Tulajdonságok**: Emlékezet, Intelligencia, Érzékenység
+**Domináns Tulajdonságok**: Érzékenység, Emlékezet
 
-**Kapcsolódó fortélyok**: [Irodalmár](../fortelyok.altalanos/irodalmar.md) 
+**Kapcsolódó fortélyok**: xyz
 
-**Bónusz-Háttér**: -
+**Bónusz-Háttér**: xyz
 
-**Szabad-Háttérek** (1 ingyenes):
-- Éneklés ⭕TODO anchor link ⭕
-- Festészet
-- Irodalom
-- Kalligráfia
-- [Kultúrkör](../043_bonusz_hatterek.md#-kultúrkör-3)
-- Szobrászat
-- Színjátszás
+**Szabad-Háttérek**:
 - [Tánc: speciális/belső stílus](../042_szabad_hatterek.md) ⭕TODO anchor link ⭕
 - Zenélés: húros hangszerek
 - Zenélés: ütős hangszerek
-- Zenélés: fúvós hangszerek ⭕TODO anchor link ⭕
+- Zenélés: fúvós hangszerek
+- Éneklés
+- Festészet
+- Kalligráfia
+- Szobrászat
+- Színjátszás ⭕TODO anchor link ⭕
 
-**Leírás**: Jelenkori világunktól eltérően inkább művészeti ismereteket fed.
-
-**Követelmény**:
-  - [Kultúrkör](../043_bonusz_hatterek.md#-kultúrkör-3) (adott kultúra) - `2.fok` - enélkül `+3` nehezítés a képzettségpróbákra
-  - [Nyelvismeret](xyz): Udvari ⭕TODO link ⭕
-
-**Összhagok:**
-- [Történelemismeret](tortenelemismeret.md) (Erős összhang)
+**Leírás**: xyz
 
 <br />
 
@@ -62,3 +51,6 @@
 ##### Célszámot módosító körülmények
 
 - ⭕xyz
+
+
+

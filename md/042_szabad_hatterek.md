@@ -1,80 +1,123 @@
-### Bónusz Hátterek
+### Szabad Hátterek
 
-<!-- tag: bonusz__hatter -->
+<!-- tag: szabad_hatter -->
 
-Általában egyes képzettségek magasabb szintjein kapott, egyedi, speciális ismeretek.
-Ide tartoznak a nagyon magas szinten, kivételes esetben tanulható – legtöbbször félmágikus – ismeretek is.
+A Szabad Hátterek speciális, egy, vagy több képzettséget "kiterjesztő" ismeretek.
 
-A képzettségek leírásában találhatóak hivatkozások az alábbi Bónusz-Hátterekre. Csak a megjelölt képzettség-szintek elérésekor kaphatja meg ezeket az ingyenes ismereteket a karakter.
+Hozzájutni kétfajtaképpen lehet.
 
-Ide soroljuk azokat az egyedi Bónusz-Háttereket is, amelyek már meglevő képzettségeket szélesítenek ki nagyon rövid "beszoktató" gyakorlás után. Erre jó példa a [Lénylovas](#-l%C3%A9nylovas-faj-neve) Bónusz-Háttér.
+⭕Ha egy képzettséghez számos Szabad Háttér kapcsolódik, akkor azok közül 1 választottat automatikusan megkap a karakter.⭕
+⭕TODO: van, ahol ez 
+
 
 ---
 Tartalomjegyzék
 
-- [Állat testvér](#-%C3%A1llat-testv%C3%A9r)
-- [Boncolás](#-boncol%C3%A1s-faj-neve)
-- [Élő álca](#-%C3%A9l%C5%91-%C3%A1lca)
-- [Harci láz 3](#-harci-l%C3%A1z-3)
-- [Helyismeret](#-helyismeret-v%C3%A1rosnyi-ter%C3%BClet-3)
-- [Kobratánc](#-kobrat%C3%A1nc)
-- [Kultúrkör](#-kult%C3%BArk%C3%B6r-adott-kult%C3%BArk%C3%B6r-3)
-- [Lénylovas](#-l%C3%A9nylovas-faj-neve)
-- [Tánc: speciális/belső stílus](#t%C3%A1nc-speci%C3%A1lisbels%C5%91-st%C3%ADlus)
-- [Tapadás](#-tapad%C3%A1s)
+- [Boncolás](#-boncol%C3%A1s-faj-neve) 🔁
+- Éneklés
+- Festészet
+- [Harci láz 3](xyz) ⭕TODO: Anchor link⭕
+- [Helyismeret](#-helyismeret-v%C3%A1rosnyi-ter%C3%BClet-3) 🔁
+- Irodalom
+- Kalligráfia
+- [Kultúrkör](#-kult%C3%BArk%C3%B6r-adott-kult%C3%BArk%C3%B6r-3) 🔁
+- [Lénylovas](#-l%C3%A9nylovas-faj-neve) 🔁
+- Színjátszás
+- Szobrászat
+- [Nyelvismeret](xyz) ⭕TODO: Anchor link⭕
+- [Tánc: speciális/belső stílus](#t%C3%A1nc-speci%C3%A1lisbels%C5%91-st%C3%ADlus) 🔁
+- Titkos szervezeti kultúra   ⭕TODO⭕
+- Zenélés: fúvós hangszerek
+- Zenélés: húros hangszerek
+- Zenélés: ütős hangszerek
+
 
 ---
-#### 🟣 Állat testvér
+#### 🟣 Boncolás (faj neve) 🔁
 
-A felsorolt valamelyik 3 képzettség legfelső szintjein már olyan magas fokú kapcsolat jön létre ember és állat között – lelki társsá válnak –, ami különleges telepátiát hoz létre közöttük. A kapcsolat olyan konkrét állatokra vonatkozik csak, akikkel a viselője legalább 1 éve szoros napi érintkezésben van és a köztük levő kapcsolat szeretetteljesnek mondható.
+##### Kiterjeszti
+- [Harci anatómia](fortelyok.harci/harci_anatomia.md) FORTÉLY!⭕
+- [Különleges faj](fortelyok.altalanos/kulonleges.faj.md) FORTÉLY!⭕
 
 ##### Követelmény
+- [Élettan](fortelyok.altalanos/elettan.md) fortély - `2.fok`
+- Legalább egy nap időtartam, míg a boncolás folyik
 
-- [Idomítás](kepzettsegek/idomitas.md) / [Lovaglás](kepzettsegek/lovaglas.md) (csak adott fajú földi hátasra) / [Léglovaglás](kepzettsegek/leglovaglas.md) (csak adott fajú repülő lényre) &nbsp;–&nbsp;`12-15.szint`<br />
-- Érzékenység: `+3`
-
-##### Hatás a képzettség adott szintjén
-12. szint: a karakter a társául szegődött állattal folyamatos telepatikus kapcsolatban van, képes csupán a gondolataival irányítani őt. Az állat nem köteles engedelmeskedni, ez pusztán kétoldalú kommunikáció, nem akaratirányítás. A gondolatok átadása mellett egymás érzelmi állapotát és annak változásait is képesek érzékelni, átélni.
-15. szint: a lovas ideiglenesen egybeolvad asztrálian és mentálisan az állattal, egy egységet alkotnak. A lovas képes érzékelni az állat érzékszerveivel is, és saját testeként is mozoghat vele, amennyiben az engedélyezi ezt számára. A karakter és az állat képes bármekkora távolságból kommunikálni egymással.
-
-<br />
-
----
-#### 🟣 Boncolás (faj neve)
-
-A [Harci anatómia](fortelyok.harci/harci_anatomia.md) vagy a [Különleges faj](fortelyok.altalanos/kulonleges.faj.md) fortély kiegészítéseként juthatsz hozzá.
-
-Ha alaposan felboncolsz egy nem elfszabású lényt, akkor onnantól arra a fajra is alkalmazhatod a **Harci Anatómia** fortély előnyeit. Ekkor egy "**Boncolás (faj neve)**" Bónusz-Hátteret kapsz. A boncolásnak kaland során kell megtörténnie, nem lehet előtörténetből, vagy játékon kívül.
-
-A sikeres boncoláshoz [Élettan](fortelyok.altalanos/elettan.md) fortély 2. fok szükséges és legalább egy nap időtartam, míg a boncolás folyik.
+Ha alaposan felboncolsz egy nem elfszabású lényt, akkor onnantól arra a fajra is alkalmazhatod a [Harci Anatómia](fortelyok.harci/harci_anatomia.md) fortély előnyeit. Ekkor egy "**Boncolás (faj neve)**" Szabad-Hátteret kapsz.
 
 A fenti információ más módon - ritka, titkos fóliásokkal bújásával - is kinyerhető, amennyiben azokban részletes leírás található a lény anatómiájáról.
 
 <br />
 
 ---
-#### 🟣 Élő álca
+#### 🟣 Éneklés
 
-Titkos, félmágikus ismeret. Csak az álcázás legnagyobb mesterei ismerik – állítólag.
+##### Kiterjeszti
+- [xy](xy)
 
 ##### Követelmény
-- Álcázás/Álruha - `15.szint`
-
-##### Hatás a képzettség adott szintjén
-15. szint: Alkalmazója kellékek nélkül is képes átformálni vonásait. A hatás csak annyi lehet, amennyit maszkkészítő eszközökkel is el tudna érni. Például: pár perc alatt szakállat, bajszot növeszt, ráncokat varázsol az arcára, megváltozik szeme színe, stb.
-
-
-<br />
+- [xy](xy)
 
 
 ---
+#### 🟣 Festészet
+
+##### Kiterjeszti
+- [xy](xy)
+
+##### Követelmény
+- [xy](xy)
+
+Jól bánsz az ecsettel, kedvtelésből, vagy önkifejezés céljából vetsz vászonra színes műveket.
+
+---
+#### 🟣 Fejlett ízlelés
+
+##### Kiterjeszti
+- [xy](xy)
+
+##### Követelmény
+- [xy](xy)
+
+Ingyenesen felvehető Érzék.
+
+Különlegesen kifinomult az ízlelésed, ez lehet áldás és átok is.
+
+`2x` érzékenyebb az ízlelésed, mint egy átlagos emberé. Nem érdemes a hatást számszerűsíteni, a KM dönti el, hol hoz ez számodra előnyt, vagy súlyt hátránnyal.
+
+
+
+---
+#### 🟣 Fejlett tapintás
+
+##### Kiterjeszti
+- [xy](xy)
+
+##### Követelmény
+- [xy
+
+Ingyenesen felvehető Érzék.
+
+Különlegesen kifinomult a tapintásod, ez lehet áldás és átok is.
+
+`2x` érzékenyebb a tapintásod, mint egy átlagos emberé. Nem érdemes a hatást számszerűsíteni, a KM dönti el, hol hoz ez számodra előnyt, vagy súlyt hátránnyal.
+
+---
 #### 🟣 Harci láz 3
+
+##### Kiterjeszti
+-  [Harci láz](fortelyok.harci/harci_laz.md) FORTÉLY!⭕
+
+##### Követelmény
+- [xy](xy) ⭕
 
 A [Harci láz](fortelyok.harci/harci_laz.md) fortély 3. speciális foka.
 
 Csak mágiával érhető el, például ork ereklye hatása, vagy Arel áldása. Ezek különleges állapotok, ezt a szintet nem lehet tanulással elérni, így **KP**-t sem lehet rá költeni.
 
 Bővebben lásd a ⭕Mágia fejezetet⭕.
+
+##### Hatás
 
 - Erő, Edzettség, Gyorsaság tulajdonságpróbákra:&nbsp;`+3`<br />
 - KÉ:`+6`; TÉ:`+12`; VÉ:`-10`; SP:`+3`
@@ -87,7 +130,7 @@ Bővebben lásd a ⭕Mágia fejezetet⭕.
 
 ---
 
-#### 🟣 Helyismeret (városnyi terület) (3)
+#### 🟣 Helyismeret (városnyi terület) (3) 🔁
 ```
 - többször felvehető
 - 3 fokú
@@ -95,10 +138,16 @@ Bővebben lásd a ⭕Mágia fejezetet⭕.
 - Kaland végén kaphatóak újabb pontok ingyen, a KM-től
 ```
 
-3 fokú ingyenes ismeret, amelyet az előtörténet és az átélt kalandok adhatnak.\
-Minden karakter kezdéskor kap `3` foknak megfelelő pontot, amiből felvehet Helyismeret Hátteret és eloszthat az általa ismert városok/városnyi területek között. 
+##### Kiterjeszti
+-  [Harci láz](fortelyok.harci/harci_laz.md) FORTÉLY!⭕
 
-`1. fok`: Ideiglenesen tartózkodtál a városban pár ⭕minimum 1 hetet⭕.
+##### Követelmény
+- [xy](xy) ⭕
+
+
+3 fokú Háttér, amelynek forrása az előtörténet és az átélt kalandok.\
+
+`1. fok`: Ideiglenesen tartózkodtál a városban ⭕minimum 1 hetet⭕.
 - alap tájékozkodás
 
 `2. fok`: Átlagpolgár, aki a városban született és él, ismeri az intézményeket, piacokat, vezetőket
@@ -115,19 +164,17 @@ Minden karakter kezdéskor kap `3` foknak megfelelő pontot, amiből felvehet He
 
 ##### Leírás
 
+Kalandozásai során a karakter számos helyre elvetődik.  Ha ott rászán időt a város tanulmányozására, akkor már ott is képes lesz Helyismeret-függő képzettségeit maximális hatékonysággal kiaknázni, büntetés nélküli próbákat dobni rá.
+
 A játékosnak jeleznie kell, hogy aktívan tanulmányozza az adott kultúrkört (könyvtár, bálok, kocsmák, stb. látogatása, helyi kapcsolatrendszer kiépítése).
 
-A **Helyismeret** értéke úgy változhat, hogy a KM egy kaland végén tetszés szerint ad pontot a karakterek Helyismeret Hátterére arra a helyre vonatkoztatva, ahol a kaland játszódott. Tehát ha a karakter a délvidékről származik és először volt Ifinben, akkor az eddig `0` értékű „Helyismeret – Ifin” Háttere a kaland után `1`-re nőhet, ha igazán a "mélyébe csöppent", sok újdonságot tapasztalt a várossal kapcsolatban, akkor akár `2`-re is ugorhat. Az ilyen értéknövelés nem igényel `KP` költést, "ingyenes".
+A **Helyismeret** értéke `Szabad Pontokból` is növelhető, illetve úgy is változhat, hogy a KM egy kaland végén tetszés szerint ad pontot a karakterek Helyismeret Hátterére arra a helyre vonatkoztatva, ahol a kaland játszódott.
+
+Tehát ha a karakter a délvidékről származik és először volt Ifinben, akkor az eddig `0` értékű „Helyismeret – Ifin” Háttere a kaland után `1`-re nőhet, ha igazán a "mélyébe csöppent", sok újdonságot tapasztalt a várossal kapcsolatban, akkor akár `2`-re is ugorhat. Az ilyen - kaland végén kapott - értéknövelés nem igényel `SzP` költést, "ingyenes".
 
 ⚡ Példa-1: "Helyismeret: Shadlek (3)"
 
 ⚡ Példa-2: "Helyismeret: Shadlek (2), "Helyismeret: Gianag (1)"
-
-Kalandozásai során a karakter számos helyre elvetődik.  Ha ott rászán időt a város tanulmányozására, akkor már ott is képes lesz Helyismeret-függő képzettségeit maximális hatékonysággal kiaknázni, büntetés nélküli próbákat dobni rá. Ez minden, Helyismeret ismeretet igénylő képzettségre igaz, viszont a Helyismereet igényük (fokban) eltérő.
-
-Hogy mely foka adja meg az adott városban a levonások nélküli használatot, az az adott képzettség leírásánál szerepel. A KM ezt - az adott szituációban - felülbírálhatja. 
-
-Ha nincs épp meg az adott szituációban a szükséges Helyismerethez tartozó **Helyismeret** Bónusz Háttér, akkor `+3`-al emelkednek az adott képzettség próbáinak nehézségei, amíg a karakter rá nem szánja a szükséges időt a kapcsolódó Kultúrkör Háttér megszerzésére.
 
 ##### Próbák
 
@@ -135,10 +182,30 @@ A **Helyismeret** Háttér egyes fokai írják le, hogy biztos tudásból milyen
 
 
 ---
+#### 🟣 Irodalom
+
+##### Kiterjeszti
+- [xy](xy)
+
+##### Követelmény
+- [xy](xy)
+
+---
+#### 🟣 Kalligráfia
+
+##### Kiterjeszti
+- [xy](xy)
+
+##### Követelmény
+- [xy](xy)
+
+---
 #### 🟣 Kobratánc
 
 Legendás és rettegett gorviki fejvadász stílus, amely jellemzően végtagokat, hasat és lehetőleg kis, páncéltalan részeket támad.
 
+##### Kiterjeszti
+- [Tradíció: Fejvadász](053_fejvadasz_tradicio.md)
 ##### Követelmény
 - Gorviki fejvadászklán
 - Kivívott tisztelet, előtörténet
@@ -161,7 +228,7 @@ Legendás és rettegett gorviki fejvadász stílus, amely jellemzően végtagoka
 <br />
 
 ---
-#### 🟣 Kultúrkör (adott kultúrkör) (3)
+#### 🟣 Kultúrkör (adott kultúrkör) (3) 🔁
 
 ```
 - többször felvehető
@@ -175,6 +242,15 @@ Kapcsolódó Képzettség-próba:
   ha nincs meg a megkövetelt Kultúrkör fok, akkor +3 Nehézség.
 
 ```
+
+##### Kiterjeszti
+- [Etikett](kepzettsegek/etikett.md)
+- [Műveltség](kepzettsegek/muveltseg.md)
+- [Történelemismeret](kepzettsegek/tortenelemismeret.md)
+- [Vallásismeret](kepzettsegek/vallasismeret.md)
+
+##### Követelmény
+- Lásd a fokok leírását!
 
 `1.fok`: Egy hetet eltöltöttél egy, vagy több olyan helyen, ahol aktív kapcsolatban voltál az adott kultúrkörrel\
 `2.fok`: Legalább 1 évet eltöltöttél az adott kultúrkörben, vagy évekig azt tanulmányoztad otthonodban. Itt a KM adhat kedvezményt.\
@@ -214,15 +290,8 @@ Ha nincs épp meg az adott szituációban a szükséges kultúrkörhöz tartozó
 - elf
 - ⭕TODO⭕
 
-##### Kultúrkör-függő Képzettségek
-- [Etikett](kepzettsegek/etikett.md)
-- [Műveltség](kepzettsegek/muveltseg.md)
-- [Történelemismeret](kepzettsegek/tortenelemismeret.md)
-- [Vallásismeret](kepzettsegek/vallasismeret.md)
-
-
 ---
-#### 🟣 Lénylovas (faj neve)
+#### 🟣 Lénylovas (faj neve) 🔁
 
 Ha van [Lovaglás](kepzettsegek/lovaglas.md) vagy [Léglovaglás](kepzettsegek/leglovaglas.md) képzettséged, akkor ha egy eddig nem megült földi/légi hátas faj egyedének hátára pattannál, akkor használhatod a Lovaglás/Léglovaglás képzettséged.
 
@@ -235,11 +304,49 @@ A Háttér többször felvehető - minden "bejáratott" hátas fajhoz külön.
 
 <br />
 
+
 ---
-#### 🟣Tánc: speciális/belső stílus
+#### 🟣 Színjátszás
+
+##### Kiterjeszti
+- [xy](xy)
+
+##### Követelmény
+- [xy](xy)
+
+
+---
+#### 🟣 Szobrászat
+
+##### Kiterjeszti
+- [xy](xy)
+
+##### Követelmény
+- [xy](xy)
+
+---
+#### 🟣Nyelvismeret 🔁
+
+A nyelvek ismerete nem kerül sem `KP`-ba, sem `SzP`-be.
+
+A józan ész - és a KM - határain belül, az előtörténet és a karakter ismeretei fényében vehetsz fel tetszőleges számú nyelvismeretet.
+
+A Nyelvismeretnek `2` foka van.
+- `Alap`: normális, hétköznapi beszéd. Ha nem anyanyelv, a külföldi akcentust ki lehet érezni belőle. Ennek hatását szerepjátékból intézzük.
+- `Felső`: udvari, egyházi, hivatali körökben hallott, míves beszéd. Fogyasztott, vagy aktívan művelt művészetekhez követelmény. Lásd [Műveltség](kepzettsegek/muveltseg.md) képzettség.
+
+Amennyiben a nem rendelkezel a kívánt Nyelvismerettel, akkor - ha van kapcsolódó [Kultúrkör](#-kultúrkör-adott-kultúrkör-3) Szabad Háttérred legalább `1.fokon`, akkor nagyon alap szavakat ismersz, amivel - plusz kézzel-lábbal - meg tudod értetni magad ("Kő", "Tűz", "Vesz", "Kenyér", stb)
+
+##### Kiterjeszti: -
+##### Követelmény: -
+
+---
+#### 🟣Tánc: speciális/belső stílus 🔁
 
 Többször felvehető. Ez általában egyedi, titkos, vagy nagyon speciális táncot takar, mint például a **Toroni Vérnász**. Magától értetődik, hogy speciális/belső táncstílus tanulásához megfelelő előtörténeti kapcsolat, vagy komoly indoklás szükséges, melyre a KM is rábólint.
 
+##### Kiterjeszti
+- [Művész](kepzettsegek/muvesz.md)
 ##### Követelmény
 - Kultúrkör: (adott kultúrkör) (3)
 - Műveltség - `9.szint`
@@ -247,17 +354,44 @@ Többször felvehető. Ez általában egyedi, titkos, vagy nagyon speciális tá
 <br />
 
 ---
-#### 🟣 Tapadás
+#### 🟣Titkos szervezeti kultúra
 
-Titkos, félmágikus ismeret.
+##### Kiterjeszti
+- Etikett
 
 ##### Követelmény
+- ⭕KELL?⭕ Kultúrkör: (adott kultúrkör) (3)
 
-- Életed a mászás
-- Mászás - `15.szint`
-
-##### Hatás a képzettség adott szintjén
-
-`15.szint`: Képes vagy pókként megtapadni a falon – akár a mennyezeten is. A kapaszkodáshoz nincs szükséged kiszögelésre.
 
 <br />
+
+
+---
+#### 🟣 Zenélés: fúvós hangszerek
+
+##### Kiterjeszti
+- [xy](xy)
+
+##### Követelmény
+- [xy](xy)
+
+
+---
+#### 🟣 Zenélés: pengetős hangszerek
+
+##### Kiterjeszti
+- [xy](xy)
+
+##### Követelmény
+- [xy](xy)
+
+
+---
+#### 🟣 Zenélés: ütős hangszerek
+
+##### Kiterjeszti
+- [xy](xy)
+
+##### Követelmény
+- [xy](xy)
+

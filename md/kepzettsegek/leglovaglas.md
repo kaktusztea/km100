@@ -6,9 +6,9 @@
 
 **Kapcsolódó fortélyok**: [Léglovas harc](../fortelyok.harci/leglovas_harc.md)
 
-**Bónusz-Háttér**: [Állat testvér](../042_bonusz_hatterek.md#-%C3%A1llat-testv%C3%A9r), [Lénylovas](../042_bonusz_hatterek.md#-l%C3%A9nylovas-faj-neve)
+**Bónusz-Háttér**: [Állat testvér](../043_bonusz_hatterek.md#-állat-testvér), [Lénylovas](../043_bonusz_hatterek.md#-lénylovas-faj-neve)
 
-**Leírás**: Ritka szerencsés, aki ezt a képzettséget tanulhatja, mert Ynev kevés levegőben meglovagolható teremtményeinek egyikét ülheti meg. `Pteropták, Wyvern-ek, Racklák` - hogy csak a közismertebbeket említsük. Aki léglovaglást tanul, az képes megülni a fent említett repülő lényeket a képzettség szintjétől függő tehetséggel. A tudás univerzális, némi gyakorlással más fajú légi hátasokra is használható - lásd a [Lénylovas](../042_bonusz_hatterek.md#-l%C3%A9nylovas-faj-neve) Bónusz Hátteret.
+**Leírás**: Ritka szerencsés, aki ezt a képzettséget tanulhatja, mert Ynev kevés levegőben meglovagolható teremtményeinek egyikét ülheti meg. `Pteropták, Wyvern-ek, Racklák` - hogy csak a közismertebbeket említsük. Aki léglovaglást tanul, az képes megülni a fent említett repülő lényeket a képzettség szintjétől függő tehetséggel. A tudás univerzális, némi gyakorlással más fajú légi hátasokra is használható - lásd a [Lénylovas](../043_bonusz_hatterek.md#-lénylovas-faj-neve) Bónusz Hátteret.
 
 <br />
 
@@ -19,8 +19,8 @@
 | Novícius (3)     | Lassan, alacsonyan repülő lényt képes óvatosan navigálni.<br />**Példa**: Újonc léglovas                                                                           | Önuralom:&nbsp;0 |
 | Kismester (6)    | Képes önállóan felmérni a szelet, ami felszálláshoz elengedhetetlen.                                                                                               | Önuralom:&nbsp;0 |
 | Mester (9)       | Képes jó eséllyel kiszámítani légi ellenfelének röppályáját.⭕                                                                                                      | Önuralom:&nbsp;0 |
-| Nagymester (12)  | [Állat testvér](../042_bonusz_hatterek.md#-%C3%A1llat-testv%C3%A9r)<br>⭕xyz                                                                                        | Önuralom:&nbsp;0 |
-| Élő legenda (15) | [Állat testvér](../042_bonusz_hatterek.md#-%C3%A1llat-testv%C3%A9r)<br>Szinte egybeforr hátasával.<br />**Példa**: A legendás Sárkányszövetség óelf sárkánylovasa. | Önuralom:&nbsp;0 |
+| Nagymester (12)  | [Állat testvér](../043_bonusz_hatterek.md#-állat-testvér)<br>⭕xyz                                                                                        | Önuralom:&nbsp;0 |
+| Élő legenda (15) | [Állat testvér](../043_bonusz_hatterek.md#-állat-testvér)<br>Szinte egybeforr hátasával.<br />**Példa**: A legendás Sárkányszövetség óelf sárkánylovasa. | Önuralom:&nbsp;0 |
 
 <br />
 
@@ -40,4 +40,4 @@
 ##### Célszámot módosító körülmények
 
 - Vad hátas: + [1-3]
-- Más fajú légi hátas esetén: [Lénylovas](../042_bonusz_hatterek.md#-l%C3%A9nylovas-faj-neve) Bónusz-Háttér
+- Más fajú légi hátas esetén: [Lénylovas](../043_bonusz_hatterek.md#-lénylovas-faj-neve) Bónusz-Háttér
