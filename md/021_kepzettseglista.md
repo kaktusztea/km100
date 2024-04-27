@@ -61,6 +61,7 @@
 
 🔴[Mágikus lövészet](kepzettsegek/magikus_loveszet.md) <sup><sub>(40%)</sub></sup>
 
+---
 ## Fizikai képzettségek
 
 🔵[Fájdalomtűrés](kepzettsegek/fajdalomtures.md) <sup><sub>(70%)</sub></sup>
