@@ -137,8 +137,6 @@ A fentieket a KM összegzi és osztályzatot ad rá: `[-5; +5]` intervallumban, 
 
 🔵[Építészet](kepzettsegek/epiteszet.md) <sup><sub>(0%)</sub></sup>
 
-🔵[Jogismeret](kepzettsegek/jogismeret.md) (adott kultúrkör)  <sup><sub>(0%)</sub></sup> 🔁
-
 🔴[Mechanika](kepzettsegek/mechanika.md) <sup><sub>(5%)</sub></sup>
 
 🔴[Méregkeverés](kepzettsegek/meregkeveres.md) <sup><sub>(90%)</sub></sup>

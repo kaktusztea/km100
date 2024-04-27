@@ -14,9 +14,9 @@ Kapcsolódó Képzettség-próba:
 ```
 
 ##### Kiterjeszti
-- [Etikett](kepzettsegek/etikett.md)
-- [Műveltség](kepzettsegek/muveltseg.md)
-- [Történelemismeret](kepzettsegek/tortenelemismeret.md)
+- [Etikett](../kepzettsegek/etikett.md)
+- [Műveltség](../kepzettsegek/muveltseg.md)
+- [Történelemismeret](../kepzettsegek/tortenelemismeret.md)
 
 ##### Követelmény
 - Lásd a fokok leírását!

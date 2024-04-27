@@ -1,12 +1,12 @@
 #### 🟣 Harci láz 3
 
 ##### Kiterjeszti
--  [Harci láz](fortelyok.harci/harci_laz.md) FORTÉLY!⭕
+-  [Harci láz](../fortelyok.harci/harci_laz.md) FORTÉLY!⭕
 
 ##### Követelmény
 - ⭕xyz
 
-A [Harci láz](fortelyok.harci/harci_laz.md) fortély 3. speciális foka.
+A [Harci láz](../fortelyok.harci/harci_laz.md) fortély 3. speciális foka.
 
 Csak mágiával érhető el, például ork ereklye hatása, vagy Arel áldása. Ezek különleges állapotok, ezt a szintet nem lehet tanulással elérni, így **KP**-t sem lehet rá költeni.
 

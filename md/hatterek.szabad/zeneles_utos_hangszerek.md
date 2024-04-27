@@ -1,7 +1,7 @@
 #### 🟣 Zenélés: ütős hangszerek
 
 ##### Kiterjeszti
-- [Művész](kepzettsegek/muvesz.md)
+- [Művész](../kepzettsegek/muvesz.md)
 
 ##### Követelmény
 - ⭕xyz
