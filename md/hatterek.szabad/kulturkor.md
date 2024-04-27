@@ -48,7 +48,7 @@ Kalandozásai során a karakter számos helyre elvetődik.  Ha ott rászán idő
 
 Hogy mely foka adja meg az adott kultúrkörben a levonások nélküli használatot, az az adott képzettség leírásánál szerepel. A KM ezt - az adott szituációban - felülbírálhatja. 
 
-Ha nincs épp meg az adott szituációban a szükséges kultúrkörhöz tartozó **Kultúrkör** Bónusz Háttér, akkor `+3`-al emelkednek az adott képzettség próbáinak nehézségei, amíg a karakter rá nem szánja a szükséges időt a kapcsolódó Kultúrkör Háttér megszerzésére.
+Ha nincs épp meg az adott szituációban a szükséges kultúrkörhöz tartozó **Kultúrkör** Szabad Háttér, akkor `+3`-al emelkednek az adott képzettség próbáinak nehézségei, amíg a karakter rá nem szánja a szükséges időt a kapcsolódó Kultúrkör Háttér megszerzésére.
 
 ##### Kultúrkör lista
 - toroni
