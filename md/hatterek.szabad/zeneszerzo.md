@@ -1,10 +1,10 @@
 #### 🟣 Zeneszerző
 
 ##### Kiterjeszti
-- [Művész](kepzettsegek/muvesz.md)
+- [Művész](../kepzettsegek/muvesz.md)
 
 ##### Követelmény
--  [Művész](kepzettsegek/muvesz.md) - `6.szint`
+-  [Művész](../kepzettsegek/muvesz.md) - `6.szint`
 - Valamelyik Szabad háttér az alábbiak közül:
 	- [Zenélés: Fúvós hangszerek](zeneles_fuvos_hangszerek.md)
 	- [Zenélés: Húros hangszerek](zeneles_huros_hangszerek.md)

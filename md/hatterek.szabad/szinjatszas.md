@@ -1,7 +1,7 @@
 #### 🟣 Színjátszás
 
 ##### Kiterjeszti
-- [Művész](kepzettsegek/muvesz.md)
+- [Művész](../kepzettsegek/muvesz.md)
 
 ##### Követelmény
 - ⭕xyz
