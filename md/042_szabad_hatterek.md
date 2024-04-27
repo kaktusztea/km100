@@ -22,7 +22,7 @@ Tartalomjegyzék
 - [Kalligráfia](#-kalligr%C3%A1fia)
 - [Kultúrkör](#-kult%C3%BArk%C3%B6r-adott-kult%C3%BArk%C3%B6r-3) 🔁
 - [Lénylovas](#-l%C3%A9nylovas-faj-neve) 🔁
-- Színjátszás
+- [Színjátszás](#-sz%C3%ADnj%C3%A1tsz%C3%A1s)
 - [Szobrászat](#-szobr%C3%A1szat)
 - [Nyelvismeret](#nyelvismeret-)
 - [Tánc: speciális/belső stílus](#t%C3%A1nc-speci%C3%A1lisbels%C5%91-st%C3%ADlus) 🔁
