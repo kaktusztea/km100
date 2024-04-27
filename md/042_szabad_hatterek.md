@@ -29,7 +29,7 @@ Tartalomjegyzék
 - [Titkos szervezeti kultúra](#titkos-szervezeti-kult%C3%BAra)
 - [Zenélés: fúvós hangszerek](#-zen%C3%A9l%C3%A9s-f%C3%BAv%C3%B3s-hangszerek)
 - [Zenélés: húros hangszerek](#-zen%C3%A9l%C3%A9s-h%C3%BAros-hangszerek)
-- Zenélés: ütős hangszerek
+- [Zenélés: ütős hangszerek](#-zen%C3%A9l%C3%A9s-%C3%BCt%C5%91s-hangszerek)
 
 
 ---
