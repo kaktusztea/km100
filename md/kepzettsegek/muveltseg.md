@@ -23,7 +23,7 @@
 - Zenélés: ütős hangszerek
 - Zenélés: fúvós hangszerek ⭕TODO anchor link ⭕
 
-**Leírás**: Jelenkori világunktól eltérően inkább művészeti ismereteket fed.
+**Leírás**: Jelenkori világunktól eltérően inkább művészeti ismereteket fed, valamint vallásismeretet.
 
 **Követelmény**:
   - [Kultúrkör](../043_bonusz_hatterek.md#-kultúrkör-3) (adott kultúra) - `2.fok` - enélkül `+3` nehezítés a képzettségpróbákra
