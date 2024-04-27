@@ -158,6 +158,8 @@ A fentieket a KM összegzi és osztályzatot ad rá: `[-5; +5]` intervallumban, 
 
 ## Misztikus képzettségek
 
+🔴[Asztrológia](kepzettsegek/asztrologia.md)
+
 🔴[Aurafejlesztés](kepzettsegek/aurafejlesztes.md)
 
 🔴[Tradíció](kepzettsegek/tradicio.md)

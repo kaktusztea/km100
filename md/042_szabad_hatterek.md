@@ -376,6 +376,9 @@ Többször felvehető. Ez általában egyedi, titkos, vagy nagyon speciális tá
 - [xy](xy)
 
 
+Képes vagy használni a fúvós hangszerek alá tartozó hangszereket.
+
+
 ---
 #### 🟣 Zenélés: húros hangszerek
 
@@ -385,6 +388,7 @@ Többször felvehető. Ez általában egyedi, titkos, vagy nagyon speciális tá
 ##### Követelmény
 - [xy](xy)
 
+Képes vagy használni a húros hangszerek alá tartozó hangszereket.
 
 ---
 #### 🟣 Zenélés: ütős hangszerek
@@ -395,3 +399,4 @@ Többször felvehető. Ez általában egyedi, titkos, vagy nagyon speciális tá
 ##### Követelmény
 - [xy](xy)
 
+Képes vagy használni az ütős hangszerek alá tartozó hangszereket.
