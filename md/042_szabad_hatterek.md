@@ -16,7 +16,7 @@ Tartalomjegyzék
 - [Boncolás](#-boncol%C3%A1s-faj-neve) 🔁
 - Éneklés
 - Festészet
-- [Harci láz 3](xyz) ⭕TODO: Anchor link⭕
+- [Harci láz 3](#-harci-l%C3%A1z-3)
 - [Helyismeret](#-helyismeret-v%C3%A1rosnyi-ter%C3%BClet-3) 🔁
 - Irodalom
 - Kalligráfia
