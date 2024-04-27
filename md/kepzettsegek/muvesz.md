@@ -21,7 +21,7 @@
 - [Zenélés: ütős hangszerek](../hatterek.szabad/zeneles_utos_hangszerek.md)
 - [Zenélés: fúvós hangszerek](../hatterek.szabad/zeneles_fuvos_hangszerek.md)
 
-**Leírás**: Aktív, alkotó művész vagy. A fenti 
+**Leírás**: Aktív, alkotó művész vagy. A fenti listából a képzettség `3. szintén` 1 választott Szabad-Hátteret ingyen megkapsz.
 
 <br />
 

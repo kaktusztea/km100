@@ -3,7 +3,7 @@
 ```
 - többször felvehető
 - 3 fokú
-- 3 pont osztható el 1.szinten
+- 1.Tsz során kapott 6 SzP-ből költhető az otthon(ok) kultúrköre(ire) szabadon
 - Kaland végén kaphatóak újabb pontok ingyen, a KM-től
 
 ⚡ Példa: "Kultúrkör: Toron (2), "Kultúrkör: Pyarron (1)"
@@ -20,6 +20,10 @@ Kapcsolódó Képzettség-próba:
 
 ##### Követelmény
 - Lásd a fokok leírását!
+
+##### Fokok
+
+3 fokú Háttér, amelynek forrása az előtörténet és az átélt kalandok.\
 
 `1.fok`: Egy hetet eltöltöttél egy, vagy több olyan helyen, ahol aktív kapcsolatban voltál az adott kultúrkörrel\
 `2.fok`: Legalább 1 évet eltöltöttél az adott kultúrkörben, vagy évekig azt tanulmányoztad otthonodban. Itt a KM adhat kedvezményt.\

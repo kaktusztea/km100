@@ -2,7 +2,7 @@
 ```
 - többször felvehető
 - 3 fokú
-- 3 pont osztható el 1.szinten
+- 1.Tsz során kapott 6 SzP-ből költhető az otthon(ok) helyismeret(ei)re szabadon
 - Kaland végén kaphatóak újabb pontok ingyen, a KM-től
 ```
 
