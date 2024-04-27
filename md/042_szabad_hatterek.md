@@ -325,7 +325,7 @@ A Háttér többször felvehető - minden "bejáratott" hátas fajhoz külön.
 - [xy](xy)
 
 ---
-#### 🟣Nyelvismeret 🔁
+#### 🟣 Nyelvismeret 🔁
 
 A nyelvek ismerete nem kerül sem `KP`-ba, sem `SzP`-be.
 
@@ -341,7 +341,7 @@ Amennyiben a nem rendelkezel a kívánt Nyelvismerettel, akkor - ha van kapcsol�
 ##### Követelmény: -
 
 ---
-#### 🟣Tánc: speciális/belső stílus 🔁
+#### 🟣 Tánc: speciális/belső stílus 🔁
 
 Többször felvehető. Ez általában egyedi, titkos, vagy nagyon speciális táncot takar, mint például a **Toroni Vérnász**. Magától értetődik, hogy speciális/belső táncstílus tanulásához megfelelő előtörténeti kapcsolat, vagy komoly indoklás szükséges, melyre a KM is rábólint.
 
@@ -354,7 +354,7 @@ Többször felvehető. Ez általában egyedi, titkos, vagy nagyon speciális tá
 <br />
 
 ---
-#### 🟣Titkos szervezeti kultúra
+#### 🟣 Titkos szervezeti kultúra
 
 ##### Kiterjeszti
 - Etikett
