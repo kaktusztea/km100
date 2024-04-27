@@ -20,7 +20,7 @@ Tartalomjegyzék
 - [Helyismeret](#-helyismeret-v%C3%A1rosnyi-ter%C3%BClet-3-) 🔁
 - [Irodalom](#-irodalom)
 - [Kalligráfia](#-kalligr%C3%A1fia)
-- [Kultúrkör](#-kult%C3%BArk%C3%B6r-adott-kult%C3%BArk%C3%B6r-3) 🔁
+- [Kultúrkör](#-kult%C3%BArk%C3%B6r-adott-kult%C3%BArk%C3%B6r-3-) 🔁
 - [Lénylovas](#-l%C3%A9nylovas-faj-neve-) 🔁
 - [Színjátszás](#-sz%C3%ADnj%C3%A1tsz%C3%A1s)
 - [Szobrászat](#-szobr%C3%A1szat)
