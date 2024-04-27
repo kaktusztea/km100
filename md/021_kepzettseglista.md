@@ -14,10 +14,6 @@
 
 ---
 
-[Különleges képzettségek első szinten](#Különleges-képzettségek-első-szinten)
-
----
-
 [Harci képzettségek](#Harci-képzettségek)
 
 [Fizikai képzettségek](#Fizikai-képzettségek)
@@ -45,7 +41,6 @@
 [Magasmágia képzettség iskolái](#Magasmágia-képzettség-iskolái)
 
 ---
-
 ## Harci képzettségek
 
 🔴[Közelharc](kepzettsegek/harcmodor.md)  <sup><sub>(60%)</sub></sup>
@@ -78,6 +73,7 @@
 
 🔴[Akrobatika](kepzettsegek/akrobatika.md)
 
+---
 ## Világi képzettségek
 
 🔵[Észlelés](kepzettsegek/eszleles.md) <sup><sub>(95%)</sub></sup>
@@ -122,6 +118,7 @@
 
 🔵[Csapdaállítás](kepzettsegek/csapdaallitas.md) <sup><sub>(0%)</sub></sup>
 
+---
 ## Művészeti képzettségek
 
 A Művészeti képzettségeket a szabályrendszer elég szabadon és speciálisan kezeli, mivel talán itt számít leginkább a játékos beleélőképessége. Ha feltétlenül képzettségpróbát kell dobni, akkor a KM ne a karakter Tulajdonoságai közül válasszon egyet, hanem egy `pszeudó tulajdonságot` alkalmazzon, amelyenek értéke attól függ, hogy a karakter milyen lelkiállapotban van, illetve, hogy a játékos mennyire képes beleélni magát a helyzetbe, kijátszani, elmesélni az alkotás folyamatát.
@@ -134,6 +131,8 @@ A fentieket a KM összegzi és osztályzatot ad rá: `[-5; +5]` intervallumban, 
 
 🔵[Zeneszerző](kepzettsegek/zeneszerzo.md)
 
+
+---
 ## Tudományos képzettségek
 
 🔵[Alkímia](kepzettsegek/alkimia.md) <sup><sub>(0%)</sub></sup>
@@ -156,6 +155,7 @@ A fentieket a KM összegzi és osztályzatot ad rá: `[-5; +5]` intervallumban, 
 
 🔴[Történelemismeret](kepzettsegek/tortenelemismeret.md) <sup><sub>(40%)</sub></sup> 
 
+---
 ## Misztikus képzettségek
 
 🔴[Asztrológia](kepzettsegek/asztrologia.md)
@@ -172,6 +172,7 @@ A fentieket a KM összegzi és osztályzatot ad rá: `[-5; +5]` intervallumban, 
 
 🔴[Demonológia*](kepzettsegek/demonologia.md) <sup><sub>(80%)</sub></sup>
 
+---
 ## Magasmágia képzettség iskolái
 
 🔴Metamágia
@@ -204,6 +205,7 @@ A fentieket a KM összegzi és osztályzatot ad rá: `[-5; +5]` intervallumban, 
 
 🔴Demonológia
 
+---
 ## Vulgármágia képzettség iskolái
 
 🔴[Árnyékmágia](magia.vulgar/arnyekmagia.md)  <sup><sub>(10%)</sub></sup>
@@ -238,12 +240,14 @@ A fentieket a KM összegzi és osztályzatot ad rá: `[-5; +5]` intervallumban, 
 
 ⭕Ceremoniális mágiák (???)
 
+---
 ## Ordani tűzmágia képzettség iskolái
 
 🔴[Alapformák](magia.godoni.tuz/alapformak.md)  <sup><sub>(0%)</sub></sup>
 
 🔴TODO⭕
 
+---
 ## Bárdmágia képzettség iskolái
 
 🔴[Fénymágia](magia.bard/fenymagia.md) <sup><sub>(0%)</sub></sup>
@@ -254,6 +258,8 @@ A fentieket a KM összegzi és osztályzatot ad rá: `[-5; +5]` intervallumban, 
 
 🔴Asztrálmágia
 
+
+---
 ## Sámánmágia képzettség iskolái
 
 🔴Szabadmágia
@@ -272,14 +278,17 @@ A fentieket a KM összegzi és osztályzatot ad rá: `[-5; +5]` intervallumban, 
 
 🔴Rituálé
 
+---
 ## Ork énekmondói mágia képzettség iskolái
 
 🔴⭕TODO⭕
 
+---
 ## Rituális mágia
 
 🔴⭕TODO⭕ (ha lesz)
 
+---
 ## Papi mágia
 
 - [STUDY oldal: Varázslat szférák](https://github.com/kaktusztea/km100/wiki/STUDY.magiatradicio.papimagia#var%C3%A1zslat-szf%C3%A9r%C3%A1k) - mint iskola-képzettségek (draft)
