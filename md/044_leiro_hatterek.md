@@ -34,6 +34,7 @@ Alább 1-2 szavas jelzőket találsz, amelyek további szinesítő elemeket adha
 - Pókiszony
 - Precíz
 - Rend
+- Tériszony
 
 
 #### Küllem, fizikum
