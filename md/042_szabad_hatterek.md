@@ -54,8 +54,9 @@ A fenti információ más módon - ritka, titkos fóliásokkal bújásával - is
 
 ##### Kiterjeszti
 - [Művész](kepzettsegek/muvesz.md)
+
 ##### Követelmény
-- xyz ⭕
+- ⭕xyz
 
 
 ---
@@ -65,7 +66,7 @@ A fenti információ más módon - ritka, titkos fóliásokkal bújásával - is
 - [Művész](kepzettsegek/muvesz.md)
 
 ##### Követelmény
-- xyz ⭕
+- ⭕xyz
 
 Jól bánsz az ecsettel, kedvtelésből, vagy önkifejezés céljából vetsz vászonra színes műveket.
 
@@ -106,7 +107,7 @@ Különlegesen kifinomult a tapintásod, ez lehet áldás és átok is.
 -  [Harci láz](fortelyok.harci/harci_laz.md) FORTÉLY!⭕
 
 ##### Követelmény
-- xyz⭕
+- ⭕xyz
 
 A [Harci láz](fortelyok.harci/harci_laz.md) fortély 3. speciális foka.
 
@@ -185,7 +186,7 @@ A **Helyismeret** Háttér egyes fokai írják le, hogy biztos tudásból milyen
 - [Művész](kepzettsegek/muvesz.md)
 
 ##### Követelmény
-- [xy](xy)
+- ⭕xyz
 
 ---
 #### 🟣 Kalligráfia
@@ -194,7 +195,7 @@ A **Helyismeret** Háttér egyes fokai írják le, hogy biztos tudásból milyen
 - [Művész](kepzettsegek/muvesz.md)
 
 ##### Követelmény
-- [xy](xy)
+- ⭕xyz
 
 ---
 #### 🟣 Kobratánc
@@ -309,7 +310,7 @@ A Háttér többször felvehető - minden "bejáratott" hátas fajhoz külön.
 - [Művész](kepzettsegek/muvesz.md)
 
 ##### Követelmény
-- [xy](xy)
+- ⭕xyz
 
 
 ---
@@ -319,7 +320,7 @@ A Háttér többször felvehető - minden "bejáratott" hátas fajhoz külön.
 - [Művész](kepzettsegek/muvesz.md)
 
 ##### Követelmény
-- [xy](xy)
+- ⭕xyz
 
 ---
 #### 🟣 Nyelvismeret 🔁
@@ -335,6 +336,7 @@ A Nyelvismeretnek `2` foka van.
 Amennyiben a nem rendelkezel a kívánt Nyelvismerettel, akkor - ha van kapcsolódó [Kultúrkör](#-kultúrkör-adott-kultúrkör-3) Szabad Háttérred legalább `1.fokon`, akkor nagyon alap szavakat ismersz, amivel - plusz kézzel-lábbal - meg tudod értetni magad ("Kő", "Tűz", "Vesz", "Kenyér", stb)
 
 ##### Kiterjeszti: -
+
 ##### Követelmény: -
 
 ---
@@ -367,7 +369,7 @@ Többször felvehető. Ez általában egyedi, titkos, vagy nagyon speciális tá
 #### 🟣 Zenélés: fúvós hangszerek
 
 ##### Kiterjeszti
-- [Művész](muvesz.md)
+- [Művész](kepzettsegek/muvesz.md)
 
 ##### Követelmény
 - ⭕xyz
