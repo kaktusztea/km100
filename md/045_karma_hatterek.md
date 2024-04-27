@@ -17,16 +17,15 @@ Versenyeken, klubokban csak és kizárólag az itt leírt Karmákat adhatja meg 
 ---
 ### Tartalomjegyzék
 
-- [Alkoholista](xy)
-- [Bajnok](xy)
-- [Bukott gyógyító](xy)
-- [Gyerekgyilkos](xy)
-- [Gyilkos](xy)
-- [Hírhedt](xy)
-- [Hős](xy)
-- [Mágikus összhang](xy)
-- [Profán](xy)
-
+- [Alkoholista](#-alkoholista)
+- [Bajnok](#-bajnok)
+- [Bukott gyógyító](#-bukott-gy%C3%B3gy%C3%ADt%C3%B3)
+- [Gyerekgyilkos](#-gyerekgyilkos)
+- [Gyilkos](#-gyilkos)
+- [Hírhedt](#-h%C3%ADrhedt)
+- [Hős](#-h%C5%91s)
+- [Mágikus összhang](#-m%C3%A1gikus-%C3%B6sszhang)
+- [Profán](#-prof%C3%A1n)
 
 ---
 ### 🟣 Alkoholista
