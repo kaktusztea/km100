@@ -141,7 +141,6 @@ Ajánlott fortélyok: -
 
 Ajánlott képzettségek:
 - [Etikett](kepzettsegek/etikett.md) (Kyr kultúrkör)
-- [Ősi kultúrák ismerete](kepzettsegek/osi_kulturak_ismerete.md) (Kyr)
 - [Ősi nyelv ismerete](kepzettsegek/osi_nyelv_ismerete.md) (Kyr)
 
 <br />

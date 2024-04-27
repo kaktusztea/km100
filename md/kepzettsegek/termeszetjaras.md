@@ -1,16 +1,22 @@
-#### 🔵 Természetjárás (adott tájtípus)
+#### 🔵 Természetjárás
 
-Többször (4x) felvehető képzettség - adott tájtípusra.
+**Próba:** dobható
 
-**Tájtípusok**:
+**Domináns Tulajdonságok**: Érzékenység, Intelligencia
+
+**Kapcsolódó fortélyok**: ⭕xyz
+
+**Bónusz-Háttér**: ⭕xyz
+
+**Szabad Hátterek** (tájtípusokra)
 - dzsungel
 - sivatag
 - magaslati (sarkvidék)
 - erdős
 
-A fentiek között Erős összhang van (ami alacsony szinteken helyettesítőként működhet).
+**Leírás**: A képzettség a táj ismeretét és annak környezeti jellemzőit fogja egybe és adott tájtípusokra lehet megtanulni, amelyeket a fenti **Szabad Hátterek** határoznak meg. Ebből 1 alapból jár a képzettség felvételekor, a többi `SzP` használatával vehető fel később.
 
-Az adott tájtípus ismerete környezeti jellemzőkre vonatkozik és magában foglalja a következőket:
+A képzettség magában foglalja a következőket:
 - Túlélés, hideg és meleg elleni technikák, tűzrakás
 - Tájékozódás
 - Állat és növényvilág részleges ismerete, szokásaik ("Erdőjárás")
@@ -24,4 +30,38 @@ Az adott tájtípus ismerete környezeti jellemzőkre vonatkozik és magában fo
 
 Fontos, hogy a képzettség nem helyettesítheti a szerepjátszást, csak támpontokat, mankót adhat. Tehát ha a karakter megdobja próbáját, akkor a KM csak segítségeket tárhat a játékos elé, a teljes megoldást nem kínálhatja tálcán.
 
+
 ⭕TODO: szokásos kifejtés, szintek, esetleges követelmények⭕
+##### Biztos tudás, követelmények
+
+| Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub> | Követelmény |
+|:---------------- |:---------------------------------------------------------------------------------- |:-----------:|
+| Novícius (3)     | xyz <br /> **Példa**: x                                                            |             |
+| Kismester (6)    | xyz <br /> **Példa**: x                                                            |             |
+| Mester (9)       | xyz <br /> **Példa**: x                                                            |             |
+| Nagymester (12)  | xyz <br /> **Példa**: x                                                            |             |
+| Élő legenda (15) | xyz <br /> **Példa**: x                                                            |             |
+
+<br />
+
+##### Próbák
+
+| Célszám | Példa  |
+| :----------- | :----------- |
+| Könnyű       (6)  | |
+| Átlagos      (9)  | |
+| Nehéz        (12) | |
+| Nagyon nehéz (15) | |
+| Rendkívül nehéz (18) | |
+| Emberfeletti (21) | |
+
+<br />
+
+##### Célszámot módosító körülmények
+
+- ⭕xyz
+
+---
+
+
+

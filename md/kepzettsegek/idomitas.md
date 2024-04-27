@@ -1,6 +1,4 @@
-#### 🔵 Idomítás (állatcsoportok)
-
-Többször felvehető.
+#### 🔵 Idomítás
 
 **Próba:** dobható
 
@@ -10,11 +8,12 @@ Többször felvehető.
 
 **Bónusz-Háttér**: [Állat testvér](../043_bonusz_hatterek.md#-állat-testvér)
 
-**Leírás**: a képzettség egyes állatcsoportok idomítását fogja egybe, így többször is felvehető. Az alábbi állatcsoportokra lehet megtanulni:
-- Hátasok
-- Madarak, Hüllők (egyben)
-- Háziállatok
-- ⭕
+**Szabad-Hátterek**
+-  Hátasok
+ - Madarak-Hüllők
+ - Háziállatok
+
+**Leírás**: a képzettség egyes állatok idomítását fogja egybe és állatcsoportokra lehet megtanulni, amelyeket a fenti **Szabad Hátterek** határoznak meg. Ebből 1 alapból jár a képzettség felvételekor, a többi `SzP` használatával vehető fel később.
 
 <br />
 
