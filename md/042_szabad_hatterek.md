@@ -2,12 +2,20 @@
 
 <!-- tag: szabad_hatter -->
 
-A Szabad Hátterek speciális, egy, vagy több képzettséget "kiterjesztő" ismeretek.
+A Szabad Hátterek specializált, egy, vagy több képzettséget "kiterjesztő" ismeretek.
+#### Szabad Pontok
+```
+Szabad Pontok: 6  +  (Szint x 2)
+```
 
-Hozzájutni kétfajtaképpen lehet.
+#### Felvétel
+Hozzájutni ilyen Hátterekhez kétféleképpen lehet:
+1. KM adja ingyen, olyan kalandban történt megpróbáltató esemény után, ami ezt indokolja. Például a kalandban megültél egy **Wyvernt**, ekkor megkapod a [Lénylovas - Wyvern](hatterek.szabad/lenylovas.md) Szabad Hátteret ingyen.
+2.  Szabad Pontokból (SzP) felveszel **Szabad Hátterek** fokait. Az egyes Szabad Hátterek maximum fokát lásd azok leírásában.
 
-⭕Ha egy képzettséghez számos Szabad Háttér kapcsolódik, akkor azok közül 1 választottat automatikusan megkap a karakter.⭕
-⭕TODO: van, ahol ez ... ⭕
+Ha egy képzettséghez számos Szabad Háttér kapcsolódik, akkor azok közül 1 választottat automatikusan megkap a karakter, amint a képzettséget `0.szintről` növelni kezdi.
+
+⭕TODO: van, ahol így van, van ahol nem ... ⭕
 
 ---
 #### Tartalomjegyzék
