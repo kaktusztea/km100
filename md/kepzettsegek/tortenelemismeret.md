@@ -8,23 +8,27 @@
 
 **Kapcsolódó fortélyok**: -
 
-**Bónusz-Háttér**: ⭕
+**Bónusz Hátterek**: ⭕TODO
 
-**Szabad Hátterek**: Kultúrkör ⭕link⭕
+**Szabad Hátterek**
+- [Kultúrkör](../hatterek.szabad/kulturkor.md)
+- [Pénzügyek](../hatterek.szabad/penzugyek.md)
+- [Jogismeret](../hatterek.szabad/jogismeret.md)
 
 ##### Követelmények
- [Kultúrkör](../043_bonusz_hatterek.md#-kultúrkör-3): Az Alapeset, ha a próbát érintő **Kultúrkör** Háttér legalább `2.fokon` megvan. Amennyiben nincs meg, vagy ez alatti, akkor a próba **Nehézsége**⭕ a Kultúrkörnél leírt mértékben emelkedik.⭕
+ - [Kultúrkör](../hatterek.szabad/kulturkor.md) - `2.fok`
+Amennyiben nincs meg a próbát érintő **Kultúrkör** Háttér legalább `2.fokon`, akkor a próba **Nehézsége**⭕ a Kultúrkörnél leírt mértékben emelkedik.⭕
 
 **Leírás**: Alacsonyabb szinten a hetedkori Ynev általános történelmét ismered, magasabb szinten fellebbennek a titkok a régebbi korok titkairól is.
 
 **ÉSZAKON**:
-⭕Ezeket szinkronba hozni a Kultúrkörökkel⭕
+⭕TODO: Ezeket szinkronba hozni a Kultúrkörökkel⭕
 - Északi Szövetség és a vörös hadurak országai
 - Toron és a fekete hadurak országai (Abaszisz, Gro-Ugon, az északi városállamok - mint Rowon, Alidax -, stb.)
 - Godora és Erion (beleértve a környéket is, pl. Elátkozott Vidék, Sheral nyugati része, stb.)
 
 **DÉLEN**:
-⭕Ezeket szinkronba hozni a Kultúrkörökkel⭕
+⭕TODO: EEzeket szinkronba hozni a Kultúrkörökkel⭕
 - Krán és a déli nomádok
 - Pyarroni Államszövetség és Yllinor
 - Shadon és környéke
@@ -37,16 +41,16 @@
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub> | Követelmény |
 |:---------------- |:---------------------------------------------------------------------------------- |:-----------:|
-| Novícius (3)     | ⭕xyz <br /> **Példa**: x                                                           |             |
-| Kismester (6)    | ⭕xyz <br /> **Példa**: x                                                           |             |
-| Mester (9)       | ⭕xyz <br /> **Példa**: x                                                           |             |
-| Nagymester (12)  | ⭕xyz <br /> **Példa**: x                                                           |             |
-| Élő legenda (15) | ⭕xyz <br /> **Példa**: x                                                           |             |
+| Novícius (3)     | ⭕xyz <br /> **Példa**: x                                                          |             |
+| Kismester (6)    | ⭕xyz <br /> **Példa**: x                                                          |             |
+| Mester (9)       | ⭕xyz <br /> **Példa**: x                                                          |             |
+| Nagymester (12)  | ⭕xyz <br /> **Példa**: x                                                          |             |
+| Élő legenda (15) | ⭕xyz <br /> **Példa**: x                                                          |             |
 ##### Bónusz-Hátterek
 
 9. szint: ⭕TODO⭕; Hatodkori történelem ismerete
-12. szint: Ötödkori történelem; Postcognition álmok (látja a valós régmúlt eseményeit álmában)
-15. szint: Negyedkori történelem; Jósolni képes történelmi/társadalmi mértékben
+12. szint: Ötödkori történelem ismerete; Postcognition álmok (látja a valós régmúlt eseményeit álmában)
+15. szint: Negyedkori történelem ismerete; Jósolni képes történelmi/társadalmi mértékben
 
 ##### Próbák
 
@@ -63,5 +67,5 @@
 
 ##### Célszámot módosító körülmények
 
-- Nehézség büntetés, ha nincs kapcsolódó [Kultúrkör](../043_bonusz_hatterek.md#-kultúrkör) Bónusz Háttér `2.fokon`.
+- Nehézség büntetés, ha nincs kapcsolódó [Kultúrkör](../hatterek.szabad/kulturkor.md) `2.fokon`.
  

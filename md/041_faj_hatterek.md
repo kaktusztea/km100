@@ -123,7 +123,7 @@ Ajánlott fortélyok:
 - \-
 
 Ajánlott képzettségek:
-- [Etikett](kepzettsegek/etikett.md) (adott kultúrkör)
+- [Etikett](kepzettsegek/etikett.md)
 
 <br />
 
@@ -137,7 +137,7 @@ Edzettség: [-5;+4] ; Önuralom [-3;+6]
 Felvehető Érzék-Fortélyok maximuma:
 - [Ultralátás](fortelyok.erzekek/fejlett_szaglas.md) - 1. fok
 
-Ajánlott fortélyok: -
+Ajánlott fortélyok, Szabad Hátterek: [Kultúrkör](hatterek.szabad/kulturkor.md) (Kyr)
 
 Ajánlott képzettségek:
 - [Etikett](kepzettsegek/etikett.md) (Kyr kultúrkör)

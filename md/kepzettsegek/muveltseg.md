@@ -1,35 +1,36 @@
 #### 🔵 Műveltség
 
-⭕TODO:  átnevezni? Művészeti ismereteket fed. Matek, gazdaság, nincs benne.⭕
+⭕TODO:  átnevezni? Művészeti ismereteket fed passzív formában. Matek, gazdaság, nincs benne.⭕
 
 **Próba:** dobható
 
 **Domináns Tulajdonságok**: Emlékezet, Intelligencia, Érzékenység
 
-**Kapcsolódó fortélyok**: [Irodalmár](../fortelyok.altalanos/irodalmar.md) 
+**Kapcsolódó fortélyok**: [Irodalmár](../fortelyok.altalanos/irodalmar.md)
 
 **Bónusz-Háttér**: -
 
 **Szabad-Háttérek** (1 ingyenes):
-- Éneklés ⭕TODO anchor link ⭕
-- Festészet
-- Irodalom
-- Kalligráfia
-- [Kultúrkör](../043_bonusz_hatterek.md#-kultúrkör-3)
-- Szobrászat
-- Színjátszás
-- [Tánc: speciális/belső stílus](../042_szabad_hatterek.md) ⭕TODO anchor link ⭕
-- Zenélés: húros hangszerek
-- Zenélés: ütős hangszerek
-- Zenélés: fúvós hangszerek ⭕TODO anchor link ⭕
+- [Éneklés](../hatterek.szabad/enekles.md)
+- [Festészet](../hatterek.szabad/festeszet.md)
+- [Irodalom](../hatterek.szabad/irodalom.md)
+- [Kalligráfia](../hatterek.szabad/kalligrafia.md)
+- [Kultúrkör](../hatterek.szabad/kulturkor.md)
+- [Szobrászat](../hatterek.szabad/szobraszat.md)
+- [Színjátszás](../hatterek.szabad/szinjatszas.md)
+- [Tánc: speciális/belső stílus](../hatterek.szabad/tanc.md)
+- [Zenélés: húros hangszerek](../hatterek.szabad/zeneles_huros_hangszerek.md)
+- [Zenélés: ütős hangszerek](../hatterek.szabad/zeneles_utos_hangszerek.md)
+- [Zenélés: fúvós hangszerek](../hatterek.szabad/zeneles_fuvos_hangszerek.md)
 
-**Leírás**: Jelenkori világunktól eltérően inkább művészeti ismereteket fed, valamint vallásismeretet.
+**Leírás**: Jelenkori világunktól eltérően inkább művészeti tudást, valamint vallásismeretet fed le.
 
 **Követelmény**:
-  - [Kultúrkör](../043_bonusz_hatterek.md#-kultúrkör-3) (adott kultúra) - `2.fok` - enélkül `+3` nehezítés a képzettségpróbákra
-  - [Nyelvismeret](xyz): Udvari ⭕TODO link ⭕
+  - [Kultúrkör](../hatterek.szabad/kulturkor.md) (adott kultúra) - `2.fok`. Enélkül `+3` nehezítés a képzettségpróbákra
+  - [Nyelvismeret](../hatterek.szabad/nyelvismeret.md): Udvari fok
 
 **Összhagok:**
+- [Művész](muvesz.md),
 - [Történelemismeret](tortenelemismeret.md) (Erős összhang)
 
 <br />
@@ -48,14 +49,14 @@
 
 ##### Próbák
 
-| Célszám | Példa  |
-| :----------- | :----------- |
-| Könnyű       (6)  | |
-| Átlagos      (9)  | |
-| Nehéz        (12) | |
-| Nagyon nehéz (15) | |
-| Rendkívül nehéz (18) | |
-| Emberfeletti (21) | |
+| Célszám              | Példa |
+|:-------------------- |:----- |
+| Könnyű       (6)     |       |
+| Átlagos      (9)     |       |
+| Nehéz        (12)    |       |
+| Nagyon nehéz (15)    |       |
+| Rendkívül nehéz (18) |       |
+| Emberfeletti (21)    |       |
 
 <br />
 

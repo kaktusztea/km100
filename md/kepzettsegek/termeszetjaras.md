@@ -9,10 +9,10 @@
 **Bónusz-Háttér**: ⭕xyz
 
 **Szabad Hátterek** (tájtípusokra)
-- dzsungel
-- sivatag
-- magaslati (sarkvidék)
-- erdős
+- [Tájtípus - dzsungel](../hatterek.szabad/tajtipus_dzsungel.md)
+- [Tájtípus - sivatag](../hatterek.szabad/tajtipus_sivatag.md)
+- [Tájtípus - magaslati](../hatterek.szabad/tajtipus_magaslati.md)
+- [Tájtípus - erdős](../hatterek.szabad/tajtipus_erdos.md)
 
 **Leírás**: A képzettség a táj ismeretét és annak környezeti jellemzőit fogja egybe és adott tájtípusokra lehet megtanulni, amelyeket a fenti **Szabad Hátterek** határoznak meg. Ebből 1 alapból jár a képzettség felvételekor, a többi `SzP` használatával vehető fel később.
 

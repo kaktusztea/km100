@@ -9,17 +9,19 @@
 **Bónusz-Háttér**: xyz
 
 **Szabad-Háttérek**:
-- [Tánc: speciális/belső stílus](../042_szabad_hatterek.md) ⭕TODO anchor link ⭕
-- Zenélés: húros hangszerek
-- Zenélés: ütős hangszerek
-- Zenélés: fúvós hangszerek
-- Éneklés
-- Festészet
-- Kalligráfia
-- Szobrászat
-- Színjátszás ⭕TODO anchor link ⭕
+- [Éneklés](../hatterek.szabad/enekles.md)
+- [Festészet](../hatterek.szabad/festeszet.md)
+- [Irodalom](../hatterek.szabad/irodalom.md)
+- [Kalligráfia](../hatterek.szabad/kalligrafia.md)
+- [Kultúrkör](../hatterek.szabad/kulturkor.md)
+- [Szobrászat](../hatterek.szabad/szobraszat.md)
+- [Színjátszás](../hatterek.szabad/szinjatszas.md)
+- [Tánc: speciális/belső stílus](../hatterek.szabad/tanc.md)
+- [Zenélés: húros hangszerek](../hatterek.szabad/zeneles_huros_hangszerek.md)
+- [Zenélés: ütős hangszerek](../hatterek.szabad/zeneles_utos_hangszerek.md)
+- [Zenélés: fúvós hangszerek](../hatterek.szabad/zeneles_fuvos_hangszerek.md)
 
-**Leírás**: xyz
+**Leírás**: Aktív, alkotó művész vagy. A fenti 
 
 <br />
 
