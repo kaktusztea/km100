@@ -23,7 +23,7 @@ Tartalomjegyzék
 - [Kultúrkör](#-kult%C3%BArk%C3%B6r-adott-kult%C3%BArk%C3%B6r-3) 🔁
 - [Lénylovas](#-l%C3%A9nylovas-faj-neve) 🔁
 - Színjátszás
-- Szobrászat
+- [Szobrászat](#-szobr%C3%A1szat)
 - [Nyelvismeret](#nyelvismeret-)
 - [Tánc: speciális/belső stílus](#t%C3%A1nc-speci%C3%A1lisbels%C5%91-st%C3%ADlus) 🔁
 - [Titkos szervezeti kultúra](#titkos-szervezeti-kult%C3%BAra)
