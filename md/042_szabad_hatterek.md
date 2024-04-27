@@ -377,7 +377,7 @@ Többször felvehető. Ez általában egyedi, titkos, vagy nagyon speciális tá
 
 
 ---
-#### 🟣 Zenélés: pengetős hangszerek
+#### 🟣 Zenélés: húros hangszerek
 
 ##### Kiterjeszti
 - [xy](xy)
