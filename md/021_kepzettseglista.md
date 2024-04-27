@@ -137,6 +137,8 @@ A fentieket a KM összegzi és osztályzatot ad rá: `[-5; +5]` intervallumban, 
 
 🔵[Építészet](kepzettsegek/epiteszet.md) <sup><sub>(0%)</sub></sup>
 
+🔵[Hadvezetés](kepzettsegek/hadvezetes.md) <sup><sub>(0%)</sub></sup> 
+
 🔴[Mechanika](kepzettsegek/mechanika.md) <sup><sub>(5%)</sub></sup>
 
 🔴[Méregkeverés](kepzettsegek/meregkeveres.md) <sup><sub>(90%)</sub></sup>
@@ -144,8 +146,6 @@ A fentieket a KM összegzi és osztályzatot ad rá: `[-5; +5]` intervallumban, 
 🔵[Műveltség](kepzettsegek/muveltseg.md)  <sup><sub>(50%)</sub></sup>
 
 🔴[Ősi nyelv ismerete](kepzettsegek/osi_nyelv_ismerete.md) (Külön ősi nyelvenként) <sup><sub>(0%)</sub></sup> 🔁
-
-🔵[Stratégia](kepzettsegek/strategia.md) <sup><sub>(0%)</sub></sup> 
 
 🔵[Térképészet](kepzettsegek/terkepeszet.md) <sup><sub>(0%)</sub></sup>
 
