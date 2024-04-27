@@ -17,7 +17,7 @@ Tartalomjegyzék
 - [Éneklés](#-%C3%A9nekl%C3%A9s)
 - [Festészet](#-fest%C3%A9szet)
 - [Harci láz 3](#-harci-l%C3%A1z-3)
-- [Helyismeret](#-helyismeret-v%C3%A1rosnyi-ter%C3%BClet-3) 🔁
+- [Helyismeret](#-helyismeret-v%C3%A1rosnyi-ter%C3%BClet-3-) 🔁
 - [Irodalom](#-irodalom)
 - [Kalligráfia](#-kalligr%C3%A1fia)
 - [Kultúrkör](#-kult%C3%BArk%C3%B6r-adott-kult%C3%BArk%C3%B6r-3) 🔁
