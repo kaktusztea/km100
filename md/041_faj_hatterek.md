@@ -12,140 +12,22 @@ Az alábbiakban a játszható és nem játszható fajok bemutatását, Tulajdons
 
 Tehát például választhat egy **orkot**, akinek mindösszesen "**Infralátás - 1.fok**" Érzék-Fortélya van. Nincs kiemelkedően jó szaglása, vagy hallása és a föld alatt sem kap bónuszokat. Egy faj nem minden egyede egyforma. A játékos megkapja a lehetőséget egy sokféle különleges érzékkel megáldott egyed indítására, de az sok KP-ba fog kerülni - a választás az övé.
 
-⭕Tartalomjegyzék ide⭕
+#### Tartalomjegyzék
 
-#### Ember
+- [Amund](xx)
+- [Dzsenn](xx)
+- [Elf](xx)
+- [Ember](xx)
+- [Félelf](xx)
+- [Gnóm](xx)
+- [Goblin](xx)
+- [Khál](xx)
+- [Kyr vérű](xx)
+- [Ork](xx)
+- [Udvari ork](xx)
+- [Törpe](xx)
 
-```
-[-5;+5] a határ minden Tulajdonságra
-```
 
-<br />
-
----
-#### Elf
-
-
-```
-Erő: [-5; +4] ; Edzettség: [-5; +4] ; Ügyesség [-2;+6] ; Gyorsaság [-2;+6]
-```
-
-Felvehető Érzék-Fortélyok maximuma:
-- [Fejlett látás](fortelyok.erzekek/fejlett_latas.md) - 1. fok
-- [Infralátás](fortelyok.erzekek/infralatas.md) - 2. fok
-
-Ajánlott fortélyok:
-- [Kitartás](fortelyok.altalanos/kitartas.md)
-
-Ajánlott képzettségek:
-- [Természetjárás](kepzettsegek/termeszetjaras.md)
-- [Lovaglás](kepzettsegek/lovaglas.md)
-
-<br />
-
----
-#### Félelf
-
-```
-Erő: [-5;+4] ; Gyorsaság [-4;+6]
-```
-
-Felvehető Érzék-Fortélyok maximuma:
-- [Fejlett látás](fortelyok.erzekek/fejlett_latas.md) - 1. fok
-- [Infralátás](fortelyok.erzekek/infralatas.md) - 1. fok
-
-Ajánlott fortélyok:
-- [Kitartás](fortelyok.altalanos/kitartas.md)
-
-Ajánlott képzettségek:
-- [Természetjárás](kepzettsegek/termeszetjaras.md)
-- [Lovaglás](kepzettsegek/lovaglas.md)
-
-<br />
-
----
-#### Törpe
-
-```
-Erő: [-1;+5] ; Gyorsaság [-5;+4] ; Edzettség [-2;+6] ; Emlékezet [-5;+6]
-```
-
-🔆Futásnál, úszásnál, gyaloglásnál `-2` jár a Gyorsaságpróbáira.
-
-Felvehető Érzék-Fortélyok maximuma:
-- [Ultralátás](fortelyok.erzekek/ultralatas.md) - 3. fok
-- [Infralátás](fortelyok.erzekek/infralatas.md) - 2. fok
-- [Barlangi tájékozódás](fortelyok.erzekek/barlangi_tajekozodas.md) - 1. fok
-
-Ajánlott fortélyok:
-- [Keresés](fortelyok.altalanos/kereses.md)
-- [Villámgyors keresés](fortelyok.altalanos/villamgyors.kereses.md)
-- [Kitartás](fortelyok.altalanos/kitartas.md)
-
-Ajánlott képzettségek:
-- [Építészet](kepzettsegek/epiteszet.md)
-
-<br />
-
----
-#### Ork
-
-```
-Erő: [-1;+6] ; Edzettség [+0;+6]; Intelligencia [-5;+2]
-```
-
-Felvehető Érzék-Fortélyok maximuma:
-- [Infralátás](fortelyok.erzekek/infralatas.md) - 2. fok
-- [Barlangi tájékozódás](fortelyok.erzekek/barlangi_tajekozodas.md) - 1. fok
-- [Fejlett szaglás](fortelyok.erzekek/fejlett_szaglas.md) - 1. fok
-
-Ajánlott fortélyok:
-- [Kitartás](fortelyok.altalanos/kitartas.md)
-
-Ajánlott képzettségek:
-- [Természetjárás](kepzettsegek/termeszetjaras.md)
-
-<br />
-
----
-#### Udvari ork
-
-```
-Erő: [-1;+6] ; Edzettség [-1;+5]; Intelligencia; [-5;+3]
-```
-
-Felvehető Érzék-Fortélyok maximuma:
-- [Infralátás](fortelyok.erzekek/infralatas.md) - 1. fok
-- [Barlangi tájékozódás](fortelyok.erzekek/barlangi_tajekozodas.md) - 1. fok
-- [Fejlett szaglás](fortelyok.erzekek/fejlett_szaglas.md) - 1. fok
-
-Ajánlott fortélyok:
-- \-
-
-Ajánlott képzettségek:
-- [Etikett](kepzettsegek/etikett.md)
-
-<br />
-
----
-#### Kyr-vérű
-
-```
-Edzettség: [-5;+4] ; Önuralom [-3;+6]
-```
-
-Felvehető Érzék-Fortélyok maximuma:
-- [Ultralátás](fortelyok.erzekek/fejlett_szaglas.md) - 1. fok
-
-Ajánlott fortélyok, Szabad Hátterek: [Kultúrkör](hatterek.szabad/kulturkor.md) (Kyr)
-
-Ajánlott képzettségek:
-- [Etikett](kepzettsegek/etikett.md) (Kyr kultúrkör)
-- [Ősi nyelv ismerete](kepzettsegek/osi_nyelv_ismerete.md) (Kyr)
-
-<br />
-
----
 #### Amund
 
 ```
@@ -168,6 +50,7 @@ Ajánlott képzettségek:
 -  [Kinzás](kepzettsegek/kinzas.md)
 
 <br />
+
 
 ---
 #### Dzsenn
@@ -194,6 +77,59 @@ Ajánlott képzettségek:
 
 <br />
 
+
+---
+#### Elf
+
+```
+Erő: [-5; +4] ; Edzettség: [-5; +4] ; Ügyesség [-2;+6] ; Gyorsaság [-2;+6]
+```
+
+Felvehető Érzék-Fortélyok maximuma:
+- [Fejlett látás](fortelyok.erzekek/fejlett_latas.md) - 1. fok
+- [Infralátás](fortelyok.erzekek/infralatas.md) - 2. fok
+
+Ajánlott fortélyok:
+- [Kitartás](fortelyok.altalanos/kitartas.md)
+
+Ajánlott képzettségek:
+- [Természetjárás](kepzettsegek/termeszetjaras.md)
+- [Lovaglás](kepzettsegek/lovaglas.md)
+
+<br />
+
+
+---
+#### Ember
+
+```
+[-5;+5] a határ minden Tulajdonságra
+```
+
+<br />
+
+
+---
+#### Félelf
+
+```
+Erő: [-5;+4] ; Gyorsaság [-4;+6]
+```
+
+Felvehető Érzék-Fortélyok maximuma:
+- [Fejlett látás](fortelyok.erzekek/fejlett_latas.md) - 1. fok
+- [Infralátás](fortelyok.erzekek/infralatas.md) - 1. fok
+
+Ajánlott fortélyok:
+- [Kitartás](fortelyok.altalanos/kitartas.md)
+
+Ajánlott képzettségek:
+- [Természetjárás](kepzettsegek/termeszetjaras.md)
+- [Lovaglás](kepzettsegek/lovaglas.md)
+
+<br />
+
+
 ---
 #### Gnóm
 
@@ -216,6 +152,7 @@ Ajánlott képzettségek:
 - [Térképészet](kepzettsegek/terkepeszet.md)
 
 <br />
+
 
 ---
 #### Goblin
@@ -242,6 +179,7 @@ Ajánlott képzettségek:
 
 <br />
 
+
 ---
 #### Khál
 
@@ -265,3 +203,91 @@ Ajánlott fortélyok:
 Ajánlott képzettségek:
 - [Mászás](kepzettsegek/maszas.md)
 - [Akrobatika](kepzettsegek/akrobatika.md)
+
+
+---
+#### Kyr-vérű
+
+```
+Edzettség: [-5;+4] ; Önuralom [-3;+6]
+```
+
+Felvehető Érzék-Fortélyok maximuma:
+- [Ultralátás](fortelyok.erzekek/fejlett_szaglas.md) - 1. fok
+
+Ajánlott fortélyok, Szabad Hátterek: [Kultúrkör](hatterek.szabad/kulturkor.md) (Kyr)
+
+Ajánlott képzettségek:
+- [Etikett](kepzettsegek/etikett.md) (Kyr kultúrkör)
+- [Ősi nyelv ismerete](kepzettsegek/osi_nyelv_ismerete.md) (Kyr)
+
+<br />
+
+
+---
+#### Ork
+
+```
+Erő: [-1;+6] ; Edzettség [+0;+6]; Intelligencia [-5;+2]
+```
+
+Felvehető Érzék-Fortélyok maximuma:
+- [Infralátás](fortelyok.erzekek/infralatas.md) - 2. fok
+- [Barlangi tájékozódás](fortelyok.erzekek/barlangi_tajekozodas.md) - 1. fok
+- [Fejlett szaglás](fortelyok.erzekek/fejlett_szaglas.md) - 1. fok
+
+Ajánlott fortélyok:
+- [Kitartás](fortelyok.altalanos/kitartas.md)
+
+Ajánlott képzettségek:
+- [Természetjárás](kepzettsegek/termeszetjaras.md)
+
+<br />
+
+
+---
+#### Udvari ork
+
+```
+Erő: [-1;+6] ; Edzettség [-1;+5]; Intelligencia; [-5;+3]
+```
+
+Felvehető Érzék-Fortélyok maximuma:
+- [Infralátás](fortelyok.erzekek/infralatas.md) - 1. fok
+- [Barlangi tájékozódás](fortelyok.erzekek/barlangi_tajekozodas.md) - 1. fok
+- [Fejlett szaglás](fortelyok.erzekek/fejlett_szaglas.md) - 1. fok
+
+Ajánlott fortélyok:
+- \-
+
+Ajánlott képzettségek:
+- [Etikett](kepzettsegek/etikett.md)
+
+<br />
+
+
+---
+#### Törpe
+
+```
+Erő: [-1;+5] ; Gyorsaság [-5;+4] ; Edzettség [-2;+6] ; Emlékezet [-5;+6]
+```
+
+🔆Futásnál, úszásnál, gyaloglásnál `-2` jár a Gyorsaságpróbáira.
+
+Felvehető Érzék-Fortélyok maximuma:
+- [Ultralátás](fortelyok.erzekek/ultralatas.md) - 3. fok
+- [Infralátás](fortelyok.erzekek/infralatas.md) - 2. fok
+- [Barlangi tájékozódás](fortelyok.erzekek/barlangi_tajekozodas.md) - 1. fok
+
+Ajánlott fortélyok:
+- [Keresés](fortelyok.altalanos/kereses.md)
+- [Villámgyors keresés](fortelyok.altalanos/villamgyors.kereses.md)
+- [Kitartás](fortelyok.altalanos/kitartas.md)
+
+Ajánlott képzettségek:
+- [Építészet](kepzettsegek/epiteszet.md)
+
+<br />
+
+---
