@@ -27,7 +27,7 @@ Tartalomjegyzék
 - [Nyelvismeret](#nyelvismeret-)
 - [Tánc: speciális/belső stílus](#t%C3%A1nc-speci%C3%A1lisbels%C5%91-st%C3%ADlus) 🔁
 - [Titkos szervezeti kultúra](#titkos-szervezeti-kult%C3%BAra)
-- Zenélés: fúvós hangszerek
+- [Zenélés: fúvós hangszerek](#-zen%C3%A9l%C3%A9s-f%C3%BAv%C3%B3s-hangszerek)
 - Zenélés: húros hangszerek
 - Zenélés: ütős hangszerek
 
