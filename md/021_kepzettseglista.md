@@ -1,15 +1,15 @@
 # Képzettségek
 
 🔴Átfogó képzettség 🔵Átlagos képzettség
-🔁Többször felvehető, 🔆Megjegyzés ⭕TODO, kérdéses
+🔁Többször felvehető, 🅿️Primer, ⭕TODO, kérdéses
 
 ---
 
 ```
-→ Primer ismeretek alá tartozó képzettségek: minden harci, misztikus, mágikus képzettség
-                                             + Észlelés, Összpontosítás, Fájdalomtűrés,
-                                             + Akrobatika, Lopakodás/rejtőzés, Nyomozás
-→ Szekunder ismeretek alá tartozó képzettségek: minden más képzettség
+→ Primer képzettségek: minden harci, misztikus, mágikus képzettség
+                       + Észlelés, Összpontosítás, Fájdalomtűrés,
+                       + Akrobatika, Lopakodás/rejtőzés, Nyomozás
+→ Szekunder képzettségek: minden más képzettség
 ```
 
 ---
@@ -64,7 +64,9 @@
 ---
 ## Fizikai képzettségek
 
-🔵[Fájdalomtűrés](kepzettsegek/fajdalomtures.md) <sup><sub>(70%)</sub></sup>
+🔴[Akrobatika](kepzettsegek/akrobatika.md) 🅿️
+
+🔵[Fájdalomtűrés](kepzettsegek/fajdalomtures.md) 🅿️ <sup><sub>(70%)</sub></sup>
 
 🔵[Mászás](kepzettsegek/maszas.md) <sup><sub>(90%)</sub></sup>
 
@@ -72,12 +74,10 @@
 
 🔵[Léglovaglás](kepzettsegek/leglovaglas.md) <sup><sub>(80%)</sub></sup>
 
-🔴[Akrobatika](kepzettsegek/akrobatika.md)
-
 ---
 ## Világi képzettségek
 
-🔵[Észlelés](kepzettsegek/eszleles.md) <sup><sub>(95%)</sub></sup>
+🔵[Észlelés](kepzettsegek/eszleles.md) 🅿️ <sup><sub>(95%)</sub></sup>
 
 🔵[Értékbecslés](kepzettsegek/ertekbecsles.md) <sup><sub>(0%)</sub></sup>
 
@@ -89,7 +89,9 @@
 
 🔵[Emberismeret](kepzettsegek/emberismeret.md) <sup><sub>(90%)</sub></sup>
 
-🔵[Nyomozás](kepzettsegek/nyomozas.md) <sup><sub>(50%)</sub></sup>
+🔵[Nyomozás](kepzettsegek/nyomozas.md) 🅿️ <sup><sub>(50%)</sub></sup>
+
+🔴[Orvoslás](kepzettsegek/orvoslas.md) <sup><sub>(40%)</sub></sup>
 
 🔵[Szakma](kepzettsegek/szakma.md): ács, kőműves, borbély, kádár, varga, szűcs, cserző, (fegyver)kovács, gazdálkodás(birtok), ékszerész, molnár, pék, szabó, kötélgyártó, lakatos, rejtjelfejtő <sup><sub>(20%)</sub></sup> 🔁
 
@@ -99,11 +101,10 @@
 
 🔵[Vajákosság](kepzettsegek/vajakossag.md) <sup><sub>(40%)</sub></sup>
 
-🔴[Orvoslás](kepzettsegek/orvoslas.md) <sup><sub>(40%)</sub></sup>
-
+---
 ## Alvilági képzettségek
 
-🔵[Lopakodás/Rejtőzés](kepzettsegek/lopakodas_rejtozes.md) <sup><sub>(15%)</sub></sup>
+🔵[Lopakodás/Rejtőzés](kepzettsegek/lopakodas_rejtozes.md) 🅿️ <sup><sub>(15%)</sub></sup>
 
 🔵[Álcázás/Álruha](kepzettsegek/alcazas_alruha.md) <sup><sub>(80%)</sub></sup>
 
@@ -154,17 +155,15 @@ A fentieket a KM összegzi és osztályzatot ad rá: `[-5; +5]` intervallumban, 
 ---
 ## Misztikus képzettségek
 
-🔴[Asztrológia](kepzettsegek/asztrologia.md)
+🔴[Asztrológia](kepzettsegek/asztrologia.md)*
 
 🔴[Aurafejlesztés](kepzettsegek/aurafejlesztes.md)
 
 🔴[Tradíció](kepzettsegek/tradicio.md)
 
-🔵[Összpontosítás](kepzettsegek/osszpontositas.md) <sup><sub>(10%)</sub></sup>
+🔵[Összpontosítás](kepzettsegek/osszpontositas.md) 🅿️ <sup><sub>(10%)</sub></sup>
 
 🔴[Pszí iskola](kepzettsegek/pszi_iskola.md)
-
-🔴[Asztrológia](kepzettsegek/osszpontositas.md)*
 
 🔴[Demonológia*](kepzettsegek/demonologia.md) <sup><sub>(80%)</sub></sup>
 
