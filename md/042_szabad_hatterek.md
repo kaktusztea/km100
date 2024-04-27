@@ -19,7 +19,7 @@ Tartalomjegyzék
 - [Harci láz 3](#-harci-l%C3%A1z-3)
 - [Helyismeret](#-helyismeret-v%C3%A1rosnyi-ter%C3%BClet-3) 🔁
 - [Irodalom](#-irodalom)
-- Kalligráfia
+- [Kalligráfia](#-kalligr%C3%A1fia)
 - [Kultúrkör](#-kult%C3%BArk%C3%B6r-adott-kult%C3%BArk%C3%B6r-3) 🔁
 - [Lénylovas](#-l%C3%A9nylovas-faj-neve) 🔁
 - Színjátszás
