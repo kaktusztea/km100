@@ -8,9 +8,9 @@
 
 **Bónusz-Háttér**: [Állat testvér](../043_bonusz_hatterek.md#-állat-testvér), 
 
-**Szabad-Háttér**: [Lénylovas](../043_bonusz_hatterek.md#-lénylovas-faj-neve) (1 faj ingyenes)
+**Szabad-Háttér**: [Lénylovas](../hatterek.szabad/lenylovas.md) (1 faj ingyenes)
 
-**Leírás**:  Aki lovaglást tanul, az képes megülni egy választott földi hátast lényt (válassz fajt: 1db Lénylovas) - a képzettség szintjétől függő tehetséggel. A tudás univerzális, némi gyakorlással más fajú földi hátasokra is használható - lásd a [Lénylovas](../043_bonusz_hatterek.md#-lénylovas-faj-neve) Szabad Hátteret.
+**Leírás**:  Aki lovaglást tanul, az képes megülni egy választott földi hátast lényt (válassz fajt: 1db Lénylovas) - a képzettség szintjétől függő tehetséggel. A tudás univerzális, némi gyakorlással más fajú földi hátasokra is használható - lásd a [Lénylovas](../hatterek.szabad/lenylovas.md) Szabad Hátteret.
 
 <br />
 
@@ -42,4 +42,4 @@
 ##### Célszámot módosító körülmények
 
 - Vad hátas: + [1-6]
-- Más fajú földi hátas esetén: [Lénylovas](../043_bonusz_hatterek.md#-lénylovas-faj-neve) Bónusz-Háttér
+- Más fajú földi hátas esetén: [Lénylovas](../hatterek.szabad/lenylovas.md) Bónusz-Háttér
