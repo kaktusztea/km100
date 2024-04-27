@@ -1,8 +1,6 @@
-#### 🔵 Stratégia (terület)
+#### 🔵 Stratégia
 
-Többször felvehető.
-
-Válassz egy területet:
+Általános ismeret, az alábbiakat fedi le:
 - Csatatervezés
 - Hadtáp
 

@@ -84,11 +84,11 @@
 
 🔵[Értékbecslés](kepzettsegek/ertekbecsles.md) <sup><sub>(0%)</sub></sup>
 
-🔵[Etikett](kepzettsegek/etikett.md) (adott kultúrkör)  <sup><sub>(100%)</sub></sup> 🔁
+🔵[Etikett](kepzettsegek/etikett.md)  <sup><sub>(99%)</sub></sup>
 
 🔵[Hajózás](kepzettsegek/hajozas.md) <sup><sub>(0%)</sub></sup>
 
-🔵[Idomítás](kepzettsegek/idomitas.md) (állatcsoport) <sup><sub>20%)</sub></sup> 🔁
+🔵[Idomítás](kepzettsegek/idomitas.md) <sup><sub>(20%)</sub></sup> 
 
 🔵[Emberismeret](kepzettsegek/emberismeret.md) <sup><sub>(90%)</sub></sup>
 
@@ -98,7 +98,7 @@
 
 🔵[Szexuális kultúra](kepzettsegek/szexualis_kultura.md) <sup><sub>(0%)</sub></sup>
 
-🔵[Természetjárás](kepzettsegek/termeszetjaras.md) (adott tájtípus) <sup><sub>(30%)</sub></sup> 🔁
+🔵[Természetjárás](kepzettsegek/termeszetjaras.md) <sup><sub>(30%)</sub></sup>
 
 🔵[Vajákosság](kepzettsegek/vajakossag.md) <sup><sub>(40%)</sub></sup>
 
@@ -128,27 +128,13 @@ A Művészeti képzettségeket a szabályrendszer elég szabadon és speciálisa
 
 A fentieket a KM összegzi és osztályzatot ad rá: `[-5; +5]` intervallumban, mintha egy `Tulajdonság` lenne. Ezt az értéket adja hozzá a játékos a karaktere művészeti képzettségéhez és az így kapott értékre dob `k10`-zel. A fentiek összege áll szembe a feladat célszámával. Például:
 
-```
-Festészet + (Pszeudó tul.) + k10   vs   Célszám
-```
+🔵[Műveltség](kepzettsegek/muveltseg.md)
 
-🔵[Ének](kepzettsegek/enek.md) <sup><sub>(0%)</sub></sup>
-
-🔵[Festészet](kepzettsegek/festeszet.md) <sup><sub>(5%)</sub></sup>
-
-🔵[Kalligráfia](kepzettsegek/kalligrafia.md) <sup><sub>(5%)</sub></sup>
-
-🔵[Szobrászat](kepzettsegek/szobraszat.md) <sup><sub>(5%)</sub></sup>
-
-🔵[Tánc](kepzettsegek/tanc.md) <sup><sub>(20%)</sub></sup>
+🔵[Művész](kepzettsegek/muvesz.md)
 
 🔵[Zeneszerző](kepzettsegek/zeneszerzo.md)
 
-🟢[Zenélés](kepzettsegek/zeneles.md) (hangszercsoport) <sup><sub>(30%)</sub></sup> 🔁
-
 ## Tudományos képzettségek
-
-🟢[Nyelvismeret](kepzettsegek/nyelvismeret.md) (adott nyelv) <sup><sub>(40%)</sub></sup> 🔁
 
 🔵[Alkímia](kepzettsegek/alkimia.md) <sup><sub>(0%)</sub></sup>
 
@@ -164,17 +150,11 @@ Festészet + (Pszeudó tul.) + k10   vs   Célszám
 
 🔴[Ősi nyelv ismerete](kepzettsegek/osi_nyelv_ismerete.md) (Külön ősi nyelvenként) <sup><sub>(0%)</sub></sup> 🔁
 
-🔵[Stratégia](kepzettsegek/strategia.md) <sup><sub>(0%)</sub></sup> 🔁
-
-🔵[Taktika](kepzettsegek/taktika.md) <sup><sub>(0%)</sub></sup> 🔁
+🔵[Stratégia](kepzettsegek/strategia.md) <sup><sub>(0%)</sub></sup> 
 
 🔵[Térképészet](kepzettsegek/terkepeszet.md) <sup><sub>(0%)</sub></sup>
 
 🔴[Történelemismeret](kepzettsegek/tortenelemismeret.md) <sup><sub>(40%)</sub></sup> 
-
-🔵[Vallásismeret](kepzettsegek/vallasismeret.md) <sup><sub>(10%)</sub></sup> (adott pantheon) 🔁
-
-
 
 ## Misztikus képzettségek
 
