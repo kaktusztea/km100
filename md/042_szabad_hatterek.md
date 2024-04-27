@@ -24,7 +24,7 @@ Tartalomjegyzék
 - [Lénylovas](#-l%C3%A9nylovas-faj-neve) 🔁
 - Színjátszás
 - Szobrászat
-- [Nyelvismeret](xyz) ⭕TODO: Anchor link⭕
+- [Nyelvismeret](#nyelvismeret-)
 - [Tánc: speciális/belső stílus](#t%C3%A1nc-speci%C3%A1lisbels%C5%91-st%C3%ADlus) 🔁
 - [Titkos szervezeti kultúra](#titkos-szervezeti-kult%C3%BAra)
 - Zenélés: fúvós hangszerek
