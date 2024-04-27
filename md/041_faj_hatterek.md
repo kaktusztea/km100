@@ -14,19 +14,18 @@ Tehát például választhat egy **orkot**, akinek mindösszesen "**Infralátás
 
 #### Tartalomjegyzék
 
-- [Amund](xx)
-- [Dzsenn](xx)
-- [Elf](xx)
-- [Ember](xx)
-- [Félelf](xx)
-- [Gnóm](xx)
-- [Goblin](xx)
-- [Khál](xx)
-- [Kyr vérű](xx)
-- [Ork](xx)
-- [Udvari ork](xx)
-- [Törpe](xx)
-
+- [Amund](#amund)
+- [Dzsenn](#dzsenn)
+- [Elf](#elf)
+- [Ember](#ember)
+- [Félelf](#f%C3%A9lelf)
+- [Gnóm](#gn%C3%B3m)
+- [Goblin](#goblin)
+- [Khál](#kh%C3%A1l)
+- [Kyr vérű](#kyr-v%C3%A9r%C5%B1)
+- [Ork](#ork)
+- [Udvari ork](#udvari-ork)
+- [Törpe](#t%C3%B6rpe)
 
 #### Amund
 
