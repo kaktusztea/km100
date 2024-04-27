@@ -7,7 +7,7 @@ A Szabad Hátterek speciális, egy, vagy több képzettséget "kiterjesztő" ism
 Hozzájutni kétfajtaképpen lehet.
 
 ⭕Ha egy képzettséghez számos Szabad Háttér kapcsolódik, akkor azok közül 1 választottat automatikusan megkap a karakter.⭕
-⭕TODO: van, ahol ez 
+⭕TODO: van, ahol ez ... ⭕
 
 
 ---
@@ -53,20 +53,19 @@ A fenti információ más módon - ritka, titkos fóliásokkal bújásával - is
 #### 🟣 Éneklés
 
 ##### Kiterjeszti
-- [xy](xy)
-
+- [Művész](kepzettsegek/muvesz.md)
 ##### Követelmény
-- [xy](xy)
+- xyz ⭕
 
 
 ---
 #### 🟣 Festészet
 
 ##### Kiterjeszti
-- [xy](xy)
+- [Művész](kepzettsegek/muvesz.md)
 
 ##### Követelmény
-- [xy](xy)
+- xyz ⭕
 
 Jól bánsz az ecsettel, kedvtelésből, vagy önkifejezés céljából vetsz vászonra színes műveket.
 
@@ -74,10 +73,9 @@ Jól bánsz az ecsettel, kedvtelésből, vagy önkifejezés céljából vetsz v�
 #### 🟣 Fejlett ízlelés
 
 ##### Kiterjeszti
-- [xy](xy)
+- Érzékenység Tulajdonságodat segíti ízlelés esetén
 
-##### Követelmény
-- [xy](xy)
+##### Követelmény: -
 
 Ingyenesen felvehető Érzék.
 
@@ -91,10 +89,9 @@ Különlegesen kifinomult az ízlelésed, ez lehet áldás és átok is.
 #### 🟣 Fejlett tapintás
 
 ##### Kiterjeszti
-- [xy](xy)
+- Érzékenység Tulajdonságodat segíti tapintás esetén
 
-##### Követelmény
-- [xy
+##### Követelmény: -
 
 Ingyenesen felvehető Érzék.
 
@@ -109,7 +106,7 @@ Különlegesen kifinomult a tapintásod, ez lehet áldás és átok is.
 -  [Harci láz](fortelyok.harci/harci_laz.md) FORTÉLY!⭕
 
 ##### Követelmény
-- [xy](xy) ⭕
+- xyz⭕
 
 A [Harci láz](fortelyok.harci/harci_laz.md) fortély 3. speciális foka.
 
@@ -138,12 +135,12 @@ Bővebben lásd a ⭕Mágia fejezetet⭕.
 - Kaland végén kaphatóak újabb pontok ingyen, a KM-től
 ```
 
-##### Kiterjeszti
--  [Harci láz](fortelyok.harci/harci_laz.md) FORTÉLY!⭕
+##### Kiterjeszti: -
 
 ##### Követelmény
-- [xy](xy) ⭕
+Lásd a fokok leírását
 
+##### Fokok
 
 3 fokú Háttér, amelynek forrása az előtörténet és az átélt kalandok.\
 
@@ -185,7 +182,7 @@ A **Helyismeret** Háttér egyes fokai írják le, hogy biztos tudásból milyen
 #### 🟣 Irodalom
 
 ##### Kiterjeszti
-- [xy](xy)
+- [Művész](kepzettsegek/muvesz.md)
 
 ##### Követelmény
 - [xy](xy)
@@ -194,7 +191,7 @@ A **Helyismeret** Háttér egyes fokai írják le, hogy biztos tudásból milyen
 #### 🟣 Kalligráfia
 
 ##### Kiterjeszti
-- [xy](xy)
+- [Művész](kepzettsegek/muvesz.md)
 
 ##### Követelmény
 - [xy](xy)
@@ -309,7 +306,7 @@ A Háttér többször felvehető - minden "bejáratott" hátas fajhoz külön.
 #### 🟣 Színjátszás
 
 ##### Kiterjeszti
-- [xy](xy)
+- [Művész](kepzettsegek/muvesz.md)
 
 ##### Követelmény
 - [xy](xy)
@@ -319,7 +316,7 @@ A Háttér többször felvehető - minden "bejáratott" hátas fajhoz külön.
 #### 🟣 Szobrászat
 
 ##### Kiterjeszti
-- [xy](xy)
+- [Művész](kepzettsegek/muvesz.md)
 
 ##### Követelmény
 - [xy](xy)
@@ -370,10 +367,10 @@ Többször felvehető. Ez általában egyedi, titkos, vagy nagyon speciális tá
 #### 🟣 Zenélés: fúvós hangszerek
 
 ##### Kiterjeszti
-- [xy](xy)
+- [Művész](muvesz.md)
 
 ##### Követelmény
-- [xy](xy)
+- ⭕xyz
 
 
 Képes vagy használni a fúvós hangszerek alá tartozó hangszereket.
@@ -383,10 +380,10 @@ Képes vagy használni a fúvós hangszerek alá tartozó hangszereket.
 #### 🟣 Zenélés: húros hangszerek
 
 ##### Kiterjeszti
-- [xy](xy)
+- [Művész](muvesz.md)
 
 ##### Követelmény
-- [xy](xy)
+- ⭕xyz
 
 Képes vagy használni a húros hangszerek alá tartozó hangszereket.
 
@@ -394,9 +391,9 @@ Képes vagy használni a húros hangszerek alá tartozó hangszereket.
 #### 🟣 Zenélés: ütős hangszerek
 
 ##### Kiterjeszti
-- [xy](xy)
+- [Művész](muvesz.md)
 
 ##### Követelmény
-- [xy](xy)
+- ⭕xyz
 
 Képes vagy használni az ütős hangszerek alá tartozó hangszereket.
