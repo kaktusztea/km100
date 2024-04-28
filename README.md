@@ -39,10 +39,11 @@ A km100 rendszerében nincsenek kasztok, egyes jellemzőket szabad pontokból, m
 ---
 ## Számok
 
-### Szabad pontok
+### Ingyenes pontok
 
 - **Tulajdonságok**: Erő, Edzettség, Ügyesség, Gyorsaság, Intelligencia, Emlékezet, Önuralom, Érzékenység
 - **Származtatott Harcértékek**: KÉ, TÉ, VÉ, CÉ, MFP (Manőverfejlesztő Pont)
+- **Szabad Hátterek**: Szabad Pontok (SzP) költhetőek rá
 
 ### KP költésével növelt értékek
 
