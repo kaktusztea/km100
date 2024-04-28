@@ -49,10 +49,11 @@
 
 Rövid áttekintő summázatként álljanak itt a számok, amelyekkel a karakteralkotás során találkozunk.
 
-### Szabad pontok
+### Ingyenes pontok
 
 - **Tulajdonságok**: Erő, Edzettség, Ügyesség, Gyorsaság, Intelligencia, Emlékezet, Önuralom, Érzékenység
 - **Származtatott Harcértékek**: KÉ, TÉ, VÉ, CÉ, MFP (Manőverfejlesztő Pont)
+- **Szabad Hátterek**: Szabad Pontok (SzP) költhetőek rá
 
 ### KP költésével növelt értékek
 
