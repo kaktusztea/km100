@@ -15,6 +15,7 @@ Kapcsolódó Képzettség-próba:
 
 ##### Kiterjeszti
 - [Etikett](../kepzettsegek/etikett.md)
+- [Hamisítás](../kepzettsegek/hamisitas.md)
 - [Művészetismeret](../kepzettsegek/muveszetismeret.md)
 - [Művész](../kepzettsegek/muvesz.md)
 - [Tánc](../kepzettsegek/tanc.md)
