@@ -74,7 +74,7 @@ A km100 rendszere az alábbi (átfogó) harci képzettségeket ismeri:
 
 **Közelharc, Kardvívás, Lándzsavívás, Zúzás, Hajítás, Íjászat, Lövészet, Ostromlövészet**
 
-- **Közelharc: közelharci** ⭕**(legfeljebb 0,5 penge hosszú)**⭕ **fegyverek**
+- **Közelharc: közelharci** **Rövid** (0) pengehosszú fegyverek
 - **Kardvívás: minden „pengés” fegyver (kétkezes kard is)**
 - **Zúzás: zúzófegyverek, csatabárdok, csákány**
 - **Lándzsavívás: Szálfegyverek**
