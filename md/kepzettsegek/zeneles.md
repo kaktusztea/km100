@@ -13,6 +13,7 @@
 - [Zenélés: fúvós hangszerek](../hatterek.szabad/zeneles_fuvos_hangszerek.md)
 - [Zenélés: húros hangszerek](../hatterek.szabad/zeneles_huros_hangszerek.md)
 - [Zenélés: ütős hangszerek](../hatterek.szabad/zeneles_utos_hangszerek.md)
+- [Zeneszerző](../hatterek.szabad/zeneszerzo.md)
 
 **Leírás**: képes vagy hangszereket megszólaltatni. Amely **Kultúrköröket** ismersz, azok zenéit **Zenélés** képzettséged szintjének megfelelően elő is tudod adni.
 
