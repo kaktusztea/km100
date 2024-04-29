@@ -22,6 +22,8 @@
 - táncok ismeretét (kivéve a titkos/belső táncstílusokat)
 - énekek ismeretét
 - zenék ismeretét
+- bábszínház előadások ismeretét
+- árnyjátékok ismeretét
 
 A tudás szélesíthető a fent található Szabad Hátterekkel.
 
