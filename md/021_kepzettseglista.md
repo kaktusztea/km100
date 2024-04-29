@@ -1,6 +1,6 @@
 # Képzettségek
 
-🔴Átfogó képzettség 🔵Átlagos képzettség
+🔴Átfogó képzettség 🔵Átlagos képzettség\
 🔁Többször felvehető, 🅿️Primer, ⭕TODO, kérdéses
 
 ---
