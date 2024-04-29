@@ -15,8 +15,11 @@ Kapcsolódó Képzettség-próba:
 
 ##### Kiterjeszti
 - [Etikett](../kepzettsegek/etikett.md)
-- [Műveltség](../kepzettsegek/muveltseg.md)
+- [Művészetismeret](../kepzettsegek/muveszetismeret.md)
+- [Művész](../kepzettsegek/muvesz.md)
+- [Tánc](../kepzettsegek/tanc.md)
 - [Történelemismeret](../kepzettsegek/tortenelemismeret.md)
+- [Zenélés](../kepzettsegek/zeneles.md)
 
 ##### Követelmény
 - Lásd a fokok leírását!

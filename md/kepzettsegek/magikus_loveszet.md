@@ -1,4 +1,4 @@
-🔴Mágikus lövészet
+#### 🔴Mágikus lövészet
 
 Átfogó harcmodor képzettség.
 

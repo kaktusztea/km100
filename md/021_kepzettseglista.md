@@ -123,13 +123,20 @@
 ---
 ## Művészeti képzettségek
 
-A Művészeti képzettségeket a szabályrendszer elég szabadon és speciálisan kezeli, mivel talán itt számít leginkább a játékos beleélőképessége. Ha feltétlenül képzettségpróbát kell dobni, akkor a KM ne a karakter Tulajdonoságai közül válasszon egyet, hanem egy `pszeudó tulajdonságot` alkalmazzon, amelyenek értéke attól függ, hogy a karakter milyen lelkiállapotban van, illetve, hogy a játékos mennyire képes beleélni magát a helyzetbe, kijátszani, elmesélni az alkotás folyamatát.
+A Művészeti képzettségeket a szabályrendszer elég szabadon és speciálisan kezeli.
+
+
+, mivel talán itt számít leginkább a játékos beleélőképessége. Ha feltétlenül képzettségpróbát kell dobni, akkor a KM ne a karakter Tulajdonoságai közül válasszon egyet, hanem egy `pszeudó tulajdonságot` alkalmazzon, amelyenek értéke attól függ, hogy a karakter milyen lelkiállapotban van, illetve, hogy a játékos mennyire képes beleélni magát a helyzetbe, kijátszani, elmesélni az alkotás folyamatát.
 
 A fentieket a KM összegzi és osztályzatot ad rá: `[-5; +5]` intervallumban, mintha egy `Tulajdonság` lenne. Ezt az értéket adja hozzá a játékos a karaktere művészeti képzettségéhez és az így kapott értékre dob `k10`-zel. A fentiek összege áll szembe a feladat célszámával.
 
-🔵[Műveltség](kepzettsegek/muveltseg.md)
-
 🔵[Művész](kepzettsegek/muvesz.md)
+
+🔵[Művészetismeret](kepzettsegek/muveszetismeret.md)
+
+🔵[Tánc](kepzettsegek/tanc.md)
+
+🔵[Zenélés](kepzettsegek/zeneles.md)
 
 ---
 ## Tudományos képzettségek
@@ -144,7 +151,7 @@ A fentieket a KM összegzi és osztályzatot ad rá: `[-5; +5]` intervallumban, 
 
 🔴[Méregkeverés](kepzettsegek/meregkeveres.md) <sup><sub>(90%)</sub></sup>
 
-🔵[Műveltség](kepzettsegek/muveltseg.md)  <sup><sub>(50%)</sub></sup>
+🔵[Műveltség](kepzettsegek/muveszetismeret.md)  <sup><sub>(50%)</sub></sup>
 
 🔴[Ősi nyelv ismerete](kepzettsegek/osi_nyelv_ismerete.md) (Külön ősi nyelvenként) <sup><sub>(0%)</sub></sup> 🔁
 

@@ -1,6 +1,4 @@
-#### 🔵 Műveltség
-
-⭕TODO:  átnevezni? Művészeti ismereteket fed passzív formában. Matek, gazdaság, nincs benne.⭕
+#### 🔵 Művészetismeret
 
 **Próba:** dobható
 
@@ -8,30 +6,32 @@
 
 **Kapcsolódó fortélyok**: [Irodalmár](../fortelyok.altalanos/irodalmar.md)
 
-**Bónusz-Háttér**: -
+**Bónusz Háttér**: -
 
-**Szabad-Háttérek** (1 ingyenes):
-- [Éneklés](../hatterek.szabad/enekles.md)
+**Szabad Háttérek**:
+- [Kultúrkör](../hatterek.szabad/kulturkor.md) 
 - [Festészet](../hatterek.szabad/festeszet.md)
 - [Irodalom](../hatterek.szabad/irodalom.md)
 - [Kalligráfia](../hatterek.szabad/kalligrafia.md)
 - [Kultúrkör](../hatterek.szabad/kulturkor.md)
 - [Szobrászat](../hatterek.szabad/szobraszat.md)
 - [Színjátszás](../hatterek.szabad/szinjatszas.md)
-- [Tánc: speciális/belső stílus](../hatterek.szabad/tanc.md)
-- [Zenélés: húros hangszerek](../hatterek.szabad/zeneles_huros_hangszerek.md)
-- [Zenélés: ütős hangszerek](../hatterek.szabad/zeneles_utos_hangszerek.md)
-- [Zenélés: fúvós hangszerek](../hatterek.szabad/zeneles_fuvos_hangszerek.md)
+- [Tánc: speciális/belső stílus](../hatterek.szabad/tanc_belso_stilus.md)
 
-**Leírás**: Jelenkori világunktól eltérően inkább művészeti tudást, valamint vallásismeretet fed le.
+**Leírás**: Jelenkori világunktól eltérően inkább művészeti tudást, valamint vallásismeretet fed le. Alapból tartalmazza a karakter által ismert **Kultúrkörök** alá tartozó...
+- táncok ismeretét (kivéve a titkos/belső táncstílusokat)
+- énekek ismeretét
+- zenék ismeretét
+
+A tudás szélesíthető a fent található Szabad Hátterekkel.
 
 **Követelmény**:
-  - [Kultúrkör](../hatterek.szabad/kulturkor.md) (adott kultúra) - `2.fok`. Enélkül `+3` nehezítés a képzettségpróbákra
+  - [Kultúrkör](../hatterek.szabad/kulturkor.md) (adott kultúra) - `2.fok`. Enélkül `+3` nehezítés a képzettségpróbákra fokonként.
   - [Nyelvismeret](../hatterek.szabad/nyelvismeret.md): Udvari fok
 
-**Összhagok:**
-- [Művész](muvesz.md),
-- [Történelemismeret](tortenelemismeret.md) (Erős összhang)
+**Erős Összhagok:**
+- [Művész](muvesz.md)
+- [Történelemismeret](tortenelemismeret.md)
 
 <br />
 
