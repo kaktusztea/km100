@@ -22,10 +22,13 @@
 
 **Leírás**: Képes vagy egyes művészeti ágakban és szakmákban az eredetire megtévesztésig hasonló másolatot készíteni, vagy az adott stílusban újat készíteni.
 
-**Speciális**:
-
+**Speciális**
+- Ha a művészetekkel kapcsolatos hamisítást akarsz végezni, rendelkezned kell a kapcsolódó Szabad Háttérrel (például: "Festészet")
 - Ha a művészetekkel kapcsolatos hamisítást akarsz végezni, a [Művész](muvesz.md) képzettséged "lekorlátozza" a Hamisítás képzettségedet. Dobásnál a kisebbik számít a két képzettség közül.
-- Ha szakmával kapcsolatos hamisítást akarsz végezni, a [Szakma](szakma.md) képzettséged "lekorlátozza" a Hamisítás képzettségedet. Dobásnál a kisebbik számít a két képzettség közül.
+- Ha szakmával kapcsolatos hamisítást akarsz végezni, a kapcsolódó [Szakma](szakma.md) képzettséged  (például: "Szakma - asztalos")"lekorlátozza" a Hamisítás képzettségedet. Dobásnál a kisebbik számít a két képzettség közül.
+- Hamisítvány felismerése: az alábbi képzettségek közül a magasabb szintűvel dobunk ellenpróbát a hamisító "Hamisítás" képzettsége ellen
+	- Hamisítás
+	- [Művészetismeret](muveszetismeret.md)
 
 **Követelmény**:
   - [Kultúrkör](../hatterek.szabad/kulturkor.md) (adott kultúra) - `2.fok`. Enélkül `+3` nehezítés a képzettségpróbákra fokonként.
@@ -60,8 +63,3 @@
 ##### Célszámot módosító körülmények
 
 - ⭕xyz
-
----
-
-
-*Megjegyzés a kidolgozáshoz: [Összhangok](../020_kepzettsegrendszer.md#%C3%B6sszhangok). Bizonyos képzettségek "besegíthetnek" az adott képzettségbe, ezt nevezzük Összhangnak. Amennyiben ilyen előfordul az adott képzettségnél, akkor a "Próbák" bekezdés fölé illesszünk be egy "Összhangok" bekezdést.*
