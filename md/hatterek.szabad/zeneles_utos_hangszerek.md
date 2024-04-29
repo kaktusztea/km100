@@ -1,12 +1,13 @@
 #### 🟣 Zenélés: ütős hangszerek
 
 ##### Kiterjeszti
-- [Művész](../kepzettsegek/muvesz.md)
+- [Zenélés](../kepzettsegek/zeneles.md)
 
 ##### Követelmény
-- ⭕xyz
+- [Zenélés](../kepzettsegek/zeneles.md) - `3.szint`
 
 Képes vagy használni az ütős hangszerek alá tartozó hangszereket.
+
 <br />
 
 ---

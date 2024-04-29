@@ -1,27 +1,28 @@
-#### 🔵 Művész
+#### 🔵 Zenélés
 
 **Próba:** dobható
 
-**Domináns Tulajdonságok**: Érzékenység, Emlékezet
+**Domináns Tulajdonságok**: Érzékenység, Ügyesség
 
-**Kapcsolódó fortélyok**: ⭕xyz
+**Kapcsolódó fortélyok**: -
 
-**Bónusz Háttér**: ⭕xyz
+**Bónusz Hátterek**: ⭕xyz
 
-**Szabad Háttérek**:
-- [Éneklés](../hatterek.szabad/enekles.md)
-- [Festészet](../hatterek.szabad/festeszet.md)
-- [Irodalom](../hatterek.szabad/irodalom.md)
-- [Kalligráfia](../hatterek.szabad/kalligrafia.md)
+**Szabad Hátterek**
 - [Kultúrkör](../hatterek.szabad/kulturkor.md)
-- [Szobrászat](../hatterek.szabad/szobraszat.md)
-- [Színjátszás](../hatterek.szabad/szinjatszas.md)
-- [Tánc: speciális/belső stílus](../hatterek.szabad/tanc_belso_stilus.md)
+- [Zenélés: fúvós hangszerek](../hatterek.szabad/zeneles_fuvos_hangszerek.md)
 - [Zenélés: húros hangszerek](../hatterek.szabad/zeneles_huros_hangszerek.md)
 - [Zenélés: ütős hangszerek](../hatterek.szabad/zeneles_utos_hangszerek.md)
-- [Zenélés: fúvós hangszerek](../hatterek.szabad/zeneles_fuvos_hangszerek.md)
 
-**Leírás**: Aktív, alkotó művész vagy. A fenti listából a képzettség felvételekor `1 db` választott Szabad-Hátteret ingyen megkapsz.
+**Leírás**: képes vagy hangszereket megszólaltatni. Amely **Kultúrköröket** ismersz, azok zenéit **Zenélés** képzettséged szintjének megfelelően elő is tudod adni.
+
+**Speciális**:\
+A 3 "Zenélés: hangszercsoport" Szabad Háttérből egy választottat ingyen megkapsz a képzettség felvételekor.
+
+Ha **Zenélés** képzettséged magasabb [Művészetismeret](muveszetismeret.md) képzettségednél, akkor Művészetismeret próba esetén a Zenélés képzettségedet használhatod.
+
+**Követelmény**:
+  - [Kultúrkör](../hatterek.szabad/kulturkor.md) (adott kultúra) - `2.fok`. Enélkül `+3` nehezítés a képzettségpróbákra fokonként.
 
 <br />
 
@@ -54,5 +55,7 @@
 
 - ⭕xyz
 
+---
 
 
+*Megjegyzés a kidolgozáshoz: [Összhangok](../020_kepzettsegrendszer.md#%C3%B6sszhangok). Bizonyos képzettségek "besegíthetnek" az adott képzettségbe, ezt nevezzük Összhangnak. Amennyiben ilyen előfordul az adott képzettségnél, akkor a "Próbák" bekezdés fölé illesszünk be egy "Összhangok" bekezdést.*

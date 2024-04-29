@@ -1,27 +1,24 @@
-#### 🔵 Művész
+#### 🔵 Tánc
 
 **Próba:** dobható
 
-**Domináns Tulajdonságok**: Érzékenység, Emlékezet
+**Domináns Tulajdonságok**: Érzékenység, Ügyesség
 
 **Kapcsolódó fortélyok**: ⭕xyz
 
-**Bónusz Háttér**: ⭕xyz
+**Bónusz Hátterek**: ⭕xyz
 
-**Szabad Háttérek**:
-- [Éneklés](../hatterek.szabad/enekles.md)
-- [Festészet](../hatterek.szabad/festeszet.md)
-- [Irodalom](../hatterek.szabad/irodalom.md)
-- [Kalligráfia](../hatterek.szabad/kalligrafia.md)
+**Szabad Hátterek**
 - [Kultúrkör](../hatterek.szabad/kulturkor.md)
-- [Szobrászat](../hatterek.szabad/szobraszat.md)
-- [Színjátszás](../hatterek.szabad/szinjatszas.md)
-- [Tánc: speciális/belső stílus](../hatterek.szabad/tanc_belso_stilus.md)
-- [Zenélés: húros hangszerek](../hatterek.szabad/zeneles_huros_hangszerek.md)
-- [Zenélés: ütős hangszerek](../hatterek.szabad/zeneles_utos_hangszerek.md)
-- [Zenélés: fúvós hangszerek](../hatterek.szabad/zeneles_fuvos_hangszerek.md)
+- [Tánc: speciális/belső stílus](../hatterek.szabad/tanc_belso_stilus.md) 🔁
 
-**Leírás**: Aktív, alkotó művész vagy. A fenti listából a képzettség felvételekor `1 db` választott Szabad-Hátteret ingyen megkapsz.
+**Leírás**: Tudsz táncolni. Amely **Kultúrköröket** ismersz, azok táncait **Tánc** képzettséged szintjének megfelelően járni is tudod.
+
+**Speciális**:
+Ha **Tánc** képzettséged magasabb [Művészetismeret](muveszetismeret.md) képzettségednél, akkor Művészetismeret próba esetén a Tánc képzettségedet használhatod.
+
+**Követelmény**:
+  - [Kultúrkör](../hatterek.szabad/kulturkor.md) (adott kultúra) - `2.fok`. Enélkül `+3` nehezítés a képzettségpróbákra fokonként.
 
 <br />
 
@@ -53,6 +50,3 @@
 ##### Célszámot módosító körülmények
 
 - ⭕xyz
-
-
-
