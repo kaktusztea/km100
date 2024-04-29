@@ -14,31 +14,35 @@
 
 ---
 
-[Harci képzettségek](#Harci-képzettségek)
+[Harci képzettségek](#harci-k%C3%A9pzetts%C3%A9gek-%F0%9F%85%BF%EF%B8%8F)
 
-[Fizikai képzettségek](#Fizikai-képzettségek)
+[Fizikai képzettségek](#fizikai-k%C3%A9pzetts%C3%A9gek)
 
-[Világi képzettségek](#Világi-képzettségek)
+[Világi képzettségek](#vil%C3%A1gi-k%C3%A9pzetts%C3%A9gek)
 
-[Alvilági képzettségek](#Alvilági-képzettségek)
+[Alvilági képzettségek](#alvil%C3%A1gi-k%C3%A9pzetts%C3%A9gek)
 
-[Művészeti képzettségek](#Művészeti-képzettségek)
+[Művészeti képzettségek](#m%C5%B1v%C3%A9szeti-k%C3%A9pzetts%C3%A9gek)
 
-[Tudományos képzettségek](#Tudományos-képzettségek)
+[Tudományos képzettségek](#tudom%C3%A1nyos-k%C3%A9pzetts%C3%A9gek)
 
 ---
 
-[Misztikus képzettségek](#Misztikus-képzettségek)
+[Misztikus képzettségek](#misztikus-k%C3%A9pzetts%C3%A9gek-%F0%9F%85%BF%EF%B8%8F)
 
-[Vulgármágia képzettség iskolái](#Vulgármágia-képzettség-iskolái)
+[Magasmágia képzettség iskolái](#magasm%C3%A1gia-k%C3%A9pzetts%C3%A9g-iskol%C3%A1i-%F0%9F%85%BF%EF%B8%8F)
 
-[Sámánmágia képzettség iskolái](#Sámánmágia-képzettség-iskolái)
+[Vulgármágia képzettség iskolái](#vulg%C3%A1rm%C3%A1gia-k%C3%A9pzetts%C3%A9g-iskol%C3%A1i-%F0%9F%85%BF%EF%B8%8F)
 
-[Bárdmágia képzettség iskolái](#Bárdmágia-képzettség-iskolái)
+[Ordani tűzmágia képzettség iskolái](#ordani-t%C5%B1zm%C3%A1gia-k%C3%A9pzetts%C3%A9g-iskol%C3%A1i-%F0%9F%85%BF%EF%B8%8F)
 
-[Ordani tűzmágia képzettség iskolái](#Ordani-tűzmágia-képzettség-iskolái)
+[Bárdmágia képzettség iskolái](#b%C3%A1rdm%C3%A1gia-k%C3%A9pzetts%C3%A9g-iskol%C3%A1i-%F0%9F%85%BF%EF%B8%8F)
 
-[Magasmágia képzettség iskolái](#Magasmágia-képzettség-iskolái)
+[Sámánmágia képzettség iskolái](#s%C3%A1m%C3%A1nm%C3%A1gia-k%C3%A9pzetts%C3%A9g-iskol%C3%A1i-%F0%9F%85%BF%EF%B8%8F)
+
+[Ork énekmondói mágia képzettség iskolái](#ork-%C3%A9nekmond%C3%B3i-m%C3%A1gia-k%C3%A9pzetts%C3%A9g-iskol%C3%A1i-%F0%9F%85%BF%EF%B8%8F)
+
+[Papi mágia](#papi-m%C3%A1gia-%F0%9F%85%BF%EF%B8%8F)
 
 ---
 ## Harci képzettségek 🅿️
