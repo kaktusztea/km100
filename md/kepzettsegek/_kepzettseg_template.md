@@ -14,8 +14,6 @@
 
 **Leírás**: xyz
 
-...
-⭕a képzettség ... -t fogja egybe és    xyz-csoportokra lehet megtanulni, amelyeket a fenti **Szabad Hátterek** határoznak meg. Ebből 1 alapból jár a képzettség felvételekor, a többi `SzP` használatával vehető fel később.
 
 <br />
 
