@@ -1,4 +1,4 @@
-#### #### 🔵 Hamisítás
+#### 🔵 Hamisítás
 
 **Próba:** dobható
 
