@@ -75,7 +75,7 @@ A km100 harcrendszere lehetőséget ad rá, hogy a karakter harc közben ilyen s
 	- speciális könnyítő/nehezítő körülményei (+/- módosítók a nehézségre)
 	- extra végbeviteli követelményei: Ezek nélkül a KM dönt, hogy végrehajtható -e és ha igen, mekkora plusz célszám büntetéssel
 
-- Manőver alkalmazásakor nem folytatható **Védekező harc**, de **Támadó/Védő** harci taktika igen
+- Manőver alkalmazásakor nem folytatható **Védekező harc**, vagy **Védő Taktika**, de **Támadó taktika** igen, kivéve ahol ez az adott Manővernél külön meg van említve.
 
 - **Rohamnál** csak az a manőver hajtható végre, amelyiknél ez külön meg van említve
 
@@ -275,6 +275,7 @@ Az alábbiakban bemutatjuk a km100 által ismert manővereket. A KM bármikor r�
 
 ---
 #### 🗡️Kiegészítő támadás
+
  ⭕KELL EZ?⭕
 - Nehézség: `7`
 - Fázisok: `E V`
