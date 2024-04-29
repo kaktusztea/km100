@@ -77,6 +77,8 @@
 ---
 ## Világi képzettségek
 
+🔵[Emberismeret](kepzettsegek/emberismeret.md) <sup><sub>(90%)</sub></sup>
+
 🔵[Észlelés](kepzettsegek/eszleles.md) 🅿️ <sup><sub>(95%)</sub></sup>
 
 🔵[Értékbecslés](kepzettsegek/ertekbecsles.md) <sup><sub>(0%)</sub></sup>
@@ -86,8 +88,6 @@
 🔵[Hajózás](kepzettsegek/hajozas.md) <sup><sub>(0%)</sub></sup>
 
 🔵[Idomítás](kepzettsegek/idomitas.md) <sup><sub>(20%)</sub></sup> 
-
-🔵[Emberismeret](kepzettsegek/emberismeret.md) <sup><sub>(90%)</sub></sup>
 
 🔵[Nyomozás](kepzettsegek/nyomozas.md) 🅿️ <sup><sub>(50%)</sub></sup>
 
@@ -114,15 +114,11 @@
 
 🔵[Lopás](kepzettsegek/lopas.md) <sup><sub>(10%)</sub></sup>
 
-
-
 🔵[Kínzás](kepzettsegek/kinzas.md) <sup><sub>(0%)</sub></sup>
 
 🔵[Szerencsejáték](kepzettsegek/szerencsejatek.md) <sup><sub>(0%)</sub></sup>
 
 🔵[Zárnyitás](kepzettsegek/zarnyitas.md) <sup><sub>(0%)</sub></sup>
-
-
 
 🔵[Zsonglőrködés](kepzettsegek/zsonglorkodes.md) <sup><sub>(0%)</sub></sup>
 
@@ -172,13 +168,13 @@ A fentieket a KM összegzi és osztályzatot ad rá: `[-5; +5]` intervallumban, 
 
 🔴[Aurafejlesztés](kepzettsegek/aurafejlesztes.md)
 
-🔴[Tradíció](kepzettsegek/tradicio.md)
+🔴[Demonológia*](kepzettsegek/demonologia.md) <sup><sub>(80%)</sub></sup>
 
 🔵[Összpontosítás](kepzettsegek/osszpontositas.md) <sup><sub>(10%)</sub></sup>
 
 🔴[Pszí iskola](kepzettsegek/pszi_iskola.md)
 
-🔴[Demonológia*](kepzettsegek/demonologia.md) <sup><sub>(80%)</sub></sup>
+🔴[Tradíció](kepzettsegek/tradicio.md)
 
 ---
 ## Magasmágia képzettség iskolái 🅿️
