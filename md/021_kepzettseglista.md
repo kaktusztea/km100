@@ -93,7 +93,7 @@
 
 🔴[Orvoslás](kepzettsegek/orvoslas.md) <sup><sub>(40%)</sub></sup>
 
-🔵[Szakma](kepzettsegek/szakma.md): ács, kőműves, borbély, kádár, varga, szűcs, cserző, (fegyver)kovács, gazdálkodás(birtok), ékszerész, molnár, pék, szabó, kötélgyártó, lakatos, rejtjelfejtő <sup><sub>(20%)</sub></sup> 🔁
+🔵[Szakma](kepzettsegek/szakma.md)  <sup><sub>(20%)</sub></sup> 🔁
 
 🔵[Szexuális kultúra](kepzettsegek/szexualis_kultura.md) <sup><sub>(0%)</sub></sup>
 
@@ -155,7 +155,7 @@ A fentieket a KM összegzi és osztályzatot ad rá: `[-5; +5]` intervallumban, 
 
 🔵[Műveltség](kepzettsegek/muveszetismeret.md)  <sup><sub>(50%)</sub></sup>
 
-🔴[Ősi nyelv ismerete](kepzettsegek/osi_nyelv_ismerete.md) (Külön ősi nyelvenként) <sup><sub>(0%)</sub></sup> 🔁
+🔴[Ősi nyelv ismerete](kepzettsegek/osi_nyelv_ismerete.md) <sup><sub>(0%)</sub></sup> 🔁
 
 🔵[Térképészet](kepzettsegek/terkepeszet.md) <sup><sub>(0%)</sub></sup>
 

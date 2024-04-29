@@ -1,4 +1,6 @@
-#### 🔴 Ősi nyelv ismerete  (ősi nyelvenként)
+#### 🔴 Ősi nyelv ismerete 🔁
+
+Ősi nyelvenként külön-külön kell felvenni.
 
 → [STUDY](https://github.com/kaktusztea/km100/wiki/STUDY.osi.nyelv.ismerete)
 
