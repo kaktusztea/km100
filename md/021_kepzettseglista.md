@@ -41,9 +41,9 @@
 [Magasmágia képzettség iskolái](#Magasmágia-képzettség-iskolái)
 
 ---
-## Harci képzettségek
+## Harci képzettségek 🅿️
 
-🔴[Közelharc](kepzettsegek/harcmodor.md)  <sup><sub>(60%)</sub></sup>
+🔴[Közelharc](kepzettsegek/harcmodor.md) <sup><sub>(60%)</sub></sup>
 
 🔴[Kardvívás](kepzettsegek/harcmodor.md)
 
@@ -104,13 +104,17 @@
 ---
 ## Alvilági képzettségek
 
-🔵[Lopakodás/Rejtőzés](kepzettsegek/lopakodas_rejtozes.md) 🅿️ <sup><sub>(15%)</sub></sup>
-
 🔵[Álcázás/Álruha](kepzettsegek/alcazas_alruha.md) <sup><sub>(80%)</sub></sup>
+
+🔵[Csapdaállítás](kepzettsegek/csapdaallitas.md) <sup><sub>(0%)</sub></sup>
+
+🔵[Hamisítás](kepzettsegek/hamisitas.md) <sup><sub>(5%)</sub></sup>
+
+🔵[Lopakodás/Rejtőzés](kepzettsegek/lopakodas_rejtozes.md) 🅿️ <sup><sub>(15%)</sub></sup>
 
 🔵[Lopás](kepzettsegek/lopas.md) <sup><sub>(10%)</sub></sup>
 
-🔵[Zsonglőrködés](kepzettsegek/zsonglorkodes.md) <sup><sub>(0%)</sub></sup>
+
 
 🔵[Kínzás](kepzettsegek/kinzas.md) <sup><sub>(0%)</sub></sup>
 
@@ -118,7 +122,9 @@
 
 🔵[Zárnyitás](kepzettsegek/zarnyitas.md) <sup><sub>(0%)</sub></sup>
 
-🔵[Csapdaállítás](kepzettsegek/csapdaallitas.md) <sup><sub>(0%)</sub></sup>
+
+
+🔵[Zsonglőrködés](kepzettsegek/zsonglorkodes.md) <sup><sub>(0%)</sub></sup>
 
 ---
 ## Művészeti képzettségek
@@ -160,22 +166,22 @@ A fentieket a KM összegzi és osztályzatot ad rá: `[-5; +5]` intervallumban, 
 🔴[Történelemismeret](kepzettsegek/tortenelemismeret.md) <sup><sub>(40%)</sub></sup> 
 
 ---
-## Misztikus képzettségek
+## Misztikus képzettségek 🅿️
 
-🔴[Asztrológia](kepzettsegek/asztrologia.md)*
+🔴[Asztrológia](kepzettsegek/asztrologia.md)
 
 🔴[Aurafejlesztés](kepzettsegek/aurafejlesztes.md)
 
 🔴[Tradíció](kepzettsegek/tradicio.md)
 
-🔵[Összpontosítás](kepzettsegek/osszpontositas.md) 🅿️ <sup><sub>(10%)</sub></sup>
+🔵[Összpontosítás](kepzettsegek/osszpontositas.md) <sup><sub>(10%)</sub></sup>
 
 🔴[Pszí iskola](kepzettsegek/pszi_iskola.md)
 
 🔴[Demonológia*](kepzettsegek/demonologia.md) <sup><sub>(80%)</sub></sup>
 
 ---
-## Magasmágia képzettség iskolái
+## Magasmágia képzettség iskolái 🅿️
 
 🔴Metamágia
 
@@ -208,7 +214,7 @@ A fentieket a KM összegzi és osztályzatot ad rá: `[-5; +5]` intervallumban, 
 🔴Demonológia
 
 ---
-## Vulgármágia képzettség iskolái
+## Vulgármágia képzettség iskolái 🅿️
 
 🔴[Árnyékmágia](magia.vulgar/arnyekmagia.md)  <sup><sub>(10%)</sub></sup>
 
@@ -243,14 +249,14 @@ A fentieket a KM összegzi és osztályzatot ad rá: `[-5; +5]` intervallumban, 
 ⭕Ceremoniális mágiák (???)
 
 ---
-## Ordani tűzmágia képzettség iskolái
+## Ordani tűzmágia képzettség iskolái 🅿️
 
 🔴[Alapformák](magia.godoni.tuz/alapformak.md)  <sup><sub>(0%)</sub></sup>
 
 🔴TODO⭕
 
 ---
-## Bárdmágia képzettség iskolái
+## Bárdmágia képzettség iskolái 🅿️
 
 🔴[Fénymágia](magia.bard/fenymagia.md) <sup><sub>(0%)</sub></sup>
 
@@ -262,7 +268,7 @@ A fentieket a KM összegzi és osztályzatot ad rá: `[-5; +5]` intervallumban, 
 
 
 ---
-## Sámánmágia képzettség iskolái
+## Sámánmágia képzettség iskolái 🅿️
 
 🔴Szabadmágia
 
@@ -281,16 +287,11 @@ A fentieket a KM összegzi és osztályzatot ad rá: `[-5; +5]` intervallumban, 
 🔴Rituálé
 
 ---
-## Ork énekmondói mágia képzettség iskolái
+## Ork énekmondói mágia képzettség iskolái 🅿️
 
 🔴⭕TODO⭕
 
 ---
-## Rituális mágia
-
-🔴⭕TODO⭕ (ha lesz)
-
----
-## Papi mágia
+## Papi mágia 🅿️
 
 - [STUDY oldal: Varázslat szférák](https://github.com/kaktusztea/km100/wiki/STUDY.magiatradicio.papimagia#var%C3%A1zslat-szf%C3%A9r%C3%A1k) - mint iskola-képzettségek (draft)
