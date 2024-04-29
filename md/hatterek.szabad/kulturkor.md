@@ -54,7 +54,7 @@ Hogy mely foka adja meg az adott kultúrkörben a levonások nélküli használa
 
 Ha nincs épp meg az adott szituációban a szükséges kultúrkörhöz tartozó **Kultúrkör** Szabad Háttér, akkor `+3`-al emelkednek az adott képzettség próbáinak nehézségei, amíg a karakter rá nem szánja a szükséges időt a kapcsolódó Kultúrkör Háttér megszerzésére.
 
-##### Kultúrkör lista
+##### Kultúrkör lista draft
 - toroni
 - pyarroni
 - shadoni
@@ -63,6 +63,23 @@ Ha nincs épp meg az adott szituációban a szükséges kultúrkörhöz tartozó
 - törpe
 - elf
 - ⭕TODO⭕
+
+⭕TODO: a lenti Történelemismeret képzettség leírásából importált listát szinkronba hozni a Kultúrkörökkel.⭕
+
+ÉSZAKON:
+
+- Északi Szövetség és a vörös hadurak országai
+- Toron és a fekete hadurak országai (Abaszisz, Gro-Ugon, az északi városállamok - mint Rowon, Alidax -, stb.)
+- Godora és Erion (beleértve a környéket is, pl. Elátkozott Vidék, Sheral nyugati része, stb.)
+
+DÉLEN
+
+- Krán és a déli nomádok
+- Pyarroni Államszövetség és Yllinor
+- Shadon és környéke
+- Gorvik és a Kereskedőhercegségek
+- Ordan és a déli városállamok
+- Taba el Ibara
 
 <br />
 
