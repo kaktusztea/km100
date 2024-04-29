@@ -83,7 +83,7 @@
 
 🔵[Értékbecslés](kepzettsegek/ertekbecsles.md) <sup><sub>(0%)</sub></sup>
 
-🔵[Etikett](kepzettsegek/etikett.md)  <sup><sub>(99%)</sub></sup>
+🔵[Etikett](kepzettsegek/etikett.md) <sup><sub>(99%)</sub></sup>
 
 🔵[Hajózás](kepzettsegek/hajozas.md) <sup><sub>(0%)</sub></sup>
 
@@ -93,7 +93,7 @@
 
 🔴[Orvoslás](kepzettsegek/orvoslas.md) <sup><sub>(40%)</sub></sup>
 
-🔵[Szakma](kepzettsegek/szakma.md)  <sup><sub>(20%)</sub></sup> 🔁
+🔵[Szakma](kepzettsegek/szakma.md) <sup><sub>(20%)</sub></sup> 🔁
 
 🔵[Szexuális kultúra](kepzettsegek/szexualis_kultura.md) <sup><sub>(0%)</sub></sup>
 
