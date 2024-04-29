@@ -8,7 +8,7 @@ A szabályrendszer dokumentumaiban speciális unicode karaktereket használunk j
 ## Aktív jelzők
 ⚪ Tulajdonság
 
-🔴 Átfogó képzettség 🔵 Átlagos képzettség 🟢 Könnyű képzettség 🟡 Különleges képzettség
+🔴 Átfogó képzettség 🔵 Átlagos képzettség
 
 🟣 Fortély / Háttér
 
