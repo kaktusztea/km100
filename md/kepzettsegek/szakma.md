@@ -1,6 +1,6 @@
 #### 🔵 Szakma
 
-Ács, kőműves, borbély, kádár, varga, szűcs, cserző, (fegyver)kovács, ékszerész, hivatalnok, molnár, pék, szabó, kötélgyártó, lakatos, rejtjelfejtő, stb.
+Ács, asztalos, borbély, cipész, cserző, ékszerész, gazdálkodás(birtok), hivatalnok, kötélgyártó, kőműves, kádár, (fegyver)kovács, lakatos, molnár, pék, rejtjelfejtő, szabó, szűcs, varga
 
 Kapcsolódik: [Hamisítás](hamisitas.md)
 
