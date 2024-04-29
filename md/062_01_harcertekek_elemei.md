@@ -28,7 +28,7 @@ Az alábbiakban részletesen kifejtjük a fenti értékek kiszámítási módjá
 
 ### Harcérték Alapok
 
-Első szinten minden karakter egységes konstans értékeket kap KÉ, TÉ, VÉ és CÉ értékére.
+Első szinten minden karakter egységes konstans értékeket kap `KÉ`, `TÉ`, `VÉ` és `CÉ` értékére.
 
 Értékeik :
 
@@ -51,10 +51,11 @@ Egyes Tulajdonságok értékei beleszámítanak a harcértékekbe. Hogy melyek a
 
 Ahogy fejlődik, megjár sok harci helyzetet, a karakter általános harcértékei fejlődnek. Ezt szimbolizálja a Harcérték módosító, melyet a játékos vehet fel karaktere szintlépésének alkalmával.
 
-Minden karakter szintenként **maximum** **(6+Ügyesség)** pontnyi úgynevezett HM-et és **maximum 4** ún. Célzóérték Módosítót (**CM)** vehet fel (nem kötelező!) Karakter Pontjaiból. Egy HM-re, illetve CM-re **4** Karakter Pontot kell költenie.
+**HM**: Harcérték Módosító\
+**CM**: Célzóérték Módosító
 
 ```
-Maximum: 8 HM / Szint
+Maximum: (6 + Ügyesség) HM / Szint
 Maximum: 4 CM / Szint
 1 HM = 5 KP
 1 CM = 5 KP
@@ -74,38 +75,36 @@ A km100 rendszere az alábbi (átfogó) harci képzettségeket ismeri:
 
 **Közelharc, Kardvívás, Lándzsavívás, Zúzás, Hajítás, Íjászat, Lövészet, Ostromlövészet**
 
-- **Közelharc: közelharci** **Rövid** (0) pengehosszú fegyverek
-- **Kardvívás: minden „pengés” fegyver (kétkezes kard is)**
-- **Zúzás: zúzófegyverek, csatabárdok, csákány**
-- **Lándzsavívás: Szálfegyverek**
-
+- **Közelharc**: Rövid (0) pengehosszú fegyverek
+- **Kardvívás**: minden további „pengés” fegyver (kétkezes kard is)
+- **Zúzás**: zúzófegyverek, csatabárdok, csákány
+- **Lándzsavívás**: Szálfegyverek
 
 A harci képzettségek aktuális szintjétől függ, hogy az alá tartozó fegyvereket milyen általános harcérték pluszokkal forgathatja a karakter.
-**Megjegyzés**: Az egyes fegyverek további erősítése a Mesterfegyver fortéllyal lehetséges.
+**Megjegyzés**: Az egyes fegyverek további erősítése a [Mesterfegyver](fortelyok.harci/mesterfegyver.md) fortéllyal lehetséges.
 
-</br>
+<br />
 
-|Harcmodor Szint|Hatás*|
-| :---: | :---: |
-|Képzetlen|KÉ: -20, TÉ: -30, VÉ:-30, CÉ: -30|
-|1|csak -10KÉ, -20 TÉ,VÉ,CÉ|
-|2|csak -5KÉ, -10 TÉ,VÉ,CÉ|
-|3|0|
-|4|+1 KÉ ; +3 TÉ,VÉ,CÉ|
-|5|+2 KÉ ; +6TÉ,VÉ,CÉ|
-|6|+3 KÉ ; +9 TÉ,VÉ,CÉ|
-|7|+4 KÉ ; +12 TÉ,VÉ,CÉ|
-|8|+5 KÉ ; +15 TÉ,VÉ,CÉ|
-|9|+6 KÉ ; +18 TÉ,VÉ,CÉ|
-|10|+7 KÉ ; +21 TÉ,VÉ,CÉ|
-|11|+8 KÉ ; +24 TÉ,VÉ,CÉ|
-|12|+9 KÉ ; +27 TÉ,VÉ,CÉ|
-|13|+10 KÉ ; +30 TÉ,VÉ,CÉ|
-|14|+11 KÉ ; +33 TÉ,VÉ,CÉ|
-|15|+12 KÉ ; +36 TÉ,VÉ,CÉ|
+| Harcmodor Szint |               Hatás*                |
+| :-------------: | :---------------------------------: |
+|    Képzetlen    | `KÉ: -20, TÉ: -30, VÉ:-30, CÉ: -30` |
+|       `1`       |     csak `-10KÉ, -20 TÉ,VÉ,CÉ`      |
+|       `2`       |      csak `-5KÉ, -10 TÉ,VÉ,CÉ`      |
+|       `3`       |                 `0`                 |
+|       `4`       |        `+1 KÉ ; +3 TÉ,VÉ,CÉ`        |
+|       `5`       |        `+2 KÉ ; +6TÉ,VÉ,CÉ`         |
+|       `6`       |        `+3 KÉ ; +9 TÉ,VÉ,CÉ`        |
+|       `7`       |       `+4 KÉ ; +12 TÉ,VÉ,CÉ`        |
+|       `8`       |       `+5 KÉ ; +15 TÉ,VÉ,CÉ`        |
+|       `9`       |       `+6 KÉ ; +18 TÉ,VÉ,CÉ`        |
+|      `10`       |        `+7 KÉ ; +21 TÉ,VÉ,`         |
+|      `11`       |       `+8 KÉ ; +24 TÉ,VÉ,CÉ`        |
+|      `12`       |       `+9 KÉ ; +27 TÉ,VÉ,CÉ`        |
+|      `13`       |        `+10 KÉ ; +30 TÉ,VÉ,`        |
+|      `14`       |       `+11 KÉ ; +33 TÉ,VÉ,CÉ`       |
+|      `15`       |       `+12 KÉ ; +36 TÉ,VÉ,CÉ`       |
 
-*A távolsági fegyvereknél értelemszerűen csak +1 KÉ és +3 CÉ jár szintenként, hiszen nincs TÉ és VÉ értékük.
-
+\* A távolsági fegyvereknél értelemszerűen csak `KÉ: +1` és `CÉ: +3` jár szintenként, hiszen nincs `TÉ` és `VÉ` értékük.
 
 ---
 #### Harcmodorok és Manőverek
@@ -120,20 +119,17 @@ Vannak olyan manőverek is, melyek csak adott fegyverre, vagy harcmodorra jellem
 
 A Manőver-ismeretek tanulása szorosan összekapcsolódik a Harcmodor-képzettségekkel.
 
-Minden nem-távolsági Harcmodor harmadik (**3.**) képzettség szintje 1 db ún. Manőverfejlesztő Pontot (**MFP**) ad. Az egyes manőver ismeretek tanulása ezekből a pontokból történik. Fontos, hogy a manővereknek csak egy része fejleszthető – kizárólag ezekre lehetséges MFP-t költeni. Az tanulható manőverek különböző mértékben fejleszthetők. Különböző fokon lehet felvenni őket – melyeknek természetesen követelményük is van.
-
-Ha ezeken felül is manővert akar tanulni, akkor fokonként +10KP-t kell költenie.
+Minden nem-távolsági Harcmodor harmadik (`3.`) képzettség szintje `1` db ún. Manőverfejlesztő Pontot (**MFP**) ad. Az egyes manőver ismeretek tanulása ezekből a pontokból történik. Fontos, hogy a manővereknek csak egy része fejleszthető – kizárólag ezekre lehetséges **MFP**-t költeni. Az tanulható manőverek különböző mértékben fejleszthetők. Különböző fokon lehet felvenni őket – melyeknek természetesen követelményük is van.
 
 ---
 ### Mesterfegyver fortély
 
-A legtöbb esetben egy karakternek van egy (vagy több) fegyver típusa, amelyet előnyben részesít, gyakran forgat egy harcmodoron belül. A Mesterfegyver fortély segítségével egyes fegyverek harcértékeit tovább növelheti, így elszakadva kicsit tudásban a harcmodor többi fegyverétől. A Mesterfegyver fortélyt legfeljebb 3. fokon lehet felvenni az alábbi követelményekkel és jutalmakkal:
+A legtöbb esetben egy karakternek van egy (vagy több) fegyver típusa, amelyet előnyben részesít, gyakran forgat egy harcmodoron belül. A **Mesterfegyver fortély** segítségével egyes fegyverek harcértékeit tovább növelheti, így elszakadva kicsit tudásban a harcmodor többi fegyverétől. A Mesterfegyver fortélyt legfeljebb `3.fokon` lehet felvenni az alábbi követelményekkel és jutalmakkal:
 
+|   Fok   |        Követelmény        |  KÉ  |  TÉ  |  VÉ  | Sebzés |
+| :-----: | :-----------------------: | :--: | :--: | :--: | :----: |
+| `1.fok` | `4.szint` a harcmodorban  | `+2` | `+3` | `+3` |  `+1`  |
+| `2.fok` | `8.szint` a harcmodorban  | `+4` | `+6` | `+6` |  `+2`  |
+| `3.fok` | `12.szint` a harcmodorban | `+6` | `+9` | `+9` |  `+3`  |
 
-|Fok|Követelmény|KÉ|TÉ|VÉ|Sebzés|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1.fok    | 4.szint a harcmodorban  | `KÉ:+2`, `TÉ:+3`, `VÉ:+3`, `SP:+1`     |
-| 2.fok    | 8.szint a harcmodorban  | `KÉ:+4`, `TÉ:+6`, `VÉ:+6`, `SP:+2`     |
-| 3.fok    | 12.szint a harcmodorban | `KÉ:+6`, `TÉ:+9`, `VÉ:+9`, `SP:+3`     |
-
-Bizonyos manővereknek követelménye lehet ennek a fortélynak valamely foka, melyet csak az adott fegyverrel képes végrehajtani a forgatója. Például: „Első vágás”, „Mesterjel”
+Bizonyos manővereknek követelménye lehet ennek a fortélynak valamely foka, melyet csak az adott fegyverrel képes végrehajtani a forgatója. Például: „Mesterjel”
