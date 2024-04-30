@@ -135,7 +135,7 @@ Puszta kéz:  KÉ:-10,  TÉ:0,  VÉ:-10
 | Kard, Slan rövid     |    egykezes    | `+4` |     V/S      |    `0`     |   0,5 penge    | `5`  | `11` | `5`  |   `5`    | Lásd Slan kard (de nem (MK))                                                                                                                                                                                                                                                                                                                                                                                 |
 | Kard, Slan csatakard |    kétkezes    | `+9` |     V/S      |    `2`     |    2 penge     | `9`  | `23` | `17` |   `8`    | Hihetetlen drága és ritka.<br />Csak két kézzel forgatható.  <br />(spec)                                                                                                                                                                                                                                                                                                                                    |
 | Kard, szablya        |    egykezes    | `+3` |     V/S      |    `0`     |    1 penge     | `6`  | `12` | `12` |   `6`    | `IV` fegyver                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Mara-sequor          |    kétkezes    | `+6` |     V/S      |    `2`     |   1,5 penge    | `9`  | `20` | `16` |   `6`    | `MK`,`KF`: **Tradíció: Fejvadász** - `9.szint`, Spec: ⭕TODO⭕                                                                                                                                                                                                                                                                                                                                                 |
+| Mara-sequor          |    kétkezes    | `+6` |     V/S      |    `2`     |   1,5 penge    | `9`  | `20` | `16` |   `6`    | `MK`,`KF`: **Tradíció: Fejvadász** - `9.szint`                                                                                                                                                                                                                                                                                                                                                               |
 | Meneth               |    egykezes    | `+4` |      V       |    `0`     |   0,5 penge    | `6`  | `10` | `7`  |   `6`    | `KF`: **Tradíció: Amund** - `9.szint`; Spec: ⭕TODO⭕                                                                                                                                                                                                                                                                                                                                                          |
 | Predoci egyeneskard  |    egykezes    | `+4` |     V/S      |    `0`     |    1 penge     | `7`  | `13` | `11` |   `6`    | -                                                                                                                                                                                                                                                                                                                                                                                                            |
 | Sequor               |    egykezes    | `+4` |     V/S      |    `0`     |   0,5 penge    | `6`  | `13` | `11` |   `5`    | `IV` fegyver, `KF`: **Tradíció: Fejvadász** - `9.szint`                                                                                                                                                                                                                                                                                                                                                      |
@@ -175,7 +175,7 @@ A fenti alól kivétel, ha két oldalról természetes, vagy épített kordonnal
 | Szigony       | `+4` |      S       |    `0`     | - Ha minimum 11 SP lett a sebződobás (SFÉ lejön!), akkor `+5 SP` jár. <br />- Páncélos ellenfélnél: `K6` dobás: `1-3` értéknél a fegyver elakad a testben, ha átment rajta a sebzés.<br />- Páncéltalan esetén: `K6` dobás: `1`-es értéknél a fegyver elakad a testben, ha átment rajta a sebzés. |
 | Alabárd fej   | `+4` |     S/Z      |    `6`     |                                                                                                                                                                                                                                                                                                   |
 
-⭕Méret: MGT bejön nagy méretnél⭕
+⭕TODO: MGT bejön nagy méretnél⭕
 
 | **Fegyver**       | Forgatás módja |    SP     | Sebzés módja | **Átütés** | **Pengehossz** |  KÉ  |  TÉ  |  VÉ  | Sebesség | Speciális                                                                         |
 | ----------------- |:--------------:|:---------:|:------------:|:----------:|:--------------:|:----:|:----:|:----:|:--------:| --------------------------------------------------------------------------------- |
@@ -191,11 +191,12 @@ A fenti alól kivétel, ha két oldalról természetes, vagy épített kordonnal
 ---
 ### Lovas fegyverek harcértékei
 
-| **Fegyver**          | Forgatás módja | SP  | Sebzés módja | **Átütés** | **Pengehossz** | KÉ  | TÉ  | VÉ  | Sebesség | Speciális |
-| -------------------- |:--------------:|:---:|:------------:|:----------:|:--------------:|:---:|:---:|:---:|:--------:| --------- |
+| **Fegyver**         | Forgatás módja | SP  | Sebzés módja | **Átütés** | **Pengehossz** | KÉ  | TÉ  | VÉ  | Sebesség | Speciális |
+| ------------------- | :------------: | :-: | :----------: | :--------: | :------------: | :-: | :-: | :-: | :------: | --------- |
 | ⭕ Kopja, könnyű     |                |     |              |            |                |     |     |     |          |           |
 | ⭕ Kopja, lovas      |                |     |              |            |                |     |     |     |          |           |
 | ⭕ Kopja, nehézlovas |                |     |              |            |                |     |     |     |          |           |
+| ⭕ Lovas lándzsa?    |                |     |              |            |                |     |     |     |          |           |
 
 <br />
 
@@ -224,8 +225,6 @@ A Hajítófegyverek sebzése általánosságban **Szúró** jellegű. Ahol ez m�
 ### Lőfegyverek harcértékei
 
 A Lőfegyverek sebzése általánosságban **Szúró** jellegű. Ahol ez másként van, ott az adott fegyver leírásánál a „**Speciális/Megjegyzés**” oszlopban ezt külön feltüntetjük.
-
-A Sebzést és Átütést a nyílhegy is meghatározza! ⭕TODO ⭕
 
 Egy helyen rögzített „lengő” anyagok könnyen megfoghatják az íjász lövedékeket (pl. száradó ruha).
 
