@@ -92,6 +92,7 @@ Puszta kéz:  KÉ:-10,  TÉ:0,  VÉ:-10
 | Tőr, páncélszúró        |    egykezes    |    `+1`     |      S       |    `5`     |   0,5 penge    |  `4`  |  `8`  |  `2`  |   `6`    | \*Erőbónusz hozzáadódik az **Átütéshez**                                                                                                                                                                                                                      |
 | Tőr, Slan               |    egykezes    |    `+2`     |     S/V      |    `0`     |      `0`       |  `0`  |  `6`  |  `2`  |   `5`    |                                                                                                                                                                                                                                                               |
 | Vasököl / páncélkesztyű |    egykezes    |    `+0`     |      Z       |    `0`     |      `0`       | `-7`  | `-7`  | `-7`  |   `5`    | Az Erőbónusz beszámít.                                                                                                                                                                                                                                        |
+<br />
 
 ---
 ### Kardvívó fegyverek harcértékei
@@ -139,6 +140,7 @@ Puszta kéz:  KÉ:-10,  TÉ:0,  VÉ:-10
 | Predoci egyeneskard  |    egykezes    | `+4` |     V/S      |    `0`     |    1 penge     | `7`  | `13` | `11` |   `6`    | -                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | Sequor               |    egykezes    | `+4` |     V/S      |    `0`     |   0,5 penge    | `6`  | `13` | `11` |   `5`    | `IV` fegyver, `KF`: **Tradíció: Fejvadász** - `9.szint`                                                                                                                                                                                                                                                                                                                                                               |
 | Tőrkard              |    egykezes    | `+2` |     S/V      |    `0`     |    1 penge     | `6`  | `12` | `12` |   `5`    | - Az áldozat páncéldobás során -1 büntetést szenved el<br /> - Pontra támadás manővernél: a manőver nehézsége `1`-el csökken <br />- Ha az ellenfél is tőrkarddal harcol, mindketten kapnak `+10` VÉ bónuszt.<br />- Erőbónusz nem számít!<br />⭕TODO⭕Olyan fegyver ellen, amik nem háríthatóak csuklóból: ⭕VÉ csökk?? <br>(Pusztító fegyverek ellen fokozottan!!!)<br /><br>Sokkal könnyebb ellene a fegyvertörés |
+<br />
 
 ---
 ### Zúzás harcmodorú fegyverek harcértékei
@@ -157,6 +159,7 @@ Puszta kéz:  KÉ:-10,  TÉ:0,  VÉ:-10
 | Csatabárd, kétkezes |    kétkezes    | `+8` |      Z       |    `4`     |   1,5 penge    | `4` | `18` | `10` |   `8`    |                                                                                  |
 | Csatacsákány        |    egykezes    | `+5` |      Z       |    `10`    |    1 penge     | `5` | `14` | `5`  |   `7`    | Nagyon vérzik<br />`50%` az esély, hogy beragad és nem lehet kihúzni harc közben |
 | Harci kalapács      |    kétkezes    | `+7` |      Z       |    `0`     |   1,5 penge    | `1` | `20` | `8`  |   `8`    | **Erő** követelmény:`+2`                                                         |
+<br />
 
 ---
 ### Lándzsavívó fegyverek harcértékei
