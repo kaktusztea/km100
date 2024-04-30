@@ -93,9 +93,12 @@ Fontos, hogy másra nem pazarolhatod figyelmedet, kizárólag a védekezésre. H
 
 ---
 ### Fárasztás
-
+```
+- Nyert KÉ szükséges
+- ⭕Előnyös helyzet szükséges (pengehossz különbség kisebb 0,5 pengénél)
+```
 ```diff
-- Aktualizálni, ha végleges a VÉ csökkentés!
+- Aktualizálni
 ```
 
 - Nyert kezdeményezés szükséges
@@ -105,13 +108,13 @@ Fontos, hogy másra nem pazarolhatod figyelmedet, kizárólag a védekezésre. H
 
 Ha fárasztani kívánod ellenfeledet, ellenállását megtörni anélkül, hogy sebet ejtenél rajta, akkor a harc ugyanúgy folyik, mint más esetben, csak nyert kezdeményezést követően mindig `+2`-vel nő **VÉ csökkentésed**.
 
-Sebző támadás esetén pedig ugyanez, de elmarad maga a sebzés – helyette további `+10`-el csökkentheted ellenfeled **Védő Értékét**. Ehhez a taktikához „fel kell pörgethed” magad, így minden alkalmazásakor Te is elszenvedsz egy ⭕`+3 VÉ`⭕ csökkenést.
+Sebző támadás esetén pedig ugyanez, de elmarad maga a sebzés – helyette további `+10`-el csökkentheted ellenfeled **Védő Értékét**. ⭕Ehhez a taktikához „fel kell pörgethed” magad, így minden alkalmazásakor Te is elszenvedsz egy ⭕`+3 VÉ`⭕ csökkenést.
 
 A taktika használatát mindig a Kezdeményező dobás előtt kell bejelentened. Amennyiben elveszted a kezdeményezést, akkor sima harci kör következik számodra, amiben nem használhatsz semmilyen – kör elején bejelentendő – harci taktikát.
 
 A Fárasztás taktikának leginkább körbevett ellenfél esetén van értelme: a pribékek kifáraszthatják a „vadat”, míg vezetőjük felkészül. Fontos: a Fárasztás **nem** használható **Rohammal** együtt.
 
-Kapcsolódó fortély: **Fárasztás** harci fortély
+Kapcsolódó fortély: [Fárasztás](fortelyok.harci/farasztas.md) harci fortély
 
 ---
 ### Roham
