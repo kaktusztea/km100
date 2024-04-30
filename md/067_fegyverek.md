@@ -208,9 +208,9 @@ A Hajítófegyverek sebzése általánosságban **Szúró** jellegű. Ahol ez m�
 
 #### Hajítófegyverek (Hajítás)
 | Fegyver      | Forgatás módja |  SP  | Sebzés módja | Átütés |  KÉ  |  CÉ  | Osztó | Hatótáv | Sebesség | Speciális / Megjegyzés                                                                                                           |
-| ------------ | :------------: | :--: | :----------: | :----: | :--: | :--: | :---: | ------: | :------: | -------------------------------------------------------------------------------------------------------------------------------- |
+| ------------ |:--------------:|:----:|:------------:|:------:|:----:|:----:|:-----:| -------:|:--------:| -------------------------------------------------------------------------------------------------------------------------------- |
 | Bola         |    egykezes    |  -   |      -       |  `0`   | `2`  | `+2` |  `1`  |   `20m` |   `10`   |                                                                                                                                  |
-| Hajítóbárd   |    egykezes    | `+2` |      Z       |        | `8`  | `+4` |  `2`  |  `20m`* |   `6`    | Maximális hatótávolsága:  <br />`20+(Erő x 4)` méterben<br />Pajzsba dobva csökkenti annak Védő Értékét a dobott **SP** értékkel |
+| Hajítóbárd   |    egykezes    | `+2` |      Z       |  `0`   | `8`  | `+4` |  `2`  |  `20m`* |   `6`    | Maximális hatótávolsága:  <br />`20+(Erő x 4)` méterben<br />Pajzsba dobva csökkenti annak Védő Értékét a dobott **SP** értékkel |
 | Hajítótőr    |    egykezes    | `+0` |      S       |  `0`   | `12` | `+4` |  `2`  |   `15m` |   `5`    | Automatikusan jár rá a **Közeli lövés** fortélynál leírt `CÉ:+10` bónusz ha a célpont Cellaszáma 1.<br />Erőbónusz beszámít.     |
 | kő, alma     |    egykezes    |      |      Z       |  `0`   | `6`  | `+0` |  `1`  |  `20m`* |   `5`    | Maximális hatótávolsága: <br />`20+(Erő x 5)` méterben                                                                           |
 | Parittya     |    egykezes    | `+0` |      Z       |  `0`   | `4`  | `+4` |  `2`  |   `70m` |   `9`    | Lehet nagy sebzése, de az SFÉ duplán számítson ellene (vagy SFÉ bónusz)                                                          |
