@@ -163,11 +163,7 @@ Ha megsérül a karakter, képzettségpróbáira levonások járnak. Hogy mennyi
 ---
 #### Vértek, SFÉ
 
-→ [TODO/ISSUE: Vértek, Páncélok](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.vertek.pancelok)
-
-```diff
-- Itt inkább az általános szabályokat írjuk be, a konkrét vérteket a doksi végén ismertessük táblázatos formában.
-```
+Lásd a [Vértek, Páncélok fejezetet](068_vertek_pancelok.md)!
 
 
 ---
