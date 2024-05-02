@@ -2,7 +2,7 @@
 
 Egy fantasy világokra tervezett komplett, asztali (papír, kockák) szerepjáték rendszer ([CC](LICENSE)).
 
-→ **[km100 szabályrendszer](./md/start.md)**
+⚜️ **[km100 szabályrendszer](./md/start.md)** ⚜️
 
 ---
 ## Fejlesztés
@@ -78,7 +78,7 @@ A rendszer nonprofit, soha semmilyen anyagi, vagy egyéb ellenszolgáltatást ne
 
 ---
 
-→ **[km100 szabályrendszer](./md/start.md)**
+⚜️ **[km100 szabályrendszer](./md/start.md)** ⚜️
 
 ---
 **km100**: Nonprofit szabályrendszer a M\* világához
