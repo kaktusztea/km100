@@ -66,17 +66,18 @@
   - [Mágiaelmélet](091_magiaelmelet.md)
   - [Mágia alapszabályok](092_magia_alapszabalyok.md)
   - [Aura](093_aura.md)
+  - [Szférák](https://github.com/kaktusztea/km100/wiki/STUDY.magia.szferak.iskolak) 🚧
   - **Arkánumok**
     - [Aura](kepzettsegek/aurafejlesztes.md)
     - [Asztrálmágia](magia.arkanumok/asztralmagia.md)
     - [Elemi mágia](magia.arkanumok/elemi_magia.md)
     - [Belső síkok lényeinek idézése](magia.arkanumok/idezes.belso.sikok.md)
-    - [Gyógyítás](https://github.com/kaktusztea/km100/wiki/STUDY.papimagia.szfera.gyogyitas#papi-mágia---gyógyítás-szféra)
+    - [Gyógyítás](https://github.com/kaktusztea/km100/wiki/STUDY.papimagia.szfera.gyogyitas#papi-mágia---gyógyítás-szféra) 🚧
     - [Időmágia](magia.arkanumok/idomagia.md)
     - [Illúziók](magia.arkanumok/illuziok.md)
     - [Külső síkok lényeinek idézése](magia.arkanumok/idezes.kulso.sikok.md)
     - [Mentálmágia](magia.arkanumok/mentalmagia.md)
-    - [Metamágia](https://github.com/kaktusztea/km100/wiki/STUDY.magia.metamagia)
+    - [Metamágia](https://github.com/kaktusztea/km100/wiki/STUDY.magia.metamagia) 🚧
     - [Nekromancia](magia.arkanumok/nekromancia.md)
     - [Sors befolyásolás](magia.arkanumok/sors.befolyasolas.md)
     - [Sors érzékelés](magia.arkanumok/sors.erzekeles.md)
