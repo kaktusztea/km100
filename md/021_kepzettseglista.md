@@ -166,7 +166,7 @@ Két kiemelt művészet kapott saját képzettséget: **Tánc** és **Zenélés*
 🔴[Tradíció](kepzettsegek/tradicio.md)
 
 ---
-## Arkánumok 🅿️
+## Mágikus Szférák és Arkánumaik 🅿️
 
 ### Mágia Szféra
 🔴Metamágia
