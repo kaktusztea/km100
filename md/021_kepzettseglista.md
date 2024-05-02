@@ -169,7 +169,7 @@ Két kiemelt művészet kapott saját képzettséget: **Tánc** és **Zenélés*
 ## Mágikus Szférák és Arkánumaik 🅿️
 
 ### Mágia Szféra
-🔴Metamágia
+🔴[Metamágia](https://github.com/kaktusztea/km100/wiki/STUDY.magia.metamagia)
 
 🔴[Aura](kepzettsegek/aurafejlesztes.md)
 
