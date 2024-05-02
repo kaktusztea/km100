@@ -30,7 +30,7 @@
 
 [Misztikus képzettségek](#misztikus-k%C3%A9pzetts%C3%A9gek-%F0%9F%85%BF%EF%B8%8F)
 
-[Mágikus Szférák és Arkánumaik](TODO) ⭕TODO link⭕
+[Mágikus Szférák és Arkánumaik](#m%C3%A1gikus-szf%C3%A9r%C3%A1k-%C3%A9s-ark%C3%A1numaik-%F0%9F%85%BF%EF%B8%8F)
 
 [Papi mágia](#papi-m%C3%A1gia-%F0%9F%85%BF%EF%B8%8F)
 
