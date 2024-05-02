@@ -177,34 +177,34 @@ Két kiemelt művészet kapott saját képzettséget: **Tánc** és **Zenélés*
 
 🔴[Elemi mágia](magia.arkanumok/elemi_magia.md) <sup><sub>(30%)</sub></sup>
 
-🔴Természetes anyagok mágiája
+🔴[Természetes anyagok mágiája](magia.arkanumok/termeszetes.anyagok.magiaja.md)
 
 
 ###  Lélek szféra
 
-🔴Asztrálmágia
+🔴[Asztrálmágia](magia.arkanumok/asztralmagia.md)
 
-🔴Mentálmágia
+🔴[Mentálmágia](magia.arkanumok/mentalmagia.md)
 
 ### Jelenségek szféra
 
-🔴Illúziók
+🔴[Illúziók](magia.arkanumok/illuziok.md)
 - [Fénymágia](magia.arkanumok/fenymagia.md) <sup><sub>(0%)</sub></sup> /  [Árnyékmágia](magia.arkanumok/arnyekmagia.md)  <sup><sub>(10%)</sub></sup>
 - Hangmágia/[Csendmágia](https://github.com/kaktusztea/km100/wiki/RAW.magia#csendmágia)
 
-🔴Természeti jelenségek
+🔴[Természeti jelenségek](magia.arkanumok/termeszeti.jelensegek.md)
 - Időjárásbefolyásolás
 - Villámmmágia
 
 ### Téridő szféra
 
-🔴Időmágia
+🔴[Időmágia](magia.arkanumok/idomagia.md)
 
-🔴Térmágia
+🔴[Térmágia](magia.arkanumok/termagia.md)
 
 ### Életerő szféra
 
-🔴Gyógyítás
+🔴[Gyógyítás](https://github.com/kaktusztea/km100/wiki/STUDY.papimagia.szfera.gyogyitas#papi-m%C3%A1gia---gy%C3%B3gy%C3%ADt%C3%A1s-szf%C3%A9ra) 🚧
 - Sebgyógyítás
 - Isteni Életerő átadása (KT átalakítása ÉP-vé rögtön)
 - Betegségek gyógyítása
@@ -219,12 +219,12 @@ Két kiemelt művészet kapott saját képzettséget: **Tánc** és **Zenélés*
 
 ### Idézés szféra
 
-🔴 Belső síkok lényeinek idézése
+🔴 [Belső síkok lényeinek idézése](magia.arkanumok/idezes.belso.sikok.md)
 - elementálok
 - ember lelkek / lelkekbol lehasadt szellemek
 - természeti szellemek
 
-🔴Külső síkok lényeinek idézése
+🔴[Külső síkok lényeinek idézése](magia.arkanumok/idezes.kulso.sikok.md)
 - Demonológia
 - Theurgia
 - Goécia
@@ -232,10 +232,10 @@ Két kiemelt művészet kapott saját képzettséget: **Tánc** és **Zenélés*
 
 ### Sors szféra
 
-🔴Sors Érzékelés
+🔴[Sors Érzékelés](magia.arkanumok/sors.erzekeles.md)
 - jövendőmondás / múltbatekintés
 
-🔴Sors Befolyásolás
+🔴[Sors Befolyásolás](magia.arkanumok/sors.befolyasolas.md)
 - Lélekmágia (véletlenmágia) (CX)
 
 ### Titkos Szféra
