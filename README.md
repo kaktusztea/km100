@@ -2,7 +2,7 @@
 
 Egy fantasy világokra tervezett komplett, asztali (papír, kockák) szerepjáték rendszer ([CC](LICENSE)).
 
-→ [km100 szabályrendszer](./md/start.md)
+→ **[km100 szabályrendszer](./md/start.md)**
 
 ---
 ## Fejlesztés
