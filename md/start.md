@@ -66,24 +66,23 @@
   - [Mágiaelmélet](091_magiaelmelet.md)
   - [Mágia alapszabályok](092_magia_alapszabalyok.md)
   - [Aura](093_aura.md)
-  - [Magasmágia](051_01_magasmagia.md) (0%)🚧
-    - [Elemi mágia iskola](magia.arkanumok/elemi_magia.md) (50%) 🚧
-  - [Vulgármágia](051_02_vulgarmagia.md) (0%)
-    - [Árnyékmágia iskola](magia.arkanumok/arnyekmagia.md) 🚧
-    - [Méregmágia iskola](magia.arkanumok/meregmagia.md) 🚧
-    - [Méregmágia szemita](magia.arkanumok/meregmagia.szemita.md) 🚧
-    - [Nekromancia iskola](magia.arkanumok/nekromancia.md) 🚧
-    - [Villámmágia iskola](magia.arkanumok/villammagia.md) 🚧
-  - [Ordani (godoni?) Tűzmágia](051_03_ordani_tuzmagia.md) (0%)🚧
-    - [Alapformák](magia.godoni.tuz/alapformak.md)
-  - [Bárdmágia](051_04_bardmagia.md) (0%)🚧
-    - [Dalmágia](magia.arkanumok/dalmagia.md)
-    - [Fénymágia](magia.arkanumok/fenymagia.md)
-    - [Hangmágia](magia.arkanumok/hangmagia.md)
-  - [Sámánmágia](051_05_samanmagia.md)  (0%)🚧
-    - [Idézések](magia.arkanumok/idezesek.md)
-  - [Ork Énekmondói mágia](051_06_ork_enekmondoi_magia.md) (0%)🚧
-  - [Rituális mágia](051_07_ritualis_magia.md) (0%)🚧
+  - **Arkánumok**
+    - [Aura](kepzettsegek/aurafejlesztes.md)
+    - [Asztrálmágia](magia.arkanumok/asztralmagia.md)
+    - [Elemi mágia](magia.arkanumok/elemi_magia.md)
+    - [Belső síkok lényeinek idézése](magia.arkanumok/idezes.belso.sikok.md)
+    - [Gyógyítás](https://github.com/kaktusztea/km100/wiki/STUDY.papimagia.szfera.gyogyitas#papi-mágia---gyógyítás-szféra)
+    - [Időmágia](magia.arkanumok/idomagia.md)
+    - [Illúziók](magia.arkanumok/illuziok.md)
+    - [Külső síkok lényeinek idézése](magia.arkanumok/idezes.kulso.sikok.md)
+    - [Mentálmágia](magia.arkanumok/mentalmagia.md)
+    - [Metamágia](https://github.com/kaktusztea/km100/wiki/STUDY.magia.metamagia)
+    - [Nekromancia](magia.arkanumok/nekromancia.md)
+    - [Sors befolyásolás](magia.arkanumok/sors.befolyasolas.md)
+    - [Sors érzékelés](magia.arkanumok/sors.erzekeles.md)
+    - [Térmágia](magia.arkanumok/termagia.md)
+    - [Természetes anyagok mágiája](magia.arkanumok/termeszetes.anyagok.magiaja.md)
+    - [Természeti jelenségek](magia.arkanumok/termeszeti.jelensegek.md)
 - [Papi mágia](100_papimagia.md) (10%) 🚧
 - [Varázstárgyak](110_varazstargyak.md)  (10%) 🚧
 - [Gyógyítás, gyógyulás](120_gyogyitas_gyogyulas.md)

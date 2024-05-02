@@ -1,0 +1,3 @@
+## Sors érzékelése arkánum
+
+xyz

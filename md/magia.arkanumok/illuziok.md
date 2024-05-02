@@ -1,3 +1,21 @@
+## Illúziók arkánum
+
+
+### Hangmágia
+
+xyz
+
+---
+### Csendmágia
+
+xyz
+
+---
+### Fénymágia
+
+xyz
+
+---
 ### Árnyékmágia
 
 ```
@@ -35,10 +53,4 @@ Tehát:
 | Méretmódosító | +15 Mp |    +3    |
 | ------------  | ------ |  ------  |
 | Összesen      | 20 Mp  |   90%    |
-
-
-
-
-
-  
 

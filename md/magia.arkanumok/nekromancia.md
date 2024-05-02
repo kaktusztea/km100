@@ -1,13 +1,11 @@
-### Nekromancia
+## Nekromancia
 
 ```
 🔆Codexből átmentett saját ötleteim🔆
 ❗ Itt néhány random nekromanciás formula ötletét dobtam be. Nem kidolgozott mágiaiskola
 ```
 
-
-
-#### Kontroll
+### Kontroll
 
 Ezzel a formulával a varázsló közvetlenül irányíthatja holttesteket pusztán a mágia erejével. Minél kevesebb az ép izomzat a testen, annál több energiát kell befektetni, hogy a test megmozduljon. Mivel nem lélek, vagy szellemlény nem lakja a testet, ezért folyamatos koncentráció szükséges az irányításhoz. Bonyolultabb cselekvéssorozatnál **Összpontosítás**-, vagy beleélés-próba (**Érzékenység** tulajsonsággal) dobandó.
 
@@ -49,7 +47,7 @@ Ha nem komplett testre, hanem kisebb – akár önálló – testrészekre (dara
 
 ---
 
-#### Foltozás
+### Foltozás
 
 Ez a formula a halott szövet összekapcsolására való. Itt is megmutatkozik az erős szemita jelleg, hisz minden egy konkrét, specializált cél érdekében történik.
 

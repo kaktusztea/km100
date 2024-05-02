@@ -188,7 +188,7 @@ Két kiemelt művészet kapott saját képzettséget: **Tánc** és **Zenélés*
 
 ### Jelenségek szféra
 
-🔴Illúzió
+🔴Illúziók
 - [Fénymágia](magia.arkanumok/fenymagia.md) <sup><sub>(0%)</sub></sup> /  [Árnyékmágia](magia.arkanumok/arnyekmagia.md)  <sup><sub>(10%)</sub></sup>
 - Hangmágia/[Csendmágia](https://github.com/kaktusztea/km100/wiki/RAW.magia#csendmágia)
 

@@ -1,4 +1,4 @@
-## Elemi mágia
+## Elemi mágia arkánum
 
 A Magasmágia tradíció alá tartozó arkánum (mágiaiskola).
   

@@ -1,1 +1,0 @@
-Bárd fénymágia
