@@ -4,6 +4,18 @@ Egy fantasy világokra tervezett komplett, asztali (papír, kockák) szerepját�
 
 → [km100 szabályrendszer](./md/start.md)
 
+---
+## Fejlesztés
+
+![](https://progress-bar.dev/98/?title=Karakteralkotás%20%20%20%20%20%20%20%20%20%20%20%20&width=400&color=babaca)\
+![](https://progress-bar.dev/90/?title=K%C3%A9pzetts%C3%A9grendszer%20%20%20%20%20%20%20%20%20&width=400&color=babaca)\
+![](https://progress-bar.dev/20/?title=K%C3%A9pzetts%C3%A9gek%20kidolgzotts%C3%A1ga&width=400&color=babaca)\
+![](https://progress-bar.dev/70/?title=Fort%C3%A9lyok%20kidolgzotts%C3%A1ga%20%20%20&width=400&color=babaca)\
+![](https://progress-bar.dev/60/?title=H%C3%A1tterek%20kidolgzotts%C3%A1ga%20%20%20%20&width=400&color=babaca)\
+![](https://progress-bar.dev/85/?title=Harcrendszer%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&width=400&color=babaca)\
+![](https://progress-bar.dev/10/?title=M%C3%A1giarendszer%20%20%20%20%20%20%20%20%20%20%20%20%20%20&width=400&color=babaca)
+
+---
 ## Filozófia
 
 A km100 egy nagyfokú realitásra törekvő rendszer sok szabállyal, mégis gördülékenynek tűnik játék során. Ennek oka, hogy a legtöbb számolást igénylő feladatot karakteralkotási időbe száműztünk. Így egy karakter megalkotása több időt vehet igénybe, viszont rendkívül egyedi, specializált végeredményt kapunk.
