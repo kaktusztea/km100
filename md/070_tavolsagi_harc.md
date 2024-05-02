@@ -241,7 +241,7 @@ Ha valaki látja és van ideje felkészülni a rá leadott lövésre/hajításra
 |           5            |                    10m&nbsp;-&nbsp;12m |            16m&nbsp;-&nbsp;20m |                   31m&nbsp;-&nbsp;40m |
 |           4            |                           Testközelben |                                |                                       |
 
-Lásd: [Elemi mágia - Formulák - Őselem idézése](magia.magas/elemi_magia.md#%C5%91selem-id%C3%A9z%C3%A9se)\
+Lásd: [Elemi mágia - Formulák - Őselem idézése](magia.arkanumok/elemi_magia.md#őselem-idézése)\
 ⭕(lehet h ki kéne szedni általános "Mágikus lövedék" szekcióba)⭕
 
 🔆**Megjegyzés**: A próbához `+2` járul, ha a karakter rendelkezik [Kitérés lövés elől](fortelyok.harci/kiteres_loves_elol.md) harci fortéllyal.

@@ -30,17 +30,7 @@
 
 [Misztikus képzettségek](#misztikus-k%C3%A9pzetts%C3%A9gek-%F0%9F%85%BF%EF%B8%8F)
 
-[Magasmágia képzettség iskolái](#magasm%C3%A1gia-k%C3%A9pzetts%C3%A9g-iskol%C3%A1i-%F0%9F%85%BF%EF%B8%8F)
-
-[Vulgármágia képzettség iskolái](#vulg%C3%A1rm%C3%A1gia-k%C3%A9pzetts%C3%A9g-iskol%C3%A1i-%F0%9F%85%BF%EF%B8%8F)
-
-[Ordani tűzmágia képzettség iskolái](#ordani-t%C5%B1zm%C3%A1gia-k%C3%A9pzetts%C3%A9g-iskol%C3%A1i-%F0%9F%85%BF%EF%B8%8F)
-
-[Bárdmágia képzettség iskolái](#b%C3%A1rdm%C3%A1gia-k%C3%A9pzetts%C3%A9g-iskol%C3%A1i-%F0%9F%85%BF%EF%B8%8F)
-
-[Sámánmágia képzettség iskolái](#s%C3%A1m%C3%A1nm%C3%A1gia-k%C3%A9pzetts%C3%A9g-iskol%C3%A1i-%F0%9F%85%BF%EF%B8%8F)
-
-[Ork énekmondói mágia képzettség iskolái](#ork-%C3%A9nekmond%C3%B3i-m%C3%A1gia-k%C3%A9pzetts%C3%A9g-iskol%C3%A1i-%F0%9F%85%BF%EF%B8%8F)
+[Mágikus Szférák és Arkánumaik](TODO) ⭕TODO link⭕
 
 [Papi mágia](#papi-m%C3%A1gia-%F0%9F%85%BF%EF%B8%8F)
 
@@ -176,117 +166,83 @@ Két kiemelt művészet kapott saját képzettséget: **Tánc** és **Zenélés*
 🔴[Tradíció](kepzettsegek/tradicio.md)
 
 ---
-## Magasmágia képzettség iskolái 🅿️
+## Arkánumok 🅿️
 
+### Mágia Szféra
 🔴Metamágia
 
-🔴[Elemi mágia](magia.magas/elemi_magia.md) <sup><sub>(30%)</sub></sup>
+🔴[Aura](kepzettsegek/aurafejlesztes.md)
+
+### Anyag szféra
+
+🔴[Elemi mágia](magia.arkanumok/elemi_magia.md) <sup><sub>(30%)</sub></sup>
 
 🔴Természetes anyagok mágiája
+
+
+###  Lélek szféra
 
 🔴Asztrálmágia
 
 🔴Mentálmágia
 
-🔴Fénymágia
+### Jelenségek szféra
 
-🔴Csendmágia
+🔴Illúzió
+- [Fénymágia](magia.arkanumok/fenymagia.md) <sup><sub>(0%)</sub></sup> /  [Árnyékmágia](magia.arkanumok/arnyekmagia.md)  <sup><sub>(10%)</sub></sup>
+- Hangmágia/[Csendmágia](https://github.com/kaktusztea/km100/wiki/RAW.magia#csendmágia)
+
+🔴Természeti jelenségek
+- Időjárásbefolyásolás
+- Villámmmágia
+
+### Téridő szféra
 
 🔴Időmágia
 
 🔴Térmágia
 
-🔴Nekromancia
+### Életerő szféra
 
-🔴Drágakőmágia
+🔴Gyógyítás
+- Sebgyógyítás
+- Isteni Életerő átadása (KT átalakítása ÉP-vé rögtön)
+- Betegségek gyógyítása
+- Méregsemlegesítés
+- Fiatalítás
+- Lelki szenvedés enyhítése
+- Rontáslevétel
+- Termékenységi Mágia
 
-🔴Rúnamágia (?)
+🔴[Nekromancia](magia.arkanumok/nekromancia.md)  <sup><sub>(20%)</sub></sup>
+- rontás (betegség) is ide tartozik
 
-⭕Idézés (szellemek) (CX Grimoire-ból?)
+### Idézés szféra
 
-⭕Ceremoniális mágiák (???)
+🔴 Belső síkok lényeinek idézése
+- elementálok
+- ember lelkek / lelkekbol lehasadt szellemek
+- természeti szellemek
 
-🔴Demonológia
+🔴Külső síkok lényeinek idézése
+- Demonológia
+- Theurgia
+- Goécia
+- Szeráfok
 
----
-## Vulgármágia képzettség iskolái 🅿️
+### Sors szféra
 
-🔴[Árnyékmágia](magia.vulgar/arnyekmagia.md)  <sup><sub>(10%)</sub></sup>
+🔴Sors Érzékelés
+- jövendőmondás / múltbatekintés
 
-🔴Asztrálmágia
+🔴Sors Befolyásolás
+- Lélekmágia (véletlenmágia) (CX)
 
-🔴Mentálmágia
+### Titkos Szféra
 
-🔴[Nekromancia](magia.vulgar/nekromancia.md)  <sup><sub>(20%)</sub></sup>
-
-🔴Termékenységi mágia
-
-🔴Rontások+Átkok
-
-🔴Betegségmágia
-
-🔴[Méregmágia](magia.vulgar/meregmagia.md)  <sup><sub>(0%)</sub></sup>
-
-🔴Szexuálmágia (bájolások is)
-
-🔴Tűzmágia
-
-🔴[Villámmágia](magia.vulgar/villammagia.md)  <sup><sub>(0%)</sub></sup>
-
-🔴Gyertyamágia
-
-🔴Bábúmágia
-
-🔴Rituálék
-
-⭕Bájitalok (???)
-
-⭕Ceremoniális mágiák (???)
-
----
-## Ordani tűzmágia képzettség iskolái 🅿️
-
-🔴[Alapformák](magia.godoni.tuz/alapformak.md)  <sup><sub>(0%)</sub></sup>
-
-🔴TODO⭕
-
----
-## Bárdmágia képzettség iskolái 🅿️
-
-🔴[Fénymágia](magia.bard/fenymagia.md) <sup><sub>(0%)</sub></sup>
-
-🔴Hangmágia
-
-🔴Dalmágia
-
-🔴Asztrálmágia
-
-
----
-## Sámánmágia képzettség iskolái 🅿️
-
-🔴Szabadmágia
-
-🔴Ráolvasás
-
-🔴Átkok
-
-🔴[Idézések](magia.saman/idezesek.md) <sup><sub>(0%)</sub></sup>
-
-🔴Maszkmágia
-
-🔴Természeti mágia
-
-🔴Bábúmágia
-
-🔴Rituálé
-
----
-## Ork énekmondói mágia képzettség iskolái 🅿️
-
-🔴⭕TODO⭕
+Nincs halandó számára elérhető Arkánum
 
 ---
 ## Papi mágia 🅿️
 
-- [STUDY oldal: Varázslat szférák](https://github.com/kaktusztea/km100/wiki/STUDY.magiatradicio.papimagia#var%C3%A1zslat-szf%C3%A9r%C3%A1k) - mint iskola-képzettségek (draft)
+[STUDY oldal: Varázslat szférák](https://github.com/kaktusztea/km100/wiki/STUDY.magiatradicio.papimagia#var%C3%A1zslat-szf%C3%A9r%C3%A1k) - mint iskola-képzettségek (draft)

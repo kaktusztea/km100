@@ -11,6 +11,12 @@ A Magasmágia tradíció alá tartozó arkánum (mágiaiskola).
 | 12.szint       | ⭕???           | A varázsló megpróbálhat síkurat idézni                                                                                                      |
 | 15.szint       | ⭕???           | ???                                                                                                                                         |
 
+### Kísérőjelenségek
+
+⭕TODO
+
+Tűzvarázslat előtt lehül a levegő (a hőt kivonja a környezetből) 
+
 
 ### Formulák
 

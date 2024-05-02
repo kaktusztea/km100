@@ -67,21 +67,21 @@
   - [Mágia alapszabályok](092_magia_alapszabalyok.md)
   - [Aura](093_aura.md)
   - [Magasmágia](051_01_magasmagia.md) (0%)🚧
-    - [Elemi mágia iskola](magia.magas/elemi_magia.md) (50%) 🚧
+    - [Elemi mágia iskola](magia.arkanumok/elemi_magia.md) (50%) 🚧
   - [Vulgármágia](051_02_vulgarmagia.md) (0%)
-    - [Árnyékmágia iskola](magia.vulgar/arnyekmagia.md) 🚧
-    - [Méregmágia iskola](magia.vulgar/meregmagia.md) 🚧
-    - [Méregmágia szemita](magia.vulgar/meregmagia.szemita.md) 🚧
-    - [Nekromancia iskola](magia.vulgar/nekromancia.md) 🚧
-    - [Villámmágia iskola](magia.vulgar/villammagia.md) 🚧
+    - [Árnyékmágia iskola](magia.arkanumok/arnyekmagia.md) 🚧
+    - [Méregmágia iskola](magia.arkanumok/meregmagia.md) 🚧
+    - [Méregmágia szemita](magia.arkanumok/meregmagia.szemita.md) 🚧
+    - [Nekromancia iskola](magia.arkanumok/nekromancia.md) 🚧
+    - [Villámmágia iskola](magia.arkanumok/villammagia.md) 🚧
   - [Ordani (godoni?) Tűzmágia](051_03_ordani_tuzmagia.md) (0%)🚧
     - [Alapformák](magia.godoni.tuz/alapformak.md)
   - [Bárdmágia](051_04_bardmagia.md) (0%)🚧
-    - [Dalmágia](magia.bard/dalmagia.md)
-    - [Fénymágia](magia.bard/fenymagia.md)
-    - [Hangmágia](magia.bard/hangmagia.md)
+    - [Dalmágia](magia.arkanumok/dalmagia.md)
+    - [Fénymágia](magia.arkanumok/fenymagia.md)
+    - [Hangmágia](magia.arkanumok/hangmagia.md)
   - [Sámánmágia](051_05_samanmagia.md)  (0%)🚧
-    - [Idézések](magia.saman/idezesek.md)
+    - [Idézések](magia.arkanumok/idezesek.md)
   - [Ork Énekmondói mágia](051_06_ork_enekmondoi_magia.md) (0%)🚧
   - [Rituális mágia](051_07_ritualis_magia.md) (0%)🚧
 - [Papi mágia](100_papimagia.md) (10%) 🚧

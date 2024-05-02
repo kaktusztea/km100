@@ -1,1 +1,0 @@
-Godoni tűz alapformák.
