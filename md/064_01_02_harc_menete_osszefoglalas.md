@@ -55,14 +55,14 @@ Alaphelyzetben:  mindkét fél nagykockával csökkent (k100)           -   58  
 (nincs előnyös-hátrányos helyzet)
 ```
 
-Legalább `1` penge fegyverméret különbségnél:
+`1` penge, vagy nagyobb fegyverméret különbségnél:
 
 ```
 - Előnyös helyzetű támadó:  `nagykocka` értékével csökkent (k100)   -   58  → 8
 - Hátrányos helyzetű támadó: `kiskocka` értékével csökkent (k100)   -   58  → 5
 ```
 
-`2` penge, vagy nagyobb méretkülönbségnél:
+`2` penge, vagy nagyobb fegyverméret különbségnél:
 
 ```
 - Előnyös helyzetű támadó: `nagykocka+1` értékével csökkent (k100)  -   58  → 9
