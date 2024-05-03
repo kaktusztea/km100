@@ -23,7 +23,7 @@ Kezdeményező dobás: KÉ + k10
 
 Minden kör elején van kezdeményezés, ami csak a cselekvési sorrend meghatározására szolgál, nem jelent dominanciát, vagy a harc irányítását.
 
-KÉ dobás: `KÉ+k10` és a magasabb számot kapott kezd, `10`-es (`0`) dobásra rá lehet dobni újra.
+A magasabb számot kapott kezd, `10`-es (`0`) dobásra rá lehet dobni újra.
 
 Azonos kezdeményezésnél: egyszerre csapnak.
 
@@ -56,6 +56,8 @@ Fegyver SP: k20 + X
   - Fegyver mágia bónusz hozzáadódik
 
 00 támadó dobás: SP:+5;    Ellenfél SFÉ nem számít (de Aranyharang, Elemi Erő igen)
+
+Roham: SP:+5
 ```
 
 <br />
@@ -140,22 +142,9 @@ Mesterfegyver fortély:  +1 SP  minden fok után
 
 ```
 Erőbónusz és Erőhiány:
- Az Erő tulajdonság 1:1-ben hozzáadódik az SP értékhez
- (vagy levonódik, ha negatív).
+   Erő tulajdonság 1:1-ben hozzáadódik az SP értékhez
+   (vagy levonódik, ha negatív).
 ```
-
-<br />
-
----
-### ⚙️Dinamikus SP módosítók
-
-(Ezek a módosítók harc közben szituációtól függően adódhatnak hozzá az SP értékhez)
-
-| Módosító                              | Érték                                                             |
-| ------------------------------------- | ----------------------------------------------------------------- |
-| Többszörös találat  <br>(`20`-anként) | `+3 SP`  (max `+9 SP`)                                            |
-| Roham                                 | `+5 SP`                                                           |
-| `00`-ás dobás                         | `+5 SP`, SFÉ nem számít  <br>Fárasztáskor: még `+5` VÉ csökkentés |
 
 <br />
 
