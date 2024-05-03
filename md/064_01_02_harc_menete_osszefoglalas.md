@@ -94,7 +94,7 @@ Fegyver SP: k20 + X
 ```
 Páncéldobás: áldozat dob k10    
    → nincs SFÉ
-   → van SFÉ (szúró, vágó, zúzó) - Átütés számít!
+   → van SFÉ (szúró, vágó, zúzó)  - Fegyver Átütés csökkenti!
 
 SP = Fegyver SP + bónuszok + módosítók  – aktuális SFÉ
 
