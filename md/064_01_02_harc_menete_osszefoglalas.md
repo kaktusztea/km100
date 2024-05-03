@@ -1,6 +1,7 @@
 
 ## A harc menete – összefoglalás
 
+### Harcértékek
 ```
 KÉ = 10 + (Gyorsaság + Intelligencia) + Tapasztalati szint
      + Harcmodor/Mágia-Tradíció bónusz + Mf bónusz + Fegyver KÉ
