@@ -111,10 +111,20 @@ Lásd: [Sebzés táblázat](064_01_02_harc_menete_reszletes.md#sebz%C3%A9s)
 
 ---
 ### 🍎VÉ regenerálódás
+```
+1 kör pihenéssel töltött idő:
+      visszatérnek a harcban - nem sérüléssel - elvesztett VÉ pontok
+```
 
-`1` kör pihenéssel töltött idővel visszatérnek a harcban - **nem sérüléssel** - elvesztett VÉ-k.
 
-**Győzelmi szabály**: Ha a karakter végzett egy ellenfelével (úgy hiszi, legyőzte), akkor Védő Értékéhez visszatér `+10` pont. (a siker hatása a szervezetre + heroizmus). Persze itt is lehetnek kivételek (barát megölése, stb).
+#### Győzelmi szabály
+
+```
+VÉ: +10
+```
+
+Ha a karakter végzett egy - hozzá hasonló tudású, vagy erősebb - ellenfelével (úgy hiszi, legyőzte), akkor **Védő Értékéhez** visszatér `+10` pont.\
+Ez a siker hatása a szervezetre + heroizmus. Persze itt is lehetnek kivételek (barát megölése, stb).
 
 <br />
 
