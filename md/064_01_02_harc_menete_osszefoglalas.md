@@ -62,9 +62,10 @@ Találatkor ÉP sebzés történik.
 
 1. Fegyver SP: Erőbónusz, fegyver mágia bónusz hozzáadódik
 2. Többszörös találat: `+20`-anként `SP:+3` (max `+9 SP`)
-3. Támadás jellege: a fegyver elsődleges támadási típusa az alapértelmezett. Másodlagos támadási formával `TÉ:-10` módosítóval lehet támadni
-4. Páncéldobás: áldozat dobja `k10`-el. Tulajdonképpen százalékdobás, hogy páncéllal fedett területet találtak-e el. Minden páncél X %-ban védi a testet. Pl. torzót védő: `50%` (`1-5`: véd)
-5. Áldozat SFÉ: támadás jellegétől függő SFÉ (Támadó fegyver Átütése levonódik belőle!)
+3. Támadás jellege: a fegyver elsődleges támadási típusa az alapértelmezett (például: Szúró).<br />
+  Másodlagos támadási formával `TÉ:-10` módosítóval lehet támadni
+5. Páncéldobás: áldozat dobja `k10`-el. Tulajdonképpen százalékdobás, hogy páncéllal fedett területet találtak-e el. Minden páncél `X %`-ban védi a testet. Pl. torzót védő: `50%` (`1-5`: véd)
+6. Áldozat SFÉ: támadás jellegétől függő SFÉ (Támadó fegyver Átütése levonódik belőle!)
 
 ```
  SP = k20 + fegyver SP + bónuszok – aktuális SFÉ
