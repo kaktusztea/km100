@@ -42,7 +42,7 @@ Fegyvermérettől függően előnyös/hátrányos helyzetű támadó (`1` penge 
 
 <br />
 
-#### 😵TÉ < VÉ  → VÉ csökkentés
+### 😵TÉ < VÉ  → VÉ csökkentés
 
 Alaphelyzetben (nincs előnyös-hátrányos helyzet):  mindkét fél kiskockával csökkent (`k100`)
 
@@ -56,7 +56,7 @@ Legalább `1` penge fegyverméret különbségnél:
 
 <br />
 
-#### 💥TÉ >= VÉ  → Találat
+### 💥TÉ >= VÉ  → Találat
 
 Találatkor ÉP sebzés történik.
 
