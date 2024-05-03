@@ -2,14 +2,18 @@
 ## A harc menete – összefoglalás
 
 ```
-- KÉ = 10 + (Gyorsaság + Intelligencia) + Tapasztalati szint + Harcmodor/Mágia-Tradíció bónusza + Mf bónusz + Fegyver KÉ
+- KÉ = 10 + (Gyorsaság + Intelligencia) + Tapasztalati szint
+     + Harcmodor/Mágia-Tradíció bónusza + Mf bónusz + Fegyver KÉ
 
-- TÉ = 20 + 2 x (Erő + Ügyesség + Gyorsaság) + HM + Harcmodor bónusza + Mf bónusz + Fegyver TÉ
+- TÉ = 20 + 2 x (Erő + Ügyesség + Gyorsaság) + HM
+     + Harcmodor bónusza + Mf bónusz + Fegyver TÉ
 
-- VÉ = 120 + 2 x (Ügyesség + Gyorsaság) + Pajzs VÉ + HM + Harcmodor bónusza + Mf bónusz + Fegyver VÉ
+- VÉ = 120 + 2 x (Ügyesség + Gyorsaság) + Pajzs VÉ + HM
+     + Harcmodor bónusza + Mf bónusz + Fegyver VÉ
 Bónusz: Vértviselet – 3.szint: félvért +5VÉ, teljes vért +10VÉ
 
-- CÉ = -30 + (2 x Önuralom) – 30 (Konstans) + CM + Harcmodor bónusza + Fegyver CÉ
+- CÉ = -30 + (2 x Önuralom) – 30 (Konstans) + CM
+     + Harcmodor bónusza + Fegyver CÉ
 ```
 
 <br />
@@ -34,15 +38,20 @@ Azonos kezdeményezésnél: egyszerre csapnak.
 
 ```
 Támadó dobás: TÉ + k100
+```
 
+```
 Minden újabb támadás a körben: TÉ:-10; -20, ...
 
-Támadás jellege: a fegyver elsődleges támadási típusa az alapértelmezett (például: Szúró).
-                 Másodlagos támadási formával `TÉ:-10` módosítóval lehet támadni
+Támadás jellege: elsődleges támadási típusa az
+        alapértelmezett (például: Szúró).
+        Másodlagos támadási formával `TÉ:-10`
+        módosítóval lehet támadni
 
 Előnyös/hátrányos helyzetű harcos: 1 penge méretkülönbségtől
 
-01 támadó dobás: kudarc, KM dönt. Általában az ellenfél kap `1` plusz támadást.
+01 támadó dobás: kudarc, KM dönt.
+   Általában az ellenfél kap `1` plusz támadást.
 ```
 
 <br />
@@ -51,22 +60,31 @@ Előnyös/hátrányos helyzetű harcos: 1 penge méretkülönbségtől
 ### 😵TÉ < VÉ  → VÉ csökkentés
 
 ```
-Alaphelyzetben:  mindkét fél nagykockával csökkent (k100)           -   58  → 8
+Alaphelyzetben:  mindkét fél nagykockával csökkent (k100)
 (nincs előnyös-hátrányos helyzet)
+
+Példa: 58  → 8
+
 ```
 
 `1` penge, vagy nagyobb fegyverméret különbségnél:
 
 ```
-- Előnyös helyzetű támadó:  `nagykocka` értékével csökkent (k100)   -   58  → 8
-- Hátrányos helyzetű támadó: `kiskocka` értékével csökkent (k100)   -   58  → 5
+- Előnyös helyzetű támadó:  `nagykocka` értékével csökkent (k100)
+  Példa: 58  → 8
+
+- Hátrányos helyzetű támadó: `kiskocka` értékével csökkent (k100)
+  Példa: 58  → 5
 ```
 
 `2` penge, vagy nagyobb fegyverméret különbségnél:
 
 ```
-- Előnyös helyzetű támadó: `nagykocka+1` értékével csökkent (k100)  -   58  → 9
-- Hátrányos helyzetű támadó:  `kiskocka` értékével csökkent (k100)  -   58  → 5
+- Előnyös helyzetű támadó: `nagykocka+1` értékével csökkent (k100)
+  Példa: 58  → 9
+
+- Hátrányos helyzetű támadó:  `kiskocka` értékével csökkent (k100)
+  Példa: 58  → 5
 ```
 
 <br />
@@ -123,7 +141,7 @@ Lásd: [Sebzés táblázat](064_01_02_harc_menete_reszletes.md#sebz%C3%A9s)
 ### 🍎VÉ regenerálódás
 ```
 1 kör pihenéssel töltött idő:
-      visszatérnek a harcban - nem sérüléssel - elvesztett VÉ pontok
+    visszatérnek a harcban - nem sebtől - elvesztett VÉ pontok
 ```
 
 
@@ -173,7 +191,9 @@ Nagy tömegjelenetben a sok statisztika kezelése drasztikusan lelassíthatja a 
 - TÉ:+20 mindenkinek
 - Nincs VÉ csökkentés
 - Nincs páncéldobás
-- TÉ/VÉ értékeket kerekítjük 10-el oszthatóan (1-5: lefelé, 6-9: felfelé)
+- TÉ/VÉ értékeket kerekítjük 10-el oszthatóan
+  (1-5: lefelé, 6-9: felfelé)
 - Támadó dobás eredményét is kerekítjük ugyanígy
-- Erősített sebzés: 1-10: 6ÉP; 11-20: 12ÉP; 21-30: 20ÉP; 31-től halál
+- Erősített sebzés:
+  1-10: 6ÉP; 11-20: 12ÉP; 21-30: 20ÉP; 31-től halál
 ```
