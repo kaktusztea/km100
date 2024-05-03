@@ -166,7 +166,7 @@ Ha valakit találat ért és átkerül másik sebesülés-kategóriába, `TÉ le
 Ez azért előnyös, mert megint csak karakteralkotás időben számítjuk ki a fenti értékeket.
 
 ---
-#### Támadás jellege, páncél SFÉ, fegyver Átütése
+#### Támadás jellege, páncél SFÉ
 
 ```
 Szúró, Vágó és Zúzó támadás
