@@ -15,7 +15,7 @@ Bónusz: Vértviselet – 3.szint: félvért +5VÉ, teljes vért +10VÉ
 <br />
 
 ---
-### Kezdeményezés
+### 🤞Kezdeményezés
 
 ```
 Kezdeményező dobás: KÉ + k10
@@ -30,15 +30,32 @@ Azonos kezdeményezésnél: egyszerre csapnak.
 <br />
 
 ---
-### Támadás
+### 🤺Támadás
 
 ```
 Támadó dobás: TÉ + k100
+
+Minden újabb támadás a körben: TÉ:-10; -20, ...
+
+Támadás jellege: a fegyver elsődleges támadási típusa az alapértelmezett (például: Szúró).
+                 Másodlagos támadási formával `TÉ:-10` módosítóval lehet támadni
+
+Előnyös/hátrányos helyzetű harcos: 1 penge méretkülönbségtől
+
+01 támadó dobás: kudarc, KM dönt. Általában az ellenfél kap `1` plusz támadást.
 ```
 
-Minden újabb támadás a körben `TÉ:-10`-vel megy.
+<br />
 
-Fegyvermérettől függően előnyös/hátrányos helyzetű támadó (`1` penge méretkülönbségtől).
+### 🗡️Fegyver
+
+```
+Fegyver SP: k20 + X
+  - Erőbónusz hozzáadódik
+  - Fegyver mágia bónusz hozzáadódik
+
+00 támadó dobás: SP:+5;    Ellenfél SFÉ nem számít (de Aranyharang, Elemi Erő igen)
+```
 
 <br />
 
@@ -47,36 +64,39 @@ Fegyvermérettől függően előnyös/hátrányos helyzetű támadó (`1` penge 
 Alaphelyzetben (nincs előnyös-hátrányos helyzet):  mindkét fél kiskockával csökkent (`k100`)
 
 Legalább `1` penge fegyverméret különbségnél:
-  - Előnyös helyzetű támadó: (`kiskocka+1`)-el csökkent (`k100`)
-  - Hátrányos helyzetű támadó: (`kiskocka-1`)-el csökkent (`k100`)
+
+```
+- Előnyös helyzetű támadó:  `nagykocka` értékével csökkent (`k100`)   -   58  → 8
+- Hátrányos helyzetű támadó: `kiskocka` értékével csökkent (`k100`)   -   58  → 5
+```
 
 `2` penge, vagy nagyobb méretkülönbségnél:
-  - Előnyös helyzetű támadó: (`kiskocka+2`)-vel csökkent (`k100`)
-  - Hátrányos helyzetű támadó: (`kiskocka-1`)-el csökkent (`k100`)
+
+```
+- Előnyös helyzetű támadó: `nagykocka+1` értékével csökkent (`k100`)  -   58  → 9
+- Hátrányos helyzetű támadó:  `kiskocka` értékével csökkent (`k100`)  -   58  → 5
+```
 
 <br />
 
-### 💥TÉ >= VÉ  → Találat
-
-Találatkor ÉP sebzés történik.
-
-1. Fegyver SP: Erőbónusz, fegyver mágia bónusz hozzáadódik
-2. Többszörös találat: `+20`-anként `SP:+3` (max `+9 SP`)
-3. Támadás jellege: a fegyver elsődleges támadási típusa az alapértelmezett (például: Szúró).<br />
-  Másodlagos támadási formával `TÉ:-10` módosítóval lehet támadni
-5. Páncéldobás: áldozat dobja `k10`-el. Tulajdonképpen százalékdobás, hogy páncéllal fedett területet találtak-e el. Minden páncél `X %`-ban védi a testet. Pl. torzót védő: `50%` (`1-5`: véd)
-6. Áldozat SFÉ: támadás jellegétől függő SFÉ (Támadó fegyver Átütése levonódik belőle!)
+### 💥TÉ >= VÉ  → Találat, Sebzés
 
 ```
- SP = k20 + fegyver SP + bónuszok – aktuális SFÉ
+Páncéldobás: áldozat dob k10    
+   → nincs SFÉ
+   → van SFÉ (szúró, vágó, zúzó) - Átütés számít!
+
+SP = k20 + fegyver SP + bónuszok – aktuális SFÉ
+   + többszörös találat: +20-anként SP:+3   (max +9 SP)
+
+ÉP seb:         SP ↔ ÉP megfeleltetés a Sebzés táblázatban
+VÉ csökkentés:  SP ↔ VÉ megfeleltetés a Sebzés táblázatban
+   - Fárasztás alkalmazásakor: nincs Sebzés, VÉ:+5 csökkentés
 ```
 
-6. ÉP seb: `SP ↔ ÉP` megfeleltetés a Sebzés táblázatban
-  - `00`-ás dobás (100): `+5 SP` ; ellenfél SFÉ nem számít (de az Aranyharang és Elemi Erő igen!)
-  - `01`-es dobás: kudarc (KM dönt, általában az ellenfél kap `1` plusz támadást)
-7. VÉ csökkentés: ÉP seb függő (lásd [Sebzés táblázat](064_01_02_harc_menete_reszletes.md#sebz%C3%A9s)), Fárasztás alkalmazásakor: `+5` VÉ csökk.
+Lásd: [Sebzés táblázat](064_01_02_harc_menete_reszletes.md#sebz%C3%A9s)
 
-**Megjegyzés**: a "Harci anatómia" ÉP bónusza csak akkor adható hozzá, ha az alap sebzés átment a páncélon!
+**Megjegyzés**: a "Harci anatómia" ÉP bónusza csak akkor adható hozzá, ha az alap sebzés átment a páncélon! ⭕TODO⭕
 
 <br />
 
@@ -86,7 +106,7 @@ Találatkor ÉP sebzés történik.
 
 **Győzelmi szabály**: Ha a karakter végzett egy ellenfelével (úgy hiszi, legyőzte), akkor Védő Értékéhez visszatér `+10` pont. (a siker hatása a szervezetre + heroizmus). Persze itt is lehetnek kivételek (barát megölése, stb).
 
-### Támadások száma
+### 🔢Támadások száma
 
 ```
 1 + plusz támadások
@@ -105,7 +125,7 @@ Lásd: [Fegyverek táblázat](067_fegyverek.md)
 <br />
 
 ---
-### Statikus SP módosítók
+### ⚙️Statikus SP módosítók
 
 Karakteralkotáskor, vagy szintlépéskor számolandók.
 
@@ -122,7 +142,7 @@ Erőbónusz és Erőhiány:
 <br />
 
 ---
-### Dinamikus SP módosítók
+### ⚙️Dinamikus SP módosítók
 
 (Ezek a módosítók harc közben szituációtól függően adódhatnak hozzá az SP értékhez)
 
@@ -135,14 +155,14 @@ Erőbónusz és Erőhiány:
 <br />
 
 ---
-### Mozgásgátló Tényező (MGT)
+### 🛡️Mozgásgátló Tényező (MGT)
 
 Lásd a [Vértek, Páncélok - MGT fejezetét](068_vertek_pancelok.md#mozgásgátló-tényező-mgt).
 
 <br />
 
 ---
-### Csataszabályok
+### 📖Csataszabályok
 
 Nagy tömegjelenetben a sok statisztika kezelése drasztikusan lelassíthatja a játékot. Ilyenkor a következő – opcionális – szabályt javasoljuk:
 
