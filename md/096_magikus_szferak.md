@@ -9,7 +9,7 @@
 
 ### Anyag szféra
 
-- [Elemi mágia](https://github.com/kaktusztea/km100/blob/master/md/magia.magas/elemi_magia.md)
+- [Elemi mágia](magia.arkanumok/elemi_magia.md)
 - Természetes anyagok mágiája
 
 ### Lélek
