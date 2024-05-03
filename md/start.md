@@ -42,7 +42,7 @@
     - [Dzsenn Tradíció](054_01_dzsenn_tradicio.md)
   - [Slan tradíció](055_slan_tradicio.md) (25%)🚧
 - [Harcrendszer](060_harcrendszer.md) (85%)
-  - [Életerő](061_eletero.md)
+  - [Életerő, Sebesülés](061_eletero.md)
   - [Harcérték alapok, HM, Harcmodorok, Mesterfegyver](062_01_harcertekek_elemei.md)
   - [KÉ, TÉ, VÉ, CÉ összefoglaló táblázatok](062_02_ke_te_ve_ce.md)
   - [Mozgásgátló tényező (MGT)](063_01_mgt.md)
@@ -65,19 +65,20 @@
 - [Mágiarendszer](090_magiarendszer.md) (40%)
   - [Mágiaelmélet](091_magiaelmelet.md)
   - [Mágia alapszabályok](092_magia_alapszabalyok.md)
-  - [Aura](093_aura.md)
-  - [Szférák](https://github.com/kaktusztea/km100/wiki/STUDY.magia.szferak.iskolak) 🚧
+  - [Aura, Átütés, Mágiaellenállás](094_aura_atutes_magiaellenallas.md)
+  - [Varázslás módszerei](095_varazslas_modszerei.md)
+  - [Mágikus Szférák](096_magikus_szferak.md)
   - **Arkánumok**
     - [Aura](kepzettsegek/aurafejlesztes.md)
     - [Asztrálmágia](magia.arkanumok/asztralmagia.md)
     - [Elemi mágia](magia.arkanumok/elemi_magia.md)
     - [Belső síkok lényeinek idézése](magia.arkanumok/idezes.belso.sikok.md)
-    - [Gyógyítás](https://github.com/kaktusztea/km100/wiki/STUDY.papimagia.szfera.gyogyitas#papi-mágia---gyógyítás-szféra) 🚧
+    - [Gyógyítás](magia.arkanumok/gyogyitas.md)
     - [Időmágia](magia.arkanumok/idomagia.md)
     - [Illúziók](magia.arkanumok/illuziok.md)
     - [Külső síkok lényeinek idézése](magia.arkanumok/idezes.kulso.sikok.md)
     - [Mentálmágia](magia.arkanumok/mentalmagia.md)
-    - [Metamágia](https://github.com/kaktusztea/km100/wiki/STUDY.magia.metamagia) 🚧
+    - [Metamágia](magia.arkanumok/metamagia.md)
     - [Nekromancia](magia.arkanumok/nekromancia.md)
     - [Sors befolyásolás](magia.arkanumok/sors.befolyasolas.md)
     - [Sors érzékelés](magia.arkanumok/sors.erzekeles.md)
