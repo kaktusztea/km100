@@ -40,6 +40,8 @@ Minden újabb támadás a körben `TÉ:-10`-vel megy.
 
 Fegyvermérettől függően előnyös/hátrányos helyzetű támadó (`1` penge méretkülönbségtől).
 
+<br />
+
 #### 😵TÉ < VÉ  → VÉ csökkentés
 
 Alaphelyzetben (nincs előnyös-hátrányos helyzet):  mindkét fél kiskockával csökkent (`k100`)
@@ -51,6 +53,8 @@ Legalább `1` penge fegyverméret különbségnél:
 `2` penge, vagy nagyobb méretkülönbségnél:
   - Előnyös helyzetű támadó: (`kiskocka+2`)-vel csökkent (`k100`)
   - Hátrányos helyzetű támadó: (`kiskocka-1`)-el csökkent (`k100`)
+
+<br />
 
 #### 💥TÉ >= VÉ  → Találat
 
@@ -72,6 +76,8 @@ Találatkor ÉP sebzés történik.
 7. VÉ csökkentés: ÉP seb függő (lásd [Sebzés táblázat](064_01_02_harc_menete_reszletes.md#sebz%C3%A9s)), Fárasztás alkalmazásakor: `+5` VÉ csökk.
 
 **Megjegyzés**: a "Harci anatómia" ÉP bónusza csak akkor adható hozzá, ha az alap sebzés átment a páncélon!
+
+<br />
 
 ### 🍎VÉ regenerálódás
 
