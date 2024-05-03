@@ -1,3 +1,5 @@
 ## Belső síkok lényeinek idézése
 
-xyz
+- elementálok
+- ember lelkek / lelkekbol lehasadt szellemek
+- természeti szellemek
