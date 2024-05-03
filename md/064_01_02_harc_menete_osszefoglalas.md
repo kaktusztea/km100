@@ -2,18 +2,18 @@
 ## A harc menete – összefoglalás
 
 ```
-- KÉ = 10 + (Gyorsaság + Intelligencia) + Tapasztalati szint
-     + Harcmodor/Mágia-Tradíció bónusza + Mf bónusz + Fegyver KÉ
+KÉ = 10 + (Gyorsaság + Intelligencia) + Tapasztalati szint
+     + Harcmodor/Mágia-Tradíció bónusz + Mf bónusz + Fegyver KÉ
 
-- TÉ = 20 + 2 x (Erő + Ügyesség + Gyorsaság) + HM
-     + Harcmodor bónusza + Mf bónusz + Fegyver TÉ
+TÉ = 20 + 2 x (Erő + Ügyesség + Gyorsaság) + HM
+     + Harcmodor/Mágia-Tradíció bónusz + Mf bónusz + Fegyver TÉ
 
-- VÉ = 120 + 2 x (Ügyesség + Gyorsaság) + Pajzs VÉ + HM
-     + Harcmodor bónusza + Mf bónusz + Fegyver VÉ
-Bónusz: Vértviselet – 3.szint: félvért +5VÉ, teljes vért +10VÉ
+VÉ = 120 + 2 x (Ügyesség + Gyorsaság) + Pajzs VÉ + HM
+     + Harcmodor/Mágia-Tradíció bónusz + Mf bónusz + Fegyver VÉ
+VÉ Bónusz: Vértviselet – 3.szint: félvért +5VÉ, teljes vért +10VÉ
 
-- CÉ = -30 + (2 x Önuralom) – 30 (Konstans) + CM
-     + Harcmodor bónusza + Fegyver CÉ
+CÉ = -30 + (2 x Önuralom) – 30 (Konstans) + CM
+     + Harcmodor/Mágia-Tradíció bónusz + Fegyver CÉ
 ```
 
 <br />
@@ -64,7 +64,6 @@ Alaphelyzetben:  mindkét fél nagykockával csökkent (k100)
 (nincs előnyös-hátrányos helyzet)
 
 Példa: 58  → 8
-
 ```
 
 `1` penge, vagy nagyobb fegyverméret különbségnél:
