@@ -47,6 +47,7 @@ Előnyös/hátrányos helyzetű harcos: 1 penge méretkülönbségtől
 
 <br />
 
+---
 ### 🗡️Fegyver
 
 ```
@@ -59,6 +60,7 @@ Fegyver SP: k20 + X
 
 <br />
 
+---
 ### 😵TÉ < VÉ  → VÉ csökkentés
 
 Alaphelyzetben (nincs előnyös-hátrányos helyzet):  mindkét fél kiskockával csökkent (`k100`)
@@ -79,6 +81,7 @@ Legalább `1` penge fegyverméret különbségnél:
 
 <br />
 
+---
 ### 💥TÉ >= VÉ  → Találat, Sebzés
 
 ```
@@ -100,12 +103,14 @@ Lásd: [Sebzés táblázat](064_01_02_harc_menete_reszletes.md#sebz%C3%A9s)
 
 <br />
 
+---
 ### 🍎VÉ regenerálódás
 
 `1` kör pihenéssel töltött idővel visszatérnek a harcban - **nem sérüléssel** - elvesztett VÉ-k.
 
 **Győzelmi szabály**: Ha a karakter végzett egy ellenfelével (úgy hiszi, legyőzte), akkor Védő Értékéhez visszatér `+10` pont. (a siker hatása a szervezetre + heroizmus). Persze itt is lehetnek kivételek (barát megölése, stb).
 
+---
 ### 🔢Támadások száma
 
 ```
