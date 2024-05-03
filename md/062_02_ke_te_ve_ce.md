@@ -55,18 +55,18 @@ A Támadó Érték szimbolizálja a harcos azon tulajdonságát, hogy az adott f
 
 Az alábbi táblázat megadja, a Támadó Érték kiszámolásának módját.
 
-| 🗡️ | Támadó Érték meghatározása |
-|:---:|---|
-|Konstans|20 (minden karakternek)|
-|2 x Erő|A karakter Erő Tulajdonságának kétszerese|
-|2 x Ügyesség|A karakter Ügyesség Tulajdonságának kétszerese|
-|2 x Gyorsaság|A karakter Gyorsaság Tulajdonságának kétszerese|
-|Harcmodor TÉ|Harcmodor képzettség szintje által kapott bónusz (lásd a [Harcmodor képzettségeket](062_01_harcertekek_elemei.md#harcmodor-k%C3%A9pzetts%C3%A9gek)!)|
-|Fegyver TÉ|A forgatott fegyver Támadó Értéke|
-|Mesterfegyver fortély|+3 fokonként|
-|HM|A VÉ-re költött (KP-ból felvett) Harcérték módosító|
-|Plusz támadás levonása|Minden plusz támadás esetén -10 levonás jár a TÉ-re.  <br>(a 2.támadásra: -10TÉ, a 3.támadásra: -20TÉ, stb)|
-|Speciális|- Fortélyokból adódó módosítók<br> - Harci helyzetből adódó módosítók<br> - Fegyver minőségéből adódó módosító<br>&nbsp;&nbsp;&nbsp;&nbsp; - Mestermunka: max +5 TÉ<br>&nbsp;&nbsp;&nbsp;&nbsp; - Gyatra fegyver: max -5 TÉ<br>&nbsp;&nbsp;&nbsp;&nbsp; - Mágikus fegyver módosítói<br> - Mágiából adódó módosítók|
+|          🗡️           | Támadó Érték meghatározása                                                                                                                                                                                                                                                                                             |
+| :--------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|        Konstans        | `20` (minden karakternek)                                                                                                                                                                                                                                                                                              |
+|        2 x Erő         | A karakter Erő Tulajdonságának kétszerese                                                                                                                                                                                                                                                                              |
+|      2 x Ügyesség      | A karakter Ügyesség Tulajdonságának kétszerese                                                                                                                                                                                                                                                                         |
+|     2 x Gyorsaság      | A karakter Gyorsaság Tulajdonságának kétszerese                                                                                                                                                                                                                                                                        |
+|      Harcmodor TÉ      | Harcmodor képzettség szintje által kapott bónusz (lásd a [Harcmodor képzettségeket](062_01_harcertekek_elemei.md#harcmodor-k%C3%A9pzetts%C3%A9gek)!)                                                                                                                                                                   |
+|       Fegyver TÉ       | A forgatott fegyver Támadó Értéke                                                                                                                                                                                                                                                                                      |
+| Mesterfegyver fortély  | `+3` fokonként                                                                                                                                                                                                                                                                                                         |
+|           HM           | A VÉ-re költött (KP-ból felvett) Harcérték módosító                                                                                                                                                                                                                                                                    |
+| Plusz támadás levonása | Minden plusz támadás esetén `-10` levonás jár a **TÉ**-re.  <br>(a 2. támadásra: `TÉ:-10`, a 3.támadásra: `TÉ:-20`, stb)                                                                                                                                                                                               |
+|       Speciális        | - Fortélyokból adódó módosítók<br> - Harci helyzetből adódó módosítók<br> - Fegyver minőségéből adódó módosító<br>&nbsp;&nbsp;&nbsp;&nbsp; - Mestermunka: max `TÉ:+5`<br>&nbsp;&nbsp;&nbsp;&nbsp; - Gyatra fegyver: max `TÉ:+5`<br>&nbsp;&nbsp;&nbsp;&nbsp; - Mágikus fegyver módosítói<br> - Mágiából adódó módosítók |
 
 Bővebben lásd a [Harc menete - Támadás, Védő Érték csökkentése](064_01_02_harc_menete_reszletes.md#t%C3%A1mad%C3%A1s-v%C3%A9d%C5%91-%C3%A9rt%C3%A9k-cs%C3%B6kkent%C3%A9se) fejezetben!
 
