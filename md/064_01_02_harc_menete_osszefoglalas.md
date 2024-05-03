@@ -112,6 +112,8 @@ Lásd: [Sebzés táblázat](064_01_02_harc_menete_reszletes.md#sebz%C3%A9s)
 
 **Győzelmi szabály**: Ha a karakter végzett egy ellenfelével (úgy hiszi, legyőzte), akkor Védő Értékéhez visszatér `+10` pont. (a siker hatása a szervezetre + heroizmus). Persze itt is lehetnek kivételek (barát megölése, stb).
 
+<br />
+
 ---
 ### 🔢Támadások száma
 
