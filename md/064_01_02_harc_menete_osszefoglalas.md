@@ -77,7 +77,7 @@ Alaphelyzetben:  mindkét fél nagykockával csökkent (k100)           -   58  
 ```
 Fegyver SP: k20 + X
   - Erő Tulajdonság 1:1-ben hozzáadódik (vagy levonódik, ha negatív).
-  - Mesterfegyver fortély: +1 SP minden fok után
+  - Mesterfegyver fortély:  +1 SP / fok
   - Fegyver mágia bónusz hozzáadódik
   + többszörös találat (TÉ > VÉ+20):
          20-anként SP:+3   (max +9 SP)
