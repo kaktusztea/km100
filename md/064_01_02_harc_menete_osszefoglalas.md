@@ -9,7 +9,7 @@
 - VÉ = 120 + 2 x (Ügyesség + Gyorsaság) + Pajzs VÉ + HM + Harcmodor bónusza + Mf bónusz + Fegyver VÉ
 Bónusz: Vértviselet – 3.szint: félvért +5VÉ, teljes vért +10VÉ
 
-- CÉ = -30 +(2 x Önuralom) – 30 (Konstans) + CM + Harcmodor bónusza + Fegyver CÉ
+- CÉ = -30 + (2 x Önuralom) – 30 (Konstans) + CM + Harcmodor bónusza + Fegyver CÉ
 ```
 
 <br />
