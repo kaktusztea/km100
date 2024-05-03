@@ -65,7 +65,11 @@ Fegyver SP: k20 + X
 ---
 ### 😵TÉ < VÉ  → VÉ csökkentés
 
-Alaphelyzetben (nincs előnyös-hátrányos helyzet):  mindkét fél kiskockával csökkent (`k100`)
+
+```
+Alaphelyzetben:  mindkét fél nagykockával csökkent (`k100`)           -   58  → 8
+(nincs előnyös-hátrányos helyzet)
+```
 
 Legalább `1` penge fegyverméret különbségnél:
 
