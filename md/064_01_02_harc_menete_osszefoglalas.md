@@ -76,12 +76,17 @@ Alaphelyzetben:  mindkét fél nagykockával csökkent (k100)           -   58  
 
 ```
 Fegyver SP: k20 + X
-  - Erő Tulajdonság 1:1-ben hozzáadódik (vagy levonódik, ha negatív).
-  - Mesterfegyver fortély:  +1 SP / fok
-  - Fegyver mágia bónusz hozzáadódik
-  + többszörös találat (TÉ > VÉ+20):
-         20-anként SP:+3   (max +9 SP)
+```
 
+```
+- Erő Tulajdonság 1:1-ben hozzáadódik (vagy levonódik, ha negatív).
+- Mesterfegyver fortély:  +1 SP / fok
+- Fegyver mágia bónusz hozzáadódik
++ többszörös találat (TÉ > VÉ+20):
+         20-anként SP:+3   (max +9 SP)
+```
+
+```
 - 00 támadó dobás: SP:+5;    Ellenfél SFÉ nem számít (de Aranyharang, Elemi Erő igen)
 - Roham: SP:+5
 ```
@@ -95,9 +100,13 @@ Fegyver SP: k20 + X
 Páncéldobás: áldozat dob k10    
    → nincs SFÉ
    → van SFÉ (szúró, vágó, zúzó)  - Fegyver Átütés csökkenti!
+```
 
+```
 SP = Fegyver SP + bónuszok + módosítók  – aktuális SFÉ
+```
 
+```
 ÉP seb:         SP ↔ ÉP megfeleltetés a Sebzés táblázatban
 VÉ csökkentés:  SP ↔ VÉ megfeleltetés a Sebzés táblázatban
    - Fárasztás alkalmazásakor: nincs Sebzés, VÉ:+5 csökkentés
