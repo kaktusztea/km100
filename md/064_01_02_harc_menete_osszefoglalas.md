@@ -87,7 +87,8 @@ Fegyver SP: k20 + X
 ```
 - többszörös találat (TÉ > VÉ+20):
          20-anként SP:+3   (max +9 SP)
-- 00 támadó dobás: SP:+5;    Ellenfél SFÉ nem számít (de Aranyharang, Elemi Erő igen)
+- 00 támadó dobás: SP:+5;
+         Ellenfél SFÉ nem számít (de Aranyharang, Elemi Erő igen)
 - Roham: SP:+5
 ```
 
