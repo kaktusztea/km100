@@ -48,6 +48,30 @@ Előnyös/hátrányos helyzetű harcos: 1 penge méretkülönbségtől
 <br />
 
 ---
+### 😵TÉ < VÉ  → VÉ csökkentés
+
+```
+Alaphelyzetben:  mindkét fél nagykockával csökkent (k100)           -   58  → 8
+(nincs előnyös-hátrányos helyzet)
+```
+
+Legalább `1` penge fegyverméret különbségnél:
+
+```
+- Előnyös helyzetű támadó:  `nagykocka` értékével csökkent (k100)   -   58  → 8
+- Hátrányos helyzetű támadó: `kiskocka` értékével csökkent (k100)   -   58  → 5
+```
+
+`2` penge, vagy nagyobb méretkülönbségnél:
+
+```
+- Előnyös helyzetű támadó: `nagykocka+1` értékével csökkent (k100)  -   58  → 9
+- Hátrányos helyzetű támadó:  `kiskocka` értékével csökkent (k100)  -   58  → 5
+```
+
+<br />
+
+---
 ### 🗡️Fegyver
 
 ```
@@ -55,34 +79,11 @@ Fegyver SP: k20 + X
   - Erő Tulajdonság 1:1-ben hozzáadódik (vagy levonódik, ha negatív).
   - Mesterfegyver fortély: +1 SP minden fok után
   - Fegyver mágia bónusz hozzáadódik
+  + többszörös találat (TÉ>VÉ+20):
+         20-anként SP:+3   (max +9 SP)
 
 - 00 támadó dobás: SP:+5;    Ellenfél SFÉ nem számít (de Aranyharang, Elemi Erő igen)
 - Roham: SP:+5
-```
-
-<br />
-
----
-### 😵TÉ < VÉ  → VÉ csökkentés
-
-
-```
-Alaphelyzetben:  mindkét fél nagykockával csökkent (`k100`)           -   58  → 8
-(nincs előnyös-hátrányos helyzet)
-```
-
-Legalább `1` penge fegyverméret különbségnél:
-
-```
-- Előnyös helyzetű támadó:  `nagykocka` értékével csökkent (`k100`)   -   58  → 8
-- Hátrányos helyzetű támadó: `kiskocka` értékével csökkent (`k100`)   -   58  → 5
-```
-
-`2` penge, vagy nagyobb méretkülönbségnél:
-
-```
-- Előnyös helyzetű támadó: `nagykocka+1` értékével csökkent (`k100`)  -   58  → 9
-- Hátrányos helyzetű támadó:  `kiskocka` értékével csökkent (`k100`)  -   58  → 5
 ```
 
 <br />
@@ -95,8 +96,7 @@ Páncéldobás: áldozat dob k10
    → nincs SFÉ
    → van SFÉ (szúró, vágó, zúzó) - Átütés számít!
 
-SP = k20 + fegyver SP + bónuszok – aktuális SFÉ
-   + többszörös találat: +20-anként SP:+3   (max +9 SP)
+SP = Fegyver SP + bónuszok + módosítók  – aktuális SFÉ
 
 ÉP seb:         SP ↔ ÉP megfeleltetés a Sebzés táblázatban
 VÉ csökkentés:  SP ↔ VÉ megfeleltetés a Sebzés táblázatban
