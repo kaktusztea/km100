@@ -82,11 +82,11 @@ Fegyver SP: k20 + X
 - Erő Tulajdonság 1:1-ben hozzáadódik (vagy levonódik, ha negatív).
 - Mesterfegyver fortély:  +1 SP / fok
 - Fegyver mágia bónusz hozzáadódik
-+ többszörös találat (TÉ > VÉ+20):
-         20-anként SP:+3   (max +9 SP)
 ```
 
 ```
+- többszörös találat (TÉ > VÉ+20):
+         20-anként SP:+3   (max +9 SP)
 - 00 támadó dobás: SP:+5;    Ellenfél SFÉ nem számít (de Aranyharang, Elemi Erő igen)
 - Roham: SP:+5
 ```
