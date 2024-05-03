@@ -52,12 +52,12 @@ Előnyös/hátrányos helyzetű harcos: 1 penge méretkülönbségtől
 
 ```
 Fegyver SP: k20 + X
-  - Erőbónusz hozzáadódik
+  - Erő Tulajdonság 1:1-ben hozzáadódik (vagy levonódik, ha negatív).
+  - Mesterfegyver fortély: +1 SP minden fok után
   - Fegyver mágia bónusz hozzáadódik
 
-00 támadó dobás: SP:+5;    Ellenfél SFÉ nem számít (de Aranyharang, Elemi Erő igen)
-
-Roham: SP:+5
+- 00 támadó dobás: SP:+5;    Ellenfél SFÉ nem számít (de Aranyharang, Elemi Erő igen)
+- Roham: SP:+5
 ```
 
 <br />
@@ -130,23 +130,6 @@ Fegyver-Sebesség: fegyverenként eltérő egyéni érték
 ```
 
 Lásd: [Fegyverek táblázat](067_fegyverek.md)
-
-<br />
-
----
-### ⚙️Statikus SP módosítók
-
-Karakteralkotáskor, vagy szintlépéskor számolandók.
-
-```
-Mesterfegyver fortély:  +1 SP  minden fok után
-```
-
-```
-Erőbónusz és Erőhiány:
-   Erő tulajdonság 1:1-ben hozzáadódik az SP értékhez
-   (vagy levonódik, ha negatív).
-```
 
 <br />
 
