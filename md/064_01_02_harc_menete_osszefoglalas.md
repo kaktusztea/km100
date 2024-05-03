@@ -132,7 +132,7 @@ Ez a siker hatása a szervezetre + heroizmus. Persze itt is lehetnek kivételek 
 ### 🔢Támadások száma
 
 ```
-1 + plusz támadások
+1 + Plusz támadások
 
 Plusz támadások (db)  =  Harckeret / (Fegyver-Sebesség)
 ```
