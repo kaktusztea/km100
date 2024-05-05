@@ -1,7 +1,10 @@
 ## Előnyös és hátrányos helyzet
 ```
 "Kiskocka": k100-on a két k10-es kocka közül a kisebbik értéket dobott.
-Például 49 → kiskocka: 4
+Például 58 → kiskocka: 5
+
+"Nagykocka": k100-on a két k10-es kocka közül a nagyobbik értéket dobott.
+        58 → nagykocka: 8
 ```
 
 A harcban
@@ -16,15 +19,15 @@ A fentiek a **Védő Érték** csökkentéskor mutatkoznak meg (sikertelen táma
 
 - Alaphelyzetben:
 	- Nincs legalább 1 pengényi fegyverméret különbség.
-	- Mindkét fél támadó dobásának kisebbik kockájával csökkent VÉ-t. Röviden: `kiskocka`
+	- Mindkét fél támadó dobásának nagyobbik kockájával csökkent VÉ-t. Röviden: `nagykocka`
 
 - 1 penge, vagy nagyobb méretkülönbségnél:
-	- Előnyös helyzetű: k100-as támadó dobásának kisebbik kockájával `+1` értékben csökkent VÉ-t. Röviden: `kiskocka+1`
+	- Előnyös helyzetű: k100-as támadó dobásának `nagyobbik` kockájának értékével csökkent VÉ-t. Röviden: `nagykocka`
 	- hátrányos helyzetű:
-	  k100 dobásának kisebbik kockájával `-1` értékben csökkent VÉ-t. Röviden: `kiskocka-1`
-	- Példa: Hosszú kard vs. Tőr
+	  `k100` dobásának `kisebbik` kockájának értékével csökkent VÉ-t. Röviden: `kiskocka`
+	- Példa: **Hosszú kard** vs. **Tőr**
 
 - 2 penge, vagy nagyobb méretkülönbségnél:
-	- előnyös helyzetű: k100-as támadó dobásának kisebbik kockájával `+2` értékben csökkent VÉ-t.  Röviden: `kiskocka+2`
-	- hátrányos helyzetű: k100 dobásának kisebbik kockájával `-1` értékben csökkent VÉ-t. Röviden: `kiskocka-1`
-	- Példa: Kétkezes kard vs Tőr ; Lándzsa vs Rövidkard
+	- előnyös helyzetű: `k100`-as támadó dobásának nagyobbik kockájával `+1` értékben csökkent VÉ-t.  Röviden: `nagykocka+1`
+	- hátrányos helyzetű: `k100` dobásának kisebbik kockájának értékével csökkent VÉ-t. Röviden: `kiskocka`
+	- Példa: **Kétkezes kard** vs **Tőr** ; **Lándzsa** vs **Rövidkard**

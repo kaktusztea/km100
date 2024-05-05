@@ -31,7 +31,7 @@ Harci KÉ + k10
 
 Minden kör elején van kezdeményező dobás, ami csak a cselekvési sorrend meghatározására szolgál, nem foglalja magába a harci dominanciát, a harc irányítását.
 
-A játékosok kezdeményezéskor `k10`-el dobnak és a kapott értéket hozzáadják aktuális Kezdeményező Értékükhöz. Aki a magasabb eredményt kapja, az kezdi a támadást. Amennyiben a dobás `10`-es, akkor a játékos újra dobhat és az új dobását is hozzáadhatja az előző – `10`-et érő – dobásához.
+A játékosok kezdeményezéskor `k10`-el dobnak és a kapott értéket hozzáadják aktuális **Kezdeményező Értékükhöz**. Aki a magasabb eredményt kapja, az kezdi a támadást. Amennyiben a dobás `10`-es, akkor a játékos újra dobhat és az új dobását is hozzáadhatja az előző – `10`-et érő – dobásához.
 
 Ha két karakter azonos kezdeményezést ért el, és egymással harcolnak, akkor egyszerre támadnak, csapásuk egyszerre érkezik, vagy ha a KM-nek jobban tetszik, ilyenkor összeakadhatnak a fegyverek, egymásnak feszülnek a küzdők... egymás szemébe meredve próbálják továbbgördíteni a harc menetét...
 
