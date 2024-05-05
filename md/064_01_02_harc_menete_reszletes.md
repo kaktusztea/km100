@@ -57,10 +57,11 @@ Támadó dobás = Támadó Érték + k100
 ```
 
 ```
-Minden újabb támadás a körben -10 TÉ levonással megy (2.tám: -10,  3.tám: -20, ...)
+Minden újabb támadás a körben -10 TÉ levonással megy
+   2.tám: -10 TÉ,  3.tám: -20 TÉ, ...
 ```
 
-Harcban, támadáskor a játékos dob k100-al, majd a kapott értéket hozzáadja aktuális **Támadó Értékéhez**. Ennek értéke lesz a **Támadó dobás**. Amennyiben a támadónak több támadása van a körben, akkor minden egyes plusz támadás `TÉ:-10` módosítóval történik.
+Harcban, támadáskor a játékos dob `k100`-al, majd a kapott értéket hozzáadja aktuális **Támadó Értékéhez**. Ennek értéke lesz a **Támadó dobás**. Amennyiben a támadónak több támadása van a körben, akkor minden egyes plusz támadás `TÉ:-10` módosítóval történik.
 
 Azok a támadások, melyek majdnem betaláltak, komolyan igénybe veszik az áldozat figyelmét, állóképességét. Ha a támadás nem érte el a megtámadott **Védő Értékét** (azaz a találatot), akkor az áldozat Védő Értékére ideiglenes csökkenést szenved el. Ha a támadás eléri, vagy meghaladja a `VÉ`-t, akkor pedig sebző támadásról (**találatról**) beszélünk. Hogy harc közben a védekezőnek milyen jellemzője csökken, azt az alábbi táblázat mutatja:
 
@@ -76,9 +77,9 @@ Azok a támadások, melyek majdnem betaláltak, komolyan igénybe veszik az áld
 A VÉ csökkenést kizárólag a "Harcos elme" fortély tanulása képes mérsékelni.
 ```
 
-A rendszer előnye, hogy a több támadó okozta fenyegetés sokkal fajsúlyosabb lesz, hiszen többen, sokkal gyorsabban “leverik” a karakter VÉ-jét. A támadások száma is sokat számít, részben a VÉ csökkentés szempontjából, másrészt a sokkal erősebb, több támadással rendelkező karakternek jó esélye van az első körben elintéznie gyengébb ellenfelét, még ha annak magas is a Védő Értéke (első egy/két támadás VÉ-t csökkent, aztán találat).
+A rendszer előnye, hogy a több támadó okozta fenyegetés sokkal fajsúlyosabb lesz, hiszen többen, sokkal gyorsabban “leverik” a karakter VÉ-jét. A támadások száma is sokat számít, részben a VÉ csökkentés szempontjából, másrészt a sokkal erősebb, több támadással rendelkező karakternek jó esélye van az első körben elintéznie gyengébb ellenfelét, még ha annak magas is a **Védő Értéke** (első egy/két támadás VÉ-t csökkent, aztán találat).
 
-Megnő a támadó/védő **taktika** jelentősége is. Egy sebesült harcos ellen jó taktika a támadó **taktika**, bár megvannak a veszélyei is, váratlan vereséghez is vezethet. A harc elején pedig – ha az idő engedi – hasznos lehet a védekezést preferáló taktikát választani kivéve, ha nagyon sietős az ellenfél elintézése. A megfelelő harcmodorok kombinálása színessé, izgalmassá teszi a küzdelmet.
+Megnő a [támadó/védő taktika](065_02_harci_taktikak.md#t%C3%A1mad%C3%B3-taktika) jelentősége is. Egy sebesült harcos ellen jó lehet a támadó **taktika**, bár megvannak a veszélyei is, váratlan vereséghez is vezethet. A harc elején pedig – ha az idő engedi – hasznos lehet a védekezést preferáló taktikát választani kivéve, ha nagyon sietős az ellenfél elintézése. A megfelelő harcmodorok kombinálása színessé, izgalmassá teszi a küzdelmet.
 
 ---
 #### Találat
@@ -86,7 +87,7 @@ Megnő a támadó/védő **taktika** jelentősége is. Egy sebesült harcos elle
 ```
 TÉ >= VÉ
 ```
-Találatnak nevezzük azt a támadást, amelynek értéke eléri, vagy meghaladja a Védő Értékét. Ilyenkor a támadó Sebzésdobást tesz, a védekező pedig Páncéldobást.
+Találatnak nevezzük azt a támadást, amelynek értéke eléri, vagy meghaladja a Védő Értékét. Ilyenkor a támadó Sebzésdobást tesz, a védekező pedig [Páncéldobást](#p%C3%A1nc%C3%A9ldob%C3%A1s-tal%C3%A1lat-helye).
 
 **Figyelem**: az SP nem azonos az okozott ÉP sebbel! (lásd [Sebzés](#sebz%C3%A9s) fejezet).
 
@@ -147,16 +148,18 @@ Az 1-es dobás (k20-on) mindig 1 ÉP seb (bónuszoktól függetlenül) amennyibe
 
 Amennyiben a korábban leírt módon sikeres [Találatot](#t%C3%BAl%C3%BCt%C3%A9s) értünk el, akkor ezt követően **Sebző Dobást** tehetünk `k20`-al, melyhez hozzáadódik a fegyver sebzése, a [Mesterfegyver](fortelyok.harci/mesterfegyver.md) fortélyból és az [Erőbónuszból](064_01_02_harc_menete_osszefoglalas.md#statikus-sp-m%C3%B3dos%C3%ADt%C3%B3k) adódó módosítók, valamint a [Többszörös találatból](#t%C3%B6bbsz%C3%B6r%C3%B6s-tal%C3%A1lat), [Rohamból](065_02_harci_taktikak.md#harci-taktik%C3%A1k) és egyes fortélyokból (pl. [Támadás Erőből](fortelyok.harci/tamadas_erobol.md)) adódó extra értékek. Az így kapott SP értéket bemondja a támadó a támadás típusával együtt (pl. Szúrás).
 
-A védő levonja a számból a támadás típusának (pl. szúrás) megfelelő SFÉ értékét (pl. szúrás elleni), amely a vértjénél szerepel. A kapott, csökkentett SP értékhez rendelt ÉP értéket (lásd **ÉP Sebzés** oszlopot) levonja aktuális Életerő Pontjai számából, a VÉ csökkenést pedig aktuális Védő Értékéből.
+A védő levonja a számból a támadás típusának (pl. szúrás) megfelelő SFÉ értékét (pl. szúrás elleni), amely a vértjénél szerepel. A kapott, csökkentett `SP` értékhez rendelt `ÉP` értéket (lásd **ÉP Sebzés** oszlopot) levonja aktuális Életerő Pontjai számából, a VÉ csökkenést pedig aktuális Védő Értékéből.
 
 Sebzés esetén nincs kis/nagykocka VÉ csökkentés, csak a táblázatban levő érték!
 
-Ha a SP érték a páncél SFÉ levonása után `0`-ra csökken, a VÉ csökkentés akkor is fixen `-5`.
+Ha az `SP` érték a páncél `SFÉ` levonása után `0`-ra csökken, a VÉ csökkentés akkor is fixen `-10`.
 
 ---
 #### Harcérték csökkenés
 
-Ha valakit találat ért és átkerül másik sebesülés-kategóriába, `TÉ levonást` kap, melyet mérsékel a [Fájdalomtűrés képzettség](kepzettsegek/fajdalomtures.md) és [Önuralom tulajdonságok](010_karakteralkotas.md#önuralom) összege. Bővebben lásd: [Fájdalomtűrés fejezetet](061_eletero.md#f%C3%A1jdalomt%C5%B1r%C3%A9s))!
+Ha valakit találat ért és átkerül másik sebesülés-kategóriába, `TÉ levonást` kap, melyet mérsékel a [Fájdalomtűrés képzettség](kepzettsegek/fajdalomtures.md) és [Önuralom tulajdonságok](010_karakteralkotas.md#önuralom) összege.
+
+Bővebben lásd: [Fájdalomtűrés fejezetet](061_eletero.md#f%C3%A1jdalomt%C5%B1r%C3%A9s)!
 
 Ez azért előnyös, mert megint csak karakteralkotás időben számítjuk ki a fenti értékeket.
 
@@ -169,7 +172,7 @@ Szúró, Vágó és Zúzó támadás
 
 Támadáskor fontos momentum annak jellegének meghatározása, valamint az ellenfél vértjének aktuális **Sebzés Felfogó Értéke**, az **SFÉ**, amely mérsékelheti a sebesülést. Ez utóbbi (SFÉ) nem állandó érték, pont a támadás jellegétől és a fegyver esetleges átütéséből adódik.
 
-A harcban használt fegyverek igen sokszínűek, a km100 rendszere különbséget tesz az általuk leadott támadás jellege szerint: **szúró, vágó és zúzó** támadás.
+A harcban használt fegyverek igen sokszínűek, a **km100** rendszere különbséget tesz az általuk leadott támadás jellege szerint: **szúró, vágó és zúzó** támadás.
 
 Egyes fegyverek többféle támadási formát is lehetővé tesznek, gondoljunk csak a jól ismert hosszú kardra, amellyel szúrni is, vágni is lehet.
 
@@ -188,6 +191,7 @@ A Harcrendszer végén található **Fegyvertáblázatban** minden fegyver táma
 
 ---
 #### Egyenjogú támadási típus
+
 ```
 - nincs levonás egyik támadás típusnál sem
 - jelölése "+" jel: például "S+V"
@@ -248,7 +252,7 @@ Abban, hogy a karakter aktuális sebesülési állapotában milyen ütemben vesz
 ---
 ### Védő Érték regenerálódása
 
-A karakternek minimum `1 kör`, zavartalan, nyugodt testi ÉS szellemi pihenésre van szüksége, hogy visszanyerje Védő Értékét.
+A karakternek minimum `1 kör`, zavartalan, ellazult, nyugodt testi ÉS szellemi pihenésre van szüksége, hogy visszanyerje Védő Értékét.
 
 Ha például üldözik és ő megbújik egy kis beugróban, akkor Védő Értéke NEM regenerálódik, mert bármikor rajtaüthetnek, nem engedhet ki, figyelme továbbra is ki van hegyezve.
 
