@@ -87,7 +87,7 @@ Megnő a [támadó/védő taktika](065_02_harci_taktikak.md#t%C3%A1mad%C3%B3-tak
 ```
 TÉ >= VÉ
 ```
-Találatnak nevezzük azt a támadást, amelynek értéke eléri, vagy meghaladja a Védő Értékét. Ilyenkor a támadó Sebzésdobást tesz, a védekező pedig [Páncéldobást](#p%C3%A1nc%C3%A9ldob%C3%A1s-tal%C3%A1lat-helye).
+Találatnak nevezzük azt a támadást, amelynek értéke eléri, vagy meghaladja a Védő Értékét. Ilyenkor a támadó [Sebzésdobást](#sebz%C3%A9s) tesz, a védekező pedig [Páncéldobást](#p%C3%A1nc%C3%A9ldob%C3%A1s-tal%C3%A1lat-helye).
 
 **Figyelem**: az SP nem azonos az okozott ÉP sebbel! (lásd [Sebzés](#sebz%C3%A9s) fejezet).
 
