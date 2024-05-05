@@ -13,14 +13,9 @@ A harcot körökre osztjuk, ebben cselekedhet mindenki a kezdeményezés által 
 Mindenki leadja támadásait, aztán ugyanebben a sorrendben a több támadással rendelkező karakterek újra - egészen addig, míg van valaki, akinek még van támadása.
 
 ---
-### Cselekedetek
+### Akció
 
-Egyes rendszerek külön szabályozzák, hogy egyes cselekedetek, például varázsital felhajtása, egy medál elővétele, sebkötözés (!!!), stb. harc közben mennyi időt vesz igénybe, hány támadás elvesztését okozza és milyen egyéb hátrányokkal jár. A km100 rendszerében ilyen – véleményünk szerint túlbonyolított – szabályokat nem alkalmaztunk. A KM az adott szituációt is figyelembe véve döntsön.
-
-Pár irányelv, amit a KM alkalmazhat:
-- a cselekedet miatt x db támadását elveszíti
-- csökkentett Védő Értékkel harcol
-- kizárólag mozgásból adódó VÉ-vel rendelkezik (pl. sokkos állapotban botorkálás védekezés nélkül). Stb...
+Lásd : [Akciók fogalma](063_03_tamadasok_szama__akcio__mozgas.md#akci%C3%B3-fogalma).
 
 ---
 ### Kezdeményezés
@@ -65,17 +60,17 @@ Támadó dobás = Támadó Érték + k100
 Minden újabb támadás a körben -10 TÉ levonással megy (2.tám: -10,  3.tám: -20, ...)
 ```
 
-Harcban, támadáskor a játékos dob k100-al, majd a kapott értéket hozzáadja aktuális **Támadó Értékéhez**. Ennek értéke lesz a **Támadó dobás**. Amennyiben a támadónak több támadása van a körben, akkor minden egyes plusz támadás -10TÉ módosítóval történik.
+Harcban, támadáskor a játékos dob k100-al, majd a kapott értéket hozzáadja aktuális **Támadó Értékéhez**. Ennek értéke lesz a **Támadó dobás**. Amennyiben a támadónak több támadása van a körben, akkor minden egyes plusz támadás `TÉ:-10` módosítóval történik.
 
-Azok a támadások, melyek majdnem betaláltak, komolyan igénybe veszik az áldozat figyelmét, állóképességét. Ha a támadás nem érte el a megtámadott Védő Értékét, akkor Védő Értékére ideiglenes csökkenést szenved el. Ha a támadás eléri, vagy meghaladja a VÉ-t, akkor pedig sebző támadásról (**találatról**) beszélünk. Hogy harc közben a védekezőnek milyen jellemzője csökken, azt az alábbi táblázat mutatja:
+Azok a támadások, melyek majdnem betaláltak, komolyan igénybe veszik az áldozat figyelmét, állóképességét. Ha a támadás nem érte el a megtámadott **Védő Értékét** (azaz a találatot), akkor az áldozat Védő Értékére ideiglenes csökkenést szenved el. Ha a támadás eléri, vagy meghaladja a `VÉ`-t, akkor pedig sebző támadásról (**találatról**) beszélünk. Hogy harc közben a védekezőnek milyen jellemzője csökken, azt az alábbi táblázat mutatja:
 
 
-| Támadó dobás eredménye | Hatás                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| :--------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|      **TÉ < VÉ**       | VÉ csökkentés<br/>• Alaphelyzetben (nincs előnyös-hátrányos helyzet):<br/>&nbsp;&nbsp;mindkét fél kiskockával csökkent (k100)<br/><br/>• Legalább 1 penge fegyverméret különbségnél:<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Előnyös helyzetű támadó: (kiskocka+1)-el csökkent (k100)<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Hátrányos helyzetű támadó: (kiskocka-1)-el csökkent (k100)<br/><br/>• 2 penge, vagy nagyobb méretkülönbségnél:<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Előnyös helyzetű támadó:  (kiskocka+2)-vel csökkent (k100)<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Hátrányos helyzetű támadó: (kiskocka-1)-el csökkent (k100) |
-|      **TÉ >= VÉ**      | Találat → Sebzés dobás<br/>• A sebzéshez az Erőbónusz/Erőhiány és mágiából adódó bónuszok hozzáadódnak<br/>• Többszörös találat: +20-anként +3SP  (max +9 SP)<br/>• Páncéldobás (opcionális): k10-el dob az áldozat<br/>• VÉ csökkentés: ÉP sebtől függő VÉ csökkenés (lásd a [Sebzés](#sebz%C3%A9s) táblázatot) (csak!)                                                                                                                                                                                                                                                                                                           |
+| Támadó dobás eredménye | Hatás                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| :--------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|      **TÉ < VÉ**       | VÉ csökkentés<br/>• Alaphelyzetben (nincs előnyös-hátrányos helyzet):<br/>&nbsp;&nbsp;mindkét fél `nagykocká`-val csökkent (k100)<br/><br/>• Legalább 1 penge fegyverméret különbségnél:<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Előnyös helyzetű támadó: `nagykocka`-val csökkent (k100)<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Hátrányos helyzetű támadó: `kiskocka`val csökkent (k100)<br/><br/>• 2 penge, vagy nagyobb méretkülönbségnél:<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Előnyös helyzetű támadó:  `nagykocka+1`-el csökkent (k100)<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Hátrányos helyzetű támadó: `kiskocka`-val csökkent (k100) |
+|      **TÉ >= VÉ**      | Találat → Sebzés dobás<br/>• A sebzéshez az Erőbónusz/Erőhiány és mágiából adódó bónuszok hozzáadódnak<br/>• Többszörös találat: `+20`-anként `+3 SP`  (max +9 SP)<br/>• Páncéldobás (opcionális): `k10`-el dob az áldozat<br/>• VÉ csökkentés: ÉP sebtől függő VÉ csökkenés (lásd a [Sebzés](#sebz%C3%A9s) táblázatot) (csak!)                                                                                                                                                                                                                                                                                                     |
 
-**Megjegyzés**: az Harci anatóma ÉP bónusza csak akkor adható hozzá, ha az alap sebzés átment a páncélon!
+**Megjegyzés**: a Harci anatóma ÉP bónusza csak akkor adható hozzá, ha az alap sebzés átment a páncélon! ⭕TODO: ez változhat⭕
 
 ```
 A VÉ csökkenést kizárólag a "Harcos elme" fortély tanulása képes mérsékelni.
