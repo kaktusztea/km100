@@ -1,9 +1,10 @@
 ## Nekromancia
 
+Az **Életerő** szféra alá tartozó arkánum.
+
 ### Betegségmágia
 
 Rontás módszerrel.
-
 
 
 ---

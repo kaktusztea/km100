@@ -1,6 +1,6 @@
 ## Mana arkánum
 
-A Mágia szféra alá tartozó arkánum.
+A **Mágia** szféra alá tartozó arkánum.
 Az alábbi területek tartoznak ide:
 
 ---

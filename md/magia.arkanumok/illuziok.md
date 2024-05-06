@@ -1,5 +1,6 @@
 ## Illúziók arkánum
 
+Az **Jelenségek** szféra alá tartozó arkánum.
 
 ### Hangmágia
 

@@ -1,5 +1,7 @@
 ## Külső síkok lényeinek idézése
 
+Az **Idézés** szféra alá tartozó arkánum.
+
 - Demonológia
 - Theurgia
 - Goécia

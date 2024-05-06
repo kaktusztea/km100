@@ -1,6 +1,10 @@
-## Mágikus Szférák listája
+## Mágikus Szférák és arkánumaik listája
 
 [STUDY: Szférák](https://github.com/kaktusztea/km100/wiki/STUDY.magia.szferak.iskolak)
+
+⭕TODO⭕: Bevezető, legenda, utalás mágiaelméletre.
+
+⭕TODO⭕: Az egyes Szférák rövid leírása mindegyik alatt.
 
 ---
 ### Mágia szféra
@@ -79,7 +83,7 @@
 ---
 ### Titkos Szféra
 
-Ez a teremtés szférája. Csak az istenek rendelkeznek vele.
+Ez a teremtés szférája. Csak az istenek rendelkeznek vele, halandó nem ismerheti.
 
 - Élet Princípiumának a megteremtése
 - Lélekcsíra megteremtése

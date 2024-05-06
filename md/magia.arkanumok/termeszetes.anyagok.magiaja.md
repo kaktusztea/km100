@@ -1,5 +1,6 @@
 ### Természetes anyagok mágiája arkánum
 
+Az **Anyag** szféra alá tartozó arkánum.
 
 ### Ideamágia
 
