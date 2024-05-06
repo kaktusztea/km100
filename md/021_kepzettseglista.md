@@ -142,10 +142,6 @@ Két kiemelt művészet kapott saját képzettséget: **Tánc** és **Zenélés*
 
 🔴[Méregkeverés](kepzettsegek/meregkeveres.md) <sup><sub>(90%)</sub></sup>
 
-🔵[Műveltség](kepzettsegek/muveszetismeret.md)  <sup><sub>(50%)</sub></sup>
-
-🔴[Ősi nyelv ismerete](kepzettsegek/osi_nyelv_ismerete.md) <sup><sub>(0%)</sub></sup> 🔁
-
 🔵[Térképészet](kepzettsegek/terkepeszet.md) <sup><sub>(0%)</sub></sup>
 
 🔴[Történelemismeret](kepzettsegek/tortenelemismeret.md) <sup><sub>(40%)</sub></sup> 
@@ -159,6 +155,8 @@ Két kiemelt művészet kapott saját képzettséget: **Tánc** és **Zenélés*
 
 🔴[Demonológia*](kepzettsegek/demonologia.md) <sup><sub>(80%)</sub></sup>
 
+🔴[Ősi nyelv ismerete](kepzettsegek/osi_nyelv_ismerete.md) <sup><sub>(0%)</sub></sup> 🔁
+
 🔵[Összpontosítás](kepzettsegek/osszpontositas.md) <sup><sub>(10%)</sub></sup>
 
 🔴[Pszí iskola](kepzettsegek/pszi_iskola.md)
@@ -169,16 +167,16 @@ Két kiemelt művészet kapott saját képzettséget: **Tánc** és **Zenélés*
 ## Mágikus Szférák és Arkánumaik 🅿️
 
 ### Mágia Szféra
-🔴[Metamágia](https://github.com/kaktusztea/km100/wiki/STUDY.magia.metamagia)
 
-🔴[Aura](kepzettsegek/aurafejlesztes.md)
+🔴[Mana](magia.arkanumok/mana.md)
+
+🔴[Aura/Pszí](kepzettsegek/aurafejlesztes.md)
 
 ### Anyag szféra
 
 🔴[Elemi mágia](magia.arkanumok/elemi_magia.md) <sup><sub>(30%)</sub></sup>
 
 🔴[Természetes anyagok mágiája](magia.arkanumok/termeszetes.anyagok.magiaja.md)
-
 
 ###  Lélek szféra
 
@@ -189,12 +187,8 @@ Két kiemelt művészet kapott saját képzettséget: **Tánc** és **Zenélés*
 ### Jelenségek szféra
 
 🔴[Illúziók](magia.arkanumok/illuziok.md)
-- Fénymágia, Árnyékmágia
-- Hangmágia/[Csendmágia](https://github.com/kaktusztea/km100/wiki/RAW.magia#csendmágia)
 
 🔴[Természeti jelenségek](magia.arkanumok/termeszeti.jelensegek.md)
-- Időjárásbefolyásolás
-- Villámmmágia
 
 ### Téridő szféra
 
@@ -204,39 +198,21 @@ Két kiemelt művészet kapott saját képzettséget: **Tánc** és **Zenélés*
 
 ### Életerő szféra
 
-🔴[Gyógyítás](https://github.com/kaktusztea/km100/wiki/STUDY.papimagia.szfera.gyogyitas#papi-m%C3%A1gia---gy%C3%B3gy%C3%ADt%C3%A1s-szf%C3%A9ra) 🚧
-- Sebgyógyítás
-- Isteni Életerő átadása (KT átalakítása ÉP-vé rögtön)
-- Betegségek gyógyítása
-- Méregsemlegesítés
-- Fiatalítás
-- Lelki szenvedés enyhítése
-- Rontáslevétel
-- Termékenységi Mágia
+🔴[Gyógyítás](magia.arkanumok/gyogyitas.md)
 
-🔴[Nekromancia](magia.arkanumok/nekromancia.md)  <sup><sub>(20%)</sub></sup>
-- rontás (betegség) is ide tartozik
+🔴[Nekromancia](magia.arkanumok/nekromancia.md)  <sup><sub>(15%)</sub></sup>
 
 ### Idézés szféra
 
-🔴 [Belső síkok lényeinek idézése](magia.arkanumok/idezes.belso.sikok.md)
-- elementálok
-- ember lelkek / lelkekbol lehasadt szellemek
-- természeti szellemek
+🔴[Belső síkok lényeinek idézése](magia.arkanumok/idezes.belso.sikok.md)
 
 🔴[Külső síkok lényeinek idézése](magia.arkanumok/idezes.kulso.sikok.md)
-- Demonológia
-- Theurgia
-- Goécia
-- Szeráfok
 
 ### Sors szféra
 
 🔴[Sors Érzékelés](magia.arkanumok/sors.erzekeles.md)
-- jövendőmondás / múltbatekintés
 
 🔴[Sors Befolyásolás](magia.arkanumok/sors.befolyasolas.md)
-- Lélekmágia (véletlenmágia) (CX)
 
 ### Titkos Szféra
 
