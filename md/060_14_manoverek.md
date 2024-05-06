@@ -314,7 +314,7 @@ Az alábbiakban Manőverfejlesztő Pontokból (`MFP`) fejleszthető Manőverek l
 ---
 #### 💪 Belharcból kibontakozás
 
-Lásd: [Kibontakozás/Átsiklás](065_05_manoverek.md#%EF%B8%8Fkibontakozásátsiklás) manőver.
+Lásd: [Kibontakozás/Átsiklás](#%EF%B8%8Fkibontakozásátsiklás) manőver.
 
 ---
 #### 💪 Gáncsolás / Lábsöprés (lábbal)
@@ -518,7 +518,7 @@ Nem támadsz, hanem ⭕TODO⭕
 	- Belharc – `1.fok`
 	- Belharci szituáció
 - Speciális: súlyos ellenfélnél opcionális **Erőpróba** (KM dönt)
-- Hatás: Belharc közben fogást találsz ellenfeleden és átdobod a vállad felett. Innentől kezdve a [Harc földön fekve](065_01_harci_helyzetek.md#harc-földön-fekve) módosítói szerint kell számolni harcértékeit.
+- Hatás: Belharc közben fogást találsz ellenfeleden és átdobod a vállad felett. Innentől kezdve a [Harc földön fekve](060_10_harci_helyzetek.md#harc-f%C3%B6ld%C3%B6n-fekve) módosítói szerint kell számolni harcértékeit.
 
 ---
 #### 🤼‍♂️ Belharcba kerülés (x)
@@ -595,7 +595,7 @@ Nem támadsz, hanem ⭕TODO⭕
 ---
 ### Lovas Manőverek
 
-A lóval és ló ellen végbevihető Manőverek a [Harc lóhátról](066_harc_lohartol.md#lovas-man%C5%91verek) fejezetben találhatóak.
+A lóval és ló ellen végbevihető Manőverek a [Harc lóhátról](060_15_harc_lohartol.md#lovas-man%C5%91verek) fejezetben találhatóak.
 
 <br/>
 
