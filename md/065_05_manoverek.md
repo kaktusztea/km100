@@ -223,21 +223,14 @@ Ilyen ismeret lehet például a **Manőver – Gáncsolás** megtanulása, melyn
 
 Az alábbiakban bemutatjuk a km100 által ismert manővereket. A KM bármikor rögtönözhet új manővert, mindössze az alábbiakat kell megtennie: meghatározni a Manőver alap nehézségét, végbevitelének követelményeit, szükséges fázisait (MEV), hatását, valamint az esetleges speciális követelményeket (képzettségpróba, stb). Amennyiben az új manőver fejleszthető, akkor az egyes tanulható fokok követelményeit is rögzíteni kell.
 
-### Nem fejleszthető manőverek
 
-#### 🗡️Átdobás
-
-- Nehézség: `5` + (Ellenfél minden **Belharc** foka után `+2`)
-- Fázisok: `E V`
-- Végbevitel követelménye:
-	- Közelharc – `4 .szint`
-	- Belharc – `1.fok`
-	- Belharci szituáció
-- Speciális: súlyos ellenfélnél opcionális **Erőpróba** (KM dönt)
-- Hatás: Belharc közben fogást találsz ellenfeleden és átdobod a vállad felett. Innentől kezdve a [Harc földön fekve](065_01_harci_helyzetek.md#harc-földön-fekve) módosítói szerint kell számolni harcértékeit.
+<br />
 
 ---
-#### 🗡️Felállás földről
+---
+### 😑 Nem fejleszthető manőverek
+
+#### 😑 Felállás földről
 
 - Nehézség: `6`
 - Fázisok: `M E`
@@ -246,37 +239,9 @@ Az alábbiakban bemutatjuk a km100 által ismert manővereket. A KM bármikor r�
 - Hatás: Sikerült harc közben a földről feltápászkodnod, folytathatod a harcot, immár levonások nélkül.
 
 ---
-#### 🗡️Feszítés, Leszorítás / Feszítésből kijövetel
+#### 😑 Kiegészítő támadás
 
-- Nehézség: `6` ± **Erő** különbség + (Ellenfél minden **Belharc** foka után `+2`)
-- Fázisok: `E V`
-- Végbevitel követelménye:
-	- Belharci szituáció
-	- Belharc – `1.fok` (kijövetelhez nem kell)
-	- Közelharc – `4.szint`
-	- Kijövetelhez: sikeres **Fájdalomtűrés** próba `15`-ös célszám ellen (körönként dobandó). Ha nincs meg, képtelen visszatámadni és mágiát, pszít használni
-- Speciális:
-	- Belharcos fegyverrel együtt is lehet alkalmazni
-- Hatás:
-	- Sikeresen lefeszítetted ellenfeledet, aki alig bír mozdulni / Kiszabadultál a feszítésből
-	- Amíg feszítve van, addig nem tud fegyverrel támadni és `TÉ/VÉ:-25` (`KÉ`-t elveszíti automatikusan)
-
----
-#### 🗡️Kéztörés
-
-- Nehézség:  `6` ± **Erő** különbség + (Ellenfél minden **Belharc** foka után `+2`)
-- Fázisok: `E V`
-- Végbevitel követelménye
-	- Belharci szituáció
-	- Belharc – `1.fok`
-	- Közelharc – `6 .szint`
-- Hatás: kitörted ellenfeled kezét, ⭕`5 ÉP`⭕ sebzés, a sérült kezét nem  használhatja harcra, amíg meg nem gyógyul.
-- ⭕Páncél nehezítsen?⭕
-
----
-#### 🗡️Kiegészítő támadás
-
- ⭕KELL EZ?⭕
+ ⭕TODO⭕ KELL EZ?⭕
 - Nehézség: `7`
 - Fázisok: `E V`
 - Végbevitel követelménye:
@@ -284,27 +249,9 @@ Az alábbiakban bemutatjuk a km100 által ismert manővereket. A KM bármikor r�
 	- Forgatott fegyverre: Mesterfegyver – `1.fok`
 - Hatás: Harc közben egy támadásod helyett valamilyen csalafinta, alattomos húzást vetsz be ellenfeled ellen. Ilyen lehet például, hogy öklöddel váratlanul az arcába csapsz, vagy térden rúgod, esetleg a vállába bokszolsz, stb. Ennek a támadásodnak a sebzése `k20+1`. (Természetesen az esetleges „kiegészítők”, mint *vaskesztyű*, *szegecsek* és az **Erőbónusz** szintén beleszámítanak a sebzésbe.) Ha a sebzés legalább `5`, akkor a fentieken kívül ellenfeled elveszíti következő támadását.
 
----
-#### 🗡️Lábtörés
-
-- Nehézség: `8` ± **Erő** különbség + (Ellenfél minden **Belharc** foka után `+2`)
-- Fázisok: `E V`
-- Végbevitel követelménye:
-	- Belharci szituáció
-	- Belharc – `⭕2⭕.fok`
-- Hatás: kitörted ellenfeled lábát, ⭕`6 ÉP`⭕ sebzés
 
 ---
-#### 🗡️Leforgatás/Irányítás
-
-- Nehézség: `8 / 4` (Lefeszített ellenfél ellen a nehézség csak `4`)
-- Fázisok: `E V`
-- Végbevitel követelménye:
-	-  Belharci szituáció
-- Hatás: Képes vagy ellenfeledet a számodra kedvező irányba forgatni/terelni miközben összeakaszkodtok. Legfeljebb `5 méternyi` távot tetethetsz meg vele.
-
----
-#### 🗡️Pontra támadás
+#### 😑 Pontra támadás
 
 - Nehézség: `~10`
 - Fázisok: `E V`
@@ -313,20 +260,9 @@ Az alábbiakban bemutatjuk a km100 által ismert manővereket. A KM bármikor r�
 - Hatás: Nyakra, szemre, lágyékra és különösen sérülékeny, apró pontokra támadhatsz vele. Ha sikeres a támadás, akkor dobj rendes sebzést és hozzáadhatod a "**Harci anatómiánál**" leírt bónusz sebzéseket. Ha célod egy apró szerv, mint a szem, fül, vagy ujj kiszúrása/levágása, akkor siker esetén sebzésed **Közepes**(⭕?⭕) és megszabadítottad ellenfeledet egy fent leírt testrésztől.
 - Megjegyzés: A „**Pontra támadás**” **nem** használható együtt a **Páncélszúrás** manőverrel! A testrésznek páncél által fedetlennek kell lennie.
 
----
-#### 🗡️Nyaktörés
-
-- Nehézség: `9`
-- Fázisok: `E V`
-- Végbevitel követelménye:
-	- Belharci szituáció
-	- Belharc – `2.fok`
-	- Harci anatóma – `1.fok`
-	- ⭕TODO: páncél akadályozzon – legyen nehezebb⭕
-- Hatás: Kitörted ellenfeled nyakát. Amennyiben humanoid anatómiájú egyedről van szó, 1 körön belül meghal.
 
 ---
-#### 🗡️Öklelés
+#### 😑 Öklelés
 
 - Nehézség: `⭕?⭕`
 - Fázisok: `⭕M⭕  E V`
@@ -335,7 +271,7 @@ Az alábbiakban bemutatjuk a km100 által ismert manővereket. A KM bármikor r�
 - Hatás: ⭕TODO⭕
 
 ---
-#### 🗡️Pajzzsal öklelés
+#### 😑 Pajzzsal öklelés
 
 - Nehézség: `7` ± **Erő** különbség + (Ellenfél minden **Pajzshasználat** foka után `+2` (ha használ épp pajzsot ő is))
 - Fázisok: `E V`
@@ -347,7 +283,8 @@ Az alábbiakban bemutatjuk a km100 által ismert manővereket. A KM bármikor r�
 <br/>
 
 ---
-### Fejleszthető manőverek
+---
+### 💪  Fejleszthető manőverek
 
 ```
 +2 Manőver Pont jár tanult fokonként
@@ -355,7 +292,7 @@ Az alábbiakban bemutatjuk a km100 által ismert manővereket. A KM bármikor r�
 
 Az alábbiakban Manőverfejlesztő Pontokból (`MFP`) fejleszthető Manőverek listáját találhatjuk.
 
-#### 🗡️Belharcba kerülés
+#### 💪 Belharcba kerülés
 
 - Nehézség: `9`
 - Fázisok: `M E`
@@ -375,12 +312,12 @@ Az alábbiakban Manőverfejlesztő Pontokból (`MFP`) fejleszthető Manőverek l
 - Megjegyezés: Ha az ellenfél úgy dönt, hogy szándékosan beengedi belharcba a karaktert, akkor nincs szükség a Manőverre, dobás nélkül megtörténik a bekerülés, amelyet kezdeményezés követ, majd a harc – immár a Belharc szabályainak megfelelően.
 
 ---
-#### 🗡️Belharcból kibontakozás
+#### 💪 Belharcból kibontakozás
 
 Lásd: [Kibontakozás/Átsiklás](065_05_manoverek.md#%EF%B8%8Fkibontakozásátsiklás) manőver.
 
 ---
-#### 🗡️Gáncsolás / Lábsöprés (lábbal)
+#### 💪 Gáncsolás / Lábsöprés (lábbal)
 - Nehézség: `8/5`
 - Fázisok: `E V`
 - Max fok: `1`
@@ -569,9 +506,97 @@ Nem támadsz, hanem ⭕TODO⭕
 <br/>
 
 ---
+---
+### 🤼‍♂️ Belharcos Manőverek
+
+#### 🤼‍♂️ Átdobás
+
+- Nehézség: `5` + (Ellenfél minden **Belharc** foka után `+2`)
+- Fázisok: `E V`
+- Végbevitel követelménye:
+	- Közelharc – `4 .szint`
+	- Belharc – `1.fok`
+	- Belharci szituáció
+- Speciális: súlyos ellenfélnél opcionális **Erőpróba** (KM dönt)
+- Hatás: Belharc közben fogást találsz ellenfeleden és átdobod a vállad felett. Innentől kezdve a [Harc földön fekve](065_01_harci_helyzetek.md#harc-földön-fekve) módosítói szerint kell számolni harcértékeit.
+
+---
+#### 🤼‍♂️ Belharcba kerülés (x)
+
+[Lásd fenn](#%EF%B8%8Fbelharcba-ker%C3%BCl%C3%A9s).
+
+---
+#### 🤼‍♂️ Feszítés, Leszorítás / Feszítésből kijövetel
+
+- Nehézség: `6` ± **Erő** különbség + (Ellenfél minden **Belharc** foka után `+2`)
+- Fázisok: `E V`
+- Végbevitel követelménye:
+	- Belharci szituáció
+	- Belharc – `1.fok` (kijövetelhez nem kell)
+	- Közelharc – `4.szint`
+	- Kijövetelhez: sikeres **Fájdalomtűrés** próba `15`-ös célszám ellen (körönként dobandó). Ha nincs meg, képtelen visszatámadni és mágiát, pszít használni
+- Speciális:
+	- Belharcos fegyverrel együtt is lehet alkalmazni
+- Hatás:
+	- Sikeresen lefeszítetted ellenfeledet, aki alig bír mozdulni / Kiszabadultál a feszítésből
+	- Amíg feszítve van, addig nem tud fegyverrel támadni és `TÉ/VÉ:-25` (`KÉ`-t elveszíti automatikusan)
+
+---
+#### 💪 Gáncsolás / Lábsöprés (lábbal)
+
+[Lásd fenn](#%EF%B8%8Fg%C3%A1ncsol%C3%A1s--l%C3%A1bs%C3%B6pr%C3%A9s-l%C3%A1bbal).
+
+---
+#### 🤼‍♂️ Kéztörés
+
+- Nehézség:  `6` ± **Erő** különbség + (Ellenfél minden **Belharc** foka után `+2`)
+- Fázisok: `E V`
+- Végbevitel követelménye
+	- Belharci szituáció
+	- Belharc – `1.fok`
+	- Közelharc – `6 .szint`
+- Hatás: kitörted ellenfeled kezét, ⭕`5 ÉP`⭕ sebzés, a sérült kezét nem  használhatja harcra, amíg meg nem gyógyul.
+- ⭕Páncél nehezítsen?⭕
+
+---
+#### 🤼‍♂️ Lábtörés
+
+- Nehézség: `8` ± **Erő** különbség + (Ellenfél minden **Belharc** foka után `+2`)
+- Fázisok: `E V`
+- Végbevitel követelménye:
+	- Belharci szituáció
+	- Belharc – `⭕2⭕.fok`
+- Hatás: kitörted ellenfeled lábát, ⭕`6 ÉP`⭕ sebzés
+
+---
+#### 🤼‍♂️ Leforgatás/Irányítás
+
+- Nehézség: `8 / 4` (Lefeszített ellenfél ellen a nehézség csak `4`)
+- Fázisok: `E V`
+- Végbevitel követelménye:
+	-  Belharci szituáció
+- Hatás: Képes vagy ellenfeledet a számodra kedvező irányba forgatni/terelni miközben összeakaszkodtok. Legfeljebb `5 méternyi` távot tetethetsz meg vele.
+
+---
+#### 🤼‍♂️ Nyaktörés
+
+- Nehézség: `9`
+- Fázisok: `E V`
+- Végbevitel követelménye:
+	- Belharci szituáció
+	- Belharc – `2.fok`
+	- Harci anatóma – `1.fok`
+	- ⭕TODO: páncél akadályozzon – legyen nehezebb⭕
+- Hatás: Kitörted ellenfeled nyakát. Amennyiben humanoid anatómiájú egyedről van szó, 1 körön belül meghal.
+
+<br />
+
+---
+---
 ### Lovas Manőverek
 
 A lóval és ló ellen végbevihető Manőverek a [Harc lóhátról](066_harc_lohartol.md#lovas-man%C5%91verek) fejezetben találhatóak.
+
 <br/>
 
 ---
