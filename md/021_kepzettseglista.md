@@ -170,7 +170,7 @@ Két kiemelt művészet kapott saját képzettséget: **Tánc** és **Zenélés*
 
 🔴[Mana](magia.arkanumok/mana.md)
 
-🔴[Aura/Pszí](kepzettsegek/aurafejlesztes.md)
+🔴[Aura/Pszí](magia.arkanumok/aura_pszi.md)
 
 ### Anyag szféra
 
