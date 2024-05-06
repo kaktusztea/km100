@@ -1,5 +1,8 @@
 ## Sors befolyásolás arkánum
 
+
+Az **Sors** szféra alá tartozó arkánum.
+
 ### XYZ⭕
 
 ⭕TODO

@@ -1,5 +1,7 @@
 ## Elemi mágia arkánum
-  
+
+Az **Anyag** szféra alá tartozó arkánum.
+
 | **Képzettség** | **Követelmény** | **Bónusz, Megjegyzés**                                                                                                                      |
 | -------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1.szint        | Önuralom: 0     | 1-2.szintig csak elméleti ismeret.                                                                                                          |

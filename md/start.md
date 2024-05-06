@@ -67,9 +67,9 @@
   - [Mágia alapszabályok](092_magia_alapszabalyok.md)
   - [Aura, Átütés, Mágiaellenállás](094_aura_atutes_magiaellenallas.md)
   - [Varázslás módszerei](095_varazslas_modszerei.md)
-  - [Mágikus Szférák](096_magikus_szferak.md)
-  - **Arkánumok**
-    - [Aura](kepzettsegek/aurafejlesztes.md)
+  - [Mágikus Szférák és Arkánumaik](096_magikus_szferak_arkanumok.md)
+  - **Arkánumok listája**
+    - [Aura/Pszí](magia.arkanumok/aura_pszi.md)
     - [Asztrálmágia](magia.arkanumok/asztralmagia.md)
     - [Elemi mágia](magia.arkanumok/elemi_magia.md)
     - [Belső síkok lényeinek idézése](magia.arkanumok/idezes.belso.sikok.md)
