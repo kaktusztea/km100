@@ -50,7 +50,7 @@
 
 <!-- tag: tavharc__fortely -->
 
-- [Gyors lövés](fortelyok.harci/gyors_loves.md) 🔺
+- [Gyors lövés](fortelyok.harci/gyors_loves.md)
 - [Gyors újratöltés](fortelyok.harci/gyors_ujratoltes.md) 🔺
 - [Képzett célzás](fortelyok.harci/kepzett_celzas.md) 🔺
 - [Kitérés lövés elől](fortelyok.harci/kiteres_loves_elol.md) 🔺
