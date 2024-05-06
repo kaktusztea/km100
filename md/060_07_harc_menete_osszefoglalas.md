@@ -131,7 +131,7 @@ VÉ csökkentés:  SP ↔ VÉ megfeleltetés a Sebzés táblázatban
    - Fárasztás alkalmazásakor: nincs Sebzés, VÉ:+5 csökkentés
 ```
 
-Lásd: [Sebzés táblázat](064_01_02_harc_menete_reszletes.md#sebz%C3%A9s)
+Lásd: [Sebzés táblázat](060_08_harc_menete_reszletes.md#sebz%C3%A9s)
 
 **Megjegyzés**: a "Harci anatómia" ÉP bónusza csak akkor adható hozzá, ha az alap sebzés átment a páncélon! ⭕TODO⭕
 
@@ -171,14 +171,14 @@ Harckeret  =  aktuális harcmodor + Gyorsaság tulajdonság
 Fegyver-Sebesség: fegyverenként eltérő egyéni érték 
 ```
 
-Lásd: [Fegyverek táblázat](067_fegyverek.md)
+Lásd: [Fegyverek táblázat](060_16_fegyverek.md)
 
 <br />
 
 ---
 ### 🛡️Mozgásgátló Tényező (MGT)
 
-Lásd a [Vértek, Páncélok - MGT fejezetét](068_vertek_pancelok.md#mozgásgátló-tényező-mgt).
+Lásd a [Vértek, Páncélok - MGT fejezetét](060_17_vertek_pancelok.md#mozg%C3%A1sg%C3%A1tl%C3%B3-t%C3%A9nyez%C5%91-mgt).
 
 <br />
 

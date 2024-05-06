@@ -561,7 +561,7 @@ Az egyes kategóriák jelölésében az `S` a „Sebesülés” -re utal, a szá
 
 A fenti ábra `18ÉP` elosztását mutatja be.
 
-`Kábulat ÉP (KT)`: Verekedésnél, leütésnél, kábulatnál, rosszullétnél használjuk a Kábulat ÉP Pontot (`KT`). Hatása ugyanolyan, mint az ÉP vesztés (lásd [Sebesülés](061_eletero.md#sebes%C3%BCl%C3%A9s) fejezet), de nem okozhat halált, mivel nem jár strukturális károsodással. `Óránként 1 jön vissza`. (`Alvás közben óránként 2`) Alapállapotban nem létezik. Kifejtését lásd a [Harcrendszer Életerő - Kábulat ÉP](061_eletero.md#k%C3%A1bulat-%C3%A9leter%C5%91-pont-kt) fejezetében.
+`Kábulat ÉP (KT)`: Verekedésnél, leütésnél, kábulatnál, rosszullétnél használjuk a Kábulat ÉP Pontot (`KT`). Hatása ugyanolyan, mint az ÉP vesztés (lásd [Sebesülés](060_01_eletero.md#sebes%C3%BCl%C3%A9s) fejezet), de nem okozhat halált, mivel nem jár strukturális károsodással. `Óránként 1 jön vissza`. (`Alvás közben óránként 2`) Alapállapotban nem létezik. Kifejtését lásd a [Harcrendszer Életerő - Kábulat ÉP](060_01_eletero.md#k%C3%A1bulat-%C3%A9leter%C5%91-pont-kt) fejezetében.
 
 ---
 ## Méregellenállás
@@ -660,7 +660,7 @@ Nem mind fejleszthető MFP-ből, van amit ráköltés nélkül simán „meg leh
 ---
 ## Harcértékek, Jellemzők
 
-Hogy egy karakter milyen tapasztalt a harc terén, azt harcértékeivel jellemezzük. Nyilvánvaló, hogy akinek inkább a fegyverforgatás az élete, annak jobbak a harcértékei, mint annak, aki mágikus tudományokban mélyül el. A harcértékek tárgyalását lásd a Harcrendszer fejezet, [Harcértékek felépítése](062_01_harcertekek_elemei.md) alfejezetében!
+Hogy egy karakter milyen tapasztalt a harc terén, azt harcértékeivel jellemezzük. Nyilvánvaló, hogy akinek inkább a fegyverforgatás az élete, annak jobbak a harcértékei, mint annak, aki mágikus tudományokban mélyül el. A harcértékek tárgyalását lásd a Harcrendszer fejezet, [Harcértékek felépítése](060_02_harcertekek_elemei.md) alfejezetében!
 
 ---
 # Nem játékos karakterek
