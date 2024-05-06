@@ -15,7 +15,7 @@ A harc ritmusát fenntartva, elméd erejének hála kevésbé merít ki a harc s
 
 **Megjegyzések**
 
-- NEM mérsékli a 🗡️[Fárasztás](../065_02_harci_taktikak.md#f%C3%A1raszt%C3%A1s) harci taktika használata során az **alkalmazó** által elszenvedett automatikus VÉ csökkenést.
+- NEM mérsékli a 🗡️[Fárasztás](../060_11_harci_taktikak.md#fárasztás) harci taktika használata során az **alkalmazó** által elszenvedett automatikus VÉ csökkenést.
 
 <br />
 

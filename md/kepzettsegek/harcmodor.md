@@ -16,9 +16,9 @@ Alább összesen 4 különálló ilyen harcmodor képzettség általános leír�
 - Zúzás
 - Lándzsavívás
 
-Ezek a képzettségek - szintjüktől függően - büntetéseket/bónuszokat adnak harcértékedre. Bővebben lásd a [Harcértékek elemei - Harcmodor képzettségek](../062_01_harcertekek_elemei.md#harcmodor-k%C3%A9pzetts%C3%A9gek) fejezetet.
+Ezek a képzettségek - szintjüktől függően - büntetéseket/bónuszokat adnak harcértékedre. Bővebben lásd a [Harcértékek elemei - Harcmodor képzettségek](../060_02_harcertekek_elemei.md#harcmodor-k%C3%A9pzetts%C3%A9gek) fejezetet.
 
-**Speciális**: a képzettség egyes szintjei beleszámítanak a szabadon elosztható [Manőver-Pontokba](../065_05_manoverek.md#man%C5%91ver-pont).
+**Speciális**: a képzettség egyes szintjei beleszámítanak a szabadon elosztható [Manőver-Pontokba](../060_14_manoverek.md#man%C5%91ver-pont).
 
 <br />
 

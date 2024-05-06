@@ -216,7 +216,7 @@ Tehát a próbát `4 + Emlékezet  vs  Próba célszám` értékekkel dobja.
 ---
 ### Sérülés hatása képzettségpróbára
 
-Ha megsérül a karakter, képzettségpróbáira levonások járnak. Hogy mennyi, az attól függ, hogy melyik [sebesülés kategóriában](061_eletero.md#sebes%C3%BCl%C3%A9s) van, illetve hogy fizikai mozgást igénylő, vagy nem igénylő képzettségét teszi próbára:
+Ha megsérül a karakter, képzettségpróbáira levonások járnak. Hogy mennyi, az attól függ, hogy melyik [sebesülés kategóriában](060_01_eletero.md#sebes%C3%BCl%C3%A9s) van, illetve hogy fizikai mozgást igénylő, vagy nem igénylő képzettségét teszi próbára:
 
 |      | S1  | S2 | S3 | S4 |
 | ---- | :----: | :----: | :----: | :----: |

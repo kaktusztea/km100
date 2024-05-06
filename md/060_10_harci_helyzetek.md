@@ -175,7 +175,7 @@ Ha valaki magasabbról harcol, az előnyben van ellenfelével szemben. Ilyen hel
 ### Harc gyűlöletből
 
 ```
-TÉ: +15
+TÉ: +15, VÉ: -30
 ```
 
 Aki gyűlöletből harcol, az kevesebbet törődik a védekezéssel, minden erejével ellenfele elpusztítására tör. Az ilyen karakter kötelezően `+15 TÉ` Támadó taktikával harcol (így `-30 VÉ` sújtja).

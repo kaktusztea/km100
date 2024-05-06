@@ -1,4 +1,4 @@
-## Támadások száma fegyverrel, mágiával, Akció
+## Támadások száma fegyverrel, mágiával, Akció, Mozgás
 
 ```
 Alapeset:  minden fegyver támadásainak száma: 1 / kör.
@@ -58,7 +58,7 @@ Minden újabb támadás során az aktuális Támadó Értékre -10 levonás jár
 - Második támadás: `-10TÉ`
 - Harmadik támadás: `-20TÉ`, stb
 
-További támadásokat `Kétkezes Harc` során szerezhet a karakter. Lásd a [Kétkezes Harc](065_04_ketkezes_harc.md) fejezetet!
+További támadásokat `Kétkezes Harc` során szerezhet a karakter. Lásd a [Kétkezes Harc](060_13_ketkezes_harc.md) fejezetet!
 
 ---
 ---
@@ -120,4 +120,4 @@ Ha a karakter a `Max mozgás` távolságnál mindenképpen nagyobb távot akar m
 
 - Maximum táv: `Max mozgás x 2 (méterben)`
 - A körben nem lehet/lehetett ezen kívül más támadása
-- Csak [Roham](065_02_harci_taktikak.md#roham) Harci taktikával végezhető a támadás
+- Csak [Roham](060_11_harci_taktikak.md#roham) Harci taktikával végezhető a támadás
