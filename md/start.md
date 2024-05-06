@@ -78,7 +78,7 @@
     - [Illúziók](magia.arkanumok/illuziok.md)
     - [Külső síkok lényeinek idézése](magia.arkanumok/idezes.kulso.sikok.md)
     - [Mentálmágia](magia.arkanumok/mentalmagia.md)
-    - [Metamágia](magia.arkanumok/metamagia.md)
+    - [Mana](magia.arkanumok/mana.md)
     - [Nekromancia](magia.arkanumok/nekromancia.md)
     - [Sors befolyásolás](magia.arkanumok/sors.befolyasolas.md)
     - [Sors érzékelés](magia.arkanumok/sors.erzekeles.md)
