@@ -1,5 +1,14 @@
 ## Nekromancia
 
+### Betegségmágia
+
+Rontás módszerrel.
+
+
+
+---
+### Élőholtak manipulálása
+
 ```
 🔆Codexből átmentett saját ötleteim🔆
 ❗ Itt néhány random nekromanciás formula ötletét dobtam be. Nem kidolgozott mágiaiskola
