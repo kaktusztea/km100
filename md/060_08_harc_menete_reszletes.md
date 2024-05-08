@@ -146,11 +146,11 @@ SP = k20 + Fegyver-sebzés + módosítók – (aktuális SFÉ)
 Az 1-es dobás (k20-on) mindig 1 ÉP seb (bónuszoktól függetlenül) amennyiben az SP dobás átment a páncél SFÉ-n
 ```
 
-Amennyiben a korábban leírt módon sikeres [Találatot](#t%C3%BAl%C3%BCt%C3%A9s) értünk el, akkor ezt követően **Sebző Dobást** tehetünk `k20`-al, melyhez hozzáadódik a fegyver sebzése, a [Mesterfegyver](fortelyok.harci/mesterfegyver.md) fortélyból és az [Erőbónuszból](060_07_harc_menete_osszefoglalas.md#statikus-sp-módosítók) adódó módosítók, valamint a [Többszörös találatból](#t%C3%B6bbsz%C3%B6r%C3%B6s-tal%C3%A1lat), [Rohamból](060_11_harci_taktikak.md#harci-taktik%C3%A1k) és egyes fortélyokból (pl. [Támadás Erőből](fortelyok.harci/tamadas_erobol.md)) adódó extra értékek. Az így kapott SP értéket bemondja a támadó a támadás típusával együtt (pl. Szúrás).
+Amennyiben a korábban leírt módon sikeres [Találatot](#t%C3%BAl%C3%BCt%C3%A9s) értünk el, akkor ezt követően **Sebző Dobást** tehetünk `k20`-al, melyhez hozzáadódik a fegyver sebzése, a [Mesterfegyver](fortelyok.harci/mesterfegyver.md) fortélyból és az [Erőbónuszból](060_07_harc_menete_osszefoglalas.md#statikus-sp-módosítók) adódó módosítók, valamint a [Többszörös találatból](#t%C3%B6bbsz%C3%B6r%C3%B6s-tal%C3%A1lat), [Rohamból](060_11_harci_taktikak.md#harci-taktik%C3%A1k) és egyes fortélyokból (pl. [Támadás Erőből](fortelyok.harci/tamadas_erobol.md)) adódó extra értékek. Az így kapott `SP` értéket bemondja a támadó a támadás típusával együtt (pl. Szúrás).
 
-A védő levonja a számból a támadás típusának (pl. szúrás) megfelelő SFÉ értékét (pl. szúrás elleni), amely a vértjénél szerepel. A kapott, csökkentett `SP` értékhez rendelt `ÉP` értéket (lásd **ÉP Sebzés** oszlopot) levonja aktuális Életerő Pontjai számából, a VÉ csökkenést pedig aktuális Védő Értékéből.
+A védő levonja a számból a támadás típusának (pl. szúrás) megfelelő `SFÉ` értékét (pl. szúrás elleni), amely a vértjénél szerepel. A kapott, csökkentett `SP` értékhez rendelt `ÉP` értéket (lásd **ÉP Sebzés** oszlopot) levonja aktuális Életerő Pontjai számából, a `VÉ` csökkenést pedig aktuális **Védő Értékéből**.
 
-Sebzés esetén nincs kis/nagykocka VÉ csökkentés, csak a táblázatban levő érték!
+Sebzés esetén nincs kis/nagykocka `VÉ` csökkentés, csak a táblázatban levő érték!
 
 Ha az `SP` érték a páncél `SFÉ` levonása után `0`-ra csökken, a VÉ csökkentés akkor is fixen `-10`.
 
