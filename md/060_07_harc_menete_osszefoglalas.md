@@ -108,6 +108,7 @@ Fegyver SP: k20 + X
 - 00 támadó dobás: SP:+5;
          Ellenfél SFÉ nem számít (de Aranyharang, Elemi Erő igen)
 - Roham: SP:+5
+- Támadás erőből fortély bónusza
 ```
 
 <br />

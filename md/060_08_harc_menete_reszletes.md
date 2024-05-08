@@ -124,7 +124,8 @@ A `01`-es támadó dobás szintén kiemelt, de ezúttal negatív felhanggal. Ily
 ```
 SP = k20 + Fegyver-sebzés + módosítók – (aktuális SFÉ)
 
-- módosítók: Mesterfegyver fortély, Erőbónusz, Többszörös találat, Roham, Támadás erőből fortély
+- módosítók: Mesterfegyver fortély, Erőbónusz, Többszörös találat,
+             Roham, Támadás erőből fortély
 - SFÉ: páncéltól, támadási típustól és a fegyver Átütésétől függ
 ```
 
