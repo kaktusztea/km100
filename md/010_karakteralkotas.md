@@ -145,7 +145,66 @@ A Tulajdonságok értéke alapesetben `-5` és `+5` között mozoghat. A `-5` é
 A kinézetre és érzelmi „felépítésre" vonatkozó jellemzőket a játékosra bízzuk, dolgozza ki ő karakteralkotáskor, a KM-el egyeztetve. Hisszük, hogy nem kell mindent számszerűsíteni. Ezek részben szabadon  meghatározható jellemzők, részben a játékos beleélőképességén múlnak, azaz milyen hatással vannak más karakterekre.
 
 ---
+### Milyen értékekbe számítanak bele?
 
+Az egyes Tulajdonságok bemutatása előtt egy tömör összefoglaló táblázat róluk, amely bemutatja: mégis milyen értékekbe számítanak bele.
+
+
+```
+Erő
+  - TÉ
+  - Erőbónusz 1:1
+  - Követelmény nehezebb páncélokhoz
+```
+
+```
+Edzettség
+  - ÉP
+  - Méregellenállás
+```
+
+```
+Ügyesség
+  - TÉ
+  - VÉ
+  - max HM/Szint értéke
+```
+```
+Gyorsaság
+  - KÉ
+  - TÉ (2x)
+  - VÉ (2x)
+  - Harckeret
+```
+
+```
+Intelligencia
+  - KP/Szint (1:1)
+```
+
+```
+Emlékezet
+  - Szekunder KP/Szint (1:1)
+```
+
+```
+Önuralom
+  - CÉ (2x)
+  - Fájdalomtűrés
+  - Mágikus ismeretek követelménye
+```
+
+```
+Érzékenység
+  - Összes érzék: Látás, Hallás, Szaglás
+                  Ízlelés, Tapintás, Intuíció
+  - Észlelés, Emberismeret képzettséghez
+  - Asztrálmágia, mágikus érzékelés,
+  - Szociális "detekciók"
+```
+
+
+---
 ### Erő
 
 ```
