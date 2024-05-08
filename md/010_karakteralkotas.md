@@ -149,7 +149,8 @@ A kinézetre és érzelmi „felépítésre" vonatkozó jellemzőket a játékos
 ### Erő
 
 ```
-1:1 beleszámít az SP (Sebzés Pont) értékbe +/- értékben egyaránt.
+Erőbónusz: 1:1 beleszámít az SP (Sebzés Pont) értékbe
+           +/- értékben egyaránt.
 ```
 
 A nyers, fizikai erődet mutatja. Gyakorlatilag, hogy „mennyire vagy erős".
