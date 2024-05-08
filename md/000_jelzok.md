@@ -35,7 +35,7 @@ A szabályrendszer dokumentumaiban speciális unicode karaktereket használunk j
 
 🔹 [OUT-OF-SYNC](https://github.com/kaktusztea/km100/wiki/OUT-OF-SYNC): a megjelölt rész inkonzisztens állapotban van más dokumentumok tartalmával.
 
-👀 [FIGYELT ELEM](https://github.com/kaktusztea/km100/wiki/FIGYELT-ELEMEK): a megjelölt részt figyelni kell egyensúly szempontból:
+👀 [FIGYELT ELEM](https://github.com/kaktusztea/km100/wiki/FIGYELT-ELEMEK): a megjelölt részt figyelni kell egyensúly szempontból.
 
 🚧 In progress
 
