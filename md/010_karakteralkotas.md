@@ -402,8 +402,8 @@ Kiváló mágiatudó, emberismerő válhat belőle. Kifinomult érzékekkel rend
 
 +5: Az ilyen emberek minden apró rezdülést érzékelnek, külső hangulatok
 iránt rendkívül fogékonyak. Remek emberismerő, vagy nagy művész válhat belőlük.
-Általában érzelemgazdag emberek, de van, akinél „mindössze" fantasztikus adottság, mélyebb
-érzelmek nélkül. Az ilyenekből lesznek a kiváló diplomaták, rettegett boszorkányok.
+Általában érzelemgazdag emberek, de van, akinél „mindössze" fantasztikus adottság,
+mélyebb érzelmek nélkül. Az ilyenekből lesznek a kiváló diplomaták, rettegett boszorkányok.
 Érzékei végtelenül kifinomultak.
 
 ```
