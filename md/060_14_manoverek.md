@@ -223,6 +223,10 @@ Ilyen ismeret lehet például a **Manőver – Gáncsolás** megtanulása, melyn
 
 Az alábbiakban bemutatjuk a km100 által ismert manővereket. A KM bármikor rögtönözhet új manővert, mindössze az alábbiakat kell megtennie: meghatározni a Manőver alap nehézségét, végbevitelének követelményeit, szükséges fázisait (MEV), hatását, valamint az esetleges speciális követelményeket (képzettségpróba, stb). Amennyiben az új manőver fejleszthető, akkor az egyes tanulható fokok követelményeit is rögzíteni kell.
 
+😑 Nem fejleszthető Manőverek\
+💪 Fejleszthető Manőverek\
+🤼‍♂️ Belharcos Manőverek
+
 
 <br />
 
@@ -317,7 +321,7 @@ Az alábbiakban Manőverfejlesztő Pontokból (`MFP`) fejleszthető Manőverek l
 Lásd: [Kibontakozás/Átsiklás](#%EF%B8%8Fkibontakozásátsiklás) manőver.
 
 ---
-#### 💪 Gáncsolás / Lábsöprés (lábbal)
+#### 💪🤼‍♂️ Gáncsolás / Lábsöprés (lábbal)
 - Nehézség: `8/5`
 - Fázisok: `E V`
 - Max fok: `1`
@@ -330,7 +334,7 @@ Lásd: [Kibontakozás/Átsiklás](#%EF%B8%8Fkibontakozásátsiklás) manőver.
 - Hatás: Sikeresen kikaszáltad ellenfeled lábát, aki a földre zuhan. Felállnia csak sikeres „**Felállás földről**” manőver alkalmazásával sikerülhet. A továbbiakban a **Harc földön fekve** módosítói vonatkoznak rá.
 
 ---
-#### 🗡️Kibontakozás/Átsiklás
+#### 💪Kibontakozás/Átsiklás
 
 - Nehézség: `5`
 - Fázisok: `E M`
@@ -362,7 +366,7 @@ Lásd: [Kibontakozás/Átsiklás](#%EF%B8%8Fkibontakozásátsiklás) manőver.
 
 
 ---
-#### 🗡️Lábkirántás (szálfegyverrel)
+#### 💪Lábkirántás (szálfegyverrel)
 
 - Nehézség: `6`
 - Fázisok: `E V`
@@ -376,7 +380,7 @@ Lásd: [Kibontakozás/Átsiklás](#%EF%B8%8Fkibontakozásátsiklás) manőver.
 - Hatás: Sikeresen kihúztad szálfegyvereddel ellenfeled lábát, aki a földre zuhan. Felállnia csak sikeres „**Felállás földről**” manőver alkalmazásával sikerülhet. A továbbiakban a **Harc földön fekve** módosítói vonatkoznak rá.
 
 ---
-#### 🗡️Lánccsapda  (láncos fegyverekre)
+#### 💪Lánccsapda  (láncos fegyverekre)
 
 - Nehézség: `9`
 - Fázisok: `E V`
@@ -395,7 +399,7 @@ Lásd: [Kibontakozás/Átsiklás](#%EF%B8%8Fkibontakozásátsiklás) manőver.
 
 
 ---
-#### 🗡️Lefegyverzés / Fegyvertörés - egy konkrét harcmodorra
+#### 💪Lefegyverzés / Fegyvertörés - egy konkrét harcmodorra
 
 Ha meg akarod fosztani ellenfeledet fegyverétől, vagy kiütve kezéből, vagy annak eltörésével, akkor lefegyverezés manővert kell alkalmaznod.
 
@@ -416,7 +420,7 @@ Ha meg akarod fosztani ellenfeledet fegyverétől, vagy kiütve kezéből, vagy 
 - Hatás: A lefegyverzés sikeres. Ellenfeled kezéből kihullik a fegyver, vagy eltörik.
 
 ---
-#### 🗡️Lefejelés
+#### 💪Lefejelés
 ⭕Belharcot előbb!⭕
 
 - Nehézség: `8/5`
@@ -432,7 +436,7 @@ Ha meg akarod fosztani ellenfeledet fegyverétől, vagy kiütve kezéből, vagy 
 - Hatás: Arcon fejelted áldozatodat.
 
 ---
-#### 🗡️Mesterjel
+#### 💪Mesterjel
 
 - Nehézség: `10+12`🍁
 - Fázisok: `E V`
@@ -445,7 +449,7 @@ Ha meg akarod fosztani ellenfeledet fegyverétől, vagy kiütve kezéből, vagy 
 
 
 ---
-#### 🗡️Pajzsrombolás
+#### 💪Pajzsrombolás
 
 Szándékosan rongálod ellenfeled pajzsát, csökkentve annak Védő Értékét.
 
@@ -458,7 +462,7 @@ Szándékosan rongálod ellenfeled pajzsát, csökkentve annak Védő Értékét
 - Hatás: Sebzést dobsz. Zúzó- és kétkezes fegyverek sebzése (SP) `1:1`-ben csökkenti ellenfeled pajzsának **Védő Értékét** (véglegesen).
 
 ---
-#### 🗡️Páncélszúrás
+#### 💪Páncélszúrás
 
 - Nehézség: `Lásd a leírást`
 - Fázisok: `E V`
@@ -477,7 +481,7 @@ Szándékosan rongálod ellenfeled pajzsát, csökkentve annak Védő Értékét
 
 
 ---
-#### 🗡️Távoltartás⭕
+#### 💪Távoltartás⭕
 
 Nem támadsz, hanem ⭕TODO⭕
 
@@ -490,7 +494,7 @@ Nem támadsz, hanem ⭕TODO⭕
 
 
 ---
-#### 🗡️Terelés
+#### 💪Terelés
 
 - Nehézség: `8`🍁
 - Fázisok: `E`
@@ -542,7 +546,7 @@ Nem támadsz, hanem ⭕TODO⭕
 	- Amíg feszítve van, addig nem tud fegyverrel támadni és `TÉ/VÉ:-25` (`KÉ`-t elveszíti automatikusan)
 
 ---
-#### 💪 Gáncsolás / Lábsöprés (lábbal)
+#### 🤼‍♂️💪 Gáncsolás / Lábsöprés (lábbal)
 
 [Lásd fenn](#%EF%B8%8Fg%C3%A1ncsol%C3%A1s--l%C3%A1bs%C3%B6pr%C3%A9s-l%C3%A1bbal).
 
