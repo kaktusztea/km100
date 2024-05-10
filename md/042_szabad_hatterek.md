@@ -5,13 +5,18 @@
 A Szabad Hátterek specializált, egy, vagy több képzettséget "kiterjesztő" ismeretek.
 #### Szabad Pontok
 ```
-Szabad Pontok: 6  +  (Szint x 2)
+Helyismeret Háttérre: 3 SzP
+Kultúrkör Háttérre:   3 SzP
+
+Szabad Pontok = Tapasztalati Szint
 ```
+
+A Helyismeret (3 fokú) és Kultúrkör (3 fokú) Szabad Hátterekre 1. Tapasztalati Szinten minden karakter kap 3-3 Szabad Pontot, amit tetszőlegesen költhet el.
 
 #### Felvétel
 Hozzájutni ilyen Hátterekhez kétféleképpen lehet:
 1. KM adja ingyen, olyan kalandban történt megpróbáltató esemény után, ami ezt indokolja. Például a kalandban megültél egy **Wyvernt**, ekkor megkapod a [Lénylovas - Wyvern](hatterek.szabad/lenylovas.md) Szabad Hátteret ingyen.
-2.  Szabad Pontokból (SzP) felveszel **Szabad Hátterek** fokait. Az egyes Szabad Hátterek maximum fokát lásd azok leírásában.
+2.  Szabad Pontokból (SzP) felveszel **Szabad Hátteret**.
 
 Ha egy képzettséghez számos Szabad Háttér kapcsolódik, akkor azok közül 1 választottat automatikusan megkap a karakter, amint a képzettséget `0.szintről` növelni kezdi.
 
@@ -20,17 +25,20 @@ Ha egy képzettséghez számos Szabad Háttér kapcsolódik, akkor azok közül 
 ---
 #### Tartalomjegyzék
 
+- [Helyismeret](hatterek.szabad/helyismeret.md) 🔁
+- [Kultúrkör](hatterek.szabad/kulturkor.md) 🔁
+
+valamint:
+
 - [Boncolás](hatterek.szabad/boncolas.md) 🔁
 - [Éneklés](hatterek.szabad/enekles.md)
 - [Fejlett ízlelés](hatterek.szabad/fejlett_izleles.md)
 - [Fejlett tapintas](hatterek.szabad/fejlett_tapintas.md)
 - [Festészet](hatterek.szabad/festeszet.md)
 - [Harci láz 3](hatterek.szabad/harci_laz_3.md)
-- [Helyismeret](hatterek.szabad/helyismeret.md) 🔁
 - [Irodalom](hatterek.szabad/irodalom.md)
 - [Jogismeret](hatterek.szabad/jogismeret.md)
 - [Kalligráfia](hatterek.szabad/kalligrafia.md)
-- [Kultúrkör](hatterek.szabad/kulturkor.md) 🔁
 - [Lénylovas](hatterek.szabad/lenylovas.md) 🔁
 - [Pénzügyek](hatterek.szabad/penzugyek.md)
 - [Színjátszás](hatterek.szabad/szinjatszas.md)
