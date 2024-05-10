@@ -339,6 +339,7 @@ Lásd: [Kibontakozás/Átsiklás](#%EF%B8%8Fkibontakozásátsiklás) manőver.
 - Nehézség: `5`
 - Fázisok: `E M`
 	- Ez speciális manőver, mert itt először dobjuk az Ellenpróbát, csak aztán a Megakasztás(oka)t.
+	- A **Megakasztás** kreatív figyelemeltereléssel kiváltható/megúszható, de a KM ne legyen vajszívű!
 - Max fok: `2`
 - **1.fok** követelménye: `Ügyesség: 0`
 - **2.fok** követelménye: `Ügyesség: +1`
@@ -356,14 +357,16 @@ Lásd: [Kibontakozás/Átsiklás](#%EF%B8%8Fkibontakozásátsiklás) manőver.
 	- Ugyanúgy dobandó, mint ha harcból akarnánk kibontakozni.
 	- Ha az ellenfélnek Belharc fortélya van, akkor fokonként `+2`-vel nő a nehézség Ellenpróbánál
 	- Ha az alkalmazónak Belharc fortélya van, akkor dobására fokonként `+2` pontot kap Ellenpróbánál
+	
 ```diff
-- Ha belharci szituációban a belharcos sebesülést szenved és elrontja fájdalomtűrés próbáját
-- (már nincs Fájdalomtűrés dobás sebesüléskor,... de itt esetleg dobhatunk...), akkor
-- ellenfele – ha akarja – automatikusan megszüntetheti a belharci szituációt,
-- kibontakozhat belőle.
-- Sérülést bevállalva mindenképpen kijönni hogy lehessen?
+-   TODO
+-   1. Ha belharci szituációban a belharcos sebesülést szenved és elrontja fájdalomtűrés próbáját
+-   (már nincs Fájdalomtűrés dobás sebesüléskor,... de itt esetleg dobhatunk...), akkor
+-   ellenfele – ha akarja – automatikusan megszüntetheti a belharci szituációt,
+-   kibontakozhat belőle.
+-
+-   2. Sérülést bevállalva mindenképpen kijönni hogy lehessen?
 ```
-
 
 ---
 #### 💪Lábkirántás (szálfegyverrel)
