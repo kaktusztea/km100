@@ -1,24 +1,19 @@
-#### 🔵 Művész
+#### Befolyásolás
 
 **Próba:** dobható
 
-**Domináns Tulajdonságok**: Érzékenység, Emlékezet
+**Domináns Tulajdonságok**: Érzékenység, Intelligencia
 
 **Kapcsolódó fortélyok**: ⭕xyz
 
-**Bónusz Háttér**: ⭕xyz
+**Bónusz Hátterek**: ⭕xyz
 
-**Szabad Háttérek**:
-- [Éneklés](../hatterek.szabad/enekles.md)
-- [Festészet](../hatterek.szabad/festeszet.md)
-- [Irodalom](../hatterek.szabad/irodalom.md)
-- [Kalligráfia](../hatterek.szabad/kalligrafia.md)
-- [Kultúrkör](../hatterek.szabad/kulturkor.md)
-- [Szobrászat](../hatterek.szabad/szobraszat.md)
-- [Színjátszás](../hatterek.szabad/szinjatszas.md)
-- [Tánc: speciális/belső stílus](../hatterek.szabad/tanc_belso_stilus.md)
+**Szabad Hátterek**
+- ⭕xyz
+- zxy
 
-**Leírás**: Aktív, alkotó művész vagy. A fenti listából a képzettség felvételekor `1 db` választott Szabad-Hátteret ingyen megkapsz.
+**Leírás**: xyz
+
 
 <br />
 
@@ -50,6 +45,3 @@
 ##### Célszámot módosító körülmények
 
 - ⭕xyz
-
-
-

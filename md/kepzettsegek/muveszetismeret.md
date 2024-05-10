@@ -4,35 +4,35 @@
 
 **Domináns Tulajdonságok**: Emlékezet, Intelligencia, Érzékenység
 
-**Kapcsolódó fortélyok**: [Irodalmár](../fortelyok.altalanos/irodalmar.md)
+**Kapcsolódó fortélyok**: -
 
 **Bónusz Háttér**: -
 
 **Szabad Háttérek**:
 - [Kultúrkör](../hatterek.szabad/kulturkor.md) 
+- [Éneklés](../hatterek.szabad/enekles.md)
 - [Festészet](../hatterek.szabad/festeszet.md)
 - [Irodalom](../hatterek.szabad/irodalom.md)
 - [Kalligráfia](../hatterek.szabad/kalligrafia.md)
-- [Kultúrkör](../hatterek.szabad/kulturkor.md)
 - [Szobrászat](../hatterek.szabad/szobraszat.md)
 - [Színjátszás](../hatterek.szabad/szinjatszas.md)
+- [Tánc](../hatterek.szabad/tanc.md)
 - [Tánc: speciális/belső stílus](../hatterek.szabad/tanc_belso_stilus.md)
+- [Zenélés: fúvós hangszerek](../hatterek.szabad/zeneles_fuvos_hangszerek.md)
+- [Zenélés: húros hangszerek](../hatterek.szabad/zeneles_huros_hangszerek.md)
+- [Zenélés: ütős hangszerek](../hatterek.szabad/zeneles_utos_hangszerek.md)
+- [Zsonglőrködés](../hatterek.szabad/zsonglorkodes.md)
 
-**Leírás**: Jelenkori világunktól eltérően inkább művészeti tudást, valamint vallásismeretet fed le. Alapból tartalmazza a karakter által ismert **Kultúrkörök** alá tartozó...
-- táncok ismeretét (kivéve a titkos/belső táncstílusokat)
-- énekek ismeretét
-- zenék ismeretét
-- bábszínház előadások ismeretét
-- árnyjátékok ismeretét
+**Leírás**: Alapból tartalmazza a karakter által ismert **Kultúrkörök** alá tartozó művészeti ágakat, amelyekre felvette a kapcsolódó Szabad Hátteret. A képzettség felvételekor, `3.szint` elérésekor megkapsz művészetek listájából `1 db`-ot. 
 
-A tudás szélesíthető a fent található Szabad Hátterekkel.
+A tudás szélesíthető a fent található Szabad Hatterek felvételével Szabad Pontokból.
 
 **Követelmény**:
   - [Kultúrkör](../hatterek.szabad/kulturkor.md) (adott kultúra) - `2.fok`. Enélkül `+3` nehezítés a képzettségpróbákra fokonként.
   - [Nyelvismeret](../hatterek.szabad/nyelvismeret.md): Udvari fok
 
 **Erős Összhagok:**
-- [Művész](muvesz.md)
+- [Előadóművészet](eloadomuveszet.md)
 - [Történelemismeret](tortenelemismeret.md)
 
 <br />

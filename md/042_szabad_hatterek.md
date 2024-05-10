@@ -27,6 +27,7 @@ Ha egy képzettséghez számos Szabad Háttér kapcsolódik, akkor azok közül 
 
 - [Helyismeret](hatterek.szabad/helyismeret.md) 🔁
 - [Kultúrkör](hatterek.szabad/kulturkor.md) 🔁
+- [Nyelvismeret](hatterek.szabad/nyelvismeret.md)
 
 valamint:
 
@@ -43,8 +44,12 @@ valamint:
 - [Pénzügyek](hatterek.szabad/penzugyek.md)
 - [Színjátszás](hatterek.szabad/szinjatszas.md)
 - [Szobrászat](hatterek.szabad/szobraszat.md)
-- [Nyelvismeret](hatterek.szabad/nyelvismeret.md)
+- [Tájtípus: dzsungel](hatterek.szabad/tajtipus_dzsungel.md)
+- [Tájtípus: erdős](hatterek.szabad/tajtipus_erdos.md)
+- [Tájtípus: magaslati](hatterek.szabad/tajtipus_magaslati.md)
+- [Tájtípus: sivatagi](hatterek.szabad/tajtipus_sivatagi.md)
 - [Tánc: speciális/belső stílus](hatterek.szabad/tanc_belso_stilus.md) 🔁
+- [Teaszertartás](hatterek.szabad/teaszertartas.md)
 - [Titkos szervezeti kultúra](hatterek.szabad/titkos_szervezeti_kultura.md) 🔁
 - [Zenélés: fúvós hangszerek](hatterek.szabad/zeneles_fuvos_hangszerek.md)
 - [Zenélés: húros hangszerek](hatterek.szabad/zeneles_huros_hangszerek.md)

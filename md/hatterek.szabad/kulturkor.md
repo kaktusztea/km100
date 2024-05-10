@@ -3,7 +3,7 @@
 ```
 - többször felvehető
 - 3 fokú
-- 1.Tsz során kapott 6 SzP-ből költhető az otthon(ok) kultúrköre(ire) szabadon
+- 1.Tsz során kapott 3 SzP-ből költhető az otthon(ok) kultúrköre(ire)
 - Kaland végén kaphatóak újabb pontok ingyen, a KM-től
 
 ⚡ Példa: "Kultúrkör: Toron (2), "Kultúrkör: Pyarron (1)"
@@ -14,13 +14,20 @@ Kapcsolódó Képzettség-próba:
 ```
 
 ##### Kiterjeszti
+- [Előadóművészet](../kepzettsegek/eloadomuveszet.md)
 - [Etikett](../kepzettsegek/etikett.md)
-- [Hamisítás](../kepzettsegek/hamisitas.md)
+- [Képzőművészet](../kepzettsegek/kepzomuveszet.md)
 - [Művészetismeret](../kepzettsegek/muveszetismeret.md)
-- [Művész](../kepzettsegek/muvesz.md)
-- [Tánc](../kepzettsegek/tanc.md)
 - [Történelemismeret](../kepzettsegek/tortenelemismeret.md)
-- [Zenélés](../kepzettsegek/zeneles.md)
+
+##### Kapcsolódó Szabad Háttér
+- [Hamisítás](../fortelyok.altalanos/hamisitas.md) fortély
+- [Nyelvismeret](nyelvismeret.md) Szabad Háttér
+- [Tánc](tanc.md) Szabad Háttér
+- [Tánc: belső stílus](tanc_belso_stilus.md)
+
+##### Kapcsolódó fortély
+- [Taktika: Testőrség](../fortelyok.harci/taktika_testorseg.md) fortély
 
 ##### Követelmény
 - Lásd a fokok leírását!

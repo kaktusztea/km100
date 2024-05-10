@@ -1,3 +1,0 @@
-#### 🔵 Szexuális kultúra
-
-xyz
