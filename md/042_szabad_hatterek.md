@@ -29,7 +29,7 @@ Ha egy képzettséghez számos Szabad Háttér kapcsolódik, akkor azok közül 
 - [Helyismeret](hatterek.szabad/helyismeret.md) 🔁
 - [Irodalom](hatterek.szabad/irodalom.md)
 - [Jogismeret](hatterek.szabad/jogismeret.md)
-- [Kalligrafia](hatterek.szabad/kalligrafia.md)
+- [Kalligráfia](hatterek.szabad/kalligrafia.md)
 - [Kultúrkör](hatterek.szabad/kulturkor.md) 🔁
 - [Lénylovas](hatterek.szabad/lenylovas.md) 🔁
 - [Pénzügyek](hatterek.szabad/penzugyek.md)
