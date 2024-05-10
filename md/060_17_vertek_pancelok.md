@@ -68,15 +68,15 @@ Az SFÉ értékét a páncél fizikai felépítése, anyaga adja. Az egyes pánc
 
 Az egyes **fém-páncél** példányok struktúrális Anyagminősége erősen eltérhet (függ az alapanyag (ötvözet) összetételétől és a készítő mestertől anyagmegmunkálási ismereteitől is). Lenn a `+/-` oszlopnál jelezzük ennek az SFÉ "mozgástérnek" a kereteit. A jobb anyagminőség viszont nagyon megdobhatja a vért árát - lásd "Ár" oszlop.
 
-| **Struktúra** | **Szúró SFÉ** | **Vágó SFÉ** | **Zúzó SFÉ** | Energia SFÉ | +/- | **Ár** |
-| ------------- | :-----------: | :----------: | :----------: | :---------: | :-: | :----: |
-| Posztó/Bunda  |      `1`      |     `2`      |     `2`      |     `4`     | `0` | `0.1x` |
-| Fegyverkabát  |      `3`      |     `3`      |     `2`      |     `5`     | `0` |  `1x`  |
-| Bőr           |      `6`      |     `8`      |     `5`      |    `10`     | `2` |  `1x`  |
-| Brigantin     |     `10`      |     `12`     |     `7`      |    `14`     | `2` |  `3x`  |
-| Lánc/Sodrony  |      `8`      |     `13`     |     `5`      |    `15`     | `3` | `10x`  |
-| Pikkelypáncél |     `12`      |     `13`     |     `6`      |    `15`     | `3` | `50x`  |
-| Lemezpáncél   |     `15`      |     `18`     |     `10`     |    `20`     | `4` | `100x` |
+| **Struktúra**       | **Szúró SFÉ** | **Vágó SFÉ** | **Zúzó SFÉ** | Energia SFÉ | +/- | **Ár** |
+| ------------------- | :-----------: | :----------: | :----------: | :---------: | :-: | :----: |
+| Posztó/Bunda        |      `1`      |     `2`      |     `2`      |     `4`     | `0` | `0.1x` |
+| Fegyverkabát        |      `3`      |     `3`      |     `2`      |     `5`     | `0` |  `1x`  |
+| Bőrpáncél           |      `6`      |     `8`      |     `5`      |    `10`     | `2` |  `1x`  |
+| Brigantin bőrpáncél |     `10`      |     `12`     |     `7`      |    `14`     | `2` |  `3x`  |
+| Lánc/Sodrony        |      `8`      |     `13`     |     `5`      |    `15`     | `3` | `10x`  |
+| Pikkely fémpáncél   |     `12`      |     `13`     |     `6`      |    `15`     | `3` | `50x`  |
+| Lemezpáncél         |     `15`      |     `18`     |     `10`     |    `20`     | `4` | `100x` |
 
 ⭕TODO: fenti értékek hangolása
 
