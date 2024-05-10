@@ -1,3 +1,0 @@
-#### 🔵 Zsonglőrködés
-
-xyz

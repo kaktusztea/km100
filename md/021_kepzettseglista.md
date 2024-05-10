@@ -89,7 +89,7 @@
 
 🔵[Szakma](kepzettsegek/szakma.md) <sup><sub>(20%)</sub></sup> 🔁
 
-🔵[Szexuális kultúra](kepzettsegek/szexualis_kultura.md) <sup><sub>(0%)</sub></sup>
+🔵[Szexuális kultúra](kepzettsegek/befolyasolas.md) <sup><sub>(0%)</sub></sup>
 
 🔵[Természetjárás](kepzettsegek/termeszetjaras.md) <sup><sub>(30%)</sub></sup>
 
@@ -102,8 +102,6 @@
 
 🔵[Csapdaállítás](kepzettsegek/csapdaallitas.md) <sup><sub>(0%)</sub></sup>
 
-🔵[Hamisítás](kepzettsegek/hamisitas.md) <sup><sub>(5%)</sub></sup>
-
 🔵[Lopakodás/Rejtőzés](kepzettsegek/lopakodas_rejtozes.md) 🅿️ <sup><sub>(15%)</sub></sup>
 
 🔵[Lopás](kepzettsegek/lopas.md) <sup><sub>(10%)</sub></sup>
@@ -114,20 +112,18 @@
 
 🔵[Zárnyitás](kepzettsegek/zarnyitas.md) <sup><sub>(0%)</sub></sup>
 
-🔵[Zsonglőrködés](kepzettsegek/zsonglorkodes.md) <sup><sub>(0%)</sub></sup>
 
 ---
 ## Művészeti képzettségek
 
 Két kiemelt művészet kapott saját képzettséget: **Tánc** és **Zenélés**. A többi művészet aktívan művelt része a **Művész**, a passzív ismereteket lefedő a **Művészetismeret** képzettség alatt kerül megvalósításra [Szabad Hátterek](042_szabad_hatterek.md) alkalmazásával.
 
-🔵[Művész](kepzettsegek/muvesz.md)
+🔵[Előadóművészet](kepzettsegek/eloadomuveszet.md)
+
+🔵[Képzőművészet](kepzettsegek/kepzomuveszet.md)
 
 🔵[Művészetismeret](kepzettsegek/muveszetismeret.md)
 
-🔵[Tánc](kepzettsegek/tanc.md)
-
-🔵[Zenélés](kepzettsegek/zeneles.md)
 
 ---
 ## Tudományos képzettségek

@@ -1,7 +1,13 @@
 #### 🟣 Színjátszás
 
+Képes vagy színpadi műveket előadni, előadásban részt venni. Ismered a színházi világot. Bábszínház előadások ismerete, árnyjátékok ismerete is ide tartozik.
+
+**Nem használható hazudozásra**, mások becsapására. Arra lásd a [Befolyásolás](../kepzettsegek/befolyasolas.md) képzettséget.
+
 ##### Kiterjeszti
-- [Művész](../kepzettsegek/muvesz.md)
+- [Előadóművészet](../kepzettsegek/eloadomuveszet.md) képzettség
+- [Művészetismeret](../kepzettsegek/muveszetismeret.md) képzettség
+
 
 ##### Követelmény
 - ⭕xyz

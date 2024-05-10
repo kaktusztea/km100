@@ -1,7 +1,8 @@
 #### 🟣 Éneklés
 
 ##### Kiterjeszti
-- [Művész](../kepzettsegek/muvesz.md)
+- [Előadóművészet](../kepzettsegek/eloadomuveszet.md)
+- [Művészetismeret](../kepzettsegek/muveszetismeret.md) képzettség
 
 ##### Követelmény
 - ⭕xyz

@@ -10,7 +10,7 @@
 
 **Szabad Hátterek** (tájtípusokra)
 - [Tájtípus - dzsungel](../hatterek.szabad/tajtipus_dzsungel.md)
-- [Tájtípus - sivatag](../hatterek.szabad/tajtipus_sivatag.md)
+- [Tájtípus - sivatagi](../hatterek.szabad/tajtipus_sivatagi.md)
 - [Tájtípus - magaslati](../hatterek.szabad/tajtipus_magaslati.md)
 - [Tájtípus - erdős](../hatterek.szabad/tajtipus_erdos.md)
 
