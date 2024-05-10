@@ -336,7 +336,7 @@ Lásd: [Kibontakozás/Átsiklás](#%EF%B8%8Fkibontakozásátsiklás) manőver.
 ---
 #### 💪Kibontakozás/Átsiklás
 
-- Nehézség: `5`
+- Nehézség: `5` ± `2`  (`1` penge különbségenként)
 - Fázisok: `E M`
 	- Ez speciális manőver, mert itt először dobjuk az Ellenpróbát, csak aztán a Megakasztás(oka)t.
 	- A **Megakasztás** kreatív figyelemeltereléssel kiváltható/megúszható, de a KM ne legyen vajszívű!
@@ -345,7 +345,7 @@ Lásd: [Kibontakozás/Átsiklás](#%EF%B8%8Fkibontakozásátsiklás) manőver.
 - **2.fok** követelménye: `Ügyesség: +1`
 - Végbevitel követelménye: -
 - Speciális:
-	- A harcolók fegyver-méret különbsége számít! KM dönt, hogy mennyivel nő/csökken a célszám.
+	- A harcolók fegyver-méret különbsége számít! Penge különbségenként `2`-vel csökken/nő a **Nehézség**.
 	- Ha Ellenpróbánál a dobás `2`-vel meghaladja a célszámot, akkor egy ellenfél nem jogosult **Megakasztásra**. Ez további `+2`-enként további egy ellenfélre igaz.
 	- Kibontakozásnál nem folytatható Védekező harc, de **Védő taktika** igen.
 - Hatás: Sikerül a harcból kibontakoznod, ellenfele(i)d már nem támadhat(nak) rád. Most jön a futás... Ha üldöznek, akkor támadóddal **Gyorsaság** ellenpróbát kell dobnotok, amelyet, ha te nyertél, akkor kereket oldottál, ha viszont az üldöződ nyerte, akkor utolért és leadhat rád egy támadást hátulról (`+10 TÉ`), amely ellen puszta kezes harcértékeiddel védekezhetsz.
