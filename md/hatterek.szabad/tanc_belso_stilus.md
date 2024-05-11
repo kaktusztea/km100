@@ -11,6 +11,7 @@ Többször felvehető. Ez általában egyedi, titkos, vagy nagyon speciális tá
 - [Etikett](../kepzettsegek/etikett.md) -`9.szint` (képzettség)
 - [Előadóművészet](../kepzettsegek/eloadomuveszet.md) - `9.szint` (képzettség)
 - [Kultúrkör](kulturkor.md) - `3.fok` (kapcsolódó Szabad Háttér)
+- [Tánc](tanc.md)  (kapcsolódó Szabad Háttér)
 
 <br />
 

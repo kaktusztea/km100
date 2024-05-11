@@ -10,20 +10,23 @@
 
 **Szabad Háttérek**:
 - [Kultúrkör](../hatterek.szabad/kulturkor.md) 
+
+valamint:
 - [Éneklés](../hatterek.szabad/enekles.md)
 - [Festészet](../hatterek.szabad/festeszet.md)
 - [Irodalom](../hatterek.szabad/irodalom.md)
 - [Kalligráfia](../hatterek.szabad/kalligrafia.md)
-- [Szobrászat](../hatterek.szabad/szobraszat.md)
 - [Színjátszás](../hatterek.szabad/szinjatszas.md)
+- [Szobrászat](../hatterek.szabad/szobraszat.md)
 - [Tánc](../hatterek.szabad/tanc.md)
 - [Tánc: speciális/belső stílus](../hatterek.szabad/tanc_belso_stilus.md)
+- [Teaszertartás](../hatterek.szabad/teaszertartas.md)
 - [Zenélés: fúvós hangszerek](../hatterek.szabad/zeneles_fuvos_hangszerek.md)
 - [Zenélés: húros hangszerek](../hatterek.szabad/zeneles_huros_hangszerek.md)
 - [Zenélés: ütős hangszerek](../hatterek.szabad/zeneles_utos_hangszerek.md)
 - [Zsonglőrködés](../hatterek.szabad/zsonglorkodes.md)
 
-**Leírás**: Alapból tartalmazza a karakter által ismert **Kultúrkörök** alá tartozó művészeti ágakat, amelyekre felvette a kapcsolódó Szabad Hátteret. A képzettség felvételekor, `3.szint` elérésekor megkapsz művészetek listájából `1 db`-ot. 
+**Leírás**: Alapból tartalmazza a karakter által ismert **Kultúrkörök** alá tartozó művészeti ágakat, amelyekre felvette a kapcsolódó **Szabad Hátteret**. A képzettség felvételekor, `3.szint` elérésekor megkapsz művészetek listájából `1 db`-ot ingyen.
 
 A tudás szélesíthető a fent található Szabad Hatterek felvételével Szabad Pontokból.
 
