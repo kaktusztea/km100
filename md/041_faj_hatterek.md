@@ -147,7 +147,7 @@ Ajánlott fortélyok:
 - [Zártörő](fortelyok.altalanos/zartoro.md)
 
 Ajánlott képzettségek:
-- [Mechanika](kepzettsegek/mechanika.md)
+- [Mechanika](fortelyok.altalanos/mechanika.md)
 - [Térképészet](kepzettsegek/terkepeszet.md)
 
 <br />

@@ -134,8 +134,6 @@ Két kiemelt művészet kapott saját képzettséget: **Tánc** és **Zenélés*
 
 🔵[Hadvezetés](kepzettsegek/hadvezetes.md) <sup><sub>(0%)</sub></sup> 
 
-🔴[Mechanika](kepzettsegek/mechanika.md) <sup><sub>(5%)</sub></sup>
-
 🔴[Méregkeverés](kepzettsegek/meregkeveres.md) <sup><sub>(90%)</sub></sup>
 
 🔵[Térképészet](kepzettsegek/terkepeszet.md) <sup><sub>(0%)</sub></sup>
@@ -144,8 +142,6 @@ Két kiemelt művészet kapott saját képzettséget: **Tánc** és **Zenélés*
 
 ---
 ## Misztikus képzettségek 🅿️
-
-🔴[Asztrológia](kepzettsegek/asztrologia.md)
 
 🔴[Aurafejlesztés](kepzettsegek/aurafejlesztes.md)
 

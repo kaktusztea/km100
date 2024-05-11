@@ -4,7 +4,7 @@ Képes vagy ütős hangszereket megszólaltatni. Amely **Kultúrköröket** isme
 
 ##### Kiterjeszti
 - [Előadóművészet](../kepzettsegek/eloadomuveszet.md)
-- [Művészetismeret](../kepzettsegek/muveszetismeret.md) képzettség
+- [Művészetismeret](../kepzettsegek/muveszetismeret.md)
 
 ##### Követelmény
 - [Előadóművészet](../kepzettsegek/eloadomuveszet.md) - `3.szint`
