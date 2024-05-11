@@ -21,48 +21,50 @@ Amennyiben a nem rendelkezel a kívánt Nyelvismerettel, akkor - ha van kapcsol�
     - pyarroni / közös nyelv / új-godoni (pya)
     - syburri (syb)
     - shadoni/gorviki (sha/gor)
-2. aszisz (asz)
-3. emrelin (emr)
-4. erv (erv)
-5. dwoon (dwn)
-6. sinemosi (sin)
-7. tiadlani (tia)
-8. dolamin (dol)
-9. enoszukei (eno)
-10. ilanori (ila)
-11. lupár (lup)
-12. dakh (dak)
-13. kráni birodalmi khors (kho) (kra)
-14. niarei (nia)
-15. yanna'an (yan)
-16.  Crantai nyelvek
+
+2. Általános nyelvek
+    - aszisz (asz)
+    - emrelin (emr)
+    - erv (erv)
+    - dwoon (dwn)
+    - dzsadal (a félelem és a fenyegetés rituális nyelve)
+    - dzsad/dzsenn (dzs/dzse): a dzsenn a dzsad **udvari** foka.
+    - dzsad - fayumi dialektus (fay)
+    - dzsad - Gredh' il adf Ladzs (gre) (a fém titkos nyelve)
+    - sinemosi (sin)
+    - tiadlani (tia)
+    - dolamin (dol)
+    - enoszukei (eno)
+    - ilanori (ila)
+    - lupár (lup)
+    - dakh (dak)
+    - kráni birodalmi khors (kho) (kra)
+    - niarei (nia)
+    - yanna'an (yan)
+3.  Crantai nyelvek
     - eme-chran (cra) (a Nagy-Crantai Birodalom nyelve)
     - anagmar nyelv (ang) (a Tajtéktrónus Birodalom nyelve)
 
 ##### Faj nyelvek
 
-1. Amund (amu)
-2. Aquir nyelvek (aqu)
-3. Csaska
-4. Dzsadal (a félelem és a fenyegetés rituális nyelve)
-6. Dzsad/dzsenn (dzs/dzse): a dzsenn a dzsad **udvari** foka.
-7. Dzsad - fayumi dialektus (fay)
-8. Dzsad - Gredh' il adf Ladzs (gre) (a fém titkos nyelve)
-9. Elf (elf)
-10. Gnóm nyelvek (gno)
-11. Ork (ork)
-12. Törpe nyelvek
-    - Híl / hílar (híl) (Tarín lakóinak szakrális nyelve)
-    - Vanír  (van) (Tarín lakóinak bórogi eredetű nyelve)
-13. Snil (sni) (gyíklények nyelve)
+- Amund (amu)
+- Aquir nyelvek (aqu)
+- Csaska
+- Elf (elf)
+- Gnóm nyelvek (gno)
+- Ork (ork)
+- Törpe nyelvek
+  - Híl / hílar (híl) (Tarín lakóinak szakrális nyelve)
+  - Vanír  (van) (Tarín lakóinak bórogi eredetű nyelve)
+- Snil (sni) (gyíklények nyelve)
 
 ##### Kyr nyelvek
 
-1. ókyr (kyr)
-2. godorai (gdr)
-3. ryeki  (rye)
-4. toroni (tor)
-5. köztoroni (tor)
+- ókyr (kyr)
+- godorai (gdr)
+- ryeki  (rye)
+- toroni (tor)
+- köztoroni (tor)
 
 
 
