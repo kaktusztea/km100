@@ -10,9 +10,9 @@ Jól tudsz másolni műkincseket, műtárgyakat.
 - [Szobrászat](../hatterek.szabad/szobraszat.md)
 
 **Kapcsolódó képzettség**
-- [Előadóművészet](eloadomuveszet.md)
-- [Építészet](epiteszet.md)
-- [Szakma](szakma.md) (asztalos, cipész, szabó, ékszerész, stb. )
+- [Előadóművészet](../kepzettsegek/eloadomuveszet.md)
+- [Építészet](../kepzettsegek/epiteszet.md)
+- [Szakma](../kepzettsegek/szakma.md) (asztalos, cipész, szabó, ékszerész, stb. )
 
 **Leírás**: Képes vagy egyes művészeti ágakban és szakmákban az eredetire megtévesztésig hasonló másolatot készíteni, vagy az adott stílusban újat készíteni.
 
