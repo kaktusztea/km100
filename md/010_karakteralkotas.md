@@ -199,7 +199,7 @@ Emlékezet
   - Összes érzék: Látás, Hallás, Szaglás
                   Ízlelés, Tapintás, Intuíció
   - Észlelés, Emberismeret képzettséghez
-  - Asztrálmágia, mágikus érzékelés,
+  - Asztrálmágia, mágikus érzékelés
   - Szociális "detekciók"
 ```
 
