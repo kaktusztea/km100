@@ -1,10 +1,10 @@
 #### 🟣 Titkos szervezeti kultúra 🔁
 
 ##### Kiterjeszti
-- Etikett
+- [Etikett](../kepzettsegek/etikett.md)
 
 ##### Követelmény
-- ⭕KELL?⭕ Kultúrkör: (adott kultúrkör) (3)
+- ⭕KELL?⭕ [Kultúrkör](kulturkor.md): (adott kultúrkör) (3)
 
 
 <br />
