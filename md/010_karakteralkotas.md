@@ -140,7 +140,7 @@ A későbbiekben ezek a számok fogják alapját adni más, összetettebb jellem
 
 ---
 
-A Tulajdonságok értéke alapesetben `-5` és `+5` között mozoghat. A `-5` értelemszerűen a leggyengébb, súlyosan fogyatékos karakterek sajátja, míg a `+5`-ös értékkel bírók a legendák héroszai, irigyelt, rosszabb esetben gyűlölt nagyságok. A fenti határokon a [faji módosítók](041_faj_hatterek.md), illetve esetleges mágikus hatások változtathatnak, de ökölszabály, hogy **elszabásúak** egyik tulajdonsága sem nőhet `+7` fölé semmilyen körülmények között.
+A Tulajdonságok értéke alapesetben `-5` és `+5` között mozoghat. A `-5` értelemszerűen a leggyengébb, súlyosan fogyatékos karakterek sajátja, míg a `+5`-ös értékkel bírók a legendák héroszai, irigyelt, rosszabb esetben gyűlölt nagyságok. A fenti határokon a [faji módosítók](041_faj_hatterek.md), illetve esetleges mágikus hatások változtathatnak, de ökölszabály, hogy **elfszabásúak** egyik tulajdonsága sem nőhet `+7` fölé semmilyen körülmények között.
 
 A kinézetre és érzelmi „felépítésre" vonatkozó jellemzőket a játékosra bízzuk, dolgozza ki ő karakteralkotáskor, a KM-el egyeztetve. Hisszük, hogy nem kell mindent számszerűsíteni. Ezek részben szabadon  meghatározható jellemzők, részben a játékos beleélőképességén múlnak, azaz milyen hatással vannak más karakterekre.
 
