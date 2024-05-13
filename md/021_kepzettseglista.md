@@ -140,6 +140,8 @@ Az aktív előadást igénylő művészeteket szeparáltuk az **Előadóművész
 
 🔴[Történelemismeret](kepzettsegek/tortenelemismeret.md) <sup><sub>(40%)</sub></sup> 
 
+🔴[Tudományok](kepzettsegek/tudomanyok.md) <sup><sub>(10%)</sub></sup>
+
 ---
 ## Misztikus képzettségek 🅿️
 
