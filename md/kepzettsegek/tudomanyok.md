@@ -10,9 +10,10 @@
 
 **Szabad Hátterek**
 - [Asztrológia](../hatterek.szabad/asztrologia.md)
-- [Jogismeret](../hatterek.szabad/jogismeret.md)
-- [Pénzügyek](../hatterek.szabad/penzugyek.md)
 - Építészet SzH  ⭕  (Nyomozást is kiterjeszti)   - VAGY legyen Fortély
+- [Jogismeret](../hatterek.szabad/jogismeret.md)
+- [Mechanika](../fortelyok.altalanos/mechanika.md)
+- [Pénzügyek](../hatterek.szabad/penzugyek.md)
 - [Térképészet](../hatterek.szabad/terkepeszet.md)
 
 **Leírás**: xyz

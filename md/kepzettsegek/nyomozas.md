@@ -13,6 +13,7 @@ Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-
 **Bónusz Hátterek**: ⭕TODO
 
 **Szabad Hátterek**:
+- Építészet SzH  ⭕  (Nyomozást is kiterjeszti)   - VAGY legyen Fortély
 - [Pénzügyek](../hatterek.szabad/penzugyek.md)
 - [Jogismeret](../hatterek.szabad/jogismeret.md)
 - ⭕TODO

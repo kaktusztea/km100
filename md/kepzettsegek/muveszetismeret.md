@@ -13,6 +13,7 @@
 
 valamint:
 - [Éneklés](../hatterek.szabad/enekles.md)
+- Építészet SzH  ⭕  (Nyomozást is kiterjeszti)   - VAGY legyen Fortély
 - [Festészet](../hatterek.szabad/festeszet.md)
 - [Irodalom](../hatterek.szabad/irodalom.md)
 - [Kalligráfia](../hatterek.szabad/kalligrafia.md)
