@@ -9,10 +9,11 @@
 **Bónusz Hátterek**: ⭕xyz
 
 **Szabad Hátterek**
+- [Asztrológia](../hatterek.szabad/asztrologia.md)
 - [Jogismeret](../hatterek.szabad/jogismeret.md)
 - [Pénzügyek](../hatterek.szabad/penzugyek.md)
-- [Asztrológia](../hatterek.szabad/asztrologia.md)
 - Építészet SzH  ⭕  (Nyomozást is kiterjeszti)   - VAGY legyen Fortély
+- [Térképészet](../hatterek.szabad/terkepeszet.md)
 
 **Leírás**: xyz
 

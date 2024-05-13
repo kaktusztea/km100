@@ -144,11 +144,13 @@ Felvehető Érzék-Fortélyok maximuma:
 - [Barlangi tájékozódás](fortelyok.erzekek/barlangi_tajekozodas.md) - 1. fok
 
 Ajánlott fortélyok:
+- ⭕TODO Építészet
+- [Mechanika](fortelyok.altalanos/mechanika.md)
 - [Zártörő](fortelyok.altalanos/zartoro.md)
 
 Ajánlott képzettségek:
-- [Mechanika](fortelyok.altalanos/mechanika.md)
-- [Térképészet](kepzettsegek/terkepeszet.md)
+- [Tudományok](kepzettsegek/tudomanyok.md)
+    - [Térképészet](hatterek.szabad/terkepeszet.md) SzH
 
 <br />
 
