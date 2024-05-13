@@ -43,6 +43,8 @@ Intelligencia + Emberismeret
 Érzékenység + Emberismeret
 ```
 
+**Intelligencia** Tulajdonság használata helyett a "szerepjátékosabb" megoldás, hogy a játékos élőszóban előadja, hogy próbálja meggyőzni, befolyásolni karaktere a másikat. Az előadás minőségétől függően a KM ad egy "pszeudo-Tulajdonság" értéket `[-5;+5]` tartományban és  a játékos ezt adja hozzá a **Befolyásolás** képzettségéhez.
+
 ##### Próbák
 
 | Célszám | Példa  |
