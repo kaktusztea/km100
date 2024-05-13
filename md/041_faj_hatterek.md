@@ -66,11 +66,11 @@ Felvehető Érzék-Fortélyok maximuma:
 
 Ajánlott fortélyok:
 - Pszí alkalmazás
-- [Szónoklás](fortelyok.altalanos/szonoklas.md)
 - [Hidegvér](fortelyok.altalanos/hidegver.md)
 - [Tiszta fej](fortelyok.altalanos/tiszta_fej.md)
 
 Ajánlott képzettségek:
+- [Befolyásolás](kepzettsegek/befolyasolas.md)
 - "Dzsenn pszí" pszi-iskola
 - [Ősi nyelv ismerete](kepzettsegek/osi_nyelv_ismerete.md) - dzsenn
 
@@ -166,7 +166,7 @@ Felvehető Érzék-Fortélyok maximuma:
 - [Fejlett szaglás](fortelyok.erzekek/fejlett_szaglas.md) - 1. fok
 
 Ajánlott fortélyok:
-- [Hazudozás](fortelyok.altalanos/hazudozas.md)
+- [Hazudozás](hatterek.szabad/hazudozas.md)
 - [Suhanó árnyék](fortelyok.altalanos/suhano_arnyek.md)
 - [Szabotőr](fortelyok.altalanos/szabotor.md)
 

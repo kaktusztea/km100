@@ -1,6 +1,6 @@
 #### 🟣 Asztrológia
 
-##### Kiterjeszti
+##### Kiterjeszti ezeket:
 - [Tudományok](../kepzettsegek/tudomanyok.md)
 
 ##### Követelmény

@@ -10,7 +10,12 @@ Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-
 
 **Domináns Tulajdonságok**: Érzékenység, Intelligencia
 
-**Kapcsolódó fortélyok**: Szónoklás, Meggyőzés, Hazudozás, Megfélemlítés
+**Kapcsolódó fortélyok**: -
+
+**Kiterjeszti**:
+- [Szónoklás](../hatterek.szabad/szonoklas.md)
+- [Hazudozás](../hatterek.szabad/hazudozas.md)
+- [Megfélemlítés](../hatterek.szabad/megfelemlites.md)
 
 **Leírás**: Más emberek viselkedésének, hangulatának feltérképezését, belső motivációinak kiismerését célzó „tudomány". Ennek az ismeretnek az elsajátítását leginkább a nagybetűs ÉLET segíti. Sok-sok beszélgetés, néha keserű tapasztalat.
 
@@ -20,13 +25,13 @@ A képzettség annyiban speciális, hogy a (harcmodorokhoz hasonlóan) a 3.szint
 
 ##### Biztos tudás, követelmények
 
-| Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub>                                                                                                                                                                                                                      | xy  |                   Követelmény                    |
-| :--------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-- | :----------------------------------------------: |
-| Novícius (3)     | • Észreveszi a feltűnő érzelmi állapotokat<br />• **Példa**: átlagember<br />Tanulható:<br />• [Hazudozás](../fortelyok.altalanos/hazudozas.md) (1 fokú)                                                                                                                                                |     |               Érzékenység:&nbsp;-1               |
-| Kismester (6)    | • Alapvető személyiségvonások felismerése<br />• **Példa**: Sokat megélt öregember, falu bölcse<br />Tanulható:<br />• [Szónoklás](../fortelyok.altalanos/szonoklas.md) (1.fok)<br />• [Meggyőzés](../fortelyok.altalanos/meggyozes.md)<br />• [Megfélemlítés](../fortelyok.altalanos/megfelemlites.md) |     |               Érzékenység:&nbsp;0                |
-| Mester (9)       | • Nyitott partner esetén annak mélyebb személyiségvonásait, lelki torzulásait felismeri. Mentális problémákat felismer, elkezdhet gyógyítani.<br />• **Példa**: Vallatótiszt, szélhámos<br />Tanulható:<br />• [Szónoklás](../fortelyok.altalanos/szonoklas.md) (2.fok)                                 |     |               Érzékenység:&nbsp;+1               |
-| Nagymester (12)  | Nagyobb mágikus beavatkozást felfedezni egy jelentős személyiségváltozás mögött.<br />**Példa**: Főpap, inkvizítor, híres színész                                                                                                                                                                       | -   | Érzékenység:&nbsp;+2<br />Intelligencia:<br />+1 |
-| Élő legenda (15) | • Mágikus beavatkozást felfedezni egy átlagos személyiségváltozás mögött.<br />• **Példa**: asztrálmágus<br />• Speciális: Állandó ⭕5.szintű⭕ Asztrálszemnek⭕ megfelelő hatás.                                                                                                                          |     | Érzékenység:&nbsp;+3<br />Intelligencia:<br />+2 |
+| Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub>                                                                                                      |                   Követelmény                    |
+| :--------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------: |
+| Novícius (3)     | • Észreveszi a feltűnő érzelmi állapotokat<br />• **Példa**: átlagember                                                                                                                 |               Érzékenység:&nbsp;-1               |
+| Kismester (6)    | • Alapvető személyiségvonások felismerése<br />• **Példa**: Sokat megélt öregember, falu bölcse                                                                                         |               Érzékenység:&nbsp;0                |
+| Mester (9)       | • Nyitott partner esetén annak mélyebb személyiségvonásait, lelki torzulásait felismeri. Mentális problémákat felismer, elkezdhet gyógyítani.<br />• **Példa**: Vallatótiszt, szélhámos |               Érzékenység:&nbsp;+1               |
+| Nagymester (12)  | Nagyobb mágikus beavatkozást felfedezni egy jelentős személyiségváltozás mögött.<br />**Példa**: Főpap, inkvizítor, híres színész                                                       | Érzékenység:&nbsp;+2<br />Intelligencia:<br />+1 |
+| Élő legenda (15) | • Mágikus beavatkozást felfedezni egy átlagos személyiségváltozás mögött.<br />• **Példa**: asztrálmágus<br />• Speciális: Állandó ⭕5.szintű⭕ Asztrálszemnek⭕ megfelelő hatás.          | Érzékenység:&nbsp;+3<br />Intelligencia:<br />+2 |
 
 <br />
 

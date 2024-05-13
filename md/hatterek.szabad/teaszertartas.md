@@ -1,7 +1,7 @@
 #### 🟣 Teaszertartás
 
 Amely **Kultúrköröket** ismersz, annak teaszertartásait **Előadóművészet** képzettséged szintjének megfelelően el is tudod végezni.
-##### Kiterjeszti
+##### Kiterjeszti ezeket:
 - [Előadóművészet](../kepzettsegek/eloadomuveszet.md)
 
 ##### Követelmény

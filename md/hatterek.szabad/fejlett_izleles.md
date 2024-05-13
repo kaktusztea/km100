@@ -1,5 +1,5 @@
 🟣 Fejlett ízlelés
-##### Kiterjeszti
+##### Kiterjeszti ezeket:
 - Érzékenység Tulajdonságodat segíti ízlelés esetén
 
 ##### Követelmény: -

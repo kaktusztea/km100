@@ -2,7 +2,7 @@
 
 Ismered a magaslati, sarkvidéki környezetet.
 
-##### Kiterjeszti
+##### Kiterjeszti ezeket:
 - [Természetjárás](../kepzettsegek/termeszetjaras.md)
 
 ##### Követelmény

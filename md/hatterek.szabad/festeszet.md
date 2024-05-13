@@ -1,6 +1,6 @@
 #### 🟣 Festészet
 
-##### Kiterjeszti
+##### Kiterjeszti ezeket:
 - [Képzőművészet](../kepzettsegek/kepzomuveszet.md)
 - [Művészetismeret](../kepzettsegek/muveszetismeret.md)
 

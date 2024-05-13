@@ -1,6 +1,6 @@
 #### 🟣 Harci láz 3
 
-##### Kiterjeszti
+##### Kiterjeszti ezeket:
 -  [Harci láz](../fortelyok.harci/harci_laz.md) FORTÉLY!⭕
 
 ##### Követelmény

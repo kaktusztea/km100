@@ -1,20 +1,22 @@
 #### 🔴Befolyásolás
 
-Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-ismeretek-kateg%C3%B3ri%C3%A1i).
+Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-ismeretek-kateg%C3%B3ri%C3%A1i). 
 
 **Próba:** dobható
 
-**Domináns Tulajdonságok**: Érzékenység, Intelligencia
+**Domináns Tulajdonságok**: Intelligencia, Érzékenység
 
 **Kapcsolódó fortélyok**: ⭕xyz
 
 **Bónusz Háttér**: ⭕xyz
 
-**Szabad Háttérek**:
-- [](../hatterek.szabad/.md)
+**Kiterjeszti**:
+- [Csábítás](../hatterek.szabad/csabitas.md)
+- [Hazudozás](../hatterek.szabad/hazudozas.md)
+- [Megfélemlítés](../hatterek.szabad/megfelemlites.md)
+- [Szónoklás](../hatterek.szabad/szonoklas.md)
 
-**Leírás**: xyz
-
+**Leírás**: Mások meggyőzését, szándékainknak megfelelő cselekedetek elérését fedi. Alapból sima érveléstechinka, de a fenti Szabad Hátterekkel kiterjeszthető más szituációkra is. Ha nincs meg a kapcsolódó Szabad Háttér, akkor arra `-3` módósítóval dobsz próbát.
 
 <br />
 

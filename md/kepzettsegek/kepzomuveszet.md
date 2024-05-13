@@ -8,7 +8,7 @@
 
 **Bónusz Háttér**: ⭕xyz
 
-**Szabad Háttérek**:
+**Kiterjeszti**:
 - [Kultúrkör](../hatterek.szabad/kulturkor.md) (kapcsolódó kultúra)
 .
 - [Festészet](../hatterek.szabad/festeszet.md)
