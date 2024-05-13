@@ -1,7 +1,7 @@
 #### 🟣 Tánc
 
 Amely **Kultúrköröket** ismersz, azok táncait **Előadóművészet** képzettséged szintjének megfelelően járni is tudod.
-##### Kiterjeszti
+##### Kiterjeszti ezeket:
 - [Előadóművészet](../kepzettsegek/eloadomuveszet.md)
 - [Művészetismeret](../kepzettsegek/muveszetismeret.md)
 

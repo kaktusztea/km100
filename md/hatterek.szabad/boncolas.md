@@ -1,6 +1,6 @@
 #### 🟣 Boncolás (faj neve) 🔁
 
-##### Kiterjeszti
+##### Kiterjeszti ezeket:
 - [Harci anatómia](../fortelyok.harci/harci_anatomia.md) FORTÉLY!⭕
 - [Különleges faj](../fortelyok.altalanos/kulonleges.faj.md) FORTÉLY!⭕
 

@@ -1,6 +1,6 @@
 #### 🟣 Zeneszerző
 
-##### Kiterjeszti
+##### Kiterjeszti ezeket:
 - [Előadóművészet](../kepzettsegek/eloadomuveszet.md)
 
 ##### Követelmény

@@ -1,6 +1,6 @@
 #### 🟣 Titkos szervezeti kultúra 🔁
 
-##### Kiterjeszti
+##### Kiterjeszti ezeket:
 - [Etikett](../kepzettsegek/etikett.md)
 
 ##### Követelmény

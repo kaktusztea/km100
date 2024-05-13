@@ -13,7 +13,7 @@ Kapcsolódó Képzettség-próba:
 
 ```
 
-##### Kiterjeszti
+##### Kiterjeszti ezeket:
 - [Előadóművészet](../kepzettsegek/eloadomuveszet.md)
 - [Etikett](../kepzettsegek/etikett.md)
 - [Képzőművészet](../kepzettsegek/kepzomuveszet.md)

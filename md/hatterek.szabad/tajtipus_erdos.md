@@ -2,7 +2,7 @@
 
 Ismered az erdős környezetet.
 
-##### Kiterjeszti
+##### Kiterjeszti ezeket:
 - [Természetjárás](../kepzettsegek/termeszetjaras.md)
 
 ##### Követelmény

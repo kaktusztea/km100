@@ -2,7 +2,7 @@
 
 Többször felvehető. Ez általában egyedi, titkos, vagy nagyon speciális táncot takar, mint például a **Toroni Vérnász**. Magától értetődik, hogy speciális/belső táncstílus tanulásához kapcsolódó **Kultúrkör** Háttér is szükségeltetik (lásd követelmények).
 
-##### Kiterjeszti
+##### Kiterjeszti ezeket:
 - [Előadóművészet](../kepzettsegek/eloadomuveszet.md)
 - [Művészetismeret](../kepzettsegek/muveszetismeret.md)
 

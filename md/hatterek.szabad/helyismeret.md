@@ -6,7 +6,7 @@
 - Kaland végén kaphatóak újabb pontok ingyen, a KM-től
 ```
 
-##### Kiterjeszti: -
+##### Kiterjeszti ezeket:: -
 
 ##### Követelmény
 Lásd a fokok leírását
