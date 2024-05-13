@@ -10,17 +10,15 @@ Jól tudsz másolni műkincseket, műtárgyakat.
 - [Szobrászat](../hatterek.szabad/szobraszat.md)
 
 **Kapcsolódó képzettség**
-- [Előadóművészet](../kepzettsegek/eloadomuveszet.md)
-- [Építészet](../kepzettsegek/epiteszet.md)
+- [Képzőművészet](../kepzettsegek/kepzomuveszet.md)
 - [Szakma](../kepzettsegek/szakma.md) (asztalos, cipész, szabó, ékszerész, stb. )
-
-[Észlelés](../kepzettsegek/eszleles.md)
+- [Észlelés](../kepzettsegek/eszleles.md)
 
 **Leírás**: Képes vagy egyes művészeti ágakban és szakmákban az eredetire megtévesztésig hasonló másolatot készíteni, vagy az adott stílusban újat készíteni.
 
 **Speciális**
-- Ha a művészetekkel kapcsolatos hamisítást akarsz végezni, rendelkezned kell a kapcsolódó Szabad Háttérrel (például: "Festészet")
-- Ha a művészetekkel kapcsolatos hamisítást akarsz végezni, a [Előadóművészet](../kepzettsegek/eloadomuveszet.md) képzettséged adja a képzettségedet.
-- Ha szakmával kapcsolatos hamisítást akarsz végezni, a kapcsolódó [Szakma](../kepzettsegek/szakma.md) (például: "Szakma - asztalos") adja a  képzettségedet. Dobásnál a kisebbik számít a két képzettség közül.
+- Ha a képzőművészetekkel kapcsolatos hamisítást akarsz végezni, rendelkezned kell a kapcsolódó [Szabad Háttérrel](../042_szabad_hatterek.md)  (például: "Festészet")
+- Ha a képzőművészetekkel kapcsolatos hamisítást akarsz végezni, a [Képzőművészet](../kepzettsegek/kepzomuveszet.md) adja a képzettségedet.
+- Ha szakmával kapcsolatos hamisítást akarsz végezni, a kapcsolódó [Szakma](../kepzettsegek/szakma.md) (például: "Szakma - asztalos") adja a  képzettségedet.
 - Hamisítvány felismerése: [Művészetismeret](../kepzettsegek/muveszetismeret.md) képzettséggel dobunk ellenpróbát a hamisító [Képzőművészet](../kepzettsegek/kepzomuveszet.md) képzettsége ellen. A  [Kultúrkör](../hatterek.szabad/kulturkor.md) (adott kultúra) - `2.fok` szükséges. Anélkül `+3` nehezítés a képzettségpróbákra fokonként.
 

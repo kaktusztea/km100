@@ -130,8 +130,6 @@ Az aktív előadást igénylő művészeteket szeparáltuk az **Előadóművész
 
 🔵[Alkímia](kepzettsegek/alkimia.md) <sup><sub>(0%)</sub></sup>
 
-🔵[Építészet](kepzettsegek/epiteszet.md) <sup><sub>(0%)</sub></sup>
-
 🔵[Hadvezetés](kepzettsegek/hadvezetes.md) <sup><sub>(0%)</sub></sup> 
 
 🔴[Méregkeverés](kepzettsegek/meregkeveres.md) <sup><sub>(90%)</sub></sup>

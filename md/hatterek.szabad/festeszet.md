@@ -1,7 +1,7 @@
 #### 🟣 Festészet
 
 ##### Kiterjeszti
-- [Előadóművészet](../kepzettsegek/eloadomuveszet.md)
+- [Képzőművészet](../kepzettsegek/kepzomuveszet.md)
 - [Művészetismeret](../kepzettsegek/muveszetismeret.md)
 
 ##### Kapcsolódó fortély
