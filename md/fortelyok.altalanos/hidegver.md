@@ -2,9 +2,9 @@
 
 "Szép nagy kard... és népes kíséret."
 
-| |  Követelmény | Hatás  |
-| :----------- | :----------- | :----------- |
-| 1.fok | Önuralom:&nbsp;⭕`+2`⭕<br />⭕???⭕ | **Csak passzívan alkalmazható.** Nehezebb kibillenteni a nyugalmadból:<br />Nem mágikus befolyást célzó, önuralmat érintő ⚪Önuralom próbákra:`+1`<br />Asztrális ellenállás nő: ⭕`+1` AME⭕|
+- Ijesztő szituációkban ⚪**Önuralom** próbákra:`+1` módosítót kapsz.
+- Asztrális mágikus befolyásolás ellen `+1` Aura értéket kapsz
+- Az ellened irányuló [Megfélemlítéssel](../hatterek.szabad/megfelemlites.md) használt [Befolyásolási](../kepzettsegek/befolyasolas.md) kísérletek során `+3`-at kapsz ⭕[Emberismeretre](../kepzettsegek/emberismeret.md)?? ⭕Itt is ⚪Önuralom próba??
 
 <br />
 

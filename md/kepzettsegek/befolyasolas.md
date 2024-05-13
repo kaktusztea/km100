@@ -6,11 +6,13 @@ Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-
 
 **Domináns Tulajdonságok**: Intelligencia, Érzékenység
 
-**Kapcsolódó fortélyok**: ⭕xyz
+**Kapcsolódó fortély**: ⭕xyz
+
+**Kapcsolódó képzettség**: [Emberismeret](emberismeret.md)
 
 **Bónusz Háttér**: ⭕xyz
 
-**Kiterjeszti**:
+**Kiterjeszti (SzH)**:
 - [Csábítás](../hatterek.szabad/csabitas.md)
 - [Hazudozás](../hatterek.szabad/hazudozas.md)
 - [Megfélemlítés](../hatterek.szabad/megfelemlites.md)
@@ -31,6 +33,15 @@ Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-
 | Élő legenda (15) | xyz <br /> **Példa**: x                                                            |             |
 
 <br />
+
+##### Ellenpróbák
+
+A **Befolyásolás** szinte mindig az [Emberismeret](emberismeret.md) képzettséggel áll ellenpróbás szituációban - a szituációtól függő módosítókkal. A leggyakoribb az alábbi próba-szituáció:
+```
+Intelligencia + Emberismeret
+            vs
+Érzékenység + Emberismeret
+```
 
 ##### Próbák
 

@@ -2,9 +2,10 @@
 
 "Érvelése számos hibát, vagy úgy is mondhatnám... hazugságot tartalmazott."
 
-|       | Követelmény                                                      | Hatás                                                                                                                                                                             |
-| :---- | :--------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.fok | Intelligencia:&nbsp;⭕`+2`⭕<br />Önuralom:&nbsp;⭕`+1`⭕<br />⭕???⭕ | **Csak Passzívan alkalmazható.** Nehezebben befolyásolnak.<br />Nem mágikus gondolati befolyást célzó ⚪Intelligencia próbákra:`+1` bónusz<br />Mentális ellenállás nő: ⭕`+1` MME⭕ |
+Nehezebben vezetnek meg.
+
+- Mentális mágikus befolyásolás ellen `+1` Aura értéket kapsz
+- Az ellened irányuló [Hazudozással](../hatterek.szabad/hazudozas.md) használt [Befolyásolási](../kepzettsegek/befolyasolas.md) kísérletek során `+3`-at kapsz ⭕[Emberismeretre](../kepzettsegek/emberismeret.md)?? ⭕Vagy ⚪Intelligencia próba??
 
 <br />
 

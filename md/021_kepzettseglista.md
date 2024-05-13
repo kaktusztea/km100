@@ -134,8 +134,6 @@ Az aktív előadást igénylő művészeteket szeparáltuk az **Előadóművész
 
 🔴[Méregkeverés](kepzettsegek/meregkeveres.md) <sup><sub>(90%)</sub></sup>
 
-🔵[Térképészet](kepzettsegek/terkepeszet.md) <sup><sub>(0%)</sub></sup>
-
 🔴[Történelemismeret](kepzettsegek/tortenelemismeret.md) <sup><sub>(40%)</sub></sup> 
 
 🔴[Tudományok](kepzettsegek/tudomanyok.md) <sup><sub>(10%)</sub></sup>

@@ -10,16 +10,21 @@ Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-
 
 **Domináns Tulajdonságok**: Érzékenység, Intelligencia
 
-**Kapcsolódó fortélyok**: -
+**Kapcsolódó fortély**: -
+
+**Kapcsolódó képzettség**: [Befolyásolás](befolyasolas.md), [Etikett](etikett.md)
 
 **Kiterjeszti**:
-- [Szónoklás](../hatterek.szabad/szonoklas.md)
+- [Csábítás](../hatterek.szabad/csabitas.md)
 - [Hazudozás](../hatterek.szabad/hazudozas.md)
 - [Megfélemlítés](../hatterek.szabad/megfelemlites.md)
+- [Szónoklás](../hatterek.szabad/szonoklas.md)
 
 **Leírás**: Más emberek viselkedésének, hangulatának feltérképezését, belső motivációinak kiismerését célzó „tudomány". Ennek az ismeretnek az elsajátítását leginkább a nagybetűs ÉLET segíti. Sok-sok beszélgetés, néha keserű tapasztalat.
 
-A képzettség annyiban speciális, hogy a (harcmodorokhoz hasonlóan) a 3.szint adja az „alapszintet", azaz egy felnőtt átlagember ekkora emberismerettel rendelkezik. Az ez alatti értékkel rendelkezők köznyelven a „szerencsétlen balek" és a „palimadár" kategóriába tartoznak..
+A képzettség annyiban speciális, hogy a (harcmodorokhoz hasonlóan) a `3.szint` adja az „alapszintet", azaz egy felnőtt átlagember ekkora emberismerettel rendelkezik. Az ez alatti értékkel rendelkezők köznyelven a „szerencsétlen balek" és a „palimadár" kategóriába tartoznak..
+
+Az egyes, speciális szituációkban a fenti Szabad Hátterek adhatnak segítséget (Csábítás, stb). Ha nincs meg a kapcsolódó Szabad Háttér, akkor arra `-3` módósítóval dobsz próbát.
 
 <br />
 
@@ -34,6 +39,15 @@ A képzettség annyiban speciális, hogy a (harcmodorokhoz hasonlóan) a 3.szint
 | Élő legenda (15) | • Mágikus beavatkozást felfedezni egy átlagos személyiségváltozás mögött.<br />• **Példa**: asztrálmágus<br />• Speciális: Állandó ⭕5.szintű⭕ Asztrálszemnek⭕ megfelelő hatás.          | Érzékenység:&nbsp;+3<br />Intelligencia:<br />+2 |
 
 <br />
+
+##### Ellenpróbák
+
+A **Emberismeret** szinte mindig a [Befolyásolás](befolyasolas.md) képzettséggel áll ellenpróbás szituációban - a szituációtól függő módosítókkal. A leggyakoribb az alábbi próba-szituáció:
+```
+Intelligencia + Emberismeret
+            vs
+Érzékenység + Emberismeret
+```
 
 ##### Aktív próbák
 
@@ -62,13 +76,3 @@ Ilyenkor az Emberismeret egyfajta „radarként” működik, megpróbál a kül
 - Asztrál szem hatása: ⭕xxxx⭕
 
 <br />
-
-##### Passzív próbák
-
-Az Emberismeret passzív alkalmazásként a karakter képes az őt célzó, nem mágikus megtévesztő hatások (például hazudik a csapos) felismerésére is: mikor egy karakter (nem mágikus) befolyással kíván élni egy másik karakterre, olyankor a KM - a karakter alakítását elbírálva (beleszámítva a karakter jellemrajzát is) megállapít egy célszámot, ami ellen a befolyásolni kívánt személynek Emberismeret próbát kell dobnia. (Ettől a KM különösen jó előadás és/vagy tökhülye áldozat esetén, vagy mert úgy tartja kedve - eltekinthet).
-
-Hogy a fentiekbe a szabályoknak apró beleszólása lehessen, a karakterek szociális fortélyokat vehetnek fel, melyek nem okoznak jelentős bónuszokat, mindössze arra jók, hogy a próba nehézségét (célszámát) `3‑al`, vagy 2.fok esetén `6-al` eltolják pozitív irányba, (vagy negatívba, ha a karakternek passzív tudásként van rá szüksége az `Emberismeret` próbánál, (mert rá próbálnak hatni)).
-
-Ha NJK próbál befolyásolni egy játékos karaktert, akkor a KM - ismerve az NJK képességeit és jellemét -, szintén meghatároz egy célszámot, amely ellen a befolyásolni kívánt játékos nevében rejtett próbát dob.
-
-**Például**: Jani a szakács kő hülye, de gyakran hazudik. Arra a kérdésre, hogy „Te loptad el tegnap a 3 szál hurkát?" valószínűleg nagy szemekkel esküdözik, hogy nem, nem ő. A KM - ismerve Jani fergeteges szellemi képességeit és remek színlelését - a hazugság felismerését **Könnyű**, azaz `6-os` célszámú próbának veszi és a JK nevében erre a nehézségre dob `Emberismeret` próbát, hogy leleplezi -e Janit...

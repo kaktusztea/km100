@@ -4,11 +4,11 @@
 
 **Domináns Tulajdonságok**: ⭕xyz
 
-**Kapcsolódó fortélyok**: ⭕xyz
+**Kapcsolódó fortély**: ⭕xyz
 
 **Bónusz Hátterek**: ⭕xyz
 
-**Szabad Hátterek**
+**Kiterjeszti (SzH)**
 - ⭕xyz
 - zxy
 
