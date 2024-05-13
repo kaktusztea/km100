@@ -31,10 +31,12 @@ Ha egy képzettséghez számos Szabad Háttér kapcsolódik, akkor azok közül 
 
 valamint:
 
+- [Asztrológia](hatterek.szabad/asztrologia.md)
 - [Boncolás](hatterek.szabad/boncolas.md) 🔁
+- [Csábítás](hatterek.szabad/csabitas.md)
 - [Éneklés](hatterek.szabad/enekles.md)
 - [Fejlett ízlelés](hatterek.szabad/fejlett_izleles.md)
-- [Fejlett tapintas](hatterek.szabad/fejlett_tapintas.md)
+- [Fejlett tapintás](hatterek.szabad/fejlett_tapintas.md)
 - [Festészet](hatterek.szabad/festeszet.md)
 - [Harci láz 3](hatterek.szabad/harci_laz_3.md)
 - [Hazudozás](hatterek.szabad/hazudozas.md)
@@ -51,11 +53,14 @@ valamint:
 - [Tájtípus: erdős](hatterek.szabad/tajtipus_erdos.md)
 - [Tájtípus: magaslati](hatterek.szabad/tajtipus_magaslati.md)
 - [Tájtípus: sivatagi](hatterek.szabad/tajtipus_sivatagi.md)
+- [Tánc](hatterek.szabad/tanc.md)
 - [Tánc: speciális/belső stílus](hatterek.szabad/tanc_belso_stilus.md) 🔁
 - [Teaszertartás](hatterek.szabad/teaszertartas.md)
+- [Térképészet](hatterek.szabad/terkepeszet.md)
 - [Titkos szervezeti kultúra](hatterek.szabad/titkos_szervezeti_kultura.md) 🔁
 - [Zenélés: fúvós hangszerek](hatterek.szabad/zeneles_fuvos_hangszerek.md)
 - [Zenélés: húros hangszerek](hatterek.szabad/zeneles_huros_hangszerek.md)
 - [Zenélés: ütős hangszerek](hatterek.szabad/zeneles_utos_hangszerek.md)
 - [Zeneszerző](hatterek.szabad/zeneszerzo.md)
+- [Zsonglőrködés](hatterek.szabad/zsonglorkodes.md)
 
