@@ -89,7 +89,7 @@
 
 🔵[Szakma](kepzettsegek/szakma.md) <sup><sub>(20%)</sub></sup> 🔁
 
-🔵[Befolyásolás](kepzettsegek/befolyasolas.md) <sup><sub>(0%)</sub></sup>
+🔴[Befolyásolás](kepzettsegek/befolyasolas.md) 🅿️ <sup><sub>(0%)</sub></sup>
 
 🔵[Természetjárás](kepzettsegek/termeszetjaras.md) <sup><sub>(30%)</sub></sup>
 
