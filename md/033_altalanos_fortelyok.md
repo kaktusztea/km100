@@ -26,7 +26,6 @@
 - [Keresés](fortelyok.altalanos/kereses.md)
 - [Kitartás](fortelyok.altalanos/kitartas.md)
 - [Kocsihajtás](fortelyok.altalanos/kocsihajtas.md)
-- [Kötéltánc](fortelyok.altalanos/koteltanc.md) 🔺
 - [Pók](fortelyok.altalanos/pok.md) 🔺
 - [Sprint](fortelyok.altalanos/sprint.md)
 - [Suhanó árnyék](fortelyok.altalanos/suhano_arnyek.md) 🔺
