@@ -1,5 +1,7 @@
 #### 🔵 Emberismeret
 
+Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-ismeretek-kateg%C3%B3ri%C3%A1i).
+
 ````diff
 - Fontos: Etikett magas fokához legyen követelmény az Emberismeret.
 ````

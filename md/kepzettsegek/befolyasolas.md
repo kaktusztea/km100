@@ -8,11 +8,10 @@ Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-
 
 **Kapcsolódó fortélyok**: ⭕xyz
 
-**Bónusz Hátterek**: ⭕xyz
+**Bónusz Háttér**: ⭕xyz
 
-**Szabad Hátterek**
-- ⭕xyz
-- zxy
+**Szabad Háttérek**:
+- [](../hatterek.szabad/.md)
 
 **Leírás**: xyz
 

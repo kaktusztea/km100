@@ -71,7 +71,9 @@
 ---
 ## Világi képzettségek
 
-🔵[Emberismeret](kepzettsegek/emberismeret.md) <sup><sub>(90%)</sub></sup>
+🔴[Befolyásolás](kepzettsegek/befolyasolas.md) 🅿️ <sup><sub>(0%)</sub></sup>
+
+🔵[Emberismeret](kepzettsegek/emberismeret.md) 🅿️ <sup><sub>(90%)</sub></sup>
 
 🔵[Észlelés](kepzettsegek/eszleles.md) 🅿️ <sup><sub>(95%)</sub></sup>
 
@@ -88,8 +90,6 @@
 🔴[Orvoslás](kepzettsegek/orvoslas.md) <sup><sub>(40%)</sub></sup>
 
 🔵[Szakma](kepzettsegek/szakma.md) <sup><sub>(20%)</sub></sup> 🔁
-
-🔴[Befolyásolás](kepzettsegek/befolyasolas.md) 🅿️ <sup><sub>(0%)</sub></sup>
 
 🔵[Természetjárás](kepzettsegek/termeszetjaras.md) <sup><sub>(30%)</sub></sup>
 
