@@ -45,6 +45,8 @@
 - [Élettan](fortelyok.altalanos/elettan.md)
 - [Írástudó](fortelyok.altalanos/irastudo.md)
 - [Különleges faj](fortelyok.altalanos/kulonleges.faj.md)
+- [Mechanika](fortelyok.altalanos/mechanika.md)
+- [Tudományok](kepzettsegek/tudomanyok.md)
 
 ---
 ## Szociális fortélyok

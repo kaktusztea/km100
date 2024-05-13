@@ -3,11 +3,11 @@
 A Fizikai és Matematikai ismeretek is ide tartoznak?? ⭕
 
 ##### Kiterjeszti
-- [Keresés](kereses.md) (csapdához, titkosajtóhoz, amiben szerkezet van)
 - [Tudományok](../kepzettsegek/tudomanyok.md)
+- [Keresés](kereses.md) (csapdához, titkosajtóhoz, amiben szerkezet van)
 - [Szakma - Fegyverkovács](../kepzettsegek/szakma.md)
 - [Szakma - Páncélkovács](../kepzettsegek/szakma.md)
-- ⭕TODO
+- [Zárnyitás](../kepzettsegek/zarnyitas.md) - `+2` bónusz minden fok után
 
 ##### Követelmény
 - ⭕xyz

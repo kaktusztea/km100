@@ -16,11 +16,13 @@
 - [Szobrászat](../hatterek.szabad/szobraszat.md)
 
 
-**Leírás**: Aktív, alkotó művész vagy. A fenti listából a képzettség felvételekor `1 db` választott Szabad-Hátteret ingyen megkapsz.
+**Leírás**: Aktív, alkotó művész vagy. A fenti listából a képzettség felvételekor `1 db` választott Szabad-Hátteret ingyen megkapsz, a többit [Szabad Háttérként](../042_szabad_hatterek.md) veheted fel.
 
 <br />
 
 ##### Biztos tudás, követelmények
+
+Az általad ismert [Kultúrkör](../hatterek.szabad/kulturkor.md)öknek megfelelő műveket hozhatsz létre. Anélkül nem megy.
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub> | Követelmény |
 |:---------------- |:---------------------------------------------------------------------------------- |:-----------:|

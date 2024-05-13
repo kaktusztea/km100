@@ -21,12 +21,13 @@ Kapcsolódó Képzettség-próba:
 - [Történelemismeret](../kepzettsegek/tortenelemismeret.md)
 
 ##### Kapcsolódó Szabad Háttér
-- [Hamisítás](../fortelyok.altalanos/hamisitas.md) fortély
+
 - [Nyelvismeret](nyelvismeret.md) Szabad Háttér
 - [Tánc](tanc.md) Szabad Háttér
-- [Tánc: belső stílus](tanc_belso_stilus.md)
+- [Tánc: belső stílus](tanc_belso_stilus.md)  Szabad Háttér
 
 ##### Kapcsolódó fortély
+- [Hamisítás](../fortelyok.altalanos/hamisitas.md) fortély
 - [Taktika: Testőrség](../fortelyok.harci/taktika_testorseg.md) fortély
 
 ##### Követelmény
