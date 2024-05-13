@@ -15,7 +15,7 @@
 <!-- tag: alvilagi__fizikai__fortely -->
 
 - [Biztos kezű mászó](fortelyok.altalanos/biztos_kezu_maszo.md) 🔺
-- [Csomózás; Kötelékből szabadulás](fortelyok.altalanos/csomozas__kotelekbol_szabadulas.md)
+- [Csomózás](fortelyok.altalanos/csomozas.md)
 - [Éber alvó](fortelyok.altalanos/eber_alvo.md)
 - [Fakír](fortelyok.altalanos/fakir.md)
 - [Futás](fortelyok.altalanos/futas.md)
@@ -26,6 +26,7 @@
 - [Keresés](fortelyok.altalanos/kereses.md)
 - [Kitartás](fortelyok.altalanos/kitartas.md)
 - [Kocsihajtás](fortelyok.altalanos/kocsihajtas.md)
+- [Kötelékből szabadulás](fortelyok.altalanos/kotelekbol_szabadulas.md)
 - [Pók](fortelyok.altalanos/pok.md) 🔺
 - [Sprint](fortelyok.altalanos/sprint.md)
 - [Suhanó árnyék](fortelyok.altalanos/suhano_arnyek.md) 🔺
@@ -46,7 +47,6 @@
 - [Írástudó](fortelyok.altalanos/irastudo.md)
 - [Különleges faj](fortelyok.altalanos/kulonleges.faj.md)
 - [Mechanika](fortelyok.altalanos/mechanika.md)
-- [Tudományok](kepzettsegek/tudomanyok.md)
 
 ---
 ## Szociális fortélyok
