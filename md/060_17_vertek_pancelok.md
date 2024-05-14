@@ -7,6 +7,8 @@ Még vannak nyitott problémák, azokat még ki kell vasalni.
 ---
 Kapcsolódó harci fortély: **[Vértviselet](https://github.com/kaktusztea/km100/blob/master/md/fortelyok.harci/vertviselet.md)**
 
+A rendszer páncéljai jellegben és fejlettségben a földi világ **XVI. századának** megfelelő szinten vannak. Ez a színvonal jelképezi a "csúcskategóriát", ennél - elmaradottabb helyeket - természetesen vannak fejletlenebb vértek is.
+
 Egy páncélt három jellemző ír le: a Sebzésfelfogó Érték (**SFÉ**), a Mozgásgátló tényező (**MGT**) és az **Ár**. Ezeket az alábbi jellemzők befolyásolják:
 
 - SFÉ
