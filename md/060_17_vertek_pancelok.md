@@ -52,8 +52,7 @@ Egy páncélnak **4 fajta SFÉ értéke van**, a támadás jellegétől függ, h
 - `Szúró`
 - `Vágó`
 - `Zúzó`
-- `Energia`
-  - Villám, Tűz, Fagy támadás tartozik ide.
+- `Energia`: Villám, Tűz, Fagy támadás tartozik ide.
  	- A fém vértek, ha felforrósódnak, folyamatos sebzést okozhatnak. Erről a KM dönt.
  	- Fém vértet **villámmal** könnyebb eltalálni, mivel az magához vonzza az ilyen energiát. Ilyenkor a támadó számára a Célzás számításánál az Osztó érték `1`-el nő.
 
