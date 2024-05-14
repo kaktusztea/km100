@@ -4,9 +4,9 @@
 
 **Domináns Tulajdonságok**: Intelligencia, Emlékezet
 
-**Kapcsolódó fortélyok**: ⭕xyz
+**Kapcsolódó fortélyok**: [Élettan](../fortelyok.altalanos/elettan.md)⭕
 
-**Bónusz Hátterek**: ⭕xyz
+**Bónusz Hátterek**: ⭕
 
 **Szabad Hátterek**
 - [Asztrológia](../hatterek.szabad/asztrologia.md)
