@@ -1,6 +1,8 @@
 #### 🟣 Mechanika (2)
 
-A Fizikai és Matematikai ismeretek is ide tartoznak?? ⭕
+A Fizikai és Matematikai ismeretek is ide tartoznak?? ⭕TODO⭕
+
+**Kapcsolódó fortély**: [Építészet](epiteszet.md) ⭕TODO⭕
 
 ##### Kiterjeszti
 - [Csapdaállítás](../kepzettsegek/csapdaallitas.md): mechanikus csapdák állításához követelmény lehet a Mechanika
@@ -9,8 +11,8 @@ A Fizikai és Matematikai ismeretek is ide tartoznak?? ⭕
 - [Szakma - Páncélkovács](../kepzettsegek/szakma.md)
 - [Tudományok](../kepzettsegek/tudomanyok.md)
 
-##### Bónuszt ad
-- [Zárnyitás](../kepzettsegek/zarnyitas.md) - `+2` bónusz minden fok után
+##### Bónuszt ad erre:
+- [Zárnyitás](../kepzettsegek/zarnyitas.md) - `+2` bónusz minden Mechanika fok után
 
 ##### Követelmény
 - ⭕xyz
