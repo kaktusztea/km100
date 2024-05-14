@@ -144,7 +144,7 @@ Felvehető Érzék-Fortélyok maximuma:
 - [Barlangi tájékozódás](fortelyok.erzekek/barlangi_tajekozodas.md) - 1. fok
 
 Ajánlott fortélyok:
-- ⭕TODO Építészet
+- [Építészet](fortelyok.altalanos/epiteszet.md)
 - [Mechanika](fortelyok.altalanos/mechanika.md)
 - [Zártörő](fortelyok.altalanos/zartoro.md)
 
@@ -282,7 +282,7 @@ Felvehető Érzék-Fortélyok maximuma:
 - [Barlangi tájékozódás](fortelyok.erzekek/barlangi_tajekozodas.md) - 1. fok
 
 Ajánlott fortélyok:
-- ⭕TODO Építészet
+- [Építészet](fortelyok.altalanos/epiteszet.md)
 - [Keresés](fortelyok.altalanos/kereses.md)
 - [Villámgyors keresés](fortelyok.altalanos/villamgyors.kereses.md)
 - [Kitartás](fortelyok.altalanos/kitartas.md)
