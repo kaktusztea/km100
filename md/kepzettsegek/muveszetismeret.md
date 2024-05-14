@@ -4,7 +4,7 @@
 
 **Domináns Tulajdonságok**: Emlékezet, Intelligencia, Érzékenység
 
-**Kapcsolódó fortélyok**: -
+**Kapcsolódó fortélyok**: [Építészet](../fortelyok.altalanos/epiteszet.md) ⭕
 
 **Bónusz Háttér**: -
 
@@ -13,7 +13,6 @@
 
 valamint:
 - [Éneklés](../hatterek.szabad/enekles.md)
-- Építészet SzH  ⭕  (Nyomozást is kiterjeszti)   - VAGY legyen Fortély
 - [Festészet](../hatterek.szabad/festeszet.md)
 - [Irodalom](../hatterek.szabad/irodalom.md)
 - [Kalligráfia](../hatterek.szabad/kalligrafia.md)

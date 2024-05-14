@@ -6,17 +6,17 @@ Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-
 
 **Domináns Tulajdonságok**: Intelligencia, Emlékezet
 
-**Kapcsolódó fortélyok**: [Keresés](../fortelyok.altalanos/kereses.md), [Élettan](../fortelyok.altalanos/elettan.md) (boncoláshoz)
+**Kapcsolódó fortélyok**: [Keresés](../fortelyok.altalanos/kereses.md), [Építészet](../fortelyok.altalanos/epiteszet.md), [Élettan](../fortelyok.altalanos/elettan.md) (boncoláshoz)
 
 **Erős Összhang**: [Emberismeret](emberismeret.md) (szituáció-függő)
 
 **Bónusz Hátterek**: ⭕TODO
 
-**Szabad Hátterek**:
-- Építészet SzH  ⭕  (Nyomozást is kiterjeszti)   - VAGY legyen Fortély
+**Kiterjeszti**:
 - [Pénzügyek](../hatterek.szabad/penzugyek.md)
 - [Jogismeret](../hatterek.szabad/jogismeret.md)
-- ⭕TODO
+- [Hazudozás](../hatterek.szabad/hazudozas.md)
+- [Titkos szervezeti kultúra](../hatterek.szabad/titkos_szervezeti_kultura.md)
 
 **Leírás**: Egy helyszín átvizsgálásakor rengeteg nyom van, amit értelmezni kell, illetve az felderítés eljárásrendjének ismerete is fontos segítséget adhat. Az alábbi példák segítenek leírni, milyen jellegű információk nyerhetők a képzettség segítségével:
 - bűnjelek elemzése és következtetés is. Példa: el lett mozdítva a bútor.
