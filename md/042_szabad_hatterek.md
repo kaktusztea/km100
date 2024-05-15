@@ -38,7 +38,6 @@ valamint:
 - [Fejlett ízlelés](hatterek.szabad/fejlett_izleles.md)
 - [Fejlett tapintás](hatterek.szabad/fejlett_tapintas.md)
 - [Festészet](hatterek.szabad/festeszet.md)
-- [Harci láz 3](hatterek.szabad/harci_laz_3.md)
 - [Hazudozás](hatterek.szabad/hazudozas.md)
 - [Irodalom](hatterek.szabad/irodalom.md)
 - [Jogismeret](hatterek.szabad/jogismeret.md)
