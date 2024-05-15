@@ -13,7 +13,6 @@ Ide soroljuk azokat az egyedi Bónusz-Háttereket is, amelyek már meglevő kép
 Tartalomjegyzék
 
 - [Állat testvér](#-%C3%A1llat-testv%C3%A9r)
-- [Boncolás](#-boncol%C3%A1s-faj-neve)
 - [Élő álca](#-%C3%A9l%C5%91-%C3%A1lca)
 - [Harci láz 3](#-harci-l%C3%A1z-3)
 - [Kobratánc](#-kobrat%C3%A1nc)
