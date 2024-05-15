@@ -24,22 +24,22 @@
 	- [Öklelés](#%EF%B8%8F%C3%B6klel%C3%A9s)
 	- [Pajzzsal öklelés](#%EF%B8%8Fpajzzsal-%C3%B6klel%C3%A9s)
 - [Fejleszthető manőverek](#Fejleszthető-manőverek)
-	- [Belharcba kerülés](#%EF%B8%8Fbelharcba-ker%C3%BCl%C3%A9s)
-	- [Belharcból kibontakozás](#%EF%B8%8Fbelharcb%C3%B3l-kibontakoz%C3%A1s)
-	- [Gáncsolás / Lábsöprés (lábbal)](#%EF%B8%8Fg%C3%A1ncsol%C3%A1s--l%C3%A1bs%C3%B6pr%C3%A9s-l%C3%A1bbal)
-	- [Kibontakozás/Átsiklás](#%EF%B8%8Fkibontakoz%C3%A1s%C3%A1tsikl%C3%A1s)
-	- [Lábkirántás (szálfegyverrel)](#%EF%B8%8Fl%C3%A1bkir%C3%A1nt%C3%A1s-sz%C3%A1lfegyverrel)
-	- [Lánccsapda (láncos fegyverekre)](#%EF%B8%8Fl%C3%A1nccsapda--l%C3%A1ncos-fegyverekre)
-	- [Lefegyverzés / Fegyvertörés - egy konkrét harcmodorra](#%EF%B8%8Flefegyverz%C3%A9s--fegyvert%C3%B6r%C3%A9s---egy-konkr%C3%A9t-harcmodorra)
-	- [Lefejelés](#%EF%B8%8Flefejel%C3%A9s)
-	- [Mesterjel](#%EF%B8%8Fmesterjel)
-	- [Pajzsrongálás](#%EF%B8%8Fpajzsrombol%C3%A1s)
-	- [Területre/Pontra támadás](#%EF%B8%8Fpontra-t%C3%A1mad%C3%A1s) 
-	- [Távoltartás](#%EF%B8%8Ft%C3%A1voltart%C3%A1s)
-	- [Terelés](#%EF%B8%8Fterel%C3%A9s)
+	- [Belharcba kerülés](#-belharcba-ker%C3%BCl%C3%A9s)
+	- [Belharcból kibontakozás](#-belharcb%C3%B3l-kibontakoz%C3%A1s)
+	- [Gáncsolás / Lábsöprés (lábbal)](#%EF%B8%8F-g%C3%A1ncsol%C3%A1s--l%C3%A1bs%C3%B6pr%C3%A9s-l%C3%A1bbal)
+	- [Kibontakozás/Átsiklás](#kibontakoz%C3%A1s%C3%A1tsikl%C3%A1s)
+	- [Lábkirántás (szálfegyverrel)](#l%C3%A1bkir%C3%A1nt%C3%A1s-sz%C3%A1lfegyverrel)
+	- [Lánccsapda (láncos fegyverekre)](#l%C3%A1nccsapda--l%C3%A1ncos-fegyverekre)
+	- [Lefegyverzés / Fegyvertörés - egy konkrét harcmodorra](#lefegyverz%C3%A9s--fegyvert%C3%B6r%C3%A9s---egy-konkr%C3%A9t-harcmodorra)
+	- [Lefejelés](#lefejel%C3%A9s)
+	- [Mesterjel](#mesterjel)
+	- [Pajzsrongálás](#pajzsrong%C3%A1l%C3%A1s)
+	- [Területre/Pontra támadás](#-ter%C3%BCletrepontra-t%C3%A1mad%C3%A1s)
+	- [Távoltartás](#t%C3%A1voltart%C3%A1s)
+	- [Terelés](#terel%C3%A9s)
 - [Lovas Manőverek](#lovas-man%C5%91verek)
-- [Egyszerű példa egy Manőver alkalmazására](#Egyszerű-példa-egy-Manőver-alkalmazására)
-- [Összetettebb példa egy Manőver alkalmazására](#Összetettebb-példa-egy-Manőver-alkalmazására)
+- [Egyszerű példa egy Manőver alkalmazására](#egyszer%C5%B1-p%C3%A9lda-egy-man%C5%91ver-alkalmaz%C3%A1s%C3%A1ra)
+- [Összetettebb példa egy Manőver alkalmazására](#%C3%B6sszetettebb-p%C3%A9lda-egy-man%C5%91ver-alkalmaz%C3%A1s%C3%A1ra)
 
 
 Harc közben gyakran előfordul, hogy egy karakter speciális húzásokkal próbálkozik, egyedi cseleket vet be, hogy megkönnyítse győzelmét, például kirúgja ellenfele lábát, vagy homokot szór annak szemébe. Sokszor van olyan is, hogy egy karakter különösen jó egy adott csel alkalmazásában és azt előszeretettel veti be minden új ellenfelénél. De ha egyszer olyannal kerül szembe, aki számít rá...
@@ -445,22 +445,6 @@ Szándékosan rongálod ellenfeled pajzsát, csökkentve annak Védő Értékét
 - Végbevitel követelménye: Aktuális harcmodor - `4.szint`
 - Speciális: Ez ellen a manőver ellen nem számít a pajzs adta Védő Érték!
 - Hatás: Sebzést dobsz. Zúzó- és kétkezes fegyverek sebzése (SP) `1:1`-ben csökkenti ellenfeled pajzsának **Védő Értékét** (véglegesen).
-
----
-#### 💪Páncélszúrás
-
-- Nehézség: `Lásd a leírást`
-- Fázisok: `E V`
-- Max fok: `2`
-- **1. fok követelménye**: Aktuális harcmodor - `6.szint`
-- **2. fok követelménye**: Aktuális harcmodor - `9.szint`
-- Nehézség: vért lefedésétől függ %-ban: `1-10` (példa: Mellvért: `5`, teljes vért: `10`)
-- 
-- Végbevitel követelménye:
-	-  Erre alkalmas fegyver (KM dönt), melynek pengéje befér az ellenfél páncéljának illesztékei közé
-	- Csak **Közelharc** vagy **Kardvívás** harcmodorban használható
-- Hatás: Képes vagy megtalálni ellenfeled páncélján a rést, ahol megkerülheted a vért adta védelmet. Ha fegyvereddel be tudtál szúrni az illesztékek között (a manőver sikerült), akkor dobj rendes sebzést, mely ellen áldozatodnak csak a vértezet alatt viselt további védelmei adnak **SFÉ**-t. Ne feledjük, hogy a teljes vértezet alatt sokszor láncinget viselnek!
-  Sikeres Páncélszúrás esetén az áldozat nem jogosult **Páncéldobásra**.
 
 ---
 #### 💪 Területre/Pontra támadás
