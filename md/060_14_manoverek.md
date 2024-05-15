@@ -2,7 +2,6 @@
 
 - [Szabályok manőverekre](#Szabályok-manőverekre)
 - [Manőverek nehézsége](#Manőverek-nehézsége)
-
 - [Manőver végrehajtásának lépései](#Manőver-végrehajtásának-lépései)
 	- [Megakasztás (M)](#Megakasztás-M)
 	- [Végrehajtás (V)](#Végrehajtás-V)
@@ -10,10 +9,8 @@
 		- [Manőver Pont](#Manőver-Pont)
 		- [Célszám](#Célszám)
 	- [Vállalás](#Vállalás)
-
 - [Manőverek végrehajtása, képzetlenség](#Manőverek-végrehajtása-képzetlenség)
 - [Manőverek fejlesztése, manőver-ismeretek](#Manőverek-fejlesztése-manőver-ismeretek)
-
 - [Manőver lista](#Manőver-lista)
 - [Nem fejleszthető manőverek](#Nem-fejleszthető-manőverek)
 	- [Átdobás](#%EF%B8%8F%C3%A1tdob%C3%A1s)
@@ -23,11 +20,9 @@
 	- [Kiegészítő támadás](#%EF%B8%8Fkieg%C3%A9sz%C3%ADt%C5%91-t%C3%A1mad%C3%A1s)
 	- [Lábtörés](#%EF%B8%8Fl%C3%A1bt%C3%B6r%C3%A9s)
 	- [Leforgatás/Irányítás](#%EF%B8%8Fleforgat%C3%A1sir%C3%A1ny%C3%ADt%C3%A1s)
-	- [Pontra támadás](#%EF%B8%8Fpontra-t%C3%A1mad%C3%A1s)
 	- [Nyaktörés](#%EF%B8%8Fnyakt%C3%B6r%C3%A9s)
 	- [Öklelés](#%EF%B8%8F%C3%B6klel%C3%A9s)
 	- [Pajzzsal öklelés](#%EF%B8%8Fpajzzsal-%C3%B6klel%C3%A9s)
-
 - [Fejleszthető manőverek](#Fejleszthető-manőverek)
 	- [Belharcba kerülés](#%EF%B8%8Fbelharcba-ker%C3%BCl%C3%A9s)
 	- [Belharcból kibontakozás](#%EF%B8%8Fbelharcb%C3%B3l-kibontakoz%C3%A1s)
@@ -38,11 +33,10 @@
 	- [Lefegyverzés / Fegyvertörés - egy konkrét harcmodorra](#%EF%B8%8Flefegyverz%C3%A9s--fegyvert%C3%B6r%C3%A9s---egy-konkr%C3%A9t-harcmodorra)
 	- [Lefejelés](#%EF%B8%8Flefejel%C3%A9s)
 	- [Mesterjel](#%EF%B8%8Fmesterjel)
-	- [Pajzsrombolás](#%EF%B8%8Fpajzsrombol%C3%A1s)
-	- [Páncélszúrás](#%EF%B8%8Fp%C3%A1nc%C3%A9lsz%C3%BAr%C3%A1s)
+	- [Pajzsrongálás](#%EF%B8%8Fpajzsrombol%C3%A1s)
+	- [Területre/Pontra támadás](#%EF%B8%8Fpontra-t%C3%A1mad%C3%A1s) 
 	- [Távoltartás](#%EF%B8%8Ft%C3%A1voltart%C3%A1s)
 	- [Terelés](#%EF%B8%8Fterel%C3%A9s)
-
 - [Lovas Manőverek](#lovas-man%C5%91verek)
 - [Egyszerű példa egy Manőver alkalmazására](#Egyszerű-példa-egy-Manőver-alkalmazására)
 - [Összetettebb példa egy Manőver alkalmazására](#Összetettebb-példa-egy-Manőver-alkalmazására)
@@ -253,18 +247,6 @@ Az alábbiakban bemutatjuk a km100 által ismert manővereket. A KM bármikor r�
 	- Forgatott fegyverre: Mesterfegyver – `1.fok`
 - Hatás: Harc közben egy támadásod helyett valamilyen csalafinta, alattomos húzást vetsz be ellenfeled ellen. Ilyen lehet például, hogy öklöddel váratlanul az arcába csapsz, vagy térden rúgod, esetleg a vállába bokszolsz, stb. Ennek a támadásodnak a sebzése `k20+1`. (Természetesen az esetleges „kiegészítők”, mint *vaskesztyű*, *szegecsek* és az **Erőbónusz** szintén beleszámítanak a sebzésbe.) Ha a sebzés legalább `5`, akkor a fentieken kívül ellenfeled elveszíti következő támadását.
 
-
----
-#### 😑 Pontra támadás
-
-- Nehézség: `~10`
-- Fázisok: `E V`
-- Végbevitel követelménye:
-	-  Harci anatómia - `2.fok`
-- Hatás: Nyakra, szemre, lágyékra és különösen sérülékeny, apró pontokra támadhatsz vele. Ha sikeres a támadás, akkor dobj rendes sebzést és hozzáadhatod a "**Harci anatómiánál**" leírt bónusz sebzéseket. Ha célod egy apró szerv, mint a szem, fül, vagy ujj kiszúrása/levágása, akkor siker esetén sebzésed **Közepes**(⭕?⭕) és megszabadítottad ellenfeledet egy fent leírt testrésztől.
-- Megjegyzés: A „**Pontra támadás**” **nem** használható együtt a **Páncélszúrás** manőverrel! A testrésznek páncél által fedetlennek kell lennie.
-
-
 ---
 #### 😑 Öklelés
 
@@ -452,7 +434,7 @@ Ha meg akarod fosztani ellenfeledet fegyverétől, vagy kiütve kezéből, vagy 
 
 
 ---
-#### 💪Pajzsrombolás
+#### 💪Pajzsrongálás
 
 Szándékosan rongálod ellenfeled pajzsát, csökkentve annak Védő Értékét.
 
@@ -473,14 +455,36 @@ Szándékosan rongálod ellenfeled pajzsát, csökkentve annak Védő Értékét
 - **1. fok követelménye**: Aktuális harcmodor - `6.szint`
 - **2. fok követelménye**: Aktuális harcmodor - `9.szint`
 - Nehézség: vért lefedésétől függ %-ban: `1-10` (példa: Mellvért: `5`, teljes vért: `10`)
-- Speciális:
-	- Végrehajtás (támadás) során **nem kapja meg a +20 TÉ módosítót**! Nem elég a sima találat!
-	- Meglepetés esetén is kell **Ellenpróbát** dobni
+- 
 - Végbevitel követelménye:
 	-  Erre alkalmas fegyver (KM dönt), melynek pengéje befér az ellenfél páncéljának illesztékei közé
 	- Csak **Közelharc** vagy **Kardvívás** harcmodorban használható
 - Hatás: Képes vagy megtalálni ellenfeled páncélján a rést, ahol megkerülheted a vért adta védelmet. Ha fegyvereddel be tudtál szúrni az illesztékek között (a manőver sikerült), akkor dobj rendes sebzést, mely ellen áldozatodnak csak a vértezet alatt viselt további védelmei adnak **SFÉ**-t. Ne feledjük, hogy a teljes vértezet alatt sokszor láncinget viselnek!
   Sikeres Páncélszúrás esetén az áldozat nem jogosult **Páncéldobásra**.
+
+---
+#### 💪 Területre/Pontra támadás
+
+- Nehézség:
+    - `1-9`: páncéllal nem fedett területre támadni. A célpont páncéllal való lefedettségétől függ. 60%-ban fedett áldozat esetén a **Nehézség**: `6`, 90%-nál `9` , és így tovább.
+    - `8`: egy adott végtagra támadni
+    - `10`: egy adott (nagy érme méretű) pontra támadás
+        - Csak Szúrófegyverrel
+        - [Harci Anatómia](fortelyok.harci/harci_anatomia.md) harci fortély **SP bónusza** csak itt használható - ha vértmentes pont a cél.
+        - [Kínokozás](fortelyok.harci/kinokozas.md) harci fortély **Fájdalomtűrés hatása** csak itt használható - ha vértmentes pont a cél.
+    - `12`: Szemkiszúrás
+- Fázisok: `E V`
+- Max fok: `2`
+- **1. fok követelménye**: Aktuális harcmodor - `6.szint`
+- **2. fok követelménye**: Aktuális harcmodor - `9.szint`
+- Speciális:
+	- Végrehajtás (támadás) során **nem kapja meg a +20 TÉ módosítót**! Ha az Ellepróba fázis sikeres, sima támadást dobsz aktuális harcértékeiddel.
+	- Meglepetés esetén is kell **Ellenpróbát** dobni
+
+- Hatás: Az általad kiszemelt területre sikerül leadnod a támadásod. Sebezz, ahogy szoktál, az Harci Anatómia ismerete 
+-Nyakra, szemre, lágyékra és különösen sérülékeny, apró pontokra támadhatsz vele. Ha sikeres a támadás, akkor dobj rendes sebzést és hozzáadhatod a "**Harci anatómiánál**" leírt bónusz sebzéseket. Ha célod egy apró szerv, mint a szem, fül, vagy ujj kiszúrása/levágása, akkor siker esetén sebzésed **Közepes**(⭕?⭕) és megszabadítottad ellenfeledet egy fent leírt testrésztől.
+- Megjegyzés: A „**Pontra támadás**” **nem** használható együtt a **Páncélszúrás** manőverrel! A testrésznek páncél által fedetlennek kell lennie.
+
 
 
 ---
