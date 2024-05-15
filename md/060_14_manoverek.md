@@ -464,11 +464,9 @@ Szándékosan rongálod ellenfeled pajzsát, csökkentve annak Védő Értékét
 - Speciális:
 	- Végrehajtás (támadás) során **nem kapja meg a +20 TÉ módosítót**! Ha az Ellepróba fázis sikeres, sima támadást dobsz aktuális harcértékeiddel.
 	- Meglepetés esetén is kell **Ellenpróbát** dobni
-
 - Hatás: Az általad kiszemelt területre sikerül leadnod a támadásod. Sebezz, ahogy szoktál, az Harci Anatómia ismerete 
 -Nyakra, szemre, lágyékra és különösen sérülékeny, apró pontokra támadhatsz vele. Ha sikeres a támadás, akkor dobj rendes sebzést és hozzáadhatod a "**Harci anatómiánál**" leírt bónusz sebzéseket. Ha célod egy apró szerv, mint a szem, fül, vagy ujj kiszúrása/levágása, akkor siker esetén sebzésed **Közepes**(⭕?⭕) és megszabadítottad ellenfeledet egy fent leírt testrésztől.
 - Megjegyzés: A „**Pontra támadás**” **nem** használható együtt a **Páncélszúrás** manőverrel! A testrésznek páncél által fedetlennek kell lennie.
-
 
 
 ---
