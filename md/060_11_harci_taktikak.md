@@ -270,10 +270,7 @@ Hogy megkapjuk a valós ÉP seb mennyiségét, amit az áldozat elszenved, dobju
 - `3`: a teljes sebzés bement `ÉP`-ben
 Ez azért van, mert egy járatlan támadó nem tudja olyan jól megbecsülni a szükséges erő nagyságát, ha rosszul méri fel az erejét, könnyen komoly sebet okozhat.
 
-**Harci anatómia** fortély minden foka:
-- `3`-al emeli a **Fájdalomtűrés** célszámát
-- `1` seb kategóriával kevesebb kell (Pl. `2.fokon` már csak `3 ÉP` sebzés elég)
-- `K3` hatása `1` kategóriával csökken (Pl. `2.fokon` már sosincs `ÉP` seb)
+**[Harci anatómia](fortelyok.harci/harci_anatomia.md)** harci fortély módosítja a fenti dobást, bónuszait lásd annak leírásánál.
 
 **Megjegyezés**: a Markolat sebzése: `k20 + 0 SP` (Zúzó)
 
@@ -282,7 +279,7 @@ Ez azért van, mert egy járatlan támadó nem tudja olyan jól megbecsülni a s
 
 Kapcsoló fortély: [Harci anatómia](fortelyok.harci/harci_anatomia.md)
 
-Ha **Észrevétlen támadást** sikerül leadnod, akkor érvényesülnek a **Harci anatómia** fortélynál leírt bónuszok. `VÉ` értékét lásd az [Észrevétlen támadás](060_10_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s) résznél.
+Ha [Észrevétlen támadás](060_10_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s) sikerül leadnod (`VÉ` értékét lásd ott), akkor érvényesülnek a [Harci anatómia](fortelyok.harci/harci_anatomia.md) fortélynál leírt bónuszok.
 
 ---
 ### Pontok támadása harc közben
