@@ -10,7 +10,7 @@
 
 **Szabad Hátterek**
 - [Asztrológia](../hatterek.szabad/asztrologia.md)
-- Építészet SzH  ⭕  (Nyomozást is kiterjeszti)   - VAGY legyen Fortély
+- [Építészet](https://github.com/kaktusztea/km100/blob/master/md/fortelyok.altalanos/epiteszet.md) - ez Fortély!!⭕
 - [Jogismeret](../hatterek.szabad/jogismeret.md)
 - [Mechanika](../fortelyok.altalanos/mechanika.md)
 - [Pénzügyek](../hatterek.szabad/penzugyek.md)
