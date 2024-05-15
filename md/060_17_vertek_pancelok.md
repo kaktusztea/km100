@@ -65,9 +65,10 @@ Az SFÉ független attól, hogy csak egy mellvért-darab, vagy teljes páncélza
 
 #### Páncél struktúrák, Anyagminőség
 
-Az SFÉ értékét a páncél fizikai felépítése, anyaga adja. Az egyes páncél **Struktúrák** különbözőképpen alkalmasak a négy fő támadási típus (szúró/vágó/zúzó/energia) ellen való védekezésre. Sebzéskor a támadó karakter dobás után bemondja végleges SP értékét (példa: "`18, Szúró`”), és az áldozat annak megfelelő (`Szúró`) SFÉ értéket von le belőle.
+Az SFÉ értékét a páncél fizikai felépítése **ÉS** anyaga adja. Az egyes páncél **Struktúrák** (pl. lánc, lemez) és **Alapanyagok** (bőr, acél) különbözőképpen alkalmasak a négy fő támadási típus (szúró/vágó/zúzó/energia) ellen való védekezésre. A km100 rendszerében a fenti két jellemzőt (Struktúra és Alapanyag) egyben kezeljük, mivel a vértek kidolgozása már amúgy is elég komplex feladat.
+Sebzéskor a támadó karakter dobás után bemondja végleges SP értékét (példa: "`18, Szúró`”), és az áldozat annak megfelelő (`Szúró`) SFÉ értéket von le belőle.
 
-Az egyes **fém-páncél** példányok struktúrális Anyagminősége erősen eltérhet (függ az alapanyag (ötvözet) összetételétől és a készítő mestertől anyagmegmunkálási ismereteitől is). Lenn a `+/-` oszlopnál jelezzük ennek az SFÉ "mozgástérnek" a kereteit. A jobb anyagminőség viszont nagyon megdobhatja a vért árát - lásd "Ár" oszlop.
+Az egyes páncél példányok struktúrális **Anyagminősége** erősen eltérhet, a **fém-páncéloké** jelentősebben, mert függ az alapanyag - ötvözet - összetételétől és a készítő mestertől anyagmegmunkálási ismereteitől is. Lenn a `+/-` oszlopnál jelezzük ennek az SFÉ "mozgástérnek" a kereteit. A jobb anyagminőség viszont nagyon megdobhatja a vért árát - lásd "Ár" oszlop.
 
 | **Struktúra**       | **Szúró SFÉ** | **Vágó SFÉ** | **Zúzó SFÉ** | Energia SFÉ | +/- | **Ár** |
 | ------------------- | :-----------: | :----------: | :----------: | :---------: | :-: | :----: |
