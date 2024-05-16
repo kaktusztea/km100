@@ -57,11 +57,11 @@ Ez is képzettségpróba.
 `1` kör. Kitolása Erősség növelésével.
 ⭕TODO⭕: hivatkozás mágiaelmélet oldalra.
 
-##### Nehézség
+##### Komplexitás
 
-| **Formák**                                             |          **+Nehézség**           |
+| **Formák**                                             |          **+Komplexitás**           |
 | ------------------------------------------------------ |:--------------------------------:|
-| Alap Nehézség                                          |                6                 |
+| Alap Komplexitás                                          |                6                 |
 |                                                       |                                  |
 | Alapvető formák<br>(gömb, nyíl, kitörés, szőnyeg, fal) |                +0                |
 | Haladó formák<br>(aura, sátor, zápor, csóva, kard)     |                +3                |
@@ -70,13 +70,13 @@ Ez is képzettségpróba.
 
 <br />
 
-| **Irányítás  <br>**(ahol a forma szerint értelmezhető) |              **+Nehézség**               | **Támadó érték**<br>(ha az idézett forma közelharcba kezd az áldozattal)<br>(alap VÉ számít, ha nem mágikus a fegyver) |
-| ------------------------------------------------------ |:----------------------------------------:|:----------------------------------------------------------------------------------------------------------------------:|
-| Lassú mozgatás,<br>Kocogó ember sebessége              |                    +3                    |                                                     TÉ=40;VÉ:120\*                                                     |
-| Átlagos mozgatás,<br>Sprintelő ember sebessége         |                    +6                    |                                                     TÉ=80;VÉ:160\*                                                     |
-| Gyors mozgatás,<br>Mágikus lövedék I.                  |                    +9                    |                                                    TÉ=120;VÉ:180\*                                                     |
-| Nagyon gyors mozgatás,<br>Mágikus lövedék II.          |                   +12                    |                                                    TÉ=160;VÉ:240\*                                                     |
-| Nagyon gyors mozgatás,<br>Mágikus lövedék III.         |                   +15                    |                                                    TÉ=200\;VÉ:280*                                                     |
+| **Irányítás  <br>**(ahol a forma szerint értelmezhető) |              **+Komplexitás**               | **Támadó érték**<br>(ha az idézett forma közelharcba kezd az áldozattal)<br>(alap VÉ számít, ha nem mágikus a fegyver) |
+| ------------------------------------------------------ | :-----------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
+| Lassú mozgatás,<br>Kocogó ember sebessége              |                     +3                      |                                                     TÉ=40;VÉ:120\*                                                     |
+| Átlagos mozgatás,<br>Sprintelő ember sebessége         |                     +6                      |                                                     TÉ=80;VÉ:160\*                                                     |
+| Gyors mozgatás,<br>Mágikus lövedék I.                  |                     +9                      |                                                    TÉ=120;VÉ:180\*                                                     |
+| Nagyon gyors mozgatás,<br>Mágikus lövedék II.          |                     +12                     |                                                    TÉ=160;VÉ:240\*                                                     |
+| Nagyon gyors mozgatás,<br>Mágikus lövedék III.         |                     +15                     |                                                    TÉ=200\;VÉ:280*                                                     |
 |                                                        | ⭕Összpontosítás próba<br />nehézsége is nő⭕ |                                                                                                                        |
 
 
@@ -106,24 +106,24 @@ A fenti példánál az ez `3`, mert annyira „nyújtja ki” a varázsló.
 
 ###### Gyors tűzgolyó
 
-- **Nehézség**: `6 + 0 (gömb) + 3 (gyors) = 9`
+- **Komplexitás**: `6 + 0 (gömb) + 3 (gyors) = 9`
 - **TÉ**=`100`
 
 ###### Veszedelmes 2 fejű tűzsárkány
 
-- **Nehézség**: `6 + 6 (szabad forma) + 3 (két fej = 2 rész) + 3 (gyors) = 18`
-  - +1 fej még +3-al emelné a nehézséget
+- **Komplexitás**: `6 + 6 (szabad forma) + 3 (két fej = 2 rész) + 3 (gyors) = 18`
+  - +1 fej még +3-al emelné a Komplexitást
   - A sárkány irányításához **Összpontosítás** próba is dobatható (KM határozza meg a célszámot)
 - **TÉ**=`100`
 
 ###### Lecsapó tűzkígyó
 
-- **Nehézség**: `6 + 6 (szabad forma) + 8 (villámgyors) = 20`
+- **Komplexitás**: `6 + 6 (szabad forma) + 8 (villámgyors) = 20`
 - **TÉ**=`150`
 
 ---
 #### Elementál idézése
-| **Elementál** | **Erősség** | **Nehézség** |     | **Körülmény** | **+Nehézség** |
+| **Elementál** | **Erősség** | **Komplexitás** |     | **Körülmény** | **+Komplexitás** |
 | ------------- | ----------- | ------------ | --- | ------------- | ------------- |
 | Szolga        | `10`        | `10`         |     |               |               |
 | Harcos        | `14`        | `14`         |     |               |               |
@@ -138,10 +138,10 @@ A megidézett elementálokra mentálisan, vagy asztrálisan hatni a következő 
 #### Elementál űzése
 
 - Mana: lénytől függ
-- Nehézség: lénytől függ
+- Komplexitás: lénytől függ
 - Időtartam: ⭕???⭕
   
-| **Elementál** | **Erősség** | **Nehézség** |     | **Körülmény**          | **+Nehézség** |
+| **Elementál** | **Erősség** | **Komplexitás** |     | **Körülmény**          | **+Komplexitás** |
 | ------------- | ----------- | ------------ | --- | ---------------------- | ------------- |
 | Szolga        | `12`        | `12`         |     | Elementál maradni akar | `+3`          |
 | Harcos        | `16`        | `16`         |     | Elementál menni akar   | `+0`          |
