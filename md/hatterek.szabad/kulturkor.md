@@ -67,6 +67,7 @@ Hogy mely foka adja meg az adott kultúrkörben a levonások nélküli használa
 Ha nincs épp meg az adott szituációban a szükséges kultúrkörhöz tartozó **Kultúrkör** Szabad Háttér, akkor `+3`-al emelkednek az adott képzettség próbáinak nehézségei, amíg a karakter rá nem szánja a szükséges időt a kapcsolódó Kultúrkör Háttér megszerzésére.
 
 ##### Kultúrkör lista draft
+- erv
 - toroni
 - pyarroni
 - shadoni
