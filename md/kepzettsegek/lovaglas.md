@@ -26,14 +26,22 @@
 
 <br />
 
+---
+##### Képzettség Bónuszok
+
+###### Állat testvér
+
+Megegyezik a [Léglovaglás](leglovaglas.md) ⭕link⭕ képzettségnél leírtakkal.
+
+---
 ##### Próbák
 
-| Célszám              | Példa                                                                                                                                                                                                                                                                                         |
-| :------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Könnyű       (6)     | Egyedül, léptetve átbaktatni a szomszédos faluba. Nyugodt körülmények között galoppozni.                                                                                                                                                                                                      |
-| Átlagos      (9)     | Esőben galoppozni, kicsit vágtázni.                                                                                                                                                                                                                                                           |
-| Nehéz        (12)    | Hátassal harcolni. Makrancos hátast először sikeresen megülni.                                                                                                                                                                                                                                |
-| Nagyon nehéz (15)    | Tömegben harcolni. Durván kitört hátast „rendezni”.                                                                                                                                                                                                                                           |
+| Célszám              | Példa                                                                                                                                                                                                                                                                               |
+| :------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Könnyű       (6)     | Egyedül, léptetve átbaktatni a szomszédos faluba. Nyugodt körülmények között galoppozni.                                                                                                                                                                                            |
+| Átlagos      (9)     | Esőben galoppozni, kicsit vágtázni.                                                                                                                                                                                                                                                 |
+| Nehéz        (12)    | Hátassal harcolni. Makrancos hátast először sikeresen megülni.                                                                                                                                                                                                                      |
+| Nagyon nehéz (15)    | Tömegben harcolni. Durván kitört hátast „rendezni”.                                                                                                                                                                                                                                 |
 | Rendkívül nehéz (18) | Vakon vágtázni. Telepatikusan megértetni az állattal, hogy veszély közeleg és menjen egy adott helyre a közelben (csak "[Állat testvér](../043_bonusz_hatterek.md#-állat-testvér)" megléte esetén).                                                                                 |
 | Emberfeletti (21)    | Tomboló viharban egy vágtázó hátason egy lábon állva fél percig megmaradni. Telepatikusan megértetni az állattal komplexebb, előre nem begyakorolt feladatokat (csak "[Állat testvér](../043_bonusz_hatterek.md#-állat-testvér)" megléte esetén). KM szava dönt, de legyünk észnél. |
 
