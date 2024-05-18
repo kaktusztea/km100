@@ -1,4 +1,4 @@
-#### 🔴 Orvoslás
+#### 🔵 Orvoslás
 
 → [STUDY: Gyógyítás](https://github.com/kaktusztea/km100/wiki/STUDY.gyogyitas.gyogyulas)
 

@@ -1,4 +1,4 @@
-#### 🔴Távolsági harcmodor
+#### 🔵Távolsági harcmodor
 
 **Próba:** nincs, csak biztos tudásból
 

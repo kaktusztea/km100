@@ -6,11 +6,7 @@ A szabályrendszer dokumentumaiban speciális unicode karaktereket használunk j
 
 ---
 ## Aktív jelzők
-⚪ Tulajdonság
-
-🔴 Átfogó képzettség 🔵 Átlagos képzettség
-
-🟣 Fortély / Háttér
+⚪ Tulajdonság 🔵 Képzettség 🟣 Fortély / Háttér
 
 🗡️ Harci taktika, Harci szituáció vagy Manőver
 

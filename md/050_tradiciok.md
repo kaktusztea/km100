@@ -6,14 +6,14 @@
 
 ### Tradíciók
 ```
-- Átfogó, primer képzettség (max: szint+3)
+- Primer képzettség (max: szint+3)
 - Mágia tradíciók 6. szinttől varázsolhatnak
 ```
 
 A km100 rendszerében a Tradíciók reprezentálják az egyedi, különleges, karakter életútját alapjaiban meghatározó "csomagot".\
 Egy-két kivételtől eltekintve a karakterek **csak 1 Tradíciót vehetnek fel**, azt is **csak 1. tapasztalati szinten**.
 
-Mindegyik Tradíció **Átfogó**, primer képzettség, így ez is csak `szint+3` határig növelhető.
+Mindegyik Tradíció Primer képzettség, így ez is csak `szint+3` határig növelhető.
 
 Milyen Tradíciókat ismer a km100 rendszere?
 

@@ -10,10 +10,10 @@
 Követelmények:
 - tisztavérű dzsenn származás
 - Pszí használat fortély: `2. fok`⭕(3?)
-- Pszi Általános képzettség (átlagos) felvétele, amelynek szintje nem lehet alacsonyabb, mint a Dzsenn tradíció képzettség
+- Pszi Általános képzettség (Primer) felvétele, amelynek szintje nem lehet alacsonyabb, mint a Dzsenn tradíció képzettség
 - az egyes dzsenn különleges képességeknek nincs olyan változata, amelyek e tradíció nélkül működnének
 
-A **Dzsenn tradíció**, a többihez hasonlóan - egy Átfogó képzettség.
+A **Dzsenn tradíció**, a többihez hasonlóan - egy Primer képzettség.
 
 A dzsenn karakter a Tradícióval azonos szinten ingyen megkapja a **Mentálmágia** Arkánumot, amit `3.` szinttől kezdve ösztönösen használni is tud.
 

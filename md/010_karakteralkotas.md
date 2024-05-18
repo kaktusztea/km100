@@ -706,11 +706,11 @@ A karakterek 1. tapasztalati-szinten (TSz) `150 KP`-t (KP Alap), valamint minden
     (CM = Célzó Érték Módosító, ami a CÉ-re fordítandó harcérték módosítót jelöli)
   - ⭕`max 5 HM/Tsz` tehető egy harcértékre⭕
 
-- Mágiaiskolák: **Átfogó** képzettségek. Csak azok a mágiaiskolák tanulhatóak, amelyek a karakter által ismert mágia tradíció alá tartoznak.
+- Mágiaiskolák: **Primer** képzettségek. Csak azok a mágiaiskolák tanulhatóak, amelyek a karakter által ismert mágia tradíció alá tartoznak.
 
 - Pszí tradíció, Pszí iskola
   - Pszí-alkalmazás: `4 fokú fortély` egyre erősebb követelményekkel. Az alkalmazás fokát adja, nélküle nem lehet ψ iskolát tanulni.
-  - Pszí iskola: Átfogó képzettség. Extra diszciplínákat egyes Tradíciók (Mágikus, Faj) adhatnak
+  - Pszí iskola: Primer képzettség. Extra diszciplínákat egyes Tradíciók (Mágikus, Faj) adhatnak
 
 ## Manőverek, Manőver Fejlesztő Pontok
 

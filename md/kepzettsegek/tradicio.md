@@ -1,4 +1,4 @@
-#### 🔴 Tradíció
+#### 🔵 Tradíció
 
 **Próba:** dobható
 

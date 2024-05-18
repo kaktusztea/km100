@@ -1,16 +1,32 @@
 # Képzettségek
 
-🔴Átfogó képzettség 🔵Átlagos képzettség\
-🔁Többször felvehető, 🅿️Primer, ⭕TODO, kérdéses
+🔵 Képzettség 🔁Többször felvehető, 🅿️Primer, ⭕TODO, kérdéses
 
 ---
 
-```
-→ Primer képzettségek: minden harci, misztikus, mágikus képzettség
-                       + Észlelés, Összpontosítás, Fájdalomtűrés,
-                       + Akrobatika, Lopakodás/rejtőzés, Nyomozás
+
+→ Primer képzettségek:
+- minden harci képzettség
+- minden misztikus, mágikus, szakrális képzettség
+- Akrobatika
+- Aurafejlesztés
+- Befolyásolás
+- Demonológia
+- Emberismeret
+- Észlelés
+- Fájdalomtűrés
+- Lopakodás/rejtőzés
+- Méregkeverés
+- Nyomozás
+- Orvoslás
+- Ősi nyelv ismerete
+- Összpontosítás
+- Történelemismeret
+- Tradíció
+- Tudományok
+
 → Szekunder képzettségek: minden más képzettség
-```
+
 
 ---
 
@@ -37,28 +53,28 @@
 ---
 ## Harci képzettségek 🅿️
 
-🔴[Közelharc](kepzettsegek/harcmodor.md) <sup><sub>(60%)</sub></sup>
+🔵[Közelharc](kepzettsegek/harcmodor.md) <sup><sub>(60%)</sub></sup>
 
-🔴[Kardvívás](kepzettsegek/harcmodor.md)
+🔵[Kardvívás](kepzettsegek/harcmodor.md)
 
-🔴[Lándzsavívás](kepzettsegek/harcmodor.md)
+🔵[Lándzsavívás](kepzettsegek/harcmodor.md)
 
-🔴[Zúzás](kepzettsegek/harcmodor.md)
+🔵[Zúzás](kepzettsegek/harcmodor.md)
 
-🔴[Hajítás](kepzettsegek/tavolsagi_harcmodor.md) <sup><sub>(40%)</sub></sup>
+🔵[Hajítás](kepzettsegek/tavolsagi_harcmodor.md) <sup><sub>(40%)</sub></sup>
 
-🔴[Íjászat](kepzettsegek/tavolsagi_harcmodor.md)
+🔵[Íjászat](kepzettsegek/tavolsagi_harcmodor.md)
 
-🔴[Lövészet](kepzettsegek/tavolsagi_harcmodor.md)
+🔵[Lövészet](kepzettsegek/tavolsagi_harcmodor.md)
 
-🔴[Ostromlövészet](kepzettsegek/tavolsagi_harcmodor.md)
+🔵[Ostromlövészet](kepzettsegek/tavolsagi_harcmodor.md)
 
-🔴[Mágikus lövészet](kepzettsegek/magikus_loveszet.md) <sup><sub>(40%)</sub></sup>
+🔵[Mágikus lövészet](kepzettsegek/magikus_loveszet.md) <sup><sub>(40%)</sub></sup>
 
 ---
 ## Fizikai képzettségek
 
-🔴[Akrobatika](kepzettsegek/akrobatika.md) 🅿️
+🔵[Akrobatika](kepzettsegek/akrobatika.md) 🅿️
 
 🔵[Fájdalomtűrés](kepzettsegek/fajdalomtures.md) 🅿️ <sup><sub>(70%)</sub></sup>
 
@@ -71,7 +87,7 @@
 ---
 ## Világi képzettségek
 
-🔴[Befolyásolás](kepzettsegek/befolyasolas.md) 🅿️ <sup><sub>(0%)</sub></sup>
+🔵[Befolyásolás](kepzettsegek/befolyasolas.md) 🅿️ <sup><sub>(0%)</sub></sup>
 
 🔵[Emberismeret](kepzettsegek/emberismeret.md) 🅿️ <sup><sub>(90%)</sub></sup>
 
@@ -87,7 +103,7 @@
 
 🔵[Nyomozás](kepzettsegek/nyomozas.md) 🅿️ <sup><sub>(50%)</sub></sup>
 
-🔴[Orvoslás](kepzettsegek/orvoslas.md) <sup><sub>(40%)</sub></sup>
+🔵[Orvoslás](kepzettsegek/orvoslas.md) <sup><sub>(40%)</sub></sup>
 
 🔵[Szakma](kepzettsegek/szakma.md) <sup><sub>(20%)</sub></sup> 🔁
 
@@ -132,77 +148,77 @@ Az aktív előadást igénylő művészeteket szeparáltuk az **Előadóművész
 
 🔵[Hadvezetés](kepzettsegek/hadvezetes.md) <sup><sub>(0%)</sub></sup> 
 
-🔴[Méregkeverés](kepzettsegek/meregkeveres.md) <sup><sub>(90%)</sub></sup>
+🔵[Méregkeverés](kepzettsegek/meregkeveres.md) <sup><sub>(90%)</sub></sup>
 
-🔴[Történelemismeret](kepzettsegek/tortenelemismeret.md) <sup><sub>(40%)</sub></sup> 
+🔵[Történelemismeret](kepzettsegek/tortenelemismeret.md) <sup><sub>(40%)</sub></sup> 
 
-🔴[Tudományok](kepzettsegek/tudomanyok.md) <sup><sub>(10%)</sub></sup>
+🔵[Tudományok](kepzettsegek/tudomanyok.md) <sup><sub>(10%)</sub></sup>
 
 ---
 ## Misztikus képzettségek 🅿️
 
-🔴[Aurafejlesztés](kepzettsegek/aurafejlesztes.md)
+🔵[Aurafejlesztés](kepzettsegek/aurafejlesztes.md)
 
-🔴[Demonológia*](kepzettsegek/demonologia.md) <sup><sub>(80%)</sub></sup>
+🔵[Demonológia*](kepzettsegek/demonologia.md) <sup><sub>(80%)</sub></sup>
 
-🔴[Ősi nyelv ismerete](kepzettsegek/osi_nyelv_ismerete.md) <sup><sub>(0%)</sub></sup> 🔁
+🔵[Ősi nyelv ismerete](kepzettsegek/osi_nyelv_ismerete.md) <sup><sub>(0%)</sub></sup> 🔁
 
 🔵[Összpontosítás](kepzettsegek/osszpontositas.md) <sup><sub>(10%)</sub></sup>
 
-🔴[Pszí iskola](kepzettsegek/pszi_iskola.md)
+🔵[Pszí iskola](kepzettsegek/pszi_iskola.md)
 
-🔴[Tradíció](kepzettsegek/tradicio.md)
+🔵[Tradíció](kepzettsegek/tradicio.md)
 
 ---
 ## Mágikus Szférák és Arkánumaik 🅿️
 
 ### Mágia Szféra
 
-🔴[Mana](magia.arkanumok/mana.md)
+🔵[Mana](magia.arkanumok/mana.md)
 
-🔴[Aura/Pszí](magia.arkanumok/aura_pszi.md)
+🔵[Aura/Pszí](magia.arkanumok/aura_pszi.md)
 
 ### Anyag szféra
 
-🔴[Elemi mágia](magia.arkanumok/elemi_magia.md) <sup><sub>(30%)</sub></sup>
+🔵[Elemi mágia](magia.arkanumok/elemi_magia.md) <sup><sub>(30%)</sub></sup>
 
-🔴[Természetes anyagok mágiája](magia.arkanumok/termeszetes.anyagok.magiaja.md)
+🔵[Természetes anyagok mágiája](magia.arkanumok/termeszetes.anyagok.magiaja.md)
 
 ###  Lélek szféra
 
-🔴[Asztrálmágia](magia.arkanumok/asztralmagia.md)
+🔵[Asztrálmágia](magia.arkanumok/asztralmagia.md)
 
-🔴[Mentálmágia](magia.arkanumok/mentalmagia.md)
+🔵[Mentálmágia](magia.arkanumok/mentalmagia.md)
 
 ### Jelenségek szféra
 
-🔴[Illúziók](magia.arkanumok/illuziok.md)
+🔵[Illúziók](magia.arkanumok/illuziok.md)
 
-🔴[Természeti jelenségek](magia.arkanumok/termeszeti.jelensegek.md)
+🔵[Természeti jelenségek](magia.arkanumok/termeszeti.jelensegek.md)
 
 ### Téridő szféra
 
-🔴[Időmágia](magia.arkanumok/idomagia.md)
+🔵[Időmágia](magia.arkanumok/idomagia.md)
 
-🔴[Térmágia](magia.arkanumok/termagia.md)
+🔵[Térmágia](magia.arkanumok/termagia.md)
 
 ### Életerő szféra
 
-🔴[Gyógyítás](magia.arkanumok/gyogyitas.md)
+🔵[Gyógyítás](magia.arkanumok/gyogyitas.md)
 
-🔴[Nekromancia](magia.arkanumok/nekromancia.md)  <sup><sub>(15%)</sub></sup>
+🔵[Nekromancia](magia.arkanumok/nekromancia.md)  <sup><sub>(15%)</sub></sup>
 
 ### Idézés szféra
 
-🔴[Belső síkok lényeinek idézése](magia.arkanumok/idezes.belso.sikok.md)
+🔵[Belső síkok lényeinek idézése](magia.arkanumok/idezes.belso.sikok.md)
 
-🔴[Külső síkok lényeinek idézése](magia.arkanumok/idezes.kulso.sikok.md)
+🔵[Külső síkok lényeinek idézése](magia.arkanumok/idezes.kulso.sikok.md)
 
 ### Sors szféra
 
-🔴[Sors Érzékelés](magia.arkanumok/sors.erzekeles.md)
+🔵[Sors Érzékelés](magia.arkanumok/sors.erzekeles.md)
 
-🔴[Sors Befolyásolás](magia.arkanumok/sors.befolyasolas.md)
+🔵[Sors Befolyásolás](magia.arkanumok/sors.befolyasolas.md)
 
 ### Titkos Szféra
 
