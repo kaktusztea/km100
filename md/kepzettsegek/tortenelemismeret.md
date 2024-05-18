@@ -47,7 +47,7 @@ Amennyiben nincs meg a próbát érintő **Kultúrkör** Háttér legalább `2.f
 | Mester (9)       | ⭕xyz <br /> **Példa**: x                                                          |             |
 | Nagymester (12)  | ⭕xyz <br /> **Példa**: x                                                          |             |
 | Élő legenda (15) | ⭕xyz <br /> **Példa**: x                                                          |             |
-##### Bónusz-Hátterek
+##### Képzettség Bónuszok
 
 9. szint: ⭕TODO⭕; Hatodkori történelem ismerete
 12. szint: Ötödkori történelem ismerete; Postcognition álmok (látja a valós régmúlt eseményeit álmában)
