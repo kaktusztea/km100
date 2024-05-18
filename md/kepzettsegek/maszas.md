@@ -48,6 +48,19 @@ Az [Akrobatika](akrobatika.md) képzettség - helyzettől és a KM döntésétő
 
 <br />
 
+---
+##### Képzettség Bónuszok
+
+###### Tapadás
+
+Titkos, félmágikus ismeret.
+
+**Követelmény**: Életed a mászás, Mászás - `15.szint`
+
+`15.szint`: Képes vagy pókként megtapadni a falon – akár a mennyezeten is. A kapaszkodáshoz nincs szükséged kiszögelésre.
+
+
+---
 ##### Próbák
 
 | Célszám | Példa  |
