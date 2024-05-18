@@ -5,13 +5,11 @@
 A Szabad Hátterek specializált, egy, vagy több képzettséget "kiterjesztő" ismeretek.
 #### Szabad Pontok
 ```
-Helyismeret Háttérre: 3 SzP
-Kultúrkör Háttérre:   3 SzP
-
-Szabad Pontok = Tapasztalati Szint
+Szabad Pontok = Tapasztalati Szint ⭕
 ```
 
 A Helyismeret (3 fokú) és Kultúrkör (3 fokú) Szabad Hátterekre 1. Tapasztalati Szinten minden karakter kap 3-3 Szabad Pontot, amit tetszőlegesen költhet el.
+⭕TODO: rework⭕
 
 #### Felvétel
 Hozzájutni ilyen Hátterekhez kétféleképpen lehet:
