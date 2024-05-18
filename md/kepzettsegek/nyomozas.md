@@ -10,10 +10,7 @@ Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-
 
 **Erős Összhang**: [Emberismeret](emberismeret.md) (szituáció-függő)
 
-**Bónusz Hátterek**: ⭕TODO
-
-**Kiterjeszti**:
-
+**Szabad Hátterek kiterjesztik**:
 - [Heraldika](../hatterek.szabad/heraldika.md)
 - [Pénzügyek](../hatterek.szabad/penzugyek.md)
 - [Jogismeret](../hatterek.szabad/jogismeret.md)

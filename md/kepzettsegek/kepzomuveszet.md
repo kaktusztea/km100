@@ -6,9 +6,7 @@
 
 **Kapcsolódó fortélyok**: ⭕xyz
 
-**Bónusz Háttér**: ⭕xyz
-
-**Kiterjeszti**:
+**Szabad Hátterek kiterjesztik**: ⭕
 - [Kultúrkör](../hatterek.szabad/kulturkor.md) (kapcsolódó kultúra)
 .
 - [Festészet](../hatterek.szabad/festeszet.md)

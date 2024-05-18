@@ -13,7 +13,7 @@ Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-
 
 **Kapcsolódó fortélyok**: xyz
 
-**Bónusz-Háttér**: xyz
+**Szabad Hátterek kiterjesztik**: ⭕
 
 **Leírás**: xyz
 

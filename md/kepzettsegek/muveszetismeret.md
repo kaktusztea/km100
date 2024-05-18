@@ -6,9 +6,7 @@
 
 **Kapcsolódó fortélyok**: [Építészet](../fortelyok.altalanos/epiteszet.md) ⭕
 
-**Bónusz Háttér**: -
-
-**Szabad Háttérek**:
+**Szabad Hátterek kiterjesztik**: ⭕
 - [Kultúrkör](../hatterek.szabad/kulturkor.md) 
 
 valamint:

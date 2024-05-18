@@ -10,6 +10,8 @@ Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-
 
 **Kapcsolódó fortélyok**:  [Keresés](../fortelyok.altalanos/kereses.md), [Villámgyors keresés](../fortelyok.altalanos/villamgyors.kereses.md)  [Éber alvó](../fortelyok.altalanos/eber_alvo.md)
 
+**Szabad Hátterek kiterjesztik**: ⭕
+
 **Leírás**: Az Észlelés valaminek az észrevételét takarja. Ez lehet egy villanó tőr, egy meglapuló merénylő a lombok közt, egy árulkodó súrlódó nesz. Fontos, hogy az Észlelés csak a momentum észrevételt jelenti, annak értelmezését nem! Az a játékos feladata, melyet esetleg megkönnyíthet például a [Nyomozás](nyomozas.md), vagy a [Természetjárás](termeszetjaras.md) képzettség.
 
 A képzettség szituációs alkalmazásáról bővebben az [Érzékelés, észlelés](../140_erzekeles_eszleles.md) fejezetben olvashatsz.

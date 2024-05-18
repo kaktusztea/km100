@@ -10,9 +10,7 @@ Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-
 
 **Kapcsolódó fortélyok**: -
 
-**Bónusz Hátterek**: ⭕TODO
-
-**Szabad Hátterek**
+**Szabad Hátterek kiterjesztik**: ⭕
 - [Heraldika](../hatterek.szabad/heraldika.md)
 - [Kultúrkör](../hatterek.szabad/kulturkor.md)
 - [Pénzügyek](../hatterek.szabad/penzugyek.md)

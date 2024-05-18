@@ -6,9 +6,7 @@
 
 **Kapcsolódó fortélyok**: xyz
 
-**Bónusz-Háttér**: [Állat testvér](../043_bonusz_hatterek.md#-állat-testvér)
-
-**Szabad-Hátterek**: [Lénylovas](../hatterek.szabad/lenylovas.md)
+**Szabad Háttér**: [Lénylovas](../hatterek.szabad/lenylovas.md) (1 faj ingyenes; az adott állatot is tudod idomítani)
 
 **Leírás**: a képzettség egyes állatok idomítását fogja egybe és állatcsoportokra lehet megtanulni, amelyeket a fenti **Szabad Hátterek** határoznak meg. Ebből 1 alapból jár a képzettség felvételekor, a többi `SzP` használatával vehető fel később.
 
@@ -21,10 +19,8 @@
 | Novícius (3)     | ⭕xyz <br /> **Példa**: x                                                           |             |
 | Kismester (6)    | ⭕xyz <br /> **Példa**: x                                                           |             |
 | Mester (9)       | ⭕xyz <br /> **Példa**: x                                                           |             |
-| Nagymester (12)  | [Állat testvér](#%C3%A1llat-testv%C3%A9r)                                           |             |
-| Élő legenda (15) | [Állat testvér](#%C3%A1llat-testv%C3%A9r)                                           |             |
-
-#%C3%A1llat-testv%C3%A9r
+| Nagymester (12)  | [Állat testvér](#%C3%A1llat-testv%C3%A9r)                                          |             |
+| Élő legenda (15) | [Állat testvér](#%C3%A1llat-testv%C3%A9r)                                          |             |
 
 <br />
 

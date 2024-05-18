@@ -8,6 +8,8 @@ Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-
 
 **Kapcsolódó fortélyok**: ⭕xyz
 
+**Szabad Hátterek kiterjesztik**: ⭕
+
 **Leírás**: Primer misztikus képzettség, amihez alapos, előtörténettel megtámogatott indoklás kell, hogy a karakter felvehesse. Alsóbb szinteken a képzettség csupán elméleti tudást takar. Magasabb szinten (9-es Demonológia képzettségtől) már lehetőséget ad a démonokra való varázslásra mentál és asztrálmágia formájában -  amennyiben az alkalmazó képes a fenti iskolaformák varázslatait alkalmazni.
 
 <br />
