@@ -49,4 +49,4 @@ Megegyezik az [Idomítás](idomitas.md#%C3%A1llat-testv%C3%A9r) képzettségnél
 ##### Célszámot módosító körülmények
 
 - Vad hátas: + [1-3]
-- Más fajú légi hátas esetén: [Lénylovas](../hatterek.szabad/lenylovas.md) Bónusz-Háttér
+- Más fajú légi hátas esetén: [Lénylovas](../hatterek.szabad/lenylovas.md) Szabad Háttér
