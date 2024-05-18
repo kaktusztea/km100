@@ -11,6 +11,7 @@
 **Szabad Hátterek**
 - [Asztrológia](../hatterek.szabad/asztrologia.md)
 - [Építészet](https://github.com/kaktusztea/km100/blob/master/md/fortelyok.altalanos/epiteszet.md) - ez Fortély!!⭕
+- [Heraldika](../hatterek.szabad/heraldika.md)
 - [Jogismeret](../hatterek.szabad/jogismeret.md)
 - [Mechanika](../fortelyok.altalanos/mechanika.md) - ez Fortély!!⭕
 - [Pénzügyek](../hatterek.szabad/penzugyek.md)
