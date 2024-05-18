@@ -1,5 +1,7 @@
 #### 🔵 Ősi nyelv ismerete 🔁
 
+Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-ismeretek-kateg%C3%B3ri%C3%A1i).
+
 Ősi nyelvenként külön-külön kell felvenni.
 
 → [STUDY](https://github.com/kaktusztea/km100/wiki/STUDY.osi.nyelv.ismerete)

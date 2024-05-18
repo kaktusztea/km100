@@ -1,5 +1,7 @@
 #### 🔵 Demonológia
 
+Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-ismeretek-kateg%C3%B3ri%C3%A1i).
+
 **Próba**: Idézés csak biztos tudásból: vagy emlékszik az adatokra és a rituálékra, vagy nem. Démonokra varázslásra (asztrál/mentál) van próba. Lásd lenn.
 
 **Domináns Tulajdonságok**: Emlékezet, Intelligencia és Önuralom a gondolkodásmódjuk kiismeréséhez, Érzékenység az idézéshez.

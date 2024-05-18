@@ -1,5 +1,7 @@
 #### 🔵 Méregkeverés
 
+Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-ismeretek-kateg%C3%B3ri%C3%A1i).
+
 → [Lásd: Méregrendszer](../130_meregrendszer.md)
 
 **Próba**: van, a rontás rejtett, a játékos csak a méreg alkalmazásakor szembesül a balsikerrel (nem hat). 
