@@ -19,8 +19,8 @@
 | Novícius (3)     | ⭕xyz <br /> **Példa**: x                                                           |             |
 | Kismester (6)    | ⭕xyz <br /> **Példa**: x                                                           |             |
 | Mester (9)       | ⭕xyz <br /> **Példa**: x                                                           |             |
-| Nagymester (12)  | [Állat testvér](#%C3%A1llat-testv%C3%A9r)                                          |             |
-| Élő legenda (15) | [Állat testvér](#%C3%A1llat-testv%C3%A9r)                                          |             |
+| Nagymester (12)  | Érzékenység: `+3`<br />[Állat testvér](#%C3%A1llat-testv%C3%A9r)                   |             |
+| Élő legenda (15) | Érzékenység: `+3`<br />[Állat testvér](#%C3%A1llat-testv%C3%A9r)                   |             |
 
 <br />
 
@@ -34,7 +34,7 @@ A felsorolt valamelyik 3 képzettség legfelső szintjein már olyan magas fokú
 ##### Követelmény
 
 - [Idomítás](kepzettsegek/idomitas.md) / [Lovaglás](kepzettsegek/lovaglas.md) (csak adott fajú földi hátasra) / [Léglovaglás](kepzettsegek/leglovaglas.md) (csak adott fajú repülő lényre) &nbsp;–&nbsp;`12-15.szint`<br />
-- Érzékenység: `+3`
+
 
 ##### Hatás a képzettség adott szintjén
 12. szint: a karakter a társául szegődött állattal folyamatos telepatikus kapcsolatban van, képes csupán a gondolataival irányítani őt. Az állat nem köteles engedelmeskedni, ez pusztán kétoldalú kommunikáció, nem akaratirányítás. A gondolatok átadása mellett egymás érzelmi állapotát és annak változásait is képesek érzékelni, átélni.
