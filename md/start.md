@@ -23,7 +23,6 @@
 - [Hátterek](040_hattererek.md)
   - [Faj Hátterek](041_faj_hatterek.md)
   - [Szabad Hátterek](042_szabad_hatterek.md)
-  - [Bónusz Hátterek](043_bonusz_hatterek.md)
   - [Leíró Hátterek](044_leiro_hatterek.md)
   - [Karma Hátterek](045_karma_hatterek.md)
 - [Tradíciók](050_tradiciok.md) (60%)
