@@ -15,6 +15,7 @@ Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-
 **Kapcsolódó képzettség**: [Befolyásolás](befolyasolas.md), [Etikett](etikett.md)
 
 **Kiterjeszti**:
+- [Alkudozás](../hatterek.szabad/alkudozas.md)
 - [Csábítás](../hatterek.szabad/csabitas.md)
 - [Hazudozás](../hatterek.szabad/hazudozas.md)
 - [Megfélemlítés](../hatterek.szabad/megfelemlites.md)

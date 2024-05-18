@@ -31,6 +31,7 @@ Ha egy képzettséghez számos Szabad Háttér kapcsolódik, akkor azok közül 
 
 valamint:
 
+- [Alkudozás](hatterek.szabad/alkudozas.md)
 - [Asztrológia](hatterek.szabad/asztrologia.md)
 - [Boncolás](hatterek.szabad/boncolas.md) 🔁
 - [Csábítás](hatterek.szabad/csabitas.md)
