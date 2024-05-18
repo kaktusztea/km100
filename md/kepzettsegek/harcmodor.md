@@ -6,7 +6,7 @@
 
 **Kapcsolódó fortélyok**: -
 
-**Bónusz-Háttér**: ⭕Beírva 12, 15. szinthez. Kitenni Bónusz-Háttér alá??⭕
+**Szabad Hátterek kiterjesztik**: ⭕
 
 **Leírás**:\
 A harcmodorok a közvetlenül, fegyverrel való harc képességét fedik le. Kategóriánként külön-külön fel kell venni rájuk a képzettséget.\

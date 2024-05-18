@@ -16,6 +16,8 @@ Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-
 
 **Kapcsolódó fortélyok**: ⭕xyz
 
+**Szabad Hátterek kiterjesztik**: ⭕
+
 **Leírás**: Beletartozik a rejtőzködés is. ⭕xyz
 
 <br />

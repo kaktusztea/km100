@@ -6,9 +6,7 @@
 
 **Kapcsolódó fortély**: ⭕xyz
 
-**Bónusz Hátterek**: ⭕xyz
-
-**Kiterjeszti (SzH)**
+**Szabad Hátterek kiterjesztik**: ⭕
 - ⭕xyz
 - zxy
 

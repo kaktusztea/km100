@@ -6,9 +6,8 @@
 
 **Kapcsolódó fortélyok**: [Lovas harc](../fortelyok.harci/lovas_harc.md)
 
-**Bónusz-Háttér**: [Állat testvér](../043_bonusz_hatterek.md#-állat-testvér), 
-
-**Szabad-Háttér**: [Lénylovas](../hatterek.szabad/lenylovas.md) (1 faj ingyenes)
+**Szabad Hátterek kiterjesztik**:
+- [Lénylovas](../hatterek.szabad/lenylovas.md) (1 faj ingyenes)
 
 **Leírás**:  Aki lovaglást tanul, az képes megülni egy választott földi hátast lényt (válassz fajt: 1db Lénylovas) - a képzettség szintjétől függő tehetséggel. A tudás univerzális, némi gyakorlással más fajú földi hátasokra is használható - lásd a [Lénylovas](../hatterek.szabad/lenylovas.md) Szabad Hátteret.
 
@@ -16,13 +15,13 @@
 
 ##### Biztos tudás, követelmények
 
-| Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub>                 |    Követelmény    |
-| :--------------- | :------------------------------------------------------------------------------------------------- | :---------------: |
-| Novícius (3)     | Lassan léptető hátast képes vagy óvatosan navigálni.<br />**Példa**: Újonc lovas                   | Önuralom:&nbsp;-1 |
-| Kismester (6)    | Képes vagy egyenletes galoppra, vágtára.                                                           | Önuralom:&nbsp;-1 |
-| Mester (9)       | Képes nyereg nélkül, "szőrén" megülni a hátast.                                                    | Önuralom:&nbsp;0  |
-| Nagymester (12)  | [Állat testvér](../043_bonusz_hatterek.md#-állat-testvér)                                | Önuralom:&nbsp;0  |
-| Élő legenda (15) | [Állat testvér](../043_bonusz_hatterek.md#-állat-testvér)<br>Szinte egybeforr hátasával. | Önuralom:&nbsp;0  |
+| Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub> |    Követelmény    |
+|:---------------- |:---------------------------------------------------------------------------------- |:-----------------:|
+| Novícius (3)     | Lassan léptető hátast képes vagy óvatosan navigálni.<br />**Példa**: Újonc lovas   | Önuralom:&nbsp;-1 |
+| Kismester (6)    | Képes vagy egyenletes galoppra, vágtára.                                           | Önuralom:&nbsp;-1 |
+| Mester (9)       | Képes nyereg nélkül, "szőrén" megülni a hátast.                                    | Önuralom:&nbsp;0  |
+| Nagymester (12)  | [Állat testvér](#%C3%A1llat-testv%C3%A9r)                                          | Önuralom:&nbsp;0  |
+| Élő legenda (15) | [Állat testvér](#%C3%A1llat-testv%C3%A9r)<br>Szinte egybeforr hátasával.           | Önuralom:&nbsp;0  |
 
 <br />
 
@@ -31,7 +30,7 @@
 
 ###### Állat testvér
 
-Megegyezik a [Léglovaglás](leglovaglas.md) ⭕link⭕ képzettségnél leírtakkal.
+Megegyezik az [Idomítás](idomitas.md#%C3%A1llat-testv%C3%A9r) képzettségnél leírtakkal.
 
 ---
 ##### Próbák

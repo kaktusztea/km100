@@ -10,6 +10,8 @@
 
 **Kapcsolódó fortélyok**: [Százarcú](../fortelyok.altalanos/szazarcu.md), [Kaméleon](../fortelyok.altalanos/kameleon.md)
 
+**Szabad Hátterek kiterjesztik**: ⭕
+
 **Leírás**: Az álcázás nagy előny, főleg ha vadásznak rád. Megfelelő maszk, smink, ruha, ezek elengedhetetlenek. Egy jó bajusz csodákat tehet, csak le ne essen a kritikus pillanatban.
 
 Az Álcázás/álruha képzettséggel megváltoztathatod külsődet, tudásodtól függ, hogy mennyire és milyen hitelesen. A képzettség a fentieken kívül úgynevezett „szerepeket" ad a karakternek. Ezek lehetnek pl. „pap", „nemes", „paraszt", stb. Arra jók, hogy alapvető - nem etikett! - viselkedési sablonokat adnak, melyek segítségével pl. elhitetheti a karakter a felületes szemlélővel, hogy ő pl. tényleg pap. Hogy ezek a szerepek mennyire passzolnak a karakterhez, az az előtörténettel való szinkrontól függ (beleértve a kalandok során történt előzményeket is. Pl. paraszt volt, de évek óta nemesi udvarba jár. Ekkor hamarabb is felveheti a „nemes" szerepet).

@@ -8,7 +8,7 @@
 
 **Bónusz Háttér**: ⭕xyz
 
-**Szabad Háttérek**:
+**Szabad Hátterek kiterjesztik**:
 - [Kultúrkör](../hatterek.szabad/kulturkor.md)
 - [Éneklés](../hatterek.szabad/enekles.md)
 - [Irodalom](../hatterek.szabad/irodalom.md)

@@ -6,7 +6,7 @@
 
 **Kapcsolódó fortélyok**: xyz
 
-**Bónusz-Háttér**: xyz
+**Szabad Hátterek kiterjesztik**: ⭕
 
 **Leírás**: Minden élőlény rendelkezik Aurával, az élettapasztalatok során ez magától erősödik is, de lehetséges tudatosan is növelni erejét.
 Lásd: [Aura](https://github.com/kaktusztea/km100/wiki/STUDY.magia.Aura#modell-a) (⭕link véglegesítése, ha kész⭕)

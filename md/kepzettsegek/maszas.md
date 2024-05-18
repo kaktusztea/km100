@@ -22,6 +22,8 @@ Menet felfelé:
 
 **Kapcsolódó fortélyok**: ⭕[Biztos kezű mászó](../fortelyok.altalanos/biztos_kezu_maszo.md), [Pók](../fortelyok.altalanos/pok.md)
 
+**Szabad Hátterek kiterjesztik**: ⭕
+
 **Leírás**: Sokszor fordul elő, hogy fel kell jutni olyan helyekre, ahova egy átlagember nem képes. Ebben segít a Mászás képzettség. Magas szintű alkalmazói jellemzően egyes tolvaj- és fejvadászklánok elit tagjai.
 
 <br />

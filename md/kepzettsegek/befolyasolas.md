@@ -10,9 +10,7 @@ Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-
 
 **Kapcsolódó képzettség**: [Emberismeret](emberismeret.md)
 
-**Bónusz Háttér**: ⭕xyz
-
-**Kiterjeszti (SzH)**:
+**Szabad Hátterek kiterjesztik**:
 - [Alkudozás](../hatterek.szabad/alkudozas.md)
 - [Csábítás](../hatterek.szabad/csabitas.md)
 - [Hazudozás](../hatterek.szabad/hazudozas.md)

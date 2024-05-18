@@ -6,7 +6,7 @@
 
 **Kapcsolódó fortélyok**: -
 
-**Bónusz-Háttér**: ⭕xyz
+**Szabad Hátterek kiterjesztik**: ⭕
 
 **Leírás**: A "gyógyszerész". Akár a lápi boszorkány, akár mágiatudó lótifuti segédje, aki napokig járja az erdőt és a vadont ritka alapanyagok után kutatva. A [Orvoslás](orvoslas.md) képzettséghez szükséges orvosságok alapanyagainak beszerzéséhez szükséges képzettség. Továbbá:
 
