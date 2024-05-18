@@ -21,23 +21,6 @@ Tartalomjegyzék
 
 
 ---
-#### 🟣 Élő álca
-
-⭕TODO: Álcázás/Álruha alá mozgatni
-
-Titkos, félmágikus ismeret. Csak az álcázás legnagyobb mesterei ismerik – állítólag.
-
-##### Követelmény
-- Álcázás/Álruha - `15.szint`
-
-##### Hatás a képzettség adott szintjén
-15. szint: Alkalmazója kellékek nélkül is képes átformálni vonásait. A hatás csak annyi lehet, amennyit maszkkészítő eszközökkel is el tudna érni. Például: pár perc alatt szakállat, bajszot növeszt, ráncokat varázsol az arcára, megváltozik szeme színe, stb.
-
-
-<br />
-
-
----
 #### 🟣 Harci láz 3
 
 A [Harci láz](fortelyok.harci/harci_laz.md) fortély 3. speciális foka.
