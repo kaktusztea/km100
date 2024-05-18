@@ -40,7 +40,7 @@ valamint:
 - [Fejlett tapintás](hatterek.szabad/fejlett_tapintas.md)
 - [Festészet](hatterek.szabad/festeszet.md)
 - [Hazudozás](hatterek.szabad/hazudozas.md)
-- [Heraldika](../hatterek.szabad/heraldika.md)
+- [Heraldika](hatterek.szabad/heraldika.md)
 - [Irodalom](hatterek.szabad/irodalom.md)
 - [Jogismeret](hatterek.szabad/jogismeret.md)
 - [Kalligráfia](hatterek.szabad/kalligrafia.md)
