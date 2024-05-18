@@ -1,4 +1,4 @@
-#### 🔴 Demonológia
+#### 🔵 Demonológia
 
 **Próba**: Idézés csak biztos tudásból: vagy emlékszik az adatokra és a rituálékra, vagy nem. Démonokra varázslásra (asztrál/mentál) van próba. Lásd lenn.
 
@@ -6,7 +6,7 @@
 
 **Kapcsolódó fortélyok**: ⭕xyz
 
-**Leírás**: Átfogó misztikus képzettség, amihez alapos, előtörténettel megtámogatott indoklás kell, hogy a karakter felvehesse. Alsóbb szinteken a képzettség csupán elméleti tudást takar. Magasabb szinten (9-es Demonológia képzettségtől) már lehetőséget ad a démonokra való varázslásra mentál és asztrálmágia formájában -  amennyiben az alkalmazó képes a fenti iskolaformák varázslatait alkalmazni.
+**Leírás**: Primer misztikus képzettség, amihez alapos, előtörténettel megtámogatott indoklás kell, hogy a karakter felvehesse. Alsóbb szinteken a képzettség csupán elméleti tudást takar. Magasabb szinten (9-es Demonológia képzettségtől) már lehetőséget ad a démonokra való varázslásra mentál és asztrálmágia formájában -  amennyiben az alkalmazó képes a fenti iskolaformák varázslatait alkalmazni.
 
 <br />
 

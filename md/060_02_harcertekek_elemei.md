@@ -71,7 +71,7 @@ Szintenként `TÉ`-re vagy `VÉ`-re **legfeljebb** `3`-al több `HM`-et lehet k�
 ---
 ### Harcmodor képzettségek
 
-A km100 rendszere az alábbi (átfogó) harci képzettségeket ismeri:
+A km100 rendszere az alábbi (Primer) harci képzettségeket ismeri:
 
 **Közelharc, Kardvívás, Lándzsavívás, Zúzás, Hajítás, Íjászat, Lövészet, Ostromlövészet**
 

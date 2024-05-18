@@ -1,4 +1,4 @@
-#### 🔴 Méregkeverés
+#### 🔵 Méregkeverés
 
 → [Lásd: Méregrendszer](../130_meregrendszer.md)
 

@@ -1,4 +1,4 @@
-#### 🔴 Ősi nyelv ismerete 🔁
+#### 🔵 Ősi nyelv ismerete 🔁
 
 Ősi nyelvenként külön-külön kell felvenni.
 

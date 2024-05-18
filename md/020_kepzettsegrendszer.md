@@ -4,7 +4,6 @@
 
 → [TODO/ISSUE képzettségrendszer](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.kepzettsegek)
 
-- [Képzettségek kategóriái](#képzettségek-kategóriái)
 - [Képzettségek növelése](#képzettségek-növelése)
 - [Képzettségek pontigényei](#képzettségek-pontigényei)
   - [Képzettségek követelményei](#képzettségek-követelményei)
@@ -21,27 +20,21 @@ Mikor a játékos megalkotja karakterét, amellyel Ynev világán kalandozni fog
 
 Ez az érték a karakter életútja során - a megszerzett tapasztalatoknak hála -, növekedhet, amely fejlődést a játékos Karakteralkotó Pontjai (`KP`) elosztásával jelenít meg.
 
-## Képzettségek kategóriái
+---
+## Primer és Szekunder képzettségek
 
-A képzettségeket kategóriákra bontjuk aszerint, mennyire átfogóak, mekkora ismeretanyagot ölelnek fel, tehát **nem** tanulásuk „nehézsége" szerint próbálunk különbséget tenni! Két kategóriát különbözetünk meg:
+Önkényesen felosztottuk a tanulható képzettségeket két csoportra: Primer és Szekunder.
 
-> 🔴 Átfogó, 🔵 Átlagos
+Ennek oka - nem titkoltan - a színesebb karakterek megalkotásának vágya volt. Nagyon röviden: a **Primer** képzettségek a "tápos", kalandban kiemelten használt ismeretek, míg a **Szekunder** képzettségek inkább a színesítő, kiegészítő tudást takarják.
 
-| Képzettség kategória | Például           |
-| -------------------- |:----------------- |
-| 🔴 **Átfogó**        | Történelemismeret |
-| 🔵 **Átlagos**       | Emberismeret      |
-
-Az `Átfogó` képzettségek jellemzője, hogy általános, szerteágazó, kiterjedt tudást nyújtanak az adott területen. Éppen ezért tanulásuk is tovább tart, ami meg is látszik a magasabb `KP` igényen.
-
-Az `Átlagos` képzettségek már jóval konkrétabb, - így gyorsabban tanulható - tudást takarnak (így KP igényük is alacsonyabb), egy konkrét feladatkörrel foglalkoznak, viszont azon belül mindennel.
-
+ Primer alá tartozik minden harci, misztikus, szakrális és mágikus képzettség, valamint számos világi képzettség is. Ezek pontos listáját lásd a [Képzettséglista](021_kepzettseglista.md) oldalon.
+ 
 ---
 ## Képzettségek növelése
 
-A karakterek fejlődése természetesen nem lehet ugrásszerű, meg kell őriznünk a folyamatosság illúzióját szintlépéskor, el kell kerülnünk, hogy egy 3. szintű karakter 12-13-as értékekkel rohangáljon. Ugyanakkor fontos színesítő, ha egy 1. szintű karakter egyes területeken kitűnik társai közül. Általános szabályok:
+A karakterek fejlődése természetesen nem lehet ugrásszerű, meg kell őriznünk a folyamatosság illúzióját szintlépéskor, el kell kerülnünk, hogy egy `3.` szintű karakter `12-13`-as értékekkel rohangáljon. Ugyanakkor fontos színesítő, ha egy `1.` Tapasztalati Szintű karakter egyes területeken kitűnik társai közül. Általános szabályok:
 
-- A **Primer** (harci és misztikus, és náhány választott) képzettségek szintje legfeljebb (`szint+3`) lehet
+- A **Primer** képzettségek szintje legfeljebb (`szint+3`) lehet
 - A **Szekunder** (többi) képzettségek értéke pedig legfeljebb (`szint+6`) lehet
 - Szintlépéskor legfeljebb `2-vel` növelhetőek a képzettségek, kivéve, ha `0`-ról akar valaki egy képzettséget tanulni. Ilyenkor szintlépéskor maximum `3.szintre` növelheti egy lépésben az ilyen képzettséget.
 - A képzettségek egyes kiemelt szintjeinek is lehetnek követelményei! Magas szinten főleg.
@@ -49,27 +42,27 @@ A karakterek fejlődése természetesen nem lehet ugrásszerű, meg kell őrizn�
 ---
 ## Képzettségek pontigényei
 
-A fejlődés Karakter Pontba (`KP`) kerül. A KP szimulálja az egyes képzettségek elsajátítására fordított tanulás „egységnyi mennyiséget". Hogy a korábban ismertetett két kategóriának (Átfogó, Átlagos) adott szinten mekkora a KP igénye, azt az alábbi táblázat adja meg:
+A fejlődés Karakter Pontba (`KP`) kerül. A KP szimulálja az egyes képzettségek elsajátítására fordított tanulás „egységnyi mennyiséget". Hogy ennek mekkora a KP igénye, azt az alábbi táblázat adja meg:
 
-| Fokozat     | Képzettség Szint | 🔴 Átfogó |       | 🔵 Átlagos |       |
-| ----------- | :--------------: | :-------: | :---- | :--------: | :---- |
-|             |        1         |     6     | +6KP  |     4      | +4KP  |
-|             |        2         |    10     | +4KP  |     6      | +2KP  |
-| Novícius    |        3         |    16     | +6KP  |     9      | +3KP  |
-|             |        4         |    24     | +8KP  |     13     | +4KP  |
-|             |        5         |    34     | +10KP |     18     | +5KP  |
-| Kismester   |        6         |    46     | +12KP |     24     | +6KP  |
-|             |        7         |    60     | +14KP |     31     | +7KP  |
-|             |        8         |    76     | +16KP |     39     | +8KP  |
-| Mester      |        9         |    94     | +18KP |     48     | +9KP  |
-|             |        10        |    114    | +20KP |     58     | +10KP |
-|             |        11        |    136    | +22KP |     69     | +11KP |
-| Nagymester  |        12        |    160    | +24KP |     81     | +12KP |
-|             |        13        |    186    | +26KP |     94     | +13KP |
-|             |        14        |    214    | +28KP |    108     | +14KP |
-| Élő legenda |        15        |    244    | +30KP |    123     | +15KP |
+| Fokozat     | Képzettség Szint | KP igény |       |
+| ----------- | :--------------: | :------: | :---- |
+|             |        1         |    6     | +6KP  |
+|             |        2         |    10    | +4KP  |
+| Novícius    |        3         |    16    | +6KP  |
+|             |        4         |    24    | +8KP  |
+|             |        5         |    34    | +10KP |
+| Kismester   |        6         |    46    | +12KP |
+|             |        7         |    60    | +14KP |
+|             |        8         |    76    | +16KP |
+| Mester      |        9         |    94    | +18KP |
+|             |        10        |   114    | +20KP |
+|             |        11        |   136    | +22KP |
+| Nagymester  |        12        |   160    | +24KP |
+|             |        13        |   186    | +26KP |
+|             |        14        |   214    | +28KP |
+| Élő legenda |        15        |   244    | +30KP |
 
-A `KP igény` fokozatosan nő, tehát `1`-ről `2`-re sokkal könnyebb fejlődni, mint mondjuk `4`-ről `5`-re. Átfogó és Átlagos képzettségben hagyományos tanulással `legfeljebb 13`-ig lehet fejlődni. `14`-es és `15`-ös szintre csak úgy juthat el a karakter, ha a képzettséggel kapcsolatos, nagyon ritka titkos tudásra tesz szert. Ez kaland alapja is lehet!! Például megszerezni a "*Gyógyító Érintés Tudományának Titkos Fóliását*" (**Orvosláshoz**).
+A `KP igény` fokozatosan nő, tehát `1`-ről `2`-re sokkal könnyebb fejlődni, mint mondjuk `4`-ről `5`-re. Képzettségben hagyományos tanulással `legfeljebb 13`-ig lehet fejlődni. `14`-es és `15`-ös szintre csak úgy juthat el a karakter, ha a képzettséggel kapcsolatos, nagyon ritka titkos tudásra tesz szert. Ez kaland alapja is lehet!! Például megszerezni a "*Gyógyító Érintés Tudományának Titkos Fóliását*" (**Orvosláshoz**).
 
 A másik felső korlát lehet az adott kultúra fejletlensége, vagy korlátai. Például egy primitív nomád törzs kuruzslója nem fejlődhet **Vajákosságban** `6`-os érték fölé, mert nincs olyan forrás, ahonnan a hatékonyabb módszereket megtanulhatná. A KM mindig vegye figyelembe az adott körülményeket és fejlődési lehetőségeket.
 

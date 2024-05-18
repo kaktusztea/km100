@@ -1,6 +1,6 @@
-#### 🔴Mágikus lövészet
+#### 🔵Mágikus lövészet
 
-Átfogó harcmodor képzettség.
+Primer harcmodor képzettség.
 
 - Lásd: [STUDY: Mágia célzása](https://github.com/kaktusztea/km100/wiki/STUDY.magia.celzasa)
 
