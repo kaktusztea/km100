@@ -13,6 +13,8 @@ Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-
 **Bónusz Hátterek**: ⭕TODO
 
 **Kiterjeszti**:
+
+- [Heraldika](../hatterek.szabad/heraldika.md)
 - [Pénzügyek](../hatterek.szabad/penzugyek.md)
 - [Jogismeret](../hatterek.szabad/jogismeret.md)
 - [Hazudozás](../hatterek.szabad/hazudozas.md)

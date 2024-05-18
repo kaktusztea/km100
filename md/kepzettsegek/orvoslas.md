@@ -1,5 +1,7 @@
 #### 🔵 Orvoslás
 
+Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-ismeretek-kateg%C3%B3ri%C3%A1i).
+
 → [STUDY: Gyógyítás](https://github.com/kaktusztea/km100/wiki/STUDY.gyogyitas.gyogyulas)
 
 **Próba:** dobható
