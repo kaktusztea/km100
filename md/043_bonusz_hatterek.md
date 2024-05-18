@@ -12,31 +12,11 @@ Ide soroljuk azokat az egyedi Bónusz-Háttereket is, amelyek már meglevő kép
 ---
 Tartalomjegyzék
 
-- [Élő álca](#-%C3%A9l%C5%91-%C3%A1lca)
-- [Harci láz 3](#-harci-l%C3%A1z-3)
 - [Kobratánc](#-kobrat%C3%A1nc)
 - [Tapadás](#-tapad%C3%A1s)
 
 <br />
 
-
----
-#### 🟣 Harci láz 3
-
-A [Harci láz](fortelyok.harci/harci_laz.md) fortély 3. speciális foka.
-
-Csak mágiával érhető el, például ork ereklye hatása, vagy Arel áldása. Ezek különleges állapotok, ezt a szintet nem lehet tanulással elérni, így **KP**-t sem lehet rá költeni.
-
-Bővebben lásd a ⭕Mágia fejezetet⭕.
-
-- Erő, Edzettség, Gyorsaság tulajdonságpróbákra:&nbsp;`+3`<br />
-- KÉ:`+6`; TÉ:`+12`; VÉ:`-10`; SP:`+3`
-- Harckeret: `+3`
-- ÉP: `+6`
-- Mágiallenállás: `+10`
-- Sebesülés **TÉ** levonása `15`-el mérséklődik
-
-<br />
 
 ---
 #### 🟣 Kobratánc
