@@ -195,18 +195,15 @@ A manőverek végrehajtásával bárki próbálkozhat, aki az adott manővernél
 
 ### Manőverek fejlesztése, manőver-ismeretek
 
-A manővereket „**Fejleszthető**” és „**Nem fejleszthető**” csoportokba soroljuk.(lásd lejjebb a két elkülönített fejezetet). Alkalmazásaik szabályai nem különböznek.
-
-Egy karakter összes **nem-távolsági Harcmodor** képzettségeinek minden `3. szintje` után automatikusan kap egy-egy ún. „**Manőverfejlesztő pontot**” (MFP), amelyekből az említett „Fejleszthető” manőverekhez **Manőver-ismeret** fokokat lehet felvenni. **1 fok tanulása 1 MFP-be kerül**, továbbá a fokok tanulásának követelményeit is teljesíteni kell (lásd az adott manőverek leírásánál).
-
-> Ha a karakter nem elégszik meg az MFP-k által felvehető manőver-ismeretek számával, akkor `15 KP`-ért vehet további fokokat, melyek később nem „válthatóak vissza” akkor sem, amikor magasabb szinten ismét lesz elkölthető MFP-je.
-
-A **Manőver-ismeretek**, az adott **konkrét** Manőver alkalmazása esetén fokonként `+2` módosítót adnak az alkalmazó Manőver pontjaihoz az **Ellenpróba** dobásánál.
-
 ```
 Manőver-ismeret fokonként +2 módosítót ad az „Ellenpróba” dobásnál
 ```
 
+A manővereket „**Fejleszthető**” és „**Nem fejleszthető**” csoportokba soroljuk.(lásd lejjebb a két elkülönített fejezetet). Alkalmazásaik szabályai nem különböznek.
+
+Egy karakter összes **nem-távolsági Harcmodor** képzettségeinek minden `3. szintje` után automatikusan kap egy-egy ún. „**Manőverfejlesztő pontot**” (MFP), amelyekből az említett „Fejleszthető” manőverekhez **Manőver-ismeret** fokokat lehet felvenni. **1 fok tanulása 1 MFP-be kerül**, továbbá a fokok tanulásának követelményeit is teljesíteni kell (lásd az adott manőverek leírásánál).
+
+A **Manőver-ismeretek**, az adott **konkrét** Manőver alkalmazása esetén fokonként `+2` módosítót adnak az alkalmazó Manőver pontjaihoz az **Ellenpróba** dobásánál.
 
 Ilyen ismeret lehet például a **Manőver – Gáncsolás** megtanulása, melynek bónuszát kizárólag **Gáncsolás** manőver esetén kapja meg a karakter. Az, hogy egy Manőver ismeretnek hány foka van, az az adott manőver leírásánál található meg.
 

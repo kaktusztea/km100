@@ -669,9 +669,9 @@ Mikor a mesélő (KM) úgy érzi, az adott játékos karaktere kellően sokat fe
 ## Karakter pontok (KP) elosztása
 
 ```
-KP = 250 (KP Alap)
-     + Tapasztalati szint x (120 + (2 x Intelligencia))
-     + Tapasztalati szint x ( 50 + (2 x Emlékezet))    → csak szekunder ismeretre
+KP = 100 (KP Alap)
+     + Tapasztalati szint x (45 + Intelligencia)
+     + Tapasztalati szint x (20 + Emlékezet)    → csak szekunder ismeretre
 
 Primer képzettségek max:    (szint x 3)
 Szekunder képzettségek max: (szint x 6)
@@ -680,7 +680,7 @@ Szekunder képzettségek max: (szint x 6)
 **🔆Fontos:**\
 ez utóbbi (Emlékezethez kapcsolt pontok) kizárólag **Szekunder** ismeretekre költhetőek!
 
-A karakterek 1. tapasztalati-szinten (TSz) `250 KP`-t (KP Alap), valamint minden tapasztalati-szinten (elsőn is) `120 + (2 x Intelligencia) KP`-t kapnak. Ezen felül további `50 + (2 x Emlékezet) KP` jár tapasztalati-szintenként, amit csak olyan ismeretre fordíthatnak, amelyek a [Szekunder ismeretek](#primer-%C3%A9s-szekunder-ismeretek-kateg%C3%B3ri%C3%A1i) csoportjába tartoznak. A játékosnak a fenti Karakter Pontjaiból kell felvennie a következőket:
+A karakterek 1. tapasztalati-szinten (TSz) `100 KP`-t (KP Alap), valamint minden tapasztalati-szinten (elsőn is) `(45 + Intelligencia) KP`-t kapnak. Ezen felül további `(20 + Emlékezet) KP` jár tapasztalati-szintenként, amit csak olyan ismeretre fordíthatnak, amelyek a [Szekunder ismeretek](#primer-%C3%A9s-szekunder-ismeretek-kateg%C3%B3ri%C3%A1i) csoportjába tartoznak. A játékosnak a fenti Karakter Pontjaiból kell felvennie a következőket:
 
 ### Képzettségek
 
@@ -699,7 +699,7 @@ A karakterek 1. tapasztalati-szinten (TSz) `250 KP`-t (KP Alap), valamint minden
  
 Nehézségük és összetettségük szerint csoportosítjuk őket. Lehetnek 1, vagy több fokúak.
 
-Minden fok költsége: `15KP`
+Minden fok költsége: `6 KP`
  
 Több fokú Fortélyoknál szintenként csak egy fokot lehet fejlődni akkor is, ha lenne elég KP több fokra is! Ez alól kivétel az `1.szint` (karakteralkotás).
  
