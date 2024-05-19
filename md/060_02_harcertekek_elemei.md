@@ -57,8 +57,9 @@ Ahogy fejlődik, megjár sok harci helyzetet, a karakter általános harcérték
 ```
 Maximum: (6 + Ügyesség) HM / Szint
 Maximum: 4 CM / Szint
-1 HM = 5 KP
-1 CM = 5 KP
+
+1 HM = 2 KP
+1 CM = 2 KP
 ```
 
 A sima `HM` a `KÉ`, `TÉ`, és `VÉ` harcértékek növelésére szolgál, a `CM` (Célzó Érték Módosító) pedig a távolsági fegyverek használatára vonatkozik. Nem keverhetők, tehát a CM-re költhető max `4 HM` nem „pakolható át” a sima `HM`-re és viszont!

@@ -8,12 +8,12 @@ A Fortélyok egyedi ismeretek, melyeket ugyanúgy KP-ből vehet fel a karakter, 
 
 ## Általános szabályok
 ```
-Fortély: 15 KP / fok
+Fortély: 6 KP / fok
 ```
 
 A Fortélyokat nehézségük és összetettségük szerint csoportosítjuk. Lehetnek `1`, vagy több fokúak.
 
-**Minden fok költsége: `15KP`**
+**Minden fok költsége: `6 KP`**
 
 Több fokú Fortélyoknál szintenként csak egy fokot lehet fejlődni akkor is, ha lenne elég KP több fokra is! **Ez alól kivétel az 1. szint (karakteralkotás).**
 
