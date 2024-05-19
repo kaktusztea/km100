@@ -8,9 +8,6 @@ A Szabad Hátterek specializált, egy, vagy több képzettséget "kiterjesztő" 
 Szabad Pontok = Tapasztalati Szint ⭕
 ```
 
-A Helyismeret (3 fokú) és Kultúrkör (3 fokú) Szabad Hátterekre 1. Tapasztalati Szinten minden karakter kap 3-3 Szabad Pontot, amit tetszőlegesen költhet el.
-⭕TODO: rework⭕
-
 #### Felvétel
 Hozzájutni ilyen Hátterekhez kétféleképpen lehet:
 1. KM adja ingyen, olyan kalandban történt megpróbáltató esemény után, ami ezt indokolja. Például a kalandban megültél egy **Wyvernt**, ekkor megkapod a [Lénylovas - Wyvern](hatterek.szabad/lenylovas.md) Szabad Hátteret ingyen.

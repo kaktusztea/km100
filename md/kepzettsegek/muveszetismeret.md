@@ -29,7 +29,7 @@ valamint:
 A tudás szélesíthető a fent található Szabad Hatterek felvételével Szabad Pontokból.
 
 **Követelmény**:
-  - [Kultúrkör](../hatterek.szabad/kulturkor.md) (adott kultúra) - `2.fok`. Enélkül `+3` nehezítés a képzettségpróbákra fokonként.
+  - [Kultúrkör](../hatterek.szabad/kulturkor.md) (adott kultúra). Enélkül `+3` nehezítés a képzettségpróbákra.
   - [Nyelvismeret](../hatterek.szabad/nyelvismeret.md): Udvari fok
 
 **Erős Összhagok:**
