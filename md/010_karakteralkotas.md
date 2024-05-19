@@ -668,9 +668,9 @@ Mikor a mesélő (KM) úgy érzi, az adott játékos karaktere kellően sokat fe
 ## Karakter pontok (KP) elosztása
 
 ```
-KP = 150 (KP Alap)
-     + Tapasztalati szint x (100 + (2 x Intelligencia))
-     + Tapasztalati szint x ( 40 + (2 x Emlékezet))    → csak szekunder ismeretre
+KP = 250 (KP Alap)
+     + Tapasztalati szint x (120 + (2 x Intelligencia))
+     + Tapasztalati szint x ( 50 + (2 x Emlékezet))    → csak szekunder ismeretre
 
 Primer képzettségek max:    (szint x 3)
 Szekunder képzettségek max: (szint x 6)
@@ -679,16 +679,17 @@ Szekunder képzettségek max: (szint x 6)
 **🔆Fontos:**\
 ez utóbbi (Emlékezethez kapcsolt pontok) kizárólag **Szekunder** ismeretekre költhetőek!
 
-A karakterek 1. tapasztalati-szinten (TSz) `150 KP`-t (KP Alap), valamint minden tapasztalati-szinten (elsőn is) `100 + (2 x Intelligencia) KP`-t kapnak. Ezen felül további `40 + (2 x Emlékezet) KP` jár tapasztalati-szintenként, amit csak olyan ismeretre fordíthatnak, amelyek a [Szekunder ismeretek](#primer-%C3%A9s-szekunder-ismeretek-kateg%C3%B3ri%C3%A1i) csoportjába tartoznak. A játékosnak a fenti Karakter Pontjaiból kell felvennie a következőket:
+A karakterek 1. tapasztalati-szinten (TSz) `250 KP`-t (KP Alap), valamint minden tapasztalati-szinten (elsőn is) `120 + (2 x Intelligencia) KP`-t kapnak. Ezen felül további `50 + (2 x Emlékezet) KP` jár tapasztalati-szintenként, amit csak olyan ismeretre fordíthatnak, amelyek a [Szekunder ismeretek](#primer-%C3%A9s-szekunder-ismeretek-kateg%C3%B3ri%C3%A1i) csoportjába tartoznak. A játékosnak a fenti Karakter Pontjaiból kell felvennie a következőket:
 
 - Képzettségek
+  - [0-15]-ös skálán mozognak
   - Primer képzettségek szintje legfeljebb `Tsz+3` lehet
   - Szekunder képzettségek értéke legfeljebb `Tsz+6` lehet
   - Tapasztalati-szint lépéskor `legfeljebb 2-vel` növelhetőek a képzettségek, kivéve, ha `0`-ról akar valaki egy képzettséget tanulni (ilyenkor tapasztalati-szint lépéskor `maximum 3.szintre` növelheti egy lépésben a képzettséget).
   - A képzettségek egyes kiemelt szintjeinek is lehetnek követelményei! Magas szinten főleg.
 
 ````diff
-- Csak Faji Tradíció mellé lehet felvenni még egy másik Tradíciót?
+- ⭕TODO⭕ Csak Faji Tradíció mellé lehet felvenni még egy másik Tradíciót?
 ````
 
 - Fortélyok
