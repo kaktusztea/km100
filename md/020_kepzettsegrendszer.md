@@ -6,8 +6,8 @@
 
 - [Képzettségek növelése](#képzettségek-növelése)
 - [Képzettségek pontigényei](#képzettségek-pontigényei)
-  - [Képzettségek követelményei](#képzettségek-követelményei)
-  - [Karakter Pontok elosztása](#karakter-pontok-elosztása)
+- [Képzettségek követelményei](#képzettségek-követelményei)
+- [Karakter Pontok elosztása](#karakter-pontok-elosztása)
 - [Képzettségpróba](#képzettségpróba)
   - [Vállalás](#vállalás)
   - [Próba biztos tudásból](#próba-biztos-tudásból)
@@ -16,7 +16,7 @@
   - [Összhangok](#összhangok)
   - [Sérülés hatása képzettségpróbára](#sérülés-hatása-képzettségpróbára)
 
-Mikor a játékos megalkotja karakterét, amellyel Ynev világán kalandozni fog, meghatározza azokat az ismereteket, jártasságokat, amelyeket az - addigi élete során - elsajátított. A **km100** rendszere a fentieket a Képzettségek, Fortélyok és Hátterek tanulásával szimulálja. Ebben a fejezetben a Képzettségekkel fogunk foglalkozni. Minden Képzettséget egy számértékkel jellemzünk, amelyből kiderül, tulajdonosa mennyire jártas az adott témában.
+Mikor a játékos megalkotja karakterét, amellyel Ynev világán kalandozni fog, meghatározza azokat az ismereteket, jártasságokat, amelyeket az - addigi élete során - elsajátított. A **km100** rendszere a fentieket a Képzettségek, Fortélyok és Hátterek tanulásával szimulálja. Ebben a fejezetben a Képzettségekkel fogunk foglalkozni. Minden Képzettséget egy számértékkel jellemzünk, amelyből kiderül, tulajdonosa mennyire jártas az adott témában. Ez a szám [0-15]-ös skálán mozoghat, ahol jellemzően a `3.szint` a "nullpont", azaz az a szint, ahol a karakter már nem súlyos levonásokkal próbálkozik az ismerettel, tudja a "mi-merre" válaszokat és birtokában van az alapoknak, amivel magasabb szintre nőhet a jövőben.
 
 Ez az érték a karakter életútja során - a megszerzett tapasztalatoknak hála -, növekedhet, amely fejlődést a játékos Karakteralkotó Pontjai (`KP`) elosztásával jelenít meg.
 
@@ -25,19 +25,24 @@ Ez az érték a karakter életútja során - a megszerzett tapasztalatoknak hál
 
 Önkényesen felosztottuk a tanulható képzettségeket két csoportra: Primer és Szekunder.
 
-Ennek oka - nem titkoltan - a színesebb karakterek megalkotásának vágya volt. Nagyon röviden: a **Primer** képzettségek a "tápos", kalandban kiemelten használt ismeretek, míg a **Szekunder** képzettségek inkább a színesítő, kiegészítő tudást takarják.
+Ennek oka - nem titkoltan - a színesebb karakterek megalkotásának célja. Nagyon röviden: a **Primer** képzettségek a "tápos", kalandban kiemelten használt ismeretek, míg a **Szekunder** képzettségek inkább a színesítő, kiegészítő tudást takarják.
 
- Primer alá tartozik minden harci, misztikus, szakrális és mágikus képzettség, valamint számos világi képzettség is. Ezek pontos listáját lásd a [Képzettséglista](021_kepzettseglista.md) oldalon.
+Primer alá tartozik minden harci, misztikus, szakrális és mágikus képzettség, valamint számos világi képzettség is. Ezek pontos listáját lásd a [Képzettséglista](021_kepzettseglista.md) oldalon.
  
 ---
-## Képzettségek növelése
+## Képzettségek növelése, Képzettség Bónuszok
 
-A karakterek fejlődése természetesen nem lehet ugrásszerű, meg kell őriznünk a folyamatosság illúzióját szintlépéskor, el kell kerülnünk, hogy egy `3.` szintű karakter `12-13`-as értékekkel rohangáljon. Ugyanakkor fontos színesítő, ha egy `1.` Tapasztalati Szintű karakter egyes területeken kitűnik társai közül. Általános szabályok:
+A karakterek fejlődése természetesen nem lehet ugrásszerű, meg kell őriznünk a folyamatosság illúzióját szintlépéskor, el kell kerülnünk, hogy egy `3.` tapasztalati szintű karakter `12-13`-as képzettség értékekkel rohangáljon. Ugyanakkor fontos színesítő, ha egy `1.` Tapasztalati Szintű karakter egyes területeken kitűnik társai közül. Általános szabályok:
 
-- A **Primer** képzettségek szintje legfeljebb (`szint+3`) lehet
-- A **Szekunder** (többi) képzettségek értéke pedig legfeljebb (`szint+6`) lehet
-- Szintlépéskor legfeljebb `2-vel` növelhetőek a képzettségek, kivéve, ha `0`-ról akar valaki egy képzettséget tanulni. Ilyenkor szintlépéskor maximum `3.szintre` növelheti egy lépésben az ilyen képzettséget.
-- A képzettségek egyes kiemelt szintjeinek is lehetnek követelményei! Magas szinten főleg.
+A **Primer** képzettségek szintje legfeljebb (`szint+3`) lehet
+
+A **Szekunder** képzettségek értéke legfeljebb (`szint+6`) lehet
+
+Szintlépéskor legfeljebb `2-vel` növelhetőek a képzettségek, kivéve, ha `0`-ról akar valaki egy képzettséget tanulni. Ilyenkor szintlépéskor maximum `3.szintre` növelheti egy lépésben az ilyen képzettséget.
+
+A képzettségek egyes kiemelt szintjeinek is lehetnek követelményei! Magas szinten főleg.
+
+A `12. és 15. szintek` kiemelt mérföldkövek a képzettségek esetében, itt már félmágikus, különleges bónuszok tűnnek fel. Ezek leírását lásd minden esetben az adott képzettség leírásában.
 
 ---
 ## Képzettségek pontigényei
@@ -67,21 +72,21 @@ A `KP igény` fokozatosan nő, tehát `1`-ről `2`-re sokkal könnyebb fejlődni
 A másik felső korlát lehet az adott kultúra fejletlensége, vagy korlátai. Például egy primitív nomád törzs kuruzslója nem fejlődhet **Vajákosságban** `6`-os érték fölé, mert nincs olyan forrás, ahonnan a hatékonyabb módszereket megtanulhatná. A KM mindig vegye figyelembe az adott körülményeket és fejlődési lehetőségeket.
 
 ---
-### Képzettségek követelményei
+## Képzettségek követelményei
 
 Nem csak a Fortélyoknak, a Képzettségek egyes szintjeinek is lehetnek követelményei. Ez persze nem minden Képzettségre igaz, de van, ahol szükséges. Ezek általában egyes Tulajdonságok megkövetelt értékei.
 
 Ha egy képzettség egy bizonyos fokának eléréséhez szükség van valamilyen teljesítendő követelményre, akkor azt az adott képzettség leírásánál részletezzük.
 
 ---
-### Karakter Pontok elosztása
+## Karakter Pontok elosztása
 
 A karakteralkotás fejezetben ismerettük a [Karakter Pontok](https://github.com/kaktusztea/km100/blob/master/md/010_karakteralkotas.md#karakter-pontok-kp-elosztása) (KP) értékének számítását. A képzettségek „vásárlása" is ezekből történik.
 
 ---
 ## Képzettségpróba
 
-Vesszük az adott szituációban épp szükséges Tulajdonság értékét (KM mondja meg, hogy melyiket), hozzáadjuk a Képzettség értékét, majd dobunk `k10`-es kockával és a fentieket összeadjuk. Ha a kapott szám nagyobb, vagy egyenlő a Célszámmal, akkor a próba sikerült.
+Vesszük az adott szituációban épp szükséges Tulajdonság értékét (KM mondja meg, hogy melyiket), hozzáadjuk a **Képzettség** értékét, majd dobunk `k10`-es kockával és a fentieket összeadjuk. Ha a kapott szám nagyobb, vagy egyenlő a Célszámmal, akkor a próba sikerült.
 
 ```
 Tulajdonság + Képzettség + k10   vs.  Célszám
