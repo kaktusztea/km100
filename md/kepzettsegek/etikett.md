@@ -49,4 +49,4 @@ Bővebben lásd a **Kultúrkör** Szabad háttér leírását.
 ##### Célszámot módosító körülmények
 
 - Bódult, részeg állapotban: `+[1-6]`
-- Nehézség büntetés, ha nincs kapcsolódó [Kultúrkör](../hatterek.szabad/kulturkor.md) Szabad Háttér ⭕`1.fokon`⭕.
+- Nehézség büntetés, ha nincs kapcsolódó [Kultúrkör](../hatterek.szabad/kulturkor.md) Szabad Háttér.

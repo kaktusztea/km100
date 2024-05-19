@@ -6,7 +6,7 @@ Amely **Kultúrköröket** ismersz, annak teaszertartásait **Előadóművészet
 - [Művészetismeret](../kepzettsegek/muveszetismeret.md)
 
 ##### Követelmény
-- Adott [Kultúrkör](kulturkor.md) Szabad Háttér - `2.fok`
+- Adott [Kultúrkör](kulturkor.md) Szabad Háttér
 
 <br />
 

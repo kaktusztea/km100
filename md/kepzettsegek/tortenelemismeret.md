@@ -17,8 +17,8 @@ Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-
 - [Jogismeret](../hatterek.szabad/jogismeret.md)
 
 ##### Követelmények
- - [Kultúrkör](../hatterek.szabad/kulturkor.md) - `2.fok`
-Amennyiben nincs meg a próbát érintő **Kultúrkör** Háttér legalább `2.fokon`, akkor a próba **Nehézsége**⭕ a Kultúrkörnél leírt mértékben emelkedik.⭕
+ - [Kultúrkör](../hatterek.szabad/kulturkor.md)
+Amennyiben nincs meg a próbát érintő **Kultúrkör** Háttér, akkor a próba **Nehézsége**⭕ a Kultúrkörnél leírt mértékben emelkedik.⭕
 
 **Leírás**: Alacsonyabb szinten a hetedkori Ynev általános történelmét ismered, magasabb szinten fellebbennek a titkok a régebbi korok titkairól is.
 
@@ -68,5 +68,5 @@ Amennyiben nincs meg a próbát érintő **Kultúrkör** Háttér legalább `2.f
 
 ##### Célszámot módosító körülmények
 
-- Nehézség büntetés, ha nincs kapcsolódó [Kultúrkör](../hatterek.szabad/kulturkor.md) `2.fokon`.
+- Nehézség büntetés, ha nincs kapcsolódó [Kultúrkör](../hatterek.szabad/kulturkor.md)
  

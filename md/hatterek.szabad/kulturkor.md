@@ -1,16 +1,14 @@
-#### 🟣 Kultúrkör (adott kultúrkör) (3) 🔁
+#### 🟣 Kultúrkör (adott kultúrkör) 🔁
 
 ```
 - többször felvehető
-- 3 fokú
-- 1.Tsz során kapott 3 SzP-ből költhető az otthon(ok) kultúrköre(ire)
-- Kaland végén kaphatóak újabb pontok ingyen, a KM-től
+- 1 fokú
+- Minden 2.Tapasztalati Szinten kapsz egyet. 1.TSz-szel kezdve.
 
-⚡ Példa: "Kultúrkör: Toron (2), "Kultúrkör: Pyarron (1)"
+⚡ Példa: "Kultúrkör: Toron, "Kultúrkör: Pyarron"
 
 Kapcsolódó Képzettség-próba:
   ha nincs meg a megkövetelt Kultúrkör fok, akkor +3 Nehézség.
-
 ```
 
 ##### Kiterjeszti ezeket:
@@ -33,18 +31,10 @@ Kapcsolódó Képzettség-próba:
 ##### Követelmény
 - Lásd a fokok leírását!
 
-##### Fokok
-
-3 fokú Háttér, amelynek forrása az előtörténet és az átélt kalandok.\
-
-`1.fok`: Egy hetet eltöltöttél egy, vagy több olyan helyen, ahol aktív kapcsolatban voltál az adott kultúrkörrel\
-`2.fok`: Legalább 1 évet eltöltöttél az adott kultúrkörben, vagy évekig azt tanulmányoztad otthonodban. Itt a KM adhat kedvezményt.\
-`3.fok`: Az adott kultúrkörben születtél és nőttél fel, vagy az utolsó 10 évedet ebben a kultúrában töltötted.
-
-⭕TODO: Update⭕ A karakter a képzettség felvételekor kap `3` pontot, amit eloszthat **Kultúrkör** Hátterei között. Lehet, hogy csak 1 adott Kultúrkört ismer `3. fokon`, de lehet akár `1-1-1` is, ha soha nem töltött huzamosabb időt életében egy kultúrában.
-
-Egy-egy kaland végén a KM - ha úgy gondolja - adhat `1` pontot a karakternek az adott kultúrára, ahol a játék zajlott, attól függően, hogy a `3` fokú skálán véleménye szerint hol helyezkedik el. Lásd a fokok követelményeit fenn!
 ##### Leírás
+
+A karakter ismeri az adott kultúra általánosságait.
+
 Mi tartozik bele ebbe az ismeretbe? Az adott kultúrkörön belül a(z)...
 - zenék
 - ételek
