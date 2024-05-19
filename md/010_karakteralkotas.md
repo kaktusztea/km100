@@ -93,6 +93,7 @@ Az imént felsorolt jellemzők mellett vannak "ingyenes" ismeretek, jellemzők, 
 
 ---
 ## Tapasztalati szint, szintlépés
+
 ```
 Maximum karakter szint: 21
 ```
@@ -681,38 +682,40 @@ ez utóbbi (Emlékezethez kapcsolt pontok) kizárólag **Szekunder** ismeretekre
 
 A karakterek 1. tapasztalati-szinten (TSz) `250 KP`-t (KP Alap), valamint minden tapasztalati-szinten (elsőn is) `120 + (2 x Intelligencia) KP`-t kapnak. Ezen felül további `50 + (2 x Emlékezet) KP` jár tapasztalati-szintenként, amit csak olyan ismeretre fordíthatnak, amelyek a [Szekunder ismeretek](#primer-%C3%A9s-szekunder-ismeretek-kateg%C3%B3ri%C3%A1i) csoportjába tartoznak. A játékosnak a fenti Karakter Pontjaiból kell felvennie a következőket:
 
-- Képzettségek
-  - [0-15]-ös skálán mozognak
-  - Primer képzettségek szintje legfeljebb `Tsz+3` lehet
-  - Szekunder képzettségek értéke legfeljebb `Tsz+6` lehet
-  - Tapasztalati-szint lépéskor `legfeljebb 2-vel` növelhetőek a képzettségek, kivéve, ha `0`-ról akar valaki egy képzettséget tanulni (ilyenkor tapasztalati-szint lépéskor `maximum 3.szintre` növelheti egy lépésben a képzettséget).
-  - A képzettségek egyes kiemelt szintjeinek is lehetnek követelményei! Magas szinten főleg.
+### Képzettségek
+
+- [0-15]-ös skálán mozognak
+- Primer képzettségek szintje legfeljebb `Tsz+3` lehet
+- Szekunder képzettségek értéke legfeljebb `Tsz+6` lehet
+- Tapasztalati-szint lépéskor `legfeljebb 2-vel` növelhetőek a képzettségek, kivéve, ha `0`-ról akar valaki egy képzettséget tanulni (ilyenkor tapasztalati-szint lépéskor `maximum 3.szintre` növelheti egy lépésben a képzettséget).
+- A képzettségek egyes kiemelt szintjeinek is lehetnek követelményei! Magas szinten főleg.
 
 ````diff
 - ⭕TODO⭕ Csak Faji Tradíció mellé lehet felvenni még egy másik Tradíciót?
 ````
 
-- Fortélyok
-  - Nehézségük és összetettségük szerint csoportosítjuk őket. Lehetnek 1, vagy több fokúak.
-  - Minden fok költsége: `15KP`
-  - Több fokú Fortélyoknál szintenként csak egy fokot lehet fejlődni akkor is, ha lenne elég KP több fokra is! Ez alól kivétel az `1.szint` (karakteralkotás).
-  - Egy szintlépés alkalmával nem vehető fel két olyan Fortély, amely ugyanazt a jellemzőt/képzettséget, stb módosítja.
-  - A fortélyoknak lehetnek követelményei: Tulajdonságok elvárt értékei, Képzettségek elvárt szintje, esetleg más fortélyok megléte, vagy valamilyen nem számszerűsíthető körülmény.
 
-- Harcérték módosítók (HM) / Célzóérték módosítók (CM)
-  - `1 HM/CM = 5 KP`
-  - `maximum (6+Ügyesség) HM / Tsz` költhető\
-    (HM = „puszta kezes" HM, amibe a TÉ és VÉ tartozik bele)
-  - `max 4 CM/Tsz`\
-    (CM = Célzó Érték Módosító, ami a CÉ-re fordítandó harcérték módosítót jelöli)
-  - ⭕`max 5 HM/Tsz` tehető egy harcértékre⭕
+### Fortélyok
+ 
+Nehézségük és összetettségük szerint csoportosítjuk őket. Lehetnek 1, vagy több fokúak.
 
-- Mágiaiskolák: **Primer** képzettségek. Csak azok a mágiaiskolák tanulhatóak, amelyek a karakter által ismert mágia tradíció alá tartoznak.
+Minden fok költsége: `15KP`
+ 
+Több fokú Fortélyoknál szintenként csak egy fokot lehet fejlődni akkor is, ha lenne elég KP több fokra is! Ez alól kivétel az `1.szint` (karakteralkotás).
+ 
+Egy szintlépés alkalmával nem vehető fel két olyan Fortély, amely ugyanazt a jellemzőt/képzettséget, stb módosítja.
+ 
+A fortélyoknak lehetnek követelményei: Tulajdonságok elvárt értékei, Képzettségek elvárt szintje, esetleg más fortélyok megléte, vagy valamilyen nem számszerűsíthető körülmény.
 
-- Pszí tradíció, Pszí iskola
-  - Pszí-alkalmazás: `4 fokú fortély` egyre erősebb követelményekkel. Az alkalmazás fokát adja, nélküle nem lehet ψ iskolát tanulni.
-  - Pszí iskola: Primer képzettség. Extra diszciplínákat egyes Tradíciók (Mágikus, Faj) adhatnak
+### Harcérték módosítók (HM) / Célzóérték módosítók (CM)
 
+Mágiaiskolák: **Primer** képzettségek. Csak azok a mágiaiskolák tanulhatóak, amelyek a karakter által ismert mágia tradíció alá tartoznak.
+
+Pszí tradíció, Pszí iskola
+- Pszí-alkalmazás: `4 fokú fortély` egyre erősebb követelményekkel. Az alkalmazás fokát adja, nélküle nem lehet ψ iskolát tanulni.
+- Pszí iskola: Primer képzettség. Extra diszciplínákat egyes Tradíciók (Mágikus, Faj) adhatnak
+
+---
 ## Manőverek, Manőver Fejlesztő Pontok
 
 Például Lábsöprés, Lefegyverzés, Átdobás, stb.\
