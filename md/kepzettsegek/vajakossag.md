@@ -39,9 +39,7 @@
 
 <br />
 
-##### Összhangok
-
-- [Természetjárás](termeszetjaras.md): **Erős Összhang**
+**Összhang**: [Természetjárás](termeszetjaras.md)
 
 <br />
 
