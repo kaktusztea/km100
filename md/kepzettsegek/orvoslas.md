@@ -18,7 +18,7 @@ A képzettség az alábbi tevékenységeket fedi le:
 - vérzés elállítása
 - fertőtlenítés, sebkötözés kencék használatával
 - [vajákos](vajakossag.md) által beszerzett készítmények használata
-- mérgezés gyógyitása ([Méregkeverés](meregkeveres.md): **Erős összhang**)
+- mérgezés gyógyitása ([Méregkeverés](meregkeveres.md): **Összhang**)
 
 Magasabb szinteken egyre kevésbé van szükség fizikai komponensekre, keverékekre.
 

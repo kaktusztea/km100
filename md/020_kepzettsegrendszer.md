@@ -174,42 +174,31 @@ Ha a karakternek egy olyan összetett feladatot kell elvégeznie, ami nem intéz
 
 Vannak olyan esetek, amikor egyes képzettségek ismerete helyettesítő segítséget nyújthat más képzettségek használatakor. Az ilyet nevezzük Összhangnak.
 
-Attól függően, hogy mennyire kapcsolódik a „kiegészítő" képzettség az adott feladathoz, annak `1/3`-a, vagy `1/5`-e helyettesíthető be az elsődleges képzettséghez:
-- Erős összhang: (`1/3`)
-- Közepes összhang: (`1/5`)
+Ekkor a helyettesítő képzettség `1/3`-a helyettesíthető be az elsődleges képzettséghez.
+
+❗**Fontos**: a helyettesítő értékek NEM adódnak hozzá a helyettesített képzettséghez, hanem kiváltják azt.
 
 Tehát:
 
 ```
-- Ha erősen kapcsolódik:    (szint/3) működik behelyettesítő értékként
-- Ha közepesen kapcsolódik: (szint/5) működik behelyettesítő értékként
+- (Szint/3) működik behelyettesítő értékként
 - Maximum elérhető szint Összhangokkal: 5
 - lefelé kerekítünk
 ```
 
 A fentieknek csak kismesteri (`6`.) szint **alatt** van csak értelme, azaz a helyettesítő képzettség(ek) legfeljebb `5.szintig` adhatnak helyettesítő értéket.
 
-❗**Fontos**: a helyettesítő értékek NEM adódnak hozzá a helyettesített képzettséghez, kiváltják azt.
-
-#### ⚡Példa-1: Nyomozás összhangokkal
+#### ⚡Példa: Nyomozás összhangokkal
 
 A karakter egy bűntény helyszínén gyanús személyekkel találkozik. Kikérezné őket, **Nyomozás** képzettségpróbát kéne dobnia. Mivel **Nyomozás** képzettsége csak `2.szintű`, ezért egy kapcsolódó képzettsége segítségére támaszkodik, amiben sokkal járatosabb és le is fedi az aktuális szituációban szükséges ismeretet. A KM az adott helyzetben ezt jól megindokoltnak látja, így engedélyezi.
 
 - Nyomozás `2.szint`
-- Emberismeret: `9.szint`  (Erős Összhang Nyomozás képzettséggel)
+- Emberismeret: `9.szint`  (Összhang Nyomozás képzettséggel)
 
-Ebben az esetben az **Emberismeret** képzettség az, amely helyettesítő képzettségként működik. Mivel a jelen próbához az **Emberismeret** erősen kapcsolódik, ezért annak `1/3`-a működhet **Nyomozás** képzettségként (a próba idejére): `9/3 = 3`
+Ebben az esetben az **Emberismeret** képzettség az, amely helyettesítő képzettségként működik. Mivel a jelen próbához az **Emberismeret** Összhangként kapcsolódik, ezért annak `1/3`-a működhet **Nyomozás** képzettségként (a próba idejére): `9/3 = 3`
 
 Tehát a próbát `3 + Érzékenység  vs  Próba célszám` értékekkel dobja.
 
-#### ⚡Példa-2: Történelemismeret összhangokkal
-
-- Történelemismeret - `0.szint`
-- Vallásismeret - `12.szint` (Erős Összhang Történelemismerettel)
-
-Ekkor a **Vallásismeret** `12/3 ~= 4` értéket szolgáltat.
-
-Tehát a próbát `4 + Emlékezet  vs  Próba célszám` értékekkel dobja.
 
 ---
 ### Sérülés hatása képzettségpróbára

@@ -8,7 +8,7 @@ Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-
 
 **Kapcsolódó fortélyok**: [Keresés](../fortelyok.altalanos/kereses.md), [Építészet](../fortelyok.altalanos/epiteszet.md), [Élettan](../fortelyok.altalanos/elettan.md) (boncoláshoz)
 
-**Erős Összhang**: [Emberismeret](emberismeret.md) (szituáció-függő)
+**Összhang**: [Emberismeret](emberismeret.md) (szituáció-függő)
 
 **Szabad Hátterek kiterjesztik**:
 - [Heraldika](../hatterek.szabad/heraldika.md)
