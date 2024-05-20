@@ -20,8 +20,8 @@ Kapcsolódó Képzettség-próba:
 ##### Kapcsolódó Szabad Háttér
 
 - [Nyelvismeret](nyelvismeret.md) Háttér
-- [Tánc](tanc.md) Szabad Háttér
-- [Tánc: belső stílus](tanc_belso_stilus.md)  Szabad Háttér
+- [Tánc](../hatterek.szabad/tanc.md) Szabad Háttér
+- [Tánc: belső stílus](../hatterek.szabad/tanc_belso_stilus.md)  Szabad Háttér
 
 ##### Kapcsolódó fortély
 - [Hamisítás](../fortelyok.altalanos/hamisitas.md) fortély
