@@ -7,6 +7,7 @@
 A Hátterek ingyenes, változatos jellemzők.
 
 - [Faj Hátterek](041_faj_hatterek.md): Csak 1. szinten felvehető faji jellemzők
+- [Kiemelt Hátterek](042_kiemelt_hatterek.md): Nyelvismeret, Kultúrkör, Helyismeret - amelyek kezelése speciális.
 - [Szabad Hátterek](043_szabad_hatterek.md): színesítő, képzettségeket "kiterjesztő" elemek. `SzP` alapú ÉS ingyenes növelés
 - [Leíró Hátterek](044_leiro_hatterek.md): pár szavas színesítő jellemzők
 - [Karma Hátterek](045_karma_hatterek.md): események, különleges, kalandok során szerzett cselekedetek

@@ -9,5 +9,3 @@ A Kiemelt Hátterek alá három, egyedi ismeret tartozik, amelyek nem sorolható
 #### [Helyismeret](hatterek.kiemelt/helyismeret.md) 🔁
 
 #### [Kultúrkör](hatterek.kiemelt/kulturkor.md) 🔁
-
-
