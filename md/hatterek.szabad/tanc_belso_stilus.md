@@ -10,7 +10,7 @@ Többször felvehető. Ez általában egyedi, titkos, vagy nagyon speciális tá
 - Előtörténet
 - [Etikett](../kepzettsegek/etikett.md) -`9.szint` (képzettség)
 - [Előadóművészet](../kepzettsegek/eloadomuveszet.md) - `9.szint` (képzettség)
-- [Kultúrkör](kulturkor.md) (kapcsolódó Szabad Háttér)
+- [Kultúrkör](../hatterek.kiemelt/kulturkor.md) (kapcsolódó Háttér)
 - [Tánc](tanc.md)  (kapcsolódó Szabad Háttér)
 
 <br />

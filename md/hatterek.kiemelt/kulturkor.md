@@ -1,11 +1,10 @@
 #### 🟣 Kultúrkör (adott kultúrkör) 🔁
 
 ```
-- többször felvehető
 - 1 fokú
-- Minden 2.Tapasztalati Szinten kapsz egyet. 1.TSz-szel kezdve.
+- 1.Tapasztalati Szinttől kezdve minden 2. TSz-en kapsz egyet.
 
-⚡ Példa: "Kultúrkör: Toron, "Kultúrkör: Pyarron"
+⚡ Példa: "Kultúrkör: Toron", "Kultúrkör: Pyarron"
 
 Kapcsolódó Képzettség-próba:
   ha nincs meg a megkövetelt Kultúrkör fok, akkor +3 Nehézség.
@@ -20,7 +19,7 @@ Kapcsolódó Képzettség-próba:
 
 ##### Kapcsolódó Szabad Háttér
 
-- [Nyelvismeret](nyelvismeret.md) Szabad Háttér
+- [Nyelvismeret](nyelvismeret.md) Háttér
 - [Tánc](tanc.md) Szabad Háttér
 - [Tánc: belső stílus](tanc_belso_stilus.md)  Szabad Háttér
 

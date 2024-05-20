@@ -7,7 +7,7 @@
 **Kapcsolódó fortélyok**: [Építészet](../fortelyok.altalanos/epiteszet.md) ⭕
 
 **Szabad Hátterek kiterjesztik**: ⭕
-- [Kultúrkör](../hatterek.szabad/kulturkor.md) 
+- [Kultúrkör](../hatterek.kiemelt/kulturkor.md) 
 
 valamint:
 - [Éneklés](../hatterek.szabad/enekles.md)
@@ -29,8 +29,8 @@ valamint:
 A tudás szélesíthető a fent található Szabad Hatterek felvételével Szabad Pontokból.
 
 **Követelmény**:
-  - [Kultúrkör](../hatterek.szabad/kulturkor.md) (adott kultúra). Enélkül `+3` nehezítés a képzettségpróbákra.
-  - [Nyelvismeret](../hatterek.szabad/nyelvismeret.md): Udvari fok
+  - [Kultúrkör](../hatterek.kiemelt/kulturkor.md) (adott kultúra). Enélkül `+3` nehezítés a képzettségpróbákra.
+  - [Nyelvismeret](../hatterek.kiemelt/nyelvismeret.md): Udvari fok
 
 **Erős Összhagok:**
 - [Előadóművészet](eloadomuveszet.md)

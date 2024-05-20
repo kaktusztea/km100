@@ -20,12 +20,6 @@ Ha egy képzettséghez számos Szabad Háttér kapcsolódik, akkor azok közül 
 ---
 #### Tartalomjegyzék
 
-- [Helyismeret](hatterek.szabad/helyismeret.md) 🔁
-- [Kultúrkör](hatterek.szabad/kulturkor.md) 🔁
-- [Nyelvismeret](hatterek.szabad/nyelvismeret.md)
-
-valamint:
-
 - [Alkudozás](hatterek.szabad/alkudozas.md)
 - [Asztrológia](hatterek.szabad/asztrologia.md)
 - [Boncolás](hatterek.szabad/boncolas.md) 🔁

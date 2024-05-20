@@ -11,13 +11,13 @@ Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-
 **Kapcsolódó fortélyok**: -
 
 **Szabad Hátterek kiterjesztik**: ⭕
+- [Kultúrkör](../hatterek.kiemelt/kulturkor.md)
 - [Heraldika](../hatterek.szabad/heraldika.md)
-- [Kultúrkör](../hatterek.szabad/kulturkor.md)
 - [Pénzügyek](../hatterek.szabad/penzugyek.md)
 - [Jogismeret](../hatterek.szabad/jogismeret.md)
 
 ##### Követelmények
- - [Kultúrkör](../hatterek.szabad/kulturkor.md)
+ - [Kultúrkör](../hatterek.kiemelt/kulturkor.md)
 Amennyiben nincs meg a próbát érintő **Kultúrkör** Háttér, akkor a próba **Nehézsége**⭕ a Kultúrkörnél leírt mértékben emelkedik.⭕
 
 **Leírás**: Alacsonyabb szinten a hetedkori Ynev általános történelmét ismered, magasabb szinten fellebbennek a titkok a régebbi korok titkairól is.
@@ -68,5 +68,5 @@ Amennyiben nincs meg a próbát érintő **Kultúrkör** Háttér, akkor a prób
 
 ##### Célszámot módosító körülmények
 
-- Nehézség büntetés, ha nincs kapcsolódó [Kultúrkör](../hatterek.szabad/kulturkor.md)
+- Nehézség büntetés, ha nincs kapcsolódó [Kultúrkör](../hatterek.kiemelt/kulturkor.md)
  
