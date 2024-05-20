@@ -6,16 +6,16 @@
 
 **Kapcsolódó Fortélyok**: -
 
-**Kapcsolódó Szabad Hátterek**: [Kultúrkör](../hatterek.szabad/kulturkor.md), [Titkos szervezeti kultúra](../hatterek.szabad/titkos_szervezeti_kultura.md)
+**Kapcsolódó Szabad Hátterek**: [Kultúrkör](../hatterek.kiemelt/kulturkor.md), [Titkos szervezeti kultúra](../hatterek.szabad/titkos_szervezeti_kultura.md)
 
 **Szabad Hátterek kiterjesztik**: ⭕
 
 **Leírás**: Hogy kell köszönteni a nemesi vendégeket, hogyan kell udvariasan hárítani egy meghívást, mi számít könnyed tréfának és mi halálos sértésnek? A képzettség elsősorban az udvari, nemesi környezetben való "viselkedést" fedi.
 
-Természetesen nem mindegy, melyik kultúrkörben kell a társasági kihívásokat teljesíteni, de az alapismeret és a gyors tanulás segítségével hamar beépíthető más kultúrkörök ismerete is. Például egy "Etikett: `9.szint`"-el rendelkező pyarroni nemes pár nap alatt képes megtanulni a toroni udvari Etikett szabályait, mert már megvan a mentális "váz", amire csak fel kell "aggatnia" az új tudást. Ezt a  [Kultúrkör](../hatterek.szabad/kulturkor.md) Szabad Háttér rendszerén keresztül szimuláljuk.
+Természetesen nem mindegy, melyik kultúrkörben kell a társasági kihívásokat teljesíteni, de az alapismeret és a gyors tanulás segítségével hamar beépíthető más kultúrkörök ismerete is. Például egy "Etikett: `9.szint`"-el rendelkező pyarroni nemes pár nap alatt képes megtanulni a toroni udvari Etikett szabályait, mert már megvan a mentális "váz", amire csak fel kell "aggatnia" az új tudást. Ezt a  [Kultúrkör](../hatterek.kiemelt/kulturkor.md) Szabad Háttér rendszerén keresztül szimuláljuk.
 
 ##### Kultúrkör Szabad Hátterek
-Ha a karakter rendelkezik az épp a helyszínen található kultúrkört lefedő [Kultúrkör](../hatterek.szabad/kulturkor.md) Szabad háttérrel, akkor képes a kapcsolódó **Etikett** képzettségét ott büntetések nélkül alkalmazni. Ha nem, akkor csak ⭕az ott leírt⭕ nehezítéssel tudja a képzettséget alkalmazni.
+Ha a karakter rendelkezik az épp a helyszínen található kultúrkört lefedő [Kultúrkör](../hatterek.kiemelt/kulturkor.md) Szabad háttérrel, akkor képes a kapcsolódó **Etikett** képzettségét ott büntetések nélkül alkalmazni. Ha nem, akkor csak ⭕az ott leírt⭕ nehezítéssel tudja a képzettséget alkalmazni.
 
 Bővebben lásd a **Kultúrkör** Szabad háttér leírását.
 
@@ -49,4 +49,4 @@ Bővebben lásd a **Kultúrkör** Szabad háttér leírását.
 ##### Célszámot módosító körülmények
 
 - Bódult, részeg állapotban: `+[1-6]`
-- Nehézség büntetés, ha nincs kapcsolódó [Kultúrkör](../hatterek.szabad/kulturkor.md) Szabad Háttér.
+- Nehézség büntetés, ha nincs kapcsolódó [Kultúrkör](../hatterek.kiemelt/kulturkor.md) Háttér.

@@ -4,7 +4,7 @@
 - [Etikett](../kepzettsegek/etikett.md)
 
 ##### Követelmény
-- ⭕KELL?⭕ [Kultúrkör](kulturkor.md): (adott kultúrkör)
+- ⭕KELL?⭕ [Kultúrkör](../hatterek.kiemelt/kulturkor.md): (adott kultúrkör)
 
 
 <br />

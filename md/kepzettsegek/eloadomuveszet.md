@@ -7,7 +7,7 @@
 **Kapcsolódó fortélyok**: ⭕xyz
 
 **Szabad Hátterek kiterjesztik**:
-- [Kultúrkör](../hatterek.szabad/kulturkor.md)
+- [Kultúrkör](../hatterek.kiemelt/kulturkor.md)
 - [Éneklés](../hatterek.szabad/enekles.md)
 - [Irodalom](../hatterek.szabad/irodalom.md)
 - [Színjátszás](../hatterek.szabad/szinjatszas.md)

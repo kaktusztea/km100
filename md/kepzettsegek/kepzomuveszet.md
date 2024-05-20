@@ -7,7 +7,7 @@
 **Kapcsolódó fortélyok**: ⭕xyz
 
 **Szabad Hátterek kiterjesztik**: ⭕
-- [Kultúrkör](../hatterek.szabad/kulturkor.md) (kapcsolódó kultúra)
+- [Kultúrkör](../hatterek.kiemelt/kulturkor.md) (kapcsolódó kultúra)
 .
 - [Festészet](../hatterek.szabad/festeszet.md)
 - [Irodalom](../hatterek.szabad/irodalom.md)
@@ -15,13 +15,13 @@
 - [Szobrászat](../hatterek.szabad/szobraszat.md)
 
 
-**Leírás**: Aktív, alkotó művész vagy. A fenti művészetek listájából a képzettség felvételekor `1 db` választott Szabad-Hátteret ingyen megkapsz, a többit [Szabad Háttérként](../042_szabad_hatterek.md) veheted fel.
+**Leírás**: Aktív, alkotó művész vagy. A fenti művészetek listájából a képzettség felvételekor `1 db` választott Szabad-Hátteret ingyen megkapsz, a többit [Szabad Háttérként](../043_szabad_hatterek.md) veheted fel.
 
 <br />
 
 ##### Biztos tudás, követelmények
 
-Az általad ismert [Kultúrkör](../hatterek.szabad/kulturkor.md)öknek megfelelő műveket hozhatsz létre. Anélkül nem megy.
+Az általad ismert [Kultúrkör](../hatterek.kiemelt/kulturkor.md)öknek megfelelő műveket hozhatsz létre. Anélkül nem megy.
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub> | Követelmény |
 |:---------------- |:---------------------------------------------------------------------------------- |:-----------:|

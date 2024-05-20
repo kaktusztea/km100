@@ -132,7 +132,7 @@
 ---
 ## Művészeti képzettségek
 
-Az aktív előadást igénylő művészeteket szeparáltuk az **Előadóművészet** képzettségbe a belső művészetek alkotói folyamatait lefedő **Képzőművészettől**. A passzív művészeti ismereteket a **Művészetismeret** képzettség adja. Mind a három  [Szabad Hátterek](042_szabad_hatterek.md) alkalmazásával terjeszthető ki különböző művézeti ágakra.
+Az aktív előadást igénylő művészeteket szeparáltuk az **Előadóművészet** képzettségbe a belső művészetek alkotói folyamatait lefedő **Képzőművészettől**. A passzív művészeti ismereteket a **Művészetismeret** képzettség adja. Mind a három  [Szabad Hátterek](043_szabad_hatterek.md) alkalmazásával terjeszthető ki különböző művézeti ágakra.
 
 🔵[Előadóművészet](kepzettsegek/eloadomuveszet.md)
 
