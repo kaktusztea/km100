@@ -43,7 +43,7 @@ Ha egy karakternek egy korábbi fejbekólintás okán vannak már `KT`-i és egy
 ---
 #### Valós ÉP seb elszenvedése Kábulat ÉP után
 
-Amennyiben a karakter életerő táblázatában van bármennyi KT, akkor egy újabb, - immár valós - ÉP seb elszenvedésekor először ezeket a KT jelölőket "alakítsuk" át valós sebbé és csak utána jelöljünk be újabb seb rubrikákat. Egyszerűen fogalmazva: egy valós sebzés először a KT-kat írja át és csak a "maradék" sebez újonnan.
+Amennyiben a karakter életerő táblázatában van bármennyi KT, akkor egy újabb, - immár valós - ÉP seb elszenvedésekor először ezeket a KT jelölőket "alakítsuk" át valós sebbé és csak utána jelöljünk be újabb seb rubrikákat. Egyszerűen fogalmazva: egy valós sebzés először a KT-kat írja át ("felülről") és csak a "maradék" sebez újonnan.
 
 ---
 #### Túlcsordult Kábulat ÉP
