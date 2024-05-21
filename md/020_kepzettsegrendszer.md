@@ -23,11 +23,11 @@ Ez az érték a karakter életútja során - a megszerzett tapasztalatoknak hál
 ---
 ## Primer és Szekunder képzettségek
 
-Önkényesen felosztottuk a tanulható képzettségeket két csoportra: Primer és Szekunder.
+Önkényesen felosztottuk a tanulható képzettségeket ún. Primer és Szekunder csoportokra.
 
 Ennek oka - nem titkoltan - a színesebb karakterek megalkotásának célja. Nagyon röviden: a **Primer** képzettségek a "tápos", kalandban kiemelten használt ismeretek, míg a **Szekunder** képzettségek inkább a színesítő, kiegészítő tudást takarják.
 
-Primer alá tartozik minden harci, misztikus, szakrális és mágikus képzettség, valamint számos világi képzettség is. Ezek pontos listáját lásd a [Képzettséglista](021_kepzettseglista.md) oldalon.
+Primer alá tartozik minden harci, misztikus, szakrális és mágikus képzettség, valamint számos világi képzettség is. Ezek pontos listáját lásd a [Képzettséglista](021_kepzettseglista.md) oldalon. Jelölése: 🅿️.
  
 ---
 ## Képzettségek növelése, Képzettség Bónuszok
@@ -49,23 +49,23 @@ A `12. és 15. szintek` kiemelt mérföldkövek a képzettségek esetében, itt 
 
 A fejlődés Karakter Pontba (`KP`) kerül. A KP szimulálja az egyes képzettségek elsajátítására fordított tanulás „egységnyi mennyiséget". Hogy ennek mekkora a KP igénye, azt az alábbi táblázat adja meg:
 
-| Fokozat     | Képzettség Szint | KP igény |       |
-| ----------- | :--------------: | :------: | :---- |
-|             |        1         |    6     | +6KP  |
-|             |        2         |    10    | +4KP  |
-| Novícius    |        3         |    16    | +6KP  |
-|             |        4         |    24    | +8KP  |
-|             |        5         |    34    | +10KP |
-| Kismester   |        6         |    46    | +12KP |
-|             |        7         |    60    | +14KP |
-|             |        8         |    76    | +16KP |
-| Mester      |        9         |    94    | +18KP |
-|             |        10        |   114    | +20KP |
-|             |        11        |   136    | +22KP |
-| Nagymester  |        12        |   160    | +24KP |
-|             |        13        |   186    | +26KP |
-|             |        14        |   214    | +28KP |
-| Élő legenda |        15        |   244    | +30KP |
+| Fokozat     | Képzettség Szint | KP igény | Diff  |
+| ----------- |:----------------:|:--------:|:-----:|
+|             |        1         |  **6**   | +6KP  |
+|             |        2         |  **10**  | +4KP  |
+| Novícius    |        3         |  **16**  | +6KP  |
+|             |        4         |  **24**  | +8KP  |
+|             |        5         |  **34**  | +10KP |
+| Kismester   |        6         |  **46**  | +12KP |
+|             |        7         |  **60**  | +14KP |
+|             |        8         |  **76**  | +16KP |
+| Mester      |        9         |  **94**  | +18KP |
+|             |        10        | **114**  | +20KP |
+|             |        11        | **136**  | +22KP |
+| Nagymester  |        12        | **160**  | +24KP |
+|             |        13        | **186**  | +26KP |
+|             |        14        | **214**  | +28KP |
+| Élő legenda |        15        | **244**  | +30KP |
 
 A `KP igény` fokozatosan nő, tehát `1`-ről `2`-re sokkal könnyebb fejlődni, mint mondjuk `4`-ről `5`-re. Képzettségben hagyományos tanulással `legfeljebb 13`-ig lehet fejlődni. `14`-es és `15`-ös szintre csak úgy juthat el a karakter, ha a képzettséggel kapcsolatos, nagyon ritka titkos tudásra tesz szert. Ez kaland alapja is lehet!! Például megszerezni a "*Gyógyító Érintés Tudományának Titkos Fóliását*" (**Orvosláshoz**).
 
