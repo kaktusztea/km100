@@ -58,8 +58,8 @@ Rövid áttekintő summázatként álljanak itt a számok, amelyekkel a karakter
 ### KP költésével növelt értékek
 
 - **Képzettségek**: Harci, Tradíció, Fizikai, Alvilági, Művészeti, Világi, Tudományos, Misztikus, Tradíciók (Mágia: Magasmágia, Vulgár, Sámán, Bárd, Ordani tűz, Ork énekmondói, Rituálé; Slan, Faj, Fejvadász), Pszí-iskola
-- **Fortélyok**: Általános, Harci, Lovas, Íjász, Alvilági, Szociális, Világi, Tudományos, Művészeti, Mágikus/Misztikus
-- **Harcérték módosítók** (HM/CM)
+- **Fortélyok**: Általános, Harci, Lovas, Íjász, Mágikus/Misztikus, Érzék, Alvilági, Fizikai, Tudományos, Szociális 
+- **Harcérték módosítók**: (HM/CM)
 
 ---
 ## Karakteralkotó
@@ -106,7 +106,7 @@ Az első 2 tapasztalati szint az előtörténet részének tekinthető, amennyib
 
 A karakter fejlődése természetesen folyamatos, de az adminisztráció megkönnyítése érdekében alkalmazzuk a „Szintlépés" fogalmát. Szintlépés olyankor következik be, amikor a KM úgy ítéli, a karakter jelentősen fejlődött, sokat tapasztalt és ennek ideje lenne értékeiben is megmutatkozniuk.
 
-Aki békésen, kihívások, újdonságok, megpróbáltatások nélkül éli életét, az nem tapasztal sokat, élete végére legfeljebb `5-6. szintre` jut el.
+Aki békésen, kihívások, újdonságok, megpróbáltatások nélkül éli életét, az nem tapasztal sokat, élete végére legfeljebb `5-6.szintre` jut el.
 
 A km100 rendszerében a `21.szint` a maximum elérhető fejlődés tekintetében.
 
@@ -653,11 +653,13 @@ Lásd a [Mágiarendszer](090_magiarendszer.md) fejezetet!
 ---
 ## Primer és Szekunder ismeretek kategóriái
 ```
-→ Primer ismeretek: minden harci, misztikus, mágikus képzettség és fortély, HM, CM
-                    + Észlelés, Összpontosítás, Fájdalomtűrés,
-                    + Akrobatika, Lopakodás/rejtőzés, Nyomozás képzettség
+→ Primer ismeretek: Primer képzettségek
+                    + minden harci, misztikus és mágikus fortély
+                    + HM, CM
 → Szekunder ismeretek: minden más
 ```
+
+A Primer képzettségek listáját lásd a [Képzettséglista](021_kepzettseglista.md) oldal tetején.
 
 ---
 ## Fejlődés

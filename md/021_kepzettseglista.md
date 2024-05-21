@@ -4,8 +4,7 @@
 
 ---
 
-
-→ Primer képzettségek:
+→ **Primer képzettségek** 🅿️
 - minden harci képzettség
 - minden misztikus, mágikus, szakrális képzettség
 - Akrobatika
@@ -25,7 +24,7 @@
 - Tradíció
 - Tudományok
 
-→ Szekunder képzettségek: minden más képzettség
+→ **Szekunder képzettségek**: minden más képzettség
 
 
 ---

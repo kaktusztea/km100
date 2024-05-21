@@ -2,8 +2,9 @@
 
 ## Karakteralkotók
 
-- [JK Karakteralkotó v8.6.0 (ODS)](https://github.com/kaktusztea/km100/raw/master/segedlet/karakteralkoto_v8.6.0.ods?raw=true) <!-- markdown-link-check-disable --> <sub><sup>([LibreOffice](https://www.libreoffice.org/download/download/))</sup></sub> <!-- markdown-link-check-enable --> &nbsp;&nbsp;//&nbsp;&nbsp;[Karakteralkotás](010_karakteralkotas.md), [Képzettséglista](021_kepzettseglista.md), [Fortélyok](030_fortelyok.md), [Hátterek](040_hattererek.md), [Tradíciók](050_tradiciok.md)
+- [JK Karakteralkotó v8.6.0 (ODS)](https://github.com/kaktusztea/km100/raw/master/segedlet/karakteralkoto_v8.6.0.ods?raw=true) <!-- markdown-link-check-disable --> <sub><sup>([LibreOffice](https://www.libreoffice.org/download/download/))</sup></sub> <!-- markdown-link-check-enable -->
 - [NJK Karakterlap v1.2 ODT](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2.odt?raw=true), [PDF](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2.pdf?raw=true); [NJK kétoldalas v1.2 ODT](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2_ketoldalas.odt)
+* Könyvjelzők gyakori oldalhoz: [Karakteralkotás](010_karakteralkotas.md), [Képzettséglista](021_kepzettseglista.md), [Fortélyok](030_fortelyok.md), [Hátterek](040_hattererek.md), [Tradíciók](050_tradiciok.md)
 
 ## Kivonatok
 
@@ -12,6 +13,7 @@
 
 ## Részletes szabályrendszer
 
+- [Bevezető](000_bevezeto.md)
 - [Jelzők](000_jelzok.md)
 - [Karakteralkotás, Tulajdonságok](010_karakteralkotas.md) (90%)
 - [Képzettségrendszer](020_kepzettsegrendszer.md) (80%)
