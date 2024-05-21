@@ -57,9 +57,9 @@ A km100 harcrendszere lehetőséget ad rá, hogy a karakter harc közben ilyen s
 
 - Egy Manőver végrehajtása `1 támadást` emészt fel, nem szükséges hozzá nyert kezdeményezés
 
-- Manővert ellenfél **ellen** alkalmazunk. Így például kiszaltózni az ablakon, vagy leugrani a várfalról **nem** számít Manővernek!
+- Manővert ellenfél **ellen** alkalmazunk. Így például kiszaltózni az ablakon, vagy leugrani a várfalról **nem** számít Manővernek
 
-- Ha minden kötelező fázisa (`M E V`) sikeres, akkor az adott Manőver „Hatás” részénél leírtak következnek be
+- Ha minden kötelező fázisa  sikeres a végrehajtó szempontjából (`E V`) és sikertelen, akkor az adott Manőver „Hatás” részénél leírtak következnek be
 
 - Végrehajtás fázisa aktuális **fegyveres** `TÉ`-vel történik (kivéve, ha más szerepel a Manőver leírásában.)
 
@@ -69,7 +69,7 @@ A km100 harcrendszere lehetőséget ad rá, hogy a karakter harc közben ilyen s
 	- speciális könnyítő/nehezítő körülményei (+/- módosítók a nehézségre)
 	- extra végbeviteli követelményei: Ezek nélkül a KM dönt, hogy végrehajtható -e és ha igen, mekkora plusz célszám büntetéssel
 
-- Manőver alkalmazásakor nem folytatható **Védekező harc**, vagy **Védő Taktika**, de **Támadó taktika** igen, kivéve ahol ez az adott Manővernél külön meg van említve.
+- Manőver alkalmazásakor nem folytatható **Védekező harc**, vagy **Védő Taktika** (kivéve ahol ez külön meg van említve), de **Támadó taktika** igen, kivéve ahol ez az adott Manővernél külön meg van említve.
 
 - **Rohamnál** csak az a manőver hajtható végre, amelyiknél ez külön meg van említve
 
@@ -116,7 +116,7 @@ Egy Manőver alkalmazása – jellegétől függően – legfeljebb az alábbi h
 
 Megelőző támadási forma, melyre az ellenfél jogosult teljes, fegyveres `TÉ`-jével (soron kívüli extra támadás), ha az adott típusú manőver követelményei között ez szerepel (M).
 
-A Megakasztás az első fázis a Manőver végrehajtása során. Ha az így érkező támadás sebző, akkor a Manőver nem sikerült. (Tipikus példa, a harcból való **Kibontakozás**, vagy a **Belharcba kerülés**.)
+A Megakasztás az első fázis a Manőver végrehajtása során. Ha az így érkező támadás sebző, akkor a Manőver nem sikerült. (Tipikus példa a **Belharcba kerülés**.)
 
 <br/>
 
@@ -319,6 +319,7 @@ Lásd: [Kibontakozás/Átsiklás](#%EF%B8%8Fkibontakozásátsiklás) manőver.
 - Fázisok: `E M`
 	- Ez speciális manőver, mert itt először dobjuk az Ellenpróbát, csak aztán a Megakasztás(oka)t.
 	- A **Megakasztás** kreatív figyelemeltereléssel kiváltható/megúszható, de a KM ne legyen vajszívű!
+	- Ha a kibontakozó **Ellenpróbája** sikeres, de az ellenfél **Megakasztása** is betalált, attól még a Kibontakozás sikeres lesz, de az áldozat elszenvedi az ellenfél Sebzését.
 - Max fok: `2`
 - **1.fok** követelménye: `Ügyesség: 0`
 - **2.fok** követelménye: `Ügyesség: +1`
@@ -326,7 +327,7 @@ Lásd: [Kibontakozás/Átsiklás](#%EF%B8%8Fkibontakozásátsiklás) manőver.
 - Speciális:
 	- A harcolók fegyver-méret különbsége számít! Penge különbségenként `2`-vel csökken/nő a **Nehézség**.
 	- Ha Ellenpróbánál a dobás `2`-vel meghaladja a célszámot, akkor egy ellenfél nem jogosult **Megakasztásra**. Ez további `+2`-enként további egy ellenfélre igaz.
-	- Kibontakozásnál nem folytatható Védekező harc, de **Védő taktika** igen.
+	- Védő Taktika, illetve Védekező harc közben is alkalmatható a Kibontakozás (az átsiklás nem).
 - Hatás: Sikerül a harcból kibontakoznod, ellenfele(i)d már nem támadhat(nak) rád. Most jön a futás... Ha üldöznek, akkor támadóddal **Gyorsaság** ellenpróbát kell dobnotok, amelyet, ha te nyertél, akkor kereket oldottál, ha viszont az üldöződ nyerte, akkor utolért és leadhat rád egy támadást hátulról (`+10 TÉ`), amely ellen puszta kezes harcértékeiddel védekezhetsz.
 - Több támadó:
 	- A célszámba a legmagasabb ellenfél-harcmodor-szint számít be
