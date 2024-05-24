@@ -2,13 +2,13 @@
 
 ## Karakteralkotók
 
-- [JK Karakteralkotó v8.6.0 (ODS)](https://github.com/kaktusztea/km100/raw/master/segedlet/karakteralkoto_v8.6.0.ods?raw=true) <!-- markdown-link-check-disable --> <sub><sup>([LibreOffice](https://www.libreoffice.org/download/download/))</sup></sub> <!-- markdown-link-check-enable -->
-- [NJK Karakterlap v1.2 ODT](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2.odt?raw=true), [PDF](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2.pdf?raw=true); [NJK kétoldalas v1.2 ODT](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2_ketoldalas.odt)
+- **[JK Karakteralkotó v8.6.0 (ODS)](https://github.com/kaktusztea/km100/raw/master/segedlet/karakteralkoto_v8.6.0.ods?raw=true)** <!-- markdown-link-check-disable --> <sub><sup>([LibreOffice](https://www.libreoffice.org/download/download/))</sup></sub> <!-- markdown-link-check-enable -->
+- NJK Karakterlap v1.2 ([ODT 1 oldalas](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2.odt?raw=true), [ODT 2 oldalas](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2_ketoldalas.odt); [PDF](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2.pdf?raw=true))
 
 ## Segédletek, gyakori oldalak
 
-- [Segédlet esszencia játékalkalomra (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_ingame.pdf?raw=true)&nbsp;&nbsp;-&nbsp;&nbsp;[Távharc segédlet (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_tavharc.pdf?raw=true)
-- [Karakteralkotás](010_karakteralkotas.md) &nbsp;&nbsp;-&nbsp;&nbsp;[Hátterek](020_hattererek.md)&nbsp;&nbsp;-&nbsp;&nbsp;[Képzettséglista](032_kepzettseglista.md)&nbsp;&nbsp;-&nbsp;&nbsp;[Fortélyok](040_fortelyok.md)&nbsp;&nbsp;-&nbsp;&nbsp;[Tradíciók](050_tradiciok.md)
+- [Segédlet esszencia (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_ingame.pdf?raw=true)&nbsp;&nbsp;-&nbsp;&nbsp;[Távharc segédlet (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_tavharc.pdf?raw=true)
+- [Képzettséglista](032_kepzettseglista.md) &nbsp;-&nbsp; [Fortélyok](040_fortelyok.md) &nbsp;-&nbsp; [Szabad Hátterek](023_szabad_hatterek.md)
 
 ---
 ## Részletes szabályrendszer
