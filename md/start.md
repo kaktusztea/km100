@@ -8,7 +8,7 @@
 ## Segédletek, gyakori oldalak
 
 - [Segédlet esszencia (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_ingame.pdf?raw=true)&nbsp;&nbsp;-&nbsp;&nbsp;[Távharc segédlet (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_tavharc.pdf?raw=true)
-- [Képzettséglista](036_kepzettseglista.md) &nbsp;-&nbsp; [Fortélyok](040_fortelyok.md) &nbsp;-&nbsp; [Szabad Hátterek](023_szabad_hatterek.md)
+- [Képzettséglista](031_kepzettseglista.md) &nbsp;-&nbsp; [Fortélyok](040_fortelyok.md) &nbsp;-&nbsp; [Szabad Hátterek](023_szabad_hatterek.md)
 
 ---
 ## Részletes szabályrendszer
@@ -52,12 +52,12 @@
 ---
 ### 3. [Képzettségrendszer](030_kepzettsegrendszer.md)
 
-- [Primer és Szekunder képzettségek](031_primer_szekunder_kepzettsegek.md)
-- [Képzettségszint skála](032_kepzettsegszint_skala.md)
-- [Képzettségek fejlesztése](033_kepzettsegek_fejlesztese.md)
-- [Képzettségszintek KP igénye](034_kepzettsegszintek_kp_igenye.md)
-- [Képzettségpróba](035_kepzettsegproba.md)
-- [Képzettséglista](036_kepzettseglista.md) (90%)(20%)
+- [Képzettséglista](031_kepzettseglista.md) (90%)(20%)
+- [Primer és Szekunder képzettségek](032_primer_szekunder_kepzettsegek.md)
+- [Képzettségszint skála](033_kepzettsegszint_skala.md)
+- [Képzettségek fejlesztése](034_kepzettsegek_fejlesztese.md)
+- [Képzettségszintek KP igénye](035_kepzettsegszintek_kp_igenye.md)
+- [Képzettségpróba](036_kepzettsegproba.md)
 
 ---
 ### 4. [Fortélyok](040_fortelyok.md)
