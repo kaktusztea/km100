@@ -4,7 +4,7 @@
 
 ### Primer ismeretek
 
-→ **Primer képzettségek**: listájukat lásd a [Képzettséglista](036_kepzettseglista.md) oldal tetején.
+→ **Primer képzettségek**: listájukat lásd a [Képzettséglista](031_kepzettseglista.md) oldal tetején.
 
 → **Fortélyok**: minden harci, misztikus és mágikus fortély
 

@@ -42,7 +42,12 @@ Ha `k6`-on a Vállalás értékével megegyezőt, vagy kisebbet dobsz, akkor kri
 A fenti példánál maradva egy 2-es Vállalás esetén már a következőképpen fest a próba:
 
 ```
-2 (Ügyesség) + 5 (Mászás) + 2 (Vállalás)+ k10   vs.  15 (Nagyon nehéz)
++ 2 (Ügyesség)
++ 5 (Mászás)
++ 2 (Vállalás)
++ k10
+
+vs. 15 (Nagyon nehéz)
 
 Azaz: (9+k10)  vs  15
 ```
@@ -77,14 +82,22 @@ Ha a karakternek egy olyan összetett feladatot kell elvégeznie, ami nem intéz
 - Hogy a másodlagos dobásból hány kell, az főleg attól függ, hogy a feladat „milyen hosszú", mennyire „többlépcsős".
 - Ha nagyon finom bontást akarunk, akkor `akár 2 fokozattal` (-6  célszám) alacsonyabb nehézségre is dobathatunk akár így is: Nagyon nehéz (1db), Nehéz(1db), Átlagos (1db).
 
-> Példa ⚡ Megmászni egy 200 ynevi láb magas, omladékos hegyet
+#### ⚡Példa: Megmászni egy 200 ynevi láb magas, omladékos hegyet
 
-- Tetves, a tolvaj `Mászás képzettsége: 7`, `Ügyessége: +2` , így `8+2=9`-re dob majd rá `k10`-el.
-- A próba „Nagyon nehéz" (`Célszám: 15`)
-- Mivel az út hosszú, nem intézhető el a dolog 1db dobással, a KM `2db Másodlagos próbát` ír elő.
-- Ekkor a próbák célszámai: `15`, `12`, `12` (azaz `50%`, `80%` és `80%` esély a sikerre). Ezzel kb. `30%`-a van a teljes feladat sikerére (`0.5 x 0.8 x 0.8`). Látható, hogy az összetettebb feladatok nagyobb fokú biztos tudást igényelnek.
-- Tehát a próbák:
+Tetves, a tolvaj 
+- `Mászás képzettsége: 7`
+- `Ügyessége: +2`
+- így `8+2=9`-re dob majd rá `k10`-el.
 
+A próba „Nagyon nehéz" (`Célszám: 15`)
+
+Mivel az út hosszú, nem intézhető el a dolog 1db dobással, a KM `2db Másodlagos próbát` ír elő.
+
+Ekkor a próbák célszámai: `15`, `12`, `12` (azaz `50%`, `80%` és `80%` esély a sikerre).
+
+Ezzel kb. `30%`-a van a teljes feladat sikerére (`0.5 x 0.8 x 0.8`). Látható, hogy az összetettebb feladatok nagyobb fokú biztos tudást igényelnek.
+
+Tehát a próbák:
 ```
 - 1x Nagyon nehéz (15)
 - 2x Nehéz        (12)
@@ -121,7 +134,6 @@ A karakter egy bűntény helyszínén gyanús személyekkel találkozik. Kikére
 Ebben az esetben az **Emberismeret** képzettség az, amely helyettesítő képzettségként működik. Mivel a jelen próbához az **Emberismeret** Összhangként kapcsolódik, ezért annak `1/3`-a működhet **Nyomozás** képzettségként (a próba idejére): `9/3 = 3`
 
 Tehát a próbát `3 + Érzékenység  vs  Próba célszám` értékekkel dobja.
-
 
 ---
 ### Sérülés hatása képzettségpróbára

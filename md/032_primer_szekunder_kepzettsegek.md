@@ -4,4 +4,4 @@ A [Primer és Szekunder ismeretek](016_primer_szekunder_ismeretek.md) féle felo
 
 Ennek oka - nem titkoltan - a színesebb karakterek megalkotásának célja. Nagyon röviden: a **Primer** képzettségek a "tápos", kalandban kiemelten használt ismeretek, míg a **Szekunder** képzettségek inkább a színesítő, kiegészítő tudást takarják.
 
-Primer alá tartozik minden harci, misztikus, szakrális és mágikus képzettség, valamint számos világi képzettség is. Ezek pontos listáját lásd a [Képzettséglista](036_kepzettseglista.md) oldalon. Jelölése: 🅿️.
+Primer alá tartozik minden harci, misztikus, szakrális és mágikus képzettség, valamint számos világi képzettség is. Ezek pontos listáját lásd a [Képzettséglista](031_kepzettseglista.md) oldalon. Jelölése: 🅿️.
