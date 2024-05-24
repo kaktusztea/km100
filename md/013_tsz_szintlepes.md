@@ -20,7 +20,7 @@ A km100 rendszerében maximum a `21.tapasztalati szint` érhető el.
 
 Irányelvek karakter szintekre:
 
-`1.szint: `Tapasztalatlan mesterlegény vándorlása megkezdésekor.\
+`1.szint:` Tapasztalatlan mesterlegény vándorlása megkezdésekor.\
 `3.szint:` Novícius. Más rendszereknél ez az 1.szint.\
 `6.szint:` Tapasztalt gyakornok. Sorkatona pár év tapasztalattal, tapasztalt varázslósegéd.\
 `9.szint:` Kismester. Tapasztalt harcos, elismert mágiatudó.\
