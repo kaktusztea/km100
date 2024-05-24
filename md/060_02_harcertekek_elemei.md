@@ -47,27 +47,9 @@ Egyes Tulajdonságok értékei beleszámítanak a harcértékekbe. Hogy melyek a
 
 
 ---
-### Harcérték Módosító (HM)
+### Harcérték Módosítók, Célzóérték Módosítók (HM, CM)
 
-Ahogy fejlődik, megjár sok harci helyzetet, a karakter általános harcértékei fejlődnek. Ezt szimbolizálja a Harcérték módosító, melyet a játékos vehet fel karaktere szintlépésének alkalmával.
-
-**HM**: Harcérték Módosító\
-**CM**: Célzóérték Módosító
-
-```
-Maximum: (6 + Ügyesség) HM / Szint
-Maximum: 4 CM / Szint
-
-1 HM = 2 KP
-1 CM = 2 KP
-```
-
-A sima `HM` a `KÉ`, `TÉ`, és `VÉ` harcértékek növelésére szolgál, a `CM` (Célzó Érték Módosító) pedig a távolsági fegyverek használatára vonatkozik. Nem keverhetők, tehát a CM-re költhető max `4 HM` nem „pakolható át” a sima `HM`-re és viszont!
-
-#### HM korlát
-
-Szintenként `TÉ`-re vagy `VÉ`-re **legfeljebb** `3`-al több `HM`-et lehet költeni, mint a másikra!
-
+Lásd a Pontok ⭕TODO: link⭕ fejezet HM szekcióját. 
 
 ---
 ### Harcmodor képzettségek
