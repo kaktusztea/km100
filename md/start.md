@@ -4,7 +4,7 @@
 
 - [JK Karakteralkotó v8.6.0 (ODS)](https://github.com/kaktusztea/km100/raw/master/segedlet/karakteralkoto_v8.6.0.ods?raw=true) <!-- markdown-link-check-disable --> <sub><sup>([LibreOffice](https://www.libreoffice.org/download/download/))</sup></sub> <!-- markdown-link-check-enable -->
 - [NJK Karakterlap v1.2 ODT](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2.odt?raw=true), [PDF](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2.pdf?raw=true); [NJK kétoldalas v1.2 ODT](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2_ketoldalas.odt)
-* Könyvjelzők gyakori oldalhoz: [Karakteralkotás](010_karakteralkotas.md), [Képzettséglista](021_kepzettseglista.md), [Fortélyok](030_fortelyok.md), [Hátterek](040_hattererek.md), [Tradíciók](050_tradiciok.md)
+* Könyvjelzők gyakori oldalhoz: [Karakteralkotás](010_karakteralkotas.md), [Képzettséglista](032_kepzettseglista.md), [Fortélyok](040_fortelyok.md), [Hátterek](020_hattererek.md), [Tradíciók](050_tradiciok.md)
 
 ## Kivonatok
 
@@ -15,19 +15,39 @@
 
 - [Bevezető](000_bevezeto.md)
 - [Jelzők](000_jelzok.md)
+
+### Karakteralkotás
+
+### Karakteralkotó ods
+### Előtörténet, személyiség
+### Szint, szintlépés
+    - "Fejlődés" bekezdés szövegét ide
+### Nem játékos karakterek, NJK Szintek
+### Tulajdonságok
+  Tulajdonság értékek megállapítása
+  Fajok, Faji módosítók, korlátok
+  Erő
+  Edzettség
+  Ügyesség
+  Gyorsaság
+  Intelligencia
+  Emlékezet
+  Önuralom
+  Érzékenység
+
 - [Karakteralkotás, Tulajdonságok](010_karakteralkotas.md) (90%)
-- [Képzettségrendszer](020_kepzettsegrendszer.md) (80%)
-- [Képzettséglista](021_kepzettseglista.md) (90%)(20%)
-- [Fortélyok](030_fortelyok.md)
-  - [Érzék, Alvilági és Fizikai fortélyok](033_altalanos_fortelyok.md)
-  - [Harci, Távharc és Lovas fortélyok](034_harci_fortelyok.md)
-  - [Misztikus és Mágia fortélyok](035_misztikus_magia_fortelyok.md)
-- [Hátterek](040_hattererek.md)
-  - [Faj Hátterek](041_faj_hatterek.md)
-  - [Kiemelt Hátterek](042_kiemelt_hatterek.md)
-  - [Szabad Hátterek](043_szabad_hatterek.md)
-  - [Leíró Hátterek](044_leiro_hatterek.md)
-  - [Karma Hátterek](045_karma_hatterek.md)
+- [Képzettségrendszer](030_kepzettsegrendszer.md) (80%)
+- [Képzettséglista](032_kepzettseglista.md) (90%)(20%)
+- [Fortélyok](040_fortelyok.md)
+  - [Érzék, Alvilági és Fizikai fortélyok](041_altalanos_fortelyok.md)
+  - [Harci, Távharc és Lovas fortélyok](042_harci_fortelyok.md)
+  - [Misztikus és Mágia fortélyok](043_misztikus_magia_fortelyok.md)
+- [Hátterek](020_hattererek.md)
+  - [Faj Hátterek](021_faj_hatterek.md)
+  - [Kiemelt Hátterek](022_kiemelt_hatterek.md)
+  - [Szabad Hátterek](023_szabad_hatterek.md)
+  - [Leíró Hátterek](024_leiro_hatterek.md)
+  - [Karma Hátterek](025_karma_hatterek.md)
 - [Tradíciók](050_tradiciok.md) (60%)
   - [Mágia tradíciók](051_00_magia_tradiciok.md)
     - [Magasmágia](051_01_magasmagia.md)

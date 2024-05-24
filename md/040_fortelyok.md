@@ -23,10 +23,10 @@ A fortélyoknak lehetnek **követelményei**: Tulajdonságok elvárt értékei, 
 
 ---
 
-[Érzék, Alvilági/Fizikai, Tudományos, Szociális fortélyok](033_altalanos_fortelyok.md)
+[Érzék, Alvilági/Fizikai, Tudományos, Szociális fortélyok](041_altalanos_fortelyok.md)
 
-[Harci, Távharc és Lovas fortélyok](034_harci_fortelyok.md)
+[Harci, Távharc és Lovas fortélyok](042_harci_fortelyok.md)
 
-[Misztikus és Mágia fortélyok](035_misztikus_magia_fortelyok.md)
+[Misztikus és Mágia fortélyok](043_misztikus_magia_fortelyok.md)
 
 ---

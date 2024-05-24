@@ -335,7 +335,7 @@ A távolsági fegyverek minősége azok **CÉ**-jét javítja, vagy éppen rontj
 ---
 ## Fortélyok - Távolsági harc
 
-A tapasztalt lövész (hajigász) nem csupán harcértékeivel tűnik ki társai közül, hanem egyedi trükkökkel, ismeretekkel, amik egy bizonyos területen a többi fölé emelik. Lásd bővebben a [Távolsági Harccal kapcsolatos fortélyokat](034_harci_fortelyok.md#t%C3%A1vols%C3%A1gi-harci-fort%C3%A9lyok)!
+A tapasztalt lövész (hajigász) nem csupán harcértékeivel tűnik ki társai közül, hanem egyedi trükkökkel, ismeretekkel, amik egy bizonyos területen a többi fölé emelik. Lásd bővebben a [Távolsági Harccal kapcsolatos fortélyokat](042_harci_fortelyok.md#távolsági-harci-fortélyok)!
 
 <br />
 
