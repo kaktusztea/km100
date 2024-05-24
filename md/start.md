@@ -52,6 +52,10 @@
 ---
 ### 3. [Képzettségrendszer](030_kepzettsegrendszer.md)
 
+- [Primer és Szekunder képzettségek](031_primer_szekunder_kepzettsegek.md)
+- [Képzettségszint skála](032_kepzettsegszint_skala.md)
+- [Képzettségek fejlesztése](033_kepzettsegek_fejlesztese.md)
+- [Képzettségszintek KP igénye](034_kepzettsegszintek_kp_igenye.md)
 - [Képzettségpróba](035_kepzettsegproba.md)
 - [Képzettséglista](036_kepzettseglista.md) (90%)(20%)
 

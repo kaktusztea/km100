@@ -1,4 +1,4 @@
-# Képzettségek
+## Képzettséglista
 
 🔵 Képzettség 🔁Többször felvehető, 🅿️Primer, ⭕TODO, kérdéses
 
