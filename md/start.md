@@ -53,7 +53,7 @@ NJK Karakterlap v1.2 ([odt📄](https://github.com/kaktusztea/km100/raw/master/s
 ---
 ### 3. [Képzettségrendszer](030_kepzettsegrendszer.md)
 
-- [Képzettséglista](031_kepzettseglista.md) (90%)(20%)
+- [Képzettséglista](031_kepzettseglista.md)
 - [Primer és Szekunder képzettségek](032_primer_szekunder_kepzettsegek.md)
 - [Képzettségszint skála](033_kepzettsegszint_skala.md)
 - [Képzettségek fejlesztése](034_kepzettsegek_fejlesztese.md)
