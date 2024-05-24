@@ -2,7 +2,7 @@
 
 ## Karakteralkotók
 
-**[JK Karakteralkotó v8.6.0 (ODS)](https://github.com/kaktusztea/km100/raw/master/segedlet/karakteralkoto_v8.6.0.ods?raw=true)** &nbsp;&nbsp;-&nbsp;&nbsp NJK Karakterlap v1.2: [odt📄](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2.odt?raw=true), [odt📄📄](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2_ketoldalas.odt); [PDF](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2.pdf?raw=true)\
+**[JK Karakteralkotó v8.6.0 (ODS)](https://github.com/kaktusztea/km100/raw/master/segedlet/karakteralkoto_v8.6.0.ods?raw=true)** &nbsp;&nbsp;-&nbsp;&nbsp; NJK Karakterlap v1.2: [odt📄](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2.odt?raw=true), [odt📄📄](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2_ketoldalas.odt); [PDF](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2.pdf?raw=true)\
 &nbsp;<!-- markdown-link-check-disable --> <sub><sup>([LibreOffice](https://www.libreoffice.org/download/download/))</sup></sub> <!-- markdown-link-check-enable --> 
 
 ## Segédletek, gyakori oldalak
