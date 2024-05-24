@@ -1,4 +1,4 @@
-# Karakteralkotásx
+# Karakteralkotás
 
 ⚜️ [Nyitóoldal](start.md)
 
