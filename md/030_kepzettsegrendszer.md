@@ -27,7 +27,7 @@ Ez az érték a karakter életútja során - a megszerzett tapasztalatoknak hál
 
 Ennek oka - nem titkoltan - a színesebb karakterek megalkotásának célja. Nagyon röviden: a **Primer** képzettségek a "tápos", kalandban kiemelten használt ismeretek, míg a **Szekunder** képzettségek inkább a színesítő, kiegészítő tudást takarják.
 
-Primer alá tartozik minden harci, misztikus, szakrális és mágikus képzettség, valamint számos világi képzettség is. Ezek pontos listáját lásd a [Képzettséglista](021_kepzettseglista.md) oldalon. Jelölése: 🅿️.
+Primer alá tartozik minden harci, misztikus, szakrális és mágikus képzettség, valamint számos világi képzettség is. Ezek pontos listáját lásd a [Képzettséglista](032_kepzettseglista.md) oldalon. Jelölése: 🅿️.
  
 ---
 ## Képzettségek növelése, Képzettség Bónuszok
