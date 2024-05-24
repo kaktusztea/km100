@@ -7,7 +7,7 @@
 
 ## Segédletek, gyakori oldalak
 
-[Segédlet esszencia (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_ingame.pdf?raw=true)&nbsp;&nbsp;-&nbsp;&nbsp;[Távharc segédlet (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_tavharc.pdf?raw=true)\
+**[Segédlet esszencia (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_ingame.pdf?raw=true)**&nbsp;&nbsp;-&nbsp;&nbsp;[Távharc segédlet (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_tavharc.pdf?raw=true)\
 [Képzettséglista](031_kepzettseglista.md) &nbsp;-&nbsp; [Fortélyok](040_fortelyok.md) &nbsp;-&nbsp; [Szabad Hátterek](023_szabad_hatterek.md)
 
 ---
