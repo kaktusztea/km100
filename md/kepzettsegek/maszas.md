@@ -44,7 +44,7 @@ Ha a terep (próba) nehézsége nem nagyobb a a Mászás képzettségnél, akkor
 
 ##### Összhang
 
-Az [Akrobatika](akrobatika.md) képzettség - helyzettől és a KM döntésétől függően - működhet [Összhangként](../020_kepzettsegrendszer.md#%C3%B6sszhangok).
+Az [Akrobatika](akrobatika.md) képzettség - helyzettől és a KM döntésétől függően - működhet [Összhangként](../030_kepzettsegrendszer.md#összhangok).
 
 <br />
 
@@ -80,7 +80,7 @@ Titkos, félmágikus ismeret.
 - Sötétben mászni: +[3-6]
 - Plusz súllyal mászni: Erőtől függ, a KM dönt. Keretek: + [1-6] ; Erőpróba kellhet
 - Lengő kötélen mászni: +[1-6]
-- Sérülten mászni: Lásd a [Sérülés hatása képzettségpróbára](../020_kepzettsegrendszer.md#sérülés-hatása-képzettségpróbára) c. fejezetet!
+- Sérülten mászni: Lásd a [Sérülés hatása képzettségpróbára](../030_kepzettsegrendszer.md#sérülés-hatása-képzettségpróbára) c. fejezetet!
 - Mászókampók: ⭕?????  ez adjon pluszt, vagy legyen követelmény a durvább próbákhoz? Ha pluszt ad, az borítja a próbák „behangolt” értékeit.⭕
 
 <br />

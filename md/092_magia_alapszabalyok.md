@@ -1,4 +1,4 @@
-# Mágia alapszabályok
+## Mágia alapszabályok
 
 ⚜️ [Nyitóoldal](start.md)
 

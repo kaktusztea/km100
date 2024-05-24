@@ -1,4 +1,4 @@
-# Képzettségek
+## Képzettséglista
 
 🔵 Képzettség 🔁Többször felvehető, 🅿️Primer, ⭕TODO, kérdéses
 
@@ -26,28 +26,11 @@
 
 → **Szekunder képzettségek**: minden más képzettség
 
-
 ---
 
-[Harci képzettségek](#harci-k%C3%A9pzetts%C3%A9gek-%F0%9F%85%BF%EF%B8%8F)
+[Harci](#harci-k%C3%A9pzetts%C3%A9gek-%F0%9F%85%BF%EF%B8%8F) - [Fizikai](#fizikai-k%C3%A9pzetts%C3%A9gek) - [Világi](#vil%C3%A1gi-k%C3%A9pzetts%C3%A9gek) - [Alvilági](#alvil%C3%A1gi-k%C3%A9pzetts%C3%A9gek) - [Művészeti](#m%C5%B1v%C3%A9szeti-k%C3%A9pzetts%C3%A9gek) - [Tudományos](#tudom%C3%A1nyos-k%C3%A9pzetts%C3%A9gek)
 
-[Fizikai képzettségek](#fizikai-k%C3%A9pzetts%C3%A9gek)
-
-[Világi képzettségek](#vil%C3%A1gi-k%C3%A9pzetts%C3%A9gek)
-
-[Alvilági képzettségek](#alvil%C3%A1gi-k%C3%A9pzetts%C3%A9gek)
-
-[Művészeti képzettségek](#m%C5%B1v%C3%A9szeti-k%C3%A9pzetts%C3%A9gek)
-
-[Tudományos képzettségek](#tudom%C3%A1nyos-k%C3%A9pzetts%C3%A9gek)
-
----
-
-[Misztikus képzettségek](#misztikus-k%C3%A9pzetts%C3%A9gek-%F0%9F%85%BF%EF%B8%8F)
-
-[Mágikus Szférák és Arkánumaik](#m%C3%A1gikus-szf%C3%A9r%C3%A1k-%C3%A9s-ark%C3%A1numaik-%F0%9F%85%BF%EF%B8%8F)
-
-[Papi mágia](#papi-m%C3%A1gia-%F0%9F%85%BF%EF%B8%8F)
+[Misztikus](#misztikus-k%C3%A9pzetts%C3%A9gek-%F0%9F%85%BF%EF%B8%8F) - [Mágikus Szférák és Arkánumaik](#m%C3%A1gikus-szf%C3%A9r%C3%A1k-%C3%A9s-ark%C3%A1numaik-%F0%9F%85%BF%EF%B8%8F) - [Papi mágia](#papi-m%C3%A1gia-%F0%9F%85%BF%EF%B8%8F)
 
 ---
 ## Harci képzettségek 🅿️
@@ -131,7 +114,7 @@
 ---
 ## Művészeti képzettségek
 
-Az aktív előadást igénylő művészeteket szeparáltuk az **Előadóművészet** képzettségbe a belső művészetek alkotói folyamatait lefedő **Képzőművészettől**. A passzív művészeti ismereteket a **Művészetismeret** képzettség adja. Mind a három  [Szabad Hátterek](043_szabad_hatterek.md) alkalmazásával terjeszthető ki különböző művézeti ágakra.
+Az aktív előadást igénylő művészeteket szeparáltuk az **Előadóművészet** képzettségbe a belső művészetek alkotói folyamatait lefedő **Képzőművészettől**. A passzív művészeti ismereteket a **Művészetismeret** képzettség adja. Mind a három  [Szabad Hátterek](023_szabad_hatterek.md) alkalmazásával terjeszthető ki különböző művézeti ágakra.
 
 🔵[Előadóművészet](kepzettsegek/eloadomuveszet.md)
 

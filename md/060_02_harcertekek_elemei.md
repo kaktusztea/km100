@@ -25,7 +25,6 @@ Ezen értékek öt jellemzőből épülnek fel:
 Az alábbiakban részletesen kifejtjük a fenti értékek kiszámítási módját, valamint hogy mi és hogyan képes módosítani őket.
 
 ---
-
 ### Harcérték Alapok
 
 Első szinten minden karakter egységes konstans értékeket kap `KÉ`, `TÉ`, `VÉ` és `CÉ` értékére.
@@ -45,29 +44,10 @@ Ehhez az alapértékhez adódnak majd hozzá az egyéb módosítók.
 
 Egyes Tulajdonságok értékei beleszámítanak a harcértékekbe. Hogy melyek azt az adott harcérték leírásánál találhatjuk a [KÉ, TÉ, VÉ, CÉ](060_03_ke_te_ve_ce.md) fejezetben.
 
-
 ---
-### Harcérték Módosító (HM)
+### Harcérték Módosítók (HM), Célzóérték Módosítók (CM)
 
-Ahogy fejlődik, megjár sok harci helyzetet, a karakter általános harcértékei fejlődnek. Ezt szimbolizálja a Harcérték módosító, melyet a játékos vehet fel karaktere szintlépésének alkalmával.
-
-**HM**: Harcérték Módosító\
-**CM**: Célzóérték Módosító
-
-```
-Maximum: (6 + Ügyesség) HM / Szint
-Maximum: 4 CM / Szint
-
-1 HM = 2 KP
-1 CM = 2 KP
-```
-
-A sima `HM` a `KÉ`, `TÉ`, és `VÉ` harcértékek növelésére szolgál, a `CM` (Célzó Érték Módosító) pedig a távolsági fegyverek használatára vonatkozik. Nem keverhetők, tehát a CM-re költhető max `4 HM` nem „pakolható át” a sima `HM`-re és viszont!
-
-#### HM korlát
-
-Szintenként `TÉ`-re vagy `VÉ`-re **legfeljebb** `3`-al több `HM`-et lehet költeni, mint a másikra!
-
+Lásd a [Harcérték módosítók (HM) / Célzóérték módosítók (CM)](017_03_hm_cm.md) fejezetet.
 
 ---
 ### Harcmodor képzettségek
@@ -108,7 +88,7 @@ A harci képzettségek aktuális szintjétől függ, hogy az alá tartozó fegyv
 \* A távolsági fegyvereknél értelemszerűen csak `KÉ: +1` és `CÉ: +3` jár szintenként, hiszen nincs `TÉ` és `VÉ` értékük.
 
 ---
-#### Harcmodorok és Manőverek
+### Harcmodorok és Manőverek
 
 A Manőverek alkalmazását, leírását részletesen lásd a „[Manőverek](060_14_manoverek.md)” fejezetben.
 
@@ -116,7 +96,8 @@ Harc közben gyakran előfordul, hogy egy karakter speciális húzásokkal prób
 
 Vannak olyan manőverek is, melyek csak adott fegyverre, vagy harcmodorra jellemzőek, de a legtöbb szabadon, bárki által alkalmazható, amennyiben teljesíti a végrehajtás követelményeit. Vannak olyan manőverek, amelyek külön fejleszthetőek is. Ez az adott manőver leírásánál szerepel. Az ilyen ismeretet Manőver-ismeretnek nevezzük és pontokba kerülnek. Lásd alább.
 
-#### Manőverek tanulása
+---
+### Manőverek tanulása
 
 A Manőver-ismeretek tanulása szorosan összekapcsolódik a Harcmodor-képzettségekkel.
 
