@@ -23,7 +23,7 @@
 
 ### [Bevezető, jelzők](000_bevezeto.md)
 
-### [Karakteralkotás](010_karakteralkotas.md)
+### 1. [Karakteralkotás](010_karakteralkotas.md)
 
 - [Karakteralkotó](011_karakteralkoto.md)
 - [Előtörténet, Személyiség](012_elotortenet_szemelyiseg.md)
@@ -40,7 +40,7 @@
 - [Nem Játékos Karakterek](018_njk.md)
 
 ---
-### [Hátterek](020_hattererek.md)
+### 2. [Hátterek](020_hattererek.md)
 
   - [Faj Hátterek](021_faj_hatterek.md)
   - [Kiemelt Hátterek](022_kiemelt_hatterek.md)
@@ -49,20 +49,20 @@
   - [Karma Hátterek](025_karma_hatterek.md)
 
 ---
-### [Képzettségrendszer](030_kepzettsegrendszer.md)
+### 3. [Képzettségrendszer](030_kepzettsegrendszer.md)
 
 - [Képzettségpróba](031_kepzettsegproba.md)
 - [Képzettséglista](032_kepzettseglista.md) (90%)(20%)
 
 ---
-### [Fortélyok](040_fortelyok.md)
+### 4. [Fortélyok](040_fortelyok.md)
 
   - [Érzék, Alvilági és Fizikai fortélyok](041_altalanos_fortelyok.md)
   - [Harci, Távharc és Lovas fortélyok](042_harci_fortelyok.md)
   - [Misztikus és Mágia fortélyok](043_misztikus_magia_fortelyok.md)
 
 ---
-### [Tradíciók](050_tradiciok.md)
+### 5. [Tradíciók](050_tradiciok.md)
 - [Mágia tradíciók](051_00_magia_tradiciok.md)
   -  [Magasmágia](051_01_magasmagia.md)
   - [Vulgármágia](051_02_vulgarmagia.md)
@@ -79,7 +79,7 @@
 - [Slan tradíció](055_slan_tradicio.md) (25%)🚧
 
 ---
-### [Harcrendszer](060_00_harcrendszer.md)
+### 6. [Harcrendszer](060_00_harcrendszer.md)
 
 - [Életerő, Sebesülés](060_01_eletero.md)
 - [Harcérték alapok, HM, Harcmodorok, Mesterfegyver](060_02_harcertekek_elemei.md)
@@ -100,14 +100,14 @@
 - [Vértek, páncélok](060_17_vertek_pancelok.md)
 
 ---
-### [Távolsági harcrendszer](070_tavolsagi_harc.md)
+### 7. [Távolsági harcrendszer](070_tavolsagi_harc.md)
 
 ---
-### [Pszi](080_pszi.md)
+### 8. [Pszi](080_pszi.md)
 - [Pszi diszciplínák](081_pszi_diszciplinak.md) (0%)
 
 ---
-### [Mágiarendszer](090_magiarendszer.md)
+### 9. [Mágiarendszer](090_magiarendszer.md)
 - [Mágiaelmélet](091_magiaelmelet.md)
 - [Mágia alapszabályok](092_magia_alapszabalyok.md)
 - [Aura, Átütés, Mágiaellenállás](094_aura_atutes_magiaellenallas.md)
@@ -132,17 +132,17 @@
   - [Természeti jelenségek](magia.arkanumok/termeszeti.jelensegek.md)
 
 ---
-### [Papi mágia](100_papimagia.md) (10%) 🚧
+### 10. [Papi mágia](100_papimagia.md) (10%) 🚧
 
-### [Varázstárgyak](110_varazstargyak.md)  (10%) 🚧
+### 11. [Varázstárgyak](110_varazstargyak.md)  (10%) 🚧
 
-### [Gyógyítás, gyógyulás](120_gyogyitas_gyogyulas.md)
+### 12. [Gyógyítás, gyógyulás](120_gyogyitas_gyogyulas.md)
 
-### [Méregrendszer, Mérgek](130_meregrendszer.md)
+### 13. [Méregrendszer, Mérgek](130_meregrendszer.md)
 
-### [Érzékelés, Észlelés](140_erzekeles_eszleles.md) (90%)
+### 14. [Érzékelés, Észlelés](140_erzekeles_eszleles.md) (90%)
 
-### [Szituációk](150_szituaciok.md) (20%)
+### 15. [Szituációk](150_szituaciok.md) (20%)
 
 ---
 ## [🚧 Fejlesztő portál 🚧](https://github.com/kaktusztea/km100/wiki)
