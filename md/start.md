@@ -8,7 +8,7 @@
 ## Segédletek, gyakori oldalak
 
 - [Segédlet esszencia (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_ingame.pdf?raw=true)&nbsp;&nbsp;-&nbsp;&nbsp;[Távharc segédlet (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_tavharc.pdf?raw=true)
-- [Képzettséglista](032_kepzettseglista.md) &nbsp;-&nbsp; [Fortélyok](040_fortelyok.md) &nbsp;-&nbsp; [Szabad Hátterek](023_szabad_hatterek.md)
+- [Képzettséglista](036_kepzettseglista.md) &nbsp;-&nbsp; [Fortélyok](040_fortelyok.md) &nbsp;-&nbsp; [Szabad Hátterek](023_szabad_hatterek.md)
 
 ---
 ## Részletes szabályrendszer
@@ -52,8 +52,8 @@
 ---
 ### 3. [Képzettségrendszer](030_kepzettsegrendszer.md)
 
-- [Képzettségpróba](031_kepzettsegproba.md)
-- [Képzettséglista](032_kepzettseglista.md) (90%)(20%)
+- [Képzettségpróba](035_kepzettsegproba.md)
+- [Képzettséglista](036_kepzettseglista.md) (90%)(20%)
 
 ---
 ### 4. [Fortélyok](040_fortelyok.md)
