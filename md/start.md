@@ -2,22 +2,22 @@
 
 ## Karakteralkotók
 
-- **[JK Karakteralkotó v8.6.0 (ODS)](https://github.com/kaktusztea/km100/raw/master/segedlet/karakteralkoto_v8.6.0.ods?raw=true)** <!-- markdown-link-check-disable --> <sub><sup>([LibreOffice](https://www.libreoffice.org/download/download/))</sup></sub> <!-- markdown-link-check-enable -->
-- NJK Karakterlap v1.2 ([ODT 1 oldalas](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2.odt?raw=true), [ODT 2 oldalas](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2_ketoldalas.odt); [PDF](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2.pdf?raw=true))
+**[JK Karakteralkotó v8.6.0 (ODS)](https://github.com/kaktusztea/km100/raw/master/segedlet/karakteralkoto_v8.6.0.ods?raw=true)** <!-- markdown-link-check-disable --> <sub><sup>([LibreOffice](https://www.libreoffice.org/download/download/))</sup></sub> <!-- markdown-link-check-enable -->\
+NJK Karakterlap v1.2 ([ODT 1 oldalas](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2.odt?raw=true), [ODT 2 oldalas](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2_ketoldalas.odt); [PDF](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2.pdf?raw=true))
 
 ## Segédletek, gyakori oldalak
 
-- [Segédlet esszencia (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_ingame.pdf?raw=true)&nbsp;&nbsp;-&nbsp;&nbsp;[Távharc segédlet (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_tavharc.pdf?raw=true)
-- [Képzettséglista](031_kepzettseglista.md) &nbsp;-&nbsp; [Fortélyok](040_fortelyok.md) &nbsp;-&nbsp; [Szabad Hátterek](023_szabad_hatterek.md)
+[Segédlet esszencia (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_ingame.pdf?raw=true)&nbsp;&nbsp;-&nbsp;&nbsp;[Távharc segédlet (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_tavharc.pdf?raw=true)\
+[Képzettséglista](031_kepzettseglista.md) &nbsp;-&nbsp; [Fortélyok](040_fortelyok.md) &nbsp;-&nbsp; [Szabad Hátterek](023_szabad_hatterek.md)
 
 ---
 ## Részletes szabályrendszer
 
-[Bevezető](#bevezet%C5%91-jelz%C5%91k) - [Karakteralkotás](#1-karakteralkot%C3%A1s)\
-[Hátterek](#2-h%C3%A1tterek)  - [Képzettségrendszer](#3-k%C3%A9pzetts%C3%A9grendszer) - [Fortélyok](#4-fort%C3%A9lyok) - [Tradíciók](#5-trad%C3%ADci%C3%B3k)\
-[Harcrendszer](#6-harcrendszer) - [Távolsági Harcrendszer](#7-t%C3%A1vols%C3%A1gi-harcrendszer)\
-[Pszí](#8-pszi) - [Mágiarendszer](#9-m%C3%A1giarendszer) - [Papi mágia](#10-papi-m%C3%A1gia-10-) - [Varázstárgyak](#11-var%C3%A1zst%C3%A1rgyak--10-)\
-[Gyógyítás, gyógyulás](#12-gy%C3%B3gy%C3%ADt%C3%A1s-gy%C3%B3gyul%C3%A1s) - [Méregrendszer, Mérgek](#13-m%C3%A9regrendszer-m%C3%A9rgek) - [Érzékelés, Észlelés](#14-%C3%A9rz%C3%A9kel%C3%A9s-%C3%A9szlel%C3%A9s-90) - [Szituációk](#15-szitu%C3%A1ci%C3%B3k-20)
+[Bevezető](#bevezet%C5%91-jelz%C5%91k) &nbsp;-&nbsp; [Karakteralkotás](#1-karakteralkot%C3%A1s)\
+[Hátterek](#2-h%C3%A1tterek)  &nbsp;-&nbsp; [Képzettségrendszer](#3-k%C3%A9pzetts%C3%A9grendszer) &nbsp;-&nbsp; [Fortélyok](#4-fort%C3%A9lyok) &nbsp;-&nbsp; [Tradíciók](#5-trad%C3%ADci%C3%B3k)\
+[Harcrendszer](#6-harcrendszer) &nbsp;-&nbsp; [Távolsági Harcrendszer](#7-t%C3%A1vols%C3%A1gi-harcrendszer)\
+[Pszí](#8-pszi) &nbsp;-&nbsp; [Mágiarendszer](#9-m%C3%A1giarendszer) &nbsp;-&nbsp; [Papi mágia](#10-papi-m%C3%A1gia-10-) &nbsp;-&nbsp; [Varázstárgyak](#11-var%C3%A1zst%C3%A1rgyak--10-)\
+[Gyógyítás, gyógyulás](#12-gy%C3%B3gy%C3%ADt%C3%A1s-gy%C3%B3gyul%C3%A1s) &nbsp;-&nbsp; [Méregrendszer, Mérgek](#13-m%C3%A9regrendszer-m%C3%A9rgek) &nbsp;-&nbsp; [Érzékelés, Észlelés](#14-%C3%A9rz%C3%A9kel%C3%A9s-%C3%A9szlel%C3%A9s-90) &nbsp;-&nbsp; [Szituációk](#15-szitu%C3%A1ci%C3%B3k-20)
 
 <br />
 ⚜️ ⚜️ ⚜️
