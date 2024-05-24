@@ -20,7 +20,7 @@
 [Gyógyítás, gyógyulás](#12-gy%C3%B3gy%C3%ADt%C3%A1s-gy%C3%B3gyul%C3%A1s) - [Méregrendszer, Mérgek](#13-m%C3%A9regrendszer-m%C3%A9rgek) - [Érzékelés, Észlelés](#14-%C3%A9rz%C3%A9kel%C3%A9s-%C3%A9szlel%C3%A9s-90) - [Szituációk](#15-szitu%C3%A1ci%C3%B3k-20)
 
 <br />
-⚜️⚜️⚜️
+⚜️ ⚜️ ⚜️
 
 ### [Bevezető, jelzők](000_bevezeto.md)
 
