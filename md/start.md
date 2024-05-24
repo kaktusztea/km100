@@ -13,9 +13,17 @@
 ---
 ## Részletes szabályrendszer
 
+[Bevezető](#bevezet%C5%91-jelz%C5%91k) - [Karakteralkotás](#karakteralkot%C3%A1s-90)\
+[Hátterek](#h%C3%A1tterek)  - [Képzettségrendszer](#k%C3%A9pzetts%C3%A9grendszer-80) - [Fortélyok](#fort%C3%A9lyok) - [Tradíciók](#fort%C3%A9lyok)\
+[Harcrendszer](#harcrendszer-85) - [Távolsági Harcrendszer](#t%C3%A1vols%C3%A1gi-harcrendszer-90)\
+[Pszí](#pszi-40) - [Mágiarendszer](#m%C3%A1giarendszer-40) - [Papi mágia](#papi-m%C3%A1gia-10-) - [Varázstárgyak](#var%C3%A1zst%C3%A1rgyak--10-)\
+[Gyógyítás, gyógyulás](#gy%C3%B3gy%C3%ADt%C3%A1s-gy%C3%B3gyul%C3%A1s) - [Méregrendszer, Mérgek](#m%C3%A9regrendszer-m%C3%A9rgek) - [Érzékelés, Észlelés](#%C3%A9rz%C3%A9kel%C3%A9s-%C3%A9szlel%C3%A9s-90) - [Szituációk](#szitu%C3%A1ci%C3%B3k-20)
+
+<br />
+
 ### [Bevezető, jelzők](000_bevezeto.md)
 
-### [Karakteralkotás](010_karakteralkotas.md) (90%)
+### [Karakteralkotás](010_karakteralkotas.md)
 
 - [Karakteralkotó](011_karakteralkoto.md)
 - [Előtörténet, Személyiség](012_elotortenet_szemelyiseg.md)
@@ -41,7 +49,7 @@
   - [Karma Hátterek](025_karma_hatterek.md)
 
 ---
-### [Képzettségrendszer](030_kepzettsegrendszer.md) (80%)
+### [Képzettségrendszer](030_kepzettsegrendszer.md)
 
 - [Képzettségpróba](031_kepzettsegproba.md)
 - [Képzettséglista](032_kepzettseglista.md) (90%)(20%)
@@ -54,7 +62,7 @@
   - [Misztikus és Mágia fortélyok](043_misztikus_magia_fortelyok.md)
 
 ---
-### [Tradíciók](050_tradiciok.md) (60%)
+### [Tradíciók](050_tradiciok.md)
 - [Mágia tradíciók](051_00_magia_tradiciok.md)
   -  [Magasmágia](051_01_magasmagia.md)
   - [Vulgármágia](051_02_vulgarmagia.md)
@@ -71,7 +79,7 @@
 - [Slan tradíció](055_slan_tradicio.md) (25%)🚧
 
 ---
-### [Harcrendszer](060_00_harcrendszer.md) (85%)
+### [Harcrendszer](060_00_harcrendszer.md)
 
 - [Életerő, Sebesülés](060_01_eletero.md)
 - [Harcérték alapok, HM, Harcmodorok, Mesterfegyver](060_02_harcertekek_elemei.md)
@@ -80,7 +88,7 @@
 - [Előnyös és hátrányos helyzet (VÉ csökkentés)](060_05_elonyos_hatranyos_helyzet.md)
 - [Támadások száma, Akciók, Mozgás](060_06_tamadasok_szama__akcio__mozgas.md)
 - [Harc menete (összefoglaló)](060_07_harc_menete_osszefoglalas.md)
-- [Harc menete (részletes)](060_08_harc_menete_reszletes.md) (KÉ, Támadás, Sebzés, Sebződés)
+- **[Harc menete (részletes)](060_08_harc_menete_reszletes.md)** (KÉ, Támadás, Sebzés, Sebződés)
 - [Példaharc](060_09_peldaharc.md)
 - [Harci helyzetek](060_10_harci_helyzetek.md) (meglepetésből, helyhez kötve, magasabbról, stb.)
 - [Harci taktikák](060_11_harci_taktikak.md) (támadó, védő, roham, stb)
@@ -92,14 +100,14 @@
 - [Vértek, páncélok](060_17_vertek_pancelok.md)
 
 ---
-### [Távolsági harcrendszer](070_tavolsagi_harc.md) (90%)
+### [Távolsági harcrendszer](070_tavolsagi_harc.md)
 
 ---
-### [Pszi](080_pszi.md) (40%)
+### [Pszi](080_pszi.md)
 - [Pszi diszciplínák](081_pszi_diszciplinak.md) (0%)
 
 ---
-### [Mágiarendszer](090_magiarendszer.md) (40%)
+### [Mágiarendszer](090_magiarendszer.md)
 - [Mágiaelmélet](091_magiaelmelet.md)
 - [Mágia alapszabályok](092_magia_alapszabalyok.md)
 - [Aura, Átütés, Mágiaellenállás](094_aura_atutes_magiaellenallas.md)
