@@ -1,9 +1,11 @@
-⭕TODO
+# Bevezető
+
+⭕TODO: bevezető szöveg
 
 
 
 ---
-# Szimbólumok, jelzők
+## Szimbólumok, jelzők
 
 ⚜️ [Nyitóoldal](start.md)
 

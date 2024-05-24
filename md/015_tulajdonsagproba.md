@@ -44,28 +44,29 @@ Ha a karakternek egy olyan összetett próbát kell tennie, ami nem intézhető 
 ---
 ### Kombinált próbák
 
-Az összetett próbákhoz hasonlóak a Kombinált próbák: adódhat olyan helyzet, hogy a karakternek több fajta Tulajdonságát kell próbára tenni egy adott szituációban. Pl. Erő és Ügyességpróbát is dobnia kell.
+Az összetett próbákhoz hasonlóak a Kombinált próbák: adódhat olyan helyzet, hogy a karakternek több fajta Tulajdonságát kell próbára tenni egy adott szituációban. Pl. **Erő** és **Ügyességpróbát** is dobnia kell.
 
-Ilyenkor a KM határozza meg a feladat nehézségét és jelölje ki az elsődleges Tulajdonságot, azaz, hogy az adott szituációban melyik a dominánsabb, fontosabb. Tehát a fenti példánál maradva inkább az Erőre, vagy az Ügyességre van nagyobb szükség.
+Ilyenkor a KM határozza meg a feladat nehézségét és jelölje ki az elsődleges Tulajdonságot, azaz, hogy az adott szituációban melyik a dominánsabb, fontosabb. Tehát a fenti példánál maradva inkább az **Erőre**, vagy az **Ügyességre** van nagyobb szükség.
 
-Ezután a kiválasztott elsődleges Tulajdonságra dobjon próbát a karakter a KM által előzően meghatározott nehézségre, majd pedig egy másik próbát a másodlagos Tulajdonságra, a fenti nehézségnél 1-el könnyebb fokozattal.
+Ezután a kiválasztott elsődleges Tulajdonságra dobjon próbát a karakter a KM által előzően meghatározott nehézségre, majd pedig egy másik próbát a másodlagos Tulajdonságra, a fenti nehézségnél `1`-el könnyebb fokozattal.
 
-> ❗Fontos
+#### Fontos❗
 
 A fenti szám nincs kőbe vésve! Ha a KM a másodlagos Tulajdonság szerepét
-még kevésbé érzi fontosnak, akkor akár 2-vel, vagy 3-al is csökkentheti
+még kevésbé érzi fontosnak, akkor akár `2`-vel, vagy `3`-al is csökkentheti
 annak Tulajdonságpróbáját.
 
-> Példa
+#### ⚡Példa
 
 Továbbra is az első példánál maradva: ha a feladat „Nagyon nehéz" (7) és a KM az adott szituációban az Erő Tulajdonságot ítéli elsődlegesnek, akkor a dobandó próbák a következőek lesznek:
 
 ```
-- Erőpróba: Nagyon nehéz (7) ellen
-- Ügyességpróba: Nehéz (6) ellen
+Erőpróba: Nagyon nehéz (7) ellen
+Ügyességpróba: Nehéz (6) ellen
 ```
 
-<sub>(Ha a KM szerint ebben az esetben az Ügyességpróba csak „apró kiegészítő", akkor az arra dobandó próba lehet „Átlagos" (5), vagy „Könnyű" (4) is) </sub>
+🔆Megjegyzés:\
+Ha a KM szerint ebben az esetben az Ügyességpróba csak „apró kiegészítő", akkor az arra dobandó próba lehet „Átlagos" (`5`), vagy „Könnyű" (`4`) is.
 
 ---
 ### Tulajdonság ellenpróba
