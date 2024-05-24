@@ -20,4 +20,4 @@ A fejlődés Karakter Pontba (`KP`) kerül. A KP szimulálja az egyes képzetts�
 |             |        14        |   **214**    | +28KP |
 | Élő legenda |        15        |   **244**    | +30KP |
 
-A `KP igény` fokozatosan nő, tehát `1`-ről `2`-re sokkal könnyebb fejlődni, mint mondjuk `4`-ről `5`-re. Képzettségben hagyományos tanulással **legfeljebb** `13.szintre`-ig lehet fejlődni. Lásd [bővebben itt](034_kepzettsegek_fejlesztese.md#a-14-%C3%A9s-15-k%C3%A9pzetts%C3%A9gszint).
+A `KP igény` fokozatosan nő, tehát `1`-ről `2`-re sokkal könnyebb fejlődni, mint mondjuk `4`-ről `5`-re. Képzettségben hagyományos tanulással **legfeljebb** `13.szintig` lehet fejlődni. Lásd [bővebben itt](034_kepzettsegek_fejlesztese.md#a-14-%C3%A9s-15-k%C3%A9pzetts%C3%A9gszint).
