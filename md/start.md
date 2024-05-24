@@ -13,11 +13,11 @@
 ---
 ## Részletes szabályrendszer
 
-[Bevezető](#bevezet%C5%91-jelz%C5%91k) - [Karakteralkotás](#karakteralkot%C3%A1s)\
-[Hátterek](#h%C3%A1tterek)  - [Képzettségrendszer](#k%C3%A9pzetts%C3%A9grendszer) - [Fortélyok](#fort%C3%A9lyok) - [Tradíciók](#fort%C3%A9lyok)\
-[Harcrendszer](#harcrendszer) - [Távolsági Harcrendszer](#t%C3%A1vols%C3%A1gi-harcrendszer)\
-[Pszí](#pszi) - [Mágiarendszer](#m%C3%A1giarendszer) - [Papi mágia](#papi-m%C3%A1gia-10-) - [Varázstárgyak](#var%C3%A1zst%C3%A1rgyak--10-)\
-[Gyógyítás, gyógyulás](#gy%C3%B3gy%C3%ADt%C3%A1s-gy%C3%B3gyul%C3%A1s) - [Méregrendszer, Mérgek](#m%C3%A9regrendszer-m%C3%A9rgek) - [Érzékelés, Észlelés](#%C3%A9rz%C3%A9kel%C3%A9s-%C3%A9szlel%C3%A9s-90) - [Szituációk](#szitu%C3%A1ci%C3%B3k-20)
+[Bevezető](#bevezet%C5%91-jelz%C5%91k) - [Karakteralkotás](#1-karakteralkot%C3%A1s)\
+[Hátterek](#2-h%C3%A1tterek)  - [Képzettségrendszer](#3-k%C3%A9pzetts%C3%A9grendszer) - [Fortélyok](#4-fort%C3%A9lyok) - [Tradíciók](#5-fort%C3%A9lyok)\
+[Harcrendszer](#6-harcrendszer) - [7-Távolsági Harcrendszer](#t%C3%A1vols%C3%A1gi-harcrendszer)\
+[Pszí](#8-pszi) - [Mágiarendszer](#9-m%C3%A1giarendszer) - [Papi mágia](#10-papi-m%C3%A1gia-10-) - [Varázstárgyak](#11-var%C3%A1zst%C3%A1rgyak--10-)\
+[Gyógyítás, gyógyulás](#12-gy%C3%B3gy%C3%ADt%C3%A1s-gy%C3%B3gyul%C3%A1s) - [Méregrendszer, Mérgek](#13-m%C3%A9regrendszer-m%C3%A9rgek) - [Érzékelés, Észlelés](#14-%C3%A9rz%C3%A9kel%C3%A9s-%C3%A9szlel%C3%A9s-90) - [Szituációk](#15-szitu%C3%A1ci%C3%B3k-20)
 
 <br />
 
