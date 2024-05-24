@@ -1,4 +1,4 @@
-# Mágiaelmélet
+## Mágiaelmélet
 
 ⚜️ [Nyitóoldal](start.md)
 

@@ -1,4 +1,4 @@
-## Szituációk
+# Szituációk
 
 ⚜️ [Nyitóoldal](start.md)
 

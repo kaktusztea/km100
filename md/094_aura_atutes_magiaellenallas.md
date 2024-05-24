@@ -1,4 +1,4 @@
-# Aura
+## Aura
 
 ⚜️ [Nyitóoldal](start.md)
 

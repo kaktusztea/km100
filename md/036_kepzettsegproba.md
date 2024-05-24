@@ -1,13 +1,11 @@
 ## Képzettségpróba
 
-⭕TODO: belső tartalomjegyzék frissítése
-  - [Vállalás](#vállalás)
-  - [Próba biztos tudásból](#próba-biztos-tudásból)
-  - [Próba képzetlenül](#próba-képzetlenül)
-  - [Összetett képzettségpróba, Másodlagos próbadobások](#összetett-képzettségpróba-másodlagos-próbadobások)
-  - [Összhangok](#összhangok)
-  - [Sérülés hatása képzettségpróbára](#sérülés-hatása-képzettségpróbára)
-
+  - [Vállalás](#v%C3%A1llal%C3%A1s)
+  - [Próba biztos tudásból](#pr%C3%B3ba-biztos-tud%C3%A1sb%C3%B3l)
+  - [Próba képzetlenül](#pr%C3%B3ba-k%C3%A9pzetlen%C3%BCl)
+  - [Összetett képzettségpróba, Másodlagos próbadobások](#%C3%B6sszetett-k%C3%A9pzetts%C3%A9gpr%C3%B3ba-m%C3%A1sodlagos-pr%C3%B3badob%C3%A1sok)
+  - [Összhangok](#%C3%B6sszhangok)
+  - [Sérülés hatása képzettségpróbára](#s%C3%A9r%C3%BCl%C3%A9s-hat%C3%A1sa-k%C3%A9pzetts%C3%A9gpr%C3%B3b%C3%A1ra)
 
 Vesszük az adott szituációban épp szükséges Tulajdonság értékét (KM mondja meg, hogy melyiket), hozzáadjuk a **Képzettség** értékét, majd dobunk `k10`-es kockával és a fentieket összeadjuk. Ha a kapott szám nagyobb, vagy egyenlő a Célszámmal, akkor a próba sikerült.
 
@@ -84,7 +82,7 @@ Ha a karakternek egy olyan összetett feladatot kell elvégeznie, ami nem intéz
 
 #### ⚡Példa: Megmászni egy 200 ynevi láb magas, omladékos hegyet
 
-Tetves, a tolvaj 
+**Tetves**, a tolvaj 
 - `Mászás képzettsége: 7`
 - `Ügyessége: +2`
 - így `8+2=9`-re dob majd rá `k10`-el.
