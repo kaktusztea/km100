@@ -31,6 +31,7 @@
   - [Mágiaellenállás](017_05_magiaellenallas.md)
 - [Nem Játékos Karakterek](018_njk.md)
 
+---
 ### [Hátterek](020_hattererek.md)
 
   - [Faj Hátterek](021_faj_hatterek.md)
@@ -39,17 +40,20 @@
   - [Leíró Hátterek](024_leiro_hatterek.md)
   - [Karma Hátterek](025_karma_hatterek.md)
 
+---
 ### [Képzettségrendszer](030_kepzettsegrendszer.md) (80%)
 
 - [Képzettségpróba](031_kepzettsegproba.md)
 - [Képzettséglista](032_kepzettseglista.md) (90%)(20%)
 
+---
 ### [Fortélyok](040_fortelyok.md)
 
   - [Érzék, Alvilági és Fizikai fortélyok](041_altalanos_fortelyok.md)
   - [Harci, Távharc és Lovas fortélyok](042_harci_fortelyok.md)
   - [Misztikus és Mágia fortélyok](043_misztikus_magia_fortelyok.md)
 
+---
 ### [Tradíciók](050_tradiciok.md) (60%)
 - [Mágia tradíciók](051_00_magia_tradiciok.md)
   -  [Magasmágia](051_01_magasmagia.md)
@@ -66,6 +70,7 @@
    - [Dzsenn Tradíció](054_01_dzsenn_tradicio.md)
 - [Slan tradíció](055_slan_tradicio.md) (25%)🚧
 
+---
 ### [Harcrendszer](060_00_harcrendszer.md) (85%)
 
 - [Életerő, Sebesülés](060_01_eletero.md)
@@ -86,11 +91,14 @@
 - [Fegyverek, pajzsok](060_16_fegyverek.md)
 - [Vértek, páncélok](060_17_vertek_pancelok.md)
 
+---
 ### [Távolsági harcrendszer](070_tavolsagi_harc.md) (90%)
 
+---
 ### [Pszi](080_pszi.md) (40%)
 - [Pszi diszciplínák](081_pszi_diszciplinak.md) (0%)
 
+---
 ### [Mágiarendszer](090_magiarendszer.md) (40%)
 - [Mágiaelmélet](091_magiaelmelet.md)
 - [Mágia alapszabályok](092_magia_alapszabalyok.md)
@@ -115,6 +123,7 @@
   - [Természetes anyagok mágiája](magia.arkanumok/termeszetes.anyagok.magiaja.md)
   - [Természeti jelenségek](magia.arkanumok/termeszeti.jelensegek.md)
 
+---
 ### [Papi mágia](100_papimagia.md) (10%) 🚧
 
 ### [Varázstárgyak](110_varazstargyak.md)  (10%) 🚧
