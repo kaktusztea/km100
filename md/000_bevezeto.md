@@ -1,6 +1,9 @@
 # Bevezető
 
 A km100 szerepjáték rendszer.
+
+[mybad mylink](blah.md)
+
 ⭕TODO: bevezető szöveg
 
 
