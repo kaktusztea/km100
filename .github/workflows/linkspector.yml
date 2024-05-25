@@ -1,7 +1,5 @@
 name: Linkspector
 on: [push]
-  paths:
-    - "md"
 jobs:
   check-links:
     name: runner / linkspector
