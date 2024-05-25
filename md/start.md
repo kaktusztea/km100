@@ -31,7 +31,7 @@ NJK Karakterlap v1.2 ([odt📄](https://github.com/kaktusztea/km100/raw/master/s
 - [Előtörténet, Személyiség](012_elotortenet_szemelyiseg.md)
 - [Tapasztalati Szint](013_tsz_szintlepes.md)
 - [Tulajdonságok](014_tulajdonsagok.md)
-- [Tulajdonságpróba](015_tulajdonsagproba.md)
+- [Tulajdonságpróba](015_tulajdonsagproba.md) 🎲
 - [Primer és Szekunder ismeretek](016_primer_szekunder_ismeretek.md)
 - [Pontok](017_00_pontok.md)
   - [Életerő Pont (ÉP)](017_01_ep.md)
@@ -58,7 +58,7 @@ NJK Karakterlap v1.2 ([odt📄](https://github.com/kaktusztea/km100/raw/master/s
 - [Képzettségszint skála](033_kepzettsegszint_skala.md)
 - [Képzettségek fejlesztése](034_kepzettsegek_fejlesztese.md)
 - [Képzettségszintek KP igénye](035_kepzettsegszintek_kp_igenye.md)
-- [Képzettségpróba](036_kepzettsegproba.md)
+- [Képzettségpróba](036_kepzettsegproba.md) 🎲
 
 ---
 ### 4. [Fortélyok](040_fortelyok.md)
@@ -93,14 +93,14 @@ NJK Karakterlap v1.2 ([odt📄](https://github.com/kaktusztea/km100/raw/master/s
 - [Mozgásgátló tényező (MGT)](060_04_mgt.md)
 - [Előnyös és hátrányos helyzet (VÉ csökkentés)](060_05_elonyos_hatranyos_helyzet.md)
 - [Támadások száma, Akciók, Mozgás](060_06_tamadasok_szama__akcio__mozgas.md)
-- [Harc menete (összefoglaló)](060_07_harc_menete_osszefoglalas.md)
-- **[Harc menete (részletes)](060_08_harc_menete_reszletes.md)** (KÉ, Támadás, Sebzés, Sebződés)
+- [Harc menete (összefoglaló)](060_07_harc_menete_osszefoglalas.md) 🎲
+- **[Harc menete (részletes)](060_08_harc_menete_reszletes.md)** 🎲 (KÉ, Támadás, Sebzés, Sebződés)
 - [Példaharc](060_09_peldaharc.md)
 - [Harci helyzetek](060_10_harci_helyzetek.md) (meglepetésből, helyhez kötve, magasabbról, stb.)
 - [Harci taktikák](060_11_harci_taktikak.md) (támadó, védő, roham, stb)
 - [Harci alakzatok, Alakzatharc](060_12_harci_alakzatok.md)
 - [Kétkezes harc](060_13_ketkezes_harc.md)
-- [Manőverek](060_14_manoverek.md)
+- [Manőverek](060_14_manoverek.md) 🎲
 - [Harc lóhátról](060_15_harc_lohartol.md)
 - [Fegyverek, pajzsok](060_16_fegyverek.md)
 - [Vértek, páncélok](060_17_vertek_pancelok.md)
