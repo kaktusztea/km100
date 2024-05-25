@@ -57,8 +57,9 @@ Támadó dobás = Támadó Érték + k100
 ```
 
 ```
-Minden újabb támadás a körben -10 TÉ levonással megy
-   2.tám: -10 TÉ,  3.tám: -20 TÉ, ...
+Minden újabb támadás a körben
+  TÉ:-10 levonással megy
+  2.tám: -10 TÉ,  3.tám: -20 TÉ, ...
 ```
 
 Harcban, támadáskor a játékos dob `k100`-al, majd a kapott értéket hozzáadja aktuális **Támadó Értékéhez**. Ennek értéke lesz a **Támadó dobás**. Amennyiben a támadónak több támadása van a körben, akkor minden egyes plusz támadás `TÉ:-10` módosítóval történik.
@@ -72,9 +73,7 @@ A harc, a védekezés komolyan igénybe veszik az áldozat figyelmét, állóké
 
 **Megjegyzés**: a Harci anatóma ÉP bónusza csak akkor adható hozzá, ha az alap sebzés átment a páncélon! ⭕TODO: ez változhat⭕
 
-```
-A VÉ csökkenést kizárólag a "Harcos elme" fortély tanulása képes mérsékelni.
-```
+🔆 A VÉ csökkenést kizárólag a [Harcos Elme](fortelyok.harci/harcos_elme.md) fortély tanulása képes mérsékelni.
 
 A rendszer előnye, hogy a több támadó okozta fenyegetés sokkal fajsúlyosabb lesz, hiszen többen, sokkal gyorsabban “leverik” a karakter VÉ-jét. A támadások száma is sokat számít, részben a VÉ csökkentés szempontjából, másrészt a sokkal erősebb, több támadással rendelkező karakternek jó esélye van az első körben elintéznie gyengébb ellenfelét, még ha annak magas is a **Védő Értéke** (első egy/két támadás VÉ-t csökkent, aztán találat).
 
@@ -93,7 +92,8 @@ Találatnak nevezzük azt a támadást, amelynek értéke eléri, vagy meghaladj
 #### Többszörös találat
 
 ```
-TÉ >= VÉ + 20/40/60  →  +3SP/+6SP/+9SP
+TÉ >= VÉ + 20  / 40   / 60 
+          +3SP / +6SP / +9SP
 ```
 
 Amennyiben a találat olyan sikeres lett, hogy további `20`-al nagyobb az ellenfél Védő értékénél, akkor a támadó `+3 SP` bónuszt (nem ÉP!) kap. Ez ismétlődhet, tehát minden további `+20` után jár a `+3 SP`. Példa: `TÉ=175, VÉ=100`. Ekkor `140`-nél és `160`-nál kap bónuszt a támadó, tehát `+6 SP` extra jár sebzésére. A **Többszörös találat** által adható maximum sebzésbónusz: `+9`.
@@ -110,7 +110,9 @@ A `00`-ás (100-as) támadó dobás kiemelt jelentőséggel bír. Ez szimbolizá
 Fontos viszont megemlíteni, hogy amennyiben a `00`-ás dobás ellenére sem sikerült az ellenféllel szemben **Találatot** elérni, akkor az okozott sebzés kimerül a jutalomként kapott `+5` SP-ben (`1ÉP + 5 VÉ csökkentés`) SFÉ természetesen ez esetben sincs.
 
 ```
-"Fárasztás" harci taktika alkalmazásakor 00 dobás esetén további +5 VÉ csökkentés bónuszt kap a támadó.
+"Fárasztás" harci taktika alkalmazásakor
+00 dobás esetén további +5 VÉ csökkentés
+bónuszt kap a támadó.
 ```
 
 #### 01-es támadó dobás (balsiker)
@@ -121,11 +123,23 @@ A `01`-es támadó dobás szintén kiemelt, de ezúttal negatív felhanggal. Ily
 ### Sebzés
 
 ```
-SP = k20 + Fegyver-sebzés + módosítók – (aktuális SFÉ)
+SP = k20
+   + Fegyver-sebzés
+   + módosítók
+   + bónuszok
+   – (aktuális SFÉ)
 
-- módosítók: Mesterfegyver fortély, Erőbónusz, Többszörös találat,
-             Roham, Támadás erőből fortély
-- SFÉ: páncéltól, támadási típustól és a fegyver Átütésétől függ
+Módosítók:
+   - Mesterfegyver fortély
+   - Erőbónusz
+   - Támadás erőből fortély
+
+Bónuszok:
+   - Többszörös találat
+   - Roham
+
+SFÉ: páncéltól, támadási típustól 
+     és a fegyver Átütésétől függ
 ```
 
 | **SP** | **ÉP Sebzés** | **VÉ csökkentés** |
@@ -143,7 +157,12 @@ SP = k20 + Fegyver-sebzés + módosítók – (aktuális SFÉ)
 | 46-50  |     55 ÉP     |      -80 VÉ       |
 
 ```
-Az 1-es dobás (k20-on) mindig 1 ÉP seb (bónuszoktól függetlenül) amennyiben az SP dobás átment a páncél SFÉ-n
+Az 1-es dobás (k20):
+  mindig 1 ÉP seb
+  (bónuszoktól függetlenül)
+
+(amennyiben az SP dobás
+átment a páncél SFÉ-n)
 ```
 
 Amennyiben a korábban leírt módon sikeres [Találatot](#t%C3%BAl%C3%BCt%C3%A9s) értünk el, akkor ezt követően **Sebző Dobást** tehetünk `k20`-al, melyhez hozzáadódik a fegyver sebzése, a [Mesterfegyver](fortelyok.harci/mesterfegyver.md) fortélyból és az [Erőbónuszból](060_07_harc_menete_osszefoglalas.md#statikus-sp-módosítók) adódó módosítók, valamint a [Többszörös találatból](#t%C3%B6bbsz%C3%B6r%C3%B6s-tal%C3%A1lat), [Rohamból](060_11_harci_taktikak.md#harci-taktik%C3%A1k) és egyes fortélyokból (pl. [Támadás Erőből](fortelyok.harci/tamadas_erobol.md)) adódó extra értékek. Az így kapott `SP` értéket bemondja a támadó a támadás típusával együtt (pl. Szúrás).
@@ -178,11 +197,13 @@ Egyes fegyverek többféle támadási formát is lehetővé tesznek, gondoljunk 
 
 ---
 #### Elsődleges támadási típus
+
 ```
-- TÉ:-10   - másodlagos támadási típussal
-- TÉ:-20   - alkalmatlan támadási típussal
-- jelölése "/" jellel: például "V/S"
-- V: Vágás;  S: Szúrás;  Z: Zúzás
+TÉ:-10 - másodlagos támadási típussal
+TÉ:-20 - alkalmatlan támadási típussal
+
+Jelölése "/" jellel: például "V/S"
+V: Vágás;  S: Szúrás;  Z: Zúzás
 ```
 
 Majdnem minden fegyver rendelkezik egy **elsődleges támadási (sebzési) típussal**, pl. szúrás. Ha emellett más típusú támadásra is alkalmas, az legtöbbször másodlagos lehet (kivételeket lásd lejjebb az "Egyenjogú támadási típus" bekezdésben). Ha a karakter nem jelenti be, hogy milyen típusú támadást akar leadni, akkor mindig az elsődleges támadás típust vesszük megtörténtnek. Például a hosszú kard: vágás/szúrás (V/S). Ekkor az alapértelmezett támadási típus a vágás. Ha a karakter bejelenti, hogy szúrni szeretne, akkor azt `TÉ:-10` módosítóval teheti meg. Ha pedig zúzni szeretne (amire a fegyver alkalmatlan), akkor – ha a KM engedi – azt `TÉ-20`-vel teheti meg.
@@ -193,8 +214,9 @@ A Harcrendszer végén található **Fegyvertáblázatban** minden fegyver táma
 #### Egyenjogú támadási típus
 
 ```
-- nincs levonás egyik támadás típusnál sem
-- jelölése "+" jel: például "S+V"
+Jelölése "+" jel: például "S+V"
+
+Nincs levonás egyik támadás típusnál sem
 ```
 
 Egyes fegyverekkel többféle támadási típust lehet használni anélkül, hogy a forgató hátrányba kerülne és levonást szenvedne el a TÉ-ből. Ilyen fegyvereknél az egyes támadási típusokat "+" jellel választjuk el.
@@ -213,7 +235,7 @@ Például: csákány...
 #### Páncéldobás (találat helye)
 
 ```
-k10 (x10) dobás   vs.  fedett terület %
+k10 (x10)   vs.  fedett terület %
 ```
 Természetesen nem mindegy, hogy egy támadás hol találta el az ellenfelet, hiszen lehet, az adott testrészt nem fedi vért (`SFÉ: 0`). Ha a KM úgy határoz, hogy az ő partijánál ezt is kidobják harc közben, akkor a találati hely megállapítására az áldozat Páncéldobást tesz `k10`-el, amely egy kvázi százalékdobás. Attól függően, hogy a páncél mekkora területet fed le (hány %-ot), egyre nagyobb esélye van, hogy oda kapott be találatot, ahol testét óvja a vért. Ha a védett érték alá, vagy egyenlőt dob, olyankor számít az SFÉ. Pl. egy mellvértet visel, ami `50%`-ban fed, olyankor ha `1-5`-ig dob, akkor szerencséje volt, páncélt talált a csapás.
 
@@ -223,8 +245,11 @@ Természetesen nem mindegy, hogy egy támadás hol találta el az ellenfelet, hi
 #### Erőbónusz és Erőhiány
 
 ```
-Az Erő tulajdonság 1:1-ben hozzáadódik az SP értékhez.
-Ha értéke negatív, akkor értelemszerűen levonódik belőle.
+Az Erő tulajdonság 1:1-ben
+hozzáadódik az SP értékhez.
+
+Ha értéke negatív, akkor 
+értelemszerűen levonódik belőle.
 ```
 
 Egyes fegyverek forgatása esetén a karakter fizikai ereje megnöveli az okozott sebzés. Tipikusan azok a fegyverek ezek, amelyek használata során a plusz erő használata felgyorsítja azt, jól kivezethető ívű csapások végezhetők vele. Továbbá számos fegyver van, melynek forgatása Erő követelményhez kötött, azaz csak megfelelő fizikumú karakter használhatja. Erről az egyes fegyverek egyéni leírásában találhatunk részleteket, de általánosságban a fenti szabályok az irányadóak.
@@ -233,10 +258,11 @@ Egyes fegyverek forgatása esetén a karakter fizikai ereje megnöveli az okozot
 #### Élőholtak sebzése
 
 ```
-Élőholt VÉ visszaáll minden 2. kör elején
+Élőholt VÉ visszaáll
+minden kör elején
 ```
 
-Mivel nem fáradnak szellemileg, legfeljebb ideiglenes hátrányos harci pozícióba kerülnek, ezért az élőholtak VÉ-je **minden második** kör elején visszaáll eredeti értékére. Ezen kívül a különböző támadási módok ellen különféleképpen ellenállóak, azok sebzése a következőképpen alakul:
+Mivel nem fáradnak szellemileg, legfeljebb ideiglenes hátrányos harci pozícióba kerülnek, ezért az élőholtak VÉ-je **minden** kör elején visszaáll eredeti értékére. Ezen kívül a különböző támadási módok ellen különféleképpen ellenállóak, azok sebzése a következőképpen alakul:
 
 - Szúrófegyverek sebzése: negyed SP sebzés (lefele kerekítve) + nincs Erőbónusz
 - Vágófegyverek sebzése: fele SP sebzés (lefele) + van Erőbónusz. Csonkoláskor normál sebzés.
@@ -272,7 +298,8 @@ Zuhanás, zúzódás, egyéb fizikai sérülések esetén a KM meghatároz egy s
 ### Példák sebzésre
 
 ```diff
-- TODO: Egy harmadik, páncélos példa (páncéldobással!)
+- TODO: Egy harmadik,
+- páncélos példa (páncéldobással!)
 ```
 
 
