@@ -1,7 +1,8 @@
 ## Támadások száma fegyverrel, mágiával, Akció, Mozgás
 
 ```
-Alapeset:  minden fegyver támadásainak száma: 1 / kör.
+Alapeset:
+ fegyverek támadás száma: 1 / kör
 ```
 (néhány kivételnél ez kevesebb. Lásd a fegyver táblázatot)
 
@@ -23,7 +24,9 @@ Egy karakter plusz támadásainak száma attól függ, hogy milyen fegyvert forg
 Számszerűen: az aktuális fegyverhez tartozó harcmodor-képzettség szintje és a Gyorsaság tulajdonság összege határozzák meg az ún. **Harckeret** értéket. Ez – mint – sejthető harcmodoronként egyedi érték.
 
 ```
-Harckeret = aktuális Harcmodor szint + Gyorsaság tulajdonság
+Harckeret = 
+    aktuális Harcmodor szint
+  + Gyorsaság tulajdonság
 ```
 
 ---
@@ -37,7 +40,8 @@ Szintén minden fegyvernek van egy egyedi **Sebesség** értéke. Minél kisebb 
 Az alap 1 támadáson felül kapott **plusz** támadások számát úgy kapjuk meg, hogy megvizsgáljuk, a `„Fegyver-Sebesség”` hányszor van meg a karakter aktuális „Harckeret” értékében (lefelé kerekítve).
 
 ```
-Plusz támadások (db) = Harckeret / (Fegyver Sebesség)
+Plusz támadások (db) =
+   Harckeret / (Fegyver Sebesség)
 ```
 
 ---
@@ -67,7 +71,9 @@ További támadásokat `Kétkezes Harc` során szerezhet a karakter. Lásd a [K�
 ### Varázskeret
 
 ```
- Varázskeret = Mágia Tradíció szint + Összpontosítás szint
+ Varázskeret =
+     Mágia Tradíció szint
+    + Összpontosítás szint
 ```
 
 Varázslásnál nagyjából ez felel meg a **Harckeretnek**.
@@ -76,7 +82,8 @@ Varázslásnál nagyjából ez felel meg a **Harckeretnek**.
 ### Formula Sebesség
 
 ```
-Formula-Sebesség = Max Erősség + Max Komplexitás
+Formula-Sebesség =
+   Max Erősség + Max Komplexitás
 ```
 
 A varázslatban használt összes formula közül a legmagasabb Komplexitás értéket és a legmagasabb Erősség értéket kell összeadnunk.
@@ -87,9 +94,11 @@ Látható, hogy az apró, egyszerű, kis változtató erejű mágiákból többe
 
 ### Varázskeret csökkentése varázsláskor
 ```
-Varázskeret = Varázskeret - "Formula Sebesség"
+Varázskeret =
+   Varázskeret - "Formula Sebesség"
 
-Következő körbe átcsúszó varázslatot csak a kör elején lehet megkezdeni!
+Következő körbe átcsúszó varázslatot
+csak a kör elején lehet megkezdeni!
 ```
 
 A **Varázskeret** minden kör elején eredeti értékére "töltődik vissza".
@@ -110,7 +119,8 @@ Harc közben nem ugyanazon a pár négyzetméteres területen mozog a karakter, 
 #### Maximum mozgás, maximum támadással
 
 ```
-Max Mozgás egy körben  =  (5 + Gyorsaság) méter
+Max Mozgás egy körben =
+   (5 + Gyorsaság) méter
 ```
 
 Egy karakter egy harci körön belül szabadon mozoghat maximum (`5 + Gyorsaság Tulajdonság`) mennyiségű métert anélkül, hogy elveszítene egyet is támadásaiból.
