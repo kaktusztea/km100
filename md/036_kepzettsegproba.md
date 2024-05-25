@@ -1,5 +1,6 @@
 ## Képzettségpróba
 
+  - [Próbadobás](⭕xyz)⭕TODO: link⭕
   - [Vállalás](#v%C3%A1llal%C3%A1s)
   - [Próba biztos tudásból](#pr%C3%B3ba-biztos-tud%C3%A1sb%C3%B3l)
   - [Próba képzetlenül](#pr%C3%B3ba-k%C3%A9pzetlen%C3%BCl)
@@ -7,10 +8,14 @@
   - [Összhangok](#%C3%B6sszhangok)
   - [Sérülés hatása képzettségpróbára](#s%C3%A9r%C3%BCl%C3%A9s-hat%C3%A1sa-k%C3%A9pzetts%C3%A9gpr%C3%B3b%C3%A1ra)
 
+### Próbadobás
+
 Vesszük az adott szituációban épp szükséges Tulajdonság értékét (KM mondja meg, hogy melyiket), hozzáadjuk a **Képzettség** értékét, majd dobunk `k10`-es kockával és a fentieket összeadjuk. Ha a kapott szám nagyobb, vagy egyenlő a Célszámmal, akkor a próba sikerült.
 
 ```
-Tulajdonság + Képzettség + k10   vs.  Célszám
+Tulajdonság + Képzettség + k10
+            vs
+          Célszám
 ```
 
 | Képzettségpróba<br /><sub>(dobás k10-el)</sub> | Célszám  |
@@ -33,7 +38,7 @@ A Vállalás azt jelenti, hogy (ha a KM is beleegyezik) képzettségpróba eset�
 k6 vs. (a vállalás értéke)
 ```
 
-> **Fontos**: a Vállalás értéke nem haladhatja meg képzettséged aktuális értékét!
+**🔆Fontos**: A Vállalás értéke nem haladhatja meg képzettséged aktuális értékét!
 
 Ha `k6`-on a Vállalás értékével megegyezőt, vagy kisebbet dobsz, akkor kritikus, halálos hibát vétesz és természetesen nem dobhatsz képzettségpróbát se. Ebből látszik, hogy vállalni csak nagyon fontos, ritka esetben van értelme. Úgy foglalhatjuk össze, hogy mikor vállalsz, olyankor megpróbálkozol valami olyan dologgal, ami hatékonyabb, mint jelenlegi tudásod, de még nem gyakoroltad be rendesen (pl. csak ellested a mesteredtől), így a rontásra is nagyobb az esélyed.
 
@@ -115,8 +120,8 @@ Ekkor a helyettesítő képzettség `1/3`-a helyettesíthető be az elsődleges 
 Tehát:
 
 ```
-- (Szint/3) működik behelyettesítő értékként
-- Maximum elérhető szint Összhangokkal: 5
+- (Szint/3) behelyettesítő értékként
+- Max szint Összhangokkal: 5
 - lefelé kerekítünk
 ```
 
