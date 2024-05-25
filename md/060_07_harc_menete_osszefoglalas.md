@@ -3,18 +3,39 @@
 
 ### Harcértékek
 ```
-KÉ = 10 + (Gyorsaság + Intelligencia) + Tapasztalati szint
-     + Harcmodor/Mágia-Tradíció bónusz + Mf bónusz + Fegyver KÉ
+KÉ = 10
+   + (Gyorsaság + Intelligencia)
+   + Tapasztalati szint
+   + Harcmodor/Mágia-Tradíció bónusz
+   + Mf bónusz
+   + Fegyver KÉ
 
-TÉ = 20 + 2 x (Erő + Ügyesség + Gyorsaság) + HM
-     + Harcmodor/Mágia-Tradíció bónusz + Mf bónusz + Fegyver TÉ
+TÉ = 20
+   + 2 x (Erő + Ügyesség + Gyorsaság)
+   + TÉ HM
+   + Harcmodor/Mágia-Tradíció bónusz
+   + Mf bónusz
+   + Fegyver TÉ
 
-VÉ = 120 + 2 x (Ügyesség + Gyorsaság) + Pajzs VÉ + HM
-     + Harcmodor/Mágia-Tradíció bónusz + Mf bónusz + Fegyver VÉ
-VÉ Bónusz: Vértviselet – 3.szint: félvért +5VÉ, teljes vért +10VÉ
+VÉ = 120
+   + 2 x (Ügyesség + Gyorsaság)
+   + VÉ HM
+   + Harcmodor/Mágia-Tradíció bónusz
+   + Mf bónusz
+   + Fegyver VÉ
+   + Pajzs VÉ
 
-CÉ = -30 + (2 x Önuralom) – 30 (Konstans) + CM
-     + Harcmodor/Mágia-Tradíció bónusz + Fegyver CÉ
+VÉ Bónusz:
+  → Vértviselet 3.szint:
+    - félvért +5VÉ
+    - teljes vért +10VÉ
+
+CÉ = -30
+   + (2 x Önuralom)
+   – 30 (Konstans)
+   + CM
+   + Harcmodor/Mágia-Tradíció bónusz
+   + Fegyver CÉ
 ```
 
 <br />
@@ -42,17 +63,20 @@ Támadó dobás: TÉ + k100
 ```
 
 ```
-Minden újabb támadás a körben: TÉ:-10; -20, ...
+Minden újabb támadás a körben:
+   TÉ:-10; -20, ...
 
-Támadás jellege: elsődleges támadási típusa az
-        alapértelmezett (például: Szúró).
-        Másodlagos támadási formával `TÉ:-10`
-        módosítóval lehet támadni
+Támadás jellege: elsődleges támadási
+        típusa az alapértelmezett
+        (például: Szúró).
+        Másodlagos támadási formával
+        TÉ:-10 módosítóval támadhatsz
 
-Előnyös/hátrányos helyzetű harcos: 1 penge méretkülönbségtől
+Előnyös/hátrányos helyzetű harcos:
+   1 penge méretkülönbségtől
 
 01 támadó dobás: kudarc, KM dönt.
-   Általában az ellenfél kap `1` plusz támadást.
+   Pl. az ellenfél kap +1 támadást
 ```
 
 <br />
@@ -61,8 +85,9 @@ Előnyös/hátrányos helyzetű harcos: 1 penge méretkülönbségtől
 ### 😵TÉ < VÉ  → VÉ csökkentés
 
 ```
-Alaphelyzetben:  mindkét fél nagykockával csökkent (k100)
-(nincs előnyös-hátrányos helyzet)
+Alaphelyzetben:
+  mindkét fél nagykockával csökkent (k100)
+  nincs előnyös-hátrányos helyzet
 
 Példa: 58  → 8
 ```
@@ -70,20 +95,24 @@ Példa: 58  → 8
 `1` penge, vagy nagyobb fegyverméret különbségnél:
 
 ```
-- Előnyös helyzetű támadó:  `nagykocka` értékével csökkent (k100)
+Előnyös helyzetű támadó:
+  nagykocka értékével csökkent (k100)
   Példa: 58  → 8
 
-- Hátrányos helyzetű támadó: `kiskocka` értékével csökkent (k100)
+Hátrányos helyzetű támadó:
+  kiskocka` értékével csökkent (k100)
   Példa: 58  → 5
 ```
 
 `2` penge, vagy nagyobb fegyverméret különbségnél:
 
 ```
-- Előnyös helyzetű támadó: `nagykocka+1` értékével csökkent (k100)
+Előnyös helyzetű támadó:
+  nagykocka+1 értékével csökkent (k100)
   Példa: 58  → 9
 
-- Hátrányos helyzetű támadó:  `kiskocka` értékével csökkent (k100)
+Hátrányos helyzetű támadó:
+  kiskocka értékével csökkent (k100)
   Példa: 58  → 5
 ```
 
@@ -97,16 +126,18 @@ Fegyver SP: k20 + X
 ```
 
 ```
-- Erő Tulajdonság 1:1-ben hozzáadódik (vagy levonódik, ha negatív).
+- Erő Tulajdonság 1:1-ben hozzáadódik
+  (vagy levonódik, ha negatív).
 - Mesterfegyver fortély:  +1 SP / fok
 - Fegyver mágia bónusz hozzáadódik
 ```
 
 ```
-- többszörös találat (TÉ > VÉ+20):
+- Többszörös találat (TÉ > VÉ+20):
          20-anként SP:+3   (max +9 SP)
 - 00 támadó dobás: SP:+5;
-         Ellenfél SFÉ nem számít (de Aranyharang, Elemi Erő igen)
+         Ellenfél SFÉ nem számít
+         (de Aranyharang, Elemi Erő igen)
 - Roham: SP:+5
 - Támadás erőből fortély bónusza
 ```
@@ -119,17 +150,25 @@ Fegyver SP: k20 + X
 ```
 Páncéldobás: áldozat dob k10    
    → nincs SFÉ
-   → van SFÉ (szúró, vágó, zúzó)  - Fegyver Átütés csökkenti!
+   → van SFÉ (szúró, vágó, zúzó)
+     Fegyver Átütés csökkenti!
 ```
 
 ```
-SP = Fegyver SP + bónuszok + módosítók  – aktuális SFÉ
+SP = Fegyver SP
+   + bónuszok
+   + módosítók
+   – aktuális SFÉ
 ```
 
 ```
-ÉP seb:         SP ↔ ÉP megfeleltetés a Sebzés táblázatban
-VÉ csökkentés:  SP ↔ VÉ megfeleltetés a Sebzés táblázatban
-   - Fárasztás alkalmazásakor: nincs Sebzés, VÉ:+5 csökkentés
+ÉP seb:
+  SP ↔ ÉP átváltás Sebzés táblázatban
+
+VÉ csökkentés:
+  - SP ↔ VÉ átváltás a Sebzés táblázatban
+  - Fárasztás alkalmazásakor:
+    nincs Sebzés, VÉ:+5 csökkentés
 ```
 
 Lásd: [Sebzés táblázat](060_08_harc_menete_reszletes.md#sebz%C3%A9s)
@@ -142,9 +181,11 @@ Lásd: [Sebzés táblázat](060_08_harc_menete_reszletes.md#sebz%C3%A9s)
 ### 🍎VÉ regenerálódás
 ```
 1 kör pihenéssel töltött idő:
-    visszatérnek a harcban - nem sebtől - elvesztett VÉ pontok
+    visszatérnek a harcban
+    (nem sebtől) elvesztett VÉ pontok
 ```
 
+Teljes, fenyegetetlen nyugalom szükséges!
 
 #### Győzelmi szabály
 
@@ -163,13 +204,16 @@ Ez a siker hatása a szervezetre + heroizmus. Persze itt is lehetnek kivételek 
 ```
 1 + Plusz támadások
 
-Plusz támadások (db)  =  Harckeret / (Fegyver-Sebesség)
+Plusz támadások (db) =
+  Harckeret / (Fegyver-Sebesség)
 ```
 
 ```
-Harckeret  =  aktuális harcmodor + Gyorsaság tulajdonság
+Harckeret =
+  aktuális harcmodor + Gyorsaság
 
-Fegyver-Sebesség: fegyverenként eltérő egyéni érték 
+Fegyver-Sebesség:
+  fegyverenként eltérő egyéni érték 
 ```
 
 Lásd: [Fegyverek táblázat](060_16_fegyverek.md)
@@ -192,9 +236,12 @@ Nagy tömegjelenetben a sok statisztika kezelése drasztikusan lelassíthatja a 
 - TÉ:+20 mindenkinek
 - Nincs VÉ csökkentés
 - Nincs páncéldobás
-- TÉ/VÉ értékeket kerekítjük 10-el oszthatóan
+- TÉ/VÉ: kerekítjük 10-el oszthatóan
   (1-5: lefelé, 6-9: felfelé)
-- Támadó dobás eredményét is kerekítjük ugyanígy
+- Támadó dobást is kerekítjük
 - Erősített sebzés:
-  1-10: 6ÉP; 11-20: 12ÉP; 21-30: 20ÉP; 31-től halál
+  1-10: 6ÉP
+  11-20: 12ÉP
+  21-30: 20ÉP
+  31-től halál
 ```
