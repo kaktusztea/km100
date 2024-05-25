@@ -7,3 +7,4 @@ A km100 rendszerében... ⭕TODO: Bevezető⭕
 - [Harcérték Módosító (HM), Célzóérték Módosító (CM)](017_03_hm_cm.md)
 - [Manőverfejlesztő Pont](017_04_mfp.md)
 - [Mágiaellenállás](017_05_magiaellenallas.md)
+- [Méregellenállás](017_06_meregellenallas.md)
