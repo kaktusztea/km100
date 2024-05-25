@@ -1,5 +1,6 @@
 # Bevezető
 
+A km100 szerepjáték rendszer.
 ⭕TODO: bevezető szöveg
 
 
