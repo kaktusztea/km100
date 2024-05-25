@@ -13,7 +13,8 @@ A szabályrendszer dokumentumaiban speciális unicode karaktereket használunk j
 
 ---
 ## Aktív jelzők
-⚪ Tulajdonság 🔵 Képzettség 🟣 Fortély / Háttér
+⚪ Tulajdonság 🔵 Képzettség 🟣 Fortély / Háttér\
+⤴️ Fejleszthető Tulajdonság  ⏹️ Nem fejleszthető Tulajdonság
 
 🗡️ Harci taktika, Harci szituáció vagy Manőver
 
