@@ -1,6 +1,6 @@
 ## Képzettségpróba
 
-  - [Próbadobás](⭕xyz)⭕TODO: link⭕
+  - [Próbadobás](#pr%C3%B3badob%C3%A1s)
   - [Vállalás](#v%C3%A1llal%C3%A1s)
   - [Próba biztos tudásból](#pr%C3%B3ba-biztos-tud%C3%A1sb%C3%B3l)
   - [Próba képzetlenül](#pr%C3%B3ba-k%C3%A9pzetlen%C3%BCl)
