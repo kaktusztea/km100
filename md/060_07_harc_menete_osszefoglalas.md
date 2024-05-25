@@ -84,10 +84,9 @@ Előnyös/hátrányos helyzetű harcos:
 ---
 ### 😵TÉ < VÉ  → VÉ csökkentés
 
+Alaphelyzetben: nincs előnyös-hátrányos helyzet
 ```
-Alaphelyzetben:
-  mindkét fél nagykockával csökkent (k100)
-  nincs előnyös-hátrányos helyzet
+Mindkét fél nagykockával csökkent (k100),
 
 Példa: 58  → 8
 ```
@@ -123,6 +122,8 @@ Hátrányos helyzetű támadó:
 
 ```
 Fegyver SP: k20 + X
+
+X: fegyver alap sebzése
 ```
 
 ```
@@ -156,8 +157,8 @@ Páncéldobás: áldozat dob k10
 
 ```
 SP = Fegyver SP
-   + bónuszok
    + módosítók
+   + bónuszok
    – aktuális SFÉ
 ```
 
