@@ -128,16 +128,16 @@ Fegyver SP: k20 + X
 ```
 - Erő Tulajdonság 1:1-ben hozzáadódik
   (vagy levonódik, ha negatív).
-- Mesterfegyver fortély:  +1 SP / fok
+- Mesterfegyver fortély: +1 SP / fok
 - Fegyver mágia bónusz hozzáadódik
 ```
 
 ```
 - Többszörös találat (TÉ > VÉ+20):
-         20-anként SP:+3   (max +9 SP)
-- 00 támadó dobás: SP:+5;
-         Ellenfél SFÉ nem számít
-         (de Aranyharang, Elemi Erő igen)
+      20-anként SP:+3   (max +9 SP)
+- 00 támadó dobás: SP:+5
+      Ellenfél SFÉ nem számít
+      (de Aranyharang, Elemi Erő igen)
 - Roham: SP:+5
 - Támadás erőből fortély bónusza
 ```
@@ -163,10 +163,10 @@ SP = Fegyver SP
 
 ```
 ÉP seb:
-  SP ↔ ÉP átváltás Sebzés táblázatban
+  - SP ↔ ÉP átváltás Sebzés táblázatban
 
 VÉ csökkentés:
-  - SP ↔ VÉ átváltás a Sebzés táblázatban
+  - SP ↔ VÉ átváltás Sebzés táblázatban
   - Fárasztás alkalmazásakor:
     nincs Sebzés, VÉ:+5 csökkentés
 ```
@@ -181,8 +181,8 @@ Lásd: [Sebzés táblázat](060_08_harc_menete_reszletes.md#sebz%C3%A9s)
 ### 🍎VÉ regenerálódás
 ```
 1 kör pihenéssel töltött idő:
-    visszatérnek a harcban
-    (nem sebtől) elvesztett VÉ pontok
+    visszatér a harcban
+    (nem sebtől) elvesztett VÉ
 ```
 
 Teljes, fenyegetetlen nyugalom szükséges!
