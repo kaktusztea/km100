@@ -59,19 +59,19 @@ A km100 harcrendszere lehetőséget ad rá, hogy a karakter harc közben ilyen s
 
 - Manővert ellenfél **ellen** alkalmazunk. Így például kiszaltózni az ablakon, vagy leugrani a várfalról **nem** számít Manővernek
 
-- Ha minden kötelező fázisa  sikeres a végrehajtó szempontjából (`E V`) és sikertelen, akkor az adott Manőver „Hatás” részénél leírtak következnek be
+- Ha minden kötelező fázisa  sikeres a végrehajtó szempontjából (`E V`) és sikertelen a védekező szempontjából (`M`), akkor az adott Manőver „Hatás” részénél leírtak következnek be
 
-- Végrehajtás fázisa aktuális **fegyveres** `TÉ`-vel történik (kivéve, ha más szerepel a Manőver leírásában.)
+- Végrehajtás fázisa aktuális **fegyveres** `TÉ+20`-al történik (kivéve, ha más szerepel a Manőver leírásában.)
 
-- Meglepett, készületlen ellenfél esetén kimarad a **Megakasztás** és az **Ellenpróba** fázis
+- [Meglepett](060_10_harci_helyzetek.md#meglepet%C3%A9s), [Készületlen](060_10_harci_helyzetek.md#k%C3%A9sz%C3%BCletlens%C3%A9g) ellenfél esetén kimarad a **Megakasztás** és az **Ellenpróba** fázis
 
 - Manővereknek lehet:
 	- speciális könnyítő/nehezítő körülményei (+/- módosítók a nehézségre)
 	- extra végbeviteli követelményei: Ezek nélkül a KM dönt, hogy végrehajtható -e és ha igen, mekkora plusz célszám büntetéssel
 
-- Manőver alkalmazásakor nem folytatható **Védekező harc**, vagy **Védő Taktika** (kivéve ahol ez külön meg van említve), de **Támadó taktika** igen, kivéve ahol ez az adott Manővernél külön meg van említve.
+- Manőver alkalmazásakor nem folytatható [Védekező harc](060_11_harci_taktikak.md#v%C3%A9dekez%C5%91-harc), vagy [Védő Taktika](060_11_harci_taktikak.md#v%C3%A9d%C5%91-taktika) (kivéve ahol ez külön meg van említve), de [Támadó taktika](060_11_harci_taktikak.md#t%C3%A1mad%C3%B3-taktika) igen, kivéve ahol ez az adott Manővernél külön meg van említve.
 
-- **Rohamnál** csak az a manőver hajtható végre, amelyiknél ez külön meg van említve
+- [Rohamnál](060_11_harci_taktikak.md#roham) csak az a manőver hajtható végre, amelyiknél ez külön meg van említve
 
 <br/>
 
@@ -190,13 +190,15 @@ A karakter – **Ellenpróba** során – dönthet úgy, hogy `VÉ`-je egy rész
 A manőverek végrehajtásával bárki próbálkozhat, aki az adott manővernél leírt **Végbevitel-követelményeket** teljesíti. Amennyiben nem teljesíti, akkor is nekifuthat, de az
 
 ```
-... Ellenpróba dobásánál a célszám az ő számára 3-al megemelkedik.
+... Ellenpróba dobásánál a célszám
+    az ő számára 3-al megemelkedik.
 ```
 
 ### Manőverek fejlesztése, manőver-ismeretek
 
 ```
-Manőver-ismeret fokonként +2 módosítót ad az „Ellenpróba” dobásnál
+Manőver-ismeret fokonként +2 módosítót
+  ad az „Ellenpróba” dobásnál
 ```
 
 A manővereket „**Fejleszthető**” és „**Nem fejleszthető**” csoportokba soroljuk.(lásd lejjebb a két elkülönített fejezetet). Alkalmazásaik szabályai nem különböznek.
@@ -617,7 +619,6 @@ A Lefegyverezés fázisai: sikeres Végrehajtás (`V`) és Ellenpróba (`E`) sz�
 - Tetves dobása:  `10` (kardvívás + HM/10) + `2` (Lefegyverzés:`1.fok`) + `k10`
 - Célszám: `6 + 3 + 10 = 19` (ellenfél kardvívása + HM/10 + Lefegyverzés nehézsége)
 
-
 ```
 A próbadobás így:   (12 + k10)  vs.  19
 ```
@@ -661,7 +662,7 @@ Gáncsolás fázisai: sikeres Végrehajtás (`V`) és Ellenpróba (`E`) szüksé
   (ellenfél kardvívása + HM/10 + Gáncsolás nehézsége + a fegyverméretek különbözősége miatt a KM megnöveli `2`-vel a célszámot)
 
 ```
-A próbadobás így:  (14 + k10)   vs.  19
+Próbadobás:  (14 + k10)  vs.  19
 ```
 
 Tehát ha Tetves legalább `5`-öt dob `k10`-en, akkor az **Ellenpróba** (`E`) is sikeres és így az egész manőver is az, kikaszálta ellenfele lábát. Ha nem sikerült volna a manőver, akkor ellenfele következő rendes visszatámadása ellen Tetves `-20 VÉ` büntetés szenvedett volna el (a Vállalás miatt).
