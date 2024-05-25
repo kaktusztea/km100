@@ -1,5 +1,7 @@
 name: Linkspector
 on: [push]
+  paths:
+    - "md"
 jobs:
   check-links:
     name: runner / linkspector
@@ -12,3 +14,4 @@ jobs:
           github_token: ${{ secrets.github_token }}
           reporter: github-check
           fail_on_error: true
+          debug: true
