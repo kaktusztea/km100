@@ -86,7 +86,7 @@ NJK Karakterlap v1.2 ([odt📄](https://github.com/kaktusztea/km100/raw/master/s
 - [Slan tradíció](055_slan_tradicio.md) (25%)🚧
 
 ---
-### 6. [Harcrendszer](060_00_harcrendszer.md)
+### 6. [Harcrendszer](060_00_harcrendszer.md) 🗡️
 
 - [Életerő, Sebesülés](060_01_eletero.md)
 - [Harcérték alapok, HM, Harcmodorok, Mesterfegyver](060_02_harcertekek_elemei.md)
@@ -107,7 +107,7 @@ NJK Karakterlap v1.2 ([odt📄](https://github.com/kaktusztea/km100/raw/master/s
 - [Vértek, páncélok](060_17_vertek_pancelok.md)
 
 ---
-### 7. [Távolsági harcrendszer](070_tavolsagi_harc.md)
+### 7. [Távolsági harcrendszer](070_tavolsagi_harc.md) 🏹
 
 ---
 ### 8. [Pszí](080_pszi.md)
