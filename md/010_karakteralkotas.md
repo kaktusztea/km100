@@ -8,14 +8,16 @@
 - [Előtörténet, Személyiség](012_elotortenet_szemelyiseg.md)
 - [Tapasztalati Szint](013_tsz_szintlepes.md)
 - [Tulajdonságok](014_tulajdonsagok.md)
-- [Tulajdonságpróba](015_tulajdonsagproba.md)
+- [Tulajdonságpróba](015_tulajdonsagproba.md) 🎲
 - [Primer és Szekunder ismeretek](016_primer_szekunder_ismeretek.md)
 - [Pontok](017_00_pontok.md)
   - [Életerő Pont (ÉP)](017_01_ep.md)
   - [Karakteralkotó Pont (KP)](017_02_kp.md)
   - [Harcérték Módosító (HM), Célzóérték Módosító (CM)](017_03_hm_cm.md)
   - [Manőverfejlesztő Pont](017_04_mfp.md)
-  - [Mágiaellenállás](017_06_magiaellenallas.md)
+  - [Szabad Pontok](017_05_szp.md)
+  - [Mágiaellenállás](017_06_magiaellenallas.md) 🎲
+  - [Méregellenállás](017_07_meregellenallas.md) 🎲
 - [Nem Játékos Karakterek](018_njk.md)
 
 
