@@ -1,8 +1,8 @@
 ## Tulajdonságok
 
-**[Erő](#Erő)**, **[Edzettség](#Edzettség)**, **[Ügyesség](#Ügyesség)**, **[Gyorsaság](#Gyorsaság)**
+**[Erő](#-er%C5%91-%EF%B8%8F)**, **[Edzettség](#-edzetts%C3%A9g-%EF%B8%8F)**, **[Ügyesség](#-%C3%BCgyess%C3%A9g-%EF%B8%8F)**, **[Gyorsaság](#-gyorsas%C3%A1g-%EF%B8%8F)**
 
-**[Intelligencia](#Intelligencia)**, **[Emlékezet](#Emlékezet)**, **[Önuralom](#Önuralom)**, **[Érzékenység](#Érzékenység)**
+**[Intelligencia](#-intelligencia-%EF%B8%8F)**, **[Emlékezet](#-eml%C3%A9kezet-%EF%B8%8F)**, **[Önuralom](#-%C3%B6nuralom-%EF%B8%8F)**, **[Érzékenység](#-%C3%A9rz%C3%A9kenys%C3%A9g-%EF%B8%8F)**
 
 ```
 [-5; +5]  -  faj/mágia által max +7
