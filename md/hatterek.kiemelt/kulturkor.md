@@ -7,7 +7,7 @@
 ⚡ Példa: "Kultúrkör: Toron", "Kultúrkör: Pyarron"
 
 Kapcsolódó Képzettség-próba:
-  ha nincs meg a megkövetelt Kultúrkör fok, akkor +3 Nehézség.
+  ha nincs meg a követelt Kultúrkör fok, akkor +3 Nehézség.
 ```
 
 ##### Kiterjeszti ezeket:
