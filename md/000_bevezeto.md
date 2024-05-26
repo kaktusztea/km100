@@ -2,7 +2,7 @@
 
 ⚜️ [Nyitóoldal](start.md)
 
-Üdvözlünk a km100 szerepjáték rendszer oldalain! Had adjunk egy rövid áttekintést, miről is olvashatsz a következő fejezetekben!
+Üdvözlünk a km100 szerepjáték rendszer oldalain! Hadd adjunk egy rövid áttekintést, miről is olvashatsz a következő fejezetekben!
 
 Elsőnek segítünk megalkotni a játékban megszemélyesített szereplődet a [Karakteralkotás](010_karakteralkotas.md) fejezetben, akivel más hősökkel csapatban, együtt számos veszélyes helyzettel dacolhattok,  élhettek át veszélyes kalandokat. Az ilyen szituációkban előkerülnek a kardok, a páncélok és a taktikázás. A [Harcrendszer](060_00_harcrendszer.md) fejezetben az ilyen pusztakezes, vagy távolsági hadakozás szabályait taglaljuk.
 
