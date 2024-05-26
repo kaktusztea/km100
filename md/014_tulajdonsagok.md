@@ -104,7 +104,7 @@ Emlékezet
 
 
 ---
-### Erő ⤴️
+### ⚪ Erő ⤴️
 
 ```
 Erőbónusz: 1:1 beleszámít az SP (Sebzés Pont) értékbe
@@ -133,7 +133,7 @@ rácsokat zúz. Istenként tisztelik, vagy rettegik.
 ⭕TODO⭕: Extra
 
 ---
-### Edzettség ⤴️
+### ⚪ Edzettség ⤴️
 
 Mutatja kitartásodat, hogy mennyire vagy képes elviselni a tartós fizikai megterhelést, illetve hogy mennyire vagy ellenálló a betegségekkel, fertőzésekkel, mérgekkel szemben, valamint, komolyan beleszámít életerődbe is. Ha magas, gyorsabban felépülsz sérüléseidből is.
 
@@ -156,7 +156,7 @@ jó eséllyel száll harcba. ⭕TODO⭕: Extra
 
 
 ---
-### Ügyesség ⤴️
+### ⚪ Ügyesség ⤴️
 
 Jelzi cselekedeteid összehangoltságát, mozgásod kifinomultságát, precizitását, kézügyességedet. Ezt a Tulajdonságod használod akár az egész testet igénybe vevő tevékenységről van szó, akár a kézzel, aprólékos tevékenység végzéséről, „piszmogásról".
 
@@ -179,7 +179,7 @@ Fejleszthető tulajdonság.
 
 
 ---
-### Gyorsaság ⤴️
+### ⚪ Gyorsaság ⤴️
 
 Mutatja reflexeidet, hogy milyen gyorsan mozdulsz, ha reagálni kell valamire.
 
@@ -200,7 +200,7 @@ Fejleszthető tulajdonság.
 `+5:` Észre se venni, hogy mozdult. Villámgyors. Körbefut, mire észreveszed. ⭕TODO⭕: Extra
 
 ---
-### Intelligencia ⏹️
+### ⚪ Intelligencia ⏹️
 
 Jelzi szellemi felkészültségedet mind helyzetfelismerés, problémamegoldó készség terén.
 
@@ -221,7 +221,7 @@ Nem fejleszthető tulajdonság.
 `+5:` Mindent átlát, a legrejtettebb összefüggések is világosak számára. Ha hatalomvágyó, iszonyú veszélyt jelent a világ számára. ⭕TODO⭕: Extra
 
 ---
-### Emlékezet ⤴️
+### ⚪ Emlékezet ⤴️
 
 Memóriád fejlettségét mutatja, azt hogy mekkora tehetséged van lexikális ismeretek elsajátítása.
 
@@ -242,7 +242,7 @@ Fejleszthető tulajdonság.
 `+5:` Nem tanul, olvas. Számára ez ugyanazt jelenti. Minden megragad az emlékezetében méghozzá tökéletesen. Gyermekkorában történt eseményekre is pontosan emlékszik. Képes felidézni bármely beszélgetést szó szerint. Ha alacsony az Önuralma könnyen beleőrülhet. ⭕TODO⭕: Extra
 
 ---
-### Önuralom ⤴️
+### ⚪ Önuralom ⤴️
 
 Mutatja érzelmi kiegyensúlyozottságodat, stabilitásodat, illetve hogy mennyire vagy képes uralni indulataidat, hangulataidat. Fontos összetevője a fájdalom elviselésének is és az Asztrális mágiaellenállásnak.
 
@@ -266,7 +266,7 @@ beszédéből, mozdulataiból ránézésre látszik, ha valami baja van.
 `+5:` Megingathatatlan kőszikla. Tökéletesen uralja érzelmeit, teljesen el tud vonatkoztatni tőlük, kibillenteni szinte lehetetlen. Határozott, elképzeléseit mindig megvalósítja, a lehetetlen számára ismeretlen fogalom. Képes érzelmeit olyan fokon uralni, hogy külső jeleiből (testbeszéd, hang) képtelenség lelkiállapotára következtetni - leginkább egy gépre, vagy jégcsapra hasonlít. A fentiek a mágikus detektálásokat természetesen nem befolyásolják.
 
 ---
-### Érzékenység ⏹️
+### ⚪ Érzékenység ⏹️
 
 Az Érzékenység részben a külvilág (leginkább más lények) rezdüléseinek érzékelését jeleníti. Ezen felül kisebb mértékben az érzelmi gazdagságot is jelképezi, de inkább a „detektáló" jellegű összetevő a kiemelt.
 
