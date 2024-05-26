@@ -46,12 +46,15 @@ Mágiában kisebb/nagyobb mellékhatások jelennek meg, különösen nagy hatalm
 
 ---
 ## Szociális ismeretek
-Szociális képzettségekből egyedül az "**Etikett**" létezik, a meggyőzés, megfélemlítés, átverés jellegű szituációk a KM és a játékos közti párbeszéden, illetve az elképzelt karakteren múlik, ezeket csak kapcsolódó fortélyok könnyíthetik meg, de nem pótolhatják. Az ilyen jellegű helyzetek eredménye egy "**Emberismeret**" képzettségpróba, ahol a célszámot a KM határozza meg az előadás alapján, így a rendszer a **_szerep-játékra_** helyezi a hangsúlyt - szemben például egy számítógépes játékkal, ahol ezen értékek is mind számszerűsítve vannak. Az élő játék egyik legnagyobb előnyét fontosnak tartottuk kiemelten kezelni.
 
-A km100 rendszerében nincsenek kasztok, egyes jellemzőket szabad pontokból, másokat KP elköltésével lehet növelni.
+Az "**Etikett**", **Befolyásolás** és **Emberismeret** képzettségek fedik le ezt az ismerethalmazt, de a meggyőzés, megfélemlítés, átverés jellegű szituációk nem intézhetőek el tisztán egy **Befolyásolás** vs. **Emberismeret** kockadobással - rengeteg múlik a KM és a játékos közti párbeszéden, illetve az elképzelt karaktereken is. A dobást kapcsolódó fortélyok még tovább könnyíthetik, de a szerepjáték részt nem pótolhatják. Bővebben lásd a [Befolyásolás](md/kepzettsegek/befolyasolas.md) képzettség leírását és a "pszeudo-Tulajdonság" bemutatását.
+
+A rendszer a **_szerep-játékra_** helyezi a hangsúlyt - szemben például egy számítógépes játékkal, ahol minden szociális szituáció dobással kerül elintézésre. Az élő játék egyik legnagyobb előnyét fontosnak tartottuk kiemelten kezelni.
 
 ---
 ## Számok
+
+A km100 rendszerében nincsenek kasztok, egyes jellemzőket szabad pontokból, másokat KP elköltésével lehet növelni.
 
 ### Ingyenes pontok
 
