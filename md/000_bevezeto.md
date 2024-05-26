@@ -4,7 +4,7 @@
 
 Üdvözlünk a km100 szerepjáték rendszer oldalain! Hadd adjunk egy rövid áttekintést, miről is olvashatsz a következő fejezetekben!
 
-Elsőnek segítünk megalkotni a játékban megszemélyesített szereplődet a [Karakteralkotás](010_karakteralkotas.md) fejezetben, akivel más hősökkel együtt, csapatban, számos veszélyes helyzettel dacolhattok, élhettek át veszélyes kalandokat. Az ilyen szituációkban előkerülnek a kardok, a páncélok és a taktikázás. A [Harcrendszer](060_00_harcrendszer.md) fejezetben az ilyen pusztakezes, vagy távolsági hadakozás szabályait taglaljuk.
+Elsőnek segítünk megalkotni a játékban megszemélyesített szereplődet a [Karakteralkotás](010_karakteralkotas.md) fejezetben, akivel más hősökkel együtt, csapatban, számos veszélyes helyzettel dacolhattok, élhettek át misztikus kalandokat. Az ilyen szituációkban előkerülnek a kardok, a páncélok és a taktikázás. A [Harcrendszer](060_00_harcrendszer.md) fejezetben az ilyen pusztakezes, vagy távolsági hadakozás szabályait taglaljuk.
 
 A M* világán nem az acél az egyetlen fegyver, vagy óvó erő. Szellemi energiáidat a [Pszí](080_pszi.md), mágikus hatalmadat a [Mágiarendszer](090_magiarendszer.md) fejezetekben terjesztheted ki. A számos összecsapás során sebeket osztasz és szenvedsz el. A [Gyógyítás, Gyógyulás](120_gyogyitas_gyogyulas.md) fejezet ennek a folyamatát fedi le, a [Méregrendszer](130_meregrendszer.md) a sunyibb megoldások alkalmazóinak mutathat érdekes oldalakat.
 
