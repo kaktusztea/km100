@@ -23,7 +23,7 @@ NJK Karakterlap v1.2 ([odt📄](https://github.com/kaktusztea/km100/raw/master/s
 <br />
 ⚜️ ⚜️ ⚜️
 
-### [Bevezető, jelzők](000_bevezeto.md)
+### 0. [Bevezető, jelzők](000_bevezeto.md)
 
 ### 1. [Karakteralkotás](010_karakteralkotas.md)
 
