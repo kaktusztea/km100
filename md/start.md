@@ -38,8 +38,9 @@ NJK Karakterlap v1.2 ([odt📄](https://github.com/kaktusztea/km100/raw/master/s
   - [Karakteralkotó Pont (KP)](017_02_kp.md)
   - [Harcérték Módosító (HM), Célzóérték Módosító (CM)](017_03_hm_cm.md)
   - [Manőverfejlesztő Pont](017_04_mfp.md)
-  - [Mágiaellenállás](017_05_magiaellenallas.md) 🎲
-  - [Méregellenállás](017_06_meregellenallas.md) 🎲
+  - [Szabad Pontok](017_05_szp.md)
+  - [Mágiaellenállás](017_06_magiaellenallas.md) 🎲
+  - [Méregellenállás](017_07_meregellenallas.md) 🎲
 - [Nem Játékos Karakterek](018_njk.md)
 
 ---
