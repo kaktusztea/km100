@@ -85,7 +85,7 @@
 
 🔵[Nyomozás](kepzettsegek/nyomozas.md) 🅿️ <sup><sub>(50%)</sub></sup>
 
-🔵[Orvoslás](kepzettsegek/orvoslas.md) <sup><sub>(40%)</sub></sup>
+🔵[Orvoslás](kepzettsegek/orvoslas.md) 🅿️ <sup><sub>(40%)</sub></sup>
 
 🔵[Szakma](kepzettsegek/szakma.md) <sup><sub>(20%)</sub></sup> 🔁
 
