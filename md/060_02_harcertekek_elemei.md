@@ -47,7 +47,7 @@ Egyes Tulajdonságok értékei beleszámítanak a harcértékekbe. Hogy melyek a
 ---
 ### Harcérték Módosítók (HM), Célzóérték Módosítók (CM)
 
-Lásd a [Harcérték módosítók (HM) / Célzóérték módosítók (CM)](017_03_hm_cm.md) fejezetet.
+Lásd a [Harcérték módosítók (HM) / Célzóérték módosítók (CM)](019_hm_cm.md) fejezetet.
 
 ---
 ### Harcmodor képzettségek

@@ -1,11 +1,8 @@
 ## Pontok
 
-A km100 rendszerében... ⭕TODO: Bevezető⭕
+A km100 rendszerében az alábbi "költhető" pontokkal találkozhatunk.
 
-- [Életerő Pont (ÉP)](017_01_ep.md)
-- [Karakteralkotó Pont (KP)](017_02_kp.md)
-- [Harcérték Módosító (HM), Célzóérték Módosító (CM)](017_03_hm_cm.md)
-- [Manőverfejlesztő Pont](017_04_mfp.md)
-- [Szabad Pontok](017_05_szp.md)
-- [Mágiaellenállás](017_06_magiaellenallas.md)
-- [Méregellenállás](017_07_meregellenallas.md)
+- [Karakteralkotó Pont (KP)](017_01_kp.md)
+- [Szabad Pontok (SzP)](017_02_szp.md)
+- [Manőverfejlesztő Pont (MFP)](017_03_mfp.md)
+

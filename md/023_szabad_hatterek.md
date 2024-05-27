@@ -2,7 +2,7 @@
 
 <!-- tag: szabad_hatter -->
 
-A Szabad Hátterek specializált, egy, vagy több képzettséget "kiterjesztő" ismeretek. [Szabad Pontok](017_05_szp.md) (`SzP`) költésével vehetőek fel.
+A Szabad Hátterek specializált, egy, vagy több képzettséget "kiterjesztő" ismeretek. [Szabad Pontok](017_02_szp.md) (`SzP`) költésével vehetőek fel.
 
 #### Felvétel
 
