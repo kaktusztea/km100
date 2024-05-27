@@ -31,6 +31,9 @@ Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-
 
 <br />
 
+⭕TODO: A démonokra varázslás a "biztos tudás" és a "próba táblázatok" tartalmában inkonzisztens.⭕
+⭕ Egységesíteni.⭕
+
 ##### Próbák
 
 Démonokra asztrális/mentális varázslatokkal hatni nem hétköznapi feladat és a varázslás előtt `Demonológia` képzettségpróbát igényel attól függően, hogy milyen csoportba tartozó démonra varázsol az illető (persze az is megér egy misét, hogy az alkalmazó felismeri-e, hogy milyen csoportú démont vezetett elé a rossz sors). A képzettségpróba nehézségei démonokra varázslás esetében:
