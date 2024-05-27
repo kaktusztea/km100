@@ -1,6 +1,6 @@
 ## Harcérték módosítók (HM) / Célzóérték módosítók (CM)
 
-Ahogy fejlődik, megjár sok harci helyzetet, a karakter általános harcértékei fejlődnek. Ezt szimbolizálják a **Harcérték módosítók**, melyeket a játékos "vásárolhat" `KP`-ból - karaktere szintlépéseinek alkalmával.
+Ahogy fejlődik, megjár sok harci helyzetet, a karakter általános harcértékei, általános harci tapasztalata fejlődnek. Ezt szimbolizálják a **Harcérték módosítók**, melyeket a játékos "vásárolhat" `KP`-ból - karaktere szintlépéseinek alkalmával.
 
 **HM**: Harcérték Módosító\
 **CM**: Célzóérték Módosító
