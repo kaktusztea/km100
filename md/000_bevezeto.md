@@ -18,8 +18,8 @@ Alább a dokumentumban előforduló, segítő szimbólumok magyarázatát talál
 A szabályrendszer dokumentumaiban speciális unicode karaktereket használunk jelzőknek, melyek megkönnyítik az olvasást, értelemezést.
 
 ### Aktív jelzők
-⚪ Tulajdonság ⤴️ Fejleszthető Tulajdonság  ⏹️ Nem fejleszthető Tulajdonság\
-🔵 Képzettség 🟣 Fortély  🟡Háttér
+
+⚪ Tulajdonság 🔵 Képzettség 🟣 Fortély  🟡Háttér
 
 🗡️ Harci taktika, Harci szituáció vagy Manőver
 

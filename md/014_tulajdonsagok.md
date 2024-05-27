@@ -14,7 +14,7 @@ Mikor karaktert alkotsz, elképzeled magad előtt a külsejét, megálmodod a be
 A későbbiekben ezek a számok fogják alapját adni más, összetettebb jellemzőinek, számértékeinek, ezért javasolt igen áttekintően meghatározni őket. A fenti alapvető értékek leírását az ún. Tulajdonságokkal végezzük, melyekből 8 darab különbözőt definiálunk.
 
 ---
-## Tulajdonságpontok, Tulajdonság értékek megállapítása
+### Tulajdonságpontok, Tulajdonság értékek megállapítása
 
 A karakteralkotás kezdetén minden Tulajdonságod értéke `-5`. Első lépésben ossz el `64` pontot a nyolc Tulajdonságod között az alábbi táblázat szerint.\
 Megjegyzés: nem kell mindet elköltened, tartalékolhatsz is egy későbbi nagyobb „emelésre".
@@ -104,6 +104,10 @@ Emlékezet
 
 
 ---
+### Tulajdonságok bemutatása
+
+Jelölők: ⤴️ Fejleszthető Tulajdonság ⏹️ Nem fejleszthető Tulajdonság
+
 ### ⚪ Erő ⤴️
 
 ```
