@@ -12,6 +12,8 @@
 
 **Összhangok**: ⭕ ((ha nincs, törölni))
 
+**Követelmények**: ⭕ ((ha nincs, törölni))
+
 **Leírás**: xyz
 
 
