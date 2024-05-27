@@ -2,13 +2,10 @@
 
 <!-- tag: szabad_hatter -->
 
-A Szabad Hátterek specializált, egy, vagy több képzettséget "kiterjesztő" ismeretek.
-#### Szabad Pontok
-```
-Szabad Pontok = Tapasztalati Szint ⭕
-```
+A Szabad Hátterek specializált, egy, vagy több képzettséget "kiterjesztő" ismeretek. [Szabad Pontok](017_05_szp.md) (`SzP`) költésével vehetőek fel.
 
 #### Felvétel
+
 Hozzájutni ilyen Hátterekhez kétféleképpen lehet:
 1. KM adja ingyen, olyan kalandban történt megpróbáltató esemény után, ami ezt indokolja. Például a kalandban megültél egy **Wyvernt**, ekkor megkapod a [Lénylovas - Wyvern](hatterek.szabad/lenylovas.md) Szabad Hátteret ingyen.
 2.  Szabad Pontokból (SzP) felveszel **Szabad Hátteret**.
