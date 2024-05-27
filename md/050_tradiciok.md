@@ -42,7 +42,7 @@ Milyen Tradíciókat ismer a km100 rendszere?
 
 ### Tradíciók követelményei
 
-Minden Tradíciónak vannak valamilyen követelményei, ezekt bővebben lásd az adott Tradíció leírásában.
+Minden Tradíciónak vannak valamilyen követelményei, ezeket bővebben lásd az adott Tradíció leírásában.
 
 ### Írástudó fortély extra
 
