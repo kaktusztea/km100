@@ -1,7 +1,3 @@
-
-Mikor két teremtmény fegyvert ragad és ütésekkel, szúrásokkal, vágásokkal, karmolással, harapással próbálják legyőzni egymást, akkor bizony **Fegyveres harcról** beszélünk.
-
----
 ## Harcértékek felépítése
 
 A karaktert a harcban harcértékei jellemzik. Ezek mutatják meg, hogy mennyire képzett a küzdelem egyes területein. Alapvetően négy érték határozza meg az aktuális harcértékeket, melyek szituációtól, forgatott fegyvertől, illetve harcmodortól függően változhatnak. Ezek a
@@ -56,7 +52,7 @@ A km100 rendszere az alábbi (Primer) harci képzettségeket ismeri:
 
 **Közelharc, Kardvívás, Lándzsavívás, Zúzás, Hajítás, Íjászat, Lövészet, Ostromlövészet**
 
-- **Közelharc**: Rövid (0) pengehosszú fegyverek
+- **Közelharc**: Rövid (0) pengehosszú fegyverek, puszta kéz
 - **Kardvívás**: minden további „pengés” fegyver (kétkezes kard is)
 - **Zúzás**: zúzófegyverek, csatabárdok, csákány
 - **Lándzsavívás**: Szálfegyverek
@@ -106,12 +102,4 @@ Minden nem-távolsági Harcmodor harmadik (`3.`) képzettség szintje `1` db ún
 ---
 ### Mesterfegyver fortély
 
-A legtöbb esetben egy karakternek van egy (vagy több) fegyver típusa, amelyet előnyben részesít, gyakran forgat egy harcmodoron belül. A **Mesterfegyver fortély** segítségével egyes fegyverek harcértékeit tovább növelheti, így elszakadva kicsit tudásban a harcmodor többi fegyverétől. A Mesterfegyver fortélyt legfeljebb `3.fokon` lehet felvenni az alábbi követelményekkel és jutalmakkal:
-
-|   Fok   |        Követelmény        |  KÉ  |  TÉ  |  VÉ  | Sebzés |
-| :-----: | :-----------------------: | :--: | :--: | :--: | :----: |
-| `1.fok` | `4.szint` a harcmodorban  | `+2` | `+3` | `+3` |  `+1`  |
-| `2.fok` | `8.szint` a harcmodorban  | `+4` | `+6` | `+6` |  `+2`  |
-| `3.fok` | `12.szint` a harcmodorban | `+6` | `+9` | `+9` |  `+3`  |
-
-Bizonyos manővereknek követelménye lehet ennek a fortélynak valamely foka, melyet csak az adott fegyverrel képes végrehajtani a forgatója. Például: „Mesterjel”
+A kapott bónuszokat, módosítókat lásd a [Mesterfegyver](fortelyok.harci/mesterfegyver.md) fortély leírásában.
