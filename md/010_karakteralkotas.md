@@ -20,7 +20,6 @@
   - [Méregellenállás](017_07_meregellenallas.md) 🎲
 - [Nem Játékos Karakterek](018_njk.md)
 
-
 ---
 
 Mikor karaktert alkotsz, először fejben elképzeled a küllemét, a jellemét, a származását, hogy mihez ért, miben jó, milyen ismereteket tanult eddigi pályafutása során.
@@ -33,12 +32,12 @@ Most a [Képzettségek listáját](031_kepzettseglista.md) tekintsd át, majd el
 
 Karakteralkotó Pontjaidat [Fortélyok](040_fortelyok.md) felvételére is költheted, amelyek `[1-4]` fokúak is lehetnek. Ezek nem szélesen skálázandó, biztos tudást adhatnak, vagy egy meglevő képzettség egy aspektusának erősítését végezhetik - jellemzően `+2` bónuszt adva. A [Pszí alkalmazás](fortelyok.misztikus/pszi_alkalmazas.md) is itt található.
 
-A [Hátterek](020_hattererek.md) számos érdekes aspektussal ruházhatják fel karakteredet. Az egyes fajok mind [Faj-Háttereként](021_faj_hatterek.md) vehetőek fel, limitációik és - érzékeiket érintő - kapcsolódó fortélyaikat ott találod meg. A [Kiemelt Hátterek](022_kiemelt_hatterek.md) három egyedi ismeretet adnak, amelyekre nem kell `KP`-t költened. A [Szabad Hátterek](023_szabad_hatterek.md) - melyeket [Szabad Pontok](017_05_szp.md) elköltésével vehetsz fel - specializált, egy, vagy több képzettséget "kiterjesztő" ismeretek. Ha rendelkezel egy ilyen területtel, akkor adott képzettség(ek)kel `-3` büntetés **nélkül** dobhatsz ilyen jellegű próbáknál.
-
+⭕TODO: Mf
 
 ⭕TODO: HM, CM elköltése
 
-⭕TODO: Mf
+A [Hátterek](020_hattererek.md) számos érdekes aspektussal ruházhatják fel karakteredet. Az egyes fajok mind [Faj-Háttereként](021_faj_hatterek.md) vehetőek fel, limitációik és - érzékeiket érintő - kapcsolódó fortélyaikat ott találod meg. A [Kiemelt Hátterek](022_kiemelt_hatterek.md) három egyedi ismeretet adnak, amelyekre nem kell `KP`-t költened. A [Szabad Hátterek](023_szabad_hatterek.md) - melyeket [Szabad Pontok](017_05_szp.md) elköltésével vehetsz fel - specializált, egy, vagy több képzettséget "kiterjesztő" ismeretek. Ha rendelkezel egy ilyen területtel, akkor adott képzettség(ek)kel `-3` büntetés **nélkül** dobhatsz ilyen jellegű próbáknál.
+
 
 ⭕TODO: ÉP kiszámítása
 
