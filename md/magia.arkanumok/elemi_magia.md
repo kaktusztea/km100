@@ -79,7 +79,6 @@ Ez is képzettségpróba.
 | Nagyon gyors mozgatás,<br>Mágikus lövedék III.         |                     +15                     |                                                    TÉ=200\;VÉ:280*                                                     |
 |                                                        | ⭕Összpontosítás próba<br />nehézsége is nő⭕ |                                                                                                                        |
 
-
 🔆Fontos: az idézett forma TÉ/VÉ-je nem lehet nagyobb a varázsló harcértékeinél - kivéve, ha mentálisan összeköt egy képzettebb harcost a varázslattal. Az ilyesmi már igazán magas szintű mágiának számít.
 
 
