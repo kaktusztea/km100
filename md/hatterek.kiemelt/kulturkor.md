@@ -1,4 +1,4 @@
-#### 🟣 Kultúrkör (adott kultúrkör) 🔁
+#### 🟡 Kultúrkör (adott kultúrkör) 🔁
 
 ```
 - 1 fokú

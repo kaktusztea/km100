@@ -1,4 +1,4 @@
-#### 🟣 Zsonglőrködés
+#### 🟡 Zsonglőrködés
 
 ##### Kiterjeszti ezeket:
 - [Előadóművészet](../kepzettsegek/eloadomuveszet.md)

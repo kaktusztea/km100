@@ -1,4 +1,4 @@
-#### 🟣 Térképészet
+#### 🟡 Térképészet
 
 ##### Kiterjeszti ezeket:
 - [Tudományok](../kepzettsegek/tudomanyok.md)

@@ -1,4 +1,4 @@
-#### 🟣 Lénylovas (faj neve) 🔁
+#### 🟡 Lénylovas (faj neve) 🔁
 
 ##### Kiterjeszti ezeket:
   - [Lovaglás](../kepzettsegek/lovaglas.md) 

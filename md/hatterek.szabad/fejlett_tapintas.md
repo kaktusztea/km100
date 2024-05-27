@@ -1,4 +1,4 @@
-#### 🟣 Fejlett tapintás
+#### 🟡 Fejlett tapintás
 
 ##### Kiterjeszti ezeket:
 - Érzékenység Tulajdonságodat segíti tapintás esetén

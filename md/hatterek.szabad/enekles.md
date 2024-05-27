@@ -1,4 +1,4 @@
-#### 🟣 Éneklés
+#### 🟡 Éneklés
 
 ##### Kiterjeszti ezeket:
 - [Előadóművészet](../kepzettsegek/eloadomuveszet.md)

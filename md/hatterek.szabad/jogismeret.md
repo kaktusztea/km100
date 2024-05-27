@@ -1,4 +1,4 @@
-#### 🟣 Jogismeret
+#### 🟡 Jogismeret
 
 ##### Kiterjeszti ezeket:
 - [Nyomozás](../kepzettsegek/nyomozas.md)

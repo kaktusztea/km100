@@ -1,4 +1,4 @@
-#### 🟣 Helyismeret (városnyi terület) (3) 🔁
+#### 🟡 Helyismeret (városnyi terület) (3) 🔁
 ```
 - többször felvehető
 - 3 fokú

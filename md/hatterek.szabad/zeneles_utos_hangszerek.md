@@ -1,4 +1,4 @@
-#### 🟣 Zenélés: ütős hangszerek
+#### 🟡 Zenélés: ütős hangszerek
 
 Képes vagy ütős hangszereket megszólaltatni. Amely **Kultúrköröket** ismersz, azok zenéit **Előadóművészet** képzettséged szintjének megfelelően elő is tudod adni.
 

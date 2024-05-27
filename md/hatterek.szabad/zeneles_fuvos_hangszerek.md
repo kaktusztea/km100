@@ -1,4 +1,4 @@
-#### 🟣 Zenélés: fúvós hangszerek
+#### 🟡 Zenélés: fúvós hangszerek
 
 Képes vagy fúvós hangszereket megszólaltatni. Amely **Kultúrköröket** ismersz, azok zenéit **Előadóművészet** képzettséged szintjének megfelelően elő is tudod adni.
 

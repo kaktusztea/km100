@@ -1,4 +1,4 @@
-#### 🟣 Színjátszás
+#### 🟡 Színjátszás
 
 Képes vagy színpadi műveket előadni, előadásban részt venni. Ismered a színházi világot. Bábszínház előadások ismerete, árnyjátékok ismerete is ide tartozik.
 

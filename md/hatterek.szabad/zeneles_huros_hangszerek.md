@@ -1,4 +1,4 @@
-#### 🟣 Zenélés: húros hangszerek
+#### 🟡 Zenélés: húros hangszerek
 
 Képes vagy húros hangszereket megszólaltatni. Amely **Kultúrköröket** ismersz, azok zenéit **Előadóművészet** képzettséged szintjének megfelelően elő is tudod adni.
 

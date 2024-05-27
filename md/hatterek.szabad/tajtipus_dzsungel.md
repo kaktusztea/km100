@@ -1,4 +1,4 @@
-#### 🟣 Tájtípus - dzsungel
+#### 🟡 Tájtípus - dzsungel
 
 Ismered a dzsungel környezetet.
 

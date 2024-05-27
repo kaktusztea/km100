@@ -1,4 +1,4 @@
-#### 🟣 Tánc
+#### 🟡 Tánc
 
 Amely **Kultúrköröket** ismersz, azok táncait **Előadóművészet** képzettséged szintjének megfelelően járni is tudod.
 ##### Kiterjeszti ezeket:

@@ -1,4 +1,4 @@
-#### 🟣 Festészet
+#### 🟡 Festészet
 
 ##### Kiterjeszti ezeket:
 - [Képzőművészet](../kepzettsegek/kepzomuveszet.md)

@@ -1,4 +1,4 @@
-🟣 Fejlett ízlelés
+🟡 Fejlett ízlelés
 ##### Kiterjeszti ezeket:
 - Érzékenység Tulajdonságodat segíti ízlelés esetén
 

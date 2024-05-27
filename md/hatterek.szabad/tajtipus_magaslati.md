@@ -1,4 +1,4 @@
-#### 🟣 Tájtípus - magaslati
+#### 🟡 Tájtípus - magaslati
 
 Ismered a magaslati, sarkvidéki környezetet.
 

@@ -1,4 +1,4 @@
-#### 🟣 Nyelvismeret 🔁
+#### 🟡 Nyelvismeret 🔁
 
 A nyelvek ismerete **nem kerül** sem `KP`-ba, sem `SzP`-be.
 

@@ -1,4 +1,4 @@
-#### 🟣 Hazudozás
+#### 🟡 Hazudozás
 
 "Arra mentek!"
 ##### Kiterjeszti ezeket:
