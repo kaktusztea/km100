@@ -18,8 +18,8 @@ Alább a dokumentumban előforduló, segítő szimbólumok magyarázatát talál
 A szabályrendszer dokumentumaiban speciális unicode karaktereket használunk jelzőknek, melyek megkönnyítik az olvasást, értelemezést.
 
 ### Aktív jelzők
-⚪ Tulajdonság 🔵 Képzettség 🟣 Fortély  🟡Háttér\
-⤴️ Fejleszthető Tulajdonság  ⏹️ Nem fejleszthető Tulajdonság
+⚪ Tulajdonság ⤴️ Fejleszthető Tulajdonság  ⏹️ Nem fejleszthető Tulajdonság
+🔵 Képzettség 🟣 Fortély  🟡Háttér
 
 🗡️ Harci taktika, Harci szituáció vagy Manőver
 
@@ -27,7 +27,7 @@ A szabályrendszer dokumentumaiban speciális unicode karaktereket használunk j
 
 ⚡ Példa
 
-⚜️ Példatörténet
+⚜️ Fejezetcím, elválasztó, példatörténet
 
 🔆 Magyarázat, megjegyzés
 
@@ -44,6 +44,4 @@ A szabályrendszer dokumentumaiban speciális unicode karaktereket használunk j
 
 👀 [FIGYELT ELEM](https://github.com/kaktusztea/km100/wiki/FIGYELT-ELEMEK): a megjelölt részt figyelni kell egyensúly szempontból.
 
-🚧 In progress
-
-💡 Ötlet
+🚧 Fejlesztése folyamatban
