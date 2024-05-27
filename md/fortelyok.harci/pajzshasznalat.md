@@ -5,11 +5,11 @@ Ismered a fegyvereket remekül kiegészítő pajzsok használatát.
 ⭕MGT: változzon foktól függően, vagy ne? A fizikai képzettség- és tulajdonság-próbákra mindenképpen. Az MGT amúgy más levonást ne adjon szerintem...⭕
 
 
-| Pajzs | VÉ  | MGT | TÉ levonás képzetlenül | TÉ levonás 1.fok | TÉ levonás 2.fok |
-| :----------- | :----------- | :----------- | :----------- | :----------- | :----------- |
-| Kis pajzs | 10 | ⭕ | -10 TÉ | 0 | 0 |
-| Közepes pajzs | 20  | ⭕ | -15 TÉ | -5 TÉ | 0 |
-| Nagy pajzs | 30 | ⭕ | -20 TÉ | -10 TÉ | 0 |
+| Pajzs         | VÉ  | MGT | TÉ levonás képzetlenül | TÉ levonás 1.fok | TÉ levonás 2.fok |
+| :------------ | :-- | :-- | :--------------------- | :--------------- | :--------------- |
+| Kis pajzs     | 10  | ⭕   | -10 TÉ                 | 0                | 0                |
+| Közepes pajzs | 30  | ⭕   | -15 TÉ                 | -5 TÉ            | 0                |
+| Nagy pajzs    | 50  | ⭕   | -20 TÉ                 | -10 TÉ           | 0                |
 
 <br />
 
