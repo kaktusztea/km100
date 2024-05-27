@@ -6,7 +6,7 @@ Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-
 
 **Domináns Tulajdonságok**: Intelligencia, Emlékezet
 
-**Kapcsolódó fortélyok**: [Élettan](../fortelyok.altalanos/elettan.md)⭕
+**Kapcsolódik**: [Élettan](../fortelyok.altalanos/elettan.md)⭕
 
 **Szabad Hátterek kiterjesztik**: ⭕
 - [Asztrológia](../hatterek.szabad/asztrologia.md)

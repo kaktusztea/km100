@@ -9,11 +9,7 @@ Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-
 ---
 **Próba:** ⭕dobható / ⭕nincs, csak biztos tudásból
 
-**Domináns Tulajdonságok**: xyz
-
-**Kapcsolódó fortélyok**: xyz
-
-**Szabad Hátterek kiterjesztik**: ⭕
+**Domináns Tulajdonságok**: Emlékezet
 
 **Leírás**: xyz
 
@@ -47,8 +43,3 @@ Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-
 ##### Célszámot módosító körülmények
 
 - ⭕xyz
-
----
-
-
-*Megjegyzés a kidolgozáshoz: [Összhangok](../030_kepzettsegrendszer.md#összhangok). Bizonyos képzettségek "besegíthetnek" az adott képzettségbe, ezt nevezzük Összhangnak. Amennyiben ilyen előfordul az adott képzettségnél, akkor a "Próbák" bekezdés fölé illesszünk be egy "Összhangok" bekezdést.*

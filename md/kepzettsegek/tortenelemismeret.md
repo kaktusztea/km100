@@ -8,8 +8,6 @@ Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-
 
 **Domináns Tulajdonságok**: Emlékezet, Intelligencia
 
-**Kapcsolódó fortélyok**: -
-
 **Szabad Hátterek kiterjesztik**: ⭕
 - [Kultúrkör](../hatterek.kiemelt/kulturkor.md)
 - [Heraldika](../hatterek.szabad/heraldika.md)

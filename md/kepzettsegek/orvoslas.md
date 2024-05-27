@@ -10,8 +10,6 @@ Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-
 
 **Kapcsolódó fortélyok**:  [Élettan](../fortelyok.altalanos/elettan.md)
 
-**Szabad Hátterek kiterjesztik**: ⭕
-
 **Leírás**: Igen sokszintű képzettség, amely alacsony szinten a betegségek és sebek kezelését gyógyszerekkel, kencékkel, magasabb szinten félmágikus energiaátadással végzi. Az Orvoslás tehát magában foglalja a sebgyógyítást és nagyon fejlett szinten a gyógyítást is.
 
 A képzettség az alábbi tevékenységeket fedi le:

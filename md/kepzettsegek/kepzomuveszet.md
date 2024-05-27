@@ -4,16 +4,13 @@
 
 **Domináns Tulajdonságok**: Érzékenység, Ügyesség
 
-**Kapcsolódó fortélyok**: ⭕xyz
+**Kapcsolódik**: [Kultúrkör](../hatterek.kiemelt/kulturkor.md) (kapcsolódó kultúra)
 
-**Szabad Hátterek kiterjesztik**: ⭕
-- [Kultúrkör](../hatterek.kiemelt/kulturkor.md) (kapcsolódó kultúra)
-.
+**Szabad Hátterek kiterjesztik**:
 - [Festészet](../hatterek.szabad/festeszet.md)
 - [Irodalom](../hatterek.szabad/irodalom.md)
 - [Kalligráfia](../hatterek.szabad/kalligrafia.md)
 - [Szobrászat](../hatterek.szabad/szobraszat.md)
-
 
 **Leírás**: Aktív, alkotó művész vagy. A fenti művészetek listájából a képzettség felvételekor `1 db` választott Szabad-Hátteret ingyen megkapsz, a többit [Szabad Háttérként](../023_szabad_hatterek.md) veheted fel.
 

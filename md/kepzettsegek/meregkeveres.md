@@ -8,7 +8,7 @@ Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-
 
 **Domináns Tulajdonságok**: Emlékezet, Önuralom, Intelligencia
 
-**Kapcsolódó fortélyok**: -
+**Kapcsolódó fortélyok**: ⭕
 
 **Szabad Hátterek kiterjesztik**: ⭕
 

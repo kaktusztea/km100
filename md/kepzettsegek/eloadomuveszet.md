@@ -4,8 +4,6 @@
 
 **Domináns Tulajdonságok**: Érzékenység, Emlékezet
 
-**Kapcsolódó fortélyok**: ⭕xyz
-
 **Szabad Hátterek kiterjesztik**:
 - [Kultúrkör](../hatterek.kiemelt/kulturkor.md)
 - [Éneklés](../hatterek.szabad/enekles.md)

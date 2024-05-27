@@ -8,7 +8,7 @@
 
 **Domináns Tulajdonságok**: Ügyesség, Intelligencia, Önuralom, Érzékenység
 
-**Kapcsolódó fortélyok**: [Százarcú](../fortelyok.altalanos/szazarcu.md), [Kaméleon](../fortelyok.altalanos/kameleon.md)
+**Kapcsolódódik**: [Százarcú](../fortelyok.altalanos/szazarcu.md), [Kaméleon](../fortelyok.altalanos/kameleon.md)
 
 **Szabad Hátterek kiterjesztik**: ⭕
 

@@ -4,7 +4,7 @@ Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-
 
 **Kapcsolódó főfejezet**: [Érzékelés, észlelés](../140_erzekeles_eszleles.md)
 
-**Próba**: dobható, és nincs kiemelt szinteken megkapott biztos tudás
+**Próba**: dobható
 
 **Domináns Tulajdonságok**: Érzékenység (fizikai érzékekre is ez használandó), Intelligencia
 
@@ -18,6 +18,8 @@ A képzettség szituációs alkalmazásáról bővebben az [Érzékelés, észle
 <br />
 
 ##### Biztos tudás, követelmények
+
+Nincs kiemelt szinteken megkapott biztos tudás.
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub>                                           |   Követelmény    |
 | :--------------- | :--------------------------------------------------------------------------------------------------------------------------- | :--------------: |

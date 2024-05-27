@@ -2,12 +2,6 @@
 
 **Próba:** nincs, csak biztos tudásból
 
-**Domináns Tulajdonságok**: Ügyesség
-
-**Kapcsolódó fortélyok**: -
-
-**Szabad Hátterek kiterjesztik**: ⭕
-
 **Leírás**:\
 A harcmodorok a közvetlenül, fegyverrel való harc képességét fedik le. Kategóriánként külön-külön fel kell venni rájuk a képzettséget.\
 Alább összesen 4 különálló ilyen harcmodor képzettség általános leírását találjuk:
