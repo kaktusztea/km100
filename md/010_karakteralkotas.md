@@ -38,6 +38,7 @@ Karakteralkotó Pontjaidat [Fortélyok](040_fortelyok.md) felvételére is költ
 
 A [Hátterek](020_hattererek.md) számos érdekes aspektussal ruházhatják fel karakteredet. Az egyes fajok mind [Faj-Háttereként](021_faj_hatterek.md) vehetőek fel, limitációik és - érzékeiket érintő - kapcsolódó fortélyaikat ott találod meg. A [Kiemelt Hátterek](022_kiemelt_hatterek.md) három egyedi ismeretet adnak, amelyekre nem kell `KP`-t költened. A [Szabad Hátterek](023_szabad_hatterek.md) - melyeket [Szabad Pontok](017_05_szp.md) elköltésével vehetsz fel - specializált, egy, vagy több képzettséget "kiterjesztő" ismeretek. Ha rendelkezel egy ilyen területtel, akkor adott képzettség(ek)kel `-3` büntetés **nélkül** dobhatsz ilyen jellegű próbáknál.
 
+⭕TODO: Pontok említése egy helyen, vagy sorban??
 
 ⭕TODO: ÉP kiszámítása
 
