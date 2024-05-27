@@ -130,11 +130,11 @@ Az aktív előadást igénylő művészeteket szeparáltuk az **Előadóművész
 
 🔵[Hadvezetés](kepzettsegek/hadvezetes.md) <sup><sub>(0%)</sub></sup> 
 
-🔵[Méregkeverés](kepzettsegek/meregkeveres.md) <sup><sub>(90%)</sub></sup>
+🔵[Méregkeverés](kepzettsegek/meregkeveres.md) 🅿️ <sup><sub>(90%)</sub></sup>
 
-🔵[Történelemismeret](kepzettsegek/tortenelemismeret.md) <sup><sub>(40%)</sub></sup> 
+🔵[Történelemismeret](kepzettsegek/tortenelemismeret.md) 🅿️ <sup><sub>(40%)</sub></sup> 
 
-🔵[Tudományok](kepzettsegek/tudomanyok.md) <sup><sub>(10%)</sub></sup>
+🔵[Tudományok](kepzettsegek/tudomanyok.md) 🅿️ <sup><sub>(10%)</sub></sup>
 
 ---
 ## Misztikus képzettségek 🅿️
