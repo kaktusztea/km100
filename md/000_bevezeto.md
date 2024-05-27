@@ -19,7 +19,7 @@ A szabályrendszer dokumentumaiban speciális unicode karaktereket használunk j
 
 ### Aktív jelzők
 
-⚪ Tulajdonság 🔵 Képzettség 🟣 Fortély  🟡Háttér
+⚪ Tulajdonság 🔵 Képzettség 🟣 Fortély  🟡 Háttér
 
 🔁 Többször felvehető ismeret
 
