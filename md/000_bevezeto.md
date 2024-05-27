@@ -25,7 +25,7 @@ A szabályrendszer dokumentumaiban speciális unicode karaktereket használunk j
 
 🗡️ Harci taktika, Harci szituáció vagy Manőver
 
-🔻 Követelmény, limit
+✨ Mágia
 
 ⚡ Példa
 
@@ -33,7 +33,7 @@ A szabályrendszer dokumentumaiban speciális unicode karaktereket használunk j
 
 🔆 Magyarázat, megjegyzés
 
-✨ Mágia
+🔻 Követelmény, limit
 
 ---
 ### Fejlesztést támogató jelzők
