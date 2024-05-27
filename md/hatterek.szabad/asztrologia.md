@@ -1,4 +1,4 @@
-#### 🟣 Asztrológia
+#### 🟡 Asztrológia
 
 ##### Kiterjeszti ezeket:
 - [Tudományok](../kepzettsegek/tudomanyok.md)

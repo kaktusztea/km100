@@ -1,4 +1,4 @@
-#### 🟣 Boncolás (faj neve) 🔁
+#### 🟡 Boncolás (faj neve) 🔁
 
 ##### Kiterjeszti ezeket:
 - [Harci anatómia](../fortelyok.harci/harci_anatomia.md) FORTÉLY!⭕

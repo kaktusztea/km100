@@ -1,4 +1,4 @@
-#### 🟣 Titkos szervezeti kultúra 🔁
+#### 🟡 Titkos szervezeti kultúra 🔁
 
 ##### Kiterjeszti ezeket:
 - [Etikett](../kepzettsegek/etikett.md)

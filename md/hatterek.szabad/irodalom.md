@@ -1,4 +1,4 @@
-#### 🟣 Irodalom
+#### 🟡 Irodalom
 
 ##### Kiterjeszti ezeket:
 - [Előadóművészet](../kepzettsegek/eloadomuveszet.md)

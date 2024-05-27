@@ -1,4 +1,4 @@
-#### 🟣 Pénzügyek
+#### 🟡 Pénzügyek
 
 ##### Kiterjeszti ezeket:
 - [Nyomozás](../kepzettsegek/nyomozas.md)

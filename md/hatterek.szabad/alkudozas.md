@@ -1,4 +1,4 @@
-#### 🟣 Alkudozás
+#### 🟡 Alkudozás
 
 "Micsoda? A felét nem éri! Félkegyelműnek tűnök talán?!"
 

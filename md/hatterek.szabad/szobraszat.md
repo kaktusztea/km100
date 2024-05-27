@@ -1,4 +1,4 @@
-#### 🟣 Szobrászat
+#### 🟡 Szobrászat
 
 ##### Kiterjeszti ezeket:
 - [Képzőművészet](../kepzettsegek/kepzomuveszet.md)

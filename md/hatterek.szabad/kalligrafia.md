@@ -1,4 +1,4 @@
-#### 🟣 Kalligráfia
+#### 🟡 Kalligráfia
 
 ##### Kiterjeszti ezeket:
 - [Képzőművészet](../kepzettsegek/kepzomuveszet.md)

@@ -28,7 +28,7 @@ Versenyeken, klubokban csak és kizárólag az itt leírt Karmákat adhatja meg 
 - [Profán](#-prof%C3%A1n)
 
 ---
-### 🟣 Alkoholista
+### 🟡 Alkoholista
 
 #### Követelmény
 No comment 🙂
@@ -40,7 +40,7 @@ No comment 🙂
 
 
 ---
-### 🟣 Bajnok
+### 🟡 Bajnok
 
 #### Követelmény
 Hasonlít a hősre, de már nem feltétlenül kell jónak lennie. A hőstettei egyetlen csoportra korlátozódnak. Ő a csoport hőse, egymaga hoz dicsőséget / védelmezi meg / viszi győzelemre a csoportot. Pl: Achilles
@@ -52,7 +52,7 @@ Hasonlít a hősre, de már nem feltétlenül kell jónak lennie. A hőstettei e
 
 
 ---
-### 🟣 Bukott gyógyító
+### 🟡 Bukott gyógyító
 
 #### Követelmény
 Halott feltámasztással próbálkoztál kézrátétellel, de szerencsétlenségedre a művelet Nekromanciába fordult, a lélek már eltávozott és erővel rángattad vissza.
@@ -64,7 +64,7 @@ Soha többet nem leszel képes kézrátétellel gyógyítani, Gyógyítás képz
 
 
 ---
-### 🟣 Gyerekgyilkos
+### 🟡 Gyerekgyilkos
 
 #### Követelmény
 Szándékosan gyereket ölt.
@@ -76,7 +76,7 @@ Az ilyen karma lemoshatatlan, aurán jól látható mocskos szégyenfolt.<br />T
 
 
 ---
-### 🟣 Gyilkos
+### 🟡 Gyilkos
 
 #### Követelmény
 Minimum 100 sikeres orvgyilkosság.
@@ -88,7 +88,7 @@ A rengeteg gyilkosság megmérgezte a lelkedet, ha nem leplezed, Aurádon jól l
 
 
 ---
-### 🟣 Hírhedt
+### 🟡 Hírhedt
 
 #### Követelmény
 zámos, nagy port kavart ügyben részt vettél, amiben neved, fizimiskád is említésre került.
@@ -100,7 +100,7 @@ Híred messze megelőz. Ha aktív tevékenységed környékén lófrálsz, jó e
 
 
 ---
-### 🟣 Hős
+### 🟡 Hős
 
 #### Követelmény
 Mindig segít a bajba jutottakon, mindig kész az önfeláldozásra, mindig a jó ügy érdekében cselekszik. Aki sok-sok hőstettet hajt végre, megkapja ezt a Karmát.
@@ -112,7 +112,7 @@ Mindig segít a bajba jutottakon, mindig kész az önfeláldozásra, mindig a j�
 
 
 ---
-### 🟣 Mágikus összhang
+### 🟡 Mágikus összhang
 
 #### Követelmény
 Előtörténet, eddigi kalandok.
@@ -129,7 +129,7 @@ lásd a Mágia fejezet ⭕**„Összhang karmák”** fejezetét!⭕
 
 
 ---
-### 🟣 Profán
+### 🟡 Profán
 
 Mágikus karma.
 

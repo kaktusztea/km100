@@ -1,4 +1,4 @@
-#### 🟣 Heraldika
+#### 🟡 Heraldika
 
 Címerek ismeretét takarja.
 

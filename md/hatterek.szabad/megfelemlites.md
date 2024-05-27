@@ -1,4 +1,4 @@
-#### 🟣 Megfélemlítés
+#### 🟡 Megfélemlítés
 
 "Kár lenne ezért a szép mellényért, nehezen jön ki belőle a vér..."
 

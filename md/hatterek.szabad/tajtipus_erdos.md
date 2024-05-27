@@ -1,4 +1,4 @@
-#### 🟣 Tájtípus - erdős
+#### 🟡 Tájtípus - erdős
 
 Ismered az erdős környezetet.
 
