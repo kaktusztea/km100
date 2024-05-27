@@ -269,7 +269,7 @@ Az alábbiakban bemutatjuk a km100 által ismert manővereket. A KM bármikor r�
 
 ---
 ---
-### 💪  Fejleszthető manőverek
+### 💪 Fejleszthető manőverek
 
 ```
 +2 Manőver Pont jár tanult fokonként
@@ -365,7 +365,7 @@ Lásd: [Kibontakozás/Átsiklás](#%EF%B8%8Fkibontakozásátsiklás) manőver.
 - Hatás: Sikeresen kihúztad szálfegyvereddel ellenfeled lábát, aki a földre zuhan. Felállnia csak sikeres „**Felállás földről**” manőver alkalmazásával sikerülhet. A továbbiakban a **Harc földön fekve** módosítói vonatkoznak rá.
 
 ---
-#### 💪Lánccsapda  (láncos fegyverekre)
+#### 💪 Lánccsapda  (láncos fegyverekre)
 
 - Nehézség: `9`
 - Fázisok: `E V`
@@ -384,7 +384,7 @@ Lásd: [Kibontakozás/Átsiklás](#%EF%B8%8Fkibontakozásátsiklás) manőver.
 
 
 ---
-#### 💪Lefegyverzés / Fegyvertörés - egy konkrét harcmodorra
+#### 💪 Lefegyverzés / Fegyvertörés - egy konkrét harcmodorra
 
 Ha meg akarod fosztani ellenfeledet fegyverétől, vagy kiütve kezéből, vagy annak eltörésével, akkor lefegyverezés manővert kell alkalmaznod.
 
@@ -405,23 +405,7 @@ Ha meg akarod fosztani ellenfeledet fegyverétől, vagy kiütve kezéből, vagy 
 - Hatás: A lefegyverzés sikeres. Ellenfeled kezéből kihullik a fegyver, vagy eltörik.
 
 ---
-#### 💪Lefejelés
-⭕Belharcot előbb!⭕
-
-- Nehézség: `8/5`
-- Fázisok: `E V`
-- Max fok: `1`
-- Végbevitel követelménye:
-	-  xyz
-- Speciális:
-	- Belharcban a nehézség csak 5
-	- Nem szükséges Belharc fortély
-	- ⭕Ellenfél képzett belharcos: lásd leírás⭕
-	- ⭕TODO: állatoknak általában van Belharcuk! (KM dönt)⭕
-- Hatás: Arcon fejelted áldozatodat.
-
----
-#### 💪Mesterjel
+#### 💪 Mesterjel
 
 - Nehézség: `10+12`🍁
 - Fázisok: `E V`
@@ -434,7 +418,7 @@ Ha meg akarod fosztani ellenfeledet fegyverétől, vagy kiütve kezéből, vagy 
 
 
 ---
-#### 💪Pajzsrongálás
+#### 💪 Pajzsrongálás
 
 Szándékosan rongálod ellenfeled pajzsát, csökkentve annak Védő Értékét.
 
@@ -472,7 +456,7 @@ Szándékosan rongálod ellenfeled pajzsát, csökkentve annak Védő Értékét
 
 
 ---
-#### 💪Távoltartás⭕
+#### 💪 Távoltartás⭕
 
 Nem támadsz, hanem ⭕TODO⭕
 
@@ -485,7 +469,7 @@ Nem támadsz, hanem ⭕TODO⭕
 
 
 ---
-#### 💪Terelés
+#### 💪 Terelés
 
 - Nehézség: `8`🍁
 - Fázisok: `E`
@@ -562,6 +546,23 @@ Nem támadsz, hanem ⭕TODO⭕
 	- Belharci szituáció
 	- Belharc – `⭕2⭕.fok`
 - Hatás: kitörted ellenfeled lábát, ⭕`6 ÉP`⭕ sebzés
+
+
+---
+#### 🤼‍♂️ Lefejelés
+⭕Belharcot előbb!⭕
+
+- Nehézség: `8/5`
+- Fázisok: `E V`
+- Max fok: `1`
+- Végbevitel követelménye:
+	-  xyz
+- Speciális:
+	- Belharcban a nehézség csak 5
+	- Nem szükséges Belharc fortély
+	- ⭕Ellenfél képzett belharcos: lásd leírás⭕
+	- ⭕TODO: állatoknak általában van Belharcuk! (KM dönt)⭕
+- Hatás: Arcon fejelted áldozatodat.
 
 ---
 #### 🤼‍♂️ Leforgatás/Irányítás
