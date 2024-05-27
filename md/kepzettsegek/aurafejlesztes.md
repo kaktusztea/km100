@@ -4,9 +4,7 @@
 
 **Domináns Tulajdonságok**: Intelligencia, Érzékenység
 
-**Kapcsolódó fortélyok**: xyz
-
-**Szabad Hátterek kiterjesztik**: ⭕
+**Kapcsolódódik**: ⭕xyz
 
 **Leírás**: Minden élőlény rendelkezik Aurával, az élettapasztalatok során ez magától erősödik is, de lehetséges tudatosan is növelni erejét.
 Lásd: [Aura](https://github.com/kaktusztea/km100/wiki/STUDY.magia.Aura#modell-a) (⭕link véglegesítése, ha kész⭕)

@@ -4,8 +4,6 @@
 
 **Domináns Tulajdonságok**: Érzékenység, Intelligencia, Emlékezet
 
-**Kapcsolódó fortélyok**: xyz
-
 **Szabad Háttér**: [Lénylovas](../hatterek.szabad/lenylovas.md) (1 faj ingyenes; az adott állatot is tudod idomítani)
 
 **Leírás**: a képzettség egyes állatok idomítását fogja egybe és állatcsoportokra lehet megtanulni, amelyeket a fenti **Szabad Hátterek** határoznak meg. Ebből 1 alapból jár a képzettség felvételekor, a többi `SzP` használatával vehető fel később.

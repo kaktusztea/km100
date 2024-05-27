@@ -4,12 +4,9 @@
 
 **Domináns Tulajdonságok**: Emlékezet, Intelligencia, Érzékenység
 
-**Kapcsolódó fortélyok**: [Építészet](../fortelyok.altalanos/epiteszet.md) ⭕
+**Kapcsolódik**: [Kultúrkör](../hatterek.kiemelt/kulturkor.md), [Építészet](../fortelyok.altalanos/epiteszet.md)
 
-**Szabad Hátterek kiterjesztik**: ⭕
-- [Kultúrkör](../hatterek.kiemelt/kulturkor.md) 
-
-valamint:
+**Szabad Hátterek kiterjesztik**:
 - [Éneklés](../hatterek.szabad/enekles.md)
 - [Festészet](../hatterek.szabad/festeszet.md)
 - [Irodalom](../hatterek.szabad/irodalom.md)
@@ -32,7 +29,7 @@ A tudás szélesíthető a fent található Szabad Hatterek felvételével Szaba
   - [Kultúrkör](../hatterek.kiemelt/kulturkor.md) (adott kultúra). Enélkül `+3` nehezítés a képzettségpróbákra.
   - [Nyelvismeret](../hatterek.kiemelt/nyelvismeret.md): Udvari fok
 
-**Erős Összhagok:**
+**Összhangok:**
 - [Előadóművészet](eloadomuveszet.md)
 - [Történelemismeret](tortenelemismeret.md)
 

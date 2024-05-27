@@ -10,7 +10,7 @@ Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-
 
 **Domináns Tulajdonságok**: Érzékenység, Intelligencia
 
-**Kapcsolódó fortély**: -
+**Kapcsolódó fortély**: [Hidegvér](../fortelyok.altalanos/hidegver.md), [Tiszta fej](../fortelyok.altalanos/tiszta_fej.md)
 
 **Kapcsolódó képzettség**: [Befolyásolás](befolyasolas.md), [Etikett](etikett.md)
 

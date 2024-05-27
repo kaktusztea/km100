@@ -4,11 +4,13 @@
 
 **Domináns Tulajdonságok**: ⭕xyz
 
-**Kapcsolódó fortély**: ⭕xyz
+**Kapcsolódódik**: ⭕xyz  ((fortély, más képzettség. Ha nincs, törölni))
 
-**Szabad Hátterek kiterjesztik**: ⭕
+**Szabad Hátterek kiterjesztik**: ⭕ ((ha nincs, törölni))
 - ⭕xyz
 - zxy
+
+**Összhangok**: ⭕ ((ha nincs, törölni))
 
 **Leírás**: xyz
 

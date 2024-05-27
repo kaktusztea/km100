@@ -4,9 +4,6 @@
 
 **Domináns Tulajdonságok**: Érzékenység, Intelligencia
 
-**Kapcsolódó fortélyok**: ⭕xyz
-
-
 **Szabad Hátterek kiterjesztik**:
 - [Tájtípus - dzsungel](../hatterek.szabad/tajtipus_dzsungel.md)
 - [Tájtípus - sivatagi](../hatterek.szabad/tajtipus_sivatagi.md)

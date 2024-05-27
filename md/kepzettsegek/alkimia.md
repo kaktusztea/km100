@@ -4,7 +4,7 @@
 
 **Domináns Tulajdonságok**: Intelligencia, Emlékezet
 
-**Kapcsolódó fortélyok**: ⭕xyz
+**Kapcsolódódik**: ⭕xyz
 
 **Szabad Hátterek kiterjesztik**: ⭕
 

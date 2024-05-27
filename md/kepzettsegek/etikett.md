@@ -4,11 +4,13 @@
 
 **Domináns Tulajdonságok**: Érzékenység, Intelligencia, Önuralom, Emlékezet
 
-**Kapcsolódó Fortélyok**: -
+**Kapcsolódó Fortélyok**: [Hidegvér](../fortelyok.altalanos/hidegver.md), [Tiszta fej](../fortelyok.altalanos/tiszta_fej.md)
 
-**Kapcsolódó Szabad Hátterek**: [Kultúrkör](../hatterek.kiemelt/kulturkor.md), [Titkos szervezeti kultúra](../hatterek.szabad/titkos_szervezeti_kultura.md)
+**Kapcsolódódik**: [Kultúrkör](../hatterek.kiemelt/kulturkor.md)
 
-**Szabad Hátterek kiterjesztik**: ⭕
+**Szabad Hátterek kiterjesztik**:
+- [Tánc: belső stílus](../hatterek.szabad/tanc_belso_stilus.md)
+- [Titkos szervezeti kultúra](../hatterek.szabad/titkos_szervezeti_kultura.md)
 
 **Leírás**: Hogy kell köszönteni a nemesi vendégeket, hogyan kell udvariasan hárítani egy meghívást, mi számít könnyed tréfának és mi halálos sértésnek? A képzettség elsősorban az udvari, nemesi környezetben való "viselkedést" fedi.
 
