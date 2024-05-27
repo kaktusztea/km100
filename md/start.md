@@ -33,13 +33,14 @@
 - [Tulajdonságpróba](015_tulajdonsagproba.md) 🎲
 - [Primer és Szekunder ismeretek](016_primer_szekunder_ismeretek.md)
 - [Pontok](017_00_pontok.md)
-  - [Életerő Pont (ÉP)](018_01_ep.md)
   - [Karakteralkotó Pont (KP)](017_01_kp.md)
-  - [Harcérték Módosító (HM), Célzóérték Módosító (CM)](019_hm_cm.md)
-  - [Manőverfejlesztő Pont](017_03_mfp.md)
   - [Szabad Pontok](017_02_szp.md)
+  - [Manőverfejlesztő Pont](017_03_mfp.md)
+- [Számaztatott értékek](018_00_szarmaztatott_ertekek.md)
+  - [Életerő Pont (ÉP)](018_01_ep.md)
   - [Mágiaellenállás](018_02_magiaellenallas.md) 🎲
   - [Méregellenállás](018_03_meregellenallas.md) 🎲
+- [Harcérték Módosító (HM), Célzóérték Módosító (CM)](019_hm_cm.md)
 - [Nem Játékos Karakterek](019_njk.md)
 
 ---
