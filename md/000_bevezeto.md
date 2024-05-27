@@ -21,6 +21,8 @@ A szabályrendszer dokumentumaiban speciális unicode karaktereket használunk j
 
 ⚪ Tulajdonság 🔵 Képzettség 🟣 Fortély  🟡Háttér
 
+🔁 Többször felvehető ismeret
+
 🗡️ Harci taktika, Harci szituáció vagy Manőver
 
 🔻 Követelmény, limit
