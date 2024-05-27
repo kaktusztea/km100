@@ -8,9 +8,9 @@ Ismered a betűvésés tudományát.
 
 <br />
 
-**Megjegyzések**
+**Speciális**
 
-- Speciális: Ha **Tradíciót** veszel fel, automatikusan megkapod az **Írástudó** fortélyt. 
+- Ha [Tradíciót](../050_tradiciok.md) veszel fel, automatikusan megkapod az **Írástudó** fortélyt. 
 
 <br />
 
