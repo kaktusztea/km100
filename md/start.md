@@ -1,15 +1,14 @@
 # km100 szabályrendszer
 
-## Karakteralkotók
+## Karakteralkotó
 
-**[JK Karakteralkotó v8.6.0 (ods)](https://github.com/kaktusztea/km100/raw/master/segedlet/karakteralkoto_v8.6.0.ods?raw=true)**\
-NJK Karakterlap v1.2 ([odt📄](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2.odt?raw=true), [odt📄📄](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2_ketoldalas.odt), [pdf](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2.pdf?raw=true))
+**[JK Karakteralkotó v8.6.0 (ods)](https://github.com/kaktusztea/km100/raw/master/segedlet/karakteralkoto_v8.6.0.ods?raw=true)**
 
 ## Segédletek, gyakori oldalak
 
-**[Segédlet esszencia (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_ingame.pdf?raw=true)**&nbsp;&nbsp;-&nbsp;&nbsp;[Távharc segédlet (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_tavharc.pdf?raw=true)\
+**[Segédlet esszencia (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_ingame.pdf?raw=true)**&nbsp;&nbsp;-&nbsp;&nbsp;[Távharc segédlet (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_tavharc.pdf?raw=true)&nbsp;&nbsp;-&nbsp;&nbsp;NJK Karakterlap v1.2 ([odt📄](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2.odt?raw=true), [odt📄📄](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2_ketoldalas.odt), [pdf](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2.pdf?raw=true))\
 [Képzettséglista](031_kepzettseglista.md) &nbsp;-&nbsp; [Fortélyok](040_fortelyok.md) &nbsp;-&nbsp; [Szabad Hátterek](023_szabad_hatterek.md)\
-&#8203;<!-- markdown-link-check-disable -->[LibreOffice letöltése](https://www.libreoffice.org/download/download/)<!-- markdown-link-check-enable --> 
+&#8203;<!-- markdown-link-check-disable -->[LibreOffice letöltése](https://www.libreoffice.org/download/download/)⬇️<!-- markdown-link-check-enable --> 
 
 ---
 ## Részletes szabályrendszer
