@@ -1,6 +1,6 @@
 #### 🔵 Fájdalomtűrés
 
-Ez egy [Primer képzettség](../010_karakteralkotas.md#primer-%C3%A9s-szekunder-ismeretek-kateg%C3%B3ri%C3%A1i).
+Ez egy [Primer képzettség](../016_primer_szekunder_ismeretek.md).
 
 **Próba**: dobható
 
