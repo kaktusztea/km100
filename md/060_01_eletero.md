@@ -215,14 +215,3 @@ Ilyenkor dobnia kell egy `Edzettség` tulajdonságpróbát `Átlagos (5-ös)` ne
 ⭕Jelenleg a saját [STUDY oldalán](https://github.com/kaktusztea/km100/wiki/STUDY.gyogyulas.gyogyitas) fejlesztjük. Amint ott elkészül, bemásolni ide.
 
 Jelenleg az `1 ÉP` / nap és `1 KT` / óra gyógyulás szabály az irányadó.
-
-<script>
-  document.addEventListener("DOMContentLoaded", function(event) {
-    if (window.location.hash) {
-      var element = document.getElementById(window.location.hash.substring(1));
-      if (element) {
-        element.scrollIntoView();
-      }
-    }
-  });
-</script>
