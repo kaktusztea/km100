@@ -314,8 +314,8 @@ A páncél teljes árát a következőképpen kaphatjuk meg:
 ```
 
 - a mellvért-darab árát az **SFÉ** táblázatban találjuk (szorzó) és az Anyagminőségtől is függ.
-- a **Kidolgozottság** szorzót a [Vértek kidolgozottsága](#v%C3%A9rt-kidolgozotts%C3%A1ga-csatolt-elemek-sz%C3%A1ma)  táblázat tartalmazza. Érthető módon ha jobb a kidolgozottság, drágább a páncél.
-- Ha fém vértről beszélünk és a vért nem hagyományosan acélból készült, akkor a [Fém vértek alapanyagai](#f%C3%A9m-v%C3%A9rtek-alapanyaga---sf%C3%A9) táblázatban található **Fémanyag-szorzó** értéket is be kell vonni (az Acél szorzója: `1`).\
+- a **Kidolgozottság** szorzót a [Vértek kidolgozottsága](#csatolt-mgt-v%C3%A9rt-kidolgozotts%C3%A1ga-csatolt-elemek-sz%C3%A1ma) táblázat tartalmazza. Érthető módon ha jobb a kidolgozottság, drágább a páncél.
+- Ha fém vértről beszélünk és a vért nem hagyományosan acélból készült, akkor a [Fém vértek alapanyagai](#f%C3%A9malapanyag-sf%C3%A9-%C3%A1r-szorz%C3%B3) táblázatban található **Fémanyag-szorzó** értéket is be kell vonni (az Acél szorzója: `1`).\
   Például **abbitacél** esetén az értéket `10`-zel kell szorozni.
 
 #### Csatolt tagok ára
