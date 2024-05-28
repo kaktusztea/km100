@@ -176,7 +176,7 @@ Ha az `SP` érték a páncél `SFÉ` levonása után `0`-ra csökken, a VÉ csö
 ---
 #### Harcérték csökkenés
 
-Ha valakit találat ért és átkerül másik sebesülés-kategóriába, `TÉ levonást` kap, melyet mérsékel a [Fájdalomtűrés képzettség](kepzettsegek/fajdalomtures.md) és [Önuralom tulajdonságok](010_karakteralkotas.md#önuralom) összege.
+Ha valakit találat ért és átkerül másik sebesülés-kategóriába, `TÉ levonást` kap, melyet mérsékel a [Fájdalomtűrés képzettség](kepzettsegek/fajdalomtures.md) és [Önuralom tulajdonságok](014_tulajdonsagok.md#-önuralom-%EF%B8%8F) összege.
 
 Bővebben lásd: [Fájdalomtűrés fejezetet](060_01_eletero.md#f%C3%A1jdalomt%C5%B1r%C3%A9s)!
 
