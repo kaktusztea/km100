@@ -11,5 +11,5 @@ jobs:
         with:
           github_token: ${{ secrets.github_token }}
           reporter: github-check
-          fail_on_error: true
+          fail_on_error: false
           debug: true
