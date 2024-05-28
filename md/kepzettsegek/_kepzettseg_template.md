@@ -51,4 +51,4 @@
 ---
 
 
-*Megjegyzés a kidolgozáshoz: [Összhangok](../030_kepzettsegrendszer.md#összhangok). Bizonyos képzettségek "besegíthetnek" az adott képzettségbe, ezt nevezzük Összhangnak. Amennyiben ilyen előfordul az adott képzettségnél, akkor a "Próbák" bekezdés fölé illesszünk be egy "Összhangok" bekezdést.*
+*Megjegyzés a kidolgozáshoz: [Összhangok](../036_kepzettsegproba.md#%C3%B6sszhangok). Bizonyos képzettségek "besegíthetnek" az adott képzettségbe, ezt nevezzük Összhangnak. Amennyiben ilyen előfordul az adott képzettségnél, akkor a "Próbák" bekezdés fölé illesszünk be egy "Összhangok" bekezdést.*
