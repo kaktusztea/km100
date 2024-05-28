@@ -2,7 +2,7 @@
 
 **Próba:** dobható
 
-**Domináns Tulajdonságok**: [Intelligencia](../014_tulajdonsagok.md#-intelligencia-%EF%B8%8F), Emlékezet
+**Domináns Tulajdonságok**: Intelligencia, Emlékezet
 
 **Kapcsolódódik**: ⭕xyz
 
