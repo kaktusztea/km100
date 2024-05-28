@@ -14,6 +14,8 @@ Ez egy [Primer képzettség](../016_primer_szekunder_ismeretek.md).
 
 **Leírás**: Ismered a különböző hatású és erősségű mérgek kikeverésének módját, receptjeit. Magasabb szinten egyre komplexebb, rafináltabb keverékeket vagy képes összeállítani.
 
+[ork](../021_faj_hatterek.md#ork)
+
 <br />
 
 ---
