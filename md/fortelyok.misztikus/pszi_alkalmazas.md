@@ -2,6 +2,8 @@
 
 A pszionikus iskolák tanulásának alapfeltétele magának a pszí alkalmazás technikájának elsajátítása. Ez adja meg, hogy milyen hatókörben képes alkalmazni a diszciplínákat, illetve mekkora pszionikus erőt képes elméjébe gyűjteni az alkalmazó.
 
+A konkrét Pszí iskolát - tehát maguknak a diszciplínáknak az ismeretét - a [Pszí iskola](../kepzettsegek/pszi_iskola.md) **képzettséggel** veheted fel.
+
 ⭕Nem lesznek pszí pontok jó eséllyel. Ha így lesz, kiszedni a visszanyerésükről szóló részt.
 
 
