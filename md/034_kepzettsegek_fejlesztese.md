@@ -37,3 +37,10 @@ A másik felső korlát lehet az adott kultúra fejletlensége, vagy korlátai. 
 ### Képzettség Bónuszok
 
 A `12. és 15. szintek` kiemelt mérföldkövek a képzettségek esetében, itt már félmágikus, különleges bónuszok tűnnek fel. Ezek leírását lásd minden esetben az adott képzettség leírásában.
+
+---
+### Képzettségek kiterjesztése
+
+Egyes képzettségek az alap tudást lefedő ismeretek keretein túl is "kiterjeszthetőek". Erre használjuk a [Szabad Háttereket](023_szabad_hatterek.md).
+
+
