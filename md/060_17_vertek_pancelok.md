@@ -160,15 +160,6 @@ A különböző fém ötvözetek alapanyagai változtathatnak az MGT értékeken
 | Lunír     |  ⭕`-15`  |
 
 ---
-#### Erőbónusz MGT csökkentése
-
-```
-(Erő x 2) növeli/csökkenti az MGT értékét
-```
-
-Aki erősebb, azt kevésbé korlátozza egy nehezebb páncél.
-
----
 #### Csatolt MGT (Vért kidolgozottsága, Csatolt elemek száma)
 
 ```
@@ -201,6 +192,15 @@ Megjegyzések:
 
 - Maga a Mellvért-darab is beleszámít az elemek számába! (így ha csak mellvért-darabot visel a karakter, a minőségi különbség akkor is megjelenik). Ha nincs mellvért-darab, akkor az Alap MGT-t **nem** kell beszámítani, csak a lenti kikeresett számot kell a kapcsolt tagok számával szorozni.
 - A páros tagok pl, „felkar-tagok” a számolásban egynek számítanak, aki csak fél párat visel, az is ennyit „fizet” érte, ilyen szinten már felesleges bonyolítás lenne a túlzott differenciálás.
+
+---
+#### Erőbónusz MGT csökkentése
+
+```
+(Erő x 2) növeli/csökkenti az MGT értékét
+```
+
+Aki erősebb, azt kevésbé korlátozza egy nehezebb páncél.
 
 ---
 #### Erő követelmény MGT értékére
