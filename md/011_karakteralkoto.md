@@ -1,4 +1,4 @@
-## Karakteralkotó
+## Karakteralkotó ods
 
 Egy **km100** karakter megalkotása nagyságrendekkel meggyorsítható a **Karakteralkotó** "program" használatával.
 
