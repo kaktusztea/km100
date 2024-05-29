@@ -1,13 +1,13 @@
 ### 🤼‍♂️ Belharcos Manőverek listája
 
-- [Átdobás](#%EF%B8%8F-%C3%A1tdob%C3%A1s)
-- [Feszítés, Leszorítás / Feszítésből kijövetel](#%EF%B8%8F-fesz%C3%ADt%C3%A9s-leszor%C3%ADt%C3%A1s--fesz%C3%ADt%C3%A9sb%C5%91l-kij%C3%B6vetel)
-- [Gáncsolás / Lábsöprés (lábbal)](#%EF%B8%8F-g%C3%A1ncsol%C3%A1s--l%C3%A1bs%C3%B6pr%C3%A9s-l%C3%A1bbal)
-- [Kéztörés](https://github.com/kaktusztea/km100/blob/master/md/060_14_manoverek.md#%EF%B8%8F-k%C3%A9zt%C3%B6r%C3%A9s)
-- [Lábtörés](#%EF%B8%8F-l%C3%A1bt%C3%B6r%C3%A9s)
--  [Lefejelés](#%EF%B8%8F-lefejel%C3%A9s)
-- [Leforgatás/Irányítás](#%EF%B8%8F-leforgat%C3%A1sir%C3%A1ny%C3%ADt%C3%A1s)
-- [Nyaktörés](#%EF%B8%8F-nyakt%C3%B6r%C3%A9s)
+- [Átdobás](#%C3%A1tdob%C3%A1s)
+- [Feszítés, Leszorítás / Feszítésből kijövetel](#fesz%C3%ADt%C3%A9s-leszor%C3%ADt%C3%A1s--fesz%C3%ADt%C3%A9sb%C5%91l-kij%C3%B6vetel)
+- [Gáncsolás / Lábsöprés (lábbal)](#g%C3%A1ncsol%C3%A1s--l%C3%A1bs%C3%B6pr%C3%A9s-l%C3%A1bbal)
+- [Kéztörés](#k%C3%A9zt%C3%B6r%C3%A9s)
+- [Lábtörés](#l%C3%A1bt%C3%B6r%C3%A9s)
+- [Lefejelés](#lefejel%C3%A9s)
+- [Leforgatás/Irányítás](#leforgat%C3%A1sir%C3%A1ny%C3%ADt%C3%A1s)
+- [Nyaktörés](#nyakt%C3%B6r%C3%A9s)
 
 #### Átdobás
 
