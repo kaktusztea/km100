@@ -343,7 +343,7 @@ Az SFÉ táblázatban nem véletlenül _szorzó_ értékek szerepelnek arany, va
 ---
 ### ⚡Példa 1: Átlagos páncél
 
-A lehető legátlagosabb sodronying, sisakon kívül mindent beborítva.
+A lehető legátlagosabb sodronying, fejen (sisak) és lábszárakon **kívül** mindent beborítva. Tehát a lefedettség **80%**: mellkas (50%), felkar (10%), alkar (10%), combok (10%).
 #### SFÉ
 - Struktúra: Sodronying
 - Alap SFÉ: `8` / `13` / `5` / `15`
@@ -375,7 +375,7 @@ A lehető legátlagosabb sodronying, sisakon kívül mindent beborítva.
 ---
 ### ⚡Példa 2: Legvacakabb teljes lemezvért
 
-... amiben a lehető legnehezebb mozogni (Kidolgozottság: pocsék, Fémalapanyaga: bronz) és még az Anyagminősége is a legvacakabb. Mindent lefed.
+... amiben a lehető legnehezebb mozogni (Kidolgozottság: pocsék, Fémalapanyaga: bronz) és még az Anyagminősége is a legvacakabb. Mindent lefed (100%).
 #### SFÉ
 
 - Struktúra: Lemezpáncél
