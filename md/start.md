@@ -26,7 +26,7 @@
 
 ### 1. [Karakteralkotás](010_karakteralkotas.md)
 
-- [Karakteralkotó ods](011_karakteralkoto.md)
+- [Karakteralkotó ods](011_karakteralkoto_ods.md)
 - [Előtörténet, Személyiség](012_elotortenet_szemelyiseg.md)
 - [Tapasztalati Szint](013_tsz_szintlepes.md)
 - [Tulajdonságok](014_tulajdonsagok.md)
