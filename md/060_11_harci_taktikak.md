@@ -162,11 +162,11 @@ Bejutottál ellenfeled fegyverének fenyegető vége mögé, testközelbe, de ne
 - Átnézni ezeket a fortélyokat. Belharc fortély is kell hozzájuk?
 ```
 
-Továbbá pár manőver könnyebbé válik Belharci szituációban: [Gáncsolás/lábsöprés](060_14_manoverek.md#%EF%B8%8F-g%C3%A1ncsol%C3%A1s--l%C3%A1bs%C3%B6pr%C3%A9s-l%C3%A1bbal) (belharcban `+2` Ellenpróbánál)
+Továbbá pár manőver könnyebbé válik Belharci szituációban: [Gáncsolás/lábsöprés](060_14_00_manoverek.md#️g%C3%A1ncsol%C3%A1s--l%C3%A1bs%C3%B6pr%C3%A9s-l%C3%A1bbal) (belharcban `+2` Ellenpróbánál)
 
 #### Belharcba kerülés manőver
 
-A Belharci szituációba kerüléshez ezt a manővert kell sikerrel végrehajtani. Nehézsége alapesetben `9`-es, de fejleszthető (`2 fokkal`). ⭕Csak Közelharc harcmodor alkalmazása közben lehet megpróbálni.⭕ Bővebben lásd a [manőver leírását](060_14_manoverek.md#belharcba-ker%C3%BCl%C3%A9s).
+A Belharci szituációba kerüléshez ezt a manővert kell sikerrel végrehajtani. Nehézsége alapesetben `9`-es, de fejleszthető (`2 fokkal`). ⭕Csak Közelharc harcmodor alkalmazása közben lehet megpróbálni.⭕ Bővebben lásd a [manőver leírását](060_14_00_manoverek.md#belharcba-ker%C3%BCl%C3%A9s).
 
 #### Kibontakozás/Átsiklás manőver
 
@@ -287,7 +287,7 @@ Ha [Észrevétlen támadás](060_10_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C
 
 Kapcsoló fortély: [Harci anatómia](fortelyok.harci/harci_anatomia.md)
 
-Ha harc közben próbálsz ellenfeleden egy konkrét pont támadásával nagyobb sebzést elérni, vagy a **Harci anatómia** fortélynál leírt hatások valamelyikét elérni, akkor [Területre/Pontra támadás](060_14_manoverek.md#ter%C3%BCletrepontra-t%C3%A1mad%C3%A1s) manővert kell végezned. Amennyiben az sikeres, megkapod a fenti fortélynál megadott bónuszokat.
+Ha harc közben próbálsz ellenfeleden egy konkrét pont támadásával nagyobb sebzést elérni, vagy a **Harci anatómia** fortélynál leírt hatások valamelyikét elérni, akkor [Területre/Pontra támadás](060_14_00_manoverek.md#ter%C3%BCletrepontra-t%C3%A1mad%C3%A1s) manővert kell végezned. Amennyiben az sikeres, megkapod a fenti fortélynál megadott bónuszokat.
 
 ---
 ### Mögékerülés
