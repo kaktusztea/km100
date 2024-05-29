@@ -23,7 +23,7 @@ Az igazi jó harcos taktikus. Ismeri saját gyengéit és erősségeit és igyek
 - [Harci taktikák](060_11_harci_taktikak.md) (támadó, védő, roham, stb)
 - [Harci alakzatok, Alakzatharc](060_12_harci_alakzatok.md)
 - [Kétkezes harc](060_13_ketkezes_harc.md)
-- [Manőverek](060_14_manoverek.md)
+- [Manőverek](060_14_00_manoverek.md)
 - [Lovas harc](060_15_harc_lohartol.md)
 - [Fegyverek, pajzsok](060_16_fegyverek.md)
 - [Vértek, páncélok](060_17_vertek_pancelok.md)

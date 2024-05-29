@@ -86,7 +86,7 @@ A harci képzettségek aktuális szintjétől függ, hogy az alá tartozó fegyv
 ---
 ### Harcmodorok és Manőverek
 
-A Manőverek alkalmazását, leírását részletesen lásd a „[Manőverek](060_14_manoverek.md)” fejezetben.
+A Manőverek alkalmazását, leírását részletesen lásd a „[Manőverek](060_14_00_manoverek.md)” fejezetben.
 
 Harc közben gyakran előfordul, hogy egy karakter speciális húzásokkal próbálkozik, egyedi cseleket vet be, hogy megkönnyítse győzelmét, például kirúgja ellenfele lábát, vagy homokot szór annak szemébe. Sokszor van olyan is, hogy egy karakter különösen jó egy adott csel alkalmazásában és azt előszeretettel veti be. Ezek a manőverek.
 

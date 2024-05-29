@@ -102,7 +102,12 @@
 - [Harci taktikák](060_11_harci_taktikak.md) (támadó, védő, roham, stb)
 - [Harci alakzatok, Alakzatharc](060_12_harci_alakzatok.md)
 - [Kétkezes harc](060_13_ketkezes_harc.md)
-- [Manőverek](060_14_manoverek.md) 🎲
+- [Manőverek](060_14_00_manoverek.md) 🎲
+  - [Manőver végrehajtásának lépései](060_14_01_manover_vegrehajtasa.md)
+  - [Általános Manőverek listája](060_14_02_altalanos_manoverek.md)
+  - [Belharcos Manőverek listája](060_14_03_belharcos_manoverek.md)
+  - [Lovas Manőverek listája](060_14_04_lovas_manoverek.md)
+  - [Példa Manőverek alkalmazására](060_14_05_pelda_manover_alkalmazasara.md)
 - [Harc lóhátról](060_15_harc_lohartol.md)
 - [Fegyverek, pajzsok](060_16_fegyverek.md)
 - [Vértek, páncélok](060_17_vertek_pancelok.md)
