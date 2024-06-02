@@ -46,7 +46,6 @@
 - [Élettan](fortelyok.altalanos/elettan.md)
 - [Építészet](fortelyok.altalanos/epiteszet.md)
 - [Írástudó](fortelyok.altalanos/irastudo.md)
-- [Különleges faj](fortelyok.altalanos/kulonleges.faj.md)
 - [Mechanika](fortelyok.altalanos/mechanika.md)
 
 ---
