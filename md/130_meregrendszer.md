@@ -256,4 +256,4 @@ Ez az alapanyagok beszerezhetőségétől függ. Amennyiben megvan az **Alkímia
 
 Alapesetben nem teszünk különbséget, a Méregkeverők tisztában vannak Ynev leggyakoribb elfszabású teremtményeinek méreggel szembeni tulajdonságaival.
 
-Amennyiben nem hagyományos, rika fajról van szó, ahhoz a [Különleges faj](fortelyok.altalanos/kulonleges.faj.md) fortély megléte szükséges az adott fajra felvéve.
+Amennyiben nem hagyományos, rika fajról van szó, ahhoz a [Különleges faj boncolása](hatterek.szabad/kulonleges_faj_boncolasa.md) Szabad Háttér megléte szükséges az adott fajra felvéve.
