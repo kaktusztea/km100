@@ -19,7 +19,6 @@ Ha egy képzettséghez számos Szabad Háttér kapcsolódik, akkor azok közül 
 
 - [Alkudozás](hatterek.szabad/alkudozas.md)
 - [Asztrológia](hatterek.szabad/asztrologia.md)
-
 - [Csábítás](hatterek.szabad/csabitas.md)
 - [Éneklés](hatterek.szabad/enekles.md)
 - [Fejlett ízlelés](hatterek.szabad/fejlett_izleles.md)
