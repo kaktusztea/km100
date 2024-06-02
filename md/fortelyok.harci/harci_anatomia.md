@@ -19,7 +19,7 @@ Ismered a test sebezhető pontjait és tisztában vagy a létfontosságú belső
 **Megjegyzések**
 
 - A fortély alapból csak elfszabásúak ellen használható, ha anatómiájuk nem titok, vagy nem ismeretlen az alkalmazó számára.
-- [Boncolás (faj neve)](../hatterek.szabad/boncolas.md) Szabad Háttérhez juthatsz, ha új, nem elfszabású lények anatómiáját akarod megismerni (kizárólag) harci célokra.
+- [Különleges faj boncolása (faj neve)](../hatterek.szabad/kulonleges_faj_boncolasa.md) Szabad Háttérhez juthatsz, ha új, nem elfszabású lények anatómiáját akarod megismerni (kizárólag) harci célokra.
 - Csatabárdokkal, buzogányokkal, kétkezes fegyverekkel a fortély nem alkalmazható.
 - A fent leírt előnyök nem érvényesülnek bármilyen világi, vagy mágikus módszerrel kiváltott harci lázban.
 

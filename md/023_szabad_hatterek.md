@@ -19,7 +19,7 @@ Ha egy képzettséghez számos Szabad Háttér kapcsolódik, akkor azok közül 
 
 - [Alkudozás](hatterek.szabad/alkudozas.md)
 - [Asztrológia](hatterek.szabad/asztrologia.md)
-- [Boncolás](hatterek.szabad/boncolas.md) 🔁
+
 - [Csábítás](hatterek.szabad/csabitas.md)
 - [Éneklés](hatterek.szabad/enekles.md)
 - [Fejlett ízlelés](hatterek.szabad/fejlett_izleles.md)
@@ -30,6 +30,7 @@ Ha egy képzettséghez számos Szabad Háttér kapcsolódik, akkor azok közül 
 - [Irodalom](hatterek.szabad/irodalom.md)
 - [Jogismeret](hatterek.szabad/jogismeret.md)
 - [Kalligráfia](hatterek.szabad/kalligrafia.md)
+- [Különleges faj boncolása](hatterek.szabad/kulonleges_faj_boncolasa.md) 🔁
 - [Lénylovas](hatterek.szabad/lenylovas.md) 🔁
 - [Megfélemlítés](hatterek.szabad/megfelemlites.md)
 - [Pénzügyek](hatterek.szabad/penzugyek.md)
