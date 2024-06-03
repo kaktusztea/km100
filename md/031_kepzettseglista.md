@@ -91,6 +91,8 @@
 
 🔵[Vajákosság](kepzettsegek/vajakossag.md) <sup><sub>(40%)</sub></sup>
 
+🔵[Városi jártasság](kepzettsegek/varosi_jartassag.md) <sup><sub>(40%)</sub></sup>
+
 ---
 ## Alvilági képzettségek
 
