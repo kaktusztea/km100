@@ -20,9 +20,7 @@
 - Orvoslás
 - Ősi nyelv ismerete
 - Összpontosítás
-- Történelemismeret
 - Tradíció
-- Tudományok
 
 → **Szekunder képzettségek**: minden más képzettség
 
@@ -132,9 +130,9 @@ Az aktív előadást igénylő művészeteket szeparáltuk az **Előadóművész
 
 🔵[Méregkeverés](kepzettsegek/meregkeveres.md) 🅿️ <sup><sub>(90%)</sub></sup>
 
-🔵[Történelemismeret](kepzettsegek/tortenelemismeret.md) 🅿️ <sup><sub>(40%)</sub></sup> 
+🔵[Történelemismeret](kepzettsegek/tortenelemismeret.md) <sup><sub>(40%)</sub></sup> 
 
-🔵[Tudományok](kepzettsegek/tudomanyok.md) 🅿️ <sup><sub>(10%)</sub></sup>
+🔵[Tudományok](kepzettsegek/tudomanyok.md) <sup><sub>(10%)</sub></sup>
 
 ---
 ## Misztikus képzettségek 🅿️

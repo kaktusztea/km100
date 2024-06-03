@@ -1,7 +1,5 @@
 #### Tudományok
 
-Ez egy [Primer képzettség](../016_primer_szekunder_ismeretek.md).
-
 **Próba:** dobható
 
 **Domináns Tulajdonságok**: Intelligencia, Emlékezet

@@ -1,7 +1,5 @@
 #### 🔵 Történelemismeret
 
-Ez egy [Primer képzettség](../016_primer_szekunder_ismeretek.md).
-
 Általános ismeret, magába foglalja a legendák ismeretét is és az ősi kultúrák ismeretét is.
 
 **Próba:** dobható
