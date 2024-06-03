@@ -2,7 +2,7 @@
 
 ```
 - 1 fokú
-- 1.Tapasztalati Szinttől kezdve minden 2. TSz-en kapsz egyet.
+- 1.Tapasztalati Szinttől kezdve minden 2. TSz-en kapsz egyet
 
 ⚡ Példa: "Kultúrkör: Toron", "Kultúrkör: Pyarron"
 
