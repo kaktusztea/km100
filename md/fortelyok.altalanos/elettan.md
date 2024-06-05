@@ -2,7 +2,7 @@
 
 Magába foglalja az összes közismert faj ismeretét, anatómiáját és boncolását.
 
-A speciálisabb fajokhoz külön Szabad Háttér kell a  [Különleges faj boncolása](../hatterek.szabad/kulonleges_faj_boncolasa.md) formájában. Például: „Különleges faj – Amund”.
+A speciálisabb fajokhoz külön Szabad Háttér kell a [Különleges faj boncolása](../hatterek.szabad/kulonleges_faj_boncolasa.md) formájában. Például: „Különleges faj – Amund”.
 
 - [Orvoslás](../kepzettsegek/orvoslas.md) képzettséghez bónuszt ad
 ##### Kiterjeszti
