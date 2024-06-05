@@ -2,7 +2,7 @@
 
 ## Karakteralkotó
 
-**[JK Karakteralkotó v8.6.1 (ods)](https://github.com/kaktusztea/km100/raw/master/segedlet/karakteralkoto_v8.6.1.ods?raw=true)**
+**[JK Karakteralkotó v8.6.2 (ods)](https://github.com/kaktusztea/km100/raw/master/segedlet/karakteralkoto_v8.6.2.ods?raw=true)**
 
 ## Segédletek, gyakori oldalak
 
