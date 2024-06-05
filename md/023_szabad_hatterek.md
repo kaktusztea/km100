@@ -2,7 +2,12 @@
 
 <!-- tag: szabad_hatter -->
 
-A Szabad Hátterek specializált, egy, vagy több [képzettséget](031_kepzettseglista.md) képzettséget "kiterjesztő" ismeretek. [Szabad Pontok](017_02_szp.md) (`SzP`) költésével vehetőek fel.
+```
+Ha Szabad Háttér nincs meg:
+  -3 Képzettségpróbára
+```
+
+A Szabad Hátterek specializált, egy, vagy több [képzettséget](031_kepzettseglista.md) képzettséget "kiterjesztő" ismeretek. [Szabad Pontok](017_02_szp.md) (`SzP`) költésével vehetőek fel. Amennyiben a szituációhoz kapcsolódó Szabad Háttér nincs meg, akkor is lehet Képzettségpróbát dobni, de `-3` módosítóval. 
 
 #### Felvétel
 
@@ -10,7 +15,7 @@ Hozzájutni ilyen Hátterekhez kétféleképpen lehet:
 1. KM adja ingyen, olyan kalandban történt megpróbáltató esemény után, ami ezt indokolja. Például a kalandban megültél egy **Wyvernt**, ekkor megkapod a [Lénylovas - Wyvern](hatterek.szabad/lenylovas.md) Szabad Hátteret ingyen.
 2.  Szabad Pontokból (`SzP`) felveszel **Szabad Hátteret**.
 
-Ha egy képzettséghez számos Szabad Háttér kapcsolódik, akkor azok közül 1 választottat automatikusan megkap a karakter, amint a képzettséget `0.szintről` növelni kezdi. Amennyiben ez a háttér több képzettséget is kiterjeszt, akkor mindegyik képzettségnél ez az 1 Szabad Háttér lesz az, amit ingyen megkap a karakter.
+Ha egy képzettséghez számos Szabad Háttér kapcsolódik - gyakorlatilag felszabdalják azt - , akkor azok közül `1 db` választottat automatikusan megkap a karakter, amint a képzettséget `0.szintről` növelni kezdi. Amennyiben ez a háttér több képzettséget is kiterjeszt, akkor mindegyik képzettségnél ez az 1 Szabad Háttér lesz az, amit ingyen megkap a karakter.
 
 ⭕TODO: van, ahol így van, van ahol nem ... ⭕
 
@@ -33,6 +38,7 @@ Ha egy képzettséghez számos Szabad Háttér kapcsolódik, akkor azok közül 
 - [Lénylovas](hatterek.szabad/lenylovas.md) 🔁
 - [Megfélemlítés](hatterek.szabad/megfelemlites.md)
 - [Pénzügyek](hatterek.szabad/penzugyek.md)
+- [Rejtjelfejtő](hatterek.szabad/rejtjelfejto.md)
 - [Színjátszás](hatterek.szabad/szinjatszas.md)
 - [Szobrászat](hatterek.szabad/szobraszat.md)
 - [Szónoklás](hatterek.szabad/szonoklas.md)
