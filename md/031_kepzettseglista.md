@@ -141,8 +141,6 @@ Az aktív előadást igénylő művészeteket szeparáltuk az **Előadóművész
 
 🔵[Aurafejlesztés](kepzettsegek/aurafejlesztes.md)
 
-🔵[Demonológia*](kepzettsegek/demonologia.md) <sup><sub>(80%)</sub></sup>
-
 🔵[Ősi nyelv ismerete](kepzettsegek/osi_nyelv_ismerete.md) <sup><sub>(0%)</sub></sup> 🔁
 
 🔵[Összpontosítás](kepzettsegek/osszpontositas.md) <sup><sub>(10%)</sub></sup>
