@@ -11,7 +11,7 @@ A taktikák használatát kör elején, kezdeményezés előtt kell bejelenteni,
 | Kezdeményező taktika                                       | `KÉ:+1 → VÉ:-2`, max `KÉ:+10`                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | Kiváró taktika                                             | • Átengedett KÉ, cserébe első visszatámadásra `TÉ:+5`<br/>• Támadó taktikával együtt mehet, Védővel nem, több ellenfeles harcban sem.                                                                                                                                                                                                                                                                                                                                       |
 | Védekező harc                                              | `VÉ:+30`, ellenfeled csak `kiskockával` csökkenthet rajtad `VÉ`-t. Folyamatos hátrálás, nincs támadás, nem kombinálható más taktikával.                                                                                                                                                                                                                                                                                                                                     |
-| Fárasztás                                                  | Nyert a Kezdeményezés szükséges<br/>• ⭕VÉ csökkentésre: `+2`<br/>• Sebzés helyett: további `+10VÉ` csökkentés, saját VÉ is csökken `3`-mal.⭕                                                                                                                                                                                                                                                                                                                                |
+| Fárasztás                                                  | • VÉ csökkentésre: `+2`<br/>• Sebzés helyett: nagykockás CÉ csökk + további `+10VÉ` csökkentés                                                                                                                                                                                                                                                                                                                                                                              |
 | Roham                                                      | • `TÉ:+20`, `VÉ:-40` (első oda-visszacsapáskor)<br/>• VÉ csökkentés duplázódik, Sebzéshez: `+5 SP`                                                                                                                                                                                                                                                                                                                                                                          |
 | Öngyilkos roham                                            | • `TÉ:+25`,`VÉ:-50` (első oda-visszacsapáskor)<br/>• VÉ csökkentés duplázódik, Sebzéshez: `+7 SP`<br/>• TÉ büntetések (sérülésből) nem érvényesek, max `2x` használható egy küzdelemben<br/>• Küzdelmenként legfeljebb 1x alkalmazható.                                                                                                                                                                                                                                     |
 | Belharci szituáció                                         | • Bekerülni: „Belharcba kerülés” manőverrel<br/>• Kijönni: „Kibontakozás” manőverrel<br/>• Mindenki a saját Harcmodorának módosítóival küzd<br/>• Belharc fortély bónuszai: `KÉ:+2`, `TÉ/VÉ:+3` fokonként. Csak **Közelharc** harcmodorban jár.<br/>• A `rövid (0)` pengénél nagyobb fegyverek értékei: `0`-ra esnek, sebzésük max: `+1 SP`,  „**Harckeret**” csökken `5`-el. **Erőbónusz** és **MF** fortély bónuszai maradnak.<br/>• Puszta kéz értékei `0`-ra emelkednek |
@@ -94,26 +94,18 @@ Fontos, hogy másra nem pazarolhatod figyelmedet, kizárólag a védekezésre. H
 
 ---
 ### Fárasztás
-```
-- Nyert KÉ szükséges
-- ⭕Előnyös helyzet szükséges (pengehossz különbség kisebb 0,5 pengénél)
-```
-```diff
-- Aktualizálni
-```
 
-- Nyert kezdeményezés szükséges
-- VÉ csökkentésre: `+2`
-- Sebzés helyett: további `+10 VÉ` csökkentés (a Többszörös találat nem növeli tovább)
-	- Hátrány: a "sebzős" esetben az intenzív plusz mozgástól te is elszenvedsz konstans `3 VÉ` csökkenést.
+VÉ csökkentésre: `+2` ha nincs találat.
 
-Ha fárasztani kívánod ellenfeledet, ellenállását megtörni anélkül, hogy sebet ejtenél rajta, akkor a harc ugyanúgy folyik, mint más esetben, csak nyert kezdeményezést követően mindig `+2`-vel nő **VÉ csökkentésed**.
+Sebzés helyett:  nagykockás CÉ csökk + további `+10VÉ` csökkentés (a Többszörös találat nem növeli tovább)
 
-Sebző támadás esetén pedig ugyanez, de elmarad maga a sebzés – helyette további `+10`-el csökkentheted ellenfeled **Védő Értékét**. ⭕Ehhez a taktikához „fel kell pörgethed” magad, így minden alkalmazásakor Te is elszenvedsz egy ⭕`+3 VÉ`⭕ csökkenést.
+Ha fárasztani kívánod ellenfeledet, ellenállását megtörni anélkül, hogy sebet ejtenél rajta, akkor a harc ugyanúgy folyik, mint más esetben, csak `+2`-vel nő **VÉ csökkentésed** ha nem érsz el találatot támadó dobásod során.
 
-A taktika használatát mindig a Kezdeményező dobás előtt kell bejelentened. Amennyiben elveszted a kezdeményezést, akkor sima harci kör következik számodra, amiben nem használhatsz semmilyen – kör elején bejelentendő – harci taktikát.
+Sebző támadás esetén pedig elmarad maga a sebzés – helyette **nagykockával** és további `+10`-el csökkentheted ellenfeled **Védő Értékét**.
 
-A Fárasztás taktikának leginkább körbevett ellenfél esetén van értelme: a pribékek kifáraszthatják a „vadat”, míg vezetőjük felkészül. Fontos: a Fárasztás **nem** használható **Rohammal** együtt.
+Más taktikával együtt nem használható.
+
+A Fárasztás taktikának leginkább körbevett ellenfél esetén van értelme: a pribékek kifáraszthatják a „vadat”, míg vezetőjük felkészül.
 
 Kapcsolódó fortély: [Fárasztás](fortelyok.harci/farasztas.md) harci fortély
 
