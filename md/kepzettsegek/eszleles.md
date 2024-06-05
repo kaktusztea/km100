@@ -8,7 +8,7 @@ Ez egy [Primer képzettség](../016_primer_szekunder_ismeretek.md).
 
 **Domináns Tulajdonságok**: Érzékenység (fizikai érzékekre is ez használandó), Intelligencia
 
-**Kapcsolódó fortélyok**:  [Keresés](../fortelyok.altalanos/kereses.md), [Villámgyors keresés](../fortelyok.altalanos/villamgyors.kereses.md)  [Éber alvó](../fortelyok.altalanos/eber_alvo.md)
+**Kapcsolódó fortélyok**:  [Keresés](../fortelyok.altalanos/kereses_nyomolvasas.md), [Villámgyors keresés](../fortelyok.altalanos/villamgyors.kereses.md)  [Éber alvó](../fortelyok.altalanos/eber_alvo.md)
 
 **Szabad Hátterek kiterjesztik**: ⭕
 

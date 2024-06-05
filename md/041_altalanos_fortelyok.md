@@ -23,7 +23,7 @@
 - [Hamisítás](fortelyok.altalanos/hamisitas.md) 🔺
 - [Hangutánzás](fortelyok.altalanos/hangutanzas.md)
 - [Kaméleon](fortelyok.altalanos/kameleon.md)
-- [Keresés](fortelyok.altalanos/kereses.md)
+- [Keresés](fortelyok.altalanos/kereses_nyomolvasas.md)
 - [Kitartás](fortelyok.altalanos/kitartas.md)
 - [Kocsihajtás](fortelyok.altalanos/kocsihajtas.md)
 - [Kötelékből szabadulás](fortelyok.altalanos/kotelekbol_szabadulas.md)

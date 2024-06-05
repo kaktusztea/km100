@@ -6,7 +6,7 @@ A Fizikai és Matematikai ismeretek is ide tartoznak?? ⭕TODO⭕
 
 ##### Kiterjeszti
 - [Csapdaállítás](../kepzettsegek/csapdaallitas.md): mechanikus csapdák állításához követelmény lehet a Mechanika
-- [Keresés](kereses.md) (csapdához, titkosajtóhoz, amiben szerkezet van)
+- [Keresés](kereses_nyomolvasas.md) (csapdához, titkosajtóhoz, amiben szerkezet van)
 - [Szakma - Fegyverkovács](../kepzettsegek/szakma.md)
 - [Szakma - Páncélkovács](../kepzettsegek/szakma.md)
 - [Tudományok](../kepzettsegek/tudomanyok.md)
