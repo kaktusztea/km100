@@ -1,4 +1,4 @@
-#### Képzettség neve
+#### Városi jártasság
 
 **Próba:** dobható
 
