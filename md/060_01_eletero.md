@@ -36,9 +36,8 @@ A sima `ÉP` és a `KT` értékek kezelése ugyanabban az ÉP táblázatban tör
 
 ---
 #### Sebzések jelölése az ÉP táblázatban
-Először jelöljük be a valós sebesülés okozta ÉP-ket, majd utána a Kábulat ÉP-ket (ajánlott egy „**K**” betű írása a rubrikákba).
 
-Ha egy karakternek egy korábbi fejbekólintás okán vannak már `KT`-i és egy újabb – valós – sebet szerez, akkor az újabb sebet a legutolsó valós seb után írjuk be, a meglevő `KT`-ket pedig „toljuk lejjebb”. Ha `KT`-k hatására betelik az életerő táblázat, a karakter akkor is életben marad. Halált csak a valós `ÉP`-k 0-ra csökkenése okozhat.
+Először jelöljük be a valós sebesülés okozta ÉP-ket, majd utána a Kábulat ÉP-ket (ajánlott egy „**K**” betű írása a rubrikákba).
 
 ---
 #### Valós ÉP seb elszenvedése Kábulat ÉP után
