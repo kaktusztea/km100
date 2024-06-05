@@ -15,10 +15,11 @@
 - [Heraldika](../hatterek.szabad/heraldika.md)
 - [Jogismeret](../hatterek.szabad/jogismeret.md)
 - [Pénzügyek](../hatterek.szabad/penzugyek.md)
+- [Rejtjelfejtő](../hatterek.szabad/rejtjelfejto.md)
 - [Térképészet](../hatterek.szabad/terkepeszet.md)
 
 
-**Leírás**: xyz
+**Leírás**: Professzor, vagy tudósember vagy, a tudás a legfőbb kincsed.
 
 
 <br />

@@ -11,15 +11,20 @@ A Fortélyok egyedi ismeretek, melyeket ugyanúgy KP-ből vehet fel a karakter, 
 Fortély: 6 KP / fok
 ```
 
-A Fortélyokat nehézségük és összetettségük szerint csoportosítjuk. Lehetnek `1`, vagy több fokúak.
-
-**Minden fok költsége: `6 KP`**
+A Fortélyokat nehézségük és összetettségük szerint csoportosítjuk. Lehetnek `1`, vagy több fokúak, minden fok költsége: `6 KP`.
 
 Több fokú Fortélyoknál szintenként csak egy fokot lehet fejlődni akkor is, ha lenne elég KP több fokra is! **Ez alól kivétel az 1. szint (karakteralkotás).**
 
-Egy szintlépés alkalmával nem vehető fel két olyan Fortély, amely ugyanazt a jellemzőt/képzettséget, stb módosítja.
+A fortélyoknak lehetnek **követelményei**:\
+Tulajdonságok elvárt értékei, képzettségek elvárt szintje, esetleg más fortélyok megléte, vagy valamilyen nem számszerűsíthető körülmény.
 
-A fortélyoknak lehetnek **követelményei**: Tulajdonságok elvárt értékei, képzettségek elvárt szintje, esetleg más fortélyok megléte, vagy valamilyen nem számszerűsíthető körülmény.
+## Jellemző hatás 1: Bónusz adása
+
+Egy fortély jellemzően egy képzettségre adhat pluszokat. Ilyenkor az általános bónusz - amennyiben számszerű - jellemzően `+2`.
+
+## Jellemző hatás 2: Képzettség kiterjesztése
+
+A [Szabad Hátterekhez](023_szabad_hatterek.md) hasonlóan egyes Fortélyok képesek képzettségeket kiterjeszteni. Fortélyok esetén ez **követelményként** működik, tehát a fortély hiánya esetén próba nem is doható.
 
 ---
 
