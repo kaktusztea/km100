@@ -13,7 +13,7 @@
 
 **Követelmények**: ⭕ ((ha nincs, törölni))
 
-**Leírás**: xyz
+**Leírás**:
 
 ⭕TODO⭕
 - helyi pletykák ismerete és megszerzése
@@ -28,10 +28,15 @@ Például
 - bajvívó
 - tolvaj
 
-Erre dobunk:
- - keresek egy csövest, aki infót ad
+
 
 ⭕TODO⭕
+
+**Speciális**:
+
+Segít a Helyismeret gyorsabb megszerzésében
+- ⭕TODO⭕erre lehet valami képlet, vagy próba a megszerzésre
+- célszám: legyen egy standard + módosítók a helység méretétől függően
 
 <br />
 
@@ -48,6 +53,10 @@ Erre dobunk:
 <br />
 
 ##### Próbák
+
+⭕Példa:
+ - keresek egy csövest, aki infót ad
+ 
 
 | Célszám | Példa  |
 | :----------- | :----------- |
