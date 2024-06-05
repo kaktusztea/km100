@@ -114,22 +114,21 @@ A Fájdalomtűrés képzettség fontos szerepet játszik a harcban elszenvedett 
 
 ---
 #### Fájdalomtűrés harc közben
-```
-- TÉ levonást csökkenti: Önuralom + Fájdalomtűrés
-- S4: Fájdalomtűrés (K) + Edzettség (T)  vs.  12
-```
 
-Ha harc közben más sebesülés kategóriába lép a karakter, `TÉ` levonást kap büntetésül. Ezt az értéket csökkenti a **Fájdalomtűrés** képzettség és az **Önuralom** tulajdonság összege.
+Ha harc közben más sebesülés kategóriába (S) lép a karakter, akkor fix `TÉ` levonást kap büntetésül. Ennek értékét csökkenti statikusan az alábbiak összege:\
+`Önuralom + Fájdalomtűrés`
 
-| - | S1 | S2 | S3 | S4 |
-| :-----: | :----: | :----: | :----: | :----: |
-| TÉ levonás | - | -10 | -20 | -30 |
-
+|     -      | S1  | S2  | S3  | S4  |
+| :--------: | :-: | :-: | :-: | :-: |
+| TÉ levonás |  -  | -10 | -20 | -30 |
 
 #### S4 kategóriás fájdalomtűrés
 ⭕[Harci láz ad bónuszt?](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.fortelyok#harci-l%C3%A1z)
 
-Ha a karakter az S4-es (Súlyosan sebesült) kategóriába ér egyszeri [Fájdalomtűrés](kepzettsegek/fajdalomtures.md) próbát kell dobnia Nehéz (`12`) célszám ellen. Siker esetén ezt a próbát a következő sebesüléskor kell csak újradobnia.
+Ha a karakter az S4-es (Súlyosan sebesült) kategóriába ér egyszeri [Fájdalomtűrés](kepzettsegek/fajdalomtures.md) próbát kell dobnia Nehéz (`12`) célszám ellen.
+`Fájdalomtűrés (K) + Edzettség (T)  vs.  12`
+
+Siker esetén ezt a próbát a következő sebesüléskor kell csak újradobnia.
 
 ---
 #### ⚡ Példa Fájdalomtűrésre
@@ -141,12 +140,10 @@ Ekkor az ő sebesülés táblázata így néz ki:
 | :-----: | :----: | :----: | :----: | :----: |
 | TÉ levonás | - | -2 | -12 | -22 |
 
-
 ---
 #### Fájdalomtűrés harcon kívül
 
 Mérgezés, kínzás, egyéb fájdalom esetén a karakterek Fájdalomtűrés-próbát kell dobnia a KM által meghatározott célszámra.
-
 
 ---
 #### Sérülés hatása képzettségpróbára
@@ -157,7 +154,6 @@ Ha megsérül a karakter, képzettségpróbáira levonások járnak. Hogy mennyi
 | :-----: | :----: | :----: | :----: | :----: |
 | Fizikai képzettség | - | -2 | -4 | -6 |
 | Egyéb képzettség | - | - | -1 | -3 |
-
 
 ---
 #### Vértek, SFÉ
