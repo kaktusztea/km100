@@ -1,9 +1,11 @@
 #### 🟡 Titkos szervezeti kultúra 🔁
 
-##### Kiterjeszti ezeket:
+##### Kiterjeszti ezeket
+
 - [Etikett](../kepzettsegek/etikett.md)
 
 ##### Követelmény
+
 - ⭕KELL?⭕ [Kultúrkör](../hatterek.kiemelt/kulturkor.md): (adott kultúrkör)
 
 

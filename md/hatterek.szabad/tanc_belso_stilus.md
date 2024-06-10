@@ -2,11 +2,13 @@
 
 Többször felvehető. Ez általában egyedi, titkos, vagy nagyon speciális táncot takar, mint például a **Toroni Vérnász**. Magától értetődik, hogy speciális/belső táncstílus tanulásához kapcsolódó **Kultúrkör** Háttér is szükségeltetik (lásd követelmények).
 
-##### Kiterjeszti ezeket:
+##### Kiterjeszti ezeket
+
 - [Előadóművészet](../kepzettsegek/eloadomuveszet.md)
 - [Művészetismeret](../kepzettsegek/muveszetismeret.md)
 
 ##### Követelmény
+
 - Előtörténet
 - [Etikett](../kepzettsegek/etikett.md) -`9.szint` (képzettség)
 - [Előadóművészet](../kepzettsegek/eloadomuveszet.md) - `9.szint` (képzettség)

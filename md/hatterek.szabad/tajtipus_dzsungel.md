@@ -2,7 +2,7 @@
 
 Ismered a dzsungel környezetet.
 
-##### Kiterjeszti ezeket:
+##### Kiterjeszti ezeket
 - [Természetjárás](../kepzettsegek/termeszetjaras.md)
 
 ##### Követelmény

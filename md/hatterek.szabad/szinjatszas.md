@@ -4,7 +4,8 @@ Képes vagy színpadi műveket előadni, előadásban részt venni. Ismered a sz
 
 **Nem használható hazudozásra**, mások becsapására. Arra lásd a [Befolyásolás](../kepzettsegek/befolyasolas.md) képzettséget.
 
-##### Kiterjeszti ezeket:
+##### Kiterjeszti ezeket
+
 - [Előadóművészet](../kepzettsegek/eloadomuveszet.md)
 - [Művészetismeret](../kepzettsegek/muveszetismeret.md)
 

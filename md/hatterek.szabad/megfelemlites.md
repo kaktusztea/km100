@@ -4,7 +4,8 @@
 
 Zord külsőd és fenyegető belsőd engedelmességre parancsolja a pondrókat.
 
-##### Kiterjeszti ezeket:
+##### Kiterjeszti ezeket
+
 - [Befolyásolás](../kepzettsegek/befolyasolas.md)
 - [Emberismeret](../kepzettsegek/emberismeret.md)
 

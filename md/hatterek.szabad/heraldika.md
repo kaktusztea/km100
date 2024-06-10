@@ -2,7 +2,7 @@
 
 Címerek ismeretét takarja.
 
-##### Kiterjeszti ezeket:
+##### Kiterjeszti ezeket
 
 - [Nyomozás](../kepzettsegek/nyomozas.md)
 - [Történelemismeret](../kepzettsegek/tortenelemismeret.md)
