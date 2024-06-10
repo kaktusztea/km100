@@ -16,7 +16,7 @@ A képzettség az alábbi tevékenységeket fedi le:
 - vérzés elállítása
 - fertőtlenítés, sebkötözés kencék használatával
 - [vajákos](vajakossag.md) által beszerzett készítmények használata
-- mérgezés gyógyitása ([Méregkeverés](meregkeveres.md): **Összhang**)
+- mérgezés gyógyitása
 
 Magasabb szinteken egyre kevésbé van szükség fizikai komponensekre, keverékekre.
 
@@ -57,9 +57,9 @@ Vajákosság szint követelmény: `Gyógyítandó ÉP / 2`
 
 <br />
 
-##### Összhangok
+##### Speciális
 
-- Vajákosság **NEM** ad Összhangot, mert az csak a gyógyszer komponens beszerzésének követelménye.
+A [Vajákosság](vajakossag.md) képzettséggel **NINCS** ad Összhang, mert az csak a gyógyszer komponens beszerzésének követelménye.
 
 <br />
 

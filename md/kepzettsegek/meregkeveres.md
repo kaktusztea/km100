@@ -33,19 +33,11 @@ Ez egy [Primer képzettség](../016_primer_szekunder_ismeretek.md).
 
 A méreg kikeverése **Méregkeverés** képzettpróbához kötött, amelynek célszáma a **Méreg szintjével** azonos. A **Méreg szintjének** számítása a [Méregrendszer](../130_meregrendszer.md) fejezetben található.
 
-
 ##### Méreg azonosítása tünetek, környezeti hatás alapján
 - Sima Méregkeverés próba
 - Alap célszám: `6`
 - Félrevezető (speciális) :`+3/6`
 - [Élettan](../fortelyok.altalanos/elettan.md) fortély: `-2 / fok`
-
-
-<br />
-
-##### Erős Összhangok
-- Alkímia
-- Vajákosság 
 
 <br />
 

@@ -35,7 +35,7 @@
 
 ##### Próbák
 
-Ha egy passzív próbánál (például: "Mi ez a zene?, Ki festette ezt a képet?") magasabb az [Előadóművészet](eloadomuveszet.md) képzettség, **akkor is a Művészetismeret képzettség szintjével dobunk próbát**! Attól hogy valaki remekül furulyázik a kocsmában, nem feltétlenül járatos a zenei nagyvilágban.
+Ha egy passzív próbánál (például: "Mi ez a zene?, Ki festette ezt a képet?") magasabb az **Előadóművészet** képzettség, **akkor is a [Művészetismeret](muveszetismeret.md) képzettség szintjével dobunk próbát**! Attól hogy valaki remekül furulyázik a kocsmában, nem feltétlenül járatos a zenei nagyvilágban.
 
 | Célszám | Példa  |
 | :----------- | :----------- |

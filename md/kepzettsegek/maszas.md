@@ -42,12 +42,6 @@ Ha a terep (próba) nehézsége nem nagyobb a a Mászás képzettségnél, akkor
 
 <br />
 
-##### Összhang
-
-Az [Akrobatika](akrobatika.md) képzettség - helyzettől és a KM döntésétől függően - működhet [Összhangként](../036_kepzettsegproba.md#%C3%B6sszhangok).
-
-<br />
-
 ---
 ##### Képzettség Bónuszok
 
@@ -58,7 +52,6 @@ Titkos, félmágikus ismeret.
 **Követelmény**: Életed a mászás, Mászás - `15.szint`
 
 `15.szint`: Képes vagy pókként megtapadni a falon – akár a mennyezeten is. A kapaszkodáshoz nincs szükséged kiszögelésre.
-
 
 ---
 ##### Próbák
