@@ -29,10 +29,6 @@ A tudás szélesíthető a fent található Szabad Hatterek felvételével Szaba
   - [Kultúrkör](../hatterek.kiemelt/kulturkor.md) (adott kultúra). Enélkül `+3` nehezítés a képzettségpróbákra.
   - [Nyelvismeret](../hatterek.kiemelt/nyelvismeret.md): Udvari fok
 
-**Összhangok:**
-- [Előadóművészet](eloadomuveszet.md)
-- [Történelemismeret](tortenelemismeret.md)
-
 <br />
 
 ##### Biztos tudás, követelmények
@@ -49,7 +45,7 @@ A tudás szélesíthető a fent található Szabad Hatterek felvételével Szaba
 
 ##### Próbák
 
-Ha egy passzív próbánál (például: "Mi ez a zene?, Ki festette ezt a képet?") magasabb az [Előadóművészet](eloadomuveszet.md) képzettség, **akkor is a Művészetismeret képzettség szintjével dobunk próbát**! Attól hogy valaki remekül furulyázik a kocsmában, nem feltétlenül járatos a zenei nagyvilágban.
+Ha egy passzív próbánál (például: "Mi ez a zene?, Ki festette ezt a képet?") magasabb az [Előadóművészet](eloadomuveszet.md) képzettség, **akkor is a Művészetismeret képzettség szintjével dobunk próbát!** Attól hogy valaki remekül furulyázik a kocsmában, nem feltétlenül járatos a zenei nagyvilágban.
 
 | Célszám              | Példa |
 |:-------------------- |:----- |

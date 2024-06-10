@@ -40,10 +40,6 @@
 
 <br />
 
-**Összhang**: [Természetjárás](termeszetjaras.md)
-
-<br />
-
 ##### Próbák
 
 | Célszám | Példa  |

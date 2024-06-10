@@ -125,7 +125,9 @@ Tehát:
 - lefelé kerekítünk
 ```
 
-A fentieknek csak kismesteri (`6`.) szint **alatt** van csak értelme, azaz a helyettesítő képzettség(ek) legfeljebb `5.szintig` adhatnak helyettesítő értéket.
+A helyettesítő képzettség(ek) értelemszerűen legfeljebb `5.szintű` helyettesítő értéket képesek adni (`15/3=5`).
+
+Az egyes Összhang-párokat nem írjuk le mind, ezek helyzetfüggőek, a KM rögtönözhet ha az adott szituációban úgy ítéli meg, hogy egy képzettség behelyettesíthető a fentiek szerint a másik helyére.
 
 #### ⚡Példa: Nyomozás összhangokkal
 
@@ -137,6 +139,16 @@ A karakter egy bűntény helyszínén gyanús személyekkel találkozik. Kikére
 Ebben az esetben az **Emberismeret** képzettség az, amely helyettesítő képzettségként működik. Mivel a jelen próbához az **Emberismeret** Összhangként kapcsolódik, ezért annak `1/3`-a működhet **Nyomozás** képzettségként (a próba idejére): `9/3 = 3`
 
 Tehát a próbát `3 + Érzékenység  vs  Próba célszám` értékekkel dobja.
+
+#### ⚡További Összhang példák felsorolásszerűen
+
+- [Akrobatika](akrobatika.md) ⇆ [Mászás](kepzettsegek/maszas.md)
+- [Orvoslás](kepzettsegek/orvoslas.md) ⇆ [Méregkeverés](kepzettsegek/meregkeveres.md)
+- [Alkímia](kepzettsegek/alkimia.md) ⇆ [Méregkeverés](kepzettsegek/meregkeveres.md)
+- [Vajákosság](kepzettsegek/vajakossag.md) ⇆ [Természetjárás](kepzettsegek/termeszetjaras.md)
+- [Történelemismeret](kepzettsegek/tortenelemismeret.md) ⇆ [Művészetismeret](kepzettsegek/muveszetismeret.md)
+- stb.
+
 
 ---
 ### Sérülés hatása képzettségpróbára

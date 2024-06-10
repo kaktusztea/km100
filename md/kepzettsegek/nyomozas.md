@@ -8,8 +8,6 @@ Ez egy [Primer képzettség](../016_primer_szekunder_ismeretek.md).
 
 **Kapcsolódó fortélyok**: [Keresés](../fortelyok.altalanos/kereses_nyomolvasas.md), [Építészet](../fortelyok.altalanos/epiteszet.md), [Élettan](../fortelyok.altalanos/elettan.md) (boncoláshoz)
 
-**Összhang**: [Emberismeret](emberismeret.md) (szituáció-függő)
-
 **Szabad Hátterek kiterjesztik**:
 - [Heraldika](../hatterek.szabad/heraldika.md)
 - [Pénzügyek](../hatterek.szabad/penzugyek.md)
@@ -26,7 +24,7 @@ Ez egy [Primer képzettség](../016_primer_szekunder_ismeretek.md).
 - Kit érdemes kikérdezni a helyszínen
 - KM kis segítsége: "Valamit még nem kérdeztél meg"
 
-A rejtett nyomok megtalálásához az [Észlelés](eszleles.md) képzettség használandó, az értelmezéséhez pedig a Nyomozás.
+A rejtett nyomok megtalálásához az [Észlelés](eszleles.md) képzettség használandó, az értelmezéséhez pedig a **Nyomozás**.
 
 <br />
 
@@ -60,8 +58,3 @@ A rejtett nyomok megtalálásához az [Észlelés](eszleles.md) képzettség has
 ##### Célszámot módosító körülmények
 
 - ⭕xyz
-
----
-
-
-*Megjegyzés a kidolgozáshoz: [Összhangok](../036_kepzettsegproba.md#%C3%B6sszhangok). Bizonyos képzettségek "besegíthetnek" az adott képzettségbe, ezt nevezzük Összhangnak. Amennyiben ilyen előfordul az adott képzettségnél, akkor a "Próbák" bekezdés fölé illesszünk be egy "Összhangok" bekezdést.*
