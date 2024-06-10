@@ -1,9 +1,11 @@
 #### 🟡 Térképészet
 
-##### Kiterjeszti ezeket:
+##### Kiterjeszti ezeket
+
 - [Tudományok](../kepzettsegek/tudomanyok.md)
 
 ##### Követelmény
+
 - ⭕xyz
 
 <br />

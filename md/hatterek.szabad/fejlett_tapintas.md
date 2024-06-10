@@ -1,6 +1,7 @@
 #### 🟡 Fejlett tapintás
 
-##### Kiterjeszti ezeket:
+##### Kiterjeszti ezeket
+
 - Érzékenység Tulajdonságodat segíti tapintás esetén
 
 ##### Követelmény: -

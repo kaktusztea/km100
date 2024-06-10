@@ -2,7 +2,7 @@
 
 Oh, az a birka nép! Mind a lábad előtt hever, mikor súlyos gondokkal tépelődve, mégis erős akarattal arcodon kilépsz eléjük a napfényre és lángra gyújtod lelküket...
 
-##### Kiterjeszti ezeket:
+##### Kiterjeszti ezeket
 - [Befolyásolás](../kepzettsegek/befolyasolas.md)
 - [Emberismeret](../kepzettsegek/emberismeret.md)
 

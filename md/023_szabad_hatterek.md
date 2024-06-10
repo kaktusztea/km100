@@ -48,6 +48,12 @@ Ha egy képzettséghez számos Szabad Háttér kapcsolódik - gyakorlatilag fels
 - [Tájtípus: sivatagi](hatterek.szabad/tajtipus_sivatagi.md)
 - [Tánc](hatterek.szabad/tanc.md)
 - [Tánc: speciális/belső stílus](hatterek.szabad/tanc_belso_stilus.md) 🔁
+- [Taktika: Falanx](hatterek.szabad/taktika_falanx.md)🔺
+- [Taktika: Fejvadászok vezetése](hatterek.szabad/taktika_fejvadaszok_vezetese.md)🔺
+- [Taktika: Íjász](hatterek.szabad/taktika_ijasz.md)🔺
+- [Taktika Nehézlovas](hatterek.szabad/taktika_nehezlovas.md)🔺
+- [Taktika: Testőrség](hatterek.szabad/taktika_testorseg.md)🔺
+- [Taktika: Útonállás, rajtaütés](hatterek.szabad/taktika_utonallas_rajtautes.md)🔺
 - [Teaszertartás](hatterek.szabad/teaszertartas.md)
 - [Térképészet](hatterek.szabad/terkepeszet.md)
 - [Titkos szervezeti kultúra](hatterek.szabad/titkos_szervezeti_kultura.md) 🔁

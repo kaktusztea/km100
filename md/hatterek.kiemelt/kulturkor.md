@@ -25,7 +25,7 @@ Kapcsolódó Képzettség-próba:
 
 ##### Kapcsolódó fortély
 - [Hamisítás](../fortelyok.altalanos/hamisitas.md) fortély
-- [Taktika: Testőrség](../fortelyok.harci/taktika_testorseg.md) fortély
+- [Taktika: Testőrség](../hatterek.szabad/taktika_testorseg.md) fortély
 
 ##### Követelmény
 - Lásd a fokok leírását!
