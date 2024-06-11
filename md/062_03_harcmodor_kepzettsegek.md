@@ -1,15 +1,10 @@
-
----
-### Harcérték Módosítók (HM), Célzóérték Módosítók (CM)
-
-Lásd a [Harcérték módosítók (HM) / Célzóérték módosítók (CM)](019_hm_cm.md) fejezetet.
-
----
 ### Harcmodor képzettségek
 
 A km100 rendszere az alábbi (Primer) harci képzettségeket ismeri:
 
 **Közelharc, Kardvívás, Lándzsavívás, Zúzás, Hajítás, Íjászat, Lövészet, Ostromlövészet**
+
+Ebben a fejezetben az ember-ember elleni harcmodorokkal foglalkozunk, a Távolsági harcot érintő harcmodorokat [annak külön fejezetében](070_tavolsagi_harc.md) tárgyaljuk.
 
 - **Közelharc**: Rövid (0) pengehosszú fegyverek, puszta kéz
 - **Kardvívás**: minden további „pengés” fegyver (kétkezes kard is)
@@ -45,7 +40,7 @@ A harci képzettségek aktuális szintjétől függ, hogy az alá tartozó fegyv
 ---
 ### Harcmodorok és Manőverek
 
-A Manőverek alkalmazását, leírását részletesen lásd a „[Manőverek](065_00_manoverek.md)” fejezetben.
+A Manőverek alkalmazását, leírását részletesen lásd a [Manőverek](065_00_manoverek.md) fejezetben.
 
 Harc közben gyakran előfordul, hogy egy karakter speciális húzásokkal próbálkozik, egyedi cseleket vet be, hogy megkönnyítse győzelmét, például kirúgja ellenfele lábát, vagy homokot szór annak szemébe. Sokszor van olyan is, hogy egy karakter különösen jó egy adott csel alkalmazásában és azt előszeretettel veti be. Ezek a manőverek.
 
@@ -59,6 +54,3 @@ A Manőver-ismeretek tanulása szorosan összekapcsolódik a Harcmodor-képzetts
 Minden nem-távolsági Harcmodor harmadik (`3.`) képzettség szintje `1` db ún. Manőverfejlesztő Pontot (**MFP**) ad. Az egyes manőver ismeretek tanulása ezekből a pontokból történik. Fontos, hogy a manővereknek csak egy része fejleszthető – kizárólag ezekre lehetséges **MFP**-t költeni. Az tanulható manőverek különböző mértékben fejleszthetők. Különböző fokon lehet felvenni őket – melyeknek természetesen követelményük is van.
 
 ---
-### Mesterfegyver fortély
-
-A kapott bónuszokat, módosítókat lásd a [Mesterfegyver](fortelyok.harci/mesterfegyver.md) fortély leírásában.

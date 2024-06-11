@@ -71,6 +71,7 @@
 
 ---
 ### 5. [Tradíciók](050_tradiciok.md)
+
 - [Mágia tradíciók](051_00_magia_tradiciok.md)
   -  [Magasmágia](051_01_magasmagia.md)
   - [Vulgármágia](051_02_vulgarmagia.md)
@@ -99,8 +100,10 @@
 #### 6.2 Alapértékek
 
 - [KÉ, TÉ, VÉ, CÉ](062_01_ke_te_ve_ce.md)
-- [Harcmodor képzettségek](062_02_harcmodor_kepzettsegek.md)
-- [Mozgásgátló tényező (MGT)](062_03_mgt.md)
+- [HM, CM](062_02_hm_cm.md)
+- [Harcmodor képzettségek](062_03_harcmodor_kepzettsegek.md)
+- [Mesterfegyver fortély bónuszai](062_04_mesterfegyver.md)
+- [Mozgásgátló tényező (MGT)](062_05_mgt.md)
 
 #### 6.3 Harc menete
 
@@ -136,6 +139,7 @@
 
 ---
 ### 8. [Pszí](080_pszi.md)
+
 - [Pszi diszciplínák](081_pszi_diszciplinak.md) (0%)
 
 ---

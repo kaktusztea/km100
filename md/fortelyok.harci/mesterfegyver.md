@@ -13,7 +13,7 @@ A legtöbb esetben egy karakternek van egy (vagy több) fegyver típusa, amelyet
 
 **Megjegyzések**
 
-- Bizonyos **manővereknek** követelménye lehet ennek a fortélynak valamely foka, melyet csak az adott fegyverrel képes végrehajtani a forgatója. Például: "**Első vágás**", "**Mesterjel**"
+- Bizonyos **manővereknek** követelménye lehet ennek a fortélynak valamely foka, melyet csak az adott fegyverrel képes végrehajtani a forgatója. Például: [Mesterjel](../065_03_altalanos_manoverek.md#mesterjel)
 
 <br />
 
