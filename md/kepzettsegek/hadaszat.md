@@ -15,6 +15,6 @@ Stratégiai tervezés, logisztika, hadtáp, harci csoportok vezetése (taktikák
 - [Taktika: Testőrség](../hatterek.szabad/taktika_testorseg.md)
 - [Taktika: Útonállás, rajtaütés](../hatterek.szabad/taktika_utonallas_rajtautes.md)
 
-Egyet ingyen megkapsz, amint eléred a `3.szintet` a Hadvezetés képzettségben.
+Egyet ingyen megkapsz, amint eléred a `3.szintet` a **Hadászat** képzettségben.
 
 <br />

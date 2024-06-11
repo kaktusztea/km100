@@ -8,7 +8,7 @@ Testőrség részeként tudsz mozogni, kommunikálni, járatos vagy az általad 
 
 ##### Kiterjeszti ezeket
 
-- [Hadvezetés](../kepzettsegek/hadaszat.md)
+- [Hadászat](../kepzettsegek/hadaszat.md)
 
 ##### Követelmény
 

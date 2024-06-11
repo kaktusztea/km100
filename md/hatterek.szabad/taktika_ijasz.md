@@ -6,7 +6,7 @@
 
 ##### Kiterjeszti ezeket
 
-- [Hadvezetés](../kepzettsegek/hadaszat.md)
+- [Hadászat](../kepzettsegek/hadaszat.md)
 
 ##### Követelmény
 

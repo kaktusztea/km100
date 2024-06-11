@@ -128,7 +128,7 @@ Az aktív előadást igénylő művészeteket szeparáltuk az **Előadóművész
 
 🔵[Alkímia](kepzettsegek/alkimia.md) <sup><sub>(0%)</sub></sup>
 
-🔵[Hadvezetés](kepzettsegek/hadaszat.md) <sup><sub>(0%)</sub></sup> 
+🔵[Hadászat](kepzettsegek/hadaszat.md) <sup><sub>(0%)</sub></sup> 
 
 🔵[Méregkeverés](kepzettsegek/meregkeveres.md) 🅿️ <sup><sub>(90%)</sub></sup>
 
