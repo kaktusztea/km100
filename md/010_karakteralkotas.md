@@ -33,10 +33,10 @@ Most a [Képzettségek listáját](031_kepzettseglista.md) tekintsd át, majd el
 
 Karakteralkotó Pontjaidat [Fortélyok](040_fortelyok.md) felvételére is költheted, amelyek változóan, `[1-4]` fokúak is lehetnek. Ezek nem szélesen skálázandó, hanem "szűk", biztos tudást adhatnak, vagy egy képzettség egy meglevő aspektusának erősítését végezhetik - jellemzően `+2` bónuszt adva fokonként. A [Pszí alkalmazás](fortelyok.misztikus/pszi_alkalmazas.md) is a Fortélyok közt található. Fontos kiemelni a [Mesterfegyver](fortelyok.harci/mesterfegyver.md) harci fortélyt amely egy konkrét fegyver hatékonyabb használatát jeleníti meg.
 
-A [Harcérték Módosítók (HM, CM)](019_hm_cm.md) felvétele is `KP`-ból történik, ezek az általános harci tapasztalat növekedését hivatottak modellezni. A [Manőverfejlesztő Pontokat (MFP)](017_03_mfp.md) automatikusan kapod, [Manőver](060_14_00_manoverek.md) ismereteket vehetsz fel belőlük.
+A [Harcérték Módosítók (HM, CM)](019_hm_cm.md) felvétele is `KP`-ból történik, ezek az általános harci tapasztalat növekedését hivatottak modellezni. A [Manőverfejlesztő Pontokat (MFP)](017_03_mfp.md) automatikusan kapod, [Manőver](065_00_manoverek.md) ismereteket vehetsz fel belőlük.
 
 A [Hátterek](020_hattererek.md) számos érdekes aspektussal ruházhatják fel karakteredet. Az egyes fajok mind [Faj-Háttereként](021_faj_hatterek.md) vehetőek fel, limitációik és - érzékeiket érintő - kapcsolódó fortélyaikat ott találod meg. A [Kiemelt Hátterek](022_kiemelt_hatterek.md) három egyedi ismeretet adnak, amelyekre nem kell `KP`-t költened. A [Szabad Hátterek](023_szabad_hatterek.md) - melyeket [Szabad Pontok](017_02_szp.md) elköltésével vehetsz fel - specializált, egy, vagy több képzettséget "kiterjesztő" ismeretek. Ha rendelkezel egy ilyen területtel, akkor adott képzettség(ek)kel `-3` büntetés **nélkül** dobhatsz ilyen jellegű próbáknál. Végül essen szó a [Leíró Hátterekről](024_leiro_hatterek.md), ezek egyszavas jellemzők, melyek a karakter jellemét, hátterét színesítik - tetszés szerint vehetőek fel.
 
 Jöhetnek a [Származtatott értékek](018_00_szarmaztatott_ertekek.md): az [Életerő Pont](018_01_ep.md), a [Mágiaellenállás](018_02_magiaellenallas.md), a [Méregellenállás](018_03_meregellenallas.md) kiszámítása - ezekre nem kell külön pontot költeni.
 
-Majd jöjjön végül karaktered [harcértékeinek megállapítása](060_02_harcertekek_elemei.md).
+Majd jöjjön végül karaktered [harcértékeinek megállapítása](062_02_harcmodor_kepzettsegek.md).

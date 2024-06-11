@@ -1,5 +1,5 @@
 #### 🟣 Belharc (2)
-Testközelben érzed igazában elemedben magad.<br />Sikeres 🗡️[Belharcba kerülés](../060_14_00_manoverek.md#belharcba-ker%C3%BCl%C3%A9s)) manőver esetén 🗡️[Belharci szituációba](../060_11_harci_taktikak.md#belharc-belharci-szitu%C3%A1ci%C3%B3)) kerülsz és harcértékeidre - csak (!) **Közelharc** harcmodor és legfeljebb "rövid" pengehosszú fegyverek használata esetén - a lent leírt pluszok járnak.
+Testközelben érzed igazában elemedben magad.<br />Sikeres 🗡️[Belharcba kerülés](../065_00_manoverek.md#belharcba-kerülés)) manőver esetén 🗡️[Belharci szituációba](../064_02_harci_taktikak.md#belharc-belharci-szituáció)) kerülsz és harcértékeidre - csak (!) **Közelharc** harcmodor és legfeljebb "rövid" pengehosszú fegyverek használata esetén - a lent leírt pluszok járnak.
 
 |       | Követelmény                                                                          | Hatás                                                     |
 | :---- | :----------------------------------------------------------------------------------- | :-------------------------------------------------------- |
@@ -10,7 +10,7 @@ Testközelben érzed igazában elemedben magad.<br />Sikeres 🗡️[Belharcba k
 
 **Megjegyzések**
 
-- Az ellenfél módosítóinak változását lásd a Harcrendszer fejezet [Belharc, belharci szituáció](../060_11_harci_taktikak.md#belharc-belharci-szitu%C3%A1ci%C3%B3) harci taktika leírásánál!
+- Az ellenfél módosítóinak változását lásd a Harcrendszer fejezet [Belharc, belharci szituáció](../064_02_harci_taktikak.md#belharc-belharci-szituáció) harci taktika leírásánál!
 
 <br />
 

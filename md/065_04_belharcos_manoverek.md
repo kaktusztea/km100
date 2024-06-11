@@ -18,7 +18,7 @@
 	- Belharc – `1.fok`
 	- Belharci szituáció
 - Speciális: súlyos ellenfélnél opcionális **Erőpróba** (KM dönt)
-- Hatás: Belharc közben fogást találsz ellenfeleden és átdobod a vállad felett. Innentől kezdve a [Harc földön fekve](060_10_harci_helyzetek.md#harc-f%C3%B6ld%C3%B6n-fekve) módosítói szerint kell számolni harcértékeit.
+- Hatás: Belharc közben fogást találsz ellenfeleden és átdobod a vállad felett. Innentől kezdve a [Harc földön fekve](064_01_harci_helyzetek.md#harc-földön-fekve) módosítói szerint kell számolni harcértékeit.
 
 ---
 #### Feszítés, Leszorítás / Feszítésből kijövetel
@@ -113,4 +113,4 @@
 
 ---
 
-🔗[Lovas Manőverek listája](060_14_04_lovas_manoverek.md) →
+🔗[Lovas Manőverek listája](065_05_lovas_manoverek.md) →

@@ -1,11 +1,3 @@
-## Manőverek
-
-Harc közben gyakran előfordul, hogy egy karakter speciális húzásokkal próbálkozik, egyedi cseleket vet be, hogy megkönnyítse győzelmét, például kirúgja ellenfele lábát, vagy homokot szór annak szemébe. Sokszor van olyan is, hogy egy karakter különösen jó egy adott csel alkalmazásában és azt előszeretettel veti be minden új ellenfelénél. De ha egyszer olyannal kerül szembe, aki számít rá...
-
-A km100 harcrendszere lehetőséget ad rá, hogy a karakter harc közben ilyen speciális cselekedeteket – manővereket – alkalmazzon. Vannak olyan manőverek is, melyek csak adott fegyverre, vagy harcmodorra jellemzőek, de a legtöbb szabadon, bárki által alkalmazható, amennyiben eleget tesz a leírt követelményeknek. Az alábbiakban látható az egyes manőverek összefoglaló táblázata, mely tömör formában bemutatja, hogy esetükben mire is van szükség végrehajtásukhoz.
-
-
----
 ### Általános szabályok manőverekre
 
 Manővert csak az aktuálisan használt harcmodor `3.szintjétől` lehet rendesen használni, alatta a **Manőver Nehézsége** magasabb
@@ -21,15 +13,15 @@ Ha minden kötelező fázisa  sikeres a végrehajtó szempontjából (`E V`) és
 
 Végrehajtás fázisa aktuális **fegyveres** `TÉ+20`-al történik (kivéve, ha más szerepel a Manőver leírásában.)
 
- [Meglepett](060_10_harci_helyzetek.md#meglepet%C3%A9s), [Készületlen](060_10_harci_helyzetek.md#k%C3%A9sz%C3%BCletlens%C3%A9g) ellenfél esetén kimarad a **Megakasztás** és az **Ellenpróba** fázis
+ [Meglepett](064_01_harci_helyzetek.md#meglepetés), [Készületlen](064_01_harci_helyzetek.md#készületlenség) ellenfél esetén kimarad a **Megakasztás** és az **Ellenpróba** fázis
 
 Manővereknek lehet:
 - speciális könnyítő/nehezítő körülményei (+/- módosítók a nehézségre)
 - extra végbeviteli követelményei: Ezek nélkül a KM dönt, hogy végrehajtható -e és ha igen, mekkora plusz célszám büntetéssel
 
-Manőver alkalmazásakor nem folytatható [Védekező harc](060_11_harci_taktikak.md#v%C3%A9dekez%C5%91-harc), vagy [Védő Taktika](060_11_harci_taktikak.md#v%C3%A9d%C5%91-taktika) (kivéve ahol ez külön meg van említve), de [Támadó taktika](060_11_harci_taktikak.md#t%C3%A1mad%C3%B3-taktika) igen, kivéve ahol ez az adott Manővernél külön meg van említve.
+Manőver alkalmazásakor nem folytatható [Védekező harc](064_02_harci_taktikak.md#védekező-harc), vagy [Védő Taktika](064_02_harci_taktikak.md#védő-taktika) (kivéve ahol ez külön meg van említve), de [Támadó taktika](064_02_harci_taktikak.md#támadó-taktika) igen, kivéve ahol ez az adott Manővernél külön meg van említve.
 
-[Rohamnál](060_11_harci_taktikak.md#roham) csak az a manőver hajtható végre, amelyiknél ez külön meg van említve
+[Rohamnál](064_02_harci_taktikak.md#roham) csak az a manőver hajtható végre, amelyiknél ez külön meg van említve
 
 ---
 ### Manőverek nehézsége
@@ -60,10 +52,8 @@ Manőver-ismeret: fokonként +2 módosítót
 
 Egy karakter összes **nem-távolsági Harcmodor** képzettségeinek minden `3.szintje` után automatikusan kap egy-egy ún. „**Manőverfejlesztő pontot**” (MFP), amelyekből az említett „Fejleszthető” manőverekhez **Manőver-ismeret** fokokat lehet felvenni. **1 fok tanulása 1 MFP-be kerül**, továbbá a fokok tanulásának követelményeit is teljesíteni kell (lásd az adott manőverek leírásánál).
 
-A **Manőver-ismeretek**, az adott **konkrét** Manőver alkalmazása esetén fokonként `+2` módosítót adnak az alkalmazó **Manőver pontjaihoz** az **Ellenpróba** dobásánál (lásd [Manőver végrehajtása](060_14_01_manover_vegrehajtasa.md)).
+A **Manőver-ismeretek**, az adott **konkrét** Manőver alkalmazása esetén fokonként `+2` módosítót adnak az alkalmazó **Manőver pontjaihoz** az **Ellenpróba** dobásánál (lásd [Manőver végrehajtása](065_02_manover_vegbevitele.md)).
 
 Ilyen ismeret lehet például a **Manőver – Gáncsolás** megtanulása, melynek bónuszát kizárólag **Gáncsolás** manőver esetén kapja meg a karakter. Az, hogy egy Manőver ismeretnek hány foka van, az az adott manőver leírásánál található meg.
 
 ---
-
-🔗[Manőver végrehajtásának lépései](060_14_01_manover_vegrehajtasa.md) →
