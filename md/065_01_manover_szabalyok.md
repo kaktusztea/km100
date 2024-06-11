@@ -57,3 +57,5 @@ A **Manőver-ismeretek**, az adott **konkrét** Manőver alkalmazása esetén fo
 Ilyen ismeret lehet például a **Manőver – Gáncsolás** megtanulása, melynek bónuszát kizárólag **Gáncsolás** manőver esetén kapja meg a karakter. Az, hogy egy Manőver ismeretnek hány foka van, az az adott manőver leírásánál található meg.
 
 ---
+
+🔗[Manőver végbevitele](065_02_manover_vegbevitele.md) →
