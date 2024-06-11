@@ -4,17 +4,6 @@ Egy fantasy világokra tervezett komplett, asztali (papír, kockák) szerepját�
 
 ⚜️ **[km100 szabályrendszer](./md/start.md)** ⚜️
 
----
-## Fejlesztés statisztikái
-
-![](https://progress-bar.dev/98/?title=Karakteralkotás%20%20%20%20%20%20%20%20%20%20%20%20&width=400&color=babaca)\
-![](https://progress-bar.dev/90/?title=K%C3%A9pzetts%C3%A9grendszer%20%20%20%20%20%20%20%20%20&width=400&color=babaca)\
-![](https://progress-bar.dev/20/?title=K%C3%A9pzetts%C3%A9gek%20kidolgzotts%C3%A1ga&width=400&color=babaca)\
-![](https://progress-bar.dev/70/?title=Fort%C3%A9lyok%20kidolgzotts%C3%A1ga%20%20%20&width=400&color=babaca)\
-![](https://progress-bar.dev/60/?title=H%C3%A1tterek%20kidolgzotts%C3%A1ga%20%20%20%20&width=400&color=babaca)\
-![](https://progress-bar.dev/85/?title=Harcrendszer%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&width=400&color=babaca)\
-![](https://progress-bar.dev/10/?title=M%C3%A1giarendszer%20%20%20%20%20%20%20%20%20%20%20%20%20%20&width=400&color=babaca)
-
 🚧 **[Fejlesztő portál](https://github.com/kaktusztea/km100/wiki)** 🚧
 
 ---
@@ -84,6 +73,18 @@ A rendszer nonprofit, soha semmilyen anyagi, vagy egyéb ellenszolgáltatást ne
 ---
 
 ⚜️ **[km100 szabályrendszer](./md/start.md)** ⚜️
+
+---
+
+## Fejlesztés statisztikái
+
+![](https://progress-bar.dev/98/?title=Karakteralkotás%20%20%20%20%20%20%20%20%20%20%20%20&width=400&color=babaca)\
+![](https://progress-bar.dev/90/?title=K%C3%A9pzetts%C3%A9grendszer%20%20%20%20%20%20%20%20%20&width=400&color=babaca)\
+![](https://progress-bar.dev/20/?title=K%C3%A9pzetts%C3%A9gek%20kidolgzotts%C3%A1ga&width=400&color=babaca)\
+![](https://progress-bar.dev/70/?title=Fort%C3%A9lyok%20kidolgzotts%C3%A1ga%20%20%20&width=400&color=babaca)\
+![](https://progress-bar.dev/60/?title=H%C3%A1tterek%20kidolgzotts%C3%A1ga%20%20%20%20&width=400&color=babaca)\
+![](https://progress-bar.dev/85/?title=Harcrendszer%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&width=400&color=babaca)\
+![](https://progress-bar.dev/10/?title=M%C3%A1giarendszer%20%20%20%20%20%20%20%20%20%20%20%20%20%20&width=400&color=babaca)
 
 ---
 **km100**: Nonprofit szabályrendszer a M\* világához
