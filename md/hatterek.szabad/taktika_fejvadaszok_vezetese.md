@@ -6,7 +6,7 @@ Harci jelnyelv alapján tudsz cselekedni, összehangolt csoportként mozogni.
 
 ##### Kiterjeszti ezeket
 
-- [Hadvezetés](../kepzettsegek/hadaszat.md)
+- [Hadászat](../kepzettsegek/hadaszat.md)
 
 ##### Követelmény
 
