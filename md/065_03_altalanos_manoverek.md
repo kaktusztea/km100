@@ -258,4 +258,4 @@ Nem támadsz, hanem ⭕TODO⭕
 
 ---
 
-🔗[Belharcos Manőverek listája](060_14_03_belharcos_manoverek.md) →
+🔗[Belharcos Manőverek listája](065_04_belharcos_manoverek.md) →

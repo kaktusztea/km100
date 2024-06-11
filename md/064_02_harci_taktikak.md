@@ -154,11 +154,11 @@ Bejutottál ellenfeled fegyverének fenyegető vége mögé, testközelbe, de ne
 - Átnézni ezeket a fortélyokat. Belharc fortély is kell hozzájuk?
 ```
 
-Továbbá pár manőver könnyebbé válik Belharci szituációban: [Gáncsolás/lábsöprés](060_14_00_manoverek.md#️g%C3%A1ncsol%C3%A1s--l%C3%A1bs%C3%B6pr%C3%A9s-l%C3%A1bbal) (belharcban `+2` Ellenpróbánál)
+Továbbá pár manőver könnyebbé válik Belharci szituációban: [Gáncsolás/lábsöprés](065_00_manoverek.md#️gáncsolás--lábsöprés-lábbal) (belharcban `+2` Ellenpróbánál)
 
 #### Belharcba kerülés manőver
 
-A Belharci szituációba kerüléshez ezt a manővert kell sikerrel végrehajtani. Nehézsége alapesetben `9`-es, de fejleszthető (`2 fokkal`). ⭕Csak Közelharc harcmodor alkalmazása közben lehet megpróbálni.⭕ Bővebben lásd a [manőver leírását](060_14_00_manoverek.md#belharcba-ker%C3%BCl%C3%A9s).
+A Belharci szituációba kerüléshez ezt a manővert kell sikerrel végrehajtani. Nehézsége alapesetben `9`-es, de fejleszthető (`2 fokkal`). ⭕Csak Közelharc harcmodor alkalmazása közben lehet megpróbálni.⭕ Bővebben lásd a [manőver leírását](065_00_manoverek.md#belharcba-kerülés).
 
 #### Kibontakozás/Átsiklás manőver
 
@@ -225,7 +225,7 @@ Ha küzdelem közben a harcos ellenfele egy konkrét testrészére kíván táma
 - Ennél pontosabb találatot harc közben meghatározni csak a **Pontra támadás** manőverrel lehet.
 - Találatkor sima sebzést dob a támadó
 - Plusz hatás: ha a Sebzés legalább Súlyos (`6 ÉP`), akkor az áldozat valamilyen nem-harcérték korlátozást szenved el. Például ha a cél a fegyverforgató kéz volt, akkor elejti fegyverét és nem képes tovább harcolni vele. Vagy: láb támadása esetén mozgási sebessége felére/harmadára esik vissza (KM dönt). Fejre támadásnál szemébe folyik a vére, esetleg elkábul.
-- Lásd még alább: [Csonkolás](060_11_harci_taktikak.md#csonkol%C3%A1s-%C3%A9s-t%C3%B6r%C3%A9s) harci taktika.
+- Lásd még alább: [Csonkolás](064_02_harci_taktikak.md#csonkolás-és-törés) harci taktika.
 
 ---
 ### Támadás erőből
@@ -248,7 +248,7 @@ Sikeres **Végtagra támadást** kell végrehajtania, valamint megfelelő mennyi
 ### Leütés hátulról (fejre/tarkóra)
 
 - Követelmény: **Észrevétlen támadás**
-- Célpont `VÉ = 30 + mozgás jellegétől függő módosító` (lásd [Észrevétlen támadás](060_10_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s))
+- Célpont `VÉ = 30 + mozgás jellegétől függő módosító` (lásd [Észrevétlen támadás](064_01_harci_helyzetek.md#észrevétlen-támadás))
 
 Ha a támadás sebző **Találat**, akkor és a sebzés legalább Súlyos lenne (`12 ÉP`), akkor az áldozat Fájdalomtűrés próbát dob `12`-es célszám (**Nehéz**) ellen, ezúttal **Edzettség** tulajdonsággal. Ha nincs meg, azonnal elájul.
 
@@ -272,14 +272,14 @@ Ez azért van, mert egy járatlan támadó nem tudja olyan jól megbecsülni a s
 
 Kapcsoló fortély: [Harci anatómia](fortelyok.harci/harci_anatomia.md)
 
-Ha [Észrevétlen támadás](060_10_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s) sikerül leadnod (`VÉ` értékét lásd ott), akkor érvényesülnek a [Harci anatómia](fortelyok.harci/harci_anatomia.md) fortélynál leírt bónuszok.
+Ha [Észrevétlen támadás](064_01_harci_helyzetek.md#észrevétlen-támadás) sikerül leadnod (`VÉ` értékét lásd ott), akkor érvényesülnek a [Harci anatómia](fortelyok.harci/harci_anatomia.md) fortélynál leírt bónuszok.
 
 ---
 ### Pontok támadása harc közben
 
 Kapcsoló fortély: [Harci anatómia](fortelyok.harci/harci_anatomia.md)
 
-Ha harc közben próbálsz ellenfeleden egy konkrét pont támadásával nagyobb sebzést elérni, vagy a **Harci anatómia** fortélynál leírt hatások valamelyikét elérni, akkor [Területre/Pontra támadás](060_14_00_manoverek.md#ter%C3%BCletrepontra-t%C3%A1mad%C3%A1s) manővert kell végezned. Amennyiben az sikeres, megkapod a fenti fortélynál megadott bónuszokat.
+Ha harc közben próbálsz ellenfeleden egy konkrét pont támadásával nagyobb sebzést elérni, vagy a **Harci anatómia** fortélynál leírt hatások valamelyikét elérni, akkor [Területre/Pontra támadás](065_00_manoverek.md#területrepontra-támadás) manővert kell végezned. Amennyiben az sikeres, megkapod a fenti fortélynál megadott bónuszokat.
 
 ---
 ### Mögékerülés

@@ -1,18 +1,65 @@
 ## KÉ, TÉ, VÉ, CÉ
 
+## Harcértékek felépítése
+
+A karaktert a harcban harcértékei jellemzik. Ezek mutatják meg, hogy mennyire képzett a küzdelem egyes területein. Alapvetően négy érték határozza meg az aktuális harcértékeket, melyek szituációtól, forgatott fegyvertől, illetve harcmodortól függően változhatnak. Ezek az alábbiak:
+
+- Kezdeményező Érték (KÉ)
+- Támadó Érték (TÉ)
+- Védő Érték (VÉ)
+- Célzó Érték (CÉ)
+
+Ezen értékek öt jellemzőből épülnek fel:
+
+```
+- Harcérték Alap
+- Tulajdonságok
+- Harcérték Módosító
+- Harcmodor képzettség
+- Mesterfegyver fortély
+- Fegyver harcértékei
+```
+
+Az alábbiakban részletesen kifejtjük a fenti értékek kiszámítási módját, valamint hogy mi és hogyan képes módosítani őket.
+
+---
+### Harcérték Alapok
+
+Első szinten minden karakter egységes konstans értékeket kap `KÉ`, `TÉ`, `VÉ` és `CÉ` értékére.
+
+Értékeik :
+
+```
+KÉ konstans: 10
+TÉ konstans: 20
+VÉ konstans: 120
+CÉ konstans: -30
+```
+
+Ehhez az alapértékhez adódnak majd hozzá az egyéb módosítók.
+
+### Harci Tulajdonságok
+
+Egyes Tulajdonságok értékei beleszámítanak a harcértékekbe. Hogy melyek azt az adott harcérték leírásánál találhatjuk a következőkben.
+
+<br />
+
 És most lássuk a bevezetőben már említett négy konkrét harcértéket.
+
+---
+
 
 ### Kezdeményező érték
 
-A Kezdeményező Érték szerepe a harcban, hogy meghatározza, ki „mozdul először” a harcban. Nem jelent harci dominanciát, csak azt, hogy ki a gyorsabb, ki cselekedhet a előbb.
+A Kezdeményező Érték (**KÉ**) szerepe a harcban, hogy meghatározza, ki „mozdul először” a harcban. Nem jelent harci dominanciát, csak azt, hogy ki a gyorsabb, ki cselekedhet előbb.
 
-A kezdeményezésről bővebben lásd a [Harc menete - Kezdeményezés](060_08_harc_menete_reszletes.md#kezdem%C3%A9nyez%C3%A9s) fejezetet!
+A kezdeményezésről bővebben lásd a [Harc menete - Kezdeményezés](063_04_harc_menete_reszletes.md#kezdeményezés) fejezetet!
 
 Két típusú KÉ létezik:
 - Fegyveres KÉ
 - Varázslás KÉ
 
-A fenti két KÉ számítása azonos, egyedül a "Harcmodor"/"Mágia Tradíció" által adott bónuszban térnek el (lásd lenn). Külön számolandóak és külön is kezelendőek. Bővebben lásd a [Harc menete](060_08_harc_menete_reszletes.md#kezdem%C3%A9nyez%C3%A9s) - "Kezdeményezés" és "Varázslás kezdeményezése" bekezdéseket.
+A fenti két KÉ számítása azonos, egyedül a "Harcmodor"/"Mágia Tradíció" által adott bónuszban térnek el (lásd lenn). Külön számolandóak és külön is kezelendőek. Bővebben lásd a [Harc menete](063_04_harc_menete_reszletes.md#kezdeményezés) - "Kezdeményezés" és "Varázslás kezdeményezése" bekezdéseket.
 
 A karakter Kezdeményező Értékét a következőképpen kell kiszámítani:
 
@@ -22,7 +69,7 @@ A karakter Kezdeményező Értékét a következőképpen kell kiszámítani:
 |            Gyorsaság             | A karakter Gyorsaság Tulajdonsága                                                                                                                                                                                                                                                             |
 |          Intelligencia           | A karakter Intelligencia Tulajdonsága                                                                                                                                                                                                                                                         |
 |              Szint               | A karakter szintje                                                                                                                                                                                                                                                                            |
-| Harcmodor KÉ /<br />Varázslás KÉ | [Harcmodor képzettség](060_02_harcertekek_elemei.md#harcmodor-k%C3%A9pzetts%C3%A9gek) szintje által kapott bónusz /<br />[Mágia Tradíció](051_00_magia_tradiciok.md) által kapott bónusz (mintha [Harcmodor képzettség](060_02_harcertekek_elemei.md#harcmodor-k%C3%A9pzetts%C3%A9gek) lenne) |
+| Harcmodor KÉ /<br />Varázslás KÉ | [Harcmodor képzettség](062_02_harcmodor_kepzettsegek.md#harcmodor-képzettségek) szintje által kapott bónusz /<br />[Mágia Tradíció](051_00_magia_tradiciok.md) által kapott bónusz (mintha [Harcmodor képzettség](062_02_harcmodor_kepzettsegek.md#harcmodor-képzettségek) lenne) |
 |      Mesterfegyver fortély       | `+2` fokonként (csak harcos KÉ esetén)                                                                                                                                                                                                                                                        |
 |            Speciális             | - Gyors Kezdeményezés fortély: `KÉ:+4`<br>  - Szituációkból adódó módosítók<br>  - Mágia hatására kapott módosító                                                                                                                                                                             |
 
@@ -38,7 +85,7 @@ A Védő Érték szimbolizálja a karakter közelharcban nyújtott azon képess�
 |       Konstans        | `120` (minden karakternek)                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |     `2x` Ügyesség     | A karakter Ügyesség Tulajdonságának kétszerese                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 |    `2x` Gyorsaság     | A karakter Gyorsaság Tulajdonságának kétszerese                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-|     Harcmodor VÉ      | Harcmodor képzettség szintje által kapott bónusz (lásd a [Harcmodor képzettségeket](060_02_harcertekek_elemei.md#harcmodor-k%C3%A9pzetts%C3%A9gek)!)                                                                                                                                                                                                                                                                                                                                         |
+|     Harcmodor VÉ      | Harcmodor képzettség szintje által kapott bónusz (lásd a [Harcmodor képzettségeket](062_02_harcmodor_kepzettsegek.md#harcmodor-képzettségek)!)                                                                                                                                                                                                                                                                                                                                         |
 |      Fegyver VÉ       | A forgatott fegyver Védő Értéke                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | Mesterfegyver fortély | `+3` fokonként                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 |          HM           | A VÉ-re költött (KP-ból felvett) Harcérték módosító                                                                                                                                                                                                                                                                                                                                                                                                                                          |
@@ -61,14 +108,14 @@ Az alábbi táblázat megadja, a Támadó Érték kiszámolásának módját.
 |        2 x Erő         | A karakter Erő Tulajdonságának kétszerese                                                                                                                                                                                                                                                                              |
 |      2 x Ügyesség      | A karakter Ügyesség Tulajdonságának kétszerese                                                                                                                                                                                                                                                                         |
 |     2 x Gyorsaság      | A karakter Gyorsaság Tulajdonságának kétszerese                                                                                                                                                                                                                                                                        |
-|      Harcmodor TÉ      | Harcmodor képzettség szintje által kapott bónusz (lásd a [Harcmodor képzettségeket](060_02_harcertekek_elemei.md#harcmodor-k%C3%A9pzetts%C3%A9gek)!)                                                                                                                                                                   |
+|      Harcmodor TÉ      | Harcmodor képzettség szintje által kapott bónusz (lásd a [Harcmodor képzettségeket](062_02_harcmodor_kepzettsegek.md#harcmodor-képzettségek)!)                                                                                                                                                                   |
 |       Fegyver TÉ       | A forgatott fegyver Támadó Értéke                                                                                                                                                                                                                                                                                      |
 | Mesterfegyver fortély  | `+3` fokonként                                                                                                                                                                                                                                                                                                         |
 |           HM           | A VÉ-re költött (KP-ból felvett) Harcérték módosító                                                                                                                                                                                                                                                                    |
 | Plusz támadás levonása | Minden plusz támadás esetén `-10` levonás jár a **TÉ**-re.  <br>(a 2. támadásra: `TÉ:-10`, a 3.támadásra: `TÉ:-20`, stb)                                                                                                                                                                                               |
 |       Speciális        | - Fortélyokból adódó módosítók<br> - Harci helyzetből adódó módosítók<br> - Fegyver minőségéből adódó módosító<br>&nbsp;&nbsp;&nbsp;&nbsp; - Mestermunka: max `TÉ:+5`<br>&nbsp;&nbsp;&nbsp;&nbsp; - Gyatra fegyver: max `TÉ:+5`<br>&nbsp;&nbsp;&nbsp;&nbsp; - Mágikus fegyver módosítói<br> - Mágiából adódó módosítók |
 
-Bővebben lásd a [Harc menete - Támadás, Védő Érték csökkentése](060_08_harc_menete_reszletes.md#t%C3%A1mad%C3%A1s-v%C3%A9d%C5%91-%C3%A9rt%C3%A9k-cs%C3%B6kkent%C3%A9se) fejezetben!
+Bővebben lásd a [Harc menete - Támadás, Védő Érték csökkentése](063_04_harc_menete_reszletes.md#támadás-védő-érték-csökkentése) fejezetben!
 
 <br />
 
@@ -79,8 +126,8 @@ Bővebben lásd a [Harc menete - Támadás, Védő Érték csökkentése](060_08
 | :---------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |                `-30`                | Konstans. Ez az érték gyakorlatilag a célpont Védő Érték alapját adná, de mivel itt csak 1x (karakteralkotáskor) kell vele számolni, ezért a számolás meggyorsítása miatt átkerült ide.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 |            `2x` Önuralom            | Az Önuralom kétszerese                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|            Harcmodor CÉ             | Harcmodor képzettség szintje által kapott bónusz (lásd a [Harcmodor képzettségeket](060_02_harcertekek_elemei.md#harcmodor-k%C3%A9pzetts%C3%A9gek)!)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Fegyver CÉ<br><br>(kategória függő) | Különbséget teszünk a fegyverkategóriák közt attól függően, hogy alapesetben milyen könnyű velük célba találni. Az alábbi értékek csak irányszámok, a konkrét fegyver értékek ettől eltérhetnek.<br><br>- Hajító szálfegyverek: `CÉ:+0`<br>    <br>- Apró hajítófegyverek: `CÉ:+4`<br>    <br>- Íjak: `CÉ:+10`<br>    <br>- Nyílpuskák: `CÉ:+16`<br>    (A fentiek irányadó számok, egyes speciális fegyverek ezen értéke eltérhet ettől. Lásd a [Távolsági fegyverek harcértékei](060_16_fegyverek.md#haj%C3%ADt%C3%B3fegyverek-harc%C3%A9rt%C3%A9kei) fejezetet!)                                                                                                                                                                                |
+|            Harcmodor CÉ             | Harcmodor képzettség szintje által kapott bónusz (lásd a [Harcmodor képzettségeket](062_02_harcmodor_kepzettsegek.md#harcmodor-képzettségek)!)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Fegyver CÉ<br><br>(kategória függő) | Különbséget teszünk a fegyverkategóriák közt attól függően, hogy alapesetben milyen könnyű velük célba találni. Az alábbi értékek csak irányszámok, a konkrét fegyver értékek ettől eltérhetnek.<br><br>- Hajító szálfegyverek: `CÉ:+0`<br>    <br>- Apró hajítófegyverek: `CÉ:+4`<br>    <br>- Íjak: `CÉ:+10`<br>    <br>- Nyílpuskák: `CÉ:+16`<br>    (A fentiek irányadó számok, egyes speciális fegyverek ezen értéke eltérhet ettől. Lásd a [Távolsági fegyverek harcértékei](067_fegyverek.md#hajítófegyverek-harcértékei) fejezetet!)                                                                                                                                                                                |
 |        Mesterfegyver fortély        | `+3` fokonként                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |                 CM                  | Célzóérték Módosító. Szintnként legfeljebb 4 vehető fel. `1 CM = 2 KP`                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 |          Célzás körönként           | +10CÉ / kör amit célzással tölt el a támadó. Maximum 2 körig.  <br>+15CÉ / kör: Képzett Célzás fortély megléte esetén.<br><br>(Figyelem: íjnál csak 1 körig, alkalmazható mert nehéz kitartani!! 1 kör után körönként ugyanennyi levonás!)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |

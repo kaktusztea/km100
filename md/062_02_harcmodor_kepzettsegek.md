@@ -1,44 +1,3 @@
-## Harcértékek felépítése
-
-A karaktert a harcban harcértékei jellemzik. Ezek mutatják meg, hogy mennyire képzett a küzdelem egyes területein. Alapvetően négy érték határozza meg az aktuális harcértékeket, melyek szituációtól, forgatott fegyvertől, illetve harcmodortól függően változhatnak. Ezek a
-
-- Kezdeményező Érték
-- Támadó Érték
-- Védő Érték
-- Célzó Érték
-
-Ezen értékek öt jellemzőből épülnek fel:
-
-```
-- Harcérték Alap
-- Tulajdonságok
-- Harcérték Módosító
-- Harcmodor képzettség
-- Mesterfegyver fortély
-- Fegyver harcértékei
-```
-
-Az alábbiakban részletesen kifejtjük a fenti értékek kiszámítási módját, valamint hogy mi és hogyan képes módosítani őket.
-
----
-### Harcérték Alapok
-
-Első szinten minden karakter egységes konstans értékeket kap `KÉ`, `TÉ`, `VÉ` és `CÉ` értékére.
-
-Értékeik :
-
-```
-KÉ konstans: 10
-TÉ konstans: 20
-VÉ konstans: 120
-CÉ konstans: -30
-```
-
-Ehhez az alapértékhez adódnak majd hozzá az egyéb módosítók.
-
-### Harci Tulajdonságok
-
-Egyes Tulajdonságok értékei beleszámítanak a harcértékekbe. Hogy melyek azt az adott harcérték leírásánál találhatjuk a [KÉ, TÉ, VÉ, CÉ](060_03_ke_te_ve_ce.md) fejezetben.
 
 ---
 ### Harcérték Módosítók (HM), Célzóérték Módosítók (CM)
@@ -86,7 +45,7 @@ A harci képzettségek aktuális szintjétől függ, hogy az alá tartozó fegyv
 ---
 ### Harcmodorok és Manőverek
 
-A Manőverek alkalmazását, leírását részletesen lásd a „[Manőverek](060_14_00_manoverek.md)” fejezetben.
+A Manőverek alkalmazását, leírását részletesen lásd a „[Manőverek](065_00_manoverek.md)” fejezetben.
 
 Harc közben gyakran előfordul, hogy egy karakter speciális húzásokkal próbálkozik, egyedi cseleket vet be, hogy megkönnyítse győzelmét, például kirúgja ellenfele lábát, vagy homokot szór annak szemébe. Sokszor van olyan is, hogy egy karakter különösen jó egy adott csel alkalmazásában és azt előszeretettel veti be. Ezek a manőverek.
 

@@ -89,28 +89,47 @@
 ---
 ### 6. [Harcrendszer](060_00_harcrendszer.md) 🗡️
 
-- [Életerő, Sebesülés](060_01_eletero.md)
-- [Harcérték alapok, HM, Harcmodorok, Mesterfegyver](060_02_harcertekek_elemei.md)
-- [KÉ, TÉ, VÉ, CÉ összefoglaló táblázatok](060_03_ke_te_ve_ce.md)
-- [Mozgásgátló tényező (MGT)](060_04_mgt.md)
-- [Előnyös és hátrányos helyzet (VÉ csökkentés)](060_05_elonyos_hatranyos_helyzet.md)
-- [Támadások száma, Akciók, Mozgás](060_06_tamadasok_szama__akcio__mozgas.md)
-- [Harc menete (összefoglaló)](060_07_harc_menete_osszefoglalas.md) 🎲
-- **[Harc menete (részletes)](060_08_harc_menete_reszletes.md)** 🎲 (KÉ, Támadás, Sebzés, Sebződés)
-- [Példaharc](060_09_peldaharc.md)
-- [Harci helyzetek](060_10_harci_helyzetek.md) (meglepetésből, helyhez kötve, magasabbról, stb.)
-- [Harci taktikák](060_11_harci_taktikak.md) (támadó, védő, roham, stb)
-- [Harci alakzatok, Alakzatharc](060_12_harci_alakzatok.md)
-- [Kétkezes harc](060_13_ketkezes_harc.md)
-- [Manőverek](060_14_00_manoverek.md) 🎲
-  - [Manőver végrehajtásának lépései](060_14_01_manover_vegrehajtasa.md)
-  - [Általános Manőverek listája](060_14_02_altalanos_manoverek.md)
-  - [Belharcos Manőverek listája](060_14_03_belharcos_manoverek.md)
-  - [Lovas Manőverek listája](060_14_04_lovas_manoverek.md)
-  - [Példa Manőverek alkalmazására](060_14_05_pelda_manover_alkalmazasara.md)
-- [Harc lóhátról](060_15_harc_lohartol.md)
-- [Fegyverek, pajzsok](060_16_fegyverek.md)
-- [Vértek, páncélok](060_17_vertek_pancelok.md)
+#### 6.1 [Életerő, Sebesülés](061_00_eletero.md)
+
+- [Életerő Pont (ÉP)](061_01_eletero_pont.md)
+- [Kábulat ÉP (KT)](061_02_kabulat_ep.md)
+- [Sebesülés](061_03_sebesules.md)
+- [Gyógyulás](061_04_gyogyulas.md)
+
+#### 6.2 Alapértékek
+
+- [KÉ, TÉ, VÉ, CÉ](062_01_ke_te_ve_ce.md)
+- [Harcmodor képzettségek](062_02_harcmodor_kepzettsegek.md)
+- [Mozgásgátló tényező (MGT)](062_03_mgt.md)
+
+#### 6.3 Harc menete
+
+- [Előnyös és hátrányos helyzet (VÉ csökkentés)](063_01_elonyos_hatranyos_helyzet.md)
+- [Támadások száma, Akciók, Mozgás](063_02_tamadasok_szama__akcio__mozgas.md)
+- [Harc menete (összefoglaló)](063_03_harc_menete_osszefoglalas.md) 🎲
+- **[Harc menete (részletes)](063_04_harc_menete_reszletes.md)** 🎲 (KÉ, Támadás, Sebzés, Sebződés)
+- [Példaharc](063_05_peldaharc.md)
+
+#### 6.4 Harcot módosító tényezők
+
+- [Harci helyzetek](064_01_harci_helyzetek.md) (meglepetésből, helyhez kötve, magasabbról, stb.)
+- [Harci taktikák](064_02_harci_taktikak.md) (támadó, védő, roham, stb)
+- [Harci alakzatok, Alakzatharc](064_03_harci_alakzatok.md)
+- [Kétkezes harc](064_04_ketkezes_harc.md)
+
+#### 6.5 [Manőverek](065_00_manoverek.md) 🎲
+
+- [Manőver szabályok](065_01_manover_szabalyok.md)
+- [Manőver végrehajtásának lépései](065_02_manover_vegbevitele.md)
+- [Általános Manőverek listája](065_03_altalanos_manoverek.md)
+- [Belharcos Manőverek listája](065_04_belharcos_manoverek.md)
+- [Lovas Manőverek listája](065_05_lovas_manoverek.md)
+- [Példa Manőverek alkalmazására](065_06_pelda_manover_alkalmazasara.md)
+
+#### 6.6 [Harc lóhátról](066_harc_lohatrol.md)
+
+#### 6.7 [Fegyverek, pajzsok](067_fegyverek.md)
+#### 6.8 [Vértek, páncélok](068_vertek_pancelok.md)
 
 ---
 ### 7. [Távolsági harcrendszer](070_tavolsagi_harc.md) 🏹

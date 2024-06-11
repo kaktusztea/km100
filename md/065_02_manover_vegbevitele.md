@@ -1,4 +1,4 @@
-### Manőver végrehajtásának lépései
+### Manőver végbevitelének lépései
 
 A játékosnak a kör elején be kell jelentenie, hogy Manővert akar alkalmazni és azt is, hogy melyiket. Ezután a karakterek kezdeményezést dobnak (kivéve pl. a **Meglepetés** szituációt), majd mikor az alkalmazóra kerül a sor, jön a Manőver. Ha a KM úgy látja jónak, megtilthatja adott szituációban a Manőver alkalmazását. Amennyiben a játékos ezt a döntést nem képes kulturáltan kezelni, a KM növelje intenzíven a manőver nehézségét...
 
@@ -98,4 +98,4 @@ Amennyiben nem teljesíti, akkor is nekifuthat, de az Ellenpróba dobásánál a
 
 ---
 
-🔗[Általános Manőverek listája](060_14_02_altalanos_manoverek.md) →
+🔗[Általános Manőverek listája](065_03_altalanos_manoverek.md) →
