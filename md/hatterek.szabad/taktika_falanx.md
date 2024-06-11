@@ -6,7 +6,7 @@ Képes vagy falanx formációba fejlődni, együttmaradni, fordulni - harci kör
 
 ##### Kiterjeszti ezeket
 
-- [Hadvezetés](../kepzettsegek/hadvezetes.md)
+- [Hadvezetés](../kepzettsegek/hadaszat.md)
 
 ##### Követelmény
 

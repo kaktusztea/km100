@@ -36,9 +36,11 @@ Ha egy képzettséghez számos Szabad Háttér kapcsolódik - gyakorlatilag fels
 - [Kalligráfia](hatterek.szabad/kalligrafia.md)
 - [Különleges faj boncolása](hatterek.szabad/kulonleges_faj_boncolasa.md) 🔁
 - [Lénylovas](hatterek.szabad/lenylovas.md) 🔁
+- [Logisztika](hatterek.szabad/logisztika.md)
 - [Megfélemlítés](hatterek.szabad/megfelemlites.md)
 - [Pénzügyek](hatterek.szabad/penzugyek.md)
 - [Rejtjelfejtő](hatterek.szabad/rejtjelfejto.md)
+- [Stratégia](hatterek.szabad/strategia.md)
 - [Színjátszás](hatterek.szabad/szinjatszas.md)
 - [Szobrászat](hatterek.szabad/szobraszat.md)
 - [Szónoklás](hatterek.szabad/szonoklas.md)
