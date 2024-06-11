@@ -10,7 +10,7 @@ Ez egy [Primer képzettség](../016_primer_szekunder_ismeretek.md).
 
 **Leírás**: Legyőzni a fájdalmat, legyőzni önmagunkat. Ez a képzettség nem véletlenül kapcsolódik szorosan a harchoz, hiszen az a harcos, aki nem képes legyűrni sebei fájdalmát, hamar elhullik. 
 
-A harc során elszenvedett sebek okozta fájdalmak elviselése - gyorsítási okokból - statikus módon került beszámításra. Részleteket lásd a Harcrendszer [Sebesülés](../061_00_eletero.md#sebesülés) fejezetében.
+A harc során elszenvedett sebek okozta fájdalmak elviselése - gyorsítási okokból - statikus módon került beszámításra. Részleteket lásd a Harcrendszer [Sebesülés](../061_03_sebesules.md) fejezetében.
 
 Ezt a képzettségedet használod váratlan fájdalmak kiállásakor, illetve kínzás elviselésénél is.
 
