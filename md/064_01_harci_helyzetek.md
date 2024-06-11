@@ -204,18 +204,19 @@ Ha a fegyverrántó nyeri a kezdeményezést, akkor sikerült előrántania fegy
 
 Ha a fegyverrántó elveszti a kezdeményezést, akkor fegyvertelen `VÉ`-jével várja ellenfele támadását.
 
-Viszont ha a fegyverrántó **legalább** `10`-el túldobja ellenfele Kezdeményezését, akkor annyira gyors volt, hogy már ő támadhat elsőnek azonnal – teljes harcértékével. A harc innen a megszokott módon folytatódik. **Megjegyzés**: az ilyen támadást lehet kombinálni **Orvtámadással**, de csak akkor, ha az alkalmazó sikeres „**Első vágás**” manővert tett és ez az első támadása az adott harcban.
+Viszont ha a fegyverrántó **legalább** `10`-el túldobja ellenfele Kezdeményezését, akkor annyira gyors volt, hogy már ő támadhat elsőnek azonnal – teljes harcértékével. A harc innen a megszokott módon folytatódik. **Megjegyzés**: az ilyen támadás lehet természetesen [Manőver](065_00_manoverek.md) is.
 
 **Fegyverrántás** fortély bónuszai fegyverrántás szituációban (alkalmazó oldalán):
 
 ```
 1.fok:  KÉ:+5
-2.fok:  KÉ:+10 + támadásnál (10-el túldobott kezdeményezés esetén) „Első vágás” manőver alkalmazható.
+2.fok:  KÉ:+10
 ```
 
 #### Meglepetésből, vagy észrevétlen fegyverrántás
 
 Beszélgetek valakivel, váratlanul fegyvert rántok és megszúrom
+
 - A támadás az enyém
 - Az áldozat **Észlelés** próbát dob. Ha nincs meg, akkor **Orvtámadásnak** minősül a támadásom.
 - Ha megvan, akkor **Meglepetés** szituációvá enyhül a helyzet (`+20 TÉ` módosítót kapok).
