@@ -1,4 +1,4 @@
-#### 🔵 Hadvezetés
+#### 🔵 Hadászat
 
 Passzív tudásként is.
 
@@ -6,6 +6,8 @@ Stratégiai tervezés, logisztika, hadtáp, harci csoportok vezetése (taktikák
 
 **Szabad Hátterek kiterjesztik**
 
+- [Logisztika](../hatterek.szabad/logisztika.md)
+- [Stratégia](../hatterek.szabad/strategia.md)
 - [Taktika: Falanx](../hatterek.szabad/taktika_falanx.md)
 - [Taktika: Fejvadászok vezetése](../hatterek.szabad/taktika_fejvadaszok_vezetese.md)
 - [Taktika: Íjász](../hatterek.szabad/taktika_ijasz.md)
