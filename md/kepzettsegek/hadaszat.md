@@ -1,8 +1,10 @@
 #### 🔵 Hadászat
 
+Ez egy [Primer képzettség](../016_primer_szekunder_ismeretek.md).
+
 Passzív tudásként is.
 
-Stratégiai tervezés, logisztika, hadtáp, harci csoportok vezetése (taktikák).
+Reguláris haderővel kapcsolatos ismeretek. Stratégiai tervezés, logisztika, hadtáp, harci csoportok vezetése (taktikák).
 
 **Szabad Hátterek kiterjesztik**
 
