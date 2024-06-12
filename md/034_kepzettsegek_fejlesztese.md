@@ -39,8 +39,32 @@ A másik felső korlát lehet az adott kultúra fejletlensége, vagy korlátai. 
 A `12. és 15. szintek` kiemelt mérföldkövek a képzettségek esetében, itt már félmágikus, különleges bónuszok tűnnek fel. Ezek leírását lásd minden esetben az adott képzettség leírásában.
 
 ---
-### Képzettségek kiterjesztése
+### Képzettségek kiterjesztése Szabad Hátterekkel
 
-Egyes képzettségek az alap tudást lefedő ismeretek keretein túl is "kiterjeszthetőek". Erre használjuk a [Szabad Háttereket](023_szabad_hatterek.md).
+Egyes képzettségek az alap tudást lefedő ismeretek keretein túl is "kiterjeszthetőek", egyesek pedig "felszeletelhetőek" tudásterületekre - erre használjuk a [Szabad Háttereket](023_szabad_hatterek.md).
 
+#### Első eset
+
+Ha van egy képzettségpróba, amelynek ismeret területe a KM szerint ezen képzettség alá tartozik ÉS lefed egy kapcsolódó Szabad Hátteret, akkor...
+- ha megvan a Szabad Háttér, akkor simán, alapértékkel dobjuk a képzettségpróbát
+- ha nincs meg a Szabad Háttér, akkor `-3` módosítóval dobjuk a képzettségpróbát
+
+#### Második eset
+
+Ha  van egy képzettségpróba, amelynek ismeret területe a KM szerint ezen képzettség alá tartozi, DE nincs rá kapcsolódó Szabad Háttér, akkor simán, alapértékkel dobjuk a képzettségpróbát
+
+---
+### Képzettségek és Fortélyok
+
+Egyes képzettségek az alap tudást lefedő ismeretek keretein túl Fortélyokkal is "kiterjeszthetőek".
+
+#### Fortély mint követelmény (kiterjesztés)
+
+Ha van egy képzettségpróba, amelynek ismeret területe a KM szerint ezen képzettség alá tartozik ÉS lefed egy kapcsolódó Fortélyt, akkor...
+1. ha megvan a Fortély, akkor simán, alapértékkel dobjuk a képzettségpróbát
+2. ha nincs meg a fortély, akkor nem is dobhatunk képzettségpróbát
+
+#### Fortély mint bónusz
+
+Ilyenkor a Fortély megléte nem követelmény, viszont valamilyen statikus bónuszt ad az adott képzettségre.
 
