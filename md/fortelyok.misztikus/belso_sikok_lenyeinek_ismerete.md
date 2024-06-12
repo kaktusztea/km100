@@ -1,14 +1,17 @@
-#### 🟣 Külső síkok lényeinek ismerete (1) 🔁
+#### 🟣 Belső síkok lényeinek ismerete (1) 🔁
 
-A külső síkok túlvilági teremtményeinek ismerete. Alapos, előtörténettel megtámogatott indoklás kell, hogy a karakter felvehesse.
+A belső síkok túlvilági teremtményeinek ismerete. Alapos, előtörténettel megtámogatott indoklás kell, hogy a karakter felvehesse.
 
 ##### Többször felvehető
-- démonok
-- angyalok
-- szeráfok
-- dzsinnek
 
-##### Kiterjeszti ezeket:
+- elementálok
+- asztrállények
+- mentállények
+- élőholtak (kísértetek, elfszabású lények szellemei, testtel rendelkező élőholt rémek)
+- természetszellemek
+- ⭕TODO⭕
+##### Kiterjeszti ezeket
+
 - [Tudományok](../kepzettsegek/tudomanyok.md)
 
 |       | Követelmény                                                              | Hatás                                                         |
