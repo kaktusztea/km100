@@ -39,4 +39,4 @@ A [Hátterek](020_hattererek.md) számos érdekes aspektussal ruházhatják fel 
 
 Jöhetnek a [Származtatott értékek](018_00_szarmaztatott_ertekek.md): az [Életerő Pont](018_01_ep.md), a [Mágiaellenállás](018_02_magiaellenallas.md), a [Méregellenállás](018_03_meregellenallas.md) kiszámítása - ezekre nem kell külön pontot költeni.
 
-Majd jöjjön végül karaktered [harcértékeinek megállapítása](062_03_harcmodor_kepzettsegek.md).
+Majd jöjjön végül karaktered [harcértékeinek megállapítása](062_02_harcmodor_kepzettsegek.md).
