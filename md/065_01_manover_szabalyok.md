@@ -1,6 +1,7 @@
 ### Általános szabályok manőverekre
 
 Manővert csak az aktuálisan használt harcmodor `3.szintjétől` lehet rendesen használni, alatta a **Manőver Nehézsége** magasabb
+
 - harcmodor `0.szint` esetén: `+3`
 - harcmodor `1.szint` esetén: `+2`
 - harcmodor `2.szint` esetén: `+1`

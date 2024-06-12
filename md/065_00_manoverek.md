@@ -4,6 +4,8 @@ Harc közben gyakran előfordul, hogy egy karakter speciális húzásokkal prób
 
 A km100 harcrendszere lehetőséget ad rá, hogy a karakter harc közben ilyen speciális cselekedeteket – manővereket – alkalmazzon. Vannak olyan manőverek is, melyek csak adott fegyverre, vagy harcmodorra jellemzőek, de a legtöbb szabadon, bárki által alkalmazható, amennyiben eleget tesz a leírt követelményeknek.
 
+Vannak olyan manőverek is, melyek csak adott fegyverre, vagy harcmodorra jellemzőek, de a legtöbb szabadon, bárki által alkalmazható, amennyiben teljesíti a végbevitel követelményeit. A Manőverek fejlesztését Manőver-ismereteknek nevezzük és pontokba kerülnek. Lásd a "Manőver szabályok" fejezetet.
+
 - [Manőver szabályok](065_01_manover_szabalyok.md)
 - [Manőver végbevitele](065_02_manover_vegbevitele.md)
 - [Általános Manőverek](065_03_altalanos_manoverek.md)
