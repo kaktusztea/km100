@@ -17,6 +17,8 @@ Ez egy [Primer képzettség](../016_primer_szekunder_ismeretek.md).
 - [Megfélemlítés](../hatterek.szabad/megfelemlites.md)
 - [Szónoklás](../hatterek.szabad/szonoklas.md)
 
+Egyet ingyen megkapsz, amint eléred a `3.szintet` a képzettségben.
+
 **Leírás**: Mások meggyőzését, szándékainknak megfelelő cselekedetek elérését fedi. Alapból sima érveléstechinka, de a fenti Szabad Hátterekkel kiterjeszthető más szituációkra is. Ha nincs meg a kapcsolódó Szabad Háttér, akkor arra `-3` módósítóval dobsz próbát.
 
 <br />
