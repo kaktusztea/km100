@@ -38,6 +38,8 @@ A másik felső korlát lehet az adott kultúra fejletlensége, vagy korlátai. 
 
 A `12. és 15. szintek` kiemelt mérföldkövek a képzettségek esetében, itt már félmágikus, különleges bónuszok tűnnek fel. Ezek leírását lásd minden esetben az adott képzettség leírásában.
 
+<br />
+
 ---
 ### Képzettségek kiterjesztése Szabad Hátterekkel
 
@@ -52,6 +54,8 @@ Ha van egy képzettségpróba, amelynek ismeret területe a KM szerint ezen kép
 #### 🔹 Második eset
 
 Ha  van egy képzettségpróba, amelynek ismeret területe a KM szerint ezen képzettség alá tartozi, DE nincs rá kapcsolódó Szabad Háttér, akkor simán, alapértékkel dobjuk a képzettségpróbát
+
+<br />
 
 ---
 ### Képzettségek és Fortélyok
