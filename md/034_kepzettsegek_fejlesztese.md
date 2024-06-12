@@ -61,9 +61,9 @@ Egyes képzettségek az alap tudást lefedő ismeretek keretein túl Fortélyokk
 #### 🔹 Fortély mint követelmény (kiterjesztés)
 
 Ha van egy képzettségpróba, amelynek ismeret területe a KM szerint ezen képzettség alá tartozik ÉS lefed egy kapcsolódó Fortélyt, akkor...
-1. ha megvan a Fortély, akkor simán, alapértékkel dobjuk a képzettségpróbát
-2. ha nincs meg a fortély, akkor **nem is dobhatunk képzettségpróbát**.  ⭕hard-követelmény⭕
-3. ⭕TODO: esetleg legyen "**soft-követelmény**" is `-6` levonással?⭕
+- ha megvan a Fortély, akkor simán, alapértékkel dobjuk a képzettségpróbát
+- ha nincs meg a fortély, akkor **nem is dobhatunk képzettségpróbát**.  ⭕hard-követelmény⭕
+- ⭕TODO: esetleg legyen "**soft-követelmény**" is `-6` levonással?⭕
 
 #### 🔹 Fortély mint bónusz
 
