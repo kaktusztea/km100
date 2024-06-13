@@ -71,6 +71,7 @@ Az évek során több \"alapmotort\" fejlesztettünk és dobtunk ki (ez leginká
 A rendszer nonprofit, soha semmilyen anyagi, vagy egyéb ellenszolgáltatást nem kérünk, vagy fogadunk el, viszont minden dokumentumra a `Creative Commons` licenc feltételei érvényesek. [Bővebben itt](LICENSE).
 
 ---
+## A Szabályrendszer
 
 Lássuk hát a részletes szabályrendszert: ⚜️ **[km100 szabályrendszer](./md/start.md)** ⚜️
 
