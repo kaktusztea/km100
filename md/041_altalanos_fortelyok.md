@@ -35,6 +35,7 @@
 - [Százarcú](fortelyok.altalanos/szazarcu.md)
 - [Szerencsés](fortelyok.altalanos/szerencses.md)
 - [Úszás](fortelyok.altalanos/uszas.md)
+- [Vadember](fortelyok.altalanos/vadember.md)
 - [Villámgyors keresés](fortelyok.altalanos/villamgyors.kereses.md) 🔺
 - [Zártörő](fortelyok.altalanos/zartoro.md) 🔺
 
