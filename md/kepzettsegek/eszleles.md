@@ -8,9 +8,19 @@ Ez egy [Primer képzettség](../016_primer_szekunder_ismeretek.md).
 
 **Domináns Tulajdonságok**: Érzékenység (fizikai érzékekre is ez használandó), Intelligencia
 
-**Kapcsolódó fortélyok**:  [Keresés](../fortelyok.altalanos/kereses_nyomolvasas.md), [Villámgyors keresés](../fortelyok.altalanos/villamgyors.kereses.md)  [Éber alvó](../fortelyok.altalanos/eber_alvo.md)
+**Kapcsolódó fortélyok**:
 
-**Szabad Hátterek kiterjesztik**: ⭕
+- [Keresés](../fortelyok.altalanos/kereses_nyomolvasas.md)
+- [Villámgyors keresés](../fortelyok.altalanos/villamgyors.kereses.md) 
+- [Éber alvó](../fortelyok.altalanos/eber_alvo.md)
+
+**Szabad Hátterek kiterjesztik**:
+
+- [Tájtípus - dzsungel](../hatterek.szabad/tajtipus_dzsungel.md)
+- [Tájtípus - sivatagi](../hatterek.szabad/tajtipus_sivatagi.md)
+- [Tájtípus - magaslati](../hatterek.szabad/tajtipus_magaslati.md)
+- [Tájtípus - erdős](../hatterek.szabad/tajtipus_erdos.md)
+
 
 **Leírás**: Az Észlelés valaminek az észrevételét takarja. Ez lehet egy villanó tőr, egy meglapuló merénylő a lombok közt, egy árulkodó súrlódó nesz. Fontos, hogy az Észlelés csak a momentum észrevételt jelenti, annak értelmezését nem! Az a játékos feladata, melyet esetleg megkönnyíthet például a [Nyomozás](nyomozas.md), vagy a [Természetjárás](termeszetjaras.md) képzettség.
 
