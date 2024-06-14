@@ -15,10 +15,11 @@ Alább 1-2 szavas jelzőket találsz, amelyek további szinesítő elemeket adha
 - Polgár
 - Városlakó
 
-
 #### Jellem, fóbiák, hobbik
 
 - Alattomos
+- Álmodozó
+- Autoriter
 - Élet
 - Gondoskodó
 - Gyáva
@@ -34,17 +35,28 @@ Alább 1-2 szavas jelzőket találsz, amelyek további szinesítő elemeket adha
 - Pókiszony
 - Precíz
 - Rend
+- Teszetosza
 - Tériszony
-
 
 #### Küllem, fizikum
 
 - Alacsony
+- Albínó
 - Divatos
 - Jóképű
 - Kövér
 - Magas
+- Mokány
 - Rusnya
 - Sánta
 - Sebhelyes
+- Tömzsi
 - Vékony
+
+## Viszony
+
+- "Barátok:"
+- "Gyűlöli őt/őket:"
+- "Kapcsolatai:"
+- "Lekötelezettje neki/nekik:"
+- "Párkapcsolatban vele:"
