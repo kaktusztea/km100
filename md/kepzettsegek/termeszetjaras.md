@@ -5,6 +5,7 @@
 **Domináns Tulajdonságok**: Érzékenység, Intelligencia
 
 **Szabad Hátterek kiterjesztik**:
+
 - [Tájtípus - dzsungel](../hatterek.szabad/tajtipus_dzsungel.md)
 - [Tájtípus - sivatagi](../hatterek.szabad/tajtipus_sivatagi.md)
 - [Tájtípus - magaslati](../hatterek.szabad/tajtipus_magaslati.md)
