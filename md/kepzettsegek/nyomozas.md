@@ -6,7 +6,7 @@ Ez egy [Primer képzettség](../016_primer_szekunder_ismeretek.md).
 
 **Domináns Tulajdonságok**: Intelligencia, Emlékezet
 
-**Kapcsolódó fortélyok**: [Keresés](../fortelyok.altalanos/kereses_nyomolvasas.md), [Építészet](../fortelyok.altalanos/epiteszet.md), [Élettan](../fortelyok.altalanos/elettan.md) (boncoláshoz)
+**Kapcsolódó fortélyok**: [Keresés/Nyomolvasás](../fortelyok.altalanos/kereses_nyomolvasas.md), [Építészet](../fortelyok.altalanos/epiteszet.md), [Élettan](../fortelyok.altalanos/elettan.md) (boncoláshoz)
 
 **Szabad Hátterek kiterjesztik**:
 - [Heraldika](../hatterek.szabad/heraldika.md)
