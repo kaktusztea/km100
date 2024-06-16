@@ -10,7 +10,7 @@ Ez egy [Primer képzettség](../016_primer_szekunder_ismeretek.md).
 
 **Kapcsolódó fortélyok**:
 
-- [Keresés](../fortelyok.altalanos/kereses_nyomolvasas.md)
+- [Keresés/Nyomolvasás](../fortelyok.altalanos/kereses_nyomolvasas.md)
 - [Villámgyors keresés](../fortelyok.altalanos/villamgyors.kereses.md) 
 - [Éber alvó](../fortelyok.altalanos/eber_alvo.md)
 

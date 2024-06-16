@@ -2,7 +2,7 @@
 
 Gyorsabban tudsz keresni, kutatni egy helyiségben.
 
-Kapcsolódó fortély: [Keresés](kereses_nyomolvasas.md)
+Kapcsolódó fortély: [Keresés/Nyomolvasás](kereses_nyomolvasas.md)
 
 |          | Követelmény              | Hatás                                                                                                                                             |
 | :------- | :----------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ |
