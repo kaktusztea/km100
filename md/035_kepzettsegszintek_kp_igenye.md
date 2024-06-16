@@ -1,6 +1,8 @@
 ## Képzettségszintek KP igénye
 
-A fejlődés Karakter Pontba (`KP`) kerül. A KP szimulálja az egyes képzettségek elsajátítására fordított tanulás „egységnyi mennyiséget". Hogy ennek mekkora a KP igénye, azt az alábbi táblázat adja meg:
+A képzettségek fejlődése során a `KP igény` fokozatosan nő, tehát `1.`szintről `2.`szintre sokkal könnyebb fejlődni, mint mondjuk `4.`szintről `5.`szintre. Képzettségben hagyományos tanulással **legfeljebb** `13.`szintig lehet fejlődni. Lásd [bővebben itt](034_kepzettsegek_fejlesztese.md#a-14-%C3%A9s-15-k%C3%A9pzetts%C3%A9gszint).
+
+Az egyes képzettségszintek KP igénye az alábbi táblázatban található:
 
 | Fokozat     | Képzettség Szint | **KP igény** | Diff  |
 | ----------- | :--------------: | :----------: | :---: |
@@ -19,5 +21,3 @@ A fejlődés Karakter Pontba (`KP`) kerül. A KP szimulálja az egyes képzetts�
 |             |        13        |   **186**    | +26KP |
 |             |        14        |   **214**    | +28KP |
 | Élő legenda |        15        |   **244**    | +30KP |
-
-A `KP igény` fokozatosan nő, tehát `1`-ről `2`-re sokkal könnyebb fejlődni, mint mondjuk `4`-ről `5`-re. Képzettségben hagyományos tanulással **legfeljebb** `13.szintig` lehet fejlődni. Lásd [bővebben itt](034_kepzettsegek_fejlesztese.md#a-14-%C3%A9s-15-k%C3%A9pzetts%C3%A9gszint).
