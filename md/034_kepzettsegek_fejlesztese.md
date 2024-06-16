@@ -1,18 +1,18 @@
 ## Képzettségek fejlesztése
 
 ```
-→ Primer max: szint+3
-→ Szekunder max: szint+6
-→ Növelés max: 2/szint
+→ Primer max szint = TSz
+→ Szekunder max szint = (TSz+3)
+→ Növelés max: 2/TSz
 → 14-15.szintre csak spécivel
 → 12, 15. szint: bónuszok járnak
 ```
 
-A karakterek fejlődése természetesen nem lehet ugrásszerű, meg kell őriznünk a folyamatosság illúzióját szintlépéskor, el kell kerülnünk, hogy egy `3.` tapasztalati szintű karakter `12-13`-as képzettség értékekkel rohangáljon. Ugyanakkor fontos színesítő, ha egy `1.` Tapasztalati Szintű karakter egyes területeken kitűnik társai közül. Általános szabályok:
+A karakterek fejlődése természetesen nem lehet ugrásszerű, meg kell őriznünk a folyamatosság illúzióját szintlépéskor, el kell kerülnünk, hogy egy `3.`Tapasztalati Szintű karakter `12-13`-as képzettség értékekkel rohangáljon. Ugyanakkor fontos színesítő, ha egy `1.`Tapasztalati Szintű karakter egyes területeken kitűnik társai közül. Általános szabályok:
 
-A **Primer** képzettségek szintje legfeljebb (`szint+3`) lehet
+A **Primer** képzettségek szintje legfeljebb (`Tapasztalati Szint`) értékével megegyező lehet
 
-A **Szekunder** képzettségek értéke legfeljebb (`szint+6`) lehet
+A **Szekunder** képzettségek értéke legfeljebb (`Tapasztalati Szint + 3`) lehet
 
 Szintlépéskor legfeljebb `2-vel` növelhetőek a képzettségek, kivéve, ha `0`-ról akar valaki egy képzettséget tanulni. Ilyenkor szintlépéskor maximum `3.szintre` növelheti egy lépésben az ilyen képzettséget.
 
