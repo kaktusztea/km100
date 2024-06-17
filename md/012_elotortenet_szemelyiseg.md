@@ -12,7 +12,7 @@ Teljesen szabadon meghatározható a külső
 
 Ha valaki pl. csúnya, akkor nehezebben ismerkedik, ha szép, akkor sok irigye van, szóval csak ésszel..
 
-Különböző fajokat a [Faj Hátterek](021_faj_hatterek.md) szekcióban választhatunk.
+Különböző fajokat a [Faj Hátterek](022_faj_hatterek.md) szekcióban választhatunk.
 
 ### Személyiség, szociális jellemzők
 
