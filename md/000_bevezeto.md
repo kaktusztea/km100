@@ -19,13 +19,15 @@ A szabályrendszer dokumentumaiban speciális unicode karaktereket használunk j
 
 ### Aktív jelzők
 
-⚪ Tulajdonság 🔵 Képzettség 🟣 Fortély  🟡 Háttér
+⚪ Tulajdonság 🔵 Képzettség 🟣 Fortély  🟡 Háttér 🟢 Pszí diszciplína
 
 🔁 Többször felvehető ismeret
 
 🗡️ Harci taktika, Harci szituáció vagy Manőver
 
 ✨ Mágia
+
+Pszí
 
 ⚡ Példa
 
