@@ -72,8 +72,11 @@ További támadásokat `Kétkezes Harc` során szerezhet a karakter. Lásd a [K�
 
 ```
  Varázskeret =
-     Mágia Tradíció szint
+      Tapasztalati Szint
+    + Mágia Tradíció szint
     + Összpontosítás szint
+
+    + Gyors varázsló fortély bónusza
 ```
 
 Varázslásnál nagyjából ez felel meg a **Harckeretnek**.
