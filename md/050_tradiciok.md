@@ -16,20 +16,21 @@ Mindegyik Tradíció [Primer képzettség](032_primer_szekunder_kepzettsegek.md)
 
 Milyen Tradíciókat ismer a km100 rendszere?
 
-- [Mágia tradíciók általánosságai](051_00_magia_tradiciok.md)
-	- [Magasmágia (mozaikmágia)](051_01_magasmagia.md)
-	- Vulgármágia
-	- Ordani (godoni?) Tűzmágia
-	- Bárdmágia
-	- Sámánmágia
-	- Ork Énekmondói mágia
-	- Rituális mágia
-- [Papi szakrális tradíciók általánosságai](052_00_papi_tradiciok.md)
-- [Fejvadász tradíció](053_fejvadasz_tradicio.md)
-- [Faji tradíciók általánosságai](054_00_faji_tradiciok.md)
-	- [Dzsenn tradíció](054_01_dzsenn_tradicio.md)
-	- [Amund Tradíció](054_02_amund_tradicio.md)
-- [Slan tradíció](055_slan_tradicio.md)
+- [Mágia tradíciók](051_00_magia_tradiciok.md)
+  - [Magasmágia (mozaikmágia)](051_01_magasmagia.md)
+  - [Vulgármágia](051_02_vulgarmagia.md)
+  - [Ordani Tűzmágia](051_03_ordani_tuzmagia.md)
+  - [Bárdmágia](051_04_bardmagia.md)
+  - [Természeti mágia](051_05_termeszeti_magia.md)
+  - [Sámánmágia](051_06_samanmagia.md)
+  - [Ork Énekmondói mágia](051_07_ork_enekmondoi_magia.md)
+  - [Rituális mágia](051_08_ritualis_magia.md)
+- [Papi tradíciók](052_00_papi_tradiciok.md)
+- [Szellemi Tradíciók](053_00_szellemi_tradiciok.md)
+  - [Slan Tradíció](053_01_slan_tradicio.md)
+  - [Fejvadász Tradíció](053_02_fejvadasz_tradicio.md)
+  - [Dzsenn Tradíció](053_03_dzsenn_tradicio.md)
+  - [Amund Tradíció](053_04_amund_tradicio.md)
 - Nem Játszható Tradíciók
 	- Aquir eredetű
 	- Smaragdmágusok (Sheenwall)

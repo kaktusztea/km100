@@ -1,4 +1,4 @@
-#### 🟡 Tájtípus - sivatag
+#### 🟡 Tájtípus - sivatagi
 
 Ismered a sivatagi környezetet.
 

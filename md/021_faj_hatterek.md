@@ -35,18 +35,17 @@ Erő [0;+5] ; Edzettség [0;+5] ; Intelligencia [-5;+3] ; Önuralom [-5;+3]
 
 🔆A Pszít nem képesek elsajátítani.
 
-**Kötelezően** felvett:
-- [Faj Tradíció: Amund](054_02_amund_tradicio.md)
-
 Felvehető Érzék-Fortélyok maximuma:
 - [Ultralátás](fortelyok.erzekek/fejlett_szaglas.md) - 3. fok (csak a papi kaszt)
 
 Ajánlott fortélyok:
--  [Kinokozás](fortelyok.harci/kinokozas.md)  (ha amund kultúrában nevelkedett)
+- [Kinokozás](fortelyok.harci/kinokozas.md)  (ha amund kultúrában nevelkedett)
 
 Ajánlott képzettségek:
-- [Természetjárás](kepzettsegek/termeszetjaras.md)  - sivatag
--  [Kinzás](kepzettsegek/kinzas.md)
+- [Amund Tradíció](053_04_amund_tradicio.md) (nem kötelező)
+- [Ősi nyelv ismerete](kepzettsegek/osi_nyelv_ismerete.md) (amund)
+- [Természetjárás](kepzettsegek/termeszetjaras.md) + [Tájtípus: sivatagi](hatterek.szabad/tajtipus_sivatagi.md)
+- [Kinzás](kepzettsegek/kinzas.md)
 
 <br />
 
@@ -58,21 +57,18 @@ Ajánlott képzettségek:
 Intelligencia [+1;+6] ; Önuralom [+1;+6]
 ```
 
-**Kötelezően** felvett:
-- [Faj Tradíció: Dzsenn](054_01_dzsenn_tradicio.md)
-
 Felvehető Érzék-Fortélyok maximuma:
 - nincs
 
 Ajánlott fortélyok:
-- Pszí alkalmazás
+- [Pszí alkalmazás](fortelyok.misztikus/pszi_alkalmazas.md)
 - [Hidegvér](fortelyok.altalanos/hidegver.md)
 - [Tiszta fej](fortelyok.altalanos/tiszta_fej.md)
 
 Ajánlott képzettségek:
+- [Dzsenn Tradíció](053_03_dzsenn_tradicio.md) (nem kötelező)
+- [Ősi nyelv ismerete](kepzettsegek/osi_nyelv_ismerete.md) (dzsenn)
 - [Befolyásolás](kepzettsegek/befolyasolas.md)
-- "Dzsenn pszí" pszi-iskola
-- [Ősi nyelv ismerete](kepzettsegek/osi_nyelv_ismerete.md) - dzsenn
 
 <br />
 

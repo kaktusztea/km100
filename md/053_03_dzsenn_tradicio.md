@@ -8,7 +8,7 @@
 ```
 
 Követelmények:
-- tisztavérű dzsenn származás
+- **NEM** követelmény a tisztavérű dzsenn származás (mint a hatalomszavak alkalmazásánál)
 - Pszí használat fortély: `2. fok`⭕(3?)
 - Pszi Általános képzettség (Primer) felvétele, amelynek szintje nem lehet alacsonyabb, mint a Dzsenn tradíció képzettség
 - az egyes dzsenn különleges képességeknek nincs olyan változata, amelyek e tradíció nélkül működnének
