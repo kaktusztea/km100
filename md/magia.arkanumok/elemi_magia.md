@@ -59,14 +59,12 @@ Ez is képzettségpróba.
 
 ##### Komplexitás
 
-| **Formák**                                             |          **+Komplexitás**           |
-| ------------------------------------------------------ |:--------------------------------:|
-| Alap Komplexitás                                          |                6                 |
-|                                                       |                                  |
-| Alapvető formák<br>(gömb, nyíl, kitörés, szőnyeg, fal) |                +0                |
-| Haladó formák<br>(aura, sátor, zápor, csóva, kard)     |                +3                |
-| Szabad formák                                          | +6<br>⭕(lehet h túl szigorú?)⭕ |
-| Forma szétválasztása több részre                       |             +3/rész              |
+| **Formák**                                             |        **+Komplexitás**        |
+| ------------------------------------------------------ | :----------------------------: |
+| Alapvető formák<br>(gömb, nyíl, kitörés, szőnyeg, fal) |               4                |
+| Haladó formák<br>(aura, sátor, zápor, csóva, kard)     |               6                |
+| Szabad formák                                          | 8 <br>⭕(lehet h túl szigorú?)⭕ |
+| Forma szétválasztása több részre                       |            +3/rész             |
 
 <br />
 

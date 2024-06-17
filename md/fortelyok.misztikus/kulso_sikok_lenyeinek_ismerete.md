@@ -2,7 +2,8 @@
 
 A külső síkok túlvilági teremtményeinek ismerete. Alapos, előtörténettel megtámogatott indoklás kell, hogy a karakter felvehesse.
 
-##### Többször felvehető
+##### Többször felvehető 🔁
+
 - démonok
 - angyalok
 - szeráfok
@@ -11,9 +12,14 @@ A külső síkok túlvilági teremtményeinek ismerete. Alapos, előtörténette
 ##### Kiterjeszti ezeket:
 - [Tudományok](../kepzettsegek/tudomanyok.md)
 
-|       | Követelmény                                                              | Hatás                                                         |
-| :---- | :----------------------------------------------------------------------- | :------------------------------------------------------------ |
-| 1.fok | Előtörténet<br />[Tudományok](../kepzettsegek/tudomanyok.md) - `6.szint` | Dobhatsz Tudományok képzettségpróbát egyes lények ismeretére. |
+##### Követelmény
+
+- Előtörténet
+- [Tudományok](app://obsidian.md/kepzettsegek/tudomanyok.md) - `6.szint`
+
+##### Hatás
+
+Dobhatsz **Tudományok** képzettségpróbát egyes lények ismeretére.
 
 <br />
 
