@@ -17,26 +17,38 @@ Alább 1-2 szavas jelzőket találsz, amelyek további szinesítő elemeket adha
 
 #### Jellem, fóbiák, hobbik
 
+- Élet
+- Rend
+- Halál
+- Káosz
 - Alattomos
+- Alattvaló
 - Álmodozó
 - Autoriter
-- Élet
+- Barátságos
+- Cinikus
 - Gondoskodó
+- Gyanakvó
 - Gyáva
-- Halál
+- Gyűjtögető
 - Hallgatag
-- Káosz
-- Kígyóiszony
+- Hiszékeny
+- Idealista
+- Kígyóiszonyos
+- Megfontolt
 - Megbízhatatlan
 - Megbízható
 - Meggondolatlan
 - Naív
+- Nagyképű
 - Nárcisztikus
-- Pókiszony
+- Pókiszonyos
 - Precíz
-- Rend
+- Szerény
+- Talpnyaló
 - Teszetosza
-- Tériszony
+- Tériszonyos
+- Vezéralkat
 
 #### Küllem, fizikum
 
@@ -55,8 +67,9 @@ Alább 1-2 szavas jelzőket találsz, amelyek további szinesítő elemeket adha
 
 ## Viszony
 
-- "Barátok:"
+- "Barát:"
+- "Ellenség:"
 - "Gyűlöli őt/őket:"
-- "Kapcsolatai:"
+- "Kapcsolat:"
 - "Lekötelezettje neki/nekik:"
 - "Párkapcsolatban vele:"
