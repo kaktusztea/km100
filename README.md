@@ -73,7 +73,7 @@ A rendszer nonprofit, soha semmilyen anyagi, vagy egyéb ellenszolgáltatást ne
 ---
 ## A Szabályrendszer
 
-Lássuk hát a részletes szabályrendszert:
+Lássuk hát a részletes szabályrendszert:\
 ⚜️ **[km100 szabályrendszer](./md/start.md)** ⚜️
 
 ---
