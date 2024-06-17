@@ -75,18 +75,18 @@
 - [Mágia tradíciók](051_00_magia_tradiciok.md)
   -  [Magasmágia](051_01_magasmagia.md)
   - [Vulgármágia](051_02_vulgarmagia.md)
-  - [Ordani (godoni?) Tűzmágia](051_03_ordani_tuzmagia.md)
+  - [Ordani Tűzmágia](051_03_ordani_tuzmagia.md)
   - [Bárdmágia](051_04_bardmagia.md)
   - [Természeti mágia](051_05_termeszeti_magia.md)
   - [Sámánmágia](051_06_samanmagia.md)
   - [Ork Énekmondói mágia](051_07_ork_enekmondoi_magia.md)
   - [Rituális mágia](051_08_ritualis_magia.md)
 - [Papi tradíciók](052_00_papi_tradiciok.md) (0%)🚧
-- [Fejvadász tradíció](053_fejvadasz_tradicio.md) (10%)🚧
-- [Faji tradíciók](054_00_faji_tradiciok.md)
-   - [Amund Tradíció](054_02_amund_tradicio.md)
-   - [Dzsenn Tradíció](054_01_dzsenn_tradicio.md)
-- [Slan tradíció](055_slan_tradicio.md) (25%)🚧
+- [Szellemi Tradíciók](053_00_szellemi_tradiciok.md)
+  - [Slan Tradíció](053_01_slan_tradicio.md) (25%)🚧
+  - [Fejvadász Tradíció](053_02_fejvadasz_tradicio.md)
+  - [Dzsenn Tradíció](053_03_dzsenn_tradicio.md)
+  - [Amund Tradíció](053_04_amund_tradicio.md)
 
 ---
 ### 6. [Harcrendszer](060_00_harcrendszer.md) 🗡️

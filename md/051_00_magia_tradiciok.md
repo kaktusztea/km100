@@ -4,13 +4,14 @@
 
 → [STUDY: Tradíciók](https://github.com/kaktusztea/km100/wiki/STUDY.tradiciok)
 
-- [Magasmágia (mozaikmágia)](051_01_magasmagia.md)
-- Vulgármágia
-- Ordani (godoni?) Tűzmágia
-- Bárdmágia
-- Sámánmágia
-- Ork Énekmondói mágia
-- Rituális mágia
+  - [Magasmágia (mozaikmágia)](051_01_magasmagia.md)
+  - [Vulgármágia](051_02_vulgarmagia.md)
+  - [Ordani Tűzmágia](051_03_ordani_tuzmagia.md)
+  - [Bárdmágia](051_04_bardmagia.md)
+  - [Természeti mágia](051_05_termeszeti_magia.md)
+  - [Sámánmágia](051_06_samanmagia.md)
+  - [Ork Énekmondói mágia](051_07_ork_enekmondoi_magia.md)
+  - [Rituális mágia](051_08_ritualis_magia.md)
 
 ### Metamágia Arkánum
 
