@@ -10,7 +10,7 @@
 ```
 
 ##### Kiterjeszti ezeket:
-- Városi tájékozódás ⭕TODO: link⭕
+- [Városi jártasság](../kepzettsegek/varosi_jartassag.md)
 - [Történelemismeret](../kepzettsegek/tortenelemismeret.md) - csak ha nagyon konkrétan helyi témával kapcsolatos ismeretről van szó!
 
 ##### Mit fed le
