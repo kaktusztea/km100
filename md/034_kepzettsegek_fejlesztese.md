@@ -19,7 +19,7 @@ Szintlépéskor legfeljebb `2-vel` növelhetőek a képzettségek, kivéve, ha `
 ---
 ### Képzettségszintek követelményei
 
-Nem csak a Fortélyoknak, a Képzettségek egyes szintjeinek is lehetnek követelményei. Ez persze nem minden Képzettségre igaz, de van, ahol szükséges. Ezek általában egyes Tulajdonságok megkövetelt értékei.
+Nem csak a Fortélyoknak, a Képzettségek egyes szintjeinek is lehetnek követelményei. Ez persze nem minden Képzettségre igaz, de van, ahol szükséges. Ezek általában egyes [Tulajdonságok](014_tulajdonsagok.md) megkövetelt értékei.
 
 Ha egy képzettség egy bizonyos fokának eléréséhez szükség van valamilyen teljesítendő követelményre, akkor azt az adott képzettség leírásánál részletezzük.
 
