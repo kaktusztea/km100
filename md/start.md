@@ -6,9 +6,13 @@
 
 ## Segédletek, gyakori oldalak
 
-**[Segédlet esszencia (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_ingame.pdf?raw=true)**&nbsp;&nbsp;-&nbsp;&nbsp;[Távharc segédlet (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_tavharc.pdf?raw=true)&nbsp;&nbsp;-&nbsp;&nbsp;NJK Karakterlap v1.2 ([odt📄](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2.odt?raw=true), [odt📄📄](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2_ketoldalas.odt), [pdf](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2.pdf?raw=true))\
-[Képzettséglista](031_kepzettseglista.md) &nbsp;-&nbsp; [Fortélyok](040_fortelyok.md) &nbsp;-&nbsp; [Szabad Hátterek](023_szabad_hatterek.md)\
+**[Segédlet esszencia (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_ingame.pdf?raw=true)**\
+[Távharc segédlet (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_tavharc.pdf?raw=true)
+
+NJK Karakterlap v1.2 ([odt📄](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2.odt?raw=true), [odt📄📄](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2_ketoldalas.odt), [pdf](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2.pdf?raw=true))\
 &#8203;<!-- markdown-link-check-disable -->[LibreOffice letöltése ⬇️](https://www.libreoffice.org/download/download/)<!-- markdown-link-check-enable --> 
+
+[Képzettséglista](031_kepzettseglista.md) &nbsp;-&nbsp; [Fortélyok](040_fortelyok.md) &nbsp;-&nbsp; [Szabad Hátterek](023_szabad_hatterek.md)
 
 ---
 ## Részletes szabályrendszer
@@ -46,8 +50,8 @@
 ---
 ### 2. [Hátterek](020_hattererek.md)
 
-  - [Faj Hátterek](021_faj_hatterek.md)
-  - [Kiemelt Hátterek](022_kiemelt_hatterek.md)
+  - [Kiemelt Hátterek](021_kiemelt_hatterek.md)
+  - [Faj Hátterek](022_faj_hatterek.md)
   - [Szabad Hátterek](023_szabad_hatterek.md)
   - [Leíró Hátterek](024_leiro_hatterek.md)
   - [Karma Hátterek](025_karma_hatterek.md)
