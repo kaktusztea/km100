@@ -1,6 +1,0 @@
-Megnézzük, hogy milyen értékeket kapunk 20. szinten, ami a tervezett maximum szint lesz.
-
-Módosítottuk a KP javadalmazást. Új:
-- KP Alap: 150
-- Primer KP:  100 + Intelligencia / szint
-- Szekunder KP: 40 + Emlékezet / szint
