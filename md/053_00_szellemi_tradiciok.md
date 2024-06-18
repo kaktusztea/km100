@@ -2,7 +2,7 @@
 
 ⚜️ [Nyitóoldal](start.md)
 
-A lenti szellemi tradíciók a Pszí, illetve egyéb egyedi szellemi alkalmazások leírását fedik - különleges iskola, vagy faj-függő tekintetben.
+A lenti szellemi tradíciók a Pszí speciális válfajait, illetve egyéb egyedi, különleges szellemi iskolák leírását fedik. Ezek lehetnek rend-, vagy faj-függő tradíciók is.
 
 - [Slan Tradíció](053_01_slan_tradicio.md)
 - [Fejvadász Tradíció](053_02_fejvadasz_tradicio.md)
