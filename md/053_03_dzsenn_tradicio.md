@@ -2,28 +2,24 @@
 
 ⚜️ [Nyitóoldal](start.md)
 
-```
-- Mentálmágia (mint spec képesség) == ((Dzsenn tradíció szintje) és (Ősi nyelv - Dzsenn) közül az alacsonyabb) - 8
-- Magasmágia == Dzsenn tradíció szintje ⭕EZ NAGYON TÁP. KÜLÖN KELLJEN INKÁBB FELVENNI⭕
-```
+`Mentálmágia szint == (Dzsenn tradíció szintje) - 8`\
+(mint spec képesség)
 
 Követelmények:
 - **NEM** követelmény a tisztavérű dzsenn származás (mint a hatalomszavak alkalmazásánál)
 - Pszí használat fortély: `2. fok`⭕(3?)
-- Pszi Általános képzettség (Primer) felvétele, amelynek szintje nem lehet alacsonyabb, mint a Dzsenn tradíció képzettség
+- [Pszí iskola](kepzettsegek/pszi_iskola.md) képzettség (Primer) felvétele, amelynek szintje nem lehet alacsonyabb, mint a Dzsenn tradíció képzettség
 - az egyes dzsenn különleges képességeknek nincs olyan változata, amelyek e tradíció nélkül működnének
 
-A **Dzsenn tradíció**, a többihez hasonlóan - egy Primer képzettség.
+A **Dzsenn tradíció**, a többihez hasonlóan - egy [Primer](016_primer_szekunder_ismeretek.md) képzettség.
 
-A dzsenn karakter a Tradícióval azonos szinten ingyen megkapja a **Mentálmágia** Arkánumot, amit `3.` szinttől kezdve ösztönösen használni is tud.
+A dzsenn karakter a Tradícióval azonos szinten ingyen megkapja a [Mentálmágia](magia.arkanumok/mentalmagia.md) Arkánumot, amit `3.` szinttől kezdve ösztönösen használni is tud.
 
 Ennek használata speciális: a hatás nem Manából, hanem pszi energiákból jön létre. Ennek a különleges képességnek oka a dzsennek mentálsíkkal való szoros összefonódásában keresendő.
 
 Fontos: csak 1 darab formulát használhat egyszerre, nem kombinálhatja őket mozaikokként!
 
 Előnye, hogy például a Manaszipoly Metamágia formula nem használható rá, mivel nem történik Mana fókuszálás, továbbá Manaholt területeken is használható.
-
-Az Dzsenn tradíció minden 3. szintje után **1 Od** pont jár. Ezt a tisztavérű ősfajok által használt ősmágiát csak akkor képes **Hatalomszavakká** alakítani, amennyiben felvette az [Ősi nyelv ismerete - Dzsenn](kepzettsegek/osi_nyelv_ismerete.md) képzettséget és legalább `9.` szinten jártas benne. Amennyiben ez nincs meg, akkor csak Hatalomszavak elleni ösztönös védekezésre alkalmas.
 
 A tradíció további előnye, hogy "Kyr" varázslói pszí diszciplínákat (⭕Asztrálszem/Mentálszem, stb⭕) is képesek `3.` szinttől használni.
 
