@@ -10,6 +10,7 @@
 - Követelmény: [Keresés/Nyomolvasás](fortelyok.altalanos/kereses_nyomolvasas.md) fortély
 - Észlelést kiterjeszti: [Tájtípus](023_szabad_hatterek.md#tartalomjegyz%C3%A9k) Szabad Hátterek (ha nincs meg `-3` a dobásra)
 
+---
 ### Nyomok követése a természetben 🌳
 
 Előbb észre kell venni az első nyomot, utána lehet követni a csapást.
@@ -18,6 +19,7 @@ Előbb észre kell venni az első nyomot, utána lehet követni a csapást.
 - Követelmény: [Keresés/Nyomolvasás](fortelyok.altalanos/kereses_nyomolvasas.md) fortély
 - Észlelést kiterjeszti: az épp adott [Tájtípus](023_szabad_hatterek.md#tartalomjegyz%C3%A9k) Szabad Háttér (ha nincs meg `-3` a dobásra)
 
+---
 ### Nyomok értelmezése a természetben 🌳
 
 "Két napja gázolt át itt egy nagytestű vad. A szőrnyomokból ítélve medve lehetett."
@@ -25,6 +27,7 @@ Előbb észre kell venni az első nyomot, utána lehet követni a csapást.
 - [Természetjárás](kepzettsegek/termeszetjaras.md) képzettségpróba a nyom bonyolultságának megfelelő Nehézség ellen
 - Természetjárást kiterjesztik: [Tájtípus](023_szabad_hatterek.md#tartalomjegyz%C3%A9k) Szabad Hátterek (ha nincs meg az épp szükséges: `-3` a dobásra)
 
+<br />
 
 ---
 ### Nyomok észrevétele városi környzetben 🏠
@@ -34,6 +37,7 @@ Előbb észre kell venni az első nyomot, utána lehet követni a csapást.
 - [Észlelés](kepzettsegek/eszleles.md) képzettségpróba a nyom észrevételének bonyolultságának megfelelő megfelelő Nehézség ellen
 - Követelmény: [Keresés/Nyomolvasás](fortelyok.altalanos/kereses_nyomolvasas.md) fortély
 
+---
 ### Nyomok értelmezése városi környzetben 🏠
 
 Például titkos iratok átböngészése. Egy felfedezett ősi címer elemzése. Felfedezett titkosírás elemzése.
