@@ -1,3 +1,3 @@
-#### 🔵 Szerencsejáték
+#### 🔵Szerencsejáték
 
 xyz

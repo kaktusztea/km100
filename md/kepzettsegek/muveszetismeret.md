@@ -1,4 +1,4 @@
-#### 🔵 Művészetismeret
+#### 🔵Művészetismeret
 
 **Próba:** dobható
 

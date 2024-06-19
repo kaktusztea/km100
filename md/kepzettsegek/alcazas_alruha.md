@@ -1,4 +1,4 @@
-#### 🔵 Álcázás/álruha
+#### 🔵Álcázás/álruha
 
 ````diff
 - Ellenpróbával menjen? Melyik képzettséggel? Álcázás/álruha vs. Észlelés VAGY Emberismeret??

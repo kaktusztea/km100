@@ -1,4 +1,4 @@
-#### 🔵 Vajákosság
+#### 🔵Vajákosság
 
 **Próba:** dobható
 

@@ -1,4 +1,4 @@
-#### 🔵 Előadóművészet
+#### 🔵Előadóművészet
 
 **Próba:** dobható
 

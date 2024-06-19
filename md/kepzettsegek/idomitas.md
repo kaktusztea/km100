@@ -1,4 +1,4 @@
-#### 🔵 Idomítás
+#### 🔵Idomítás
 
 **Próba:** dobható
 

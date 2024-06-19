@@ -1,4 +1,4 @@
-#### 🔵 Történelemismeret
+#### 🔵Történelemismeret
 
 Általános ismeret, magába foglalja a legendák ismeretét is és az ősi kultúrák ismeretét is.
 

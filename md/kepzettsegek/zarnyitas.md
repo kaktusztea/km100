@@ -1,3 +1,3 @@
-#### 🔵 Zárnyitás
+#### 🔵Zárnyitás
 
 xyz

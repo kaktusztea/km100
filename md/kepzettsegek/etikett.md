@@ -1,4 +1,4 @@
-#### 🔵 Etikett
+#### 🔵Etikett
 
 **Próba**: dobható, sokszor [összetett próba](../030_kepzettsegrendszer.md#összetett-képzettségpróba-másodlagos-próbadobások) indokolt
 
