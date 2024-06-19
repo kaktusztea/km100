@@ -1,4 +1,4 @@
-# Pszí
+# 🌀Pszí
 
 ⚜️ [Nyitóoldal](start.md)
 

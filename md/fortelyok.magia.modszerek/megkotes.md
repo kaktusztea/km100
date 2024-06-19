@@ -1,4 +1,4 @@
-#### 🟣✨Mágiamódszer: Megkötés (1)
+#### 🟣 💫 Mágiamódszer: Megkötés (1)
 
 Képes vagy megkötni valamiben a mágikus hatást.
 
