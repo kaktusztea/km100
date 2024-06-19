@@ -9,10 +9,12 @@ Ez egy [Primer képzettség](../016_primer_szekunder_ismeretek.md).
 **Kapcsolódó fortélyok**: [Keresés/Nyomolvasás](../fortelyok.altalanos/kereses_nyomolvasas.md), [Építészet](../fortelyok.altalanos/epiteszet.md), [Élettan](../fortelyok.altalanos/elettan.md) (boncoláshoz)
 
 **Szabad Hátterek kiterjesztik**:
-- [Heraldika](../hatterek.szabad/heraldika.md)
-- [Pénzügyek](../hatterek.szabad/penzugyek.md)
-- [Jogismeret](../hatterek.szabad/jogismeret.md)
+
 - [Hazudozás](../hatterek.szabad/hazudozas.md)
+- [Heraldika](../hatterek.szabad/heraldika.md)
+- [Jogismeret](../hatterek.szabad/jogismeret.md)
+- [Pénzügyek](../hatterek.szabad/penzugyek.md)
+- [Rejtjelfejtő](../hatterek.szabad/rejtjelfejto.md)
 - [Titkos szervezeti kultúra](../hatterek.szabad/titkos_szervezeti_kultura.md)
 
 **Leírás**: Egy helyszín átvizsgálásakor rengeteg nyom van, amit értelmezni kell, illetve az felderítés eljárásrendjének ismerete is fontos segítséget adhat. Az alábbi példák segítenek leírni, milyen jellegű információk nyerhetők a képzettség segítségével:
