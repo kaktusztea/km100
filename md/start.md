@@ -187,6 +187,7 @@ NJK Karakterlap v1.2 ([odt📄](https://github.com/kaktusztea/km100/raw/master/s
 - [Érzékelés, Észlelés](141_erzekeles_eszleles.md)
 - [Nyomok, nyomkövetés](142_nyomok_nyomkovetes.md)
 - [Menekülés, üldözés, futás](143_menekules_uldozes_futas.md)
+- [Térkép rajzolása](144_terkep_rajzolasa.md)
 
 ---
 ## [🚧 Fejlesztő portál 🚧](https://github.com/kaktusztea/km100/wiki)
