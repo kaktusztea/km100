@@ -2,6 +2,5 @@
 
 ⚜️ [Nyitóoldal](start.md)
 
-→ [TODO/ISSUE harcrendszer](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.szituaciok)
+→ [TODO/ISSUE szituációk](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.szituaciok) -  [STUDY oldal](https://github.com/kaktusztea/km100/wiki/STUDY.szituaciok)
 
-Jelenleg a saját [STUDY oldalán](https://github.com/kaktusztea/km100/wiki/STUDY.szituaciok) fejlesztjük. Amint ott elkészül, bemásolni ide.
