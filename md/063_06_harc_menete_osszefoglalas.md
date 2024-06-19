@@ -172,7 +172,7 @@ VÉ csökkentés:
     nincs Sebzés, VÉ:+5 csökkentés
 ```
 
-Lásd: [Sebzés táblázat](063_04_harc_menete_reszletes.md#sebzés)
+Lásd: [Sebzés táblázat](063_07_harc_menete_reszletes.md#sebzés)
 
 **Megjegyzés**: a "Harci anatómia" ÉP bónusza csak akkor adható hozzá, ha az alap sebzés átment a páncélon! ⭕TODO⭕
 

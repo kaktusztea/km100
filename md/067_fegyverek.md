@@ -24,12 +24,12 @@ Alább alapelveket találhatunk az egyes általános fegyverkategóriákhoz – 
 ---
 ### Elsődleges támadási típus
 
-Lásd: [Harc menete → Elsődleges támadási típus](063_04_harc_menete_reszletes.md#elsődleges-támadási-típus)
+Lásd: [Harc menete → Elsődleges támadási típus](063_07_harc_menete_reszletes.md#elsődleges-támadási-típus)
 
 ---
 ### Egyenjogú támadási típus
 
-Lásd: [Harc menete → Egyenjogú támadási típus](063_04_harc_menete_reszletes.md#egyenjogú-támadási-típus)
+Lásd: [Harc menete → Egyenjogú támadási típus](063_07_harc_menete_reszletes.md#egyenjogú-támadási-típus)
 
 ---
 ### Különleges fegyver szabály
