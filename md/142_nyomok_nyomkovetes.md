@@ -15,5 +15,5 @@ Bevezető
 
 ### Nyomok értelmezése a természetben
 
-- [Természetjárás](kepzettsegek/termeszetjaras.md) próba
-- Természetjárást kiterjeszti: [Tájtípus](023_szabad_hatterek.md#tartalomjegyz%C3%A9k) Szabad Hátterek (ha nincs meg `-3` a dobásra)
+- [Természetjárás](kepzettsegek/termeszetjaras.md) képzettségpróba a nyom bonyolultságának megfelelő Nehézség ellen
+- Természetjárást kiterjesztik: [Tájtípus](023_szabad_hatterek.md#tartalomjegyz%C3%A9k) Szabad Hátterek (ha nincs meg az épp szükséges: `-3` a dobásra)
