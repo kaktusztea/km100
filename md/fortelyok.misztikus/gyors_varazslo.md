@@ -9,8 +9,8 @@ Jobban össze tudod sűríteni a varázslatodat, így egy körben nagyobbak a le
 
 ##### Hatás
 
-- `1.fok`: [Varázskeret](../063_02_tamadasok_szama__akcio__mozgas.md#var%C3%A1zskeret) értéked `+2`-vel nő.
-- `2.fok`: [Varázskeret](../063_02_tamadasok_szama__akcio__mozgas.md#var%C3%A1zskeret) értéked `+4`-el nő.
+- `1.fok`: [Varázskeret](../063_02_akcio_fogalma.md#varázskeret) értéked `+2`-vel nő.
+- `2.fok`: [Varázskeret](../063_02_akcio_fogalma.md#varázskeret) értéked `+4`-el nő.
 
 <br />
 

@@ -53,13 +53,13 @@ Egyes Tulajdonságok értékei beleszámítanak a harcértékekbe. Hogy melyek a
 
 A Kezdeményező Érték (**KÉ**) szerepe a harcban, hogy meghatározza, ki „mozdul először” a harcban. Nem jelent harci dominanciát, csak azt, hogy ki a gyorsabb, ki cselekedhet előbb.
 
-A kezdeményezésről bővebben lásd a [Harc menete - Kezdeményezés](063_04_harc_menete_reszletes.md#kezdeményezés) fejezetet!
+A kezdeményezésről bővebben lásd a [Harc menete - Kezdeményezés](063_07_harc_menete_reszletes.md#kezdeményezés) fejezetet!
 
 Két típusú KÉ létezik:
 - Fegyveres KÉ
 - Varázslás KÉ
 
-A fenti két KÉ számítása azonos, egyedül a "Harcmodor"/"Mágia Tradíció" által adott bónuszban térnek el (lásd lenn). Külön számolandóak és külön is kezelendőek. Bővebben lásd a [Harc menete](063_04_harc_menete_reszletes.md#kezdeményezés) - "Kezdeményezés" és "Varázslás kezdeményezése" bekezdéseket.
+A fenti két KÉ számítása azonos, egyedül a "Harcmodor"/"Mágia Tradíció" által adott bónuszban térnek el (lásd lenn). Külön számolandóak és külön is kezelendőek. Bővebben lásd a [Harc menete](063_07_harc_menete_reszletes.md#kezdeményezés) - "Kezdeményezés" és "Varázslás kezdeményezése" bekezdéseket.
 
 A karakter Kezdeményező Értékét a következőképpen kell kiszámítani:
 
@@ -115,7 +115,7 @@ Az alábbi táblázat megadja, a Támadó Érték kiszámolásának módját.
 | Plusz támadás levonása | Minden plusz támadás esetén `-10` levonás jár a **TÉ**-re.  <br>(a 2. támadásra: `TÉ:-10`, a 3.támadásra: `TÉ:-20`, stb)                                                                                                                                                                                               |
 |       Speciális        | - Fortélyokból adódó módosítók<br> - Harci helyzetből adódó módosítók<br> - Fegyver minőségéből adódó módosító<br>&nbsp;&nbsp;&nbsp;&nbsp; - Mestermunka: max `TÉ:+5`<br>&nbsp;&nbsp;&nbsp;&nbsp; - Gyatra fegyver: max `TÉ:+5`<br>&nbsp;&nbsp;&nbsp;&nbsp; - Mágikus fegyver módosítói<br> - Mágiából adódó módosítók |
 
-Bővebben lásd a [Harc menete - Támadás, Védő Érték csökkentése](063_04_harc_menete_reszletes.md#támadás-védő-érték-csökkentése) fejezetben!
+Bővebben lásd a [Harc menete - Támadás, Védő Érték csökkentése](063_07_harc_menete_reszletes.md#támadás-védő-érték-csökkentése) fejezetben!
 
 <br />
 

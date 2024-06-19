@@ -113,10 +113,13 @@ NJK Karakterlap v1.2 ([odt📄](https://github.com/kaktusztea/km100/raw/master/s
 #### 6.3 Harc menete
 
 - [Előnyös és hátrányos helyzet (VÉ csökkentés)](063_01_elonyos_hatranyos_helyzet.md)
-- [Támadások száma, Akciók, Mozgás](063_02_tamadasok_szama__akcio__mozgas.md)
-- [Harc menete (összefoglaló)](063_03_harc_menete_osszefoglalas.md) 🎲
-- **[Harc menete (részletes)](063_04_harc_menete_reszletes.md)** 🎲 (KÉ, Támadás, Sebzés, Sebződés)
-- [Példaharc](063_05_peldaharc.md)
+- [Akciók fogalma](063_02_akcio_fogalma.md)
+- [Harckeret, Támadások száma fegyverrel](063_03_tamadasok_szama_fegyverrel.md)
+- [Varázskeret, Támadások száma mágiával](063_04_tamadasok_szama_magiaval.md)
+- [Mozgás harc közben](063_05_mozgas_harc_kozben.md)
+- [Harc menete (összefoglaló)](063_06_harc_menete_osszefoglalas.md) 🎲
+- **[Harc menete (részletes)](063_07_harc_menete_reszletes.md)** 🎲 (KÉ, Támadás, Sebzés, Sebződés)
+- [Példaharc](063_08_peldaharc.md)
 
 #### 6.4 Harcot módosító tényezők
 
