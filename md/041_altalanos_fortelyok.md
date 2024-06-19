@@ -66,4 +66,4 @@ A fentiekből kitűnik, hogy aki nem képes eljátszani egy ilyen helyzetet, az 
 
 Az alábbi Fortélyokat a játékos csak a KM engedélyével veheti fel, ÉS csak abban az esetben, amennyiben az a karakter előtörténetével és jellemrajzával egyezik.
 
-Szót érdemelnek még a politikai cselszövések, mint szociális vonatkozású tevékenységek. Ezek komplex szituációk, melyeket nem vonhatunk be a szabályrendszer alá, mégis egyes területein (pl. információk megszerzése) döntenünk kell. Az ilyen helyzetek kezeléséhez lásd a **„Mit tudok/tudhatok róla?”** fejezetet a szabályrendszer [Szituációk](150_szituaciok.md) főfejezetében!
+Szót érdemelnek még a politikai cselszövések, mint szociális vonatkozású tevékenységek. Ezek komplex szituációk, melyeket nem vonhatunk be a szabályrendszer alá, mégis egyes területein (pl. információk megszerzése) döntenünk kell. Az ilyen helyzetek kezeléséhez lásd a **„Mit tudok/tudhatok róla?”** fejezetet a szabályrendszer [Szituációk](140_szituaciok.md) főfejezetében!

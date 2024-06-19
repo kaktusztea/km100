@@ -149,6 +149,7 @@ NJK Karakterlap v1.2 ([odt📄](https://github.com/kaktusztea/km100/raw/master/s
 
 ---
 ### 9. [Mágiarendszer](090_magiarendszer.md)
+
 - [Mágiaelmélet](091_magiaelmelet.md)
 - [Mágia alapszabályok](092_magia_alapszabalyok.md)
 - [Aura, Átütés, Mágiaellenállás](094_aura_atutes_magiaellenallas.md)
@@ -181,9 +182,11 @@ NJK Karakterlap v1.2 ([odt📄](https://github.com/kaktusztea/km100/raw/master/s
 
 ### 13. [Méregrendszer, Mérgek](130_meregrendszer.md)
 
-### 14. [Érzékelés, Észlelés](140_erzekeles_eszleles.md) (90%)
+### 14. [Szituációk](140_szituaciok.md) (20%)
 
-### 15. [Szituációk](150_szituaciok.md) (20%)
+- [Érzékelés, Észlelés](141_erzekeles_eszleles.md)
+- [Nyomok, nyomkövetés](142_nyomok_nyomkovetes.md)
+- [Menekülés, üldözés, futás](143_menekules_uldozes_futas.md)
 
 ---
 ## [🚧 Fejlesztő portál 🚧](https://github.com/kaktusztea/km100/wiki)

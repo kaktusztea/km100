@@ -1,17 +1,17 @@
-# Érzékelés, Észlelés
+## Érzékelés, Észlelés
 
 ⚜️ [Nyitóoldal](start.md)
 
-→ [TODO/ISSUE harcrendszer](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.erzekeles.eszleles)
+→ [TODO/ISSUE Érzékelés/Észlelés](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.erzekeles.eszleles)
 
-## Tág értelmezés
+### Tág értelmezés
 
 >⭕Észlelés és Érzékelés (nem csak képzettség szintjén!) tágan értelmezve (Hatodik érzék, mágikus érzékelés (pl. manában sűrű terület), pszí érzékelő diszciplínái, hangulatok megérzése (Intuíció+Emberismeret), stb)⭕
 
 >⭕Még nem tudom, mennyire kell itt belefolyni a többi területbe (mágia/pszí), de általános szabályokat érdemes egy helyre gyűjteni⭕
 
 ---
-## Érzékek
+### Érzékek
 
 ```
 Észlelés (K) + Érzékenység (T)
@@ -22,7 +22,7 @@ Az érzékeket (látás, hallás, szaglás, ízlelés) érintő próbákat **És
 A fajok esetleges bónuszai felvehetőek Érzék-Fortélyként. Bővebben lásd a [Faj Hátterek](022_faj_hatterek.md) fejezetben.
 
 ---
-## Észlelés
+### Észlelés
 
 Idézet az [Észlelés](kepzettsegek/eszleles.md) képzettség leírásából:
 
@@ -30,7 +30,7 @@ Idézet az [Észlelés](kepzettsegek/eszleles.md) képzettség leírásából:
 
 Megkülönböztetünk Harcot megelőző és harcon kívüli észlelés szituációt, valamint ezeken belül aktív és passzív észlelést.
 
-### Aktív észlelés
+#### Aktív észlelés
 
 Azaz az "észreveszem-e?" jellegű szituációk
 ```
@@ -39,7 +39,7 @@ Azaz az "észreveszem-e?" jellegű szituációk
 - A karakter rákérdez, hogy érzékel-e egy konkrét dolgot
 - A karakter jelzi, hogy kifejezetten érzékeire figyel most (általánosságban)
 
-### Passzív észlelés
+#### Passzív észlelés
 ```
  Módosulatlan nehézség az Észlelés képzettségpróba-dobásra
 ```
@@ -49,15 +49,14 @@ A karakternek feltűnik valami anélkül, hogy kifejezetten kereste volna/figyel
 ⚡Például: orgyilkos a háta mögött (**Észlelés+Érzékenység**) , vagy a nemesúrnak álbajusza van, mérgezett az étel, stb.
 
 ---
-### Milyen Tulajdonsággal dobjuk a próbát?
+#### Milyen Tulajdonsággal dobjuk a próbát?
 
 - **Észlelés** + **Érzékenység**: Követik-e? ; Észreveszi-e a ruha alatt villanó tőrt?
 - **Nyomozás** + **Intelligencia** : Rájön-e, hogy mit vett észre? (az igazi szakáll nem nő így például)
 
 ---
-### Harcot megelőző szituáció
+#### Harcot megelőző szituáció: Áldozat háta mögé lopakodás
 
-#### Áldozat háta mögé lopakodás
 ```
 Lopakodás/rejtőzés + Ügyesség   vs.  Észlelés + Érzékenység  (+3)
 ```
@@ -70,27 +69,9 @@ Ilyen szituban a **Lopakodás/rejtőzést** általában **Ügyességgel**, az **
   (alapeset leírását és a próba körülményeit, módosítóit lásd a [Lopakodás/rejtőzés](kepzettsegek/lopakodas_rejtozes.md) képzettség leírásánál!)
 - Ha az észlelő odafigyel, számít a támadásra (aktív észlelés): `+3` jár a próbájára
 
-### Nem harci szituáció
+#### Nem harci szituáció
 
 Sima próbadobás adott nehézségre, melyet a KM határoz meg.
 
 - Ha az észlelés passzív: alap nehézség ellen dob
 - Ha az észlelés aktív: egy kategóriával (`-3`) csökken a nehézség
-
----
-### Nyomok észrevétele a természetben
-
-- Észlelés próba
-- Követelmény: [Keresés/Nyomolvasás](fortelyok.altalanos/kereses_nyomolvasas.md) fortély
-- Észlelést kiterjeszti: [Tájtípus](023_szabad_hatterek.md#tartalomjegyz%C3%A9k) Szabad Hátterek (ha nincs meg `-3` a dobásra)
-
-### Nyomok követése a természetben
-
-- Észlelés [összetett képzettségpróba](036_kepzettsegproba.md#%C3%B6sszetett-k%C3%A9pzetts%C3%A9gpr%C3%B3ba-m%C3%A1sodlagos-pr%C3%B3badob%C3%A1sok)
-- Követelmény: [Keresés/Nyomolvasás](fortelyok.altalanos/kereses_nyomolvasas.md) fortély
-- Észlelést kiterjeszti: [Tájtípus](023_szabad_hatterek.md#tartalomjegyz%C3%A9k) Szabad Hátterek (ha nincs meg `-3` a dobásra)
-
-### Nyomok értelmezése a természetben
-
-- [Természetjárás](kepzettsegek/termeszetjaras.md) próba
-- Természetjárást kiterjeszti: [Tájtípus](023_szabad_hatterek.md#tartalomjegyz%C3%A9k) Szabad Hátterek (ha nincs meg `-3` a dobásra)
