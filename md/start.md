@@ -185,12 +185,13 @@ NJK Karakterlap v1.2 ([odt📄](https://github.com/kaktusztea/km100/raw/master/s
 
 ### 13. [Méregrendszer, Mérgek](130_meregrendszer.md)
 
-### 14. [Szituációk](140_szituaciok.md) (20%)
+### 14. [Szituációk](140_szituaciok.md)
 
 - [Érzékelés, Észlelés](141_erzekeles_eszleles.md)
 - [Nyomok, nyomkövetés](142_nyomok_nyomkovetes.md)
 - [Menekülés, üldözés, futás](143_menekules_uldozes_futas.md)
-- [Térkép készítése](144_terkep_keszitese.md)
+- [Befolyásolás vs Emberismeret](144_befolyasolas_emberismeret.md)
+- [Térkép készítése](145_terkep_keszitese.md)
 
 ---
 ## [🚧 Fejlesztő portál 🚧](https://github.com/kaktusztea/km100/wiki)
