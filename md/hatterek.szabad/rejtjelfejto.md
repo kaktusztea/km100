@@ -4,6 +4,7 @@
 
 ##### Kiterjeszti ezeket
 
+- [Nyomozás](../kepzettsegek/nyomozas.md)
 - [Tudományok](../kepzettsegek/tudomanyok.md)
 
 <br />
