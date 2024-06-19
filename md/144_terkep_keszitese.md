@@ -1,4 +1,4 @@
-## Térkép rajzolása
+## Térkép készítése
 
 [Tudományok](kepzettsegek/tudomanyok.md) képzettségpróba dobás a térkép bonyolultsága és részletessége alapján megállapított Nehézség ellen.
 
