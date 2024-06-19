@@ -1,4 +1,4 @@
-## Pszí diszciplínák
+## 🟢 Pszí diszciplínák
 
 → [STUDY doksi](https://github.com/kaktusztea/km100/wiki/STUDY.pszi.diszciplinak)
 

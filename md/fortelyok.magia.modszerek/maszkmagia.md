@@ -1,4 +1,4 @@
-#### 🟣✨Mágiamódszer: Maszkmágia (1)
+#### 🟣 💫 Mágiamódszer: Maszkmágia (1)
 
 Kézzel készített maszkot - szerves, vagy szervetlen anyagból - készítesz, azt nemesíted át mágikus hatással.
 

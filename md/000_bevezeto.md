@@ -27,7 +27,9 @@ A szabályrendszer dokumentumaiban speciális unicode karaktereket használunk j
 
 ✨ Mágia
 
-Pszí
+💫 Varázslási módszer
+
+🌀 Pszí
 
 ⚡ Példa
 
