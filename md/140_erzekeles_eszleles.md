@@ -52,7 +52,7 @@ A karakternek feltűnik valami anélkül, hogy kifejezetten kereste volna/figyel
 ### Milyen Tulajdonsággal dobjuk a próbát?
 
 - **Észlelés** + **Érzékenység**: Követik-e? ; Észreveszi-e a ruha alatt villanó tőrt?
-- **Észlelés**/**Nyomozás** + **Intelligencia** : Rájön-e, hogy mit vett észre? (az igazi szakáll nem nő így például)
+- **Nyomozás** + **Intelligencia** : Rájön-e, hogy mit vett észre? (az igazi szakáll nem nő így például)
 
 ---
 ### Harcot megelőző szituáció
@@ -77,15 +77,20 @@ Sima próbadobás adott nehézségre, melyet a KM határoz meg.
 - Ha az észlelés passzív: alap nehézség ellen dob
 - Ha az észlelés aktív: egy kategóriával (`-3`) csökken a nehézség
 
-
-### Nyomok észrevétele
+---
+### Nyomok észrevétele a természetben
 
 - Észlelés próba
 - Követelmény: [Keresés/Nyomolvasás](fortelyok.altalanos/kereses_nyomolvasas.md) fortély
 - Észlelést kiterjeszti: [Tájtípus](023_szabad_hatterek.md#tartalomjegyz%C3%A9k) Szabad Hátterek (ha nincs meg `-3` a dobásra)
 
-### Nyomok követése
+### Nyomok követése a természetben
 
 - Észlelés [összetett képzettségpróba](036_kepzettsegproba.md#%C3%B6sszetett-k%C3%A9pzetts%C3%A9gpr%C3%B3ba-m%C3%A1sodlagos-pr%C3%B3badob%C3%A1sok)
 - Követelmény: [Keresés/Nyomolvasás](fortelyok.altalanos/kereses_nyomolvasas.md) fortély
 - Észlelést kiterjeszti: [Tájtípus](023_szabad_hatterek.md#tartalomjegyz%C3%A9k) Szabad Hátterek (ha nincs meg `-3` a dobásra)
+
+### Nyomok értelmezése a természetben
+
+- [Természetjárás](kepzettsegek/termeszetjaras.md) próba
+- Természetjárást kiterjeszti: [Tájtípus](023_szabad_hatterek.md#tartalomjegyz%C3%A9k) Szabad Hátterek (ha nincs meg `-3` a dobásra)
