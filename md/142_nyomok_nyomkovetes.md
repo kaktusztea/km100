@@ -1,6 +1,7 @@
 ## Nyomok észrevétele, Nyomkövetés
 
-Bevezető
+⭕TODO:Bevezető
+
 ### Nyomok észrevétele a természetben
 
 - [Észlelés](kepzettsegek/eszleles.md) képzettségpróba
