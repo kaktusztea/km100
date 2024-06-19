@@ -1,4 +1,4 @@
-#### 🔵 Képzőművészet
+#### 🔵Képzőművészet
 
 **Próba:** dobható
 

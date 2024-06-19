@@ -1,4 +1,4 @@
-#### 🔵 Szakma
+#### 🔵Szakma
 
 Ács, asztalos, borbély, cipész, cserző, ékszerész, gazdálkodás(birtok), hivatalnok, kötélgyártó, kőműves, kádár, (fegyver)kovács, lakatos, molnár, páncélkováscs, pék, pénzverő, rejtjelfejtő, szabó, szűcs, varga
 
