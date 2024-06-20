@@ -21,7 +21,7 @@ Különlegesen jó a szaglásod, állatokéval vetekszik.
 
 <br />
 
-**Megjegyzések**
+#### Megjegyzések
 
 - Felvételéhez olyan [Faj-Háttér](../022_faj_hatterek.md) szükséges, amelynél szerepel az **Fejlett szaglás**, mint felvehető Érzék-fortély
 - Élőlényeket ⭕TODO⭕ méter távolságból tudsz kiszagolni
