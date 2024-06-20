@@ -2,16 +2,60 @@
 
 Egyszerre mindkét kezedben képes vagy fegyvert forgatni.
 
-| |  Követelmény | Hatás  |
-| :----------- | :----------- | :----------- |
-| Alapeset| - | Képzetlen kétkezes harc esetén két fegyver használatakor a főfegyver (nagyobb fegyver) harcmodora és értékei számítanak, a második fegyver értékei `0`-nak számítanak. Egyik fegyver 🗡️[Mesterfegyver](mesterfegyver.md) fortélya sem számít.<br />`-10`&nbsp;KÉ/TÉ/VÉ<br />`+1`&nbsp;Harckeret |
-| 1.fok | Főfegyver harcmodora<br />- `6.`szint<br />Kiegészítő fegyver harcmodora<br />- `3.`szint | Főfegyver (nagyobb fegyver) harcmodora számít. Fegyver harcértékek összeadódnak. Egyik fegyver 🗡️[Mesterfegyver](mesterfegyver.md) fortélya sem számít.<br />`+3` Harckeret* |
-| 2.fok | Főfegyver harcmodora&nbsp;–&nbsp;`9.`szint<br />Kiegészítő fegyver harcmodora&nbsp;–&nbsp;`6.`szint | Mint az 1.fok, de csak a főfegyver 🗡️[Mesterfegyver](mesterfegyver.md) fortélya számít (akkor is, ha a két fegyver típusa ugyanaz!) Továbbá: `+6` Harckeret* |
-| 3.fok | Főfegyver harcmodora&nbsp;–&nbsp;`9.`szint<br />Kiegészítő fegyver harcmodora&nbsp;–&nbsp;`9.`szint | Mint az 2.fok, de mindkét fegyver 🗡️[Mesterfegyver](mesterfegyver.md) fortélya beszámít (annál hosszabbak esetén viszont semmilyen bónusz nem számít és a fegyverek harcértéke 0)<br />`+6` Harckeret* (ez nem emelkedik) |
+#### Alapeset
+
+🔒 **Követelmény**: -
+
+🌟 **Hatás**:
+- Képzetlen kétkezes harc esetén két fegyver használatakor a főfegyver (nagyobb fegyver) harcmodora és értékei számítanak, a második fegyver értékei `0`-nak számítanak.
+- Egyik fegyver 🗡️[Mesterfegyver](mesterfegyver.md) fortélya sem számít.
+- `KÉ/TÉ/VÉ: -10`
+- Harckeret: `+1`
+
+---
+#### 1. fok
+
+🔒 **Követelmény**:
+- Főfegyver harcmodora - `6.szint`
+- Kiegészítő fegyver harcmodora - `3.szint`
+
+🌟 **Hatás**:
+  - Főfegyver (nagyobb fegyver) harcmodora számít.
+  - Fegyver harcértékek összeadódnak.
+  - Egyik fegyver 🗡️[Mesterfegyver](mesterfegyver.md) fortélya sem számít.
+  - Harckeret: `+3`
+
+---
+#### 2. fok
+
+🔒 **Követelmény**:
+- Főfegyver harcmodora - `9.szint`
+- Kiegészítő fegyver harcmodora - `6.szint`
+
+🌟 **Hatás**:
+- Főfegyver (nagyobb fegyver) harcmodora számít.
+- Fegyver harcértékek összeadódnak.
+- Csak a főfegyver 🗡️[Mesterfegyver](app://obsidian.md/mesterfegyver.md) fortélya számít (akkor is, ha a két fegyver típusa ugyanaz!)
+- Harckeret: `+6`
+
+---
+#### 3. fok
+
+🔒 **Követelmény**:
+- Főfegyver harcmodora - `9.szint`
+- Kiegészítő fegyver harcmodora - `9.szint`
+
+🌟 **Hatás**:
+  - Főfegyver (nagyobb fegyver) harcmodora számít.
+  - Fegyver harcértékek összeadódnak.
+  - mindkét fegyver 🗡️[Mesterfegyver](app://obsidian.md/mesterfegyver.md) fortélya számít
+  - (annál hosszabbak esetén viszont semmilyen bónusz nem számít és a fegyverek harcértéke 0)   ???
+  - Harckeret: `+6`
 
 <br />
 
-***Harckeret bónusz**
+---
+####  Harckeret bónusz
 
 A sebesség bónusz végső értékét úgy kapjuk meg, hogy még fegyver-függő levonásokat alkalmazunk rá az alábbiak szerint:
 
@@ -21,7 +65,8 @@ A sebesség bónusz végső értékét úgy kapjuk meg, hogy még fegyver-függ�
 
 <br />
 
-**Általános szabályok**
+---
+#### Általános szabályok
 
 - Támadások számának meghatározásánál a nagyobb fegyver számít (+sebesség beszámításánál)
 - 🟣**Kétkezesség fortély**: ha a **Kétkezes harc** legalább `1.fokú`, akkor `+1` Sebesség bónuszt ad
