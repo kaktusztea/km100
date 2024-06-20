@@ -5,18 +5,35 @@
 Fajhoz felvehető Érzék-fortély.
 
 Sötétben (leginkább élőlények által kibocsátott) hőképek alapján is képes vagy tájékozódni.
+#### Alapeset
 
-| |  Követelmény | Hatás  |
-| :----------- | :-----------: | :----------- |
-| Alapeset| - | Emberi látás, sötétben nem látsz hőképeket. |
-| 1.fok | Kapcsolódó<br />[Faj Háttér](../022_faj_hatterek.md) | Valami derengél, de kell Észlelés próba kell a tájékozódáshoz és a harchoz is. Ha van **Vakharc** fortélya legalább `1. fokon`, akkor ez a próba elhagyható.<br /> ⭕ezzel tápolni lehet, ki lehet hagyni a Vakharc 2. fok felvételét⭕ |
-| 2.fok | Kapcsolódó<br />[Faj Háttér](../022_faj_hatterek.md) | Ha van a hőképben eltérés, lát a sötétben - legyenek akár élőlények, akár tárgyak. |
+🔒 **Követelmény**:  -
+
+🌟 **Hatás**: Emberi látás, sötétben nem látsz hőképeket.
+
+---
+#### 1. fok
+
+🔒 **Követelmény**: Kapcsolódó [Faj Háttér](../022_faj_hatterek.md)
+
+🌟 **Hatás**:
+- Valami derengél, de [Észlelés](../kepzettsegek/eszleles.md) próba kell a tájékozódáshoz és a harchoz is.
+- Ha van **Vakharc** fortélya legalább `1. fokon`, akkor ez a próba elhagyható.
+- ⭕TODO⭕ezzel tápolni lehet, ki lehet hagyni a Vakharc 2. fok felvételét⭕
+
+
+---
+#### 2. fok
+
+🔒 **Követelmény**: Kapcsolódó [Faj Háttér](../022_faj_hatterek.md)
+
+🌟 **Hatás**: Ha van a hőképben eltérés, lát a sötétben - legyenek akár élőlények, akár tárgyak.
 
 <br />
 
-⭕Harcnál mit adnak?⭕
+⭕TODO⭕Harcnál mit adnak?⭕
 
-**Megjegyzések**
+#### Megjegyzések
 
 - Felvételéhez olyan [Faj-Háttér](../022_faj_hatterek.md) szükséges, amelynél szerepel az **Infralátás**, mint felvehető Érzék-fortély
 - A távolság "használhatóságát" továbbra is az **Észlelés** képzettség határozza meg (mennyire folynak össze a hőfoltok).

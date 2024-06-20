@@ -4,17 +4,17 @@
 
 Fajhoz felvehető Érzék-fortély.
 
-⭕xyz
+#### 1. fok
 
-| |  Követelmény | Hatás  |
-| :----------- | :-----------: | :----------- |
-| Alapeset| - | - |
-| 1.fok | Kapcsolódó [Faj Háttér](../022_faj_hatterek.md) | ⭕Időérzék föld alatt is, Milyen mélyen van, Merre van észak |
+🔒 **Követelmény**: Kapcsolódó [Faj Háttér](../022_faj_hatterek.md)
+
+🌟 **Hatás**: Időérzék föld alatt is, Milyen mélyen van, Merre van észak. ⭕TODO⭕
+
  
 <br />
 
-**Megjegyzések**
+#### Megjegyzések
 
-- Felvételéhez olyan [Faj-Háttér](../022_faj_hatterek.md) szükséges, amelynél szerepel az **Barlangi tájékozódás**, mint felvehető Érzék-fortély
+Felvételéhez olyan [Faj-Háttér](../022_faj_hatterek.md) szükséges, amelynél szerepel a **Barlangi tájékozódás**, mint felvehető Érzék-fortély
 
 ---

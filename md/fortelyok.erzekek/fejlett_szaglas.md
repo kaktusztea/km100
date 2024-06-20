@@ -5,18 +5,26 @@
 Fajhoz felvehető Érzék-fortély.
 
 Különlegesen jó a szaglásod, állatokéval vetekszik.
+#### Alapeset
 
-| |  Követelmény | Hatás  |
-| :----------- | :-----------: | :----------- |
-| Alapeset| - | Emberi szaglás |
-| 1.fok | Kapcsolódó<br />[Faj Háttér](../022_faj_hatterek.md) | Szag alapján is kiszúrsz a közeledben mozgó élőlényeket, kiérzed az italból, amit egy átlagos ember nem. A szaglást érintő Észleléspróbákra `+2` bónuszt kapsz. |
+🔒 **Követelmény**:  -
+
+🌟 **Hatás**: Emberi szaglás
+
+---
+#### 1. fok
+
+🔒 **Követelmény**: Kapcsolódó [Faj Háttér](../022_faj_hatterek.md)
+
+🌟 **Hatás**: Szag alapján is kiszúrsz a közeledben mozgó élőlényeket, kiérzed az italból, amit egy átlagos ember nem. A szaglást érintő Észleléspróbákra `+2` bónuszt kapsz.
+
 
 <br />
 
 **Megjegyzések**
 
 - Felvételéhez olyan [Faj-Háttér](../022_faj_hatterek.md) szükséges, amelynél szerepel az **Fejlett szaglás**, mint felvehető Érzék-fortély
-- Élőlényeket ⭕X (TODO)⭕ méter távolságból tudsz kiszagolni
+- Élőlényeket ⭕TODO⭕ méter távolságból tudsz kiszagolni
  
 <br />
 
