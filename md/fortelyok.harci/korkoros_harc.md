@@ -1,4 +1,4 @@
-#### 🟣 Körkörös harc (1)
+### 🟣 Körkörös harc (1)
 
 Kiválóan érzed ellenfeleid elhelyezkedését, nehezebben tudnak körbezárni.
 

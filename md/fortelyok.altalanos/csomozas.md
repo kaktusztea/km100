@@ -1,4 +1,4 @@
-#### 🟣 Csomózás (2)
+### 🟣 Csomózás (2)
 
 Csomók ismerete.
 

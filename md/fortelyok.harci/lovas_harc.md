@@ -1,4 +1,4 @@
-#### 🟣 Lovas harc (3)
+### 🟣 Lovas harc (3)
 
 Hátason ülve sem esel kétségbe, ha harcolni kell.
 

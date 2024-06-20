@@ -1,4 +1,4 @@
-#### 🟣 Kitartás (1)
+### 🟣 Kitartás (1)
 
 Szívós vagy mint egy rozsomák.
 

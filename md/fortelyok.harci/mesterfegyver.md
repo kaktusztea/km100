@@ -1,4 +1,4 @@
-#### 🟣 Mesterfegyver (3)
+### 🟣 Mesterfegyver (3)
 
 A legtöbb esetben egy karakternek van egy (vagy több) fegyver típusa, amelyet előnyben részesít, gyakran forgat egy harcmodoron belül. A **Mesterfegyver fortély** segítségével egyes fegyverek harcértékeit tovább növelheti, így elszakadva kicsit tudásban a harcmodor többi fegyverétől. A Mesterfegyver fortélyt legfeljebb 3. fokon lehet felvenni az alábbi követelményekkel és jutalmakkal:
 

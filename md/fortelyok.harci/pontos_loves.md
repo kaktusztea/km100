@@ -1,4 +1,4 @@
-#### 🟣 Pontos lövés (1)
+### 🟣 Pontos lövés (1)
 
 Nem okoz számodra gondot, hogy összevissza mozgó ellenfelet kell eltalálnod.
 

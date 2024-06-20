@@ -1,4 +1,4 @@
-#### 🟣 Külső síkok lényeinek ismerete (1) 🔁
+### 🟣 Külső síkok lényeinek ismerete (1) 🔁
 
 A külső síkok túlvilági teremtményeinek ismerete. Alapos, előtörténettel megtámogatott indoklás kell, hogy a karakter felvehesse.
 

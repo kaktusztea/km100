@@ -1,4 +1,4 @@
-#### 🟣 Írástudó (1)
+### 🟣 Írástudó (1)
 
 Ismered a betűvésés tudományát.
 

@@ -1,4 +1,4 @@
-#### 🟣 Kínokozás (1)
+### 🟣 Kínokozás (1)
 
 Harc közben nem a pusztítás a célod, hanem különösen fájdalmas pontokat támadsz, amivel kibillentheted ellenfeledet lelki nyugalmából.
 

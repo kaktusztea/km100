@@ -1,4 +1,4 @@
-#### 🟣 Közeli lövés (1)
+### 🟣 Közeli lövés (1)
 
 Kifejezetten jól használod lőfegyveredet közeli célpontok ellen. Ez a Fortély csak lőfegyverekkel használható.
 

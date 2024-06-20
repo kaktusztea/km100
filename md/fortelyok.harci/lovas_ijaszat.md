@@ -1,4 +1,4 @@
-#### 🟣 Lovas íjászat (2)
+### 🟣 Lovas íjászat (2)
 
 Gyakorlott vagy a lóhátról való íjászatban, ennek hatására kisebbek negatív módosítóid, ha mozgó hátasodról lősz.
 

@@ -1,4 +1,4 @@
-#### 🟣 Elsöprő roham (1)
+### 🟣 Elsöprő roham (1)
 Rutinos rohamozó vagy, jókor, megfelelő helyre csapsz futásból.
 
 |       | Követelmény                                                  | Hatás                                                                      |

@@ -1,4 +1,4 @@
-#### 🟣 Kétkezesség (1)
+### 🟣 Kétkezesség (1)
 
 Kétkezes vagy születésed óta.
 

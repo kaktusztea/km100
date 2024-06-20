@@ -1,4 +1,4 @@
-#### 🟣 Futás (2)
+### 🟣 Futás (2)
 
 Nem csak rohangálsz, mint egy futóbolond, hanem kitartó, hosszas futás során is jól osztod be az erődet.
 

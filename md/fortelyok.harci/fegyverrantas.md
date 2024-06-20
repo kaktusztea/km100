@@ -1,4 +1,4 @@
-#### 🟣 Fegyverrántás (2)
+### 🟣 Fegyverrántás (2)
 
 Gyakorlottan rántasz fegyvert, így előnybe kerülhetsz kezdeményezésnél.<br />
 Bónuszok 🗡️[Fegyverrántás-szituációban](../064_01_harci_helyzetek.md#fegyverrántás) (az alkalmazó oldalán):

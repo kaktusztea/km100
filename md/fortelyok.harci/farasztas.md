@@ -1,4 +1,4 @@
-#### 🟣 Fárasztás (1)
+### 🟣 Fárasztás (1)
 
 A fortély nagy ismerői a bajvívók és harcosok.
 

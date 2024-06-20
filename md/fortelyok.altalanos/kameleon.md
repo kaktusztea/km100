@@ -1,4 +1,4 @@
-#### 🟣 Kaméleon (1)
+### 🟣 Kaméleon (1)
 
 Az egyes személyiségekbe ruhaként bújsz, ösztönös tehetséged van más jellemek gyors "felvételére".
 

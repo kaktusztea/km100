@@ -1,4 +1,4 @@
-#### 🟣 Harci anatómia (3)
+### 🟣 Harci anatómia (3)
 
 Ismered a test sebezhető pontjait és tisztában vagy a létfontosságú belső szervek elhelyezkedésével.
 

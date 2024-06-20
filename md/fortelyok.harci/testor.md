@@ -1,4 +1,4 @@
-#### 🟣 Testőr (2)
+### 🟣 Testőr (2)
 
 Hasznos fortély, ha **Védő Értékedet** egy másik személyre is ki akarod terjeszteni.
 

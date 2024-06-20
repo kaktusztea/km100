@@ -1,4 +1,4 @@
-#### 🟣 Harci láz (3)
+### 🟣 Harci láz (3)
 
 Harci extázisba esel, melyből nagyon nehéz kizökkenteni. A menekülésre nem gondolsz.
 

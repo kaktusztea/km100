@@ -1,4 +1,4 @@
-#### 🟣 Lövés futás közben (1)
+### 🟣 Lövés futás közben (1)
 
 Futás közben is biztos marad a kezed, nem kell megállnod, hogy ellenfeledet eltaláld.
 

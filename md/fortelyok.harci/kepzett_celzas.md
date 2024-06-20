@@ -1,4 +1,4 @@
-#### 🟣 Képzett célzás (1)
+### 🟣 Képzett célzás (1)
 
 Rövidebb idő alatt felméred a szelet, a távolságot és a többi változót, ami lövésedet segíti, vagy gátolja - mikor kitartod célzással lövésedet.
 

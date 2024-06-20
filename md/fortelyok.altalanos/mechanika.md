@@ -1,4 +1,4 @@
-#### 🟣 Mechanika (2)
+### 🟣 Mechanika (2)
 
 A Fizikai és Matematikai ismeretek is ide tartoznak?? ⭕TODO⭕
 

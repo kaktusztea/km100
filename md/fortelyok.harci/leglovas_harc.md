@@ -1,4 +1,4 @@
-#### 🟣 Léglovas harc (3)
+### 🟣 Léglovas harc (3)
 
 Repülő hátason ülve sem esel kétségbe, ha harcolni kell.
 

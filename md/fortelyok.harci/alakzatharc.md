@@ -1,4 +1,4 @@
-#### 🟣 Alakzatharc (2) - spec.
+### 🟣 Alakzatharc (2) - spec.
 Sok féle alakzat létezik. Gyalogos, kisebb létszámra, nagy, csatatéri formációkra tervezett, valamint lovas alakzatok.
 
 |       | Követelmény                                                                                  | Hatás                                                                                                                                                      |

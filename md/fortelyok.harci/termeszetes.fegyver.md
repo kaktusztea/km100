@@ -1,4 +1,4 @@
-#### 🟣 Természetes fegyver (1)
+### 🟣 Természetes fegyver (1)
 
 Olyan fajú karakterrel játszol, amelynek végtagjai / harapása, egyéb fizikai szerve fegyvernek minősül.
 

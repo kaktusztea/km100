@@ -1,4 +1,4 @@
-#### 🟣 Vakharc (3)
+### 🟣 Vakharc (3)
 
 Sötétben apró neszek, megérzések segítenek csökkenteni a látáshiány okozta hátrányt.
 

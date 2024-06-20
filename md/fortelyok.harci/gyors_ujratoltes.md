@@ -1,4 +1,4 @@
-#### 🟣 Gyors újratöltés (1)
+### 🟣 Gyors újratöltés (1)
 
 Gyakorlatodnak köszönhetően kifejezetten gyorsan tudod újratölteni számszeríjadat.
 

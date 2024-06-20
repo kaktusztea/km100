@@ -1,4 +1,4 @@
-#### 🟣 Biztos kezű mászó (1)
+### 🟣 Biztos kezű mászó (1)
 
 ⭕ TODO: Leírni ⭕
 

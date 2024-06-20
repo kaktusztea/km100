@@ -1,4 +1,4 @@
-#### 🟣 Százarcú (2)
+### 🟣 Százarcú (2)
 
 Rögtönzött kellékekből is képes vagy álruhát barkácsolni. Gyorsan át tudsz változni.
 

@@ -1,4 +1,4 @@
-#### 🟣 Pajzshasználat (2)
+### 🟣 Pajzshasználat (2)
 
 Ismered a fegyvereket remekül kiegészítő pajzsok használatát.
 

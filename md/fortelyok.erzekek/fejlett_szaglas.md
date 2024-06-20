@@ -1,4 +1,4 @@
-#### 🟣 Fejlett szaglás (1)
+### 🟣 Fejlett szaglás (1)
 
 <!-- tag: erzekfortely -->
 

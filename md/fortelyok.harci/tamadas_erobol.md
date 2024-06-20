@@ -1,4 +1,4 @@
-#### 🟣 Támadás erőből (2)
+### 🟣 Támadás erőből (2)
 
 Lassabbat, de nagyobbat ütsz.
 

@@ -1,4 +1,4 @@
-#### 🟣 Gyors varázsló (2)
+### 🟣 Gyors varázsló (2)
 
 Jobban össze tudod sűríteni a varázslatodat, így egy körben nagyobbak a lehetőségeid.
 

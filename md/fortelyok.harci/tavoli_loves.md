@@ -1,4 +1,4 @@
-#### 🟣 Távoli lövés (1)
+### 🟣 Távoli lövés (1)
 
 A szokásosnál nagyobb távolságra tudsz támadni távolsági fegyverekkel.
 
