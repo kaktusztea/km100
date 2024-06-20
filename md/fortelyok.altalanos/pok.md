@@ -1,4 +1,4 @@
-#### 🟣 Pók (1)
+### 🟣 Pók (1)
 
 Gyorsabban tudsz mászni.
 

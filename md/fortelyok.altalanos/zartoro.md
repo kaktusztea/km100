@@ -1,4 +1,4 @@
-#### 🟣 Zártörő (1)
+### 🟣 Zártörő (1)
 
 Alapesetben ha gyorsabban akarsz kinyitni egy zárat, akkor emelkedik a célszám.
 

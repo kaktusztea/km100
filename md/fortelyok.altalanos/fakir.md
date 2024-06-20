@@ -1,4 +1,4 @@
-#### 🟣 Fakír (1)
+### 🟣 Fakír (1)
 
 Kínzás esetén pluszt kapsz 🔵 **Fájdalomtűrés** próbádra.
 

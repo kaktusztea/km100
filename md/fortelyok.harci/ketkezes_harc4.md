@@ -2,6 +2,9 @@
 
 Egyszerre mindkét kezedben képes vagy fegyvert forgatni.
 
+
+v4 draft (egyelőre == v3)
+
 #### Alapeset
 
 🔒 **Követelmény**: -

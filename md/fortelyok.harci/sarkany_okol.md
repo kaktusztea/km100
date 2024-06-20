@@ -1,4 +1,4 @@
-#### 🟣 Sárkány ököl (3)
+### 🟣 Sárkány ököl (3)
 
 ⭕ Belharci szituációban mi legyen? Ugye ott `-10`-ről `0`-ra emelkednek a Puszta Kéz értékei... Kapjon a Sárkány öklös `+10`-et simán?⭕
 

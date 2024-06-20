@@ -1,4 +1,4 @@
-#### 🟣 Lövés reflexből (1)
+### 🟣 Lövés reflexből (1)
 
 Ha hirtelen kell lőnöd, rutinosan kapod elő lőfegyveredet.
 

@@ -1,8 +1,8 @@
-#### 🟣 Kétkezes harc (3)
+### 🟣 Kétkezes harc (3)
 
 Egyszerre mindkét kezedben képes vagy fegyvert forgatni.
 
-##### Alapeset
+#### Alapeset
 
 - Követelmény: -
 - Hatás:
@@ -12,7 +12,7 @@ Egyszerre mindkét kezedben képes vagy fegyvert forgatni.
   - Harckeret: `+1`
 
 ---
-##### 1. fok
+#### 1. fok
 
 - Követelmény:
   - Főfegyver harcmodora - `6.szint`
@@ -24,7 +24,7 @@ Egyszerre mindkét kezedben képes vagy fegyvert forgatni.
   - Harckeret: `+3`
 
 ---
-##### 2. fok
+#### 2. fok
 
 - Követelmény:
   - Főfegyver harcmodora - `9.szint`
@@ -36,7 +36,7 @@ Egyszerre mindkét kezedben képes vagy fegyvert forgatni.
   - Harckeret: `+6`
 
 ---
-##### 3. fok
+#### 3. fok
 
 - Követelmény:
   - Főfegyver harcmodora - `9.szint`
@@ -52,7 +52,7 @@ Egyszerre mindkét kezedben képes vagy fegyvert forgatni.
 <br />
 
 ---
-#####  Harckeret bónusz
+####  Harckeret bónusz
 
 A sebesség bónusz végső értékét úgy kapjuk meg, hogy még fegyver-függő levonásokat alkalmazunk rá az alábbiak szerint:
 
@@ -63,7 +63,7 @@ A sebesség bónusz végső értékét úgy kapjuk meg, hogy még fegyver-függ�
 <br />
 
 ---
-##### Általános szabályok
+#### Általános szabályok
 
 - Támadások számának meghatározásánál a nagyobb fegyver számít (+sebesség beszámításánál)
 - 🟣**Kétkezesség fortély**: ha a **Kétkezes harc** legalább `1.fokú`, akkor `+1` Sebesség bónuszt ad

@@ -1,4 +1,4 @@
-#### 🟣 Úszás (2)
+### 🟣 Úszás (2)
 
 Ha egy kacsaúsztatónál mélyebb vízbe tévedsz, többé már nem merülsz el, mint egy kő.
 

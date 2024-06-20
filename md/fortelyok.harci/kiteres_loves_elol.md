@@ -1,4 +1,4 @@
-#### 🟣 Kitérés lövés elől (1)
+### 🟣 Kitérés lövés elől (1)
 
 Gyorsaságod és hidegvéred páratlan! Képes vagy kitérni a rád kilőtt lövedékek útjából.
 

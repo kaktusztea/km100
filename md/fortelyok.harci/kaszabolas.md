@@ -1,4 +1,4 @@
-#### 🟣 Kaszabolás (2)
+### 🟣 Kaszabolás (2)
 
 A győzelem mámora megacélozza izmaid és akaratod.
 

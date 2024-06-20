@@ -1,4 +1,4 @@
-#### 🟣 Infralátás (2)
+### 🟣 Infralátás (2)
 
 <!-- tag: erzekfortely -->
 

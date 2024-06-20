@@ -1,4 +1,4 @@
-#### 🟣 Páros harc (3)
+### 🟣 Páros harc (3)
 
 Az összeszokott harcosok együtt eredményesebbek.
 

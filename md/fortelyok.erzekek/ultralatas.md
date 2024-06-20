@@ -1,4 +1,4 @@
-#### 🟣 Ultralátás (3)
+### 🟣 Ultralátás (3)
 
 <!-- tag: erzekfortely -->
 

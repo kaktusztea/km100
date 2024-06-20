@@ -1,4 +1,4 @@
-#### 🟣 Vértviselet (3)
+### 🟣 Vértviselet (3)
 
 A vértek helyes viselése is ismereteket igényel, különben csak csetlesz-botlasz bennük.
 

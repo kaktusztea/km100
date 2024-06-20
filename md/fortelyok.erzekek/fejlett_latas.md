@@ -1,4 +1,4 @@
-#### 🟣 Fejlett látás (1)
+### 🟣 Fejlett látás (1)
 
 <!-- tag: erzekfortely -->
 

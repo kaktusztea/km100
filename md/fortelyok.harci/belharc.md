@@ -1,4 +1,4 @@
-#### 🟣 Belharc (2)
+### 🟣 Belharc (2)
 Testközelben érzed igazában elemedben magad.<br />Sikeres 🗡️[Belharcba kerülés](../065_00_manoverek.md#belharcba-kerülés)) manőver esetén 🗡️[Belharci szituációba](../064_02_harci_taktikak.md#belharc-belharci-szituáció)) kerülsz és harcértékeidre - csak (!) **Közelharc** harcmodor és legfeljebb "rövid" pengehosszú fegyverek használata esetén - a lent leírt pluszok járnak.
 
 |       | Követelmény                                                                          | Hatás                                                     |

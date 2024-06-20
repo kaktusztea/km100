@@ -1,4 +1,4 @@
-#### 🟣 Barlangi tájékozódás (1)
+### 🟣 Barlangi tájékozódás (1)
 
 <!-- tag: erzekfortely -->
 

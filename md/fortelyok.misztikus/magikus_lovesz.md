@@ -1,4 +1,4 @@
-#### 🟣 Mágikus lövész (3)
+### 🟣 Mágikus lövész (3)
 
 Mágiatudóként nagyon kihegyezted magad a távolba direktben ható mágiákra, pontosabban tudsz távolba lődözni.
 ##### Követelmény

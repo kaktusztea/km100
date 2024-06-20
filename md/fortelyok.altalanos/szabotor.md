@@ -1,4 +1,4 @@
-#### 🟣 Szabotőr (1)
+### 🟣 Szabotőr (1)
 
 Gyorsabban tudsz mászni.
 

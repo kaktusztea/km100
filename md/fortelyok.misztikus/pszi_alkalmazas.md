@@ -1,4 +1,4 @@
-#### 🟣 Pszí alkalmazás (4*)
+### 🟣 Pszí alkalmazás (4*)
 
 A pszionikus iskolák tanulásának alapfeltétele magának a pszí alkalmazás technikájának elsajátítása. Ez adja meg, hogy milyen hatókörben képes alkalmazni a diszciplínákat, illetve mekkora pszionikus erőt képes elméjébe gyűjteni az alkalmazó.
 

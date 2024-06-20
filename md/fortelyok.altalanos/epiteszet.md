@@ -1,4 +1,4 @@
-#### 🟣Építészet (2)
+### 🟣Építészet (2)
 
 Épületek statikai ismerete, építésének módja, építészet korszakai, stílusainak ismerete.
 

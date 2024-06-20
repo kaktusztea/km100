@@ -1,4 +1,4 @@
-#### 🟣 Mágikus lövedék gyorsítása (2)
+### 🟣 Mágikus lövedék gyorsítása (2)
 
 Mágiatudóként nagyon kihegyezted magad a távolba direktben ható mágiákra, pontosabban tudsz távolba lődözni.
 ##### Követelmény

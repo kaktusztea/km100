@@ -1,4 +1,4 @@
-#### 🟣 Hidegvér (1)
+### 🟣 Hidegvér (1)
 
 "Szép nagy kard... és népes kíséret."
 

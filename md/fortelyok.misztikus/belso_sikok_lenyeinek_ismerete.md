@@ -1,4 +1,4 @@
-#### 🟣 Belső síkok lényeinek ismerete (1) 🔁
+### 🟣 Belső síkok lényeinek ismerete (1) 🔁
 
 A belső síkok túlvilági teremtményeinek ismerete. Alapos, előtörténettel megtámogatott indoklás kell, hogy a karakter felvehesse.
 

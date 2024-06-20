@@ -1,4 +1,4 @@
-#### 🟣 Szájról olvasás (1)
+### 🟣 Szájról olvasás (1)
 
 Pusztán a szájmozgást megfigyelve, hallás nélkül is képes vagy megérteni, mit mond valaki.
 

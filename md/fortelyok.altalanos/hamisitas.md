@@ -1,4 +1,4 @@
-#### 🟣 Hamisítás (1)
+### 🟣 Hamisítás (1)
 
 Jól tudsz másolni műkincseket, műtárgyakat.
 

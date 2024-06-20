@@ -1,4 +1,4 @@
-#### 🟣 Sprint (1)
+### 🟣 Sprint (1)
 
 Rövidtávú futásban nincs párod.
 

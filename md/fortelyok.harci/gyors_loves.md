@@ -1,4 +1,4 @@
-#### 🟣 Gyors lövés (1)
+### 🟣 Gyors lövés (1)
 
 Lövéseidet/hajításaidat kivételesen gyorsan tudod leadni.
 

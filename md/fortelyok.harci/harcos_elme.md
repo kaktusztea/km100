@@ -1,4 +1,4 @@
-#### 🟣 Harcos elme (4)
+### 🟣 Harcos elme (4)
 
 ⭕Összpontosítás, Harcmodor mint követelmény hozzáadva. 👀követni👀!
 

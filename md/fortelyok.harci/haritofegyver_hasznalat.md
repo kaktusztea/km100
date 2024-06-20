@@ -1,4 +1,4 @@
-#### 🟣 Hárítófegyver használat (1)
+### 🟣 Hárítófegyver használat (1)
 
 Képes vagy hárítófegyvert használni.
 

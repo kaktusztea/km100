@@ -1,4 +1,4 @@
-#### 🟣Élettan (1)
+### 🟣Élettan (1)
 
 Magába foglalja az összes közismert faj ismeretét, anatómiáját és boncolását.
 

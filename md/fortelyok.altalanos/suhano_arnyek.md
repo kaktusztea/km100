@@ -1,4 +1,4 @@
-#### 🟣 Suhanó árnyék (1)
+### 🟣 Suhanó árnyék (1)
 
 Gyorsabban tudsz lopózni.
 

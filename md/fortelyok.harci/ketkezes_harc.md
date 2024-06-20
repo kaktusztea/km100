@@ -1,4 +1,4 @@
-#### 🟣 Kétkezes harc (3)
+### 🟣 Kétkezes harc (3)
 
 Egyszerre mindkét kezedben képes vagy fegyvert forgatni.
 
