@@ -2,9 +2,13 @@
 
 Gyorsabban tudsz lopózni.
 
-| |  Követelmény | Hatás  |
-| :----------- | :----------- | :----------- |
-| 1.fok | Lopózás/Rejtőzés:&nbsp;`+6`<br />Ügyesség:&nbsp;`+1` | ⭕Kifejteni.⭕ |
+#### 1. fok
+
+🔒 **Követelmény**:
+- Lopózás/Rejtőzés - `6.szint`
+- Ügyesség: `+1`
+
+🌟 **Hatás**: ⭕Kifejteni.⭕
 
 <br />
 

@@ -2,11 +2,24 @@
 
 Nem csak rohangálsz, mint egy futóbolond, hanem kitartó, hosszas futás során is jól osztod be az erődet.
 
-| |  Követelmény | Hatás  |
-| :----------- | :----------- | :----------- |
-| Alapeset| - | Hosszútáv futásnál Edzettség próba |
-| 1.fok | Edzettség: `+1` | Hosszútávfutáskor ⚪ Edzettség próbára `+1` <br />Rövidtávra: ⚪ Gyorsaság `+1` |
-| 2.fok | Edzettség: `+2` | Hosszútáv futáskor ⚪ Edzettség próbára `+2` <br />Rövidtávra: ⚪ Gyorsaság: `+2` |
+#### 1. fok
+
+🔒 **Követelmény**: Edzettség: `+1`
+
+
+🌟 **Hatás**:
+- Hosszútávfutáskor **Edzettség** próbára: `+1`
+- Rövidtávfutásra: **Gyorsaság** próbára: `+1`
+
+---
+#### 2. fok
+
+🔒 **Követelmény**: Edzettség: `+2`
+
+
+🌟 **Hatás**:
+- Hosszútávfutáskor **Edzettség** próbára: `+2`
+- Rövidtávfutásra: **Gyorsaság** próbára: `+2`
 
 <br />
 

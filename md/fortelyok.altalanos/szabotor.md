@@ -1,10 +1,17 @@
 ### 🟣 Szabotőr (1)
 
-Gyorsabban tudsz mászni.
+Egy kis homok a gépezetbe.
 
-| |  Követelmény | Hatás  |
-| :----------- | :----------- | :----------- |
-| 1.fok | Mechanika:&nbsp;`3.szint` | Ha egy csapdát akarsz hatástalanítani, vagy mechanikus szerkezetet tönkretenni, akkor a 🔵 Mechanika képzettségpróbára `+6` bónusz jár. Csak már felfedezett csapdákra vonatkozik! |
+#### 1. fok
+
+🔒 **Követelmény**:
+-  [Mechanika](mechanika.md) - `1.fok`
+
+
+🌟 **Hatás**:
+- Ha egy csapdát akarsz hatástalanítani, vagy mechanikus szerkezetet tönkretenni, akkor a [Tudományok](../kepzettsegek/tudomanyok.md)  képzettségpróbát dobsz, aminek [Mechanika](mechanika.md) követelménye van. Ekkor erre a dobásra **Mechanika** fokonként `+3` bónuszt kapsz.
+- Csak már felfedezett csapdákra vonatkozik!
+
 
 <br />
 

@@ -2,15 +2,17 @@
 
 Ismered a betűvésés tudományát.
 
-| |  Követelmény | Hatás  |
-| :----------- | :----------- | :----------- |
-| 1.fok | Nyelvismeret&nbsp;–&nbsp;`4.`szint | Minden nyelvet, amit legalább `4.`szinten beszélsz, képes vagy írásban is megérteni, továbbá írni is tudsz vele. |
+#### 1. fok
+
+🔒 **Követelmény**: Nyelvismeret - Udvari szint
+
+🌟 **Hatás**: Minden nyelvet, amit legalább **Udvari** szinten beszélsz, képes vagy írásban is megérteni, továbbá írni is tudsz vele.
 
 <br />
 
-**Speciális**
+#### Speciális
 
-- Ha [Tradíciót](../050_tradiciok.md) veszel fel, automatikusan megkapod az **Írástudó** fortélyt. 
+Ha [Tradíciót](../050_tradiciok.md) veszel fel, automatikusan megkapod az **Írástudó** fortélyt. 
 
 <br />
 

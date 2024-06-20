@@ -11,10 +11,12 @@ Mivel ezek fortélyok, ezek követelményként terjesztik ki az **Észlelés** k
 ##### Kapcsolódó fortély:
 - [Villámgyors keresés](villamgyors.kereses.md)
 
-|          | Követelmény                  | Hatás                |
-| :------- | :--------------------------- | :------------------- |
-| Alapeset | -                            | -                    |
-| 1.fok    | Észlelés&nbsp;–&nbsp;3.szint | Lásd a leírást fenn. |
+
+#### 1. fok
+
+🔒 **Követelmény**: Észlelés - `3.szint`
+
+🌟 **Hatás**: Lásd a leírást fenn.
 
 <br />
 

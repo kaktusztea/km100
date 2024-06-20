@@ -6,7 +6,7 @@ blah
 
 🔒 **Követelmény**: 
 - Tulajdonság: `+1`
-- lorem ipsum dorem - `1.szint
+- lorem ipsum dorem - `1.szint`
 
 🌟 **Hatás**:
 - lorem ipsum dorem
@@ -17,7 +17,7 @@ blah
 
 🔒 **Követelmény**:
 - Tulajdonság: `+1`
-- lorem ipsum dorem - `1.szint
+- lorem ipsum dorem - `1.szint`
 
 
 🌟 **Hatás**:
@@ -29,7 +29,7 @@ blah
 
 🔒 **Követelmény**:
 - Tulajdonság: `+1`
-- lorem ipsum dorem - `1.szint
+- lorem ipsum dorem - `1.szint`
 
 
 🌟 **Hatás**:

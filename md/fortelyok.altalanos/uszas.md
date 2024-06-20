@@ -2,11 +2,29 @@
 
 Ha egy kacsaúsztatónál mélyebb vízbe tévedsz, többé már nem merülsz el, mint egy kő.
 
-| |  Követelmény | Hatás  |
-| :----------- | :-----------: | :----------- |
-| Alapeset| - | Az illető elmerül, fuldoklik |
-| 1.fok | - | Tud úszni, hosszú távú úszás esetén<br />⚪ Edzettség próbára: `+2` |
-| 2.fok | Edzettség:&nbsp;`+2` | Mint az 1.fok, de<br />⚪ Edzettség próbára: `+4` |
+#### Alapeset
+
+🔒 **Követelmény**:  -
+
+🌟 **Hatás**: Az illető elmerül, fuldoklik.
+
+---
+#### 1. fok
+
+🔒 **Követelmény**: -
+
+🌟 **Hatás**:
+- Tudsz úszni
+- Hosszú távú úszás esetén⚪**Edzettség** próbára: `+2`
+
+---
+#### 2. fok
+
+🔒 **Követelmény**: Edzettség: `+2`
+
+🌟 **Hatás**:
+- Tudsz úszni
+- Hosszú távú úszás esetén⚪**Edzettség** próbára: `+4`
 
 <br />
 
