@@ -2,9 +2,14 @@
 
 Gyorsabban tudsz mászni.
 
-| |  Követelmény | Hatás  |
-| :----------- | :----------- | :----------- |
-| 1.fok | Mászás:&nbsp;`+6`<br />Ügyesség:&nbsp;`+2` | ⭕Kifejteni.⭕ |
+#### 1. fok
+
+🔒 **Követelmény**:
+- Ügyesség: `+2`
+- Mászás - `6.szint`
+
+
+🌟 **Hatás**: ⭕Kifejteni.⭕
 
 <br />
 

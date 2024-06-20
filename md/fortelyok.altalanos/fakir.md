@@ -2,10 +2,18 @@
 
 Kínzás esetén pluszt kapsz 🔵 **Fájdalomtűrés** próbádra.
 
-| |  Követelmény | Hatás  |
-| :----------- | :----------- | :----------- |
-| 1.fok | Önuralom : `+1` | `+3` Fájdalomtűrés próbára. |
-| 2.fok | Önuralom : `+3` | `+6` Fájdalomtűrés próbára. |
+#### 1. fok
+
+🔒 **Követelmény**: Önuralom: `+1`
+
+🌟 **Hatás**: Fájdalomtűrés próbára: `+3`
+
+---
+#### 2. fok
+
+🔒 **Követelmény**: Önuralom: `+3`
+
+🌟 **Hatás**: Fájdalomtűrés próbára: `+6`
 
 <br />
 
