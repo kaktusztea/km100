@@ -1,10 +1,17 @@
 ### 🟣 Harc helyhez kötve (1)
 
 Nem esel kétségbe akkor sem, ha nem nagyon kis helyen, vagy kimozgás lehetősége nélkül kell harcolni.
+#### 1. fok
 
-| |  Követelmény | Hatás  |
-| :----------- | :----------- | :----------- |
-| 1.fok | Önuralom:&nbsp;`+1`<br />Harcmodor:&nbsp;`3.szint` | Felezi a Harc helyhez kötve szituáció levonásait az alábbi értékekre:<br />`KÉ:-5`, `TÉ:-10` `VÉ:-10` |
+🔒 **Követelmény**:
+- Önuralom: `+1`
+- Harcmodor - `3.szint`
+
+🌟 **Hatás**:
+- Felezi a [Harc helyhez](../064_01_harci_helyzetek.md#harc-helyhez-k%C3%B6tve) kötve szituáció levonásait az alábbi értékekre:
+- `KÉ:-5`
+- `TÉ:-10`
+- `VÉ:-10`
 
 <br />
 

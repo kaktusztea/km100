@@ -1,12 +1,39 @@
 ### 🟣 Lovas íjászat (2)
 
 Gyakorlott vagy a lóhátról való íjászatban, ennek hatására kisebbek negatív módosítóid, ha mozgó hátasodról lősz.
+#### Alapeset
 
-| |  Követelmény | Hatás  |
-| :----------- | :----------- | :----------- |
-| Alapeset| - | Ügetés esetén: `-20 CÉ`<br />Vágta esetén: `-40 CÉ` |
-| 1.fok | Lovas Harc:&nbsp;`2.fok`<br />Lovaglás&nbsp;–&nbsp;`6.szint`<br />Hajítás/Íjászat/Lövészet&nbsp;–&nbsp;`5.szint`<br />Mesterfegyver (íjra)&nbsp;–&nbsp;`1.fok` | Ügetés esetén: `-10 CÉ`<br />Vágta esetén: `-20 CÉ` |
-| 2.fok | Lovas Harc:&nbsp;`3.fok`<br />Lovaglás&nbsp;–&nbsp;`9.szint`<br />Hajítás/Íjászat/Lövészet&nbsp;–&nbsp;`9.szint`<br />Mesterfegyver (íjra)&nbsp;–&nbsp;`2.fok` | Ügetés esetén: nincs büntetés<br />Vágta esetén: `-10 CÉ` |
+🔒 **Követelmény**: -
+
+🌟 **Hatás**:
+- Ügetés esetén: `CÉ:-20`
+- Vágta esetén: `CÉ:-40
+
+---
+#### 1. fok
+
+🔒 **Követelmény**:
+- Lovaglás - `6.szint`
+- Hajítás vagy Íjászat vagy Lövészet - `5.szint`
+- [Mesterfegyver](mesterfegyver.md) - `1.fok`
+- [Lovas harc](lovas_harc.md) - `2.fok`
+
+🌟 **Hatás**:
+- Ügetés esetén: `CÉ:-10`
+- Vágta esetén: `CÉ:-20
+
+---
+#### 2. fok
+
+🔒 **Követelmény**:
+- Lovaglás - `9.szint`
+- Hajítás vagy Íjászat vagy Lövészet - `9.szint`
+- [Mesterfegyver](mesterfegyver.md) - `2.fok`
+- [Lovas harc](lovas_harc.md) - `3.fok`
+
+🌟 **Hatás**:
+- Ügetés esetén: nincs büntetés
+- Vágta esetén: `CÉ:-10
 
 <br />
 

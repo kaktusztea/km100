@@ -1,10 +1,13 @@
 ### 🟣 Közeli lövés (1)
 
 Kifejezetten jól használod lőfegyveredet közeli célpontok ellen. Ez a Fortély csak lőfegyverekkel használható.
+#### 1. fok
 
-| |  Követelmény | Hatás  |
-| :----------- | :-----------: | :----------- |
-| 1.fok | Önuralom `+1`<br />Íjászat/Lövészet&nbsp;–&nbsp;`5.szint` | Amennyiben célzásnál a **Cellaszám**: `1`, akkor `+10 CÉ` járul a **Célzó Értékedhez**. |
+🔒 **Követelmény**:
+- Önuralom: `+1`
+- Íjászat vagy Lövészet - `5.szint`
+
+🌟 **Hatás**: Amennyiben célzásnál a **Cellaszám**: `1`, akkor `CÉ:+10` bónuszt kapsz.
 
 <br />
 

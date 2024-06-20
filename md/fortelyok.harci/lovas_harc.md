@@ -6,18 +6,50 @@ Lovas harc során ezen fortély fokától függő mértékben harcértékeidhez 
 
 A forgatott fegyver Harcmodorából adódó értékek továbbra is megmaradnak, tehát a fentiek bónuszként értelmezendők!
 
-| |  Követelmény | Hatás  |
-| :----------- | :----------- | :----------- |
-| Alapeset| - | A bónuszok nem adódnak hozzá, de `3.szint` alatti Lovaglás esetén elszenvedi a harcmodor szokásos harcérték büntetéseit |
-| 1.fok | Lovaglás&nbsp;–&nbsp;`3.szint`<br />Ügyesség:&nbsp;`+1`<br />Önuralom:&nbsp;`0`<br />Érzékenység&nbsp;:`0` | A bónuszok negyede (felfele kerekítve) adódik hozzá a fegyveres harcértékeidhez. |
-| 2.fok | Lovaglás&nbsp;–&nbsp;`6.szint`<br />Ügyesség:&nbsp;`+2`<br />Önuralom:&nbsp;`0`<br />Érzékenység&nbsp;:`0` | A bónuszok fele (felfele kerekítve) adódik hozzá a fegyveres harcértékeidhez. [Lovas Manővereket](../066_harc_lohatrol.md#lovas-manőverek) végezhetsz. |
-| 3.fok | Lovaglás&nbsp;–&nbsp;`9.szint`<br />Ügyesség:&nbsp;`+3`<br />Önuralom:&nbsp;`+1`<br />Érzékenység&nbsp;:`+1` | A bónuszok `1:1`-ben hozzáadódnak a fegyveres harcértékeidhez. [Lovas Manővereket](../066_harc_lohatrol.md#lovas-manőverek) végezhetsz |
+#### Alapeset
+
+🔒 **Követelmény**: -
+
+🌟 **Hatás**: A bónuszok nem adódnak hozzá, de `3.szint` alatti Lovaglás esetén elszenvedi a harcmodor szokásos harcérték büntetéseit
+
+---
+#### 1. fok
+
+🔒 **Követelmény**:
+- Ügyesség: `+1`
+- Önuralom: `0`
+- Érzékenység: `0`
+- Lovaglás - `3.szint`
+
+🌟 **Hatás**:  A bónuszok negyede (felfele kerekítve) adódik hozzá a fegyveres harcértékeidhez.
+
+---
+#### 2. fok
+
+🔒 **Követelmény**:
+- Ügyesség: `+2`
+- Önuralom: `0`
+- Érzékenység: `0`
+- Lovaglás - `6.szint`
+
+🌟 **Hatás**: A bónuszok fele (felfele kerekítve) adódik hozzá a fegyveres harcértékeidhez. [Lovas Manővereket](../066_harc_lohatrol.md#lovas-manőverek) végezhetsz.
+
+---
+#### 3. fok
+
+🔒 **Követelmény**:
+- Ügyesség: `+3`
+- Önuralom: `+1`
+- Érzékenység: `+1`
+- Lovaglás - `9.szint`
+
+🌟 **Hatás**: A bónuszok `1:1`-ben hozzáadódnak a fegyveres harcértékeidhez. [Lovas Manővereket](../066_harc_lohatrol.md#lovas-manőverek) végezhetsz.
 
 <br />
 
-**Speciális**
+#### Speciális
 
-- [Harc lóhátról fejezet](../066_harc_lohatrol.md)
+[Harc lóhátról fejezet](../066_harc_lohatrol.md)
 
 <br />
 
