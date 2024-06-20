@@ -6,18 +6,41 @@ Fajhoz felvehető Érzék-fortély.
 
 Teljes sötétben is képes vagy tájékozódni.
 
-| |  Követelmény | Hatás  |
-| :----------- | :-----------: | :----------- |
-| Alapeset| - | Emberi látás, teljes sötétben gyakorlatilag vakság. |
-| 1.fok | Kapcsolódó<br />[Faj Háttér](../022_faj_hatterek.md) | Mintha telihold fényénél tájékozódnál vaksötétben |
-| 2.fok | Kapcsolódó<br />[Faj Háttér](../022_faj_hatterek.md) | Mintha szürkületkor tájékozódnál. Vaksötétben is tud olvasni |
-| 3.fok | Kapcsolódó<br />[Faj Háttér](../022_faj_hatterek.md) | Tökéletesen lát, mintha nappal lenne, látótávolság megegyezik |
+#### Alapeset
+
+🔒 **Követelmény**:  -
+
+🌟 **Hatás**: Emberi látás, teljes sötétben gyakorlatilag vakság.
+
+---
+#### 1. fok
+
+🔒 **Követelmény**: Kapcsolódó [Faj Háttér](../022_faj_hatterek.md)
+
+🌟 **Hatás**: Mintha telihold fényénél tájékozódnál vaksötétben
+
+---
+#### 2. fok
+
+🔒 **Követelmény**: Kapcsolódó [Faj Háttér](../022_faj_hatterek.md)
+
+🌟 **Hatás**: Mintha szürkületkor tájékozódnál. Vaksötétben is tud olvasni
+
+---
+#### 3. fok
+
+🔒 **Követelmény**: Kapcsolódó [Faj Háttér](../022_faj_hatterek.md)
+
+🌟 **Hatás**: Tökéletesen lát, mintha nappal lenne, látótávolság megegyezik
+
+<br />
+
 
 ⭕Harcnál mit adnak?⭕
 
 <br />
 
-**Megjegyzések**
+#### Megjegyzések
 
 - Felvételéhez olyan [Faj-Háttér](../022_faj_hatterek.md) szükséges, amelynél szerepel az **Ultralátás**, mint felvehető **Érzék-fortély**
 - A látás fekete-fehérben történik
