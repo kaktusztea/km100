@@ -2,16 +2,14 @@
 
 A fortély nagy ismerői a bajvívók és harcosok.
 
-|       | Követelmény                                                                     | Hatás                                                                                                            |
-| :---- | :------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------- |
-| 1.fok | Közelharc_kardvívás_lándzsavívás:&nbsp;`6.szint`<br />Ügyesség:&nbsp;`+1`<br /> | Ha a **Fárasztás** harci taktikát alkalmazod akkor további `+2 VÉ`-t csökkentesz ellenfeleden támadáskor. <br /> |
+#### 1. fok
 
-<br />
+🔒 **Követelmény**:
+- Ügyesség: `+1`
+- Harcmodor  **-** `6.szint`
+- (**Közelharc** vagy **Kardvívás** vagy **Lándzsavívás** vagy **Zúzás**)
 
-**Megjegyzések**
-
-- Zúzás harcmodorban nem alkalmazható
-- Közelharc harcmodorban csak szintén Közelharcban küzdő ellenfél ellen alkalmazható
+🌟 **Hatás**: Ha a [Fárasztás](../064_02_harci_taktikak.md#f%C3%A1raszt%C3%A1s) harci taktikát alkalmazod akkor további `+2 VÉ`-t csökkentesz ellenfeleden támadáskor. 
 
 <br />
 

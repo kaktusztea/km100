@@ -2,16 +2,21 @@
 
 ⭕ Elég táp, hangolni!
 
-|       | Követelmény                                                                                                                                                                                 | Hatás                                                                                                                     |
-| :---- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------ |
-| 1.fok | Min. `2` támadás<br />Harcmodor:&nbsp;`6.szint`<br /><br />Manőver ismeret:<br />[Kibontakozás/Átsiklás](../065_03_altalanos_manoverek.md#kibontakozásátsiklás) (`1.fok`) | `1` db támadást adhatsz le a körben, de azt egyszerre több ellenfél ellen (akik a fegyvered hatótávolságán belül vannak). |
+#### 1. fok
 
+🔒 **Követelmény**:
+- Minimum `2` támadás
+- Harcmodor  **-** `6.szint`
+- (**Közelharc** vagy **Kardvívás** vagy **Lándzsavívás** vagy **Zúzás**)
+
+🌟 **Hatás**: Összesen `1` db támadást adhatsz le a körben, de azt egyszerre több ellenfél ellen (akik a fegyvered hatótávolságán belül vannak).
 
 <br />
 
-**Megjegyzések**
+#### Megjegyzések
 
-- Közelharcban nem alkalmazható!
+Közelharcban nem alkalmazható!
+
 <br />
 
 ---

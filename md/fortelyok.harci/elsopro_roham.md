@@ -1,15 +1,23 @@
 ### 🟣 Elsöprő roham (1)
+
 Rutinos rohamozó vagy, jókor, megfelelő helyre csapsz futásból.
 
-|       | Követelmény                                                  | Hatás                                                                      |
-| :---- | :----------------------------------------------------------- | :------------------------------------------------------------------------- |
-| 1.fok | Közelharc_kardvívás_lándzsavívás_zúzás:&nbsp;`4.szint`<br /> | Roham esetén: <br />KÉ:&nbsp;`+5`<br />Erőbónusz: `x2`  (duplázódik)<br /> |
+#### 1. fok
+
+🔒 **Követelmény**:
+- Harcmodor  **-** `4.szint`
+- (**Közelharc** vagy **Kardvívás** vagy **Lándzsavívás** vagy **Zúzás**)
+- Roham taktika
+
+🌟 **Hatás**:
+- Roham esetén: `KÉ:+5`
+- Erőbónusz: `x2` (duplázódik)
 
 <br />
 
-**Megjegyzések**
+#### Megjegyzések
 
-- **Öngyilkos roham** esetén a fentiek nem használhatóak.
+[Öngyilkos roham](../064_02_harci_taktikak.md#%C3%B6ngyilkos-roham) esetén a fentiek nem használhatóak.
 
 <br />
 

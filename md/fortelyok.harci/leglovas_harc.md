@@ -6,18 +6,50 @@ Léglovas harc során ezen fortély fokától függő mértékben harcértékeid
 
 A forgatott fegyver Harcmodorából adódó értékek továbbra is megmaradnak, tehát a fentiek bónuszként értelmezendők!
 
-| |  Követelmény | Hatás  |
-| :----------- | :----------- | :----------- |
-| Alapeset| - | A bónuszok nem adódnak hozzá, de `3.szint` alatti Légovaglás esetén elszenvedi a harcmodor szokásos harcérték büntetéseit |
-| 1.fok | Léglovaglás&nbsp;–&nbsp;`3.szint`<br />Ügyesség:&nbsp;`+1`<br />Önuralom:&nbsp;`0`<br />Érzékenység&nbsp;:`0` | A bónuszok negyede (felfele kerekítve) adódik hozzá a fegyveres harcértékeidhez. |
-| 2.fok | Léglovaglás&nbsp;–&nbsp;`6.szint`<br />Ügyesség:&nbsp;`+2`<br />Önuralom:&nbsp;`0`<br />Érzékenység&nbsp;:`0` | A bónuszok fele (felfele kerekítve) adódik hozzá a fegyveres harcértékeidhez. ⭕Léglovas Manővereket végezhetsz.⭕ |
-| 3.fok | Léglovaglás&nbsp;–&nbsp;`9.szint`<br />Ügyesség:&nbsp;`+3`<br />Önuralom:&nbsp;`+1`<br />Érzékenység&nbsp;:`+1` | A bónuszok `1:1`-ben hozzáadódnak a fegyveres harcértékeidhez. ⭕Léglovas Manővereket végezhetsz.⭕ |
+#### Alapeset
+
+🔒 **Követelmény**: -
+
+🌟 **Hatás**: A bónuszok nem adódnak hozzá, de `3.szint` alatti Légovaglás esetén elszenvedi a harcmodor szokásos harcérték büntetéseit
+
+---
+#### 1. fok
+
+🔒 **Követelmény**:
+- Ügyesség: `+1`
+- Önuralom: `0`
+- Érzékenység: `0`
+- Léglovaglás - `3.szint`
+
+🌟 **Hatás**:  A bónuszok negyede (felfele kerekítve) adódik hozzá a fegyveres harcértékeidhez.
+
+---
+#### 2. fok
+
+🔒 **Követelmény**:
+- Ügyesség: `+2`
+- Önuralom: `0`
+- Érzékenység: `0`
+- Léglovaglás - `6.szint`
+
+🌟 **Hatás**: A bónuszok fele (felfele kerekítve) adódik hozzá a fegyveres harcértékeidhez. ⭕Léglovas Manővereket végezhetsz.⭕
+
+---
+#### 3. fok
+
+🔒 **Követelmény**:
+- Ügyesség: `+3`
+- Önuralom: `+1`
+- Érzékenység: `+1`
+- Léglovaglás - `9.szint`
+
+🌟 **Hatás**: A bónuszok `1:1`-ben hozzáadódnak a fegyveres harcértékeidhez. ⭕Léglovas Manővereket végezhetsz.⭕
+
 
 <br />
+#### Speciális
 
-**Speciális**
-
-- [Harc lóhátról fejezet](../066_harc_lohatrol.md) (itt tárgyaljuk a Léglovaglás részleteit is)
+[Harc lóhátról fejezet](../066_harc_lohatrol.md) (itt tárgyaljuk a Léglovaglás részleteit is).
 
 <br />
 

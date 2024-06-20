@@ -1,18 +1,25 @@
 ### 🟣 Fegyverrántás (2)
 
 Gyakorlottan rántasz fegyvert, így előnybe kerülhetsz kezdeményezésnél.<br />
-Bónuszok 🗡️[Fegyverrántás-szituációban](../064_01_harci_helyzetek.md#fegyverrántás) (az alkalmazó oldalán):
+Bónuszok 🗡️[Fegyverrántás-szituációban](../064_01_harci_helyzetek.md#fegyverrántás) (az alkalmazó karakter oldalán):
+#### 1. fok
 
-| |  Követelmény | Hatás  |
-| :----------- | :----------- | :----------- |
-| 1.fok | Gyorsaság:&nbsp;`+1`<br />|  KÉ:&nbsp;`+5`<br />|
-| 2.fok | Gyorsaság:&nbsp;`+2`<br />|  KÉ:&nbsp;`+10`<br />|
+🔒 **Követelmény**: Gyorsaság: `+1`
+
+🌟 **Hatás**: `KÉ:+5`
+
+---
+#### 2. fok
+
+🔒 **Követelmény**: Gyorsaság: `+2`
+
+🌟 **Hatás**: `KÉ:+10`
 
 <br />
 
-**Megjegyzések**
+#### Megjegyzések
 
-- Bővebben lásd a **Harcrendszer** fejezet 🗡️ [Fegyverrántás-szituációban](../064_01_harci_helyzetek.md#fegyverrántás) alfejezetét!
+Bővebben lásd a **Harcrendszer** fejezet 🗡️ [Fegyverrántás-szituációban](../064_01_harci_helyzetek.md#fegyverrántás) alfejezetét!
 
 <br />
 

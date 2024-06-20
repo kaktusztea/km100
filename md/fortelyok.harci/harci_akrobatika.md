@@ -3,14 +3,36 @@
 „Pattog, mint a nikkelbolha” - mondják, ha harcolni látnak.
 Küzdelem közben akrobatikus elemeket - ugrásokat, vetődéseket, pörgéseket - alkalmazol, amelyek előnyhöz juttatnak a földhözragadt kis senkik ellen...
 
-|       | Követelmény                                                                           | Hatás                                                                                                                                                                                                                                                                                                                                                          |
-| :---- | :------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.fok | Ügyesség:&nbsp;`+2`<br /> Gyorsaság:&nbsp;`+2`<br /> Akrobatika:&nbsp;`4.szint`<br /> | Az [Akrobatika](../kepzettsegek/akrobatika.md) képzettséged `felét` hozzáadhatod bónuszként `TÉ/VÉ` értékeidhez. <br />Kibontakozás/Átsiklás:&nbsp;`+1`<br />Akrobatika x `0.5` → +TÉ<br />Akrobatika x `0.5` → +VÉ<br />                                                                                                                                      |
-| 2.fok | Ügyesség:&nbsp;`+4`<br /> Gyorsaság:&nbsp;`+3`<br /> Akrobatika:&nbsp;`8.szint`<br /> | Az [Akrobatika](../kepzettsegek/akrobatika.md) képzettségedet `1:1` hozzáadhatod bónuszként `TÉ/VÉ` értékeidhez. <br />🗡️ [Kibontakozás/Átsiklás](../065_03_altalanos_manoverek.md#kibontakozásátsiklás) manőverre `+3` bónuszt kapsz. <br />Kibontakozás/Átsiklás:&nbsp;`+3`<br />Akrobatika x `1` → +TÉ<br />Akrobatika x `1` → +VÉ<br /> |
+#### 1. fok
+
+🔒 **Követelmény**:
+- Ügyesség: `+2`
+- Gyorsaság `+2`
+- Akrobatika - `4.szint`
+
+🌟 **Hatás**:
+- Az [Akrobatika](../kepzettsegek/akrobatika.md) képzettséged `felét` hozzáadhatod bónuszként `TÉ/VÉ` értékeidhez.
+- [Kibontakozás/Átsiklás](../065_03_altalanos_manoverek.md#kibontakoz%C3%A1s%C3%A1tsikl%C3%A1s) Manőverre: `+1` bónuszt kapsz
+- `Akrobatika x 0.5` → +TÉ
+- `Akrobatika x 0.5` → +VÉ
+
+---
+#### 2. fok
+
+🔒 **Követelmény**:
+- Ügyesség: `+4`
+- Gyorsaság `+3`
+- Akrobatika - `8.szint`
+
+🌟 **Hatás**:
+- Az [Akrobatika](../kepzettsegek/akrobatika.md) képzettséged `1:1` hozzáadhatod bónuszként `TÉ/VÉ` értékeidhez.
+- [Kibontakozás/Átsiklás](../065_03_altalanos_manoverek.md#kibontakoz%C3%A1s%C3%A1tsikl%C3%A1s) Manőverre: `+3` bónuszt kapsz
+- `Akrobatika x 1` → +TÉ
+- `Akrobatika x 1` → +VÉ
 
 <br />
 
-**Megjegyzések**
+#### Megjegyzések
 
 - **Fegyverek**: A forgatott fegyverek össz pengehossza nem lehet nagyobb, mint `1 penge` (Például 1db hosszú kard, vagy 2db rövidkard), továbbá súlyuk is fontos tényező (KM dönt).
 - **Vértek**: a fortély csak olyan hajlékony, könnyű, nem-fém vértben használható, melynek nem nagyobb MGT-je ⭕X⭕-nél.

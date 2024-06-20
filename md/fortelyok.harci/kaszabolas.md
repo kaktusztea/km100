@@ -1,17 +1,32 @@
 ### 🟣 Kaszabolás (2)
 
 A győzelem mámora megacélozza izmaid és akaratod.
+#### 1. fok
 
-| |  Követelmény | Hatás  |
-| :----------- | :----------- | :----------- |
-| 1.fok | Erő:&nbsp;`+1`<br />Harcmodor&nbsp;-&nbsp;`4.szint` | Ha harcképtelenné teszel valakit, akkor kapsz `1` bónusz támadást egy közeli ellenfél ellen. Ezt egy körben max `1x` alkalmazhatod. |
-| 2.fok | Erő:&nbsp;`+1`<br />Harcmodor&nbsp;-&nbsp;`8.szint` | Mint az `1.fok`, de akárhányszor alkalmazhatod egy körben. |
+🔒 **Követelmény**:
+- Erő: `+1`
+- Harcmodor  **-** `4.szint`
+- (**Közelharc** vagy **Kardvívás** vagy **Lándzsavívás** vagy **Zúzás**)
+
+🌟 **Hatás**: Ha harcképtelenné teszel valakit, akkor kapsz `1` bónusz támadást egy közeli ellenfél ellen. Ezt egy körben max `1x` alkalmazhatod.
 
 <br />
 
-**Megjegyzések**
+---
+#### 2. fok
 
-- A fortély hatása lő- és hajítófegyverek használatánál nem érvényesül!
+🔒 **Követelmény**:
+- Erő: `+1`
+- Harcmodor  **-** `8.szint`
+- (**Közelharc** vagy **Kardvívás** vagy **Lándzsavívás** vagy **Zúzás**)
+
+🌟 **Hatás**: Mint az `1.fok`, de akárhányszor alkalmazhatod egy körben.
+
+<br />
+
+#### Megjegyzések
+
+A fortély hatása lő- és hajítófegyverek használatánál nem érvényesül!
 
 <br />
 
