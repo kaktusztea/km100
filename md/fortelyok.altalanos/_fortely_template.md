@@ -2,18 +2,45 @@
 
 blah
 
-|          |              Követelmény               | Hatás                                                                |
-|:--------:|:--------------------------------------:|:-------------------------------------------------------------------- |
-| Alapeset |                   -                    | lorem ipsum dorem amet lorem ipsum dorem amet lorem ipsum dorem amet |
-| `1.fok`  | lorem<br />ipsum&nbsp;–&nbsp;`1.szint` | lorem ipsum dorem amet lorem ipsum dorem amet lorem ipsum dorem amet |
-| `2.fok`  | lorem<br />ipsum&nbsp;–&nbsp;`2.szint` | lorem ipsum dorem amet lorem ipsum dorem amet lorem ipsum dorem amet |
+#### Alapeset
+
+🔒 **Követelmény**: 
+- Tulajdonság: `+1`
+- lorem ipsum dorem - `1.szint
+
+🌟 **Hatás**:
+- lorem ipsum dorem
+- lorem ipsum dorem
+
+---
+#### 1. fok
+
+🔒 **Követelmény**:
+- Tulajdonság: `+1`
+- lorem ipsum dorem - `1.szint
+
+
+🌟 **Hatás**:
+- lorem ipsum dorem
+- lorem ipsum dorem
+
+---
+#### 2. fok
+
+🔒 **Követelmény**:
+- Tulajdonság: `+1`
+- lorem ipsum dorem - `1.szint
+
+
+🌟 **Hatás**:
+- lorem ipsum dorem
+- lorem ipsum dorem
 
 <br />
 
-**Megjegyzések**
+#### Megjegyzések
 
-- lorem ipsum dorem amet lorem ipsum dorem amet lorem ipsum dorem 🗡️ amet
-- lorem ipsum dorem amet lorem ipsum dorem amet lorem ipsum dorem 🗡️ amet
+- lorem ipsum dorem🗡️ amet
 
 <br />
 
