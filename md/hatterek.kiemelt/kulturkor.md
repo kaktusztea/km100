@@ -60,6 +60,7 @@ Ha nincs épp meg az adott szituációban a szükséges kultúrkörhöz tartozó
 - toroni
 - pyarroni
 - shadoni
+- gorviki
 - kráni
 - ibarai
 - törpe
