@@ -2,10 +2,19 @@
 
 Olyan fajú karakterrel játszol, amelynek végtagjai / harapása, egyéb fizikai szerve fegyvernek minősül.
 
-|          |       Követelmény        | Hatás                                         |
-|:-------- |:------------------------:|:--------------------------------------------- |
-| Alapeset |            -             | A "Puszta kéz" sebzése `k20-5`                |
-| 1.fok    | [Faj Háttér](../022_faj_hatterek.md)             | A "Puszta kéz" sebzése `k20+1`, mint egy tőré |
+#### Alapeset
+
+🔒 **Követelmény**: -
+
+🌟 **Hatás**: A "Puszta kéz" sebzése `-5+k20`
+
+#### 1. fok
+
+🔒 **Követelmény**: [Faj Háttér](../022_faj_hatterek.md)
+
+
+🌟 **Hatás**: A "Puszta kéz" sebzése `1+k20` értékre emelkedik (akár egy tőré).
+
 
 <br />
 
