@@ -2,15 +2,30 @@
 
 Lassabbat, de nagyobbat ütsz.
 
-`TÉ`-ből átrakhatsz **Sebzés** értékedre `1:3` váltószámmal.
+`TÉ`-ből átrakhatsz **SP** értékedre `1:3` váltószámmal.
+#### 1. fok
 
-|       |                     Követelmény                     | Hatás                                      |
-| :---- | :-------------------------------------------------: | :----------------------------------------- |
-| 1.fok | Erő:&nbsp;`+2`<br />Harcmodor&nbsp;–&nbsp;`3.szint` | legfeljebb `+3 SP` (`TÉ:-9`) pakolható át  |
-| 2.fok | Erő:&nbsp;`+3`<br />Harcmodor&nbsp;–&nbsp;`6.szint` | legfeljebb `+6 SP` (`TÉ:-12`) pakolható át |
+🔒 **Követelmény**: 
+- Erő: `+2`
+- Harcmodor - `3.szint`
+- (Kardvívás, Lándzsavívás, Zúzás)
 
-🔆**Megjegyzés**: 
-- A fortély **Közelharc** Harcmodorban NEM használható
+🌟 **Hatás**: legfeljebb `+3 SP` (`TÉ:-9`) pakolható át
+
+---
+#### 2. fok
+
+🔒 **Követelmény**:
+- Erő: `+3`
+- Harcmodor - `6.szint`
+- (Kardvívás, Lándzsavívás, Zúzás)
+
+🌟 **Hatás**: legfeljebb `+6 SP` (`TÉ:-12`) pakolható át
+
+<br />
+#### 🔆Megjegyzés 
+
+A fortély **Közelharc** Harcmodorban NEM használható
 
 <br />
 
