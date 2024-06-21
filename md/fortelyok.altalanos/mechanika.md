@@ -5,6 +5,7 @@ A Fizikai és Matematikai ismeretek is ide tartoznak?? ⭕TODO⭕
 **Kapcsolódó fortély**: [Építészet](epiteszet.md) ⭕TODO⭕
 
 ##### Kiterjeszti ezeket
+
 - [Csapdaállítás](../kepzettsegek/csapdaallitas.md): mechanikus csapdák állításához követelmény lehet a Mechanika
 - [Keresés/Nyomolvasás](kereses_nyomolvasas.md) (csapdához, titkosajtóhoz, amiben szerkezet van)
 - [Szakma - Fegyverkovács](../kepzettsegek/szakma.md)
@@ -12,6 +13,7 @@ A Fizikai és Matematikai ismeretek is ide tartoznak?? ⭕TODO⭕
 - [Tudományok](../kepzettsegek/tudomanyok.md)
 
 ##### Bónuszt ad erre
+
 - [Zárnyitás](../kepzettsegek/zarnyitas.md) - `+2` bónusz minden Mechanika fok után
 
 #### 1. fok

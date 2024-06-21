@@ -2,12 +2,12 @@
 
 Képes vagy megkötni valamiben a mágikus hatást.
 
-##### Tradíció felveheti
+#### Tradíció felveheti
 
 - [Magasmágia](../051_01_magasmagia.md)
 - ⭕???⭕
 
-##### Leírás
+#### Leírás
 
 xyz
 

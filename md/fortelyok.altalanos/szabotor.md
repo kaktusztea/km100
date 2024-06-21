@@ -10,7 +10,6 @@ Egy kis homok a gépezetbe.
 - Ha egy csapdát akarsz hatástalanítani, vagy mechanikus szerkezetet tönkretenni, akkor a [Tudományok](../kepzettsegek/tudomanyok.md)  képzettségpróbát dobsz, aminek [Mechanika](mechanika.md) követelménye van. Ekkor erre a dobásra **Mechanika** fokonként `+3` bónuszt kapsz.
 - Csak már felfedezett csapdákra vonatkozik!
 
-
 <br />
 
 ---

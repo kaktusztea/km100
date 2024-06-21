@@ -4,13 +4,13 @@ Képes vagy mágikus fókuszt, vagy emittert létrehozni.
 
 Lásd még: [Ereklyék, mágikus emitterek](../110_varazstargyak.md#erekly%C3%A9k-m%C3%A1gikus-emitterek)
 
-##### Tradíció felveheti
+#### Tradíció felveheti
 
 - [Magasmágia](../051_01_magasmagia.md)
 - [Papi mágia](../100_papimagia.md)
 - ⭕???⭕
 
-##### Mágikus emitter
+#### Mágikus emitter
 
 ⭕TODO⭕
 Ötlet: lehetnének mágikusan helyhez kötött varázstárgyak. Pl. egy erődhöz (annak mágikus "aurájához") kötött tárgyak, amik ha kikerülnek a "tápláló" területről, akkor elveszítik mágikus hatásukat.

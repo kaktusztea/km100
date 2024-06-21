@@ -18,7 +18,7 @@ Olyan fajú karakterrel játszol, amelynek végtagjai / harapása, egyéb fizika
 
 <br />
 
-**Megjegyzések**
+#### Megjegyzések
 
 - Olyan  [Faj Háttér](../022_faj_hatterek.md), amely faj leírásában szerepel az ajánlottan felvehető fortélyok között a "Természetes fegyver"
 - Például [Faj Háttér: Khál](../022_faj_hatterek.md#khál) mellé vehető fel

@@ -1,12 +1,10 @@
 ### 🟣 Éber alvó (1)
 
-
-
 #### 1. fok
 
 🔒 **Követelmény**: nincs
 
-🌟 **Hatás**: Alvás közben dobott 🔵**Észlelés** próbádra `+2` bónusz jár.
+🌟 **Hatás**: Alvás közben dobott [Észlelés](../kepzettsegek/eszleles.md) próbádra `+2` bónusz jár.
 
 <br />
 

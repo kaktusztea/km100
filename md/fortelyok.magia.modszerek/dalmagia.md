@@ -2,11 +2,11 @@
 
 Képes vagy dalba ágyazni a mágikus hatást.
 
-##### Tradíció felveheti
+#### Tradíció felveheti
 
 - [Bárdmágia](../051_04_bardmagia.md)
 
-##### Leírás
+#### Leírás
 
 xyz
 

@@ -63,18 +63,29 @@ A sebesség bónusz végső értékét úgy kapjuk meg, hogy még fegyver-függ�
 -  Minden `0,5` penge `1` ponttal csökkenti a bónuszt
 -  Fontos: A „rövid” fegyverek `0` pengének számítanak számolásnál!)
 
-<br />
-
 ---
-#### Általános szabályok
+#### Támadások száma
 
-- Támadások számának meghatározásánál a nagyobb fegyver számít (+sebesség beszámításánál)
-- 🟣**Kétkezesség fortély**: ha a **Kétkezes harc** legalább `1.fokú`, akkor `+1` Sebesség bónuszt ad
-- Méret limit: legfeljebb 2db `1` pengés kombinációval lehet kétkezes harcot folytatni, e felett semmilyen bónusz nem számít és a fegyverek harcértéke `0`-ra esik.
-`2`db `1` penge hosszú fegyver forgatása esetén követelmény is van: `Erő +2`
-- Sebzésnél melyik fegyver talál:<br />a k20-as sebződobással együtt dobunk k6-al is
-  - azonos méretű fegyverek esetén:<br />`1-3`: gyengébb kéz fegyvere ; `4-6`: ügyesebb kéz fegyvere sebez
-  - nagy + kisebb fegyver esetén:<br />`1-2`: gyengébb kéz fegyvere; `3-6`: ügyesebb kéz fegyvere sebez
+ A nagyobb fegyver számít (+Sebesség beszámításánál)
+
+#### [Kétkezesség](../fortelyok.harci/ketkezesseg.md) fortély
+
+Ha a **Kétkezes harc** legalább `1.fokon` megvan, akkor `+1` Sebesség bónuszt ad.
+
+#### Méret limit, követelmény
+
+- legfeljebb 2db `1` pengés kombinációval lehet kétkezes harcot folytatni, e felett semmilyen bónusz nem számít és a fegyverek harcértéke `0`-ra esik.
+- `2`db `1` penge hosszú fegyver forgatása esetén követelmény is van: `Erő +2`
+
+#### Sebzésnél melyik fegyver talál be
+
+A `k20`-as sebződobással együtt dobunk k6-al is:
+- azonos méretű fegyverek esetén:
+  - `1-3`: gyengébb kéz fegyvere 
+  -  `4-6`: ügyesebb kéz fegyvere sebez
+- nagy + kisebb fegyver esetén:
+  - `1-2`: gyengébb kéz fegyvere
+  - `3-6`: ügyesebb kéz fegyvere sebez
 
 <br />
 

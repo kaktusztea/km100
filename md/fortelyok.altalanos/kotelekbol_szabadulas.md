@@ -1,3 +1,3 @@
 ### 🟣 Kötelékből szabadulás (2)
 
-Lásd [Csomózás](csomozas.md)!
+Lásd a [Csomózás](csomozas.md) fortélyt!

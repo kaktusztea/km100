@@ -1,6 +1,8 @@
 ### 🟣 Keresés/Nyomolvasás (1)
 
-A Keresés/Nyomolvasás titkos rejtekajtók, zugok, rejtett tárgyak, rekeszek, valamint természeti közegben megbújó nyomok felkutatásában adhat segítséget, amely próbát az [Észlelés](../kepzettsegek/eszleles.md) képzettséggel végzünk.
+Titkos rejtekajtók, zugok, rejtett tárgyak, rekeszek, valamint természeti közegben megbújó nyomok felkutatásában adhat segítséget, amely próbát az [Észlelés](../kepzettsegek/eszleles.md) képzettséggel végzünk.
+
+Bővebben lásd: [Nyomok, Nyomkövetés](../142_nyomok_nyomkovetes.md) Szituációk fejezetét.
 
 ##### Kiterjeszti ezeket:
 - [Nyomozás](../kepzettsegek/nyomozas.md)

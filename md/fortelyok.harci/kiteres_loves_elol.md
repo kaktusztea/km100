@@ -8,7 +8,10 @@ Gyorsaságod és hidegvéred páratlan! Képes vagy kitérni a rád kilőtt löv
 - Gyorsasság: `+3`
 - ⭕Összpontosítás - `6.szint`⭕
 
-🌟 **Hatás**: Amennyiben észleled, hogy rád lőnek és nem számítasz 🗡️[Készületlennek](../064_01_harci_helyzetek.md#készületlenség), valamint kizárólag arra figyelsz, hogy elkerüld a lövedéket, akkor az erre vonatkozó ⚪[Gyorsaságpróba](../070_tavolsagi_harc.md#sz%C3%A1nd%C3%A9kos-kit%C3%A9r%C3%A9s-l%C3%B6v%C3%A9s-el%C5%91l) során `+2` bónuszt kapsz a ```Szándékos kitérés lövés elől``` módosítóira).
+🌟 **Hatás**:
+- Amennyiben észleled, hogy rád lőnek és nem számítasz 🗡️[Készületlennek](../064_01_harci_helyzetek.md#készületlenség), valamint kizárólag arra figyelsz, hogy elkerüld a lövedéket, akkor az erre vonatkozó...
+- [Szándékos kitérés lövés elől](../070_tavolsagi_harc.md#sz%C3%A1nd%C3%A9kos-kit%C3%A9r%C3%A9s-l%C3%B6v%C3%A9s-el%C5%91l) szituációban...
+- **Gyorsaságpróba**: `+2` bónuszt kapsz
 
 <br />
 
