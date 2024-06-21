@@ -12,14 +12,14 @@ A külső síkok túlvilági teremtményeinek ismerete. Alapos, előtörténette
 ##### Kiterjeszti ezeket:
 - [Tudományok](../kepzettsegek/tudomanyok.md)
 
-##### Követelmény
+---
+#### 1. fok
 
+🔒 **Követelmény**:
 - Előtörténet
 - [Tudományok](app://obsidian.md/kepzettsegek/tudomanyok.md) - `6.szint`
 
-##### Hatás
-
-Dobhatsz **Tudományok** képzettségpróbát egyes lények ismeretére.
+🌟 **Hatás**: Dobhatsz [Tudományok](../kepzettsegek/tudomanyok.md) képzettségpróbát egyes lények ismeretére.
 
 <br />
 
