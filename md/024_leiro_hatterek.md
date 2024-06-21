@@ -48,6 +48,8 @@ Alább 1-2 szavas jelzőket találsz, amelyek további szinesítő elemeket adha
 - Talpnyaló
 - Teszetosza
 - Tériszonyos
+- Tiszteletreméltó
+- Tudálékos
 - Vezéralkat
 
 #### Küllem, fizikum
