@@ -9,10 +9,8 @@ Pusztán a szájmozgást megfigyelve, hallás nélkül is képes vagy megérteni
 - Nyelvismeret - Udvari szint
 - Jól látható legyen a célszemély szája
 
-
 🌟 **Hatás**:
 - ⭕ Kidolgozni ⭕
-
 
 <br />
 

@@ -23,7 +23,8 @@ Lassabbat, de nagyobbat ütsz.
 🌟 **Hatás**: legfeljebb `+6 SP` (`TÉ:-12`) pakolható át
 
 <br />
-#### 🔆Megjegyzés 
+
+#### Megjegyzések
 
 A fortély **Közelharc** Harcmodorban NEM használható
 

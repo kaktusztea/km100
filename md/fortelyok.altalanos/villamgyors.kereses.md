@@ -3,13 +3,14 @@
 Gyorsabban tudsz keresni, kutatni egy helyiségben.
 
 #### Kapcsolódó fortély
+
 - [Keresés/Nyomolvasás](kereses_nyomolvasas.md)
 
 #### Alapeset
 
 🔒 **Követelmény**:  - 
 
-🌟 **Hatás**: Alapesetben ha gyorsabban akarsz valamit megtalálni, akkor `+3`-al emelkedik az [Észlelés](../kepzettsegek/eszleles.md) képzettségpróba célszáma
+🌟 **Hatás**: Alapesetben ha gyorsan, nyomás alatt akarsz valamit megtalálni, akkor `+3`-al emelkedik az [Észlelés](../kepzettsegek/eszleles.md) képzettségpróba célszáma.
 
 ---
 #### 1. fok

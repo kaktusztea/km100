@@ -3,7 +3,8 @@
 
 A lenti két fortély egymással "szimbiózisban" létezik. Egy jól megkötött csomóból nehezebb szabadulni, egy képzett szabadulóművész trükkös csomókból is kibújik.
 
-Megkötözés/szabadulás szituációban (akár egymás távollétében): ⚪**Ügyesség ellenpróba**, melyhez 1.fokon `+2`, 2.fokon `+4` bónusz járul mindkét fortély esetén.
+Megkötözés/szabadulás szituációban (akár egymás távollétében):\
+⚪**Ügyesség ellenpróba**, melyhez 1.fokon `+2`, 2.fokon `+4` bónusz járul mindkét fortély esetén.
 
 
 ### 🟣 Csomózás (2)

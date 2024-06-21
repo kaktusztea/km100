@@ -2,11 +2,11 @@
 
 Személyeket, vagy tárgyakat áldhatsz meg, különleges képességekkel felruházva, vagy valamely tulajdonságát erősítve.
 
-##### Tradíció felveheti
+#### Tradíció felveheti
 
 - [Papi mágia](../100_papimagia.md)
 
-##### Leírás
+#### Leírás
 
 xyz
 

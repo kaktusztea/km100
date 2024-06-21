@@ -2,7 +2,7 @@
 
 Képes vagy szakrális Tánc, vagy nem-szakrális Rituálé formájában mágikus hatást létrehozni.
 
-##### Tradíció felveheti
+#### Tradíció felveheti
 
 - [Bárdmágia](../051_04_bardmagia.md) ⭕TODO: ??⭕
 - [Ork énekmondói mágia](../051_07_ork_enekmondoi_magia.md)
@@ -10,7 +10,7 @@ Képes vagy szakrális Tánc, vagy nem-szakrális Rituálé formájában mágiku
 - [Természeti mágia](../051_05_termeszeti_magia.md)
 - [Vulgármágia](../051_02_vulgarmagia.md)
 
-##### Leírás
+#### Leírás
 
 xyz
 
