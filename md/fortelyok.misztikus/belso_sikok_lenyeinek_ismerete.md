@@ -7,6 +7,7 @@ A belső síkok túlvilági teremtményeinek ismerete. Alapos, előtörténettel
 - elementálok
 - asztrállények
 - mentállények
+- antyss lényei
 - élőholtak (kísértetek, elfszabású lények szellemei, testtel rendelkező élőholt rémek)
 - természetszellemek
 
