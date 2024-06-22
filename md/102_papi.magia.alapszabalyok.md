@@ -19,8 +19,8 @@ Példa: a varázslat "Lélek" és "Idézés" Szférákat igenyel, papunk az els�
 A papi varázslatoknál nincs méterben meghatározott zóna, vagy hatótáv. Az egyes varázslatok leírásában szerepel az alkalmazható hatótáv. Ezekből háromfélét ismerünk:
 
 1. Érintés
-2. Hallótáv: elméleti távolsság, azaz nem számít ha a célpont befogja a fülét, vagy zaj van. Ha csend lenne, odafigyelne és hallaná, akkor hatótávon belül van.
-3. Kinyilatkoztatás: a pap hangját istene felerősíti, nagy tömegben is tisztán hallható. Ez klasszikusan felekezet, egy harci osztag, vagy egybefüggő társaság méretű embertömeget jelent. A mágia rájuk hat.
+2. Hallótáv: elméleti távolság, azaz nem számít ha a célpont befogja a fülét, vagy zaj van. Ha csend lenne, odafigyelne és hallaná, akkor hatótávon belül van.
+3. Kinyilatkoztatás: a pap hangját istene felerősíti, nagy tömegben is tisztán hallható. Ez klasszikusan felekezet, egy harci osztag, vagy egybefüggő társaságnyi embertömeget jelent. A mágia rájuk hat.
 
 ---
 ### Varázslás ideje
