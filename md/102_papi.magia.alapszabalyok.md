@@ -4,7 +4,7 @@ A Papi Tradíciót követő mágiatudó csak biztos tudásból varázsolhat.
 
 Mágiaiskolaként teljes [Szférákat](096_magikus_szferak_arkanumok.md) vehet fel képzettségként.
 
-Minden varázslatnak van, vannak Szféra követelménye(i). Amyennyiben minden Szféra követelmény megvan, a pap elvileg képes aza adott varázslatot megidézni. Egyes varázslatoknak lehetnek egyedi követelményei is, amelyeket teljesíteni kell.
+Minden varázslatnak van, vannak Szféra követelménye(i). Amennyiben minden Szféra követelmény megvan, a pap elvileg képes az adott varázslatot megidézni. Egyes varázslatoknak lehetnek egyedi követelményei is, amelyeket teljesíteni kell, ezek külön említésre kerülnek az adott varázslatok leírásában.
 
 ---
 ### Szakrálminimum
