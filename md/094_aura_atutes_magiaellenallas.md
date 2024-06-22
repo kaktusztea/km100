@@ -10,10 +10,14 @@ Minden lélekkel rendelkező lény rendelkezik Aurával, ez a Tapasztalati Szint
 
 A fentieken túl lehetséges - védelmi, vagy mágikus célokból - konkrét gyakorlati képzéssel fejleszteni az Aurát. Ezt reprezentálja az [Aurafejlesztés](kepzettsegek/aurafejlesztes.md) képzettség.
 
+<br />
+
 ---
 ### Aura, mint mágikus akarat: Átütés
 
 Varázsláskor a mágiatudó Aktuális Aura értéke (ez a Mágia **Átütése**) feszül szembe az áldozat **Aktuális Aurájával**. 
+
+<br />
 
 ---
 ### Mágia Átütése vs Mágiaellenállás
@@ -68,6 +72,8 @@ Aktuális Aura = (2x TSz)
 
 Tehát a **Mágia Átütését** és a **Mágiaellenállást** azonos módon kell meghatározni.
 
+<br />
+
 ---
 ### Tudatalatti mágiaellenállás (TME) / Biztos Átütés
 
@@ -81,6 +87,8 @@ TME / Biztos Átütés
   = Aura Alap + (X AuraErő)
 ```
 
+<br />
+
 ---
 ### Rontott Aurafejlesztés próba
 
@@ -89,6 +97,8 @@ Ha a fent tárgyalt Aurafejlesztés próbát elrontotta a karakter, további neg
 **Védekező**: 1 körig csak az Alap Aurája számít (`2x TSz`), ez idő alatt nem dobhat AuraErőre.
 
 **Mágiatudó**: ugyanaz, mint a Védekezőnél + 1 körig nem képes varázsolni sem
+
+<br />
 
 ---
 ### Mágiaellenállás változása
@@ -106,6 +116,8 @@ Ilyen esetekben a KM kérhet **Összpontosítás** próbát, hogy kap -e büntet
 |                         Papi védő áldás                          |                  +⭕X⭕ adott hatások ellen                   |
 | Olyan érzelmi befolyás, ami tudat alatt kedvére van a célpontnak |               `-3` ilyen Asztrál hatás ellen                |
 
+<br />
+
 ---
 ### Fizikai ellenállás átalakítással szemben
 
@@ -115,6 +127,8 @@ Ha a mágiatudó közvetlenül a célpont testét szeretné átalakítani, akkor
 Mágiellenállás fizikai
 behatás ellen: +(2x Edzettség)
 ```
+
+<br />
 
 ---
 ### ⚡Példa
