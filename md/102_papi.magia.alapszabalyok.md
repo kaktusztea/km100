@@ -22,11 +22,22 @@ A papi varázslatoknál nincs méterben meghatározott zóna, vagy hatótáv. Az
 2. Hallótáv: elméleti távolsság, azaz nem számít ha a célpont befogja a fülét, vagy zaj van. Ha csend lenne, odafigyelne és hallaná, akkor hatótávon belül van.
 3. Kinyilatkoztatás: a pap hangját istene felerősíti, nagy tömegben is tisztán hallható. Ez klasszikusan felekezet, egy harci osztag, vagy egybefüggő társaság méretű embertömeget jelent. A mágia rájuk hat.
 
+---
+### Varázslás ideje
+
+Az egyes varázslatoknál jelezzük, hogy a varázslás ideje melyik kategóriába esik. Ezek típusai:
+
+1. Harci: harc közben alkalmazható
+2. Harcon kívül alkalmazható, a varázslás/fohász percekben mérhető
+3. Ceremoniális: a varázslat órákba, napokba is telhet. Az adott varázslat és a körülmények ismeretében a KM dönt
+
 
 ---
 ### Mágia Akarata
 
-Hasonlatos a [Az Aura Átütésnél leírtakhoz](094_aura_atutes_magiaellenallas.md), de az Aura Alapra itt nem Aurafejlesztéssel, hanem a 
+Hasonlatos a [Az Aura Átütésnél leírtakhoz](094_aura_atutes_magiaellenallas.md), de az Aura Alapra itt nem Aurafejlesztés képzettséggel dobunk, hanem a a [Papi Tradíció](052_00_papi_tradiciok.md) képzettség szintjét vesszük alapul, a "dobást" pedig fixen `6`-nak vesszük. Ez azért van, mert a Pap csak biztos tudásból varázsol, nincs lehetősége Rizikó varázslásra.
+
+
 
 ⭕TODO⭕
 
