@@ -35,7 +35,7 @@ Az egyes varázslatoknál jelezzük, hogy a varázslás ideje melyik kategóriá
 ---
 ### Mágia Akarata
 
-Hasonlatos a [Az Aura Átütésnél leírtakhoz](094_aura_atutes_magiaellenallas.md), de az Aura Alapra itt nem Aurafejlesztés képzettséggel dobunk, hanem a a [Papi Tradíció](052_00_papi_tradiciok.md) képzettség szintjét vesszük alapul, a "dobást" pedig fixen `6`-nak vesszük. Ez azért van, mert a Pap csak biztos tudásból varázsol, nincs lehetősége Rizikó varázslásra.
+Hasonlatos az [Aura Átütésnél leírtakhoz](094_aura_atutes_magiaellenallas.md), de az Aura Alapra itt nem Aurafejlesztés képzettséggel dobunk, hanem a [Papi Tradíció](052_00_papi_tradiciok.md) képzettség szintjét vesszük alapul, a "dobást" pedig fixen `6`-nak vesszük. Ez azért van, mert a Pap csak biztos tudásból varázsolhat, nincs lehetősége Rizikó varázslásra.
 
 
 
