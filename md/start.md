@@ -179,6 +179,9 @@ NJK Karakterlap v1.2 ([odt📄](https://github.com/kaktusztea/km100/raw/master/s
 ---
 ### 10. [Papi mágia](100_papimagia.md) (10%) 🚧
 
+- [Papi mágia világképe](101_papi.magia.vilagkep.md)
+- [Papi mágia alapszabályai](102_papi.magia.alapszabalyok.md)
+
 ### 11. [Varázstárgyak](110_varazstargyak.md)  (10%) 🚧
 
 ### 12. [Gyógyítás, gyógyulás](120_gyogyitas_gyogyulas.md)
