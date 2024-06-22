@@ -1,0 +1,43 @@
+## Papi mágia alapszabályok
+
+A Papi Tradíciót követő mágiatudó csak biztos tudásból tud varázsolni..
+
+Mágiaiskolaként teljes [Szférákat](096_magikus_szferak_arkanumok.md) vehet fel képzettségként.
+
+Minden varázslatnak van, vannak Szféra követelménye(i). Amyennyiben minden Szféra követelmény megvan, a pap elvileg képes aza adott varázslatot megidézni. Egyes varázslatoknak lehetnek egyedi követelményei is, amelyeket teljesíteni kell.
+
+---
+### Szakrálminimum
+
+Az adott varázslathoz szükséges Szférák közül a karakter képzettségei közül az alacsonyabb szintű értéke.
+
+Példa: a varázslat "Lélek" és "Idézés" Széfrákat igenyel, papunk az elsőt `5.`, a másodikat `7.` szinten vette fel. Ekkor a Szakrálminimum értéke `5`, ezen a szinten tudja a varázslatot használni.
+
+---
+### Varázslat Hatótávja
+
+A papi varázslatoknál nincs méterben meghatározott zóna, vagy hatótáv. Az egyes varázslatok leírásában szerepel az alkalmazható hatótáv. Ezekből háromfélét ismerünk:
+
+1. Érintés
+2. Hallótáv: elméleti távolsság, azaz nem számít ha a célpont befogja a fülét, vagy zaj van. Ha csend lenne, odafigyelne és hallaná, akkor hatótávon belül van.
+3. Kinyilatkoztatás: a pap hangját istene felerősíti, nagy tömegben is tisztán hallható. Ez klasszikusan felekezet, egy harci osztag, vagy egybefüggő társaság méretű embertömeget jelent. A mágia rájuk hat.
+
+
+---
+### Mágia Akarata
+
+Hasonlatos a [Az Aura Átütésnél leírtakhoz](094_aura_atutes_magiaellenallas.md), de az Aura Alapra itt nem Aurafejlesztéssel, hanem a 
+
+⭕TODO⭕
+
+- Mindig 6-os dobásnak számít.
+- Af helyett: Papi Tradíció értéke
+
+Védekezés: Af-el megy ugyanúgy, mint másoknál
+
+---
+### Papi mágia kísérőjelenségei
+
+Általánosságban elmondható, hogy minél magasabb a varázslat Erőssége (Szakrálminimum), annál erősebben jelenik meg random kísérőjelenség, amely a varázslat jellegétől, a pap egyházának szimbólumaitól, illetve a pap hangulatától, jellemétől is függhet. Ebben a KM és a játékos teljes szabad kezet kapnak, de tartsák észbeb, hogy ezek csak szinesítő hatások, nem okozhatnak konkrlt előnyöket, hátrányokat. A fentiek lehetnek fény és hangjelenségek, hatás növényekre, állatokra és így tovább.
+
+
