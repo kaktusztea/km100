@@ -1,6 +1,6 @@
 ## Papi mágia alapszabályok
 
-A Papi Tradíciót követő mágiatudó csak biztos tudásból tud varázsolni..
+A Papi Tradíciót követő mágiatudó csak biztos tudásból varázsolhat.
 
 Mágiaiskolaként teljes [Szférákat](096_magikus_szferak_arkanumok.md) vehet fel képzettségként.
 
