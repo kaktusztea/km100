@@ -1,5 +1,9 @@
 # Papi mágia
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md)  -  [STUDY oldal](https://github.com/kaktusztea/km100/wiki/STUDY.magiatradicio.papimagia) 
 
-Jelenleg a saját [STUDY oldalán](https://github.com/kaktusztea/km100/wiki/STUDY.magiatradicio.papimagia) fejlesztjük. Amint ott elkészül, bemásolni ide.
+---
+
+- [Papi mágia világképe](101_papi.magia.vilagkep.md)
+- [Papi mágia alapszabályai](102_papi.magia.alapszabalyok.md)
+
