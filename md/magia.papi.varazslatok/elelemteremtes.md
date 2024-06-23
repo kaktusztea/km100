@@ -15,10 +15,10 @@
 
 
 ---
-##### Leírás
+##### Hatás
 
-A varázslat közvetlen vízfakasztást és élelemteremtést fed le.
- 
+A pap segít az éhezőkön. Vízet fakaszt, élelmet teremt - látszólag a semmiből.
+
 
 ---
 ##### Szabályok

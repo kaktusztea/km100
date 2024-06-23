@@ -21,7 +21,7 @@ Hatótáv: 2
 
 
 ---
-##### Leírás
+##### Hatás
 
 lorem
 
