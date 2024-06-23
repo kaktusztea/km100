@@ -1,6 +1,6 @@
 ## Menekülés, üldözés, Futás
 
-Gyakori eset, hogy a játékosok és /vagy Nem Játékos Karakterek között kergetőzés veszi kezdetét.
+Gyakori eset, hogy a játékosok és / vagy Nem Játékos Karakterek között kergetőzés veszi kezdetét.
 ### Menekülés / Üldözés
 
 Ha harc közben dönt úgy egy karakter, hogy ideje távozni, akkor [Kibontakozás Manővert](065_03_altalanos_manoverek.md#kibontakoz%C3%A1s%C3%A1tsikl%C3%A1s) kell dobnod. Ha sikertelen, ellenfeled kap egy extra támadást a **Fegyvertelen Védő Értéked** ellen, sőt megkapja a [Támadás hátulról](064_01_harci_helyzetek.md#t%C3%A1mad%C3%A1s-h%C3%A1tulr%C3%B3l) módosítóit is.
