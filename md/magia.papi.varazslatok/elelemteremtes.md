@@ -8,11 +8,9 @@
 
 ##### Szakrálminimum
 
-**3.szint:** ⭕TODO
+**3.szint:** Legfeljebb fél tucat embernek
 
-**6.szint:** ⭕TODO
-
-
+**6.szint:** Legfeljebb 2 tucat embernek
 
 ---
 ##### Hatás

@@ -20,7 +20,7 @@
 ---
 #### Biztos tudás, követelmények
 
-#### Szint: 3
+#### Novívius (3)
 
 🔒 Követelmény:
 - Tulajdonság: `+1`
@@ -30,14 +30,11 @@
 ((Speciális, tanulható fortély, különleges  képesség is ide jön))
 
 ---
-#### Szint: 6
+#### Kismester (6)
 
 🔒 Követelmény:
 
 🌟 Hatás:
-
-
-
 
 <br />
 
