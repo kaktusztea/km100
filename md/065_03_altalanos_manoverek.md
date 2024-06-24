@@ -40,7 +40,7 @@ Az alábbiakban bemutatjuk a km100 által ismert manővereket közül az Által�
 ---
 #### Belharcból kibontakozás
 
-Lásd: [Kibontakozás/Átsiklás](#%EF%B8%8Fkibontakozásátsiklás) manőver.
+Lásd: [Kibontakozás/Átsiklás](#kibontakoz%C3%A1s%C3%A1tsikl%C3%A1s) manőver.
 
 
 ---
