@@ -3,9 +3,9 @@
 
 **Szféra**: Idézés, Lélek
 
-**Varázslás ideje**: 2
+**Varázslás ideje**: Harci, Nyugalmi, Ceremoniális⭕
 
-Hatótáv: 2
+Hatótáv: Érintés, Közvetlen, Tömeg⭕
 
 ##### Szakrálminimum
 
@@ -29,6 +29,3 @@ lorem
 ##### Szabályok
 
 - ipsum
-
-
-
