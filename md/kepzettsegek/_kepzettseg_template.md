@@ -1,4 +1,4 @@
-#### Képzettség neve
+### Képzettség neve
 
 **Próba:** ⭕dobható / ⭕nincs, csak biztos tudásból
 
@@ -17,31 +17,62 @@
 
 <br />
 
-##### Biztos tudás, követelmények
+---
+#### Biztos tudás, követelmények
 
-| Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub> | Követelmény |
-|:---------------- |:---------------------------------------------------------------------------------- |:-----------:|
-| Novícius (3)     | xyz <br /> **Példa**: x                                                            |             |
-| Kismester (6)    | xyz <br /> **Példa**: x                                                            |             |
-| Mester (9)       | xyz <br /> **Példa**: x                                                            |             |
-| Nagymester (12)  | xyz <br /> **Példa**: x                                                            |             |
-| Élő legenda (15) | xyz <br /> **Példa**: x                                                            |             |
+#### Szint: 3
+
+🔒 Követelmény:
+- Tulajdonság: `+1`
+- Képzettség - `1.szint`
+
+🌟 Hatás:
+((Speciális, tanulható fortély, különleges  képesség is ide jön))
+
+---
+#### Szint: 6
+
+🔒 Követelmény:
+
+🌟 Hatás:
+
+
+
 
 <br />
 
-##### Próbák
+---
+#### Próbák
 
-| Célszám | Példa  |
-| :----------- | :----------- |
-| Könnyű       (6)  | |
-| Átlagos      (9)  | |
-| Nehéz        (12) | |
-| Nagyon nehéz (15) | |
-| Rendkívül nehéz (18) | |
-| Emberfeletti (21) | |
+
+#### Könnyű (6)
+
+lorem
+
+#### Átlagos (9)
+
+lorem
+
+#### Nehéz (12)
+
+lorem
+
+#### Nagyon nehéz (15)
+
+lorem
+
+#### Rendkívül nehéz (18)
+
+lorem
+
+#### Emberfeletti (21)
+
+lorem
+
 
 <br />
 
-##### Célszámot módosító körülmények
+---
+#### Célszámot módosító körülmények
 
 - ⭕xyz
