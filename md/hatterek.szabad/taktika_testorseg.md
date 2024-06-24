@@ -2,7 +2,7 @@
 
 Képes vagy egy testőr alakulat részeként közösen cselekedni.
 
-Testőrség részeként tudsz mozogni, kommunikálni, járatos vagy az általad ismert [Kultúrköreid](app://obsidian.md/hatterek.kiemelt/kulturkor.md) megfelelő testőri protokolljaiban.  
+Testőrség részeként tudsz mozogni, kommunikálni, járatos vagy az általad ismert [Kultúrköreid](../hatterek.kiemelt/kulturkor.md) megfelelő testőri protokolljaiban.  
 
 ⭕TODO: Számszerű előnyök⭕
 

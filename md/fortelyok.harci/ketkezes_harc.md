@@ -35,7 +35,7 @@ Egyszerre mindkét kezedben képes vagy fegyvert forgatni.
 🌟 **Hatás**:
 - Főfegyver (nagyobb fegyver) harcmodora számít.
 - Fegyver harcértékek összeadódnak.
-- Csak a főfegyver 🗡️[Mesterfegyver](app://obsidian.md/mesterfegyver.md) fortélya számít (akkor is, ha a két fegyver típusa ugyanaz!)
+- Csak a főfegyver 🗡️[Mesterfegyver](mesterfegyver.md) fortélya számít (akkor is, ha a két fegyver típusa ugyanaz!)
 - Harckeret: `+6`
 
 ---
@@ -48,7 +48,7 @@ Egyszerre mindkét kezedben képes vagy fegyvert forgatni.
 🌟 **Hatás**:
   - Főfegyver (nagyobb fegyver) harcmodora számít.
   - Fegyver harcértékek összeadódnak.
-  - mindkét fegyver 🗡️[Mesterfegyver](app://obsidian.md/mesterfegyver.md) fortélya számít
+  - mindkét fegyver 🗡️[Mesterfegyver](mesterfegyver.md) fortélya számít
   - (annál hosszabbak esetén viszont semmilyen bónusz nem számít és a fegyverek harcértéke 0)   ???
   - Harckeret: `+6`
 
@@ -68,7 +68,7 @@ A sebesség bónusz végső értékét úgy kapjuk meg, hogy még fegyver-függ�
 
  A nagyobb fegyver számít (+Sebesség beszámításánál)
 
-#### [Kétkezesség](../fortelyok.harci/ketkezesseg.md) fortély
+#### [Kétkezesség](ketkezesseg.md) fortély
 
 Ha a **Kétkezes harc** legalább `1.fokon` megvan, akkor `+1` Sebesség bónuszt ad.
 
