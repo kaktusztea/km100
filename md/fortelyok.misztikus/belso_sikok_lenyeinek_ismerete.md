@@ -20,7 +20,7 @@ A belső síkok túlvilági teremtményeinek ismerete. Alapos, előtörténettel
 
 🔒 **Követelmény**:
 - Előtörténet
-- [Tudományok](app://obsidian.md/kepzettsegek/tudomanyok.md) - `6.szint`
+- [Tudományok](../kepzettsegek/tudomanyok.md) - `6.szint`
 
 🌟 **Hatás**:  Dobhatsz [Tudományok](../kepzettsegek/tudomanyok.md) képzettségpróbát egyes lények ismeretére.
 

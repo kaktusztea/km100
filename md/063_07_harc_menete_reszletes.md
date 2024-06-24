@@ -165,7 +165,7 @@ Az 1-es dobás (k20):
 átment a páncél SFÉ-n)
 ```
 
-Amennyiben a korábban leírt módon sikeres [Találatot](#t%C3%BAl%C3%BCt%C3%A9s) értünk el, akkor ezt követően **Sebző Dobást** tehetünk `k20`-al, melyhez hozzáadódik a fegyver sebzése, a [Mesterfegyver](fortelyok.harci/mesterfegyver.md) fortélyból és az [Erőbónuszból](063_06_harc_menete_osszefoglalas.md#statikus-sp-módosítók) adódó módosítók, valamint a [Többszörös találatból](#t%C3%B6bbsz%C3%B6r%C3%B6s-tal%C3%A1lat), [Rohamból](064_02_harci_taktikak.md#harci-taktikák) és egyes fortélyokból (pl. [Támadás Erőből](fortelyok.harci/tamadas_erobol.md)) adódó extra értékek. Az így kapott `SP` értéket bemondja a támadó a támadás típusával együtt (pl. Szúrás).
+Amennyiben a korábban leírt módon sikeres [Találatot](063_07_harc_menete_reszletes.md#tal%C3%A1lat) értünk el, akkor ezt követően **Sebző Dobást** tehetünk `k20`-al, melyhez hozzáadódik a fegyver sebzése, a [Mesterfegyver](fortelyok.harci/mesterfegyver.md) fortélyból és az [Erőbónuszból](#er%C5%91b%C3%B3nusz-%C3%A9s-er%C5%91hi%C3%A1ny) adódó módosítók, valamint a [Többszörös találatból](#t%C3%B6bbsz%C3%B6r%C3%B6s-tal%C3%A1lat), [Rohamból](064_02_harci_taktikak.md#harci-taktikák) és egyes fortélyokból (pl. [Támadás Erőből](fortelyok.harci/tamadas_erobol.md)) adódó extra értékek. Az így kapott `SP` értéket bemondja a támadó a támadás típusával együtt (pl. Szúrás).
 
 A védő levonja a számból a támadás típusának (pl. szúrás) megfelelő `SFÉ` értékét (pl. szúrás elleni), amely a vértjénél szerepel. A kapott, csökkentett `SP` értékhez rendelt `ÉP` értéket (lásd **ÉP Sebzés** oszlopot) levonja aktuális Életerő Pontjai számából, a `VÉ` csökkenést pedig aktuális **Védő Értékéből**.
 
@@ -178,7 +178,7 @@ Ha az `SP` érték a páncél `SFÉ` levonása után `0`-ra csökken, a VÉ csö
 
 Ha valakit találat ért és átkerül másik sebesülés-kategóriába, `TÉ levonást` kap, melyet mérsékel a [Fájdalomtűrés képzettség](kepzettsegek/fajdalomtures.md) és [Önuralom tulajdonságok](014_tulajdonsagok.md#-önuralom-%EF%B8%8F) összege.
 
-Bővebben lásd: [Fájdalomtűrés fejezetet](061_00_eletero.md#fájdalomtűrés)!
+Bővebben lásd: [Fájdalomtűrés fejezetet](061_03_sebesules.md#f%C3%A1jdalomt%C5%B1r%C3%A9s-harc-k%C3%B6zben)!
 
 Ez azért előnyös, mert megint csak karakteralkotás időben számítjuk ki a fenti értékeket.
 

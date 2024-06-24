@@ -42,7 +42,7 @@ Ha Rühes megtanulná a Lefegyverezést  `2.fokon` Manőverfejlesztő Pontjaibó
 ---
 #### ⚡Összetettebb példa egy Manőver alkalmazására
 
-Tetves **Gáncsolást** akar alkalmazni. Ellenfelénél kard van, nála tőr és rendelkezik „Gáncsolás” Manőver ismerettel (`1 fok`). Bejelenti, hogy ezen kívül `2 pontot` vállal (lásd [Vállalás](#v%C3%A1llal%C3%A1s)) a cél érdekében → `VÉ:-20`
+Tetves **Gáncsolást** akar alkalmazni. Ellenfelénél kard van, nála tőr és rendelkezik „Gáncsolás” Manőver ismerettel (`1 fok`). Bejelenti, hogy ezen kívül `2 pontot` vállal (lásd [Vállalás](065_02_manover_vegbevitele.md#v%C3%A1llal%C3%A1s)) a cél érdekében → `VÉ:-20`
 
 Tetves értékei:
 - Közelharc: `7.szint`
