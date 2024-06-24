@@ -32,4 +32,5 @@ Az Áldás hatására az alábbi pozitív hatásokat érzi a célpont
 ---
 ##### Szabályok
 
-- ipsum
+- ⭕1 személyre/tárgyra: alapérték
+- ⭕Minden további személyre: `+3`
