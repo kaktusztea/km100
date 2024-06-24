@@ -6,9 +6,9 @@
 
 ### Tág értelmezés
 
->⭕Észlelés és Érzékelés (nem csak képzettség szintjén!) tágan értelmezve (Hatodik érzék, mágikus érzékelés (pl. manában sűrű terület), pszí érzékelő diszciplínái, hangulatok megérzése (Intuíció+Emberismeret), stb)⭕
+>⭕TODO: Észlelés és Érzékelés (nem csak képzettség szintjén!) tágan értelmezve (Hatodik érzék, mágikus érzékelés (pl. manában sűrű terület), pszí érzékelő diszciplínái, hangulatok megérzése (Intuíció+Emberismeret), stb)⭕
 
->⭕Még nem tudom, mennyire kell itt belefolyni a többi területbe (mágia/pszí), de általános szabályokat érdemes egy helyre gyűjteni⭕
+>⭕TODO: Még nem tudom, mennyire kell itt belefolyni a többi területbe (mágia/pszí), de általános szabályokat érdemes egy helyre gyűjteni⭕
 
 ---
 ### Érzékek
