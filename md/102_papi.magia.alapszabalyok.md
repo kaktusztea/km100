@@ -33,19 +33,29 @@ Az egyes varázslatoknál jelezzük, hogy a varázslás ideje melyik kategóriá
 
 
 ---
-### Mágia Akarata
+### Papi Mágia Akarata
 
 Hasonlatos az [Aura Átütésnél leírtakhoz](094_aura_atutes_magiaellenallas.md), de az Aura Alapra itt nem Aurafejlesztés képzettséggel dobunk, hanem a [Papi Tradíció](052_00_papi_tradiciok.md) képzettség szintjét vesszük alapul, a "dobást" pedig fixen `6`-nak vesszük. Ez azért van, mert a Pap csak biztos tudásból varázsolhat, nincs lehetősége Rizikó varázslásra.
 
-Így a papi mágia esetén a **Mágia Akarata** tehát fix érték, ezzel szegül szembe a [Mágiallenállás](094_aura_atutes_magiaellenallas.md#m%C3%A1gia-%C3%A1t%C3%BCt%C3%A9se-vs-m%C3%A1giaellen%C3%A1ll%C3%A1s).
+Ígytehát a papi mágia esetén a **Mágia Akarata** fix érték, ezzel szegül szembe a [Mágiallenállás](094_aura_atutes_magiaellenallas.md#m%C3%A1gia-%C3%A1t%C3%BCt%C3%A9se-vs-m%C3%A1giaellen%C3%A1ll%C3%A1s).
+
+#### AuraErő számítása
+
+Itt is az [AuraErő táblázatot](094_aura_atutes_magiaellenallas.md#m%C3%A1gia-%C3%A1t%C3%BCt%C3%A9se-vs-m%C3%A1giaellen%C3%A1ll%C3%A1s) használjuk, de nincs dobás, a számolás `1x` kell elvégezni minden Tapasztalati Szint lépésekor.
 
 ```
-Papi Mágia Akarata
- = (2x TSz)
- + Papi tradíció szint
- + Tulajdonság
- + 6
+AuraErő számítása:
+   Papi tradíció szint
+   + Tulajdonság
+   + 6
 
+   → Érték kikeresése
+```
+
+#### Mágia Akarata számítása
+```
+Papi Mágia Akarata
+ = (2x TSz) + AuraErő
 ```
 
 #### Tulajdonság
