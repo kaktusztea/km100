@@ -3,7 +3,7 @@
 ⚜️ [Nyitóoldal](start.md)
 
 
-⭕TODO⭕ Eldönteni, melyiket választjuk
+⭕TODO⭕ Eldönteni, melyiket választjuk⭕
 
 a.) Az isten "leküldi" a varázslatot
 
