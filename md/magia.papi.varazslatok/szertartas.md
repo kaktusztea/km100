@@ -6,7 +6,7 @@
 
 Hatótáv: Változó (Érintés, Közvetlen)
 
-##### Szakrálminimum
+##### Kisszféra
 
 **3.szint:**  Szentelés, Áldozat, Áldás, Névadás, Összeesketés, Temetés
 

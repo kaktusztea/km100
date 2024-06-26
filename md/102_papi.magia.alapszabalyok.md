@@ -7,11 +7,11 @@ Mágiaiskolaként teljes [Szférákat](096_magikus_szferak_arkanumok.md) vehet f
 Minden varázslatnak van, vannak Szféra követelménye(i). Amennyiben minden Szféra követelmény megvan, a pap elvileg képes az adott varázslatot megidézni. Egyes varázslatoknak lehetnek egyedi követelményei is, amelyeket teljesíteni kell, ezek külön említésre kerülnek az adott varázslatok leírásában.
 
 ---
-### Szakrálminimum
+### Kisszféra
 
 Az adott varázslathoz szükséges Szférák közül a karakter képzettségei közül az alacsonyabb szintű értéke.
 
-Példa: a varázslat "Lélek" és "Idézés" Szférákat igenyel, papunk az elsőt `5.`, a másodikat `7.` szinten vette fel. Ekkor a **Szakrálminimum** értéke `5`, ezen a szinten tudja a varázslatot használni.
+Példa: a varázslat "Lélek" és "Idézés" Szférákat igenyel, papunk az elsőt `5.`, a másodikat `7.` szinten vette fel. Ekkor a **Kisszféra** értéke `5`, ezen a szinten tudja a varázslatot használni.
 
 ---
 ### Varázslat Hatótávja
@@ -64,4 +64,4 @@ Papi Mágia Akarata
 ---
 ### Papi mágia kísérőjelenségei
 
-Általánosságban elmondható, hogy minél magasabb a varázslat Erőssége (Szakrálminimum), annál erősebben jelenik meg random kísérőjelenség, amely a varázslat jellegétől, a pap egyházának szimbólumaitól, illetve a pap hangulatától, jellemétől is függhet. Ebben a KM és a játékos teljes szabad kezet kapnak, de tartsák észben, hogy ezek csak szinesítő hatások, nem okozhatnak konkrét előnyöket, hátrányokat. A fentiek lehetnek fény és hangjelenségek, látványos hatás növényekre, állatokra és így tovább.
+Általánosságban elmondható, hogy minél magasabb a varázslat Erőssége (Kisszféra), annál erősebben jelenik meg random kísérőjelenség, amely a varázslat jellegétől, a pap egyházának szimbólumaitól, illetve a pap hangulatától, jellemétől is függhet. Ebben a KM és a játékos teljes szabad kezet kapnak, de tartsák észben, hogy ezek csak szinesítő hatások, nem okozhatnak konkrét előnyöket, hátrányokat. A fentiek lehetnek fény és hangjelenségek, látványos hatás növényekre, állatokra és így tovább.
