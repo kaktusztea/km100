@@ -43,6 +43,9 @@ Hasonlatos az [Aura Átütésnél leírtakhoz](094_aura_atutes_magiaellenallas.m
 
 Itt is az [AuraErő táblázatot](094_aura_atutes_magiaellenallas.md#m%C3%A1gia-%C3%A1t%C3%BCt%C3%A9se-vs-m%C3%A1giaellen%C3%A1ll%C3%A1s) használjuk, de nincs dobás, a számolás `1x` kell elvégezni minden Tapasztalati Szint lépésekor.
 
+Az, hogy melyik Tulajdonságot kell az AuraErő meghatározásakor beleszámolni, az az adott isten, vagy vallás jellegétől függ. Minden isten papjainak leírásában megadjuk, hogy melyik is ez a Tulajdonság. 
+
+
 ```
 AuraErő számítása:
    Papi tradíció szint
@@ -57,12 +60,6 @@ AuraErő számítása:
 Papi Mágia Akarata
  = (2x TSz) + AuraErő
 ```
-
-#### Tulajdonság
-
-Az, hogy melyik tulajdonságot kell a Papi Mágia Akaratába beleszámolni, az az adott isten, vagy vallás jellegétől függ.
-
-Minden isten papjainak leírásában megadjuk, hogy melyik is ez a Tulajdonság. 
 
 ---
 ### Papi mágia kísérőjelenségei
