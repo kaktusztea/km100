@@ -7,7 +7,7 @@
 
 Hatótáv: Érintés, Közvetlen, Tömeg⭕
 
-##### Szakrálminimum
+##### Kisszféra
 
 **3.szint:** 
 

@@ -6,7 +6,7 @@
 
 **Hatótáv**: Közvetlen
 
-##### Szakrálminimum
+##### Kisszféra
 
 **3.szint:** Legfeljebb fél tucat embernek
 
