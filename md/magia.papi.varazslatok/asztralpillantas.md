@@ -13,15 +13,19 @@ Hatótáv: Közvetlen
 
 **7.szint:** ⭕
 
-**12.szint:** ⭕
+**9.szint:** ⭕
 
-**15.szint:** ⭕
+**11.szint:** ⭕
+
+**13.szint:** ⭕
+
+**15.szint:** ⭕Asztrális nyomokat is képes vagy megtalálni, egyes asztrális lények korábbi jelenlétét.
 
 
 ---
 ##### Hatás
 
-Bepillantasz az asztrálsíkra. ⭕TODO
+Bepillantasz az Asztrálsíkra. ⭕TODO
 
 ---
 ##### Szabályok
