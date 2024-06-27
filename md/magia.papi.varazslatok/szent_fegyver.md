@@ -1,7 +1,7 @@
 #### ✨Szent fegyver
 
 
-**Szféra**: Idézés, Anyag
+**Szféra**: Idézés, Anyag, Mágia(Tradíció)
 
 **Varázslás ideje**: Harci
 
