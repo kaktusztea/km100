@@ -10,6 +10,8 @@ Hatótáv: Változó (Érintés, Közvetlen)
 
 **3.szint:**  Szentelés, Áldozat, Áldás, Névadás, Összeesketés, Temetés
 
+**5.szint:** föld, termény megáldása: csökkenti a természeti katasztrófák, vagy a rossz termés esélyét
+
 **6.szint:** Templomszentelés
 
 **9.szint:** Kiátkozás
