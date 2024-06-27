@@ -1,7 +1,7 @@
 #### ✨Szent fegyver
 
 
-**Szféra**: Idézés, Lélek
+**Szféra**: Idézés, Anyag
 
 **Varázslás ideje**: Harci
 
