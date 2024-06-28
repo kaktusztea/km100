@@ -16,3 +16,8 @@
 - [Szent fegyver](magia.papi.varazslatok/szent_fegyver.md)
 - [Szertartás](magia.papi.varazslatok/szertartas.md)
 - [Túlvilági lények idézése](magia.papi.varazslatok/tulvilagi_leny_idezese.md) 🔺
+
+### Arel pap varázslatai
+
+- [Állathoz hasonulás](magia.papi.varazslatok/arel/allathoz.hasonulas.md)
+- [Sólyomalak](magia.papi.varazslatok/arel/solyomalak.md)

@@ -27,4 +27,4 @@ Egy kijelölt növény végrehajt 1 db nagyon egyszerű parancsot. Ez nem lehet 
 ---
 ##### Szabályok
 
--
+.
