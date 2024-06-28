@@ -5,7 +5,7 @@ Képes vagy szakrális Litániák és Rituálék formájában mágikus hatást l
 #### Tradíció felveheti
 
 - [Papi mágia](../100_papimagia.md)
-- [Sámánmágia](../051_06_samanmagia.md) ⭕TODO: ??⭕
+- [Sámánmágia](../051_07_samanmagia.md) ⭕TODO: ??⭕
 
 #### Leírás
 
