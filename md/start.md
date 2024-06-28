@@ -83,10 +83,10 @@
   - [Vulgármágia](051_02_vulgarmagia.md)
   - [Ordani Tűzmágia](051_03_ordani_tuzmagia.md)
   - [Bárdmágia](051_04_bardmagia.md)
-  - [Természeti mágia](051_05_termeszeti_magia.md)
-  - [Sámánmágia](051_06_samanmagia.md)
-  - [Ork Énekmondói mágia](051_07_ork_enekmondoi_magia.md)
-  - [Rituális mágia](051_08_ritualis_magia.md)
+  - [Illuzionista](051_05_illuzionista.md)
+  - [Természeti mágia](051_06_termeszeti_magia.md)
+  - [Sámánmágia](051_07_samanmagia.md)
+  - [Drágakőmágia](051_08_dragakomagia.md)
 - [Papi tradíciók](052_00_papi_tradiciok.md) (0%)🚧
 - [Szellemi Tradíciók](053_00_szellemi_tradiciok.md)
   - [Slan Tradíció](053_01_slan_tradicio.md) (25%)🚧

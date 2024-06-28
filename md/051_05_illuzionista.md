@@ -1,4 +1,4 @@
-## Bárdmágia tradíció / Bárd Metamágia arkánum
+## Illuzionista tradíció / Illuzionista Metamágia arkánum
 
 ⚜️ [Nyitóoldal](start.md)
 
@@ -6,7 +6,7 @@
 
 <br />
 
-A karakter dönthet úgy, hogy megáll `6.` szinten a Tradícióban, ez nem korlátozza semmiben. Amiért mégis megérheti, az az azonos szintű [Bárd Metamágia Arkánum](#t%C5%B1z-metam%C3%A1gia-ark%C3%A1num), aminek nehezebb formulái magasabb szinten érhetőek el.
+A karakter dönthet úgy, hogy megáll `6.` szinten a Tradícióban, ez nem korlátozza semmiben. Amiért mégis megérheti, az az azonos szintű [Illuzionista Metamágia Arkánum](#t%C5%B1z-metam%C3%A1gia-ark%C3%A1num), aminek nehezebb formulái magasabb szinten érhetőek el.
 
 Most lássuk a **Bárdmágia Tradíció** egyes szintjeihez rendelt jellemzőket:
 
@@ -42,7 +42,7 @@ Most lássuk a **Bárdmágia Tradíció** egyes szintjeihez rendelt jellemzőket
 - ⭕xyz
 
 ---
-### Bárd Metamágia arkánum
+### Illuzionista Metamágia arkánum
 
 `6.` szinten az alábbi formulák érhetőek el Bárd Metamágia Arkánumban:
 - ⭕Leplezés⭕ - itt is legyen?

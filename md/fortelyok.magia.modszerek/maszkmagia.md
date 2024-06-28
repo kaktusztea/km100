@@ -4,8 +4,7 @@ Kézzel készített maszkot - szerves, vagy szervetlen anyagból - készítesz, 
 
 #### Tradíció felveheti
 
-- [Ork énekmondói mágia](../051_07_ork_enekmondoi_magia.md)
-- [Sámánmágia](../051_06_samanmagia.md)
+- [Sámánmágia](../051_07_samanmagia.md)
 - [Vulgármágia](../051_02_vulgarmagia.md)
 
 #### Leírás
