@@ -19,6 +19,6 @@
 ---
 ##### Szabályok
 
-A ceremóniális varázslathoz komponensek szükségesek: ⭕TODO⭕
+A ceremoniális varázslathoz komponensek szükségesek: ⭕TODO⭕
 
 A varázslat alanya nem lehet ellentétes jellemű a pappal.
