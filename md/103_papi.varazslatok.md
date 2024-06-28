@@ -13,11 +13,14 @@
 - [Gólem teremtése](magia.papi.varazslatok/golem_teremtese.md)🔺
 - [Időjárás befolyásolása](magia.papi.varazslatok/idojaras_befolyasolasa.md)
 - [Kárhozott szellem megváltása](magia.papi.varazslatok/karhozott.szellem.megvaltasa.md)
+- [Lelki szenvedés enyhítése](magia.papi.varazslatok/lelki_szenvedes_enyhitese.md)
 - [Szent fegyver](magia.papi.varazslatok/szent_fegyver.md)
 - [Szertartás](magia.papi.varazslatok/szertartas.md)
+- [Testrész visszanövesztése](magia.papi.varazslatok/testresz_visszanovesztese.md)
 - [Túlvilági lények idézése](magia.papi.varazslatok/tulvilagi_leny_idezese.md) 🔺
 
 ### Arel pap varázslatai
 
 - [Állathoz hasonulás](magia.papi.varazslatok/arel/allathoz.hasonulas.md)
+- [Szent fegyver - Arel](magia.papi.varazslatok/arel/szent_fegyver_arel.md)
 - [Sólyomalak](magia.papi.varazslatok/arel/solyomalak.md)
