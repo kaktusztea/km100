@@ -5,7 +5,7 @@
 
 **Varázslás ideje**: Nyugalmi
 
-Hatótáv: Közvetlen
+**Hatótáv**: Közvetlen
 
 ##### Kisszféra
 
@@ -30,4 +30,4 @@ Bepillantasz az Asztrálsíkra. ⭕TODO
 ---
 ##### Szabályok
 
-- ⭕TODO
+⭕TODO

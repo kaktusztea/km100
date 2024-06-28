@@ -5,7 +5,7 @@
 
 **Varázslás ideje**: Nyugalmi
 
-Hatótáv: Közvetlen
+**Hatótáv**: Közvetlen
 
 ##### Kisszféra
 

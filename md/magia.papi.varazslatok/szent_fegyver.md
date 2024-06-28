@@ -5,7 +5,7 @@
 
 **Varázslás ideje**: Harci
 
-Hatótáv: Közvetlen
+**Hatótáv**: Közvetlen
 
 ##### Kisszféra
 

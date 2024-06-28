@@ -4,7 +4,7 @@
 
 **Varázslás ideje**: Nyugalmi
 
-Hatótáv: Változó (Érintés, Közvetlen)
+**Hatótáv**: Változó (Érintés, Közvetlen)
 
 ##### Kisszféra
 
