@@ -33,3 +33,5 @@ Kisszféra szintnek megfelelő **Befolyásolás (Megfélemlítés)** hatás ér 
 **A Szent fegyver harcértékei**:
 - mint a forgató eredeti harcértékei ezzel a fegyverrel
 - bónusz harcértékek: `plusz TÉ/VÉ == Kisszféra`
+- Csak 1 darabot lehet valakinek a kezébe idézni
+- a Szent fegyver ellen nem működik  a Lefegyverzés/Fegyvertörés Manőver
