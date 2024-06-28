@@ -10,6 +10,7 @@
 - [Engedelmesség - állatok](magia.papi.varazslatok/engedelmesseg_allatok.md)
 - [Engedelmesség: növények](magia.papi.varazslatok/engedelmesseg_novenyek.md)
 - [Evilági állat/lény idézése/szólítása](magia.papi.varazslatok/evilagi_leny_idezese_szolitasa.md)
+- [Gólem teremtése](magia.papi.varazslatok/golem_teremtese.md)🔺
 - [Időjárás befolyásolása](magia.papi.varazslatok/idojaras_befolyasolasa.md)
 - [Kárhozott szellem megváltása](magia.papi.varazslatok/karhozott.szellem.megvaltasa.md)
 - [Szent fegyver](magia.papi.varazslatok/szent_fegyver.md)
