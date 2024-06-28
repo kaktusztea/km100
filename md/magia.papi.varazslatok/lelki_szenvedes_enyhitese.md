@@ -24,7 +24,7 @@
 ---
 ##### Hatás
 
-A pap beszélgetésbe kezd a varázslat alanyával, hosszú órákon keresztül - lehetőleg egy kényelmes, nyugodt helyen. Szelíd, gyógyító aura veszi körbe a beszélgető párt, amely tompítja a fájdalmat, megnyitja a lelket, hogy könnyebb legyen megnyílni a másik számára.
+A pap beszélgetésbe kezd a varázslat alanyával, hosszú órákon keresztül - lehetőleg egy kényelmes, nyugodt helyen. Szelíd, gyógyító aura veszi körbe a beszélgető párt, amely tompítja a fájdalmat, megnyugtatja a lelket, hogy könnyebb legyen megnyílni a másik számára.
 
 A beszélgetés során a pap elnyeri partnere bizalmát és megismeri annak fájdalmát. Istene segít a nyomorúság elviselésében és gyógyírt nyújt a mély sebek okozta fájdalomra.
 
