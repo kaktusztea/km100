@@ -7,6 +7,7 @@
 - [Asztrál átok](magia.papi.varazslatok/asztral_atok.md)
 - [Asztrálpillantás](magia.papi.varazslatok/asztralpillantas.md)
 - [Élelemteremtés](magia.papi.varazslatok/elelemteremtes.md)
+- [Evilági állat/lény idézése/szólítása](magia.papi.varazslatok/evilagi_leny_idezese_szolitasa.md)
 - [Kárhozott szellem megváltása](magia.papi.varazslatok/karhozott.szellem.megvaltasa.md)
 - [Szent fegyver](magia.papi.varazslatok/szent_fegyver.md)
 - [Szertartás](magia.papi.varazslatok/szertartas.md)
