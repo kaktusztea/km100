@@ -14,7 +14,7 @@
 
 **9.szint:** 
 
-**12.szint:** 
+**12.szint:** Hadjárat megáldása
 
 **15.szint:** 
 
@@ -31,5 +31,6 @@ Az Áldás hatására az alábbi pozitív hatásokat érzi a célpont
 ---
 ##### Szabályok
 
+- Nem alkalmas méreg kimutatására
 - ⭕1 személyre/tárgyra: alapérték
 - ⭕Minden további személyre: `+3`
