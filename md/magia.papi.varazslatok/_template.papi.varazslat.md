@@ -5,7 +5,7 @@
 
 **Varázslás ideje**: Harci, Nyugalmi, Ceremoniális⭕
 
-Hatótáv: Érintés, Közvetlen, Tömeg⭕
+**Hatótáv**: Érintés, Közvetlen, Tömeg⭕
 
 ##### Kisszféra
 
