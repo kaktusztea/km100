@@ -14,11 +14,11 @@
 
 **7.szint:** Felhőszakadás, néha random villám lecsap itt-ott
 
-**9.szint:** Hurrikán, az évszázad vihara, villám csapkod. Apályból dagály és fordítva.
+**9.szint:** Hurrikán, az évszázad vihara, villám csapkod percenként k100 méteren belül. Apályból dagály és fordítva.
 
 **12.szint:** Pusztító földrengés. Komponens szükséges.
 
-**15.szint:** Vulkánkitörés. Komponens szükséges.
+**15.szint:** Vulkánkitörés (Sogron). Komponens szükséges.
 
 
 ---

@@ -14,3 +14,4 @@
 - [Kárhozott szellem megváltása](magia.papi.varazslatok/karhozott.szellem.megvaltasa.md)
 - [Szent fegyver](magia.papi.varazslatok/szent_fegyver.md)
 - [Szertartás](magia.papi.varazslatok/szertartas.md)
+- [Túlvilági lények idézése](magia.papi.varazslatok/tulvilagi_leny_idezese.md) 🔺
