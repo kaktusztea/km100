@@ -1,6 +1,5 @@
 #### ✨Varázslat neve
 
-
 **Szféra**: Idézés, Lélek
 
 **Varázslás ideje**: Harci, Nyugalmi, Ceremoniális⭕
