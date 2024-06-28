@@ -4,7 +4,7 @@
 
 **Varázslás ideje**: Ceremoniális (fél-egy nap)
 
-**Hatótáv**: Érintés
+**Hatótáv**: Közvetlen
 
 ##### Kisszféra
 
