@@ -24,6 +24,11 @@ Amennyiben az életerő táblázat "betelt" és vannak benne Kábulat ÉP pontok
 ---
 #### Kábulat ÉP gyógyulása
 
+```
+Óránként 1 KT gyógyul
+Alvásban óránként 2 KT
+```
+
 A Kábulat ÉP, mivel nem valós sebesülés okozta, gyorsabban „gyógyul”, mint a valós ÉP seb. Fizikai behatás esetén kb. **óránként 1 pont „tűnik el”**, és így szép lassan „visszaolvad” a valós sebzésbe. Mérgezés, betegség esetén a hatás tartósabb is lehet, itt a KM dönt. **Alvás közben** a gyógyulási sebesség duplázódik, tehát **2KT/óra**. Ha a KM úgy látja indokoltnak eltérhet a fenti számoktól.
 
 ---
@@ -33,10 +38,13 @@ Ha a karakter például méregnek „köszönhetően” tartósan gyengélkedik,
 
 ---
 #### Verekedés, Kocsmai bunyó és Kábulat ÉP
-
+```
+Minden 5. KT
+1 ÉP sebet okoz. 
+```
 A `KT` kiválóan alkalmas kocsmai verekedések, kisebb – nem „vérre menő” – összetűzések szimulálására is. Mint ahogy azt a „Fegyverek” fejezetben láthatjuk, a Puszta kéz sebzése mindig `KT` (kivéve egyes harcművész stílusokat).
 
-**Minden 5. KT okoz csak 1 ÉP valós sebesülést.**
+**Minden 5. KT okoz csak 1 ÉP valós sebesülést: 4 KT, 1 ÉP**
 
 ---
 #### Fejbe vágás
@@ -46,9 +54,7 @@ Gyakori eset, hogy valakinek ráhúznak egy nagyot a fejére. Például sisakos 
 ---
 #### ⚡ Példa Kábulat ÉP alkalmazására
 
-```diff
-⭕TODO: Aktualizálni a kész Orvtámadáshoz (amikor kész lesz). Nem lesz Orvtámadás fortély. Csak észrevétlen támadás van.
-```
+⭕TODO: Aktualizálni a kész Orvtámadáshoz (amikor kész lesz). Nem lesz Orvtámadás fortély. Csak észrevétlen támadás van.⭕
 
 Cravignon-t leütik hátulról. ÉP-inek száma 14. Támadója mesterfokú **Orvtámadással** rendelkezik. Sebzést dob `k6`-al, az eredmény `4`. Ekkor a mesterfokú Orvtámadás miatt a valós sebzés csak `2 ÉP`. Lássuk a kábulat sebzést:
 `4 KT + k10SP` amely bónusz szintén a `Mf` miatt csak `KT` sebzést okoz. `k10` dobás eredménye: `7`.
