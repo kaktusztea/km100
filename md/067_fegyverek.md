@@ -24,7 +24,7 @@ Alább alapelveket találhatunk az egyes általános fegyverkategóriákhoz – 
 ---
 ### Elsődleges támadási típus
 
-Lásd: [Harc menete → Elsődleges támadási típus](063_07_harc_menete_reszletes.md#elsődleges-támadási-típus)
+Lásd: [Harc menete → Elsődleges támadási típus](063_07_harc_menete_reszletes.md#elsődleges-txxyámadási-típus)
 
 ---
 ### Egyenjogú támadási típus
