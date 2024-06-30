@@ -1,4 +1,4 @@
-# Papi mágia
+# Papi Mágia Tradíció
 
 ⚜️ [Nyitóoldal](start.md)  -  [STUDY oldal](https://github.com/kaktusztea/km100/wiki/STUDY.magiatradicio.papimagia) 
 
