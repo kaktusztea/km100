@@ -156,7 +156,7 @@ Ha meg akarod fosztani ellenfeledet fegyverétől, vagy kiütve kezéből, vagy 
 ---
 #### Mesterjel
 
-- Nehézség: `10+12`🍁
+- Nehézség: `10-12`🍁
 - Fázisok: `E V`
 - Max fok: `2`
 - **1.fok követelmény**: Mesterfegyver – `2.fok`
