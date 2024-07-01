@@ -79,7 +79,7 @@
 ### 5. [Tradíciók](050_tradiciok.md)
 
 - [Mágia tradíciók](051_00_magia_tradiciok.md)
-  -  [Magasmágia](051_01_magasmagia.md)
+  - [Magasmágia](051_01_magasmagia.md)
   - [Vulgármágia](051_02_vulgarmagia.md)
   - [Ordani Tűzmágia](051_03_ordani_tuzmagia.md)
   - [Bárdmágia](051_04_bardmagia.md)
