@@ -2,7 +2,7 @@
 
 **Szféra**: Idézés, Lélek
 
-**Varázslás ideje**: Harci, Nyugalmi, Folyamatos, Ceremoniális⭕
+**Varázslás ideje**: Harci, Fenntartott, Nyugalmi, Ceremoniális⭕
 
 **Hatótáv**: Érintés, Közvetlen, Tömeg⭕
 
