@@ -22,11 +22,11 @@ Milyen Tradíciókat ismer a km100 rendszere?
   - [Ordani Tűzmágia](051_03_ordani_tuzmagia.md)
   - [Bárdmágia](051_04_bardmagia.md)
     - Csepürágó
-    - Ork Énekmondói mágia
+    - Ork Énekmondó
   - [Illuzionista](051_05_illuzionista.md)
   - [Természeti mágia](051_06_termeszeti_magia.md)
   - [Sámánmágia](051_07_samanmagia.md)
-    - Erdeti törzsi sámánok
+    - Erdei törzsi sámánok
     - Ork sámán
     - Rituális mágia
   - [Drágakőmágia](051_08_dragakomagia.md)
