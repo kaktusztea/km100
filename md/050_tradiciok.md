@@ -17,15 +17,17 @@ Mindegyik Tradíció [Primer képzettség](032_primer_szekunder_kepzettsegek.md)
 Milyen Tradíciókat ismer a km100 rendszere?
 
 - [Mágia tradíciók](051_00_magia_tradiciok.md)
-  - [Magasmágia (mozaikmágia)](051_01_magasmagia.md)
+  - [Magasmágia](051_01_magasmagia.md)
   - [Vulgármágia](051_02_vulgarmagia.md)
   - [Ordani Tűzmágia](051_03_ordani_tuzmagia.md)
   - [Bárdmágia](051_04_bardmagia.md)
+  - [Illuzionista](051_05_illuzionista.md)
   - [Természeti mágia](051_06_termeszeti_magia.md)
   - [Sámánmágia](051_07_samanmagia.md)
     - Erdeti törzsi sámánok
     - Ork Énekmondói mágia
     - Rituális mágia
+  - [Drágakőmágia](051_08_dragakomagia.md)
 - [Papi tradíciók](052_papi_tradicio.md)
 - [Szellemi Tradíciók](053_00_szellemi_tradiciok.md)
   - [Slan Tradíció](053_01_slan_tradicio.md)
