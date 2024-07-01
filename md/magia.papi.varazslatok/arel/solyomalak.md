@@ -29,7 +29,7 @@ Az Arel pap a Kisszféránál leírtaknál megfelelően átalakul Arel szent ál
 ##### Szabályok
 
 ⭕TODO⭕
-- ÉP hogy legyen? JK ÉP, vagy sólyom ÉP
-- Koncentráció szükséges, vagy nem?
-- Ha elájul, akkor visszaalakul?
-- Mitől alakulhat még vissza?
+- ⭕ÉP hogy legyen? JK ÉP, vagy sólyom ÉP
+- ⭕Koncentráció szükséges, vagy nem?
+- ⭕Ha elájul, akkor visszaalakul?
+- ⭕Mitől alakulhat még vissza?
