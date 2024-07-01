@@ -23,6 +23,9 @@ Milyen Tradíciókat ismer a km100 rendszere?
   - [Bárdmágia](051_04_bardmagia.md)
   - [Természeti mágia](051_06_termeszeti_magia.md)
   - [Sámánmágia](051_07_samanmagia.md)
+    - Erdeti törzsi sámánok
+    - Ork Énekmondói mágia
+    - Rituális mágia
 - [Papi tradíciók](052_papi_tradicio.md)
 - [Szellemi Tradíciók](053_00_szellemi_tradiciok.md)
   - [Slan Tradíció](053_01_slan_tradicio.md)
