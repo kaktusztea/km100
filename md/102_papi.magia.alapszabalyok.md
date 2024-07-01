@@ -29,7 +29,8 @@ Az egyes varázslatoknál jelezzük, hogy a varázslás ideje melyik kategóriá
 
 1. Harci: harc közben alkalmazható
 2. Nyugalmi: harcon kívül alkalmazható, a varázslás/fohász percekben mérhető
-3. Ceremoniális: a varázslat órákba, napokba is telhet. Az adott varázslat és a körülmények ismeretében a KM dönt
+3. Folyamatos: a pap kántálása alatt hat a mágia, ha megszakítják (megzavarják, sebet kap), attól még közvetlenül utána folytathatja: amennyiben a következő kör elején képes folytatni, akkor a mágia nem törik meg.
+4. Ceremoniális: a varázslat órákba, napokba is telhet. Az adott varázslat és a körülmények ismeretében a KM dönt
 
 
 ---
