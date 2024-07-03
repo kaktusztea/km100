@@ -8,7 +8,7 @@
 - [Asztrálpillantás](magia.papi.varazslatok/asztralpillantas.md)
 - [Élelemteremtés](magia.papi.varazslatok/elelemteremtes.md)
 - [Engedelmesség - állatok](magia.papi.varazslatok/engedelmesseg_allatok.md)
-- [Engedelmesség: növények](magia.papi.varazslatok/engedelmesseg_novenyek.md)
+- [Engedelmesség - növények](magia.papi.varazslatok/engedelmesseg_novenyek.md)
 - [Evilági állat/lény idézése/szólítása](magia.papi.varazslatok/evilagi_leny_idezese_szolitasa.md)
 - [Gólem teremtése](magia.papi.varazslatok/golem_teremtese.md)🔺
 - [Időjárás befolyásolása](magia.papi.varazslatok/idojaras_befolyasolasa.md)
