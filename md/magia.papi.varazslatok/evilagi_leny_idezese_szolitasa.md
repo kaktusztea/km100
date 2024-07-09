@@ -6,6 +6,8 @@
 
 **Hatótáv**: Tömeg
 
+**Csoportosan**: működik 
+
 ##### Kisszféra
 
 **3.szint:**

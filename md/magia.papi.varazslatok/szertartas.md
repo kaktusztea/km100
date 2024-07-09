@@ -6,6 +6,8 @@
 
 **Hatótáv**: Változó (Érintés, Közvetlen)
 
+**Csoportosan**: működik, KM dönt hol
+
 ##### Kisszféra
 
 **3.szint:**  Szentelés, Áldozat, Áldás, Névadás, Összeesketés, Temetés

@@ -6,6 +6,8 @@
 
 **Hatótáv**: Közvetlen
 
+**Csoportosan**: működik 
+
 ##### Kisszféra
 
 **5.szint:** 

@@ -14,6 +14,7 @@
 - [Időjárás befolyásolása](magia.papi.varazslatok/idojaras_befolyasolasa.md)
 - [Kárhozott szellem megváltása](magia.papi.varazslatok/karhozott.szellem.megvaltasa.md)
 - [Lelki szenvedés enyhítése](magia.papi.varazslatok/lelki_szenvedes_enyhitese.md)
+- [Sebgyógyítás](magia.papi.varazslatok/sebgyogyitas.md)
 - [Szent fegyver](magia.papi.varazslatok/szent_fegyver.md)
 - [Szertartás](magia.papi.varazslatok/szertartas.md)
 - [Testrész visszanövesztése](magia.papi.varazslatok/testresz_visszanovesztese.md)

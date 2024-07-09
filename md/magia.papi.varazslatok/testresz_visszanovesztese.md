@@ -6,6 +6,8 @@
 
 **Hatótáv**: Érintés
 
+**Csoportosan**: működik 
+
 ##### Kisszféra
 
 **9.szint:** Itt végezhető el

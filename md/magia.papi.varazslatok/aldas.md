@@ -6,6 +6,8 @@
 
 **Hatótáv**: Változó (Érintés, Közvetlen, Tömeg)
 
+**Csoportosan**: működik 
+
 ##### Kisszféra
 
 **3.szint:** Lelkesültség
