@@ -6,6 +6,8 @@
 
 **Hatótáv**: Érintés, Közvetlen, Tömeg⭕
 
+**Csoportosan**: működik  ⭕törölni, ha nem⭕
+
 ##### Kisszféra
 
 **3.szint:** 

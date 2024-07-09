@@ -6,6 +6,8 @@
 
 **Hatótáv**: `TSz x 10 méter`
 
+**Csoportosan**: működik 
+
 ##### Kisszféra
 
 **3.szint:** mérsékelten feltámad a szél, szellő fújkál

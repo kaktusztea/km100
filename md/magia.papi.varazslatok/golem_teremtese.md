@@ -6,6 +6,9 @@
 
 **Hatótáv**: Érintés
 
+**Csoportosan**: működik 
+
+
  **Követelmény**:
 - [Élettan](../fortelyok.altalanos/elettan.md) fortély
 - [Képzőművészet képzettség](../kepzettsegek/kepzomuveszet.md) + [Szobrászat SzH](../hatterek.szabad/szobraszat.md) - `9.szint`

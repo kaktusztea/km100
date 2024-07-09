@@ -6,6 +6,8 @@
 
 **Hatótáv**: Közvetlen
 
+**Csoportosan**: működik 
+
 ##### Kisszféra
 
 **3.szint:** Legfeljebb fél tucat embernek
