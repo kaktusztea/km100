@@ -27,11 +27,13 @@ A papi varázslatoknál nincs méterben meghatározott zóna, vagy hatótáv. Az
 
 Az egyes varázslatoknál jelezzük, hogy a varázslás ideje melyik kategóriába esik. Ezek típusai:
 
-1. Harci: harc közben alkalmazható
-2. Nyugalmi: harcon kívül alkalmazható, a varázslás/fohász percekben mérhető
-3. Fenntartott: a pap kántálása alatt hat a mágia, ha megszakítják (megzavarják, sebet kap), attól még közvetlenül utána folytathatja: amennyiben a következő kör elején képes folytatni, akkor a mágia nem törik meg.
-4. Ceremoniális: a varázslat órákba, napokba is telhet. Az adott varázslat és a körülmények ismeretében a KM dönt
+`1/a.` **Harci**: harc közben alkalmazható
 
+`1/b.` **Fenntartott**: ez is a Harci egy változata, a kezdeményezés, minden szabály ugyanaz, de a mágia a pap folyamatos kántálása alatt hat folyamatosan. Ha a varázslás megszakad, mert a papot például megzavarják, vagy sebet kap, akkor amennyiben a következő kör elején képes folytatni, akkor a mágia nem törik meg és folytathatja. Ha nem, vagy ha szándékosan leáll a kántálással, a mágia 1 körön belül eloszlik.
+
+`2.` **Nyugalmi**: harcon kívül alkalmazható, a varázslás/fohász percekben mérhető. Pontos időtartamot felesleges meghatározni, amennyiben ez mégis fontos lenne, az adott varázslat ismeretében a KM dönt.
+
+`3.` **Ceremoniális**: a varázslat órákba, napokba is telhet. Az adott varázslat és a körülmények ismeretében a KM dönt.
 
 ---
 ### Papi Mágia Akarata
