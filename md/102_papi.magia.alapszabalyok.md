@@ -29,7 +29,7 @@ Az egyes varázslatoknál jelezzük, hogy a varázslás ideje melyik kategóriá
 
 `1/a.` **Harci**: harc közben alkalmazható
 
-`1/b.` **Fenntartott**: ez is a Harci egy változata, a kezdeményezés, minden szabály ugyanaz, de a mágia a pap folyamatos kántálása alatt hat folyamatosan. Ha a varázslás megszakad, mert a papot például megzavarják, vagy sebet kap, akkor amennyiben a következő kör elején képes folytatni, akkor a mágia nem törik meg és folytathatja. Ha nem, vagy ha szándékosan leáll a kántálással, a mágia 1 körön belül eloszlik.
+`1/b.` **Fenntartott**: ez is a Harci egy változata, a kezdeményezés, minden szabály ugyanaz, de a mágia a pap folyamatos kántálása alatt hat folyamatosan. Ha a varázslás megszakad, mert a papot például megzavarják, vagy sebet kap, akkor amennyiben a következő kör elején képes folytatni, akkor a mágia nem törik meg és folytathatja. Ha nem, vagy ha szándékosan leáll a kántálással, a mágia 1 körön belül eloszlik. A Fenntartott varázslás alatt a pap legfeljebb sétálni tud, harcolni, mást varázsolni nem.
 
 `2.` **Nyugalmi**: harcon kívül alkalmazható, a varázslás/fohász percekben mérhető. Pontos időtartamot felesleges meghatározni, amennyiben ez mégis fontos lenne, az adott varázslat ismeretében a KM dönt.
 
