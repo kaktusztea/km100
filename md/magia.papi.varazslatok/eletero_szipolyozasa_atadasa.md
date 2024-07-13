@@ -8,9 +8,7 @@
 
 ##### Kisszféra
 
-**3.szint:** ⭕TODO⭕
-
-**6.szint:** ⭕TODO⭕
+**6.szint:** Innen alkalmazható.
 
 **9.szint:** ⭕TODO⭕
 
@@ -22,17 +20,14 @@
 ---
 ##### Hatás
 
-Lefogni az áldozatot.
+A Pap a lefogott, rögzített áldozat fejéhez térdel, majd gonosz urát/úrnőjét segítségül hívva elorozza annak életerejét.
 
-Életerőt leszív az áldozattól és átadja magának, vagy egy választott célpontnak.
+Az így nyert `ÉP` mennyiséget vagy saját maga, vagy egy választott, mellette levő - együttműködő - célpont Aurájába áramoltatja.
 
-Annyi ÉP szívható el, amennyi maradt az áldozatban. KT-t nem okoz.
+A varázslattal annyi `ÉP` szívható el, amennyi maradt az áldozatban, KT keletkezést nem okoz - az alany `0 ÉP`-re kerül, segítség nélkül elég hamar elhalálozhat.
 
-Aurán látszik, mert feketemágia.
-
-6.szint: meg tudod csinálni a varázslatot
 
 ---
 ##### Szabályok
 
-- ipsum
+Feketemágiának számít, így leplezés nélkül meglátszik alkalmazójának Auráján is.
