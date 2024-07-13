@@ -11,6 +11,7 @@
 - [Engedelmesség - állatok](magia.papi.varazslatok/engedelmesseg_allatok.md) 🔺
 - [Engedelmesség - növények](magia.papi.varazslatok/engedelmesseg_novenyek.md) 🔺
 - [Evilági állat/lény idézése/szólítása](magia.papi.varazslatok/evilagi_leny_idezese_szolitasa.md)
+- [Feltámasztás](magia.papi.varazslatok/feltamasztas.md)
 - [Gólem teremtése](magia.papi.varazslatok/golem_teremtese.md) 🔺🔺🔺
 - [Gyógyító tűz](magia.papi.varazslatok/gyogyito_tuz.md) 🔺
 - [Időjárás befolyásolása](magia.papi.varazslatok/idojaras_befolyasolasa.md)
