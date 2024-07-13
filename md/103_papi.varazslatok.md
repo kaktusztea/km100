@@ -12,6 +12,7 @@
 - [Engedelmesség - növények](magia.papi.varazslatok/engedelmesseg_novenyek.md) 🔺
 - [Evilági állat/lény idézése/szólítása](magia.papi.varazslatok/evilagi_leny_idezese_szolitasa.md)
 - [Gólem teremtése](magia.papi.varazslatok/golem_teremtese.md) 🔺🔺🔺
+- [Gyógyító tűz](magia.papi.varazslatok/gyogyito_tuz.md) 🔺
 - [Időjárás befolyásolása](magia.papi.varazslatok/idojaras_befolyasolasa.md)
 - [Kárhozott szellem megváltása](magia.papi.varazslatok/karhozott.szellem.megvaltasa.md) 🔺
 - [Lelki szenvedés enyhítése](magia.papi.varazslatok/lelki_szenvedes_enyhitese.md)
@@ -22,6 +23,7 @@
 - [Szertartás](magia.papi.varazslatok/szertartas.md)
 - [Testrész visszanövesztése](magia.papi.varazslatok/testresz_visszanovesztese.md) 🔺
 - [Túlvilági lények idézése](magia.papi.varazslatok/tulvilagi_leny_idezese.md) 🔺🔺🔺
+- [Vámpír fegyver](magia.papi.varazslatok/vampir_fegyver.md)
 
 ### Arel pap varázslatai
 
