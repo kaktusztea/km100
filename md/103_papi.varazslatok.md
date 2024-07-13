@@ -25,6 +25,7 @@
 - [Testrész visszanövesztése](magia.papi.varazslatok/testresz_visszanovesztese.md) 🔺
 - [Túlvilági lények idézése](magia.papi.varazslatok/tulvilagi_leny_idezese.md) 🔺🔺🔺
 - [Vámpír fegyver](magia.papi.varazslatok/vampir_fegyver.md)
+- [Villámcsapás](magia.papi.varazslatok/villamcsapas.md)
 
 ### Arel pap varázslatai
 
