@@ -20,6 +20,7 @@
 - [Regeneráció](magia.papi.varazslatok/regeneracio.md)
 - [Sebgyógyítás](magia.papi.varazslatok/sebgyogyitas.md) 🔺
 - [Szent fegyver](magia.papi.varazslatok/szent_fegyver.md)
+- [Szférák zenéje](magia.papi.varazslatok/szferak_zeneje.md)
 - [Szertartás](magia.papi.varazslatok/szertartas.md)
 - [Testrész visszanövesztése](magia.papi.varazslatok/testresz_visszanovesztese.md) 🔺
 - [Túlvilági lények idézése](magia.papi.varazslatok/tulvilagi_leny_idezese.md) 🔺🔺🔺
