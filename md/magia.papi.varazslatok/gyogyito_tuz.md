@@ -34,3 +34,5 @@ A varázslat betegségeket is képes "kiégetni" a szervezetéből. A betegség 
 ##### Szabályok
 
 Csak Sogron pap alkalmazhatja.
+
+Halottat nem lehetséges ezen a módon feltámasztani. Amennyiben mégis halott kerül a rakás tetejére, a holttest nyom nélkül, tökéletesen elég.
