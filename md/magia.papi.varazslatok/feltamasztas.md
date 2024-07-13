@@ -27,6 +27,7 @@ Az ilyen hatalmas varázslatnak sok követekménye van: ⭕
 - A kívánt ereklyét a pap egy misztikus álomban látja meg. Ha ez nem történik meg, az isten így jelzi, hogy nem akar segíteni a feltámasztásban. Az adott személyt a Pap nem lesz képes újra az életbe visszahozni.
 - A halott csak eredeti testébe idézhető vissza, amely test "gyógyítható" állapotban kell legyen.
 - Minél régebb óta halott az illető, annál nehezebben támasztható fel.
+- "A Mindenség kapuja" ⭕link⭕ varázslattal elbocsátott lélek nem idézhető vissza
 - Varázslat lépései
   - `1.`Álom, melyben a rituáléhoz szükséges ereklyéről tudomást szerez a Pap
   - `2.`További álmok a következő napokban, melyek segítenek az ereklye felkutatásában. A sugallatok komplikáltsága változó, a Pap istene szemében való engedelmességétől függ.
