@@ -5,6 +5,7 @@
 - [Áldás](magia.papi.varazslatok/aldas.md) 🔺
 - [Asztrál átok](magia.papi.varazslatok/asztral_atok.md) 🔺🔺
 - [Asztrálpillantás](magia.papi.varazslatok/asztralpillantas.md) 🔺🔺🔺
+- [Betegség, gyógyítás](magia.papi.varazslatok/betegseg_gyogyitasa.md) 🔺🔺
 - [Élelemteremtés](magia.papi.varazslatok/elelemteremtes.md)
 - [Engedelmesség - állatok](magia.papi.varazslatok/engedelmesseg_allatok.md) 🔺
 - [Engedelmesség - növények](magia.papi.varazslatok/engedelmesseg_novenyek.md) 🔺
@@ -13,6 +14,7 @@
 - [Időjárás befolyásolása](magia.papi.varazslatok/idojaras_befolyasolasa.md)
 - [Kárhozott szellem megváltása](magia.papi.varazslatok/karhozott.szellem.megvaltasa.md) 🔺
 - [Lelki szenvedés enyhítése](magia.papi.varazslatok/lelki_szenvedes_enyhitese.md)
+- [Méregsemlegesítés](magia.papi.varazslatok/meregsemlegesites.md) 🔺🔺
 - [Regeneráció](magia.papi.varazslatok/regeneracio.md)
 - [Sebgyógyítás](magia.papi.varazslatok/sebgyogyitas.md) 🔺
 - [Szent fegyver](magia.papi.varazslatok/szent_fegyver.md)
