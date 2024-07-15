@@ -26,7 +26,7 @@
 ---
 ##### Hatás
 
-Sötét fellegek gyűlnek a semmiből, majd lecsap belőlük egy villám, amely a kívánt célhelytől `k100` méterre talál be. 
+Sötét fellegek gyűlnek a semmiből, majd lecsap belőlük egy villám, amely a kívánt célhelytől változó távolságra talál be. Lásd fenn.
 
 ---
 ##### Szabályok
