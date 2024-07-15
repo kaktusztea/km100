@@ -31,6 +31,8 @@ Sötét fellegek gyűlnek a semmiből, majd lecsap belőlük egy villám, amely 
 ---
 ##### Szabályok
 
+A villám ennyi idő múlva csap le: ⭕3 - 2 -1  kör⭕
+
 A villám direkt sebzése `k20+30 SP`. Minden méter a becsapódástól `1-el` csökkenti az `SP` értéket.
 
 A fémpáncél vonzza a villámot, az ilyen célpontok esetén úgy kell számolni, mintha `10 méterrel` közelebb lennének a becsapódáshoz.

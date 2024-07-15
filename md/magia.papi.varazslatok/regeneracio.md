@@ -2,9 +2,9 @@
 
 **Szféra**: Életerő
 
-**Varázslás ideje**: Harci **vagy** Folyamatos
+**Varázslás ideje**: 1. Harci **vagy** 2. Fenntartott
 
-**Hatótáv**: Közvetlen
+**Hatótáv**: 1. Érintés, 2. Közvetlen
 
 **Csoportosan**: működik
 
@@ -38,9 +38,9 @@ A varázslatot a Pap kétféleképpen alkalmazhatja:
 
 `1.` Érintéssel
 - Varázslás ideje: [Harci](../102_papi.magia.alapszabalyok.md#var%C3%A1zsl%C3%A1s-ideje)
-- a Pap a varázslat alanyát - 1 személyt - megérint és gyors fohásszal felruházza az óvó mágiával. Ez után szabadon tevékenykedhet tovább. 
+- A Pap a varázslat alanyát - 1 személyt - megérint és gyors fohásszal felruházza az óvó mágiával. Ez után szabadon tevékenykedhet tovább. 
 
 
-`2.` Egész csapatra - maximum `TSz` főre.
+`2.` Közvetlen: az egész csapatra - maximum `TSz` főre.
 - Varázslás ideje: [Folyamatos](../102_papi.magia.alapszabalyok.md#var%C3%A1zsl%C3%A1s-ideje)
-- amíg a Pap kántál, addig harcoló szövetségesei folyamatosan gyógyulnak. 
+- Amíg a Pap kántál, addig harcoló szövetségesei folyamatosan gyógyulnak. 
