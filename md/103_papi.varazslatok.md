@@ -17,7 +17,6 @@ Harci varázslat jelölése: 🗡️
 - [Evilági állat/lény idézése/szólítása](magia.papi.varazslatok/evilagi_leny_idezese_szolitasa.md)
 - [Feltámasztás](magia.papi.varazslatok/feltamasztas.md)
 - [Gólem teremtése](magia.papi.varazslatok/golem_teremtese.md) 🔺🔺🔺
-- [Gyógyító tűz](magia.papi.varazslatok/gyogyito_tuz.md) 🔺
 - [Holtak megelevenítése](magia.papi.varazslatok/holtak_megelevenitese.md) 🗡️ 🔺🔺
 - [Időjárás befolyásolása](magia.papi.varazslatok/idojaras_befolyasolasa.md)
 - [Kárhozott szellem megváltása](magia.papi.varazslatok/karhozott.szellem.megvaltasa.md) 🔺
@@ -36,5 +35,19 @@ Harci varázslat jelölése: 🗡️
 ### Arel pap varázslatai
 
 - [Állathoz hasonulás](magia.papi.varazslatok/arel/allathoz.hasonulas.md)
-- [Szent fegyver - Arel](magia.papi.varazslatok/arel/szent_fegyver_arel.md)
+- [Szent fegyver - Arel](magia.papi.varazslatok/arel/szent_fegyver_arel.md) 🗡️
 - [Sólyomalak](magia.papi.varazslatok/arel/solyomalak.md)
+
+### Domvik pap varázslatai
+
+- [1. arc: "Az Élet teremtője"](magia.papi.varazslatok/domvik/1_arc_az_elet_teremtoje.md)
+- 2. arc: "A Hit védelmezője"
+- 3. arc: "A jóság forrása"
+- 4. arc: "A Gyógyító"
+- 5. arc: "A Tanító"
+- 6. arc: "Az Eretnekek ostora"
+- 7. arc: "A Fekete Angyal"
+
+### Sogron pap varázslatai
+
+- [Gyógyító tűz](magia.papi.varazslatok/gyogyito_tuz.md) 🔺
