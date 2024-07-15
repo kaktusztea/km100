@@ -15,7 +15,7 @@
 ---
 ##### Hatás
 
-A Pap egy hosszú rituálé keretében visszahívja a halott lelket a kárpiton túlról és az újra életre kel.
+A Pap egy hosszú rituálé keretében visszahívja a halott lelket a kárpiton túlról és az régi testben újra életre kel.
 
 ---
 ##### Szabályok
