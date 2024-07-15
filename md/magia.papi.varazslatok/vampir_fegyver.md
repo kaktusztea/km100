@@ -24,7 +24,7 @@ A Pap érintésére az általa megérintett fegyver különleges képességre te
 ---
 ##### Szabályok
 
-Követelmény: halál jellemű istenek papjai alkalmazhatják csak.
+Követelmény: csak halál jellemű istenek papjai alkalmazhatják.
 
 Az áldozaton a varázslat nem okoz további sebződést.
 
