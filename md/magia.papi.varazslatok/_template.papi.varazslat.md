@@ -29,4 +29,4 @@ lorem
 ---
 ##### Szabályok
 
-- ipsum
+ipsum
