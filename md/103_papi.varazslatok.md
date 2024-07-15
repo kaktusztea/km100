@@ -9,6 +9,7 @@
 - [Betegség gyógyítása](magia.papi.varazslatok/betegseg_gyogyitasa.md) 🔺🔺
 - [Élelemteremtés](magia.papi.varazslatok/elelemteremtes.md)
 - [Életerő szipolyozása, átadása](magia.papi.varazslatok/eletero_szipolyozasa_atadasa.md)🔺🔺
+- [Élőholt teremtése](magia.papi.varazslatok/eloholt_teremtese.md)
 - [Engedelmesség - állatok](magia.papi.varazslatok/engedelmesseg_allatok.md) 🔺
 - [Engedelmesség - növények](magia.papi.varazslatok/engedelmesseg_novenyek.md) 🔺
 - [Evilági állat/lény idézése/szólítása](magia.papi.varazslatok/evilagi_leny_idezese_szolitasa.md)
