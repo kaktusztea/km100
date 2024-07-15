@@ -16,6 +16,7 @@
 - [Feltámasztás](magia.papi.varazslatok/feltamasztas.md)
 - [Gólem teremtése](magia.papi.varazslatok/golem_teremtese.md) 🔺🔺🔺
 - [Gyógyító tűz](magia.papi.varazslatok/gyogyito_tuz.md) 🔺
+- [Holtak megelevenítése](magia.papi.varazslatok/holtak_megelevenitese.md) 🔺🔺
 - [Időjárás befolyásolása](magia.papi.varazslatok/idojaras_befolyasolasa.md)
 - [Kárhozott szellem megváltása](magia.papi.varazslatok/karhozott.szellem.megvaltasa.md) 🔺
 - [Lelki szenvedés enyhítése](magia.papi.varazslatok/lelki_szenvedes_enyhitese.md)
