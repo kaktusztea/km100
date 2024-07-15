@@ -5,7 +5,7 @@
 - [Áldás](magia.papi.varazslatok/aldas.md) 🔺
 - [Asztrál átok](magia.papi.varazslatok/asztral_atok.md) 🔺🔺
 - [Asztrálpillantás](magia.papi.varazslatok/asztralpillantas.md) 🔺🔺🔺
-- [Betegség, gyógyítás](magia.papi.varazslatok/betegseg_gyogyitasa.md) 🔺🔺
+- [Betegség gyógyítása](magia.papi.varazslatok/betegseg_gyogyitasa.md) 🔺🔺
 - [Élelemteremtés](magia.papi.varazslatok/elelemteremtes.md)
 - [Életerő szipolyozása, átadása](magia.papi.varazslatok/eletero_szipolyozasa_atadasa.md)🔺🔺
 - [Engedelmesség - állatok](magia.papi.varazslatok/engedelmesseg_allatok.md) 🔺
