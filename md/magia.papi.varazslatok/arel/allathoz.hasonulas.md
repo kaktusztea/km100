@@ -21,7 +21,7 @@
 Arelnek kedves állatok képességeivel ruházhatja fel a pap saját magát, vagy egy kijelölt, szövetséges, baráti személyt.
 
 - Sólyomlátás: távolabbra és élesebben látsz
-- Szarvasugrás: nagyobbat tudsz ugrani és leérkezni
+- Szarvasugrás: nagyobbat tudsz ugrani és magasabbról biztonságban leérkezni (esni)
 
 ---
 ##### Szabályok
