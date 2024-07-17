@@ -44,9 +44,9 @@ Harci varázslat jelölése: 🗡️
 - [2. arc: "A Hit védelmezője"](magia.papi.varazslatok/domvik/2_arc_a_hit_vedelmezoje.md)
 - [3. arc: "A jóság forrása"](magia.papi.varazslatok/domvik/3_arc_a_josag_forrasa.md)
 - [4. arc: "A Gyógyító"](magia.papi.varazslatok/domvik/4_arc_a_gyogyito.md)
-- 5. arc: "A Tanító"
-- 6. arc: "Az Eretnekek ostora"
-- 7. arc: "A Fekete Angyal"
+- `5. arc`: "A Tanító"
+- `6. arc`: "Az Eretnekek ostora"
+- `7. arc`: "A Fekete Angyal"
 
 ### Sogron pap varázslatai
 
