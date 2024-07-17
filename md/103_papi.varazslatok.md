@@ -42,7 +42,7 @@ Harci varázslat jelölése: 🗡️
 
 - [1. arc: "Az Élet teremtője"](magia.papi.varazslatok/domvik/1_arc_az_elet_teremtoje.md)
 - [2. arc: "A Hit védelmezője"](magia.papi.varazslatok/domvik/2_arc_a_hit_vedelmezoje.md)
-- 3. arc: "A jóság forrása"
+- [3. arc: "A jóság forrása"](magia.papi.varazslatok/domvik/3_arc_a_josag_forrasa.md)
 - 4. arc: "A Gyógyító"
 - 5. arc: "A Tanító"
 - 6. arc: "Az Eretnekek ostora"

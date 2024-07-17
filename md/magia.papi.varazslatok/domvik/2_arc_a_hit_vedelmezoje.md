@@ -25,7 +25,7 @@
 A Pap Asztrális és Mentális behatások ellen nyújt védelmet maga, vagy szövetségesei számára.
 
 ```
-Bónusz == Kisszféra x 2 ⭕
+Bónusz = Kisszféra x 2 ⭕
 ```
 
 ---
