@@ -2,7 +2,9 @@
 
 ⚜️ [Nyitóoldal](start.md)
 
-Harci varázslat jelölése: 🗡️
+Itt találhatjuk az összes, a rendszerben játszható pap varázslatainak lsitáját. A Harci varázslatokat 🗡️ szimbólummal jelöltük.
+
+### Általános pap varázslatok
 
 - [Áldás](magia.papi.varazslatok/aldas.md) 🔺
 - [Asztrál átok](magia.papi.varazslatok/asztral_atok.md) 🔺🔺
