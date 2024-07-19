@@ -4,7 +4,7 @@
 
 **Varázslás ideje**: Harci, Fenntartott, Nyugalmi, Ceremoniális⭕
 
-**Hatótáv**: Érintés, Közvetlen, Tömeg⭕
+**Hatótáv**: Önmaga, Érintés, Közvetlen, Tömeg⭕
 
 **Csoportosan**: működik  ⭕törölni, ha nem⭕
 
