@@ -8,7 +8,7 @@
 
 ##### Kisszféra
 
-A Kisszéfra szintek hatásait lásd a lent említett 2 varázslatnál.
+A Kisszféra szintek hatásait lásd a lent említett 2 varázslatnál.
 
 ---
 ##### Hatás
