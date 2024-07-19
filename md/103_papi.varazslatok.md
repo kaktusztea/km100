@@ -47,7 +47,7 @@ Itt találhatjuk az összes, a rendszerben játszható pap varázslatainak lsit�
 - [3. arc: "A jóság forrása"](magia.papi.varazslatok/domvik/3_arc_a_josag_forrasa.md)
 - [4. arc: "A Gyógyító"](magia.papi.varazslatok/domvik/4_arc_a_gyogyito.md)
 - [5. arc: "A Tanító"](magia.papi.varazslatok/domvik/5_arc_a_tanito.md)
-- `6. arc`: "Az Eretnekek ostora"
+- [6. arc: "Az Eretnekek ostora"](magia.papi.varazslatok/domvik/6_arc_az_eretnekek_ostora.md)
 - `7. arc`: "A Fekete Angyal"
 
 ### Sogron pap varázslatai
