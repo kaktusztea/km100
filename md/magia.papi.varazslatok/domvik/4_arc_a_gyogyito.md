@@ -13,7 +13,7 @@ A Kisszéfra szintek hatásait lásd a lent említett 2 varázslatnál.
 ---
 ##### Hatás
 
-Domvik papja egyszerre, egyben képes a [Sebgyógyítás](../sebgyogyitas.md) és a [Betegség gyógyítása](../betegseg_gyogyitasa.md) varázslatokat alkalmazni, továbbá nem szükséges érintés hozzá, a Közvetlen környezetben levőcélpont is lehet alanya a mágiának.
+Domvik papja egyszerre, egyben képes a [Sebgyógyítás](../sebgyogyitas.md) és a [Betegség gyógyítása](../betegseg_gyogyitasa.md) varázslatokat alkalmazni, továbbá nem szükséges érintés hozzá, a közvetlen környezetben levő célpont is lehet alanya a mágiának.
 
 ---
 ##### Szabályok
