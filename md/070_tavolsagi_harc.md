@@ -355,7 +355,8 @@ CÉ = -30 (Konstans) + 6 (Önuralom 2x) + 16 (nyílpuska) +15 (CM) + 4 (lövész
 $$ VÉ = {5(lassan\ mozgó)+0(normál\ méret)+0(jól\ látható)}\ x\ {15(távolság)\over 4(nyílpuska\ osztója)}$$
 
 
-Az osztásnál felfelé kell kerekíteni, de erre most nincs is szükség. A Cellaszám `4`.
+Az osztásnál felfelé kell kerekíteni, 15/4 → Cellaszám `4`.
+
 ```
 VÉ = 5x4 = 20
 ```
