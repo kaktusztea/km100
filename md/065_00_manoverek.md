@@ -6,9 +6,13 @@ A km100 harcrendszere lehetőséget ad rá, hogy a karakter harc közben ilyen s
 
 Vannak olyan manőverek is, melyek csak adott fegyverre, vagy harcmodorra jellemzőek, de a legtöbb szabadon, bárki által alkalmazható, amennyiben teljesíti a végbevitel követelményeit. A Manőverek fejlesztését Manőver-ismereteknek nevezzük és pontokba kerülnek. Lásd a "Manőver szabályok" fejezetet.
 
+
 - [Manőver szabályok](065_01_manover_szabalyok.md)
 - [Manőver végbevitele](065_02_manover_vegbevitele.md)
-- [Általános Manőverek](065_03_altalanos_manoverek.md)
-- [Belharcos Manőverek](065_04_belharcos_manoverek.md)
-- [Lovas Manőverek](065_05_lovas_manoverek.md)
-- [Példa Manőver alkalmazására](065_06_pelda_manover_alkalmazasara.md)
+- [Példák Manőver alkalmazására](065_06_pelda_manover_alkalmazasara.md)
+
+&#8203;
+
+- [Általános Manőverek](065_03_altalanos_manoverek.md) 🗡️
+- [Belharcos Manőverek](065_04_belharcos_manoverek.md) 🗡️
+- [Lovas Manőverek](065_05_lovas_manoverek.md) 🗡️
