@@ -11,7 +11,7 @@
 
 ## Másodlagos karakterlapok
 
--  [ÉP, VÉ firkálólap](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_EP_VE_firka.odt?raw=true)
+-  [ÉP, VÉ firkálólap](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_EP_VE_firka.pdf?raw=true)
 - NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2.odt?raw=true) • [odt 2 oldalas](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2_ketoldalas.odt) • [pdf](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2.pdf?raw=true)
 
 ## Gyors elérés
