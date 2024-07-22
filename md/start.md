@@ -8,6 +8,10 @@
 
 - **[Segédlet esszencia (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_ingame.pdf?raw=true)**
 - [Távharc segédlet (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_tavharc.pdf?raw=true)
+
+&#8203;
+
+-  [ÉP, VÉ frikálólap](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_EP_VE_firka.odt?raw=true)
 - NJK Karakterlap (v1.2)
   - [odt 1 oldalas](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2.odt?raw=true)
   - [odt 2 oldalas](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2_ketoldalas.odt)
