@@ -2,21 +2,19 @@
 
 ## Karakteralkotó
 
-**[JK Karakteralkotó v8.6.5 (ods)](https://github.com/kaktusztea/km100/raw/master/segedlet/karakteralkoto_v8.6.5.ods?raw=true)**
+**[JK Karakteralkotó v8.6.5 (ods)](https://github.com/kaktusztea/km100/raw/master/segedlet/karakteralkoto_v8.6.5.ods?raw=true)** &nbsp;&nbsp;- &nbsp;&nbsp;<!-- markdown-link-check-disable -->[LibreOffice ⬇️](https://www.libreoffice.org/download/download/)<!-- markdown-link-check-enable --> 
 
-## Segédletek, gyakori oldalak
+## Segédletek
 
 - **[Segédlet esszencia (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_ingame.pdf?raw=true)**
 - [Távharc segédlet (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_tavharc.pdf?raw=true)
 
-&#8203;
+## Másodlagos karakterlapok
 
--  [ÉP, VÉ frikálólap](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_EP_VE_firka.odt?raw=true)
-- NJK Karakterlap (v1.2)
-  - [odt 1 oldalas](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2.odt?raw=true)
-  - [odt 2 oldalas](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2_ketoldalas.odt)
-  - [pdf](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2.pdf?raw=true)
-- &#8203;<!-- markdown-link-check-disable -->[LibreOffice letöltése ⬇️](https://www.libreoffice.org/download/download/)<!-- markdown-link-check-enable --> 
+-  [ÉP, VÉ firkálólap](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_EP_VE_firka.odt?raw=true)
+- NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2.odt?raw=true) • [odt 2 oldalas](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2_ketoldalas.odt) • [pdf](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2.pdf?raw=true)
+
+## Gyors elérés
 
 [Képzettséglista](031_kepzettseglista.md) &nbsp;-&nbsp; [Fortélyok](040_fortelyok.md) &nbsp;-&nbsp; [Szabad Hátterek](023_szabad_hatterek.md)
 
