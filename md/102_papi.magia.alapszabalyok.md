@@ -64,6 +64,17 @@ Papi Mágia Akarata
  = (2x TSz) + AuraErő
 ```
 
+#### Kegy pontok
+```
+1 Kegy pont
+  → +3 Átütés az adott varázslatra
+```
+
+Kaland során lehet gyűjteni ilyen pontokat, értékük a kaland (nem játékalkalom!) elején nullázódik. Ha a pap istenének tetsző, kiemelkedő cselekedetet tesz, kap egy ilyen pontot. Ez lehet csak egy nagyon hangulatos, szerepjátékban kiemelkedő jelenet, de konkrét cselekedet is, amely elnyeri a játékos istenének tetszését. Bánjunk ezzel csínyján KM-ként, ne dobáljuk csak úgy, legyen meg a súlya.
+
+A Kegy pontokat a varázslatok **Átütésének** egyszeri erősítésére lehet felhasználni - varázslatonként maximum 1 pontot.
+
+
 ---
 ### Papi mágia kísérőjelenségei
 
