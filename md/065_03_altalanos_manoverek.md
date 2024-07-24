@@ -250,7 +250,7 @@ Nem támadsz, hanem ⭕TODO⭕
 - Végbevitel követelménye: Aktuális harcmodor - ⭕`6.szint`⭕
 - Speciális:
 	- Alkalmazható egyszerre, csoportosan is.
-	- Csoportot terelni nehezebb. Ilyenkor emelkedik a a nehézség (KM dönt).
+	- Csoportot terelni nehezebb. Ilyenkor emelkedik a nehézség (KM dönt).
 - Nehézség🍁: Harci alakzatban használva jelentősen csökkenthetik a nehézséget. Az alakzatok jellemzőit ismerve a KM dönt `[-4;+2]`. Ez csökkenheti a végbevitel harcmodor követelményét is.
 - Hatás: arra tereli az ellenfelet, amerre akarja. Hátrálásnál nem kell használni, az megy magától!
 
