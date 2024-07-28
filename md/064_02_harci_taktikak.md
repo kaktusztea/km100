@@ -158,7 +158,9 @@ Továbbá pár manőver könnyebbé válik Belharci szituációban: [Gáncsolás
 
 #### Belharcba kerülés manőver
 
-A Belharci szituációba kerüléshez ezt a manővert kell sikerrel végrehajtani. Nehézsége alapesetben `9`-es, de fejleszthető (`2 fokkal`). ⭕Csak Közelharc harcmodor alkalmazása közben lehet megpróbálni.⭕ Bővebben lásd a [manőver leírását](065_03_altalanos_manoverek.md#belharcba-ker%C3%BCl%C3%A9s).
+A Belharci szituációba kerüléshez ezt a (fejleszthető) manővert kell sikerrel végrehajtani. Csak Közelharc harcmodor alkalmazása közben lehet megpróbálni.
+
+Bővebben lásd a [manőver leírását](065_03_altalanos_manoverek.md#belharcba-ker%C3%BCl%C3%A9s).
 
 #### Kibontakozás/Átsiklás manőver
 
