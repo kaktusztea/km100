@@ -4,18 +4,7 @@
 
 ## Mágia alapszabályok
 
-### Varázslások száma
 
-→ Az [Éles anyag](https://github.com/kaktusztea/km100/blob/master/md/063_02_tamadasok_szama__akcio__mozgas.md) nagy része megvan, itt a bizonytalan részek kitárgyalását végezzük.
-
-Egyes formuláknak lehetne extra Sebesség költsége, ahova ez van írva:
-- "Sebesség-bünti": +X   VAGY
-- "Non-combat / ceremoniális": harcban nem is lehet
-- valami rendes nevet kitalálni a fenti kettőre (Sebesseg-teher?, Plusz Sebesség?)
-- ez statikusan hozzáadódna a formula-sebességhez
-<br />
-
----
 ### Tradíciók
 
 - **Átfogó** primer képzettség (`TSz` határig növelhető)
@@ -195,7 +184,10 @@ Fénymágia - Mozgó Illúzió
 → komplexitása: 14. szint (próba: 4 + Tulajdonség + k10   vs.  célszám: 14)
 (ez elég kockázatos)
 ```
-  
+
+### Varázslások száma
+
+[Lásd a STUDY oldalt](https://github.com/kaktusztea/km100/wiki/STUDY.magia.alapszabalyok#var%C3%A1zsl%C3%A1sok-sz%C3%A1ma)
 
 ---
 ### Varázslás utáni kimerülés - Rizikó varázslatnál
