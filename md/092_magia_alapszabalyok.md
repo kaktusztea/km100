@@ -13,7 +13,7 @@
 - `6.` szintű Tradíciótól (Metamágiától)
   - innentől lehet elkezdeni varázsolni egyáltalán, ez a feltétele a mágiaiskolák `3.` szintjének is
   - tehát a karakter 3. tapasztalati szintjén lehet először varázsolni
-  - megállhatsz `6.` szinten. Ami feljebb van, azok a metamágia spécijei. Lásd [ott](./STUDY.magia.metamagia).
+  - megállhatsz `6.` szinten. Ami feljebb van, azok a metamágia spécijei. Lásd [ott](https://github.com/kaktusztea/km100/wiki/STUDY.magia.metamagia).
   - egyes metamágia formulákat szétszórhatjuk biztos tudás szintek közé
   - `6.` szinten:
     - Leplezés
