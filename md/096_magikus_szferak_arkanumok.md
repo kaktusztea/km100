@@ -7,10 +7,10 @@
 ⭕TODO⭕: Az egyes Szférák rövid leírása mindegyik alatt.
 
 ---
-### Mágia szféra
+### Belső szféra
 
-- [Mana](magia.arkanumok/mana.md)
-- [Aura/Pszí](magia.arkanumok/aura_pszi.md)
+- [Aura](Aurafejlesztés)
+- [Pszí](magia.arkanumok/aura_pszi.md)
 
 ---
 ### Anyag szféra
@@ -85,5 +85,5 @@
 
 Ez a teremtés szférája. Csak az istenek rendelkeznek vele, halandó nem ismerheti.
 
-- Élet Princípiumának a megteremtése
-- Lélekcsíra megteremtése
+- Élet Princípiumának a megteremtése, Lélekcsíra megteremtése
+- Mágia/Metamágia, [Mana](magia.arkanumok/mana.md)
