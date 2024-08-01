@@ -29,7 +29,7 @@ Milyen Tradíciókat ismer a km100 rendszere?
     - Erdei törzsi sámánok
     - Ork sámán
     - Rituális mágia
-  - [Drágakőmágia](051_08_dragakomagia.md)
+- [Drágakőmágia](051_08_dragakomagia.md)
 - [Papi tradíciók](052_papi_tradicio.md)
 - [Szellemi Tradíciók](053_00_szellemi_tradiciok.md)
   - [Slan Tradíció](053_01_slan_tradicio.md)
