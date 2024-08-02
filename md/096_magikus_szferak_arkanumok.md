@@ -83,7 +83,7 @@
 ---
 ### Titkos Szféra
 
-Ez a teremtés szférája. Csak az istenek rendelkeznek vele, halandó nem ismerheti.
+Ez a teremtés és mágia szférája. 
 
-- Élet Princípiumának a megteremtése, Lélekcsíra megteremtése
+- Élet Princípiumának a megteremtése, Lélekcsíra megteremtése: csak az istenek rendelkeznek vele, halandó nem ismerheti.
 - Mágia/Metamágia, [Mana](magia.arkanumok/mana.md)
