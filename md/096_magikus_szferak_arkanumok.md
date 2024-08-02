@@ -9,8 +9,8 @@
 ---
 ### Belső szféra
 
-- [Aura](Aurafejlesztés)
-- [Pszí](magia.arkanumok/aura_pszi.md)
+- [Aura](kepzettsegek/aurafejlesztes.md) - azonos az Aurafejlesztés képzettséggel
+- [Pszí](kepzettsegek/pszi_iskola.md) - azonosa a Pszí iskola képzettséggel
 
 ---
 ### Anyag szféra
