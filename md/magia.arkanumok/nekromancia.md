@@ -1,13 +1,7 @@
-## Nekromancia
+## Nekromancia arkánum
 
 Az **Életerő** szféra alá tartozó arkánum.
 
-### Betegségmágia
-
-Rontás módszerrel.
-
-
----
 ### Élőholtak manipulálása
 
 ```
@@ -45,8 +39,6 @@ A holttest állapotától függő módosítók:
 
 Ha nem komplett testre, hanem kisebb – akár önálló – testrészekre (darabokra) akar hatni a nekromanta, akkor szintén „kedvezményekben” részesül:
 
-  
-
 | **Szint módosító** | **Testrész**     |
 |:------------------:| ---------------- |
 |         -3         | Ujj              |
@@ -56,20 +48,17 @@ Ha nem komplett testre, hanem kisebb – akár önálló – testrészekre (dara
 |         +1         | Gorg méretű test |
 
 ---
-
 ### Foltozás
 
 Ez a formula a halott szövet összekapcsolására való. Itt is megmutatkozik az erős szemita jelleg, hisz minden egy konkrét, specializált cél érdekében történik.
 
 A sikeres varázslathoz [Élettan](../fortelyok.altalanos/elettan.md) fortély 2. fok szükséges.
 
-
 ```
 Nehézsége:               (a varázslat szintje) x 10%
 Esély a transzmutációra: ??% ⭕TODO: Képlet⭕
 ```
   
-
 Képzetlenség esetén a varázslat nem alkalmazható. Legalább `15%`-os szint elérése szükséges hozzá.
 
 | **Szint** | **Milyen fokú foltozást kíván elérni a varázsló?**                                                                              |
@@ -80,5 +69,3 @@ Képzetlenség esetén a varázslat nem alkalmazható. Legalább `15%`-os szint 
 |     5     | Zúzott, tört csontok illenek össze roppanva, szanaszét szakadt inak találkoznak kígyózva ismét, a szétszabdalt izom megint egy. |
 |     6     | Szilánkosan tört csontok, foszló hús kapcsolódik ismét együvé                                                                   |
 |    10     | Apró darabokra zúzott test egyesítése (Kb. 2-5 perc)                                                                            |
-
----
