@@ -45,17 +45,19 @@
 ---
 ### Életerő szféra (élet-halál)
 
-- [Gyógyítás](magia.arkanumok/gyogyitas.md)
-  - Sebgyógyítás
-  - Isteni Életerő átadása (KT átalakítása ÉP-vé rögtön)
-  - Betegségek gyógyítása
-  - Méregsemlegesítés
-  - Fiatalítás
-  - Lelki szenvedés enyhítése
-  - Rontáslevétel
-  - Termékenységi Mágia
+- [Életerő manipulálása](magia.arkanumok/eletero.manipulalasa.md)
+  - Gyógyítás
+    - Sebgyógyítás
+    - Isteni Életerő átadása (KT átalakítása ÉP-vé rögtön)
+    - Betegségek gyógyítása
+    - Méregsemlegesítés
+    - Fiatalítás
+    - Lelki szenvedés enyhítése
+    - Rontáslevétel
+    - Termékenységi Mágia
+  - Rontások
+  - Betegségek
 - [Nekromancia](magia.arkanumok/nekromancia.md)
-  - Betegségmágia
   - Élőholtak manipulálása
 
 ---
@@ -86,4 +88,4 @@
 Ez a teremtés és mágia szférája. 
 
 - Élet Princípiumának a megteremtése, Lélekcsíra megteremtése: csak az istenek rendelkeznek vele, halandó nem ismerheti.
-- Mágia/Metamágia, [Mana](magia.arkanumok/mana.md)
+- [Metamágia](magia.arkanumok/metamagia.md)

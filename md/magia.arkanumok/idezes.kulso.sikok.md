@@ -1,4 +1,4 @@
-## Külső síkok lényeinek idézése
+## Külső síkok lényeinek idézése arkánum
 
 Az **Idézés** szféra alá tartozó arkánum.
 

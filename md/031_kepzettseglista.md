@@ -152,11 +152,11 @@ Az aktív előadást igénylő művészeteket szeparáltuk az **Előadóművész
 ---
 ## Mágikus Szférák és Arkánumaik 🅿️
 
-### Mágia Szféra
+### Belső Szféra
 
-🔵[Mana](magia.arkanumok/mana.md)
+→ **Aura** arkánum, amely azonos az [Aurafejlesztés](kepzettsegek/aurafejlesztes.md) képzettséggel
 
-🔵[Aura/Pszí](magia.arkanumok/aura_pszi.md)
+→ **Pszí** arkánum, amely azonos a [Pszí iskola](kepzettsegek/pszi_iskola.md) képzettséggel
 
 ### Anyag szféra
 
@@ -184,7 +184,7 @@ Az aktív előadást igénylő művészeteket szeparáltuk az **Előadóművész
 
 ### Életerő szféra
 
-🔵[Gyógyítás](magia.arkanumok/gyogyitas.md)
+🔵[Életerő Manipulálása](magia.arkanumok/eletero.manipulalasa.md)
 
 🔵[Nekromancia](magia.arkanumok/nekromancia.md)  <sup><sub>(15%)</sub></sup>
 
@@ -202,7 +202,9 @@ Az aktív előadást igénylő művészeteket szeparáltuk az **Előadóművész
 
 ### Titkos Szféra
 
-Nincs halandó számára elérhető Arkánum
+→ Élet Princípiumának a megteremtése, Lélekcsíra megteremtése: csak az istenek rendelkeznek vele, halandó nem ismerheti.
+
+→ [Metamágia](magia.arkanumok/metamagia.md) arkánum, amely a [Mágia Tradíciók](051_00_magia_tradiciok.md) tanulása által kapható meg, így nem kell külön képzettségként felvenni.
 
 ---
 ## Papi mágia 🅿️
