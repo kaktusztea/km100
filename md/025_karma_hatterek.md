@@ -91,7 +91,7 @@ A rengeteg gyilkosság megmérgezte a lelkedet, ha nem leplezed, Aurádon jól l
 ### 🟡 Hírhedt
 
 #### Követelmény
-zámos, nagy port kavart ügyben részt vettél, amiben neved, fizimiskád is említésre került.
+Számos, nagy port kavart ügyben részt vettél, amiben neved, fizimiskád is említésre került.
 
 #### Hatás
 Híred messze megelőz. Ha aktív tevékenységed környékén lófrálsz, jó esély van rá, hogy felismernek... és nem csak a rajongók. % dobás dönt, az esélyt a KM határozza meg.
