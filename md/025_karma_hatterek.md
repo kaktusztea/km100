@@ -120,9 +120,10 @@ Előtörténet, eddigi kalandok.
 #### Hatás
 Mágikus karma  
 Például:  
-• Esőben varázsló (30%)  
-• Tömegben varázsló (20%)  
-• stb  
+- Esőben varázsló (30%)  
+- Tömegben varázsló (20%)
+- Sötétben varázsló (100%) - egy titkos, elkorcsosult szekta, melynek tagjai vakok és csak sötétben képesek varázsolni
+- stb  
 lásd a Mágia fejezet ⭕**„Összhang karmák”** fejezetét!⭕
 
 <br />
