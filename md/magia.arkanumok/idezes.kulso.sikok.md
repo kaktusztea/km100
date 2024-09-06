@@ -1,5 +1,7 @@
 ## Külső síkok lényeinek idézése arkánum
 
+⭕TODO: Szétbontani ezt Tradíciók szerint⭕
+
 Az **Idézés** szféra alá tartozó arkánum.
 
 - Demonológia
@@ -7,6 +9,22 @@ Az **Idézés** szféra alá tartozó arkánum.
 - Goécia
 - [Szeráfok, szerafisták](https://github.com/kaktusztea/km100/wiki/RAW.magia#szer%C3%A1fi-m%C3%A1gi%C3%A1k) ?
 - Isteni síkra távozott lelkek visszahívása (ez feketemágia)
+
+
+### Varázsló Demonológia
+⭕TODO⭕
+- átteleportálják a démont
+- asztral/mentallal kényszeríteni kell
+- asztral: 10
+- demonologia: 7
+- ekkor max olyan demonra tud asztralmagiazni, amire 7-es Asztralmagiaval hatni tudna
+
+
+### Vulgármágus
+⭕TODO⭕
+- síkkaput nyit
+- alkudozni kezd a démonnal
+
 
 
 ⭕Demónológiából átmozgatott anyag:

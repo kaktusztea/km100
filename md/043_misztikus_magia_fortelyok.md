@@ -27,3 +27,4 @@
 - [Maszkmágia](fortelyok.magia.modszerek/maszkmagia.md) 🔺
 - [Megkötés](fortelyok.magia.modszerek/megkotes.md) / ⭕titkos alkímia? (CX)⭕
 - [Rituális/Tánc mágia](fortelyok.magia.modszerek/ritualis_tanc.md) 🔺
+- [Szexuálmágia](fortelyok.magia.modszerek/szexualmagia.md)
