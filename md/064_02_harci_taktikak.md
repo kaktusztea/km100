@@ -12,7 +12,7 @@ A taktikák használatát kör elején, kezdeményezés előtt kell bejelenteni,
 | Kiváró taktika                                             | • Átengedett KÉ, cserébe első visszatámadásra `TÉ:+5`<br/>• Támadó taktikával együtt mehet, Védővel nem, több ellenfeles harcban sem.                                                                                                                                                                                                                                                                                                                                       |
 | Védekező harc                                              | `VÉ:+30`, ellenfeled csak `kiskockával` csökkenthet rajtad `VÉ`-t. Folyamatos hátrálás, nincs támadás, nem kombinálható más taktikával.                                                                                                                                                                                                                                                                                                                                     |
 | Fárasztás                                                  | • VÉ csökkentésre: `+2`<br/>• Sebzés helyett: nagykockás CÉ csökk + további `+10VÉ` csökkentés                                                                                                                                                                                                                                                                                                                                                                              |
-| Roham                                                      | • `TÉ:+20`, `VÉ:-40` (első oda-visszacsapáskor)<br/>• VÉ csökkentés duplázódik, Sebzéshez: `+5 SP`                                                                                                                                                                                                                                                                                                                                                                          |
+| Roham                                                      | • `TÉ:+20`, `VÉ:-40` (első oda-visszacsapáskor)<br/>• VÉ csökkentés duplázódik első oda-visszacsapásnál , Sebzéshez: `+5 SP`                                                                                                                                                                                                                                                                                                                                                |
 | Öngyilkos roham                                            | • `TÉ:+25`,`VÉ:-50` (első oda-visszacsapáskor)<br/>• VÉ csökkentés duplázódik, Sebzéshez: `+7 SP`<br/>• TÉ büntetések (sérülésből) nem érvényesek, max `2x` használható egy küzdelemben<br/>• Küzdelmenként legfeljebb 1x alkalmazható.                                                                                                                                                                                                                                     |
 | Belharci szituáció                                         | • Bekerülni: „Belharcba kerülés” manőverrel<br/>• Kijönni: „Kibontakozás” manőverrel<br/>• Mindenki a saját Harcmodorának módosítóival küzd<br/>• Belharc fortély bónuszai: `KÉ:+2`, `TÉ/VÉ:+3` fokonként. Csak **Közelharc** harcmodorban jár.<br/>• A `rövid (0)` pengénél nagyobb fegyverek értékei: `0`-ra esnek, sebzésük max: `+1 SP`,  „**Harckeret**” csökken `5`-el. **Erőbónusz** és **MF** fortély bónuszai maradnak.<br/>• Puszta kéz értékei `0`-ra emelkednek |
 | Támadás erőből                                             | A [Támadás erőből](fortelyok.harci/tamadas_erobol.md) fortélyt használod (lásd a leírását).                                                                                                                                                                                                                                                                                                                                                                                 |
@@ -112,7 +112,7 @@ Kapcsolódó fortély: [Fárasztás](fortelyok.harci/farasztas.md) harci fortél
 ---
 ### Roham
 
-Roham esetén az első oda- és visszacsapás során a támadó `TÉ:+20` és `VÉ:-40` módosítót kap, és `+5 SP` bónuszt sebzésdobására (`+1` sebzés kategória). Az okozott **VÉ csökkentés** duplázódik.
+Roham esetén az első oda- és visszacsapás során a támadó `TÉ:+20` és `VÉ:-40` módosítót kap, és `+5 SP` bónuszt sebzésdobására (`+1` sebzés kategória). Az okozott **VÉ csökkentés** duplázódik az első oda- és visszacsapásnál is.
 
 Ha roham során a karakter sebző támadást ér el, akkor a rohamozót sújtó **VÉ levonások** azonnal megszűnnek.
 
@@ -123,7 +123,7 @@ Rohamhoz legalább `5-10` méter nekifutás szükséges. Hogy pontosan mennyi, a
 Módosítók az első oda-vissza csapásnál:
 
 - `TÉ:+20`, `VÉ:-40`
-- VÉ csökkentés duplázódik
+- VÉ csökkentés duplázódik (oda-vissza)
 - Sebzés: `+5 SP`
 
 ---
