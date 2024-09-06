@@ -13,9 +13,14 @@ Max Mozgás egy körben =
 Egy karakter egy harci körön belül szabadon mozoghat maximum (`5 + Gyorsaság Tulajdonság`) mennyiségű métert anélkül, hogy elveszítene egyet is támadásaiból.
 
 ---
+### Mozgás a kör elején
+
+Ha a kört mozgással kezded, akkor utolsó helyre csúszol a [Kezdeményezésben](063_07_harc_menete_reszletes.md#kezdem%C3%A9nyez%C3%A9s).
+
+---
 ### Maximum mozgás egy körben
 
-Ha a karakter a `Max mozgás` távolságnál mindenképpen nagyobb távot akar megtenni egy körben és még 1 db támadást le is akar adni, akkor azt megteheti az alábbi megkötésekkel:
+Ha a karakter a `Max mozgás` távolságnál mindenképpen nagyobb távot akar megtenni egy körben és még `1 db` támadást le is akar adni, akkor azt megteheti az alábbi megkötésekkel:
 
 - Maximum táv: `Max mozgás x 2 (méterben)`
 - A körben nem lehet/lehetett ezen kívül más támadása
