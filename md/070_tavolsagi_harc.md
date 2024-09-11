@@ -15,8 +15,6 @@ A távolsági - lő- és hajítófegyverekkel - végzett harc során a védekez�
 - Ostromlövészet
 - Mágikus lövészet
 
-⭕TODO: Kifejteni. Íjászat és Lövészet **félképzetlen** kapcsolatban vannak egymással. TODO: Legyen ez?⭕
-
 <br />
 
 ---
