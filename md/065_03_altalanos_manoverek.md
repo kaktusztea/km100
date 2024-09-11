@@ -218,12 +218,13 @@ Szándékosan rongálod ellenfeled pajzsát, csökkentve annak Védő Értékét
 - **1. fok követelménye**: Aktuális harcmodor - `6.szint`
 - **2. fok követelménye**: Aktuális harcmodor - `9.szint`
 - Speciális:
-  - Végrehajtás (támadás) során **nem kapja meg a +20 TÉ módosítót**! Ha az Ellepróba fázis sikeres, sima támadást dobsz aktuális harcértékeiddel.
+  - **Végrehajtás** (támadás) során **nem kapja meg a +20 TÉ módosítót**! Ha az Ellenpróba fázis sikeres, sima támadást dobsz aktuális harcértékeiddel.
   - Meglepetés esetén is kell **Ellenpróbát** dobni
   - ⭕Fegyverfüggő Nehézség módosító:
     - alaphelyzet: egykezes kardvívó fegyverekkel
     - zúzófegyverekkel: `+2` Nehézség
     - Rapír/Tőrkard: `-2` Nehézség
+  - Alkalmazható [Roham](064_02_harci_taktikak.md#roham) alkalmazása esetén is `+2` Nehézséggel
 - Hatás: Az általad kiszemelt területre sikerül leadnod a támadásod. Sebezz, ahogy szoktál, a [Harci Anatómia](fortelyok.harci/harci_anatomia.md) fortély ismerete **SP** bónuszt adhat.
 
 
