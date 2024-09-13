@@ -92,8 +92,8 @@ A Szorzó a célpont Védő értékének kiszámolásában játszik szerepet. Az
 - Mozgás módosító (a célpont és a lövész mozgása is számít)
 - Méret módosító
 - Láthatóság módosító
-- Egyéb módosítók\
-  (Lővész mozgása, opcionálisan: Szél hatása\*, Szürkület\*, Célpont zajossága\* (sötétben))
+- Lővész mozgása
+- Opcionális: Szél hatása, Szürkület, Célpont zajossága (sötétben)
 
 ---
 #### Szorzó - Mozgás módosító
@@ -101,30 +101,28 @@ A Szorzó a célpont Védő értékének kiszámolásában játszik szerepet. Az
 Ha a célpont mozog, jóval nehezebb eltalálni. A távolság növekedésével ez a nehézség nem lineárisan, hanem exponenciálisan nő, éppen ezért érthető, hogy a mozgás is a Távolsági szorzó része. Alább az egyes mozgás típusokhoz tartozó módosítókat olvashatjuk.
 
 
-| Célpont mozgásának jellege | Módosító | Megjegyzés                                                                                                                                                                          |
-|:--------------------------:|:--------:| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|            Álló            |   `3x`   | A célpont mozdulatlan                                                                                                                                                               |
+| Célpont mozgásának jellege | Módosító | Megjegyzés                                                                                                                                                                      |
+| :------------------------: | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|            Álló            |   `3x`   | A célpont mozdulatlan                                                                                                                                                           |
 |     Lassú, egyenletes      |   `5x`   | Lassú séta, léptetés lovon.<br><br>⭕Többen harcolnak, bármelyik fél eltalálása jó. (Közéjük lövés)⭕<br><br>⭕(Vagy: 3x (álló), méret bónusz (-1/2x). Aztán k6, h kit talált el)⭕ |
-|     Gyors, egyenletes      |   `8x`   | Egyenletesen futó ember, vágtató lovas                                                                                                                                              |
-|      Kiszámíthatatlan      |  `15x`   | A célpont ugrál össze-vissza, cikk-cakkban fut.                                                                                                                                     |
-|      Harcoló célpont       |  `20x`   | Csak egy konkrét harcoló fél eltalálása jó.                                                                                                                                         |
+|     Gyors, egyenletes      |   `8x`   | Egyenletesen futó ember, vágtató lovas                                                                                                                                          |
+|      Kiszámíthatatlan      |  `15x`   | A célpont ugrál össze-vissza, cikk-cakkban fut.                                                                                                                                 |
+|      Harcoló célpont       |  `20x`   | Csak egy konkrét harcoló fél eltalálása jó.                                                                                                                                     |
 
 Természetesen a lövést végző személy mozgása is befolyásolja a találati esélyeket, hiszen könnyebb állva célozni, mint mondjuk futásból. A lövész mozgása az alábbiak szerint módosíthatja a **Szorzót**:
 
-
-| Lövész mozgása                     | Módosító  | Megjegyzés |
-| ---------------------------------- |:---------:| ---------- |
-| Mozdulatlan / Álló lövész          | `+0x`  ❔ |            |
-| A lövész lassan egyenletesen sétál | `+2x`  ❔ |            |
-| A lövész lassan fut                | `+5x`  ❔ |            |
-| A lövész rohan                     | `+10x` ❔ |            |
+| Lövész mozgása                     | Módosító | Megjegyzés |
+| ---------------------------------- | :------: | ---------- |
+| Mozdulatlan / Álló lövész          | `+0x` ⭕  |            |
+| A lövész lassan egyenletesen sétál | `+2x`  ⭕ |            |
+| A lövész lassan fut                | `+5x`  ⭕ |            |
+| A lövész rohan                     | `+10x` ⭕ |            |
 
 ---
 #### Szorzó - Méret módosító
 
-
 | Célpont mérete           | Módosító | Megjegyzés |
-| ------------------------ |:--------:| ---------- |
+| ------------------------ | :------: | ---------- |
 | Pénzérme                 |   +7x    |            |
 | Alma                     |   +5x    |            |
 | Fej, Dinnye, Macska      |   +4x    |            |
@@ -132,8 +130,8 @@ Természetesen a lövést végző személy mozgása is befolyásolja a találati
 | Átlagos ember/elf méretű |   +0x    |            |
 | Ló oldalról, Ogre        |   -1x    |            |
 | Lovas                    |   -2x    |            |
-| ⭕TODO⭕                 |          |            |
-| ⭕TODO⭕                 |          |            |
+| ⭕TODO⭕                   |          |            |
+| ⭕TODO⭕                   |          |            |
 
 → 🔺ISSUE: [Túl kicsi a fej szorzója](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.tavharc#l%C3%B6v%C3%A9szet-haj%C3%ADt%C3%A1s-kaland-tapasztalatok)
 
@@ -144,19 +142,17 @@ Természetesen a lövést végző személy mozgása is befolyásolja a találati
 
 A látási viszonyok erősen meghatározzák a távolsági harcot, hiszen például félhomályban sokkal nehezebb eltalálni valakit, mint fényes nappal. Viszont... könnyebb valakit eltalálni sötétben, ha zajt ad ki. Ezeknek megfelelően a fenti körülmények is módosítják a Szorzó értékét, viszont egy Vakharcban járatos személy számára kisebb levonásokat okoznak. A fentieket ebben a táblázatban foglalhatjuk össze.
 
-| A célpont láthatósága és hangossága                                                                            | Módosító képzetlenül | Módosító  <br>Vakharc – 1.fok | Módosító  <br>Vakharc – 2.fok* |
-| -------------------------------------------------------------------------------------------------------------- |:--------------------:|:-----------------------------:|:------------------------------:|
-| **Jól kivehető kontúr**<br>(Pl. nappali célpont; napnyugtakor háztetőn álldogáló célpont)                      |        `+0x`         |             `+0x`             |             `+0x`              |
-| **Homályos kontúr**  <br>(Pl. félhomályban mozgó alaké;<br>testközelben levő célpont sötétben)                 |        `+3x`         |             `+2x`             |             `+1x`              |
-| **Éppen kivehető kontúr (zajos)**  <br>(Pl. sötétben moccanó, neszező árnyak)                                  |        `+6x`         |             `+5x`             |             `+4x`              |
-| **Éppen kivehető kontúr (csendes)**  <br>(Pl. Sötétben, csendben lapuló árnyak)                                |        `+15x`        |            `+10x`             |             `+5x`              |
-| **Háttérrel egybeolvadó kontúr (zajos)**  <br>(Pl. vaksötétben harcoló ellenfél;  <br>távoli célpont sötétben) |       `+15x*`        |            `+10x`             |             `+5x`              |
-| **Háttérrel egybeolvadó kontúr (csendes)**  <br>(Pl. lopakodó, némán osonó fejvadász)                          | Szinte lehetetlen**  |           `+12x`**            |            `+7x**`             |
+| A célpont láthatósága és hangossága        | Módosító képzetlenül | Példa                                                           |
+| ------------------------------------------ | :------------------: | :-------------------------------------------------------------- |
+| **Jól kivehető kontúr**<br>                |        `+0x`         | Nappali célpont; napnyugtakor háztetőn álldogáló célpont        |
+| **Homályos kontúr**                        |        `+3x`         | Félhomályban mozgó alaké;<br>testközelben levő célpont sötétben |
+| **Éppen kivehető kontúr (zajos)**          |        `+6x`         | Sötétben moccanó, neszező árnyak                                |
+| **Éppen kivehető kontúr (csendes)**        |        `+15x`        | Sötétben, csendben lapuló árnyak                                |
+| **Háttérrel egybeolvadó kontúr (zajos)**   |       `+15x*`        | Vaksötétben harcoló ellenfél;  <br>távoli célpont sötétben      |
+| **Háttérrel egybeolvadó kontúr (csendes)** | Szinte lehetetlen**  | Lopakodó, némán osonó fejvadász                                 |
 
-\* Csak Hatodik Érzék diszciplínával\
+\* ⭕Csak Hatodik Érzék diszciplínával\
 \*\*A vaksötétben történő célzásról alább olvashatsz.
-
-→ 🔺ISSUE: [Vakharc számítson?](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.tavharc#szorz%C3%B3---l%C3%A1that%C3%B3s%C3%A1g-m%C3%B3dos%C3%ADt%C3%B3)
 
 ---
 #### 🔆 Szél hatása a Szorzóra – Opcionális szabály
