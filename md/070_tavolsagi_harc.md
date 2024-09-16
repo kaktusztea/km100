@@ -4,7 +4,20 @@
 
 → [TODO/ISSUE távharc](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.tavharc)
 
-A távolsági - lő- és hajítófegyverekkel - végzett harc során a védekező fél nem saját Védő Értékével vesz részt a harcban, ugyanolyan “céltárgynak” minősül, mint egy szalmabábú, vagy egy agyaggalamb. Ugyanakkor a célpont mozgásának jellege (lásd “Mozgás módosító" fejezetet) és a távolság erőteljesen befolyásolják a találat esélyeit. Lásd még: [Szándékos kitérés lövés elől](070_tavolsagi_harc.md#sz%C3%A1nd%C3%A9kos-kit%C3%A9r%C3%A9s-l%C3%B6v%C3%A9s-el%C5%91l) fejezetet. A támadó a távolsági harcban a **Célzó Értékét** használja, melynek megállapítása több tényezőtől függ.
+A távolsági lő- és hajítófegyverekkel végzett harc során a támadott fél nem saját Védő Értékével vesz részt a harcban, hanem ugyanolyan “céltárgynak” minősül, mint egy szalmabábú, vagy egy agyaggalamb. 
+Ugyanakkor az alábbiak befolyásolják a találat esélyeit:
+
+- Támadó Célzó Értéke
+- Használt fegyver
+- Célpont Távolsága
+- Célpont Mozgásának jellege
+- Célpont Mérete
+- Célpont Láthatósága, sötétben hangossága
+- Látási viszonyok
+- Szél hatása
+- Egyéb körülmények, fortély módosítók
+
+Lásd még: [Szándékos kitérés lövés elől](070_tavolsagi_harc.md#sz%C3%A1nd%C3%A9kos-kit%C3%A9r%C3%A9s-l%C3%B6v%C3%A9s-el%C5%91l) fejezetet. 
 
 ---
 ## Távolsági harcmodor képzettségek
@@ -20,11 +33,12 @@ A távolsági - lő- és hajítófegyverekkel - végzett harc során a védekez�
 ---
 ## Célzó Érték kiszámolása
 
-Mikor a támadó lövést, vagy hajítást végez, a Célzó Értékét állítja szembe a célpont távolsági Védő Értékével. A Célzó Érték kiszámolása a következőképpen történik.
+Mikor a támadó lövést, vagy hajítást végez, a Célzó Értékét állítja szembe a célpont távolsági Védő Értékével. A Célzó Érték kiszámolása a következőképpen történik - még karakteralkotási időben.
 
 ```
-Támadó CÉ = -30 + CM + Harcmodor CÉ + (2 x Önuralom/Erő) + Fegyver CÉ + Mf + K100
+Támadó CÉ = -30 + CM + Harcmodor CÉ + (2 x Önuralom/Erő) + Fegyver CÉ + Mf-bónusz
 ```
+
 
 Alapból mindenki konstans `-30`-as értékkel kezd, amihez hozzájönnek a **Célzó Harcérték** módosítók (`CM`), majd a karakter ⚪**Önuralom** VAGY ⚪**Erő** Tulajdonsága ([fegyvertől függ](#er%C5%91b%C5%91l--%C3%BCgyess%C3%A9gb%C5%91l-forgatott-fegyverek)), utána a fegyver egyedi CÉ-je, az esetlegesen, az adott fegyverre felvett **Mesterfegyver** fortélyból adódó bónusz (`CÉ:+3/fok`) és végül a `k100`-as dobásból adódó random érték.
 
@@ -40,9 +54,15 @@ Bővebben:
 |               Mf                | Mesterfegyver fortély után járó bónusz, amennyiben a használt fegyverre felvette a karakter. Fokonként `CÉ:+3` bónusz.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |             Célzás              | `CÉ:+10` módosító 1 célzással eltöltött kör után (nem additív)<br>`CÉ:⭕+20` [Képzett célzás](fortelyok.harci/kepzett_celzas.md) fortély megléte esetén. <br> 🔆Figyelem: íjnál csak 1 körig lehet kitartani!! 1 kör után nem jár bónusz és körönként `CÉ:-10` büntetés!                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |              Egyéb              | • Képzetlenségből adódó levonás: `CÉ:-40`<br>• Hirtelen lövés: `CÉ:-30`<br> • Az egyes [Fortélyokból](#fort%C3%A9lyok---t%C3%A1vols%C3%A1gi-harc) adódó bónuszok.<br><br> • Nem “belőtt” lőfegyver: `CÉ-30` (íjak) / `CÉ:-15` (nyílpuskák)<br> Ha a támadó most lő először a fegyverrel, akkor íjak esetében `CÉ:-30`, nyílpuskák használatánál pedig `CÉ:-15` módosító sújtja. Ha legalább fél órát töltött el a “belövéssel”, ez a módosító megszűnik. Egyébiránt a használat során folyamatosan tűnik el a hátrány (negyed óra után már csak `CÉ:-15` / `CÉ:-8` és így tovább).<br><br>• Álló cél "belövése" (gyakorlás) min. negyed órán át: `+10-30 CÉ` <br>• A fegyverek minősége befolyásolhatja azok Célzó értéket. |
-|             `k100`              | Dobás `K100`-al – támadó dobás esetén.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
 <br />
+
+---
+## (Célzott) Támadó dobás
+
+```
+CÉ + k100
+```
 
 ---
 ## Célpont Védő Értékének kiszámolása
@@ -57,11 +77,11 @@ Célpont VÉ = Szorzó  x  Cellaszám
 
 \-
 
-| **Szorzó** |                     | Univerzális szorzó, mely az alábbi módosítók összegéből (❗) áll                           |
-| ---------- | ------------------- | ------------------------------------------------------------------------------------------ |
-|            | Mozgás módosító     | A célpont mozgásának jellegéből adódó alap szorzó                                          |
-|            | Méret módosító      | A célpont méretéből adódó módosító                                                         |
-|            | Láthatóság módosító | A célpont láthatóságától és sötétben való zajosságától függő módosító                      |
+| **Szorzó** |                     | Univerzális szorzó, mely az alábbi módosítók összegéből (❗) áll                                   |
+| ---------- | ------------------- | ------------------------------------------------------------------------------------------------- |
+|            | Mozgás módosító     | A célpont mozgásának jellegéből adódó alap szorzó                                                 |
+|            | Méret módosító      | A célpont méretéből adódó módosító                                                                |
+|            | Láthatóság módosító | A célpont láthatóságától és sötétben való zajosságától függő módosító                             |
 |            | Egyéb módosítók     | Lővész mozgása,<br /> Szél hatása\*, Szürkület\*, Célpont zajossága* (sötétben)<br />\*Opcionális |
 
 \-
@@ -138,44 +158,37 @@ Természetesen a lövést végző személy mozgása is befolyásolja a találati
 → 🔺ISSUE: [Ha a szorzó 0-ra, vagy az alá csökkenne](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.tavharc#km100-c%C3%A9lz%C3%A1s-szorz%C3%B3).
 
 ---
-#### Szorzó - Láthatóság és hallhatóság módosító
+#### Szorzó - Láthatóság és hangosság módosító
 
-A látási viszonyok erősen meghatározzák a távolsági harcot, hiszen például félhomályban sokkal nehezebb eltalálni valakit, mint fényes nappal. Viszont... könnyebb valakit eltalálni sötétben, ha zajt ad ki. Ezeknek megfelelően a fenti körülmények is módosítják a Szorzó értékét, viszont egy Vakharcban járatos személy számára kisebb levonásokat okoznak. A fentieket ebben a táblázatban foglalhatjuk össze.
+A látási viszonyok erősen meghatározzák a távolsági harcot, hiszen például félhomályban sokkal nehezebb eltalálni valakit, mint fényes nappal. Viszont... könnyebb valakit eltalálni sötétben, ha zajt ad ki. Ezeknek megfelelően a fenti körülmények is módosítják a Szorzó értékét. A fentieket az alábbi táblázatokban foglalhatjuk össze.
 
-| A célpont láthatósága és hangossága        | Módosító képzetlenül | Példa                                                           |
-| ------------------------------------------ | :------------------: | :-------------------------------------------------------------- |
-| **Jól kivehető kontúr**<br>                |        `+0x`         | Nappali célpont; napnyugtakor háztetőn álldogáló célpont        |
-| **Homályos kontúr**                        |        `+3x`         | Félhomályban mozgó alaké;<br>testközelben levő célpont sötétben |
-| **Éppen kivehető kontúr (zajos)**          |        `+6x`         | Sötétben moccanó, neszező árnyak                                |
-| **Éppen kivehető kontúr (csendes)**        |        `+15x`        | Sötétben, csendben lapuló árnyak                                |
-| **Háttérrel egybeolvadó kontúr (zajos)**   |       `+15x*`        | Vaksötétben harcoló ellenfél;  <br>távoli célpont sötétben      |
-| **Háttérrel egybeolvadó kontúr (csendes)** | Szinte lehetetlen**  | Lopakodó, némán osonó fejvadász                                 |
-
-\* ⭕Csak Hatodik Érzék diszciplínával\
-\*\*A vaksötétben történő célzásról alább olvashatsz.
-
----
-#### 🔆 Szél hatása a Szorzóra – Opcionális szabály
-
-További opcionális szabály: amennyiben rendkívül erős szél fúj, akkor az is módosíthatja a célpont Védő Értékét, mivel az erős széllökések eltéríthetik a lövedéket.
+| Környezeti fényviszonyok | Szorzó Módosító |
+| ------------------------ | :-------------: |
+| Szürkületben             |      `+2x`      |
+Szürkületben nehezebb a távolság becslése.
 
 
-| Szél ereje          |  Szorzó módosító   |
-| ------------------- |:------------------:|
-| Nagyon erős szélben |        +4x         |
-| Viharos szélben     |        +8x         |
-| Orkán erejű szélben | A lövés lehetetlen |
+| A célpont láthatósága és hangossága        |            Szorzó Módosító            | Példa                                                           |
+| ------------------------------------------ | :-----------------------------------: | :-------------------------------------------------------------- |
+| **Jól kivehető kontúr**<br>                |                 `+0x`                 | Nappali célpont; napnyugtakor háztetőn álldogáló célpont        |
+| **Homályos kontúr**                        |                 `+3x`                 | Félhomályban mozgó alaké;<br>testközelben levő célpont sötétben |
+| **Éppen kivehető kontúr (zajos)**          |                 `+6x`                 | Sötétben moccanó, neszező árnyak                                |
+| **Éppen kivehető kontúr (csendes)**        |                `+15x`                 | Sötétben, csendben lapuló árnyak                                |
+| **Háttérrel egybeolvadó kontúr (zajos)**   |                `+15x*`                | Vaksötétben harcoló ellenfél;  <br>távoli célpont sötétben      |
+| **Háttérrel egybeolvadó kontúr (csendes)** | Lehetetlen. Csak 100-as dobás esetén. | Lopakodó, némán osonó fejvadász                                 |
+\* Csak speciális mentális gyakorlat segítségével.
 
 ---
-#### 🔆Szürkület hatása a Szorzóra - Opcionális szabály
+#### Szorzó - Szél hatása
 
-Ha valaki nagyfokú realisztikusságra törekszik, akkor alkalmazhatja az alábbi opcionális szabályt is: amennyiben a környezet legalább szürkületnek megfelelő sötétségű, akkor konstans +2x Szorzó módosító jár a VÉ kiszámításánál, mivel hiába jól kivehető a cél, sötétben sokkal nehezebb jól megbecsülni a távolságot.
+Amennyiben erős szél fúj, akkor az is módosíthatja a célpont Védő Értékét, mivel az erős széllökések eltéríthetik a lövedéket.
 
-| Speciális                                  | Szorzó Módosító |
-| ------------------------------------------ |:---------------:|
-| Szürkületi sötétben, vagy annál sötétebben |      `+2x`      |
+| Szél ereje  |  Szorzó módosító   |
+| ----------- | :----------------: |
+| Nagyon erős |        +4x         |
+| Viharos     |        +8x         |
+| Orkán erejű | A lövés lehetetlen |
 
-<br />
 
 ---
 ### Osztó
