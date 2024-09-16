@@ -40,7 +40,7 @@ Támadó CÉ = -30 + CM + Harcmodor CÉ + (2 x Önuralom/Erő) + Fegyver CÉ + M
 ```
 
 
-Alapból mindenki konstans `-30`-as értékkel kezd, amihez hozzájönnek a **Célzó Harcérték** módosítók (`CM`), majd a karakter ⚪**Önuralom** VAGY ⚪**Erő** Tulajdonsága ([fegyvertől függ](#er%C5%91b%C5%91l--%C3%BCgyess%C3%A9gb%C5%91l-forgatott-fegyverek)), utána a fegyver egyedi CÉ-je, az esetlegesen, az adott fegyverre felvett **Mesterfegyver** fortélyból adódó bónusz (`CÉ:+3/fok`) és végül a `k100`-as dobásból adódó random érték.
+Alapból mindenki konstans `-30`-as értékkel kezd, amihez hozzájönnek a **Célzó Harcérték** módosítók (`CM`), majd a karakter ⚪**Önuralom** VAGY ⚪**Erő** Tulajdonsága kétszerese ([fegyvertől függ](#er%C5%91b%C5%91l--%C3%BCgyess%C3%A9gb%C5%91l-forgatott-fegyverek)), utána a fegyver egyedi CÉ-je és az esetlegesen, az adott fegyverre felvett **Mesterfegyver** fortélyból adódó bónusz (`CÉ:+3/fok`).
 
 Bővebben:
 
@@ -63,6 +63,8 @@ Bővebben:
 ```
 CÉ + k100
 ```
+
+<br />
 
 ---
 ## Célpont Védő Értékének kiszámolása
@@ -105,15 +107,18 @@ Nyílpuskák            - 4
 
 Az alábbiakban kifejtjük a fenti **Szorzó** táblázatban foglalt egyes értékek jelentését.
 
+<br />
+
+---
 ### Szorzó
 
 A Szorzó a célpont Védő értékének kiszámolásában játszik szerepet. Az alábbi módosítók **összege** adja meg értékét:
 
 - Mozgás módosító (a célpont és a lövész mozgása is számít)
 - Méret módosító
-- Láthatóság módosító
-- Lővész mozgása
-- Opcionális: Szél hatása, Szürkület, Célpont zajossága (sötétben)
+- Láthatóság módosító (zajossággal együtt)
+- Fényviszonyok
+- Szél ereje
 
 ---
 #### Szorzó - Mozgás módosító
