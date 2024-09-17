@@ -23,6 +23,6 @@ Távolsági harcmodor képzettségek: [Hajítás](kepzettsegek/harcmodor.md), [�
 - [Célzó Érték számítása](071_tavharc_ce.md)
 - [Célpont Védő Értékének számítása](072_tavharc_ve.md)
 - [Távolsági Harc Taktikák](073_tavharc_taktikak.md)
-- [Távolsági fegverek](074_tavharc_fegyverek.md)
+- [Távolsági fegyverek](074_tavharc_fegyverek.md)
 - [Példák](075_tavharc_peldak.md)
 - [Távharc sötétben](076_tavharc_sotetben.md)
