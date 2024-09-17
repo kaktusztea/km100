@@ -28,7 +28,7 @@ Ha a célpont mozog, jóval nehezebb eltalálni. A távolság növekedésével e
 | Célpont mozgásának jellege | Módosító | Megjegyzés                                                                                                                                                                      |
 | :------------------------: | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |            Álló            |   `3x`   | A célpont mozdulatlan                                                                                                                                                           |
-|     Lassú, egyenletes      |   `5x`   | Lassú séta, léptetés lovon.<br><br>⭕Többen harcolnak, bármelyik fél eltalálása jó. (Közéjük lövés)⭕<br><br>⭕(Vagy: 3x (álló), méret bónusz (-1/2x). Aztán k6, h kit talált el)⭕ |
+|     Lassú, egyenletes      |   `5x`   | Lassú séta, léptetés lovon.<br />⭕Többen harcolnak, bármelyik fél eltalálása jó. (Közéjük lövés)⭕<br />⭕(Vagy: 3x (álló), méret bónusz (-1/2x). Aztán k6, h kit talált el)⭕ |
 |     Gyors, egyenletes      |   `8x`   | Egyenletesen futó ember, vágtató lovas                                                                                                                                          |
 |      Kiszámíthatatlan      |  `15x`   | A célpont ugrál össze-vissza, cikk-cakkban fut.                                                                                                                                 |
 |      Harcoló célpont       |  `20x`   | Csak egy konkrét harcoló fél eltalálása jó.                                                                                                                                     |
@@ -71,14 +71,15 @@ A látási viszonyok erősen meghatározzák a távolsági harcot, hiszen péld�
 Szürkületben nehezebb a távolság becslése.
 
 
-| A célpont láthatósága és hangossága        |            Szorzó Módosító            | Példa                                                           |
-| ------------------------------------------ | :-----------------------------------: | :-------------------------------------------------------------- |
-| **Jól kivehető kontúr**<br>                |                 `+0x`                 | Nappali célpont; napnyugtakor háztetőn álldogáló célpont        |
-| **Homályos kontúr**                        |                 `+3x`                 | Félhomályban mozgó alaké;<br>testközelben levő célpont sötétben |
-| **Éppen kivehető kontúr (zajos)**          |                 `+6x`                 | Sötétben moccanó, neszező árnyak                                |
-| **Éppen kivehető kontúr (csendes)**        |                `+15x`                 | Sötétben, csendben lapuló árnyak                                |
-| **Háttérrel egybeolvadó kontúr (zajos)**   |                `+15x*`                | Vaksötétben harcoló ellenfél;  <br>távoli célpont sötétben      |
-| **Háttérrel egybeolvadó kontúr (csendes)** | Lehetetlen. Csak 100-as dobás esetén. | Nem látható, lopakodó, némán osonó fejvadász                    |
+| A célpont láthatósága és hangossága    |            Szorzó Módosító            | Példa                                                           |
+| -------------------------------------- |:-------------------------------------:|:--------------------------------------------------------------- |
+| Jól kivehető kontúr                    |                 `+0x`                 | Nappali célpont; napnyugtakor háztetőn álldogáló célpont        |
+| Homályos kontúr                        |                 `+3x`                 | Félhomályban mozgó alaké;<br />Testközelben levő célpont sötétben |
+| Éppen kivehető kontúr (zajos)          |                 `+6x`                 | Sötétben moccanó, neszező árnyak                                |
+| Éppen kivehető kontúr (csendes)        |                `+15x`                 | Sötétben, csendben lapuló árnyak                                |
+| Háttérrel egybeolvadó kontúr (zajos)   |                `+15x*`                | Vaksötétben harcoló ellenfél;<br />Távoli célpont sötétben      |
+| Háttérrel egybeolvadó kontúr (csendes) | Lehetetlen. Csak 100-as dobás esetén. | Nem látható, lopakodó, némán osonó fejvadász                    |
+
 \* Csak speciális mentális gyakorlat segítségével.
 
 ---
