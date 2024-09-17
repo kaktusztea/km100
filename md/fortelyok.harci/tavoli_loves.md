@@ -8,7 +8,7 @@ A szokásosnál nagyobb távolságra tudsz támadni távolsági fegyverekkel.
 - (**Íjászat** vagy **Lövészet**  **-** `5.szint`
 
 
-🌟 **Hatás**: Ha olyan célra lősz/hajítasz, aminek a [Cellaszáma](../070_tavolsagi_harc.md#cellasz%C3%A1m) nagyobb, vagy egyenlő, mint `5`, akkor a kiszámolt **Cellaszámot** `1`-el csökkentheted (de `4` alá nem csökkenhet).
+🌟 **Hatás**: Ha olyan célra lősz/hajítasz, aminek a [(Távolság/Osztó) hányadosa](../072_tavharc_ve.md#oszt%C3%B3) nagyobb, vagy egyenlő, mint `5`, akkor a kiszámolt **Cellaszámot** `1`-el csökkentheted (de `4` alá nem csökkenhet).
 
 <br />
 
