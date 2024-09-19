@@ -2,7 +2,7 @@
 
 ### Szándékos kitérés lövés elől
 
-Ha valaki látja és van ideje felkészülni a rá leadott lövésre/hajításra, valamint rendelkezik elegendő hellyel a kitérésre és bejelenti, hogy megpróbálja elkerülni végzetét, akkor Gyorsaságpróbát kell dobnia, melynek nehézsége függ a lövést leadó személy távolságától, valamint az általa használt fegyvertől.
+Ha valaki látja és van ideje felkészülni a rá leadott lövésre/hajításra, valamint rendelkezik elegendő hellyel a kitérésre ÉS bejelenti, hogy megpróbálja elkerülni végzetét, akkor **Gyorsaságpróbát** kell dobnia, melynek nehézsége függ a lövést leadó személy távolságától, valamint az általa használt fegyvertől.
 
 
 | Gyorsaságpróba célszám | Dobófegyverek,<br />Mágikus lövedék I. | Íjak,<br />Mágikus lövedék II. | Nyílpuskák,<br />Mágikus lövedék III. |
@@ -22,7 +22,7 @@ Lásd: [Elemi mágia - Formulák - Őselem idézése](magia.arkanumok/elemi_magi
 ---
 ### Páros, kétkezes hajítás
 
-Egyszerre két kézzel 1-1 fegyvert elhajítani. Ebben a szituációban `2`db célzó dobást tesz a karakter `CÉ:-30` módosítóval. Természetesen ha mindkettő talál, mindkettő sebez is.
+Egyszerre két kézzel `1-1` fegyvert elhajítani. Ebben a szituációban `2`db célzó dobást tesz a karakter `CÉ:-30` módosítóval. Természetesen ha mindkettő talál, mindkettő sebez is.
 
 A fegyver méretének az **Erő** Tulajdonság és a KM józan esze szab határt.
 
