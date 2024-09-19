@@ -7,9 +7,9 @@ A célpont **Védő Értékét**  az ún. Szorzó és a célpont Távolságának
 🔆`Célpont VÉ = Szorzó  x  (Távolság / Fegyver Osztó)`🔆
 
 ---
-### Szorzó
+### ⚜️ Szorzó
 
-A Szorzó a célpont egyedi jellemzőit, illetve a körülmények hatásait szimulálja. Az alábbi módosítók **összege** adja meg értékét:
+A Szorzó a célpont egyedi jellemzőit, illetve a környezet hatásait szimulálja. Az alábbi módosítók **összege** adja meg értékét:
 
 - \+ Mozgás módosító (a célpont és a lövész mozgása is számít)
 - \+ Méret módosító (célponté)
@@ -24,12 +24,12 @@ Ha a célpont mozog, jóval nehezebb eltalálni. A távolság növekedésével e
 
 
 | Célpont mozgásának jellege | Módosító | Megjegyzés                                                                                                                                                                      |
-| :------------------------: | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|            Álló            |   `3x`   | A célpont mozdulatlan                                                                                                                                                           |
-|     Lassú, egyenletes      |   `5x`   | Lassú séta, léptetés lovon.<br />⭕Többen harcolnak, bármelyik fél eltalálása jó. (Közéjük lövés)⭕<br />⭕(Vagy: 3x (álló), méret bónusz (-1/2x). Aztán k6, h kit talált el)⭕ |
-|     Gyors, egyenletes      |   `8x`   | Egyenletesen futó ember, vágtató lovas                                                                                                                                          |
-|      Kiszámíthatatlan      |  `15x`   | A célpont ugrál össze-vissza, cikk-cakkban fut.                                                                                                                                 |
-|      Harcoló célpont       |  `20x`   | Csak egy konkrét harcoló fél eltalálása jó.                                                                                                                                     |
+|:-------------------------- |:--------:| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Álló                       |   `3x`   | A célpont mozdulatlan                                                                                                                                                           |
+| Lassú, egyenletes          |   `5x`   | Lassú séta, léptetés lovon.<br />⭕Többen harcolnak, bármelyik fél eltalálása jó. (Közéjük lövés)⭕<br />⭕(Vagy: 3x (álló), méret bónusz (-1/2x). Aztán k6, h kit talált el)⭕ |
+| Gyors, egyenletes          |   `8x`   | Egyenletesen futó ember, vágtató lovas                                                                                                                                          |
+| Kiszámíthatatlan           |  `15x`   | A célpont ugrál össze-vissza, cikk-cakkban fut.                                                                                                                                 |
+| Harcoló célpont            |  `20x`   | Csak egy konkrét harcoló fél eltalálása jó.                                                                                                                                     |
 
 Természetesen a lövést végző személy mozgása is befolyásolja a találati esélyeket, hiszen könnyebb állva célozni, mint mondjuk futásból. A lövész mozgása az alábbiak szerint módosíthatja a **Szorzót**:
 
@@ -93,9 +93,9 @@ Amennyiben erős szél fúj, akkor az is módosíthatja a célpont Védő Érté
 
 
 ---
-### Osztó
+### ⚜️ Fegyver Osztó
 
-A fegyver **Osztó** szintén méterben megadott távolságérték és fegyverenként változik. Azt mutatja meg, hogy hány méterenként nő **az adott fegyverrel szemben** a célpont **Védő Értéke**. Gyakorlatilag azt befolyásolja, hogy a cél távolságának növekedésével milyen ütemben romlik találati esélyünk.
+A fegyver **Osztó** egy méterben megadott távolságérték és fegyverenként változik. Azt mutatja meg, hogy hány méterenként nő **az adott fegyverrel szemben** a célpont **Védő Értéke**. Gyakorlatilag azt befolyásolja, hogy a cél távolságának növekedésével milyen ütemben romlik találati esélyünk.
 
 Érthető, hogy egy nyílpuska **Osztója** nagyobb, mint egy dobótőré, hiszen az előbbivel jó eséllyel támadhatunk akár `30-40` méterre levő célpontot is, míg egy dobótőr esetében ez már a lehetetlen kategóriába tartozik.
 
@@ -103,7 +103,7 @@ A fegyver **Osztó** szintén méterben megadott távolságérték és fegyveren
 
 $$ {cél\ távolsága\ (m) \over fegyver\ Osztó} → felfelé\ kerekítünk $$
 
-Ez a hányados adja meg, hogy a fegyver **Osztójához** viszonyítva hányadik távolság “cellában” található a célpont. A Védő Érték kiszámításánál ezzel a számmal lesz beszorozva a **célpont szorzója**, amelyet a mozgás, méret, láthatóság, stb módosíthatnak (lásd alább).
+Ez a hányados adja meg, hogy a fegyver **Osztójához** viszonyítva hányadik távolság “cellában” található a célpont. A Védő Érték kiszámításánál ezzel a számmal lesz beszorozva a célpont **Szorzója**, amelyet feljebb tárgyaltunk.
 
 Például ha egy hosszú íjjal (melynek **Osztója** `3`) lövünk egy `7` méterre levő célra, akkor a hányados: `3`.  `7/3 → 3` mivel a `7` osztva `3`-al, felfelé kerekítve egyenlő `3`-al.
 
@@ -111,7 +111,7 @@ Az egyszerűség kedvéért álljon erről itt egy ábra, melyről megérthetőe
 
 ![](images/06_cellaszam.png)
 
-Ha a fegyver Osztója nem `3`, hanem mondjuk `2` lenne, akkor következésképpen a célpont `4.` "cellában" lenne (`7/2`).
+Ha a fegyver Osztója nem `3`, hanem mondjuk `2` lenne, akkor következésképpen a célpont a `4.` "cellában" lenne (`7/2`).
 
 Alább az egyes fegyver-kategóriák tipikus **Osztó** értékét látjuk. Ettől csak rendkívül kevés esetben tér el egyik-másik konkrét fegyver, azok is csak nagyon indokolt esetben. Látható, hogy minél pontosabb egy fegyver, annál nagyobb az **Osztó** értéke.
 
@@ -123,6 +123,6 @@ Alább az egyes fegyver-kategóriák tipikus **Osztó** értékét látjuk. Ett�
 | **Íjak**                            |  `3`  | Rövid íj, hosszú íj,  <br>+ Kézi nyílpuska,  <br>dárda | Sebzés bónusz: Erő tulajdonság  <br>(ha erre az Erőre lett tervezve)                                                              |
 | **Nyílpuskák**                      |  `4`  | Minden nyílpuska  <br>kivéve Kézi és Kharei            | A kézi nyílpuskától felfelé Páncéltörőnek számítanak:<br><br>`SFÉ = a vért rétegeinek száma`<br>(mágikus vértek esetén a KM dönt) |
 | ...                                 |  ...  | ...                                                    | ...                                                                                                                               |
-| Modern, nagy hatótávú fegyver       | `10`  | Távcsöves mesterlövész puska                           | Ezt csak azért írjuk be, hogy látszódjon, ez a távolsági harcrendszer kiválóan adaptálható modern világokra is.                   |
+| Modern, nagy hatótávú fegyver       | `10`  | Távcsöves mesterlövész puska                           | Ezt csak azért írjuk be, hogy látszódjon, ez a távolsági harcrendszer kiválóan adaptálható modern szerepjáték világokra is.        |
 
-🔆 **Megjegyzés**: Javasoljuk a KM-nek, hogy ha esetleg mágikus, vagy kifejezetten jó minőségű fegyver értékeit akarja az alapértékhez képest módosítani, akkor az Osztó értékét lehetőleg **ne** módosítsa, inkább a fegyver **Célzó Értékét** változtassa.
+🔆 **Megjegyzés**: Javasoljuk a KM-nek, hogy ha esetleg mágikus, vagy kifejezetten jó minőségű fegyver értékeit akarja az alapértékhez képest módosítani, akkor az **Osztó** értékét lehetőleg **NE** módosítsa, inkább a fegyver **Célzó Értékét** változtassa.

@@ -17,7 +17,7 @@ A támadott fél nem saját **Védő Értékével** vesz részt a harcban, hanem
 - Célpont Láthatósága, sötétben hangossága, Látási viszonyok
 - Szél hatása
 - Egyéb körülmények
-- [Távolsági Harci Fortély módosítók](042_harci_fortelyok.md#távolsági-harci-fortélyok)
+- **[Távolsági Harci Fortély módosítók](042_harci_fortelyok.md#t%C3%A1vols%C3%A1gi-harci-fort%C3%A9lyok)**
 
 A lövés/hajítás során ugyanúgy támadó dobás történik az egyedileg meghatározott Célpont Védő Érték ellen.
 
