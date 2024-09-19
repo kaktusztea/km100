@@ -4,17 +4,15 @@ A célpont Védő értéke reprezentálja a célpont eltalálásának nehézség
 
 A célpont **Védő Értékét**  az ún. Szorzó és a célpont Távolságának és a Fegyver Osztó hányadosának (felfele kerekítünk) szorzataként kapjuk meg.
 
-```
-Célpont VÉ = Szorzó  x  (Távolság / Fegyver Osztó)
-```
+`Célpont VÉ = Szorzó  x  (Távolság / Fegyver Osztó)`
 
 ---
 ### Szorzó
 
-A Szorzó a célpont Védő értékének kiszámolásában játszik szerepet. Az alábbi módosítók **összege** adja meg értékét:
+A Szorzó a célpont egyedi jellemzőit, illetve a körülmények hatásait szimulálja. Az alábbi módosítók **összege** adja meg értékét:
 
 - \+ Mozgás módosító (a célpont és a lövész mozgása is számít)
-- \+ Méret módosító
+- \+ Méret módosító (célponté)
 - \+ Láthatóság módosító (zajossággal együtt)
 - \+ Fényviszonyok
 - \+ Szél ereje
