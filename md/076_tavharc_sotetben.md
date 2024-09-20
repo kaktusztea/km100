@@ -19,7 +19,7 @@ CÉ = 30 + 6(Önuralom) – 30(konstans) = 6
 **Célpont jellemzői**
 
 - Táv: 10m → Cellaszám: `4` (`10/3 → 4`)
-- Láthatóság: sötét, zajos célpont (`+12x`)
+- Észlelhetőség: sötét, zajos célpont (`+12x`)
 
 A játékos először is dob `k10`-el. Ha az eredmény egyenlő `10`-el (`10m`) (`10%` esély), akkor lőhet a Vakharc–`1.`foknak megfelelő szorzóval (`+12x`). Ha ez sikerül, akkor, jön a **VÉ** számítás és a lövés, egyébként automatikusan célt téveszt.
 

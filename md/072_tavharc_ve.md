@@ -1,8 +1,8 @@
 ## Célpont Védő Értékének számítása
 
-A célpont Védő értéke reprezentálja a célpont eltalálásának nehézségét. Ugyanolyan célszámként viselkedik, mint a rendes Védő érték, azaz, ha a lövést/hajítást végző karakter Célzó Értékkel együtt számított Támadó dobása eléri, vagy meghaladja ezen értéket, akkor találatról beszélünk. Amennyiben az érték alatta marad, a támadás célt téveszt.
+A célpont **Védő értéke** reprezentálja a célpont eltalálásának nehézségét. Ugyanolyan célszámként viselkedik, mint a rendes Védő érték, azaz, ha a lövést/hajítást végző karakter Célzó Értékkel együtt számított Támadó dobása eléri, vagy meghaladja ezen értéket, akkor találatról beszélünk. Amennyiben az érték alatta marad, a támadás célt téveszt.
 
-A célpont **Védő Értékét**  az ún. Szorzó és a célpont Távolságának és a Fegyver Osztó hányadosának (felfele kerekítünk) szorzataként kapjuk meg.
+A célpont **Védő Értékét**  az ún. **Szorzó** és a célpont Távolságának és a **Fegyver Osztó** hányadosának (felfele kerekítünk) szorzataként kapjuk meg.
 
 🔆`Célpont VÉ = Szorzó  x  (Távolság / Fegyver Osztó)`🔆
 
@@ -13,7 +13,7 @@ A Szorzó a célpont egyedi jellemzőit, illetve a környezet hatásait szimulá
 
 - \+ Mozgás módosító (a célpont és a lövész mozgása is számít)
 - \+ Méret módosító (célponté)
-- \+ Láthatóság módosító (zajossággal együtt)
+- \+ Észlelhetőség módosító (zajossággal együtt)
 - \+ Fényviszonyok
 - \+ Szél ereje
 
@@ -59,14 +59,13 @@ Természetesen a lövést végző személy mozgása is befolyásolja a találati
 → 🔺ISSUE: [Ha a szorzó 0-ra, vagy az alá csökkenne](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.tavharc#km100-c%C3%A9lz%C3%A1s-szorz%C3%B3).
 
 ---
-#### Szorzó - Láthatóság és hangosság módosító
+#### Szorzó - Észlelhetőség módosító
 
 A látási viszonyok erősen meghatározzák a távolsági harcot, hiszen például félhomályban sokkal nehezebb eltalálni valakit, mint fényes nappal. Viszont... könnyebb valakit eltalálni sötétben, ha zajt ad ki. Ezeknek megfelelően a fenti körülmények is módosítják a Szorzó értékét. A fentieket az alábbi táblázatokban foglalhatjuk össze.
 
-| Környezeti fényviszonyok | Szorzó Módosító |
-| ------------------------ | :-------------: |
-| Szürkületben             |      `+2x`      |
-Szürkületben nehezebb a távolság becslése.
+| Környezeti fényviszonyok | Szorzó Módosító |                 Megjegyzés                 |
+| ------------------------ | :-------------: |:------------------------------------------ |
+| Szürkületben             |      `+2x`      | Szürkületben nehezebb a távolság becslése. |
 
 
 | A célpont láthatósága és hangossága    |            Szorzó Módosító            | Példa                                                           |
