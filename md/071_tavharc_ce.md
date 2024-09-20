@@ -32,16 +32,16 @@ Támadó CÉ = -30 + CM + Harcmodor CÉ + (2 x Önuralom/Erő) + Fegyver CÉ + M
 | Nem “belőtt” nyílpuskák / most lő először ezzel a nyílpuskával - [Távolsági Harcmodor](kepzettsegek/tavolsagi_harcmodor.md) 9.szintje alatt |    `-15`    |
 | Egyes [Fortélyokból](#fort%C3%A9lyok---t%C3%A1vols%C3%A1gi-harc) adódó bónuszok.                                                            |             |
 
-🔆**Célzás**: íjnál csak 1 körig lehet kitartani! 1 kör után nem nincs bónusz, sőt körönként `CÉ:-10` büntetés jár!
+🔆 **Célzás**: íjnál csak 1 körig lehet kitartani! 1 kör után nincs bónusz, sőt körönként `CÉ:-10` büntetés jár!
 
 ### Fegyver belövése
 
-Ha **legalább fél órát** töltött el a karakter a “belövéssel”,  a büntető módosító megszűnik. A használat során folyamatosan tűnik el a hátrány - KM dönt.
+Ha **legalább fél órát** töltött el a karakter a “belövéssel”,  a "*Nem belőtt (fegyver)*" büntető módosítók megszűnnek. A használat során folyamatosan tűnik el a hátrány - erre már felesleges képletet alkotni - a KM dönt.
 
 ---
 ## Célzott Támadó dobás
 
 ```
-CÉ + k100
+CÉ + k100  vs  VÉ
 ```
 

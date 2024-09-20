@@ -6,15 +6,18 @@ A könnyű nyílpuska **Osztója:** `4`
 
 ### Tetves Célzó Értéke
 
+Ezt már karakteralkotáskor kiszámoltuk, így itt nincs szükség semmilyen számításra.
+
 ```
 CÉ = -30 (Konstans) + 6 (Önuralom 2x) + 16 (nyílpuska) +15 (CM) + 4 (lövészet) = 11
 ```
 
 <br />
 
+---
 ### A célpont Védő Értéke
 
-$$ VÉ = {5(lassan\ mozgó)+0(normál\ méret)+0(jól\ látható)}\ x\ {15(távolság)\over 4(nyílpuska\ osztója)}$$
+$$VÉ = {5(lassan\ mozgó)+0(normál\ méret)+0(jól\ látható)}\ x\ {15(távolság)\over 4(nyílpuska\ Osztója)}$$
 
 
 Az osztásnál felfelé kell kerekíteni, `15/4` → `4`.
@@ -25,6 +28,7 @@ VÉ = 5x4 = 20
 
 <br />
 
+---
 ### Tehát a próba
 
 ```
