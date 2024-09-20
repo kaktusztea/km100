@@ -2,7 +2,7 @@
 
 Nem okoz számodra gondot, hogy összevissza mozgó ellenfelet kell eltalálnod.
 
-Amennyiben **Kiszámíthatatlanul mozgó**, vagy **Harcoló** ellenfélre lősz (hajítasz), a **Mozgásból** adódó 🗡️[Szorzó](../072_tavharc_ve.md#szorz%C3%B3) módosítók lecsökkennek.
+Amennyiben **Kiszámíthatatlanul mozgó**, vagy **Harcoló** ellenfélre lősz (hajítasz), a **Mozgásból** adódó 🗡️[Szorzó](../072_tavharc_ve.md#%EF%B8%8F-szorz%C3%B3) módosítók lecsökkennek.
 #### Alapeset
 
 🔒 **Követelmény**: -
