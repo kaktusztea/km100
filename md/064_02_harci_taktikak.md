@@ -97,7 +97,7 @@ Fontos, hogy másra nem pazarolhatod figyelmedet, kizárólag a védekezésre. H
 
 VÉ csökkentésre: `+2` ha nincs találat.
 
-Sebzés helyett:  nagykockás CÉ csökk + további `+10VÉ` csökkentés (a Többszörös találat nem növeli tovább)
+Sebzés helyett: nagykockás VÉ csökkentés + további `+10VÉ` csökkentés (a Többszörös találat nem növeli tovább)
 
 Ha fárasztani kívánod ellenfeledet, ellenállását megtörni anélkül, hogy sebet ejtenél rajta, akkor a harc ugyanúgy folyik, mint más esetben, csak `+2`-vel nő **VÉ csökkentésed** ha nem érsz el találatot támadó dobásod során.
 
