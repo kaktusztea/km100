@@ -45,7 +45,7 @@ A harc ritmusát fenntartva, elméd erejének hála kevésbé merít ki a harc s
 - Összpontosítás - `12.szint`
 - Harcmodor - `12.szint`
 - (**Közelharc** vagy **Kardvívás** vagy **Lándzsavívás** vagy **Zúzás**)
-- [Chi harc](../pszi.diszciplinak/chi_harc.md) használata VAGY ⭕[Fejvadász Tradíció](../053_02_fejvadasz_tradicio.md) - `12.szint`
+- [Slan Tradíció](../053_01_slan_tradicio.md) VAGY ⭕[Fejvadász Tradíció](../053_02_fejvadasz_tradicio.md) - `12.szint`  (("Sárkány ébredése" Slan képzettség IS legyen 12.szintű?))
 
 🌟 **Hatás**:
 - Az alkalmazó `VÉ`-je [Védekező harcban](../064_02_harci_taktikak.md#v%C3%A9dekez%C5%91-harc) (harci taktika) **egyáltalán nem csökken** ellenfelei támadásának hatására.
