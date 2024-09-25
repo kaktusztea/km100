@@ -22,6 +22,6 @@ Fajhoz felvehető Érzék-fortély.
 
 #### Megjegyzések
 
-Felvételéhez olyan [Faj-Háttér](../022_faj_hatterek.md) szükséges, amelynél szerepel az **Fejlett hallás**, mint felvehető Érzék-fortély
+Felvételéhez olyan [Faj-Háttér](../022_faj_hatterek.md) szükséges, amelynél szerepel a **Fejlett hallás**, mint felvehető Érzék-fortély
 
 ---
