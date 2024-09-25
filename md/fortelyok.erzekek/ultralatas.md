@@ -10,28 +10,28 @@ Teljes sötétben is képes vagy tájékozódni.
 
 🔒 **Követelmény**:  -
 
-🌟 **Hatás**: Emberi látás, teljes sötétben gyakorlatilag vakság.
+🌟 **Hatás**: Emberi látás, teljes sötétben gyakorlatilag vakság, nem látsz semmit.
 
 ---
 #### 1. fok
 
 🔒 **Követelmény**: Kapcsolódó [Faj Háttér](../022_faj_hatterek.md)
 
-🌟 **Hatás**: Mintha telihold fényénél tájékozódnál vaksötétben
+🌟 **Hatás**: Mintha telihold fényénél tájékozódnál vaksötétben.
 
 ---
 #### 2. fok
 
 🔒 **Követelmény**: Kapcsolódó [Faj Háttér](../022_faj_hatterek.md)
 
-🌟 **Hatás**: Mintha szürkületkor tájékozódnál. Vaksötétben is tud olvasni
+🌟 **Hatás**: Mintha szürkületkor tájékozódnál. Vaksötétben is tudsz olvasni.
 
 ---
 #### 3. fok
 
 🔒 **Követelmény**: Kapcsolódó [Faj Háttér](../022_faj_hatterek.md)
 
-🌟 **Hatás**: Tökéletesen lát, mintha nappal lenne, látótávolság megegyezik
+🌟 **Hatás**: Tökéletesen látsz, mintha nappal lenne, a látótávolság is ugyanaz.
 
 <br />
 
