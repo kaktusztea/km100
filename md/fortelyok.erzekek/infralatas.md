@@ -27,7 +27,7 @@ Sötétben (leginkább élőlények által kibocsátott) hőképek alapján is k
 
 🔒 **Követelmény**: Kapcsolódó [Faj Háttér](../022_faj_hatterek.md)
 
-🌟 **Hatás**: Ha van a hőképben eltérés, lát a sötétben - legyenek akár élőlények, akár tárgyak.
+🌟 **Hatás**: Ha van a hőképben eltérés, látod a sötétben - legyenek akár élőlények, akár tárgyak.
 
 <br />
 
