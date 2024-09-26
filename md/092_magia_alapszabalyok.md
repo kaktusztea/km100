@@ -10,23 +10,18 @@
 - **Átfogó** primer képzettség (`TSz` határig növelhető)
 - Részét képezi a mágiatörténet, mágialegendák, kultúra
 - A **Metamágia** képzettség == **Tradíció** képzettséggel (ingyen)
-- `6.` szintű Tradíciótól (Metamágiától)
+- `3.` szintű Tradíciótól (Metamágiától)
   - innentől lehet elkezdeni varázsolni egyáltalán, ez a feltétele a mágiaiskolák `3.` szintjének is
-  - tehát a karakter 3. tapasztalati szintjén lehet először varázsolni
-  - megállhatsz `6.` szinten. Ami feljebb van, azok a metamágia spécijei. Lásd [ott](https://github.com/kaktusztea/km100/wiki/STUDY.magia.metamagia).
+  - tehát a karakter `3.` tapasztalati szintjén lehet először varázsolni
+  - megállhatsz `3.` szinten. Ami feljebb van, azok a metamágia spécijei. Lásd [ott](https://github.com/kaktusztea/km100/wiki/STUDY.magia.metamagia).
   - egyes metamágia formulákat szétszórhatjuk biztos tudás szintek közé
   - `6.` szinten:
     - Leplezés
     - Fürkészés
     - Destrukció
     - Később a többit magasabb szinten
-
 - Metamágia iskolák tradíciók szerint eltérnek
-- Új Tradíció: Természeti mágia tradíció
-  - szellemmágia
-  - szellemektől kapott képzettségek
-  - szellem által átvitt mágikus hatás
-  - idézés, űzés, stb. (Grimoire)
+
 
 
 ---
@@ -56,31 +51,31 @@ Ha van **Tradíció** képzettség `3` és `6`. szint között, akkor lehet mág
 
 ### Erősség és Komplexitás próbák varázsláskor
 
-`Mágiaiskola + Tulajdonság + 1  <=  A varázslat célszáma`\
+`Arkánum + Tulajdonság + 1  <=  A varázslat célszáma`\
 → nem kell dobni, "at will" varázslás (mert minimum egyet dobna, és azzal is elérné ezt az értéket)
 
-`Mágiaiskola + Tulajdonság + k10  =  Célszám - 9`\
+`Arkánum + Tulajdonság + k10  =  Célszám - 9`\
 → halálos hiba, a mágia elszabadul, a varázshasználó meghal. Másodlagos hatásokat a KM dönti el. Például: Manaháló roncsolódik (erősség függő, hogy meddig), Térkapu-vihar, Síkkapu-vihar, Démon jelenik meg. "Kalandod itt véget ér", új karaktert kell indítani. Ez abban az esetben jön ki, ha csak `10`-es dobás esetén sikerülne a varázslat, de `1`-t dob).
 
-`Mágiaiskola + Tulajdonság + k10  =  Célszám - 8`\
+`Arkánum + Tulajdonság + k10  =  Célszám - 8`\
 → katasztrofális hiba, ájulás, a varázshasználó élet-halál között lebeg (ÉP:0), és oly mértékben roncsolódik a manateste, hogy elveszíti a varázslás képességét. Külön kaland lesz ezt helyrehozni. A mágia elszabadul.
 
-`Mágiaiskola + Tulajdonság + k10  =  Célszám - 7`\
+`Arkánum + Tulajdonság + k10  =  Célszám - 7`\
 → Ájulás, SP sebzés: `k20+0` kritikus hiba. A mágia elszabadul, a varázslat valamilyen bizarr módon visszahat, teljes erősséggel.
 
-`Mágiaiskola + Tulajdonság + k10  =  Célszám - 6`\
+`Arkánum + Tulajdonság + k10  =  Célszám - 6`\
 → Kábulat SP sebzés: `k20+10`. A varázslat valamilyen bizarr módon visszahat, kb. fele erősségel, esetleg célt vált. KM dönt. Zavarodottság, 1 kör elvész (vagy Összpontosítás próba: 21 (Nehéz) esetén semmi).
 
-`Mágiaiskola + Tulajdonság + k10  =  Célszám - 5`\
+`Arkánum + Tulajdonság + k10  =  Célszám - 5`\
 → Zavarodottság, 1 kör elvész (vagy Összpontosítás próba: 18 (Nehéz) esetén semmi), Kábulat SP sebzés: `k20+5`
 
-`Mágiaiskola + Tulajdonság + k10  =  Célszám - 4`\
+`Arkánum + Tulajdonság + k10  =  Célszám - 4`\
 → Zavarodottság, 1 kör elvész (vagy Összpontosítás próba: 15 (Nehéz) esetén semmi), Kábulat SP sebzés: `k20+0`
 
-`Mágiaiskola + Tulajdonság + k10  =  Célszám - 3`\
+`Arkánum + Tulajdonság + k10  =  Célszám - 3`\
 → Zavarodottság, 1 kör elvész (vagy Összpontosítás próba: 12 (Nehéz) esetén semmi)
 
-`Mágiaiskola + Tulajdonság + k10  =  Célszám - 1-2`\
+`Arkánum + Tulajdonság + k10  =  Célszám - 1-2`\
 → a varázslat sikertelen, de nincs semmi mellékhatás
 
 <br />
@@ -208,5 +203,5 @@ A Támadások (Varázslások) száma is bejátszik. A nagyobb Erejű varázslato
 ---
 ### Varázslások száma körönként - Rizikó varázslatnál
 
-Ugyanannyi legyen, mint At-Will-nél.
+⭕Ugyanannyi legyen, mint At-Will-nél.⭕
 
