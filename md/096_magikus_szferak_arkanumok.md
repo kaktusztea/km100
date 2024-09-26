@@ -1,7 +1,5 @@
 ## Mágikus Szférák és arkánumaik listája
 
-[STUDY: Szférák](https://github.com/kaktusztea/km100/wiki/STUDY.magia.szferak.arkanumok)
-
 ⭕TODO⭕: Bevezető, legenda, utalás mágiaelméletre.
 
 ⭕TODO⭕: Az egyes Szférák rövid leírása mindegyik alatt.
