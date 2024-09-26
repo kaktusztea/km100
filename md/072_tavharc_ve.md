@@ -13,7 +13,7 @@ A Szorzó a célpont egyedi jellemzőit, illetve a környezet hatásait szimulá
 
 - \+ Mozgás módosító (a célpont és a lövész mozgása is számít)
 - \+ Méret módosító (célponté)
-- \+ Észlelhetőség módosító (zajossággal együtt)
+- \+ Észlelhetőség módosító
 - \+ Fényviszonyok
 - \+ Szél ereje
 
