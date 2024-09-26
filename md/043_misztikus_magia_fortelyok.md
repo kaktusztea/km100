@@ -17,6 +17,7 @@
 - [Áldás](fortelyok.magia.modszerek/aldas.md) 🔺
 - [Átok](fortelyok.magia.modszerek/atok.md) 🔺
 - [Bábúmágia](fortelyok.magia.modszerek/babumagia.md) 🔺
+- [Bájitalok](fortelyok.magia.modszerek/bajitalok.md)
 - [Ceremoniális mágiák](fortelyok.magia.modszerek/ceremonialis.md) 🔺
 - [Dalmágia](fortelyok.magia.modszerek/dalmagia.md) 🔺
 - [Fókuszok, emitterek](fortelyok.magia.modszerek/fokuszok_emitterek.md) 🔺
