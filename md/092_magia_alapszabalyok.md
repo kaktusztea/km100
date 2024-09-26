@@ -4,8 +4,10 @@
 
 ## Mágia alapszabályok
 
-
+⭕bevezető⭕
 ### Tradíciók
+
+⭕TODO: átdolgozni szöveggé⭕
 
 - **Átfogó** primer képzettség (`TSz` határig növelhető)
 - Részét képezi a mágiatörténet, mágialegendák, kultúra
@@ -27,6 +29,8 @@
 ---
 ### Arkánumok (Mágiaskolák)
 
+⭕TODO: átdolgozni szöveggé⭕
+
 Az Arkánumok (mágiaiskolák) Átfogó képzettségek.
 - A mágiaiskolák első `2` szinten csak elméleti tudást adnak, az alájuk tartozó varázslatokat csak a képzettség `3.` szintjétől alkalmazhatja a mágiatudó!
 - Az egyes kiemelt szinteknek követelményei vannak, mint a „sima” képzettségeknél. Ezek iskolánként eltérőek. (🔆A mágiaiskolák követelményei magasabbak, keményebbek legyenek, mint a Pszí iskoláké. Főleg Tudományos képzettségek legyenek követelmények!🔆)
@@ -39,6 +43,13 @@ Az Arkánumok (mágiaiskolák) Átfogó képzettségek.
 Ha van **Tradíció** képzettség `3` és `6`. szint között, akkor lehet mágiaiskolákat tanulni, de legfeljebb `1.` és `2.` szinten. Ez csak nagyon elméleti alaptudást nyújt.
 
 <br />
+
+---
+### Varázslás módszerei
+
+⭕Leírás⭕
+
+Módszerek listáját lásd a [misztikus fortélyok](043_misztikus_magia_fortelyok.md#var%C3%A1zsl%C3%A1si-m%C3%B3dszerek) között.
 
 ---
 ### Varázslás menete
