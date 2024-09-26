@@ -33,8 +33,8 @@ Ez a teremtés és mágia szférája.
   - ...
 - [Természetes anyagok mágiája](magia.arkanumok/termeszetes.anyagok.magiaja.md)
   - Ideamágia (CX)
-  - [Méregmágia](https://github.com/kaktusztea/km100/blob/master/md/magia.vulgar/meregmagia.md)
-    - [Méregmágia szemita](https://github.com/kaktusztea/km100/blob/master/md/magia.vulgar/meregmagia.md) (CX)
+  - [Méregmágia](magia.arkanumok/termeszetes.anyagok.magiaja.md#m%C3%A9regm%C3%A1gia)
+  - Méregmágia szemita (CX)
 
 ---
 ### Lélek
