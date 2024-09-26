@@ -6,6 +6,14 @@
 
 <br />
 
+A Természeti mágia tradíció alá az alábbiak tartoznak:
+- szellemmágia
+  - szellemektől kapott képzettségek
+  - szellem által átvitt mágikus hatás
+  - idézés, űzés, stb. (⭕Grimoire)
+- ...
+
+---
 A karakter dönthet úgy, hogy megáll `6.` szinten a Tradícióban, ez nem korlátozza semmiben. Amiért mégis megérheti, az az azonos szintű Metamágia Arkánum, aminek nehezebb formulái magasabb szinten érhetőek el.
 
 Most lássuk a **Természeti Tradíció** egyes szintjeihez rendelt jellemzőket:
