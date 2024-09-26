@@ -62,6 +62,8 @@ Módszerek listáját lásd a [misztikus fortélyok](043_misztikus_magia_fortely
 
 ### Erősség és Komplexitás próbák varázsláskor
 
+⭕Ezt egyszerűsíteni, túl részletes⭕
+
 `Arkánum + Tulajdonság + 1  <=  A varázslat célszáma`\
 → nem kell dobni, "at will" varázslás (mert minimum egyet dobna, és azzal is elérné ezt az értéket)
 
