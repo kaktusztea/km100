@@ -72,7 +72,7 @@ Lásd: ⚜️[Kibontakozás/Átsiklás](#kibontakoz%C3%A1s%C3%A1tsikl%C3%A1s) ma
 - Max fok: `2`, követelmény:
   - **1.fok**: `Ügyesség: 0`
   - **2.fok**: `Ügyesség: +1`
-- Taktikák: Védő Taktika és Védekező harc közben is végezhető Kibontakozás (az Átsiklás nem).
+- Taktikák: Védő Taktika és Teljes Védekezés Taktika közben is végezhető Kibontakozás (az Átsiklás nem).
 
 **Hatás**: Sikerül a harcból kibontakoznod, ellenfele(i)d már nem támadhat(nak) rád. Ha üldöznek, futás: támadóddal **Gyorsaság** ellenpróba. Ha megnyerted, leléptél, ha üldöződ nyerte, akkor utolért és leadhat egy támadást rád hátulról (`+10 TÉ`).
 
