@@ -58,20 +58,22 @@ Lásd: ⚜️[Kibontakozás/Átsiklás](#kibontakoz%C3%A1s%C3%A1tsikl%C3%A1s) ma
   - ± `2`  (`1` penge különbségenként) - több támadónál a legnagyobb fegyver számít
   - `+2` minden további ellenfél után
   - `-2` minden szövetséges után, aki ellenfeleddel harcol
-- **Ellenpróba célszámba** a legmagasabb ellenfél MP érték számít be
+- Ellenpróba célszámba a legmagasabb ellenfél MP érték számít be
 - Fázisok: `E (M)`
 	- **Ellenpróba** sikeres: kibontakoztál. A próba kreatív figyelemeltereléssel megúszható, KM dönt.
 	- **Ellenpróba** sikertelen: kibontakoztál, **DE** az ellenfelek leadhatnak egy **Megakasztás** támadást rád
 - Max fok: `2`, követelmény:
   - **1.fok**: `Ügyesség: 0`
   - **2.fok**: `Ügyesség: +1`
-- **Taktikák**: Védő Taktika és Védekező harc közben is végezhető Kibontakozás (az Átsiklás nem).
-- **Hatás**: Sikerül a harcból kibontakoznod, ellenfele(i)d már nem támadhat(nak) rád. Ha üldöznek, futás: támadóddal **Gyorsaság** ellenpróba. Ha megnyerted, leléptél, ha üldöződ nyerte, akkor utolért és leadhat egy támadást rád hátulról (`+10 TÉ`).
+- Taktikák: Védő Taktika és Védekező harc közben is végezhető Kibontakozás (az Átsiklás nem).
 &#8203;<br /><br />
-- ⚜️**Kibontakozás Belharcból**: ugyanúgy dobandó, mint ha harcból akarnánk kibontakozni.
-	- `+2` Nehézség ha az ellenfélnek Belharc fortélya van (fokonként)
-	- `-2` Nehézség ha az alkalmazónak Belharc fortélya van (fokonként)
-	- Ha sebzel, automatikusan kibontakozhatsz a belharci szituációból
+- **Hatás**: Sikerül a harcból kibontakoznod, ellenfele(i)d már nem támadhat(nak) rád. Ha üldöznek, futás: támadóddal **Gyorsaság** ellenpróba. Ha megnyerted, leléptél, ha üldöződ nyerte, akkor utolért és leadhat egy támadást rád hátulról (`+10 TÉ`).
+
+⚜️**Kibontakozás Belharcból**:<br />
+ugyanúgy dobandó, mint ha harcból akarnánk kibontakozni.
+- `+2` Nehézség ha az ellenfélnek Belharc fortélya van (fokonként)
+- `-2` Nehézség ha az alkalmazónak Belharc fortélya van (fokonként)
+- Ha sebzel, automatikusan kibontakozhatsz a belharci szituációból
 
 ---
 #### Kiegészítő támadás
