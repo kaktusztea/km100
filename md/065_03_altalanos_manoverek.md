@@ -32,12 +32,13 @@ Ha az ellenfél úgy dönt, hogy szándékosan beengedi belharcba a karaktert, a
 	- Belharcos fegyver használata
 	- **Közelharc** harcmodor
 - Nagy siker: `4`-el túldobott Ellenpróbánál még sebző **Megakasztás** támadást elszenvedve is bekerülsz belharcba.
+
 &#8203;<br />
+
 - **Hatás**: Sikeresen bekerültél belharcba, megkapod a Belharci szituációnál leírt módosítókat.
 &#8203;<br />
 
 **Kijövetel**: Sikeres [Kibontakozás/Átsiklás](#kibontakoz%C3%A1s%C3%A1tsikl%C3%A1s) manőver. Lásd ott.
-
 
 ---
 #### Belharcból kibontakozás
@@ -51,7 +52,9 @@ Lásd: ⚜️[Kibontakozás/Átsiklás](#kibontakoz%C3%A1s%C3%A1tsikl%C3%A1s) ma
 - Nehézség: `6`
 - Fázisok: `M E`
 - Speciális: Manőver-pontokhoz **Akrobatika** `1/3`-a hozzáadható (lefele kerekítve)
+
 &#8203;<br />
+
 - **Hatás**: Sikerült harc közben a földről feltápászkodnod, folytathatod a harcot, immár levonások nélkül.
 
 ---
@@ -70,7 +73,7 @@ Lásd: ⚜️[Kibontakozás/Átsiklás](#kibontakoz%C3%A1s%C3%A1tsikl%C3%A1s) ma
   - **2.fok**: `Ügyesség: +1`
 - Taktikák: Védő Taktika és Védekező harc közben is végezhető Kibontakozás (az Átsiklás nem).
 
-&#8203;<br /><br />
+&#8203;<br />
 
 - **Hatás**: Sikerül a harcból kibontakoznod, ellenfele(i)d már nem támadhat(nak) rád. Ha üldöznek, futás: támadóddal **Gyorsaság** ellenpróba. Ha megnyerted, leléptél, ha üldöződ nyerte, akkor utolért és leadhat egy támadást rád hátulról (`+10 TÉ`).
 
@@ -192,8 +195,6 @@ A használt fegyver csak valamilyen (legfeljebb 1 penge hosszú) hegyes szúróf
 &#8203;<br />
 
 - **Hatás**: Pajzsoddal sikeresen feldöntötted ellenfeled, aki ettől kezdve (míg fel nem képes állni) a „**Harc földön fekve**” helyzet módosítóival harcol.
-
-<br/>
 
 
 ---
