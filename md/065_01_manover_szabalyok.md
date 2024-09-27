@@ -6,23 +6,23 @@ Manővert csak az aktuálisan használt harcmodor `3.szintjétől` lehet rendese
 - harcmodor `1.szint` esetén: `+2`
 - harcmodor `2.szint` esetén: `+1`
 
-Egy Manőver végrehajtása `1 támadást` / `1 akciót` emészt fel, nem szükséges hozzá nyert kezdeményezés
+Egy Manőver végrehajtása `1 támadást` / `1 akciót` emészt fel, nem szükséges hozzá nyert kezdeményezés.
 
-Manővert ellenfél **ellen** alkalmazunk. Így például kiszaltózni az ablakon, vagy leugrani a várfalról **nem** számít Manővernek
+Manővert ellenfél **ellen** alkalmazunk. Így például kiszaltózni az ablakon, vagy leugrani a várfalról **nem** számít Manővernek.
 
-Ha minden kötelező fázisa  sikeres a végrehajtó szempontjából (`E V`) és sikertelen a védekező szempontjából (`M`), akkor az adott Manőver „Hatás” részénél leírtak következnek be
+Ha minden kötelező fázisa sikeres a végrehajtó szempontjából (`E V`) és sikertelen a védekező szempontjából (`M`), akkor az adott Manőver „Hatás” részénél leírtak következnek be.
 
-Végrehajtás fázisa aktuális **fegyveres** `TÉ+20`-al történik (kivéve, ha más szerepel a Manőver leírásában.)
+Végrehajtás fázisa aktuális **fegyveres** `TÉ:+20`-al történik (kivéve, ha más szerepel a Manőver leírásában).
 
- [Meglepett](064_01_harci_helyzetek.md#meglepetés), [Készületlen](064_01_harci_helyzetek.md#készületlenség) ellenfél esetén kimarad a **Megakasztás** és az **Ellenpróba** fázis
+[Meglepett](064_01_harci_helyzetek.md#meglepetés), [Készületlen](064_01_harci_helyzetek.md#készületlenség) ellenfél esetén kimarad a **Megakasztás** és az **Ellenpróba** fázis és a szokásos Végrehajtás `TÉ:+20` (ami ugye megegyezik és itt azonos is a Meglepetés bónuszával) alkalmazásával lehet végbevinni a Manővert.
 
 Manővereknek lehet:
 - speciális könnyítő/nehezítő körülményei (+/- módosítók a nehézségre)
 - extra végbeviteli követelményei: Ezek nélkül a KM dönt, hogy végrehajtható -e és ha igen, mekkora plusz célszám büntetéssel
 
-Manőver alkalmazásakor nem folytatható [Teljes Védekezés Taktika](064_02_harci_taktikak.md#teljes-v%C3%A9dekez%C3%A9s-taktika), vagy [Védő Taktika](064_02_harci_taktikak.md#védő-taktika) (kivéve ahol ez külön meg van említve), de [Támadó taktika](064_02_harci_taktikak.md#támadó-taktika) igen, kivéve ahol ez az adott Manővernél külön meg van említve.
+Manőver alkalmazásakor nem folytatható [Teljes Védekezés Taktika](064_02_harci_taktikak.md#teljes-v%C3%A9dekez%C3%A9s-taktika), vagy [Védő Taktika](064_02_harci_taktikak.md#védő-taktika), de [Támadó taktika](064_02_harci_taktikak.md#támadó-taktika) igen - kivéve ahol ezek az adott Manővernél külön meg vannak említve.
 
-[Rohamnál](064_02_harci_taktikak.md#roham) csak az a manőver hajtható végre, amelyiknél ez külön meg van említve
+[Rohamnál](064_02_harci_taktikak.md#roham) csak az a manőver hajtható végre, amelyiknél ez külön meg van említve.
 
 ---
 ### Manőverek nehézsége
@@ -45,7 +45,8 @@ A manőver nehézségét egy számértékkel jellemezzük. Minden manővernek va
 ### Manőverek fejlesztése, manőver-ismeretek, MFP
 
 ```
-Manőver-ismeret: fokonként +2 módosítót
+Manőver-ismeret:
+   fokonként +2 módosítót
    ad az „Ellenpróba” dobásnál
 
 1 MFP = 1 fok Manőver ismeret
