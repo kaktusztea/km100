@@ -5,12 +5,12 @@ A taktikák használatát kör elején, kezdeményezés előtt kell bejelenteni,
 ### Összefoglaló
 
 | **Taktika**                                                | **Hatás**                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| :--------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|:---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Támadó taktika                                             | `TÉ:+1 = VÉ:-2`, max `TÉ:+15`                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | Védő taktika                                               | `VÉ:+1 = TÉ:-2`, max `VÉ:+20`                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Teljes Védekezés taktika                                   | `VÉ:+30`, ellenfeled csak `kiskockával` csökkenthet rajtad `VÉ`-t. Folyamatos hátrálás, nincs támadás, nem kombinálható más taktikával.                                                                                                                                                                                                                                                                                                                                     |
 | Kezdeményező taktika                                       | `KÉ:+1 → VÉ:-2`, max `KÉ:+10`                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | Kiváró taktika                                             | • Átengedett KÉ, cserébe első visszatámadásra `TÉ:+5`<br/>• Támadó taktikával együtt mehet, Védővel nem, több ellenfeles harcban sem.                                                                                                                                                                                                                                                                                                                                       |
-| Védekező harc                                              | `VÉ:+30`, ellenfeled csak `kiskockával` csökkenthet rajtad `VÉ`-t. Folyamatos hátrálás, nincs támadás, nem kombinálható más taktikával.                                                                                                                                                                                                                                                                                                                                     |
 | Fárasztás                                                  | • VÉ csökkentésre: `+2`<br/>• Sebzés helyett: nagykockás VÉ csökk + további `+10VÉ` csökkentés                                                                                                                                                                                                                                                                                                                                                                              |
 | Roham                                                      | • `TÉ:+20`, `VÉ:-40` (első oda-visszacsapáskor)<br/>• VÉ csökkentés duplázódik első oda-visszacsapásnál , Sebzéshez: `+5 SP` (oda-vissza)                                                                                                                                                                                                                                                                                                                                   |
 | Öngyilkos roham                                            | • `TÉ:+25`,`VÉ:-50` (első oda-visszacsapáskor)<br/>• VÉ csökkentés duplázódik első oda-visszacsapásnál, Sebzéshez: `+7 SP` (oda-vissza)<br/>• TÉ büntetések (sérülésből) nem érvényesek, max `2x` használható egy küzdelemben<br/>• Küzdelmenként legfeljebb 1x alkalmazható.                                                                                                                                                                                               |
@@ -22,7 +22,7 @@ A taktikák használatát kör elején, kezdeményezés előtt kell bejelenteni,
 | Csonkolás **(X)**                                          | • Kéz csonkolása: (áldozat `max ÉP / 3`) (felfele kerekítve) sebzés szükséges<br/>• Láb csonkolása: (áldozat `max ÉP / 2`) (felfele kerekítve) sebzés szükséges                                                                                                                                                                                                                                                                                                             |
 | Kijelölt testrészre támadás **(X)**                        | Sebző támadás `TÉ:-20`-al                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | Pontok támadása harc közben **(X)**                        | • Követelmény: **Harci anatómia** fortély – `2.fok`<br/>• Követelmény: **Pontra támadás** manőver                                                                                                                                                                                                                                                                                                                                                                           |
-| Visszafogott csapás / Harc az ellenfél elfogásáért **(X)** | ⭕TODO⭕ Bónuszt ad: **Harci anatómia** fortély                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Visszafogott csapás / Harc az ellenfél elfogásáért **(X)** | ⭕TODO⭕ Bónuszt ad: **Harci anatómia** fortély                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
 ### Ökölszabály Védő Érték eltolásra
 
@@ -63,6 +63,20 @@ Tehát vállalásodtól függően így módosíthatod harcértékeidet. Pl:
 - `VÉ:+20`, `TÉ:-40`
 
 ---
+### Teljes Védekezés Taktika
+
+```
+VÉ:+30
+
+Ellenfeled csak "kiskockával"
+csökkenthet rajtad VÉ-t.
+```
+
+Ha úgy döntesz, hogy a következő körben csak a védekezéssel törődsz (előre be kell jelenteni!), kizárólag a feléd irányuló támadásokat próbálod elkerülni, nem támadsz (!), valamint folyamatosan hátrálsz, akkor `+30 VÉ` módosítót kapsz arra a körre. A kör közben nem változtathatsz a taktikádon, ha ismét támadni akarsz, azt csak a következő körben teheted meg.
+
+Fontos, hogy másra nem pazarolhatod figyelmedet, kizárólag a védekezésre. Ha nem így teszel, vagy nem vagy képes a folyamatos hátrálásra (például egy fal miatt, ami elzárja mögötted az utat), akkor a KM – tetszése szerint – csökkentheti a fenti `VÉ` módosítódat, akár `0`-ig is. A Teljes Védekezés Taktika nem kombinálható más taktikával.
+
+---
 ### Kezdeményező taktika
 
 Ha mindenáron magadhoz akarod ragadni a kezdeményezést megteheted, de ennek ára van. A kapkodás sebezhetővé tesz. Kezdeményező taktika alkalmazása esetén megnövelheted **Kezdeményező Értékedet** maximum `10`-el de cserébe kétszer akkora **Védő Érték** csökkenést szenvedsz el **az ellenfél első támadásával szemben** (akár megnyerted így a kezdeményezést, akár nem)
@@ -81,29 +95,24 @@ Ha úgy döntesz, hogy a fenti feltételekkel lemondasz a kezdeményezésről, c
 A Kiváró taktika alkalmazható **Támadó taktikával** együtt is, továbbá roham ellen is bevethető, de **nem** használható **Védő Taktikával** együtt, sőt több ellenféllel való harc esetén sem!
 
 ---
-### Védekező harc
-
-```
-VÉ:+30
-Ellenfeled csak "kiskockával" csökkenthet rajtad VÉ-t.
-```
-
-Ha úgy döntesz, hogy a következő körben csak a védekezéssel törődsz (előre be kell jelenteni!), kizárólag a feléd irányuló támadásokat próbálod elkerülni, nem támadsz (!), valamint folyamatosan hátrálsz, akkor `+30 VÉ` módosítót kapsz arra a körre. A kör közben nem változtathatsz a taktikádon, ha ismét támadni akarsz, azt csak a következő körben teheted meg.
-
-Fontos, hogy másra nem pazarolhatod figyelmedet, kizárólag a védekezésre. Ha nem így teszel, vagy nem vagy képes a folyamatos hátrálásra (például egy fal miatt, ami elzárja mögötted az utat), akkor a KM – tetszése szerint – csökkentheti a fenti `VÉ` módosítódat, akár `0`-ig is. A Védekező harc nem kombinálható más taktikával.
-
----
 ### Fárasztás
 
-VÉ csökkentésre: `+2` ha nincs találat.
 
-Sebzés helyett: nagykockás VÉ csökkentés + további `+10VÉ` csökkentés (a Többszörös találat nem növeli tovább)
+```
+VÉ csökkentésre: +2
+ha nincs találat.
+```
+
+```
+Sebzés helyett:
+ nagykocka + 10 VÉ csökkentés
+```
 
 Ha fárasztani kívánod ellenfeledet, ellenállását megtörni anélkül, hogy sebet ejtenél rajta, akkor a harc ugyanúgy folyik, mint más esetben, csak `+2`-vel nő **VÉ csökkentésed** ha nem érsz el találatot támadó dobásod során.
 
-Sebző támadás esetén pedig elmarad maga a sebzés – helyette **nagykockával** és további `+10`-el csökkentheted ellenfeled **Védő Értékét**.
+Sebző támadás esetén pedig elmarad maga a sebzés – helyette **nagykockával** és további `+10`-el csökkentheted ellenfeled **Védő Értékét**. A Többszörös találat nem növeli tovább a VÉ csökkentést.
 
-Más taktikával együtt nem használható.
+Más taktikával együtt **nem** használható.
 
 A Fárasztás taktikának leginkább körbevett ellenfél esetén van értelme: a pribékek kifáraszthatják a „vadat”, míg vezetőjük felkészül.
 
