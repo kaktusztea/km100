@@ -235,7 +235,7 @@ Meglepetés esetén is kell **Ellenpróbát** dobni
 	- **1. fok**: Aktuális harcmodor - `6.szint`
 	- **2. fok**: Aktuális harcmodor - `9.szint`
 
-**Hatás**: Az általad kiszemelt területre sikerül leadnod a támadásod. Sebezz, ahogy szoktál, érme méretű célpontnál [Harci Anatómia](fortelyok.harci/harci_anatomia.md) **SP** bónuszt ad.
+**Hatás**: Az általad kiszemelt területre sikerül leadnod a támadásod, sebezz, ahogy szoktál. Érme méretű célpontnál a [Harci Anatómia](fortelyok.harci/harci_anatomia.md) **SP** bónusz érvényesül.
 
 <br />
 
