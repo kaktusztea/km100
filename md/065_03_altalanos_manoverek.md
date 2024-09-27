@@ -35,9 +35,10 @@ Ha az ellenfél úgy dönt, hogy szándékosan beengedi belharcba a karaktert, a
 
 
 **Hatás**: Sikeresen bekerültél belharcba, megkapod a Belharci szituációnál leírt módosítókat.
-&#8203;<br />
 
 **Kijövetel**: Sikeres [Kibontakozás/Átsiklás](#kibontakoz%C3%A1s%C3%A1tsikl%C3%A1s) manőver. Lásd ott.
+
+<br />
 
 ---
 #### Belharcból kibontakozás
@@ -75,9 +76,11 @@ Lásd: ⚜️[Kibontakozás/Átsiklás](#kibontakoz%C3%A1s%C3%A1tsikl%C3%A1s) ma
 
 **Hatás**: Sikerül a harcból kibontakoznod, ellenfele(i)d már nem támadhat(nak) rád. Ha üldöznek, futás: támadóddal **Gyorsaság** ellenpróba. Ha megnyerted, leléptél, ha üldöződ nyerte, akkor utolért és leadhat egy támadást rád hátulról (`+10 TÉ`).
 
-⚜️**Kibontakozás Belharcból**:<br />
-ugyanúgy dobandó, mint ha harcból akarnánk kibontakozni.
-- `+2` Nehézség ha az ellenfélnek Belharc fortélya van (fokonként)
+<br />
+
+**Kibontakozás Belharcból**⚜️<br />
+ugyanúgy dobandó, mintha harcból akarnánk kibontakozni.
+- `+2` Nehézség ha az ellenfélnek Belharc fortélya van (fokonként) ⭕TODO:egyszerűsít⭕
 - `-2` Nehézség ha az alkalmazónak Belharc fortélya van (fokonként)
 - Ha sebzel, automatikusan kibontakozhatsz a belharci szituációból
 
@@ -112,6 +115,8 @@ Csak kétlábú ellenfelek ellen alkalmazható, több lábbal rendelkező ellenf
 
 **Hatás**: Sikeresen kihúztad szálfegyvereddel ellenfeled lábát, aki a földre zuhan. Felállnia csak sikeres „**Felállás földről**” manőver alkalmazásával sikerülhet. A továbbiakban a **Harc földön fekve** módosítói vonatkoznak rá.
 
+<br />
+
 ---
 #### Lánccsapda
 
@@ -128,6 +133,8 @@ Láncos fegyverekkel hajthatod vége.
 - elengedi a fegyvert, mellyel gyakorlatilag sikeres lefegyverzéssé változik a manőver
 - továbbra is kezében tartja⭕TODO: egyszerűsíteni⭕  (`0,5` pengénél kisebb fegyver tartása esetén kötelezően kézben marad). Ha kézben tartja, akkor az ellenfelet **Harc helyhez kötve** módosítói sújtják, elveszít minden bónuszt az adott fegyverre (Mf, stb), kétkezes harc esetén a továbbiakban a másik kezében tartott fegyver harcértékeivel küzd. Ha másik keze üres, akkor sújtják a **Harc puszta kézzel** fejezetben leírt levonások is, melyek minden pusztakezes harcosra vonatkoznak.
 - a foglyul ejtett fegyverre a **Lefegyverezés** manőver csak `5`-ös nehézségű
+
+<br />
 
 ---
 #### Lefegyverzés / Fegyvertörés

@@ -9,6 +9,7 @@
 - [Leforgatás/Irányítás](#leforgat%C3%A1sir%C3%A1ny%C3%ADt%C3%A1s)
 - [Nyaktörés](#nyakt%C3%B6r%C3%A9s)
 
+---
 #### Átdobás
 
 - Nehézség: `5` + ⭕(Ellenfél minden **Belharc** foka után `+2`)
@@ -18,13 +19,17 @@
 	- Belharc – `1.fok`
 	- Belharci szituáció
 - Speciális: súlyos ellenfélnél opcionális **Erőpróba** (KM dönt)
-- Hatás: Belharc közben fogást találsz ellenfeleden és átdobod a vállad felett. Innentől kezdve a [Harc földön fekve](064_01_harci_helyzetek.md#harc-földön-fekve) módosítói szerint kell számolni harcértékeit.
+
+**Hatás**: Belharc közben fogást találsz ellenfeleden és átdobod a vállad felett. Innentől kezdve a [Harc földön fekve](064_01_harci_helyzetek.md#harc-földön-fekve) módosítói szerint kell számolni harcértékeit.
+
+<br />
 
 ---
 #### Belharcba kerülés
 
-Lásd az [Általános Manővereknél](065_03_altalanos_manoverek.md#belharcba-ker%C3%BCl%C3%A9s).
+Lásd a [Belharcba kerülés manővereknél](065_03_altalanos_manoverek.md#belharcba-ker%C3%BCl%C3%A9s)!
 
+<br />
 
 ---
 #### Feszítés, Leszorítás / Feszítésből kijövetel
@@ -38,9 +43,13 @@ Lásd az [Általános Manővereknél](065_03_altalanos_manoverek.md#belharcba-ke
 	- Kijövetelhez: sikeres **Fájdalomtűrés** próba `15`-ös célszám ellen (körönként dobandó). Ha nincs meg, képtelen visszatámadni és mágiát, pszít használni
 - Speciális:
 	- Belharcos fegyverrel együtt is lehet alkalmazni
-- Hatás:
+
+
+**Hatás**:
 	- Sikeresen lefeszítetted ellenfeledet, aki alig bír mozdulni / Kiszabadultál a feszítésből
 	- Amíg feszítve van, addig nem tud fegyverrel támadni és `TÉ/VÉ:-25` (`KÉ`-t elveszíti automatikusan)
+
+<br />
 
 ---
 #### Gáncsolás / Lábsöprés (lábbal)
@@ -50,7 +59,10 @@ Súlyos ellenfélnél: opcionális **Erőpróba** (KM dönt). Gondoljunk a nagy,
 - Nehézség: `8/5` (`5`: Belharci szituációban)
 - Fázisok: `E V`
 - Max fok: `1`, követelménye: Közelharc - `5.szint`, Aktuális harcmodor: - `5.szint`
-- Hatás: Sikeresen kikaszáltad ellenfeled lábát, aki a földre zuhan. Felállnia csak sikeres „**Felállás földről**” manőver alkalmazásával sikerülhet. A továbbiakban a **Harc földön fekve** módosítói vonatkoznak rá.
+
+**Hatás**: Sikeresen kikaszáltad ellenfeled lábát, aki a földre zuhan. Felállnia csak sikeres „**Felállás földről**” manőver alkalmazásával sikerülhet. A továbbiakban a **Harc földön fekve** módosítói vonatkoznak rá.
+
+<br />
 
 ---
 #### Kéztörés
@@ -64,7 +76,17 @@ Súlyos ellenfélnél: opcionális **Erőpróba** (KM dönt). Gondoljunk a nagy,
 	- Belharci szituáció
 	- Belharc – `1.fok`
 	- Közelharc – `6 .szint`
-- Hatás: kitörted ellenfeled kezét, ⭕`5 ÉP`⭕ sebzés, a sérült kezét nem használhatja harcra, amíg meg nem gyógyul.
+
+**Hatás**: kitörted ellenfeled kezét, ⭕`5 ÉP`⭕ sebzés, a sérült kezét nem használhatja harcra, amíg meg nem gyógyul.
+
+<br />
+
+---
+#### Kibontakozás Belharcból
+
+Lásd a [Kibontakozás/Átsiklás manővernél](065_03_altalanos_manoverek.md#kibontakoz%C3%A1s%C3%A1tsikl%C3%A1s)!
+
+<br />
 
 ---
 #### Lábtörés
@@ -77,8 +99,10 @@ Súlyos ellenfélnél: opcionális **Erőpróba** (KM dönt). Gondoljunk a nagy,
 - Végbevitel követelménye:
 	- Belharci szituáció
 	- Belharc – `⭕2⭕.fok`
-- Hatás: kitörted ellenfeled lábát, ⭕`6 ÉP`⭕ sebzés
 
+**Hatás**: kitörted ellenfeled lábát, ⭕`6 ÉP`⭕ sebzés
+
+<br />
 
 ---
 #### Lefejelés
@@ -94,16 +118,21 @@ Súlyos ellenfélnél: opcionális **Erőpróba** (KM dönt). Gondoljunk a nagy,
 	- Nem szükséges Belharc fortély
 	- ⭕Ellenfél képzett belharcos: lásd leírás⭕
 	- ⭕TODO: állatoknak általában van Belharcuk! (KM dönt)⭕
-- Hatás: Arcon fejelted áldozatodat.
+
+**Hatás**: Arcon fejelted áldozatodat.
+
+<br />
 
 ---
 #### Leforgatás/Irányítás
 
 - Nehézség: `8 / 4` (Lefeszített ellenfél ellen a nehézség csak `4`)
 - Fázisok: `E V`
-- Végbevitel követelménye:
-	-  Belharci szituáció
-- Hatás: Képes vagy ellenfeledet a számodra kedvező irányba forgatni/terelni miközben összeakaszkodtok. Legfeljebb `5 méternyi` távot tetethetsz meg vele.
+- Végbevitel követelménye: Belharci szituáció
+
+**Hatás**: Képes vagy ellenfeledet a számodra kedvező irányba forgatni/terelni miközben összeakaszkodtok. Legfeljebb `5 méternyi` távot tetethetsz meg vele.
+
+<br />
 
 ---
 #### Nyaktörés
@@ -115,7 +144,8 @@ Súlyos ellenfélnél: opcionális **Erőpróba** (KM dönt). Gondoljunk a nagy,
 	- Belharci szituáció
 	- Belharc – `2.fok`
 	- Harci anatóma – `1.fok`
-- Hatás: Kitörted ellenfeled nyakát. Amennyiben elfszabású anatómiája van, 1 körön belül meghal.
+
+**Hatás**: Kitörted ellenfeled nyakát. Amennyiben elfszabású anatómiája van, 1 körön belül meghal.
 
 <br />
 
