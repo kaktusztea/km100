@@ -48,7 +48,7 @@ A harc ritmusát fenntartva, elméd erejének hála kevésbé merít ki a harc s
 - [Slan Tradíció](../053_01_slan_tradicio.md) VAGY ⭕[Fejvadász Tradíció](../053_02_fejvadasz_tradicio.md) - `12.szint`  (("Sárkány ébredése" Slan képzettség IS legyen 12.szintű?))
 
 🌟 **Hatás**:
-- Az alkalmazó `VÉ`-je [Teljes Védekezés Taktika](064_02_harci_taktikak.md#teljes-v%C3%A9dekez%C3%A9s-taktika) (harci taktika) alkalmazásakor **egyáltalán nem csökken** ellenfelei támadásának hatására.
+- Az alkalmazó `VÉ`-je [Teljes Védekezés Taktika](../064_02_harci_taktikak.md#teljes-v%C3%A9dekez%C3%A9s-taktika) (harci taktika) alkalmazásakor **egyáltalán nem csökken** ellenfelei támadásának hatására.
 - Minden körben **Összpontosítás** próba: (`15+ellenfelek száma`). Ha sikertelen, akkor csak a `3. fok` hatásait kapja meg a karakter.
 
 <br />
