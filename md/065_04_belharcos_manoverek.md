@@ -11,7 +11,7 @@
 
 #### Átdobás
 
-- Nehézség: `5` + (Ellenfél minden **Belharc** foka után `+2`)
+- Nehézség: `5` + ⭕(Ellenfél minden **Belharc** foka után `+2`)
 - Fázisok: `E V`
 - Végbevitel követelménye:
 	- Közelharc – `4 .szint`
@@ -23,7 +23,7 @@
 ---
 #### Feszítés, Leszorítás / Feszítésből kijövetel
 
-- Nehézség: `6` ± **Erő** különbség + (Ellenfél minden **Belharc** foka után `+2`)
+- Nehézség: `6` ± **Erő** különbség + ⭕(Ellenfél minden **Belharc** foka után `+2`)
 - Fázisok: `E V`
 - Végbevitel követelménye:
 	- Belharci szituáció
@@ -38,33 +38,35 @@
 
 ---
 #### Gáncsolás / Lábsöprés (lábbal)
-- Nehézség: `8/5`
+
+Súlyos ellenfélnél: opcionális **Erőpróba** (KM dönt). Gondoljunk a nagy, páncélos ellenfelekre! Csak kétlábú ellenfelek ellen alkalmazható, több lábbal rendelkező ellenfélnél **Ökleléssel** kell próbálkoznod.
+
+- Nehézség: `8/5` (`5`: Belharci szituációban)
 - Fázisok: `E V`
-- Max fok: `1`
-- Végbevitel követelménye: -
-- **1. fok** követelmény: Közelharc - `5.szint`, Aktuális harcmodor: - `5.szint`
-- Speciális:
-	- Belharci szituációban a nehézség csak `5`
-	- Súlyos ellenfélnél: opcionális **Erőpróba** (KM dönt). Gondoljunk a nagy, páncélos ellenfelekre!
-	- Csak kétlábú ellenfelek ellen alkalmazható, több lábbal rendelkező ellenfélnél **Ökleléssel** kell próbálkoznod.
+- Max fok: `1`, követelménye: Közelharc - `5.szint`, Aktuális harcmodor: - `5.szint`
 - Hatás: Sikeresen kikaszáltad ellenfeled lábát, aki a földre zuhan. Felállnia csak sikeres „**Felállás földről**” manőver alkalmazásával sikerülhet. A továbbiakban a **Harc földön fekve** módosítói vonatkoznak rá.
 
 ---
 #### Kéztörés
 
-- Nehézség:  `6` ± **Erő** különbség + (Ellenfél minden **Belharc** foka után `+2`)
+- Nehézség: `6`
+	- ± **Erő** különbség
+	- `+[1-6]`: ellenfél páncélban van. KM dönt a mértékről.
+	- Ellenfél minden **Belharc** foka után `+2`
 - Fázisok: `E V`
 - Végbevitel követelménye
 	- Belharci szituáció
 	- Belharc – `1.fok`
 	- Közelharc – `6 .szint`
-- Hatás: kitörted ellenfeled kezét, ⭕`5 ÉP`⭕ sebzés, a sérült kezét nem  használhatja harcra, amíg meg nem gyógyul.
-- ⭕Páncél nehezítsen?⭕
+- Hatás: kitörted ellenfeled kezét, ⭕`5 ÉP`⭕ sebzés, a sérült kezét nem használhatja harcra, amíg meg nem gyógyul.
 
 ---
 #### Lábtörés
 
-- Nehézség: `8` ± **Erő** különbség + (Ellenfél minden **Belharc** foka után `+2`)
+- Nehézség: `8` 
+	- ± **Erő** különbség
+	- Ellenfél minden **Belharc** foka után `+2`
+	- `+[1-6]`: ellenfél páncélban van. KM dönt a mértékről.
 - Fázisok: `E V`
 - Végbevitel követelménye:
 	- Belharci szituáció
@@ -74,15 +76,15 @@
 
 ---
 #### Lefejelés
+
 ⭕Belharcot előbb!⭕
 
-- Nehézség: `8/5`
+- Nehézség: `8/5` (Belharcban a nehézség csak `5`)
 - Fázisok: `E V`
 - Max fok: `1`
 - Végbevitel követelménye:
 	-  xyz
 - Speciális:
-	- Belharcban a nehézség csak 5
 	- Nem szükséges Belharc fortély
 	- ⭕Ellenfél képzett belharcos: lásd leírás⭕
 	- ⭕TODO: állatoknak általában van Belharcuk! (KM dönt)⭕
@@ -101,13 +103,13 @@
 #### Nyaktörés
 
 - Nehézség: `9`
+	- `+[1-6]`: ellenfél páncélban van. KM dönt a mértékről.
 - Fázisok: `E V`
 - Végbevitel követelménye:
 	- Belharci szituáció
 	- Belharc – `2.fok`
 	- Harci anatóma – `1.fok`
-	- ⭕TODO: páncél akadályozzon – legyen nehezebb⭕
-- Hatás: Kitörted ellenfeled nyakát. Amennyiben humanoid anatómiájú egyedről van szó, 1 körön belül meghal.
+- Hatás: Kitörted ellenfeled nyakát. Amennyiben elfszabású anatómiája van, 1 körön belül meghal.
 
 <br />
 
