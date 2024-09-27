@@ -20,7 +20,7 @@ Manővereknek lehet:
 - speciális könnyítő/nehezítő körülményei (+/- módosítók a nehézségre)
 - extra végbeviteli követelményei: Ezek nélkül a KM dönt, hogy végrehajtható -e és ha igen, mekkora plusz célszám büntetéssel
 
-Manőver alkalmazásakor nem folytatható [Védekező harc](064_02_harci_taktikak.md#védekező-harc), vagy [Védő Taktika](064_02_harci_taktikak.md#védő-taktika) (kivéve ahol ez külön meg van említve), de [Támadó taktika](064_02_harci_taktikak.md#támadó-taktika) igen, kivéve ahol ez az adott Manővernél külön meg van említve.
+Manőver alkalmazásakor nem folytatható [Teljes Védekezés Taktika](064_02_harci_taktikak.md#teljes-v%C3%A9dekez%C3%A9s-taktika), vagy [Védő Taktika](064_02_harci_taktikak.md#védő-taktika) (kivéve ahol ez külön meg van említve), de [Támadó taktika](064_02_harci_taktikak.md#támadó-taktika) igen, kivéve ahol ez az adott Manővernél külön meg van említve.
 
 [Rohamnál](064_02_harci_taktikak.md#roham) csak az a manőver hajtható végre, amelyiknél ez külön meg van említve
 
