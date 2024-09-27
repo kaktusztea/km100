@@ -21,6 +21,12 @@
 - Hatás: Belharc közben fogást találsz ellenfeleden és átdobod a vállad felett. Innentől kezdve a [Harc földön fekve](064_01_harci_helyzetek.md#harc-földön-fekve) módosítói szerint kell számolni harcértékeit.
 
 ---
+#### Belharcba kerülés
+
+Lásd az [Általános Manővereknél](065_03_altalanos_manoverek.md#belharcba-ker%C3%BCl%C3%A9s).
+
+
+---
 #### Feszítés, Leszorítás / Feszítésből kijövetel
 
 - Nehézség: `6` ± **Erő** különbség + ⭕(Ellenfél minden **Belharc** foka után `+2`)
