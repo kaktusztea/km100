@@ -33,9 +33,8 @@ Ha az ellenfél úgy dönt, hogy szándékosan beengedi belharcba a karaktert, a
 	- **Közelharc** harcmodor
 - Nagy siker: `4`-el túldobott Ellenpróbánál még sebző **Megakasztás** támadást elszenvedve is bekerülsz belharcba.
 
-&#8203;<br />
 
-- **Hatás**: Sikeresen bekerültél belharcba, megkapod a Belharci szituációnál leírt módosítókat.
+**Hatás**: Sikeresen bekerültél belharcba, megkapod a Belharci szituációnál leírt módosítókat.
 &#8203;<br />
 
 **Kijövetel**: Sikeres [Kibontakozás/Átsiklás](#kibontakoz%C3%A1s%C3%A1tsikl%C3%A1s) manőver. Lásd ott.
@@ -45,6 +44,7 @@ Ha az ellenfél úgy dönt, hogy szándékosan beengedi belharcba a karaktert, a
 
 Lásd: ⚜️[Kibontakozás/Átsiklás](#kibontakoz%C3%A1s%C3%A1tsikl%C3%A1s) manőver.
 
+<br />
 
 ---
 #### Felállás földről
@@ -53,9 +53,9 @@ Lásd: ⚜️[Kibontakozás/Átsiklás](#kibontakoz%C3%A1s%C3%A1tsikl%C3%A1s) ma
 - Fázisok: `M E`
 - Speciális: Manőver-pontokhoz **Akrobatika** `1/3`-a hozzáadható (lefele kerekítve)
 
-&#8203;<br />
+**Hatás**: Sikerült harc közben a földről feltápászkodnod, folytathatod a harcot, immár levonások nélkül.
 
-- **Hatás**: Sikerült harc közben a földről feltápászkodnod, folytathatod a harcot, immár levonások nélkül.
+<br />
 
 ---
 #### Kibontakozás/Átsiklás
@@ -73,15 +73,15 @@ Lásd: ⚜️[Kibontakozás/Átsiklás](#kibontakoz%C3%A1s%C3%A1tsikl%C3%A1s) ma
   - **2.fok**: `Ügyesség: +1`
 - Taktikák: Védő Taktika és Védekező harc közben is végezhető Kibontakozás (az Átsiklás nem).
 
-&#8203;<br />
-
-- **Hatás**: Sikerül a harcból kibontakoznod, ellenfele(i)d már nem támadhat(nak) rád. Ha üldöznek, futás: támadóddal **Gyorsaság** ellenpróba. Ha megnyerted, leléptél, ha üldöződ nyerte, akkor utolért és leadhat egy támadást rád hátulról (`+10 TÉ`).
+**Hatás**: Sikerül a harcból kibontakoznod, ellenfele(i)d már nem támadhat(nak) rád. Ha üldöznek, futás: támadóddal **Gyorsaság** ellenpróba. Ha megnyerted, leléptél, ha üldöződ nyerte, akkor utolért és leadhat egy támadást rád hátulról (`+10 TÉ`).
 
 ⚜️**Kibontakozás Belharcból**:<br />
 ugyanúgy dobandó, mint ha harcból akarnánk kibontakozni.
 - `+2` Nehézség ha az ellenfélnek Belharc fortélya van (fokonként)
 - `-2` Nehézség ha az alkalmazónak Belharc fortélya van (fokonként)
 - Ha sebzel, automatikusan kibontakozhatsz a belharci szituációból
+
+<br />
 
 ---
 #### Kiegészítő támadás
@@ -93,9 +93,9 @@ ugyanúgy dobandó, mint ha harcból akarnánk kibontakozni.
 	- Közelharc – `4.szint`
 	- Forgatott fegyverre: Mesterfegyver – `1.fok`
 
-&#8203;<br />
+**Hatás**: Harc közben egy támadásod helyett valamilyen csalafinta, alattomos húzást vetsz be ellenfeled ellen. Ilyen lehet például, hogy öklöddel váratlanul az arcába csapsz, vagy térden rúgod, esetleg a vállába bokszolsz, stb. Ennek a támadásodnak a sebzése `k20+1`. (Természetesen az esetleges „kiegészítők”, mint *vaskesztyű*, *szegecsek* és az **Erőbónusz** szintén beleszámítanak a sebzésbe.) Ha a sebzés legalább `5`, akkor a fentieken kívül ellenfeled elveszíti következő támadását.
 
-- Hatás: Harc közben egy támadásod helyett valamilyen csalafinta, alattomos húzást vetsz be ellenfeled ellen. Ilyen lehet például, hogy öklöddel váratlanul az arcába csapsz, vagy térden rúgod, esetleg a vállába bokszolsz, stb. Ennek a támadásodnak a sebzése `k20+1`. (Természetesen az esetleges „kiegészítők”, mint *vaskesztyű*, *szegecsek* és az **Erőbónusz** szintén beleszámítanak a sebzésbe.) Ha a sebzés legalább `5`, akkor a fentieken kívül ellenfeled elveszíti következő támadását.
+<br />
 
 ---
 #### Lábkirántás szálfegyverrel
@@ -110,9 +110,7 @@ Csak kétlábú ellenfelek ellen alkalmazható, több lábbal rendelkező ellenf
 	- Szálfegyver használata
 	- Súlyos / nehézpáncélos ellenfélnél opcionális Erőpróba (KM dönt). Ez a tényező kevésbé hangsúlyos, mint a sima **Gáncsolásnál**.
 
-&#8203;<br />
-
-- Hatás: Sikeresen kihúztad szálfegyvereddel ellenfeled lábát, aki a földre zuhan. Felállnia csak sikeres „**Felállás földről**” manőver alkalmazásával sikerülhet. A továbbiakban a **Harc földön fekve** módosítói vonatkoznak rá.
+**Hatás**: Sikeresen kihúztad szálfegyvereddel ellenfeled lábát, aki a földre zuhan. Felállnia csak sikeres „**Felállás földről**” manőver alkalmazásával sikerülhet. A továbbiakban a **Harc földön fekve** módosítói vonatkoznak rá.
 
 ---
 #### Lánccsapda
@@ -125,16 +123,11 @@ Láncos fegyverekkel hajthatod vége.
 	- **1.fok**: Láncos fegyverre Mesterfegyver fortély – `1.fok`
 	- **2.fok**: Láncos fegyverre: Mesterfegyver fortély – `2.fok`
 
-&#8203;<br />
-
-- Hatás: Láncos fegyvereddel foglyul ejted ellenfeled pengéjét, vagy fegyvertartó kezét, melyet a továbbiakban nem tud használni, amíg ki nem szabadítja azt. Amennyiben ellenfeled `0,5` pengénél nagyobb fegyvert forgat, dönthet:
-	- elengedi a fegyvert, mellyel gyakorlatilag sikeres lefegyverzéssé változik a manőver
-	- továbbra is kezében tartja⭕TODO: egyszerűsíteni⭕
-	  (`0,5` pengénél kisebb fegyver tartása esetén kötelezően kézben marad). Ha kézben tartja, akkor az ellenfelet **Harc helyhez kötve** módosítói sújtják, elveszít minden bónuszt az adott fegyverre (Mf, stb), kétkezes harc esetén a továbbiakban a másik kezében tartott fegyver harcértékeivel küzd. Ha másik keze üres, akkor sújtják a **Harc puszta kézzel** fejezetben leírt levonások is, melyek minden pusztakezes harcosra vonatkoznak.
-
-&#8203;<br />
-
-- Hatás 2: a foglyul ejtett fegyverre a **Lefegyverezés** manőver csak `5`-ös nehézségű
+**Hatás**:
+- Láncos fegyvereddel foglyul ejted ellenfeled pengéjét, vagy fegyvertartó kezét, melyet a továbbiakban nem tud használni, amíg ki nem szabadítja azt. Amennyiben ellenfeled `0,5` pengénél nagyobb fegyvert forgat, dönthet:
+- elengedi a fegyvert, mellyel gyakorlatilag sikeres lefegyverzéssé változik a manőver
+- továbbra is kezében tartja⭕TODO: egyszerűsíteni⭕  (`0,5` pengénél kisebb fegyver tartása esetén kötelezően kézben marad). Ha kézben tartja, akkor az ellenfelet **Harc helyhez kötve** módosítói sújtják, elveszít minden bónuszt az adott fegyverre (Mf, stb), kétkezes harc esetén a továbbiakban a másik kezében tartott fegyver harcértékeivel küzd. Ha másik keze üres, akkor sújtják a **Harc puszta kézzel** fejezetben leírt levonások is, melyek minden pusztakezes harcosra vonatkoznak.
+- a foglyul ejtett fegyverre a **Lefegyverezés** manőver csak `5`-ös nehézségű
 
 ---
 #### Lefegyverzés / Fegyvertörés
@@ -150,9 +143,9 @@ Ha meg akarod fosztani ellenfeledet fegyverétől, vagy kiütve kezéből, vagy 
 	- **2.fok**: Harcmodor – `7.szint`, Mesterfegyver fortély – `1.fok`
 	- **3.fok**: Harcmodor – `9.szint`, Mesterfegyver fortély – `2.fok`
 
-&#8203;<br />
+**Hatás**: A lefegyverzés sikeres. Ellenfeled kezéből kihullik a fegyver, vagy eltörik.
 
-- **Hatás**: A lefegyverzés sikeres. Ellenfeled kezéből kihullik a fegyver, vagy eltörik.
+<br />
 
 ---
 #### Mesterjel
@@ -165,9 +158,9 @@ A használt fegyver csak valamilyen (legfeljebb 1 penge hosszú) hegyes szúróf
 	- **1.fok**: Mesterfegyver – `2.fok`
 	- **2.fok**: Mesterfegyver – `3.fok`
 
-&#8203;<br />
+**Hatás**: Sikeres manőver esetén képes vagy mesterjeledet belekarcolni ellenfeled ruhájába/bőrébe.
 
-- **Hatás**: Sikeres manőver esetén képes vagy mesterjeledet belekarcolni ellenfeled ruhájába/bőrébe.
+<br />
 
 ---
 #### Öklelés
@@ -179,9 +172,9 @@ A használt fegyver csak valamilyen (legfeljebb 1 penge hosszú) hegyes szúróf
 - Végbevitel követelménye:
 	-  ⭕TODO⭕
 
-&#8203;<br />
+**Hatás**: ⭕TODO⭕
 
-- **Hatás**: ⭕TODO⭕
+<br />
 
 ---
 #### Pajzzsal öklelés
@@ -192,10 +185,9 @@ A használt fegyver csak valamilyen (legfeljebb 1 penge hosszú) hegyes szúróf
 	- Pajzshasználat – `2.fok`
 	- Nagy és Közepes pajzzsal lehet csak
 
-&#8203;<br />
+**Hatás**: Pajzsoddal sikeresen feldöntötted ellenfeled, aki ettől kezdve (míg fel nem képes állni) a „**Harc földön fekve**” helyzet módosítóival harcol.
 
-- **Hatás**: Pajzsoddal sikeresen feldöntötted ellenfeled, aki ettől kezdve (míg fel nem képes állni) a „**Harc földön fekve**” helyzet módosítóival harcol.
-
+<br />
 
 ---
 #### Pajzsrongálás
@@ -208,9 +200,9 @@ Szándékosan rongálod ellenfeled pajzsát, csökkentve annak Védő Értékét
 - Végbevitel követelménye: Aktuális harcmodor - `4.szint`
 - Speciális: Ez ellen a manőver ellen nem számít a pajzs adta Védő Érték!
 
-&#8203;<br />
+**Hatás**: Sebzést dobsz. Zúzó- és kétkezes fegyverek sebzése (SP) `1:1`-ben csökkenti ellenfeled pajzsának **Védő Értékét** (véglegesen).
 
-- **Hatás**: Sebzést dobsz. Zúzó- és kétkezes fegyverek sebzése (SP) `1:1`-ben csökkenti ellenfeled pajzsának **Védő Értékét** (véglegesen).
+<br />
 
 ---
 #### Területre/Pontra támadás
@@ -236,10 +228,9 @@ Meglepetés esetén is kell **Ellenpróbát** dobni
 	- **1. fok**: Aktuális harcmodor - `6.szint`
 	- **2. fok**: Aktuális harcmodor - `9.szint`
 
-&#8203;<br />
+**Hatás**: Az általad kiszemelt területre sikerül leadnod a támadásod. Sebezz, ahogy szoktál, érme méretű célpontnál [Harci Anatómia](fortelyok.harci/harci_anatomia.md) **SP** bónuszt ad.
 
-- **Hatás**: Az általad kiszemelt területre sikerül leadnod a támadásod. Sebezz, ahogy szoktál, érme méretű célpontnál [Harci Anatómia](fortelyok.harci/harci_anatomia.md) **SP** bónuszt ad.
-
+<br />
 
 ---
 #### Távoltartás⭕
@@ -252,10 +243,9 @@ Nem támadsz, hanem ⭕TODO⭕
 - Végbevitel követelménye:
 	-  ⭕todo⭕
 
-&#8203;<br />
+**Hatás**: ⭕todo⭕
 
-- **Hatás**: ⭕todo⭕
-
+<br />
 
 ---
 #### Terelés
@@ -268,9 +258,8 @@ Alkalmazható egyszerre, csoportosan is. Csoportot terelni nehezebb. Ilyenkor em
 - Max fok: `1`, követelménye: Aktuális harcmodor - `6.szint`
 - Végbevitel követelménye: Aktuális harcmodor - ⭕`6.szint`⭕
 
-&#8203;<br />
 
-- **Hatás**: arra tereli az ellenfelet, amerre akarja. Hátrálásnál nem kell használni, az megy magától!
+**Hatás**: arra tereli az ellenfelet, amerre akarja. Hátrálásnál nem kell használni, az megy magától!
 
 <br/>
 
