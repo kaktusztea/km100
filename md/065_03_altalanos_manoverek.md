@@ -67,7 +67,7 @@ Lásd: ⚜️[Kibontakozás/Átsiklás](#kibontakoz%C3%A1s%C3%A1tsikl%C3%A1s) ma
   - **2.fok**: `Ügyesség: +1`
 - **Taktikák**: Védő Taktika és Védekező harc közben is végezhető Kibontakozás (az Átsiklás nem).
 - **Hatás**: Sikerül a harcból kibontakoznod, ellenfele(i)d már nem támadhat(nak) rád. Ha üldöznek, futás: támadóddal **Gyorsaság** ellenpróba. Ha megnyerted, leléptél, ha üldöződ nyerte, akkor utolért és leadhat egy támadást rád hátulról (`+10 TÉ`).
-&#8203;
+&#8203;<br /><br />
 - ⚜️**Kibontakozás Belharcból**: ugyanúgy dobandó, mint ha harcból akarnánk kibontakozni.
 	- `+2` Nehézség ha az ellenfélnek Belharc fortélya van (fokonként)
 	- `-2` Nehézség ha az alkalmazónak Belharc fortélya van (fokonként)
