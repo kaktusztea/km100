@@ -2,7 +2,7 @@
 
 ## Karakteralkotó
 
-**[JK Karakteralkotó v8.6.5 (ods)](https://github.com/kaktusztea/km100/raw/master/segedlet/karakteralkoto_v8.6.5.ods?raw=true)** &nbsp;&nbsp;- &nbsp;&nbsp;<!-- markdown-link-check-disable -->[LibreOffice ⬇️](https://www.libreoffice.org/download/download/)<!-- markdown-link-check-enable --> 
+**[JK Karakteralkotó v8.6.6 (ods)](https://github.com/kaktusztea/km100/raw/master/segedlet/karakteralkoto_v8.6.6.ods?raw=true)** &nbsp;&nbsp;- &nbsp;&nbsp;<!-- markdown-link-check-disable -->[LibreOffice ⬇️](https://www.libreoffice.org/download/download/)<!-- markdown-link-check-enable --> 
 
 ## Segédletek
 
