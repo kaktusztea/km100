@@ -33,3 +33,4 @@ Alacsony szinten a betegségek és sebek kezelését gyógyszerekkel, kencékkel
 ## Papi gyógyítás
 
 Isteni energiákkal, pusztán kézrátéttellel és a pap hitével való gyógyítás.
+- [Sebgyógyítás formula](https://github.com/kaktusztea/km100/blob/master/md/magia.papi.varazslatok/sebgyogyitas.md)
