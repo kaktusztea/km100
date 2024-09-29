@@ -37,9 +37,11 @@ Manőver alkalmazásakor nem folytatható [Teljes Védekezés Taktika](064_02_ha
 
 A manőver nehézségét egy számértékkel jellemezzük. Minden manővernek van egy alapnehézsége. Az adott manőver ezzel az értékkel szerepel az **Ellenpróba** **során**. E táblázatban csak irányadó számok szerepelnek, új manőver kitalálásakor hasznos. A manőverek nehézsége ezen értékek közé is eshet.
 
-> **Hasznos tanács** KM részére új (tanulható) manőver létrehozásakor:
-> ha úgy érzed, az adott manőver túl tápos, emeld meg a nehézségét és adj több tanulható fokot.
-> Így több MFP szükséges a nehézség csökkentéséhez és így már meglesz az „ára”, ha valaki eséllyel alkalmazni akarja.
+#### 🔆 Hasznos tanács KM részére új (tanulható) manőver létrehozásakor
+
+Ha úgy érzed, az adott manőver túl tápos, emeld meg a nehézségét és adj több tanulható fokot.
+
+Így több MFP szükséges a nehézség csökkentéséhez és így már meglesz az „ára”, ha valaki eséllyel alkalmazni akarja.
 
 ---
 ### Manőverek fejlesztése, manőver-ismeretek, MFP
