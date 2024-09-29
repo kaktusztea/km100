@@ -1,6 +1,8 @@
 ### 🤼‍♂️ Belharcos Manőverek listája
 
 - [Átdobás](#%C3%A1tdob%C3%A1s)
+- [Belharcba kerülés](#belharcba-ker%C3%BCl%C3%A9s)
+- [Belharcból kibontakozás](#belharcb%C3%B3l-kibontakoz%C3%A1s)
 - [Feszítés, Leszorítás / Feszítésből kijövetel](#fesz%C3%ADt%C3%A9s-leszor%C3%ADt%C3%A1s--fesz%C3%ADt%C3%A9sb%C5%91l-kij%C3%B6vetel)
 - [Gáncsolás / Lábsöprés (lábbal)](#g%C3%A1ncsol%C3%A1s--l%C3%A1bs%C3%B6pr%C3%A9s-l%C3%A1bbal)
 - [Kéztörés](#k%C3%A9zt%C3%B6r%C3%A9s)
@@ -28,6 +30,13 @@
 #### Belharcba kerülés
 
 Lásd a [Belharcba kerülés manővereknél](065_03_altalanos_manoverek.md#belharcba-ker%C3%BCl%C3%A9s)!
+
+<br />
+
+---
+#### Belharcból kibontakozás
+
+Lásd a [Belharcból kibontakozás](065_03_altalanos_manoverek.md#belharcb%C3%B3l-kibontakoz%C3%A1s)!
 
 <br />
 
@@ -78,13 +87,6 @@ Súlyos ellenfélnél: opcionális **Erőpróba** (KM dönt). Gondoljunk a nagy,
 	- Közelharc – `6 .szint`
 
 **Hatás**: kitörted ellenfeled kezét, ⭕`5 ÉP`⭕ sebzés, a sérült kezét nem használhatja harcra, amíg meg nem gyógyul.
-
-<br />
-
----
-#### Kibontakozás Belharcból
-
-Lásd a [Kibontakozás/Átsiklás manővernél](065_03_altalanos_manoverek.md#kibontakoz%C3%A1s%C3%A1tsikl%C3%A1s)!
 
 <br />
 
