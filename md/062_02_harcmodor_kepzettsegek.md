@@ -42,6 +42,6 @@ A harci képzettségek aktuális szintjétől függ, hogy az alá tartozó fegyv
 ---
 ### Harcmodorok és Manőverek
 
-Az ember-ember elleni Harcmodorok szintjei lehetőséget adnak Manőverek fejlesztésére. Bővebben lásd a [Manőverek fejlesztése](065_01_manover_szabalyok.md#man%C5%91verek-fejleszt%C3%A9se-man%C5%91ver-ismeretek-mfp) fejezetet.
+Az ember-ember elleni Harcmodorok szintjei lehetőséget adnak Manőverek könnyebb elvégzésére. Bővebben lásd a [Manőver Bónusz Pontok](017_03_mbp) fejezetet.
 
 ---
