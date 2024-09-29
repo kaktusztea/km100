@@ -2,7 +2,7 @@
 
 ## Karakteralkotó
 
-**[JK Karakteralkotó v8.6.6 (ods)](https://github.com/kaktusztea/km100/raw/master/segedlet/karakteralkoto_v8.6.6.ods?raw=true)** &nbsp;&nbsp;- &nbsp;&nbsp;<!-- markdown-link-check-disable -->[LibreOffice ⬇️](https://www.libreoffice.org/download/download/)<!-- markdown-link-check-enable --> 
+**[JK Karakteralkotó v8.6.7 (ods)](https://github.com/kaktusztea/km100/raw/master/segedlet/karakteralkoto_v8.6.7.ods?raw=true)** &nbsp;&nbsp;- &nbsp;&nbsp;<!-- markdown-link-check-disable -->[LibreOffice ⬇️](https://www.libreoffice.org/download/download/)<!-- markdown-link-check-enable --> 
 
 ## Segédletek
 
@@ -41,9 +41,9 @@
 - [Tulajdonságpróba](015_tulajdonsagproba.md) 🎲
 - [Primer és Szekunder ismeretek](016_primer_szekunder_ismeretek.md)
 - [Pontok](017_00_pontok.md)
-  - [Karakteralkotó Pont (KP)](017_01_kp.md)
+  - [Karakteralkotó Pontok (KP)](017_01_kp.md)
   - [Szabad Pontok](017_02_szp.md)
-  - [Manőverfejlesztő Pont](017_03_mfp.md)
+  - [Manőver Bónusz Pontok](017_03_mbp.md)
 - [Számaztatott értékek](018_00_szarmaztatott_ertekek.md)
   - [Életerő Pont (ÉP)](018_01_ep.md)
   - [Mágiaellenállás](018_02_magiaellenallas.md) 🎲

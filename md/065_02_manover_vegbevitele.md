@@ -44,13 +44,13 @@ Manőver pont + k10   vs.  Manőver célszáma
 
 ##### Manőver Pont
 
-| Módosító                                              | Érték                                                             |
-| ----------------------------------------------------- | ----------------------------------------------------------------- |
-| Harcmodor                                             | Az alkalmazó aktuálisan használt harcmodor képzettségének szintje |
-| HM / 10                                               | A nem-távolsági harcmodorokra elköltött **Harcérték Módosítók** (HM) tizede. |
-| „Manőver ismeret<br>(az adott manőverre)”<br>(ha van) | Fokonként: `+2`                                                   |
-| Vállalás                                              | `+1` pont → `-15 VÉ`<br>(Maximum vállalás: **+ 2**)               |
-| + k10                                                 | Dobás `k10`-el                                                    |
+| Módosító       | Érték                                                                        |
+| -------------- | ---------------------------------------------------------------------------- |
+| Harcmodor      | Az alkalmazó aktuálisan használt harcmodor képzettségének szintje            |
+| HM / 10        | A nem-távolsági harcmodorokra elköltött **Harcérték Módosítók** (HM) tizede. |
+| Manőver Bónusz | Pontonként: `+2`                                                             |
+| Vállalás       | `+1` pont → `-15 VÉ`<br>(Maximum vállalás: **+ 2**)                          |
+| + k10          | Dobás `k10`-el                                                               |
 
 <br />
 

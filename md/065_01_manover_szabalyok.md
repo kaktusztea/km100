@@ -39,26 +39,25 @@ A manőver nehézségét egy számértékkel jellemezzük. Minden manővernek va
 
 #### 🔆 Hasznos tanács KM részére új (tanulható) manőver létrehozásakor
 
-Ha úgy érzed, az adott manőver túl tápos, emeld meg a nehézségét és adj több tanulható fokot.
+Ha úgy érzed, az adott manőver túl tápos, emeld meg a nehézségét.
 
-Így több MFP szükséges a nehézség csökkentéséhez és így már meglesz az „ára”, ha valaki eséllyel alkalmazni akarja.
+Így több MBP (Manőver Bónusz Pont) szükséges a nehézség mérsékléséhez és így már meglesz az „ára”, ha valaki eséllyel alkalmazni akarja.
 
 ---
-### Manőverek fejlesztése, manőver-ismeretek, MFP
+### Manőver Bónusz Pont
 
 ```
-Manőver-ismeret:
-   fokonként +2 módosítót
-   ad az „Ellenpróba” dobásnál
-
-1 MFP = 1 fok Manőver ismeret
+Manőver Bónusz Pont:
+   +2 módosítót ad az 
+   "Ellenpróba" dobásnál
 ```
 
-Egy karakter összes **nem-távolsági Harcmodor** képzettségeinek minden `3.szintje` után automatikusan kap egy-egy ún. „**Manőverfejlesztő pontot**” (MFP), amelyekből az említett „Fejleszthető” manőverekhez **Manőver-ismeret** fokokat lehet felvenni. **1 fok tanulása 1 MFP-be kerül**, továbbá a fokok tanulásának követelményeit is teljesíteni kell (lásd az adott manőverek leírásánál).
+Egy karakter összes **nem-távolsági Harcmodor** képzettségeinek minden `3.szintje` után automatikusan kap egy-egy ún. „**Manőver Bónusz Pontot**” (MBP).
 
-A **Manőver-ismeretek**, az adott **konkrét** Manőver alkalmazása esetén fokonként `+2` módosítót adnak az alkalmazó **Manőver pontjaihoz** az **Ellenpróba** dobásánál (lásd [Manőver végrehajtása](065_02_manover_vegbevitele.md)).
+Az így kapott **pont keretet** 1 játékalkalom (vagy 1 kaland, KM dönt) során használhatja fel a karakter - megtámogatva egyes elvégzett Manővereit. 
 
-Ilyen ismeret lehet például a **Manőver – Gáncsolás** megtanulása, melynek bónuszát kizárólag **Gáncsolás** manőver esetén kapja meg a karakter. Az, hogy egy Manőver ismeretnek hány foka van, az az adott manőver leírásánál található meg.
+1 pont felhasználása `+2` bónuszt ad a Manőver [Ellenpróba](065_02_manover_vegbevitele.md#ellenpr%C3%B3ba-e) fázisánál, egyszerre legfeljebb 2 pont használható fel.
+
 
 ---
 
