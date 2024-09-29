@@ -1,9 +1,10 @@
 ### Általános manőverek listája
 
+- [Átsiklás](#%C3%A1tsikl%C3%A1s)
 - [Belharcba kerülés](#belharcba-ker%C3%BCl%C3%A9s)
 - [Belharcból kibontakozás](#belharcb%C3%B3l-kibontakoz%C3%A1s)
 - [Felállás földről](#fel%C3%A1ll%C3%A1s-f%C3%B6ldr%C5%91l)
-- [Kibontakozás/Átsiklás](#kibontakoz%C3%A1s%C3%A1tsikl%C3%A1s)
+- [Kibontakozás](#kibontakoz%C3%A1s)
 - [Kiegészítő támadás](#kieg%C3%A9sz%C3%ADt%C5%91-t%C3%A1mad%C3%A1s)
 - [Lábkirántás szálfegyverrel](#l%C3%A1bkir%C3%A1nt%C3%A1s-sz%C3%A1lfegyverrel)
 - [Lánccsapda](#l%C3%A1nccsapda)
@@ -18,32 +19,61 @@
 
 Az alábbiakban bemutatjuk a km100 által ismert manővereket közül az Általános. A KM bármikor rögtönözhet új manővert, mindössze az alábbiakat kell megtennie: meghatározni a Manőver alap nehézségét, végbevitelének követelményeit, szükséges fázisait (MEV), hatását, valamint az esetleges speciális követelményeket (képzettségpróba, stb). Amennyiben az új manőver fejleszthető, akkor az egyes tanulható fokok követelményeit is rögzíteni kell.
 
+
+#### Átsiklás
+
+Harcoló felek között, vagy akár veled harcolni vágyó ellenfél mellett elsiklani a harcérintkezés elkerülése végett.
+
+- Nehézség: `6`
+  - ± `2`  (`1` penge különbségenként) - több támadónál a legnagyobb fegyver számít
+  - `+2` minden további ellenfél után
+  - `-2` minden szövetséges után, aki ellenfele(i)ddel harcol
+- Ellenpróba célszámba a legmagasabb ellenfél MP érték számít be
+- Fázisok: `E (M)`
+	- **Ellenpróba** sikeres: átsiklottál a fegyveresek között. A próba kreatív figyelemeltereléssel is megúszható, KM dönt.
+	- **Ellenpróba** sikertelen: átsiklottál, **DE** ellenfeleid leadhatnak fejenként egy **Megakasztás** támadást rád.
+- Max fok: `2`, követelmény:
+  - **1.fok**: `Ügyesség: 0`
+  - **2.fok**: `Ügyesség: +1`
+- Taktikák: Átsiklás közben nem végezhető semmilyen Harci taktika.
+
+**Hatás**: Sikerül átsiklanod fegyveres, esetleg harcoló ellenfeled/ellenfeleid mellett/között. Ha üldöznek, futás: támadóddal **Gyorsaság** ellenpróba. Ha megnyerted, leléptél, ha üldöződ nyerte, akkor utolért és leadhat egy támadást rád hátulról (`+10 TÉ`).
+
 ---
 #### Belharcba kerülés
 
 Ha az ellenfél úgy dönt, hogy szándékosan beengedi belharcba a karaktert, akkor nincs szükség a Manőverre, dobás nélkül megtörténik a bekerülés, amelyet kezdeményezés követ, majd a harc – immár a Belharc szabályainak megfelelően.
 
-- Nehézség: `9`
+- Nehézség: `9` - 
 	- `-4`: ellenfél háttal áll
-	- `+3`  (`1` penge különbségenként (ellenfél fegyvere)) 
 - Fázisok: `M E`
-- Max fok: `2`, követelmény mindkettőnél: [Belharc](fortelyok.harci/belharc.md) - `1.fok`
+- Max fok: `2`, követelmény mindkettőnél: [Belharc](fortelyok.harci/belharc.md): `1.fok`
 - Végbevitel követelménye:
 	- Belharcos fegyver használata
 	- **Közelharc** harcmodor
 - Nagy siker: `4`-el túldobott Ellenpróbánál még sebző **Megakasztás** támadást elszenvedve is bekerülsz belharcba.
 
-
 **Hatás**: Sikeresen bekerültél belharcba, megkapod a Belharci szituációnál leírt módosítókat.
-
-**Kijövetel**: Sikeres [Kibontakozás/Átsiklás](#kibontakoz%C3%A1s%C3%A1tsikl%C3%A1s) manőver. Lásd ott.
 
 <br />
 
 ---
 #### Belharcból kibontakozás
 
-Lásd: ⚜️[Kibontakozás/Átsiklás](#kibontakoz%C3%A1s%C3%A1tsikl%C3%A1s) manőver.
+- Nehézség: `5`
+    - `-2` Belharc fortély fokonként
+    - `+2` ellenfél Belharc fortély fokaiként
+- Fázisok: `M E`
+    - **Megakasztás** sikertelen: a kibontakozás sikertelen, nem dobhatsz Ellenpróbát sem.
+	- **Ellenpróba** sikertelen: a kibontakozás sikertelen.
+	- **Ellenpróba** sikeres: kibontakoztál belharcból.
+- Ha belharcban sebzel, automatikusan, más dobás nélkül kibontakozhatsz a belharci szituációból.
+- Max fok: `2`, követelmény:
+  - **1.fok**: [Belharc](fortelyok.harci/belharc.md) - `1.fok`
+  - **2.fok**: Belharc - `1.fok`
+- Taktikák: Védő Taktika és Teljes Védekezés Taktika közben is végezhető.
+
+**Hatás**: Sikeresen kibontakoztál belharcból. Most sima harci szituációban vagy ellenfeleddel.
 
 <br />
 
@@ -51,15 +81,15 @@ Lásd: ⚜️[Kibontakozás/Átsiklás](#kibontakoz%C3%A1s%C3%A1tsikl%C3%A1s) ma
 #### Felállás földről
 
 - Nehézség: `6`
+    - `- (Akrobatika szint / 3)` (↓)
 - Fázisok: `M E`
-- Speciális: Manőver-pontokhoz **Akrobatika** `1/3`-a hozzáadható (lefele kerekítve)
 
 **Hatás**: Sikerült harc közben a földről feltápászkodnod, folytathatod a harcot, immár levonások nélkül.
 
 <br />
 
 ---
-#### Kibontakozás/Átsiklás
+#### Kibontakozás
 
 - Nehézség: `5`
   - ± `2`  (`1` penge különbségenként) - több támadónál a legnagyobb fegyver számít
@@ -67,22 +97,14 @@ Lásd: ⚜️[Kibontakozás/Átsiklás](#kibontakoz%C3%A1s%C3%A1tsikl%C3%A1s) ma
   - `-2` minden szövetséges után, aki ellenfeleddel harcol
 - Ellenpróba célszámba a legmagasabb ellenfél MP érték számít be
 - Fázisok: `E (M)`
-	- **Ellenpróba** sikeres: kibontakoztál. A próba kreatív figyelemeltereléssel megúszható, KM dönt.
-	- **Ellenpróba** sikertelen: kibontakoztál, **DE** az ellenfelek leadhatnak egy **Megakasztás** támadást rád
+	- **Ellenpróba** sikeres: kibontakoztál. A próba kreatív figyelemeltereléssel is megúszható, KM dönt.
+	- **Ellenpróba** sikertelen: kibontakoztál, **DE** ellenfeleid leadhatnak fejenként egy **Megakasztás** támadást rád.
 - Max fok: `2`, követelmény:
   - **1.fok**: `Ügyesség: 0`
   - **2.fok**: `Ügyesség: +1`
-- Taktikák: Védő Taktika és Teljes Védekezés Taktika közben is végezhető Kibontakozás (az Átsiklás nem).
+- Taktikák: Védő Taktika és Teljes Védekezés Taktika közben is végezhető Kibontakozás.
 
 **Hatás**: Sikerül a harcból kibontakoznod, ellenfele(i)d már nem támadhat(nak) rád. Ha üldöznek, futás: támadóddal **Gyorsaság** ellenpróba. Ha megnyerted, leléptél, ha üldöződ nyerte, akkor utolért és leadhat egy támadást rád hátulról (`+10 TÉ`).
-
-<br />
-
-**Kibontakozás Belharcból**⚜️<br />
-ugyanúgy dobandó, mintha harcból akarnánk kibontakozni.
-- `+2` Nehézség ha az ellenfélnek Belharc fortélya van (fokonként) ⭕TODO:egyszerűsít⭕
-- `-2` Nehézség ha az alkalmazónak Belharc fortélya van (fokonként)
-- Ha sebzel, automatikusan kibontakozhatsz a belharci szituációból
 
 <br />
 
@@ -186,7 +208,9 @@ A használt fegyver csak valamilyen (legfeljebb 1 penge hosszú) hegyes szúróf
 ---
 #### Pajzzsal öklelés
 
-- Nehézség: `7` ± **Erő** különbség + (Ellenfél minden **Pajzshasználat** foka után `+2` (ha használ épp pajzsot ő is))
+- Nehézség: `7`
+    - ± **Erő** különbség
+    - Ellenfél minden **Pajzshasználat** foka után `+2` (ha használ épp pajzsot ő is)
 - Fázisok: `E V`
 - Végbevitel követelménye:
 	- Pajzshasználat – `2.fok`

@@ -21,7 +21,7 @@ Megelőző támadási forma, melyre az ellenfél jogosult teljes, fegyveres `TÉ
 
 A Megakasztás az első fázis a Manőver végrehajtása során. Ha az így érkező támadás sebző, akkor a Manőver nem sikerült. (Tipikus példa a **Belharcba kerülés**.)
 
-<br/>
+<br />
 
 ---
 #### Végrehajtás (V)
@@ -32,7 +32,7 @@ Ha a **Végrehajtás** sikertelen, akkor a helyzet megvolt, de nem sikerült kih
 
 A fentieken kívül minden **Manővernek** lehetnek egyéni, speciális követelményei, ezeket a saját leírásuknál található meg. A Manőverek fenti (legfeljebb) három „komponense” együtt kezelendő és együtt összesen egy „sima” támadást „emésztenek fel”.
 
-<br/>
+<br />
 
 ---
 
@@ -52,7 +52,7 @@ Manőver pont + k10   vs.  Manőver célszáma
 | Vállalás                                              | `+1` pont → `-15 VÉ`<br>(Maximum vállalás: **+ 2**)               |
 | + k10                                                 | Dobás `k10`-el                                                    |
 
-<br/>
+<br />
 
 ##### Célszám
 
@@ -97,5 +97,9 @@ A manőverek végrehajtásával bárki próbálkozhat, aki az adott manővernél
 Amennyiben nem teljesíti, akkor is nekifuthat, de az Ellenpróba dobásánál a célszám az ő számára `3`-al megemelkedik.
 
 ---
+### Fegyverméret-kategóriák
+
+A Fegyverméret-kategóriák adta különbségek az Ellenpróbánál (**E**) módosítóként nem szükségesek, ha a manőverben van kötelező (**M**)egakasztás, vagy (**V**)égrehajtás, mert ott az ellenfél harcértékeiben ez benne van.
+
 
 🔗[Általános Manőverek listája](065_03_altalanos_manoverek.md) →
