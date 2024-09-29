@@ -13,7 +13,7 @@
 - [Öklelés](#%C3%B6klel%C3%A9s)
 - [Pajzzsal öklelés](#pajzzsal-%C3%B6klel%C3%A9s)
 - [Pajzsrongálás](#pajzsrong%C3%A1l%C3%A1s)
-- [Területre/Pontra támadás](#ter%C3%BCletrepontra-t%C3%A1mad%C3%A1s)
+- [Területre / Pontra támadás](#ter%C3%BCletrepontra-t%C3%A1mad%C3%A1s)
 - [Távoltartás](#t%C3%A1voltart%C3%A1s)
 - [Terelés](#terel%C3%A9s)
 
@@ -164,15 +164,16 @@ Láncos fegyverekkel hajthatod vége.
 Ha meg akarod fosztani ellenfeledet fegyverétől, vagy kiütve kezéből, vagy annak eltörésével, akkor lefegyverezés manővert kell alkalmaznod. Azokra a Harcmodorokra és fegyverre kapod meg az adott szint bónuszát, amelyek követelményeit teljesíted. Karmok és szarvak ellen nem használható a Manőver, ott **Csonkolás** szükséges. Hogy fegyvercsellel, végtagsebzéssel, vagy fegyvertöréssel fosztja meg ellenfelét a karakter, arról a KM dönt és az esetleges módosítókat is ő határozza meg.
 
 - Nehézség: `10`
-	- `[-4;+2]`: a használt fegyver mennyire alkalmas a másik fegyver elvételére. KM dönt.
+	- `+2`: fegyvertörés. Nehezebb, mint a lefegyverzés.
 	- `-2`:  fából készült szálfegyverek törése
+	- `[-2;+2]`: a használt fegyver mennyire alkalmas a másik fegyver elvételére. KM dönt.
 - Fázisok: `E V`
 - Max fok: `3`, követelmények:
 	- **1.fok**: Harcmodor – `5.szint`
 	- **2.fok**: Harcmodor – `7.szint`, Mesterfegyver fortély – `1.fok`
 	- **3.fok**: Harcmodor – `9.szint`, Mesterfegyver fortély – `2.fok`
 
-**Hatás**: A lefegyverzés sikeres. Ellenfeled kezéből kihullik a fegyver, vagy eltörik.
+**Hatás**: A lefegyverzés/fegyvertörés sikeres. Ellenfeled kezéből kihullik a fegyver, vagy eltörik.
 
 <br />
 
@@ -236,7 +237,7 @@ Szándékosan rongálod ellenfeled pajzsát, csökkentve annak Védő Értékét
 <br />
 
 ---
-#### Területre/Pontra támadás
+#### Területre / Pontra támadás
 
 Meglepetés esetén is kell **Ellenpróbát** dobni
 
