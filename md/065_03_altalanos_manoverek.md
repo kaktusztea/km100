@@ -13,7 +13,7 @@
 - [Öklelés](#%C3%B6klel%C3%A9s)
 - [Pajzzsal öklelés](#pajzzsal-%C3%B6klel%C3%A9s)
 - [Pajzsrongálás](#pajzsrong%C3%A1l%C3%A1s)
-- [Területre / Pontra támadás](#ter%C3%BCletrepontra-t%C3%A1mad%C3%A1s)
+- [Területre / Pontra támadás](#ter%C3%BCletre--pontra-t%C3%A1mad%C3%A1s)
 - [Távoltartás](#t%C3%A1voltart%C3%A1s)
 - [Terelés](#terel%C3%A9s)
 
