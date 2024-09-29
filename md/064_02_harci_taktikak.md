@@ -292,7 +292,7 @@ Ha [Észrevétlen támadást](064_01_harci_helyzetek.md#észrevétlen-támadás)
 
 Kapcsoló fortély: [Harci anatómia](fortelyok.harci/harci_anatomia.md)
 
-Ha harc közben próbálsz ellenfeleden egy konkrét pont támadásával nagyobb sebzést elérni, vagy a **Harci anatómia** fortélynál leírt hatások valamelyikét elérni, akkor [Területre/Pontra támadás](065_03_altalanos_manoverek.md#ter%C3%BCletrepontra-t%C3%A1mad%C3%A1s) manővert kell végezned. Amennyiben az sikeres, megkapod a fenti fortélynál megadott bónuszokat.
+Ha harc közben próbálsz ellenfeleden egy konkrét pont támadásával nagyobb sebzést elérni, vagy a **Harci anatómia** fortélynál leírt hatások valamelyikét elérni, akkor [Területre/Pontra támadás](065_03_altalanos_manoverek.md#ter%C3%BCletre--pontra-t%C3%A1mad%C3%A1s) manővert kell végezned. Amennyiben az sikeres, megkapod a fenti fortélynál megadott bónuszokat.
 
 ---
 ### Mögékerülés
