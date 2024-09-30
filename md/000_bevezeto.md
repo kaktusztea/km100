@@ -39,6 +39,8 @@ A szabályrendszer dokumentumaiban speciális unicode karaktereket használunk j
 
 🔻 Követelmény, limit
 
+↓ Lefele kerekítünk
+
 ---
 ### Fejlesztést támogató jelzők
 
