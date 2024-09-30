@@ -1,36 +1,56 @@
 ## Távolsági harc vaksötétben, zajos célpontra
 
-Dobjunk `K10`-el, a dobáshoz ne adjunk hozzá semmit. A Célszám a célpont távolsága méterben. Ha sikeres a próba, akkor elkezdhetjük kiszámolni a CÉ és VÉ értékeket a táblázatban megadott 15x-ös **Látási Szorzóval**. Ha a karakter nem alkalmazza a diszciplínát, akkor a célszám 3-al nő.
+Ez egy speciális eset, sokat számít a "vak" szerencse is, de nem lehetetlen. Ami újdonság az az, hogy a Célzó dobást megelőzi egy random Szerencsedobás.
 
-Ha a próba sikertelen, akkor a lövés/dobás is automatikusan sikertelennek minősül. A rontás mértékétől függően közelben lévő barátot, szövetségest találhat el az eltévedt lövedék. Erről a KM dönt. Az `1`-es dobás itt is mindig kudarc, a `10`-es mindig siker.
-
-Érthető, hogy közvetlen közelről egy képzetlen is valószínűleg betalál, viszont ahogy nő a távolság, úgy csökkenek (drasztikusan) találati esélyei.
-
-### Példalövészet vaksötétben
-
-`4.`szintű harcos, **CÉ Alap**: `30`, **Önuralom**:`+3`, **Lövészet** – `9.szint`\
-**Fegyver**: nyílpuska
+### Szerencsedobás
 
 ```
-CÉ = 30 + 6(Önuralom) – 30(konstans) = 6
+k10
+ vs
+(Távolság - Érzékenység)
+```
+Dobjunk `K10`-el, a dobáshoz ne adjunk hozzá semmit. A Célszám a célpont távolsága **méterben** mínusz a lövész **Érzékenység** Tulajdonsága. Ha sikeres a próba, akkor elkezdhetjük kiszámolni a `CÉ` és `VÉ` értékeket a táblázatban megadott `15x` [Észlelhetőség Szorzóval](072_tavharc_ve.md#szorz%C3%B3---%C3%A9szlelhet%C5%91s%C3%A9g-m%C3%B3dos%C3%ADt%C3%B3).
+
+Ha a fenti `k10`-es próba sikertelen, akkor a lövés/dobás is automatikusan sikertelennek minősül. A rontás mértékétől függően közelben lévő barátot, szövetségest találhat el az eltévedt lövedék. Erről a KM dönt. Az `1`-es dobás itt is mindig kudarc, a `10`-es mindig siker.
+
+Érthető, hogy közvetlen közelről egy képzetlen karakter is valószínűleg betalál, viszont ahogy nő a távolság, úgy csökkenek (drasztikusan) a találati esélyei.
+
+### ⚡ Példalövészet vaksötétben
+
+- `4.`szintű harcos nyílpuskával
+- Önuralom:`+3`
+- Érzékenység: `+2`
+- CM: `16`
+- Nyílpuska: `CÉ:16`
+- Lövészet – `4.szint` → `CÉ:+3`
+
+```
+CÉ = 16 + 16 + 3 
+    + 6(Önuralom(2x))
+    – 30(konstans)
+    = 11
 ```
 
+#### Célpont általános jellemzői
 
-**Célpont jellemzői**
-
-- Táv: 10m → Cellaszám: `4` (`10/3 → 4`)
+- Távolság: `10 méter`
+- Cella:  (`10m/3 ↑`) → `4`
 - Észlelhetőség: sötét, zajos célpont (`+12x`)
 
-A játékos először is dob `k10`-el. Ha az eredmény egyenlő `10`-el (`10m`) (`10%` esély), akkor lőhet a Vakharc–`1.`foknak megfelelő szorzóval (`+12x`). Ha ez sikerül, akkor, jön a **VÉ** számítás és a lövés, egyébként automatikusan célt téveszt.
+#### Szerencse dobás
 
-**Célpont sétál**
+A karakter Érzékenysége `+2`. A játékos először is dob `k10`-el:  ha az eredmény nagyobb, vagy egyenlő `(10-2)=8` értékkel, amire `30%` esély van, akkor dobhaat Célzást, egyébként automatikusan célt téveszt.
 
-- Mozgás: lassan mozgó (`+5x`)
-- `VÉ = 4 x(12+5) = 68`
-- Találati esély: `33%`
+#### Példa-1: Célpont sétál, zajos, sötét
 
-**Célpont áll**
+- Mozgás szorzó: `5x` (lassan mozgó)
+- Észlelhetőség szorzó: `12x` sötét, zajos célpont
+- `VÉ = (12+5) x 4 = 68`
+- Találati esély: `43%`
 
-- Mozgás: álló (`3x`)
-- `VÉ = 4 x(12+3) = 60`
-- Találati esély: `41%`
+#### Példa-2: Célpont áll, zajos, sötét
+
+- Mozgás szorzó: `3x` (álló)
+- Észlelhetőség szorzó: `12x` sötét, zajos célpont
+- `VÉ = (12+3) x 4 = 60`
+- Találati esély: `51%`
