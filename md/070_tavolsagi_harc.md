@@ -21,6 +21,7 @@ A támadott fél nem saját **Védő Értékével** vesz részt a harcban, hanem
 - Egyéb körülmények
 - **[Távolsági Harci Fortély módosítók](042_harci_fortelyok.md#t%C3%A1vols%C3%A1gi-harci-fort%C3%A9lyok)**
 
+---
 ## Célzó dobás
 
 A lövés/hajítás során ugyanúgy támadó dobás történik az egyedileg meghatározott Célpont Védő Érték ellen.
@@ -29,6 +30,7 @@ A lövés/hajítás során ugyanúgy támadó dobás történik az egyedileg meg
 CÉ + k100  vs  VÉ
 ```
 
+---
 ## CÉ, VÉ számítása
 
 A fent említett jellemzők hatásait a `CÉ` és `VÉ` értékekre az alábbi fejezetekben fejtjük ki.
@@ -36,11 +38,13 @@ A fent említett jellemzők hatásait a `CÉ` és `VÉ` értékekre az alábbi f
 - [Célzó Érték (CÉ) számítása](071_tavharc_ce.md)
 - [Célpont Védő Értékének (VÉ) számítása](072_tavharc_ve.md)
 
+---
 ## Taktikák, fegyverek
 
 - [Távolsági Harc Taktikák](073_tavharc_taktikak.md)
 - [Távolsági fegyverek](074_tavharc_fegyverek.md)
 
+---
 ## Példák
 
 - [Példalövészet](075_tavharc_peldak.md)
