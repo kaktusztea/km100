@@ -8,7 +8,7 @@ Fontos: A "Meglepetés", "Támadás hátulról", "Észrevétlen támadás" egym�
 |             Támadás hátulról              |                                `TÉ:+20`                                | A támadó kapja a módosítót.<br/>Pajzs VÉ nem számít.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 |            Támadás félhátulról            |                                `TÉ:+10`                                | Pajzs VÉ csak akkor számít, ha a pajzsot tartó kéz felőli oldalról jön a csapás.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |              Készületlenség               |                           Lásd a Meglepetést                           | Ha egy karakter készületlen, akkor támadója a Meglepetés szituációnak megfelelő módosítókkal támadhat rá.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-|     Kábult/bódult/megrendült állapot      |                        ⭕`KÉ:-10, TÉ:-20, SP:-2`                        | Kábulat, rosszullét, mérgezés esetén ideiglenesen ezek a levonások járnak. A KM – belátása szerint – adhat KT „sebesülést” is<br/>(pl. mérgezésnél)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|     Kábult/bódult/megrendült állapot      |                        `KÉ:-10, TÉ:-20, SP:-2`                         | Kábulat, rosszullét, mérgezés esetén ideiglenesen ezek a levonások járnak. A KM – belátása szerint – adhat KT „sebesülést” is<br/>(pl. mérgezésnél)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |            Észrevétlen támadás            |            Áldozat Védő Értéke: mozgás jellegétől függő VÉ             | **Célpont mozgásának jellege, VÉ**<br/>• Álló helyzet / lassan sétáló hátulról: `0 VÉ`<br/>• Lassú egyenletes (séta): `20 VÉ`<br/>• Egyenletes kocogás: `40 VÉ`<br/>• Sprint egyenes vonalon: `60 VÉ`<br/>• Lassú kiszámíthatatlan: `40 VÉ`<br/>• Közepesen gyors, kiszámíthatatlan: `70 VÉ`<br/>• Gyors, kiszámíthatatlan: `100 VÉ`<br/><br/>Követelménye:<br/>• Sikeres „**Lopakodás/rejtőzés**” vs  „**Észlelés**” ellenpróba<br/>• Az Észrevétlen támadás több harci taktika követelménye (pl. Orvtámadás)                                                                                                                                   |
 |            Belharci szituáció             |                            Lásd a leírást!                             | • Bekerülni: [Belharcba kerülés](065_03_altalanos_manoverek.md#belharcba-ker%C3%BCl%C3%A9s) manőverrel<br/>• Kijönni: [Belharcból kibontakozás](065_03_altalanos_manoverek.md#belharcb%C3%B3l-kibontakoz%C3%A1s) manőverrel<br/>• Mindenki a saját Harcmodorának módosítóival küzd<br/>• [Belharc fortély](fortelyok.harci/belharc.md) bónuszai: `KÉ:+2`, `TÉ/VÉ:+3` fokonként. Csak **Közelharc** harcmodorban jár.<br/>• A `rövid (0)` pengénél nagyobb fegyverek értékei: `0`-ra esnek, sebzésük max: `+1 SP`,  „**Harckeret**” csökken `5`-el. **Erőbónusz** és **MF** fortély bónuszai maradnak.<br/>• Puszta kéz értékei `0`-ra emelkednek |
 |        Képzetlen fegyverhasználat         |                `KÉ:-20, TÉ:-30` <br/>`VÉ:-30, CÉ: -30`                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
@@ -118,9 +118,10 @@ Ha egy karakter készületlen, akkor támadója a **Meglepetés** szituációnak
 
 ### Kábult / Bódult / Megrendült
 
-```diff
--  -10KÉ, -20TÉ, -2 Sebzés
--  Kell ez? Inkább KT-vel szimulálni, nem?
+Az említett állapotokban az alábbi büntetésekkel harcolhatsz.
+
+```
+KÉ:-10, TÉ:-20, SP:-2
 ```
 
 <br/>
@@ -363,9 +364,8 @@ KÉ: -10, TÉ: -10, VÉ: -10
 
 ### Harc félhomályban
 
-```diff
-- TODO (PROB_HARC_#51)
-```
+⭕TODO⭕
+
 
 <br/>
 
@@ -390,9 +390,7 @@ Ha leesel a lóról, [Akrobatika](kepzettsegek/akrobatika.md) képzettség prób
 
 ### A védekező takarásban
 
-```diff
-- TODO (PROB_HARC_#51)
-```
+⭕TODO⭕
 
 <br/>
 

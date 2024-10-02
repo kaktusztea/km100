@@ -117,7 +117,7 @@ Fontos viszont megemlíteni, hogy amennyiben a `00`-ás dobás ellenére sem sik
 
 #### 01-es támadó dobás (balsiker)
 
-A `01`-es támadó dobás szintén kiemelt, de ezúttal negatív felhanggal. Ilyenkor a támadó csapása biztosan sikertelen, sőt olyan malőrt vétett, ami egyenesen nevetséges és amely hibából ellenfele előnyt kovácsolhat. Nincs általános szabály a konkrét eseményre, ilyenkor a KM dönt szituációtól függően (pl. elejti a kardot). Általában az „ítélet” egy az ellenfél által leadott extra támadás.
+A `01`-es támadó dobás szintén kiemelt, de ezúttal negatív felhanggal. Ilyenkor a támadó csapása biztosan sikertelen, sőt olyan malőrt vétett, ami egyenesen nevetséges és amely hibából ellenfele előnyt kovácsolhat. Nincs általános szabály a konkrét eseményre, ilyenkor a KM dönt szituációtól függően (pl. elejti a kardot). Általában az „ítélet” egy - az ellenfél által leadott - extra támadás.
 
 ---
 ### Sebzés
