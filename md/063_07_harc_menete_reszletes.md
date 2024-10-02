@@ -110,9 +110,9 @@ A `00`-ás (100-as) támadó dobás kiemelt jelentőséggel bír. Ez szimbolizá
 Fontos viszont megemlíteni, hogy amennyiben a `00`-ás dobás ellenére sem sikerült az ellenféllel szemben **Találatot** elérni, akkor az okozott sebzés kimerül a jutalomként kapott `+5` SP-ben (`1ÉP + 5 VÉ csökkentés`) SFÉ természetesen ez esetben sincs.
 
 ```
-"Fárasztás" harci taktika alkalmazásakor
-00 dobás esetén további +5 VÉ csökkentés
-bónuszt kap a támadó.
+"Fárasztó taktika" alkalmazásakor
+ 00 dobás esetén további +5 VÉ csökkentés
+ bónuszt kap a támadó.
 ```
 
 #### 01-es támadó dobás (balsiker)

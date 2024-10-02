@@ -4,30 +4,33 @@ A taktikák használatát kör elején, kezdeményezés előtt kell bejelenteni,
 
 ### Összefoglaló
 
-| **Taktika**              | **Hatás**                                                                                                                                                                                                                                                                     |
+Először lássuk az "erő-átcsoportosító" jellegű taktikákat.
+
+| **Taktika név**          | **Hatás**                                                                                                                                                                                                                                                                     |
 | :----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Támadó taktika           | `TÉ:+1 = VÉ:-2`, max `TÉ:+15`                                                                                                                                                                                                                                                 |
 | Védő taktika             | `VÉ:+1 = TÉ:-2`, max `VÉ:+20`                                                                                                                                                                                                                                                 |
 | Teljes Védekezés taktika | `VÉ:+30`, ellenfeled csak `kiskockával` csökkenthet rajtad `VÉ`-t. Folyamatos hátrálás, nincs támadás, nem kombinálható más taktikával.                                                                                                                                       |
 | Kezdeményező taktika     | `KÉ:+1 → VÉ:-2`, max `KÉ:+10`                                                                                                                                                                                                                                                 |
 | Kiváró taktika           | • Átengedett KÉ, cserébe első visszatámadásra `TÉ:+5`<br/>• Támadó taktikával együtt mehet, Védővel nem, több ellenfeles harcban sem.                                                                                                                                         |
-| Fárasztás taktika        | • VÉ csökkentésre: `+2`<br/>• Sebzés helyett: nagykockás VÉ csökk + további `+10VÉ` csökkentés                                                                                                                                                                                |
+| Fárasztó taktika         | • VÉ csökkentésre: `+2`<br />• Sebzés helyett: nagykockás VÉ csökk + további `+10VÉ` csökkentés<br />• `00` dobásnál: további `+5VÉ` csökkentés<br />• Csak Előnyös helyzetből lehet alkalmazni                                                                               |
 | Roham taktika            | • `TÉ:+20`, `VÉ:-40` (első oda-visszacsapáskor)<br/>• VÉ csökkentés duplázódik első oda-visszacsapásnál , Sebzéshez: `+5 SP` (oda-vissza)                                                                                                                                     |
 | Öngyilkos roham taktika  | • `TÉ:+25`,`VÉ:-50` (első oda-visszacsapáskor)<br/>• VÉ csökkentés duplázódik első oda-visszacsapásnál, Sebzéshez: `+7 SP` (oda-vissza)<br/>• TÉ büntetések (sérülésből) nem érvényesek, max `2x` használható egy küzdelemben<br/>• Küzdelmenként legfeljebb 1x alkalmazható. |
-| Támadás erőből           | Erre a [Támadás erőből](fortelyok.harci/tamadas_erobol.md) fortélyt használhatod (lásd a leírását).                                                                                                                                                                           |
+| Támadás erőből taktika   | Erre a [Támadás erőből](fortelyok.harci/tamadas_erobol.md) fortélyt használhatod (lásd a leírását).                                                                                                                                                                           |
 
+Most pedig lássuk a speciálisabb, helyzet
 
-| **Taktika**                                                | **Hatás**                                                                                                                                                                                                                                                 |
-| :--------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Leütés hátulról                                            | • Követelmény: „Észrevétlen támadás” harci helyzet, Sebző Találat<br/>• Ha Súlyos a seb (`12 ÉP`) → Fájdalomtűrés (+Edzettség) próba (`12`). Ha nincs meg, elájul.<br/>• [Harci anatómiával](fortelyok.harci/harci_anatomia.md) könnyebb (lásd a leírást) |
-| Orvtámadás                                                 | • Követelmény: „Észrevétlen támadás” harci helyzet<br/>• Bónuszt ad: [Harci anatómia](fortelyok.harci/harci_anatomia.md) fortély - vértmentes terület találata esetén                                                                                     |
-| Érintő támadás **(X)**                                     | `KÉ:0`, `TÉ:0`, `VÉ:-10`                                                                                                                                                                                                                                  |
-| Csonkolás és törés **(X)**                                 | • Kéz csonkolása: (áldozat `max ÉP / 3`) (felfele kerekítve) sebzés szükséges<br/>• Láb csonkolása: (áldozat `max ÉP / 2`) (felfele kerekítve) sebzés szükséges                                                                                           |
-| Kijelölt testrészre támadás **(X)**                        | Sebző támadás `TÉ:-20`-al                                                                                                                                                                                                                                 |
-| Pontok támadása harc közben **(X)**                        | • Követelmény: **Harci anatómia** fortély – `2.fok`<br/>• Követelmény: **Pontra támadás** manőver                                                                                                                                                         |
-| Mögékerülés                                                | ⭕TODO⭕                                                                                                                                                                                                                                                    |
-| Rávetődés hátulról                                         | ⭕TODO⭕                                                                                                                                                                                                                                                    |
-| Visszafogott csapás / Harc az ellenfél elfogásáért **(X)** | ⭕TODO⭕ Bónuszt ad: **Harci anatómia** fortély                                                                                                                                                                                                             |
+| **Taktika név**                                    | **Hatás**                                                                                                                                                                                                                                                                                                                    |
+| :------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Leütés hátulról                                    | • Követelmény: [Észrevétlen támadás](064_01_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s) harci helyzet, Sebző Találat<br/>• Ha Súlyos a seb (`12 ÉP`) → Fájdalomtűrés (+Edzettség) próba (`12`). Ha nincs meg, elájul.<br/>• [Harci anatómiával](fortelyok.harci/harci_anatomia.md) könnyebb (lásd a leírást) |
+| Visszafogott csapás / Harc az ellenfél elfogásáért | ⭕TODO⭕Egyesíteni a "Leütés Hátulról" taktikával?⭕ Bónuszt ad: **Harci anatómia** fortély                                                                                                                                                                                                                                     |
+| Orvtámadás                                         | • Követelmény: Észrevétlen támadás harci helyzet<br/>• Bónuszt ad: [Harci anatómia](fortelyok.harci/harci_anatomia.md) fortély - vértmentes terület találata esetén                                                                                                                                                          |
+| Érintő támadás                                     | `KÉ:0`, `TÉ:0`, `VÉ:-10`                                                                                                                                                                                                                                                                                                     |
+| Csonkolás és törés                                 | •[Területre/Pontra támadás](065_03_altalanos_manoverek.md#ter%C3%BCletre--pontra-t%C3%A1mad%C3%A1s) manőver szükséges<br/>• Kéz csonkolása: (áldozat `max ÉP / 3` ↑) sebzés szükséges<br/>• Láb csonkolása: (áldozat `max ÉP / 2` ↑) sebzés szükséges                                                                        |
+| Kijelölt testrészre támadás **(X)**                | Sebző támadás `TÉ:-20`-al  ⭕Vagy: [Területre/Pontra támadás](065_03_altalanos_manoverek.md#ter%C3%BCletre--pontra-t%C3%A1mad%C3%A1s) manőver!⭕                                                                                                                                                                               |
+| Pontok támadása harc közben                        | Lásd: [Területre/Pontra támadás](065_03_altalanos_manoverek.md#ter%C3%BCletre--pontra-t%C3%A1mad%C3%A1s) manőver                                                                                                                                                                                                             |
+| Mögékerülés                                        | ⭕TODO⭕                                                                                                                                                                                                                                                                                                                       |
+| Rávetődés, Nyakba ugrás hátulról                   | ⭕TODO⭕                                                                                                                                                                                                                                                                                                                       |
 
 ### Ökölszabály Védő Érték eltolásra
 
@@ -86,7 +89,7 @@ Fontos, hogy másra nem pazarolhatod figyelmedet, kizárólag a védekezésre. H
 
 Ha mindenáron magadhoz akarod ragadni a kezdeményezést megteheted, de ennek ára van. A kapkodás sebezhetővé tesz. Kezdeményező taktika alkalmazása esetén megnövelheted **Kezdeményező Értékedet** maximum `10`-el de cserébe kétszer akkora **Védő Érték** csökkenést szenvedsz el **az ellenfél első támadásával szemben** (akár megnyerted így a kezdeményezést, akár nem)
 
-Tehát `+1KÉ` → `-2VÉ` (max `10`)
+Tehát `+1KÉ` → `-2VÉ` (max `+KÉ:10`)
 
 A Kezdeményező taktika alkalmazható Támadó taktikával együtt is, de nem használható Védekező Taktikával kombinálva!
 
@@ -100,7 +103,7 @@ Ha úgy döntesz, hogy a fenti feltételekkel lemondasz a kezdeményezésről, c
 A Kiváró taktika alkalmazható **Támadó taktikával** együtt is, továbbá roham ellen is bevethető, de **nem** használható **Védő Taktikával** együtt, sőt több ellenféllel való harc esetén sem!
 
 ---
-### Fárasztás taktika
+### Fárasztó taktika
 
 ```
 VÉ csökkentésre:
@@ -108,17 +111,27 @@ VÉ csökkentésre:
 ```
 
 ```
-Sebzés helyett:
- nagykocka + 10 VÉ csökkentés
+VÉ csökkentésre:
+ (nagykocka + 10)
+ ha lenne találat
 ```
 
-Ha fárasztani kívánod ellenfeledet, ellenállását megtörni anélkül, hogy sebet ejtenél rajta, akkor a harc ugyanúgy folyik, mint más esetben, csak `+2`-vel nő **VÉ csökkentésed** ha nem érsz el találatot támadó dobásod során.
-
-Sebző támadás esetén pedig elmarad maga a sebzés – helyette **nagykockával** és további `+10`-el csökkentheted ellenfeled **Védő Értékét**. A Többszörös találat nem növeli tovább a VÉ csökkentést.
+```
+00 dobás esetén
+ további +5 VÉ csökkentés
+```
 
 Más taktikával együtt **nem** használható.
 
-A Fárasztás taktikának leginkább körbevett ellenfél esetén van értelme: a pribékek kifáraszthatják a „vadat”, míg vezetőjük felkészül.
+Csak azonos, vagy Előnyös helyzetből lehet alkalmazni. Tehát azonos, vagy nagyobb fegyverméretnél.
+
+Ha fárasztani kívánod ellenfeledet, ellenállását megtörni anélkül, hogy sebet ejtenél rajta, akkor a harc ugyanúgy folyik, mint más esetben, csak `+2`-vel nő **VÉ csökkentésed** ha nem érsz el találatot támadó dobásod során.
+
+Sebző támadás esetén pedig elmarad maga a sebzés – helyette **nagykockával** és további `+10`-el csökkentheted ellenfeled **Védő Értékét**. A Többszörös találat nem növeli tovább a `VÉ` csökkentést.
+
+Ha pedig a támadás során `00`-át (természetes 100) dobsz, akkor a fenti bónuszokon kívül még `+5`-tel csökkentheted ellenfeled **Védő Értékét**. 
+
+A Fárasztó taktikának leginkább körbevett ellenfél esetén van értelme: a pribékek kifáraszthatják a „vadat”, míg vezetőjük felkészül.
 
 Kapcsolódó fortély: [Fárasztás](fortelyok.harci/farasztas.md) harci fortély
 
@@ -248,4 +261,6 @@ Ha harc közben próbálsz ellenfeleden egy konkrét pont támadásával nagyobb
 ### Visszafogott csapás / Harc az ellenfél elfogásáért
 
 ⭕TODO⭕
+⭕TODO⭕Egyesíteni a "Leütés Hátulról" taktikával?⭕ Bónuszt ad: **Harci anatómia** fortély
+
 → [Kidolgozás itt](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.harcrendszer#harci-taktik%C3%A1k-tiszt%C3%A1z%C3%A1sa). Ha kész, bemozgatni ide.

@@ -27,8 +27,8 @@ VÉ = 120
 
 VÉ Bónusz:
   → Vértviselet 3.szint:
-    - félvért +5VÉ
-    - teljes vért +10VÉ
+    - félvért VÉ:+5
+    - teljes vért VÉ:+10
 
 CÉ = -30
    + (2 x Önuralom)
@@ -168,7 +168,7 @@ SP = Fegyver SP
 
 VÉ csökkentés:
   - SP ↔ VÉ átváltás Sebzés táblázatban
-  - Fárasztás alkalmazásakor:
+  - Fárasztó taktika alkalmazásakor:
     nincs Sebzés, VÉ:+5 csökkentés
 ```
 
@@ -222,7 +222,7 @@ Lásd: [Fegyverek táblázat](067_fegyverek.md)
 <br />
 
 ---
-### 🛡️Mozgásgátló Tényező (MGT)
+### 🚷Mozgásgátló Tényező (MGT)
 
 Lásd a [Vértek, Páncélok - MGT fejezetét](068_vertek_pancelok.md#mozgásgátló-tényező-mgt).
 
