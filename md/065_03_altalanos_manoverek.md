@@ -240,7 +240,7 @@ Meglepetés esetén is kell **Ellenpróbát** dobni
     - `0`: egykezes kardvívó fegyverekkel
     - `+2`: zúzófegyverekkel
     - `-2`: Rapír/Tőrkard
-    - `+2`: [Roham](064_02_harci_taktikak.md#roham) alkalmazása esetén 
+    - `+2`: [Roham](064_02_harci_taktikak.md#roham-taktika) alkalmazása esetén
 - Fázisok: `E V`
 	- Végrehajtás során **nem kapja meg a +20 TÉ módosítót**! Ha az Ellenpróba sikeres, sima támadást dobsz aktuális harcértékeiddel.
 - Követelmény: Aktuális harcmodor - `6.szint`

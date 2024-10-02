@@ -102,10 +102,9 @@ A Kiváró taktika alkalmazható **Támadó taktikával** együtt is, továbbá 
 ---
 ### Fárasztás taktika
 
-
 ```
-VÉ csökkentésre: +2
-ha nincs találat.
+VÉ csökkentésre:
+ +2 ha nincs találat
 ```
 
 ```

@@ -24,4 +24,4 @@ Ha a karakter a `Max mozgás` távolságnál mindenképpen nagyobb távot akar m
 
 - Maximum táv: `Max mozgás x 2 (méterben)`
 - A körben nem lehet/lehetett ezen kívül más támadása
-- Csak [Roham](064_02_harci_taktikak.md#roham) Harci taktikával végezhető a támadás
+- Csak [Roham](064_02_harci_taktikak.md#roham-taktika) Harci taktikával végezhető a támadás
