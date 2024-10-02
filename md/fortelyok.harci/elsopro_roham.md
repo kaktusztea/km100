@@ -17,7 +17,7 @@ Rutinos rohamozó vagy, jókor, megfelelő helyre csapsz futásból.
 
 #### Megjegyzések
 
-[Öngyilkos roham](../064_02_harci_taktikak.md#%C3%B6ngyilkos-roham) esetén a fentiek nem használhatóak.
+[Öngyilkos roham](../064_02_harci_taktikak.md#%C3%B6ngyilkos-roham-taktika) esetén a fentiek nem használhatóak.
 
 <br />
 
