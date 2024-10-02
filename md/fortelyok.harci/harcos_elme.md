@@ -1,7 +1,5 @@
 ### 🟣 Harcos elme (4)
 
-⭕Összpontosítás, Harcmodor mint követelmény hozzáadva. 👀követni👀!
-
 A harc ritmusát fenntartva, elméd erejének hála kevésbé merít ki a harc szellemileg.
 
 #### 1. fok
@@ -12,7 +10,7 @@ A harc ritmusát fenntartva, elméd erejének hála kevésbé merít ki a harc s
 - Harcmodor - `3.szint`
 - (**Közelharc** vagy **Kardvívás** vagy **Lándzsavívás** vagy **Zúzás**)
 
-🌟 **Hatás**: `1` VÉ-t semlegesít az ellenfél VÉ csökkenést okozó támadásaiból. Az `ÉP` seb okozta **VÉ csökkenésre** ez nem vonatkozik.
+🌟 **Hatás**: `1` VÉ-t semlegesít az ellenfél VÉ csökkenést okozó támadásaiból. Az `ÉP` seb okozta **VÉ csökkenésre** egyik fok sem ad védelmet.
 
 ---
 #### 2. fok
@@ -45,7 +43,7 @@ A harc ritmusát fenntartva, elméd erejének hála kevésbé merít ki a harc s
 - Összpontosítás - `12.szint`
 - Harcmodor - `12.szint`
 - (**Közelharc** vagy **Kardvívás** vagy **Lándzsavívás** vagy **Zúzás**)
-- [Slan Tradíció](../053_01_slan_tradicio.md) VAGY ⭕[Fejvadász Tradíció](../053_02_fejvadasz_tradicio.md) - `12.szint`  (("Sárkány ébredése" Slan képzettség IS legyen 12.szintű?))
+- [Slan Tradíció](../053_01_slan_tradicio.md) VAGY ⭕[Fejvadász Tradíció](../053_02_fejvadasz_tradicio.md) - `12.szint`  - ⭕TODO⭕ "Sárkány ébredése" Slan képzettség IS legyen 12.szintű?⭕
 
 🌟 **Hatás**:
 - Az alkalmazó `VÉ`-je [Teljes Védekezés Taktika](../064_02_harci_taktikak.md#teljes-v%C3%A9dekez%C3%A9s-taktika) (harci taktika) alkalmazásakor **egyáltalán nem csökken** ellenfelei támadásának hatására.
@@ -56,6 +54,8 @@ A harc ritmusát fenntartva, elméd erejének hála kevésbé merít ki a harc s
 #### Megjegyzések
 
 NEM mérsékli a 🗡️[Fárasztó taktika](../064_02_harci_taktikak.md#f%C3%A1raszt%C3%A1s-taktika) használata során az **alkalmazó** által elszenvedett automatikus VÉ csökkenést.
+
+Az `ÉP` seb okozta **VÉ csökkenésre** egyik fok sem ad védelmet.
 
 <br />
 
