@@ -22,7 +22,7 @@ Manővereknek lehet:
 
 Manőver alkalmazásakor nem folytatható [Teljes Védekezés Taktika](064_02_harci_taktikak.md#teljes-v%C3%A9dekez%C3%A9s-taktika), vagy [Védő Taktika](064_02_harci_taktikak.md#védő-taktika), de [Támadó taktika](064_02_harci_taktikak.md#támadó-taktika) igen - kivéve ahol ezek az adott Manővernél külön meg vannak említve.
 
-[Rohamnál](064_02_harci_taktikak.md#roham) csak az a manőver hajtható végre, amelyiknél ez külön meg van említve.
+[Rohamnál](064_02_harci_taktikak.md#roham-taktika) csak az a manőver hajtható végre, amelyiknél ez külön meg van említve.
 
 ---
 ### Manőverek nehézsége
