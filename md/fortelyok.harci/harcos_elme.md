@@ -10,7 +10,7 @@ A harc ritmusát fenntartva, elméd erejének hála kevésbé merít ki a harc s
 - Harcmodor - `3.szint`
 - (**Közelharc** vagy **Kardvívás** vagy **Lándzsavívás** vagy **Zúzás**)
 
-🌟 **Hatás**: `1` VÉ-t semlegesít az ellenfél VÉ csökkenést okozó támadásaiból. Az `ÉP` seb okozta **VÉ csökkenésre** egyik fok sem ad védelmet.
+🌟 **Hatás**: `1` VÉ-t semlegesít az ellenfél VÉ csökkenést okozó támadásaiból.
 
 ---
 #### 2. fok
@@ -52,8 +52,6 @@ A harc ritmusát fenntartva, elméd erejének hála kevésbé merít ki a harc s
 <br />
 
 #### Megjegyzések
-
-NEM mérsékli a 🗡️[Fárasztó taktika](../064_02_harci_taktikak.md#f%C3%A1raszt%C3%A1s-taktika) használata során az **alkalmazó** által elszenvedett automatikus VÉ csökkenést.
 
 Az `ÉP` seb okozta **VÉ csökkenésre** egyik fok sem ad védelmet.
 

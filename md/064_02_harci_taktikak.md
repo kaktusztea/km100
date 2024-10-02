@@ -225,19 +225,16 @@ Sikeres **Végtagra támadást** kell végrehajtania, valamint megfelelő mennyi
 ---
 ### Kijelölt testrészre támadás
 
-```diff
-- ⭕TODO: Harci Anatómia adjon bónuszt? (PROB_HARC_#59)
-```
+⭕TODO⭕ Ütközik a Területre/Pontra támadás manőverrel.
 
 Ha küzdelem közben a harcos ellenfele egy konkrét testrészére kíván támadni, akkor ezt előre be kell jelentenie és utána sikeres, túlütő támadást kell dobnia `TÉ:-20` módosítóval.
 
 - Kijelölhető testrészek: fej, törzs, jobb/bal láb, jobb/bal kar.
-- Ennél pontosabb találatot harc közben meghatározni csak a **Pontra támadás** manőverrel lehet.
+- Ennél pontosabb találatot harc közben meghatározni csak a [Területre/Pontra támadás](065_03_altalanos_manoverek.md#ter%C3%BCletre--pontra-t%C3%A1mad%C3%A1s) manőverrel lehet.
 - Találatkor sima sebzést dob a támadó
 - Plusz hatás: ha a Sebzés legalább Súlyos (`6 ÉP`), akkor az áldozat valamilyen nem-harcérték korlátozást szenved el. Például ha a cél a fegyverforgató kéz volt, akkor elejti fegyverét és nem képes tovább harcolni vele. Vagy: láb támadása esetén mozgási sebessége felére/harmadára esik vissza (KM dönt). Fejre támadásnál szemébe folyik a vére, esetleg elkábul.
 - Lásd még alább: [Csonkolás](064_02_harci_taktikak.md#csonkolás-és-törés) harci taktika.
 
- 
 ---
 ### Pontok támadása harc közben
 
