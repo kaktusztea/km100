@@ -26,7 +26,7 @@ A Lefegyverezés fázisai: sikeres Végrehajtás (`V`) és Ellenpróba (`E`) sz�
    → Sikeres Végrehajtás
 
 2. Ellenpróba  (`E`)
-- Tetves dobása:  `10` (kardvívás + HM/10) + `2` (elköltve:`1 MBP`) + `k10`
+- Tetves dobása:  `10` (kardvívás + HM/10) + `2` (elköltve:`1 MP`) + `k10`
 - Célszám: `6 + 3 + 10 = 19` (ellenfél kardvívása + HM/10 + Lefegyverzés nehézsége)
 
 ```
@@ -35,14 +35,14 @@ A próbadobás így:   (12 + k10)  vs.  19
 
 Tehát ha Rühes legalább  `7`-et dob  `k10`-en, akkor az **Ellenpróba** is sikeres és így az egész manőver is, ellenfele kardja kihullik annak kezéből. Látható, hogy a **Lefegyverzés** külön ismeret nélkül nem könnyű művelet.
 
-Ha Rühes `2 MBP`-t költött volna el , akkor már `+4` járna a próbadobására ( `14+k10`) és így már `5`-ös dobással is sikert érhetne el. Ha viszont ellenfele is elköltött volna `1 MBP`-t, akkor az ő `+2` bónusza mérsékelné Rühes `+4`-es bónuszát és ismét csak a `7`-es dobással(vagy felette) lenne eredményes.
+Ha Rühes `2 MP`-t költött volna el , akkor már `+4` járna a próbadobására ( `14+k10`) és így már `5`-ös dobással is sikert érhetne el. Ha viszont ellenfele is elköltött volna `1 MP`-t, akkor az ő `+2` bónusza mérsékelné Rühes `+4`-es bónuszát és ismét csak a `7`-es dobással(vagy felette) lenne eredményes.
 
 <br/>
 
 ---
 #### ⚡Összetettebb példa egy Manőver alkalmazására
 
-Tetves **Gáncsolást** akar alkalmazni. Ellenfelénél kard van, nála tőr és elkölt `1 MBP`-t. Bejelenti, hogy ezen kívül `2 pontot` vállal is (lásd [Vállalás](065_02_manover_vegbevitele.md#v%C3%A1llal%C3%A1s)) a cél érdekében → `VÉ:-20`
+Tetves **Gáncsolást** akar alkalmazni. Ellenfelénél kard van, nála tőr és elkölt `1 MP`-t. Bejelenti, hogy ezen kívül `2 pontot` vállal is (lásd [Vállalás](065_02_manover_vegbevitele.md#v%C3%A1llal%C3%A1s)) a cél érdekében → `VÉ:-20`
 
 Tetves értékei:
 - Közelharc: `7.szint`
@@ -66,7 +66,7 @@ Gáncsolás fázisai: sikeres Végrehajtás (`V`) és Ellenpróba (`E`) szüksé
 
 2. Ellenpróba
 - Tetves manőver pontjai: `7+3+2+2 = 14`
-    (közelharc + `1 MBP` bónusza + vállalás)
+    (közelharc + `1 MP` bónusza + vállalás)
 
 - Célszám: `8+3+6+2=19`
   (ellenfél kardvívása + HM/10 + Gáncsolás nehézsége + a fegyverméretek különbözősége miatt a KM megnöveli `2`-vel a célszámot)

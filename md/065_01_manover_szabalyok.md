@@ -41,12 +41,12 @@ A manőver nehézségét egy számértékkel jellemezzük. Minden manővernek va
 
 Ha úgy érzed, az adott manőver túl tápos, emeld meg a Nehézségét.
 
-Így több MBP (Manőver Bónusz Pont) szükséges a nehézség mérsékléséhez és már meglesz az „ára”, ha valaki eséllyel alkalmazni akarja.
+Így több **Manőver Pont** felhasználása szükséges a [Manőver Keretből](017_03_manover_keret.md) a nehézség mérsékléséhez és máris meglesz az „ára”, ha valaki eséllyel alkalmazni akarja.
 
 ---
-### Manőver Bónusz Pontok
+### Manőver Keret
 
-Lásd [MBP](017_03_mbp.md).
+Lásd [Manőver Keret](017_03_manover_keret.md).
 
 ---
 

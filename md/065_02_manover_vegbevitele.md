@@ -4,15 +4,15 @@ A játékosnak a kör elején be kell jelentenie, hogy Manővert akar alkalmazni
 
 Egy Manőver alkalmazása – jellegétől függően – legfeljebb az alábbi három (de nem kötelezően az összes!) alapfázisból állhat. Mindegyik opcionális - hogy melyikre van szükség, azt az adott Manőver leírásánál találjuk. Végrehajtásuk sorrendjében:
 
-- `1.` **Megakasztás** (ha van)\
+`1.` **Megakasztás** (ha van)\
   ellenfél teszi (Sima támadás - ha sikeres, a Manőver rögtön sikertelen)
 
-- `2.` **Végrehajtás** (manővert végző teszi)\
+`2.` **Végrehajtás** (manővert végző teszi)\
   Sebzést érő támadás szükséges, `TÉ+20`-al, (aktuális, fegyveres `TÉ` számít), de nem okoz sebet.\
   Mindig ezt dobjuk előbb, mert ez ad leggyorsabban eredményt 🔆
 
-- `3.` **Ellenpróba** (manővert végző teszi)\
-  ```Manőver pont vs Célszám```
+`3.` **Ellenpróba** (manővert végző teszi)\
+  ```Manőver Alap vs Célszám```
 
 ---
 #### Megakasztás (M)
@@ -35,38 +35,35 @@ A fentieken kívül minden **Manővernek** lehetnek egyéni, speciális követel
 <br />
 
 ---
-
 #### Ellenpróba (E)
 
 ```
-Manőver pont + k10   vs.  Manőver célszáma
+Manőver Alap + k10   vs.  Manőver célszáma
 ```
 
-##### Manőver Pont
+##### Manőver Alap
 
-| Módosító       | Érték                                                                        |
-| -------------- | ---------------------------------------------------------------------------- |
-| Harcmodor      | Az alkalmazó aktuálisan használt harcmodor képzettségének szintje            |
-| HM / 10        | A nem-távolsági harcmodorokra elköltött **Harcérték Módosítók** (HM) tizede. |
-| Manőver Bónusz | Pontonként: `+2`                                                             |
-| Vállalás       | `+1` pont → `-15 VÉ`<br>(Maximum vállalás: **+ 2**)                          |
-| + k10          | Dobás `k10`-el                                                               |
+| Módosító     | Érték                                                                                          |
+| ------------ | ---------------------------------------------------------------------------------------------- |
+| `HM / 10`    | A nem-távolsági harcmodorokra elköltött **Harcérték Módosítók** (HM) tizede - lefelé kerekítve |
+| Manőver Pont | Pontonként: `+2` (Opcionális)                                                                  |
+| Vállalás     | `+1` pont → `-15 VÉ`<br>(Maximum vállalás: **+ 2**)                                            |
+| + k10        | Dobás `k10`-el                                                                                 |
 
 <br />
 
 ##### Célszám
 
-| Módosító                                               | Érték                                                                                                                                 |
-| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Manőver Nehézség                                       | Az adott Manőver alapnehézsége                                                                                                        |
-| HM / 10                                                | Az ellenfél nem-távolsági harcmodorokra elköltött **Harcérték Módosítóinak** (HM) tizede.                                               |
-| Harcmodor                                              | Az ellenfél aktuálisan használt harcmodor képzettségének szintje                                                                      |
-| „Manőver ismeret – (az adott manőverre)”  <br>(ha van) | Fokonként: `+2`                                                                                                                         |
-| Módosító körülmények                                   | `[-5;+5]` Tetszőleges KM által megadott +/- érték. Körülmény függő nehezítés ill. könnyítés. (Pl. eltérő fegyverméretek, bódulat, stb.) |
+| Módosító             | Érték                                                                                                                                   |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Manőver Nehézség     | Az adott Manőver nehézsége (lásd az egyes manőverek le)                                                                                 |
+| `HM / 10`            | Az ellenfél nem-távolsági harcmodorokra elköltött **Harcérték Módosítóinak** (HM) tizede - lefelé kerekítve                             |
+| Manőver Pont         | Pontonként: `+2` (Opcionális)                                                                                                           |
+| Módosító körülmények | `[-5;+5]` Tetszőleges KM által megadott +/- érték. Körülmény függő nehezítés ill. könnyítés. (Pl. eltérő fegyverméretek, bódulat, stb.) |
 
 Ez a próbadobás nem mást fed, mint hogy a karakter képes -e megteremteni maga számára a lehetőséget, úgymond „megágyazni magának”, hogy egyáltalán megkísérelhesse a **Manővert**. A harcban ez helyezkedést, „pozícióba kerülést” jelent, amelynek sikere függ a karakter és ellenfele által aktuálisan használt harcmodor szintjétől, a **Manőver** alap nehézségétől, attól, hogy a karakter mennyire „bevállalós”, valamint az általa és ellenfele által forgatott fegyverméretektől és egyéb módosító körülményektől.
 
-Az **Ellenpróba** dobása során a KM meghatározza a próba célszámát, a játékos, pedig ún. Manőver pontját és dob hozzá k10-el. Ha a végső érték eléri a célszámot, akkor az **Ellenpróba** **sikeres volt.**
+Az **Ellenpróba** dobása során a KM meghatározza a próba célszámát, a játékos, pedig veszi Manőver Alapját, esetlegesen felhasznál Manőver Pontot a Manőver Keretéből, majd dob hozzá k10-el. Ha a végső érték eléri a célszámot, akkor az **Ellenpróba** **sikeres volt.**
 
 Ha csak az **Ellenpróba** az adott Manőver követelménye, akkor annak sikere esetén az egész **Manőver** automatikusan sikeresnek tekinthető.
 
@@ -74,13 +71,11 @@ Ha a körben a manőver az utolsó „támadás”, akkor rontott Végrehajtás 
 
 A KM a körülményektől és szituációtól függően adhat pozitív/negatív célszám módosítót [+5;-5] értékhatáron belül. Sőt, a KM dönthet úgy, hogy a feltételei adottak, nincs szükség Ellenpróbára.
 
-
 #### Vállalás
 
 A karakter – **Ellenpróba** során – dönthet úgy, hogy `VÉ`-je egy részéért cserébe pluszokat rak Manőver pontjaira. Ez veszélyeket is rejt, hiszen így kiszolgáltatottabbá válik ellenfele támadásaival szemben.
 
 - A Vállalás legfeljebb `+2` lehet. Minden pont `-15 VÉ`-t ideiglenes levonást okoz (`1` visszatámadás)
-
 - Ha a Manőver sikeres, akkor az ellenfél következő visszatámadásakor már nincs levonás
 
 <br/>
@@ -100,6 +95,5 @@ Amennyiben nem teljesíti, akkor is nekifuthat, de az Ellenpróba dobásánál a
 ### Fegyverméret-kategóriák
 
 A Fegyverméret-kategóriák adta különbségek az Ellenpróbánál (**E**) módosítóként nem szükségesek, ha a manőverben van kötelező (**M**)egakasztás, vagy (**V**)égrehajtás, mert ott az ellenfél harcértékeiben ez benne van.
-
 
 🔗[Általános Manőverek listája](065_03_altalanos_manoverek.md) →
