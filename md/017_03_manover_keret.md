@@ -4,11 +4,11 @@ A [Manőverek](065_00_manoverek.md) (mint pl.  Lábsöprés, Lefegyverzés, Átd
 
 ```
 Manőver keret =
- (Közelharc szint
- + Kardvívás szint
- + Zúzás szint
- + Lándzsavívás szint)
-      / 3`
+ ( Közelharc
+ + Kardvívás
+ + Zúzás
+ + Lándzsavívás )
+     / 3
 ```
 Ebből a Keretből tudunk **Manőver Pontokat** (`MP`) felhasználni.
 
