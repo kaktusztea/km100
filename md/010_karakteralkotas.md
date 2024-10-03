@@ -13,7 +13,7 @@
 - [Pontok](017_00_pontok.md)
   - [Karakteralkotó Pontok (KP)](017_01_kp.md)
   - [Szabad Pontok](017_02_szp.md)
-  - [Manőver Bónusz Pontok](017_03_manover_keret.md)
+  - [Manőver Keret](017_03_manover_keret.md)
 - [Számaztatott értékek](018_00_szarmaztatott_ertekek.md)
   - [Életerő Pont (ÉP)](018_01_ep.md)
   - [Mágiaellenállás](018_02_magiaellenallas.md) 🎲

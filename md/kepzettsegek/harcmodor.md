@@ -12,7 +12,7 @@ Alább összesen 4 különálló ilyen harcmodor képzettség általános leír�
 
 Ezek a képzettségek - szintjüktől függően - büntetéseket/bónuszokat adnak harcértékedre. Bővebben lásd a [Harcértékek elemei - Harcmodor képzettségek](../062_02_harcmodor_kepzettsegek.md#harcmodor-képzettségek) fejezetet.
 
-**Speciális**: a képzettség minden `3. szintje` beleszámít a szabadon elosztható [Manőver Bónusz Pontokba](../017_03_manover_keret.md).
+**Speciális**: a képzettség minden `3. szintje` beleszámít a szabadon elosztható [Manőver Keret](../017_03_manover_keret.md).
 
 <br />
 
