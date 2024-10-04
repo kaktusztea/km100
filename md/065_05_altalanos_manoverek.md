@@ -20,12 +20,12 @@
 
 Az alábbiakban bemutatjuk az **Általános** km100 manővereket.
 
-A KM bármikor rögtönözhet új manővert, mindössze az alábbiakat kell megtennie:
-- meghatározni a Manőver alap nehézségét
--  végbevitelének követelményeit
-- szükséges fázisait (MVE)
-- hatását
-- az esetleges speciális követelményeket
+A KM bármikor rögtönözhet új Manővert, mindössze az alábbiakat kell meghatároznia:
+- Nehézség `[2-10]`
+- Követelmények
+- Fázisok (`M V E`)
+- Hatás
+- Speciális követelmények
 
 <br />
 
