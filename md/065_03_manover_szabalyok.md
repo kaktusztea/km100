@@ -27,7 +27,7 @@ Manőver alkalmazásakor nem folytatható [Teljes Védekezés Taktika](064_02_ha
 | Nehéz        |   8   |
 | Nagyon nehéz |  10   |
 
-A manőver nehézségét egy számértékkel jellemezzük. Minden Manővernek van egy alap Nehézsége. Az adott manőver ezzel az értékkel szerepel az [Ellenpróba](https://github.com/kaktusztea/km100/blob/master/md/065_02_manover_vegbevitele.md#ellenpr%C3%B3ba-e) során. E táblázatban csak irányadó számok szerepelnek, új manőver kitalálásakor hasznos, a konkrét Nehézség ezen értékek közé is eshet.
+A manőver nehézségét egy számértékkel jellemezzük. Minden Manővernek van egy alap Nehézsége. Az adott manőver ezzel az értékkel szerepel az [Ellenpróba](065_02_manover_vegbevitele.md#ellenpr%C3%B3ba-e) során. E táblázatban csak irányadó számok szerepelnek, új manőver kitalálásakor hasznos, a konkrét Nehézség ezen értékek közé is eshet.
 
 ---
 #### Harcmodor képzetlenség
