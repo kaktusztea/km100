@@ -52,12 +52,12 @@ A fentieken kívül minden **Manővernek** lehetnek egyéni, speciális követel
 
 ##### Célszám
 
-| Módosító             | Érték                                                                                                                                   |
-| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| Manőver Nehézség     | Az adott Manőver nehézsége (lásd az egyes manőverek le)                                                                                 |
-| Manőver Alap         | `HM / 10`                                                                                                                               |
-| Manőver Pont         | Pontonként: `+2`(Opcionális, max 2 pont (`+4`))                                                                                         |
-| Módosító körülmények | `[-5;+5]` Tetszőleges KM által megadott +/- érték. Körülmény függő nehezítés ill. könnyítés. (Pl. eltérő fegyverméretek, bódulat, stb.) |
+| Módosító                 | Érték                                                                                                                                   |
+| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Manőver Nehézség         | Az adott Manőver nehézsége (lásd az egyes manőverek le)                                                                                 |
+| Manőver Alap (ellenfélé) | `HM / 10`                                                                                                                               |
+| Manőver Pont             | Pontonként: `+2`(Opcionális, max 2 pont (`+4`))                                                                                         |
+| Módosító körülmények     | `[-5;+5]` Tetszőleges KM által megadott +/- érték. Körülmény függő nehezítés ill. könnyítés. (Pl. eltérő fegyverméretek, bódulat, stb.) |
 
 Ez a próbadobás nem mást fed, mint hogy a karakter képes -e megteremteni maga számára a lehetőséget, úgymond „megágyazni magának”, hogy egyáltalán megkísérelhesse a **Manővert**. A harcban ez helyezkedést, „pozícióba kerülést” jelent, amelynek sikere függ a karakter és ellenfele által aktuálisan használt harcmodor szintjétől, a **Manőver** alap nehézségétől, attól, hogy a karakter mennyire „bevállalós”, valamint az általa és ellenfele által forgatott fegyverméretektől és egyéb módosító körülményektől.
 
