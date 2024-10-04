@@ -105,4 +105,4 @@ A fenti módosító akkor is megjelenhet, ha az Ellenfél az alkalmazót már l�
 A Fegyverméret-kategóriák adta különbségek az **Ellenpróbánál** (`E`) módosítóként **nem** szükségesek amennyiben a Manőverben van kötelező (**M**)egakasztás, vagy (**V**)égrehajtás fázis, mert ez a hatás résztvevők harcértékeiben már benne foglaltatnak.
 
 ---
-🔗[Általános Manőverek listája](065_05_altalanos_manoverek.md) →
+🔗 [Általános Manőverek listája](065_05_altalanos_manoverek.md) →

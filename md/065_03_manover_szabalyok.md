@@ -51,4 +51,4 @@ Ha úgy érzed, az adott manőver túl tápos, emeld meg a **Nehézségét**.
 
 ---
 
-🔗[Manőver végbevitele](065_04_manover_vegbevitele.md) →
+🔗 [Manőver végbevitele](065_04_manover_vegbevitele.md) →

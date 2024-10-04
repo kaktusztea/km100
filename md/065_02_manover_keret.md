@@ -38,4 +38,4 @@ Egyszerre legfeljebb `2` pont használható fel (`+4` bónusz).
 
 ---
 
-🔗  [Manőver Szabályok](065_03_manover_szabalyok.md) →
+🔗 [Manőver Szabályok](065_03_manover_szabalyok.md) →

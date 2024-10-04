@@ -153,4 +153,4 @@ Lásd a [Belharcból kibontakozás](065_05_altalanos_manoverek.md#belharcból-ki
 
 ---
 
-🔗[Lovas Manőverek listája](065_07_lovas_manoverek.md) →
+🔗 [Lovas Manőverek listája](065_07_lovas_manoverek.md) →
