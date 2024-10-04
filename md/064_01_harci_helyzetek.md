@@ -162,7 +162,7 @@ Ilyenkor ellenfele `Védő Értékét` annak mozgási jellege és mérete határ
 <br/>
 
 ---
-### Belharc, Belharci szituáció
+### Belharci szituáció
 
 Kapcsolódik:
 - [Belharc fortély](fortelyok.harci/belharc.md)
