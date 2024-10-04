@@ -168,24 +168,24 @@ Ha a képzett harcosnak sikerül ellenfele fegyvere „mögé”, testközelébe
 
 Bejutottál ellenfeled fegyverének fenyegető vége mögé, testközelbe, de nem szükségszerűen érintésbe. Ha az általad épp forgatott fegyverre van tanult [Belharc fortélyod](fortelyok.harci/belharc.md), harcérték bónuszokat kapsz (lásd a fortély leírását). Belharci szituációban eddig tiltott manőverek végrehajtását is megpróbálhatod, melyek végbevitelének követelménye a Belharci szituáció: lásd [Belharcos manőverek](065_04_belharcos_manoverek.md).
 
-#### Belharcba kerülés manőver
+#### ⚜️ Belharcba kerülés manőver
 
 A Belharci szituációba kerüléshez ezt a manővert kell sikerrel végrehajtani. Csak **Közelharc** harcmodor alkalmazása közben lehet megpróbálni.
 
 Bővebben lásd a [manőver leírását](065_03_altalanos_manoverek.md#belharcba-ker%C3%BCl%C3%A9s).
 
-#### Belharcból kibontakozás manőver
+#### ⚜️ Belharcból kibontakozás manőver
 
 A **Belharci szituációból** kijövetelre ennek sikeres végrehajtására van szükség. Bővebben lásd a [manőver leírását](065_03_altalanos_manoverek.md#belharcb%C3%B3l-kibontakoz%C3%A1s).
 
-#### Belharcos-fegyverek
+#### ⚜️ Belharcos-fegyverek
 
 Minden `rövid (0)` pengehosszú fegyver, kivéve ezek közül azokat a fegyvereket, melyek leírásánál külön meg van említve, hogy nem lehet velük belharcot folytatni (pl. rövidkard, csatabárd, …)
 
-#### Belharc fortély
+#### ⚜️ Belharc fortély
 Legfeljebb `2.fokon` tanulható fortély. Belharci szituációban az adott fegyvert forgatva fokonként bónuszokat kapsz. A bónuszok csak akkor élnek, ha az alkalmazó Belharci szituációban **Közelharc** harcmodort alkalmaz. Bővebben lásd a [Belharc fortély](fortelyok.harci/belharc.md) leírásánál.
 
-#### Nem-belharcos fegyverek belharci szituációban
+#### ⚜️ Nem-belharcos fegyverek belharci szituációban
 
 - harcértékei `0`-ra zuhannak
 - sebzésük maximum `+1 SP`, ha alacsonyabb volt, akkor `-5 SP`
@@ -194,7 +194,7 @@ Legfeljebb `2.fokon` tanulható fortély. Belharci szituációban az adott fegyv
 - **Mesterfegyver** és az **Erőbónusz** értékei mindkét félnél megmaradnak.
 - A Puszta kéz értékei `0`-ra emelkednek
 
-#### Harcmodor és belharci szituáció
+#### ⚜️ Harcmodor és belharci szituáció
 
 - Belharcban az áldozat abban a harcmodorban harcol, amiben előtte is.  Például egy szablyás harcoshoz bekerül egy belharcos, akkor ő továbbra is kardvívás harcmodorának értékeivel küzd, igaz szablyájának harcértékeit elveszíti annak mérete miatt.
 - **Belharc** fortély bónuszaihoz követelmény a **Közelharc** harcmodor használata
