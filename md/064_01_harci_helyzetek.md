@@ -166,7 +166,7 @@ Ilyenkor ellenfele `Védő Értékét` annak mozgási jellege és mérete határ
 
 Kapcsolódik:
 - [Belharc fortély](fortelyok.harci/belharc.md)
-- [Belharcos manőverek](../065_04_belharcos_manoverek.md)
+- [Belharcos manőverek](065_04_belharcos_manoverek.md)
 
 Ha a képzett harcosnak sikerül ellenfele fegyvere „mögé”, testközelébe kerülni, akkor ebből előnyt kovácsolhat.
 
