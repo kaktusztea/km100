@@ -3,7 +3,7 @@
 Gyakori eset, hogy a játékosok és / vagy Nem Játékos Karakterek között kergetőzés veszi kezdetét.
 ### Menekülés / Üldözés
 
-Ha harc közben dönt úgy egy karakter, hogy ideje távozni, akkor [Kibontakozás Manővert](065_03_altalanos_manoverek.md#kibontakoz%C3%A1s) kell dobnod. Ha sikertelen, ellenfeled kap egy extra támadást a **Fegyvertelen Védő Értéked** ellen, sőt megkapja a [Támadás hátulról](064_01_harci_helyzetek.md#t%C3%A1mad%C3%A1s-h%C3%A1tulr%C3%B3l) módosítóit is.
+Ha harc közben dönt úgy egy karakter, hogy ideje távozni, akkor [Kibontakozás Manővert](065_05_altalanos_manoverek.md#kibontakozás) kell dobnod. Ha sikertelen, ellenfeled kap egy extra támadást a **Fegyvertelen Védő Értéked** ellen, sőt megkapja a [Támadás hátulról](064_01_harci_helyzetek.md#t%C3%A1mad%C3%A1s-h%C3%A1tulr%C3%B3l) módosítóit is.
 
 A Manőver után jön a **Futás ellenpróba** (lásd lejjebb) - amennyiben ellenfeled úgy dönt, hogy üldözni kezd.
 

@@ -5,7 +5,7 @@ Harc közben nem a pusztítás a célod, hanem különösen fájdalmas pontokat 
 
 🔒 **Követelmény**:
 - [Élettan](../fortelyok.altalanos/elettan.md): `+1.fok`
-- Sikeres  [Területre/Pontra támadás](../065_03_altalanos_manoverek.md#ter%C3%BCletre--pontra-t%C3%A1mad%C3%A1s) manőver
+- Sikeres  [Területre/Pontra támadás](../065_05_altalanos_manoverek.md#területre--pontra-támadás) manőver
 
 🌟 **Hatás**: 
 - Sebzésed: `-10 SP`

@@ -8,7 +8,7 @@ Ismered a test sebezhető pontjait és tisztában vagy a létfontosságú belső
 - [Összpontosítás](../kepzettsegek/osszpontositas.md) - `3.szint`
 
 🌟 **Hatás**:
-- Sikeres [Területre / Pontra Támadás](../065_03_altalanos_manoverek.md#ter%C3%BCletre--pontra-t%C3%A1mad%C3%A1s) Manőver, vagy [Orvtámadás](../064_02_harci_taktikak.md#orvtámadás) esetén `SP:+2` (csak vértmentes ponton)
+- Sikeres [Területre / Pontra Támadás](../065_05_altalanos_manoverek.md#területre--pontra-támadás) Manőver, vagy [Orvtámadás](../064_02_harci_taktikak.md#orvtámadás) esetén `SP:+2` (csak vértmentes ponton)
 - [Visszafogott Csapás](../064_02_harci_taktikak.md#visszafogott-csapás--harc-az-ellenfél-elfogásáért) harci taktika csak [Támadás hátulról](../064_01_harci_helyzetek.md#támadás-hátulról) esetén működik, harc közben nem.
 - [Leütés hátulról](../064_02_harci_taktikak.md#leütés-hátulról-fejretarkóra) harci taktika bónuszait lásd lenn!
 
@@ -21,7 +21,7 @@ Ismered a test sebezhető pontjait és tisztában vagy a létfontosságú belső
 - [Élettan](../fortelyok.altalanos/elettan.md) fortély: `1.fok`
 
 🌟 **Hatás**:
-- Sikeres [Területre / Pontra Támadás](../065_03_altalanos_manoverek.md#ter%C3%BCletre--pontra-t%C3%A1mad%C3%A1s) Manőver, vagy [Orvtámadás](../064_02_harci_taktikak.md#orvtámadás) esetén `SP:+4` (csak vértmentes ponton)
+- Sikeres [Területre / Pontra Támadás](../065_05_altalanos_manoverek.md#területre--pontra-támadás) Manőver, vagy [Orvtámadás](../064_02_harci_taktikak.md#orvtámadás) esetén `SP:+4` (csak vértmentes ponton)
 - Harc közben is használható a [Visszafogott Csapás](../064_02_harci_taktikak.md#visszafogott-csapás--harc-az-ellenfél-elfogásáért) harci taktika.
 - **Leütés hátulról** harci szituációban is bónuszt ad.
 
@@ -37,7 +37,7 @@ Ismered a test sebezhető pontjait és tisztában vagy a létfontosságú belső
 - A 3.fokot csak fejvadász, boszorkány, boszorkánymester és egyes harcművész iskolákban tanítják
 
 🌟 **Hatás**:
-- Sikeres [Területre / Pontra Támadás](../065_03_altalanos_manoverek.md#ter%C3%BCletre--pontra-t%C3%A1mad%C3%A1s) Manőver, vagy [Orvtámadás](../064_02_harci_taktikak.md#orvtámadás) esetén `SP:+4` (csak vértmentes ponton)
+- Sikeres [Területre / Pontra Támadás](../065_05_altalanos_manoverek.md#területre--pontra-támadás) Manőver, vagy [Orvtámadás](../064_02_harci_taktikak.md#orvtámadás) esetén `SP:+4` (csak vértmentes ponton)
 - Harc közben is használható a [Visszafogott Csapás](../064_02_harci_taktikak.md#visszafogott-csapás--harc-az-ellenfél-elfogásáért) harci taktika.
 - [Leütés hátulról](../064_02_harci_taktikak.md#leütés-hátulról-fejretarkóra) harci szituációban is bónuszt ad.
 - Ismer olyan kényes pontokat, amelyekkel béníthat, görcsöt vagy kábulatot okozhat, és az ilyen technikával okozott ugyanilyen hatásokat szüntethet meg.

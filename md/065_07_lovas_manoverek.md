@@ -4,4 +4,4 @@ A lóval és ló ellen végbevihető Manőverek a [Harc lóhátról](066_harc_lo
 
 ---
 
-🔗 [Példa Manőver alkalmazására](065_06_pelda_manover_alkalmazasara.md) →
+🔗 [Példa Manőver alkalmazására](065_08_pelda_manover_alkalmazasara.md) →

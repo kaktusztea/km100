@@ -43,7 +43,7 @@
 - [Pontok](017_00_pontok.md)
   - [Karakteralkotó Pontok (KP)](017_01_kp.md)
   - [Szabad Pontok](017_02_szp.md)
-  - [Manőver Keret](017_03_manover_keret.md)
+  - [Manőver Keret](017_04_manover_keret.md)
 - [Számaztatott értékek](018_00_szarmaztatott_ertekek.md)
   - [Életerő Pont (ÉP)](018_01_ep.md)
   - [Mágiaellenállás](018_02_magiaellenallas.md) 🎲
@@ -134,12 +134,14 @@
 
 #### 6.5 [Manőverek](065_00_manoverek.md) 🎲
 
-- [Manőver szabályok](065_01_manover_szabalyok.md)
-- [Manőver végrehajtásának lépései](065_02_manover_vegbevitele.md)
-- [Általános Manőverek listája](065_03_altalanos_manoverek.md)
-- [Belharcos Manőverek listája](065_04_belharcos_manoverek.md)
-- [Lovas Manőverek listája](065_05_lovas_manoverek.md)
-- [Példa Manőverek alkalmazására](065_06_pelda_manover_alkalmazasara.md)
+- [Manőver Alap](065_01_manover_alap.md)
+- [Manőver Keret](065_02_manover_keret.md)
+- [Manőver szabályok](065_03_manover_szabalyok.md)
+- [Manőver végrehajtásának lépései](065_04_manover_vegbevitele.md)
+- [Általános Manőverek listája](065_05_altalanos_manoverek.md)
+- [Belharcos Manőverek listája](065_06_belharcos_manoverek.md)
+- [Lovas Manőverek listája](065_07_lovas_manoverek.md)
+- [Példa Manőverek alkalmazására](065_08_pelda_manover_alkalmazasara.md)
 
 #### 6.6 [Harc lóhátról](066_harc_lohatrol.md)
 

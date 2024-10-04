@@ -2,11 +2,11 @@
 
 Testközelben érzed igazában elemedben magad.
 
-Sikeres 🗡️[Belharcba kerülés](../065_04_belharcos_manoverek.md#belharcba-ker%C3%BCl%C3%A9s) manőver esetén 🗡️[Belharci szituációba](../064_01_harci_helyzetek.md#belharc-belharci-szitu%C3%A1ci%C3%B3) kerülsz és harcértékeidre - csak (!) **Közelharc** harcmodor és legfeljebb "rövid" pengehosszú fegyverek használata esetén - a lent leírt pluszok járnak, továbbá megnyílik a lehetőség [Belharcos manőverek](../065_04_belharcos_manoverek.md) használatára.
+Sikeres 🗡️[Belharcba kerülés](../065_06_belharcos_manoverek.md#belharcba-kerülés) manőver esetén 🗡️[Belharci szituációba](../064_01_harci_helyzetek.md#belharc-belharci-szitu%C3%A1ci%C3%B3) kerülsz és harcértékeidre - csak (!) **Közelharc** harcmodor és legfeljebb "rövid" pengehosszú fegyverek használata esetén - a lent leírt pluszok járnak, továbbá megnyílik a lehetőség [Belharcos manőverek](../065_06_belharcos_manoverek.md) használatára.
 
 Bővebben:
 - [Belharci szituáció jellemzői](../064_01_harci_helyzetek.md#belharc-belharci-szitu%C3%A1ci%C3%B3)  (harci helyzet)
-- [Belharcos manőverek](../065_04_belharcos_manoverek.md)
+- [Belharcos manőverek](../065_06_belharcos_manoverek.md)
 
 #### 1. fok
 

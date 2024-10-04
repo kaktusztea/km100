@@ -47,7 +47,7 @@ Nagy pajzs: `VÉ:50`, `MGT:⭕`
 - Támadhatsz is a pajzzsal.
 - Ha csak pajzs van nálad, akkor azzal.
 - Ha fegyver is van nálad: akkor VAGY a fegyverrel VAGY a pajzzsal támadhatsz.
-- Tanulhatsz [pajzsos manőver](../065_03_altalanos_manoverek.md) ismereteket.
+- Tanulhatsz [pajzsos manőver](../065_05_altalanos_manoverek.md) ismereteket.
 
 <br />
 

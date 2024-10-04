@@ -18,7 +18,7 @@ Támadó és Védekező Bónusza:
   +2 / Belharc fortély fok
 ```
 
-A Belharcos Manőverek [Ellenpróba](065_02_manover_vegbevitele.md#ellenpr%C3%B3ba-e) fázisnál a fenti bónusz érvényesül a [Belharc fortély](fortelyok.harci/belharc.md) minden foka után **az alkalmazó ÉS a védekező részére is**.
+A Belharcos Manőverek [Ellenpróba](065_04_manover_vegbevitele.md#ellenpróba-e) fázisnál a fenti bónusz érvényesül a [Belharc fortély](fortelyok.harci/belharc.md) minden foka után **az alkalmazó ÉS a védekező részére is**.
 
 ---
 #### Átdobás
@@ -38,14 +38,14 @@ A Belharcos Manőverek [Ellenpróba](065_02_manover_vegbevitele.md#ellenpr%C3%B3
 ---
 #### Belharcba kerülés
 
-Lásd a [Belharcba kerülés manővereknél](065_03_altalanos_manoverek.md#belharcba-ker%C3%BCl%C3%A9s)!
+Lásd a [Belharcba kerülés manővereknél](065_05_altalanos_manoverek.md#belharcba-kerülés)!
 
 <br />
 
 ---
 #### Belharcból kibontakozás
 
-Lásd a [Belharcból kibontakozás](065_03_altalanos_manoverek.md#belharcb%C3%B3l-kibontakoz%C3%A1s)!
+Lásd a [Belharcból kibontakozás](065_05_altalanos_manoverek.md#belharcból-kibontakozás)!
 
 <br />
 
@@ -76,9 +76,9 @@ Lásd a [Belharcból kibontakozás](065_03_altalanos_manoverek.md#belharcb%C3%B3
   - Belharci szituáció
   - Közelharc - `5.szint`
 
-**Hatás**: Sikeresen kigáncsoltad ellenfeled lábát, aki a földre zuhan. Felállnia csak sikeres [Felállás földről](065_03_altalanos_manoverek.md#fel%C3%A1ll%C3%A1s-f%C3%B6ldr%C5%91l) manőver alkalmazásával sikerülhet. A továbbiakban a [Harc földön fekve](064_01_harci_helyzetek.md#harc-f%C3%B6ld%C3%B6n-fekve) módosítói vonatkoznak rá.
+**Hatás**: Sikeresen kigáncsoltad ellenfeled lábát, aki a földre zuhan. Felállnia csak sikeres [Felállás földről](065_05_altalanos_manoverek.md#felállás-földről) manőver alkalmazásával sikerülhet. A továbbiakban a [Harc földön fekve](064_01_harci_helyzetek.md#harc-f%C3%B6ld%C3%B6n-fekve) módosítói vonatkoznak rá.
 
-**Megjegyzés**: Súlyos ellenfélnél: opcionális **Erő Tulajdonságpróba** (KM dönt). Gondoljunk a nagy, páncélos ellenfelekre! Csak kétlábú ellenfelek ellen alkalmazható, több lábbal rendelkező ellenfélnél [Ökleléssel](065_03_altalanos_manoverek.md#%C3%B6klel%C3%A9s) kell próbálkoznod.
+**Megjegyzés**: Súlyos ellenfélnél: opcionális **Erő Tulajdonságpróba** (KM dönt). Gondoljunk a nagy, páncélos ellenfelekre! Csak kétlábú ellenfelek ellen alkalmazható, több lábbal rendelkező ellenfélnél [Ökleléssel](065_05_altalanos_manoverek.md#öklelés) kell próbálkoznod.
 
 <br />
 
@@ -153,4 +153,4 @@ Lásd a [Belharcból kibontakozás](065_03_altalanos_manoverek.md#belharcb%C3%B3
 
 ---
 
-🔗[Lovas Manőverek listája](065_05_lovas_manoverek.md) →
+🔗[Lovas Manőverek listája](065_07_lovas_manoverek.md) →
