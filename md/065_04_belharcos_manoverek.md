@@ -18,7 +18,7 @@ Támadó és Védekező Bónusza:
   +2 / Belharc fortély fok
 ```
 
-[Ellenpróba](065_02_manover_vegbevitele.md#ellenpr%C3%B3ba-e) fázisnál a fenti bónusz érvényesül a [Belharc fortély](fortelyok.harci/belharc.md) minden foka után **az alkalmazó ÉS a védekező részéről is**.
+A Belharcos Manőverek [Ellenpróba](065_02_manover_vegbevitele.md#ellenpr%C3%B3ba-e) fázisnál a fenti bónusz érvényesül a [Belharc fortély](fortelyok.harci/belharc.md) minden foka után **az alkalmazó ÉS a védekező részére is**.
 
 ---
 #### Átdobás
