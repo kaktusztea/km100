@@ -59,13 +59,13 @@ Célszám
 
 ##### ⚜️ Célszám
 
-| Módosító                 | Érték                                                                                                                |
-| ------------------------ | -------------------------------------------------------------------------------------------------------------------- |
-| Manőver Alap (Ellenfélé) | `HM / 10 ↓`                                                                                                          |
-| Manőver Nehézség         | Az adott Manőver nehézsége (lásd az egyes manőverek leírását)                                                        |
-| Manőver Pont             | Pontonként: `+2`. Opcionális, max `2 pont` költhető (`+4`).                                                          |
-| Módosító körülmények     | `[-5;+5]` Tetszőleges KM által megadott +/- érték. Körülmény függő nehezítés ill. könnyítés. Például "bódulat", stb. |
-| Újrapróbálkozás          | `+2`                                                                                                                 |
+| Módosító                 | Érték                                                                                                   |
+| ------------------------ | ------------------------------------------------------------------------------------------------------- |
+| Manőver Alap (Ellenfélé) | `HM / 10 ↓`                                                                                             |
+| Manőver Nehézség         | Az adott Manőver nehézsége (lásd az egyes manőverek leírását)                                           |
+| Manőver Pont             | Pontonként: `+2`. Opcionális, max `2 pont` költhető (`+4`).                                             |
+| Módosító körülmények     | `[-5;+5]` KM által megadott +/- érték. Körülmény függő nehezítés / könnyítés. Például "bódulat" esetén. |
+| Újrapróbálkozás          | `+2`                                                                                                    |
 
 Az Ellenpróba dobása nem mást fed, mint hogy a karakter képes -e megteremteni maga számára a lehetőséget, úgymond „megágyazni magának”, hogy egyáltalán megkísérelhesse a **Manővert**. A harcban ez helyezkedést, „pozícióba kerülést” jelent, amelynek sikere függ a karakter és Ellenfelének **Manőver Alapjától**, a Manőver **Nehézségétől** és egyéb módosító körülményektől.
 
@@ -85,7 +85,7 @@ Követelmények nélkül:
 
 A Manőverek végrehajtásával bárki próbálkozhat, aki az adott Manővernél leírt **Végbevitel-követelményeket** teljesíti.
 
-Amennyiben nem teljesíti, akkor is nekifuthat, de az Ellenpróba dobásánál a célszám az ő számára `3`-al megemelkedik.
+Amennyiben nem teljesíti, akkor is nekifuthat, de az **Ellenpróba** dobásánál a célszám számára `3`-al megemelkedik.
 
 ---
 #### Újrapróbálkozás
@@ -95,13 +95,14 @@ Amennyiben nem teljesíti, akkor is nekifuthat, de az Ellenpróba dobásánál a
  újrapróbálkozásnál
 ```
 
-A Manőver ha sikeres volt, ha nem – az Ellenfél legközelebb már számít az ilyen jellegű támadásra, ezért amennyiben ismét ezt a Manővert kísérli meg a karakter, akkor az **Ellenpróba** során a célszám már `+2`-vel nőni fog. Ez a büntetés **nem** halmozódik.
+A Manőver ha sikeres volt, ha nem – az Ellenfél legközelebb már számít az ilyen jellegű támadásra, ezért amennyiben ismét ezt a Manővert kísérli meg az alkalmazó, akkor az **Ellenpróba** során a célszám már `+2`-vel nőni fog. Ez a büntetés **nem** halmozódik.
 
-Ez a módosító akkor is megjelenhet, ha az Ellenfél az alkalmazót már látta korábban küzdeni és egy konkrét Manővert gyakran alkalmazni. KM dönt.
+A fenti módosító akkor is megjelenhet, ha az Ellenfél az alkalmazót már látta korábban küzdeni és egy konkrét Manővert gyakran alkalmazni. KM dönt.
 
 ---
 #### Fegyverméret-kategóriák
 
-A Fegyverméret-kategóriák adta különbségek az Ellenpróbánál (**E**) módosítóként nem szükségesek, ha a manőverben van kötelező (**M**)egakasztás, vagy (**V**)égrehajtás, mert az a faktor az Ellenfél harcértékeiben már benne van.
+A Fegyverméret-kategóriák adta különbségek az **Ellenpróbánál** (`E`) módosítóként **nem** szükségesek amennyiben a Manőverben van kötelező (**M**)egakasztás, vagy (**V**)égrehajtás fázis, mert ez a hatás résztvevők harcértékeiben már benne foglaltatnak.
 
+---
 🔗[Általános Manőverek listája](065_05_altalanos_manoverek.md) →

@@ -2,19 +2,23 @@
 
 Egy Manőver végrehajtása `1 támadást` / `1 akciót` emészt fel, nem szükséges hozzá nyert kezdeményezés.
 
-Manővert ellenfél **ellen** alkalmazunk. Így például kiszaltózni az ablakon, vagy leugrani a várfalról **nem** számít Manővernek.
+Manővert Ellenfél **ellen** alkalmazunk. Így például kiszaltózni az ablakon, vagy leugrani a várfalról **nem** számít Manővernek.
 
 Ha minden kötelező fázisa sikeres a végrehajtó szempontjából (`V E`) és sikertelen a védekező szempontjából (`M`), akkor az adott Manőver „Hatás” részénél leírtak következnek be.
 
-[Meglepett](064_01_harci_helyzetek.md#meglepetés), [Készületlen](064_01_harci_helyzetek.md#készületlenség) ellenfél esetén kimarad a **Megakasztás** és az **Ellenpróba** fázis és a szokásos Végrehajtás `TÉ:+20` alkalmazásával lehet végbevinni a Manővert.  Ez a módosító ugye megegyezik és azonos is a [Meglepetés](064_01_harci_helyzetek.md#meglepet%C3%A9s) bónuszával.
+#### Harci szituációk és Manőverek
 
-Manővereknek lehet:
-- speciális könnyítő/nehezítő körülményei (+/- módosítók a nehézségre)
-- extra végbeviteli követelményei: Ezek nélkül a KM dönt, hogy végrehajtható -e és ha igen, mekkora plusz célszám büntetéssel
+[Meglepett](064_01_harci_helyzetek.md#meglepetés), [Készületlen](064_01_harci_helyzetek.md#készületlenség) ellenfél esetén kimarad a **Megakasztás** és az **Ellenpróba** fázis és a szokásos Végrehajtás `TÉ:+20` alkalmazásával lehet végbevinni a Manővert.  Ez a módosító ugye megegyezik és azonos is a [Meglepetés](064_01_harci_helyzetek.md#meglepet%C3%A9s) bónuszával. Az említett fázisokról (`M V E`) a [Manőver végbevitele](065_04_manover_vegbevitele.md) oldalon olvashatsz.
 
 Manőver alkalmazásakor nem folytatható [Teljes Védekezés Taktika](064_02_harci_taktikak.md#teljes-v%C3%A9dekez%C3%A9s-taktika), vagy [Védő Taktika](064_02_harci_taktikak.md#védő-taktika), de [Támadó taktika](064_02_harci_taktikak.md#támadó-taktika) igen - kivéve ahol ezek az adott Manővernél külön meg vannak említve.
 
 [Rohamnál](064_02_harci_taktikak.md#roham-taktika) csak az a manőver hajtható végre, amelyiknél ez külön meg van említve.
+
+#### Egyedi jellemzők
+
+Manővereknek lehet:
+- speciális könnyítő/nehezítő körülményei (+/- módosítók a nehézségre)
+- extra végbeviteli követelményei: ezek nélkül a KM dönt, hogy végrehajtható -e és ha igen, mekkora plusz célszám büntetéssel
 
 ---
 ### Manőverek nehézsége
