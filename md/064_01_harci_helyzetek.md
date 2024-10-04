@@ -164,9 +164,13 @@ Ilyenkor ellenfele `Védő Értékét` annak mozgási jellege és mérete határ
 ---
 ### Belharc, Belharci szituáció
 
+Kapcsolódik:
+- [Belharc fortély](fortelyok.harci/belharc.md)
+- [Belharcos manőverek](../065_04_belharcos_manoverek.md)
+
 Ha a képzett harcosnak sikerül ellenfele fegyvere „mögé”, testközelébe kerülni, akkor ebből előnyt kovácsolhat.
 
-Bejutottál ellenfeled fegyverének fenyegető vége mögé, testközelbe, de nem szükségszerűen érintésbe. Ha az általad épp forgatott fegyverre van tanult [Belharc fortélyod](fortelyok.harci/belharc.md), harcérték bónuszokat kapsz (lásd a fortély leírását). Belharci szituációban eddig tiltott manőverek végrehajtását is megpróbálhatod, melyek végbevitelének követelménye a Belharci szituáció: lásd [Belharcos manőverek](065_04_belharcos_manoverek.md).
+Bejutottál ellenfeled fegyverének fenyegető vége mögé, testközelbe, de nem szükségszerűen érintésbe. Ha az általad épp forgatott fegyverre van tanult [Belharc fortélyod](fortelyok.harci/belharc.md), harcérték bónuszokat kapsz (lásd a fortély leírását). Belharci szituációban eddig tiltott manőverek végrehajtását is megpróbálhatod, melyek végbevitelének követelménye a Belharci szituáció. Lásd bővebben: [Belharcos manőverek](065_04_belharcos_manoverek.md).
 
 #### ⚜️ Belharcba kerülés manőver
 
@@ -183,7 +187,8 @@ A **Belharci szituációból** kijövetelre ennek sikeres végrehajtására van 
 Minden `rövid (0)` pengehosszú fegyver, kivéve ezek közül azokat a fegyvereket, melyek leírásánál külön meg van említve, hogy nem lehet velük belharcot folytatni (pl. rövidkard, csatabárd, …)
 
 #### ⚜️ Belharc fortély
-Legfeljebb `2.fokon` tanulható fortély. Belharci szituációban az adott fegyvert forgatva fokonként bónuszokat kapsz. A bónuszok csak akkor élnek, ha az alkalmazó Belharci szituációban **Közelharc** harcmodort alkalmaz. Bővebben lásd a [Belharc fortély](fortelyok.harci/belharc.md) leírásánál.
+
+Belharci szituációban belharcos fegyvert forgatva fokonként bónuszokat kapsz. A bónuszok csak akkor élnek, ha az alkalmazó Belharci szituációban **Közelharc** harcmodort alkalmaz. Bővebben lásd a [Belharc fortély](fortelyok.harci/belharc.md) leírásánál.
 
 #### ⚜️ Nem-belharcos fegyverek belharci szituációban
 
@@ -192,13 +197,16 @@ Legfeljebb `2.fokon` tanulható fortély. Belharci szituációban az adott fegyv
 - forgatója **Harckeret** értéke `5`-el csökken
 - forgatója **Hátrányos szituációba** kerül, a belharcos pedig **Előnyösbe**
 - **Mesterfegyver** és az **Erőbónusz** értékei mindkét félnél megmaradnak.
-- A Puszta kéz értékei `0`-ra emelkednek
+
+#### ⚜️ Puszta kéz belharci szituációban
+
+Belharci szituációban harcértékei mind `0`-ra emelkednek.
 
 #### ⚜️ Harcmodor és belharci szituáció
 
-- Belharcban az áldozat abban a harcmodorban harcol, amiben előtte is.  Például egy szablyás harcoshoz bekerül egy belharcos, akkor ő továbbra is kardvívás harcmodorának értékeivel küzd, igaz szablyájának harcértékeit elveszíti annak mérete miatt.
-- **Belharc** fortély bónuszaihoz követelmény a **Közelharc** harcmodor használata
-- Belharc 1:1 elleni szituációban használható leghatékonyabban, külső, harmadik fél ellen viszont kiszolgáltatottabb.
+- Belharcban az áldozat abban a harcmodorban harcol, amiben előtte is.  Például egy szablyás harcoshoz bekerül egy belharcos, akkor a szablyás továbbra is **Kardvívás** harcmodorának értékeivel küzd, igaz szablyájának harcértékeit elveszíti annak mérete miatt.
+- **Belharc** fortély bónuszaihoz követelmény a **Közelharc** harcmodor használata, más harcmodor használata alatt nem járnak.
+- Belharc `1:1` elleni szituációban használható leghatékonyabban, külső, harmadik fél ellen viszont kiszolgáltatottabb.
 
 ```diff
 - TODO: Ez még vitatható, mert Attila szerint olyan, mint harcolók közé lőni.
