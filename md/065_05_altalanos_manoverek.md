@@ -155,7 +155,7 @@ Harc közben kirúgod ellenfeled lábát.
   - Előnyös helyzet
   - Aktuális harcmodor: - `5.szint`
 
-**Hatás**: Sikeresen kirúgtad ellenfeled lábát, aki a földre zuhan. Felállnia csak sikeres [Felállás földről](065_03_altalanos_manoverek.md#fel%C3%A1ll%C3%A1s-f%C3%B6ldr%C5%91l) manőver alkalmazásával sikerülhet. A továbbiakban a [Harc földön fekve](064_01_harci_helyzetek.md#harc-f%C3%B6ld%C3%B6n-fekve) módosítói vonatkoznak rá.
+**Hatás**: Sikeresen kirúgtad ellenfeled lábát, aki a földre zuhan. Felállnia csak sikeres [Felállás földről](065_05_altalanos_manoverek.md#felállás-földről) manőver alkalmazásával sikerülhet. A továbbiakban a [Harc földön fekve](064_01_harci_helyzetek.md#harc-f%C3%B6ld%C3%B6n-fekve) módosítói vonatkoznak rá.
 
 <br />
 
@@ -302,4 +302,4 @@ Alkalmazható egyszerre, csoportosan is. Csoportot terelni nehezebb. Ilyenkor em
 
 ---
 
-🔗[Belharcos Manőverek listája](065_04_belharcos_manoverek.md) →
+🔗[Belharcos Manőverek listája](065_06_belharcos_manoverek.md) →
