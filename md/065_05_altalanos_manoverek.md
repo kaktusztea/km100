@@ -18,7 +18,7 @@
 - [Távoltartás](#t%C3%A1voltart%C3%A1s)
 - [Terelés](#terel%C3%A9s)
 
-Az alábbiakban bemutatjuk az **Általános** km100 manővereket.
+Az alábbiakban bemutatjuk az **Általános** `km100` manővereket.
 
 A KM bármikor rögtönözhet új Manővert, mindössze az alábbiakat kell meghatároznia:
 - Nehézség `[2-10]`
