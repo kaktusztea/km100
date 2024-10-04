@@ -1,6 +1,6 @@
 ### Manőver Keret
 
-A Manőverek [Ellenpróba](065_04_manover_vegbevitele.md#ellenpróba-e) fázisánál használhatunk fel opcionálisan pontokat a lenti **Manőver Keretünkből** , amely a leginkább a "harctéri", általános harci tapasztalatból nyert trükkök ismeretét szimulálja.
+A Manőverek [Ellenpróba](065_04_manover_vegbevitele.md#ellenpróba-e) fázisánál használhatunk fel opcionálisan pontokat a lenti **Manőver Keretünkből**, amely a leginkább a "harctéri", általános harci tapasztalatból nyert trükkök ismeretét szimulálja.
 
 ```
 Manőver Keret =
