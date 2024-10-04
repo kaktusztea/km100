@@ -4,23 +4,32 @@
 - [Belharcba kerülés](#belharcba-ker%C3%BCl%C3%A9s)
 - [Belharcból kibontakozás](#belharcb%C3%B3l-kibontakoz%C3%A1s)
 - [Feszítés, Leszorítás / Feszítésből kijövetel](#fesz%C3%ADt%C3%A9s-leszor%C3%ADt%C3%A1s--fesz%C3%ADt%C3%A9sb%C5%91l-kij%C3%B6vetel)
-- [Gáncsolás / Lábsöprés (lábbal)](#g%C3%A1ncsol%C3%A1s--l%C3%A1bs%C3%B6pr%C3%A9s-l%C3%A1bbal)
+- [Gáncsolás](#g%C3%A1ncsol%C3%A1s)
 - [Kéztörés](#k%C3%A9zt%C3%B6r%C3%A9s)
 - [Lábtörés](#l%C3%A1bt%C3%B6r%C3%A9s)
 - [Lefejelés](#lefejel%C3%A9s)
 - [Leforgatás/Irányítás](#leforgat%C3%A1sir%C3%A1ny%C3%ADt%C3%A1s)
 - [Nyaktörés](#nyakt%C3%B6r%C3%A9s)
 
+<br />
+
+```
+Támadó és Védekező Bónusza:
+  +2 / Belharc fortély fok
+```
+
+[Ellenpróba](065_02_manover_vegbevitele.md#ellenpr%C3%B3ba-e) fázisnál a fenti bónusz érvényesül a [Belharc fortély](fortelyok.harci/belharc.md) minden foka után **az alkalmazó ÉS a védekező részéről is**.
+
 ---
 #### Átdobás
 
-- Nehézség: `5` + ⭕(Ellenfél minden **Belharc** foka után `+2`)
-- Fázisok: `E V`
+- Nehézség: `5`
+- Fázisok: `V E`
 - Végbevitel követelménye:
 	- Közelharc – `4 .szint`
 	- Belharc – `1.fok`
 	- Belharci szituáció
-- Speciális: súlyos ellenfélnél opcionális **Erőpróba** (KM dönt)
+- Súlyos ellenfélnél opcionális **Erőpróba** (KM dönt)
 
 **Hatás**: Belharc közben fogást találsz ellenfeleden és átdobod a vállad felett. Innentől kezdve a [Harc földön fekve](064_01_harci_helyzetek.md#harc-földön-fekve) módosítói szerint kell számolni harcértékeit.
 
@@ -43,16 +52,14 @@ Lásd a [Belharcból kibontakozás](065_03_altalanos_manoverek.md#belharcb%C3%B3
 ---
 #### Feszítés, Leszorítás / Feszítésből kijövetel
 
-- Nehézség: `6` ± **Erő** különbség + ⭕(Ellenfél minden **Belharc** foka után `+2`)
-- Fázisok: `E V`
+- Nehézség: `6` ± **Erő** különbség
+- Fázisok: `V E`
 - Végbevitel követelménye:
 	- Belharci szituáció
 	- Belharc – `1.fok` (kijövetelhez nem kell)
 	- Közelharc – `4.szint`
 	- Kijövetelhez: sikeres **Fájdalomtűrés** próba `15`-ös célszám ellen (körönként dobandó). Ha nincs meg, képtelen visszatámadni és mágiát, pszít használni
-- Speciális:
-	- Belharcos fegyverrel együtt is lehet alkalmazni
-
+- Belharcos fegyverrel együtt is lehet alkalmazni
 
 **Hatás**:
 	- Sikeresen lefeszítetted ellenfeledet, aki alig bír mozdulni / Kiszabadultál a feszítésből
@@ -61,26 +68,28 @@ Lásd a [Belharcból kibontakozás](065_03_altalanos_manoverek.md#belharcb%C3%B3
 <br />
 
 ---
-#### Gáncsolás / Lábsöprés (lábbal)
+#### Gáncsolás
 
-Súlyos ellenfélnél: opcionális **Erőpróba** (KM dönt). Gondoljunk a nagy, páncélos ellenfelekre! Csak kétlábú ellenfelek ellen alkalmazható, több lábbal rendelkező ellenfélnél **Ökleléssel** kell próbálkoznod.
+- Nehézség: `5`
+- Fázisok: `V E`
+- Követelménye:
+  - Belharci szituáció
+  - Közelharc - `5.szint`
 
-- Nehézség: `8/5` (`5`: Belharci szituációban)
-- Fázisok: `E V`
-- Max fok: `1`, követelménye: Közelharc - `5.szint`, Aktuális harcmodor: - `5.szint`
+**Hatás**: Sikeresen kigáncsoltad ellenfeled lábát, aki a földre zuhan. Felállnia csak sikeres [Felállás földről](065_03_altalanos_manoverek.md#fel%C3%A1ll%C3%A1s-f%C3%B6ldr%C5%91l) manőver alkalmazásával sikerülhet. A továbbiakban a [Harc földön fekve](064_01_harci_helyzetek.md#harc-f%C3%B6ld%C3%B6n-fekve) módosítói vonatkoznak rá.
 
-**Hatás**: Sikeresen kikaszáltad ellenfeled lábát, aki a földre zuhan. Felállnia csak sikeres „**Felállás földről**” manőver alkalmazásával sikerülhet. A továbbiakban a **Harc földön fekve** módosítói vonatkoznak rá.
+**Megjegyzés**: Súlyos ellenfélnél: opcionális **Erő Tulajdonságpróba** (KM dönt). Gondoljunk a nagy, páncélos ellenfelekre! Csak kétlábú ellenfelek ellen alkalmazható, több lábbal rendelkező ellenfélnél [Ökleléssel](065_03_altalanos_manoverek.md#%C3%B6klel%C3%A9s) kell próbálkoznod.
 
 <br />
 
 ---
 #### Kéztörés
 
-- Nehézség: `6`
+- Nehézség: `7`
 	- ± **Erő** különbség
 	- `+[1-6]`: ellenfél páncélban van. KM dönt a mértékről.
 	- Ellenfél minden **Belharc** foka után `+2`
-- Fázisok: `E V`
+- Fázisok: `V E`
 - Végbevitel követelménye
 	- Belharci szituáció
 	- Belharc – `1.fok`
@@ -95,7 +104,6 @@ Súlyos ellenfélnél: opcionális **Erőpróba** (KM dönt). Gondoljunk a nagy,
 
 - Nehézség: `8` 
 	- ± **Erő** különbség
-	- Ellenfél minden **Belharc** foka után `+2`
 	- `+[1-6]`: ellenfél páncélban van. KM dönt a mértékről.
 - Fázisok: `E V`
 - Végbevitel követelménye:
@@ -109,17 +117,9 @@ Súlyos ellenfélnél: opcionális **Erőpróba** (KM dönt). Gondoljunk a nagy,
 ---
 #### Lefejelés
 
-⭕Belharcot előbb!⭕
-
-- Nehézség: `8/5` (Belharcban a nehézség csak `5`)
-- Fázisok: `E V`
-- Max fok: `1`
-- Végbevitel követelménye:
-	-  xyz
-- Speciális:
-	- Nem szükséges Belharc fortély
-	- ⭕Ellenfél képzett belharcos: lásd leírás⭕
-	- ⭕TODO: állatoknak általában van Belharcuk! (KM dönt)⭕
+- Nehézség: `5`
+- Fázisok: `V E`
+- Végbevitel követelménye: Belharci szituáció
 
 **Hatás**: Arcon fejelted áldozatodat.
 
@@ -129,7 +129,7 @@ Súlyos ellenfélnél: opcionális **Erőpróba** (KM dönt). Gondoljunk a nagy,
 #### Leforgatás/Irányítás
 
 - Nehézség: `8 / 4` (Lefeszített ellenfél ellen a nehézség csak `4`)
-- Fázisok: `E V`
+- Fázisok: `V E`
 - Végbevitel követelménye: Belharci szituáció
 
 **Hatás**: Képes vagy ellenfeledet a számodra kedvező irányba forgatni/terelni miközben összeakaszkodtok. Legfeljebb `5 méternyi` távot tetethetsz meg vele.
@@ -139,7 +139,7 @@ Súlyos ellenfélnél: opcionális **Erőpróba** (KM dönt). Gondoljunk a nagy,
 ---
 #### Nyaktörés
 
-- Nehézség: `9`
+- Nehézség: `10`
 	- `+[1-6]`: ellenfél páncélban van. KM dönt a mértékről.
 - Fázisok: `E V`
 - Végbevitel követelménye:

@@ -7,6 +7,7 @@
 - [Kibontakozás](#kibontakoz%C3%A1s)
 - [Kiegészítő támadás](#kieg%C3%A9sz%C3%ADt%C5%91-t%C3%A1mad%C3%A1s)
 - [Lábkirántás szálfegyverrel](#l%C3%A1bkir%C3%A1nt%C3%A1s-sz%C3%A1lfegyverrel)
+- [Lábsöprés](⭕xyz)⭕
 - [Lánccsapda](#l%C3%A1nccsapda)
 - [Lefegyverzés / Fegyvertörés](#lefegyverz%C3%A9s--fegyvert%C3%B6r%C3%A9s)
 - [Mesterjel](#mesterjel)
@@ -17,7 +18,14 @@
 - [Távoltartás](#t%C3%A1voltart%C3%A1s)
 - [Terelés](#terel%C3%A9s)
 
-Az alábbiakban bemutatjuk a km100 által ismert manővereket közül az Általános. A KM bármikor rögtönözhet új manővert, mindössze az alábbiakat kell megtennie: meghatározni a Manőver alap nehézségét, végbevitelének követelményeit, szükséges fázisait (MEV), hatását, valamint az esetleges speciális követelményeket (képzettségpróba, stb). Amennyiben az új manőver fejleszthető, akkor az egyes tanulható fokok követelményeit is rögzíteni kell.
+Az alábbiakban bemutatjuk az **Általános** km100 manővereket.
+
+A KM bármikor rögtönözhet új manővert, mindössze az alábbiakat kell megtennie:
+- meghatározni a Manőver alap nehézségét
+-  végbevitelének követelményeit
+- szükséges fázisait (MVE)
+- hatását
+- az esetleges speciális követelményeket
 
 <br />
 
@@ -42,7 +50,7 @@ Harcoló felek között, vagy akár veled harcolni vágyó ellenfél mellett els
 ---
 #### Belharcba kerülés
 
-Ha az ellenfél úgy dönt, hogy szándékosan beengedi belharcba a karaktert, akkor nincs szükség a Manőverre, dobás nélkül megtörténik a bekerülés, amelyet kezdeményezés követ, majd a harc – immár a Belharc szabályainak megfelelően.
+Átjutva a nagyobb fegyverek fenyegetésén testközelbe lavírozod magad.
 
 - Nehézség: `9`
 	- `-4`: ellenfél háttal áll
@@ -52,9 +60,11 @@ Ha az ellenfél úgy dönt, hogy szándékosan beengedi belharcba a karaktert, a
 	- Belharcos fegyver használata
 	- **Közelharc** harcmodor használata
 
-**Hatás**: Sikeresen bekerültél belharcba, megkapod a Belharci szituációnál leírt módosítókat.
+**Hatás**: Sikeresen bekerültél belharcba, megkapod a ⭕TODO: link⭕**Belharci szituációnál** leírt módosítókat.
 
 **Nagy siker**: `4`-el túldobott Ellenpróbánál még sebző **Megakasztás** támadást elszenvedve is bekerülsz belharcba.
+
+**Megjegyzés**: Ha az ellenfél úgy dönt, hogy szándékosan beengedi belharcba a karaktert, akkor nincs szükség a Manőverre, dobás nélkül megtörténik a bekerülés, amelyet kezdeményezés követ, majd a harc – immár a Belharc szabályainak megfelelően.
 
 <br />
 
@@ -68,7 +78,6 @@ Ha az ellenfél úgy dönt, hogy szándékosan beengedi belharcba a karaktert, a
     - **Megakasztás** sikertelen: a kibontakozás sikertelen, nem dobhatsz Ellenpróbát sem.
 	- **Ellenpróba** sikertelen: a kibontakozás sikertelen.
 	- **Ellenpróba** sikeres: kibontakoztál belharcból.
-- Követelmény: [Belharc](fortelyok.harci/belharc.md) - `1.fok`
 - Taktikák: Védő Taktika és Teljes Védekezés Taktika közben is végezhető.
 - Ha belharcban sebzel, automatikusan, más dobás nélkül kibontakozhatsz a belharci szituációból.
 
@@ -109,7 +118,7 @@ Ha az ellenfél úgy dönt, hogy szándékosan beengedi belharcba a karaktert, a
 
  ⭕TODO⭕ KELL EZ?⭕
 - Nehézség: `7`
-- Fázisok: `E V`
+- Fázisok: `V E`
 - Végbevitel követelménye:
 	- Közelharc – `4.szint`
 	- Forgatott fegyverre: Mesterfegyver – `1.fok`
@@ -125,7 +134,7 @@ Csak kétlábú ellenfelek ellen alkalmazható, több lábbal rendelkező ellenf
 
 - Nehézség: `6`
 	- `-2`: Kifejezetten lábkirántásra alkalmas fegyverrel
-- Fázisok: `E V`
+- Fázisok: `V E`
 - Követelmény:
 	- Lándzsavívás – `6.szint`
 	- Szálfegyver használata
@@ -136,13 +145,28 @@ Csak kétlábú ellenfelek ellen alkalmazható, több lábbal rendelkező ellenf
 <br />
 
 ---
+#### Lábsöprés
+
+Harc közben kirúgod ellenfeled lábát.
+
+- Nehézség: `8`
+- Fázisok: `V E`
+- Követelménye:
+  - Előnyös helyzet
+  - Aktuális harcmodor: - `5.szint`
+
+**Hatás**: Sikeresen kirúgtad ellenfeled lábát, aki a földre zuhan. Felállnia csak sikeres [Felállás földről](065_03_altalanos_manoverek.md#fel%C3%A1ll%C3%A1s-f%C3%B6ldr%C5%91l) manőver alkalmazásával sikerülhet. A továbbiakban a [Harc földön fekve](064_01_harci_helyzetek.md#harc-f%C3%B6ld%C3%B6n-fekve) módosítói vonatkoznak rá.
+
+<br />
+
+---
 #### Lánccsapda
 
 Láncos fegyverekkel hajthatod vége.
 
 - Nehézség: `9`
-- Fázisok: `E V`
-- Követelmény: Használt láncos fegyverre Mesterfegyver fortély – `1.fok`
+- Fázisok: `V E`
+- Követelmény: Használt láncos fegyverre [Mesterfegyver fortély](fortelyok.harci/mesterfegyver.md) – `1.fok`
 
 **Hatás**:
 - Láncos fegyvereddel foglyul ejted ellenfeled pengéjét, vagy fegyvertartó kezét, melyet a továbbiakban nem tud használni, amíg ki nem szabadítja azt. Amennyiben ellenfeled `0,5` pengénél nagyobb fegyvert forgat, dönthet:
@@ -161,7 +185,7 @@ Ha meg akarod fosztani ellenfeledet fegyverétől, vagy kiütve kezéből, vagy 
 	- `+2`: fegyvertörés. Nehezebb, mint a lefegyverzés.
 	- `-2`:  fából készült szálfegyverek törése
 	- `[-2;+2]`: a használt fegyver mennyire alkalmas a másik fegyver elvételére. KM dönt.
-- Fázisok: `E V`
+- Fázisok: `V E`
 - Követelmény: Harcmodor – `5.szint`
 
 **Hatás**: A lefegyverzés/fegyvertörés sikeres. Ellenfeled kezéből kihullik a fegyver, vagy eltörik.
@@ -174,7 +198,7 @@ Ha meg akarod fosztani ellenfeledet fegyverétől, vagy kiütve kezéből, vagy 
 A használt fegyver csak valamilyen (legfeljebb 1 penge hosszú) hegyes szúrófegyver lehet.
 
 - Nehézség: `10-12` (A jel bonyolultságától függ)
-- Fázisok: `E V`
+- Fázisok: `V E`
 - Követelmény: Mesterfegyver – `2.fok`
 
 **Hatás**: Sikeres manőver esetén képes vagy mesterjeledet belekarcolni ellenfeled ruhájába/bőrébe.
@@ -187,7 +211,7 @@ A használt fegyver csak valamilyen (legfeljebb 1 penge hosszú) hegyes szúróf
 ⭕Egyesíteni a "Pajzzsal ökleléssel"?⭕`
 
 - Nehézség: `⭕?⭕`
-- Fázisok: `⭕M⭕  E V`
+- Fázisok: `⭕M⭕  V E`
 - Követelmény: ⭕TODO⭕
 
 **Hatás**: ⭕TODO⭕
@@ -200,7 +224,7 @@ A használt fegyver csak valamilyen (legfeljebb 1 penge hosszú) hegyes szúróf
 - Nehézség: `7`
     - ± **Erő** különbség
     - Ellenfél minden **Pajzshasználat** foka után `+2` (ha használ épp pajzsot ő is)
-- Fázisok: `E V`
+- Fázisok: `V E`
 - Követelmény:
 	- Pajzshasználat – `2.fok`
 	- Nagy és Közepes pajzzsal lehet csak
@@ -215,7 +239,7 @@ A használt fegyver csak valamilyen (legfeljebb 1 penge hosszú) hegyes szúróf
 Szándékosan rongálod ellenfeled pajzsát, csökkentve annak Védő Értékét.
 
 - Nehézség: `6`
-- Fázisok: `E V`
+- Fázisok: `V E`
 - Követelmény: Aktuális harcmodor - `6.szint`, `Erő: +1`
 - Speciális: Ez ellen a manőver ellen nem számít a pajzs adta Védő Érték!
 
@@ -241,11 +265,11 @@ Meglepetés esetén is kell **Ellenpróbát** dobni
     - `+2`: zúzófegyverekkel
     - `-2`: Rapír/Tőrkard
     - `+2`: [Roham](064_02_harci_taktikak.md#roham-taktika) alkalmazása esetén
-- Fázisok: `E V`
-	- Végrehajtás során **nem kapja meg a +20 TÉ módosítót**! Ha az Ellenpróba sikeres, sima támadást dobsz aktuális harcértékeiddel.
+- Fázisok: `V E`
+	- Végrehajtás során **nem kapod meg a +20 TÉ módosítót**, sima támadást dobsz! Ha a Végrehajtás sikeres, dobhatod az Ellenpróbát.
 - Követelmény: Aktuális harcmodor - `6.szint`
 
-**Hatás**: Az általad kiszemelt területre sikerül leadnod a támadásod, sebezz, ahogy szoktál. Érme méretű célpontnál a [Harci Anatómia](fortelyok.harci/harci_anatomia.md) **SP** bónusz érvényesül.
+**Hatás**: Az általad kiszemelt területre sikerül leadnod a támadásod, sebezz, ahogy szoktál. Érme méretű, páncéllal nem fedett terület eseténa [Harci Anatómia](fortelyok.harci/harci_anatomia.md) **SP** bónusz érvényesül.
 
 <br />
 
