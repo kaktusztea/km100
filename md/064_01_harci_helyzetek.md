@@ -164,73 +164,47 @@ Ilyenkor ellenfele `Védő Értékét` annak mozgási jellege és mérete határ
 ---
 ### Belharc, Belharci szituáció
 
-```diff
-- PROB_HARC_#46
-```
-
 Ha a képzett harcosnak sikerül ellenfele fegyvere „mögé”, testközelébe kerülni, akkor ebből előnyt kovácsolhat.
 
-#### Belharci szituáció
-
-Bejutottál ellenfeled fegyverének fenyegető vége mögé, testközelbe, de nem szükségszerűen érintésbe. Ha az általad épp forgatott fegyverre van tanult [Belharc fortélyod](fortelyok.harci/belharc.md), harcérték bónuszokat kapsz (lásd a fortély leírását). Belharci szituációban eddig tiltott manőverek végrehajtását is megpróbálhatod, melyek végbevitelének követelménye a Belharci szituáció: úgy is mint Átdobás, Feszítés/kijövetel, Kéztörés, Lábtörés, Nyaktörés.
-
-```diff
-- Átnézni ezeket a fortélyokat. Belharc fortély is kell hozzájuk?
-```
-
-Továbbá pár manőver könnyebbé válik Belharci szituációban: [Gáncsolás/lábsöprés](065_04_belharcos_manoverek.md#g%C3%A1ncsol%C3%A1s--l%C3%A1bs%C3%B6pr%C3%A9s-l%C3%A1bbal) (belharcban `+2` Ellenpróbánál)
+Bejutottál ellenfeled fegyverének fenyegető vége mögé, testközelbe, de nem szükségszerűen érintésbe. Ha az általad épp forgatott fegyverre van tanult [Belharc fortélyod](fortelyok.harci/belharc.md), harcérték bónuszokat kapsz (lásd a fortély leírását). Belharci szituációban eddig tiltott manőverek végrehajtását is megpróbálhatod, melyek végbevitelének követelménye a Belharci szituáció: lásd [Belharcos manőverek](065_04_belharcos_manoverek.md).
 
 #### Belharcba kerülés manőver
 
-A Belharci szituációba kerüléshez ezt a (fejleszthető) manővert kell sikerrel végrehajtani. Csak Közelharc harcmodor alkalmazása közben lehet megpróbálni.
+A Belharci szituációba kerüléshez ezt a manővert kell sikerrel végrehajtani. Csak **Közelharc** harcmodor alkalmazása közben lehet megpróbálni.
 
 Bővebben lásd a [manőver leírását](065_03_altalanos_manoverek.md#belharcba-ker%C3%BCl%C3%A9s).
 
-#### Kibontakozás/Átsiklás manőver
+#### Belharcból kibontakozás manőver
 
-A **Belharci szituációból** kijövetelre ennek sikeres végrehajtására van szükség.
-Nehézsége alapesetben `5`-ös. Persze csak akkor kell a próba, ha valamelyik fél benn akarja tartani a másikat.
-
-- Ha az ellenfélnek Belharc fortélya van, akkor fokonként `+2`-vel nő a nehézség Ellenpróbánál
-- Ha az alkalmazónak Belharc fortélya van, akkor dobására fokonként `+2` pontot kap Ellenpróbánál
-- Ha belharci szituációban a belharcos sebesülést szenved és elrontja fájdalomtűrés próbáját
-```diff
-- (már nincs **Fájdalomtűrés dobás** sebesüléskor,... de itt esetleg dobhatunk...)
-```
-... akkor ellenfele – ha akarja – automatikusan megszüntetheti a belharci szituációt, kibontakozhat belőle.
-
-```diff
-- Sérülést bevállalva **mindenképpen** kijönni hogy lehessen?
-```
+A **Belharci szituációból** kijövetelre ennek sikeres végrehajtására van szükség. Bővebben lásd a [manőver leírását](065_03_altalanos_manoverek.md#belharcb%C3%B3l-kibontakoz%C3%A1s).
 
 #### Belharcos-fegyverek
 
 Minden `rövid (0)` pengehosszú fegyver, kivéve ezek közül azokat a fegyvereket, melyek leírásánál külön meg van említve, hogy nem lehet velük belharcot folytatni (pl. rövidkard, csatabárd, …)
 
 #### Belharc fortély
-Legfeljebb `2.fokon` tanulható fortély, amelyet **egy konkrét, választott belharcos-fegyverre** lehet felvenni. Így többször is felvehető más-más fegyverekre. Belharci szituációban az adott fegyvert forgatva fokonként `KÉ:+2`, `TÉ/VÉ:+3` bónuszt ad. A bónuszok csak akkor élnek, ha az alkalmazó Belharci szituációban **Közelharc** harcmodort alkalmaz. Bővebben lásd a [Belharc fortély](fortelyok.harci/belharc.md) leírásánál.
+Legfeljebb `2.fokon` tanulható fortély. Belharci szituációban az adott fegyvert forgatva fokonként bónuszokat kapsz. A bónuszok csak akkor élnek, ha az alkalmazó Belharci szituációban **Közelharc** harcmodort alkalmaz. Bővebben lásd a [Belharc fortély](fortelyok.harci/belharc.md) leírásánál.
 
-#### Általános szabályok belharci szituációra
+#### Nem-belharcos fegyverek belharci szituációban
 
-- Belharci szituációban a nem-belharcos fegyverek harcértékei `0`-ra zuhannak, sebzésük `+1 SP`, ⭕(ha alacsonyabb volt, akkor `-5 SP`)⭕, a forgató **Harckeret** értéke `5`-el csökken, továbbá **Hátrányos szituációba** kerül, a belharcos pedig **Előnyösbe**. A **Mesterfegyver** és az **Erőbónusz** értékei mindkét félnél megmaradnak.
-- A Puszta kéz értékei `0`-ra emelkednek.
-- Belharcban az áldozat abban a harcmodorban harcol, amiben előtte is. (De a **Belharc** fortély bónuszaihoz követelmény a **Közelharc** használata). Például egy szablyás harcoshoz bekerül egy belharcos, akkor ő továbbra is kardvívás harcmodorának értékeivel küzd, igaz szablyájának harcértékeit elveszíti annak mérete miatt.
-- A Belharc 1:1 elleni szituációban használható leghatékonyabban, külső, harmadik fél ellen viszont kiszolgáltatottabb.
+- harcértékei `0`-ra zuhannak
+- sebzésük maximum `+1 SP`, ha alacsonyabb volt, akkor `-5 SP`
+- forgatója **Harckeret** értéke `5`-el csökken
+- forgatója **Hátrányos szituációba** kerül, a belharcos pedig **Előnyösbe**
+- **Mesterfegyver** és az **Erőbónusz** értékei mindkét félnél megmaradnak.
+- A Puszta kéz értékei `0`-ra emelkednek
+
+#### Harcmodor és belharci szituáció
+
+- Belharcban az áldozat abban a harcmodorban harcol, amiben előtte is.  Például egy szablyás harcoshoz bekerül egy belharcos, akkor ő továbbra is kardvívás harcmodorának értékeivel küzd, igaz szablyájának harcértékeit elveszíti annak mérete miatt.
+- **Belharc** fortély bónuszaihoz követelmény a **Közelharc** harcmodor használata
+- Belharc 1:1 elleni szituációban használható leghatékonyabban, külső, harmadik fél ellen viszont kiszolgáltatottabb.
 
 ```diff
 - TODO: Ez még vitatható, mert Attila szerint olyan, mint harcolók közé lőni.
 ```
 
 Amennyiben a belharcban levő harcost egy harmadik (vele nem belharcban levő) fél támadja, akkor a belharcos a **Harc helyhez kötve** szituáció VÉ büntetéseit szenvedi el, visszatámadni pedig nem tud, hiszen össze van akaszkodva másik ellenfelével. Kivétel: Sikeres **Leszorítás** (manőver) alkalmazása után, a leszorított áldozatot beforgathatja maga és a támadó közé, kvázi patthelyzetet okozva.
-
-
-⭕**TODO: Átnézendő:**
-
-```diff
-- Manőverek, amik megkövetelik a belharci szitut (és amiket ezzel kapcsolatban át kell nézni): Átdobás, Feszítés/kijövetel, Kéztörés, Lábtörés, Nyaktörés
--	    Ezek natív végrehajtásához követelmény a Belharci szituáció.
-```
-
 
 ---
 
