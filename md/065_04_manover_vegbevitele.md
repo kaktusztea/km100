@@ -75,6 +75,8 @@ Ha csak az **Ellenpróba** az adott Manőver követelménye, akkor annak sikere 
 
 A KM a körülményektől és szituációtól függően adhat pozitív/negatív célszám módosítót `[+5;-5]` értékhatáron belül. Sőt, a KM dönthet úgy, hogy a feltételei adottak, nincs szükség Ellenpróbára.
 
+<br />
+
 ---
 #### Képzetlenség
 
