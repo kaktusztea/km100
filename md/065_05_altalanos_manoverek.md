@@ -60,7 +60,7 @@ Harcoló felek között, vagy akár veled harcolni vágyó ellenfél mellett els
 	- Belharcos fegyver használata
 	- **Közelharc** harcmodor használata
 
-**Hatás**: Sikeresen bekerültél belharcba, megkapod a ⭕TODO: link⭕**Belharci szituációnál** leírt módosítókat.
+**Hatás**: Sikeresen bekerültél belharcba, megkapod a [Belharci szituációnál](064_01_harci_helyzetek.md#belharci-szitu%C3%A1ci%C3%B3) leírt módosítókat.
 
 **Nagy siker**: `4`-el túldobott Ellenpróbánál még sebző **Megakasztás** támadást elszenvedve is bekerülsz belharcba.
 
