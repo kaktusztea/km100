@@ -8,4 +8,4 @@ Ez a számérték karakteralkotási időben kerül kiszámításra és a Manőve
 
 ---
 
-🔗[Manőver Keret](065_02_manover_keret.md) →
+🔗 [Manőver Keret](065_02_manover_keret.md) →
