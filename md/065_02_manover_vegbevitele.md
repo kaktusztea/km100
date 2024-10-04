@@ -37,9 +37,7 @@ A fentieken kívül minden **Manővernek** lehetnek egyéni, speciális követel
 ---
 #### Ellenpróba (E)
 
-```
-Manőver Alap + k10   vs.  Manőver célszáma
-```
+`(Manőver Alap + k10)   vs.  (Manőver Alap + Manőver célszáma)`
 
 ##### Manőver Alap
 
