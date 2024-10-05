@@ -30,7 +30,7 @@ A fenti pont keretet `1` játékalkalom (vagy `1` kaland, KM dönt) során haszn
 
 Egyszerre legfeljebb `2` pont használható fel (`+4` bónusz).
 
-Bővebben lásd: Manőver [Ellenpróba](065_04_manover_vegbevitele.md#ellenpróba-e) fázis.
+Bővebben lásd: Manőver [Ellenpróba](065_04_manover_vegbevitele.md#ellenpróba-e) fázisa.
 
 ---
 
