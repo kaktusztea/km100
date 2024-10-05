@@ -9,6 +9,7 @@
 - [Lábkirántás szálfegyverrel](#l%C3%A1bkir%C3%A1nt%C3%A1s-sz%C3%A1lfegyverrel)
 - [Lábsöprés / Öklelés](#l%C3%A1bs%C3%B6pr%C3%A9s--%C3%B6klel%C3%A9s)
 - [Lánccsapda](#l%C3%A1nccsapda)
+- [Lánccsapdából szabadítás](#l%C3%A1nccsapd%C3%A1b%C3%B3l-szabad%C3%ADt%C3%A1s)
 - [Lefegyverzés / Fegyvertörés](#lefegyverz%C3%A9s--fegyvert%C3%B6r%C3%A9s)
 - [Mesterjel](#mesterjel)
 - [Pajzzsal öklelés](#pajzzsal-%C3%B6klel%C3%A9s)
@@ -168,7 +169,7 @@ Láncos fegyverekkel hajthatod vége.
   - Ha másik keze üres, akkor [Harc puszta kézzel](064_01_harci_helyzetek.md#harc-puszta-k%C3%A9zzel) harcértékekkel harcol
   - Kétkezes harc esetén a továbbiakban a másik kezében tartott fegyver harcértékeivel küzd.
 - a foglyul ejtett fegyverre a [Lefegyverezés](#lefegyverz%C3%A9s--fegyvert%C3%B6r%C3%A9s) Manőver csak `5`-ös Nehézségű
-- A fegyvert kiszabadítani Lánccsapdából szabadítás Manőverrel lehet. Lásd lenn.
+- A fegyvert kiszabadítani [Lánccsapdából szabadítás](#l%C3%A1nccsapd%C3%A1b%C3%B3l-szabad%C3%ADt%C3%A1s) Manőverrel lehet.
 
 <br />
 
