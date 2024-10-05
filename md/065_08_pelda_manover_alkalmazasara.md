@@ -66,9 +66,7 @@ Ellenfelének értékei
 **2. Ellenpróba**
 
 - Tetves dobása:  `4` (Manőver Alap) + `+2` (Manőver Pont bónusza) + `k10`
-- Célszám: `3 + 8 + 2 = 11` (ellenfél Manőver Alap + Gáncsolás nehézsége + Fegyverméret különbség módosító)
-
-→ A fegyverméretek különbözősége miatt a KM megnövelte a célszámot `2`-vel.
+- Célszám: `3 + 8  = 11` (ellenfél Manőver Alap + Gáncsolás nehézsége)
 
 ```
 Próbadobás:  (6 + k10)  vs.  11
