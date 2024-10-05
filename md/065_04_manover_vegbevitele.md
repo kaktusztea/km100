@@ -47,6 +47,8 @@ Manőver Alap (Ellenfél)
  + Manőver Nehézség       
 ```
 
+<br />
+
 #### ⚜️ Dobás módosítói
 
 | Módosítók             | Érték, Leírás                                                      |
@@ -54,14 +56,15 @@ Manőver Alap (Ellenfél)
 | Manőver Pont          | Opcionális. Pontonként `+2` bónuszt ad. Maximum `2 pont` költhető. |
 | Követelmények nélkül  | `-3`, ha nem teljesülnek a Manőver Követelményei                   |
 | Belharc fortély fokai | `+2/fok` az alkalmazó oldalán (Belharci Manőver esetén)            |
+<br />
 
 #### ⚜️ Célszám módosítói
 
-| Módosítók             | Érték, Leírás                                                                                                                 |
-| --------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| Manőver Pont          | Ellenfél alkalmazhatja opcionálisan. Pontonként `+2` bónuszt ad. Maximum `2 pont` költhető. A dobások előtt kell bejelenteni. |
-| Újrapróbálkozás       | `+2` → az Ellenfél már számít rá                                                                                              |
-| Módosító körülmények  | `[-5;+5]` KM által megadott +/- érték. Körülmény függő nehezítés / könnyítés. Például "bódulat" esetén.                       |
+| Módosítók            | Érték, Leírás                                                                                                                 |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| Manőver Pont         | Ellenfél alkalmazhatja opcionálisan. Pontonként `+2` bónuszt ad. Maximum `2 pont` költhető. A dobások előtt kell bejelenteni. |
+| Újrapróbálkozás      | `+2` → az Ellenfél már számít rá                                                                                              |
+| Módosító körülmények | `[-5;+5]` KM által megadott `+/-` érték. Körülmény függő nehezítés / könnyítés. Például "bódulat" esetén.                     |
 
 | Belharci Manőver módosítók | Érték, Leírás                                          |
 | -------------------------- | ------------------------------------------------------ |
