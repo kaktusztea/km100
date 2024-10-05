@@ -4,23 +4,27 @@ Egy Manőver végrehajtása `1 támadást` / `1 akciót` emészt fel, nem szüks
 
 Manővert Ellenfél **ellen** alkalmazunk. Így például kiszaltózni az ablakon, vagy leugrani a várfalról **nem** számít Manővernek.
 
+Egy Manőver 3 opcionális fázisból épülhet fel (`M V E`). Bővebben a [Manőver végbevitele](065_04_manover_vegbevitele.md) oldalon.
+
 Ha minden kötelező fázisa sikeres a végrehajtó szempontjából (`V E`) és sikertelen a védekező szempontjából (`M`), akkor az adott Manőver „Hatás” részénél leírtak következnek be.
 
-Manőver csak legalább `3.szintű` Harcmodor használata esetén alkalmazható.
+Manőver csak minimum `3.szintű` Harcmodor használata esetén alkalmazható.
 
-#### ⚜️ Harci szituációk és Manőverek
+---
+### ⚜️ Harci szituációk és Manőverek
 
-[Meglepett](064_01_harci_helyzetek.md#meglepetés), [Készületlen](064_01_harci_helyzetek.md#készületlenség) ellenfél esetén kimarad a **Megakasztás** és az **Ellenpróba** fázis és a szokásos Végrehajtás `TÉ:+20` alkalmazásával lehet végbevinni a Manővert.  Ez a módosító ugye megegyezik és azonos is a [Meglepetés](064_01_harci_helyzetek.md#meglepet%C3%A9s) bónuszával. Az említett fázisokról (`M V E`) a [Manőver végbevitele](065_04_manover_vegbevitele.md) oldalon olvashatsz.
+[Meglepett](064_01_harci_helyzetek.md#meglepetés), [Készületlen](064_01_harci_helyzetek.md#készületlenség) az Ellenfél:
+- Kimarad a **Megakasztás** (M) és az **Ellenpróba** (E) fázis
+- Végrehajtás `TÉ:+20` - az egész Manőver. Ez megegyezik - és azonos - a [Meglepetés](064_01_harci_helyzetek.md#meglepet%C3%A9s) bónuszával.
 
-Manőver alkalmazásakor nem folytatható [Teljes Védekezés Taktika](064_02_harci_taktikak.md#teljes-v%C3%A9dekez%C3%A9s-taktika), vagy [Védő Taktika](064_02_harci_taktikak.md#védő-taktika), de [Támadó taktika](064_02_harci_taktikak.md#támadó-taktika) igen - kivéve ahol ezek az adott Manővernél külön meg vannak említve.
+---
+### ⚜️ Harci taktikák és Manőverek
 
-[Rohamnál](064_02_harci_taktikak.md#roham-taktika) csak az a manőver hajtható végre, amelyiknél ez külön meg van említve.
+Manőver alkalmazásakor folytatható: [Támadó taktika](064_02_harci_taktikak.md#támadó-taktika)
 
-#### ⚜️ Egyedi jellemzők
+Manőver alkalmazásakor **nem** folytatható: [Teljes Védekezés Taktika](064_02_harci_taktikak.md#teljes-v%C3%A9dekez%C3%A9s-taktika), vagy [Védő Taktika](064_02_harci_taktikak.md#védő-taktika)
 
-Manővereknek lehet:
-- speciális könnyítő/nehezítő körülményei (+/- módosítók a nehézségre)
-- extra végbeviteli követelményei: ezek nélkül a KM dönt, hogy végrehajtható -e és ha igen, mekkora plusz célszám büntetéssel
+[Roham:](064_02_harci_taktikak.md#roham-taktika) csak amelyik Manővernél külön meg van említve
 
 ---
 ### Manőverek nehézsége
@@ -33,19 +37,15 @@ Manővereknek lehet:
 | Nehéz        |   8   |
 | Nagyon nehéz |  10   |
 
-A manőver nehézségét egy számértékkel jellemezzük. Minden Manővernek van egy alap Nehézsége. Az adott manőver ezzel az értékkel szerepel az [Ellenpróba](065_04_manover_vegbevitele.md#ellenpr%C3%B3ba-e) során. E táblázatban csak irányadó számok szerepelnek, új manőver kitalálásakor hasznos, a konkrét Nehézség ezen értékek közé is eshet.
+A Manőver Nehézségét egy számértékkel jellemezzük, ezzel az értékkel szerepel az [Ellenpróba](065_04_manover_vegbevitele.md#ellenpr%C3%B3ba-e) dobásnál. Ezek csak irányadó számok, új Manőver kitalálásakor `[2-10]` közti értéket kell választani.
 
 ---
-#### Harcmodor képzetlenség
+### Állatok és Belharc
 
-Manővert csak az aktuálisan használt harcmodor `3.szintjétől` lehet rendesen használni, alatta a **Manőver Nehézsége** megnő:
-
-- harcmodor `0.szint` esetén: `+3`
-- harcmodor `1.szint` esetén: `+2`
-- harcmodor `2.szint` esetén: `+1`
+Állatoknak általában van Belharcuk! Ennek mértékéről a KM dönt.
 
 ---
-#### 🔆 Hasznos tanács KM részére új manőver létrehozásakor
+### 🔆 Hasznos tanács KM részére új manőver létrehozásakor
 
 Ha úgy érzed, az adott manőver túl tápos, emeld meg a **Nehézségét**.
 
