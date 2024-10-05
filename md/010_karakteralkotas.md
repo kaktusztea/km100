@@ -13,7 +13,7 @@
 - [Pontok](017_00_pontok.md)
   - [Karakteralkotó Pontok (KP)](017_01_kp.md)
   - [Szabad Pontok](017_02_szp.md)
-  - [Manőver Keret](017_03_manover_keret.md)
+  - [Manőver Pontok](017_03_manover_pontok.md)
 - [Számaztatott értékek](018_00_szarmaztatott_ertekek.md)
   - [Életerő Pont (ÉP)](018_01_ep.md)
   - [Mágiaellenállás](018_02_magiaellenallas.md) 🎲
@@ -33,7 +33,7 @@ Most a [Képzettségek listáját](031_kepzettseglista.md) tekintsd át, majd el
 
 Karakteralkotó Pontjaidat [Fortélyok](040_fortelyok.md) felvételére is költheted, amelyek változóan, `[1-4]` fokúak is lehetnek. Ezek nem szélesen skálázandó, hanem "szűk", biztos tudást adhatnak, vagy egy képzettség egy meglevő aspektusának erősítését végezhetik - jellemzően `+2` bónuszt adva fokonként. A [Pszí alkalmazás](fortelyok.misztikus/pszi_alkalmazas.md) is a Fortélyok közt található. Fontos kiemelni a [Mesterfegyver](fortelyok.harci/mesterfegyver.md) harci fortélyt amely egy konkrét fegyver hatékonyabb használatát jeleníti meg.
 
-A [Harcérték Módosítók (HM, CM)](019_hm_cm.md) felvétele is `KP`-ból történik, ezek az általános harci tapasztalat növekedését hivatottak modellezni. A [Manőver Keret](065_02_manover_keret.md) értékét automatikusan kapod, az elvégzett [Manővereidet](065_00_manoverek.md) könnyítheted meg velük.
+A [Harcérték Módosítók (HM, CM)](019_hm_cm.md) felvétele is `KP`-ból történik, ezek az általános harci tapasztalat növekedését hivatottak modellezni. A [Manőver Pontokat](065_02_manover_pontok.md) automatikusan kapod, az elvégzett [Manővereidet](065_00_manoverek.md) könnyítheted meg velük.
 
 A [Hátterek](020_hattererek.md) számos érdekes aspektussal ruházhatják fel karakteredet. Az egyes fajok mind [Faj-Háttereként](022_faj_hatterek.md) vehetőek fel, limitációik és - érzékeiket érintő - kapcsolódó fortélyaikat ott találod meg. A [Kiemelt Hátterek](021_kiemelt_hatterek.md) három egyedi ismeretet adnak, amelyekre nem kell `KP`-t költened. A [Szabad Hátterek](023_szabad_hatterek.md) - melyeket [Szabad Pontok](017_02_szp.md) elköltésével vehetsz fel - specializált, egy, vagy több képzettséget "kiterjesztő" ismeretek. Ha rendelkezel egy ilyen területtel, akkor adott képzettség(ek)kel `-3` büntetés **nélkül** dobhatsz ilyen jellegű próbáknál. Végül essen szó a [Leíró Hátterekről](024_leiro_hatterek.md), ezek egyszavas jellemzők, melyek a karakter jellemét, hátterét színesítik - tetszés szerint vehetőek fel.
 

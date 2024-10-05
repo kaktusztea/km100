@@ -10,7 +10,7 @@ Vannak olyan manőverek is, melyek csak adott fegyverre, vagy harcmodorra jellem
 ### Alapértékek
 
 - [Manőver Alap](065_01_manover_alap.md)
-- [Manőver Keret](065_02_manover_keret.md)
+- [Manőver Pontok](065_02_manover_pontok.md)
 
 ### Szabályok
 

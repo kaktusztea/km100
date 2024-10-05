@@ -64,4 +64,3 @@ Ha egy képzettséghez számos Szabad Háttér kapcsolódik - gyakorlatilag fels
 - [Zenélés: ütős hangszerek](hatterek.szabad/zeneles_utos_hangszerek.md)
 - [Zeneszerző](hatterek.szabad/zeneszerzo.md)
 - [Zsonglőrködés](hatterek.szabad/zsonglorkodes.md)
-

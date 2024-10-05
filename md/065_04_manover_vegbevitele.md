@@ -48,28 +48,33 @@ Célszám
 
 ##### ⚜️ Próbadobás
 
-| Módosító     | Érték, Leírás                                                                                 |
-| ------------ | --------------------------------------------------------------------------------------------- |
-| Manőver Alap | `HM / 10 ↓`                                                                                   |
-| Manőver Pont | Opcionális. Manőver Keretből költhető. Pontonként `+2` bónuszt ad. Maximum `2 pont` költhető. |
-| Képzetlenség | `-3`, ha nem teljesülnek a Manőver Követelményei                                              |
-| + `k10`      | Dobás `k10`-el                                                                                |
+| Módosító     | Érték, Leírás                                                      |
+| ------------ | ------------------------------------------------------------------ |
+| Manőver Alap | `HM / 10 ↓`                                                        |
+| Manőver Pont | Opcionális. Pontonként `+2` bónuszt ad. Maximum `2 pont` költhető. |
+| Képzetlenség | `-3`, ha nem teljesülnek a Manőver Követelményei                   |
+| + `k10`      | Dobás `k10`-el                                                     |
 
 <br />
 
 ##### ⚜️ Célszám
 
-| Módosító                 | Érték                                                                                                   |
-| ------------------------ | ------------------------------------------------------------------------------------------------------- |
-| Manőver Alap (Ellenfélé) | `HM / 10 ↓`                                                                                             |
-| Manőver Nehézség         | Az adott Manőver nehézsége (lásd az egyes manőverek leírását)                                           |
-| Manőver Pont             | Pontonként: `+2`. Opcionális, max `2 pont` költhető (`+4`).                                             |
-| Módosító körülmények     | `[-5;+5]` KM által megadott +/- érték. Körülmény függő nehezítés / könnyítés. Például "bódulat" esetén. |
-| Újrapróbálkozás          | `+2`                                                                                                    |
+| Érték                    | Érték                                          |
+| ------------------------ | ---------------------------------------------- |
+| Manőver Alap (Ellenfélé) | `HM / 10 ↓`                                    |
+| Manőver Nehézség         | Az adott Manőver nehézsége (lásd a leírásukat) |
+
+A fenti értéket módosíthatják egyes körülmények:
+
+| Módosítók            | Érték                                                                                                   |
+| -------------------- | ------------------------------------------------------------------------------------------------------- |
+| Manőver Pont         | Opcionális. Pontonként `+2` bónuszt ad. Maximum `2 pont` költhető.                                      |
+| Módosító körülmények | `[-5;+5]` KM által megadott +/- érték. Körülmény függő nehezítés / könnyítés. Például "bódulat" esetén. |
+| Újrapróbálkozás      | `+2`                                                                                                    |
 
 Az Ellenpróba dobása nem mást fed, mint hogy a karakter képes -e megteremteni maga számára a lehetőséget, úgymond „megágyazni magának”, hogy egyáltalán megkísérelhesse a **Manővert**. A harcban ez helyezkedést, „pozícióba kerülést” jelent, amelynek sikere függ a karakter és Ellenfelének **Manőver Alapjától**, a Manőver **Nehézségétől** és egyéb módosító körülményektől.
 
-Az **Ellenpróba** dobása során a KM meghatározza a próba **Célszámát**, a játékos, pedig veszi [Manőver Alapját](065_01_manover_alap.md), esetlegesen felhasznál ponto(ka)t a [Manőver Keretéből](065_02_manover_keret.md), majd dob hozzá `k10`-el. Ha a végső érték eléri a célszámot, akkor az **Ellenpróba** **sikeres volt.**
+Az **Ellenpróba** dobása során a KM meghatározza a próba **Célszámát**, a játékos, pedig veszi [Manőver Alapját](065_01_manover_alap.md), esetlegesen felhasznál [Manőver Pontokat](065_02_manover_pontok.md), majd dob hozzá `k10`-el. Ha a végső érték eléri a célszámot, akkor az **Ellenpróba** **sikeres volt.**
 
 Ha csak az **Ellenpróba** az adott Manőver követelménye, akkor annak sikere esetén az egész **Manőver** automatikusan sikeresnek tekinthető.
 

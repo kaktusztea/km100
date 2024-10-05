@@ -47,7 +47,7 @@ Manővert csak az aktuálisan használt harcmodor `3.szintjétől` lehet rendese
 
 Ha úgy érzed, az adott manőver túl tápos, emeld meg a **Nehézségét**.
 
-Így több **Manőver Pont** felhasználása szükséges a [Manőver Keretből](065_02_manover_keret.md) a Nehézség mérsékléséhez és máris meglesz az „ára”, ha valaki eséllyel alkalmazni akarja.
+Így több [Manőver Pont](017_03_manover_pontok.md) felhasználása szükséges a Nehézség mérsékléséhez és máris meglesz az „ára”, ha valaki eséllyel alkalmazni akarja.
 
 ---
 

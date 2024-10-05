@@ -42,8 +42,8 @@
 - [Primer és Szekunder ismeretek](016_primer_szekunder_ismeretek.md)
 - [Pontok](017_00_pontok.md)
   - [Karakteralkotó Pontok (KP)](017_01_kp.md)
-  - [Szabad Pontok](017_02_szp.md)
-  - [Manőver Keret](017_03_manover_keret.md)
+  - [Szabad Pontok (SzP)](017_02_szp.md)
+  - [Manőver Pontok (MP)](017_03_manover_pontok.md)
 - [Számaztatott értékek](018_00_szarmaztatott_ertekek.md)
   - [Életerő Pont (ÉP)](018_01_ep.md)
   - [Mágiaellenállás](018_02_magiaellenallas.md) 🎲
@@ -135,7 +135,7 @@
 #### 6.5 [Manőverek](065_00_manoverek.md) 🎲
 
 - [Manőver Alap](065_01_manover_alap.md)
-- [Manőver Keret](065_02_manover_keret.md)
+- [Manőver Pontok](065_02_manover_pontok.md)
 - [Manőver szabályok](065_03_manover_szabalyok.md)
 - [Manőver végrehajtásának lépései](065_04_manover_vegbevitele.md)
 - [Általános Manőverek listája](065_05_altalanos_manoverek.md)
