@@ -7,7 +7,7 @@
 - [Kibontakozás](#kibontakoz%C3%A1s)
 - [Kiegészítő támadás](#kieg%C3%A9sz%C3%ADt%C5%91-t%C3%A1mad%C3%A1s)
 - [Lábkirántás szálfegyverrel](#l%C3%A1bkir%C3%A1nt%C3%A1s-sz%C3%A1lfegyverrel)
-- [Lábsöprés](#l%C3%A1bs%C3%B6pr%C3%A9s)
+- [Lábsöprés / Öklelés](#l%C3%A1bs%C3%B6pr%C3%A9s) ⭕
 - [Lánccsapda](#l%C3%A1nccsapda)
 - [Lefegyverzés / Fegyvertörés](#lefegyverz%C3%A9s--fegyvert%C3%B6r%C3%A9s)
 - [Mesterjel](#mesterjel)
@@ -116,14 +116,15 @@ Harcoló felek között, vagy akár veled harcolni vágyó ellenfél mellett els
 ---
 #### Kiegészítő támadás
 
- ⭕TODO⭕ KELL EZ?⭕
 - Nehézség: `7`
 - Fázisok: `V E`
 - Végbevitel követelménye:
 	- Közelharc – `4.szint`
 	- Forgatott fegyverre: Mesterfegyver – `1.fok`
 
-**Hatás**: Harc közben egy támadásod helyett valamilyen csalafinta, alattomos húzást vetsz be ellenfeled ellen. Ilyen lehet például, hogy öklöddel váratlanul az arcába csapsz, vagy térden rúgod, esetleg a vállába bokszolsz, stb. Ennek a támadásodnak a sebzése `k20+1`. (Természetesen az esetleges „kiegészítők”, mint *vaskesztyű*, *szegecsek* és az **Erőbónusz** szintén beleszámítanak a sebzésbe.) Ha a sebzés legalább `5`, akkor a fentieken kívül ellenfeled elveszíti következő támadását.
+**Hatás**: Harc közben egy támadásod helyett valamilyen csalafinta, alattomos húzást vetsz be ellenfeled ellen. Ilyen lehet például, hogy öklöddel váratlanul az arcába csapsz, vagy térden rúgod, esetleg a vállába bokszolsz, stb. Ennek a támadásodnak a sebzése `k20+0`.
+
+Természetesen az esetleges „kiegészítők”, mint *vaskesztyű*, *szegecsek* és az **Erőbónusz** szintén beleszámítanak a sebzésbe. Ha a sebzés legalább `5`, akkor a fentieken kívül ellenfeled elveszíti következő támadását.
 
 <br />
 
@@ -145,9 +146,9 @@ Csak kétlábú ellenfelek ellen alkalmazható, több lábbal rendelkező ellenf
 <br />
 
 ---
-#### Lábsöprés
+#### Lábsöprés / Öklelés
 
-Harc közben kirúgod ellenfeled lábát.
+Harc közben kirúgod ellenfeled lábát, vagy nekifutásból felökleled. A hatás ugyanaz.
 
 - Nehézség: `8`
 - Fázisok: `V E`
@@ -155,7 +156,7 @@ Harc közben kirúgod ellenfeled lábát.
   - Előnyös helyzet
   - Aktuális harcmodor: - `5.szint`
 
-**Hatás**: Sikeresen kirúgtad ellenfeled lábát, aki a földre zuhan. Felállnia csak sikeres [Felállás földről](065_05_altalanos_manoverek.md#felállás-földről) manőver alkalmazásával sikerülhet. A továbbiakban a [Harc földön fekve](064_01_harci_helyzetek.md#harc-f%C3%B6ld%C3%B6n-fekve) módosítói vonatkoznak rá.
+**Hatás**: Sikeresen földre vitted ellenfeled - vagy kirúgtad a lábát, vagy felöklelted. Földre zuhan, felállnia csak sikeres [Felállás földről](065_05_altalanos_manoverek.md#felállás-földről) manőver alkalmazásával sikerülhet. A továbbiakban a [Harc földön fekve](064_01_harci_helyzetek.md#harc-f%C3%B6ld%C3%B6n-fekve) módosítói vonatkoznak rá.
 
 <br />
 
@@ -206,19 +207,6 @@ A használt fegyver csak valamilyen (legfeljebb 1 penge hosszú) hegyes szúróf
 <br />
 
 ---
-#### Öklelés
-
-⭕Egyesíteni a "Pajzzsal ökleléssel"?⭕`
-
-- Nehézség: `⭕?⭕`
-- Fázisok: `⭕M⭕  V E`
-- Követelmény: ⭕TODO⭕
-
-**Hatás**: ⭕TODO⭕
-
-<br />
-
----
 #### Pajzzsal öklelés
 
 - Nehézség: `7`
@@ -226,10 +214,11 @@ A használt fegyver csak valamilyen (legfeljebb 1 penge hosszú) hegyes szúróf
     - Ellenfél minden **Pajzshasználat** foka után `+2` (ha használ épp pajzsot ő is)
 - Fázisok: `V E`
 - Követelmény:
-	- Pajzshasználat – `2.fok`
-	- Nagy és Közepes pajzzsal lehet csak
+  - Aktuális harcmodor: - `5.szint`
+  - Pajzshasználat – `2.fok`
+  - Nagy és Közepes pajzzsal lehetséges csak
 
-**Hatás**: Pajzsoddal sikeresen feldöntötted ellenfeled, aki ettől kezdve (míg fel nem képes állni) a [Harc földön fekve](064_01_harci_helyzetek.md#harc-f%C3%B6ld%C3%B6n-fekve) helyzet módosítóival harcol.
+**Hatás**: Pajzsoddal sikeresen feldöntötted ellenfeled, aki ettől kezdve a [Harc földön fekve](064_01_harci_helyzetek.md#harc-f%C3%B6ld%C3%B6n-fekve) helyzet módosítóival harcol. Felállnia csak sikeres [Felállás földről](065_05_altalanos_manoverek.md#felállás-földről) manőver alkalmazásával sikerülhet.
 
 <br />
 
