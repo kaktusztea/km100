@@ -42,6 +42,6 @@ A harci képzettségek aktuális szintjétől függ, hogy az alá tartozó fegyv
 ---
 ### Harcmodorok és Manőverek
 
-Az ember-ember elleni Harcmodorok szintjei lehetőséget adnak Manőverek könnyebb elvégzésére. Bővebben lásd a [Manőver Keret](065_02_manover_keret.md) fejezetet.
+A Közelharc, Kardvívás, Zúzás, Lándzsavívás Harcmodorok szintjei lehetőséget adnak Manőverek könnyebb elvégzésére. Bővebben lásd a [Manőver Keret](065_02_manover_keret.md) fejezetet.
 
 ---

@@ -26,9 +26,9 @@ Most pedig lássuk a speciálisabb taktikákat.
 | Visszafogott csapás / Harc az ellenfél elfogásáért | ⭕TODO⭕Egyesíteni a "Leütés Hátulról" taktikával?⭕ Bónuszt ad: **Harci anatómia** fortély                                                                                                                                                                                                                                     |
 | Orvtámadás                                         | • Követelmény: Észrevétlen támadás harci helyzet<br/>• Bónuszt ad: [Harci anatómia](fortelyok.harci/harci_anatomia.md) fortély - vértmentes terület találata esetén                                                                                                                                                          |
 | Érintő támadás ⇄                                   | `KÉ:0`, `TÉ:0`, `VÉ:-10`                                                                                                                                                                                                                                                                                                     |
-| Csonkolás és törés ⇄                               | •[Területre/Pontra támadás](065_05_altalanos_manoverek.md#területre--pontra-támadás) manőver szükséges<br/>• Kéz csonkolása: (áldozat `max ÉP / 3` ↑) sebzés szükséges<br/>• Láb csonkolása: (áldozat `max ÉP / 2` ↑) sebzés szükséges                                                                        |
-| Kijelölt testrészre támadás ⇄                      | Sebző támadás `TÉ:-20`-al  ⭕Vagy: [Területre/Pontra támadás](065_05_altalanos_manoverek.md#területre--pontra-támadás) manőver!⭕                                                                                                                                                                               |
-| Pontok támadása harc közben ⇄                      | Lásd: [Területre/Pontra támadás](065_05_altalanos_manoverek.md#területre--pontra-támadás) manőver                                                                                                                                                                                                             |
+| Csonkolás és törés ⇄                               | •[Területre/Pontra támadás](065_05_altalanos_manoverek.md#területre--pontra-támadás) manőver szükséges<br/>• Kéz csonkolása: (áldozat `max ÉP / 3` ↑) sebzés szükséges<br/>• Láb csonkolása: (áldozat `max ÉP / 2` ↑) sebzés szükséges                                                                                       |
+| Kijelölt testrészre támadás ⇄                      | Sebző támadás `TÉ:-20`-al  ⭕Vagy: [Területre/Pontra támadás](065_05_altalanos_manoverek.md#területre--pontra-támadás) manőver!⭕                                                                                                                                                                                              |
+| Pontok támadása harc közben ⇄                      | Lásd: [Területre/Pontra támadás](065_05_altalanos_manoverek.md#területre--pontra-támadás) manőver                                                                                                                                                                                                                            |
 | Mögékerülés                                        | Követelmény: az ellenfél nem lát téged, aztán sikeres [Lopakodás/Rejtőzés](kepzettsegek/lopakodas_rejtozes.md) vs. [Észlelés](kepzettsegek/eszleles.md) ellenpróba. Harc közben hátbakerülni csak teljes bekerítéssel lehet.                                                                                                 |
 | Rávetődés, Nyakba ugrás hátulról                   | ⭕TODO⭕                                                                                                                                                                                                                                                                                                                       |
 
@@ -48,10 +48,9 @@ Tehát vállalásodtól függően például így módosíthatod harcértékeidet
 - `TÉ:+10`, `VÉ:-20`
 - `TÉ:+15`, `VÉ:-30`
 
-
 A szándékot, hogy Támadó taktikát akarsz alkalmazni, előre be kell jelentened, mielőtt az adott kör elkezdődött volna. Kör közben nem változtathatsz a taktikán. Ha ebben a taktikában küzdesz, akkor lehetőségeidhez mérten folyamatosan nyomulsz előre.
 
-Támadó taktika nem alkalmazható Észrevétlen támadás szituációban.
+Támadó taktika nem alkalmazható [Észrevétlen támadás](064_01_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s) szituációban.
 ```diff
 - És Meglepetés szituációban?
 ```
@@ -178,7 +177,7 @@ E taktika mellett más harci taktikát nem alkalmazhatsz.
 ### Leütés hátulról (fejre/tarkóra)
 
 - Követelmény: **Észrevétlen támadás**
-- Célpont `VÉ = 30 + mozgás jellegétől függő módosító` (lásd [Észrevétlen támadás](064_01_harci_helyzetek.md#észrevétlen-támadás))
+- Célpont `VÉ = 30 + mozgás jellegétől függő módosító` (lásd [Észrevétlen támadás](064_01_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s))
 
 Ha a támadás sebző **Találat**, akkor és a sebzés legalább Súlyos lenne (`12 ÉP`), akkor az áldozat Fájdalomtűrés próbát dob `12`-es célszám (**Nehéz**) ellen, ezúttal **Edzettség** tulajdonsággal. Ha nincs meg, azonnal elájul.
 
@@ -202,7 +201,7 @@ Ez azért van, mert egy járatlan támadó nem tudja olyan jól megbecsülni a s
 
 Kapcsoló fortély: [Harci anatómia](fortelyok.harci/harci_anatomia.md)
 
-Ha [Észrevétlen támadást](064_01_harci_helyzetek.md#észrevétlen-támadás) sikerül leadnod (`VÉ` értékét lásd ott), akkor érvényesülnek a [Harci anatómia](fortelyok.harci/harci_anatomia.md) fortélynál leírt bónuszok - vértmentes terület találata esetén.
+Ha [Észrevétlen támadást](064_01_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s) sikerül leadnod (`VÉ` értékét lásd ott), akkor érvényesülnek a [Harci anatómia](fortelyok.harci/harci_anatomia.md) fortélynál leírt bónuszok - vértmentes terület találata esetén.
 
 ---
 ### Érintő támadás

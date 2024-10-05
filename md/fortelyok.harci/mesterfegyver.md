@@ -46,7 +46,7 @@ A **Mesterfegyver fortély** segítségével egyes fegyverek harcértékeit tov�
 
 #### Megjegyzések
 
-Bizonyos [manővereknek](../065_00_manoverek.md) követelménye lehet ennek a fortélynak valamely foka, melyet csak az adott fegyverrel képes végrehajtani a forgatója. Például: [Mesterjel](../065_05_altalanos_manoverek.md#mesterjel)
+Bizonyos [manőverek](../065_00_manoverek.md) végbevitelének követelménye lehet ennek a fortélynak valamely foka, melyet csak az adott fegyverrel képes végrehajtani a forgatója. Például: [Mesterjel](../065_05_altalanos_manoverek.md#mesterjel)
 
 <br />
 

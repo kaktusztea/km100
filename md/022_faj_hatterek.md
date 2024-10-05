@@ -168,9 +168,6 @@ Ajánlott fortélyok:
 - [Suhanó árnyék](fortelyok.altalanos/suhano_arnyek.md)
 - [Szabotőr](fortelyok.altalanos/szabotor.md)
 
-Speciális:
-- [Kibontakozás manőver](065_05_altalanos_manoverek.md#kibontakozás) felvétele ajánlott 🙂
-
 Ajánlott képzettségek:
 - alvilági képzettségek
 
