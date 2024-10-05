@@ -37,7 +37,7 @@ Manőver alkalmazásakor **nem** folytatható: [Teljes Védekezés Taktika](064_
 | Nehéz        |   8   |
 | Nagyon nehéz |  10   |
 
-A Manőver Nehézségét egy számértékkel jellemezzük, ezzel az értékkel szerepel az [Ellenpróba](065_04_manover_vegbevitele.md#ellenpr%C3%B3ba-e) dobásnál. Ezek csak irányadó számok, új Manőver kitalálásakor `[2-10]` közti értéket kell választani.
+A Manőver Nehézségét egy számértékkel jellemezzük, ezzel az értékkel szerepel az [Ellenpróba](065_04_manover_vegbevitele.md#ellenpr%C3%B3ba-e) dobásnál. Ezek csak irányadó számok, új Manőver kitalálásakor `[2;10]` közti értéket kell választani.
 
 ---
 ### Állatok és Belharc
