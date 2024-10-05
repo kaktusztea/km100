@@ -4,8 +4,6 @@ Harc közben gyakran előfordul, hogy egy karakter speciális húzásokkal prób
 
 A `km100` harcrendszere lehetőséget ad rá, hogy a karakter harc közben ilyen speciális cselekedeteket – Manővereket – alkalmazzon. Vannak olyan Manőverek is, melyek csak adott fegyverre, vagy harcmodorra jellemzőek, de a legtöbb szabadon, bárki által alkalmazható, amennyiben eleget tesz a leírt követelményeknek.
 
-Vannak olyan manőverek is, melyek csak adott fegyverre, vagy harcmodorra jellemzőek, de a legtöbb szabadon, bárki által alkalmazható.
-
 ---
 ### Alapértékek
 
