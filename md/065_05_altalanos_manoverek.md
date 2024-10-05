@@ -7,7 +7,7 @@
 - [Kibontakozás](#kibontakoz%C3%A1s)
 - [Kiegészítő támadás](#kieg%C3%A9sz%C3%ADt%C5%91-t%C3%A1mad%C3%A1s)
 - [Lábkirántás szálfegyverrel](#l%C3%A1bkir%C3%A1nt%C3%A1s-sz%C3%A1lfegyverrel)
-- [Lábsöprés / Öklelés](#l%C3%A1bs%C3%B6pr%C3%A9s) ⭕
+- [Lábsöprés / Öklelés](#l%C3%A1bs%C3%B6pr%C3%A9s--%C3%B6klel%C3%A9s)
 - [Lánccsapda](#l%C3%A1nccsapda)
 - [Lefegyverzés / Fegyvertörés](#lefegyverz%C3%A9s--fegyvert%C3%B6r%C3%A9s)
 - [Mesterjel](#mesterjel)
@@ -29,6 +29,7 @@ A KM bármikor rögtönözhet új Manővert, mindössze az alábbiakat kell megh
 
 <br />
 
+---
 ---
 #### Átsiklás
 
