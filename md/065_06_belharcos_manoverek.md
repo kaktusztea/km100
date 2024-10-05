@@ -17,15 +17,12 @@
 
 Mindegyik Belharcos Manőver [Belharci szituációt](064_01_harci_helyzetek.md#belharci-szitu%C3%A1ci%C3%B3) igényel - kivéve a **Belharcba kerülést**.
 
+---
+#### [Ellenpróba](065_04_manover_vegbevitele.md#ellenpróba-e) módosítói Belharc Manőverek esetén
 
-#### Ellenpróba bónuszai
-
-```
-Támadó és Védekező Bónusza:
-  +2 / Belharc fortély fok
-```
-
-A Belharcos Manőverek [Ellenpróba](065_04_manover_vegbevitele.md#ellenpróba-e) fázisnál a fenti bónusz érvényesül a [Belharc fortély](fortelyok.harci/belharc.md) minden foka után **az alkalmazó ÉS a védekező részére is**.
+- [Belharc](fortelyok.harci/belharc.md) fortély: `+2 / fok` - Támadó és Védekező számára is
+- Testméret különbség: `[-2; +2]`
+- Páncél különbség: `[-2; +2]`
 
 <br />
 
