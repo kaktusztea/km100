@@ -8,7 +8,7 @@ Manőver Pontok =
  + Kardvívás
  + Zúzás
  + Lándzsavívás )
-     / 3  ↓
+     / TSz  ↑
 ```
 
 Hatás:
@@ -22,7 +22,11 @@ Hatás:
 ---
 #### Kiszámítása
 
-Egy karakter Közelharc, Kardvívás, Zúzás és Lándzsavívás képzettség-szint összegének harmada adja a **Manőver Pontok** mennyiségét ↓.
+Egy karakter Közelharc, Kardvívás, Zúzás és Lándzsavívás [harcmodor](kepzettsegek/harcmodor.md) képzettség-szinteinek összegét osztjuk el a **Tapasztalati Szinttel**.
+
+Ez adja a **Manőver Pontok** mennyiségét ↑ - felfelé kerekítve. Látható, hogy a pontok értékének fenntartásához - a Tapasztalati Szint növekedésével - folyamatosan kell növelni a harcmodor képzettségeket.
+
+A Manőver pontok értéke így mindig `[1-4]` tartományban mozog.
 
 ---
 #### Felhasználása
