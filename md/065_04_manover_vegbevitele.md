@@ -49,10 +49,11 @@ Manőver Alap (Ellenfél)
 
 ##### ⚜️ Dobás módosítói
 
-| Módosítók            | Érték, Leírás                                                      |
-| -------------------- | ------------------------------------------------------------------ |
-| Manőver Pont         | Opcionális. Pontonként `+2` bónuszt ad. Maximum `2 pont` költhető. |
-| Követelmények nélkül | `-3`, ha nem teljesülnek a Manőver Követelményei                   |
+| Módosítók             | Érték, Leírás                                                      |
+| --------------------- | ------------------------------------------------------------------ |
+| Manőver Pont          | Opcionális. Pontonként `+2` bónuszt ad. Maximum `2 pont` költhető. |
+| Követelmények nélkül  | `-3`, ha nem teljesülnek a Manőver Követelményei                   |
+| Belharc fortély fokai | `+2/fok` Belharcos Manőver esetén az alkalmazó oldalán             |
 
 ##### ⚜️ Célszám módosítói
 
@@ -64,6 +65,7 @@ Manőver Alap (Ellenfél)
 | Harcmodor - `0. szint` | `+3 / -3` → az alkalmazó / Ellenfél esetében                                                            |
 | Harcmodor - `1. szint` | `+2 / -2`                                                                                               |
 | Harcmodor - `2. szint` | `+1 / -1`                                                                                               |
+| Belharc fortély fokai  | `+2/fok` Belharcos Manőver esetén az Ellenfél oldalán                                                   |
 
 Az Ellenpróba dobása nem mást fed, mint hogy a karakter képes -e megteremteni maga számára a lehetőséget, úgymond „megágyazni magának”, hogy egyáltalán megkísérelhesse a **Manővert**. A harcban ez helyezkedést, „pozícióba kerülést” jelent, amelynek sikere függ a karakter és Ellenfelének **Manőver Alapjától**, a Manőver **Nehézségétől** és egyéb módosító körülményektől. A játékban logikailag az **Ellenpróbának** kéne előbb jönnie, de mivel a a **Végrehajtás** gyorsabban számolható, azt dobjuk előbb (ha van olyan fázis).
 
