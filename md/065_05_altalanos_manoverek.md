@@ -11,7 +11,6 @@
 - [Lánccsapda](#l%C3%A1nccsapda)
 - [Lefegyverzés / Fegyvertörés](#lefegyverz%C3%A9s--fegyvert%C3%B6r%C3%A9s)
 - [Mesterjel](#mesterjel)
-- [Öklelés](#%C3%B6klel%C3%A9s)
 - [Pajzzsal öklelés](#pajzzsal-%C3%B6klel%C3%A9s)
 - [Pajzsrongálás](#pajzsrong%C3%A1l%C3%A1s)
 - [Területre / Pontra támadás](#ter%C3%BCletre--pontra-t%C3%A1mad%C3%A1s)
@@ -173,7 +172,9 @@ Láncos fegyverekkel hajthatod vége.
 **Hatás**:
 - Láncos fegyvereddel foglyul ejted ellenfeled pengéjét, vagy fegyvertartó kezét, melyet a továbbiakban nem tud használni, amíg ki nem szabadítja azt. Amennyiben ellenfeled `0,5` pengénél nagyobb fegyvert forgat, dönthet:
 - elengedi a fegyvert, mellyel gyakorlatilag sikeres lefegyverzéssé változik a manőver
+
 - továbbra is kezében tartja⭕TODO: egyszerűsíteni⭕  (`0,5` pengénél kisebb fegyver tartása esetén kötelezően kézben marad). Ha kézben tartja, akkor az ellenfelet **Harc helyhez kötve** módosítói sújtják, elveszít minden bónuszt az adott fegyverre (Mf, stb), kétkezes harc esetén a továbbiakban a másik kezében tartott fegyver harcértékeivel küzd. Ha másik keze üres, akkor sújtják a **Harc puszta kézzel** fejezetben leírt levonások is, melyek minden pusztakezes harcosra vonatkoznak.
+
 - a foglyul ejtett fegyverre a **Lefegyverezés** manőver csak `5`-ös nehézségű
 
 <br />
