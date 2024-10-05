@@ -41,36 +41,38 @@ Ha a **Végrehajtás** sikertelen, akkor a helyzet megvolt, de nem sikerült kih
 ### Ellenpróba (E)
 
 ```
-Manőver Alap + k10
+Dobás: Manőver Alap + k10
+
        vs
-Manőver Alap (Ellenfél)
+       
+Célszám:
+   Manőver Alap (Ellenfél)
  + Manőver Nehézség       
 ```
 
 <br />
 
-#### ⚜️ Dobás módosítói
+#### ⚜️ Dobás extra módosítói
 
-| Módosítók             | Érték, Leírás                                                      |
-| --------------------- | ------------------------------------------------------------------ |
 | Manőver Pont          | Opcionális. Pontonként `+2` bónuszt ad. Maximum `2 pont` költhető. |
+|:--------------------- | ------------------------------------------------------------------ | 
 | Követelmények nélkül  | `-3`, ha nem teljesülnek a Manőver Követelményei                   |
 | Belharc fortély fokai | `+2/fok` az alkalmazó oldalán (Belharci Manőver esetén)            |
 <br />
 
-#### ⚜️ Célszám módosítói
+#### ⚜️ Célszám extra módosítói
 
-| Módosítók            | Érték, Leírás                                                                                                                 |
-| -------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | Manőver Pont         | Ellenfél alkalmazhatja opcionálisan. Pontonként `+2` bónuszt ad. Maximum `2 pont` költhető. A dobások előtt kell bejelenteni. |
+|:-------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | Újrapróbálkozás      | `+2` → az Ellenfél már számít rá                                                                                              |
 | Módosító körülmények | `[-5;+5]` KM által megadott `+/-` érték. Körülmény függő nehezítés / könnyítés. Például "bódulat" esetén.                     |
 
-| Belharci Manőver módosítók | Érték, Leírás                                          |
-| -------------------------- | ------------------------------------------------------ |
-| Belharc fortély fokai      | `+2/fok` az Ellenfél oldalán (Belharci Manőver esetén) |
-| Testméret különbség        | `[-2; +2]`                                             |
-| Páncél különbség           | `[-2; +2]`                                             |
+**Belharci Manőverek módosítói:**
+
+| Belharc fortély fokai | `+2/fok` az Ellenfél oldalán (Belharci Manőver esetén) |
+|:--------------------- | ------------------------------------------------------ |
+| Testméret különbség   | `[-2; +2]`                                             |
+| Páncél különbség      | `[-2; +2]`                                             |
 
 Az Ellenpróba dobása nem mást fed, mint hogy a karakter képes -e megteremteni maga számára a lehetőséget, úgymond „megágyazni magának”, hogy egyáltalán megkísérelhesse a **Manővert**. A harcban ez helyezkedést, „pozícióba kerülést” jelent, amelynek sikere függ a karakter és Ellenfelének **Manőver Alapjától**, a Manőver **Nehézségétől** és egyéb módosító körülményektől. A játékban logikailag az **Ellenpróbának** kéne előbb jönnie, de mivel a a **Végrehajtás** gyorsabban számolható, azt dobjuk előbb (ha van olyan fázis).
 
