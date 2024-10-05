@@ -100,7 +100,7 @@ Lásd a [Belharcból kibontakozás](065_05_altalanos_manoverek.md#belharcból-ki
 	- Belharc – `1.fok`
 	- Közelharc – `6 .szint`
 
-**Hatás**: kitörted ellenfeled kezét, ⭕`5 ÉP`⭕ sebzés, a sérült kezét nem használhatja harcra, amíg meg nem gyógyul.
+**Hatás**: kitörted ellenfeled kezét, `5 ÉP` sebzés, a sérült kezét nem használhatja harcra, amíg meg nem gyógyul.
 
 <br />
 
@@ -111,9 +111,9 @@ Lásd a [Belharcból kibontakozás](065_05_altalanos_manoverek.md#belharcból-ki
 	- ± **Erő** különbség
 	- `+[1-6]`: ellenfél páncélban van. KM dönt a mértékről.
 - Fázisok: `E V`
-- Végbevitel követelménye:cBelharc – `⭕2⭕.fok`
+- Végbevitel követelménye:cBelharc – `2.fok`
 
-**Hatás**: kitörted ellenfeled lábát, ⭕`6 ÉP`⭕ sebzés
+**Hatás**: kitörted ellenfeled lábát, `6 ÉP` sebzés
 
 <br />
 
