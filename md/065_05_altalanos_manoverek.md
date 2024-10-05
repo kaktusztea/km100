@@ -156,17 +156,31 @@ Láncos fegyverekkel hajthatod vége.
 
 - Nehézség: `9`
 - Fázisok: `V E`
-- Követelmény: Használt láncos fegyverre [Mesterfegyver fortély](fortelyok.harci/mesterfegyver.md) – `1.fok`
+- Követelmény:
+  - Használt láncos fegyverre [Mesterfegyver fortély](fortelyok.harci/mesterfegyver.md) – `1.fok`
+  - Minimum `0,5 penge` nagyságú fegyver ellen lehet használni
 
 **Hatás**:
-- Láncos fegyvereddel foglyul ejted ellenfeled pengéjét, vagy fegyvertartó kezét, melyet a továbbiakban nem tud használni, amíg ki nem szabadítja azt. Amennyiben ellenfeled `0,5` pengénél nagyobb fegyvert forgat, dönthet:
-- elengedi a fegyvert, mellyel gyakorlatilag sikeres lefegyverzéssé változik a manőver
-
-- továbbra is kezében tartja⭕TODO: egyszerűsíteni⭕  (`0,5` pengénél kisebb fegyver tartása esetén kötelezően kézben marad). Ha kézben tartja, akkor az ellenfelet **Harc helyhez kötve** módosítói sújtják, elveszít minden bónuszt az adott fegyverre (Mf, stb), kétkezes harc esetén a továbbiakban a másik kezében tartott fegyver harcértékeivel küzd. Ha másik keze üres, akkor sújtják a **Harc puszta kézzel** fejezetben leírt levonások is, melyek minden pusztakezes harcosra vonatkoznak.
-
-- a foglyul ejtett fegyverre a **Lefegyverezés** Manőver csak `5`-ös nehézségű
+- Láncos fegyvereddel foglyul ejted ellenfeled pengéjét, melyet a továbbiakban nem tud használni, amíg ki nem szabadítja azt. 
+- Ha ellenfeled elengedi, akkor gyakorlatilag sikeres Lefegyverzéssé változik a Manőver
+- továbbra is kezében tartja:
+  - [Harc helyhez kötve](064_01_harci_helyzetek.md#harc-helyhez-k%C3%B6tve) módosítói sújtják
+  - Ha másik keze üres, akkor [Harc puszta kézzel](064_01_harci_helyzetek.md#harc-puszta-k%C3%A9zzel) harcértékekkel harcol
+  - Kétkezes harc esetén a továbbiakban a másik kezében tartott fegyver harcértékeivel küzd.
+- a foglyul ejtett fegyverre a [Lefegyverezés](#lefegyverz%C3%A9s--fegyvert%C3%B6r%C3%A9s) Manőver csak `5`-ös Nehézségű
+- A fegyvert kiszabadítani Lánccsapdából szabadítás Manőverrel lehet. Lásd lenn.
 
 <br />
+
+---
+#### Lánccsapdából szabadítás
+
+Láncos fegyverrel foglyul ejtett fegyveredet kiszabadítod.
+
+- Nehézség: `7`
+- Fázisok: `E`
+
+**Hatás**: kiszabadítottad fegyveredet a láncos csapdából.
 
 ---
 #### Lefegyverzés / Fegyvertörés
