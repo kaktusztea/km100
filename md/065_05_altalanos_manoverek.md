@@ -264,15 +264,19 @@ Meglepetés esetén is kell **Ellenpróbát** dobni
 <br />
 
 ---
-#### Távoltartás⭕
+#### Távoltartás
 
-Nem támadsz, hanem ⭕TODO⭕
+Ha kezedben legalább `1` pengével nagyobb fegyver forog, mint Ellenfeled kezében, akkor megpróbálhatod távoltartani őt, így nem tudja leadni támadását.
 
 - Nehézség: `5`
-- Fázisok: `M E`
-- Követelmény: ⭕TODO⭕
+- Fázisok: `M* E`
+- Követelmény:
+    - fegyvered mérete legalább `1` pengével nagyobb, mint ellenfeledé
+    - Harcmodor - `5.szint`
 
-**Hatás**: ⭕TODO⭕
+**Hatás**: leadhatsz `TÉ:+20`-szal egy Megszakító támadást (speciális eset, mert itt TE alkalmazhatod ezt a fázist). Ha a támadás sikeres, akkor nem okozol sebzést, de ellenfeled elveszíti következő támadását.
+
+**Fontos**: ne feledd, hogy ha egy harcon belül újra alkalmazod ezt a Manővert, az Nehézsége már  `+2`-vel magasabb lesz!
 
 <br />
 
