@@ -53,19 +53,21 @@ Manőver Alap (Ellenfél)
 | --------------------- | ------------------------------------------------------------------ |
 | Manőver Pont          | Opcionális. Pontonként `+2` bónuszt ad. Maximum `2 pont` költhető. |
 | Követelmények nélkül  | `-3`, ha nem teljesülnek a Manőver Követelményei                   |
-| Belharc fortély fokai | `+2/fok` Belharcos Manőver esetén az alkalmazó oldalán             |
+| Belharc fortély fokai | `+2/fok` az alkalmazó oldalán (Belharci Manőver esetén)            |
 
 ##### ⚜️ Célszám módosítói
 
-| Módosítók              | Érték, Leírás                                                                                           |
-| ---------------------- | ------------------------------------------------------------------------------------------------------- |
-| Manőver Pont           | Opcionális. Pontonként `+2` bónuszt ad. Maximum `2 pont` költhető.                                      |
-| Módosító körülmények   | `[-5;+5]` KM által megadott +/- érték. Körülmény függő nehezítés / könnyítés. Például "bódulat" esetén. |
-| Újrapróbálkozás        | `+2` → az Ellenfél már számít rá                                                                        |
-| Harcmodor - `0. szint` | `+3 / -3` → az alkalmazó / Ellenfél esetében                                                            |
-| Harcmodor - `1. szint` | `+2 / -2`                                                                                               |
-| Harcmodor - `2. szint` | `+1 / -1`                                                                                               |
-| Belharc fortély fokai  | `+2/fok` Belharcos Manőver esetén az Ellenfél oldalán                                                   |
+| Módosítók             | Érték, Leírás                                                                                                                 |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| Manőver Pont          | Ellenfél alkalmazhatja opcionálisan. Pontonként `+2` bónuszt ad. Maximum `2 pont` költhető. A dobások előtt kell bejelenteni. |
+| Újrapróbálkozás       | `+2` → az Ellenfél már számít rá                                                                                              |
+| Módosító körülmények  | `[-5;+5]` KM által megadott +/- érték. Körülmény függő nehezítés / könnyítés. Például "bódulat" esetén.                       |
+
+| Belharci Manőver módosítók | Érték, Leírás                                          |
+| -------------------------- | ------------------------------------------------------ |
+| Belharc fortély fokai      | `+2/fok` az Ellenfél oldalán (Belharci Manőver esetén) |
+| Testméret különbség        | `[-2; +2]`                                             |
+| Páncél különbség           | `[-2; +2]`                                             |
 
 Az Ellenpróba dobása nem mást fed, mint hogy a karakter képes -e megteremteni maga számára a lehetőséget, úgymond „megágyazni magának”, hogy egyáltalán megkísérelhesse a **Manővert**. A harcban ez helyezkedést, „pozícióba kerülést” jelent, amelynek sikere függ a karakter és Ellenfelének **Manőver Alapjától**, a Manőver **Nehézségétől** és egyéb módosító körülményektől. A játékban logikailag az **Ellenpróbának** kéne előbb jönnie, de mivel a a **Végrehajtás** gyorsabban számolható, azt dobjuk előbb (ha van olyan fázis).
 
