@@ -19,7 +19,7 @@ Azért dobjuk ezt előbb, mert ez ad gyorsabban eredményt 🔆
 Manővert végző teszi. `Próbadobás vs Célszám`
 
 ---
-#### Megakasztás (M)
+### Megakasztás (M)
 
 A Megakasztás az első fázis a Manőver végrehajtása során.\
 Megelőző támadási forma, melyre **az Ellenfél** jogosult teljes, fegyveres `TÉ` harcértékével. Ez egy soron kívüli extra támadás. Csak akkor szükséges, ha az adott típusú manőver fázisai között ez szerepel.
@@ -29,7 +29,7 @@ Ha az így érkező támadás sebző, akkor a Manőver nem sikerült. Tipikus p�
 <br />
 
 ---
-#### Végrehajtás (V)
+### Végrehajtás (V)
 
 Nem más, mint egy támadás az aktuális, **fegyveres TÉ** értékkel, melyhez `+20 TÉ` módosító járul. Ha ez a támadás sikeres, akkor a Végrehajtás is sikeres (sebzés nincs). Ne feledjük, hogy a `TÉ` értékébe beleszámít az esetleges több támadás levonása is (`-10` támadásonként)!
 
@@ -38,7 +38,7 @@ Ha a **Végrehajtás** sikertelen, akkor a helyzet megvolt, de nem sikerült kih
 <br />
 
 ---
-#### Ellenpróba (E)
+### Ellenpróba (E)
 
 ```
 Manőver Alap + k10
@@ -47,7 +47,7 @@ Manőver Alap (Ellenfél)
  + Manőver Nehézség       
 ```
 
-##### ⚜️ Dobás módosítói
+#### ⚜️ Dobás módosítói
 
 | Módosítók             | Érték, Leírás                                                      |
 | --------------------- | ------------------------------------------------------------------ |
@@ -55,7 +55,7 @@ Manőver Alap (Ellenfél)
 | Követelmények nélkül  | `-3`, ha nem teljesülnek a Manőver Követelményei                   |
 | Belharc fortély fokai | `+2/fok` az alkalmazó oldalán (Belharci Manőver esetén)            |
 
-##### ⚜️ Célszám módosítói
+#### ⚜️ Célszám módosítói
 
 | Módosítók             | Érték, Leírás                                                                                                                 |
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -80,7 +80,7 @@ A KM a körülményektől és szituációtól függően adhat pozitív/negatív 
 <br />
 
 ---
-#### Követelmények nélkül
+### Követelmények nélkül
 
 ```
 Követelmények nélkül:
@@ -92,7 +92,7 @@ A Manőverek végrehajtásával bárki próbálkozhat, aki az adott Manővernél
 Amennyiben nem teljesíti, akkor is nekifuthat, de az **Ellenpróba** dobásánál a célszám számára `3`-al megemelkedik.
 
 ---
-#### Újrapróbálkozás
+### Újrapróbálkozás
 
 ```
 +2 Nehézség
@@ -104,7 +104,7 @@ A Manőver ha sikeres volt, ha nem – az Ellenfél legközelebb már számít a
 A fenti módosító akkor is megjelenhet, ha az Ellenfél az alkalmazót már látta korábban küzdeni és egy konkrét Manővert gyakran alkalmazni. KM dönt.
 
 ---
-#### Fegyverméret-kategóriák
+### Fegyverméret-kategóriák
 
 A Fegyverméret-kategóriák adta különbségek az **Ellenpróbánál** (`E`) módosítóként **nem** szükségesek amennyiben a Manőverben van kötelező (**M**)egakasztás, vagy (**V**)égrehajtás fázis, mert ez a hatás résztvevők harcértékeiben már benne foglaltatnak.
 
