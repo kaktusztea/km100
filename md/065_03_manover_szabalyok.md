@@ -47,9 +47,14 @@ A Manőver Nehézségét egy számértékkel jellemezzük, ezzel az értékkel s
 ---
 ### 🔆 Hasznos tanács KM részére új manőver létrehozásakor
 
-Ha úgy érzed, az adott manőver túl tápos, emeld meg a **Nehézségét**.
+A KM bármikor rögtönözhet új Manővert, mindössze az alábbiakat kell meghatároznia:
+- Nehézség `[2-10]`
+- Követelmények
+- Fázisok (`M V E`)
+- Hatás
+- Speciális követelmények
 
-Így több [Manőver Pont](017_03_manover_pontok.md) felhasználása szükséges a Nehézség mérsékléséhez és máris meglesz az „ára”, ha valaki eséllyel alkalmazni akarja.
+Ha úgy érzed, az adott manőver túl tápos, emeld meg a **Nehézségét**, így több [Manőver Pont](017_03_manover_pontok.md) felhasználása szükséges a Nehézség mérsékléséhez és máris meglesz az „ára”, ha valaki eséllyel alkalmazni akarja.
 
 ---
 
