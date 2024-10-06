@@ -26,12 +26,11 @@ Nagy pajzs: `VÉ:50`, `MGT:⭕`
 🔒 **Követelmény**: Erő: `+0`
 
 🌟 **Hatás**:
-- Tudsz pajzsot használni, megkapod annak teljes VÉ-jét
+- Tudsz pajzsot használni, megkapod annak teljes `VÉ`-jét
 - Kis pajzs levonás: `0`
 - Közepes pajzs levonás: `TÉ:-5`
 - Nagy pajzs levonás: `TÉ:-10`
 - ⭕MGT érvényesül? (az brutál levonás!)⭕
-- ⭕TODO⭕ MGT: változzon foktól függően, vagy ne? A fizikai képzettség- és tulajdonság-próbákra mindenképpen vonatkozzon. Az MGT amúgy más levonást ne adjon szerintem... ⭕
 
 ---
 #### 2. fok
@@ -39,7 +38,7 @@ Nagy pajzs: `VÉ:50`, `MGT:⭕`
 🔒 **Követelmény**: Erő: `+1`
 
 🌟 **Hatás**:
-- Tudsz pajzsot használni, megkapod annak teljes VÉ-jét
+- Tudsz pajzsot használni, megkapod annak teljes `VÉ`-jét
 - Kis pajzs levonás: `0`
 - Közepes pajzs levonás: `0`
 - Nagy pajzs levonás: `0`
