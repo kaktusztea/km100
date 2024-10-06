@@ -20,8 +20,8 @@ Amennyiben **Kiszámíthatatlanul mozgó**, vagy **Harcoló** ellenfélre lősz 
 - (**Íjászat** vagy **Lövészet** vagy **Hajítás**)
 
 🌟 **Hatás**:
-- Kiszámíthatatlan Szorzó: ⭕TODO⭕`11x`
-- Harcoló Szorzó: ⭕TODO⭕`16x`
+- Kiszámíthatatlan Szorzó: `11x`
+- Harcoló Szorzó: `16x`
 
 <br />
 

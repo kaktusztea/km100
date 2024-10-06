@@ -51,5 +51,5 @@
 - [Közeli lövés](fortelyok.harci/kozeli_loves.md)
 - [Lövés futás közben](fortelyok.harci/loves_futas_kozben.md)
 - [Lövés reflexből](fortelyok.harci/loves_reflexbol.md)
-- [Mozgó cél mestere](fortelyok.harci/mozgo_cel_mestere.md) 🔺
+- [Mozgó cél mestere](fortelyok.harci/mozgo_cel_mestere.md)
 - [Távoli lövés](fortelyok.harci/tavoli_loves.md) 🔺
