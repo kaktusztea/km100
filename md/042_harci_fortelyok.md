@@ -35,7 +35,7 @@
 
 <!-- tag: harci__lovas__fortely -->
 
-- [Léglovas harc](fortelyok.harci/leglovas_harc.md) 🔺
+- [Léglovas harc](fortelyok.harci/leglovas_harc.md)
 - [Lovas harc](fortelyok.harci/lovas_harc.md)
 - [Lovas íjászat](fortelyok.harci/lovas_ijaszat.md)
 
