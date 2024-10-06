@@ -102,7 +102,7 @@ Ha az ellenfél nem számít az őt érő támadásra, de még képes reagálni,
 ---
 ### Készületlenség
 
-Ha egy karakter készületlen, akkor támadója a **Meglepetés** szituációnak megfelelő módosítókkal támadhat rá.
+Ha egy karakter készületlen, akkor támadója a [Meglepetés](#meglepet%C3%A9s) szituációnak megfelelő módosítókkal támadhat rá.
 
 <br />
 
