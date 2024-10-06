@@ -63,7 +63,7 @@ Célszám:
 #### ⚜️ Célszám extra módosítói
 
 | Manőver Pont         | Ellenfél alkalmazhatja opcionálisan. Pontonként `+2` bónuszt ad. Maximum `2 pont` költhető. A dobások előtt kell bejelenteni. |
-|:-------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+|:-------------------- | :---------------------------------------------------------------------------------------------------------------------------- |
 | Újrapróbálkozás      | `+2` → az Ellenfél már számít rá                                                                                              |
 | Módosító körülmények | `[-5;+5]` KM által megadott `+/-` érték. Körülmény függő könnyítés / nehezítés. Például "bódulat" esetén.                     |
 
