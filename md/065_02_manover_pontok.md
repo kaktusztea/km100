@@ -1,6 +1,6 @@
 ### Manőver Pontok
 
-A Manőverek [Ellenpróba](065_04_manover_vegbevitele.md#ellenpróba-e) fázisánál használhatjuk fel - opcionálisan - ezeket a pontokat, amelyek mennyisége leginkább a "harctéri", általános harci tapasztalatból nyert trükkök ismeretét szimulálja.
+A Manőverek [Ellenpróba](065_04_manover_vegbevitele.md#ellenpróba-e) fázisánál használhatjuk fel - opcionálisan - ezeket a pontokat, amelyek mennyisége leginkább a "harctéri", általános harci tapasztalatból nyert trükkök ismeretét szimulálja. Számítása karakteralkotási időben történik.
 
 ```
 Manőver Pontok =
