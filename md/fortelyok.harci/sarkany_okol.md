@@ -1,5 +1,8 @@
 ### 🟣 Sárkány ököl (3)
 
+
+⭕TODO: Lehet, hogy ez külön lesz a [Slan](https://github.com/kaktusztea/km100/wiki/STUDY.slan) alatt.
+
 ⭕TODO: Belharci szituációban mi legyen? Ugye ott `-10`-ről `0`-ra emelkednek a Puszta Kéz értékei... Kapjon a Sárkány öklös `+10`-et simán?⭕
 
 Ez a Harcművészek speciális fortélya. A **Slan pszí** útja delejes erőt ad a harcművésznek pusztakezes küzdelmében.
@@ -20,12 +23,11 @@ Ez a Harcművészek speciális fortélya. A **Slan pszí** útja delejes erőt a
 - Közelharc - `3.szint`
 - Slan pszí iskola - `3.szint
 
-
 🌟 **Hatás**:
 - Minden `3.KT` → `1 ÉP` seb
 - Puszta kéz harcértékei:
   - `KÉ,TÉ,VÉ: -10`
-  - `SP:-2+k20`
+  - `SP: -2 + k20`
 
 ---
 #### 2. fok
@@ -35,12 +37,11 @@ Ez a Harcművészek speciális fortélya. A **Slan pszí** útja delejes erőt a
 - Slan pszí iskola - `6.szint
 - Mesterfegyver fortély (Puszta kéz): `1.fok`
 
-
 🌟 **Hatás**:
 - Minden `2.KT` → `1 ÉP` seb
 - Puszta kéz harcértékei:
   - `KÉ,TÉ,VÉ: -3`
-  - `SP:0+k20`
+  - `SP: 0 + k20`
 
 ---
 #### 3. fok
@@ -50,12 +51,11 @@ Ez a Harcművészek speciális fortélya. A **Slan pszí** útja delejes erőt a
 - Slan pszí iskola - `9.szint
 - Mesterfegyver fortély (Puszta kéz): `2.fok`
 
-
 🌟 **Hatás**:
 - Minden sebzés rendes ÉP seb
 - Puszta kéz harcértékei:
   - `KÉ,TÉ,VÉ: 4`
-  - `SP:+2+k20`
+  - `SP: +2 + k20`
 
 
 <br />

@@ -74,6 +74,7 @@ Ha van még, akkor itt kidolgozni
 
 <br />
 
+---
 ## Lovas manőverek
 
 ### Manőver: Lovas, léglovas akasztása
@@ -97,3 +98,8 @@ Lovaddal vadul forgolódsz, a hátas ki-kirúg ide-oda, borzasztó nehéz közel
 - Fázisok: (M)egakasztás
 - Végbevitel követelménye: "**Lovas harc**" fortély 2. fokától jár
 - Hatás: Ha megvannak a követelmények, akkor megelőző (M)egakasztást dobhatsz minden veled harcérintkezésben levő ellenfeled ellen. Ha a támadás sikeres, az ellenfél elveszíti a támadást, de nem sebződik. Látható, hogy így sebezni nem tudsz, de a feléd irányuló támadásokat elháríthatod.
+
+---
+## Léglovas manőverek
+
+⭕TODO: kidolgozni⭕

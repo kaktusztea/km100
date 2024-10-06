@@ -1,6 +1,6 @@
 ### 🟣 Forgószél támadás (1)
 
-⭕ Elég táp, hangolni!
+⭕TODO⭕ Elég táp, hangolni!
 
 #### 1. fok
 
