@@ -17,9 +17,8 @@ Gyakorlatodnak köszönhetően kifejezetten gyorsan tudod újratölteni számsze
 
 🌟 **Hatás**:
 - A kilőtt nyílpuskád újratöltéséhez szükséges idő lecsökken.
-- ⭕Kézi- vagy Könnyű nyílpuskád **Sebesség** értéket kap, melynek nagysága `7`.
-- Így lehetséges lesz nyílpuskával egy körben többször is támadni, de legfeljebb `3`-szor.⭕
-
+- Kézi- vagy Könnyű nyílpuskád **Sebesség** értéket kap, melynek nagysága `8`.
+- Így lehetséges lesz nyílpuskával egy körben többször is támadni, de legfeljebb `3x`.
 
 <br />
 
