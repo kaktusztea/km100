@@ -48,7 +48,7 @@ A Manőver Nehézségét egy számértékkel jellemezzük, ezzel az értékkel s
 ### 🔆 Hasznos tanács KM részére új manőver létrehozásakor
 
 A KM bármikor rögtönözhet új Manővert, mindössze az alábbiakat kell meghatároznia:
-- Nehézség `[2-10]`
+- Nehézség `[2;10]`
 - Követelmények
 - Fázisok (`M V E`)
 - Hatás
