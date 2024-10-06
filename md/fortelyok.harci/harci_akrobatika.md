@@ -11,7 +11,7 @@ Küzdelem közben akrobatikus elemeket - ugrásokat, vetődéseket, pörgéseket
 - Akrobatika - `4.szint`
 
 🌟 **Hatás**:
-- Az [Akrobatika](../kepzettsegek/akrobatika.md) képzettséged `felét` hozzáadhatod bónuszként `TÉ/VÉ` értékeidhez. Felfelé kerekítünk.
+- Az [Akrobatika](../kepzettsegek/akrobatika.md) képzettség szinted `felét` hozzáadhatod bónuszként `TÉ/VÉ` értékeidhez. Felfelé kerekítünk.
 - [Kibontakozás/Átsiklás](../065_05_altalanos_manoverek.md#kibontakozás) Manőverre: `+1` bónuszt kapsz
 - `Akrobatika x 0.5` → +TÉ
 - `Akrobatika x 0.5` → +VÉ
@@ -25,8 +25,8 @@ Küzdelem közben akrobatikus elemeket - ugrásokat, vetődéseket, pörgéseket
 - Akrobatika - `8.szint`
 
 🌟 **Hatás**:
-- Az [Akrobatika](../kepzettsegek/akrobatika.md) képzettséged `1:1` hozzáadhatod bónuszként `TÉ/VÉ` értékeidhez.
-- [Kibontakozás/Átsiklás](../065_05_altalanos_manoverek.md#kibontakozás) Manőverre: `+3` bónuszt kapsz
+- Az [Akrobatika](../kepzettsegek/akrobatika.md) képzettség szinted `1:1` hozzáadhatod bónuszként `TÉ/VÉ` értékeidhez.
+- [Átsiklás](../065_05_altalanos_manoverek.md#%C3%A1tsikl%C3%A1s) és [Kibontakozás](../065_05_altalanos_manoverek.md#kibontakozás) Manőverre: `+3` bónuszt kapsz
 - `Akrobatika x 1` → +TÉ
 - `Akrobatika x 1` → +VÉ
 
