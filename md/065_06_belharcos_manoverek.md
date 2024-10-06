@@ -108,7 +108,7 @@ Lásd a [Belharcból kibontakozás](065_05_altalanos_manoverek.md#belharcból-ki
 	- ± **Erő** különbség
 	- `+[1-6]`: ellenfél páncélban van. KM dönt a mértékről.
 - Fázisok: `E V`
-- Végbevitel követelménye:cBelharc – `2.fok`
+- Végbevitel követelménye: Belharc – `2.fok`
 
 **Hatás**: kitörted ellenfeled lábát, `6 ÉP` sebzés
 
