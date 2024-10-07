@@ -27,32 +27,34 @@ Manőver alkalmazásakor **nem** folytatható: [Teljes Védekezés Taktika](064_
 [Roham:](064_02_harci_taktikak.md#roham-taktika) csak amelyik Manővernél külön meg van említve
 
 ---
-### Manőverek nehézsége
+### ⚜️ Manőverek nehézsége
+
+A Manőver **Nehézségét** egy `[2;12]` intervallumból vett számértékkel jellemezzük - ezzel szerepel az [Ellenpróba](065_04_manover_vegbevitele.md#ellenpr%C3%B3ba-e) dobásban a Célszám megállapításánál.
+
+A km100 Manővereinek Nehézsége azok adatlapján szerepel - lásd: [Általános](065_05_altalanos_manoverek.md), [Belharcos](065_06_belharcos_manoverek.md) Manőverek.
+
+<br />
+
+---
+### 🔆 Tanácsok KM részére új manőver létrehozásakor
+
+A KM bármikor rögtönözhet új Manővert, mindössze az alábbiakat kell meghatároznia:
+- Nehézség `[2;12]`
+- Követelmények
+- Fázisok (`M V E`)
+- Hatás
+- Speciális követelmények
+
+Új Manőver kitalálásakor a `[2;12]` intervallum értékei közül válasszunk az alábbi skála figyelembevételével.
 
 | Nehézség     | Érték |
-| ------------ |:-----:|
+| ------------ | :---: |
 | Mindennapos  |   2   |
 | Könnyű       |   4   |
 | Átlagos      |   6   |
 | Nehéz        |   8   |
 | Nagyon nehéz |  10   |
-
-A Manőver Nehézségét egy számértékkel jellemezzük, ezzel az értékkel szerepel az [Ellenpróba](065_04_manover_vegbevitele.md#ellenpr%C3%B3ba-e) dobásnál. Ezek csak irányadó számok, új Manőver kitalálásakor `[2;10]` közti értéket kell választani.
-
----
-### Állatok és Belharc
-
-Állatoknak általában van Belharcuk! Ennek mértékéről a KM dönt.
-
----
-### 🔆 Hasznos tanács KM részére új manőver létrehozásakor
-
-A KM bármikor rögtönözhet új Manővert, mindössze az alábbiakat kell meghatároznia:
-- Nehézség `[2;10]`
-- Követelmények
-- Fázisok (`M V E`)
-- Hatás
-- Speciális követelmények
+| Emberfeletti |  12   |
 
 Ha úgy érzed, az adott manőver túl tápos, emeld meg a **Nehézségét**, így több [Manőver Pont](017_03_manover_pontok.md) felhasználása szükséges a Nehézség mérsékléséhez és máris meglesz az „ára”, ha valaki eséllyel alkalmazni akarja.
 
