@@ -1,4 +1,4 @@
-### Általános szabályok manőverekre
+### ⚜️ Általános szabályok manőverekre
 
 Egy Manőver végrehajtása `1 támadást` / `1 akciót` emészt fel, nem szükséges hozzá nyert kezdeményezés.
 
