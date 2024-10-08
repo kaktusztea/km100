@@ -2,7 +2,7 @@
 
 Ez egy [Primer képzettség](../016_primer_szekunder_ismeretek.md).
 
-→ [Lásd: Méregrendszer](../130_meregrendszer.md)
+→ [Lásd: Méregrendszer](../140_meregrendszer.md)
 
 **Próba**: van, a rontás rejtett, a játékos csak a méreg alkalmazásakor szembesül a balsikerrel (nem hat). 
 
@@ -31,7 +31,7 @@ Ez egy [Primer képzettség](../016_primer_szekunder_ismeretek.md).
 
 ##### Próbák
 
-A méreg kikeverése **Méregkeverés** képzettpróbához kötött, amelynek célszáma a **Méreg szintjével** azonos. A **Méreg szintjének** számítása a [Méregrendszer](../130_meregrendszer.md) fejezetben található.
+A méreg kikeverése **Méregkeverés** képzettpróbához kötött, amelynek célszáma a **Méreg szintjével** azonos. A **Méreg szintjének** számítása a [Méregrendszer](../140_meregrendszer.md) fejezetben található.
 
 ##### Méreg azonosítása tünetek, környezeti hatás alapján
 - Sima Méregkeverés próba

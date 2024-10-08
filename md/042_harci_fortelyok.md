@@ -23,7 +23,7 @@
 - [Mesterfegyver](fortelyok.harci/mesterfegyver.md)
 - [Pajzshasználat](fortelyok.harci/pajzshasznalat.md) 🔺
 - [Páros harc](fortelyok.harci/paros_harc.md)
-- [Sárkány ököl](fortelyok.harci/sarkany_okol.md) 🔺
+- [Sárkány ököl](fortelyok.slan/sarkany_okol.md) 🔺
 - [Támadás erőből](fortelyok.harci/tamadas_erobol.md)
 - [Természetes fegyver](fortelyok.harci/termeszetes.fegyver.md)
 - [Testőr](fortelyok.harci/testor.md)

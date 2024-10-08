@@ -195,19 +195,19 @@
 - [Papi mágia alapszabályai](102_papi.magia.alapszabalyok.md)
 - [Papi varázslatok](103_papi.varazslatok.md) ✨
 
-### 11. [Varázstárgyak](110_varazstargyak.md)  (10%) 🚧
+### 11. [Varázstárgyak](120_varazstargyak.md)  (10%) 🚧
 
-### 12. [Gyógyítás, gyógyulás](120_gyogyitas_gyogyulas.md)
+### 12. [Gyógyítás, gyógyulás](130_gyogyitas_gyogyulas.md)
 
-### 13. [Méregrendszer, Mérgek](130_meregrendszer.md)
+### 13. [Méregrendszer, Mérgek](140_meregrendszer.md)
 
-### 14. [Szituációk](140_szituaciok.md)
+### 14. [Szituációk](150_szituaciok.md)
 
-- [Érzékelés, Észlelés](141_erzekeles_eszleles.md)
-- [Nyomok, nyomkövetés](142_nyomok_nyomkovetes.md)
-- [Menekülés, üldözés, futás](143_menekules_uldozes_futas.md)
-- [Befolyásolás vs Emberismeret](144_befolyasolas_emberismeret.md)
-- [Térkép készítése](145_terkep_keszitese.md)
+- [Érzékelés, Észlelés](151_erzekeles_eszleles.md)
+- [Nyomok, nyomkövetés](152_nyomok_nyomkovetes.md)
+- [Menekülés, üldözés, futás](153_menekules_uldozes_futas.md)
+- [Befolyásolás vs Emberismeret](154_befolyasolas_emberismeret.md)
+- [Térkép készítése](155_terkep_keszitese.md)
 
 ---
 ## [🚧 Fejlesztő portál 🚧](https://github.com/kaktusztea/km100/wiki)

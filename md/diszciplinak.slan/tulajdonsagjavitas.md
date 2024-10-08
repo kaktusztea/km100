@@ -1,4 +1,4 @@
-#### 🟢 Képességjavítás
+#### 🟢 Tulajdonságjavítás
 
 ##### Pszí iskolák ismerik
 
