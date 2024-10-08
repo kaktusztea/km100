@@ -9,4 +9,4 @@
 
 Jelenleg az `1 ÉP` / nap és `1 KT` / óra gyógyulás szabály az irányadó.
 
-Lásd még bővebben a [Gyógyítás, Gyógyulás](120_gyogyitas_gyogyulas.md) fejezetet.
+Lásd még bővebben a [Gyógyítás, Gyógyulás](130_gyogyitas_gyogyulas.md) fejezetet.
