@@ -8,7 +8,7 @@ Egy Manőver alkalmazása – jellegétől függően – legfeljebb az alábbi h
 
 <br />
 
-⚜️ `1.` **Megakasztás**\
+⚜️`1.` **Megakasztás**\
 Az **Ellenfél** teszi. Sima (extra) támadás, ha sikeres, a Manőver rögtön sikertelen.
 
 ⚜️`2.` **Végrehajtás**\
