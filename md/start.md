@@ -194,14 +194,21 @@
 - [Papi mágia világképe](101_papi.magia.vilagkep.md)
 - [Papi mágia alapszabályai](102_papi.magia.alapszabalyok.md)
 - [Papi varázslatok](103_papi.varazslatok.md) ✨
+### 11. [Slan](110_slan.md)  (10%) 🚧
 
-### 11. [Varázstárgyak](120_varazstargyak.md)  (10%) 🚧
+ - [Slan Tradíció](053_01_slan_tradicio.md)
+ - [Slan fortélyok](044_slan_fortelyok.md)
+ - [Slan diszciplínák](111_slan_diszciplinak.md)
+ - [Chi harc képzettségei](112_chi_harc.md)
+ - [Slan fegyverek](113_slan_fegyverek.md)
 
-### 12. [Gyógyítás, gyógyulás](130_gyogyitas_gyogyulas.md)
+### 12. [Varázstárgyak](120_varazstargyak.md)  (10%) 🚧
 
-### 13. [Méregrendszer, Mérgek](140_meregrendszer.md)
+### 13. [Gyógyítás, gyógyulás](130_gyogyitas_gyogyulas.md)
 
-### 14. [Szituációk](150_szituaciok.md)
+### 14. [Méregrendszer, Mérgek](140_meregrendszer.md)
+
+### 15. [Szituációk](150_szituaciok.md)
 
 - [Érzékelés, Észlelés](151_erzekeles_eszleles.md)
 - [Nyomok, nyomkövetés](152_nyomok_nyomkovetes.md)

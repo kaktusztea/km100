@@ -4,4 +4,3 @@
 
 - [Képességjavítás](diszciplinak.slan/tulajdonsagjavitas.md)
 - [Testuralom](diszciplinak.slan/testuralom.md)
-- 
