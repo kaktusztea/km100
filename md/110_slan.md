@@ -1,6 +1,5 @@
 # Slan misztérium
 
- - Bevezető
  - [Slan Tradíció](053_01_slan_tradicio.md)
  - [Slan fortélyok](044_slan_fortelyok.md)
  - [Slan diszciplínák](111_slan_diszciplinak.md)
