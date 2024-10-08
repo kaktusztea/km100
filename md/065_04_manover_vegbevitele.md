@@ -94,7 +94,7 @@ Követelmények nélkül:
 
 A Manőverek végrehajtásával bárki próbálkozhat, aki az adott Manővernél leírt **Végbevitel-követelményeket** teljesíti.
 
-Amennyiben nem teljesíti, akkor is nekifuthat, de az **Ellenpróba** dobásánál a célszám számára `3`-al megemelkedik.
+Amennyiben nem teljesíti, akkor is nekifuthat, de az **Ellenpróba** dobásánál a célszám számára `3`-mal megemelkedik.
 
 ---
 ### Újrapróbálkozás
