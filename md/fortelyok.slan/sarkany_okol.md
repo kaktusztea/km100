@@ -62,7 +62,7 @@ Ez a Harcművészek speciális fortélya. A **Slan pszí** útja delejes erőt a
 
 #### Megjegyzések
 
- A fentiek a "fegyver" alapértékei. A 🟣[Mesterfegyver](mesterfegyver.md) bónusz még ehhez pluszban hozzájön.
+ A fentiek a "fegyver" alapértékei. A 🟣[Mesterfegyver](../fortelyok.harci/mesterfegyver.md) bónusz még ehhez pluszban hozzájön.
 
 <br />
 
