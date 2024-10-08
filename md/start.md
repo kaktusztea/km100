@@ -194,7 +194,7 @@
 - [Papi mágia világképe](101_papi.magia.vilagkep.md)
 - [Papi mágia alapszabályai](102_papi.magia.alapszabalyok.md)
 - [Papi varázslatok](103_papi.varazslatok.md) ✨
-### 11. [Slan](110_slan.md)  (10%) 🚧
+### 11. [Slan misztérium](110_slan.md)  (10%) 🚧
 
  - [Slan Tradíció](053_01_slan_tradicio.md)
  - [Slan fortélyok](044_slan_fortelyok.md)
