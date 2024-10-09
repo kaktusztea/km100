@@ -3,7 +3,7 @@
 `2005.05.31`: Kezdetek: d20 MAGUS (nagy fehér) szabálykönyvre írt egyedi háziszabályokkal kezdődött. Pár szellős oldal: [2005-05-31_haziszabalyok_0v2.pdf](https://github.com/kaktusztea/km100/raw/master/archive/history/2005-05-31_haziszabalyok_0v2.pdf?raw=true)
 
 `2005.05.31 - 2005.07.10`: egy bő hónap alatt megvolt a VÉ csökkentés, a sebesülés kategóriák és a távolsági harcrendszer!
-- [2005-07-10 km20_0v9.sxw](https://github.com/kaktusztea/km100/raw/master/archive/history/2005-07-10_km20_0v9.pdf?raw=true)
+- [2005-07-10 km20_0v9.pdf](https://github.com/kaktusztea/km100/raw/master/archive/history/2005-07-10_km20_0v9.pdf?raw=true)
 - [2005-08-01 km20_import_v0.pdf](https://github.com/kaktusztea/km100/raw/master/archive/history/2005-08-01_km20_import_v0.pdf?raw=true)
 - [2005-10-19 km20b_0v2.4.2.pdf](https://github.com/kaktusztea/km100/raw/master/archive/history/2005-10-19_km20b_0v2.4.2.pdf)
 - [2005-12-31 km20_karlap_0.62.ods](https://github.com/kaktusztea/km100/raw/master/archive/history/2005-12-31_km20_karlap_0.62.ods?raw=true)
