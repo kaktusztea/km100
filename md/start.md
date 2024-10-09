@@ -24,8 +24,8 @@
 [Bevezető](#0-bevezet%C5%91-jelz%C5%91k) &nbsp;-&nbsp; [Karakteralkotás](#1-karakteralkot%C3%A1s)\
 [Hátterek](#2-h%C3%A1tterek)  &nbsp;-&nbsp; [Képzettségrendszer](#3-k%C3%A9pzetts%C3%A9grendszer) &nbsp;-&nbsp; [Fortélyok](#4-fort%C3%A9lyok) &nbsp;-&nbsp; [Tradíciók](#5-trad%C3%ADci%C3%B3k)\
 [Harcrendszer](#6-harcrendszer-%EF%B8%8F) &nbsp;-&nbsp; [Távolsági Harcrendszer](#7-t%C3%A1vols%C3%A1gi-harcrendszer-)\
-[Pszí](#8-psz%C3%AD) &nbsp;-&nbsp; [Mágiarendszer](#9-m%C3%A1giarendszer) &nbsp;-&nbsp; [Papi mágia](#10-papi-m%C3%A1gia-10-) &nbsp;-&nbsp; [Varázstárgyak](#11-var%C3%A1zst%C3%A1rgyak--10-)\
-[Gyógyítás, gyógyulás](#12-gy%C3%B3gy%C3%ADt%C3%A1s-gy%C3%B3gyul%C3%A1s) &nbsp;-&nbsp; [Méregrendszer, Mérgek](#13-m%C3%A9regrendszer-m%C3%A9rgek) &nbsp;-&nbsp; [Szituációk](#14-szitu%C3%A1ci%C3%B3k)
+[Pszí](#8-psz%C3%AD) &nbsp;-&nbsp; [Mágiarendszer](#9-m%C3%A1giarendszer) &nbsp;-&nbsp; [Papi mágia](#10-papi-m%C3%A1gia-10-) &nbsp;-&nbsp; [Varázstárgyak](#12-var%C3%A1zst%C3%A1rgyak--10-)\
+[Gyógyítás, gyógyulás](#13-gy%C3%B3gy%C3%ADt%C3%A1s-gy%C3%B3gyul%C3%A1s) &nbsp;-&nbsp; [Méregrendszer, Mérgek](#14-m%C3%A9regrendszer-m%C3%A9rgek) &nbsp;-&nbsp; [Szituációk](#15-szitu%C3%A1ci%C3%B3k)
 
 <br />
 ⚜️ ⚜️ ⚜️
