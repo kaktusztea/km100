@@ -70,8 +70,6 @@ Eddig tartott az aktív fejlesztés. Ekkor már elég fix állapotban voltak a r
 
 `2023.04`: kis visszatérés, data, yaml generátor készítése
 
-`2023.05`: szünet megint
-
 <br />
 
 ... ⏸️ 5 hónap szünet ⏸️ ...
