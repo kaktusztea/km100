@@ -1,16 +1,16 @@
 ## A km100 rendszer fejlesztésének főbb időpontjai
 
-2005.05.31: Kezdetek: d20 MAGUS (nagy fehér) szabálykönyvre írt egyedi háziszabályokkal kezdődött. Pár szellős oldal.
+`2005.05.31`: Kezdetek: d20 MAGUS (nagy fehér) szabálykönyvre írt egyedi háziszabályokkal kezdődött. Pár szellős oldal.
 
-2005.05.31 - 2005.07.10: egy bő hónap alatt megvolt a VÉ csökkentés, a sebesülés kategóriák és a távolsági harcrendszer!
+`2005.05.31 - 2005.07.10`: egy bő hónap alatt megvolt a VÉ csökkentés, a sebesülés kategóriák és a távolsági harcrendszer!
 
-🔆2005 júniusban született a km100 magja 🔆
+🔆`2005 júniusban` született a km100 magja 🔆
 
-2006.05.09 - Idáig ment privát doksiban és email útján, utána levlista.
+`2006.05.09` - Idáig ment privát doksiban és email útján, utána levlista.
 
-2006.07: ekkor indult el a km100 Google Groups csoport
+`2006.07`: ekkor indult el a km100 Google Groups csoport
 
-A fejlesztés státusza:
+**Ekkor a fejlesztés státusza:**
   - Hagyományos kasztrendszer megmarad
   - Tulajdonságok és az elosztási rendszer kész
   - Képzettségrendszer majdnem kész
@@ -22,7 +22,7 @@ A fejlesztés státusza:
   - Mágia: ötlet szinten
 
 
-❗2008.08.14 - Az első nagy fejlesztési korszak vége❗  🔆 összesen: 3 év, 3 hónap 🔆
+❗`2008.08.14` - Az első nagy fejlesztési korszak vége❗  🔆 **összesen: 3 év, 3 hónap** 🔆
 
 Eddig tartott az aktív fejlesztés. Ekkor már elég fix állapotban voltak a rendszer alapjai. Később ennek az átdolgozása, finomítása történik, a fundamentumok nem változnak nagyon.
 
@@ -30,53 +30,40 @@ Eddig tartott az aktív fejlesztés. Ekkor már elég fix állapotban voltak a r
 ...  ⏸️  4,5 év szünet ⏸️  ...
 
 
-2013.07-08: kis munka indult vele újra, de nem sokáig
+`2013.07 - 08`: kis munka indult vele újra, de nem sokáig
 
 
 ...  ⏸️ 9 év szünet ⏸️  ...
 
 
-2022.07.18 - ❗km100 nagy migrálás kezdete❗
-  - odt dokumentumok konvertálása manuálisan markdown formátumba és a km100 Github repository-ba letárolva
-  - ötletek, TODO, ISSUE elemek csoportosítása, felvitele a wikire
+`2022.07.18` - ❗km100 nagy migrálás kezdete❗
+- odt dokumentumok konvertálása manuálisan markdown formátumba és a km100 Github repository-ba letárolva
+- ötletek, TODO, ISSUE elemek csoportosítása, felvitele a wikire
 
-2022.07.18 - md könyvtárstruktúra létrehozva
+`2022.07.18` - md könyvtárstruktúra létrehozva
 
-2022.10.29 - rövid szünet kezdete
+`2022.10.29` - rövid szünet kezdete
 
 ... ⏸️ fél év szünet ⏸️ ...
 
-2023.04: kis visszatérés, data, yaml generátor készítése
+`2023.04`: kis visszatérés, data, yaml generátor készítése
 
-2023.05: szünet megint
+`2023.05`: szünet megint
 
 ... ⏸️ 5 hónap szünet ⏸️ ...
 
-2023.10: MAGUS versenyre készülünk
+`2023.10`: MAGUS versenyre készülünk
 
-2023.11.08: nagy visszatérés, folyamatos munka kezdete, munka odt to md konvertálás folytatása, az utolsó konvertálás részek elvégzése
+`2023.11.08`: nagy visszatérés, folyamatos munka kezdete, munka odt to md konvertálás folytatása, az utolsó konvertálás részek elvégzése
+- `2023.11.17`: az új md könyvtárstruktúra lett az ÉLES anyag, az odt állományok pedig archive alá kerültek
+- `2023.11.21`: Minden TODO és ötlet töredék átmozgatva Cherrytree-ből TODO-markdownba a km100.wiki (work) repo oldalra
+- `2023.12.06`: NYITOTT_prob_todo.odt: feldolgozva markdown formátumba, archiválva
+-  `2023.12 hónap`: Pszí; Fortélyok odt, Távharc odt, Mágia doksi, Fegyvertáblázatok migrálva, archiválva
 
-  2023.11.17: az új md könyvtárstruktúra lett az ÉLES anyag, az odt állományok pedig archive alá kerültek
+`2023.12.17`❗NAGY ODT TO MARKDOWN MIGRÁLÁS VÉGE!!!!❗
 
-  2023.11.21: Minden TODO és ötlet töredék átmozgatva Cherrytree-ből TODO-markdownba a km100.wiki (work) repo oldalra
+🔆 **ODT, TXT, Cherrytree állományok, jegyzetek migrálása markdown formátumba:  ~  6 hónap nettó munka ** 🔆
 
-  2023.12.06: NYITOTT_prob_todo.odt: feldolgozva markdown formátumba, archiválva
+`2023.12.29`: Első, Github release: `km100 v0.4.0.0`
 
-  2023.12.09:
-    - Pszí alkalmazás fortély migrálva; Fortélyok odt doksi migrálva, archiválva
-    - Távharc odt migrálva, archiválva
-
-  2023.12.15: mágia odt migrálva, archiválva
-
-2023.12.17❗
-  - Magasmágia: Elemi mágia odt migrálva, archiválva
-  - Pszi odt migrálva, archiválva
-  - fegyvertáblázatok migrálva
-  - ❗NAGY ODT TO MARKDOWN MIGRÁLÁS VÉGE!!!!❗
-
-🔆 ODT, TXT, Cherry to MD:  ~  6 hónap nettó munka volt 🔆
-
-2023.12.29 - Első, Github release: km100 v0.4.0.0
-
-2024.05.01: Áttérés az ÉV.HÉT verziózásra: v24.18
-
+`2024.05.01`: Áttérés az ÉV.HÉT verziózásra: `km100 v24.18`
