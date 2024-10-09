@@ -15,8 +15,8 @@ Gyakorlott vagy a lóhátról való íjászatban, ennek hatására kisebbek nega
 🔒 **Követelmény**:
 - Lovaglás - `6.szint`
 - Hajítás vagy Íjászat vagy Lövészet - `5.szint`
-- [Mesterfegyver](mesterfegyver.md) - `1.fok`
-- [Lovas harc](lovas_harc.md) - `2.fok`
+- [Mesterfegyver](../fortelyok.harci/mesterfegyver.md) - `1.fok`
+- [Lovas harc](../fortelyok.harci/lovas_harc.md) - `2.fok`
 
 🌟 **Hatás**:
 - Ügetés esetén: `CÉ:-10`
@@ -28,8 +28,8 @@ Gyakorlott vagy a lóhátról való íjászatban, ennek hatására kisebbek nega
 🔒 **Követelmény**:
 - Lovaglás - `9.szint`
 - Hajítás vagy Íjászat vagy Lövészet - `9.szint`
-- [Mesterfegyver](mesterfegyver.md) - `2.fok`
-- [Lovas harc](lovas_harc.md) - `3.fok`
+- [Mesterfegyver](../fortelyok.harci/mesterfegyver.md) - `2.fok`
+- [Lovas harc](../fortelyok.harci/lovas_harc.md) - `3.fok`
 
 🌟 **Hatás**:
 - Ügetés esetén: nincs büntetés
