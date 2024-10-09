@@ -34,10 +34,12 @@ Eddig tartott az aktív fejlesztés. Ekkor már elég fix állapotban voltak a r
 
 <br />
 
+---
 ...  ⏸️  4,5 év szünet ⏸️  ...
 
 <br />
 
+---
 `2013.07 - 08`: kis munka indult vele újra, de nem sokáig
 
 <br />
@@ -46,6 +48,7 @@ Eddig tartott az aktív fejlesztés. Ekkor már elég fix állapotban voltak a r
 
 <br />
 
+---
 `2022.07.18` - ❗km100 nagy migrálás kezdete❗
 - odt dokumentumok konvertálása manuálisan markdown formátumba és a km100 Github repository-ba letárolva
 - ötletek, TODO, ISSUE elemek csoportosítása, felvitele a wikire
