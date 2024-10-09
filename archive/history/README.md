@@ -1,6 +1,6 @@
 ## A km100 rendszer fejlesztésének főbb időpontjai
 
-`2005.05.31`: Kezdetek: d20 MAGUS (nagy fehér) szabálykönyvre írt egyedi háziszabályokkal kezdődött. Pár szellős oldal: [2005-05-31_haziszabalyok_0v2.pdf](2005-05-31_haziszabalyok_0v2.pdf?raw=true)
+`2005.05.31`: Kezdetek: d20 MAGUS (nagy fehér) szabálykönyvre írt egyedi háziszabályokkal kezdődött. Pár szellős oldal: [2005-05-31_haziszabalyok_0v2.pdf](https://github.com/kaktusztea/km100/raw/master/archive/history/2005-05-31_haziszabalyok_0v2.pdf?raw=true)
 
 `2005.05.31 - 2005.07.10`: egy bő hónap alatt megvolt a VÉ csökkentés, a sebesülés kategóriák és a távolsági harcrendszer!
 
