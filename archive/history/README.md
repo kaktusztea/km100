@@ -26,15 +26,19 @@
 
 Eddig tartott az aktív fejlesztés. Ekkor már elég fix állapotban voltak a rendszer alapjai. Később ennek az átdolgozása, finomítása történik, a fundamentumok nem változnak nagyon.
 
+<br />
 
 ...  ⏸️  4,5 év szünet ⏸️  ...
 
+<br />
 
 `2013.07 - 08`: kis munka indult vele újra, de nem sokáig
 
+<br />
 
 ...  ⏸️ 9 év szünet ⏸️  ...
 
+<br />
 
 `2022.07.18` - ❗km100 nagy migrálás kezdete❗
 - odt dokumentumok konvertálása manuálisan markdown formátumba és a km100 Github repository-ba letárolva
@@ -44,13 +48,21 @@ Eddig tartott az aktív fejlesztés. Ekkor már elég fix állapotban voltak a r
 
 `2022.10.29` - rövid szünet kezdete
 
+<br />
+
 ... ⏸️ fél év szünet ⏸️ ...
+
+<br />
 
 `2023.04`: kis visszatérés, data, yaml generátor készítése
 
 `2023.05`: szünet megint
 
+<br />
+
 ... ⏸️ 5 hónap szünet ⏸️ ...
+
+<br />
 
 `2023.10`: MAGUS versenyre készülünk
 
