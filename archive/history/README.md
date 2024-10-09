@@ -10,7 +10,7 @@
 
 <br />
 
-🔆`2005 júniusban` született a km100 magja 🔆
+🔆`2005 júniusban` született a km20/km100 magja 🔆
 
 `2006.05.09` - Idáig ment privát doksiban és email útján, utána levlista.
 - [2006-05-09 km20_0v3.0.1.pdf](https://github.com/kaktusztea/km100/raw/master/archive/history/2006-05-09_km20_0v3.0.1.pdf?raw=true)
