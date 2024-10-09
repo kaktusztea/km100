@@ -17,7 +17,7 @@
 
 <br />
 
-`2006.07`: ekkor indult el a km100 Google Groups csoport
+`2006.07`: ekkor indult el a [km100 Google Groups](https://groups.google.com/g/km100) fejlesztői csoport
 
 **Ekkor a fejlesztés státusza:**
   - Hagyományos kasztrendszer megmarad
