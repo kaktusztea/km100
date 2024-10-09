@@ -6,7 +6,7 @@
 
 🔆2005 júniusban született a km100 magja 🔆
 
-2006.05.09 - Idáig ment privát doksiban,
+2006.05.09 - Idáig ment privát doksiban és email útján, utána levlista.
 
 2006.07: ekkor indult el a km100 Google Groups csoport
 
