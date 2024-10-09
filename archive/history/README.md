@@ -2,11 +2,17 @@
 
 `2005.05.31`: Kezdetek: d20 MAGUS (nagy fehér) szabálykönyvre írt egyedi háziszabályokkal kezdődött. Pár szellős oldal: [2005-05-31_haziszabalyok_0v2.pdf](https://github.com/kaktusztea/km100/raw/master/archive/history/2005-05-31_haziszabalyok_0v2.pdf?raw=true)
 
-`2005.05.31 - 2005.07.10`: egy bő hónap alatt megvolt a VÉ csökkentés, a sebesülés kategóriák és a távolsági harcrendszer! [2005-07-10_km20_0v9.sxw](https://github.com/kaktusztea/km100/raw/master/archive/history/2005-07-10_km20_0v9.sxw?raw=true)
+`2005.05.31 - 2005.07.10`: egy bő hónap alatt megvolt a VÉ csökkentés, a sebesülés kategóriák és a távolsági harcrendszer!
+- [2005-07-10 km20_0v9.sxw](https://github.com/kaktusztea/km100/raw/master/archive/history/2005-07-10_km20_0v9.pdf?raw=true)
+- [2005-08-01 km20_import_v0.pdf](https://github.com/kaktusztea/km100/raw/master/archive/history/2005-08-01_km20_import_v0.pdf?raw=true)
+- [2005-10-19 km20b_0v2.4.2.pdf](https://github.com/kaktusztea/km100/raw/master/archive/history/2005-10-19_km20b_0v2.4.2.pdf)
+- [2005-12-31 km20_karlap_0.62.ods](https://github.com/kaktusztea/km100/raw/master/archive/history/2005-12-31_km20_karlap_0.62.ods?raw=true)
 
-🔆`2005 júniusban` született a km100 magja 🔆
+🔆`2005 júniusban` született a km100 magja 🔆\
+- []()
 
 `2006.05.09` - Idáig ment privát doksiban és email útján, utána levlista.
+- [2006-05-09 km20_0v3.0.1.pdf](https://github.com/kaktusztea/km100/raw/master/archive/history/2006-05-09_km20_0v3.0.1.pdf?raw=true)
 
 `2006.07`: ekkor indult el a km100 Google Groups csoport
 
@@ -23,6 +29,7 @@
 
 
 ❗`2008.08.14` - Az első nagy fejlesztési korszak vége❗  🔆 **összesen: 3 év, 3 hónap** 🔆
+- [2009-02-22_km100_develop.zip](https://github.com/kaktusztea/km100/raw/master/archive/history/2009-02-22_km100_develop.zip?raw=true)
 
 Eddig tartott az aktív fejlesztés. Ekkor már elég fix állapotban voltak a rendszer alapjai. Később ennek az átdolgozása, finomítása történik, a fundamentumok nem változnak nagyon.
 
