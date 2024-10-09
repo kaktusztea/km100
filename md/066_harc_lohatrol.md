@@ -7,7 +7,7 @@ Aki lóról harcol, az előnyben van, részben a magasabb pozíció, részben lo
 Kapcsolódó fortélyok:
 - [Lovas harc](fortelyok.harci/lovas_harc.md) fortély
 - [Léglovas harc](fortelyok.harci/leglovas_harc.md) fortély
-- [Lovas íjászat](fortelyok.harci/lovas_ijaszat.md) fortély
+- [Lovas íjászat](fortelyok.tavharc/lovas_ijaszat.md) fortély
 
 ---
 ## Harc lóhátról

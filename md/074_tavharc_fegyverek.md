@@ -43,7 +43,7 @@ Kézifegyvereknél az alábbi módon kategorizálunk:
 
 Távolsági fegyverek esetén viszont nem mindegyiknek van **Sebesség** kategóriája, mivel újratöltésük annyi időt vesz igénybe, hogy nem lehetséges velük egy körben többször támadni (pl. nyílpuskák).
 
-Ebben az esetben lehet hasznos a [Gyors újratöltés](fortelyok.harci/gyors_ujratoltes.md) harci fortély.
+Ebben az esetben lehet hasznos a [Gyors újratöltés](fortelyok.tavharc/gyors_ujratoltes.md) harci fortély.
 
 Az egyes fegyverek Sebesség kategóriáját lásd a **Harcrendszer** [Fegyverek](067_fegyverek.md) alfejezetében (táblázat)!
 

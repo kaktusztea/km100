@@ -37,19 +37,19 @@
 
 - [Léglovas harc](fortelyok.harci/leglovas_harc.md)
 - [Lovas harc](fortelyok.harci/lovas_harc.md)
-- [Lovas íjászat](fortelyok.harci/lovas_ijaszat.md)
+- [Lovas íjászat](fortelyok.tavharc/lovas_ijaszat.md)
 
 ---
 ## Távolsági harci fortélyok
 
 <!-- tag: tavharc__fortely -->
 
-- [Gyors lövés](fortelyok.harci/gyors_loves.md)
-- [Gyors újratöltés](fortelyok.harci/gyors_ujratoltes.md)
-- [Képzett célzás](fortelyok.harci/kepzett_celzas.md)
+- [Gyors lövés](fortelyok.tavharc/gyors_loves.md)
+- [Gyors újratöltés](fortelyok.tavharc/gyors_ujratoltes.md)
+- [Képzett célzás](fortelyok.tavharc/kepzett_celzas.md)
 - [Kitérés lövés elől](fortelyok.harci/kiteres_loves_elol.md)
-- [Közeli lövés](fortelyok.harci/kozeli_loves.md)
-- [Lövés futás közben](fortelyok.harci/loves_futas_kozben.md)
-- [Lövés reflexből](fortelyok.harci/loves_reflexbol.md)
-- [Mozgó cél mestere](fortelyok.harci/mozgo_cel_mestere.md)
-- [Távoli lövés](fortelyok.harci/tavoli_loves.md) 
+- [Közeli lövés](fortelyok.tavharc/kozeli_loves.md)
+- [Lövés futás közben](fortelyok.tavharc/loves_futas_kozben.md)
+- [Lövés reflexből](fortelyok.slan/loves_reflexbol.md)
+- [Mozgó cél mestere](fortelyok.tavharc/mozgo_cel_mestere.md)
+- [Távoli lövés](fortelyok.tavharc/tavoli_loves.md) 
