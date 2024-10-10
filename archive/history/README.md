@@ -84,7 +84,7 @@ Eddig tartott az aktív fejlesztés. Ekkor már elég fix állapotban voltak a r
 
 `2023.12.17`❗ NAGY ODT → MARKDOWN MIGRÁLÁS VÉGE ❗
 
-🔆 **ODT, TXT, Cherrytree állományok, jegyzetek migrálása markdown formátumba:  ~  6 hónap nettó munka** 🔆
+🔆 **ODT, TXT, külső jegyzet állományok migrálása markdown formátumba:  ~6 hónap nettó munka** 🔆
 
 `2023.12.29`: Első, Github release: `km100 v0.4.0.0`
 
