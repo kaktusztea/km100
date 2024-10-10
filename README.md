@@ -68,7 +68,7 @@ Az évek során több \"alapmotort\" fejlesztettünk és dobtunk ki (ez leginká
 
 ---
 ## Licenc
-A rendszer nonprofit, soha semmilyen anyagi, vagy egyéb ellenszolgáltatást nem kérünk, vagy fogadunk el, viszont minden dokumentumra a `Creative Commons` licenc feltételei érvényesek. [Bővebben itt](LICENSE).
+Minden dokumentumra a `Creative Commons` licenc feltételei érvényesek. [Bővebben itt](LICENSE).
 
 ---
 ## A Szabályrendszer
