@@ -86,6 +86,6 @@ Eddig tartott az aktív fejlesztés. Ekkor már elég fix állapotban voltak a r
 
 🔆 **ODT, TXT, külső jegyzet állományok migrálása markdown formátumba:  ~6 hónap nettó munka** 🔆
 
-`2023.12.29`: Első, Github release: `km100 v0.4.0.0`
+`2023.12.29`: Első, Github release: [km100 v0.4.0.0](https://github.com/kaktusztea/km100/releases/tag/0.4.0.0)
 
-`2024.05.01`: Áttérés az ÉV.HÉT verziózásra: `km100 v24.18`
+`2024.05.01`: Áttérés az ÉV.HÉT verziózásra itt: [km100 v24.18](https://github.com/kaktusztea/km100/releases/tag/24.18)
