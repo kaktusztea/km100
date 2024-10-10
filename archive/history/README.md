@@ -58,7 +58,7 @@ Eddig tartott az aktív fejlesztés. Ekkor már elég fix állapotban voltak a r
 - odt dokumentumok konvertálása manuálisan markdown formátumba és a km100 Github repository-ba letárolva
 - ötletek, TODO, ISSUE elemek csoportosítása, felvitele a wikire
 
-`2022.07.18` - md könyvtárstruktúra létrehozva
+`2022.07.18` - markdown könyvtárstruktúra létrehozva
 
 <br />
 
