@@ -26,7 +26,7 @@
   - Harcrendszer: hiányos, k20-ra lett kidolgozva de valószínűleg maradunk a k100-nál
   - Nagyjából kész a Manőverek és a Távolsági harc fejezet, csak át kéne írni k100-ra
   - Fortélyok vannak, de hiányosak
-  -   Kaszt fortélyok vannak, de hiányosak
+  - Kaszt fortélyok vannak, de hiányosak
   - Pszi: ötlet szinten
   - Mágia: ötlet szinten
 
@@ -78,7 +78,7 @@ Eddig tartott az aktív fejlesztés. Ekkor már elég fix állapotban voltak a r
 
 `2023.11.08`: nagy visszatérés, folyamatos munka kezdete, munka odt to md konvertálás folytatása, az utolsó konvertálás részek elvégzése
 - `2023.11.17`: az új md könyvtárstruktúra lett az ÉLES anyag, az odt állományok pedig archive alá kerültek
-- `2023.11.21`: Minden TODO és ötlet töredék átmozgatva Cherrytree-ből TODO-markdownba a [km100.wiki](https://github.com/kaktusztea/km100/wiki) (work) repo oldalra
+- `2023.11.21`: Minden TODO és ötlet töredék átmozgatva külső jegyzetekből TODO-markdownba a [km100.wiki](https://github.com/kaktusztea/km100/wiki) (work) repo oldalra
 - `2023.12.06`: NYITOTT_prob_todo.odt: feldolgozva markdown formátumba, archiválva
 -  `2023.12 hónap`: Pszí odt, Fortélyok odt, Távharc odt, Mágia odt doksi, Fegyvertáblázatok migrálva, archiválva
 
