@@ -82,9 +82,9 @@ Eddig tartott az aktív fejlesztés. Ekkor már elég fix állapotban voltak a r
 - `2023.11.17`: az új md könyvtárstruktúra lett az ÉLES anyag, az odt állományok pedig archive alá kerültek
 - `2023.11.21`: Minden TODO és ötlet töredék átmozgatva Cherrytree-ből TODO-markdownba a km100.wiki (work) repo oldalra
 - `2023.12.06`: NYITOTT_prob_todo.odt: feldolgozva markdown formátumba, archiválva
--  `2023.12 hónap`: Pszí; Fortélyok odt, Távharc odt, Mágia doksi, Fegyvertáblázatok migrálva, archiválva
+-  `2023.12 hónap`: Pszí odt, Fortélyok odt, Távharc odt, Mágia odt doksi, Fegyvertáblázatok migrálva, archiválva
 
-`2023.12.17`❗NAGY ODT TO MARKDOWN MIGRÁLÁS VÉGE!!!!❗
+`2023.12.17`❗ NAGY ODT → MARKDOWN MIGRÁLÁS VÉGE ❗
 
 🔆 **ODT, TXT, Cherrytree állományok, jegyzetek migrálása markdown formátumba:  ~  6 hónap nettó munka** 🔆
 
