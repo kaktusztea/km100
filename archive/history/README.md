@@ -60,8 +60,6 @@ Eddig tartott az aktív fejlesztés. Ekkor már elég fix állapotban voltak a r
 
 `2022.07.18` - md könyvtárstruktúra létrehozva
 
-`2022.10.29` - rövid szünet kezdete
-
 <br />
 
 ... ⏸️ fél év szünet ⏸️ ...
