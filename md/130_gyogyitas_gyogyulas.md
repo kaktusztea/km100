@@ -2,7 +2,7 @@
 
 → [STUDY: Gyógyítás](https://github.com/kaktusztea/km100/wiki/STUDY.gyogyitas.gyogyulas)
 
-→ [STUDY: Papi mágia Gyógyítás szféra / Sebgyógyítás](https://github.com/kaktusztea/km100/wiki/STUDY.papimagia.szfera.gyogyitas#sebgy%C3%B3gy%C3%ADt%C3%A1s)
+→ [STUDY: Papi mágia Gyógyítás szféra / Sebgyógyítás](magia.papi.varazslatok/sebgyogyitas.md)
 
 ---
 A harc során, vagy egyéb fizikai behatás során szerzett sebesülések ellátására és gyógyítására több módszer létezik.

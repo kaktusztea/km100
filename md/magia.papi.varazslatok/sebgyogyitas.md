@@ -20,7 +20,7 @@
 
 **7.szint**: ms, 1 kategóriányi KT is eltűnik.
 
-**8.szint**: ms, 2 kategóriányi KT is eltűnik. Levágott végtag visszaillesztése azonnal, de csak ha még nekm kezd el rohadni.
+**8.szint**: ms, 2 kategóriányi KT is eltűnik. Levágott végtag visszaillesztése azonnal, de csak ha még nem kezd el rohadni.
 
 **10.szint**: ms, 3 kategóriányi KT is eltűnik.
 
