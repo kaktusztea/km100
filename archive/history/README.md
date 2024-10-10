@@ -55,7 +55,7 @@ Eddig tartott az aktív fejlesztés. Ekkor már elég fix állapotban voltak a r
 
 ---
 `2022.07.18` - ❗km100 nagy migrálás kezdete❗
-- odt dokumentumok konvertálása manuálisan markdown formátumba és a km100 Github repository-ba letárolva
+- odt dokumentumok konvertálása manuálisan markdown formátumba és a `km100` Github repository-ba letárolva
 - ötletek, TODO, ISSUE elemek csoportosítása, felvitele a wikire
 
 `2022.07.18` - markdown könyvtárstruktúra létrehozva
@@ -78,7 +78,7 @@ Eddig tartott az aktív fejlesztés. Ekkor már elég fix állapotban voltak a r
 
 `2023.11.08`: nagy visszatérés, folyamatos munka kezdete, munka odt to md konvertálás folytatása, az utolsó konvertálás részek elvégzése
 - `2023.11.17`: az új md könyvtárstruktúra lett az ÉLES anyag, az odt állományok pedig archive alá kerültek
-- `2023.11.21`: Minden TODO és ötlet töredék átmozgatva Cherrytree-ből TODO-markdownba a km100.wiki (work) repo oldalra
+- `2023.11.21`: Minden TODO és ötlet töredék átmozgatva Cherrytree-ből TODO-markdownba a [km100.wiki](https://github.com/kaktusztea/km100/wiki) (work) repo oldalra
 - `2023.12.06`: NYITOTT_prob_todo.odt: feldolgozva markdown formátumba, archiválva
 -  `2023.12 hónap`: Pszí odt, Fortélyok odt, Távharc odt, Mágia odt doksi, Fegyvertáblázatok migrálva, archiválva
 
