@@ -88,6 +88,6 @@ Eddig tartott az aktív fejlesztés. Ekkor már elég fix állapotban voltak a r
 
 `2023.12.29`: Első, Github release: [km100 v0.4.0.0](https://github.com/kaktusztea/km100/releases/tag/0.4.0.0)
 
-`2024.01 hónap`: innen indult el a fejlesztés folytatása - a dokumentumok migrálása után.
+`2024.01 hónap`: ❗ Innen indult el a fejlesztés folytatása - a dokumentumok migrálása után ❗
 
 `2024.05.01`: Áttérés az ÉV.HÉT verziózásra itt: [km100 v24.18](https://github.com/kaktusztea/km100/releases/tag/24.18)
