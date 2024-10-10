@@ -9,7 +9,7 @@ Egy fantasy világokra tervezett komplett, asztali (papír, kockák) szerepját�
 ---
 ## Filozófia
 
-A km100 egy nagyfokú realitásra törekvő rendszer sok szabállyal, mégis gördülékenynek tűnik játék során. Ennek oka, hogy a legtöbb számolást igénylő feladatot karakteralkotási időbe száműztünk. Így egy karakter megalkotása több időt vehet igénybe, viszont rendkívül egyedi, specializált végeredményt kapunk.
+A `km100` egy nagyfokú realitásra törekvő rendszer sok szabállyal, mégis gördülékenynek tűnik játék során. Ennek oka, hogy a legtöbb számolást igénylő feladatot karakteralkotási időbe száműztünk. Így egy karakter megalkotása több időt vehet igénybe, viszont rendkívül egyedi, specializált végeredményt kapunk.
 
 Az első mindig a misztikus, kalandos történet hangulata és annak karakterei - a rendszer csak "másodhegedűs", ami a mesélő keze alá dolgozik és "aláteszi" a kereteket, minél "láthatatlanabb", annál jobb. Az elképzelt cél egy már-már regényszerű, drámai, színészet-közeli szerepjátékot megvalósítható közeg, amit a háttérből erősen támogat a "szürke eminenciás" szabályrendszer, amely tág kereteket biztosít a kreativitásra, aztán viszont a háttérbe húzódik. A legjobb, ha egy olyan tág "kerítést" von a rendszer, hogy a játékos azt érezze, egy végtelen, rengeteg lehetőséget rejtő erdőben van, nem egy kerítéssel bekerített fenyvesben (mint ahogy amúgy). Az ilyen világ veszélyesebb, mint mondjuk egy narratív rendszer puhán körülölelő karjai, de magasabb szabadságérzetet is élhetünk át.
 
@@ -43,7 +43,7 @@ A rendszer a **_szerep-játékra_** helyezi a hangsúlyt - szemben például egy
 ---
 ## Számok
 
-A km100 rendszerében nincsenek kasztok, egyes jellemzőket szabad pontokból, másokat KP elköltésével lehet növelni.
+A `km100` rendszerében nincsenek kasztok, egyes jellemzőket szabad pontokból, másokat KP elköltésével lehet növelni.
 
 ### Ingyenes pontok
 
@@ -60,9 +60,9 @@ A km100 rendszerében nincsenek kasztok, egyes jellemzőket szabad pontokból, m
 ---
 ## A km100 rendszer története
 
-A km100 egy nonprofit szabályrendszer M\* világához, amely háziszabályok gyűjteményeként indult, majd nulláról újrakezdve egy önálló rendszerré nőtte ki magát. Fejlesztése 2005 óta folyik, [az egyes mérföldkövekről itt olvashatsz](archive/history/README.md).
+A `km100` egy nonprofit szabályrendszer M\* világához, amely háziszabályok gyűjteményeként indult, majd nulláról újrakezdve egy önálló rendszerré nőtte ki magát. Fejlesztése 2005 óta folyik, [az egyes mérföldkövekről itt olvashatsz](archive/history/README.md).
 
-A km100-nak nem célja helyettesíteni a hivatalos szabályrendszert, amely a régi rendszerrel való viszonylagos szabályrendszeri és hangulati kompatibilitást próbálta megőrizni. A km100 a haladó játékosoknak készült, akiknek nem fontos a régihez való kötődés, szívesen kipróbálnak egy kompromisszumok és \"nosztalgia nélküli\" rendszert.
+A `km100`-nak nem célja helyettesíteni a hivatalos szabályrendszert, amely a régi rendszerrel való viszonylagos szabályrendszeri és hangulati kompatibilitást próbálta megőrizni. A `km100` a haladó játékosoknak készült, akiknek nem fontos a régihez való kötődés, szívesen kipróbálnak egy kompromisszumok és \"nosztalgia nélküli\" rendszert.
 
 Az évek során több \"alapmotort\" fejlesztettünk és dobtunk ki (ez leginkább a képzettségrendszerre igaz). Nem célunk (már) a teljesen eredeti és új rendszer kitalálása, több ötletet, megoldást, bevallottan más - már bizonyított - rendszerekből lestünk el. A cél, hogy a saját és más rendszerek jól működő részeit egy jól teljesítő, nem túlbonyolított, mégis logikus egységbe foglaljuk és pótoljunk (nekünk) régóta fájó hiányokat, vagy idegesítő logikátlanságokat.
 
