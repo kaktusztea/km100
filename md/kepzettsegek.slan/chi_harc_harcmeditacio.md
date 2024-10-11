@@ -1,4 +1,4 @@
-#### Chi Harc - Sárkány ébredése
+#### Chi Harc - Harcmeditáció
 
 ⭕TODO: kidolgozni⭕
 
