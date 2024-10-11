@@ -67,12 +67,14 @@ Nagy mocsár (víz), vulkán (tűz)
 ### Evilági lény
 
 - jelenléte: szellemlény, uralkodó ház tagja, főpap
+- testrésze: bőre, vére, szőre, karma, nyála, stb.
 - áldozása: emberáldozat, állatáldozat, természetszellem
 
 ---
 ### Túlvilági lény
 
 - jelenléte: élőhalott szellem, démon
+- testrésze: bőre, vére, szőre, karma, nyála, stb.
 - áldozása: élőhalott szellem, démon
 
 ---
