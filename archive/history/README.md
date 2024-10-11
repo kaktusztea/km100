@@ -14,7 +14,7 @@ Egy bő hónap alatt megvolt a VÉ csökkentés, a sebesülés kategóriák és 
 
 <br />
 
-### 🔆 2005 júniusban
+### 🔆 2005 június
 
 ❗Ekkor született a km20/km100 magja ❗
 
