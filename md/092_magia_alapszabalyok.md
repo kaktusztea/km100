@@ -49,7 +49,7 @@ Ha van **Tradíció** képzettség `3` és `6`. szint között, akkor lehet mág
 
 ⭕Leírás⭕
 
-Módszerek listáját lásd a [misztikus fortélyok](043_misztikus_magia_fortelyok.md#var%C3%A1zsl%C3%A1si-m%C3%B3dszerek) között.
+Módszerek listáját lásd a [misztikus fortélyok](043_misztikus_magia_fortelyok.md#var%C3%A1zsl%C3%A1s-m%C3%B3dszerek) között.
 
 ---
 ### Varázslás menete
