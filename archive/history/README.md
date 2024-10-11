@@ -144,4 +144,4 @@ Release lista: [km100 releases](https://github.com/kaktusztea/km100/releases)
 
 ### 2024.05.01
 
-Áttérés az ÉV.HÉT verziózásra itt: [km100 v24.18](https://github.com/kaktusztea/km100/releases/tag/24.18)
+Áttérés az `ÉV.HÉT` verziózásra itt: [km100 v24.18](https://github.com/kaktusztea/km100/releases/tag/24.18)
