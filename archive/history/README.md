@@ -113,7 +113,7 @@ MAGUS versenyre készülünk
 Nagy visszatérés, folyamatos munka kezdete, munka odt to md konvertálás folytatása, az utolsó konvertálás részek elvégzése
 - `2023.11.17`: az új md könyvtárstruktúra lett az ÉLES anyag, az odt állományok pedig archive alá kerültek
 - `2023.11.21`: Minden TODO és ötlet töredék átmozgatva külső jegyzetekből TODO-markdownba a [km100.wiki](https://github.com/kaktusztea/km100/wiki) (work) repo oldalra
-- `2023.12.06`: NYITOTT_prob_todo.odt: feldolgozva markdown formátumba, archiválva
+- `2023.12.06`: [NYITOTT_prob_todo.odt](https://github.com/kaktusztea/km100/raw/master/archive/odt.work/done__NYITOTT_prob_todo.odt?raw=true): feldolgozva markdown formátumba, archiválva
 -  `2023.12 hónap`: Pszí odt, Fortélyok odt, Távharc odt, Mágia odt doksi, Fegyvertáblázatok migrálva, archiválva
 
 <br />
