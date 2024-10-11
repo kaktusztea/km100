@@ -12,7 +12,7 @@
 
 ⭕TODO: kidolgozni még⭕
 
-### Varázslási módszerek
+### Varázslás módszerek
 
 - [Áldás](fortelyok.magia.modszerek/aldas.md) 🔺
 - [Átok](fortelyok.magia.modszerek/atok.md) 🔺
@@ -29,3 +29,4 @@
 - [Megkötés](fortelyok.magia.modszerek/megkotes.md) / ⭕titkos alkímia? (CX)⭕
 - [Rituális/Tánc mágia](fortelyok.magia.modszerek/ritualis_tanc.md) 🔺
 - [Szexuálmágia](fortelyok.magia.modszerek/szexualmagia.md)
+- [Szimpatikus mágia](fortelyok.magia.modszerek/szimpatikus_magia.md)
