@@ -1,4 +1,4 @@
-#### 🔵Aurafejlesztés
+#### 🔵 Aurafejlesztés
 
 **Próba:** dobható
 

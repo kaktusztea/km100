@@ -1,4 +1,4 @@
-#### 🔵Észlelés
+#### 🔵 Észlelés
 
 Ez egy [Primer képzettség](../016_primer_szekunder_ismeretek.md).
 

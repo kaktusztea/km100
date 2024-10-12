@@ -1,4 +1,4 @@
-#### 🔵Városi jártasság
+#### 🔵 Városi jártasság
 
 **Próba:** dobható
 

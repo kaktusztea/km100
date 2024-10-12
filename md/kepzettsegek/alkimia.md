@@ -1,4 +1,4 @@
-#### 🔵Alkímia
+#### 🔵 Alkímia
 
 **Próba:** dobható
 

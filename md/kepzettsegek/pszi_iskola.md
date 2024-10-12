@@ -1,4 +1,4 @@
-#### 🔵Pszí iskola
+#### 🔵 Pszí iskola
 
 Kapcsolódó:
 - [Pszí főfejezet](../080_pszi.md)

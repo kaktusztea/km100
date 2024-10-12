@@ -1,4 +1,4 @@
-#### 🔵Etikett
+#### 🔵 Etikett
 
 **Próba**: dobható, sokszor [összetett próba](../036_kepzettsegproba.md#%C3%B6sszetett-k%C3%A9pzetts%C3%A9gpr%C3%B3ba-m%C3%A1sodlagos-pr%C3%B3badob%C3%A1sok) indokolt
 
@@ -17,6 +17,7 @@
 Természetesen nem mindegy, melyik kultúrkörben kell a társasági kihívásokat teljesíteni, de az alapismeret és a gyors tanulás segítségével hamar beépíthető más kultúrkörök ismerete is. Például egy "Etikett: `9.szint`"-el rendelkező pyarroni nemes pár nap alatt képes megtanulni a toroni udvari Etikett szabályait, mert már megvan a mentális "váz", amire csak fel kell "aggatnia" az új tudást. Ezt a  [Kultúrkör](../hatterek.kiemelt/kulturkor.md) Szabad Háttér rendszerén keresztül szimuláljuk.
 
 ##### Kultúrkör Szabad Hátterek
+
 Ha a karakter rendelkezik az épp a helyszínen található kultúrkört lefedő [Kultúrkör](../hatterek.kiemelt/kulturkor.md) Szabad háttérrel, akkor képes a kapcsolódó **Etikett** képzettségét ott büntetések nélkül alkalmazni. Ha nem, akkor csak ⭕az ott leírt⭕ nehezítéssel tudja a képzettséget alkalmazni.
 
 Bővebben lásd a **Kultúrkör** Szabad háttér leírását.

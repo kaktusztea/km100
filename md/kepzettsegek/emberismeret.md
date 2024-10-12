@@ -1,4 +1,4 @@
-#### 🔵Emberismeret
+#### 🔵 Emberismeret
 
 Ez egy [Primer képzettség](../016_primer_szekunder_ismeretek.md).
 
@@ -44,11 +44,14 @@ Az egyes, speciális szituációkban a fenti Szabad Hátterek adhatnak segítsé
 ##### Ellenpróbák
 
 A **Emberismeret** szinte mindig a [Befolyásolás](befolyasolas.md) képzettséggel áll ellenpróbás szituációban - a szituációtól függő módosítókkal. A leggyakoribb az alábbi próba-szituáció:
+
 ```
 Intelligencia + Emberismeret
             vs
 Érzékenység + Emberismeret
 ```
+
+Bővebben lásd: [Szituációk: Befolyásolás vs Emberismeret](../154_befolyasolas_emberismeret.md) fejezet.
 
 ##### Aktív próbák
 

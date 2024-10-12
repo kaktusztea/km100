@@ -1,12 +1,14 @@
-#### 🔵Idomítás
+#### 🔵 Idomítás
 
 **Próba:** dobható
 
 **Domináns Tulajdonságok**: Érzékenység, Intelligencia, Emlékezet
 
-**Szabad Háttér**: [Lénylovas](../hatterek.szabad/lenylovas.md) (1 faj ingyenes; az adott állatot is tudod idomítani)
+**Szabad Háttér**: [Lénylovas](../hatterek.szabad/lenylovas.md) (⭕1 faj ingyenes; az adott állatot is tudod idomítani⭕)
 
-**Leírás**: a képzettség egyes állatok idomítását fogja egybe és állatcsoportokra lehet megtanulni, amelyeket a fenti **Szabad Hátterek** határoznak meg. Ebből 1 alapból jár a képzettség felvételekor, a többi `SzP` használatával vehető fel később.
+**Leírás**: a képzettség állatok idomítását fogja magában. Az egyes állatcsoportokra vonatkozó ismereteket **Szabad Hátterek** felvételével nyerheted el -  [Szabad Pontok](../017_02_szp.md) elköltésével.
+
+⭕TODO: Állatcsopot Szabad Hátterek - voltak, töröltük. Legyenek újra?⭕
 
 <br />
 

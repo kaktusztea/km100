@@ -1,4 +1,4 @@
-#### 🔵Lovaglás
+#### 🔵 Lovaglás
 
 **Próba**: dobható
 

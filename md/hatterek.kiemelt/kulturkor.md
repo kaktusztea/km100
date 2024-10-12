@@ -7,7 +7,7 @@
 ⚡ Példa: "Kultúrkör: Toron", "Kultúrkör: Pyarron"
 
 Kapcsolódó Képzettség-próba:
-  ha nincs meg a követelt Kultúrkör fok, akkor +3 Nehézség.
+  ha nincs meg a követelt Kultúrkör fok, akkor -3 a dobásra.
 ```
 
 ##### Kiterjeszti ezeket:
@@ -53,7 +53,7 @@ Kalandozásai során a karakter számos helyre elvetődik.  Ha ott rászán idő
 
 Hogy mely foka adja meg az adott kultúrkörben a levonások nélküli használatot, az az adott képzettség leírásánál szerepel. A KM ezt - az adott szituációban - felülbírálhatja. 
 
-Ha nincs épp meg az adott szituációban a szükséges kultúrkörhöz tartozó **Kultúrkör** Szabad Háttér, akkor `+3`-al emelkednek az adott képzettség próbáinak nehézségei, amíg a karakter rá nem szánja a szükséges időt a kapcsolódó Kultúrkör Háttér megszerzésére.
+Ha nincs épp meg az adott szituációban a szükséges kultúrkörhöz tartozó **Kultúrkör** Szabad Háttér, akkor `-3` büntetés jár adott képzettségpróbák dobásaira, amíg a karakter rá nem szánja a szükséges időt a kapcsolódó Kultúrkör Háttér megszerzésére.
 
 ##### Kultúrkör lista draft
 - erv
