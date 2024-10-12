@@ -1,4 +1,4 @@
-#### 🔵Tudományok
+#### 🔵 Tudományok
 
 **Próba:** dobható
 

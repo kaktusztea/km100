@@ -1,4 +1,4 @@
-#### 🔵Művészetismeret
+#### 🔵 Művészetismeret
 
 **Próba:** dobható
 
@@ -21,12 +21,12 @@
 - [Zenélés: ütős hangszerek](../hatterek.szabad/zeneles_utos_hangszerek.md)
 - [Zsonglőrködés](../hatterek.szabad/zsonglorkodes.md)
 
-**Leírás**: Alapból tartalmazza a karakter által ismert **Kultúrkörök** alá tartozó művészeti ágakat, amelyekre felvette a kapcsolódó **Szabad Hátteret**. A képzettség felvételekor, `3.szint` elérésekor megkapsz művészetek listájából `1 db`-ot ingyen.
+**Leírás**: Alapból tartalmazza a karakter által ismert **Kultúrkörök** alá tartozó művészeti ágakat, amelyekre felvette a kapcsolódó **Szabad Hátteret**. 
 
-A tudás szélesíthető a fent található Szabad Hatterek felvételével Szabad Pontokból.
+A tudás szélesíthető a fent található Szabad Hatterek felvételével [Szabad Pontokból](../017_02_szp.md).
 
 **Követelmény**:
-  - [Kultúrkör](../hatterek.kiemelt/kulturkor.md) (adott kultúra). Enélkül `+3` nehezítés a képzettségpróbákra.
+  - [Kultúrkör](../hatterek.kiemelt/kulturkor.md) (adott kultúra). Enélkül `-3` a képzettségpróba dobásra.
   - [Nyelvismeret](../hatterek.kiemelt/nyelvismeret.md): Udvari fok
 
 <br />

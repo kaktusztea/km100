@@ -1,4 +1,4 @@
-#### 🔵Mágikus lövészet
+#### 🔵 Mágikus lövészet
 
 Primer harcmodor képzettség.
 

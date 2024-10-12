@@ -1,4 +1,4 @@
-#### 🔵Természetjárás
+#### 🔵 Természetjárás
 
 **Próba:** dobható
 

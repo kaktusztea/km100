@@ -1,4 +1,4 @@
-#### 🔵Hadászat
+#### 🔵 Hadászat
 
 Ez egy [Primer képzettség](../016_primer_szekunder_ismeretek.md).
 
@@ -16,7 +16,5 @@ Reguláris haderővel kapcsolatos ismeretek. Stratégiai tervezés, logisztika, 
 - [Taktika Nehézlovas](../hatterek.szabad/taktika_nehezlovas.md)
 - [Taktika: Testőrség](../hatterek.szabad/taktika_testorseg.md)
 - [Taktika: Útonállás, rajtaütés](../hatterek.szabad/taktika_utonallas_rajtautes.md)
-
-Egyet ingyen megkapsz, amint eléred a `3.szintet` a képzettségben.
 
 <br />

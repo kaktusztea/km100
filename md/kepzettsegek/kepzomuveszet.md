@@ -1,4 +1,4 @@
-#### 🔵Képzőművészet
+#### 🔵 Képzőművészet
 
 **Próba:** dobható
 
@@ -12,7 +12,7 @@
 - [Kalligráfia](../hatterek.szabad/kalligrafia.md)
 - [Szobrászat](../hatterek.szabad/szobraszat.md)
 
-**Leírás**: Aktív, alkotó művész vagy. A fenti művészetek listájából a képzettség felvételekor `1 db` választott Szabad-Hátteret ingyen megkapsz, a többit [Szabad Háttérként](../023_szabad_hatterek.md) veheted fel.
+**Leírás**: Aktív, alkotó művész vagy. A fenti [Szabad Háttér](../023_szabad_hatterek.md) listából [Szabad Pontok](../017_02_szp.md) költésével vehetsz fel művészeti ágakat.
 
 <br />
 
