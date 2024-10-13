@@ -34,3 +34,7 @@ Emberismeret képzettség
   + Önuralom Tulajdonság
   -3 (ha nincs Csábítás Szabad Háttér)
 ```
+
+---
+
+⚜️ [Nyitóoldal](start.md)

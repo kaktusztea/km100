@@ -75,3 +75,7 @@ Alább 1-2 szavas jelzőket találsz, amelyek további szinesítő elemeket adha
 - "Kapcsolat:"
 - "Lekötelezettje neki/nekik:"
 - "Párkapcsolatban vele:"
+
+---
+
+⚜️ [Nyitóoldal](start.md)

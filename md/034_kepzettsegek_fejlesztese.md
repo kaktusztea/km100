@@ -73,3 +73,6 @@ Ha van egy képzettségpróba, amelynek ismeret területe a KM szerint ezen kép
 
 Ilyenkor a Fortély megléte nem követelmény, viszont valamilyen statikus bónuszt ad az adott képzettségre.
 
+---
+
+⚜️ [Nyitóoldal](start.md)

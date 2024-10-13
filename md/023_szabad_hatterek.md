@@ -66,3 +66,7 @@ Van, hogy egy háttér több képzettséget is kiterjeszt.
 - [Zenélés: ütős hangszerek](hatterek.szabad/zeneles_utos_hangszerek.md)
 - [Zeneszerző](hatterek.szabad/zeneszerzo.md)
 - [Zsonglőrködés](hatterek.szabad/zsonglorkodes.md)
+
+---
+
+⚜️ [Nyitóoldal](start.md)

@@ -30,3 +30,7 @@ Irányelvek karakter szintekre:
 `21.szint:` Érák formálója.
 
 A szintlépés számszerű hatásait lásd a [Karakteralkotó Pontok (KP)](017_01_kp.md) fejezetben.
+
+---
+
+⚜️ [Nyitóoldal](start.md)

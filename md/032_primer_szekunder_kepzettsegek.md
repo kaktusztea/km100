@@ -9,3 +9,7 @@ Ennek oka - nem titkoltan - a színesebb karakterek megalkotásának célja. Nag
 Primer alá tartozik minden harci, misztikus, szakrális és mágikus képzettség, valamint számos világi képzettség is.
 
 Ezek pontos listáját lásd a [Képzettséglista](031_kepzettseglista.md) oldalon. Jelölése: 🅿️.
+
+---
+
+⚜️ [Nyitóoldal](start.md)

@@ -1,4 +1,5 @@
 ## Előnyös és hátrányos helyzet
+
 ```
 "Kiskocka": k100-on a két k10-es kocka közül a kisebbik értéket dobott.
 Például 58 → kiskocka: 5

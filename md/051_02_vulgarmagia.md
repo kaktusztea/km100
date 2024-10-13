@@ -1,7 +1,5 @@
 ## Vulgármágia tradíció / Vulgár Metamágia arkánum
 
-⚜️ [Nyitóoldal](start.md)
-
  → [STUDY fejlesztő oldal](https://github.com/kaktusztea/km100/wiki/STUDY.magiatradicio.vulgarmagia)
 
 <br />
@@ -52,3 +50,7 @@ Most lássuk a **Vulgármágia Tradíció** egyes szintjeihez rendelt jellemzők
 A haladóbb formulák leírását alább.
 
 ⭕TODO⭕
+
+---
+
+⚜️ [Nyitóoldal](start.md)

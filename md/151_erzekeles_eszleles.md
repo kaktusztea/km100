@@ -1,7 +1,5 @@
 ## Érzékelés, Észlelés
 
-⚜️ [Nyitóoldal](start.md)
-
 → [TODO/ISSUE Érzékelés/Észlelés](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.erzekeles.eszleles)
 
 ### Tág értelmezés
@@ -75,3 +73,7 @@ Sima próbadobás adott nehézségre, melyet a KM határoz meg.
 
 - Ha az észlelés passzív: alap nehézség ellen dob
 - Ha az észlelés aktív: egy kategóriával (`-3`) csökken a nehézség
+
+---
+
+⚜️ [Nyitóoldal](start.md)

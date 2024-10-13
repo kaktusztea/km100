@@ -53,3 +53,7 @@
 - [Lövés reflexből](fortelyok.tavharc/loves_reflexbol.md)
 - [Mozgó cél mestere](fortelyok.tavharc/mozgo_cel_mestere.md)
 - [Távoli lövés](fortelyok.tavharc/tavoli_loves.md)
+
+---
+
+⚜️ [Nyitóoldal](start.md)

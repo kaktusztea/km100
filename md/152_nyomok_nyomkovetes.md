@@ -48,3 +48,7 @@ Például titkos iratok átböngészése. Egy felfedezett ősi címer elemzése.
   - [Jogismeret](hatterek.szabad/jogismeret.md)
   - [Pénzügyek](hatterek.szabad/penzugyek.md)
   - [Rejtjelfejtő](hatterek.szabad/rejtjelfejto.md)  (ennél használható a [Tudományok](kepzettsegek/tudomanyok.md)) képzettség is
+
+---
+
+⚜️ [Nyitóoldal](start.md)

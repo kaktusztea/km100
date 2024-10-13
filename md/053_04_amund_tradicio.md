@@ -1,7 +1,5 @@
 ## Amund Tradíció
 
-⚜️ [Nyitóoldal](start.md)
-
 ```
 - Asztrálmágia == Amund tradíció szintje
 - Papi mágia == Amund tradíció szintje
@@ -25,3 +23,7 @@ Előnye, hogy például a Manaszipoly Metamágia formula nem használható rá, 
 Az amund karakternek - amennyiben papi mágiatudó szeretne lenni - minimum `6.` szintre kell növelni a Amund Tradíció képzettségét, amely megfeleltethető a Papi mágia tradíciónak.
 
 Továbbá minden Szférát rendesen tanulnia kell. A két képesség nem kombinálható!
+
+---
+
+⚜️ [Nyitóoldal](start.md)

@@ -1,6 +1,6 @@
 ## Aura, Mágia Átütése, Mágiaellenállás
 
-⚜️ [Nyitóoldal](start.md)  -   [STUDY oldal](https://github.com/kaktusztea/km100/wiki/STUDY.magia.Aura) 
+[STUDY oldal](https://github.com/kaktusztea/km100/wiki/STUDY.magia.Aura) 
 
 ### Aura értéke, jellemzői
 
@@ -182,3 +182,7 @@ Ekkor a támadó vs Védő állás így néz ki:
 A nemesembernek szerencséje volt. Nem tudhatta, mekkora lesz ellenfele Mágiájának Akarata, de jól taktikázott és a kockázatot is megfelelő mederben tartotta. Megpróbálhatott volna `+20` AuraErőre dobni, de mivel annak Nehézség `15`, így annak megdobására csak 20% esélye lett volna (`6 + k10  vs 15`).
 
 A mágiatudó csalódottan horkant fel, mágiája csődöt mondott.
+
+---
+
+⚜️ [Nyitóoldal](start.md)

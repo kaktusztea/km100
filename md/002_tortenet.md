@@ -113,3 +113,5 @@ Release lista: [km100 releases](https://github.com/kaktusztea/km100/releases)
 ---
 
 🔗 [Áttekintés](003_attekintes.md) →
+
+⚜️ [Nyitóoldal](start.md)

@@ -1,4 +1,5 @@
 ### Gyógyulás
+
 ```
 1 ÉP / nap
 1 KT / óra

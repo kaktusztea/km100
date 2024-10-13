@@ -1,6 +1,6 @@
 # Képzettségrendszer
 
-⚜️ [Nyitóoldal](start.md) &nbsp;&nbsp;&nbsp; → [TODO/ISSUE képzettségrendszer](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.kepzettsegek)
+→ [TODO/ISSUE képzettségrendszer](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.kepzettsegek)
 
 - [Képzettséglista](031_kepzettseglista.md)
 - [Primer és Szekunder képzettségek](032_primer_szekunder_kepzettsegek.md)
@@ -11,3 +11,7 @@
 
 
 Mikor a játékos megalkotja karakterét, amellyel Ynev világán kalandozni fog, meghatározza azokat az ismereteket, jártasságokat, amelyeket - az addigi élete során - elsajátított. A **km100** rendszere a fentieket a Képzettségek, Fortélyok és Hátterek tanulásával szimulálja. Ebben a fejezetben a Képzettségekkel fogunk foglalkozni.
+
+---
+
+⚜️ [Nyitóoldal](start.md)

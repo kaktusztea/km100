@@ -1,7 +1,5 @@
 ## Magasmágia tradíció / Metamágia arkánum
 
-⚜️ [Nyitóoldal](start.md)
-
 → [STUDY fejlesztő oldal](https://github.com/kaktusztea/km100/wiki/STUDY.magiatradicio.magasmagia)
 
 <br />
@@ -52,3 +50,7 @@ Most lássuk a **Magasmágia Tradíció** egyes szintjeihez rendelt jellemzőket
 A haladóbb formulák leírását alább.
 
 → [STUDY: Metamágia](https://github.com/kaktusztea/km100/wiki/STUDY.magia.metamagia)
+
+---
+
+⚜️ [Nyitóoldal](start.md)

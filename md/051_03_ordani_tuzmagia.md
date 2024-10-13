@@ -1,7 +1,5 @@
 ## Ordani tűzmágia tradíció / Tűz Metamágia arkánum
 
-⚜️ [Nyitóoldal](start.md)
-
 → [STUDY fejlesztő oldal](https://github.com/kaktusztea/km100/wiki/STUDY.magiatradicio.tuzmagia)
 
 <br />
@@ -52,3 +50,7 @@ Most lássuk a **Tűzmágia Tradíció** egyes szintjeihez rendelt jellemzőket:
 A haladóbb formulák leírását alább.
 
 ⭕TODO⭕
+
+---
+
+⚜️ [Nyitóoldal](start.md)

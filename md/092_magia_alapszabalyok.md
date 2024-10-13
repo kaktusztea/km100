@@ -1,6 +1,6 @@
 ## Mágia alapszabályok
 
-⚜️ [Nyitóoldal](start.md) -  [STUDY oldal](https://github.com/kaktusztea/km100/wiki/STUDY.magia.alapszabalyok) 
+[STUDY oldal](https://github.com/kaktusztea/km100/wiki/STUDY.magia.alapszabalyok) 
 
 ## Mágia alapszabályok
 
@@ -218,3 +218,6 @@ A Támadások (Varázslások) száma is bejátszik. A nagyobb Erejű varázslato
 
 ⭕Ugyanannyi legyen, mint At-Will-nél.⭕
 
+---
+
+⚜️ [Nyitóoldal](start.md)

@@ -19,3 +19,7 @@ A `HM` a [Támadó Érték](062_01_ke_te_ve_ce.md#támadó-érték) (`TÉ`), és
 ## HM korlát
 
 Szintenként `TÉ`-re vagy `VÉ`-re **legfeljebb** `3`-al több `HM`-et lehet költeni, mint a másikra!
+
+---
+
+⚜️ [Nyitóoldal](start.md)
