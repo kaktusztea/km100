@@ -79,4 +79,4 @@ Szubjektív lista, hogy mely alrendszerek adják a `km100`  "egyedi DNS"-ét (le
 
 ---
 
-🔗 [Szimbólumok, Jelzők](004_jelzok.md) →
+🔗 [Szimbólumok, Jelzők](005_jelzok.md) →
