@@ -8,4 +8,4 @@ Mielőtt belevágunk a szabályok ismertetésébe, orientálódjunk egy kicsit. 
 - [Történet](002_tortenet.md)
 - [Áttekintés](003_attekintes.md)
 - [km100 alrendszerei](004_alrendszerek.md)
-- [Szimbólumok, Jelzők](005_jelzok.md)
+- [Szimbólumok, Jelzők](005_szimbolumok_jelzok.md)
