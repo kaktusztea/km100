@@ -11,4 +11,5 @@ Kiemelt fejezet az [Érzékelés, Észlelés](151_erzekeles_eszleles.md), ami ta
 Alább a dokumentumban előforduló, segítő szimbólumok magyarázatát találod. Utána pedig belevágunk a [Karakteralkotás](010_karakteralkotas.md) mélységeibe. Kalandra fel!
 
 ---
+
 🔗 [km100 alrendszerei](004_alrendszerek.md) →
