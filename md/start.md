@@ -32,9 +32,10 @@
 
 ### 0. [Kezdetek](000_kezdetek.md)
 
-- [Bevezető](001_bevezeto.md)
-- [km100 alrendszerei](002_alrendszerek.md)
-- [Szimbólumok, Jelzők](003_jelzok.md)
+- [Alapelvek](001_alapelvek.md)
+- [Áttekintés](002_attekintes.md)
+- [km100 alrendszerei](003_alrendszerek.md)
+- [Szimbólumok, Jelzők](004_jelzok.md)
 
 ---
 ### 1. [Karakteralkotás](010_karakteralkotas.md)

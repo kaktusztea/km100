@@ -1,8 +1,6 @@
-## Bevezető
+## Áttekintés
 
 ⚜️ [Nyitóoldal](start.md)
-
-Üdvözlünk a km100 szerepjáték rendszer oldalain! Hadd adjunk egy rövid áttekintést, miről is olvashatsz a következő fejezetekben!
 
 Elsőnek segítünk megalkotni a játékban megszemélyesített szereplődet a [Karakteralkotás](010_karakteralkotas.md) fejezetben, akivel más hősökkel együtt, csapatban, számos veszélyes helyzettel dacolhattok, élhettek át misztikus kalandokat. Az ilyen szituációkban előkerülnek a kardok, a páncélok és a taktikázás. A [Harcrendszer](060_00_harcrendszer.md) fejezetben az ilyen pusztakezes, vagy távolsági hadakozás szabályait taglaljuk.
 
@@ -13,4 +11,4 @@ Kiemelt fejezet az [Érzékelés, Észlelés](151_erzekeles_eszleles.md), ami ta
 Alább a dokumentumban előforduló, segítő szimbólumok magyarázatát találod. Utána pedig belevágunk a [Karakteralkotás](010_karakteralkotas.md) mélységeibe. Kalandra fel!
 
 ---
-🔗 [km100 alrendszerei](002_alrendszerek.md) →
+🔗 [km100 alrendszerei](003_alrendszerek.md) →
