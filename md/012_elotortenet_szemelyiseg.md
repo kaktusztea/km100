@@ -17,3 +17,7 @@ Mennyire kommunikatív, mekkora hatása van az emberekre, visszahúzódó-e, stb
 Mennyire gazdag érzelmileg? Az **Önuralom**, **Érzékenység** **Tulajdonságok** ehhez csak támpontot, vázat adnak.
 
 Az imént felsorolt jellemzők egy részét csokorba szedtük és "ingyenes", úgynevezett [Leíró Hátterekként](024_leiro_hatterek.md) felvehetőek, hogy tovább szinesítsék a karaktert. Ezek a KM és a játékos egyeztetése után (részben) szabadon bővíthetőek.
+
+---
+
+⚜️ [Nyitóoldal](start.md)

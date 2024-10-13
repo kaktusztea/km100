@@ -115,3 +115,6 @@ Ez a teremtés és mágia szférája.
   - Árnyékra ható mágia
   - Lélekmágia (véletlenmágia) (CX)
 
+---
+
+⚜️ [Nyitóoldal](start.md)

@@ -13,3 +13,5 @@ Alább a dokumentumban előforduló, segítő szimbólumok magyarázatát talál
 ---
 
 🔗 [km100 alrendszerei](004_alrendszerek.md) →
+
+⚜️ [Nyitóoldal](start.md)

@@ -30,3 +30,7 @@
 - [Rituális/Tánc mágia](fortelyok.magia.modszerek/ritualis_tanc.md) 🔺
 - [Szexuálmágia](fortelyok.magia.modszerek/szexualmagia.md)
 - [Szimpatikus mágia](fortelyok.magia.modszerek/szimpatikus_magia.md)
+
+---
+
+⚜️ [Nyitóoldal](start.md)

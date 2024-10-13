@@ -285,3 +285,5 @@ Ajánlott képzettségek: -
 <br />
 
 ---
+
+⚜️ [Nyitóoldal](start.md)

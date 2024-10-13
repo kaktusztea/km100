@@ -14,3 +14,7 @@
 ### Szekunder ismeretek
 
 Minden más ismeret, ami nem Primer, viszont Karakteralkotó Pontba (KP) kerül.
+
+---
+
+⚜️ [Nyitóoldal](start.md)

@@ -1,6 +1,6 @@
 # Papi Mágia Tradíció
 
-⚜️ [Nyitóoldal](start.md)  -  [STUDY oldal](https://github.com/kaktusztea/km100/wiki/STUDY.magiatradicio.papimagia) 
+[STUDY oldal](https://github.com/kaktusztea/km100/wiki/STUDY.magiatradicio.papimagia) 
 
 ---
 
@@ -8,3 +8,6 @@
 - [Papi mágia alapszabályai](102_papi.magia.alapszabalyok.md)
 - [Papi varázslatok](103_papi.varazslatok.md)
 
+---
+
+⚜️ [Nyitóoldal](start.md)

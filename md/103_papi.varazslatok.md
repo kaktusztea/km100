@@ -1,7 +1,5 @@
 ## Papi varázslatok
 
-⚜️ [Nyitóoldal](start.md)
-
 Itt találhatjuk az összes, a rendszerben játszható pap varázslatainak lsitáját. A Harci varázslatokat 🗡️ szimbólummal jelöltük.
 
 ### Általános pap varázslatok
@@ -53,3 +51,7 @@ Itt találhatjuk az összes, a rendszerben játszható pap varázslatainak lsit�
 ### Sogron pap varázslatai
 
 - [Gyógyító tűz](magia.papi.varazslatok/gyogyito_tuz.md) 🔺
+
+---
+
+⚜️ [Nyitóoldal](start.md)

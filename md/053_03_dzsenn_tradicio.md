@@ -1,7 +1,5 @@
 ## Dzsenn Tradíció
 
-⚜️ [Nyitóoldal](start.md)
-
 Ez egy [Primer](016_primer_szekunder_ismeretek.md) képzettség.
 
 ### Követelmények
@@ -38,3 +36,7 @@ Dzsenn tradíció szintek (biztos tudás (⭕vagy próba legyen?)):
 - 15.szint - max minden emlék végleges törlése, nem térnek vissza soha
 
 ⭕TODO: átnézni⭕
+
+---
+
+⚜️ [Nyitóoldal](start.md)

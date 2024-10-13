@@ -257,3 +257,7 @@ Egy helyen rögzített „lengő” anyagok könnyen megfoghatják az íjász l�
 | Shadoni páncéltörő | kétkezes       |    `+20`     |      Z       |  `20`  | `0` | `+0`  |  `4`  | `120m`  |    -     | Újratöltés: 1 emberrel: `3` kör, 2 emberrel: `1` kör            |
 | Kharei nyílpuska   | kétkezes       |     `+3`     |      S       |  `0`   | `5` | `+14` |  `4`  |  `50m`  |   `5`    | \* Míg ki nem fogy a tár. Újratöltés: `1` kör                   |
 | Aquir nyílpuska    | egykezes       | `halál / +6` |      S       |  `20`  | `8` | `+16` |  `4`  |  `50m`  |   `6`    | - Halálos hatása és harcértékei csak aquir kézben érvényesülnek |
+
+---
+
+⚜️ [Nyitóoldal](start.md)

@@ -5,3 +5,7 @@ A [Manőverek](065_00_manoverek.md) (mint pl.  Lábsöprés, Lefegyverzés, Átd
 A **Manőver Pontokat** a Manőverek [Ellenpróba](065_04_manover_vegbevitele.md#ellenpróba-e) fázisánál használhatjuk fel játék közben - opcionálisan.
 
 Leírásukat lásd a [Manőver - Manőver Pontok](065_02_manover_pontok.md) fejezetében.
+
+---
+
+⚜️ [Nyitóoldal](start.md)

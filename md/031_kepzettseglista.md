@@ -221,3 +221,7 @@ Az aktív előadást igénylő művészeteket szeparáltuk az **Előadóművész
 🔵 [Chi Harc - Kiáltás](kepzettsegek.slan/chi_harc_kialtas.md)
 
 🔵 [Chi Harc - Harcmeditáció](kepzettsegek.slan/chi_harc_harcmeditacio.md)
+
+---
+
+⚜️ [Nyitóoldal](start.md)

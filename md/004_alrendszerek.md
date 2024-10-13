@@ -80,3 +80,5 @@ Szubjektív lista, hogy mely alrendszerek adják a `km100`  "egyedi DNS"-ét (le
 ---
 
 🔗 [Szimbólumok, Jelzők](005_szimbolumok_jelzok.md) →
+
+⚜️ [Nyitóoldal](start.md)

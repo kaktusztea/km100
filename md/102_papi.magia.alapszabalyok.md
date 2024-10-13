@@ -79,3 +79,7 @@ A Kegy pontokat a varázslatok **Átütésének** egyszeri erősítésére lehet
 ### Papi mágia kísérőjelenségei
 
 Általánosságban elmondható, hogy minél magasabb a varázslat Erőssége (Kisszféra), annál erősebben jelenik meg random kísérőjelenség, amely a varázslat jellegétől, a pap egyházának szimbólumaitól, illetve a pap hangulatától, jellemétől is függhet. Ebben a KM és a játékos teljes szabad kezet kapnak, de tartsák észben, hogy ezek csak szinesítő hatások, nem okozhatnak konkrét előnyöket, hátrányokat. A fentiek lehetnek fény és hangjelenségek, látványos hatás növényekre, állatokra és így tovább.
+
+---
+
+⚜️ [Nyitóoldal](start.md)

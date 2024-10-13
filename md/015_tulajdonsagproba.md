@@ -77,3 +77,7 @@ Ha két karakternek össze kell mérnie tudását egy konkrét Tulajdonsággal k
 Mindkét játékos dob (NJK esetén természetesen a KM) `k6`-tal, és az eredményt hozzáadja az adott Tulajdonságának értékéhez. Aki nagyobb számot kap eredményül, az nyer. Ha az eredmények azonosak, akkor patthelyzet alakul ki, a KM belátása szerint (esetleg némi idő elteltével) új ellenpróba dobható. Ha az adott szituációban nem lehetséges patthelyzet, akkor újra kell dobni `k6`-tal (ekkor már nem kell hozzáadni a Tulajdonság értékét) és a nagyobb szám nyer.
 
 A fentiek alól kivételt képez az `Erő-ellenpróba`. Ott dobás nélkül mindig a nagyobb `Erő` Tulajdonsággal rendelkező karakter nyer.
+
+---
+
+⚜️ [Nyitóoldal](start.md)

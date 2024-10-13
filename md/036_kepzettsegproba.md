@@ -159,3 +159,7 @@ Ha megsérül a karakter, képzettségpróbáira levonások járnak. Hogy mennyi
 | ---- | :----: | :----: | :----: | :----: |
 | **fizikai** | -  | -2 | -4 | -6 |
 | **egyéb**   | -  | -  | -1 | -3 |
+
+---
+
+⚜️ [Nyitóoldal](start.md)

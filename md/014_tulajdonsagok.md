@@ -292,3 +292,7 @@ a külső hatásokat meg se próbálja értelmezni. Nem indítja meg semmi, legf
 `+3/+4:` „A vesédbe lát" -- mondogatják, és valóban. Mindig ráérez a „lékkörre", érdemes hallgatnia az ösztöneire. Kiváló mágiatudó, emberismerő válhat belőle. Kifinomult érzékekkel rendelkezik.
 
 `+5:` Az ilyen emberek minden apró rezdülést érzékelnek, külső hangulatok iránt rendkívül fogékonyak. Remek emberismerő, vagy nagy művész válhat belőlük. Általában érzelemgazdag emberek, de van, akinél „mindössze" fantasztikus adottság, mélyebb érzelmek nélkül. Az ilyenekből lesznek a kiváló diplomaták, rettegett boszorkányok. Érzékei végtelenül kifinomultak.
+
+---
+
+⚜️ [Nyitóoldal](start.md)

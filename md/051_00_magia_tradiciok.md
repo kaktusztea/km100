@@ -1,7 +1,5 @@
 ## Mágia Tradíciók
 
-⚜️ [Nyitóoldal](start.md)
-
 → [STUDY: Tradíciók](https://github.com/kaktusztea/km100/wiki/STUDY.tradiciok)
 
   - [Magasmágia (mozaikmágia)](051_01_magasmagia.md)
@@ -37,3 +35,7 @@ Minden Tradíció szintjeinek lehetnek követelményei, amelyek biztosítják, h
 ### Írástudó fortély extra
 
 Ha egy karakter tiszta Mágikus vagy Papi Tradíciót tanul, akkor automatikusan, ingyen megkapja az [Írástudó](fortelyok.altalanos/irastudo.md) fortélyt.
+
+---
+
+⚜️ [Nyitóoldal](start.md)

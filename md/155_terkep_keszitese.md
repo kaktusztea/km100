@@ -5,3 +5,7 @@
 **Követelmény**: [Helyismeret](hatterek.kiemelt/helyismeret.md) - adott városnyi terület
 
 **Kiterjeszti**: [Térképészet](hatterek.szabad/terkepeszet.md) Szabad Háttér (nélküle `-3` levonás)
+
+---
+
+⚜️ [Nyitóoldal](start.md)

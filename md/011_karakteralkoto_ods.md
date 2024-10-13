@@ -14,3 +14,7 @@ A felületen a halványsárgával jelölt mezők módosíthatóak, minden mást 
 Egyes kiemelt - főleg harci - képzettségek és fortélyok követelményeit ellenőrzi a program - ezek alapból szerepelnek is már a felületen, de ami nincs beírva, azok követelményeit egyelőre magunknak kell végeznünk.
 
 A KP költések, HM limit, Harcmodorok, Kétkezes Harc, Mesterfegyver bónuszai, Páncélok értékei, ÉP táblázat számai, stb. mind automatikusan kerülnek kiszámításra.
+
+---
+
+⚜️ [Nyitóoldal](start.md)

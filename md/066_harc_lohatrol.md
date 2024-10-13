@@ -1,3 +1,5 @@
+## Harc lóhátról
+
 → Nyitott kérdések a [STUDY oldalán](https://github.com/kaktusztea/km100/wiki/STUDY.lovasharc).
 
 ## Harc lóhátról, hátas Fortélyok és Manőverek
@@ -103,3 +105,7 @@ Lovaddal vadul forgolódsz, a hátas ki-kirúg ide-oda, borzasztó nehéz közel
 ## Léglovas manőverek
 
 ⭕TODO: kidolgozni⭕
+
+---
+
+⚜️ [Nyitóoldal](start.md)

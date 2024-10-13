@@ -38,3 +38,7 @@ A szabályrendszer dokumentumaiban speciális unicode karaktereket használunk j
 👀 [FIGYELT ELEM](https://github.com/kaktusztea/km100/wiki/FIGYELT-ELEMEK): a megjelölt részt figyelni kell egyensúly szempontból.
 
 🚧 Fejlesztése folyamatban
+
+---
+
+⚜️ [Nyitóoldal](start.md)

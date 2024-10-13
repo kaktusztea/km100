@@ -147,3 +147,6 @@ Az apró, kis hatású varázslatokat ingyen, vagy 1-2 Manáért tudja alkalmazn
 ⭕• `6-os` Erősség felett a `1 szint` növekedés `2 szintnek` számít
 ⭕• Nem képes Rituális mágiák alkalmazására⭕
 
+---
+
+⚜️ [Nyitóoldal](start.md)

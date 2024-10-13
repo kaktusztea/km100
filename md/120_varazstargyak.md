@@ -1,7 +1,5 @@
 # Varázstárgyak
 
-⚜️ [Nyitóoldal](start.md)
-
 → [STUDY: Varázstárgyak](https://github.com/kaktusztea/km100/wiki/STUDY.varazstargyak)
 
 A varázstárgyakat három kategóriára bonthatjuk:
@@ -22,3 +20,7 @@ xyz
 ## Szellem által megszállt tárgyak
 
 xyz2
+
+---
+
+⚜️ [Nyitóoldal](start.md)

@@ -1,7 +1,5 @@
 # Távolsági harcrendszer
 
-⚜️ [Nyitóoldal](start.md)
-
 → [TODO/ISSUE távharc](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.tavharc)
 
 A távolsági lő- és hajítófegyverekkel végzett harc során az alábbi **Harcmodor képzettségek** vesznek részt a támadó oldalán:\
@@ -49,3 +47,7 @@ A fent említett jellemzők hatásait a `CÉ` és `VÉ` értékekre az alábbi f
 
 - [Példalövészet](075_tavharc_peldak.md)
 - [Távharc sötétben](076_tavharc_sotetben.md)
+
+---
+
+⚜️ [Nyitóoldal](start.md)

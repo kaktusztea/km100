@@ -131,3 +131,6 @@ Tudatalatti: mély félelmek, vágyak, rejtett gondolatok
 - halál: az alkalmazó maradék életerejét mágiává formázza
 - születés: gyógyítás könnyebb
 
+---
+
+⚜️ [Nyitóoldal](start.md)

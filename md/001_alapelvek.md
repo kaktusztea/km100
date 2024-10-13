@@ -6,3 +6,5 @@
 ---
 
 🔗 [Történet](002_tortenet.md) →
+
+⚜️ [Nyitóoldal](start.md)

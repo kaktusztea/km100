@@ -1,6 +1,6 @@
 # Szituációk
 
-⚜️ [Nyitóoldal](start.md)  - [TODO/ISSUE szituációk](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.szituaciok)
+[TODO/ISSUE szituációk](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.szituaciok)
 
 TODO: Bevezető
 
@@ -9,3 +9,7 @@ TODO: Bevezető
 - [Menekülés, üldözés, futás](153_menekules_uldozes_futas.md)
 - [Befolyásolás vs Emberismeret](154_befolyasolas_emberismeret.md)
 - [Térkép készítése](155_terkep_keszitese.md)
+
+---
+
+⚜️ [Nyitóoldal](start.md)
