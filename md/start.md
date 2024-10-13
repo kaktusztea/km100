@@ -30,8 +30,13 @@
 <br />
 ⚜️ ⚜️ ⚜️
 
-### 0. [Bevezető, jelzők](000_bevezeto.md)
+### 0. [Kezdetek](000_kezdetek.md)
 
+- [Bevezető](001_bevezeto.md)
+- [km100 alrendszerei](002_alrendszerek.md)
+- [Szimbólumok, Jelzők](003_jelzok.md)
+
+---
 ### 1. [Karakteralkotás](010_karakteralkotas.md)
 
 - [Karakteralkotó ods](011_karakteralkoto_ods.md)
