@@ -4,7 +4,7 @@
 
 Kezdetek: D20 MAGUS (nagy fehér) szabálykönyvre írt egyedi háziszabályokkal kezdődött.
 
-Pár szellős oldal: [2005-05-31_haziszabalyok_0v2.pdf](https://github.com/kaktusztea/km100/raw/master/archive/history/2005-05-31_haziszabalyok_0v2.pdf?raw=true)
+Első dokumentum: [2005-05-31_haziszabalyok_0v2.pdf](https://github.com/kaktusztea/km100/raw/master/archive/history/2005-05-31_haziszabalyok_0v2.pdf?raw=true)
 
 <br />
 
@@ -24,9 +24,10 @@ Egy bő hónap alatt megvolt a VÉ csökkentés, a sebesülés kategóriák és 
 <br />
 
 ### 2006.05.09
-Idáig ment privát doksiban és email útján, utána levlista.
 
-[2006-05-09 km20_0v3.0.1.pdf](https://github.com/kaktusztea/km100/raw/master/archive/history/2006-05-09_km20_0v3.0.1.pdf?raw=true)
+Eddig folyt privát dokumentumokban és email útján a fejlesztés.
+
+Az utolsó ilyen dokumentum: [2006-05-09 km20_0v3.0.1.pdf](https://github.com/kaktusztea/km100/raw/master/archive/history/2006-05-09_km20_0v3.0.1.pdf?raw=true)
 
 <br />
 
@@ -38,8 +39,8 @@ Ebben a hónapban indult el a [km100 Google Groups](https://groups.google.com/g/
   - Hagyományos kasztrendszer megmarad
   - Tulajdonságok és az elosztási rendszer kész
   - Képzettségrendszer majdnem kész
-  - Harcrendszer: hiányos, k20-ra lett kidolgozva de valószínűleg maradunk a k100-nál
-  - Nagyjából kész a Manőverek és a Távolsági harc fejezet, csak át kéne írni k100-ra
+  - Harcrendszer: hiányos, k20-ra lett kidolgozva de át fogunk állni k100-ra
+  - Nagyjából kész a Manőverek és a Távolsági harc fejezet
   - Fortélyok vannak, de hiányosak
   - Kaszt fortélyok vannak, de hiányosak
   - Pszi: ötlet szinten
@@ -53,9 +54,14 @@ Az első nagy fejlesztési korszak vége❗
 
 🔆 **összesen: 3 év, 3 hónap** 🔆
 
-[2009-02-22_km100_develop.zip](https://github.com/kaktusztea/km100/raw/master/archive/history/2009-02-22_km100_develop.zip?raw=true)
+A dokumentumok utolsó állapota ekkor: [2009-02-22_km100_develop.zip](https://github.com/kaktusztea/km100/raw/master/archive/history/2009-02-22_km100_develop.zip?raw=true)
 
 Eddig tartott az aktív fejlesztés. Ekkor már elég fix állapotban voltak a rendszer alapjai. Később ennek az átdolgozása, finomítása történik, a fundamentumok nem változnak nagyon.
+
+**Változások a korábbi állapothoz képest:**
+- Nincsenek kasztok
+- Képzettségrendszer kész
+- Harcrendszer k100 alapú 
 
 <br />
 
@@ -72,13 +78,15 @@ Eddig tartott az aktív fejlesztés. Ekkor már elég fix állapotban voltak a r
 
 `km100` nagy migrálás kezdete
 - odt dokumentumok konvertálása manuálisan markdown formátumba és a `km100` Github repository-ba letárolva
-- ötletek, TODO, ISSUE elemek csoportosítása, felvitele a wikire
+- ötletek, TODO, ISSUE elemek csoportosítása, felvitele a [fejlesztői wikire](https://github.com/kaktusztea/km100/wiki)
 
 <br />
 
 ### 2023.12.17
 
-NAGY ODT, TXT, külső jegyzet állományok → MARKDOWN MIGRÁLÁS VÉGE
+NAGY ODT, TXT, külső jegyzet állományok → MARKDOWN MIGRÁLÁS VÉGE.
+
+Régi állományok [archiválva](https://github.com/kaktusztea/km100/tree/master/archive).
 
 <br />
 
