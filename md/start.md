@@ -21,7 +21,7 @@
 ---
 ## Részletes szabályrendszer
 
-[Bevezető](#0-bevezet%C5%91-jelz%C5%91k) &nbsp;-&nbsp; [Karakteralkotás](#1-karakteralkot%C3%A1s)\
+[Kezdetek](#0-kezdetek) &nbsp;-&nbsp; [Karakteralkotás](#1-karakteralkot%C3%A1s)\
 [Hátterek](#2-h%C3%A1tterek)  &nbsp;-&nbsp; [Képzettségrendszer](#3-k%C3%A9pzetts%C3%A9grendszer) &nbsp;-&nbsp; [Fortélyok](#4-fort%C3%A9lyok) &nbsp;-&nbsp; [Tradíciók](#5-trad%C3%ADci%C3%B3k)\
 [Harcrendszer](#6-harcrendszer-%EF%B8%8F) &nbsp;-&nbsp; [Távolsági Harcrendszer](#7-t%C3%A1vols%C3%A1gi-harcrendszer-)\
 [Pszí](#8-psz%C3%AD) &nbsp;-&nbsp; [Mágiarendszer](#9-m%C3%A1giarendszer) &nbsp;-&nbsp; [Papi mágia](#10-papi-m%C3%A1gia-10-) &nbsp;-&nbsp; [Varázstárgyak](#12-var%C3%A1zst%C3%A1rgyak--10-)\
