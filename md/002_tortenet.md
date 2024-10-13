@@ -76,15 +76,15 @@ Eddig tartott az aktív fejlesztés. Ekkor már elég fix állapotban voltak a r
 ---
 ### 2022.07.18
 
-`km100` nagy migrálás kezdete
-- odt dokumentumok konvertálása manuálisan markdown formátumba és a `km100` Github repository-ba letárolva
+`km100` dokumentumok migrálásának kezdete
+- odt dokumentumok konvertálása manuálisan markdown formátumba és a `km100` Github repository alá letárolva
 - ötletek, TODO, ISSUE elemek csoportosítása, felvitele a [fejlesztői wikire](https://github.com/kaktusztea/km100/wiki)
 
 <br />
 
 ### 2023.12.17
 
-NAGY ODT, TXT, külső jegyzet állományok → MARKDOWN MIGRÁLÁS VÉGE.
+ODT, TXT, külső jegyzet állományok → MARKDOWN MIGRÁLÁS VÉGE.
 
 Régi állományok [archiválva](https://github.com/kaktusztea/km100/tree/master/archive).
 
