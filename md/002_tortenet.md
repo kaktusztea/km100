@@ -1,7 +1,10 @@
 ## A km100 rendszer fejlesztésének főbb időpontjai
 
 ### 2005.05.31
-Kezdetek: d20 MAGUS (nagy fehér) szabálykönyvre írt egyedi háziszabályokkal kezdődött. Pár szellős oldal: [2005-05-31_haziszabalyok_0v2.pdf](https://github.com/kaktusztea/km100/raw/master/archive/history/2005-05-31_haziszabalyok_0v2.pdf?raw=true)
+
+Kezdetek: D20 MAGUS (nagy fehér) szabálykönyvre írt egyedi háziszabályokkal kezdődött.
+
+Pár szellős oldal: [2005-05-31_haziszabalyok_0v2.pdf](https://github.com/kaktusztea/km100/raw/master/archive/history/2005-05-31_haziszabalyok_0v2.pdf?raw=true)
 
 <br />
 
@@ -60,69 +63,22 @@ Eddig tartott az aktív fejlesztés. Ekkor már elég fix állapotban voltak a r
 
 <br />
 
-...  ⏸️  4,5 év szünet ⏸️  ...
+⏸️  13,5 év szünet ⏸️ 
 
 <br />
 
 ---
-### 2013.07 - 08
+### 2022.07.18
 
-Kis munka indult vele újra, de nem sokáig
-
-<br />
-
-...  ⏸️ 9 év szünet ⏸️  ...
-
-<br />
-
----
-### 2022.07.18❗
-
-❗`km100` nagy migrálás kezdete❗
+`km100` nagy migrálás kezdete
 - odt dokumentumok konvertálása manuálisan markdown formátumba és a `km100` Github repository-ba letárolva
 - ötletek, TODO, ISSUE elemek csoportosítása, felvitele a wikire
 
-### 2022.07.18
-
-Markdown könyvtárstruktúra létrehozva
-
 <br />
 
-... ⏸️ fél év szünet ⏸️ ...
+### 2023.12.17
 
-<br />
-
-### 2023.04. hónap
-
-Kis visszatérés, data, yaml generátor készítése
-
-<br />
-
-... ⏸️ 5 hónap szünet ⏸️ ...
-
-<br />
-
-### 2023.10
-
-MAGUS versenyre készülünk
-
-<br />
-
-### 2023.11.08
-
-Nagy visszatérés, folyamatos munka kezdete, munka odt to md konvertálás folytatása, az utolsó konvertálás részek elvégzése
-- `2023.11.17`: az új md könyvtárstruktúra lett az ÉLES anyag, az odt állományok pedig archive alá kerültek
-- `2023.11.21`: Minden TODO és ötlet töredék átmozgatva külső jegyzetekből TODO-markdownba a [km100.wiki](https://github.com/kaktusztea/km100/wiki) (work) repo oldalra
-- `2023.12.06`: [NYITOTT_prob_todo.odt](https://github.com/kaktusztea/km100/raw/master/archive/odt.work/done__NYITOTT_prob_todo.odt?raw=true): feldolgozva markdown formátumba, archiválva
--  `2023.12 hónap`: Pszí odt, Fortélyok odt, Távharc odt, Mágia odt doksi, Fegyvertáblázatok migrálva, archiválva
-
-<br />
-
-### 2023.12.17❗
-
-❗NAGY ODT → MARKDOWN MIGRÁLÁS VÉGE ❗
-
-🔆 **ODT, TXT, külső jegyzet állományok migrálása markdown formátumba:  ~6 hónap nettó munka** 🔆
+NAGY ODT, TXT, külső jegyzet állományok → MARKDOWN MIGRÁLÁS VÉGE
 
 <br />
 
@@ -134,7 +90,7 @@ Első, Github release: [km100 v0.4.0.0](https://github.com/kaktusztea/km100/rele
 
 ### 2024.01 hónap ❗
 
-Innen indult el a fejlesztés folytatása - a dokumentumok migrálása után ❗
+Innen indult el a fejlesztés folytatása - a dokumentumok migrálása után
 
 Aktív fejlesztés, teszt játékokkal együtt.
 
