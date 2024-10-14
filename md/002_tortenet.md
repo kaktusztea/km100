@@ -1,8 +1,10 @@
 ## A km100 rendszer fejlesztésének főbb időpontjai
 
+A rendszer fejlesztése a 2000-es évek közepén kezdődött, eleinte csak a frissen megjelent D20-as M* (nagy fehér) szabálykönyvre írt egyedi háziszabályok formájában. Miután kezdte kinőni magát, rájöttünk, hogy egy alapjaiból újrakezdett forma lenne megfelelő a nekünk kedves rendszer megteremtéséhez.
+
 ### 2005.05.31
 
-Kezdetek: D20 MAGUS (nagy fehér) szabálykönyvre írt egyedi háziszabályokkal kezdődött.
+Kezdetek: háziszabályok.
 
 Első dokumentum: [2005-05-31_haziszabalyok_0v2.pdf](https://github.com/kaktusztea/km100/raw/master/archive/history/2005-05-31_haziszabalyok_0v2.pdf?raw=true)
 
