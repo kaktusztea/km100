@@ -60,7 +60,7 @@ A `km100` rendszerében nincsenek kasztok, egyes jellemzőket szabad pontokból,
 ---
 ## A km100 rendszer története
 
-A `km100` egy nonprofit szabályrendszer M\* világához, amely háziszabályok gyűjteményeként indult, majd nulláról újrakezdve egy önálló rendszerré nőtte ki magát. Fejlesztése 2005 óta folyik, [az egyes mérföldkövekről itt olvashatsz](archive/history/README.md).
+A `km100` egy nonprofit szabályrendszer M\* világához, amely háziszabályok gyűjteményeként indult, majd nulláról újrakezdve egy önálló rendszerré nőtte ki magát. Fejlesztése 2005 óta folyik, [az egyes mérföldkövekről itt olvashatsz](md/002_tortenet.md).
 
 A `km100`-nak nem célja helyettesíteni a hivatalos szabályrendszert, amely a régi rendszerrel való viszonylagos szabályrendszeri és hangulati kompatibilitást próbálta megőrizni. A `km100` a haladó játékosoknak készült, akiknek nem fontos a régihez való kötődés, szívesen kipróbálnak egy kompromisszumok és \"nosztalgia nélküli\" rendszert.
 
