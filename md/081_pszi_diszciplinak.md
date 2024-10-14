@@ -21,7 +21,7 @@ Dobás: [Önuralom](014_tulajdonsagok.md#-%C3%B6nuralom-%EF%B8%8F) Tulajdonságg
 
 ⭕Auraérintés
 - ???
-- pyarroni
+- py4rroni
 
 ⭕Láthatatlanság észlelése
 - csak varázsló és siopa???

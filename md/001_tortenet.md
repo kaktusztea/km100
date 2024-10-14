@@ -1,27 +1,28 @@
-## A km100 rendszer fejlesztésének főbb időpontjai
+## A km100 rendszer fejlesztésének története
 
 A rendszer fejlesztése a 2000-es évek közepén kezdődött, eleinte csak a frissen megjelent D20-as M* (nagy fehér) szabálykönyvre írt egyedi háziszabályok formájában. Miután kezdte kinőni magát, rájöttünk, hogy egy alapjaiból újrakezdett forma lenne megfelelő a nekünk kedves rendszer megteremtéséhez.
 
+A `km100`-nak nem célja helyettesíteni a hivatalos szabályrendszert, amely a régi rendszerrel való viszonylagos szabályrendszeri és hangulati kompatibilitást próbálta megőrizni. A `km100` a haladó játékosoknak készült, akiknek nem fontos a régihez való kötődés, szívesen kipróbálnak egy kompromisszumok és \"nosztalgia nélküli\" rendszert.
+
+Az évek során több \"alapmotort\" fejlesztettünk és dobtunk ki (ez leginkább a képzettségrendszerre igaz). A cél, hogy egy jól teljesítő, nem túlbonyolított, mégis logikus egységbe foglaljuk az egyes alrendszereket, valamint pótoljunk számunkra régóta fájó hiányokat, vagy korrigáljunk idegesítő logikátlanságokat.
+
+Alább egy rövid summázatot találhatunk a rendszer fejlesztésének főbb mérföldköveiről:
+
 ### 2005.05.31
 
-Kezdetek: háziszabályok.
-
-Első dokumentum: [2005-05-31_haziszabalyok_0v2.pdf](https://github.com/kaktusztea/km100/raw/master/archive/history/2005-05-31_haziszabalyok_0v2.pdf?raw=true)
+Kezdetek: első, háziszabályokat tartalmazó dokumentum: [2005-05-31_haziszabalyok_0v2.pdf](https://github.com/kaktusztea/km100/raw/master/archive/history/2005-05-31_haziszabalyok_0v2.pdf?raw=true)
 
 <br />
 
 ### 2005.05.31 - 2005.07.10
-Egy bő hónap alatt megvolt a VÉ csökkentés, a sebesülés kategóriák és a távolsági harcrendszer!
+
+2005 júniusa 🔆 volt az időszak, amikor - bő hónap alatt - megszületett a VÉ csökkentés, a sebesülés kategóriák és a távolsági harcrendszer.
+
+Állapotok ebből az időszakból:
 - [2005-07-10 km20_0v9.pdf](https://github.com/kaktusztea/km100/raw/master/archive/history/2005-07-10_km20_0v9.pdf?raw=true)
 - [2005-08-01 km20_import_v0.pdf](https://github.com/kaktusztea/km100/raw/master/archive/history/2005-08-01_km20_import_v0.pdf?raw=true)
 - [2005-10-19 km20b_0v2.4.2.pdf](https://github.com/kaktusztea/km100/raw/master/archive/history/2005-10-19_km20b_0v2.4.2.pdf)
 - [2005-12-31 km20_karlap_0.62.ods](https://github.com/kaktusztea/km100/raw/master/archive/history/2005-12-31_km20_karlap_0.62.ods?raw=true)
-
-<br />
-
-### 🔆 2005 június
-
-❗Ekkor született a km20/km100 magja ❗
 
 <br />
 
@@ -58,7 +59,7 @@ Az első nagy fejlesztési korszak vége❗
 
 A dokumentumok utolsó állapota ekkor: [2009-02-22_km100_develop.zip](https://github.com/kaktusztea/km100/raw/master/archive/history/2009-02-22_km100_develop.zip?raw=true)
 
-Eddig tartott az aktív fejlesztés. Ekkor már elég fix állapotban voltak a rendszer alapjai. Később ennek az átdolgozása, finomítása történik, a fundamentumok nem változnak nagyon.
+Eddig tartott az aktív fejlesztés. Ekkor már elég végleges állapotban voltak a rendszer alapjai. Később ennek az átdolgozása, finomítása történik, a fundamentumok viszonylag ritkán változtak.
 
 **Változások a korábbi állapothoz képest:**
 - Nincsenek kasztok
@@ -100,17 +101,15 @@ Első, Github release: [km100 v0.4.0.0](https://github.com/kaktusztea/km100/rele
 
 ### 2024.01 hónap ❗
 
-Ekkor indult a fejlesztés folytatása - a dokumentumok migrálása után.
+Ekkor - a dokumentumok migrálása után - indult újra az aktív fejlesztés, valamint teszt játékok a rendszer aktuális állapotával. 
 
-Aktív fejlesztés folyik, teszt játékokkal együtt, heti Github Release.
-
-Release lista: [km100 releases](https://github.com/kaktusztea/km100/releases)
+Hetente jelenik meg Github Release: [km100 Releases](https://github.com/kaktusztea/km100/releases)
 
 <br />
 
 ### 2024.05.01
 
-Áttérés az `ÉV.HÉT` verziózásra itt: [km100 v24.18](https://github.com/kaktusztea/km100/releases/tag/24.18)
+Áttérés az `ÉV.HÉT` verziószámozásra ezzel a kiadással: [km100 v24.18](https://github.com/kaktusztea/km100/releases/tag/24.18)
 
 ---
 

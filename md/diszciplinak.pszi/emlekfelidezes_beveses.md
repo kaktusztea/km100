@@ -2,7 +2,7 @@
 
 ##### Pszí iskolák ismerik
 
-- Pyarroni
+- Py4rroni
 - Kyr
 - Siopa
 - Slan
