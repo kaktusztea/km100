@@ -37,7 +37,7 @@
 - [Áttekintés](003_attekintes.md)
 - [km100 alrendszerei](004_alrendszerek.md)
 - [Szimbólumok, Jelzők](005_szimbolumok_jelzok.md)
-- [Fejlesztők, Tesztelők](../006_fejlesztok.md)
+- [Fejlesztők, Tesztelők](006_fejlesztok.md)
 
 ---
 ### 1. [Karakteralkotás](010_karakteralkotas.md)
