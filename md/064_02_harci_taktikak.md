@@ -217,7 +217,9 @@ Tehát a támadásra kisebb a büntetés, mint puszta kézre, a védekezés visz
 
 Ha a harcos le kívánja vágni, vagy el akarja törni ellenfele valamely végtagját (kéz,fej), akkor:
 
-Sikeres **Végtagra támadást** kell végrehajtania, valamint megfelelő mennyiségű `ÉP` sebzést okoznia.
+Sikeres ⭕**Végtagra támadást** kell végrehajtania, valamint megfelelő mennyiségű `ÉP` sebzést okoznia.
+
+⭕TODO: Végtagra támadás vs. Területre támadás manőver ⭕ Ha azt kivasaltuk, akkor ezt is adaptálni.⭕
 
 - Kéz csonkolása/törése: (áldozat `max ÉP / 3`) (felfele kerekítve) sebzés szükséges
 - Láb csonkolása/törése: (áldozat `max ÉP / 2`) (felfele kerekítve) sebzés szükséges
