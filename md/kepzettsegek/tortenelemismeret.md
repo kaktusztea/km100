@@ -16,22 +16,22 @@
  - [Kultúrkör](../hatterek.kiemelt/kulturkor.md)
 Amennyiben nincs meg a próbát érintő **Kultúrkör** Háttér, akkor a próba **Nehézsége**⭕ a Kultúrkörnél leírt mértékben emelkedik.⭕
 
-**Leírás**: Alacsonyabb szinten a hetedkori Ynev általános történelmét ismered, magasabb szinten fellebbennek a titkok a régebbi korok titkairól is.
+**Leírás**: Alacsonyabb szinten a hetedkori Yn.v általános történelmét ismered, magasabb szinten fellebbennek a titkok a régebbi korok titkairól is.
 
 **ÉSZAKON**:
 ⭕TODO: Ezeket szinkronba hozni a Kultúrkörökkel⭕
 - Északi Szövetség és a vörös hadurak országai
-- Toron és a fekete hadurak országai (Abaszisz, Gro-Ugon, az északi városállamok - mint Rowon, Alidax -, stb.)
-- Godora és Erion (beleértve a környéket is, pl. Elátkozott Vidék, Sheral nyugati része, stb.)
+- Tor0n és a fekete hadurak országai (Abasz1sz, Gro-Ugon, az északi városállamok - mint Rowon, Al1dax -, stb.)
+- Godora és Er1on (beleértve a környéket is, pl. Elátkozott Vidék, Sheral nyugati része, stb.)
 
 **DÉLEN**:
 ⭕TODO: EEzeket szinkronba hozni a Kultúrkörökkel⭕
 - Krán és a déli nomádok
-- Pyarroni Államszövetség és Yllinor
-- Shadon és környéke
-- Gorvik és a Kereskedőhercegségek
+- Py4rroni Államszövetség és Yllinor
+- Shad0n és környéke
+- Gorv1k és a Kereskedőhercegségek
 - Ordan és a déli városállamok
-- Taba el Ibara
+- Taba el 1bara
 
 **Fontos**: A Történelemismeret alapvetően az emberi történelem írott részét jelenti (magyarán azt, amiről van elég írott forrás, ezek hozzáférhetőek és jórészt földolgozottak). Minden más az Ősi Kultúrák ismeretébe tartozik.
 ##### Biztos tudás, követelmények
@@ -64,5 +64,4 @@ Amennyiben nincs meg a próbát érintő **Kultúrkör** Háttér, akkor a prób
 
 ##### Célszámot módosító körülmények
 
-- Nehézség büntetés, ha nincs kapcsolódó [Kultúrkör](../hatterek.kiemelt/kulturkor.md)
- 
+Nehézség büntetés, ha nincs kapcsolódó [Kultúrkör](../hatterek.kiemelt/kulturkor.md)

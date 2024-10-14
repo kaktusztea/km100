@@ -18,9 +18,9 @@ Amennyiben nem rendelkezel a kívánt Nyelvismerettel, akkor - ha van kapcsolód
 ([forrás](https://magus.fandom.com/hu/wiki/Nyelvek_%C3%A9s_nyelcsal%C3%A1dok))
 
 1. Godoni nyelvek (god)
-    - pyarroni / közös nyelv / új-godoni (pya)
+    - py4rroni / közös nyelv / új-godoni (pya)
     - syburri (syb)
-    - shadoni/gorviki (sha/gor)
+    - shad0ni/gorv1ki (sha/gor)
 
 2. Általános nyelvek
     - aszisz (asz)
@@ -63,8 +63,8 @@ Amennyiben nem rendelkezel a kívánt Nyelvismerettel, akkor - ha van kapcsolód
 - ókyr (kyr)
 - godorai (gdr)
 - ryeki  (rye)
-- toroni (tor)
-- köztoroni (tor)
+- tor0ni (tor)
+- köztor0ni (tor)
 
 <br />
 

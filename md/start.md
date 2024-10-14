@@ -32,12 +32,11 @@
 
 ### 0. [Kezdetek](000_kezdetek.md)
 
-- [Alapelvek](001_alapelvek.md)
-- [Történet](002_tortenet.md)
+- [Történet](001_tortenet.md)
+- [Fejlesztők, Tesztelők](002_fejlesztok.md)
 - [Áttekintés](003_attekintes.md)
 - [km100 alrendszerei](004_alrendszerek.md)
 - [Szimbólumok, Jelzők](005_szimbolumok_jelzok.md)
-- [Fejlesztők, Tesztelők](006_fejlesztok.md)
 
 ---
 ### 1. [Karakteralkotás](010_karakteralkotas.md)

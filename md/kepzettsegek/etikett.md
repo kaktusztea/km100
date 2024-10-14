@@ -14,7 +14,7 @@
 
 **Leírás**: Hogy kell köszönteni a nemesi vendégeket, hogyan kell udvariasan hárítani egy meghívást, mi számít könnyed tréfának és mi halálos sértésnek? A képzettség elsősorban az udvari, nemesi környezetben való "viselkedést" fedi.
 
-Természetesen nem mindegy, melyik kultúrkörben kell a társasági kihívásokat teljesíteni, de az alapismeret és a gyors tanulás segítségével hamar beépíthető más kultúrkörök ismerete is. Például egy "Etikett: `9.szint`"-el rendelkező pyarroni nemes pár nap alatt képes megtanulni a toroni udvari Etikett szabályait, mert már megvan a mentális "váz", amire csak fel kell "aggatnia" az új tudást. Ezt a  [Kultúrkör](../hatterek.kiemelt/kulturkor.md) Szabad Háttér rendszerén keresztül szimuláljuk.
+Természetesen nem mindegy, melyik kultúrkörben kell a társasági kihívásokat teljesíteni, de az alapismeret és a gyors tanulás segítségével hamar beépíthető más kultúrkörök ismerete is. Például egy "Etikett: `9.szint`"-el rendelkező py4rroni nemes pár nap alatt képes megtanulni a tor0ni udvari Etikett szabályait, mert már megvan a mentális "váz", amire csak fel kell "aggatnia" az új tudást. Ezt a  [Kultúrkör](../hatterek.kiemelt/kulturkor.md) Szabad Háttér rendszerén keresztül szimuláljuk.
 
 ##### Kultúrkör Szabad Hátterek
 
@@ -44,8 +44,8 @@ Bővebben lásd a **Kultúrkör** Szabad háttér leírását.
 | Átlagos (9)          | Forma szerint bejelenteni az ellenséges országból érkező követeket, pár mondatos bájcsevegést folytatni velük.                                                            |
 | Nehéz (12)           | Saját kultúrán belül mindenkivel rangjához illő formulákkal, szófordulatokat kommunikálni a teljes könnyedség látszatával, véletlen sértések elkerülésével.               |
 | Nagyon nehéz (15)    | Idegen kultúrába csöppenve elkerülni a sértéseket. Nemesi bálon hárítani a szóbeli rejtett  támadásokat. Szándékos párbaj provokációt presztízsveszteség nélkül hárítani. |
-| Rendkívül nehéz (18) | Toroni vérnászt megnyerni. Több toroni dáma együttes támadását látszólag könnyedén hárítani.                                                                              |
-| Emberfeletti (21)    | Egy toroni nemesnek - kiről egy napja nyílt titok, hogy lebukott ereni ügynök -, túlélnie egy toroni vérnászt és az egész nemesi bált, sőt még a párbajra hívást is.      |
+| Rendkívül nehéz (18) | Tor0ni vérnászt megnyerni. Több tor0ni dáma együttes támadását látszólag könnyedén hárítani.                                                                              |
+| Emberfeletti (21)    | Egy tor0ni nemesnek - kiről egy napja nyílt titok, hogy lebukott ereni ügynök -, túlélnie egy toroni vérnászt és az egész nemesi bált, sőt még a párbajra hívást is.      |
 
 <br />
 

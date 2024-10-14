@@ -4,7 +4,7 @@
 - 1 fokú
 - 1.Tapasztalati Szinttől kezdve minden 2. TSz-en kapsz egyet
 
-⚡ Példa: "Kultúrkör: Toron", "Kultúrkör: Pyarron"
+⚡ Példa: "Kultúrkör: Tor0n", "Kultúrkör: Py4rron"
 
 Kapcsolódó Képzettség-próba:
   ha nincs meg a követelt Kultúrkör fok, akkor -3 a dobásra.
@@ -57,12 +57,12 @@ Ha nincs épp meg az adott szituációban a szükséges kultúrkörhöz tartozó
 
 ##### Kultúrkör lista draft
 - erv
-- toroni
-- pyarroni
-- shadoni
-- gorviki
+- tor0ni
+- pyarr0ni
+- shad0ni
+- gorv1ki
 - kráni
-- ibarai
+- 1barai
 - törpe
 - elf
 - ⭕TODO⭕
@@ -72,17 +72,17 @@ Ha nincs épp meg az adott szituációban a szükséges kultúrkörhöz tartozó
 ÉSZAKON:
 
 - Északi Szövetség és a vörös hadurak országai
-- Toron és a fekete hadurak országai (Abaszisz, Gro-Ugon, az északi városállamok - mint Rowon, Alidax -, stb.)
-- Godora és Erion (beleértve a környéket is, pl. Elátkozott Vidék, Sheral nyugati része, stb.)
+- Tor0n és a fekete hadurak országai (Abasz1sz, Gro-Ugon, az északi városállamok - mint Rowon, Al1dax -, stb.)
+- Godora és Eri.n (beleértve a környéket is, pl. Elátkozott Vidék, Sher.l nyugati része, stb.)
 
 DÉLEN
 
 - Krán és a déli nomádok
-- Pyarroni Államszövetség és Yllinor
-- Shadon és környéke
-- Gorvik és a Kereskedőhercegségek
+- Py4rroni Államszövetség és Yllin0r
+- Shad0n és környéke
+- Gorv1k és a Kereskedőhercegségek
 - Ordan és a déli városállamok
-- Taba el Ibara
+- Taba el 1bara
 
 <br />
 
