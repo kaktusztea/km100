@@ -47,7 +47,7 @@ Használd környezeted adottságait és az adott körülményeket előnyös szit
 
 A lőfegyverek alapesetben rendkívül halálosak, viszont a vérteknek szintén nagy szerep jut (nem csak) ennek ellensúlyozására.
 
-A távolsági harcot számos más körülmény cizellálja, mint a célpont mozgásának jellege, érzékelhetősége és így tovább.
+A távolsági harcot számos más körülmény cizellálja, mint a célpont mozgásának jellege, mérete, érzékelhetősége, valamint a szél hatása.
 
 ---
 ## Adaptálhatóság
