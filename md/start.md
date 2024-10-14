@@ -159,7 +159,7 @@
 ### 7. [Távolsági harcrendszer](070_tavolsagi_harc.md) 🏹
 
 - [Célzó Érték számítása](071_tavharc_ce.md)
-- [Célpont Védő Értékének számítása](072_tavharc_ve.md)
+- [Célpont Védő Értékének számítása; Szorzó; Osztó](072_tavharc_ve_szorzo_oszto.md)
 - [Távolsági Harc Taktikák](073_tavharc_taktikak.md)
 - [Távolsági fegyverek](074_tavharc_fegyverek.md)
 - [Példák](075_tavharc_peldak.md)
