@@ -2,7 +2,7 @@
 
 Üdvözlünk a `km100` szerepjáték rendszer oldalain!
 
-Mielőtt belevágunk a szabályok ismertetésébe, orientálódjunk egy kicsit. Mi ez a rendszer, honnan, mikor indult és miért? Mik a főbb jellemzői, kinek szántuk? És végül egy rövid áttekintés a rendszer struktúrájáról, valamint a dokumentumban használt szimbólumok ismertetéséről.
+Mielőtt belevágunk a szabályok ismertetésébe, orientálódjunk egy kicsit. Mi ez a rendszer, honnan, mikor indult és miért? Mik a főbb jellemzői, kinek szántuk? És végül egy rövid áttekintés a rendszer struktúrájáról, valamint a dokumentumban használt szimbólumokról.
 
 - [Alapelvek](001_alapelvek.md)
 - [Történet](002_tortenet.md)
