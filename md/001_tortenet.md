@@ -113,6 +113,6 @@ Hetente jelenik meg Github Release: [km100 Releases](https://github.com/kaktuszt
 
 ---
 
-🔗 [Áttekintés](003_attekintes.md) →
+🔗 [Fejlesztők](002_fejlesztok.md) →
 
 ⚜️ [Nyitóoldal](start.md)

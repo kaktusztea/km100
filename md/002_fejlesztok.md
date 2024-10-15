@@ -18,3 +18,9 @@ Fekete Bálint (Kaktusztea / Ailtas)
 ### Korábbi fejlesztők
 
 Mittelholcz Iván
+
+---
+
+🔗 [Áttekintés](003_attekintes.md) →
+
+⚜️ [Nyitóoldal](start.md)
