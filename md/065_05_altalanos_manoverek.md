@@ -233,7 +233,7 @@ A használt fegyver csak valamilyen (legfeljebb 1 penge hosszú) hegyes szúróf
 - Fázisok: `E`
 - Követelmény: [Észrevétlen támadás](064_01_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s) harci helyzet
 - **Hatás**:
-  - a választott helyre támadtál anélkül, hogy ellenfeled tudatában lenne a támadásnak
+  - a választott helyre támadsz anélkül, hogy ellenfeled ennek tudatában lenne
   - [Harci Anatómia](fortelyok.harci/harci_anatomia.md) bónuszait megkapod
 
 <br />
