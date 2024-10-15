@@ -12,7 +12,9 @@
 - [Lánccsapda](#l%C3%A1nccsapda)
 - [Lánccsapdából szabadítás](#l%C3%A1nccsapd%C3%A1b%C3%B3l-szabad%C3%ADt%C3%A1s)
 - [Lefegyverzés / Fegyvertörés](#lefegyverz%C3%A9s--fegyvert%C3%B6r%C3%A9s)
+- [Leütés hátulról](xyz⭕) ⭕
 - [Mesterjel](#mesterjel)
+- [Mögékerülés](xyz⭕) ⭕
 - [Orvtámadás](#orvt%C3%A1mad%C3%A1s)
 - [Pajzzsal öklelés](#pajzzsal-%C3%B6klel%C3%A9s)
 - [Pajzsrongálás](#pajzsrong%C3%A1l%C3%A1s)
@@ -214,6 +216,36 @@ Ha meg akarod fosztani ellenfeledet fegyverétől, vagy kiütve kezéből, vagy 
 <br />
 
 ---
+### Leütés hátulról
+
+Hasonlatos az Orvtámadáshoz, de itt nem a minél nagyobb sebzés, hanem a - nem halálos - ártalmatlanítás a cél. A **Nehézség** a [Területre támadás](#ter%C3%BCletre--pontra-t%C3%A1mad%C3%A1s) Manőverből származtatott, könnyített érték.
+
+- Nehézség: `7`
+-  Fázisok: `V E`
+- Követelmény: [Észrevétlen támadás](064_01_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s), [Támadás hátulról](064_01_harci_helyzetek.md#t%C3%A1mad%C3%A1s-h%C3%A1tulr%C3%B3l) harci helyzetek
+- Célpont `VÉ = 30 + mozgás jellegétől függő módosító` (lásd [Észrevétlen támadás](064_01_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s))
+
+⭕⭕⭕
+Ha a támadás sebző **Találat**, akkor és a sebzés legalább Súlyos lenne (`12 ÉP`), akkor az áldozat Fájdalomtűrés próbát dob `12`-es célszám (**Nehéz**) ellen, ezúttal **Edzettség** tulajdonsággal. Ha nincs meg, azonnal elájul.
+
+```
+Fájdalomtűrés (K) + Edzettség (T)  vs.  12
+```
+
+Hogy megkapjuk a valós ÉP seb mennyiségét, amit az áldozat elszenved, dobjunk `k3`-al:
+
+- `1`: nincs `ÉP` seb
+- `2`: sebzés fele bement `ÉP`-ben
+- `3`: a teljes sebzés bement `ÉP`-ben
+Ez azért van, mert egy járatlan támadó nem tudja olyan jól megbecsülni a szükséges erő nagyságát, ha rosszul méri fel az erejét, könnyen komoly sebet okozhat.
+
+**[Harci anatómia](fortelyok.harci/harci_anatomia.md)** harci fortély módosítja a fenti dobást, bónuszait lásd annak leírásánál.
+
+**Megjegyezés**: a Markolat sebzése: `k20 + 0 SP` (Zúzó)
+
+⭕⭕⭕
+
+---
 #### Mesterjel
 
 A használt fegyver csak valamilyen (legfeljebb 1 penge hosszú) hegyes szúrófegyver lehet.
@@ -227,11 +259,25 @@ A használt fegyver csak valamilyen (legfeljebb 1 penge hosszú) hegyes szúróf
 <br />
 
 ---
+####  Mögékerülés
+
+Megpróbálsz ellenfeled mögé kerülni. Nem titokban, sunnyogva, lopakodva, hanem ügyes helyezkedéssel mozogsz a megfelelő helyre. Minél többen vagytok, minél nagyobb a túlerő, annál könnyebb a dolgod.
+
+- Nehézség:
+  - `8`: egy:kettő túlerő esetén
+  - `6`: egy:három túlerő esetén
+  -  `4`: egy:négy+ túlerő esetén
+- Fázisok: `E`
+
+**Hatás**: sikerült ellenfeled hátába kerülnöd, megkapod a [Támadás hátulról](064_01_harci_helyzetek.md#t%C3%A1mad%C3%A1s-h%C3%A1tulr%C3%B3l) bónuszait. Ellenfeled dönthet úgy, hogy mostantól inkább veled foglalkozik, de ekkor azon szövetségesed, akivel eddig harcolt, kapja meg a **Támadás hátulról**, vagy a [Támadás félhátulról](064_01_harci_helyzetek.md#t%C3%A1mad%C3%A1s-f%C3%A9lh%C3%A1tulr%C3%B3l) bónuszait - attól függőe, hogy milyen pozícióban van.
+
+---
 #### Orvtámadás
 
 - Nehézség: [Területre támadás](#ter%C3%BCletre--pontra-t%C3%A1mad%C3%A1s) manőver Nehézségei `-3`. Az ott leírt lehetséges célterületekből választhatsz.
-- Fázisok: `E`
-- Követelmény: [Észrevétlen támadás](064_01_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s) harci helyzet
+- Fázisok: `V E`
+- Követelmény: [Észrevétlen támadás](064_01_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s), [Támadás hátulról](064_01_harci_helyzetek.md#t%C3%A1mad%C3%A1s-h%C3%A1tulr%C3%B3l) harci helyzetek
+- Célpont `VÉ = 30 + mozgás jellegétől függő módosító` (lásd [Észrevétlen támadás](064_01_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s))
 - **Hatás**:
   - a választott helyre támadsz anélkül, hogy ellenfeled ennek tudatában lenne
   - Sebezz, ahogy a fegyvered sebez + a [Harci Anatómia](fortelyok.harci/harci_anatomia.md) bónuszait megkapod

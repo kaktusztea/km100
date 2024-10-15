@@ -170,29 +170,6 @@ E taktika mellett más harci taktikát nem alkalmazhatsz.
 ---
 
 ---
-### Leütés hátulról (fejre/tarkóra)
-
-- Követelmény: **Észrevétlen támadás**
-- Célpont `VÉ = 30 + mozgás jellegétől függő módosító` (lásd [Észrevétlen támadás](064_01_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s))
-
-Ha a támadás sebző **Találat**, akkor és a sebzés legalább Súlyos lenne (`12 ÉP`), akkor az áldozat Fájdalomtűrés próbát dob `12`-es célszám (**Nehéz**) ellen, ezúttal **Edzettség** tulajdonsággal. Ha nincs meg, azonnal elájul.
-
-```
-Fájdalomtűrés (K) + Edzettség (T)  vs.  12
-```
-
-Hogy megkapjuk a valós ÉP seb mennyiségét, amit az áldozat elszenved, dobjunk `k3`-al:
-
-- `1`: nincs `ÉP` seb
-- `2`: sebzés fele bement `ÉP`-ben
-- `3`: a teljes sebzés bement `ÉP`-ben
-Ez azért van, mert egy járatlan támadó nem tudja olyan jól megbecsülni a szükséges erő nagyságát, ha rosszul méri fel az erejét, könnyen komoly sebet okozhat.
-
-**[Harci anatómia](fortelyok.harci/harci_anatomia.md)** harci fortély módosítja a fenti dobást, bónuszait lásd annak leírásánál.
-
-**Megjegyezés**: a Markolat sebzése: `k20 + 0 SP` (Zúzó)
-
----
 ### Érintő támadás
 
 Ha csak meg akarunk érinteni valakit harc közben, az könnyebb, mint puszta kézzel sérülést okozó támadást végbevinni. Az Érintő támadás harcértékei ezért: `KÉ:0`, `TÉ:0`, `VÉ:-10`
