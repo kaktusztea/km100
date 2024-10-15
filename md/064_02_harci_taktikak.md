@@ -23,10 +23,8 @@ Most pedig lássuk a speciálisabb taktikákat.
 | **Taktika név**                                                                           | **Hatás**                                                                                                                                                                                                                                                                                                                    |
 | :---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Leütés hátulról (fejre/tarkóra)](#le%C3%BCt%C3%A9s-h%C3%A1tulr%C3%B3l-fejretark%C3%B3ra) | • Követelmény: [Észrevétlen támadás](064_01_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s) harci helyzet, Sebző Találat<br/>• Ha Súlyos a seb (`12 ÉP`) → Fájdalomtűrés (+Edzettség) próba (`12`). Ha nincs meg, elájul.<br/>• [Harci anatómiával](fortelyok.harci/harci_anatomia.md) könnyebb (lásd a leírást) |
-| [Orvtámadás](#orvt%C3%A1mad%C3%A1s)                                                       | • Követelmény: Észrevétlen támadás harci helyzet<br/>• Bónuszt ad: [Harci anatómia](fortelyok.harci/harci_anatomia.md) fortély - vértmentes terület találata esetén                                                                                                                                                          |
 | [Érintő támadás](#%C3%A9rint%C5%91-t%C3%A1mad%C3%A1s) ⇄                                   | `KÉ:0`, `TÉ:0`, `VÉ:-10`                                                                                                                                                                                                                                                                                                     |
 | [Mögékerülés](#m%C3%B6g%C3%A9ker%C3%BCl%C3%A9s)                                           | Követelmény: az ellenfél nem lát téged, aztán sikeres [Lopakodás/Rejtőzés](kepzettsegek/lopakodas_rejtozes.md) vs. [Észlelés](kepzettsegek/eszleles.md) ellenpróba. Harc közben hátbakerülni csak teljes bekerítéssel lehet.                                                                                                 |
-| [Rávetődés, Nyakba ugrás hátulról](#r%C3%A1vet%C5%91d%C3%A9s-h%C3%A1tulr%C3%B3l)          | ⭕TODO⭕                                                                                                                                                                                                                                                                                                                       |
 | ⭕Visszafogott csapás / Harc az ellenfél elfogásáért                                       | ⭕TODO⭕Egyesíteni a "Leütés Hátulról" taktikával?⭕ Bónuszt ad: **Harci anatómia** fortély                                                                                                                                                                                                                                     |
 
 ### Ökölszabály Védő Érték eltolásra
@@ -195,13 +193,6 @@ Ez azért van, mert egy járatlan támadó nem tudja olyan jól megbecsülni a s
 **Megjegyezés**: a Markolat sebzése: `k20 + 0 SP` (Zúzó)
 
 ---
-### Orvtámadás
-
-Kapcsoló fortély: [Harci anatómia](fortelyok.harci/harci_anatomia.md)
-
-Ha [Észrevétlen támadást](064_01_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s) sikerül leadnod (`VÉ` értékét lásd ott), akkor érvényesülnek a [Harci anatómia](fortelyok.harci/harci_anatomia.md) fortélynál leírt bónuszok - vértmentes terület találata esetén.
-
----
 ### Érintő támadás
 
 Ha csak meg akarunk érinteni valakit harc közben, az könnyebb, mint puszta kézzel sérülést okozó támadást végbevinni. Az Érintő támadás harcértékei ezért: `KÉ:0`, `TÉ:0`, `VÉ:-10`
@@ -214,12 +205,6 @@ Tehát a támadásra kisebb a büntetés, mint puszta kézre, a védekezés visz
 Ezt akkor teheted meg, ha az ellenfél nem lát téged és zavartalanul osonhatsz mögé. Ekkor sikeres [Lopakodás/Rejtőzés](kepzettsegek/lopakodas_rejtozes.md) vs. [Észlelés](kepzettsegek/eszleles.md) ellenpróba szükséges.
 
 Harc közben hátbakerülni **csak akkor lehet**, ha annyian veszitek körbe az ellenfelet, amikor már nem tud mindenkit ide-oda kapkodva szemmel tartani (teljes bekerítés).
-
----
-### Rávetődés hátulról
-
-⭕TODO⭕
-→ [Kidolgozás itt](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.harcrendszer#harci-taktik%C3%A1k-tiszt%C3%A1z%C3%A1sa). Ha kész, bemozgatni ide.
 
 ---
 ### Visszafogott csapás / Harc az ellenfél elfogásáért
