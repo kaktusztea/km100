@@ -229,12 +229,12 @@ A használt fegyver csak valamilyen (legfeljebb 1 penge hosszú) hegyes szúróf
 ---
 #### Orvtámadás
 
-- Nehézség: [Területre támadás](#ter%C3%BCletre--pontra-t%C3%A1mad%C3%A1s) manőver Nehézségei `-3`. Az ott leírt lehetséges célpontokból választhatsz.
+- Nehézség: [Területre támadás](#ter%C3%BCletre--pontra-t%C3%A1mad%C3%A1s) manőver Nehézségei `-3`. Az ott leírt lehetséges célterületekből választhatsz.
 - Fázisok: `E`
 - Követelmény: [Észrevétlen támadás](064_01_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s) harci helyzet
 - **Hatás**:
   - a választott helyre támadsz anélkül, hogy ellenfeled ennek tudatában lenne
-  - [Harci Anatómia](fortelyok.harci/harci_anatomia.md) bónuszait megkapod
+  - Sebezz, ahogy a fegyvered sebez + a [Harci Anatómia](fortelyok.harci/harci_anatomia.md) bónuszait megkapod
 
 <br />
 
