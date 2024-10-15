@@ -3,7 +3,7 @@
 - [Átsiklás](#%C3%A1tsikl%C3%A1s)
 - [Belharcba kerülés](#belharcba-ker%C3%BCl%C3%A9s)
 - [Belharcból kibontakozás](#belharcb%C3%B3l-kibontakoz%C3%A1s)
-- [Csonkolás](xyz)
+- [Csonkolás](#csonkol%C3%A1s)
 - [Felállás földről](#fel%C3%A1ll%C3%A1s-f%C3%B6ldr%C5%91l)
 - [Kibontakozás](#kibontakoz%C3%A1s)
 - [Kiegészítő támadás](#kieg%C3%A9sz%C3%ADt%C5%91-t%C3%A1mad%C3%A1s)
