@@ -279,8 +279,8 @@ Szándékosan rongálod ellenfeled pajzsát, csökkentve annak Védő Értékét
 
 **Hatás**:
 - Ellenfeledre vetetted magad, rácsimpaszkodsz a hátára.
-- [Belharci szituáció](#belharci-szitu%C3%A1ci%C3%B3)
-- [Támadás hátulról](#t%C3%A1mad%C3%A1s-h%C3%A1tulr%C3%B3l) bónuszait folyamatosan megkapod, amíg ellenfeled a [Belharcból kibontakozás](#belharcb%C3%B3l-kibontakoz%C3%A1s) manőverét meg nem dobja `+2` Nehézséggel.
+- [Belharci szituáció](064_01_harci_helyzetek#belharci-szitu%C3%A1ci%C3%B3)
+- [Támadás hátulról](064_01_harci_helyzetek#t%C3%A1mad%C3%A1s-h%C3%A1tulr%C3%B3l) bónuszait folyamatosan megkapod, amíg ellenfeled a [Belharcból kibontakozás](#belharcb%C3%B3l-kibontakoz%C3%A1s) manőverét meg nem dobja `+2` Nehézséggel.
 
 <br />
 
