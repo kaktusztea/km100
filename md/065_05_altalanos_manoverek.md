@@ -13,14 +13,13 @@
 - [Lánccsapdából szabadítás](#l%C3%A1nccsapd%C3%A1b%C3%B3l-szabad%C3%ADt%C3%A1s)
 - [Lefegyverzés / Fegyvertörés](#lefegyverz%C3%A9s--fegyvert%C3%B6r%C3%A9s)
 - [Mesterjel](#mesterjel)
-- [Orvtámadás](xyz) ⭕link
+- [Orvtámadás](#orvt%C3%A1mad%C3%A1s)
 - [Pajzzsal öklelés](#pajzzsal-%C3%B6klel%C3%A9s)
 - [Pajzsrongálás](#pajzsrong%C3%A1l%C3%A1s)
-- [Rávetődés hátulról](xyz)⭕link
+- [Rávetődés hátulról](#r%C3%A1vet%C5%91d%C3%A9s-h%C3%A1tulr%C3%B3l)
 - [Területre / Pontra támadás](#ter%C3%BCletre--pontra-t%C3%A1mad%C3%A1s)
 - [Távoltartás](#t%C3%A1voltart%C3%A1s)
 - [Terelés](#terel%C3%A9s)
-
 
 ---
 #### Átsiklás
