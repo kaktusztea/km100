@@ -3,6 +3,7 @@
 - [Átsiklás](#%C3%A1tsikl%C3%A1s)
 - [Belharcba kerülés](#belharcba-ker%C3%BCl%C3%A9s)
 - [Belharcból kibontakozás](#belharcb%C3%B3l-kibontakoz%C3%A1s)
+- [Csonkolás](xyz)
 - [Felállás földről](#fel%C3%A1ll%C3%A1s-f%C3%B6ldr%C5%91l)
 - [Kibontakozás](#kibontakoz%C3%A1s)
 - [Kiegészítő támadás](#kieg%C3%A9sz%C3%ADt%C5%91-t%C3%A1mad%C3%A1s)
@@ -74,6 +75,18 @@ Harcoló felek között, vagy akár veled harcolni vágyó ellenfél mellett els
 **Hatás**: Sikeresen kibontakoztál belharcból. Most sima harci szituációban vagy ellenfeleddel.
 
 <br />
+
+---
+#### Csonkolás
+
+Nehézség: `8` (kéz), `10` (láb)
+
+Ha le akarod vágni ellenfeled valamely végtagját (kéz, láb), akkor sikeres: [Területre támadás](#ter%C3%BCletre--pontra-t%C3%A1mad%C3%A1s) manővert kell dobnod a fenti Nehézséggel.
+
+Továbbá megfelelő mennyiségű `ÉP` sebzést kell okoznod.
+
+- Kéz csonkolása: (áldozat `max ÉP / 3`) (felfele kerekítve) sebzés szükséges
+- Láb csonkolása: (áldozat `max ÉP / 2`) (felfele kerekítve) sebzés szükséges
 
 ---
 #### Felállás földről
