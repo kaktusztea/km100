@@ -21,16 +21,13 @@ Először lássuk az "erő-átcsoportosító" jellegű taktikákat.
 Most pedig lássuk a speciálisabb taktikákat.
 
 | **Taktika név**                                                                           | **Hatás**                                                                                                                                                                                                                                                                                                                    |
-|:----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Leütés hátulról (fejre/tarkóra)](#le%C3%BCt%C3%A9s-h%C3%A1tulr%C3%B3l-fejretark%C3%B3ra) | • Követelmény: [Észrevétlen támadás](064_01_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s) harci helyzet, Sebző Találat<br/>• Ha Súlyos a seb (`12 ÉP`) → Fájdalomtűrés (+Edzettség) próba (`12`). Ha nincs meg, elájul.<br/>• [Harci anatómiával](fortelyok.harci/harci_anatomia.md) könnyebb (lásd a leírást) |
-| ⭕Visszafogott csapás / Harc az ellenfél elfogásáért                                      | ⭕TODO⭕Egyesíteni a "Leütés Hátulról" taktikával?⭕ Bónuszt ad: **Harci anatómia** fortély                                                                                                                                                                                                                                  |
 | [Orvtámadás](#orvt%C3%A1mad%C3%A1s)                                                       | • Követelmény: Észrevétlen támadás harci helyzet<br/>• Bónuszt ad: [Harci anatómia](fortelyok.harci/harci_anatomia.md) fortély - vértmentes terület találata esetén                                                                                                                                                          |
 | [Érintő támadás](#%C3%A9rint%C5%91-t%C3%A1mad%C3%A1s) ⇄                                   | `KÉ:0`, `TÉ:0`, `VÉ:-10`                                                                                                                                                                                                                                                                                                     |
-| [Csonkolás és törés](#csonkol%C3%A1s-%C3%A9s-t%C3%B6r%C3%A9s) ⇄                           | •[Területre/Pontra támadás](065_05_altalanos_manoverek.md#területre--pontra-támadás) manőver szükséges<br/>• Kéz csonkolása: (áldozat `max ÉP / 3` ↑) sebzés szükséges<br/>• Láb csonkolása: (áldozat `max ÉP / 2` ↑) sebzés szükséges                                                                                       |
-| Kijelölt testrészre támadás ⇄                                                             | Sebző támadás `TÉ:-20`-al  ⭕Vagy: [Területre/Pontra támadás](065_05_altalanos_manoverek.md#területre--pontra-támadás) manőver!⭕                                                                                                                                                                                            |
-| [Pontok támadása harc közben](#pontok-t%C3%A1mad%C3%A1sa-harc-k%C3%B6zben) ⇄              | Lásd: [Területre/Pontra támadás](065_05_altalanos_manoverek.md#területre--pontra-támadás) manőver                                                                                                                                                                                                                            |
 | [Mögékerülés](#m%C3%B6g%C3%A9ker%C3%BCl%C3%A9s)                                           | Követelmény: az ellenfél nem lát téged, aztán sikeres [Lopakodás/Rejtőzés](kepzettsegek/lopakodas_rejtozes.md) vs. [Észlelés](kepzettsegek/eszleles.md) ellenpróba. Harc közben hátbakerülni csak teljes bekerítéssel lehet.                                                                                                 |
-| [Rávetődés, Nyakba ugrás hátulról](#r%C3%A1vet%C5%91d%C3%A9s-h%C3%A1tulr%C3%B3l)          | ⭕TODO⭕                                                                                                                                                                                                                                                                                                                     |
+| [Rávetődés, Nyakba ugrás hátulról](#r%C3%A1vet%C5%91d%C3%A9s-h%C3%A1tulr%C3%B3l)          | ⭕TODO⭕                                                                                                                                                                                                                                                                                                                       |
+| ⭕Visszafogott csapás / Harc az ellenfél elfogásáért                                       | ⭕TODO⭕Egyesíteni a "Leütés Hátulról" taktikával?⭕ Bónuszt ad: **Harci anatómia** fortély                                                                                                                                                                                                                                     |
 
 ### Ökölszabály Védő Érték eltolásra
 
@@ -210,39 +207,6 @@ Ha [Észrevétlen támadást](064_01_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%
 Ha csak meg akarunk érinteni valakit harc közben, az könnyebb, mint puszta kézzel sérülést okozó támadást végbevinni. Az Érintő támadás harcértékei ezért: `KÉ:0`, `TÉ:0`, `VÉ:-10`
 
 Tehát a támadásra kisebb a büntetés, mint puszta kézre, a védekezés viszont nem változik.
-
-
----
-### Csonkolás és törés
-
-Ha a harcos le kívánja vágni, vagy el akarja törni ellenfele valamely végtagját (kéz,fej), akkor:
-
-Sikeres ⭕**Végtagra támadást** kell végrehajtania, valamint megfelelő mennyiségű `ÉP` sebzést okoznia.
-
-⭕TODO: Végtagra támadás vs. Területre támadás manőver ⭕ Ha azt kivasaltuk, akkor ezt is adaptálni.⭕
-
-- Kéz csonkolása/törése: (áldozat `max ÉP / 3`) (felfele kerekítve) sebzés szükséges
-- Láb csonkolása/törése: (áldozat `max ÉP / 2`) (felfele kerekítve) sebzés szükséges
-
----
-### Kijelölt testrészre támadás
-
-⭕TODO⭕ Ütközik a Területre/Pontra támadás manőverrel.
-
-Ha küzdelem közben a harcos ellenfele egy konkrét testrészére kíván támadni, akkor ezt előre be kell jelentenie és utána sikeres, túlütő támadást kell dobnia `TÉ:-20` módosítóval.
-
-- Kijelölhető testrészek: fej, törzs, jobb/bal láb, jobb/bal kar.
-- Ennél pontosabb találatot harc közben meghatározni csak a [Területre/Pontra támadás](065_05_altalanos_manoverek.md#területre--pontra-támadás) manőverrel lehet.
-- Találatkor sima sebzést dob a támadó
-- Plusz hatás: ha a Sebzés legalább Súlyos (`6 ÉP`), akkor az áldozat valamilyen nem-harcérték korlátozást szenved el. Például ha a cél a fegyverforgató kéz volt, akkor elejti fegyverét és nem képes tovább harcolni vele. Vagy: láb támadása esetén mozgási sebessége felére/harmadára esik vissza (KM dönt). Fejre támadásnál szemébe folyik a vére, esetleg elkábul.
-- Lásd még alább: [Csonkolás](064_02_harci_taktikak.md#csonkolás-és-törés) harci taktika.
-
----
-### Pontok támadása harc közben
-
-Kapcsoló fortély: [Harci anatómia](fortelyok.harci/harci_anatomia.md)
-
-Ha harc közben próbálsz ellenfeleden egy konkrét pont támadásával nagyobb sebzést elérni, vagy a **Harci anatómia** fortélynál leírt hatások valamelyikét elérni, akkor [Területre/Pontra támadás](065_05_altalanos_manoverek.md#területre--pontra-támadás) manővert kell végezned. Amennyiben az sikeres, megkapod a fenti fortélynál megadott bónuszokat.
 
 ---
 ### Mögékerülés
