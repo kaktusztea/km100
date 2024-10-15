@@ -1,6 +1,6 @@
 ## km100 alrendszerei
 
-Lenn egy tömör áttekintő struktúrát láthatsz, amelyben áttekintjük, milyen alrendszerek működnek a `km100` rendszere alatt.
+Itt egy tömör áttekintő struktúrát láthatsz, amely végigvezet, milyen alrendszerek működnek a `km100` rendszere alatt.
 
 ### Általános
 
@@ -31,12 +31,12 @@ Lenn egy tömör áttekintő struktúrát láthatsz, amelyben áttekintjük, mil
 - Páncélmodell
   - páncél generátor: `4` féle SFÉ; MGT; Ár
   - Vértviselet fortély kapcsolat
+- Harci fortélyok: jellemzően statikus bónuszok
+- Harci taktikák: harci jelleg eltolása egy irányba
+- Harci helyzetek
 - Manőverek:
     - Manőver Alap: `Összes költött HM / 10`
     - Manőver Pontok: `Harcmodorok szint összege / Tapasztalati Szint`
-- Harci fortélyok: jellemzően statikus bónuszok
-- Harci taktikák
-- Harci helyzetek
 
 ### Távolsági harcrendszer
 
