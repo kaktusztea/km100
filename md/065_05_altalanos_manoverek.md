@@ -204,7 +204,7 @@ Ha meg akarod fosztani ellenfeledet fegyverétől, vagy kiütve kezéből, vagy 
 
 - Nehézség: `10`
 	- `+2`: fegyvertörés. Nehezebb, mint a lefegyverzés.
-	- `-2`:  fából készült szálfegyverek törése
+	- `+0`:  fából készült szálfegyverek törése (könnyebb, mint az alap fegyvertörés)
 	- `[-2;+2]`: a használt fegyver mennyire alkalmas a másik fegyver elvételére. KM dönt.
 - Fázisok: `V E`
 - Követelmény: Harcmodor – `5.szint`
