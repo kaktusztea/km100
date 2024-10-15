@@ -13,8 +13,10 @@
 - [Lánccsapdából szabadítás](#l%C3%A1nccsapd%C3%A1b%C3%B3l-szabad%C3%ADt%C3%A1s)
 - [Lefegyverzés / Fegyvertörés](#lefegyverz%C3%A9s--fegyvert%C3%B6r%C3%A9s)
 - [Mesterjel](#mesterjel)
+- [Orvtámadás](xyz) ⭕link
 - [Pajzzsal öklelés](#pajzzsal-%C3%B6klel%C3%A9s)
 - [Pajzsrongálás](#pajzsrong%C3%A1l%C3%A1s)
+- [Rávetődés hátulról](xyz)⭕link
 - [Területre / Pontra támadás](#ter%C3%BCletre--pontra-t%C3%A1mad%C3%A1s)
 - [Távoltartás](#t%C3%A1voltart%C3%A1s)
 - [Terelés](#terel%C3%A9s)
@@ -226,6 +228,18 @@ A használt fegyver csak valamilyen (legfeljebb 1 penge hosszú) hegyes szúróf
 <br />
 
 ---
+#### Orvtámadás
+
+- Nehézség: [Területre támadás](#ter%C3%BCletre--pontra-t%C3%A1mad%C3%A1s) manőver Nehézségei `-3`. Az ott leírt lehetséges célpontokból választhatsz.
+- Fázisok: `E`
+- Követelmény: [Észrevétlen támadás](064_01_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s) harci helyzet
+- **Hatás**:
+  - a választott helyre támadtál anélkül, hogy ellenfeled tudatában lenne a támadásnak
+  - [Harci Anatómia](fortelyok.harci/harci_anatomia.md) bónuszait megkapod
+
+<br />
+
+---
 #### Pajzzsal öklelés
 
 - Nehézség: `7`
@@ -252,6 +266,22 @@ Szándékosan rongálod ellenfeled pajzsát, csökkentve annak Védő Értékét
 - Speciális: Ez ellen a manőver ellen nem számít a pajzs adta Védő Érték!
 
 **Hatás**: Sebzést dobsz. Zúzó- és kétkezes fegyverek sebzése (SP) `1:1`-ben csökkenti ellenfeled pajzsának **Védő Értékét** (véglegesen).
+
+<br />
+
+---
+#### Rávetődés hátulról
+
+- Nehézség: `7`
+- Fázisok: 
+  - Észrevétlen támadás esetén: `E`
+  - Nincs Észrevétlen támadás: `V E`  (`V`: standard, fegyveres VÉ ellen)
+- Követelmény: [Támadás hátulról](064_01_harci_helyzetek.md#t%C3%A1mad%C3%A1s-h%C3%A1tulr%C3%B3l) harci helyzet
+
+**Hatás**:
+- Ellenfeledre vetetted magad, rácsimpaszkodsz a hátára.
+- [Belharci szituáció](#belharci-szitu%C3%A1ci%C3%B3)
+- [Támadás hátulról](#t%C3%A1mad%C3%A1s-h%C3%A1tulr%C3%B3l) bónuszait folyamatosan megkapod, amíg ellenfeled a [Belharcból kibontakozás](#belharcb%C3%B3l-kibontakoz%C3%A1s) manőverét meg nem dobja `+2` Nehézséggel.
 
 <br />
 
