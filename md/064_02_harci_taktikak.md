@@ -8,7 +8,7 @@
 | [Kezdeményező taktika](#kezdem%C3%A9nyez%C5%91-taktika)               | `KÉ:+1 → VÉ:-2`, max `KÉ:+10`                                                                                                                                                                                                          |
 | [Kiváró taktika](#kiv%C3%A1r%C3%B3-taktika)                           | • Átengedett `KÉ`, cserébe első visszatámadásra `TÉ:+5`<br/>• **Támadó taktikával** együtt mehet, Védővel nem, több ellenfeles harcban sem.                                                                                            |
 | [Fárasztó taktika](#f%C3%A1raszt%C3%B3-taktika) ⇄                     | • `+2 VÉ` csökkentés <br />• Sebzés helyett: nagykockás VÉ csökkentés + további `+10 VÉ` csökkentés<br />• `00` dobásnál: további `+5 VÉ` csökkentés<br />• Csak Előnyös helyzetből lehet alkalmazni                                   |
-| [Visszafogott taktika](#visszafogott-taktika) ⇄                       | ⭕TODO⭕                                                                                                                                                                                                                                 |
+| [Visszafogott taktika](#visszafogott-taktika) ⇄                       | Kisebb értékű kockával dobhatsz sebzéskor. Lásd a taktika részletes leírását!                                                                                                                                                          |
 | [Roham taktika](#roham-taktika)                                       | • `TÉ:+20`, `VÉ:-40` (első oda-visszacsapáskor)<br/>• `VÉ` csökkentés duplázódik első oda-visszacsapásnál , Sebzéshez: `+5 SP` (oda-vissza)                                                                                            |
 | [Öngyilkos roham taktika](#%C3%B6ngyilkos-roham-taktika)              | • `TÉ:+25`,`VÉ:-50` (első oda-visszacsapáskor)<br/>• `VÉ` csökkentés duplázódik első oda-visszacsapásnál, Sebzéshez: `+7 SP` (oda-vissza)<br/>• `TÉ` büntetések (sérülésből) nem érvényesek<br/>• Max `1x` használható egy küzdelemben |
 | [Támadás erőből taktika](#t%C3%A1mad%C3%A1s-er%C5%91b%C5%91l-taktika) | Erre a [Támadás erőből](fortelyok.harci/tamadas_erobol.md) fortélyt használhatod (lásd a leírását).                                                                                                                                    |
@@ -120,9 +120,19 @@ Kapcsolódó fortély: [Fárasztás](fortelyok.harci/farasztas.md) harci fortél
 ---
 ### Visszafogott taktika
 
-⭕kisebb, meghatározható max sebzés. Ez olyankor szokott lenni, amikor elég egy kis seb ejtése, nem cél az ellenfél megölése⭕
- 
-⭕TODO⭕
+Szándékosan kisebb sebzést próbálsz okozni találatkor - általában olyankor fordul elő, mikor nem cél az ellenfél megölése.
+
+Némi ritmus megtörés bevállalásával csökkentheted az okozott sebzést: kisebb értékű kockával dobhatsz sebzéskor.
+
+```
+TÉ:-10  →  k20 helyett k10
+TÉ:-20  →  k20 helyett k6
+TÉ:-30  →  nincs kockadobás
+           csak a fegyver alap sebzése
+```
+
+A [Harci anatómia](fortelyok.harci/harci_anatomia.md) fortély minden foka `10`-zel csökkenti a `TÉ` büntetést.
+
 
 ---
 ### Roham taktika
