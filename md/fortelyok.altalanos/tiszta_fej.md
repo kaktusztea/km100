@@ -9,7 +9,7 @@
 🌟 **Hatás**:
 - Nehezebben vezetnek meg.
 - Mentális mágikus befolyásolás ellen `+1` Aura értéket kapsz
-- Az ellened irányuló [Hazudozással](../hatterek.szabad/hazudozas.md) Háttérrel használt [Befolyásolási](../kepzettsegek/befolyasolas.md) (képzettség) kísérletek során `+3`-at kapsz
+- Az ellened irányuló [Hazudozás](../hatterek.szabad/hazudozas.md) Háttérrel használt [Befolyásolás](../kepzettsegek/befolyasolas.md) (képzettség) kísérletek során `+3`-at kapsz
   - (⭕[Emberismeretre](../kepzettsegek/emberismeret.md)?? ⭕Vagy ⚪Intelligencia próba??)
 
 <br />
