@@ -5,18 +5,18 @@
 ### Összefoglaló
 
 | **Taktika név**                                                       | **Hatás**                                                                                                                                                                                                                              |
-|:--------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :-------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Támadó taktika](#t%C3%A1mad%C3%B3-taktika)                           | `TÉ:+1 = VÉ:-2`, max `TÉ:+15`                                                                                                                                                                                                          |
 | [Védő taktika](#v%C3%A9d%C5%91-taktika)                               | `VÉ:+1 = TÉ:-2`, max `VÉ:+20`                                                                                                                                                                                                          |
 | [Teljes Védekezés taktika](#teljes-v%C3%A9dekez%C3%A9s-taktika)       | `VÉ:+30`, ellenfeled csak `kiskockával` csökkenthet rajtad `VÉ`-t. Folyamatos hátrálás, nincs támadás, nem kombinálható más taktikával.                                                                                                |
 | [Kezdeményező taktika](#kezdem%C3%A9nyez%C5%91-taktika)               | `KÉ:+1 → VÉ:-2`, max `KÉ:+10`                                                                                                                                                                                                          |
 | [Kiváró taktika](#kiv%C3%A1r%C3%B3-taktika)                           | • Átengedett KÉ, cserébe első visszatámadásra `TÉ:+5`<br/>• Támadó taktikával együtt mehet, Védővel nem, több ellenfeles harcban sem.                                                                                                  |
 | [Fárasztó taktika](#f%C3%A1raszt%C3%B3-taktika)                       | • `+2 VÉ` csökkentés <br />• Sebzés helyett: nagykockás VÉ csökkentés + további `+10 VÉ` csökkentés<br />• `00` dobásnál: további `+5 VÉ` csökkentés<br />• Csak Előnyös helyzetből lehet alkalmazni                                   |
-| [Visszafogott taktika](#visszafogott-taktika)                         | ⭕TODO⭕                                                                                                                                                                                                                               |
+| [Visszafogott taktika](#visszafogott-taktika)                         | ⭕TODO⭕                                                                                                                                                                                                                                 |
 | [Roham taktika](#roham-taktika)                                       | • `TÉ:+20`, `VÉ:-40` (első oda-visszacsapáskor)<br/>• `VÉ` csökkentés duplázódik első oda-visszacsapásnál , Sebzéshez: `+5 SP` (oda-vissza)                                                                                            |
 | [Öngyilkos roham taktika](#%C3%B6ngyilkos-roham-taktika)              | • `TÉ:+25`,`VÉ:-50` (első oda-visszacsapáskor)<br/>• `VÉ` csökkentés duplázódik első oda-visszacsapásnál, Sebzéshez: `+7 SP` (oda-vissza)<br/>• `TÉ` büntetések (sérülésből) nem érvényesek<br/>• Max `1x` használható egy küzdelemben |
 | [Támadás erőből taktika](#t%C3%A1mad%C3%A1s-er%C5%91b%C5%91l-taktika) | Erre a [Támadás erőből](fortelyok.harci/tamadas_erobol.md) fortélyt használhatod (lásd a leírását).                                                                                                                                    |
-| [Érintő támadás](#%C3%A9rint%C5%91-t%C3%A1mad%C3%A1s) ⇄               | `KÉ:0`, `TÉ:0`, `VÉ:-10`                                                                                                                                                                                                               |
+| [Érintő taktika](#%C3%A9rint%C5%91-taktika) ⇄                         | `KÉ:0`, `TÉ:0`, `VÉ:-10`                                                                                                                                                                                                               |
 
 ### Ökölszabály Védő Érték eltolásra 🔆
 
@@ -166,9 +166,13 @@ Erre a [Támadás erőből](fortelyok.harci/tamadas_erobol.md) fortélyt haszná
 E taktika mellett más harci taktikát nem alkalmazhatsz.
 
 ---
-### Érintő támadás
+### Érintő taktika
 
-Ha csak meg akarunk érinteni valakit harc közben, az könnyebb, mint puszta kézzel sérülést okozó támadást végbevinni. Az Érintő támadás harcértékei ezért: `KÉ:0`, `TÉ:0`, `VÉ:-10`
+Ha csak meg akarunk érinteni valakit harc közben, az könnyebb, mint puszta kézzel sérülést okozó támadást végbevinni. Az Érintő támadás harcértékei ezért:
+
+```
+KÉ:0, TÉ:0, VÉ:-10
+```
 
 Tehát a támadásra kisebb a büntetés, mint puszta kézre, a védekezés viszont nem változik.
 
