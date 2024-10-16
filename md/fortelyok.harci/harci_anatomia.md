@@ -9,8 +9,10 @@ Ismered a test sebezhető pontjait és tisztában vagy a létfontosságú belső
 
 🌟 **Hatás**:
 - Sikeres [Területre / Pontra Támadás](../065_05_altalanos_manoverek.md#területre--pontra-támadás) Manőver, vagy [Orvtámadás](../065_05_altalanos_manoverek.md#orvtámadás) esetén `SP:+2` (csak vértmentes ponton)
-- [Visszafogott Csapás](../064_02_harci_taktikak.md#visszafogott-csapás--harc-az-ellenfél-elfogásáért) harci taktika csak [Támadás hátulról](../064_01_harci_helyzetek.md#támadás-hátulról) esetén működik, harc közben nem.
+- ⭕ [Visszafogott taktika](../064_02_harci_taktikak.md#visszafogott-taktika) csak [Támadás hátulról](../064_01_harci_helyzetek.md#támadás-hátulról) esetén működik, harc közben nem.⭕
 - [Leütés hátulról](../065_05_altalanos_manoverek.md#le%C3%BCt%C3%A9s-h%C3%A1tulr%C3%B3l) harci taktika bónuszait lásd lenn!
+
+https://github.com/kaktusztea/km100/blob/master/md/064_02_harci_taktikak.md#visszafogott-taktika
 
 ---
 #### 2. fok
@@ -22,7 +24,7 @@ Ismered a test sebezhető pontjait és tisztában vagy a létfontosságú belső
 
 🌟 **Hatás**:
 - Sikeres [Területre / Pontra Támadás](../065_05_altalanos_manoverek.md#területre--pontra-támadás) Manőver, vagy [Orvtámadás](../065_05_altalanos_manoverek.md#orvtámadás) esetén `SP:+4` (csak vértmentes ponton)
-- Harc közben is használható a [Visszafogott Csapás](../064_02_harci_taktikak.md#visszafogott-csapás--harc-az-ellenfél-elfogásáért) harci taktika.
+- ⭕Harc közben is használható a [Visszafogott taktika](../064_02_harci_taktikak.md#visszafogott-taktika) harci taktika.⭕
 - **Leütés hátulról** harci szituációban is bónuszt ad.
 
 ---
@@ -38,7 +40,7 @@ Ismered a test sebezhető pontjait és tisztában vagy a létfontosságú belső
 
 🌟 **Hatás**:
 - Sikeres [Területre / Pontra Támadás](../065_05_altalanos_manoverek.md#területre--pontra-támadás) Manőver, vagy [Orvtámadás](../065_05_altalanos_manoverek.md#orvtámadás) esetén `SP:+4` - csak vértmentes ponton!
-- Harc közben is használható a [Visszafogott Csapás](../064_02_harci_taktikak.md#visszafogott-csapás--harc-az-ellenfél-elfogásáért) harci taktika.
+- Harc közben is használható a [Visszafogott taktika](../064_02_harci_taktikak.md#visszafogott-taktika) harci taktika.
 - [Leütés hátulról](../065_05_altalanos_manoverek.md#le%C3%BCt%C3%A9s-h%C3%A1tulr%C3%B3l) harci szituációban is bónuszt ad.
 - Ismer olyan kényes pontokat, amelyekkel béníthat, görcsöt vagy kábulatot okozhat, és az ilyen technikával okozott ugyanilyen hatásokat szüntethet meg.
 - Szemgolyót szedhet ki harc közben. ⭕TODO: ez hogy jelenik meg a játékban??⭕
@@ -52,9 +54,14 @@ Ismered a test sebezhető pontjait és tisztában vagy a létfontosságú belső
 - `K3` hatása `1` kategóriával csökken (Pl. `2.fokon` már sosincs `ÉP` seb)
 
 ---
-#### [Visszafogott csapás / Harc az ellenfél elfogásáért](../064_02_harci_taktikak.md#visszafogott-csapás--harc-az-ellenfél-elfogásáért)
+#### [Visszafogott taktika](../064_02_harci_taktikak.md#visszafogott-taktika) 
 
 ⭕TODO⭕ ha ki lett dolgozva a fenti taktika, akkor kitalálni hozzá az itteni bónuszokat.
+
+#### [Harc az ellenfél elfogásáért](../064_02_harci_taktikak.md#visszafogott-csapás--harc-az-ellenfél-elfogásáért)
+
+⭕TODO⭕ 
+
 
 ---
 #### Megjegyzések
