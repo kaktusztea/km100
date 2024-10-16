@@ -175,7 +175,7 @@ E taktika mellett más harci taktikát nem alkalmazhatsz.
 ---
 ### Érintő taktika
 
-Ha csak meg akarunk érinteni valakit harc közben, az könnyebb, mint puszta kézzel sérülést okozó támadást végbevinni. Az Érintő támadás harcértékei ezért:
+Ha csak meg akarunk érinteni valakit harc közben, az könnyebb, mint puszta kézzel sérülést okozó támadást végbevinni. Az Érintő támadásnál a Puszta kéz harcértékei ezért:
 
 ```
 KÉ:0, TÉ:0, VÉ:-10
