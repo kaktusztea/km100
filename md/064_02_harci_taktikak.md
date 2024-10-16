@@ -133,7 +133,6 @@ TÉ:-30  →  nincs kockadobás
 
 A [Harci anatómia](fortelyok.harci/harci_anatomia.md) fortély minden foka `10`-zel csökkenti a `TÉ` büntetést.
 
-
 ---
 ### Roham taktika
 
