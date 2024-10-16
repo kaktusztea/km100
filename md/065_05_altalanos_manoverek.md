@@ -12,9 +12,9 @@
 - [Lánccsapda](#l%C3%A1nccsapda)
 - [Lánccsapdából szabadítás](#l%C3%A1nccsapd%C3%A1b%C3%B3l-szabad%C3%ADt%C3%A1s)
 - [Lefegyverzés / Fegyvertörés](#lefegyverz%C3%A9s--fegyvert%C3%B6r%C3%A9s)
-- [Leütés hátulról](xyz⭕) ⭕
+- [Leütés hátulról](#le%C3%BCt%C3%A9s-h%C3%A1tulr%C3%B3l)
 - [Mesterjel](#mesterjel)
-- [Mögékerülés](xyz⭕) ⭕
+- [Mögékerülés](#m%C3%B6g%C3%A9ker%C3%BCl%C3%A9s)
 - [Orvtámadás](#orvt%C3%A1mad%C3%A1s)
 - [Pajzzsal öklelés](#pajzzsal-%C3%B6klel%C3%A9s)
 - [Pajzsrongálás](#pajzsrong%C3%A1l%C3%A1s)
@@ -259,7 +259,7 @@ A használt fegyver csak valamilyen (legfeljebb 1 penge hosszú) hegyes szúróf
 <br />
 
 ---
-####  Mögékerülés
+#### Mögékerülés
 
 Megpróbálsz ellenfeled mögé kerülni. Nem titokban, sunnyogva, lopakodva, hanem ügyes helyezkedéssel mozogsz a megfelelő helyre. Minél többen vagytok, minél nagyobb a túlerő, annál könnyebb a dolgod.
 
@@ -269,7 +269,7 @@ Megpróbálsz ellenfeled mögé kerülni. Nem titokban, sunnyogva, lopakodva, ha
   -  `4`: egy:négy+ túlerő esetén
 - Fázisok: `E`
 
-**Hatás**: sikerült ellenfeled hátába kerülnöd, megkapod a [Támadás hátulról](064_01_harci_helyzetek.md#t%C3%A1mad%C3%A1s-h%C3%A1tulr%C3%B3l) bónuszait. Ellenfeled dönthet úgy, hogy mostantól inkább veled foglalkozik, de ekkor azon szövetségesed, akivel eddig harcolt, kapja meg a **Támadás hátulról**, vagy a [Támadás félhátulról](064_01_harci_helyzetek.md#t%C3%A1mad%C3%A1s-f%C3%A9lh%C3%A1tulr%C3%B3l) bónuszait - attól függőe, hogy milyen pozícióban van.
+**Hatás**: sikerült ellenfeled hátába kerülnöd, megkapod a [Támadás hátulról](064_01_harci_helyzetek.md#t%C3%A1mad%C3%A1s-h%C3%A1tulr%C3%B3l) bónuszait. Ellenfeled dönthet úgy, hogy mostantól inkább veled foglalkozik, de ekkor azon szövetségesed, akivel eddig harcolt, kapja meg a **Támadás hátulról**, vagy a [Támadás félhátulról](064_01_harci_helyzetek.md#t%C3%A1mad%C3%A1s-f%C3%A9lh%C3%A1tulr%C3%B3l) bónuszait - attól függően, hogy milyen pozícióban van.
 
 ---
 #### Orvtámadás

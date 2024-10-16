@@ -20,12 +20,10 @@ Először lássuk az "erő-átcsoportosító" jellegű taktikákat.
 
 Most pedig lássuk a speciálisabb taktikákat.
 
-| **Taktika név**                                                                           | **Hatás**                                                                                                                                                                                                                                                                                                                    |
-| :---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Leütés hátulról (fejre/tarkóra)](#le%C3%BCt%C3%A9s-h%C3%A1tulr%C3%B3l-fejretark%C3%B3ra) | • Követelmény: [Észrevétlen támadás](064_01_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s) harci helyzet, Sebző Találat<br/>• Ha Súlyos a seb (`12 ÉP`) → Fájdalomtűrés (+Edzettség) próba (`12`). Ha nincs meg, elájul.<br/>• [Harci anatómiával](fortelyok.harci/harci_anatomia.md) könnyebb (lásd a leírást) |
-| [Érintő támadás](#%C3%A9rint%C5%91-t%C3%A1mad%C3%A1s) ⇄                                   | `KÉ:0`, `TÉ:0`, `VÉ:-10`                                                                                                                                                                                                                                                                                                     |
-| [Mögékerülés](#m%C3%B6g%C3%A9ker%C3%BCl%C3%A9s)                                           | Követelmény: az ellenfél nem lát téged, aztán sikeres [Lopakodás/Rejtőzés](kepzettsegek/lopakodas_rejtozes.md) vs. [Észlelés](kepzettsegek/eszleles.md) ellenpróba. Harc közben hátbakerülni csak teljes bekerítéssel lehet.                                                                                                 |
-| ⭕Visszafogott csapás / Harc az ellenfél elfogásáért                                       | ⭕TODO⭕Egyesíteni a "Leütés Hátulról" taktikával?⭕ Bónuszt ad: **Harci anatómia** fortély                                                                                                                                                                                                                                     |
+| **Taktika név**                                         | **Hatás**                                                                                                                                                                                                                    |
+| :------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Érintő támadás](#%C3%A9rint%C5%91-t%C3%A1mad%C3%A1s) ⇄ | `KÉ:0`, `TÉ:0`, `VÉ:-10`                                                                                                                                                                                                     |
+| ⭕Visszafogott csapás / Harc az ellenfél elfogásáért     | ⭕TODO⭕Egyesíteni a "Leütés Hátulról" taktikával?⭕ Bónuszt ad: **Harci anatómia** fortély                                                                                                                                     |
 
 ### Ökölszabály Védő Érték eltolásra
 
@@ -175,13 +173,6 @@ E taktika mellett más harci taktikát nem alkalmazhatsz.
 Ha csak meg akarunk érinteni valakit harc közben, az könnyebb, mint puszta kézzel sérülést okozó támadást végbevinni. Az Érintő támadás harcértékei ezért: `KÉ:0`, `TÉ:0`, `VÉ:-10`
 
 Tehát a támadásra kisebb a büntetés, mint puszta kézre, a védekezés viszont nem változik.
-
----
-### Mögékerülés
-
-Ezt akkor teheted meg, ha az ellenfél nem lát téged és zavartalanul osonhatsz mögé. Ekkor sikeres [Lopakodás/Rejtőzés](kepzettsegek/lopakodas_rejtozes.md) vs. [Észlelés](kepzettsegek/eszleles.md) ellenpróba szükséges.
-
-Harc közben hátbakerülni **csak akkor lehet**, ha annyian veszitek körbe az ellenfelet, amikor már nem tud mindenkit ide-oda kapkodva szemmel tartani (teljes bekerítés).
 
 ---
 ### Visszafogott csapás / Harc az ellenfél elfogásáért
