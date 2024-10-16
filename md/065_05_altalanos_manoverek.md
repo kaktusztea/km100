@@ -4,6 +4,7 @@
 - [Belharcba kerülés](#belharcba-ker%C3%BCl%C3%A9s)
 - [Belharcból kibontakozás](#belharcb%C3%B3l-kibontakoz%C3%A1s)
 - [Csonkolás](#csonkol%C3%A1s)
+- [Ellenfél elfogása](⭕)⭕
 - [Felállás földről](#fel%C3%A1ll%C3%A1s-f%C3%B6ldr%C5%91l)
 - [Kibontakozás](#kibontakoz%C3%A1s)
 - [Kiegészítő támadás](#kieg%C3%A9sz%C3%ADt%C5%91-t%C3%A1mad%C3%A1s)
@@ -90,6 +91,17 @@ Továbbá megfelelő mennyiségű `ÉP` sebzést kell okoznod.
 
 - Kéz csonkolása: (áldozat `max ÉP / 3`) (felfele kerekítve) sebzés szükséges
 - Láb csonkolása: (áldozat `max ÉP / 2`) (felfele kerekítve) sebzés szükséges
+
+---
+#### Ellenfél elfogása
+
+  - Nehézség: 10
+  - Fázisok: `E V`
+  - **Végrehajtás** fázisra **NEM JÁR** a `TÉ:+20` módosító
+
+**Hatás**: Olyan helyzetet alakítasz ki, ahol az ellenfél fegyvere már nem fenyeget, te viszont életfontosságú pont mellé helyezed fegyvered- például a nyakára teszed fegyveredet, míg ő kiszolgáltatottan féltérdre rogy. Ha megmozdul, végzel vele.
+
+**Kijövetel**: egy ilyen helyzetből `10`-es Nehézségű [Kibontakozás](#kibontakoz%C3%A1s) Manőverrel jöhetsz ki, ahol ellenfeled megelőző **Megakasztás** támadására `TÉ:+50` módosítót kap!
 
 ---
 #### Felállás földről

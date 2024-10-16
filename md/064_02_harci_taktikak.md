@@ -6,28 +6,23 @@
 
 Először lássuk az "erő-átcsoportosító" jellegű taktikákat.
 
-| **Taktika név**                                                       | **Hatás**                                                                                                                                                                                                                                                                     |
-|:--------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Támadó taktika](#t%C3%A1mad%C3%B3-taktika)                           | `TÉ:+1 = VÉ:-2`, max `TÉ:+15`                                                                                                                                                                                                                                                 |
-| [Védő taktika](#v%C3%A9d%C5%91-taktika)                               | `VÉ:+1 = TÉ:-2`, max `VÉ:+20`                                                                                                                                                                                                                                                 |
-| [Teljes Védekezés taktika](#teljes-v%C3%A9dekez%C3%A9s-taktika)       | `VÉ:+30`, ellenfeled csak `kiskockával` csökkenthet rajtad `VÉ`-t. Folyamatos hátrálás, nincs támadás, nem kombinálható más taktikával.                                                                                                                                       |
-| [Kezdeményező taktika](#kezdem%C3%A9nyez%C5%91-taktika)               | `KÉ:+1 → VÉ:-2`, max `KÉ:+10`                                                                                                                                                                                                                                                 |
-| [Kiváró taktika](#kiv%C3%A1r%C3%B3-taktika)                           | • Átengedett KÉ, cserébe első visszatámadásra `TÉ:+5`<br/>• Támadó taktikával együtt mehet, Védővel nem, több ellenfeles harcban sem.                                                                                                                                         |
-| [Fárasztó taktika](#f%C3%A1raszt%C3%B3-taktika)                       | • `+2 VÉ` csökkentés <br />• Sebzés helyett: nagykockás VÉ csökkentés + további `+10 VÉ` csökkentés<br />• `00` dobásnál: további `+5 VÉ` csökkentés<br />• Csak Előnyös helyzetből lehet alkalmazni                                                                          |
-| [Roham taktika](#roham-taktika)                                       | • `TÉ:+20`, `VÉ:-40` (első oda-visszacsapáskor)<br/>• VÉ csökkentés duplázódik első oda-visszacsapásnál , Sebzéshez: `+5 SP` (oda-vissza)                                                                                                                                     |
-| [Öngyilkos roham taktika](#%C3%B6ngyilkos-roham-taktika)              | • `TÉ:+25`,`VÉ:-50` (első oda-visszacsapáskor)<br/>• VÉ csökkentés duplázódik első oda-visszacsapásnál, Sebzéshez: `+7 SP` (oda-vissza)<br/>• TÉ büntetések (sérülésből) nem érvényesek, max `2x` használható egy küzdelemben<br/>• Küzdelmenként legfeljebb 1x alkalmazható. |
-| [Támadás erőből taktika](#t%C3%A1mad%C3%A1s-er%C5%91b%C5%91l-taktika) | Erre a [Támadás erőből](fortelyok.harci/tamadas_erobol.md) fortélyt használhatod (lásd a leírását).                                                                                                                                                                           |
+| **Taktika név**                                                       | **Hatás**                                                                                                                                                                                                                              |
+| :-------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Támadó taktika](#t%C3%A1mad%C3%B3-taktika)                           | `TÉ:+1 = VÉ:-2`, max `TÉ:+15`                                                                                                                                                                                                          |
+| [Védő taktika](#v%C3%A9d%C5%91-taktika)                               | `VÉ:+1 = TÉ:-2`, max `VÉ:+20`                                                                                                                                                                                                          |
+| [Teljes Védekezés taktika](#teljes-v%C3%A9dekez%C3%A9s-taktika)       | `VÉ:+30`, ellenfeled csak `kiskockával` csökkenthet rajtad `VÉ`-t. Folyamatos hátrálás, nincs támadás, nem kombinálható más taktikával.                                                                                                |
+| [Kezdeményező taktika](#kezdem%C3%A9nyez%C5%91-taktika)               | `KÉ:+1 → VÉ:-2`, max `KÉ:+10`                                                                                                                                                                                                          |
+| [Kiváró taktika](#kiv%C3%A1r%C3%B3-taktika)                           | • Átengedett KÉ, cserébe első visszatámadásra `TÉ:+5`<br/>• Támadó taktikával együtt mehet, Védővel nem, több ellenfeles harcban sem.                                                                                                  |
+| [Fárasztó taktika](#f%C3%A1raszt%C3%B3-taktika)                       | • `+2 VÉ` csökkentés <br />• Sebzés helyett: nagykockás VÉ csökkentés + további `+10 VÉ` csökkentés<br />• `00` dobásnál: további `+5 VÉ` csökkentés<br />• Csak Előnyös helyzetből lehet alkalmazni                                   |
+| Visszafogott taktika⭕                                                 | ⭕TODO⭕                                                                                                                                                                                                                                 |
+| [Roham taktika](#roham-taktika)                                       | • `TÉ:+20`, `VÉ:-40` (első oda-visszacsapáskor)<br/>• `VÉ` csökkentés duplázódik első oda-visszacsapásnál , Sebzéshez: `+5 SP` (oda-vissza)                                                                                            |
+| [Öngyilkos roham taktika](#%C3%B6ngyilkos-roham-taktika)              | • `TÉ:+25`,`VÉ:-50` (első oda-visszacsapáskor)<br/>• `VÉ` csökkentés duplázódik első oda-visszacsapásnál, Sebzéshez: `+7 SP` (oda-vissza)<br/>• `TÉ` büntetések (sérülésből) nem érvényesek<br/>• Max `1x` használható egy küzdelemben |
+| [Támadás erőből taktika](#t%C3%A1mad%C3%A1s-er%C5%91b%C5%91l-taktika) | Erre a [Támadás erőből](fortelyok.harci/tamadas_erobol.md) fortélyt használhatod (lásd a leírását).                                                                                                                                    |
+| [Érintő támadás](#%C3%A9rint%C5%91-t%C3%A1mad%C3%A1s) ⇄               | `KÉ:0`, `TÉ:0`, `VÉ:-10`                                                                                                                                                                                                               |
 
-Most pedig lássuk a speciálisabb taktikákat.
+### Ökölszabály Védő Érték eltolásra 🔆
 
-| **Taktika név**                                         | **Hatás**                                                                                                                                                                                                                    |
-| :------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Érintő támadás](#%C3%A9rint%C5%91-t%C3%A1mad%C3%A1s) ⇄ | `KÉ:0`, `TÉ:0`, `VÉ:-10`                                                                                                                                                                                                     |
-| ⭕Visszafogott csapás / Harc az ellenfél elfogásáért     | ⭕TODO⭕Egyesíteni a "Leütés Hátulról" taktikával?⭕ Bónuszt ad: **Harci anatómia** fortély                                                                                                                                     |
-
-### Ökölszabály Védő Érték eltolásra
-
-Egyes taktikák kombinálhatóak egymással, mások nem (lásd leírásukat), de fontos szabály, hogy **Védő Értékedet** legfeljebb `-30`-al tolhatod el.
+Egyes taktikák kombinálhatóak egymással, mások nem (lásd leírásukat), de fontos szabály, hogy **Védő Értékedet** legfeljebb `-30/+30`-al tolhatod el.
 
 ---
 ### Támadó taktika
@@ -128,6 +123,13 @@ A Fárasztó taktikának leginkább körbevett ellenfél esetén van értelme: a
 Kapcsolódó fortély: [Fárasztás](fortelyok.harci/farasztas.md) harci fortély
 
 ---
+### Visszafogott taktika
+
+⭕kisebb, meghatározható max sebzés. Ez olyankor szokott lenni, amikor elég egy kis seb ejtése, nem cél az ellenfél megölése⭕
+ 
+⭕TODO⭕
+
+---
 ### Roham taktika
 
 Roham esetén **az első oda- és visszacsapás során** a támadó `TÉ:+20` és `VÉ:-40` módosítót kap, és `+5 SP` bónuszt sebzésdobására (`+1` sebzés kategória). Az okozott **VÉ csökkentés** duplázódik az első oda- és visszacsapásnál is.
@@ -149,13 +151,13 @@ Módosítók az első oda-vissza csapásnál:
 ---
 ### Öngyilkos roham taktika
 
-A roham vehemensebb (és őrültebb) verziója. A harcos ekkor szinte semmit nem törődik védekezésével, mindent megtesz, hogy (dupla) sebzést érjen el. Különlegessége, hogy erre az egy támadásra nem érvényesülnek a sérülésből adódó **TÉ levonások**, az adrenalin elsöpör minden gátat. Súlyosan sérült harcosok utolsó mentsvára lehet ez a taktika. Küzdelmenként **legfeljebb 1x** alkalmazható. A fentieken és a harcérték módosítókon kívül az Öngyilkos roham minden másban megegyezik a sima **Rohammal**.
+A roham vehemensebb (és őrültebb) verziója. A harcos ekkor szinte semmit nem törődik védekezésével, mindent megtesz, hogy (dupla) sebzést érjen el. Különlegessége, hogy erre az egy támadásra nem érvényesülnek a sérülésből adódó **TÉ levonások**, az adrenalin elsöpör minden gátat. Súlyosan sérült harcosok utolsó mentsvára lehet ez a taktika. Küzdelmenként **legfeljebb 1x** alkalmazható. A fentieken és a harcérték módosítókon kívül az **Öngyilkos roham** minden másban megegyezik a sima **Rohammal**.
 
 Módosítók az első oda-vissza csapásnál:
 
 - `TÉ:+25` ; `VÉ:-50`
-- Támadó TÉ büntetése sebesülésből nem érvényesül
-- VÉ csökkentés duplázódik
+- Támadó `TÉ` büntetése sebesülésből nem érvényesül
+- `VÉ` csökkentés duplázódik
 - Sebzés: `+7 SP`
 
 ---
@@ -166,8 +168,6 @@ Erre a [Támadás erőből](fortelyok.harci/tamadas_erobol.md) fortélyt haszná
 E taktika mellett más harci taktikát nem alkalmazhatsz.
 
 ---
-
----
 ### Érintő támadás
 
 Ha csak meg akarunk érinteni valakit harc közben, az könnyebb, mint puszta kézzel sérülést okozó támadást végbevinni. Az Érintő támadás harcértékei ezért: `KÉ:0`, `TÉ:0`, `VÉ:-10`
@@ -175,9 +175,3 @@ Ha csak meg akarunk érinteni valakit harc közben, az könnyebb, mint puszta k�
 Tehát a támadásra kisebb a büntetés, mint puszta kézre, a védekezés viszont nem változik.
 
 ---
-### Visszafogott csapás / Harc az ellenfél elfogásáért
-
-⭕TODO⭕
-⭕TODO⭕Egyesíteni a "Leütés Hátulról" taktikával?⭕ Bónuszt ad: **Harci anatómia** fortély
-
-→ [Kidolgozás itt](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.harcrendszer#harci-taktik%C3%A1k-tiszt%C3%A1z%C3%A1sa). Ha kész, bemozgatni ide.
