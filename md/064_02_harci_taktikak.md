@@ -13,6 +13,7 @@
 | [Öngyilkos roham taktika](#%C3%B6ngyilkos-roham-taktika)              | • `TÉ:+25`,`VÉ:-50` (első oda-visszacsapáskor)<br/>• `VÉ` csökkentés duplázódik első oda-visszacsapásnál, Sebzéshez: `+7 SP` (oda-vissza)<br/>• `TÉ` büntetések (sérülésből) nem érvényesek<br/>• Max `1x` használható egy küzdelemben |
 | [Támadás erőből taktika](#t%C3%A1mad%C3%A1s-er%C5%91b%C5%91l-taktika) | Erre a [Támadás erőből](fortelyok.harci/tamadas_erobol.md) fortélyt használhatod (lásd a leírását).                                                                                                                                    |
 | [Érintő taktika](#%C3%A9rint%C5%91-taktika) ⇄                         | `KÉ:0`, `TÉ:0`, `VÉ:-10`                                                                                                                                                                                                               |
+
 🔆 A taktikák használatát kör elején, kezdeményezés előtt kell bejelenteni, kivéve az ⇄ jellel megjelölteket, azokat kör és támadások közben is lehet variálni.
 
 ### Ökölszabály Védő Érték eltolásra 🔆
