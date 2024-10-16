@@ -54,11 +54,11 @@ https://github.com/kaktusztea/km100/blob/master/md/064_02_harci_taktikak.md#viss
 - `K3` hatása `1` kategóriával csökken (Pl. `2.fokon` már sosincs `ÉP` seb)
 
 ---
-#### [Visszafogott taktika](../064_02_harci_taktikak.md#visszafogott-taktika) 
+#### [Visszafogott taktika](../064_02_harci_taktikak.md#visszafogott-taktika)
 
 ⭕TODO⭕ ha ki lett dolgozva a fenti taktika, akkor kitalálni hozzá az itteni bónuszokat.
 
-#### [Harc az ellenfél elfogásáért](../064_02_harci_taktikak.md#visszafogott-csapás--harc-az-ellenfél-elfogásáért)
+#### [Harc az ellenfél elfogásáért](../065_05_altalanos_manoverek.md#ellenf%C3%A9l-elfog%C3%A1sa)
 
 ⭕TODO⭕ 
 
