@@ -8,6 +8,8 @@ Az évek során több \"alapmotort\" fejlesztettünk és dobtunk ki (ez leginká
 
 Alább egy rövid summázatot találhatunk a rendszer fejlesztésének főbb mérföldköveiről:
 
+<br />
+
 ### 2005.05.31
 
 Kezdetek: első, háziszabályokat tartalmazó dokumentum: [2005-05-31_haziszabalyok_0v2.pdf](https://github.com/kaktusztea/km100/raw/master/archive/history/2005-05-31_haziszabalyok_0v2.pdf?raw=true)

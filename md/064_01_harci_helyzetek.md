@@ -124,20 +124,19 @@ Ha valaki úgy képes támadást leadni, hogy ellenfele erről az utolsó pillan
 
 Észrevétlen támadáshoz az alkalmazónak sikeres ellenpróbát kell dobnia **Lopakodás/rejtőzés** képzettségével áldozata **Észlelés** képzettsége ellen.
 
- Az Észrevétlen támadás több harci taktika követelménye (pl. Orvtámadás)
+Az **Észrevétlen támadás** több Manőver követelménye, mint például az [Orvtámadás](065_05_altalanos_manoverek.md#orvt%C3%A1mad%C3%A1s).
  
 Ilyenkor ellenfele `Védő Értékét` annak mozgási jellege és mérete határozza meg:
 
-
-| **Célpont mozgásának jellege**      | **VÉ**   |
-| ----------------------------------- | :------: |
-| Álló helyzet (vagy sétáló hátulról) | 0        |
-| Lassú egyenletes (séta)             | 20       |
-| Egyenletes kocogás                  | 40       |
-| Sprint egyenes vonalon              | 60       |
-| Lassú kiszámíthatatlan              | 40       |
-| Közepesen gyors, kiszámíthatatlan   | 70       |
-| Gyors, kiszámíthatatlan             | 100      |
+| **Célpont mozgásának jellege**    | **VÉ** |
+| --------------------------------- | :----: |
+| Álló helyzet                      |   0    |
+| Lassú egyenletes (séta)           |   20   |
+| Egyenletes kocogás                |   40   |
+| Sprint egyenes vonalon            |   60   |
+| Lassú kiszámíthatatlan            |   40   |
+| Közepesen gyors, kiszámíthatatlan |   70   |
+| Gyors, kiszámíthatatlan           |  100   |
 
 <br/>
 

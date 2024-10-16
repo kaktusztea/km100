@@ -230,14 +230,19 @@ Ha meg akarod fosztani ellenfeledet fegyverétől, vagy kiütve kezéből, vagy 
 ---
 ### Leütés hátulról
 
-Hasonlatos az Orvtámadáshoz, de itt nem a minél nagyobb sebzés, hanem a - nem halálos - ártalmatlanítás a cél. A **Nehézség** a [Területre támadás](#ter%C3%BCletre--pontra-t%C3%A1mad%C3%A1s) Manőverből származtatott, könnyített érték.
+Hasonlatos az Orvtámadáshoz, de itt nem a minél nagyobb sebzés, hanem az ájulásos ártalmatlanítás a cél. A **Nehézség** a [Területre támadás](#ter%C3%BCletre--pontra-t%C3%A1mad%C3%A1s) Manőverből származtatott, könnyített érték.
 
 - Nehézség: `7`
--  Fázisok: `V E`
-- Követelmény: [Észrevétlen támadás](064_01_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s), [Támadás hátulról](064_01_harci_helyzetek.md#t%C3%A1mad%C3%A1s-h%C3%A1tulr%C3%B3l) harci helyzetek
+- Fázisok: `V E`
+- Követelmény:
+  - [Észrevétlen támadás](064_01_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s) harci helyzet → e nélkül csak sima [Támadás hátulról](064_01_harci_helyzetek.md#t%C3%A1mad%C3%A1s-h%C3%A1tulr%C3%B3l) harci helyzet lenne
+  - [Támadás hátulról](064_01_harci_helyzetek.md#t%C3%A1mad%C3%A1s-h%C3%A1tulr%C3%B3l) harci helyzet
+  - Sisak nélküli célpont
+  - Elfszabású anatómia
+  - zúzófegyver (akár fegyver markolat), vagy Puszta kéz
 - Célpont `VÉ = 30 + mozgás jellegétől függő módosító` (lásd [Észrevétlen támadás](064_01_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s))
 
-⭕⭕⭕
+⭕⭕⭕TODO: Egyszerűsíteni⭕
 Ha a támadás sebző **Találat**, akkor és a sebzés legalább Súlyos lenne (`12 ÉP`), akkor az áldozat Fájdalomtűrés próbát dob `12`-es célszám (**Nehéz**) ellen, ezúttal **Edzettség** tulajdonsággal. Ha nincs meg, azonnal elájul.
 
 ```
@@ -251,9 +256,13 @@ Hogy megkapjuk a valós ÉP seb mennyiségét, amit az áldozat elszenved, dobju
 - `3`: a teljes sebzés bement `ÉP`-ben
 Ez azért van, mert egy járatlan támadó nem tudja olyan jól megbecsülni a szükséges erő nagyságát, ha rosszul méri fel az erejét, könnyen komoly sebet okozhat.
 
-**[Harci anatómia](fortelyok.harci/harci_anatomia.md)** harci fortély módosítja a fenti dobást, bónuszait lásd annak leírásánál.
+⭕⭕⭕
 
-**Megjegyezés**: a Markolat sebzése: `k20 + 0 SP` (Zúzó)
+**Megjegyezés**: a **Fegyver markolat** sebzése: `k20 + 0 SP` (Zúzó)
+
+A [Harci anatómia](fortelyok.harci/harci_anatomia.md) fortély minden foka `2`-vel csökkenti a **Nehézséget**.
+
+
 
 ⭕⭕⭕
 
@@ -282,6 +291,8 @@ Megpróbálsz ellenfeled mögé kerülni. Nem titokban, sunnyogva, lopakodva, ha
 - Fázisok: `E`
 
 **Hatás**: sikerült ellenfeled hátába kerülnöd, megkapod a [Támadás hátulról](064_01_harci_helyzetek.md#t%C3%A1mad%C3%A1s-h%C3%A1tulr%C3%B3l) bónuszait. Ellenfeled dönthet úgy, hogy mostantól inkább veled foglalkozik, de ekkor azon szövetségesed, akivel eddig harcolt, kapja meg a **Támadás hátulról**, vagy a [Támadás félhátulról](064_01_harci_helyzetek.md#t%C3%A1mad%C3%A1s-f%C3%A9lh%C3%A1tulr%C3%B3l) bónuszait - attól függően, hogy milyen pozícióban van.
+
+<br />
 
 ---
 #### Orvtámadás
@@ -358,12 +369,12 @@ Meglepetés esetén is kell **Ellenpróbát** dobni
         - [Kínokozás](fortelyok.harci/kinokozas.md) harci fortély **Fájdalomtűrés hatása** csak itt használható - ha vértmentes pont a cél.
     - `12`: Szemkiszúrás
 - Nehézség módosítók:
-    - `0`: egykezes kardvívó fegyverekkel
+    - `0`: egykezes kardvívó fegyverekkel, Puszta kéz
     - `+2`: zúzófegyverekkel
     - `-2`: Rapír/Tőrkard
     - `+2`: [Roham](064_02_harci_taktikak.md#roham-taktika) alkalmazása esetén
 - Fázisok: `V E`
-	- Végrehajtás során **nem kapod meg a +20 TÉ módosítót**, sima támadást dobsz! Ha a Végrehajtás sikeres, dobhatod az Ellenpróbát.
+	- Végrehajtás során **❗ nem kapod meg a +20 TÉ módosítót ❗**, sima támadást dobsz! Ha a Végrehajtás sikeres, dobhatod az Ellenpróbát.
 - Követelmény: Aktuális harcmodor - `6.szint`
 
 **Hatás**: Az általad kiszemelt területre sikerül leadnod a támadásod, sebezz, ahogy szoktál. Érme méretű, páncéllal nem fedett terület eseténa [Harci Anatómia](fortelyok.harci/harci_anatomia.md) **SP** bónusz érvényesül.
