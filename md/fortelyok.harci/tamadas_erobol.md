@@ -7,8 +7,7 @@ Lassabbat, de nagyobbat ütsz.
 
 🔒 **Követelmény**: 
 - Erő: `+2`
-- Harcmodor - `3.szint`
-- (Kardvívás, Lándzsavívás, Zúzás)
+- Harcmodor - `3.szint`<br /> (Kardvívás / Lándzsavívás / Zúzás)
 
 🌟 **Hatás**: legfeljebb `+3 SP` (`TÉ:-9`) pakolható át
 
@@ -17,18 +16,13 @@ Lassabbat, de nagyobbat ütsz.
 
 🔒 **Követelmény**:
 - Erő: `+3`
-- Harcmodor - `6.szint`
-- (Kardvívás, Lándzsavívás, Zúzás)
+- Harcmodor - `6.szint`<br /> (Kardvívás / Lándzsavívás / Zúzás)
 
 🌟 **Hatás**: legfeljebb `+6 SP` (`TÉ:-12`) pakolható át
 
-<br />
-
+---
 #### Megjegyzések
 
-A fortély **Közelharc** Harcmodorban NEM használható
-
-<br />
-
+A fortély **Közelharc** Harcmodorban **NEM** használható
 
 ---
