@@ -48,8 +48,8 @@ Ebben a hónapban indult el a [km100 Google Groups](https://groups.google.com/g/
   - Nagyjából kész a Manőverek és a Távolsági harc fejezet
   - Fortélyok vannak, de hiányosak
   - Kaszt fortélyok vannak, de hiányosak
-  - Pszi: ötlet szinten
-  - Mágia: ötlet szinten
+  - Pszí: ötlet szinten létezik
+  - Mágia: ötlet szinten létezik
 
 <br />
 
