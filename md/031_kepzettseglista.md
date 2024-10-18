@@ -145,7 +145,7 @@ Az aktív előadást igénylő művészeteket szeparáltuk az **Előadóművész
 
 🔵 [Összpontosítás](kepzettsegek/osszpontositas.md) <sup><sub>(10%)</sub></sup>
 
-🔵 [Pszí iskola](kepzettsegek/pszi_iskola.md)
+🔵 [Pszí használat](kepzettsegek/pszi_hasznalat.md)
 
 🔵 [Tradíció](kepzettsegek/tradicio.md)
 
@@ -156,7 +156,7 @@ Az aktív előadást igénylő művészeteket szeparáltuk az **Előadóművész
 
 → **Aura** arkánum, amely azonos az [Aurafejlesztés](kepzettsegek/aurafejlesztes.md) képzettséggel
 
-→ **Pszí** arkánum, amely azonos a [Pszí iskola](kepzettsegek/pszi_iskola.md) képzettséggel
+→ **Pszí** arkánum, amely azonos a [Pszí használat](kepzettsegek/pszi_hasznalat.md) képzettséggel
 
 ### Anyag szféra
 
