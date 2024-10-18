@@ -61,7 +61,7 @@ Felvehető Érzék-Fortélyok maximuma:
 - nincs
 
 Ajánlott fortélyok:
-- [Pszí alkalmazás](fortelyok.misztikus/pszi_alkalmazas.md)
+- [Pszí alkalmazás](fortelyok.misztikus/pszi_kiterjesztes.md)
 - [Hidegvér](fortelyok.altalanos/hidegver.md)
 - [Tiszta fej](fortelyok.altalanos/tiszta_fej.md)
 

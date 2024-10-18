@@ -21,7 +21,7 @@ Ez a Harcművészek speciális fortélya. A **Slan pszí** útja delejes erőt a
 
 🔒 **Követelmény**:
 - Közelharc - `3.szint`
-- Slan pszí iskola - `3.szint
+- Slan Tradíció - `3.szint
 
 🌟 **Hatás**:
 - Minden `3.KT` → `1 ÉP` seb
@@ -34,7 +34,7 @@ Ez a Harcművészek speciális fortélya. A **Slan pszí** útja delejes erőt a
 
 🔒 **Követelmény**:
 - Közelharc - `6.szint`
-- Slan pszí iskola - `6.szint
+- Slan Tradíció - `6.szint
 - Mesterfegyver fortély (Puszta kéz): `1.fok`
 
 🌟 **Hatás**:
@@ -48,7 +48,7 @@ Ez a Harcművészek speciális fortélya. A **Slan pszí** útja delejes erőt a
 
 🔒 **Követelmény**:
 - Közelharc - `9.szint`
-- Slan pszí iskola - `9.szint
+- Slan Tradíció - `9.szint
 - Mesterfegyver fortély (Puszta kéz): `2.fok`
 
 🌟 **Hatás**:

@@ -5,8 +5,8 @@ Ez egy [Primer](016_primer_szekunder_ismeretek.md) képzettség.
 ### Követelmények
 
 - **NEM** követelmény a tisztavérű dzsenn származás (mint a hatalomszavak alkalmazásánál)
-- Pszí használat fortély: `2. fok`⭕(3?)
-- [Pszí iskola](kepzettsegek/pszi_iskola.md) képzettség (Primer) felvétele, amelynek szintje nem lehet alacsonyabb, mint a Dzsenn tradíció képzettség
+- Pszí kiterjesztés fortély: `1. fok`⭕(2?)
+- [Pszí használat](kepzettsegek/pszi_hasznalat.md) képzettség (Primer) felvétele, amelynek szintje nem lehet alacsonyabb, mint a Dzsenn tradíció képzettség
 - az egyes dzsenn különleges képességeknek nincs olyan változata, amelyek e tradíció nélkül működnének
 
 ---

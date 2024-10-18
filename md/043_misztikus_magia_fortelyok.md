@@ -8,7 +8,7 @@
 - [Mágikus lövedék gyorsítása](fortelyok.misztikus/magikus_lovedek_gyorsitasa.md)
 - [Mágikus lövész](fortelyok.misztikus/magikus_lovesz.md)
 - [Gyors varázsló](fortelyok.misztikus/gyors_varazslo.md)
-- [Pszí alkalmazás](fortelyok.misztikus/pszi_alkalmazas.md) 🔺
+- [Pszí alkalmazás](fortelyok.misztikus/pszi_kiterjesztes.md) 🔺
 
 ⭕TODO: kidolgozni még⭕
 
