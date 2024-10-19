@@ -96,7 +96,7 @@
   - [Természeti mágia](051_06_termeszeti_magia.md)
   - [Sámánmágia](051_07_samanmagia.md)
   - [Drágakőmágia](051_08_dragakomagia.md)
-- [Papi tradíciók](052_papi_tradicio.md) (0%)🚧
+- [Papi tradíció](052_papi_tradicio.md) (0%)🚧
 - [Szellemi Tradíciók](053_00_szellemi_tradiciok.md)
   - [Slan Tradíció](053_01_slan_tradicio.md) (25%)🚧
   - [Fejvadász Tradíció](053_02_fejvadasz_tradicio.md)
