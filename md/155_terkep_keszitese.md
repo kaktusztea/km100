@@ -1,6 +1,6 @@
 ## Térkép készítése
 
-[Tudományok](kepzettsegek/tudomanyok.md) képzettségpróba dobás a térkép bonyolultsága és részletessége alapján megállapított Nehézség ellen.
+[Tudományok](kepzettsegek.tudomanyos/tudomanyok.md) képzettségpróba dobás a térkép bonyolultsága és részletessége alapján megállapított Nehézség ellen.
 
 **Követelmény**: [Helyismeret](hatterek.kiemelt/helyismeret.md) - adott városnyi terület
 

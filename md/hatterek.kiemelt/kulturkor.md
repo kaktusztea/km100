@@ -11,11 +11,11 @@ Kapcsolódó Képzettség-próba:
 ```
 
 ##### Kiterjeszti ezeket:
-- [Előadóművészet](../kepzettsegek/eloadomuveszet.md)
-- [Etikett](../kepzettsegek/etikett.md)
-- [Képzőművészet](../kepzettsegek/kepzomuveszet.md)
-- [Művészetismeret](../kepzettsegek/muveszetismeret.md)
-- [Történelemismeret](../kepzettsegek/tortenelemismeret.md)
+- [Előadóművészet](../kepzettsegek.muveszeti/eloadomuveszet.md)
+- [Etikett](../kepzettsegek.vilagi/etikett.md)
+- [Képzőművészet](../kepzettsegek.muveszeti/kepzomuveszet.md)
+- [Művészetismeret](../kepzettsegek.muveszeti/muveszetismeret.md)
+- [Történelemismeret](../kepzettsegek.tudomanyos/tortenelemismeret.md)
 
 ##### Kapcsolódó Szabad Háttér
 

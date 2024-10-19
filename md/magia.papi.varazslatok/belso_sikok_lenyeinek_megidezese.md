@@ -41,7 +41,7 @@ A Pap megidéz egy kívánt lényt a belső síkok egyikéről, melynek jó eset
 Az egyes lények csoportjai más-más Szféra ismeretét követelik meg.
 
 **Követelmény**:
-- [Tudományok](../kepzettsegek/tudomanyok.md) képzettség szintjének el kell érnie a Kisszféra szintjét. Ha alacsonyabb, akkor annak értéke számít Kisszférának.
+- [Tudományok](../kepzettsegek.tudomanyos/tudomanyok.md) képzettség szintjének el kell érnie a Kisszféra szintjét. Ha alacsonyabb, akkor annak értéke számít Kisszférának.
 - [Fortély: Belső síkok lényeinek ismerete ((kapcsolódó lénycsoport))](../fortelyok.misztikus/belso_sikok_lenyeinek_ismerete.md). A Papnak ismernie kell az adott lénycsoport jellemzőit.
 
 Maximum 1 parancs adható az idézett lénynek - ennek komplikáltsága a lény intelligenciájától függ. ⭕TODO: mi legyen a képlet?⭕

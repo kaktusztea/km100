@@ -4,7 +4,7 @@ Képes vagy rablóbanda, vagy különleges alakulat részeként közösen cselek
 
 ##### Kiterjeszti ezeket
 
-- [Hadászat](../kepzettsegek/hadaszat.md)
+- [Hadászat](../kepzettsegek.tudomanyos/hadaszat.md)
 
 ##### Követelmény
 

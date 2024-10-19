@@ -3,8 +3,8 @@
 Amely **Kultúrköröket** ismersz, annak teaszertartásait **Előadóművészet** képzettséged szintjének megfelelően el is tudod végezni.
 ##### Kiterjeszti ezeket
 
-- [Előadóművészet](../kepzettsegek/eloadomuveszet.md)
-- [Művészetismeret](../kepzettsegek/muveszetismeret.md)
+- [Előadóművészet](../kepzettsegek.muveszeti/eloadomuveszet.md)
+- [Művészetismeret](../kepzettsegek.muveszeti/muveszetismeret.md)
 
 ##### Követelmény
 

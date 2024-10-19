@@ -6,11 +6,11 @@ Jellemzően NJK ismeret.
 
 ##### Kiterjeszti ezeket
 
-- [Hadászat](../kepzettsegek/hadaszat.md)
+- [Hadászat](../kepzettsegek.tudomanyos/hadaszat.md)
 
 ##### Követelmény
 
-- [Hadászat](../kepzettsegek/hadaszat.md) - `3.szint`
+- [Hadászat](../kepzettsegek.tudomanyos/hadaszat.md) - `3.szint`
 
 <br />
 

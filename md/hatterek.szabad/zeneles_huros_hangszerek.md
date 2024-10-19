@@ -4,12 +4,12 @@ Képes vagy húros hangszereket megszólaltatni. Amely **Kultúrköröket** isme
 
 ##### Kiterjeszti ezeket
 
-- [Előadóművészet](../kepzettsegek/eloadomuveszet.md)
-- [Művészetismeret](../kepzettsegek/muveszetismeret.md)
+- [Előadóművészet](../kepzettsegek.muveszeti/eloadomuveszet.md)
+- [Művészetismeret](../kepzettsegek.muveszeti/muveszetismeret.md)
 
 ##### Követelmény
 
-- [Előadóművészet](../kepzettsegek/eloadomuveszet.md) - `3.szint`
+- [Előadóművészet](../kepzettsegek.muveszeti/eloadomuveszet.md) - `3.szint`
 
 Képes vagy használni a húros hangszerek alá tartozó hangszereket.
 

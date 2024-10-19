@@ -35,7 +35,7 @@ Ha harc közben más sebesülés kategóriába (S) lép a karakter, akkor fix `T
 #### S4 kategóriás fájdalomtűrés
 ⭕[Harci láz ad bónuszt?](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.fortelyok#harci-l%C3%A1z)
 
-Ha a karakter az S4-es (Súlyosan sebesült) kategóriába ér egyszeri [Fájdalomtűrés](kepzettsegek/fajdalomtures.md) próbát kell dobnia Nehéz (`12`) célszám ellen.
+Ha a karakter az S4-es (Súlyosan sebesült) kategóriába ér egyszeri [Fájdalomtűrés](kepzettsegek.fizikai/fajdalomtures.md) próbát kell dobnia Nehéz (`12`) célszám ellen.
 `Fájdalomtűrés (K) + Edzettség (T)  vs.  12`
 
 Siker esetén ezt a próbát a következő sebesüléskor kell csak újradobnia.

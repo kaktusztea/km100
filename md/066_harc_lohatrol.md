@@ -4,7 +4,7 @@
 
 ## Harc lóhátról, hátas Fortélyok és Manőverek
 
-Aki lóról harcol, az előnyben van, részben a magasabb pozíció, részben lova állandó mozgása, fenyegetése miatt. Sok függ viszont a [Lovaglás képzettség](kepzettsegek/lovaglas.md) szintjétől és a [Lovas harc](fortelyok.harci/lovas_harc.md) fortély megtanult fokainak mértékétől.
+Aki lóról harcol, az előnyben van, részben a magasabb pozíció, részben lova állandó mozgása, fenyegetése miatt. Sok függ viszont a [Lovaglás képzettség](kepzettsegek.fizikai/lovaglas.md) szintjétől és a [Lovas harc](fortelyok.harci/lovas_harc.md) fortély megtanult fokainak mértékétől.
 
 Kapcsolódó fortélyok:
 - [Lovas harc](fortelyok.harci/lovas_harc.md) fortély
@@ -88,7 +88,7 @@ Megveted lábad és szálfegyvered végét a földbe támasztod. A fegyver hegye
 - Nehézség: 4⭕
 - Fázisok: (M)egakasztás, (E)llenpróba
 - Végbevitel követelménye: csak akkor lehet használni ha a szálfegyveres előnyben van fegyverhosszban a lovashoz képest!
-- Hatás: Sebző dobást teszel a lovasra mielőtt az lecsaphatna rád. A lovas elveszíti támadását és - csapásod eredményétől függően -  továbbrobog, megtorpan, esetleg kiesik a nyeregből ([Lovaglás](kepzettsegek/lovaglas.md)/[Léglovaglás](kepzettsegek/leglovaglas.md) képzettségpróba).
+- Hatás: Sebző dobást teszel a lovasra mielőtt az lecsaphatna rád. A lovas elveszíti támadását és - csapásod eredményétől függően -  továbbrobog, megtorpan, esetleg kiesik a nyeregből ([Lovaglás](kepzettsegek.fizikai/lovaglas.md)/[Léglovaglás](kepzettsegek.fizikai/leglovaglas.md) képzettségpróba).
 
 ---
 ### Manőver: Lótáncoltatás

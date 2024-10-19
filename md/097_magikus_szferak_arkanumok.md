@@ -12,8 +12,8 @@ Annyi ősi nyelv van, ahány mágiaiskola.
 
 Jelenleg nincs olyan isten, amelynek ez a Szférája megvan.
 
-- Aura - azonos az [Aurafejlesztés](kepzettsegek/aurafejlesztes.md) képzettséggel
-- Pszí - azonos a [Pszí használat](kepzettsegek/pszi_hasznalat.md) képzettséggel
+- Aura - azonos az [Aurafejlesztés](kepzettsegek.misztikus/aurafejlesztes.md) képzettséggel
+- Pszí - azonos a [Pszí használat](kepzettsegek.misztikus/pszi_hasznalat.md) képzettséggel
 
 ---
 ### Titkos Szféra

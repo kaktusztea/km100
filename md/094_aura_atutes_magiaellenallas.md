@@ -8,7 +8,7 @@ Az Aura a karakterek mágikus akaraa és egyben Mágiaellenállása is (Asztrál
 
 Minden lélekkel rendelkező lény rendelkezik Aurával, ez a Tapasztalati Szint (TSz) emelkedésével automatikusan nő (**Aura alap**).
 
-A fentieken túl lehetséges - védelmi, vagy mágikus célokból - konkrét gyakorlati képzéssel fejleszteni az Aurát. Ezt reprezentálja az [Aurafejlesztés](kepzettsegek/aurafejlesztes.md) képzettség.
+A fentieken túl lehetséges - védelmi, vagy mágikus célokból - konkrét gyakorlati képzéssel fejleszteni az Aurát. Ezt reprezentálja az [Aurafejlesztés](kepzettsegek.misztikus/aurafejlesztes.md) képzettség.
 
 <br />
 

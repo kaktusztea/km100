@@ -2,7 +2,7 @@
 
 ##### Kiterjeszti ezeket
 
-- [Tudományok](../kepzettsegek/tudomanyok.md)
+- [Tudományok](../kepzettsegek.tudomanyos/tudomanyok.md)
 
 ##### Követelmény
 

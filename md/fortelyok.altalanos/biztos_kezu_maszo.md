@@ -8,7 +8,7 @@
 
 🔒 **Követelmény**: 
 - Ügyesség: `+1`
-- [Mászás](../kepzettsegek/maszas.md) - `6.szint`
+- [Mászás](../kepzettsegek.fizikai/maszas.md) - `6.szint`
 
 🌟 **Hatás**:
 - ⭕Kifejteni.⭕
