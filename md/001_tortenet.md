@@ -97,7 +97,8 @@ Régi állományok [archiválva](https://github.com/kaktusztea/km100/tree/master
 
 ### 2023.12.29
 
-Első, Github release: [km100 v0.4.0.0](https://github.com/kaktusztea/km100/releases/tag/0.4.0.0)
+Első, Github release:\
+[km100 v0.4.0.0](https://github.com/kaktusztea/km100/releases/tag/0.4.0.0)
 
 <br />
 
