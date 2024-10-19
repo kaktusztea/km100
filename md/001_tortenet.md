@@ -112,7 +112,8 @@ Hetente jelenik meg Github Release:\
 
 ### 2024.05.01
 
-Áttérés az `ÉV.HÉT` verziószámozásra ezzel a kiadással: [km100 v24.18](https://github.com/kaktusztea/km100/releases/tag/24.18)
+Áttérés az `ÉV.HÉT` verziószámozásra ezzel a kiadással:\
+[km100 v24.18](https://github.com/kaktusztea/km100/releases/tag/24.18)
 
 ---
 
