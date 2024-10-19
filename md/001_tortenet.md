@@ -105,7 +105,7 @@ Első, Github release: [km100 v0.4.0.0](https://github.com/kaktusztea/km100/rele
 
 Ekkor - a dokumentumok migrálása után - indult újra az aktív fejlesztés, valamint teszt játékok a rendszer aktuális állapotával. 
 
-Hetente jelenik meg Github Release:
+Hetente jelenik meg Github Release:\
 [km100 Releases](https://github.com/kaktusztea/km100/releases)
 
 <br />
