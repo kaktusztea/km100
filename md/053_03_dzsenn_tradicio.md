@@ -10,7 +10,7 @@ Ez egy [Primer](016_primer_szekunder_ismeretek.md) képzettség.
 - az egyes dzsenn különleges képességeknek nincs olyan változata, amelyek e tradíció nélkül működnének
 
 ---
-###  [Mentálmágia](magia.arkanumok/mentalmagia.md), mint speciális pszionikus képesség
+###  [Mentálmágia](kepzettsegek.arkanumok/mentalmagia.md), mint speciális pszionikus képesség
 
 - `Mentálmágia szint == (Dzsenn tradíció szintje) - 8`
 - A dzsenn képes nem Manából, hanem pszi energiáiból Mentálmágikus mozaikokat megidézni. Ennek a különleges képességnek oka a dzsennek mentálsíkkal való szoros összefonódásában keresendő. Fontos: csak 1 darab formulát használhat egyszerre, nem kombinálhatja őket mozaikokként!
