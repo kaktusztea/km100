@@ -15,7 +15,7 @@ Ha valaki látja és van ideje felkészülni a rá leadott lövésre/hajításra
 
 🔆 **Megjegyzés**: A próbához `+2` járul, ha a karakter rendelkezik [Kitérés lövés elől](fortelyok.harci/kiteres_loves_elol.md) harci fortéllyal.
 
-Lásd: [Elemi mágia - Formulák - Őselem idézése](magia.arkanumok/elemi_magia.md#őselem-idézése)\
+Lásd: [Elemi mágia - Formulák - Őselem idézése](kepzettsegek.arkanumok/elemi_magia.md#őselem-idézése)\
 ⭕ lehet h ki kéne szedni általános "Mágikus lövedék" szekcióba ⭕
 
 

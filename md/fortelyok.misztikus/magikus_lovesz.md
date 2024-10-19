@@ -9,7 +9,7 @@ Mágiatudóként nagyon kihegyezted magad a távolba direktben ható mágiákra,
 
 🌟 **Hatás**:
 - Ha [Mágikus célzás](../kepzettsegek.harci/harcmodor.md) harcmodort használod mágiatudóként, akkor:
-- **Osztó**:`+1`, amikor [Mágikus lövedéket](../magia.arkanumok/elemi_magia.md#id%C5%91tartam)  használsz.
+- **Osztó**:`+1`, amikor [Mágikus lövedéket](../kepzettsegek.arkanumok/elemi_magia.md#időtartam)  használsz.
   - ⭕TODO: link update⭕
 
 ---

@@ -160,51 +160,51 @@ Az aktív előadást igénylő művészeteket szeparáltuk az **Előadóművész
 
 ### Anyag szféra
 
-🔵 [Elemi mágia](magia.arkanumok/elemi_magia.md) <sup><sub>(30%)</sub></sup>
+🔵 [Elemi mágia](kepzettsegek.arkanumok/elemi_magia.md) <sup><sub>(30%)</sub></sup>
 
-🔵 [Természetes anyagok mágiája](magia.arkanumok/termeszetes.anyagok.magiaja.md)
+🔵 [Természetes anyagok mágiája](kepzettsegek.arkanumok/termeszetes.anyagok.magiaja.md)
 
 ###  Lélek szféra
 
-🔵 [Asztrálmágia](magia.arkanumok/asztralmagia.md)
+🔵 [Asztrálmágia](kepzettsegek.arkanumok/asztralmagia.md)
 
-🔵 [Mentálmágia](magia.arkanumok/mentalmagia.md)
+🔵 [Mentálmágia](kepzettsegek.arkanumok/mentalmagia.md)
 
 ### Jelenségek szféra
 
-🔵 [Illúziók](magia.arkanumok/illuziok.md)
+🔵 [Illúziók](kepzettsegek.arkanumok/illuziok.md)
 
-🔵 [Természeti jelenségek](magia.arkanumok/termeszeti.jelensegek.md)
+🔵 [Természeti jelenségek](kepzettsegek.arkanumok/termeszeti.jelensegek.md)
 
 ### Téridő szféra
 
-🔵 [Időmágia](magia.arkanumok/idomagia.md)
+🔵 [Időmágia](kepzettsegek.arkanumok/idomagia.md)
 
-🔵 [Térmágia](magia.arkanumok/termagia.md)
+🔵 [Térmágia](kepzettsegek.arkanumok/termagia.md)
 
 ### Életerő szféra
 
-🔵 [Életerő Manipulálása](magia.arkanumok/eletero.manipulalasa.md)
+🔵 [Életerő Manipulálása](kepzettsegek.arkanumok/eletero.manipulalasa.md)
 
-🔵 [Nekromancia](magia.arkanumok/nekromancia.md)  <sup><sub>(15%)</sub></sup>
+🔵 [Nekromancia](kepzettsegek.arkanumok/nekromancia.md)  <sup><sub>(15%)</sub></sup>
 
 ### Idézés szféra
 
-🔵 [Belső síkok lényeinek idézése](magia.arkanumok/idezes.belso.sikok.md)
+🔵 [Belső síkok lényeinek idézése](kepzettsegek.arkanumok/idezes.belso.sikok.md)
 
-🔵 [Külső síkok lényeinek idézése](magia.arkanumok/idezes.kulso.sikok.md)
+🔵 [Külső síkok lényeinek idézése](kepzettsegek.arkanumok/idezes.kulso.sikok.md)
 
 ### Sors szféra
 
-🔵 [Sors Érzékelés](magia.arkanumok/sors.erzekeles.md)
+🔵 [Sors Érzékelés](kepzettsegek.arkanumok/sors.erzekeles.md)
 
-🔵 [Sors Befolyásolás](magia.arkanumok/sors.befolyasolas.md)
+🔵 [Sors Befolyásolás](kepzettsegek.arkanumok/sors.befolyasolas.md)
 
 ### Titkos Szféra
 
 → Élet Princípiumának a megteremtése, Lélekcsíra megteremtése: csak az istenek rendelkeznek vele, halandó nem ismerheti.
 
-→ [Metamágia](magia.arkanumok/metamagia.md) arkánum, amely a [Mágia Tradíciók](051_00_magia_tradiciok.md) tanulása által kapható meg, így nem kell külön képzettségként felvenni.
+→ [Metamágia](kepzettsegek.arkanumok/metamagia.md) arkánum, amely a [Mágia Tradíciók](051_00_magia_tradiciok.md) tanulása által kapható meg, így nem kell külön képzettségként felvenni.
 
 ---
 ## Papi mágia 🅿️
