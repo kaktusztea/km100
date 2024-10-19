@@ -6,15 +6,15 @@ A Fizikai és Matematikai ismeretek is ide tartoznak?? ⭕TODO⭕
 
 ##### Kiterjeszti ezeket
 
-- [Csapdaállítás](../kepzettsegek/csapdaallitas.md): mechanikus csapdák állításához követelmény lehet a Mechanika
+- [Csapdaállítás](../kepzettsegek.alvilagi/csapdaallitas.md): mechanikus csapdák állításához követelmény lehet a Mechanika
 - [Keresés/Nyomolvasás](kereses_nyomolvasas.md) (csapdához, titkosajtóhoz, amiben szerkezet van)
-- [Szakma - Fegyverkovács](../kepzettsegek/szakma.md)
-- [Szakma - Páncélkovács](../kepzettsegek/szakma.md)
-- [Tudományok](../kepzettsegek/tudomanyok.md)
+- [Szakma - Fegyverkovács](../kepzettsegek.vilagi/szakma.md)
+- [Szakma - Páncélkovács](../kepzettsegek.vilagi/szakma.md)
+- [Tudományok](../kepzettsegek.tudomanyos/tudomanyok.md)
 
 ##### Bónuszt ad erre
 
-- [Zárnyitás](../kepzettsegek/zarnyitas.md) - `+2` bónusz minden Mechanika fok után
+- [Zárnyitás](../kepzettsegek.alvilagi/zarnyitas.md) - `+2` bónusz minden Mechanika fok után
 
 #### 1. fok
 

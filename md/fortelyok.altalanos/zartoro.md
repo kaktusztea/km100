@@ -4,7 +4,7 @@ Alapesetben ha gyorsabban akarsz kinyitni egy zárat, akkor emelkedik a célszá
 
 #### 1. fok
 
-🔒 **Követelmény**: [Zárnyitás](../kepzettsegek/zarnyitas.md) - `6.szint`
+🔒 **Követelmény**: [Zárnyitás](../kepzettsegek.alvilagi/zarnyitas.md) - `6.szint`
 
 🌟 **Hatás**: Gyors zárnyitás esetén `3`-al mérsékeli a célszám emelkedést.
 

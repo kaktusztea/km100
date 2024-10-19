@@ -33,82 +33,82 @@
 ---
 ## Harci képzettségek 🅿️
 
-🔵 [Közelharc](kepzettsegek/harcmodor.md) <sup><sub>(60%)</sub></sup>
+🔵 [Közelharc](kepzettsegek.harci/harcmodor.md) <sup><sub>(60%)</sub></sup>
 
-🔵 [Kardvívás](kepzettsegek/harcmodor.md)
+🔵 [Kardvívás](kepzettsegek.harci/harcmodor.md)
 
-🔵 [Lándzsavívás](kepzettsegek/harcmodor.md)
+🔵 [Lándzsavívás](kepzettsegek.harci/harcmodor.md)
 
-🔵 [Zúzás](kepzettsegek/harcmodor.md)
+🔵 [Zúzás](kepzettsegek.harci/harcmodor.md)
 
-🔵 [Hajítás](kepzettsegek/tavolsagi_harcmodor.md) <sup><sub>(40%)</sub></sup>
+🔵 [Hajítás](kepzettsegek.harci/tavolsagi_harcmodor.md) <sup><sub>(40%)</sub></sup>
 
-🔵 [Íjászat](kepzettsegek/tavolsagi_harcmodor.md)
+🔵 [Íjászat](kepzettsegek.harci/tavolsagi_harcmodor.md)
 
-🔵 [Lövészet](kepzettsegek/tavolsagi_harcmodor.md)
+🔵 [Lövészet](kepzettsegek.harci/tavolsagi_harcmodor.md)
 
-🔵 [Ostromlövészet](kepzettsegek/tavolsagi_harcmodor.md)
+🔵 [Ostromlövészet](kepzettsegek.harci/tavolsagi_harcmodor.md)
 
-🔵 [Mágikus lövészet](kepzettsegek/magikus_loveszet.md) <sup><sub>(40%)</sub></sup>
+🔵 [Mágikus lövészet](kepzettsegek.harci/magikus_loveszet.md) <sup><sub>(40%)</sub></sup>
 
 ---
 ## Fizikai képzettségek
 
-🔵 [Akrobatika](kepzettsegek/akrobatika.md) 🅿️
+🔵 [Akrobatika](kepzettsegek.fizikai/akrobatika.md) 🅿️
 
-🔵 [Fájdalomtűrés](kepzettsegek/fajdalomtures.md) 🅿️ <sup><sub>(70%)</sub></sup>
+🔵 [Fájdalomtűrés](kepzettsegek.fizikai/fajdalomtures.md) 🅿️ <sup><sub>(70%)</sub></sup>
 
-🔵 [Mászás](kepzettsegek/maszas.md) <sup><sub>(90%)</sub></sup>
+🔵 [Mászás](kepzettsegek.fizikai/maszas.md) <sup><sub>(90%)</sub></sup>
 
-🔵 [Lovaglás](kepzettsegek/lovaglas.md) <sup><sub>(0%)</sub></sup>
+🔵 [Lovaglás](kepzettsegek.fizikai/lovaglas.md) <sup><sub>(0%)</sub></sup>
 
-🔵 [Léglovaglás](kepzettsegek/leglovaglas.md) <sup><sub>(80%)</sub></sup>
+🔵 [Léglovaglás](kepzettsegek.fizikai/leglovaglas.md) <sup><sub>(80%)</sub></sup>
 
 ---
 ## Világi képzettségek
 
-🔵 [Befolyásolás](kepzettsegek/befolyasolas.md) 🅿️ <sup><sub>(0%)</sub></sup>
+🔵 [Befolyásolás](kepzettsegek.vilagi/befolyasolas.md) 🅿️ <sup><sub>(0%)</sub></sup>
 
-🔵 [Emberismeret](kepzettsegek/emberismeret.md) 🅿️ <sup><sub>(90%)</sub></sup>
+🔵 [Emberismeret](kepzettsegek.vilagi/emberismeret.md) 🅿️ <sup><sub>(90%)</sub></sup>
 
-🔵 [Észlelés](kepzettsegek/eszleles.md) 🅿️ <sup><sub>(95%)</sub></sup>
+🔵 [Észlelés](kepzettsegek.vilagi/eszleles.md) 🅿️ <sup><sub>(95%)</sub></sup>
 
-🔵 [Értékbecslés](kepzettsegek/ertekbecsles.md) <sup><sub>(0%)</sub></sup>
+🔵 [Értékbecslés](kepzettsegek.vilagi/ertekbecsles.md) <sup><sub>(0%)</sub></sup>
 
-🔵 [Etikett](kepzettsegek/etikett.md) <sup><sub>(99%)</sub></sup>
+🔵 [Etikett](kepzettsegek.vilagi/etikett.md) <sup><sub>(99%)</sub></sup>
 
-🔵 [Hajózás](kepzettsegek/hajozas.md) <sup><sub>(0%)</sub></sup>
+🔵 [Hajózás](kepzettsegek.vilagi/hajozas.md) <sup><sub>(0%)</sub></sup>
 
-🔵 [Idomítás](kepzettsegek/idomitas.md) <sup><sub>(20%)</sub></sup> 
+🔵 [Idomítás](kepzettsegek.vilagi/idomitas.md) <sup><sub>(20%)</sub></sup> 
 
-🔵 [Nyomozás](kepzettsegek/nyomozas.md) 🅿️ <sup><sub>(50%)</sub></sup>
+🔵 [Nyomozás](kepzettsegek.vilagi/nyomozas.md) 🅿️ <sup><sub>(50%)</sub></sup>
 
-🔵 [Orvoslás](kepzettsegek/orvoslas.md) 🅿️ <sup><sub>(40%)</sub></sup>
+🔵 [Orvoslás](kepzettsegek.vilagi/orvoslas.md) 🅿️ <sup><sub>(40%)</sub></sup>
 
-🔵 [Szakma](kepzettsegek/szakma.md) <sup><sub>(20%)</sub></sup> 🔁
+🔵 [Szakma](kepzettsegek.vilagi/szakma.md) <sup><sub>(20%)</sub></sup> 🔁
 
-🔵 [Természetjárás](kepzettsegek/termeszetjaras.md) <sup><sub>(30%)</sub></sup>
+🔵 [Természetjárás](kepzettsegek.vilagi/termeszetjaras.md) <sup><sub>(30%)</sub></sup>
 
-🔵 [Vajákosság](kepzettsegek/vajakossag.md) <sup><sub>(40%)</sub></sup>
+🔵 [Vajákosság](kepzettsegek.vilagi/vajakossag.md) <sup><sub>(40%)</sub></sup>
 
-🔵 [Városi jártasság](kepzettsegek/varosi_jartassag.md) <sup><sub>(40%)</sub></sup>
+🔵 [Városi jártasság](kepzettsegek.vilagi/varosi_jartassag.md) <sup><sub>(40%)</sub></sup>
 
 ---
 ## Alvilági képzettségek
 
-🔵 [Álcázás/Álruha](kepzettsegek/alcazas_alruha.md) <sup><sub>(80%)</sub></sup>
+🔵 [Álcázás/Álruha](kepzettsegek.alvilagi/alcazas_alruha.md) <sup><sub>(80%)</sub></sup>
 
-🔵 [Csapdaállítás](kepzettsegek/csapdaallitas.md) <sup><sub>(0%)</sub></sup>
+🔵 [Csapdaállítás](kepzettsegek.alvilagi/csapdaallitas.md) <sup><sub>(0%)</sub></sup>
 
-🔵 [Lopakodás/Rejtőzés](kepzettsegek/lopakodas_rejtozes.md) 🅿️ <sup><sub>(15%)</sub></sup>
+🔵 [Lopakodás/Rejtőzés](kepzettsegek.alvilagi/lopakodas_rejtozes.md) 🅿️ <sup><sub>(15%)</sub></sup>
 
-🔵 [Lopás](kepzettsegek/lopas.md) <sup><sub>(10%)</sub></sup>
+🔵 [Lopás](kepzettsegek.alvilagi/lopas.md) <sup><sub>(10%)</sub></sup>
 
-🔵 [Kínzás](kepzettsegek/kinzas.md) <sup><sub>(0%)</sub></sup>
+🔵 [Kínzás](kepzettsegek.alvilagi/kinzas.md) <sup><sub>(0%)</sub></sup>
 
-🔵 [Szerencsejáték](kepzettsegek/szerencsejatek.md) <sup><sub>(0%)</sub></sup>
+🔵 [Szerencsejáték](kepzettsegek.alvilagi/szerencsejatek.md) <sup><sub>(0%)</sub></sup>
 
-🔵 [Zárnyitás](kepzettsegek/zarnyitas.md) <sup><sub>(0%)</sub></sup>
+🔵 [Zárnyitás](kepzettsegek.alvilagi/zarnyitas.md) <sup><sub>(0%)</sub></sup>
 
 
 ---
@@ -116,47 +116,47 @@
 
 Az aktív előadást igénylő művészeteket szeparáltuk az **Előadóművészet** képzettségbe a belső művészetek alkotói folyamatait lefedő **Képzőművészettől**. A passzív művészeti ismereteket a **Művészetismeret** képzettség adja. Mind a három  [Szabad Hátterek](023_szabad_hatterek.md) alkalmazásával terjeszthető ki különböző művézeti ágakra.
 
-🔵 [Előadóművészet](kepzettsegek/eloadomuveszet.md)
+🔵 [Előadóművészet](kepzettsegek.muveszeti/eloadomuveszet.md)
 
-🔵 [Képzőművészet](kepzettsegek/kepzomuveszet.md)
+🔵 [Képzőművészet](kepzettsegek.muveszeti/kepzomuveszet.md)
 
-🔵 [Művészetismeret](kepzettsegek/muveszetismeret.md)
+🔵 [Művészetismeret](kepzettsegek.muveszeti/muveszetismeret.md)
 
 
 ---
 ## Tudományos képzettségek
 
-🔵 [Alkímia](kepzettsegek/alkimia.md) <sup><sub>(0%)</sub></sup>
+🔵 [Alkímia](kepzettsegek.tudomanyos/alkimia.md) <sup><sub>(0%)</sub></sup>
 
-🔵 [Hadászat](kepzettsegek/hadaszat.md) 🅿️ <sup><sub>(0%)</sub></sup> 
+🔵 [Hadászat](kepzettsegek.tudomanyos/hadaszat.md) 🅿️ <sup><sub>(0%)</sub></sup> 
 
-🔵 [Méregkeverés](kepzettsegek/meregkeveres.md) 🅿️ <sup><sub>(90%)</sub></sup>
+🔵 [Méregkeverés](kepzettsegek.tudomanyos/meregkeveres.md) 🅿️ <sup><sub>(90%)</sub></sup>
 
-🔵 [Történelemismeret](kepzettsegek/tortenelemismeret.md) <sup><sub>(40%)</sub></sup> 
+🔵 [Történelemismeret](kepzettsegek.tudomanyos/tortenelemismeret.md) <sup><sub>(40%)</sub></sup> 
 
-🔵 [Tudományok](kepzettsegek/tudomanyok.md) <sup><sub>(10%)</sub></sup>
+🔵 [Tudományok](kepzettsegek.tudomanyos/tudomanyok.md) <sup><sub>(10%)</sub></sup>
 
 ---
 ## Misztikus képzettségek 🅿️
 
-🔵 [Aurafejlesztés](kepzettsegek/aurafejlesztes.md)
+🔵 [Aurafejlesztés](kepzettsegek.misztikus/aurafejlesztes.md)
 
-🔵 [Ősi nyelv ismerete](kepzettsegek/osi_nyelv_ismerete.md) <sup><sub>(0%)</sub></sup> 🔁
+🔵 [Ősi nyelv ismerete](kepzettsegek.misztikus/osi_nyelv_ismerete.md) <sup><sub>(0%)</sub></sup> 🔁
 
-🔵 [Összpontosítás](kepzettsegek/osszpontositas.md) <sup><sub>(10%)</sub></sup>
+🔵 [Összpontosítás](kepzettsegek.misztikus/osszpontositas.md) <sup><sub>(10%)</sub></sup>
 
-🔵 [Pszí használat](kepzettsegek/pszi_hasznalat.md)
+🔵 [Pszí használat](kepzettsegek.misztikus/pszi_hasznalat.md)
 
-🔵 [Tradíció](kepzettsegek/tradicio.md)
+🔵 [Tradíció](kepzettsegek.misztikus/tradicio.md)
 
 ---
 ## Mágikus Szférák és Arkánumaik 🅿️
 
 ### Belső Szféra
 
-→ **Aura** arkánum, amely azonos az [Aurafejlesztés](kepzettsegek/aurafejlesztes.md) képzettséggel
+→ **Aura** arkánum, amely azonos az [Aurafejlesztés](kepzettsegek.misztikus/aurafejlesztes.md) képzettséggel
 
-→ **Pszí** arkánum, amely azonos a [Pszí használat](kepzettsegek/pszi_hasznalat.md) képzettséggel
+→ **Pszí** arkánum, amely azonos a [Pszí használat](kepzettsegek.misztikus/pszi_hasznalat.md) képzettséggel
 
 ### Anyag szféra
 

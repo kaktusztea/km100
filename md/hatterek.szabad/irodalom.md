@@ -2,8 +2,8 @@
 
 ##### Kiterjeszti ezeket
 
-- [Előadóművészet](../kepzettsegek/eloadomuveszet.md)
-- [Művészetismeret](../kepzettsegek/muveszetismeret.md)
+- [Előadóművészet](../kepzettsegek.muveszeti/eloadomuveszet.md)
+- [Művészetismeret](../kepzettsegek.muveszeti/muveszetismeret.md)
 
 ##### Kapcsolódik
 
@@ -11,7 +11,7 @@
 
 ##### Követelmény
 
-Hogy az adott kultúrkörben képes legyél aktívan művelni (írni, előadni) irodalmi műveket ([Előadóművészet](../kepzettsegek/eloadomuveszet.md)), ahhoz az alábbi követelmények szükségesek:
+Hogy az adott kultúrkörben képes legyél aktívan művelni (írni, előadni) irodalmi műveket ([Előadóművészet](../kepzettsegek.muveszeti/eloadomuveszet.md)), ahhoz az alábbi követelmények szükségesek:
 - [Kultúrkör](../hatterek.kiemelt/kulturkor.md) - adott kultúra ismerete
 - [Nyelvismeret](../hatterek.kiemelt/nyelvismeret.md) - Udvari fok
 

@@ -30,7 +30,7 @@
 
 ###### Állat testvér
 
-Megegyezik az [Idomítás](idomitas.md#%C3%A1llat-testv%C3%A9r) képzettségnél leírtakkal.
+Megegyezik az [Idomítás](../kepzettsegek.vilagi/idomitas.md#állat-testvér) képzettségnél leírtakkal.
 
 ---
 ##### Próbák

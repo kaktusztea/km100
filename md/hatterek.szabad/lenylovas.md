@@ -1,10 +1,10 @@
 #### 🟡 Lénylovas (faj neve) 🔁
 
 ##### Kiterjeszti ezeket
-  - [Lovaglás](../kepzettsegek/lovaglas.md) 
-  - [Léglovaglás](../kepzettsegek/leglovaglas.md)
+  - [Lovaglás](../kepzettsegek.fizikai/lovaglas.md) 
+  - [Léglovaglás](../kepzettsegek.fizikai/leglovaglas.md)
  
-Ha van [Lovaglás](../kepzettsegek/lovaglas.md) vagy [Léglovaglás](../kepzettsegek/leglovaglas.md) képzettséged, akkor ha egy eddig nem megült földi/légi hátas faj egyedének hátára pattannál, akkor használhatod a Lovaglás/Léglovaglás képzettséged.
+Ha van [Lovaglás](../kepzettsegek.fizikai/lovaglas.md) vagy [Léglovaglás](../kepzettsegek.fizikai/leglovaglas.md) képzettséged, akkor ha egy eddig nem megült földi/légi hátas faj egyedének hátára pattannál, akkor használhatod a Lovaglás/Léglovaglás képzettséged.
 
 Ennek annyi feltétele van, hogy egy kis időt - minimum 1 órát - gyakorlásra kell szánnod a lényt megülve. Ha ez megtörténik, akkor onnantól képes leszel az adott állatot ugyanolyan képzettség-szinttel megülni, mint amelyik elsődleges fajhoz a képzettséget felvetted. Természetesen földi hátast csak a **Lovaglás**, légi hátast pedig csak a **Léglovaglás** képzettséggel ülhetsz meg.
 

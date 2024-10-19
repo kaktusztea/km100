@@ -8,7 +8,7 @@ Ez egy [Primer képzettség](../016_primer_szekunder_ismeretek.md).
 
 **Kapcsolódó fortély**: ⭕xyz
 
-**Kapcsolódó képzettség**: [Emberismeret](emberismeret.md)
+**Kapcsolódó képzettség**: [Emberismeret](../kepzettsegek.vilagi/emberismeret.md)
 
 **Szabad Hátterek kiterjesztik**:
 - [Alkudozás](../hatterek.szabad/alkudozas.md)
@@ -35,7 +35,7 @@ Ez egy [Primer képzettség](../016_primer_szekunder_ismeretek.md).
 
 ##### Ellenpróbák
 
-A **Befolyásolás** szinte mindig az [Emberismeret](emberismeret.md) képzettséggel áll ellenpróbás szituációban - a szituációtól függő módosítókkal. A leggyakoribb az alábbi próba-szituáció:
+A **Befolyásolás** szinte mindig az [Emberismeret](../kepzettsegek.vilagi/emberismeret.md) képzettséggel áll ellenpróbás szituációban - a szituációtól függő módosítókkal. A leggyakoribb az alábbi próba-szituáció:
 ```
 Intelligencia + Emberismeret
             vs

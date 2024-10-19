@@ -4,9 +4,9 @@ Címerek ismeretét takarja.
 
 ##### Kiterjeszti ezeket
 
-- [Nyomozás](../kepzettsegek/nyomozas.md)
-- [Történelemismeret](../kepzettsegek/tortenelemismeret.md)
-- [Tudományok](../kepzettsegek/tudomanyok.md)
+- [Nyomozás](../kepzettsegek.vilagi/nyomozas.md)
+- [Történelemismeret](../kepzettsegek.tudomanyos/tortenelemismeret.md)
+- [Tudományok](../kepzettsegek.tudomanyos/tudomanyok.md)
 
 ##### Követelmény
 - ⭕xyz

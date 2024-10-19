@@ -17,7 +17,7 @@ Sötétben (leginkább élőlények által kibocsátott) hőképek alapján is k
 🔒 **Követelmény**: Kapcsolódó [Faj Háttér](../022_faj_hatterek.md)
 
 🌟 **Hatás**:
-- Valami derengél, de [Észlelés](../kepzettsegek/eszleles.md) próba kell a tájékozódáshoz és a harchoz is.
+- Valami derengél, de [Észlelés](../kepzettsegek.vilagi/eszleles.md) próba kell a tájékozódáshoz és a harchoz is.
 - Ha van **Vakharc** fortélya legalább `1. fokon`, akkor ez a próba elhagyható.
 - ⭕TODO⭕ezzel tápolni lehet, ki lehet hagyni a Vakharc 2. fok felvételét⭕
 

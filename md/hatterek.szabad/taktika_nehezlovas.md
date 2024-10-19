@@ -8,7 +8,7 @@ Képes vagy nehézlovas formációba fejlődni, együttmaradni, fordulni - harci
 
 ##### Kiterjeszti ezeket
 
-- [Hadászat](../kepzettsegek/hadaszat.md)
+- [Hadászat](../kepzettsegek.tudomanyos/hadaszat.md)
 
 ##### Követelmény
 

@@ -43,9 +43,9 @@ Ajánlott fortélyok:
 
 Ajánlott képzettségek:
 - [Amund Tradíció](053_04_amund_tradicio.md) (nem kötelező)
-- [Ősi nyelv ismerete](kepzettsegek/osi_nyelv_ismerete.md) (amund)
-- [Természetjárás](kepzettsegek/termeszetjaras.md) + [Tájtípus: sivatagi](hatterek.szabad/tajtipus_sivatagi.md)
-- [Kinzás](kepzettsegek/kinzas.md)
+- [Ősi nyelv ismerete](kepzettsegek.misztikus/osi_nyelv_ismerete.md) (amund)
+- [Természetjárás](kepzettsegek.vilagi/termeszetjaras.md) + [Tájtípus: sivatagi](hatterek.szabad/tajtipus_sivatagi.md)
+- [Kinzás](kepzettsegek.alvilagi/kinzas.md)
 
 <br />
 
@@ -67,8 +67,8 @@ Ajánlott fortélyok:
 
 Ajánlott képzettségek:
 - [Dzsenn Tradíció](053_03_dzsenn_tradicio.md) (nem kötelező)
-- [Ősi nyelv ismerete](kepzettsegek/osi_nyelv_ismerete.md) (dzsenn)
-- [Befolyásolás](kepzettsegek/befolyasolas.md)
+- [Ősi nyelv ismerete](kepzettsegek.misztikus/osi_nyelv_ismerete.md) (dzsenn)
+- [Befolyásolás](kepzettsegek.vilagi/befolyasolas.md)
 
 <br />
 
@@ -88,8 +88,8 @@ Ajánlott fortélyok:
 - [Kitartás](fortelyok.altalanos/kitartas.md)
 
 Ajánlott képzettségek:
-- [Természetjárás](kepzettsegek/termeszetjaras.md)
-- [Lovaglás](kepzettsegek/lovaglas.md)
+- [Természetjárás](kepzettsegek.vilagi/termeszetjaras.md)
+- [Lovaglás](kepzettsegek.fizikai/lovaglas.md)
 
 <br />
 
@@ -119,8 +119,8 @@ Ajánlott fortélyok:
 - [Kitartás](fortelyok.altalanos/kitartas.md)
 
 Ajánlott képzettségek:
-- [Természetjárás](kepzettsegek/termeszetjaras.md)
-- [Lovaglás](kepzettsegek/lovaglas.md)
+- [Természetjárás](kepzettsegek.vilagi/termeszetjaras.md)
+- [Lovaglás](kepzettsegek.fizikai/lovaglas.md)
 
 <br />
 
@@ -145,7 +145,7 @@ Ajánlott fortélyok:
 - [Zártörő](fortelyok.altalanos/zartoro.md)
 
 Ajánlott képzettségek:
-- [Tudományok](kepzettsegek/tudomanyok.md)
+- [Tudományok](kepzettsegek.tudomanyos/tudomanyok.md)
     - [Térképészet](hatterek.szabad/terkepeszet.md) SzH
 
 <br />
@@ -195,8 +195,8 @@ Ajánlott fortélyok:
 - [Kitartás](fortelyok.altalanos/kitartas.md)
 
 Ajánlott képzettségek:
-- [Mászás](kepzettsegek/maszas.md)
-- [Akrobatika](kepzettsegek/akrobatika.md)
+- [Mászás](kepzettsegek.fizikai/maszas.md)
+- [Akrobatika](kepzettsegek.fizikai/akrobatika.md)
 
 
 ---
@@ -212,8 +212,8 @@ Felvehető Érzék-Fortélyok maximuma:
 Ajánlott fortélyok, Kiemelt/Szabad Hátterek: [Kultúrkör](hatterek.kiemelt/kulturkor.md) (Kyr)
 
 Ajánlott képzettségek:
-- [Etikett](kepzettsegek/etikett.md) (Kyr kultúrkör)
-- [Ősi nyelv ismerete](kepzettsegek/osi_nyelv_ismerete.md) (Kyr)
+- [Etikett](kepzettsegek.vilagi/etikett.md) (Kyr kultúrkör)
+- [Ősi nyelv ismerete](kepzettsegek.misztikus/osi_nyelv_ismerete.md) (Kyr)
 
 <br />
 
@@ -234,7 +234,7 @@ Ajánlott fortélyok:
 - [Kitartás](fortelyok.altalanos/kitartas.md)
 
 Ajánlott képzettségek:
-- [Természetjárás](kepzettsegek/termeszetjaras.md)
+- [Természetjárás](kepzettsegek.vilagi/termeszetjaras.md)
 
 <br />
 
@@ -255,7 +255,7 @@ Ajánlott fortélyok:
 - \-
 
 Ajánlott képzettségek:
-- [Etikett](kepzettsegek/etikett.md)
+- [Etikett](kepzettsegek.vilagi/etikett.md)
 
 <br />
 

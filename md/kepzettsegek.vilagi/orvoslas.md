@@ -15,7 +15,7 @@ Ez egy [Primer képzettség](../016_primer_szekunder_ismeretek.md).
 A képzettség az alábbi tevékenységeket fedi le:
 - vérzés elállítása
 - fertőtlenítés, sebkötözés kencék használatával
-- [vajákos](vajakossag.md) által beszerzett készítmények használata
+- [vajákos](../kepzettsegek.vilagi/vajakossag.md) által beszerzett készítmények használata
 - mérgezés gyógyitása
 
 Magasabb szinteken egyre kevésbé van szükség fizikai komponensekre, keverékekre.
@@ -23,7 +23,7 @@ Magasabb szinteken egyre kevésbé van szükség fizikai komponensekre, keverék
 ---
 ##### Betegségek kezelése gyógyszerekkel
 
-A gyógyszerek kikeveréséhez szükség van alapanyagokra, amelyeket a [Vajákosság](vajakossag.md) képzettség segítségével lehet beszerezni.
+A gyógyszerek kikeveréséhez szükség van alapanyagokra, amelyeket a [Vajákosság](../kepzettsegek.vilagi/vajakossag.md) képzettség segítségével lehet beszerezni.
 
 Vajákosság szint követelmény: `Betegség szintje / 2`
 
@@ -35,7 +35,7 @@ Vajákosság szint követelmény: `Betegség szintje / 2`
 Próbadobás Nehézség: Legnagyobb seb (ÉP táblázatból) - ⭕TODO: nehézség korelláció⭕
 ```
 
-A gyógyszerek, hegesedést fokozó, gyógyulás serkentő kencék kikeveréséhez szükség van alapanyagokra, amelyeket szintén a [Vajákosság](vajakossag.md) képzettség segítségével lehet beszerezni.
+A gyógyszerek, hegesedést fokozó, gyógyulás serkentő kencék kikeveréséhez szükség van alapanyagokra, amelyeket szintén a [Vajákosság](../kepzettsegek.vilagi/vajakossag.md) képzettség segítségével lehet beszerezni.
 
 Vajákosság szint követelmény: `Gyógyítandó ÉP / 2`
 
@@ -59,7 +59,7 @@ Vajákosság szint követelmény: `Gyógyítandó ÉP / 2`
 
 ##### Speciális
 
-A [Vajákosság](vajakossag.md) képzettséggel **NINCS** ad Összhang, mert az csak a gyógyszer komponens beszerzésének követelménye.
+A [Vajákosság](../kepzettsegek.vilagi/vajakossag.md) képzettséggel **NINCS** ad Összhang, mert az csak a gyógyszer komponens beszerzésének követelménye.
 
 <br />
 

@@ -2,10 +2,10 @@
 
 ##### Kiterjeszti ezeket
 
-- [Nyomozás](../kepzettsegek/nyomozas.md)
-- [Szakma: hivatalnok](../kepzettsegek/szakma.md)
-- [Történelemismeret](../kepzettsegek/tortenelemismeret.md)
-- [Tudományok](../kepzettsegek/tudomanyok.md)
+- [Nyomozás](../kepzettsegek.vilagi/nyomozas.md)
+- [Szakma: hivatalnok](../kepzettsegek.vilagi/szakma.md)
+- [Történelemismeret](../kepzettsegek.tudomanyos/tortenelemismeret.md)
+- [Tudományok](../kepzettsegek.tudomanyos/tudomanyok.md)
 
 ##### Követelmény
 

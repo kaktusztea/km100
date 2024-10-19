@@ -5,8 +5,8 @@
 Elemedben érzed magad a piacon akár fegyverekről, akár egy marék friss szamócán való alkudozásról van szó.
 ##### Kiterjeszti ezeket
 
-- [Befolyásolás](../kepzettsegek/befolyasolas.md)
-- [Emberismeret](../kepzettsegek/emberismeret.md)
+- [Befolyásolás](../kepzettsegek.vilagi/befolyasolas.md)
+- [Emberismeret](../kepzettsegek.vilagi/emberismeret.md)
 
 <br />
 

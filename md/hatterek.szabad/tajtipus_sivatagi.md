@@ -4,12 +4,12 @@ Ismered a sivatagi környezetet.
 
 ##### Kiterjeszti ezeket:
 
-- [Észlelés](../kepzettsegek/eszleles.md)
-- [Természetjárás](../kepzettsegek/termeszetjaras.md)
+- [Észlelés](../kepzettsegek.vilagi/eszleles.md)
+- [Természetjárás](../kepzettsegek.vilagi/termeszetjaras.md)
 
 ##### Követelmény
 
-- [Természetjárás](../kepzettsegek/termeszetjaras.md) - `3.szint` vagy [Észlelés](../kepzettsegek/eszleles.md) - `3.szint`
+- [Természetjárás](../kepzettsegek.vilagi/termeszetjaras.md) - `3.szint` vagy [Észlelés](../kepzettsegek.vilagi/eszleles.md) - `3.szint`
 
 <br />
 

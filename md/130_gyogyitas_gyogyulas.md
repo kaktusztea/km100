@@ -20,12 +20,12 @@ A Sebesülés modellel már megismerkedtünk a harcrendszer [Életerő - Sebesü
 Amennyiben a vérzést sikerült valamilyen módon elállítani, a sebesült karakter sebeiből `1 ÉP` 1 nap alatt, `1 KT` 1 óra alatt gyógyul meg összesen.
 
 ---
-## [Vajákosság](kepzettsegek/vajakossag.md) képzettség, gyógyitalok
+## [Vajákosság](kepzettsegek.vilagi/vajakossag.md) képzettség, gyógyitalok
 
 A "gyógyszerész". Akár a lápi boszorkány, akár mágiatudó lótifuti segédje, aki napokig járja az erdőt és a vadont ritka alapanyagok után kutatva. **Gyógyításra NEM képes**, de a gyógyszerek előállításához szükséges növényi és állati alapanyagokat be tudja szerezni. Minél magasabb a képzettsége, annál ritkábbakat.
 
 ---
-## [Orvoslás](kepzettsegek/orvoslas.md) képzettség
+## [Orvoslás](kepzettsegek.vilagi/orvoslas.md) képzettség
 
 Alacsony szinten a betegségek és sebek kezelését gyógyszerekkel, kencékkel, magasabb szinten félmágikus energiaátadással végzi.
 

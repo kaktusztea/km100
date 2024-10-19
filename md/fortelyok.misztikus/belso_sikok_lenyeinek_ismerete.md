@@ -13,16 +13,16 @@ A belső síkok túlvilági teremtményeinek ismerete. Alapos, előtörténettel
 
 ##### Kiterjeszti ezeket
 
-- [Tudományok](../kepzettsegek/tudomanyok.md)
+- [Tudományok](../kepzettsegek.tudomanyos/tudomanyok.md)
 
 ---
 #### 1. fok
 
 🔒 **Követelmény**:
 - Előtörténet
-- [Tudományok](../kepzettsegek/tudomanyok.md) - `6.szint`
+- [Tudományok](../kepzettsegek.tudomanyos/tudomanyok.md) - `6.szint`
 
-🌟 **Hatás**:  Dobhatsz [Tudományok](../kepzettsegek/tudomanyok.md) képzettségpróbát egyes lények ismeretére.
+🌟 **Hatás**:  Dobhatsz [Tudományok](../kepzettsegek.tudomanyos/tudomanyok.md) képzettségpróbát egyes lények ismeretére.
 
 <br />
 

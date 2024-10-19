@@ -3,9 +3,9 @@
 "Arra mentek!"
 ##### Kiterjeszti ezeket
 
-- [Befolyásolás](../kepzettsegek/befolyasolas.md)
-- [Emberismeret](../kepzettsegek/emberismeret.md)
-- [Nyomozás](../kepzettsegek/nyomozas.md)
+- [Befolyásolás](../kepzettsegek.vilagi/befolyasolas.md)
+- [Emberismeret](../kepzettsegek.vilagi/emberismeret.md)
+- [Nyomozás](../kepzettsegek.vilagi/nyomozas.md)
 
 **Aktív alkalmazás**: megpróbálsz megetetni valakivel egy jó kis hazugságot.
 

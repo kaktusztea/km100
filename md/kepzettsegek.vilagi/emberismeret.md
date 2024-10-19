@@ -12,7 +12,7 @@ Ez egy [Primer képzettség](../016_primer_szekunder_ismeretek.md).
 
 **Kapcsolódó fortély**: [Hidegvér](../fortelyok.altalanos/hidegver.md), [Tiszta fej](../fortelyok.altalanos/tiszta_fej.md)
 
-**Kapcsolódó képzettség**: [Befolyásolás](befolyasolas.md), [Etikett](etikett.md)
+**Kapcsolódó képzettség**: [Befolyásolás](befolyasolas.md), [Etikett](../kepzettsegek.vilagi/etikett.md)
 
 **Szabad Hátterek kiterjesztik**:
 - [Alkudozás](../hatterek.szabad/alkudozas.md)

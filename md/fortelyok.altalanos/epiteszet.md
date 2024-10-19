@@ -3,9 +3,9 @@
 Épületek statikai ismerete, építésének módja, építészet korszakai, stílusainak ismerete.
 
 #### Kiterjeszti
-- [Nyomozás](../kepzettsegek/nyomozas.md): "Az a fal sokkal vastagabb, mint a másik!"
-- [Művészetismeret](../kepzettsegek/muveszetismeret.md): "Shad0ni hatást érzek azon az oszlopfőn..."
-- [Tudományok](../kepzettsegek/tudomanyok.md): "Az a torony pár hónap és leomlik."
+- [Nyomozás](../kepzettsegek.vilagi/nyomozas.md): "Az a fal sokkal vastagabb, mint a másik!"
+- [Művészetismeret](../kepzettsegek.muveszeti/muveszetismeret.md): "Shad0ni hatást érzek azon az oszlopfőn..."
+- [Tudományok](../kepzettsegek.tudomanyos/tudomanyok.md): "Az a torony pár hónap és leomlik."
 
 <br />
 

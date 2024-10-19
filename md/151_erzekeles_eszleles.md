@@ -22,7 +22,7 @@ A fajok esetleges bónuszai felvehetőek Érzék-Fortélyként. Bővebben lásd 
 ---
 ### Észlelés
 
-Idézet az [Észlelés](kepzettsegek/eszleles.md) képzettség leírásából:
+Idézet az [Észlelés](kepzettsegek.vilagi/eszleles.md) képzettség leírásából:
 
 *"Az Észlelés valaminek az észrevételét takarja. Ez lehet egy villanó tőr, egy meglapuló merénylő a lombok közt, egy árulkodó súrlódó nesz. Fontos, hogy az Észlelés csak a momentum észrevételt jelenti, annak értelmezését nem! Az a játékos feladata, melyet esetleg megkönnyíthet például a **Nyomozás**, vagy a **Természetjárás** képzettség."*
 
@@ -64,7 +64,7 @@ Itt képzettség ellenpróbát dobnak a felek: **Lopakodás/rejtőzés** vs **É
 Ilyen szituban a **Lopakodás/rejtőzést** általában **Ügyességgel**, az **Észlelést** pedig **Érzékenység** Tulajdonsággal dobjuk.
 
 - Ha az észlelő passzívan szemlélődik (passzív észlelés), mikor a támadás éri: alap ellenpróba
-  (alapeset leírását és a próba körülményeit, módosítóit lásd a [Lopakodás/rejtőzés](kepzettsegek/lopakodas_rejtozes.md) képzettség leírásánál!)
+  (alapeset leírását és a próba körülményeit, módosítóit lásd a [Lopakodás/rejtőzés](kepzettsegek.alvilagi/lopakodas_rejtozes.md) képzettség leírásánál!)
 - Ha az észlelő odafigyel, számít a támadásra (aktív észlelés): `+3` jár a próbájára
 
 #### Nem harci szituáció
