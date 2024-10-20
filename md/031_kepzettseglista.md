@@ -6,7 +6,7 @@
 
 → **Primer képzettségek** 🅿️
 - minden harci képzettség
-- minden misztikus, mágikus, szakrális, slan képzettség
+- minden misztikus, mágikus, szakrális, pszí, slan képzettség
 - Akrobatika
 - Aurafejlesztés
 - Befolyásolás
