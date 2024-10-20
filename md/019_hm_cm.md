@@ -7,7 +7,12 @@ Ahogy fejlődik, megjár sok harci helyzetet, a karakter általános harcérték
 
 ```
 1 HM = 2 KP
-Maximum: (6 + Ügyesség) HM / TSz
+Maximum: 3x 
+  (
+   SUM(Harci fortély fokok)
+   +
+   SUM(4 Harcmodor szint)
+  )
 
 1 CM = 2 KP
 Maximum: 4 CM / TSz
