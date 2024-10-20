@@ -23,13 +23,13 @@ A Szorzó a célpont egyedi jellemzőit, illetve a környezet hatásait szimulá
 Ha a célpont mozog, jóval nehezebb eltalálni. A távolság növekedésével ez a nehézség nem lineárisan, hanem exponenciálisan nő, éppen ezért érthető, hogy a mozgás is a Távolsági szorzó része. Alább az egyes mozgás típusokhoz tartozó módosítókat olvashatjuk.
 
 
-| Célpont mozgásának jellege | Módosító | Megjegyzés                                                                                                                                                                      |
-|:-------------------------- |:--------:| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Álló                       |   `3x`   | A célpont mozdulatlan                                                                                                                                                           |
+| Célpont mozgásának jellege | Módosító | Megjegyzés                                                                                                                                                                  |
+| :------------------------- | :------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Álló                       |   `3x`   | A célpont mozdulatlan                                                                                                                                                       |
 | Lassú, egyenletes          |   `5x`   | Lassú séta, léptetés lovon.<br />⭕Többen harcolnak, bármelyik fél eltalálása jó. (Közéjük lövés)⭕<br />⭕(Vagy: 3x (álló), méret bónusz (-1/2x). Aztán k6, h kit talált el)⭕ |
-| Gyors, egyenletes          |   `8x`   | Egyenletesen futó ember, vágtató lovas                                                                                                                                          |
-| Kiszámíthatatlan           |  `15x`   | A célpont ugrál össze-vissza, cikk-cakkban fut.                                                                                                                                 |
-| Harcoló célpont            |  `20x`   | Csak egy konkrét harcoló fél eltalálása jó.                                                                                                                                     |
+| Gyors, egyenletes          |   `8x`   | Egyenletesen futó ember, vágtató lovas                                                                                                                                      |
+| Kiszámíthatatlan           |  `15x`   | A célpont ugrál össze-vissza, cikk-cakkban fut.                                                                                                                             |
+| Harcoló célpont            |  `20x`   | Csak egy konkrét harcoló fél eltalálása jó.                                                                                                                                 |
 
 Természetesen a lövést végző személy mozgása is befolyásolja a találati esélyeket, hiszen könnyebb állva célozni, mint mondjuk futásból. A lövész mozgása az alábbiak szerint módosíthatja a **Szorzót**:
 
@@ -44,7 +44,7 @@ Természetesen a lövést végző személy mozgása is befolyásolja a találati
 #### Szorzó - Méret módosító
 
 | Célpont mérete           | Módosító |
-| ------------------------ |:--------:|
+| ------------------------ | :------: |
 | Pénzérme                 |   +7x    |
 | Alma                     |   +5x    |
 | Fej, Dinnye, Macska      |   +4x    |
@@ -52,7 +52,7 @@ Természetesen a lövést végző személy mozgása is befolyásolja a találati
 | Átlagos ember/elf méretű |   +0x    |
 | Ló oldalról, Ogre        |   -1x    |
 | Lovas                    |   -2x    |
-| ⭕TODO⭕                 |          |
+| ⭕TODO⭕                   |          |
 
 → 🔺ISSUE: [Túl kicsi a fej szorzója](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.tavharc#l%C3%B6v%C3%A9szet-haj%C3%ADt%C3%A1s-kaland-tapasztalatok)
 
@@ -68,14 +68,14 @@ A látási viszonyok erősen meghatározzák a távolsági harcot, hiszen péld�
 | Szürkületben             |      `+2x`      | Szürkületben nehezebb a távolság becslése. |
 
 
-| A célpont láthatósága és hangossága    |            Szorzó Módosító            | Példa                                                           |
-| -------------------------------------- |:-------------------------------------:|:--------------------------------------------------------------- |
-| Jól kivehető kontúr                    |                 `+0x`                 | Nappali célpont; napnyugtakor háztetőn álldogáló célpont        |
+| A célpont láthatósága és hangossága    |            Szorzó Módosító            | Példa                                                             |
+| -------------------------------------- | :-----------------------------------: | :---------------------------------------------------------------- |
+| Jól kivehető kontúr                    |                 `+0x`                 | Nappali célpont; napnyugtakor háztetőn álldogáló célpont          |
 | Homályos kontúr                        |                 `+3x`                 | Félhomályban mozgó alaké;<br />Testközelben levő célpont sötétben |
-| Éppen kivehető kontúr (zajos)          |                 `+6x`                 | Sötétben moccanó, neszező árnyak                                |
-| Éppen kivehető kontúr (csendes)        |                `+15x`                 | Sötétben, csendben lapuló árnyak                                |
-| Háttérrel egybeolvadó kontúr (zajos)   |                `+15x*`                | Vaksötétben harcoló ellenfél;<br />Távoli célpont sötétben      |
-| Háttérrel egybeolvadó kontúr (csendes) | Lehetetlen. Csak 100-as dobás esetén. | Nem látható, lopakodó, némán osonó fejvadász                    |
+| Éppen kivehető kontúr (zajos)          |                 `+6x`                 | Sötétben moccanó, neszező árnyak                                  |
+| Éppen kivehető kontúr (csendes)        |                `+15x`                 | Sötétben, csendben lapuló árnyak                                  |
+| Háttérrel egybeolvadó kontúr (zajos)   |                `+15x*`                | Vaksötétben harcoló ellenfél;<br />Távoli célpont sötétben        |
+| Háttérrel egybeolvadó kontúr (csendes) | Lehetetlen. Csak 100-as dobás esetén. | Nem látható, lopakodó, némán osonó fejvadász                      |
 
 \* Csak speciális mentális gyakorlat segítségével.
 
@@ -116,12 +116,12 @@ Alább az egyes fegyver-kategóriák tipikus **Osztó** értékét látjuk. Ett�
 
 
 | Fegyverkategória                    | Osztó | Példa fegyverek                                        | Speciális                                                                                                                         |
-| ----------------------------------- |:-----:| ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
+| ----------------------------------- | :---: | ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
 | **Nem hajításra készített tárgyak** |  `1`  | Kard, zsámoly, söröskorsó                              | Maximális Hatótávjukhoz hozzáadható:  <br>(`Erő x Osztó`)                                                                         |
 | **Apró hajítófegyverek**            |  `2`  | Tőr, dobótőr, hajítóbárd, kő                           | -                                                                                                                                 |
 | **Íjak**                            |  `3`  | Rövid íj, hosszú íj,  <br>+ Kézi nyílpuska,  <br>dárda | Sebzés bónusz: Erő tulajdonság  <br>(ha erre az Erőre lett tervezve)                                                              |
 | **Nyílpuskák**                      |  `4`  | Minden nyílpuska  <br>kivéve Kézi és Kharei            | A kézi nyílpuskától felfelé Páncéltörőnek számítanak:<br><br>`SFÉ = a vért rétegeinek száma`<br>(mágikus vértek esetén a KM dönt) |
 | ...                                 |  ...  | ...                                                    | ...                                                                                                                               |
-| Modern, nagy hatótávú fegyver       | `10`  | Távcsöves mesterlövész puska                           | Ezt csak azért írjuk be, hogy látszódjon, ez a távolsági harcrendszer kiválóan adaptálható modern szerepjáték világokra is.        |
+| Modern, nagy hatótávú fegyver       | `10`  | Távcsöves mesterlövész puska                           | Ezt csak azért írjuk be, hogy látszódjon, ez a távolsági harcrendszer kiválóan adaptálható modern szerepjáték világokra is.       |
 
 🔆 **Megjegyzés**: Javasoljuk a KM-nek, hogy ha esetleg mágikus, vagy kifejezetten jó minőségű fegyver értékeit akarja az alapértékhez képest módosítani, akkor az **Osztó** értékét lehetőleg **NE** módosítsa, inkább a fegyver **Célzó Értékét** változtassa.
