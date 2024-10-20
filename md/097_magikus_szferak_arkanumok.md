@@ -4,26 +4,8 @@
 
 ⭕TODO⭕: Az egyes Szférák rövid leírása mindegyik alatt.
 
-Minden szféra alá 2 mágiaiskola tartozik. Minden Arkánum egy ősi nyelvnek felel meg.
+Minden szféra alá 2 Arkánum (mágiaiskola) tartozik. Minden Arkánum egy ősi nyelvnek felel meg.
 Annyi ősi nyelv van, ahány mágiaiskola.
-
----
-### Belső szféra
-
-Jelenleg nincs olyan isten, amelynek ez a Szférája megvan.
-
-- Aura - azonos az [Aurafejlesztés](kepzettsegek.misztikus/aurafejlesztes.md) képzettséggel
-- Pszí - azonos a [Pszí használat](kepzettsegek.misztikus/pszi_hasznalat.md) képzettséggel
-
----
-### Titkos Szféra
-
-Ez a teremtés és mágia szférája. 
-
-- Teremtés arkánum: Ez a teremtés titkos szférája. Csak az istenek rendelkeznek vele.
-  - Élet Princípiumának a megteremtése
-  - Lélekcsíra megteremtése
-- Mana == Minden Tradíció [Metamágia](kepzettsegek.arkanumok/metamagia.md) arkánuma (== Tradíció ??)
 
 ---
 ### Anyag szféra
@@ -114,6 +96,24 @@ Ez a teremtés és mágia szférája.
 - [Sors Befolyásolás](kepzettsegek.arkanumok/sors.befolyasolas.md)
   - Árnyékra ható mágia
   - Lélekmágia (véletlenmágia) (CX)
+
+---
+### Belső szféra
+
+Jelenleg nincs olyan isten, amely ezt a Szférát uralná és papjainak elérhető lenne.
+
+- Aura - azonos az [Aurafejlesztés](kepzettsegek.misztikus/aurafejlesztes.md) képzettséggel
+- Pszí - azonos a [Pszí használat](kepzettsegek.misztikus/pszi_hasznalat.md) képzettséggel
+
+---
+### Titkos Szféra
+
+Ez a teremtés és mágia szférája. 
+
+- Teremtés: Ez a teremtés titkos arkánuma. Csak az istenek rendelkeznek vele.
+  - Élet Princípiumának a megteremtése
+  - Lélekcsíra megteremtése
+- Mana == Minden Tradíció [Metamágia](kepzettsegek.arkanumok/metamagia.md) arkánuma ⭕(== Tradíció ??)⭕
 
 ---
 

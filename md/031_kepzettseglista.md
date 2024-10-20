@@ -152,12 +152,6 @@ Az aktív előadást igénylő művészeteket szeparáltuk az **Előadóművész
 ---
 ## Mágikus Szférák és Arkánumaik 🅿️
 
-### Belső Szféra
-
-→ **Aura** arkánum, amely azonos az [Aurafejlesztés](kepzettsegek.misztikus/aurafejlesztes.md) képzettséggel
-
-→ **Pszí** arkánum, amely azonos a [Pszí használat](kepzettsegek.misztikus/pszi_hasznalat.md) képzettséggel
-
 ### Anyag szféra
 
 🔵 [Elemi mágia](kepzettsegek.arkanumok/elemi_magia.md) <sup><sub>(30%)</sub></sup>
@@ -199,6 +193,12 @@ Az aktív előadást igénylő művészeteket szeparáltuk az **Előadóművész
 🔵 [Sors Érzékelés](kepzettsegek.arkanumok/sors.erzekeles.md)
 
 🔵 [Sors Befolyásolás](kepzettsegek.arkanumok/sors.befolyasolas.md)
+
+### Belső Szféra
+
+→ **Aura** arkánum, amely azonos az [Aurafejlesztés](kepzettsegek.misztikus/aurafejlesztes.md) képzettséggel
+
+→ **Pszí** arkánum, amely azonos a [Pszí használat](kepzettsegek.misztikus/pszi_hasznalat.md) képzettséggel
 
 ### Titkos Szféra
 
