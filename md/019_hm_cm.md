@@ -7,15 +7,23 @@ Ahogy fejlődik, megjár sok harci helyzetet, a karakter általános harcérték
 
 ```
 1 HM = 2 KP
-Maximum: 3x 
+
+Maximum felvehető
+HM összesen:
+ 3x 
   (
    SUM(Harci fortély fokok)
    +
    SUM(4 Harcmodor szint)
   )
+```
 
+```
 1 CM = 2 KP
-Maximum: 4 CM / TSz
+
+Maximum felvehető
+CM összesen:
+  4 x TSz
 ```
 
 A `HM` a [Támadó Érték](062_01_ke_te_ve_ce.md#támadó-érték) (`TÉ`), és  [Védő Érték](062_01_ke_te_ve_ce.md#védő-érték) (`VÉ`) harcértékek általános növelésére szolgál, a `CM` pedig a [Célzó Érték](062_01_ke_te_ve_ce.md#célzó-érték) (`CÉ`) növelését látja el. Nem keverhetőek, tehát a `CM`-re költhető max `4` pont nem „pakolható át” `HM`-re és viszont!
