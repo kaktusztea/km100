@@ -42,7 +42,7 @@ Mindegyik Belharcos Manőver [Belharci szituációt](064_01_harci_helyzetek.md#b
 	- [Belharc](fortelyok.harci/belharc.md) – `1.fok`
 - Súlyos ellenfélnél opcionális **Erőpróba** (KM dönt)
 
-**Hatás**: Belharc közben fogást találsz ellenfeleden és átdobod a vállad felett. Innentől kezdve a [Harc földön fekve](064_01_harci_helyzetek.md#harc-földön-fekve) módosítói szerint kell számolni harcértékeit.
+**Hatás**: Belharc közben fogást találsz ellenfeleden és átdobod a vállad felett. Innentől kezdve a [Harc földön fekve](064_01_harci_helyzetek.md#f%C3%B6ld%C3%B6n-fekve) módosítói szerint kell számolni harcértékeit.
 
 <br />
 
@@ -84,7 +84,7 @@ Lásd a [Belharcból kibontakozás](065_05_altalanos_manoverek.md#belharcból-ki
 - Fázisok: `V E`
 - Követelménye: Közelharc - `5.szint`
 
-**Hatás**: Sikeresen kigáncsoltad ellenfeled lábát, aki a földre zuhan. Felállnia csak sikeres [Felállás földről](065_05_altalanos_manoverek.md#felállás-földről) manőver alkalmazásával sikerülhet. A továbbiakban a [Harc földön fekve](064_01_harci_helyzetek.md#harc-f%C3%B6ld%C3%B6n-fekve) módosítói vonatkoznak rá.
+**Hatás**: Sikeresen kigáncsoltad ellenfeled lábát, aki a földre zuhan. Felállnia csak sikeres [Felállás földről](065_05_altalanos_manoverek.md#felállás-földről) manőver alkalmazásával sikerülhet. A továbbiakban a [Harc földön fekve](064_01_harci_helyzetek.md#f%C3%B6ld%C3%B6n-fekve) módosítói vonatkoznak rá.
 
 **Megjegyzés**: Súlyos ellenfélnél: opcionális **Erő Tulajdonságpróba** (KM dönt). Gondoljunk a nagy, páncélos ellenfelekre! Csak kétlábú ellenfelek ellen alkalmazható, több lábbal rendelkező ellenfélnél [Lábsöpréssel / Ökleléssel](065_05_altalanos_manoverek.md#l%C3%A1bs%C3%B6pr%C3%A9s--%C3%B6klel%C3%A9s) kell próbálkoznod.
 
