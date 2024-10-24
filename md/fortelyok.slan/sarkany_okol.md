@@ -12,7 +12,7 @@ Ez a Harcművészek speciális fortélya. A **Slan pszí** útja delejes erőt a
 
 🌟 **Hatás**:
 - Puszta kézzel csak `KT` sérülés okozható
-- [Puszta kéz harcértékei](../064_01_harci_helyzetek.md#harc-puszta-k%C3%A9zzel)
+- [Pusztakezes harcértékek](../064_01_harci_helyzetek.md#pusztakezes-harc)
   - `KÉ,TÉ,VÉ: -10`
   - `SP: -5+k20`
 

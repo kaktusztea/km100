@@ -10,7 +10,7 @@ A Manőver után jön a **Futás ellenpróba** (lásd lejjebb) - amennyiben elle
 
 Ha elveszíted az ellenpróbát, dönthetsz VAGY-VAGY:
 - visszafordulsz, újra felveszed a harcot aktuális, fegyveres harcértékeiddel
-- egy újabb támadást adhat le rád az ellenfeled [Támadás hátulról](064_01_harci_helyzetek.md#t%C3%A1mad%C3%A1s-h%C3%A1tulr%C3%B3l) módosítókkal.
+- egy újabb támadást adhat le rád az ellenfeled [Hátulról](064_01_harci_helyzetek.md#h%C3%A1tulr%C3%B3l-t%C3%A1mad%C3%A1s) módosítókkal.
 
 Ha megnyerted a Futás ellenpróbát, sikerült lehagynod üldöződet.
 
