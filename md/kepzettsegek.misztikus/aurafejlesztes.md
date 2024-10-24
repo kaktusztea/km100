@@ -1,5 +1,7 @@
 #### 🔵 Aurafejlesztés
 
+**Mágikus világkép**: a [Belső Szféra](https://github.com/kaktusztea/km100/blob/master/md/097_magikus_szferak_arkanumok.md#bels%C5%91-szf%C3%A9ra) alá tartozó **Aura arkánum** azonos az **Aurafejlesztés** képzettséggel.
+
 **Próba:** dobható
 
 **Domináns Tulajdonságok**: Intelligencia, Érzékenység
