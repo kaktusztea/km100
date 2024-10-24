@@ -2,155 +2,31 @@
 
 🔆 Fontos: A "Meglepetés", "Támadás hátulról", "Észrevétlen támadás" egymást kizáró, "vagy-vagy" harci helyzetek, nem vonhatóak össze.
 
-| Szituáció                                                                                                             |                                Módosító                                | Megjegyzés                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| :-------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Képzetlen fegyverhasználat](064_01_harci_helyzetek.md#k%C3%A9pzetlen-fegyverhaszn%C3%A1lat)                          |                `KÉ:-20, TÉ:-30` <br/>`VÉ:-30, CÉ: -30`                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| [Harc puszta kézzel](064_01_harci_helyzetek.md#harc-puszta-k%C3%A9zzel)                                               |                        `KÉ:-10, TÉ:-10, VÉ:-10`                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| [Harc rosszabbik kézben tartott fegyverrel](064_01_harci_helyzetek.md#harc-rosszabbik-k%C3%A9zben-tartott-fegyverrel) |                        `KÉ:-10, TÉ:-20, VÉ:-20`                        | Kivétel:<br/><br/>• **Kétkezesség** fortély. Csak annyit ad, hogy rosszabbik kézzel is levonás nélkül tudsz harcolni, de csak 1 fegyverrel!!<br/><br/>• **Kétkezes Harc** fortély                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| [Meglepetés](064_01_harci_helyzetek.md#t%C3%A1mad%C3%A1s-h%C3%A1tulr%C3%B3l)                                          |                                `TÉ:+20`                                | A támadó kapja a módosítót.<br/>Pajzs VÉ csak akkor számít, ha a csapás nem hátulról jön.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| [Támadás hátulról](064_01_harci_helyzetek.md#t%C3%A1mad%C3%A1s-h%C3%A1tulr%C3%B3l)                                    |                                `TÉ:+20`                                | A támadó kapja a módosítót.<br/>Pajzs VÉ nem számít.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| [Támadás félhátulról](064_01_harci_helyzetek.md#t%C3%A1mad%C3%A1s-f%C3%A9lh%C3%A1tulr%C3%B3l)                         |                                `TÉ:+10`                                | Pajzs VÉ csak akkor számít, ha a pajzsot tartó kéz felőli oldalról jön a csapás.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| [Készületlenség](064_01_harci_helyzetek.md#k%C3%A9sz%C3%BCletlens%C3%A9g)                                             |                      Lásd a Meglepetés helyzetet!                      | Ha egy karakter készületlen, akkor támadója a Meglepetés szituációnak megfelelő módosítókkal támadhat rá.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| [Kábult/bódult/megrendült állapot](064_01_harci_helyzetek.md#k%C3%A1bult--b%C3%B3dult--megrend%C3%BClt)               |                        `KÉ:-10, TÉ:-20, SP:-2`                         | Kábulat, rosszullét, mérgezés esetén ideiglenesen ezek a levonások járnak. A KM – belátása szerint – adhat KT „sebesülést” is (pl. mérgezésnél)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| [Észrevétlen támadás](064_01_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s)                              |            Áldozat Védő Értéke: mozgás jellegétől függő VÉ             | **Célpont mozgás jellegétől függő VÉ**<br/><br/>Lásd a bővebb leírást.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| [Belharci szituáció](064_01_harci_helyzetek.md#belharci-szitu%C3%A1ci%C3%B3)                                          |                            Lásd a leírást!                             | • Bekerülni: [Belharcba kerülés](065_05_altalanos_manoverek.md#belharcba-kerülés) manőverrel<br/>• Kijönni: [Belharcból kibontakozás](065_05_altalanos_manoverek.md#belharcb%C3%B3l-kibontakoz%C3%A1s) manőverrel<br/>• Mindenki a saját Harcmodorának módosítóival küzd<br/>• [Belharc fortély](fortelyok.harci/belharc.md) bónuszai: `KÉ:+2`, `TÉ/VÉ:+3` fokonként. Csak **Közelharc** harcmodorban jár.<br/>• A `rövid (0)` pengénél nagyobb fegyverek értékei: `0`-ra esnek, sebzésük max: `+1 SP`,  „**Harckeret**” csökken `5`-el. **Erőbónusz** és **MF** fortély bónuszai maradnak.<br/>• Puszta kéz értékei `0`-ra emelkednek |
-| [Harc magasabbról](064_01_harci_helyzetek.md#harc-magasabbr%C3%B3l)                                                   |                                `TÉ:+10`                                | A támadó kapja a módosítót.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| [Harc gyűlöletből](064_01_harci_helyzetek.md#harc-gy%C5%B1l%C3%B6letb%C5%91l)                                         |                            `TÉ:+15; VÉ:-30`                            | Aki gyűlöletből harcol, az kevesebbet törődik a védekezéssel, minden erejével ellenfele elpusztítására tör. Az ilyen karakter kötelezően maximális, `TÉ:+15` [Támadó taktikával](064_02_harci_taktikak.md#támadó-taktika) harcol (így `VÉ:-30` sújtja).                                                                                                                                                                                                                                                                                                                                                                                |
-| [Félelem harc közben](064_01_harci_helyzetek.md#f%C3%A9lelem-harc-k%C3%B6zben)                                        |                            `TÉ:-40; VÉ:+20`                            | Aki erős félelem alatt harcol, az kevesebbet törődik a támadással, minden erejével védekezni próbál. Az ilyen karakter kötelezően maximális, `VÉ:+20` [Támadó taktikával](064_02_harci_taktikak.md#védő-taktika) harcol (így `TÉ:-40` sújtja).                                                                                                                                                                                                                                                                                                                                                                                         |
-| [Fegyverrántás](064_01_harci_helyzetek.md#fegyverr%C3%A1nt%C3%A1s)                                                    | Puszta kezes KÉ  <br/>fegyver-függő levonással:<br/><br/>`[0 ;-10] KÉ` | `10`-el túldobott `KÉ` esetén a fegyverrántó támadhat elsőnek azonnal – teljes harcértékével.<br/><br/>Fegyverrántás fortély bónusza:<br/>`1. fok: +5 KÉ`<br/>`2. fok: +10 KÉ`                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| [Harc helyhez kötve](064_01_harci_helyzetek.md#harc-helyhez-k%C3%B6tve)                                               |                        `KÉ:-10, TÉ:-20, VÉ:-20`                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| [Harc földön fekve](064_01_harci_helyzetek.md#harc-f%C3%B6ld%C3%B6n-fekve)                                            |                        `KÉ:-10, TÉ:-10, VÉ:-10`                        | -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| [Beszorított helyzet](064_01_harci_helyzetek.md#beszor%C3%ADtott-helyzet)                                             |              Lásd a [leírást](#beszor%C3%ADtott-helyzet)!              | -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| [Harc félhomályban](064_01_harci_helyzetek.md#harc-f%C3%A9lhom%C3%A1lyban)                                            |                                 ⭕TODO⭕                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| [A védekező takarásban](064_01_harci_helyzetek.md#a-v%C3%A9dekez%C5%91-takar%C3%A1sban)                               |                                 ⭕TODO⭕                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| [Harc állatokkal](064_01_harci_helyzetek.md#harc-%C3%A1llatokkal)                                                     |                            Lásd a leírást!                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Szituáció                                                                                                     |                                Módosító                                | Megjegyzés                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| :------------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Belharci szituáció](064_01_harci_helyzetek.md#belharci-szitu%C3%A1ci%C3%B3)                                  |                            Lásd a leírást!                             | • Bekerülni: [Belharcba kerülés](065_05_altalanos_manoverek.md#belharcba-kerülés) manőverrel<br/>• Kijönni: [Belharcból kibontakozás](065_05_altalanos_manoverek.md#belharcb%C3%B3l-kibontakoz%C3%A1s) manőverrel<br/>• Mindenki a saját Harcmodorának módosítóival küzd<br/>• [Belharc fortély](fortelyok.harci/belharc.md) bónuszai: `KÉ:+2`, `TÉ/VÉ:+3` fokonként. Csak **Közelharc** harcmodorban jár.<br/>• A `rövid (0)` pengénél nagyobb fegyverek értékei: `0`-ra esnek, sebzésük max: `+1 SP`,  „**Harckeret**” csökken `5`-el. **Erőbónusz** és **MF** fortély bónuszai maradnak.<br/>• Puszta kéz értékei `0`-ra emelkednek |
+| [Beszorított helyzet](064_01_harci_helyzetek.md#beszor%C3%ADtott-helyzet)                                     |              Lásd a [leírást](#beszor%C3%ADtott-helyzet)!              | -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| [Észrevétlen támadás](064_01_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s)                      |            Áldozat Védő Értéke: mozgás jellegétől függő VÉ             | **Célpont mozgás jellegétől függő VÉ**<br/><br/>Lásd a bővebb leírást.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| [Fegyverrántás](064_01_harci_helyzetek.md#fegyverr%C3%A1nt%C3%A1s)                                            | Puszta kezes KÉ  <br/>fegyver-függő levonással:<br/><br/>`[0 ;-10] KÉ` | `10`-el túldobott `KÉ` esetén a fegyverrántó támadhat elsőnek azonnal – teljes harcértékével.<br/><br/>Fegyverrántás fortély bónusza:<br/>`1. fok: +5 KÉ`<br/>`2. fok: +10 KÉ`                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| [Félelem alatt](064_01_harci_helyzetek.md#f%C3%A9lelem-harc-k%C3%B6zben)                                      |                            `TÉ:-40; VÉ:+20`                            | Aki erős félelem alatt harcol, az kevesebbet törődik a támadással, minden erejével védekezni próbál. Az ilyen karakter kötelezően maximális, `VÉ:+20` [Támadó taktikával](064_02_harci_taktikak.md#védő-taktika) harcol (így `TÉ:-40` sújtja).                                                                                                                                                                                                                                                                                                                                                                                         |
+| [Félhátulról támadás](064_01_harci_helyzetek.md#t%C3%A1mad%C3%A1s-f%C3%A9lh%C3%A1tulr%C3%B3l)                 |                                `TÉ:+10`                                | Pajzs VÉ csak akkor számít, ha a pajzsot tartó kéz felőli oldalról jön a csapás.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| [Félhomályban](064_01_harci_helyzetek.md#harc-f%C3%A9lhom%C3%A1lyban)                                         |                                 ⭕TODO⭕                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| [Földön fekve](064_01_harci_helyzetek.md#harc-f%C3%B6ld%C3%B6n-fekve)                                         |                        `KÉ:-10, TÉ:-10, VÉ:-10`                        | -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| [Gyűlöletből](064_01_harci_helyzetek.md#harc-gy%C5%B1l%C3%B6letb%C5%91l)                                      |                            `TÉ:+15; VÉ:-30`                            | Aki gyűlöletből harcol, az kevesebbet törődik a védekezéssel, minden erejével ellenfele elpusztítására tör. Az ilyen karakter kötelezően maximális, `TÉ:+15` [Támadó taktikával](064_02_harci_taktikak.md#támadó-taktika) harcol (így `VÉ:-30` sújtja).                                                                                                                                                                                                                                                                                                                                                                                |
+| [Hátulról támadás](064_01_harci_helyzetek.md#t%C3%A1mad%C3%A1s-h%C3%A1tulr%C3%B3l)                            |                                `TÉ:+20`                                | A támadó kapja a módosítót.<br/>Pajzs VÉ nem számít.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| [Helyhez kötve](064_01_harci_helyzetek.md#harc-helyhez-k%C3%B6tve)                                            |                        `KÉ:-10, TÉ:-20, VÉ:-20`                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| [Kábult/bódult/megrendült állapot](064_01_harci_helyzetek.md#k%C3%A1bult--b%C3%B3dult--megrend%C3%BClt)       |                        `KÉ:-10, TÉ:-20, SP:-2`                         | Kábulat, rosszullét, mérgezés esetén ideiglenesen ezek a levonások járnak. A KM – belátása szerint – adhat KT „sebesülést” is (pl. mérgezésnél)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| [Képzetlen fegyverhasználat](064_01_harci_helyzetek.md#k%C3%A9pzetlen-fegyverhaszn%C3%A1lat)                  |                `KÉ:-20, TÉ:-30` <br/>`VÉ:-30, CÉ: -30`                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| [Készületlenség](064_01_harci_helyzetek.md#k%C3%A9sz%C3%BCletlens%C3%A9g)                                     |                      Lásd a Meglepetés helyzetet!                      | Ha egy karakter készületlen, akkor támadója a Meglepetés szituációnak megfelelő módosítókkal támadhat rá.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| [Magasabbról](064_01_harci_helyzetek.md#harc-magasabbr%C3%B3l)                                                |                                `TÉ:+10`                                | A támadó kapja a módosítót.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| [Meglepetés](064_01_harci_helyzetek.md#t%C3%A1mad%C3%A1s-h%C3%A1tulr%C3%B3l)                                  |                                `TÉ:+20`                                | A támadó kapja a módosítót.<br/>Pajzs VÉ csak akkor számít, ha a csapás nem hátulról jön.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| [Pusztakezes harc](064_01_harci_helyzetek.md#harc-puszta-k%C3%A9zzel)                                         |                        `KÉ:-10, TÉ:-10, VÉ:-10`                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| [Rosszabbik kézben tartott fegyver](064_01_harci_helyzetek.md#harc-rosszabbik-k%C3%A9zben-tartott-fegyverrel) |                        `KÉ:-10, TÉ:-20, VÉ:-20`                        | Kivétel:<br/><br/>• **Kétkezesség** fortély. Csak annyit ad, hogy rosszabbik kézzel is levonás nélkül tudsz harcolni, de csak 1 fegyverrel!!<br/><br/>• **Kétkezes Harc** fortély                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| [Vadállatok ellen](064_01_harci_helyzetek.md#harc-%C3%A1llatokkal)                                            |                            Lásd a leírást!                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| [Védekező takarásban](064_01_harci_helyzetek.md#a-v%C3%A9dekez%C5%91-takar%C3%A1sban)                         |                                 ⭕TODO⭕                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
 <br />
 
----
-### Képzetlen fegyverhasználat
-
-```
-KÉ: -20, TÉ: -30, VÉ: -30, CÉ: -30
-```
-
-Ha egy karakter képzetlen az általa forgatott fegyver használatában, akkor harcértékeit a fenti levonások sújtják.
-
-<br />
-
----
-### Harc puszta kézzel
-
-```
-Puszta kéz harcértékei: KÉ: -10, TÉ: -10, VÉ: -10
-```
-
-Amennyiben valaki fegyvertelenül, puszta kézzel kénytelen egy felfegyverzett ellenféllel harcolni, akkor alapesetben hátrányban van. Ez a Puszta kéz negatív harcértékeiben mutatkozik meg. A különböző pusztakezes Fortélyok csak mérsékelik ezt a hátrányt. Egyetlen kivétel a harcművészek „**Élő fegyver**” fortélya, amely teljesen megszünteti az említett hátrányokat (`0`-ra „emeli” mindhárom harcértéket).
-
-A fenti levonások kizárólag **belharcban** nem érvényesülnek, ahhoz viszont „**Belharcba kerülés**” Manőver szükséges! Belharcban a Puszta kéz harcértékei `0`-ra emelkednek, valamint járnak a **Belharcból** eredő esetleges módosítók is.
-
-A **Puszta kéz** – mint fegyver – szabály szempontjából „egykezes” fegyvernek számít, tehát **nem** lehet vele **Kétkezes harcot** folytatni!
-
-<br />
-
----
-### Harc rosszabbik kézben tartott fegyverrel
-
-```
-KÉ:-10, TÉ:-20, VÉ:-20
-```
-
-Ha – akár sérülés hatására – a harcos kénytelen átvenni fegyverét ügyetlenebb kezébe, akkor csak a következő levonásokkal harcolhat: `KÉ:-10, TÉ:-20, VÉ:-20`\
-Kivétel:
-- **Kétkezesség** fortély. Csak annyit ad, hogy rosszabbik kézzel is levonás nélkül tudsz harcolni, de csak 1 fegyverrel!!
-- **Kétkezes Harc** fortély
-
-<br />
-
----
-### Támadás hátulról
-
-```TÉ: +10```
-
-Ha a karakter ellenfelére hátulról támad, 👀`+20 TÉ` módosító járul **Támadó Értékéhez**.
-
-A védekező pajzs VÉ értéke NEM számít.
-
-<br />
-
----
-### Támadás félhátulról
-
-```TÉ: +10```
-
-Ha a karakter ellenfelére hátulról féltámad, 👀`+10 TÉ` módosító járul **Támadó Értékéhez**.
-
-Védekező Pajzs VÉ csak akkor számít, ha a pajzsot tartó kéz felőli oldalról jön a csapás.
-
-<br />
-
----
-### Meglepetés
-
-```TÉ: +20```
-
-Ha az ellenfél nem számít az őt érő támadásra, de még képes reagálni, akkor Meglepetésről beszélünk. Az ilyen helyzetben a támadó karakter 👀`+20 TÉ` módosítót kap harcértékeire.
-
-<br />
-
----
-### Készületlenség
-
-Ha egy karakter készületlen, akkor támadója a [Meglepetés](#meglepet%C3%A9s) szituációnak megfelelő módosítókkal támadhat rá.
-
-<br />
-
----
-### Kábult / Bódult / Megrendült
-
-Az említett állapotokban az alábbi büntetésekkel harcolhatsz.
-
-```
-KÉ:-10, TÉ:-20, SP:-2
-```
-
-<br />
-
----
-### Észrevétlen támadás
-
-Ha valaki úgy képes támadást leadni, hogy ellenfele erről az utolsó pillanatig nem tud, tehát egyáltalán nem képes rá reagálni, akkor **Észrevétlen támadásról** beszélünk.
-
-Észrevétlen támadáshoz az alkalmazónak sikeres ellenpróbát kell dobnia **Lopakodás/rejtőzés** képzettségével áldozata **Észlelés** képzettsége ellen.
-
-Az **Észrevétlen támadás** több Manőver követelménye, mint például az [Orvtámadás](065_05_altalanos_manoverek.md#orvt%C3%A1mad%C3%A1s).
- 
-Ilyenkor ellenfele `Védő Értékét` annak mozgási jellege és mérete határozza meg:
-
-| **Célpont mozgásának jellege**    | **VÉ** |
-| --------------------------------- | :----: |
-| Álló helyzet                      |  `20`  |
-| Lassú egyenletes (séta)           |   30   |
-| Egyenletes kocogás                |  `50`  |
-| Sprint egyenes vonalon            |  `80`  |
-| Lassú kiszámíthatatlan            |  `50`  |
-| Közepesen gyors, kiszámíthatatlan |  `80`  |
-| Gyors, kiszámíthatatlan           | `110`  |
-
-<br/>
-
-| **Célpont mérete** | **VÉ** |
-| ------------------ | ------ |
-| Óriás              | `-30`  |
-| Ork                | `-10`  |
-| Elfszabású / ember | `+0`   |
-| Goblin             | `+20`  |
-| macska             | `+40`  |
-| egér               | `+60`  |
-
-<br />
-
----
 ### Belharci szituáció
 
 Kapcsolódik:
@@ -206,32 +82,56 @@ Amennyiben a belharcban levő harcost egy harmadik (vele nem belharcban levő) f
 <br />
 
 ---
-### Harc magasabbról
+### Beszorított helyzet
 
-```
-TÉ: +10
-```
+Beszorított helyzeten azt értjük, ha az adott fegyverrel a harcos helyhiány miatt nem képes annak technikáit maradéktalanul alkalmazni. Ez nagyon szűk helyeken egészen szélsőséges hátrányokat is okozhat fegyver-típustól függően.
 
-Ha valaki magasabbról harcol, az előnyben van ellenfelével szemben. Ilyen helyzetben `+10 TÉ` módosító járul Támadó Értékéhez.
+Mivel nem lehet általános szabályt alkotni minden szituáció és fegyver-típus kapcsolatából, ezért csak irányelveket fektetünk le, a KM határozza meg az adott helyzet ismeretében, hogy épp milyen levonások járnak.
 
-<br />
+„**Rövid**” fegyverekre (max 0,5 pengehossz) nem jár levonás. Puszta kéz értékei nem módosulnak.
 
----
-### Harc gyűlöletből
+Szobában, bútorok közt:
+- 2 kezes és szálfegyverek harcértéke `0`-ra zuhan
+- egykezes fegyverek harcértéke **feleződik**
 
-```
-TÉ: +15, VÉ: -30
-```
+Szűk sikátorban:
+- Fontos, hogy milyen irányból érkezik a támadás. Egy lándzsa technikáit például nem lehet itt alkalmazni, viszont a két oldalról való védettség folytán szinte lehetetlen hozzáférni. Ilyenkor a szúró szálfegyverek `+15 TÉ/VÉ` módosítót kapnak, viszont a hátulról érkező támadások ellen teljesen védtelen ilyenkor a harcos. Abba az irányba fegyverének harcértékei `0`-nak számítanak és még **további** `-15 TÉ/VÉ` csökkenést szenved el.
 
-Aki gyűlöletből harcol, az kevesebbet törődik a védekezéssel, minden erejével ellenfele elpusztítására tör. Az ilyen karakter kötelezően `+15 TÉ` Támadó taktikával harcol (így `-30 VÉ` sújtja).
-
-Ebben az állapotban használhatja a **Kezdeményező Taktikát**, de semmilyen defenzív jellegű más taktikát nem (pl. Kiváró, stb).
+**Megjegyzés**: a **Támadó- és Védő** taktikák **Beszorított helyzetben** továbbra is használhatóak.
 
 <br />
 
 ---
-### Félelem harc közben
-Ha valaki nem bírja a stresszt, vagy kezdő a harcban, vagy meg lett félemlítve (KM dönt), akkor automatikusan **Védekező taktikában** kezd harcolni, mégpedig a legerősebb (`VÉ:+15; TÉ:-30`) módon. Ha akarja, ha nem.
+### Észrevétlen támadás
+
+Ha valaki úgy képes támadást leadni, hogy ellenfele erről az utolsó pillanatig nem tud, tehát egyáltalán nem képes rá reagálni, akkor **Észrevétlen támadásról** beszélünk.
+
+Észrevétlen támadáshoz az alkalmazónak sikeres ellenpróbát kell dobnia **Lopakodás/rejtőzés** képzettségével áldozata **Észlelés** képzettsége ellen.
+
+Az **Észrevétlen támadás** több Manőver követelménye, mint például az [Orvtámadás](065_05_altalanos_manoverek.md#orvt%C3%A1mad%C3%A1s).
+ 
+Ilyenkor ellenfele `Védő Értékét` annak mozgási jellege és mérete határozza meg:
+
+| **Célpont mozgásának jellege**    | **VÉ** |
+| --------------------------------- | :----: |
+| Álló helyzet                      |  `20`  |
+| Lassú egyenletes (séta)           |   30   |
+| Egyenletes kocogás                |  `50`  |
+| Sprint egyenes vonalon            |  `80`  |
+| Lassú kiszámíthatatlan            |  `50`  |
+| Közepesen gyors, kiszámíthatatlan |  `80`  |
+| Gyors, kiszámíthatatlan           | `110`  |
+
+<br/>
+
+| **Célpont mérete** | **VÉ** |
+| ------------------ | ------ |
+| Óriás              | `-30`  |
+| Ork                | `-10`  |
+| Elfszabású / ember | `+0`   |
+| Goblin             | `+20`  |
+| macska             | `+40`  |
+| egér               | `+60`  |
 
 <br />
 
@@ -294,48 +194,26 @@ Tőrrel KÉ: 28 (Tőr KÉ:+2)
 <br />
 
 ---
-### Harc helyhez kötve
+### Félelem alatt
+Ha valaki nem bírja a stresszt, vagy kezdő a harcban, vagy meg lett félemlítve (KM dönt), akkor:
 
-```
-KÉ:-10, TÉ:-20, VÉ:-20
-```
-
-Ha a karakter helyhez kötve kénytelen harcolni, akkor `-10 KÉ, -20 TÉ és -20 VÉ` büntetés jár harcértékeire.
+automatikusan **Védekező taktikában** kezd harcolni, mégpedig a legerősebb (`VÉ:+15; TÉ:-30`) módon. Ha akarja, ha nem.
 
 <br />
 
 ---
-### Harc földön fekve
+### Félhátulról támadás
 
-```
-KÉ: -10, TÉ: -10, VÉ: -10
-```
+```TÉ: +10```
+
+Ha a karakter ellenfelére hátulról féltámad, 👀`+10 TÉ` módosító járul **Támadó Értékéhez**.
+
+Védekező Pajzs VÉ csak akkor számít, ha a pajzsot tartó kéz felőli oldalról jön a csapás.
 
 <br />
 
 ---
-### Beszorított helyzet
-
-Beszorított helyzeten azt értjük, ha az adott fegyverrel a harcos helyhiány miatt nem képes annak technikáit maradéktalanul alkalmazni. Ez nagyon szűk helyeken egészen szélsőséges hátrányokat is okozhat fegyver-típustól függően.
-
-Mivel nem lehet általános szabályt alkotni minden szituáció és fegyver-típus kapcsolatából, ezért csak irányelveket fektetünk le, a KM határozza meg az adott helyzet ismeretében, hogy épp milyen levonások járnak.
-
-„**Rövid**” fegyverekre (max 0,5 pengehossz) nem jár levonás. Puszta kéz értékei nem módosulnak.
-
-Szobában, bútorok közt:
-- 2 kezes és szálfegyverek harcértéke `0`-ra zuhan
-- egykezes fegyverek harcértéke **feleződik**
-
-Szűk sikátorban:
-- Fontos, hogy milyen irányból érkezik a támadás. Egy lándzsa technikáit például nem lehet itt alkalmazni, viszont a két oldalról való védettség folytán szinte lehetetlen hozzáférni. Ilyenkor a szúró szálfegyverek `+15 TÉ/VÉ` módosítót kapnak, viszont a hátulról érkező támadások ellen teljesen védtelen ilyenkor a harcos. Abba az irányba fegyverének harcértékei `0`-nak számítanak és még **további** `-15 TÉ/VÉ` csökkenést szenved el.
-
-**Megjegyzés**: a **Támadó- és Védő** taktikák **Beszorított helyzetben** továbbra is használhatóak.
-
-<br />
-
-
----
-### Harc félhomályban
+### Félhomályban
 
 ⭕TODO⭕
 
@@ -346,13 +224,139 @@ Aki nem lát rendesen, annak:
 <br />
 
 ---
-### A védekező takarásban
+### Földön fekve
+
+```
+KÉ: -10, TÉ: -10, VÉ: -10
+```
+
+<br />
+
+---
+### Gyűlöletből
+
+```
+TÉ: +15, VÉ: -30
+```
+
+Aki gyűlöletből harcol, az kevesebbet törődik a védekezéssel, minden erejével ellenfele elpusztítására tör. Az ilyen karakter kötelezően `+15 TÉ` Támadó taktikával harcol (így `-30 VÉ` sújtja).
+
+Ebben az állapotban használhatja a **Kezdeményező Taktikát**, de semmilyen defenzív jellegű más taktikát nem (pl. Kiváró, stb).
+
+<br />
+
+---
+### Hátulról támadás
+
+```TÉ: +10```
+
+Ha a karakter ellenfelére hátulról támad, 👀`+20 TÉ` módosító járul **Támadó Értékéhez**.
+
+A védekező pajzs VÉ értéke NEM számít.
+
+<br />
+
+---
+### Helyhez kötve
+
+```
+KÉ:-10, TÉ:-20, VÉ:-20
+```
+
+Ha a karakter helyhez kötve kénytelen harcolni, akkor `-10 KÉ, -20 TÉ és -20 VÉ` büntetés jár harcértékeire.
+
+<br />
+
+---
+### Kábult / Bódult / Megrendült
+
+Az említett állapotokban az alábbi büntetésekkel harcolhatsz.
+
+```
+KÉ:-10, TÉ:-20, SP:-2
+```
+
+<br />
+
+---
+### Képzetlen fegyverhasználat
+
+```
+KÉ: -20, TÉ: -30, VÉ: -30, CÉ: -30
+```
+
+Ha egy karakter képzetlen az általa forgatott fegyver használatában, akkor harcértékeit a fenti levonások sújtják.
+
+<br />
+
+---
+### Készületlenség
+
+Ha egy karakter készületlen, akkor támadója a [Meglepetés](#meglepet%C3%A9s) szituációnak megfelelő módosítókkal támadhat rá.
+
+<br />
+
+---
+### Magasabbról
+
+```
+TÉ: +10
+```
+
+Ha valaki magasabbról harcol, az előnyben van ellenfelével szemben. Ilyen helyzetben `+10 TÉ` módosító járul Támadó Értékéhez.
+
+<br />
+
+---
+### Meglepetés
+
+```TÉ: +20```
+
+Ha az ellenfél nem számít az őt érő támadásra, de még képes reagálni, akkor Meglepetésről beszélünk. Az ilyen helyzetben a támadó karakter 👀`+20 TÉ` módosítót kap harcértékeire.
+
+<br />
+
+---
+### Pusztakezes harc
+
+```
+Puszta kéz harcértékei: KÉ: -10, TÉ: -10, VÉ: -10
+```
+
+Amennyiben valaki fegyvertelenül, puszta kézzel kénytelen egy felfegyverzett ellenféllel harcolni, akkor alapesetben hátrányban van. Ez a Puszta kéz negatív harcértékeiben mutatkozik meg. A különböző pusztakezes Fortélyok csak mérsékelik ezt a hátrányt. Egyetlen kivétel a harcművészek „**Élő fegyver**” fortélya, amely teljesen megszünteti az említett hátrányokat (`0`-ra „emeli” mindhárom harcértéket).
+
+A fenti levonások kizárólag **belharcban** nem érvényesülnek, ahhoz viszont „**Belharcba kerülés**” Manőver szükséges! Belharcban a Puszta kéz harcértékei `0`-ra emelkednek, valamint járnak a **Belharcból** eredő esetleges módosítók is.
+
+A **Puszta kéz** – mint fegyver – szabály szempontjából „egykezes” fegyvernek számít, tehát **nem** lehet vele **Kétkezes harcot** folytatni!
+
+<br />
+
+---
+### Rosszabbik kézben tartott fegyver
+
+```
+KÉ:-10, TÉ:-20, VÉ:-20
+```
+
+Ha – akár sérülés hatására – a harcos kénytelen átvenni fegyverét ügyetlenebb kezébe, akkor csak a következő levonásokkal harcolhat: `KÉ:-10, TÉ:-20, VÉ:-20`\
+Kivétel:
+- **Kétkezesség** fortély. Csak annyit ad, hogy rosszabbik kézzel is levonás nélkül tudsz harcolni, de csak 1 fegyverrel!!
+- **Kétkezes Harc** fortély
+
+<br />
+
+---
+### Vadállatok ellen
+
+Sokféle állat van, ezért nem lehet egységes szabályt alkotni azok harcmodoráról, viszont kimondható, hogy az állatok nagy része általában olyan harcmodort folytat, ami a **Közelharc** + **Belharc**nak felel meg leginkább. Így harci „képzettségeik” és értékeik is e szerint legyenek meghatározva.
+
+<br />
+
+---
+### Védekező takarásban
 
 ⭕TODO⭕
 
 <br />
 
 ---
-### Harc állatokkal
-
-Sokféle állat van, ezért nem lehet egységes szabályt alkotni azok harcmodoráról, viszont kimondható, hogy az állatok nagy része általában olyan harcmodort folytat, ami a **Közelharc** + **Belharc**nak felel meg leginkább. Így harci „képzettségeik” és értékeik is e szerint legyenek meghatározva.
