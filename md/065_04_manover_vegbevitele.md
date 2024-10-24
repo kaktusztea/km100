@@ -114,4 +114,12 @@ A fenti módosító akkor is megjelenhet, ha az Ellenfél az alkalmazót már l�
 A Fegyverméret-kategóriák adta különbségek az **Ellenpróbánál** (`E`) módosítóként **nem** szükségesek amennyiben a Manőverben van kötelező (**M**)egakasztás, vagy (**V**)égrehajtás fázis, mert ez a hatás résztvevők harcértékeiben már benne foglaltatnak.
 
 ---
+### Észrevétlen támadás vs Manőver
+
+Vannak Manőverek, amelyek [Észrevétlen támadást](064_01_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s) igényelnek.
+
+Kérdés, hogy ilyenkor miért dobunk mégis **Ellenpróbát**? Az ilyen helyzetben a **Manőver Alap** egyfajta harci ösztönként működik - nem véletlen, hogy az elköltött `HM` pontokon alapszik, amelyek az általános harci tapasztalatot szimbolizálják.
+
+---
+
 🔗 [Általános Manőverek listája](065_05_altalanos_manoverek.md) →
