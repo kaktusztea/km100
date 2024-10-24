@@ -3,7 +3,7 @@
 🔆 Fontos: A "Meglepetés", "Támadás hátulról", "Észrevétlen támadás" egymást kizáró, "vagy-vagy" harci helyzetek, nem vonhatóak össze.
 
 | Szituáció                                                                                                             |                                Módosító                                | Megjegyzés                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|:--------------------------------------------------------------------------------------------------------------------- |:----------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :-------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Képzetlen fegyverhasználat](064_01_harci_helyzetek.md#k%C3%A9pzetlen-fegyverhaszn%C3%A1lat)                          |                `KÉ:-20, TÉ:-30` <br/>`VÉ:-30, CÉ: -30`                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | [Harc puszta kézzel](064_01_harci_helyzetek.md#harc-puszta-k%C3%A9zzel)                                               |                        `KÉ:-10, TÉ:-10, VÉ:-10`                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | [Harc rosszabbik kézben tartott fegyverrel](064_01_harci_helyzetek.md#harc-rosszabbik-k%C3%A9zben-tartott-fegyverrel) |                        `KÉ:-10, TÉ:-20, VÉ:-20`                        | Kivétel:<br/><br/>• **Kétkezesség** fortély. Csak annyit ad, hogy rosszabbik kézzel is levonás nélkül tudsz harcolni, de csak 1 fegyverrel!!<br/><br/>• **Kétkezes Harc** fortély                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
@@ -21,8 +21,8 @@
 | [Harc helyhez kötve](064_01_harci_helyzetek.md#harc-helyhez-k%C3%B6tve)                                               |                        `KÉ:-10, TÉ:-20, VÉ:-20`                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | [Harc földön fekve](064_01_harci_helyzetek.md#harc-f%C3%B6ld%C3%B6n-fekve)                                            |                        `KÉ:-10, TÉ:-10, VÉ:-10`                        | -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | [Beszorított helyzet](064_01_harci_helyzetek.md#beszor%C3%ADtott-helyzet)                                             |              Lásd a [leírást](#beszor%C3%ADtott-helyzet)!              | -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| [Harc félhomályban](064_01_harci_helyzetek.md#harc-f%C3%A9lhom%C3%A1lyban)                                            |                                ⭕TODO⭕                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| [A védekező takarásban](064_01_harci_helyzetek.md#a-v%C3%A9dekez%C5%91-takar%C3%A1sban)                               |                                ⭕TODO⭕                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| [Harc félhomályban](064_01_harci_helyzetek.md#harc-f%C3%A9lhom%C3%A1lyban)                                            |                                 ⭕TODO⭕                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| [A védekező takarásban](064_01_harci_helyzetek.md#a-v%C3%A9dekez%C5%91-takar%C3%A1sban)                               |                                 ⭕TODO⭕                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | [Harc állatokkal](064_01_harci_helyzetek.md#harc-%C3%A1llatokkal)                                                     |                            Lásd a leírást!                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
 <br />
@@ -129,24 +129,24 @@ Ilyenkor ellenfele `Védő Értékét` annak mozgási jellege és mérete határ
 
 | **Célpont mozgásának jellege**    | **VÉ** |
 | --------------------------------- | :----: |
-| Álló helyzet                      |   0    |
-| Lassú egyenletes (séta)           |   20   |
-| Egyenletes kocogás                |   40   |
-| Sprint egyenes vonalon            |   60   |
-| Lassú kiszámíthatatlan            |   40   |
-| Közepesen gyors, kiszámíthatatlan |   70   |
-| Gyors, kiszámíthatatlan           |  100   |
+| Álló helyzet                      |  `20`  |
+| Lassú egyenletes (séta)           |   30   |
+| Egyenletes kocogás                |  `50`  |
+| Sprint egyenes vonalon            |  `80`  |
+| Lassú kiszámíthatatlan            |  `50`  |
+| Közepesen gyors, kiszámíthatatlan |  `80`  |
+| Gyors, kiszámíthatatlan           | `110`  |
 
 <br/>
 
 | **Célpont mérete** | **VÉ** |
 | ------------------ | ------ |
-| Óriás              | -30    |
-| Ork                | -10    |
-| Elfszabású / ember | +0     |
-| Goblin             | +20    |
-| macska             | +40    |
-| egér               | +60    |
+| Óriás              | `-30`  |
+| Ork                | `-10`  |
+| Elfszabású / ember | `+0`   |
+| Goblin             | `+20`  |
+| macska             | `+40`  |
+| egér               | `+60`  |
 
 <br />
 
@@ -339,6 +339,9 @@ Szűk sikátorban:
 
 ⭕TODO⭕
 
+Aki nem lát rendesen, annak:
+- TÉ levonás?⭕
+- Manőverek nem használhatóak?⭕
 
 <br />
 
