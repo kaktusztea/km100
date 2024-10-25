@@ -33,7 +33,7 @@ Kapcsolódik:
 - [Belharc fortély](fortelyok.harci/belharc.md)
 - [Belharcos manőverek](065_06_belharcos_manoverek.md)
 
-Ha a képzett harcosnak sikerül ellenfele fegyvere „mögé”, testközelébe kerülni, akkor ebből előnyt kovácsolhat.
+Ha a képzett harcosnak sikerül ellenfele fegyvere „mögé”, testközelébe kerülni, akkor ebből előnyt kovácsolhat. Magában foglalja a birkozást és a földharcot is.
 
 Bejutottál ellenfeled fegyverének fenyegető vége mögé, testközelbe, de nem szükségszerűen érintésbe. Ha van tanult [Belharc fortélyod](fortelyok.harci/belharc.md), harcérték bónuszokat kapsz (lásd a fortély leírását). Belharci szituációban eddig tiltott manőverek végrehajtását is megpróbálhatod, melyek végbevitelének követelménye a Belharci szituáció. Lásd bővebben: [Belharcos manőverek](065_06_belharcos_manoverek.md).
 
