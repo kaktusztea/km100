@@ -234,12 +234,14 @@ Hasonlatos az Orvtámadáshoz, de itt nem a minél nagyobb sebzés, hanem az áj
 
 - Nehézség: `7`
     - `-2`: [Harci anatómia](fortelyok.harci/harci_anatomia.md) fortély minden foka után
+    - `+0`: Sisak nélküli célpont
+    - `+3`: Sisakos célpont, ha tarkón ütés lehetséges
 - Fázisok: `V E`
     - `V` fázisban: `Célpont VÉ = Mozgás jellegétől függő érték` (lásd [Észrevétlen támadás](064_01_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s))
 - Követelmény:
   - [Észrevétlen támadás](064_01_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s) harci helyzet → e nélkül csak sima [Hátulról támadás](064_01_harci_helyzetek.md#h%C3%A1tulr%C3%B3l-t%C3%A1mad%C3%A1s) harci helyzet lenne
   - [Hátulról támadás](064_01_harci_helyzetek.md#h%C3%A1tulr%C3%B3l-t%C3%A1mad%C3%A1s) harci helyzet
-  - Sisak nélküli célpont, elfszabású anatómiával
+  - Célpont elfszabású anatómiával
   - Zúzófegyver (akár fegyver markolat), vagy Puszta kéz mint támadó fegyver
 
 **Hatás**:
@@ -247,7 +249,7 @@ Hasonlatos az Orvtámadáshoz, de itt nem a minél nagyobb sebzés, hanem az áj
 - Ha nem éri el, akkor az áldozat eszméletén marad, de [Kábulat](064_01_harci_helyzetek.md#k%C3%A1bult--b%C3%B3dult--megrend%C3%BClt) módosítóival harcol tovább. A **Hátulról támadás** szituáció megszűnik.
 - A sebzés `KT` sebesülésként jelenik meg mindkét esetben.
 
-**Megjegyezés**: a **Fegyver markolat** sebzése: `k20 + 0 SP` (Zúzó)
+**Megjegyezés**: a **Fegyver markolat** sebzése: `k20 + 0 SP + Erőbónusz` (Zúzó)
 
 ---
 #### Mesterjel
