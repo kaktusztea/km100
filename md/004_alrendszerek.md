@@ -32,16 +32,17 @@ Itt egy tömör áttekintő struktúrát láthatsz, amely végigvezet, milyen al
   - páncél generátor: `4` féle SFÉ; MGT; Ár
   - Vértviselet fortély kapcsolat
 - Harci fortélyok: jellemzően statikus bónuszok
-- Harci taktikák: harci jelleg eltolása egy irányba
-- Harci helyzetek
-- Manőverek:
+- Harci helyzetek: adott, vagy kialakított helyzetek
+- Harci taktikák: harci jelleg általános eltolása egy irányba
+- Manőverek: egyszeri trükkök
     - Manőver Alap: `Összes költött HM / 10`
     - Manőver Pontok: `Harcmodorok szint összege / Tapasztalati Szint`
 
 ### Távolsági harcrendszer
 
-- Cella
-- Szorzó
+- `Fegyver Osztó: [1;4]` - egyedi érték
+- `Szorzó`: körülmények egy számban összegezve
+- `Célpont VÉ = Szorzó x (Távolság / Fegyver Osztó) ↑`
 
 ### Mágia
 
@@ -70,7 +71,7 @@ Szubjektív lista, hogy mely alrendszerek adják a `km100`  "egyedi DNS"-ét (le
 
 - VÉ csökkentés
 - Képzettség-kiterjesztés Szabad-Hátterekkel
-- Távharc (Cella, Szorzó)
+- Távharc (Szorzó, Osztó)
 - Páncélmodell, Páncél generátor
 - Fegyverméret kategóriák
 - (SP - SFÉ) → ÉP sebzésmodell
