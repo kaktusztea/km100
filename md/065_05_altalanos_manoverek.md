@@ -232,7 +232,7 @@ Ha meg akarod fosztani ellenfeledet fegyverétől, vagy kiütve kezéből, vagy 
 
 Hasonlatos az Orvtámadáshoz, de itt nem a minél nagyobb sebzés, hanem az ájulás a cél. A **Nehézség** a [Területre támadás](#ter%C3%BCletre--pontra-t%C3%A1mad%C3%A1s) Manőverből származtatott, könnyített érték.
 
-- Nehézség: `7`
+- Nehézség: `6`
     - `-2`: [Harci anatómia](fortelyok.harci/harci_anatomia.md) fortély minden foka után
     - `+0`: Sisak nélküli célpont
     - `+3`: Sisakos célpont, ha tarkón ütés lehetséges
