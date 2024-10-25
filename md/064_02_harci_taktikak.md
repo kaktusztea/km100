@@ -34,10 +34,9 @@ Tehát vállalásodtól függően például így módosíthatod harcértékeidet
 
 A szándékot, hogy Támadó taktikát akarsz alkalmazni, előre be kell jelentened, mielőtt az adott kör elkezdődött volna. Kör közben nem változtathatsz a taktikán. Ha ebben a taktikában küzdesz, akkor lehetőségeidhez mérten folyamatosan nyomulsz előre.
 
-Támadó taktika nem alkalmazható [Észrevétlen támadás](064_01_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s) szituációban.
-```diff
-- És Meglepetés szituációban?
-```
+Támadó taktika alkalmazható [Meglepetés](064_01_harci_helyzetek.md#meglepet%C3%A9s) szituációban.
+
+Támadó taktika **NEM** alkalmazható [Észrevétlen támadás](064_01_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s) szituációban.
 
 ---
 ### Védő taktika
@@ -52,6 +51,10 @@ Tehát vállalásodtól függően így módosíthatod harcértékeidet. Pl:
 - `VÉ:+5`, `TÉ:-10`
 - `VÉ:+10`, `TÉ:-20`
 - `VÉ:+20`, `TÉ:-40`
+
+Védő taktika **NEM** alkalmazható [Meglepetés](064_01_harci_helyzetek.md#meglepet%C3%A9s) szituációban.
+
+Védő taktika **NEM** alkalmazható [Észrevétlen támadás](064_01_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s) szituációban.
 
 ---
 ### Teljes Védekezés Taktika
@@ -141,7 +144,7 @@ Roham esetén **az első oda- és visszacsapás során** a támadó `TÉ:+20` é
 
 Ha roham során a karakter sebző támadást ér el, akkor az őt sújtó **VÉ büntetés** azonnal megszűnik, a rá leadott visszacsapást már normál VÉ-vel várhatja és a `+5 SP` bónusz sem jár a visszatámadó félnek.
 
-Roham alkalmazása során nem használhatóak a **Támadó**, **Védő**, **Kezdeményező** és **Kiváró** taktikák! Fontos viszont, hogy Rohamnál is számítanak a fegyverméret kategóriák, tehát egy pikás védekezőt megrohamozni nem mindig bölcs dolog...
+Roham alkalmazása során **NEM** használhatóak a **Támadó**, **Védő**, **Kezdeményező** és **Kiváró** taktikák! Fontos viszont, hogy Rohamnál is számítanak a fegyverméret kategóriák, tehát egy pikás védekezőt megrohamozni nem mindig bölcs dolog...
 
 A **körön belüli** további támadások már normál harcértékekkel történnek és innen már választható harci taktika is!
 
@@ -150,7 +153,7 @@ Rohamhoz legalább `5-10` méter nekifutás szükséges. Hogy pontosan mennyi, a
 Módosítók az első oda-vissza csapásnál:
 
 - `TÉ:+20`, `VÉ:-40`
-- VÉ csökkentés duplázódik (oda-vissza)
+- `VÉ` csökkentés duplázódik (oda-vissza)
 - Sebzés: `+5 SP` (oda-vissza)
 
 ---
@@ -170,17 +173,15 @@ Módosítók az első oda-vissza csapásnál:
 
 Erre a [Támadás erőből](fortelyok.harci/tamadas_erobol.md) fortélyt használhatod (lásd a leírását).
 
-E taktika mellett más harci taktikát nem alkalmazhatsz.
+E taktika mellett más harci taktikát **NEM** alkalmazhatsz.
 
 ---
 ### Érintő taktika
-
-Ha csak meg akarunk érinteni valakit harc közben, az könnyebb, mint puszta kézzel sérülést okozó támadást végbevinni. Az Érintő támadásnál a Puszta kéz harcértékei ezért:
 
 ```
 KÉ:0, TÉ:0, VÉ:-10
 ```
 
-Tehát a támadásra kisebb a büntetés, mint puszta kézre, a védekezés viszont nem változik.
+Ha csak meg akarunk érinteni valakit harc közben, az könnyebb, mint puszta kézzel sérülést okozó támadást végbevinni. Az Érintő támadásnál a Puszta kéz harcértékei ezért a fentiek. Tehát a támadásra kisebb a büntetés, a védekezés viszont nem változik.
 
 ---

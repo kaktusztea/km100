@@ -23,7 +23,7 @@
 | [Pusztakezes harc](064_01_harci_helyzetek.md#pusztakezes-harc)                                          |                        `KÉ:-10, TÉ:-10, VÉ:-10`                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | [Rosszabbik kézben tartott fegyver](064_01_harci_helyzetek.md#rosszabbik-k%C3%A9zben-tartott-fegyver)   |                        `KÉ:-10, TÉ:-20, VÉ:-20`                        | Kivétel:<br/>• **Kétkezesség** fortély. Csak annyit ad, hogy rosszabbik kézzel is levonás nélkül tudsz harcolni, de csak 1 fegyverrel!!<br/>• **Kétkezes Harc** fortély                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | [Vadállatok ellen](064_01_harci_helyzetek.md#vad%C3%A1llatok-ellen)                                     |                            Lásd a leírást!                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| [Védekező takarásban](064_01_harci_helyzetek.md#v%C3%A9dekez%C5%91-takar%C3%A1sban)                     |                                 ⭕TODO⭕                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| [Védekező takarásban](064_01_harci_helyzetek.md#v%C3%A9dekez%C5%91-takar%C3%A1sban)                     |                `Támadó TÉ: -20`<br/>`Védekező TÉ: -10`                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
 <br />
 
@@ -361,7 +361,16 @@ Sokféle állat van, ezért nem lehet egységes szabályt alkotni azok harcmodor
 ---
 ### Védekező takarásban
 
-⭕TODO⭕
+```
+Támadó   TÉ: -20
+Védekező TÉ: -10
+```
+
+Ebben a szituációban mindkét fél részére nehezebb harcolni, a védekező fél egy kis plusszal indul ha takarásba lép be, mint egy kapu, vagy egy falrész akár.
+
+Figyelem: ha a védekező mozgásában korlátozottá válik a körülötte levő tereptárgyaktól, akkor változik a helyzet és az alábbiak közül valamelyik (KM dönt) módosítói vonatkoznak rá:
+- [beszorított helyzet](#beszor%C3%ADtott-helyzet)
+- [helyhez kötve](#helyhez-k%C3%B6tve)
 
 <br />
 
