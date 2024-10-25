@@ -1,6 +1,6 @@
 ### 🟣 Belharc (2)
 
-Testközelben érzed igazában elemedben magad.
+Testközelben érzed igazában elemedben magad. Magában foglalja a birkozást és a földharcot is.
 
 Sikeres 🗡️[Belharcba kerülés](../065_06_belharcos_manoverek.md#belharcba-kerülés) manőver esetén 🗡️[Belharci szituációba](../064_01_harci_helyzetek.md#belharci-szitu%C3%A1ci%C3%B3) kerülsz és harcértékeidre - csak (!) **Közelharc** harcmodor és legfeljebb "rövid" pengehosszú fegyverek használata esetén - a lent leírt pluszok járnak, továbbá megnyílik a lehetőség [Belharcos manőverek](../065_06_belharcos_manoverek.md) használatára.
 
