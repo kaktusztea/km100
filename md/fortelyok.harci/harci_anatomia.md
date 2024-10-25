@@ -43,10 +43,7 @@ Ismered a test sebezhető pontjait és tisztában vagy a létfontosságú belső
 ---
 #### [Leütés hátulról](../065_05_altalanos_manoverek.md#le%C3%BCt%C3%A9s-h%C3%A1tulr%C3%B3l) Manőver alkalmazásakor
 
-... a **Harci anatómia** fortély minden foka: ⭕túl bonyolult⭕
-- `3`-al emeli a **Fájdalomtűrés** célszámát
-- `1` seb kategóriával kevesebb kell (Pl. `2.fokon` már csak `3 ÉP` sebzés elég)
-- `K3` hatása `1` kategóriával csökken (Pl. `2.fokon` már sosincs `ÉP` seb)
+... a **Harci anatómia** fortély minden foka: `2`-vel csökkenti a Manőver Ellenpróba Nehézséget.
 
 ---
 #### [Visszafogott taktika](../064_02_harci_taktikak.md#visszafogott-taktika) alkalmazásakor

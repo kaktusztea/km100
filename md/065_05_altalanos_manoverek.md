@@ -230,41 +230,24 @@ Ha meg akarod fosztani ellenfeledet fegyverétől, vagy kiütve kezéből, vagy 
 ---
 ### Leütés hátulról
 
-Hasonlatos az Orvtámadáshoz, de itt nem a minél nagyobb sebzés, hanem az ájulásos ártalmatlanítás a cél. A **Nehézség** a [Területre támadás](#ter%C3%BCletre--pontra-t%C3%A1mad%C3%A1s) Manőverből származtatott, könnyített érték.
+Hasonlatos az Orvtámadáshoz, de itt nem a minél nagyobb sebzés, hanem az ájulás a cél. A **Nehézség** a [Területre támadás](#ter%C3%BCletre--pontra-t%C3%A1mad%C3%A1s) Manőverből származtatott, könnyített érték.
 
 - Nehézség: `7`
+    - `-2`: [Harci anatómia](fortelyok.harci/harci_anatomia.md) fortély minden foka után
 - Fázisok: `V E`
+    - `V` fázisban: `Célpont VÉ = Mozgás jellegétől függő érték` (lásd [Észrevétlen támadás](064_01_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s))
 - Követelmény:
   - [Észrevétlen támadás](064_01_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s) harci helyzet → e nélkül csak sima [Hátulról támadás](064_01_harci_helyzetek.md#h%C3%A1tulr%C3%B3l-t%C3%A1mad%C3%A1s) harci helyzet lenne
   - [Hátulról támadás](064_01_harci_helyzetek.md#h%C3%A1tulr%C3%B3l-t%C3%A1mad%C3%A1s) harci helyzet
-  - Sisak nélküli célpont
-  - Elfszabású anatómia
-  - zúzófegyver (akár fegyver markolat), vagy Puszta kéz
-- Célpont `VÉ = 30 + mozgás jellegétől függő módosító` (lásd [Észrevétlen támadás](064_01_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s))
+  - Sisak nélküli célpont, elfszabású anatómiával
+  - Zúzófegyver (akár fegyver markolat), vagy Puszta kéz mint támadó fegyver
 
-⭕⭕⭕TODO: Egyszerűsíteni⭕
-Ha a támadás sebző **Találat**, akkor és a sebzés legalább Súlyos lenne (`12 ÉP`), akkor az áldozat Fájdalomtűrés próbát dob `12`-es célszám (**Nehéz**) ellen, ezúttal **Edzettség** tulajdonsággal. Ha nincs meg, azonnal elájul.
-
-```
-Fájdalomtűrés (K) + Edzettség (T)  vs.  12
-```
-
-Hogy megkapjuk a valós ÉP seb mennyiségét, amit az áldozat elszenved, dobjunk `k3`-al:
-
-- `1`: nincs `ÉP` seb
-- `2`: sebzés fele bement `ÉP`-ben
-- `3`: a teljes sebzés bement `ÉP`-ben
-Ez azért van, mert egy járatlan támadó nem tudja olyan jól megbecsülni a szükséges erő nagyságát, ha rosszul méri fel az erejét, könnyen komoly sebet okozhat.
-
-⭕⭕⭕
+**Hatás**:
+- Ha a sebzés eléri az áldozat `Max ÉP / 4 ↓` értéket, akkor az az eszméletét veszti.
+- Ha nem éri el, akkor az áldozat eszméletén marad, de [Kábulat](064_01_harci_helyzetek.md#k%C3%A1bult--b%C3%B3dult--megrend%C3%BClt) módosítóival harcol tovább. A **Hátulról támadás** szituáció megszűnik.
+- A sebzés `KT` sebesülésként jelenik meg mindkét esetben.
 
 **Megjegyezés**: a **Fegyver markolat** sebzése: `k20 + 0 SP` (Zúzó)
-
-A [Harci anatómia](fortelyok.harci/harci_anatomia.md) fortély minden foka `2`-vel csökkenti a **Nehézséget**.
-
-
-
-⭕⭕⭕
 
 ---
 #### Mesterjel

@@ -115,7 +115,7 @@ Ilyenkor ellenfele `Védő Értékét` annak mozgási jellege és mérete határ
 | **Célpont mozgásának jellege**    | **VÉ** |
 | --------------------------------- | :----: |
 | Álló helyzet                      |  `20`  |
-| Lassú egyenletes (séta)           |   30   |
+| Lassú egyenletes (séta)           |  `30`  |
 | Egyenletes kocogás                |  `50`  |
 | Sprint egyenes vonalon            |  `80`  |
 | Lassú kiszámíthatatlan            |  `50`  |
