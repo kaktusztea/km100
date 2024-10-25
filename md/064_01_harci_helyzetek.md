@@ -35,7 +35,7 @@ Kapcsolódik:
 
 Ha a képzett harcosnak sikerül ellenfele fegyvere „mögé”, testközelébe kerülni, akkor ebből előnyt kovácsolhat.
 
-Bejutottál ellenfeled fegyverének fenyegető vége mögé, testközelbe, de nem szükségszerűen érintésbe. Ha az általad épp forgatott fegyverre van tanult [Belharc fortélyod](fortelyok.harci/belharc.md), harcérték bónuszokat kapsz (lásd a fortély leírását). Belharci szituációban eddig tiltott manőverek végrehajtását is megpróbálhatod, melyek végbevitelének követelménye a Belharci szituáció. Lásd bővebben: [Belharcos manőverek](065_06_belharcos_manoverek.md).
+Bejutottál ellenfeled fegyverének fenyegető vége mögé, testközelbe, de nem szükségszerűen érintésbe. Ha van tanult [Belharc fortélyod](fortelyok.harci/belharc.md), harcérték bónuszokat kapsz (lásd a fortély leírását). Belharci szituációban eddig tiltott manőverek végrehajtását is megpróbálhatod, melyek végbevitelének követelménye a Belharci szituáció. Lásd bővebben: [Belharcos manőverek](065_06_belharcos_manoverek.md).
 
 #### ⚜️ Belharcba kerülés manőver
 
@@ -49,15 +49,15 @@ A **Belharci szituációból** kijövetelre ennek sikeres végrehajtására van 
 
 #### ⚜️ Belharcos-fegyverek
 
-Minden `rövid (0)` pengehosszú fegyver, kivéve ezek közül azokat a fegyvereket, melyek leírásánál külön meg van említve, hogy nem lehet velük belharcot folytatni (pl. rövidkard, csatabárd, …)
+Minden `rövid (0)` pengehosszú fegyver, kivéve ezek közül azokat a fegyvereket, melyek leírásánál külön meg van említve, hogy nem lehet velük belharcot folytatni.
 
 #### ⚜️ Belharc fortély
 
-Belharci szituációban belharcos fegyvert forgatva fokonként bónuszokat kapsz. A bónuszok csak akkor élnek, ha az alkalmazó Belharci szituációban **Közelharc** harcmodort alkalmaz. Bővebben lásd a [Belharc fortély](fortelyok.harci/belharc.md) leírásánál.
+Belharci szituációban belharcos fegyvert forgatva fokonként harcérték bónuszokat kapsz. Ezek csak akkor élnek, ha az alkalmazó **Közelharc** harcmodort alkalmaz. Bővebben lásd a [Belharc fortély](fortelyok.harci/belharc.md) leírásánál.
 
 #### ⚜️ Nem-belharcos fegyverek belharci szituációban
 
-- harcértékei `0`-ra zuhannak
+- harcértékeik `0`-ra zuhannak
 - sebzésük maximum `+1 SP`, ha alacsonyabb volt, akkor `-5 SP`
 - forgatója **Harckeret** értéke `5`-el csökken
 - forgatója **Hátrányos szituációba** kerül, a belharcos pedig **Előnyösbe**
@@ -69,15 +69,17 @@ Belharci szituációban harcértékei mind `0`-ra emelkednek.
 
 #### ⚜️ Harcmodor és belharci szituáció
 
-- Belharcban az áldozat abban a harcmodorban harcol, amiben előtte is.  Például egy szablyás harcoshoz bekerül egy belharcos, akkor a szablyás továbbra is **Kardvívás** harcmodorának értékeivel küzd, igaz szablyájának harcértékeit elveszíti annak mérete miatt.
-- **Belharc** fortély bónuszaihoz követelmény a **Közelharc** harcmodor használata, más harcmodor használata alatt nem járnak.
-- Belharc `1:1` elleni szituációban használható leghatékonyabban, külső, harmadik fél ellen viszont kiszolgáltatottabb.
+Belharcban az áldozat abban a harcmodorban harcol, amiben előtte is. Például egy szablyás harcoshoz bekerül egy belharcos, akkor a szablyás továbbra is **Kardvívás** harcmodorának értékeivel küzd, igaz szablyájának harcértékei `0`-ra zuhannak - annak mérete miatt.
 
-```diff
-- TODO: Ez még vitatható, mert Attila szerint olyan, mint harcolók közé lőni.
-```
+[Belharc fortély](fortelyok.harci/belharc.md) bónuszaihoz követelmény a **Közelharc** harcmodor használata, más harcmodor használata alatt nem járnak.
 
-Amennyiben a belharcban levő harcost egy harmadik (vele nem belharcban levő) fél támadja, akkor a belharcos a **Harc helyhez kötve** szituáció VÉ büntetéseit szenvedi el, visszatámadni pedig nem tud, hiszen össze van akaszkodva másik ellenfelével. Kivétel: Sikeres **Leszorítás** (manőver) alkalmazása után, a leszorított áldozatot beforgathatja maga és a támadó közé, kvázi patthelyzetet okozva.
+#### ⚜️ Belharcosok támadása kívülről
+
+A Belharc `1:1` elleni szituációban használható leghatékonyabban, külső, harmadik fél ellen viszont kiszolgáltatottabb.
+
+Amennyiben a belharcban levő harcost egy harmadik (vele nem belharcban levő) fél támadja, akkor a belharcos felé a [Helyhez kötve](064_01_harci_helyzetek.md#helyhez-k%C3%B6tve) helyzet `VÉ` büntetéseit szenvedi el, visszatámadni pedig nem tud, hiszen össze van akaszkodva másik ellenfelével.
+
+Kivétel: sikeres [Leforgatás/Irányítás](065_06_belharcos_manoverek.md#leforgat%C3%A1sir%C3%A1ny%C3%ADt%C3%A1s) manőver alkalmazása után a belharcos ellenfelét beforgathatja maga és külső támadója közé - kvázi patthelyzetet okozva.
 
 <br />
 
