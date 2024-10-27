@@ -11,6 +11,8 @@
 - [Tájtípus - magaslati](../hatterek.szabad/tajtipus_magaslati.md)
 - [Tájtípus - erdős](../hatterek.szabad/tajtipus_erdos.md)
 
+**Szituáció**: [Nyomok értelmezése természetben](../152_01_nyomok_nyomkovetes_termeszet.md)
+
 **Leírás**: A képzettség a táj ismeretét és annak környezeti jellemzőit fogja egybe és adott tájtípusokra lehet megtanulni, amelyeket a fenti **Szabad Hátterek** határoznak meg. Ebből 1 alapból jár a képzettség felvételekor, a többi `SzP` használatával vehető fel később.
 
 A képzettség magában foglalja a következőket:
@@ -23,6 +25,7 @@ A képzettség magában foglalja a következőket:
 - Nyomkövetés (állat, elfszabású)
 
 ##### Nyomkövetés
+
  A képzettség a vadonban található nyomok értelmezését is magában foglalja. Képes vagy olvasni az elfszabásúak, állatok, helyre jellemző szörnyetegek által hagyott nyomokból. Nem keverendő össze az [Észlelés](eszleles.md) képzettséggel (+[Keresés/Nyomolvasás](../fortelyok.altalanos/kereses_nyomolvasas.md) fortéllyal), ami valaminek az észrevételét jelenti, titkos rejtekajtók, zugok felkutatását fedi, az észrevett jellemző értelmezését nem!
 
 Fontos, hogy a képzettség nem helyettesítheti a szerepjátszást, csak támpontokat, mankót adhat. Tehát ha a karakter megdobja próbáját, akkor a KM csak segítségeket tárhat a játékos elé, a teljes megoldást nem kínálhatja tálcán.
