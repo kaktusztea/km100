@@ -14,6 +14,7 @@ Harc közben nem a pusztítás a célod, hanem különösen fájdalmas pontokat 
 - Ha elrontja, akkor a következő körben 🗡️[Gyűlöletből](../064_01_harci_helyzetek.md#gy%C5%B1l%C3%B6letb%C5%91l) vagy 🗡️[Félelem alatt](../064_01_harci_helyzetek.md#f%C3%A9lelem-alatt) módosítóival harcol (KM dönt).
 
 <br />
+
 #### Megjegyzések
 
 Csak egykezes szúró-vágó fegyverrel alkalmazhatod.
