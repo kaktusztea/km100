@@ -14,7 +14,7 @@ A Fizikai és Matematikai ismeretek is ide tartoznak?? ⭕TODO⭕
 
 ##### Bónuszt ad erre
 
-- [Zárnyitás](../kepzettsegek.alvilagi/zarnyitas.md) - `+2` bónusz minden Mechanika fok után
+- [Zárnyitás](../kepzettsegek.alvilagi/zarnyitas.md) képzettség → `+2` bónusz minden Mechanika fok után
 
 #### 1. fok
 
