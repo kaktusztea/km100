@@ -11,7 +11,7 @@
 - [Gyors kezdeményezés](fortelyok.harci/gyors_kezdemenyezes.md)
 - [Harc helyhez kötve](fortelyok.harci/harc_helyhez_kotve.md)
 - [Harci akrobatika](fortelyok.harci/harci_akrobatika.md)
-- [Harci anatómia](fortelyok.harci/harci_anatomia.md) 🔺
+- [Harci anatómia](fortelyok.harci/harci_anatomia.md)
 - [Harci láz](fortelyok.harci/harci_laz.md)
 - [Harcos elme](fortelyok.harci/harcos_elme.md) 🔺
 - [Hárítófegyver használat](fortelyok.harci/haritofegyver_hasznalat.md)
