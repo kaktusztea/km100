@@ -33,7 +33,7 @@
 ---
 ## Slan harci fortélyok
 
-A Slan misztérium alá többfajta fortély is tartozik. Ezek közül a harci érintettségűek (is) a [Slan fortélyok](044_slan_fortelyok.md) oldal alatt találhatóak.
+A Slan misztérium alá többfajta fortély is tartozik. Ezek közül a harci érintettségűek (is) a [Slan fortélyok](044_slan_fortelyok.md#harci-slan-fort%C3%A9lyok) oldal alatt találhatóak.
 
 ---
 ## Lovas fortélyok
