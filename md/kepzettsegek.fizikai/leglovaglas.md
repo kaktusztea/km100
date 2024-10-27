@@ -9,7 +9,7 @@
 **Szabad Hátterek kiterjesztik**:
 - [Lénylovas](../hatterek.szabad/lenylovas.md) (1 faj ingyenes)
 
-**Leírás**: Ritka szerencsés, aki ezt a képzettséget tanulhatja, mert Yn.v kevés levegőben meglovagolható teremtményeinek egyikét ülheti meg. `Pteropták, Wyvern-ek, Racklák` - hogy csak a közismertebbeket említsük. Aki léglovaglást tanul, az képes megülni a fent említett repülő lényeket a képzettség szintjétől függő tehetséggel. A tudás univerzális, némi gyakorlással más fajú légi hátasokra is használható - lásd a [Lénylovas](../hatterek.szabad/lenylovas.md) Szabad Hátteret.
+**Leírás**: Ritka szerencsés, aki ezt a képzettséget tanulhatja, mert Yn3v kevés levegőben meglovagolható teremtményeinek egyikét ülheti meg. `Pteropták, Wyvern-ek, Racklák` - hogy csak a közismertebbeket említsük. Aki léglovaglást tanul, az képes megülni a fent említett repülő lényeket a képzettség szintjétől függő tehetséggel. A tudás univerzális, némi gyakorlással más fajú légi hátasokra is használható - lásd a [Lénylovas](../hatterek.szabad/lenylovas.md) Szabad Hátteret.
 
 <br />
 

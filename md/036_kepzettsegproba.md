@@ -85,7 +85,7 @@ Ha a karakternek egy olyan összetett feladatot kell elvégeznie, ami nem intéz
 - Hogy a másodlagos dobásból hány kell, az főleg attól függ, hogy a feladat „milyen hosszú", mennyire „többlépcsős".
 - Ha nagyon finom bontást akarunk, akkor `akár 2 fokozattal` (-6  célszám) alacsonyabb nehézségre is dobathatunk akár így is: Nagyon nehéz (1db), Nehéz(1db), Átlagos (1db).
 
-#### ⚡Példa: Megmászni egy 200 ynevi láb magas, omladékos hegyet
+#### ⚡Példa: Megmászni egy 200 méter magas, omladékos hegyet
 
 **Tetves**, a tolvaj 
 - `Mászás képzettsége: 7`

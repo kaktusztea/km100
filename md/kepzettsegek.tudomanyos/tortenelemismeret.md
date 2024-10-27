@@ -16,7 +16,7 @@
  - [Kultúrkör](../hatterek.kiemelt/kulturkor.md)
 Amennyiben nincs meg a próbát érintő **Kultúrkör** Háttér, akkor a próba **Nehézsége**⭕ a Kultúrkörnél leírt mértékben emelkedik.⭕
 
-**Leírás**: Alacsonyabb szinten a hetedkori Yn.v általános történelmét ismered, magasabb szinten fellebbennek a titkok a régebbi korok titkairól is.
+**Leírás**: Alacsonyabb szinten a hetedkori Yn3v általános történelmét ismered, magasabb szinten fellebbennek a titkok a régebbi korok titkairól is.
 
 **ÉSZAKON**:
 ⭕TODO: Ezeket szinkronba hozni a Kultúrkörökkel⭕
