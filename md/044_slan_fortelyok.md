@@ -4,6 +4,16 @@
 
 ⭕TODO⭕
 
+
+---
+### Általános Slan fortélyok
+
+⭕TODO⭕
+
+
+---
+### Harci Slan fortélyok
+
 - [Élő fegyver](fortelyok.slan/elo_fegyver.md) 🔺
 - [Sárkány ököl](fortelyok.slan/sarkany_okol.md) 🔺
 
