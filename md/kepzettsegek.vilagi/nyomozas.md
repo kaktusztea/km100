@@ -17,6 +17,8 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 - [Rejtjelfejtő](../hatterek.szabad/rejtjelfejto.md)
 - [Titkos szervezeti kultúra](../hatterek.szabad/titkos_szervezeti_kultura.md)
 
+**Szituáció**: [Nyomok értelmezése városi környzetben](../152_01_nyomok_nyomkovetes_termeszet.md#nyomok-értelmezése-városi-környzetben-)
+
 **Leírás**: Egy helyszín átvizsgálásakor rengeteg nyom van, amit értelmezni kell, illetve az felderítés eljárásrendjének ismerete is fontos segítséget adhat. Az alábbi példák segítenek leírni, milyen jellegű információk nyerhetők a képzettség segítségével:
 - bűnjelek elemzése és következtetés is. Példa: el lett mozdítva a bútor.
 - Mikor járt itt utoljára valaki?
