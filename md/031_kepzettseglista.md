@@ -196,9 +196,9 @@ Az aktív előadást igénylő művészeteket szeparáltuk az **Előadóművész
 
 ### Belső Szféra
 
-→ **Aura** arkánum, amely azonos az [Aurafejlesztés](kepzettsegek.misztikus/aurafejlesztes.md) képzettséggel
+→ **Aura** arkánum, amely azonos az 🔵 [Aurafejlesztés](kepzettsegek.misztikus/aurafejlesztes.md) képzettséggel
 
-→ **Pszí** arkánum, amely azonos a [Pszí használat](kepzettsegek.misztikus/pszi_hasznalat.md) képzettséggel
+→ **Pszí** arkánum, amely azonos a 🔵 [Pszí használat](kepzettsegek.misztikus/pszi_hasznalat.md) képzettséggel
 
 ### Titkos Szféra
 
