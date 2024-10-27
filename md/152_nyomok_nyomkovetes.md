@@ -27,8 +27,6 @@ Előbb észre kell venni az első nyomot, utána lehet követni a csapást.
 - [Természetjárás](kepzettsegek.vilagi/termeszetjaras.md) képzettségpróba a nyom bonyolultságának megfelelő Nehézség ellen
 - Természetjárást kiterjesztik: [Tájtípus](023_szabad_hatterek.md#tanulhat%C3%B3-szabad-h%C3%A1tterek-list%C3%A1ja) Szabad Hátterek (ha nincs meg az épp szükséges: `-3` a dobásra)
 
-<br />
-
 ---
 ### Nyomok észrevétele városi környzetben 🏠
 
