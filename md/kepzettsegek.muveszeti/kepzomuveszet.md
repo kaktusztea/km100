@@ -12,7 +12,7 @@
 - [Kalligráfia](../hatterek.szabad/kalligrafia.md)
 - [Szobrászat](../hatterek.szabad/szobraszat.md)
 
-**Leírás**: Aktív, alkotó művész vagy. A fenti [Szabad Háttér](../023_szabad_hatterek.md) listából [Szabad Pontok](../017_02_szp.md) költésével vehetsz fel művészeti ágakat.
+**Leírás**: Aktív, alkotó művész vagy. A fenti [Szabad Háttér](../023_szabad_hatterek.md) listából [Szabad Pontok](../016_02_szp.md) költésével vehetsz fel művészeti ágakat.
 
 <br />
 

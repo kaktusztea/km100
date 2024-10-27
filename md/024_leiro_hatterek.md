@@ -78,4 +78,6 @@ Alább 1-2 szavas jelzőket találsz, amelyek további szinesítő elemeket adha
 
 ---
 
+🔗 [Karma Hátterek](025_karma_hatterek.md) →
+
 ⚜️ [Nyitóoldal](start.md)

@@ -7,7 +7,7 @@ Ha Szabad Háttér nincs meg:
   -3 Képzettségpróbára
 ```
 
-A Szabad Hátterek specializált, egy, vagy több [képzettséget](031_kepzettseglista.md) "kiterjesztő" ismeretek, - [Szabad Pontok](017_02_szp.md) (`SzP`) költésével vehetőek fel. Amennyiben a szituációhoz kapcsolódó/szükséges **Szabad Háttér** nincs meg, akkor is lehet Képzettségpróbát dobni, de csak `-3` módosítóval. 
+A Szabad Hátterek specializált, egy, vagy több [képzettséget](031_kepzettseglista.md) "kiterjesztő" ismeretek, - [Szabad Pontok](016_02_szp.md) (`SzP`) költésével vehetőek fel. Amennyiben a szituációhoz kapcsolódó/szükséges **Szabad Háttér** nincs meg, akkor is lehet Képzettségpróbát dobni, de csak `-3` módosítóval. 
 
 #### Felvétel
 
@@ -68,5 +68,7 @@ Van, hogy egy háttér több képzettséget is kiterjeszt.
 - [Zsonglőrködés](hatterek.szabad/zsonglorkodes.md)
 
 ---
+
+🔗 [Leíró Hátterek](024_leiro_hatterek.md) →
 
 ⚜️ [Nyitóoldal](start.md)

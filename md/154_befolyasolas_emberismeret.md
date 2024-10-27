@@ -37,4 +37,6 @@ Emberismeret képzettség
 
 ---
 
+🔗 [Térkép készítése](155_terkep_keszitese.md) →
+
 ⚜️ [Nyitóoldal](start.md)

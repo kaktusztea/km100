@@ -197,3 +197,7 @@ Ha csak meg akarunk érinteni valakit harc közben, az könnyebb, mint puszta k�
 ❌  Alkalmazása során **NEM** használhatóak más harci taktikák.
 
 ---
+
+🔗 [Harci alakzatok](064_03_harci_alakzatok.md) →
+
+⚜️ [Nyitóoldal](start.md)

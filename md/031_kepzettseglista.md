@@ -224,4 +224,6 @@ Az aktív előadást igénylő művészeteket szeparáltuk az **Előadóművész
 
 ---
 
+🔗 [Primer, szekunder képzettségek](032_primer_szekunder_kepzettsegek.md) →
+
 ⚜️ [Nyitóoldal](start.md)

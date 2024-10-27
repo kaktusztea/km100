@@ -64,3 +64,9 @@ Az összesített `KT` sebzés tehát: `4+7=11`. A hatás így `11 ÉP`-nyi sebre
 Látható, hogy a karaktert irdatlanul fejbe kólintották, ha elrontja **Fájdalomtűrés próbáját** `18-as célszám` ellen, akkor elájul. Maradt `2` „érintetlen” `ÉP`-je.
 
 Ha további seb nem éri, akkor – a magához térés után – a `9 KT` 9 óra alatt tűnik el, Cravignon pedig `12 ÉP`-vel és egy púppal a fején éli tovább életét.
+
+---
+
+🔗 [Sebesülés](061_03_sebesules.md) →
+
+⚜️ [Nyitóoldal](start.md)

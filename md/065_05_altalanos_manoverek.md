@@ -403,3 +403,5 @@ Alkalmazható egyszerre, csoportosan is. Csoportot terelni nehezebb. Ilyenkor em
 ---
 
 🔗 [Belharcos Manőverek listája](065_06_belharcos_manoverek.md) →
+
+⚜️ [Nyitóoldal](start.md)

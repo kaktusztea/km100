@@ -15,7 +15,7 @@ Különlegesen éles a szemed, messzire ellátsz.
 ---
 #### 1. fok
 
-🔒 **Követelmény**: Kapcsolódó [Faj Háttér](../022_faj_hatterek.md)
+🔒 **Követelmény**: Kapcsolódó [Faj Háttér](../021_faj_hatterek.md)
 
 🌟 **Hatás**: `2x` messzebbre lász, mint egy átlagos ember. A látást érintő Észleléspróbákra `+2` bónuszt kapsz
 
@@ -24,7 +24,7 @@ Különlegesen éles a szemed, messzire ellátsz.
 
 #### Megjegyzések
 
-- Felvételéhez olyan [Faj-Háttér](../022_faj_hatterek.md) szükséges, amelynél szerepel az **Fejlett látás**, mint felvehető Érzék-fortély
+- Felvételéhez olyan [Faj-Háttér](../021_faj_hatterek.md) szükséges, amelynél szerepel az **Fejlett látás**, mint felvehető Érzék-fortély
 - Infrára is vonatkozik, így aki ezt felveszi, az a hőkép-tartományban is messzebbre ellát. Jellemzően ilyenek az elfek.
 
 <br />

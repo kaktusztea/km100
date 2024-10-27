@@ -53,4 +53,6 @@ A haladóbb formulák leírását alább.
 
 ---
 
+🔗 [Illuzionista tradíció ](051_05_illuzionista.md) →
+
 ⚜️ [Nyitóoldal](start.md)

@@ -2,7 +2,7 @@
 
 → [STUDY doksi](https://github.com/kaktusztea/km100/wiki/STUDY.pszi.diszciplinak)
 
-Dobás: [Önuralom](014_tulajdonsagok.md#-%C3%B6nuralom-%EF%B8%8F) Tulajdonsággal
+Dobás: [Önuralom](014_01_tulajdonsagok.md#-önuralom-️) Tulajdonsággal
 
 - [Auralátás](diszciplinak.pszi/auralatas.md)
 - [Ébredés](diszciplinak.pszi/ebredes.md)

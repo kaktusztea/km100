@@ -17,12 +17,14 @@ Ha megnyerted a Futás ellenpróbát, sikerült lehagynod üldöződet.
 ---
 ### Futás ellenpróba
 
-Ez egy sima ⚪**Gyorsaság** [Tulajdonság ellenpróba](015_tulajdonsagproba.md#tulajdons%C3%A1g-ellenpr%C3%B3ba).
+Ez egy sima ⚪**Gyorsaság** [Tulajdonság ellenpróba](014_02_tulajdonsagproba.md#tulajdonság-ellenpróba).
 
 🔆 Bónuszt ad: [Sprint](fortelyok.altalanos/sprint.md) fortély
 
 🔆 [MGT hatása a próbára](068_vertek_pancelok.md#mozg%C3%A1sg%C3%A1tl%C3%B3-t%C3%A9nyez%C5%91-mgt): KM dönt a helyzet ismeretében
 
 ---
+
+🔗 [Befolyásolás vs Emberismeret](154_befolyasolas_emberismeret.md) →
 
 ⚜️ [Nyitóoldal](start.md)

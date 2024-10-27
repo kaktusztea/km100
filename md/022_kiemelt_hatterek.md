@@ -12,4 +12,6 @@ A Kiemelt Hátterek alá három, egyedi ismeret tartozik, amelyek nem sorolható
 
 ---
 
+🔗 [Szabad Hátterek](023_szabad_hatterek.md) →
+
 ⚜️ [Nyitóoldal](start.md)

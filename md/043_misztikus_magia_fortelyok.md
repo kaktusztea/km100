@@ -33,4 +33,8 @@
 
 ---
 
+🔗 [Slan fortélyok](044_slan_fortelyok.md) →
+
+🔗 [Fortélyok főoldal](040_fortelyok.md) ↑
+
 ⚜️ [Nyitóoldal](start.md)

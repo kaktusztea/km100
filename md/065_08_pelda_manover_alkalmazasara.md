@@ -73,3 +73,7 @@ Próbadobás:  (6 + k10)  vs.  11
 ```
 
 Tehát ha Tetves legalább `5`-öt dob `k10`-en, akkor az **Ellenpróba** (`E`) is sikeres és így az egész manőver is az - kikaszálta ellenfele lábát.
+
+---
+
+⚜️ [Nyitóoldal](start.md)

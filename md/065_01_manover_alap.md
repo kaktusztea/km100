@@ -11,3 +11,5 @@ Ez a számérték karakteralkotási időben kerül kiszámításra és a Manőve
 ---
 
 🔗 [Manőver Pontok](065_02_manover_pontok.md) →
+
+⚜️ [Nyitóoldal](start.md)

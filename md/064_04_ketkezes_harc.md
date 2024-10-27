@@ -36,3 +36,7 @@
 - Harc `2db`, `1` pengés fegyverrel (például 2 db szablya)
 - Össz hosszuk: `1 + 1 = 2 penge  →  2/0,5 = 4`, tehát a **Harckeret** bónuszok `4`-el csökkennek.\
 `(1.fok: -1(!)  ;  2.fok:+2)`
+
+---
+
+⚜️ [Nyitóoldal](start.md)

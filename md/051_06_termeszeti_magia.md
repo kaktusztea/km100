@@ -61,4 +61,6 @@ A haladóbb formulák leírását alább.
 
 ---
 
+🔗 [Sámánmágia Tradíció](051_07_samanmagia.md) →
+
 ⚜️ [Nyitóoldal](start.md)

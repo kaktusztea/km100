@@ -24,8 +24,6 @@
     - Később a többit magasabb szinten
 - Metamágia iskolák tradíciók szerint eltérnek
 
-
-
 ---
 ### Arkánumok (Mágiaskolák)
 
@@ -219,5 +217,7 @@ A Támadások (Varázslások) száma is bejátszik. A nagyobb Erejű varázslato
 ⭕Ugyanannyi legyen, mint At-Will-nél.⭕
 
 ---
+
+🔗 [Aura, Mágia Átütése, Mágiaellenállás](094_aura_atutes_magiaellenallas.md) →
 
 ⚜️ [Nyitóoldal](start.md)

@@ -56,4 +56,8 @@
 
 ---
 
+🔗 [Misztikus és Mágia fortélyok](043_misztikus_magia_fortelyok.md) →
+
+🔗 [Fortélyok főoldal](040_fortelyok.md) ↑
+
 ⚜️ [Nyitóoldal](start.md)

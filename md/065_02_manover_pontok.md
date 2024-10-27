@@ -35,3 +35,5 @@ Bővebben lásd: Manőver [Ellenpróba](065_04_manover_vegbevitele.md#ellenprób
 ---
 
 🔗 [Manőver Szabályok](065_03_manover_szabalyok.md) →
+
+⚜️ [Nyitóoldal](start.md)

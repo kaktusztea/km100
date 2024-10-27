@@ -53,4 +53,6 @@ A haladóbb formulák leírását alább.
 
 ---
 
+🔗 [Vulgármágia Tradíció](051_02_vulgarmagia.md) →
+
 ⚜️ [Nyitóoldal](start.md)

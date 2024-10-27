@@ -8,6 +8,12 @@ Nem mindegy, hogy a karakterek mennyire képzettek, milyen harci helyzetben vann
 
 Az igazi jó harcos taktikus. Ismeri saját gyengéit és erősségeit és igyekszik olyan körülményeket kialakítani maga számára, amelyek segítségével győzedelmeskedhet.
 
+- [Életerő](061_00_eletero.md)
+- [Alapértékek](062_00_alapertekek.md)
+- [Harc menete](063_00_harc_menete.md)
+- [Harcot módosító tényezők](064_00_harcot_modosito_tenyezok.md)
+
+
 ---
 
 ⚜️ [Nyitóoldal](start.md)

@@ -286,4 +286,6 @@ Ajánlott képzettségek: -
 
 ---
 
+🔗 [Kiemelt Hátterek](022_kiemelt_hatterek.md) →
+
 ⚜️ [Nyitóoldal](start.md)

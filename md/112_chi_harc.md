@@ -9,4 +9,8 @@
 
 ---
 
+🔗 [Slan fegyverek](113_slan_fegyverek.md) →
+
+🔗 [Slan főoldal](110_slan.md) ↑
+
 ⚜️ [Nyitóoldal](start.md)

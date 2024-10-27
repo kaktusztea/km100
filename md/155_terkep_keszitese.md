@@ -8,4 +8,6 @@
 
 ---
 
+🔗 [Lóról leesés](156_lorol_leeses.md) →
+
 ⚜️ [Nyitóoldal](start.md)

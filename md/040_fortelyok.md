@@ -2,9 +2,21 @@
 
 → [TODO/ISSUE fortélyok](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.fortelyok)
 
+---
+
+[Általános fortélyok](041_altalanos_fortelyok.md)
+
+[Harci, Távharc és Lovas fortélyok](042_harci_fortelyok.md)
+
+[Misztikus és Mágia fortélyok](043_misztikus_magia_fortelyok.md)
+
+
+---
+
 A Fortélyok egyedi ismeretek, melyeket ugyanúgy KP-ből vehet fel a karakter, mint a Képzettségeket, de legtöbbször pont rájuk épülnek, kiegészítik őket, valamint kevésbé differenciált tudást takarnak.
 
 ## Általános szabályok
+
 ```
 Fortély: 6 KP / fok
 ```
@@ -23,14 +35,6 @@ Egy fortély jellemzően egy képzettségre adhat pluszokat. Ilyenkor az által�
 ## Jellemző hatás 2: Képzettség kiterjesztése
 
 A [Szabad Hátterekhez](023_szabad_hatterek.md) hasonlóan egyes Fortélyok képesek képzettségeket kiterjeszteni. Fortélyok esetén ez **követelményként** működik, tehát a fortély hiánya esetén próba nem is doható.
-
----
-
-[Érzék, Alvilági/Fizikai, Tudományos, Szociális fortélyok](041_altalanos_fortelyok.md)
-
-[Harci, Távharc és Lovas fortélyok](042_harci_fortelyok.md)
-
-[Misztikus és Mágia fortélyok](043_misztikus_magia_fortelyok.md)
 
 ---
 

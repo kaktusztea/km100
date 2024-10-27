@@ -49,3 +49,9 @@ Dob `k100`-zal, az eredmény `31`, végső `CÉ = 11+31 = 42`, tehát eltalálta
 De lássunk egy bonyolultabb esetet.
 
 ⭕TODO: 2. példa⭕
+
+---
+
+🔗 [Távharc sötétben](076_tavharc_sotetben.md) →
+
+⚜️ [Nyitóoldal](start.md)

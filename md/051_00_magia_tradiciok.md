@@ -8,7 +8,7 @@
   - [Bárdmágia](051_04_bardmagia.md)
   - [Természeti mágia](051_06_termeszeti_magia.md)
   - [Sámánmágia](051_07_samanmagia.md)
-
+  - [Drágakőmágia](051_08_dragakomagia.md)
 
 ### Metamágia Arkánum
 

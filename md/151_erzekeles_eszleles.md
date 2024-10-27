@@ -17,7 +17,7 @@
 
 Az érzékeket (látás, hallás, szaglás, ízlelés) érintő próbákat **Észlelés** képzettségpróbával dobjuk, **Érzékenység** Tulajdonsággal.
 
-A fajok esetleges bónuszai felvehetőek Érzék-Fortélyként. Bővebben lásd a [Faj Hátterek](022_faj_hatterek.md) fejezetben.
+A fajok esetleges bónuszai felvehetőek Érzék-Fortélyként. Bővebben lásd a [Faj Hátterek](021_faj_hatterek.md) fejezetben.
 
 ---
 ### Észlelés
@@ -75,5 +75,7 @@ Sima próbadobás adott nehézségre, melyet a KM határoz meg.
 - Ha az észlelés aktív: egy kategóriával (`-3`) csökken a nehézség
 
 ---
+
+🔗 [Nyomok észrevétele, Nyomkövetés](152_nyomok_nyomkovetes.md) →
 
 ⚜️ [Nyitóoldal](start.md)

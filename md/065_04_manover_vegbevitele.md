@@ -123,3 +123,5 @@ Kérdés, hogy ilyenkor miért dobunk mégis **Ellenpróbát**? Az ilyen helyzet
 ---
 
 🔗 [Általános Manőverek listája](065_05_altalanos_manoverek.md) →
+
+⚜️ [Nyitóoldal](start.md)

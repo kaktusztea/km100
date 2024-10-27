@@ -23,7 +23,7 @@
 
 **Leírás**: Alapból tartalmazza a karakter által ismert **Kultúrkörök** alá tartozó művészeti ágakat, amelyekre felvette a kapcsolódó **Szabad Hátteret**. 
 
-A tudás szélesíthető a fent található Szabad Hatterek felvételével [Szabad Pontokból](../017_02_szp.md).
+A tudás szélesíthető a fent található Szabad Hatterek felvételével [Szabad Pontokból](../016_02_szp.md).
 
 **Követelmény**:
   - [Kultúrkör](../hatterek.kiemelt/kulturkor.md) (adott kultúra). Enélkül `-3` a képzettségpróba dobásra.

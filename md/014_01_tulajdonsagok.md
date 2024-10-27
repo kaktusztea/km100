@@ -39,7 +39,7 @@ Megjegyzés: nem kell mindet elköltened, tartalékolhatsz is egy későbbi nagy
 `Minden negyedik` karakterszinten kapsz további `+2` pontot, melyet szintén a fenti táblázat alapján fordíthatsz tulajdonságaid növelésére. Figyelem! Nem egy Tulajdonság értékét növelheted kettővel, hanem ennyi pontot kapsz, amelyből kigazdálkodhatsz egy Tulajdonság növelést. Az így kapott bónusz pontokat „tartalékolhatod” is. Például egy `+3`-ról `+4`-re való növelés költsége `4 pont`, amelyre `2 szint` fejlődés során tehetsz szert.
 
 ---
-A Tulajdonságok értéke alapesetben `-5` és `+5` között mozoghat. A `-5` értelemszerűen a leggyengébb, súlyosan fogyatékos karakterek sajátja, míg a `+5`-ös értékkel bírók a legendák héroszai, irigyelt, rosszabb esetben gyűlölt nagyságok. A fenti határokon a [Faj Hátterek jellemzői](022_faj_hatterek.md), illetve esetleges mágikus hatások változtathatnak, de ökölszabály, hogy **elfszabásúak** egyik tulajdonsága sem nőhet `+7` fölé semmilyen körülmények között.
+A Tulajdonságok értéke alapesetben `-5` és `+5` között mozoghat. A `-5` értelemszerűen a leggyengébb, súlyosan fogyatékos karakterek sajátja, míg a `+5`-ös értékkel bírók a legendák héroszai, irigyelt, rosszabb esetben gyűlölt nagyságok. A fenti határokon a [Faj Hátterek jellemzői](021_faj_hatterek.md), illetve esetleges mágikus hatások változtathatnak, de ökölszabály, hogy **elfszabásúak** egyik tulajdonsága sem nőhet `+7` fölé semmilyen körülmények között.
 
 A kinézetre és érzelmi „felépítésre" vonatkozó jellemzőket a játékosra bízzuk, dolgozza ki ő karakteralkotáskor, a KM-el egyeztetve és használja ehhez bátran a [Leíró Háttereket](024_leiro_hatterek.md). Hisszük, hogy nem kell minden jellemzőt számszerűsíteni és a fentiek részben szabadon meghatározható jellemzők, így főleg a játékos beleélőképességén múlik, hogy milyen hatással vannak más karakterekre.
 
@@ -294,5 +294,7 @@ a külső hatásokat meg se próbálja értelmezni. Nem indítja meg semmi, legf
 `+5:` Az ilyen emberek minden apró rezdülést érzékelnek, külső hangulatok iránt rendkívül fogékonyak. Remek emberismerő, vagy nagy művész válhat belőlük. Általában érzelemgazdag emberek, de van, akinél „mindössze" fantasztikus adottság, mélyebb érzelmek nélkül. Az ilyenekből lesznek a kiváló diplomaták, rettegett boszorkányok. Érzékei végtelenül kifinomultak.
 
 ---
+
+🔗 [Tulajdonságpróba](014_02_tulajdonsagproba.md) →
 
 ⚜️ [Nyitóoldal](start.md)

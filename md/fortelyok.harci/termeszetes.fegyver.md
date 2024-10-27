@@ -10,7 +10,7 @@ Olyan fajú karakterrel játszol, amelynek végtagjai / harapása, egyéb fizika
 
 #### 1. fok
 
-🔒 **Követelmény**: [Faj Háttér](../022_faj_hatterek.md)
+🔒 **Követelmény**: [Faj Háttér](../021_faj_hatterek.md)
 
 
 🌟 **Hatás**: A "Puszta kéz" sebzése `1+k20` értékre emelkedik (akár egy tőré).
@@ -20,8 +20,8 @@ Olyan fajú karakterrel játszol, amelynek végtagjai / harapása, egyéb fizika
 
 #### Megjegyzések
 
-- Olyan  [Faj Háttér](../022_faj_hatterek.md), amely faj leírásában szerepel az ajánlottan felvehető fortélyok között a "Természetes fegyver"
-- Például [Faj Háttér: Khál](../022_faj_hatterek.md#khál) mellé vehető fel
+- Olyan  [Faj Háttér](../021_faj_hatterek.md), amely faj leírásában szerepel az ajánlottan felvehető fortélyok között a "Természetes fegyver"
+- Például [Faj Háttér: Khál](../021_faj_hatterek.md#khál) mellé vehető fel
 
 <br />
 

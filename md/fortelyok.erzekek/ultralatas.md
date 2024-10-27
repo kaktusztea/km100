@@ -15,21 +15,21 @@ Teljes sötétben is képes vagy tájékozódni.
 ---
 #### 1. fok
 
-🔒 **Követelmény**: Kapcsolódó [Faj Háttér](../022_faj_hatterek.md)
+🔒 **Követelmény**: Kapcsolódó [Faj Háttér](../021_faj_hatterek.md)
 
 🌟 **Hatás**: Mintha telihold fényénél tájékozódnál vaksötétben.
 
 ---
 #### 2. fok
 
-🔒 **Követelmény**: Kapcsolódó [Faj Háttér](../022_faj_hatterek.md)
+🔒 **Követelmény**: Kapcsolódó [Faj Háttér](../021_faj_hatterek.md)
 
 🌟 **Hatás**: Mintha szürkületkor tájékozódnál. Vaksötétben is tudsz olvasni.
 
 ---
 #### 3. fok
 
-🔒 **Követelmény**: Kapcsolódó [Faj Háttér](../022_faj_hatterek.md)
+🔒 **Követelmény**: Kapcsolódó [Faj Háttér](../021_faj_hatterek.md)
 
 🌟 **Hatás**: Tökéletesen látsz, mintha nappal lenne, a látótávolság is ugyanaz.
 
@@ -42,7 +42,7 @@ Teljes sötétben is képes vagy tájékozódni.
 
 #### Megjegyzések
 
-- Felvételéhez olyan [Faj-Háttér](../022_faj_hatterek.md) szükséges, amelynél szerepel az **Ultralátás**, mint felvehető **Érzék-fortély**
+- Felvételéhez olyan [Faj-Háttér](../021_faj_hatterek.md) szükséges, amelynél szerepel az **Ultralátás**, mint felvehető **Érzék-fortély**
 - A látás fekete-fehérben történik
 - A távolság "használhatóságát" továbbra is az **Észlelés** képzettség határozza meg
 - A látótávolságot ultralátásban a [Fejlett látás](fejlett_latas.md) Érzék-fortély is befolyásolja

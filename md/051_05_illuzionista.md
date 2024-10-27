@@ -53,4 +53,6 @@ A haladóbb formulák leírását alább.
 
 ---
 
+🔗 [Természeti Mágia Tradíció](051_06_termeszeti_magia.md) →
+
 ⚜️ [Nyitóoldal](start.md)
