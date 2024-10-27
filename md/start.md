@@ -83,6 +83,7 @@
   - [Érzék, Alvilági és Fizikai fortélyok](041_altalanos_fortelyok.md)
   - [Harci, Távharc és Lovas fortélyok](042_harci_fortelyok.md)
   - [Misztikus és Mágia fortélyok](043_misztikus_magia_fortelyok.md)
+  - [Slan fortélyok](044_slan_fortelyok.md)
 
 ---
 ### 5. [Tradíciók](050_tradiciok.md)

@@ -10,6 +10,8 @@
 
 [Misztikus és Mágia fortélyok](043_misztikus_magia_fortelyok.md)
 
+[Slan fortélyok](044_slan_fortelyok.md)
+
 
 ---
 

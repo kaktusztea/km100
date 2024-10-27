@@ -24,12 +24,16 @@
 - [Mesterfegyver](fortelyok.harci/mesterfegyver.md)
 - [Pajzshasználat](fortelyok.harci/pajzshasznalat.md) 🔺
 - [Páros harc](fortelyok.harci/paros_harc.md)
-- [Sárkány ököl](fortelyok.slan/sarkany_okol.md) 🔺
 - [Támadás erőből](fortelyok.harci/tamadas_erobol.md)
 - [Természetes fegyver](fortelyok.harci/termeszetes.fegyver.md)
 - [Testőr](fortelyok.harci/testor.md)
 - [Vakharc](fortelyok.harci/vakharc.md) 🔺
 - [Vértviselet](fortelyok.harci/vertviselet.md)
+
+---
+## Slan harci fortélyok
+
+A Slan misztérium alá többfajta fortély is tartozik. Ezek közül a harci érintettségűek (is) a [Slan fortélyok](044_slan_fortelyok.md) oldal alatt találhatóak.
 
 ---
 ## Lovas fortélyok
