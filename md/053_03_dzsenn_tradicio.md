@@ -1,6 +1,6 @@
 ## Dzsenn Tradíció
 
-Ez egy [Primer](016_primer_szekunder_ismeretek.md) képzettség.
+Ez egy [Primer](015_primer_szekunder_ismeretek.md) képzettség.
 
 ### Követelmények
 
@@ -23,7 +23,6 @@ Ez egy [Primer](016_primer_szekunder_ismeretek.md) képzettség.
 
 Amennyiben a dzsenn felveszi a [Magasmágia](051_01_magasmagia.md) tradíciót legalább `3.szinten`, akkor a **Dzsenn Tradíció** képtettségét beszámíthatja/használhatja Mentálmágia Arkánumként, nem kell azt kétszer felvennie. Ilyenkor a Mentálmágia formulák természetesen már manafókusz használatával jönnek létre. A két képesség nem kombinálható!
 
-
 ---
 ### Egyedi Dzsenn diszciplínák
 
@@ -38,5 +37,7 @@ Dzsenn tradíció szintek (biztos tudás (⭕vagy próba legyen?)):
 ⭕TODO: átnézni⭕
 
 ---
+
+🔗 [Amund Tradíció](053_04_amund_tradicio.md) →
 
 ⚜️ [Nyitóoldal](start.md)

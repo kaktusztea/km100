@@ -9,4 +9,8 @@
 
 ---
 
+🔗 [Fortélyok főoldal](040_fortelyok.md) ↑
+
+🔗 [Slan főoldal](110_slan.md) ↑
+
 ⚜️ [Nyitóoldal](start.md)

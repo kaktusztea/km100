@@ -50,3 +50,9 @@ Ha **legalább fél órát** töltött el a karakter a “belövéssel”,  a "*
 ```
 CÉ + k100  vs  VÉ
 ```
+
+---
+
+🔗 [Célpont Védő Értékének számítása, Szorzó, Osztó](072_tavharc_ve_szorzo_oszto.md) →
+
+⚜️ [Nyitóoldal](start.md)

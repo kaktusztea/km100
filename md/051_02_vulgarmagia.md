@@ -53,4 +53,6 @@ A haladóbb formulák leírását alább.
 
 ---
 
+🔗 [Ordani Tűzmágia Tradíció](051_03_ordani_tuzmagia.md) →
+
 ⚜️ [Nyitóoldal](start.md)

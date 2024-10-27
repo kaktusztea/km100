@@ -51,4 +51,6 @@ Például titkos iratok átböngészése. Egy felfedezett ősi címer elemzése.
 
 ---
 
+🔗 [Menekülés, üldözés, Futás](153_menekules_uldozes_futas.md) →
+
 ⚜️ [Nyitóoldal](start.md)

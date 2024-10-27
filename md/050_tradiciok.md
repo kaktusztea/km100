@@ -14,34 +14,37 @@ Mindegyik Tradíció [Primer képzettség](032_primer_szekunder_kepzettsegek.md)
 
 Milyen Tradíciókat ismer a km100 rendszere?
 
-- [Mágia tradíciók](051_00_magia_tradiciok.md)
-  - [Magasmágia](051_01_magasmagia.md)
-  - [Vulgármágia](051_02_vulgarmagia.md)
-  - [Ordani Tűzmágia](051_03_ordani_tuzmagia.md)
-  - [Bárdmágia](051_04_bardmagia.md)
-    - Csepürágó
-    - Ork Énekmondó
-  - [Illuzionista](051_05_illuzionista.md)
-  - [Természeti mágia](051_06_termeszeti_magia.md)
-  - [Sámánmágia](051_07_samanmagia.md)
-    - Erdei törzsi sámánok
-    - Ork sámán
-    - Rituális mágia
-  - [Drágakőmágia](051_08_dragakomagia.md)
-- [Papi tradíció](052_papi_tradicio.md)
-- [Szellemi Tradíciók](053_00_szellemi_tradiciok.md)
-  - [Slan Tradíció](053_01_slan_tradicio.md)
-  - [Fejvadász Tradíció](053_02_fejvadasz_tradicio.md)
-  - [Dzsenn Tradíció](053_03_dzsenn_tradicio.md)
-  - [Amund Tradíció](053_04_amund_tradicio.md)
-- Nem Játszható Tradíciók
-	- Aquir eredetű
-	- Smaragdmágusok (Sheenwall)
-	- Ryeki démonikus tradíciók
-	- Crantai tradíciók
-	- Dawai irreálmágia
-	- Gnóm mágia (⭕ez is irreál?⭕)
-	- Niare, Enoszuke?
+[Mágia tradíciók](051_00_magia_tradiciok.md)
+- [Magasmágia](051_01_magasmagia.md)
+- [Vulgármágia](051_02_vulgarmagia.md)
+- [Ordani Tűzmágia](051_03_ordani_tuzmagia.md)
+- [Bárdmágia](051_04_bardmagia.md)
+  - Csepürágó
+  - Ork Énekmondó
+- [Illuzionista](051_05_illuzionista.md)
+- [Természeti mágia](051_06_termeszeti_magia.md)
+- [Sámánmágia](051_07_samanmagia.md)
+  - Erdei törzsi sámánok
+  - Ork sámán
+  - Rituális mágia
+- [Drágakőmágia](051_08_dragakomagia.md)
+
+[Papi tradíció](052_papi_tradicio.md)
+
+[Szellemi Tradíciók](053_00_szellemi_tradiciok.md)
+- [Slan Tradíció](053_01_slan_tradicio.md)
+- [Fejvadász Tradíció](053_02_fejvadasz_tradicio.md)
+- [Dzsenn Tradíció](053_03_dzsenn_tradicio.md)
+- [Amund Tradíció](053_04_amund_tradicio.md)
+
+Nem Játszható Tradíciók
+- Aquir eredetű
+- Smaragdmágusok (Sheenwall)
+- Ryeki démonikus tradíciók
+- Crantai tradíciók
+- Dawai irreálmágia
+- Gnóm mágia (⭕ez is irreál?⭕)
+- Niare, Enoszuke?
 
 ### Tradíciók követelményei
 

@@ -6,7 +6,7 @@
 
 **Szabad Háttér**: [Lénylovas](../hatterek.szabad/lenylovas.md) (⭕1 faj ingyenes; az adott állatot is tudod idomítani⭕)
 
-**Leírás**: a képzettség állatok idomítását fogja magában. Az egyes állatcsoportokra vonatkozó ismereteket **Szabad Hátterek** felvételével nyerheted el -  [Szabad Pontok](../017_02_szp.md) elköltésével.
+**Leírás**: a képzettség állatok idomítását fogja magában. Az egyes állatcsoportokra vonatkozó ismereteket **Szabad Hátterek** felvételével nyerheted el -  [Szabad Pontok](../016_02_szp.md) elköltésével.
 
 ⭕TODO: Állatcsopot Szabad Hátterek - voltak, töröltük. Legyenek újra?⭕
 

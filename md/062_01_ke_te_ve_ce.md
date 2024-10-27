@@ -111,3 +111,9 @@ A Védő Érték szimbolizálja a karakter közelharcban nyújtott azon képess�
 ### Célzó Érték
 
 → Lásd a [Távolsági Harc - Célzó Érték számítása](071_tavharc_ce.md) fejezetet!
+
+---
+
+🔗 [Harcmodor képzettségek](062_02_harcmodor_kepzettsegek.md) →
+
+⚜️ [Nyitóoldal](start.md)

@@ -23,3 +23,9 @@ Az **Életerő Pontok** (ÉP) 4 egészség kategória közt egyenlő arányban o
 Az egyes kategóriák jelölésében az "`S`" a „Sebesülés” -re utal, a szám utána pedig könnyen azonosítja állapotunkat.
 
 A bal oldali ábra `18 ÉP` elosztását mutatja be. Az állapot romlásának hatásait a „Sebesülés” fejezetben ismertetjük.
+
+---
+
+🔗 [Kábulat Életerő Pont](061_02_kabulat_ep.md) →
+
+⚜️ [Nyitóoldal](start.md)

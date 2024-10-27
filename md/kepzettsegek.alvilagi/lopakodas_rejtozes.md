@@ -1,6 +1,6 @@
 #### 🔵 Lopakodás/rejtőzés
 
-Ez egy [Primer képzettség](../016_primer_szekunder_ismeretek.md).
+Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
 → [Szituációk - Lopakodás/rejtőzés vs. Észlelés](https://github.com/kaktusztea/km100/wiki/STUDY.szituaciok#lopakod%C3%A1srejt%C5%91z%C3%A9s-vs-%C3%A9szlel%C3%A9s)
 ````diff

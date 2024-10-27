@@ -7,4 +7,9 @@
 
 ---
 
+🔗 [Chi harc](112_chi_harc.md) →
+
+🔗 [Slan főoldal](110_slan.md) ↑
+
 ⚜️ [Nyitóoldal](start.md)
+

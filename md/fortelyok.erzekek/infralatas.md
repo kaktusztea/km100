@@ -14,7 +14,7 @@ Sötétben (leginkább élőlények által kibocsátott) hőképek alapján is k
 ---
 #### 1. fok
 
-🔒 **Követelmény**: Kapcsolódó [Faj Háttér](../022_faj_hatterek.md)
+🔒 **Követelmény**: Kapcsolódó [Faj Háttér](../021_faj_hatterek.md)
 
 🌟 **Hatás**:
 - Valami derengél, de [Észlelés](../kepzettsegek.vilagi/eszleles.md) próba kell a tájékozódáshoz és a harchoz is.
@@ -25,7 +25,7 @@ Sötétben (leginkább élőlények által kibocsátott) hőképek alapján is k
 ---
 #### 2. fok
 
-🔒 **Követelmény**: Kapcsolódó [Faj Háttér](../022_faj_hatterek.md)
+🔒 **Követelmény**: Kapcsolódó [Faj Háttér](../021_faj_hatterek.md)
 
 🌟 **Hatás**: Ha van a hőképben eltérés, látod a sötétben - legyenek akár élőlények, akár tárgyak.
 
@@ -35,7 +35,7 @@ Sötétben (leginkább élőlények által kibocsátott) hőképek alapján is k
 
 #### Megjegyzések
 
-- Felvételéhez olyan [Faj-Háttér](../022_faj_hatterek.md) szükséges, amelynél szerepel az **Infralátás**, mint felvehető Érzék-fortély
+- Felvételéhez olyan [Faj-Háttér](../021_faj_hatterek.md) szükséges, amelynél szerepel az **Infralátás**, mint felvehető Érzék-fortély
 - A távolság "használhatóságát" továbbra is az **Észlelés** képzettség határozza meg (mennyire folynak össze a hőfoltok).
 - A látótávolságot infrában a [Fejlett látás](fejlett_latas.md) Érzék-fortély is befolyásolja, ezért látnak az elfek a legtávolabb hőképek alapján.
 - &#8203;2. fokon sem adnak értékelhető képet egy föld alatti kripta hideg kőfalai

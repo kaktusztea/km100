@@ -125,3 +125,9 @@ Alább az egyes fegyver-kategóriák tipikus **Osztó** értékét látjuk. Ett�
 | Modern, nagy hatótávú fegyver       | `10`  | Távcsöves mesterlövész puska                           | Ezt csak azért írjuk be, hogy látszódjon, ez a távolsági harcrendszer kiválóan adaptálható modern szerepjáték világokra is.       |
 
 🔆 **Megjegyzés**: Javasoljuk a KM-nek, hogy ha esetleg mágikus, vagy kifejezetten jó minőségű fegyver értékeit akarja az alapértékhez képest módosítani, akkor az **Osztó** értékét lehetőleg **NE** módosítsa, inkább a fegyver **Célzó Értékét** változtassa.
+
+---
+
+🔗 [Távharc taktikák](073_tavharc_taktikak.md) →
+
+⚜️ [Nyitóoldal](start.md)

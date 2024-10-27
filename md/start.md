@@ -44,25 +44,25 @@
 - [Karakteralkotó ods](011_karakteralkoto_ods.md)
 - [Előtörténet, Személyiség](012_elotortenet_szemelyiseg.md)
 - [Tapasztalati Szint](013_tsz_szintlepes.md)
-- [Tulajdonságok](014_tulajdonsagok.md)
-- [Tulajdonságpróba](015_tulajdonsagproba.md) 🎲
-- [Primer és Szekunder ismeretek](016_primer_szekunder_ismeretek.md)
-- [Pontok](017_00_pontok.md)
-  - [Karakteralkotó Pontok (KP)](017_01_kp.md)
-  - [Szabad Pontok (SzP)](017_02_szp.md)
-  - [Manőver Pontok (MP)](017_03_manover_pontok.md)
-- [Számaztatott értékek](018_00_szarmaztatott_ertekek.md)
-  - [Életerő Pont (ÉP)](018_01_ep.md)
-  - [Mágiaellenállás](018_02_magiaellenallas.md) 🎲
-  - [Méregellenállás](018_03_meregellenallas.md) 🎲
-- [Harcérték Módosító (HM), Célzóérték Módosító (CM)](019_hm_cm.md)
+- [Tulajdonságok](014_01_tulajdonsagok.md)
+- [Tulajdonságpróba](014_02_tulajdonsagproba.md) 🎲
+- [Primer és Szekunder ismeretek](015_primer_szekunder_ismeretek.md)
+- [Pontok](016_00_pontok.md)
+  - [Karakteralkotó Pontok (KP)](016_01_kp.md)
+  - [Szabad Pontok (SzP)](016_02_szp.md)
+  - [Manőver Pontok (MP)](016_03_manover_pontok.md)
+- [Számaztatott értékek](017_00_szarmaztatott_ertekek.md)
+  - [Életerő Pont (ÉP)](017_01_ep.md)
+  - [Mágiaellenállás](017_02_magiaellenallas.md) 🎲
+  - [Méregellenállás](017_03_meregellenallas.md) 🎲
+- [Harcérték Módosító (HM), Célzóérték Módosító (CM)](018_hm_cm.md)
 - [Nem Játékos Karakterek](019_njk.md)
 
 ---
 ### 2. [Hátterek](020_hattererek.md)
 
-  - [Kiemelt Hátterek](021_kiemelt_hatterek.md)
-  - [Faj Hátterek](022_faj_hatterek.md)
+  - [Kiemelt Hátterek](022_kiemelt_hatterek.md)
+  - [Faj Hátterek](021_faj_hatterek.md)
   - [Szabad Hátterek](023_szabad_hatterek.md)
   - [Leíró Hátterek](024_leiro_hatterek.md)
   - [Karma Hátterek](025_karma_hatterek.md)
@@ -113,26 +113,26 @@
 - [Sebesülés](061_03_sebesules.md)
 - [Gyógyulás](061_04_gyogyulas.md)
 
-#### 6.2 Alapértékek
+#### 6.2 [Alapértékek](062_00_alapertekek.md)
 
 - [KÉ, TÉ, VÉ, CÉ](062_01_ke_te_ve_ce.md)
-- [HM, CM](019_hm_cm.md)
+- [HM, CM](018_hm_cm.md)
 - [Harcmodor képzettségek](062_02_harcmodor_kepzettsegek.md)
 - [Mesterfegyver fortély bónuszai](fortelyok.harci/mesterfegyver.md)
 - [Mozgásgátló tényező (MGT)](062_03_mgt.md)
 
-#### 6.3 Harc menete
+#### 6.3 [Harc menete](063_00_harc_menete.md)
 
 - [Előnyös és hátrányos helyzet (VÉ csökkentés)](063_01_elonyos_hatranyos_helyzet.md)
 - [Akciók fogalma](063_02_akcio_fogalma.md)
 - [Harckeret, Támadások száma fegyverrel](063_03_tamadasok_szama_fegyverrel.md)
-- [Varázskeret, Támadások száma mágiával](063_04_tamadasok_szama_magiaval.md)
+- [Varázskeret, Támadások száma mágiával](063_04_tamadasok_szama_varazslaskor.md)
 - [Mozgás harc közben](063_05_mozgas_harc_kozben.md)
 - [Harc menete (összefoglaló)](063_06_harc_menete_osszefoglalas.md) 🎲
 - **[Harc menete (részletes)](063_07_harc_menete_reszletes.md)** 🎲 (KÉ, Támadás, Sebzés, Sebződés)
 - [Példaharc](063_08_peldaharc.md)
 
-#### 6.4 Harcot módosító tényezők
+#### 6.4 [Harcot módosító tényezők](064_00_harcot_modosito_tenyezok.md)
 
 - [Harci helyzetek](064_01_harci_helyzetek.md) (meglepetésből, helyhez kötve, magasabbról, stb.)
 - [Harci taktikák](064_02_harci_taktikak.md) (támadó, védő, roham, stb)

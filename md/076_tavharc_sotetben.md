@@ -54,3 +54,5 @@ A karakter Érzékenysége `+2`. A játékos először is dob `k10`-el:  ha az e
 - Észlelhetőség szorzó: `12x` sötét, zajos célpont
 - `VÉ = (12+3) x 4 = 60`
 - Találati esély: `51%`
+
+---

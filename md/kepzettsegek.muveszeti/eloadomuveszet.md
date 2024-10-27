@@ -17,7 +17,7 @@
 - [Zenélés: ütős hangszerek](../hatterek.szabad/zeneles_utos_hangszerek.md)
 - [Zsonglőrködés](../hatterek.szabad/zsonglorkodes.md)
 
-**Leírás**: Aktív, alkotó művész vagy. A fenti Szabad-Hátter listából válogathatsz [Szabad Pontok](../017_02_szp.md) költésével. Ha nincs meg a kívánt művészeti ág Szabad Háttérként, akkor `-3`-mal dobhatsz, de egy szigorú KM - a helyzet ismeretében - meg is tilthatja a dobást.
+**Leírás**: Aktív, alkotó művész vagy. A fenti Szabad-Hátter listából válogathatsz [Szabad Pontok](../016_02_szp.md) költésével. Ha nincs meg a kívánt művészeti ág Szabad Háttérként, akkor `-3`-mal dobhatsz, de egy szigorú KM - a helyzet ismeretében - meg is tilthatja a dobást.
 
 <br />
 

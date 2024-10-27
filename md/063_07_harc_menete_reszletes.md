@@ -176,7 +176,7 @@ Ha az `SP` érték a páncél `SFÉ` levonása után `0`-ra csökken, a VÉ csö
 ---
 #### Harcérték csökkenés
 
-Ha valakit találat ért és átkerül másik sebesülés-kategóriába, `TÉ levonást` kap, melyet mérsékel a [Fájdalomtűrés képzettség](kepzettsegek.fizikai/fajdalomtures.md) és [Önuralom tulajdonságok](014_tulajdonsagok.md#-önuralom-%EF%B8%8F) összege.
+Ha valakit találat ért és átkerül másik sebesülés-kategóriába, `TÉ levonást` kap, melyet mérsékel a [Fájdalomtűrés képzettség](kepzettsegek.fizikai/fajdalomtures.md) és [Önuralom tulajdonságok](014_01_tulajdonsagok.md#-önuralom-️) összege.
 
 Bővebben lásd: [Fájdalomtűrés fejezetet](061_03_sebesules.md#f%C3%A1jdalomt%C5%B1r%C3%A9s-harc-k%C3%B6zben)!
 
@@ -318,4 +318,9 @@ Zuhanás, zúzódás, egyéb fizikai sérülések esetén a KM meghatároz egy s
 - Így sebzésdobása: `k20+13`, tehát minimum `14 SP`-t sebez, ami már `6 ÉP`.
 - Ha `7`-nél nagyobbat dob (`65%`), akkor már `15 ÉP` sebet okoz, ami sokszor már halálos
 
+
 ---
+
+🔗 [Pédaharc](063_08_peldaharc.md) →
+
+⚜️ [Nyitóoldal](start.md)

@@ -45,3 +45,7 @@ A harci képzettségek aktuális szintjétől függ, hogy az alá tartozó fegyv
 A Közelharc, Kardvívás, Zúzás, Lándzsavívás Harcmodorok szintjei lehetőséget adnak Manőverek könnyebb elvégzésére. Bővebben lásd a [Manőver Pontok](065_02_manover_pontok.md) fejezetet.
 
 ---
+
+🔗 [Mozgásgátló Tényező (MGT)](062_03_mgt.md) →
+
+⚜️ [Nyitóoldal](start.md)

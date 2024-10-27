@@ -44,3 +44,9 @@ Kör elején azt kell megvizsgálni, hogy a **"Formula-Sebesség"** eléri -e a 
 `2.` Ha felette van, akkor a kört teljes egészében varázslással tölti a mágiatudó, a varázslat "átcsúszik" a következő körre és rögtön annyival csökkenti a következő kör **Varázskeretét**, amennyivel alatta volt.
 
 Egy nagy, hosszú varázslat akár sok körön át is "csúszhat", ez idő alatt a varázstudó mozdulatlanul állhat, vagy legfeljebb lassú, egyenletes sétát végezhet.
+
+---
+
+🔗 [Mozgás harcban, mozgás hatása támadások számára](063_05_mozgas_harc_kozben.md) →
+
+⚜️ [Nyitóoldal](start.md)

@@ -32,3 +32,9 @@ A fentiek a **Védő Érték** csökkentéskor mutatkoznak meg (sikertelen táma
 	- előnyös helyzetű: `k100`-as támadó dobásának nagyobbik kockájával `+1` értékben csökkent VÉ-t.  Röviden: `nagykocka+1`
 	- hátrányos helyzetű: `k100` dobásának kisebbik kockájának értékével csökkent VÉ-t. Röviden: `kiskocka`
 	- Példa: **Kétkezes kard** vs **Tőr** ; **Lándzsa** vs **Rövidkard**
+
+---
+
+🔗 [Akció fogalma](063_02_akcio_fogalma.md) →
+
+⚜️ [Nyitóoldal](start.md)

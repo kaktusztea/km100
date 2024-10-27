@@ -8,7 +8,7 @@ Kötelezően ki kell fejteni a karakter megalkotásakor:
 
 Nincsenek részletes megkötések, a külső teljesen szabadon meghatározható. Ha valaki pl. csúnya, akkor nehezebben ismerkedik, ha szép, akkor sok irigye van, szóval csak ésszel..
 
-Különböző fajokat a [Faj Hátterek](022_faj_hatterek.md) szekcióban választhatunk.
+Különböző fajokat a [Faj Hátterek](021_faj_hatterek.md) szekcióban választhatunk.
 
 ### Személyiség, szociális jellemzők
 
@@ -19,5 +19,7 @@ Mennyire gazdag érzelmileg? Az **Önuralom**, **Érzékenység** **Tulajdonság
 Az imént felsorolt jellemzők egy részét csokorba szedtük és "ingyenes", úgynevezett [Leíró Hátterekként](024_leiro_hatterek.md) felvehetőek, hogy tovább szinesítsék a karaktert. Ezek a KM és a játékos egyeztetése után (részben) szabadon bővíthetőek.
 
 ---
+
+🔗 [Tapasztalati szint, Szintlépés](013_tsz_szintlepes.md) →
 
 ⚜️ [Nyitóoldal](start.md)

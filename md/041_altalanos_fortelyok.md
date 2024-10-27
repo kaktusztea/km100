@@ -1,3 +1,7 @@
+## Általános fortélyok
+
+Az Érzék-, Alvilági és fizikai-, Tudományos- és Szociális fortélyok tartoznak ide.
+
 ## Érzék fortélyok
 
 <!-- tag: erzek__fortely -->
@@ -69,5 +73,9 @@ Az alábbi Fortélyokat a játékos csak a KM engedélyével veheti fel, ÉS csa
 Szót érdemelnek még a politikai cselszövések, mint szociális vonatkozású tevékenységek. Ezek komplex szituációk, melyeket nem vonhatunk be a szabályrendszer alá, mégis egyes területein (pl. információk megszerzése) döntenünk kell. Az ilyen helyzetek kezeléséhez lásd a **„Mit tudok/tudhatok róla?”** fejezetet a szabályrendszer [Szituációk](150_szituaciok.md) főfejezetében!
 
 ---
+
+🔗 [Fortélyok](040_fortelyok.md) ↑
+
+🔗 [Harci fortélyok](042_harci_fortelyok.md) →
 
 ⚜️ [Nyitóoldal](start.md)

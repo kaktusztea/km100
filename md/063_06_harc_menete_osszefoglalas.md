@@ -246,3 +246,9 @@ Nagy tömegjelenetben a sok statisztika kezelése drasztikusan lelassíthatja a 
   21-30: 20ÉP
   31-től halál
 ```
+
+---
+
+🔗 [Harc menete - részletes](063_07_harc_menete_reszletes.md) →
+
+⚜️ [Nyitóoldal](start.md)
