@@ -1,7 +1,8 @@
-## Nyomok észrevétele, Nyomkövetés
+## Nyomok észrevétele, Nyomkövetés - természetben
 
 ⭕TODO:Bevezető
 
+---
 ### Nyomok észrevétele a természetben 🌳
 
 "Itt egy csapás, levelekkel próbálták elfedni, de a fű még nem egyenesedett ki."
@@ -28,27 +29,7 @@ Előbb észre kell venni az első nyomot, utána lehet követni a csapást.
 - Természetjárást kiterjesztik: [Tájtípus](023_szabad_hatterek.md#tanulhat%C3%B3-szabad-h%C3%A1tterek-list%C3%A1ja) Szabad Hátterek (ha nincs meg az épp szükséges: `-3` a dobásra)
 
 ---
-### Nyomok észrevétele városi környzetben 🏠
 
-"Az az asztal el lett mozdítva." / "Huzatos itt a fal mellett."
-
-- [Észlelés](kepzettsegek.vilagi/eszleles.md) képzettségpróba a nyom észrevételének bonyolultságának megfelelő megfelelő Nehézség ellen
-- Követelmény: [Keresés/Nyomolvasás](fortelyok.altalanos/kereses_nyomolvasas.md) fortély
-
----
-### Nyomok értelmezése városi környzetben 🏠
-
-Például titkos iratok átböngészése. Egy felfedezett ősi címer elemzése. Felfedezett titkosírás elemzése.
-
-- [Nyomozás](kepzettsegek.vilagi/nyomozas.md) képzettségpróba a felfedezett nyom értelmezésének bonyolultsága, mint Nehézség ellen.
-- Nyomozást kiterjeszthetik az alábbi Szabad Hátterek ebben a környezetben. Ha nincs meg az épp szükséges közülük: `-3` a dobásra.
-  - [Heraldika](hatterek.szabad/heraldika.md)
-  - [Jogismeret](hatterek.szabad/jogismeret.md)
-  - [Pénzügyek](hatterek.szabad/penzugyek.md)
-  - [Rejtjelfejtő](hatterek.szabad/rejtjelfejto.md)  (ennél használható a [Tudományok](kepzettsegek.tudomanyos/tudomanyok.md)) képzettség is
-
----
-
-🔗 [Menekülés, üldözés, Futás](153_menekules_uldozes_futas.md) →
+🔗 [Nyomok észrevétele, Nyomkövetés - városi környezetben](152_02_nyomok_nyomkovetes_varos.md) →
 
 ⚜️ [Nyitóoldal](start.md)

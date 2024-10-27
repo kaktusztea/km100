@@ -76,6 +76,6 @@ Sima próbadobás adott nehézségre, melyet a KM határoz meg.
 
 ---
 
-🔗 [Nyomok észrevétele, Nyomkövetés](152_nyomok_nyomkovetes.md) →
+🔗 [Nyomok észrevétele, Nyomkövetés - természetben](152_01_nyomok_nyomkovetes_termeszet.md) →
 
 ⚜️ [Nyitóoldal](start.md)

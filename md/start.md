@@ -61,8 +61,8 @@
 ---
 ### 2. [Hátterek](020_hattererek.md)
 
-  - [Kiemelt Hátterek](022_kiemelt_hatterek.md)
   - [Faj Hátterek](021_faj_hatterek.md)
+  - [Kiemelt Hátterek](022_kiemelt_hatterek.md)
   - [Szabad Hátterek](023_szabad_hatterek.md)
   - [Leíró Hátterek](024_leiro_hatterek.md)
   - [Karma Hátterek](025_karma_hatterek.md)
@@ -218,8 +218,8 @@
 
 ### 15. [Szituációk](150_szituaciok.md)
 
-- [Érzékelés, Észlelés](151_erzekeles_eszleles.md)
-- [Nyomok, nyomkövetés](152_nyomok_nyomkovetes.md)
+- [Érzékelés, Észlelés](151_erzekeles_harci_eszleles_aktiv_passziv.md)
+- [Nyomok, nyomkövetés](152_01_nyomok_nyomkovetes_termeszet.md)
 - [Menekülés, üldözés, futás](153_menekules_uldozes_futas.md)
 - [Befolyásolás vs Emberismeret](154_befolyasolas_emberismeret.md)
 - [Térkép készítése](155_terkep_keszitese.md)

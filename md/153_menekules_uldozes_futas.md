@@ -4,7 +4,7 @@ Gyakori eset, hogy a játékosok és / vagy Nem Játékos Karakterek között ke
 
 ### Menekülés / Üldözés
 
-Ha harc közben dönt úgy egy karakter, hogy ideje távozni, akkor [Kibontakozás Manővert](065_05_altalanos_manoverek.md#kibontakozás) kell dobnod. Ha sikertelen, akkor is kibontakozol, de ellenfeled kap egy extra támadást.
+Ha harc közben dönt úgy egy karakter, hogy ideje távozni, akkor [Kibontakozás Manővert](065_05_altalanos_manoverek.md#kibontakozás) kell dobnod. Ha sikertelen, akkor is kibontakozol, de ellenfeled kap egy extra támadást, amivel még utánad csaphat.
 
 A Manőver után jön a **Futás ellenpróba** (lásd lejjebb) - amennyiben ellenfeled úgy dönt, hogy üldözni kezd.
 

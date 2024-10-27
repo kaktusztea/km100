@@ -2,7 +2,7 @@
 
 Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
-**Kapcsolódó főfejezet**: [Érzékelés, észlelés](../151_erzekeles_eszleles.md)
+**Kapcsolódó főfejezet**: [Érzékelés, észlelés](../151_erzekeles_harci_eszleles_aktiv_passziv.md)
 
 **Próba**: dobható
 
@@ -24,7 +24,8 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
 **Leírás**: Az Észlelés valaminek az észrevételét takarja. Ez lehet egy villanó tőr, egy meglapuló merénylő a lombok közt, egy árulkodó súrlódó nesz. Fontos, hogy az Észlelés csak a momentum észrevételt jelenti, annak értelmezését nem! Az a játékos feladata, melyet esetleg megkönnyíthet például a [Nyomozás](../kepzettsegek.vilagi/nyomozas.md), vagy a [Természetjárás](../kepzettsegek.vilagi/termeszetjaras.md) képzettség.
 
-A képzettség szituációs alkalmazásáról bővebben az [Érzékelés, észlelés](../151_erzekeles_eszleles.md) fejezetben olvashatsz.
+A képzettség különböző alkalmazási formáiról bővebben a [Szituációk](../150_szituaciok.md) fejezetben olvashatsz.
+
 <br />
 
 ##### Biztos tudás, követelmények

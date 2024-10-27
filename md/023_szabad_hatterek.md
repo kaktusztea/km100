@@ -3,6 +3,8 @@
 <!-- tag: szabad_hatter -->
 
 ```
+1 SzP == 1 Szabad Háttér
+
 Ha Szabad Háttér nincs meg:
   -3 Képzettségpróbára
 ```

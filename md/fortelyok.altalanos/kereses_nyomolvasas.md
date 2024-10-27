@@ -2,7 +2,7 @@
 
 Titkos rejtekajtók, zugok, rejtett tárgyak, rekeszek, valamint természeti közegben megbújó nyomok felkutatásában adhat segítséget, amely próbát az [Észlelés](../kepzettsegek.vilagi/eszleles.md) képzettséggel végzünk.
 
-Bővebben lásd: [Nyomok, Nyomkövetés](../152_nyomok_nyomkovetes.md) Szituációk fejezetét.
+Bővebben lásd: [Nyomok, Nyomkövetés](../152_01_nyomok_nyomkovetes_termeszet.md) Szituációk fejezetét.
 
 ##### Kiterjeszti ezeket:
 - [Nyomozás](../kepzettsegek.vilagi/nyomozas.md)
