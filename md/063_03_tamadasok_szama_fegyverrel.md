@@ -27,7 +27,7 @@ Szintén minden fegyvernek van egy egyedi **Sebesség** értéke. Minél kisebb 
 ---
 ### Plusz támadások száma (fegyverrel)
 
-Az alap 1 támadáson felül kapott **plusz** támadások számát úgy kapjuk meg, hogy megvizsgáljuk, a `„Fegyver-Sebesség”` hányszor van meg a karakter aktuális „Harckeret” értékében (lefelé kerekítve).
+Az alap `1` támadáson felül kapott **plusz** támadások számát úgy kapjuk meg, hogy megvizsgáljuk, a `„Fegyver-Sebesség”` hányszor van meg a karakter aktuális „**Harckeret**” értékében (lefelé kerekítve).
 
 ```
 Plusz támadások (db) =
@@ -35,7 +35,7 @@ Plusz támadások (db) =
 ```
 
 ---
-### ⚡Példa több fegyveres támadásra
+### ⚡Példa több támadásra
 
 - Fegyver: Hosszú kard: `Fegyver-Sebesség: 6`
 - Harcmodor: `Kardvívás – 4.szint`
