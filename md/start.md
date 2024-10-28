@@ -124,19 +124,21 @@
 
 #### 6.3 [Harc menete](063_00_harc_menete.md)
 
-- [Előnyös és hátrányos helyzet, Kiskocka/Nagykocka, Védő Érték csökkentése](063_01_elonyos_hatranyos_helyzet_ve_csokkentes.md)
-- [Akciók fogalma](063_02_akcio_fogalma.md)
-- [Harckeret, Támadások száma fegyverrel](063_03_tamadasok_szama_fegyverrel.md)
-- [Varázskeret, Támadások száma mágiával](063_04_tamadasok_szama_varazslaskor.md)
-- [Mozgás harc közben](063_05_mozgas_harc_kozben.md)
-- [Harc menete (összefoglaló)](063_06_harc_menete_osszefoglalas.md) 🎲
-- **[Harc menete (részletes)](063_07_harc_menete_reszletes.md)** 🎲 (KÉ, Támadás, Sebzés, Sebződés)
-- [Példaharc](063_08_peldaharc.md)
+- [Előnyös és Hátrányos helyzetű fél](063_01_elonyos_hatranyos_helyzetu_fel.md)
+- [Kiskocka, Nagykocka](063_02_kiskocka_nagykocka.md)
+- [Védő Érték csökkentése](063_03_vedo_ertek_csokkentese.md)
+- [Akciók fogalma](063_04_akcio_fogalma.md)
+- [Harckeret, Támadások száma fegyverrel](063_05_01_tamadasok_szama_fegyverrel.md)
+- [Varázskeret, Támadások száma mágiával](063_05_02_tamadasok_szama_varazslaskor.md)
+- [Mozgás harc közben](063_07_mozgas_harc_kozben.md)
+- [Harc menete (összefoglaló)](063_08_01_harc_menete_osszefoglalas.md) 🎲
+- **[Harc menete (részletes)](063_08_02_harc_menete_reszletes.md)** 🎲
+- [Példaharc](063_09_peldaharc.md)
 
 #### 6.4 [Harcot módosító tényezők](064_00_harcot_modosito_tenyezok.md)
 
-- [Harci helyzetek](064_01_harci_helyzetek.md) (meglepetésből, helyhez kötve, magasabbról, stb.)
-- [Harci taktikák](064_02_harci_taktikak.md) (támadó, védő, roham, stb)
+- [Harci helyzetek](064_01_harci_helyzetek.md)
+- [Harci taktikák](064_02_harci_taktikak.md)
 - [Harci alakzatok, Alakzatharc](064_03_harci_alakzatok.md)
 - [Kétkezes harc](064_04_ketkezes_harc.md)
 

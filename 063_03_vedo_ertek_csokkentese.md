@@ -1,31 +1,3 @@
-## Előnyös helyzetű fél
-
-Két okból lehet valaki harcban Előnyös helyzetben:
-- fegyvere legalább `1 penge` hosszal nagyobb ellenfeléénél
-- ellenféle [Beszorított helyzetben](064_01_harci_helyzetek.md#beszor%C3%ADtott-helyzet) van
-
-## Hátrányos helyzetű fél
-
-Két okból lehet valaki harcban Hátrányos helyzetben:
-- fegyvere legalább `1 penge` hosszal kisebb ellenfeléénél
-- [Beszorított helyzetben](064_01_harci_helyzetek.md#beszor%C3%ADtott-helyzet) van
-
----
-## Kiskocka, Nagykocka
-
-Pontosabban "kisebbiket dobott kocka" és "nagyobbikat dobott kocka". Támadó dobásod két kockája a **Védő Érték csökkentést is** meghatározza.
-
-```
-"Kiskocka": k100-on a két k10-es kocka
-            közül a kisebbik értéket dobott.
-            58 → kiskocka: 5
-
-"Nagykocka": k100-on a két k10-es kocka
-            közül a nagyobbik értéket dobott.
-            58 → nagykocka: 8
-```
-
----
 ## Védő Érték csökkentése
 
 Harcban sikertelen támadás esetén - azaz ha a **Támadó dobásod** értéke nem érte el ellenfeled **Védő Értékét** - **csökkented ellenfeled Védő Értékét**. Hogy mennyivel, az attól függ, hogy mekkora a fegyvereitek pengehosszának különbsége.
@@ -54,6 +26,6 @@ Ha `2 pengehosszal` nagyobb fegyverű a támadó, akkor természetesen itt is a 
 
 ---
 
-🔗 [Akció fogalma](063_02_akcio_fogalma.md) →
+🔗 [Akció fogalma](md/063_04_akcio_fogalma.md) →
 
 ⚜️ [Nyitóoldal](start.md)
