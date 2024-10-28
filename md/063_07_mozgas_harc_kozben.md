@@ -15,7 +15,7 @@ Egy karakter egy harci körön belül szabadon mozoghat maximum (`5 + Gyorsaság
 ---
 ### Mozgás a kör elején
 
-Ha a kört mozgással kezded, akkor utolsó helyre csúszol a [Kezdeményezésben](063_07_harc_menete_reszletes.md#kezdem%C3%A9nyez%C3%A9s).
+Ha a kört mozgással kezded, akkor utolsó helyre csúszol a [Kezdeményezésben](063_08_02_harc_menete_reszletes.md#kezdeményezés).
 
 ---
 ### Maximum mozgás egy körben
@@ -28,6 +28,6 @@ Ha a karakter a `Max mozgás` távolságnál mindenképpen nagyobb távot akar m
 
 ---
 
-🔗 [Harc menete - összefoglalás](063_06_harc_menete_osszefoglalas.md) →
+🔗 [Harc menete - összefoglalás](063_08_01_harc_menete_osszefoglalas.md) →
 
 ⚜️ [Nyitóoldal](start.md)

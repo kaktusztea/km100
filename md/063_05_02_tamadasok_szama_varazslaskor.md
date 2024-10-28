@@ -47,6 +47,6 @@ Egy nagy, hosszú varázslat akár sok körön át is "csúszhat", ez idő alatt
 
 ---
 
-🔗 [Mozgás harcban, mozgás hatása támadások számára](063_05_mozgas_harc_kozben.md) →
+🔗 [Mozgás harcban, mozgás hatása támadások számára](063_07_mozgas_harc_kozben.md) →
 
 ⚜️ [Nyitóoldal](start.md)

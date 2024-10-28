@@ -4,7 +4,8 @@
 Alapeset:
  fegyverek támadás száma: 1 / kör
 ```
-(néhány kivételnél ez kevesebb. Lásd a fegyver táblázatot)
+
+Néhány kivételnél ez kevesebb. Lásd a [Fegyver](067_fegyverek.md) táblázatot!
 
 ---
 ### Harckeret
@@ -56,6 +57,6 @@ További támadásokat `Kétkezes Harc` során szerezhet a karakter. Lásd a [K�
 
 ---
 
-🔗 [Támadások száma varázsláskor](063_04_tamadasok_szama_varazslaskor.md) →
+🔗 [Támadások száma varázsláskor](063_05_02_tamadasok_szama_varazslaskor.md) →
 
 ⚜️ [Nyitóoldal](start.md)

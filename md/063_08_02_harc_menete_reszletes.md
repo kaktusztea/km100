@@ -15,7 +15,7 @@ Mindenki leadja támadásait, aztán ugyanebben a sorrendben a több támadássa
 ---
 ### Akció
 
-Lásd : [Akciók fogalma](063_02_akcio_fogalma.md#akció-fogalma).
+Lásd : [Akciók fogalma](063_04_akcio_fogalma.md#akció-fogalma).
 
 ---
 ### Kezdeményezés
@@ -165,7 +165,7 @@ Az 1-es dobás (k20):
 átment a páncél SFÉ-n)
 ```
 
-Amennyiben a korábban leírt módon sikeres [Találatot](063_07_harc_menete_reszletes.md#tal%C3%A1lat) értünk el, akkor ezt követően **Sebző Dobást** tehetünk `k20`-al, melyhez hozzáadódik a fegyver sebzése, a [Mesterfegyver](fortelyok.harci/mesterfegyver.md) fortélyból és az [Erőbónuszból](#er%C5%91b%C3%B3nusz-%C3%A9s-er%C5%91hi%C3%A1ny) adódó módosítók, valamint a [Többszörös találatból](#t%C3%B6bbsz%C3%B6r%C3%B6s-tal%C3%A1lat), [Rohamból](064_02_harci_taktikak.md#harci-taktikák) és egyes fortélyokból (pl. [Támadás Erőből](fortelyok.harci/tamadas_erobol.md)) adódó extra értékek. Az így kapott `SP` értéket bemondja a támadó a támadás típusával együtt (pl. Szúrás).
+Amennyiben a korábban leírt módon sikeres [Találatot](063_08_02_harc_menete_reszletes.md#találat) értünk el, akkor ezt követően **Sebző Dobást** tehetünk `k20`-al, melyhez hozzáadódik a fegyver sebzése, a [Mesterfegyver](fortelyok.harci/mesterfegyver.md) fortélyból és az [Erőbónuszból](#er%C5%91b%C3%B3nusz-%C3%A9s-er%C5%91hi%C3%A1ny) adódó módosítók, valamint a [Többszörös találatból](#t%C3%B6bbsz%C3%B6r%C3%B6s-tal%C3%A1lat), [Rohamból](064_02_harci_taktikak.md#harci-taktikák) és egyes fortélyokból (pl. [Támadás Erőből](fortelyok.harci/tamadas_erobol.md)) adódó extra értékek. Az így kapott `SP` értéket bemondja a támadó a támadás típusával együtt (pl. Szúrás).
 
 A védő levonja a számból a támadás típusának (pl. szúrás) megfelelő `SFÉ` értékét (pl. szúrás elleni), amely a vértjénél szerepel. A kapott, csökkentett `SP` értékhez rendelt `ÉP` értéket (lásd **ÉP Sebzés** oszlopot) levonja aktuális Életerő Pontjai számából, a `VÉ` csökkenést pedig aktuális **Védő Értékéből**.
 
@@ -321,6 +321,6 @@ Zuhanás, zúzódás, egyéb fizikai sérülések esetén a KM meghatároz egy s
 
 ---
 
-🔗 [Pédaharc](063_08_peldaharc.md) →
+🔗 [Pédaharc](063_09_peldaharc.md) →
 
 ⚜️ [Nyitóoldal](start.md)
