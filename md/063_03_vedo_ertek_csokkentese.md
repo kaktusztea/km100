@@ -26,6 +26,6 @@ Ha `2 pengehosszal` nagyobb fegyverű a támadó, akkor természetesen itt is a 
 
 ---
 
-🔗 [Akció fogalma](md/063_04_akcio_fogalma.md) →
+🔗 [Akció fogalma](063_04_akcio_fogalma.md) →
 
 ⚜️ [Nyitóoldal](start.md)
