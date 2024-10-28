@@ -32,7 +32,7 @@ Az alap `1` támadáson felül kapott **plusz** támadások számát úgy kapjuk
 
 ```
 Plusz támadások (db) =
-   Harckeret / (Fegyver Sebesség)
+   Harckeret / (Fegyver Sebesség) ↓
 ```
 
 ---
