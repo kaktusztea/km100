@@ -124,7 +124,7 @@
 
 #### 6.3 [Harc menete](063_00_harc_menete.md)
 
-- [Előnyös és hátrányos helyzet (VÉ csökkentés)](063_01_elonyos_hatranyos_helyzet.md)
+- [Előnyös és hátrányos helyzet, Kiskocka/Nagykocka, Védő Érték csökkentése](063_01_elonyos_hatranyos_helyzet_ve_csokkentes.md)
 - [Akciók fogalma](063_02_akcio_fogalma.md)
 - [Harckeret, Támadások száma fegyverrel](063_03_tamadasok_szama_fegyverrel.md)
 - [Varázskeret, Támadások száma mágiával](063_04_tamadasok_szama_varazslaskor.md)
