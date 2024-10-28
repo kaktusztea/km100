@@ -4,7 +4,7 @@ A célpont **Védő értéke** reprezentálja a célpont eltalálásának nehéz
 
 A célpont **Védő Értékét**  az ún. **Szorzó** és a célpont Távolságának és a **Fegyver Osztó** hányadosának (felfele kerekítünk) szorzataként kapjuk meg.
 
-🔆`Célpont VÉ = Szorzó  x  (Távolság / Fegyver Osztó)`🔆
+🔆`Célpont VÉ = Szorzó  x  (Távolság / Fegyver Osztó) ↑`🔆
 
 ---
 ### ⚜️ Szorzó
