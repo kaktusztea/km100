@@ -11,9 +11,10 @@ A célpont **Védő Értékét**  az ún. **Szorzó** és a célpont Távolság�
 
 A Szorzó a célpont egyedi jellemzőit, illetve a környezet hatásait szimulálja. Az alábbi módosítók **összege** adja meg értékét:
 
-- \+ Mozgás módosító (a célpont és a lövész mozgása is számít)
-- \+ Méret módosító (célponté)
-- \+ Észlelhetőség módosító
+- \+ Mozgás módosító - célponté
+- \+ Mozgás módosító - lövészé
+- \+ Méret módosító - célponté
+- \+ Észlelhetőség - célponté
 - \+ Szél ereje
 
 ---
