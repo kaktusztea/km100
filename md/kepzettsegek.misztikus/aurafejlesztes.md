@@ -1,6 +1,6 @@
 #### 🔵 Aurafejlesztés
 
-**Mágikus világkép**: a [Belső Szféra](https://github.com/kaktusztea/km100/blob/master/md/097_magikus_szferak_arkanumok.md#bels%C5%91-szf%C3%A9ra) alá tartozó **Aura arkánum** azonos az **Aurafejlesztés** képzettséggel.
+**Mágikus világkép**: a [Belső Szféra](../097_magikus_szferak_arkanumok.md#bels%C5%91-szf%C3%A9ra) alá tartozó **Aura arkánum** azonos az **Aurafejlesztés** képzettséggel.
 
 **Próba:** dobható
 
@@ -9,7 +9,7 @@
 **Kapcsolódódik**: ⭕xyz
 
 **Leírás**: Minden élőlény rendelkezik Aurával, az élettapasztalatok során ez magától erősödik is, de lehetséges tudatosan is növelni erejét.
-Lásd: [Aura](https://github.com/kaktusztea/km100/wiki/STUDY.magia.Aura#modell-a) (⭕link véglegesítése, ha kész⭕)
+Lásd: [STUDY: Aura](https://github.com/kaktusztea/km100/wiki/STUDY.magia.Aura#modell-a) (⭕link véglegesítése, ha kész⭕)
 
 <br />
 ##### Biztos tudás, követelmények
