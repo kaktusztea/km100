@@ -13,6 +13,6 @@ Két okból lehet valaki harcban Hátrányos helyzetben:
 
 ---
 
-🔗 [Kiskocka, Nagykocka](../063_02_kiskocka_nagykocka.md) →
+🔗 [Kiskocka, Nagykocka](063_02_kiskocka_nagykocka.md) →
 
 ⚜️ [Nyitóoldal](start.md)
