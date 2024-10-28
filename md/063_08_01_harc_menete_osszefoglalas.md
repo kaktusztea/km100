@@ -1,7 +1,7 @@
 
 ## A harc menete – összefoglalás
 
-### Harcértékek
+### 🧮 Harcértékek
 ```
 KÉ = 10
    + (Gyorsaság + Intelligencia)
