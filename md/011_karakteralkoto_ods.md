@@ -9,7 +9,7 @@ Használatához [LibreOffice](https://www.libreoffice.org/download/download/) te
 
 A felületen a halványsárgával jelölt mezők módosíthatóak, minden mást a "program" számol. A választható elemek (képzettségek, fortélyok, hátterek, fegyverek) mind legördülő menüből választhatóak, a számértékeket a numerikus billentyűzeten írjuk be. Számos aktív ellenőrző funkció működik a felületen, hogy ne írhassunk be érvénytelen értékeket.
 
-### Ellenőrző funkciók, automatikzmusok
+### Ellenőrző funkciók, automatizmusok
 
 Egyes kiemelt - főleg harci - képzettségek és fortélyok követelményeit ellenőrzi a program - ezek alapból szerepelnek is már a felületen, de ami nincs beírva, azok követelményeit egyelőre magunknak kell végeznünk.
 

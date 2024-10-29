@@ -1,8 +1,8 @@
 ## Előtörténet, személyiség
 
-Mikor karaktert alkotunk (remélhetőleg) nem pusztán egy számhalmazt hozunk létre, hanem kidolgozzuk annak eddigi életét, hogy jutott el oda, hogy kalandozásra adja fejét. Az alábbiakban egy sorvezetőt szeretnénk adni, hogy milyen jellemzőket érdemes számba venni ennek leírásakor.
+Mikor karaktert alkotunk (remélhetőleg) nem pusztán egy számhalmazt hozunk létre, hanem kidolgozzuk annak eddigi életét, hogy jutott el odáig, hogy kalandozásra adja fejét. Az alábbiakban egy sorvezetőt szeretnénk adni, hogy milyen jellemzőket érdemes számba venni ennek leírásakor.
 
-Kötelezően ki kell fejteni a karakter megalkotásakor:
+Kötelezően ki kell fejteni a karakter megalkotásakor az alábbiakat.
 
 ### Külső megjelenés és hatásai
 
@@ -12,11 +12,11 @@ Különböző fajokat a [Faj Hátterek](021_faj_hatterek.md) szekcióban válasz
 
 ### Személyiség, szociális jellemzők
 
-Mennyire kommunikatív, mekkora hatása van az emberekre, visszahúzódó-e, stb, megszégyenítéshez mennyire ért, mennyire mogorva, piszkálódó, stb.
+Mennyire kommunikatív, introvertált, extrovertált, milyen hangulatot áraszt, piszkálódó és így tovább.
 
 Mennyire gazdag érzelmileg? Az **Önuralom**, **Érzékenység** **Tulajdonságok** ehhez csak támpontot, vázat adnak.
 
-Az imént felsorolt jellemzők egy részét csokorba szedtük és "ingyenes", úgynevezett [Leíró Hátterekként](024_leiro_hatterek.md) felvehetőek, hogy tovább szinesítsék a karaktert. Ezek a KM és a játékos egyeztetése után (részben) szabadon bővíthetőek.
+Az imént felsorolt jellemzők egy részét csokorba szedtük és "ingyenes", úgynevezett [Leíró Hátterekként](024_leiro_hatterek.md) felvehetőek (a Karakteralkotóban is), hogy tovább színesítsék a karaktert. Ezek a KM és a játékos egyeztetése után (részben) szabadon bővíthetőek.
 
 ---
 
