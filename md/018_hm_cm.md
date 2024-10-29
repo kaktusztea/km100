@@ -1,4 +1,4 @@
-## Harcérték módosítók (HM) / Célzóérték módosítók (CM)
+## Harcérték Módosítók (HM) / Célzóérték Módosítók (CM)
 
 Ahogy fejlődik, megjár sok harci helyzetet, a karakter általános harcértékei, általános harci tapasztalata fejlődnek. Ezt szimbolizálják a **Harcérték Módosítók** és **Célzóérték Módosítók**, melyeket a játékos "vásárolhat" `KP`-ból - karaktere szintlépéseinek alkalmával.
 
@@ -48,5 +48,7 @@ Szintenként `TÉ`-re vagy `VÉ`-re **legfeljebb** `3`-al több `HM`-et lehet k�
 A `HM` és `CM` nem keverhetőek, tehát a `CM`-re költhető max `4` pont nem „pakolható át” `HM`-re és viszont!
 
 ---
+
+🔗 [Nem Játékos Karakterek](019_njk.md) →
 
 ⚜️ [Nyitóoldal](start.md)

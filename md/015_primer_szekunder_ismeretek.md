@@ -17,4 +17,6 @@ Minden más ismeret, ami nem Primer, viszont Karakteralkotó Pontba (KP) kerül.
 
 ---
 
+🔗 [Pontok](016_00_pontok.md) →
+
 ⚜️ [Nyitóoldal](start.md)

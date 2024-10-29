@@ -8,4 +8,6 @@ Leírásukat lásd a [Manőver - Manőver Pontok](065_02_manover_pontok.md) feje
 
 ---
 
+🔗 [Származtatott értékek](017_00_szarmaztatott_ertekek.md) →
+
 ⚜️ [Nyitóoldal](start.md)
