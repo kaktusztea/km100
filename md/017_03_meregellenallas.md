@@ -5,10 +5,13 @@ A Méregellenállás próba egyszerű Tulajdonságpróba, melynél a karakter `E
 ```
 (Edzettség + k6)  vs  Méreg Erőssége
 ```
+
 🔆 **Fontos**: a méregellenállást a méreg **Erőssége** (és NEM szintje) ellen kell dobni!
 
 Bővebben lásd a [Méregkeverés](kepzettsegek.tudomanyos/meregkeveres.md) képzettség és a [Méregrendszer](140_meregrendszer.md) leírását.
 
 ---
+
+🔗 [Harcérték Módosítók, Célzóérték Módosítók](018_hm_cm.md) →
 
 ⚜️ [Nyitóoldal](start.md)
