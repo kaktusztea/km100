@@ -22,3 +22,7 @@ Gyorsabban tudsz keresni, kutatni egy helyiségben.
 <br />
 
 ---
+
+#### Megjegyzés
+
+Ahhoz, hogy keresést végezz, követelmény a [Keresés/Nyomolvasás](kereses_nyomolvasas.md) fortély.
