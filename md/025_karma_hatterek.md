@@ -55,10 +55,10 @@ Hasonlít a hősre, de már nem feltétlenül kell jónak lennie. A hőstettei e
 ### 🟡 Bukott gyógyító
 
 #### Követelmény
-Halott feltámasztással próbálkoztál kézrátétellel, de szerencsétlenségedre a művelet Nekromanciába fordult, a lélek már eltávozott és erővel rángattad vissza.
+Papként halott feltámasztással próbálkoztál, de szerencsétlenségedre a művelet Nekromanciába fordult, a lélek már eltávozott és erővel rángattad vissza.
 
 #### Hatás
-Soha többet nem leszel képes kézrátétellel gyógyítani, Gyógyítás képzettséged visszaesik `8.szintre` és többet nem is növelheted e fölé. A művelet Aurádon is látható foltot ejt.
+Soha többet nem leszel képes kézrátétellel gyógyítani, a ⭕[Sebgyógyítás](magia.papi.varazslatok/sebgyogyitas.md)⭕?⭕ formulát többet nem vagy képes használni. A művelet Aurádon is látható foltot ejt.
 
 <br />
 
@@ -70,7 +70,7 @@ Soha többet nem leszel képes kézrátétellel gyógyítani, Gyógyítás képz
 Szándékosan gyereket ölt.
 
 #### Hatás
-Az ilyen karma lemoshatatlan, aurán jól látható mocskos szégyenfolt.<br />Történettől függően rossz hírnév is társulhat hozzá. Ha megtudják, kultúrától függő negatív hatások érik. Kiközösítés, lincselés...
+Az ilyen karma lemoshatatlan, Aurán jól látható mocskos szégyenfolt.<br />Történettől függően rossz hírnév is társulhat hozzá. Ha megtudják, kultúrától függő negatív hatások érik. Kiközösítés, lincselés...
 
 <br />
 
@@ -82,7 +82,9 @@ Az ilyen karma lemoshatatlan, aurán jól látható mocskos szégyenfolt.<br />T
 Minimum 100 sikeres orvgyilkosság.
 
 #### Hatás
-A rengeteg gyilkosság megmérgezte a lelkedet, ha nem leplezed, Aurádon jól láthatóak a sötét foltok, melyek beszennyezik.<br />• ⭕Nem gyógyíthatsz se világi, se mágikus úton⭕<br />• ⭕TODO⭕
+A rengeteg gyilkosság megmérgezte a lelkedet, ha nem leplezed, Aurádon jól láthatóak a sötét foltok, melyek beszennyezik.
+
+Nem gyógyíthatsz se világi, se mágikus úton.
 
 <br />
 

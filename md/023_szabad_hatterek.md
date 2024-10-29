@@ -9,9 +9,9 @@ Ha Szabad Háttér nincs meg:
   -3 Képzettségpróbára
 ```
 
-A Szabad Hátterek specializált, egy, vagy több [képzettséget](031_kepzettseglista.md) "kiterjesztő" ismeretek, - [Szabad Pontok](016_02_szp.md) (`SzP`) költésével vehetőek fel. Amennyiben a szituációhoz kapcsolódó/szükséges **Szabad Háttér** nincs meg, akkor is lehet Képzettségpróbát dobni, de csak `-3` módosítóval. 
+A Szabad Hátterek specializált, egy, vagy több [képzettséget](031_kepzettseglista.md) "kiterjesztő" ismeretek és [Szabad Pontok](016_02_szp.md) (`SzP`) költésével vehetőek fel. Amennyiben a szituációhoz kapcsolódó/szükséges **Szabad Háttér** nincs meg, akkor is lehet Képzettségpróbát dobni, de csak `-3` módosítóval. 
 
-#### Felvétel
+#### Szabad Háttér tanulása
 
 Hozzájutni ilyen Hátterekhez kétféleképpen lehet:
 1. KM adja ingyen, olyan kalandban történt megpróbáltató esemény után, ami ezt indokolja. Például a kalandban megültél egy **Wyvernt**, ekkor megkapod a [Lénylovas - Wyvern](hatterek.szabad/lenylovas.md) Szabad Hátteret ingyen.
@@ -19,7 +19,7 @@ Hozzájutni ilyen Hátterekhez kétféleképpen lehet:
 
 Van, hogy egy képzettséghez számos Szabad Háttér kapcsolódik - gyakorlatilag felszabdalják a képzettséget alterületekre.
 
-Van, hogy egy háttér több képzettséget is kiterjeszt.
+Van, hogy egy Szabad Háttér több képzettséget is kiterjeszt.
 
 🔁 jelentése: többször felvehető Szabad Háttér
 
