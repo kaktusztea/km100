@@ -5,14 +5,14 @@ Titkos rejtekajtók, zugok, rejtett tárgyak, rekeszek, valamint természeti kö
 Bővebben lásd: [Nyomok, Nyomkövetés](../152_01_nyomok_nyomkovetes_termeszet.md) Szituációk fejezetét.
 
 ##### Kiterjeszti ezeket:
+- [Észlelés](../kepzettsegek.vilagi/eszleles.md)
 - [Nyomozás](../kepzettsegek.vilagi/nyomozas.md)
 - [Természetjárás](../kepzettsegek.vilagi/termeszetjaras.md)
 
-Mivel ezek fortélyok, ezek követelményként terjesztik ki az **Észlelés** képzettséget, tehát nem is lehet dobni nélkülük, ha a kapcsolódó tudás szükséges épp.
+Mivel ez egy fortély, ezért követelményként terjeszti ki a fenti képzettségeket, tehát nem is lehet dobni nélküle, ha a kapcsolódó tudás szükséges éppen.
 
 ##### Kapcsolódó fortély:
 - [Villámgyors keresés](villamgyors.kereses.md)
-
 
 #### 1. fok
 
