@@ -24,6 +24,9 @@ HM összesen:
   )
 ```
 
+<br />
+
+---
 ### Célzóérték Módosító (CM)
 
 A `CM` pontok a [Célzó Érték](062_01_ke_te_ve_ce.md#célzó-érték) (`CÉ`) általános növelésére fordíthatóak.
@@ -39,6 +42,8 @@ Maximum felvehető
 CM összesen:
   4 x TSz
 ```
+
+<br />
 
 ---
 ## HM korlát, megkötés
