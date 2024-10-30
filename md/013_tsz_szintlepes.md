@@ -27,8 +27,6 @@ Irányelvek karakter szintekre:
 `18.szint:` Világhírű legenda.\
 `21.szint:` Érák formálója.
 
-A szintlépés számszerű hatásait lásd a [Karakteralkotó Pontok (KP)](016_01_kp.md) fejezetben.
-
 ---
 
 🔗 [Tulajdonságok](014_01_tulajdonsagok.md) →
