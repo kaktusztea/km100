@@ -46,7 +46,7 @@ CM összesen:
 <br />
 
 ---
-## HM korlát, megkötés
+### HM korlát, megkötés
 
 Szintenként `TÉ`-re vagy `VÉ`-re **legfeljebb** `3`-al több `HM`-et lehet költeni, mint a másikra!
 
