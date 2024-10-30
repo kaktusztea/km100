@@ -1,6 +1,6 @@
 # Papi Mágia Tradíció
 
-[STUDY oldal](https://github.com/kaktusztea/km100/wiki/STUDY.magiatradicio.papimagia) 
+<sub>→ [STUDY oldal](https://github.com/kaktusztea/km100/wiki/STUDY.magiatradicio.papimagia) </sub>
 
 ---
 

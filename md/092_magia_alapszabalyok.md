@@ -1,6 +1,6 @@
 ## Mágia alapszabályok
 
-[STUDY oldal](https://github.com/kaktusztea/km100/wiki/STUDY.magia.alapszabalyok) 
+<sub>→ [STUDY oldal](https://github.com/kaktusztea/km100/wiki/STUDY.magia.alapszabalyok)</sub>
 
 ## Mágia alapszabályok
 

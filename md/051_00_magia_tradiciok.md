@@ -1,6 +1,6 @@
 ## Mágia Tradíciók
 
-→ [STUDY: Tradíciók](https://github.com/kaktusztea/km100/wiki/STUDY.tradiciok)
+<sub>→ [STUDY: Tradíciók](https://github.com/kaktusztea/km100/wiki/STUDY.tradiciok)</sub>
 
   - [Magasmágia (mozaikmágia)](051_01_magasmagia.md)
   - [Vulgármágia](051_02_vulgarmagia.md)

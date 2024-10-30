@@ -1,6 +1,6 @@
 ## Ordani tűzmágia tradíció / Tűz Metamágia arkánum
 
-→ [STUDY fejlesztő oldal](https://github.com/kaktusztea/km100/wiki/STUDY.magiatradicio.tuzmagia)
+<sub>→ [STUDY fejlesztő oldal](https://github.com/kaktusztea/km100/wiki/STUDY.magiatradicio.tuzmagia)</sub>
 
 <br />
 

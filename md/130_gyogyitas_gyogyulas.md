@@ -1,8 +1,8 @@
 # Gyógyítás, gyógyulás
 
-→ [STUDY: Gyógyítás](https://github.com/kaktusztea/km100/wiki/STUDY.gyogyitas.gyogyulas)
+<sub>→ [STUDY: Gyógyítás](https://github.com/kaktusztea/km100/wiki/STUDY.gyogyitas.gyogyulas)</sub>
 
-→ [STUDY: Papi mágia Gyógyítás szféra / Sebgyógyítás](magia.papi.varazslatok/sebgyogyitas.md)
+<sub>→ [STUDY: Papi mágia Gyógyítás szféra / Sebgyógyítás](magia.papi.varazslatok/sebgyogyitas.md)</sub>
 
 ---
 A harc során, vagy egyéb fizikai behatás során szerzett sebesülések ellátására és gyógyítására több módszer létezik.

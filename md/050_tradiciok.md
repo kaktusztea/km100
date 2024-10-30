@@ -1,6 +1,6 @@
 ## Tradíciók
 
-→ [STUDY: Tradíciók](https://github.com/kaktusztea/km100/wiki/STUDY.tradiciok)
+<sub>→ [STUDY: Tradíciók](https://github.com/kaktusztea/km100/wiki/STUDY.tradiciok)</sub>
 
 ```
 - Primer képzettségek

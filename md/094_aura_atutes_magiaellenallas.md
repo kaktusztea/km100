@@ -1,6 +1,6 @@
 ## Aura, Mágia Átütése, Mágiaellenállás
 
-[STUDY oldal](https://github.com/kaktusztea/km100/wiki/STUDY.magia.Aura) 
+<sub>→ [STUDY oldal](https://github.com/kaktusztea/km100/wiki/STUDY.magia.Aura) </sub>
 
 ### Aura értéke, jellemzői
 
