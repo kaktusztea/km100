@@ -4,22 +4,47 @@
 
 <br />
 
-- [Karakteralkotó ods](011_karakteralkoto_ods.md)
-- [Előtörténet, Személyiség](012_elotortenet_szemelyiseg.md)
-- [Tapasztalati Szint](013_tsz_szintlepes.md)
-- [Tulajdonságok](014_01_tulajdonsagok.md)
-- [Tulajdonságpróba](014_02_tulajdonsagproba.md) 🎲
-- [Primer és Szekunder ismeretek](015_primer_szekunder_ismeretek.md)
-- [Pontok](016_00_pontok.md)
-  - [Karakteralkotó Pontok (KP)](016_01_kp.md)
-  - [Szabad Pontok](016_02_szp.md)
-  - [Manőver Pontok](016_03_manover_pontok.md)
-- [Számaztatott értékek](017_00_szarmaztatott_ertekek.md)
-  - [Életerő Pont (ÉP)](017_01_ep.md)
-  - [Mágiaellenállás](017_02_magiaellenallas.md) 🎲
-  - [Méregellenállás](017_03_meregellenallas.md) 🎲
-- [Harcérték Módosító (HM), Célzóérték Módosító (CM)](018_hm_cm.md)
-- [Nem Játékos Karakterek](019_njk.md)
+## Alapok
+
+#### → [Karakteralkotó ods](011_karakteralkoto_ods.md)
+
+#### → [Előtörténet, Személyiség](012_elotortenet_szemelyiseg.md)
+
+#### → [Tapasztalati Szint](013_tsz_szintlepes.md)
+
+---
+## Tulajdonságok
+
+#### → [Tulajdonságok](014_01_tulajdonsagok.md)
+
+#### → [Tulajdonságpróba](014_02_tulajdonsagproba.md) 🎲
+
+---
+###  [Primer és Szekunder ismeretek](015_primer_szekunder_ismeretek.md)
+
+---
+## [Pontok](016_00_pontok.md)
+
+#### → [Karakteralkotó Pontok (KP)](016_01_kp.md)
+  
+#### → [Szabad Pontok](016_02_szp.md)
+  
+#### → [Manőver Pontok](016_03_manover_pontok.md)
+
+---
+## [Számaztatott értékek](017_00_szarmaztatott_ertekek.md)
+
+#### → [Életerő Pont (ÉP)](017_01_ep.md)
+  
+#### → [Mágiaellenállás](017_02_magiaellenallas.md) 🎲
+  
+#### → [Méregellenállás](017_03_meregellenallas.md) 🎲
+
+---
+
+### [Harcérték Módosító (HM), Célzóérték Módosító (CM)](018_hm_cm.md)
+
+### [Nem Játékos Karakterek](019_njk.md)
 
 ---
 
