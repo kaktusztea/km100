@@ -2,8 +2,6 @@
 
 <sub>→ [TODO/ISSUE karakteralkotás](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.karakteralkotas)</sub>
 
-
-
 ## Alapok
 
 #### → [Karakteralkotó ods](011_karakteralkoto_ods.md)
