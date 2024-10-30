@@ -70,6 +70,8 @@ Ha úgy döntesz, hogy a következő körben csak a védekezéssel törődsz (el
 
 Fontos, hogy másra nem pazarolhatod figyelmedet, kizárólag a védekezésre. Ha nem így teszel, vagy nem vagy képes a folyamatos hátrálásra (például egy fal miatt, ami elzárja mögötted az utat), akkor a KM – tetszése szerint – csökkentheti a fenti `VÉ` módosítódat, akár `0`-ig is. A **Teljes Védekezés Taktika** NEM kombinálható más taktikával.
 
+❌  Alkalmazása során **NEM** használhatóak más harci taktikák.
+
 ---
 ### Kezdeményező taktika
 
