@@ -1,8 +1,8 @@
 # Karakteralkotás
 
-→ [TODO/ISSUE karakteralkotás](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.karakteralkotas)
+<sub>→ [TODO/ISSUE karakteralkotás](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.karakteralkotas)</sub>
 
-<br />
+
 
 ## Alapok
 
