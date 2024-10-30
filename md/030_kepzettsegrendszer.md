@@ -1,6 +1,6 @@
 # Képzettségrendszer
 
-→ [TODO/ISSUE képzettségrendszer](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.kepzettsegek)
+<sub>→ [TODO/ISSUE képzettségrendszer](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.kepzettsegek)</sub>
 
 - [Képzettséglista](031_kepzettseglista.md)
 - [Primer és Szekunder képzettségek](032_primer_szekunder_kepzettsegek.md)

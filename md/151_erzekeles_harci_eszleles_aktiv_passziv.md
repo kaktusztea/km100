@@ -1,6 +1,6 @@
 ## Érzékelés, Észlelés
 
-→ [TODO/ISSUE Érzékelés/Észlelés](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.erzekeles.eszleles)
+<sub>→ [TODO/ISSUE Érzékelés/Észlelés](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.erzekeles.eszleles)</sub>
 
 ### Tág értelmezés
 

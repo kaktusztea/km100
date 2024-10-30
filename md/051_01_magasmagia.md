@@ -1,6 +1,6 @@
 ## Magasmágia tradíció / Metamágia arkánum
 
-→ [STUDY fejlesztő oldal](https://github.com/kaktusztea/km100/wiki/STUDY.magiatradicio.magasmagia)
+<sub>→ [STUDY fejlesztő oldal](https://github.com/kaktusztea/km100/wiki/STUDY.magiatradicio.magasmagia)</sub>
 
 <br />
 

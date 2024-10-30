@@ -1,6 +1,6 @@
 ## Illuzionista tradíció / Illuzionista Metamágia arkánum
 
-→ [STUDY fejlesztő oldal](https://github.com/kaktusztea/km100/wiki/STUDY.magiatradicio.bardmagia)
+<sub>→ [STUDY fejlesztő oldal](https://github.com/kaktusztea/km100/wiki/STUDY.magiatradicio.bardmagia)</sub>
 
 <br />
 

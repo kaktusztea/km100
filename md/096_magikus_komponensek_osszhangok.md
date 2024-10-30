@@ -1,6 +1,6 @@
 ## Mágikus komponensek, összhangok
 
-[STUDY: Mágikus komponensek, összhangok](https://github.com/kaktusztea/km100/wiki/STUDY.magikus.komponensek.osszhangok)
+<sub>→[STUDY: Mágikus komponensek, összhangok](https://github.com/kaktusztea/km100/wiki/STUDY.magikus.komponensek.osszhangok)</sub>
 
 ---
 ### Fizikai

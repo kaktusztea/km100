@@ -1,6 +1,6 @@
 # Szituációk
 
-[TODO/ISSUE szituációk](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.szituaciok)
+<sub>→[TODO/ISSUE szituációk](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.szituaciok)</sub>
 
 TODO: Bevezető
 

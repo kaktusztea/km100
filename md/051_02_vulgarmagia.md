@@ -1,6 +1,6 @@
 ## Vulgármágia tradíció / Vulgár Metamágia arkánum
 
- → [STUDY fejlesztő oldal](https://github.com/kaktusztea/km100/wiki/STUDY.magiatradicio.vulgarmagia)
+ <sub>→ [STUDY fejlesztő oldal](https://github.com/kaktusztea/km100/wiki/STUDY.magiatradicio.vulgarmagia)</sub>
 
 <br />
 

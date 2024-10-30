@@ -1,6 +1,6 @@
 ## Sámánmágia tradíció / Sámán Metamágia arkánum
 
-→ [STUDY fejlesztő oldal](https://github.com/kaktusztea/km100/wiki/STUDY.magiatradicio.samanmagia)
+<sub>→ [STUDY fejlesztő oldal](https://github.com/kaktusztea/km100/wiki/STUDY.magiatradicio.samanmagia)</sub>
 
 <br />
 

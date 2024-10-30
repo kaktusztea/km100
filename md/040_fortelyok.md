@@ -1,6 +1,6 @@
 # Fortélyok
 
-→ [TODO/ISSUE fortélyok](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.fortelyok)
+<sub>→ [TODO/ISSUE fortélyok](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.fortelyok)</sub>
 
 ---
 
