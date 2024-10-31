@@ -8,11 +8,11 @@ Alapeset:
 Néhány kivételnél ez kevesebb. Lásd a [Fegyver](068_fegyverek.md) táblázatot!
 
 ---
-### Harckeret
+### Harckeret (harcmodoronként)
 
 Egy karakter plusz támadásainak száma attól függ, hogy milyen fegyvert forgat, mennyire képzett annak Harcmodorában, és hogy mennyire fürge (`Gyorsaság` tulajdonság).
 
-Számszerűen: az aktuális fegyverhez tartozó harcmodor-képzettség szintje és a Gyorsaság tulajdonság összege határozzák meg az ún. **Harckeret** értéket. Ez – mint – sejthető harcmodoronként egyedi érték.
+Számszerűen: az aktuális fegyverhez tartozó harcmodor-képzettség szintje és a Gyorsaság tulajdonság összege határozzák meg az ún. **Harckeret** értéket. Tehát harcmodoronként egyedi érték.
 
 ```
 Harckeret = 
@@ -36,6 +36,22 @@ Plusz támadások (db) =
 ```
 
 ---
+### TÉ levonás támadásonként
+
+```
+TÉ:-10 minden újabb támadásnál
+  aktuális Támadó Értékre.
+  Additív.
+```
+
+```
+Második támadás: `TÉ:-10`
+Harmadik támadás: `TÉ:-20`, ...
+```
+
+A fenti módosítóknak matematikai oka van: így kerüljük el a plusz kapott támadás okozta radikális ugrást az 1 körön belül leadott támadások sikeressége kapcsán. Ne feledjük: legrosszabb esetben még így is **Védő Érték csökkenést** okoz minden támadás, így a plusz támadások ereje már önmagában is elég hangsúlyos.
+
+---
 ### ⚡Példa több támadásra
 
 - Fegyver: Hosszú kard: `Fegyver-Sebesség: 6`
@@ -46,12 +62,7 @@ Ekkor az aktuális Harckeret érték:  `4+3 = 7`
 
 Mivel ez elérte a`6`-os értéket, ezért `+1` támadás – összesen tehát már `2db` jár körönként. A 3 támadást `12`-es, a 4 támadást pedig `18`-as **Harckeret** értéknél kapja meg.
 
-```
-Minden újabb támadás során az aktuális Támadó Értékre -10 levonás jár!
-```
 
-- Második támadás: `-10TÉ`
-- Harmadik támadás: `-20TÉ`, stb
 
 További támadásokat `Kétkezes Harc` során szerezhet a karakter. Lásd a [Kétkezes Harc](065_04_ketkezes_harc.md) fejezetet!
 
