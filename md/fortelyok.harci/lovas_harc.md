@@ -2,7 +2,7 @@
 
 Hátason ülve sem esel kétségbe, ha harcolni kell.
 
-Lovas harc során ezen fortély fokától függő mértékben harcértékeidhez hozzáadódnak a 🔵 [Lovaglás](../kepzettsegek.fizikai/lovaglas.md) képzettségből adódó harcérték pluszok. Ezeket úgy számítjuk ki, hogy a **Lovaglás** képzettséget egyszerűen [Harcmodorként](../062_02_harcmodor_kepzettsegek_es_bonuszaik.md#harcmodor-képzettségek) kezeljük és a szintjének megfelelő `KÉ/TÉ/VÉ` és `SP` pluszokat vesszük.
+Lovas harc során ezen fortély fokától függő mértékben harcértékeidhez hozzáadódnak a 🔵 [Lovaglás](../kepzettsegek.fizikai/lovaglas.md) képzettségből adódó harcérték pluszok. Ezeket úgy számítjuk ki, hogy a **Lovaglás** képzettséget egyszerűen [Harcmodorként](../062_02_harcmodor_kepzettsegek_es_bonuszaik.md) kezeljük és a szintjének megfelelő `KÉ/TÉ/VÉ` és `SP` pluszokat vesszük.
 
 A forgatott fegyver Harcmodorából adódó értékek továbbra is megmaradnak, tehát a fentiek bónuszként értelmezendők!
 
