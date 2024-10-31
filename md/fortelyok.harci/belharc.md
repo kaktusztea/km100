@@ -2,11 +2,11 @@
 
 Testközelben érzed igazában elemedben magad. Magában foglalja a birkozást és a földharcot is.
 
-Sikeres 🗡️[Belharcba kerülés](../065_06_belharcos_manoverek.md#belharcba-kerülés) manőver esetén 🗡️[Belharci szituációba](../064_01_harci_helyzetek.md#belharci-szitu%C3%A1ci%C3%B3) kerülsz és harcértékeidre - csak (!) **Közelharc** harcmodor és legfeljebb "rövid" pengehosszú fegyverek használata esetén - a lent leírt pluszok járnak, továbbá megnyílik a lehetőség [Belharcos manőverek](../065_06_belharcos_manoverek.md) használatára.
+Sikeres 🗡️[Belharcba kerülés](../066_06_belharcos_manoverek.md#belharcba-kerülés) manőver esetén 🗡️[Belharci szituációba](../065_01_harci_helyzetek.md#belharci-szituáció) kerülsz és harcértékeidre - csak (!) **Közelharc** harcmodor és legfeljebb "rövid" pengehosszú fegyverek használata esetén - a lent leírt pluszok járnak, továbbá megnyílik a lehetőség [Belharcos manőverek](../066_06_belharcos_manoverek.md) használatára.
 
 Bővebben:
-- [Harci helyzet: Belharci szituáció](../064_01_harci_helyzetek.md#belharci-szitu%C3%A1ci%C3%B3)
-- [Belharcos manőverek](../065_06_belharcos_manoverek.md)
+- [Harci helyzet: Belharci szituáció](../065_01_harci_helyzetek.md#belharci-szituáció)
+- [Belharcos manőverek](../066_06_belharcos_manoverek.md)
 
 #### 1. fok
 
@@ -39,7 +39,7 @@ Bővebben:
 
 #### Megjegyzések
 
-Az ellenfél módosítóinak változását is a Harcrendszer fejezet [Belharc, belharci szituáció](../064_01_harci_helyzetek.md#belharci-szitu%C3%A1ci%C3%B3) harci helyzet leírásánál találod.
+Az ellenfél módosítóinak változását is a Harcrendszer fejezet [Belharc, belharci szituáció](../065_01_harci_helyzetek.md#belharci-szituáció) harci helyzet leírásánál találod.
 
 <br />
 

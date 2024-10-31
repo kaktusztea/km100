@@ -46,13 +46,13 @@ Nagy pajzs: `VÉ:50`, `MGT:⭕`
 - Támadhatsz is a pajzzsal.
 - Ha csak pajzs van nálad, akkor azzal.
 - Ha fegyver is van nálad: akkor VAGY a fegyverrel VAGY a pajzzsal támadhatsz.
-- Tanulhatsz [pajzsos manőver](../065_05_altalanos_manoverek.md) ismereteket.
+- Tanulhatsz [pajzsos manőver](../066_05_altalanos_manoverek.md) ismereteket.
 
 <br />
 
 #### Megjegyzések
 
-- Ha a karakter 🗡️[Készületlen](../064_01_harci_helyzetek.md#készületlenség), vagy 🗡️[Meglepetés](../064_01_harci_helyzetek.md#meglepet%C3%A9s) támadás áldozata, akkor a `pajzs VÉ` nem adódik hozzá a aktuális `Védő Értékhez`.
+- Ha a karakter 🗡️[Készületlen](../065_01_harci_helyzetek.md#készületlenség), vagy 🗡️[Meglepetés](../065_01_harci_helyzetek.md#meglepetés) támadás áldozata, akkor a `pajzs VÉ` nem adódik hozzá a aktuális `Védő Értékhez`.
 - Nagy pajzsot cipelni hosszú távon igen kimerítő, ezért is viszik lovon, vagy fegyverhordozókkal a harcosok. Továbbá behatolásnál, szűk helyen, sűrű erdőben képtelenség cipelni.
 
 <br />

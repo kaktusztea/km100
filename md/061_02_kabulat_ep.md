@@ -49,7 +49,7 @@ A `KT` kiválóan alkalmas kocsmai verekedések, kisebb – nem „vérre menő�
 ---
 #### Fejbe vágás
 
-Gyakori eset, hogy valakinek ráhúznak egy nagyot a fejére. Például sisakos ellenfelet fejen találnak egy buzogánnyal. A sisak ugyan megvédi, de a feje mégis igen nagy traumát szenved el, pár körig meglehetősen kellemetlenül érzi magát. Ez természetesen helyzet specifikus, a – KM dönt –, de irányadónak elmondhatjuk, hogy ilyenkor például plusz 2-3 KT büntetést kap az áldozat, amelyek azonban pár kör alatt elmúlnak. Ne keverjük a **Fejbe vágást** a 🗡️[Leütés hátulról](065_05_altalanos_manoverek.md#le%C3%BCt%C3%A9s-h%C3%A1tulr%C3%B3l) harci taktikával!
+Gyakori eset, hogy valakinek ráhúznak egy nagyot a fejére. Például sisakos ellenfelet fejen találnak egy buzogánnyal. A sisak ugyan megvédi, de a feje mégis igen nagy traumát szenved el, pár körig meglehetősen kellemetlenül érzi magát. Ez természetesen helyzet specifikus, a – KM dönt –, de irányadónak elmondhatjuk, hogy ilyenkor például plusz 2-3 KT büntetést kap az áldozat, amelyek azonban pár kör alatt elmúlnak. Ne keverjük a **Fejbe vágást** a 🗡️[Leütés hátulról](066_05_altalanos_manoverek.md#leütés-hátulról) harci taktikával!
 
 ---
 #### ⚡ Példa Kábulat ÉP alkalmazására

@@ -2,7 +2,7 @@
 
 Hátason ülve sem esel kétségbe, ha harcolni kell.
 
-Lovas harc során ezen fortély fokától függő mértékben harcértékeidhez hozzáadódnak a 🔵 [Lovaglás](../kepzettsegek.fizikai/lovaglas.md) képzettségből adódó harcérték pluszok. Ezeket úgy számítjuk ki, hogy a **Lovaglás** képzettséget egyszerűen [Harcmodorként](../062_02_harcmodor_kepzettsegek.md#harcmodor-képzettségek) kezeljük és a szintjének megfelelő `KÉ/TÉ/VÉ` és `SP` pluszokat vesszük.
+Lovas harc során ezen fortély fokától függő mértékben harcértékeidhez hozzáadódnak a 🔵 [Lovaglás](../kepzettsegek.fizikai/lovaglas.md) képzettségből adódó harcérték pluszok. Ezeket úgy számítjuk ki, hogy a **Lovaglás** képzettséget egyszerűen [Harcmodorként](../062_02_harcmodor_kepzettsegek_es_bonuszaik.md#harcmodor-képzettségek) kezeljük és a szintjének megfelelő `KÉ/TÉ/VÉ` és `SP` pluszokat vesszük.
 
 A forgatott fegyver Harcmodorából adódó értékek továbbra is megmaradnak, tehát a fentiek bónuszként értelmezendők!
 
@@ -32,7 +32,7 @@ A forgatott fegyver Harcmodorából adódó értékek továbbra is megmaradnak, 
 - Érzékenység: `0`
 - Lovaglás - `6.szint`
 
-🌟 **Hatás**: A bónuszok fele (felfele kerekítve) adódik hozzá a fegyveres harcértékeidhez. [Lovas Manővereket](../066_harc_lohatrol.md#lovas-manőverek) végezhetsz.
+🌟 **Hatás**: A bónuszok fele (felfele kerekítve) adódik hozzá a fegyveres harcértékeidhez. [Lovas Manővereket](../067_harc_lohatrol.md#lovas-manőverek) végezhetsz.
 
 ---
 #### 3. fok
@@ -43,13 +43,13 @@ A forgatott fegyver Harcmodorából adódó értékek továbbra is megmaradnak, 
 - Érzékenység: `+1`
 - Lovaglás - `9.szint`
 
-🌟 **Hatás**: A bónuszok `1:1`-ben hozzáadódnak a fegyveres harcértékeidhez. [Lovas Manővereket](../066_harc_lohatrol.md#lovas-manőverek) végezhetsz.
+🌟 **Hatás**: A bónuszok `1:1`-ben hozzáadódnak a fegyveres harcértékeidhez. [Lovas Manővereket](../067_harc_lohatrol.md#lovas-manőverek) végezhetsz.
 
 <br />
 
 #### Speciális
 
-[Harc lóhátról fejezet](../066_harc_lohatrol.md)
+[Harc lóhátról fejezet](../067_harc_lohatrol.md)
 
 <br />
 

@@ -172,7 +172,7 @@ VÉ csökkentés:
     nincs Sebzés, VÉ:+5 csökkentés
 ```
 
-Lásd: [Sebzés táblázat](063_08_02_harc_menete_reszletes.md#sebzés)
+Lásd: [Sebzés táblázat](064_02_harc_menete_reszletes.md#sebzés)
 
 **Megjegyzés**: a "Harci anatómia" ÉP bónusza csak akkor adható hozzá, ha az alap sebzés átment a páncélon! ⭕TODO⭕
 
@@ -217,14 +217,14 @@ Fegyver-Sebesség:
   fegyverenként eltérő egyéni érték 
 ```
 
-Lásd: [Fegyverek táblázat](067_fegyverek.md)
+Lásd: [Fegyverek táblázat](068_fegyverek.md)
 
 <br />
 
 ---
 ### 🚷Mozgásgátló Tényező (MGT)
 
-Lásd a [Vértek, Páncélok - MGT fejezetét](068_vertek_pancelok.md#mozgásgátló-tényező-mgt).
+Lásd a [Vértek, Páncélok - MGT fejezetét](069_vertek_pancelok.md#mozgásgátló-tényező-mgt).
 
 <br />
 
@@ -249,6 +249,6 @@ Nagy tömegjelenetben a sok statisztika kezelése drasztikusan lelassíthatja a 
 
 ---
 
-🔗 [Harc menete - részletes](063_08_02_harc_menete_reszletes.md) →
+🔗 [Harc menete - részletes](064_02_harc_menete_reszletes.md) →
 
 ⚜️ [Nyitóoldal](start.md)

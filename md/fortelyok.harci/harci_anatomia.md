@@ -8,8 +8,8 @@ Ismered a test sebezhető pontjait és tisztában vagy a létfontosságú belső
 - [Összpontosítás](../kepzettsegek.misztikus/osszpontositas.md) - `3.szint`
 
 🌟 **Hatás**:
-- [Területre / Pontra Támadás](../065_05_altalanos_manoverek.md#területre--pontra-támadás) Manőver esetén:  `SP:+2` (csak vértmentes ponton)
-- [Orvtámadás](../065_05_altalanos_manoverek.md#orvtámadás) Manőver esetén `SP:+2` (csak vértmentes ponton)
+- [Területre / Pontra Támadás](../066_05_altalanos_manoverek.md#területre--pontra-támadás) Manőver esetén:  `SP:+2` (csak vértmentes ponton)
+- [Orvtámadás](../066_05_altalanos_manoverek.md#orvtámadás) Manőver esetén `SP:+2` (csak vértmentes ponton)
 
 ---
 #### 2. fok
@@ -20,8 +20,8 @@ Ismered a test sebezhető pontjait és tisztában vagy a létfontosságú belső
 - [Élettan](../fortelyok.altalanos/elettan.md) fortély: `1.fok`
 
 🌟 **Hatás**:
-- [Területre / Pontra Támadás](../065_05_altalanos_manoverek.md#területre--pontra-támadás) Manőver esetén:  `SP:+4` (csak vértmentes ponton)
-- [Orvtámadás](../065_05_altalanos_manoverek.md#orvtámadás) Manőver esetén `SP:+4` (csak vértmentes ponton)
+- [Területre / Pontra Támadás](../066_05_altalanos_manoverek.md#területre--pontra-támadás) Manőver esetén:  `SP:+4` (csak vértmentes ponton)
+- [Orvtámadás](../066_05_altalanos_manoverek.md#orvtámadás) Manőver esetén `SP:+4` (csak vértmentes ponton)
 
 ---
 #### 3. fok
@@ -35,18 +35,18 @@ Ismered a test sebezhető pontjait és tisztában vagy a létfontosságú belső
 - A `3.fokot` csak fejvadász, boszorkány, boszorkánymester és egyes harcművész iskolákban tanítják
 
 🌟 **Hatás**:
-- [Területre / Pontra Támadás](../065_05_altalanos_manoverek.md#területre--pontra-támadás) Manőver esetén: `SP:+4` (csak vértmentes ponton)
-- [Orvtámadás](../065_05_altalanos_manoverek.md#orvtámadás) Manőver esetén `SP:+4` (csak vértmentes ponton)
+- [Területre / Pontra Támadás](../066_05_altalanos_manoverek.md#területre--pontra-támadás) Manőver esetén: `SP:+4` (csak vértmentes ponton)
+- [Orvtámadás](../066_05_altalanos_manoverek.md#orvtámadás) Manőver esetén `SP:+4` (csak vértmentes ponton)
 - Ismer olyan kényes pontokat, amelyekkel béníthat, görcsöt vagy kábulatot okozhat, és az ilyen technikával okozott ugyanilyen hatásokat szüntethet meg.
-- Szemgolyót szedhet ki harc közben: Sikeres [Területre / Pontra Támadás](../065_05_altalanos_manoverek.md#területre--pontra-támadás) Manőver (Nehézség alacsonyabb:`10`) Puszta kézzel. Nem csak kiüti, hanem ki is szedheti.
+- Szemgolyót szedhet ki harc közben: Sikeres [Területre / Pontra Támadás](../066_05_altalanos_manoverek.md#területre--pontra-támadás) Manőver (Nehézség alacsonyabb:`10`) Puszta kézzel. Nem csak kiüti, hanem ki is szedheti.
 
 ---
-#### [Leütés hátulról](../065_05_altalanos_manoverek.md#le%C3%BCt%C3%A9s-h%C3%A1tulr%C3%B3l) Manőver alkalmazásakor
+#### [Leütés hátulról](../066_05_altalanos_manoverek.md#leütés-hátulról) Manőver alkalmazásakor
 
 ... a **Harci anatómia** fortély minden foka: `2`-vel csökkenti a Manőver Ellenpróba Nehézséget.
 
 ---
-#### [Visszafogott taktika](../064_02_harci_taktikak.md#visszafogott-taktika) alkalmazásakor
+#### [Visszafogott taktika](../065_02_harci_taktikak.md#visszafogott-taktika) alkalmazásakor
 
 A **Harci anatómia** fortély minden foka `10`-zel csökkenti a **Visszafogott taktika** esetén kapott `TÉ` büntetést.
 

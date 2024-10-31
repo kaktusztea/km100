@@ -4,6 +4,6 @@ Jelenleg a saját [STUDY oldalán](https://github.com/kaktusztea/km100/wiki/STUD
 
 ---
 
-🔗 [Kétkezes harc](064_04_ketkezes_harc.md) →
+🔗 [Kétkezes harc](065_04_ketkezes_harc.md) →
 
 ⚜️ [Nyitóoldal](start.md)
