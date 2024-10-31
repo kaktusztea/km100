@@ -39,14 +39,14 @@ Az igazi jó harcos taktikus. Ismeri saját gyengéit és erősségeit és igyek
 - [Harc menete (részletes)](064_02_harc_menete_reszletes.md) 🎲
 - [Példaharc](064_05_peldaharc.md)
 
-## 6.4 [Harcot módosító tényezők](065_00_harcot_modosito_tenyezok.md)
+## 6.5 [Harcot módosító tényezők](065_00_harcot_modosito_tenyezok.md)
 
 - [Harci helyzetek](065_01_harci_helyzetek.md)
 - [Harci taktikák](065_02_harci_taktikak.md)
 - [Harci alakzatok, Alakzatharc](065_03_harci_alakzatok.md)
 - [Kétkezes harc](065_04_ketkezes_harc.md)
 
-## 6.5 [Manőverek](066_00_manoverek.md) 🎲
+## 6.6 [Manőverek](066_00_manoverek.md) 🎲
 
 - [Manőver Alap](066_01_manover_alap.md)
 - [Manőver Pontok](066_02_manover_pontok.md)
@@ -57,10 +57,10 @@ Az igazi jó harcos taktikus. Ismeri saját gyengéit és erősségeit és igyek
 - [Lovas Manőverek listája](066_07_lovas_manoverek.md)
 - [Példa Manőverek alkalmazására](066_08_pelda_manover_alkalmazasara.md)
 
-## 6.6 [Harc lóhátról](067_harc_lohatrol.md)
+## 6.7 [Harc lóhátról](067_harc_lohatrol.md)
 
-## 6.7 [Fegyverek, pajzsok](068_fegyverek.md)
-## 6.8 [Vértek, páncélok](069_vertek_pancelok.md)
+## 6.8 [Fegyverek, pajzsok](068_fegyverek.md)
+## 6.9 [Vértek, páncélok](069_vertek_pancelok.md)
 
 ---
 
