@@ -60,9 +60,7 @@ A fenti módosítóknak matematikai oka van: így kerüljük el a plusz kapott t
 
 Ekkor az aktuális Harckeret érték:  `4+3 = 7`
 
-Mivel ez elérte a`6`-os értéket, ezért `+1` támadás – összesen tehát már `2db` jár körönként. A 3 támadást `12`-es, a 4 támadást pedig `18`-as **Harckeret** értéknél kapja meg.
-
-
+Mivel ez elérte a`6`-os értéket, ezért `+1` támadás – összesen tehát már `2db` jár körönként. A `3.` támadást `12`-es, a `4.` támadást pedig `18`-as **Harckeret** értéknél kapja meg.
 
 További támadásokat `Kétkezes Harc` során szerezhet a karakter. Lásd a [Kétkezes Harc](065_04_ketkezes_harc.md) fejezetet!
 
