@@ -84,9 +84,9 @@ A harc, a védekezés komolyan igénybe veszik az áldozat figyelmét, állóké
 
 🔆 A VÉ csökkenést kizárólag a [Harcos Elme](fortelyok.harci/harcos_elme.md) fortély tanulása képes mérsékelni.
 
-A rendszer előnye, hogy a több támadó okozta fenyegetés sokkal fajsúlyosabb lesz, hiszen többen, sokkal gyorsabban “leverik” a karakter VÉ-jét. A támadások száma is sokat számít, részben a VÉ csökkentés szempontjából, másrészt a sokkal erősebb, több támadással rendelkező karakternek jó esélye van az első körben elintéznie gyengébb ellenfelét, még ha annak magas is a **Védő Értéke** (első egy/két támadás VÉ-t csökkent, aztán találat).
+A rendszer előnye, hogy a több támadó okozta fenyegetés sokkal fajsúlyosabb lesz, hiszen többen, sokkal gyorsabban “leverik” a karakter `VÉ`-jét. A támadások száma is sokat számít, részben a `VÉ` csökkentés szempontjából, másrészt a sokkal erősebb, több támadással rendelkező karakternek jó esélye van az első körben elintéznie gyengébb ellenfelét, még ha annak magas is a **Védő Értéke** (első egy/két támadás `VÉ`-t csökkent, aztán találat).
 
-Megnő a [támadó/védő taktika](065_02_harci_taktikak.md#támadó-taktika) jelentősége is. Egy sebesült harcos ellen jó lehet a támadó **taktika**, bár megvannak a veszélyei is, váratlan vereséghez is vezethet. A harc elején pedig – ha az idő engedi – hasznos lehet a védekezést preferáló taktikát választani kivéve, ha nagyon sietős az ellenfél elintézése. A megfelelő harcmodorok kombinálása színessé, izgalmassá teszi a küzdelmet.
+Megnő a [Támadó/Védő taktika](065_02_harci_taktikak.md#támadó-taktika) jelentősége is. Egy sebesült harcos ellen jó lehet a **Támadó taktika**, bár megvannak a veszélyei is, váratlan vereséghez is vezethet. A harc elején pedig – ha az idő engedi – hasznos lehet a védekezést preferáló taktikát választani kivéve, ha nagyon sietős az ellenfél elintézése. A megfelelő harcmodorok kombinálása színessé, izgalmassá teszi a küzdelmet.
 
 ---
 #### Találat: A Támadó dobás eredménye: **TÉ >= VÉ** 
@@ -186,9 +186,7 @@ Ha az `SP` érték a páncél `SFÉ` levonása után `0`-ra csökken, a VÉ csö
 ---
 #### Harcérték csökkenés
 
-Ha valakit találat ért és átkerül másik sebesülés-kategóriába, `TÉ levonást` kap, melyet mérsékel a [Fájdalomtűrés képzettség](kepzettsegek.fizikai/fajdalomtures.md) és [Önuralom tulajdonságok](014_01_tulajdonsagok.md#-önuralom-️) összege.
-
-Bővebben lásd: [Fájdalomtűrés fejezetet](061_03_sebesules.md#f%C3%A1jdalomt%C5%B1r%C3%A9s-harc-k%C3%B6zben)!
+Ha valakit találat ért és átkerül másik sebesülés-kategóriába, `TÉ levonást` kap, melyet mérsékel a [Fájdalomtűrés képzettség](kepzettsegek.fizikai/fajdalomtures.md) és [Önuralom tulajdonságok](014_01_tulajdonsagok.md#-önuralom-️) összege. Bővebben lásd: [Fájdalomtűrés fejezetet](061_03_sebesules.md#f%C3%A1jdalomt%C5%B1r%C3%A9s-harc-k%C3%B6zben)!
 
 Ez azért előnyös, mert megint csak karakteralkotás időben számítjuk ki a fenti értékeket.
 
@@ -265,25 +263,25 @@ Ha értéke negatív, akkor
 Egyes fegyverek forgatása esetén a karakter fizikai ereje megnöveli az okozott sebzés. Tipikusan azok a fegyverek ezek, amelyek használata során a plusz erő használata felgyorsítja azt, jól kivezethető ívű csapások végezhetők vele. Továbbá számos fegyver van, melynek forgatása Erő követelményhez kötött, azaz csak megfelelő fizikumú karakter használhatja. Erről az egyes fegyverek egyéni leírásában találhatunk részleteket, de általánosságban a fenti szabályok az irányadóak.
 
 ---
-#### Élőholtak sebzése
+#### Élőholtak sebződése és VÉ regenerációja
 
 ```
 Élőholt VÉ visszaáll
 minden kör elején
 ```
 
-Mivel nem fáradnak szellemileg, legfeljebb ideiglenes hátrányos harci pozícióba kerülnek, ezért az élőholtak VÉ-je **minden** kör elején visszaáll eredeti értékére. Ezen kívül a különböző támadási módok ellen különféleképpen ellenállóak, azok sebzése a következőképpen alakul:
+Mivel nem fáradnak szellemileg, legfeljebb ideiglenes hátrányos harci pozícióba kerülnek, ezért az élőholtak `VÉ`v-je **minden** kör elején visszaáll eredeti értékére. Ezen kívül a különböző támadási módok ellen különféleképpen ellenállóak, azok sebzése a következőképpen alakul:
 
-- Szúrófegyverek sebzése: negyed SP sebzés (lefele kerekítve) + nincs Erőbónusz
-- Vágófegyverek sebzése: fele SP sebzés (lefele) + van Erőbónusz. Csonkoláskor normál sebzés.
-- Zúzófegyverek sebzése: rendes sebzés + Erőbónusz
+- Szúrófegyverek sebzése: `negyed SP` sebzés (lefele kerekítve) + nincs Erőbónusz
+- Vágófegyverek sebzése: `fele SP` sebzés (lefele) + van Erőbónusz. Csonkoláskor normál sebzés.
+- Zúzófegyverek sebzése: `rendes sebzés + Erőbónusz`
 
 ---
 ### Vérzés
 
 A súlyos sebek intenzíven vérezhetnek. A szúrt, vágott, zúzott sebek mind máshogy.
 
-Abban, hogy a karakter aktuális sebesülési állapotában milyen ütemben veszít folyamatosan újabb Életerő Pontokat, az a szituációtól és így gyakorlatilag a KM szavától függ.
+Abban, hogy a karakter aktuális sebesülési állapotában milyen ütemben veszít folyamatosan újabb **Életerő Pontokat**, az a szituációtól és így gyakorlatilag a KM szavától függ.
 
 ---
 ### Védő Érték regenerálódása
@@ -297,11 +295,15 @@ Ha például üldözik és ő megbújik egy kis beugróban, akkor Védő Érték
 ---
 ### Zuhanás, megégés, zúzódás, varázslatok sebzése
 
+```
+k20 + X
+```
+
 ⭕TODO: [Irányelvek kidolgozása](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.harcrendszer#nem-harci-sebz%C5%91d%C3%A9sek)
 
 Természetesen nem csak fegyverek okozhatnak sérülést, hanem egy mágikus tűzgolyó, zuhanás a tetőről, stb. A mágikus hatások sebzéseit a [Mágia](090_magiarendszer.md) fejezetben tárgyaljuk, bővebben lásd ott.
 
-Zuhanás, zúzódás, egyéb fizikai sérülések esetén a KM meghatároz egy sebzés értéket ugyanúgy, akár egy fegyver esetében. Pl. `K20+5`. Az **SFÉ** ilyen esetekben legtöbbször nem számít, vagy csak igen mérsékelten. Ha számít, akkor általában a **zúzó SFÉ** értéket használjuk, de KM dönt, mivel ahány eset annyiféle.
+Zuhanás, zúzódás, egyéb fizikai sérülések esetén a KM meghatároz egy sebzés értéket ugyanúgy, akár egy fegyver esetében. Pl. `k20+5`. Az **SFÉ** ilyen esetekben legtöbbször nem számít, vagy csak igen mérsékelten. Ha számít, akkor általában a **zúzó SFÉ** értéket használjuk, de KM dönt, mivel ahány eset annyiféle.
 
 ---
 
@@ -319,15 +321,14 @@ Zuhanás, zúzódás, egyéb fizikai sérülések esetén a KM meghatároz egy s
 - Ősi ellenfele (Rühes) hosszú karddal (`SP: +3`) támad rá. Eltalálja, sebez.
 - Rühes dob: `k20+4` (hosszú kard)
 - `7`-et dob, így az eredmény: `7+4=11`
-- A `11 SP` seb-kategóriájához `6 ÉP` veszteség tartozik
+- A `11 SP` seb-kategóriájához `6 ÉP` és `15 VÉ` veszteség tartozik
 - Tetves levon `6 ÉP`-t `16 ÉP`-jéből, marad `10 ÉP`-je.
 
 ⚡Példa 2
 
 - Cobaq Ereje: `+5`, Kétkezes kardot (`+8`) forgat
 - Így sebzésdobása: `k20+13`, tehát minimum `14 SP`-t sebez, ami már `6 ÉP`.
-- Ha `7`-nél nagyobbat dob (`65%`), akkor már `15 ÉP` sebet okoz, ami sokszor már halálos
-
+- Ha `7`-nél nagyobbat dob (`65%`), akkor már `15 ÉP` sebet okoz, ami sokszor halálos kategória
 
 ---
 
