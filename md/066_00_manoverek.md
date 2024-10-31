@@ -27,11 +27,12 @@ Három kategóriába csoportosítottuk a `km100` által ismert Manővereket. Lis
 - [Belharcos Manőverek](066_06_belharcos_manoverek.md) 🗡️
 - [Lovas Manőverek](066_07_lovas_manoverek.md) 🗡️
 
-### Példák
+### ⚡ Példák
 
 Egy-két jó példa többet mond a száraz szabályleírásoknál.
 
-- [Példák Manőver alkalmazására](066_08_pelda_manover_alkalmazasara.md)
+- [Példa Manőver alkalmazására: Lefegyverzés](066_08_01_pelda_manover_lefegyverzes.md)
+- [Példa Manőver alkalmazására:  Lábsöprés](066_08_02_pelda_manover_lapsopres.md)
 
 ---
 
