@@ -34,9 +34,9 @@ Tehát vállalásodtól függően például így módosíthatod harcértékeidet
 
 A szándékot, hogy Támadó taktikát akarsz alkalmazni, előre be kell jelentened, mielőtt az adott kör elkezdődött volna. Kör közben nem változtathatsz a taktikán. Ha ebben a taktikában küzdesz, akkor lehetőségeidhez mérten folyamatosan nyomulsz előre.
 
-✅ Támadó taktika alkalmazható [Meglepetés](064_01_harci_helyzetek.md#meglepet%C3%A9s) szituációban.
+✅ Támadó taktika alkalmazható [Meglepetés](065_01_harci_helyzetek.md#meglepetés) szituációban.
 
-❌ Támadó taktika **NEM** alkalmazható [Észrevétlen támadás](064_01_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s) szituációban.
+❌ Támadó taktika **NEM** alkalmazható [Észrevétlen támadás](065_01_harci_helyzetek.md#észrevétlen-támadás) szituációban.
 
 ---
 ### Védő taktika
@@ -52,9 +52,9 @@ Tehát vállalásodtól függően így módosíthatod harcértékeidet. Pl:
 - `VÉ:+10`, `TÉ:-20`
 - `VÉ:+20`, `TÉ:-40`
 
-❌ Védő taktika **NEM** alkalmazható [Meglepetés](064_01_harci_helyzetek.md#meglepet%C3%A9s) szituációban.
+❌ Védő taktika **NEM** alkalmazható [Meglepetés](065_01_harci_helyzetek.md#meglepetés) szituációban.
 
-❌ Védő taktika **NEM** alkalmazható [Észrevétlen támadás](064_01_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s) szituációban.
+❌ Védő taktika **NEM** alkalmazható [Észrevétlen támadás](065_01_harci_helyzetek.md#észrevétlen-támadás) szituációban.
 
 ---
 ### Teljes Védekezés Taktika
@@ -202,6 +202,6 @@ Ha csak meg akarunk érinteni valakit harc közben, az könnyebb, mint puszta k�
 
 ---
 
-🔗 [Harci alakzatok](064_03_harci_alakzatok.md) →
+🔗 [Harci alakzatok](065_03_harci_alakzatok.md) →
 
 ⚜️ [Nyitóoldal](start.md)

@@ -15,7 +15,7 @@ Egy karakter egy harci körön belül szabadon mozoghat maximum (`5 + Gyorsaság
 ---
 ### Mozgás a kör elején
 
-Ha a kört mozgással kezded, akkor utolsó helyre csúszol a [Kezdeményezésben](063_08_02_harc_menete_reszletes.md#kezdeményezés).
+Ha a kört mozgással kezded, akkor utolsó helyre csúszol a [Kezdeményezésben](064_02_harc_menete_reszletes.md#kezdeményezés).
 
 ---
 ### Maximum mozgás egy körben
@@ -24,10 +24,10 @@ Ha a karakter a `Max mozgás` távolságnál mindenképpen nagyobb távot akar m
 
 - Maximum táv: `Max mozgás x 2 (méterben)`
 - A körben nem lehet/lehetett ezen kívül más támadása
-- Csak [Roham](064_02_harci_taktikak.md#roham-taktika) Harci taktikával végezhető a támadás
+- Csak [Roham](065_02_harci_taktikak.md#roham-taktika) Harci taktikával végezhető a támadás
 
 ---
 
-🔗 [Harc menete - összefoglalás](063_08_01_harc_menete_osszefoglalas.md) →
+🔗 [Harc menete - összefoglalás](064_01_harc_menete_osszefoglalas.md) →
 
 ⚜️ [Nyitóoldal](start.md)

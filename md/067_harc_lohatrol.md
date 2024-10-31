@@ -1,6 +1,6 @@
 ## Harc lóhátról
 
-→ Nyitott kérdések a [STUDY oldalán](https://github.com/kaktusztea/km100/wiki/STUDY.lovasharc).
+<sub>→ Nyitott kérdések a [STUDY oldalán](https://github.com/kaktusztea/km100/wiki/STUDY.lovasharc).</sub>
 
 ## Harc lóhátról, hátas Fortélyok és Manőverek
 
@@ -24,7 +24,7 @@ Akinek csak Lovaglás képzettsége van, még nem képes lóról harcolni, gyalo
 - Az alapból használt gyalogos harcmodor harcértékei (pl. Kardvívás) számítanak és ehhez **hozzáadódik** a Lovaglás képzettségből - mint egy újabb harcmodorból - adódó bónuszok a [Lovas harc](fortelyok.harci/lovas_harc.md) fortélynál leírt mértékben.
 - Tehát `3.szintű` **Lovaglással** ugyanannyi a harcértéke, mint ló nélkül, az alatt járnak a képzetlenségből adódó levonások
 - A 3. szint fölött viszont jönnek a plusz harcérték módosítók.
-- A harcértékekhez nem adódik hozzá pluszban a [Magasabbról](064_01_harci_helyzetek.md#magasabbr%C3%B3l) módosítója
+- A harcértékekhez nem adódik hozzá pluszban a [Magasabbról](065_01_harci_helyzetek.md#magasabbról) módosítója
 - Minumum fegyverméret: lóról **minimum `1` pengés** fegyverrel lehet csak harcolni, annál kisebbel nem
 - Fegyverméret-kategória: a ló `2` plusz méret-kategóriát ad a lovasnak (`+1` pengényi) az előnyös-hátrányos helyzet megállapításánál
 - Ha sebet kap a lovas, akkor **Lovaglás** képzettségpróbát kell dobnia, hogy leesik -e.

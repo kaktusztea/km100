@@ -24,7 +24,7 @@ Manővert végző teszi. `Próbadobás vs Célszám`
 A Megakasztás az első fázis a Manőver végrehajtása során.\
 Megelőző támadási forma, melyre **az Ellenfél** jogosult teljes, fegyveres `TÉ` harcértékével. Ez egy soron kívüli extra támadás. Csak akkor szükséges, ha az adott típusú manőver fázisai között ez szerepel.
 
-Ha az így érkező támadás sebző, akkor a Manőver nem sikerült. Tipikus példája a [Belharcba kerülés](065_05_altalanos_manoverek.md#belharcba-kerülés).
+Ha az így érkező támadás sebző, akkor a Manőver nem sikerült. Tipikus példája a [Belharcba kerülés](066_05_altalanos_manoverek.md#belharcba-kerülés).
 
 <br />
 
@@ -76,7 +76,7 @@ Célszám:
 
 Az Ellenpróba dobása nem mást fed, mint hogy a karakter képes -e megteremteni maga számára a lehetőséget, úgymond „megágyazni magának”, hogy egyáltalán megkísérelhesse a **Manővert**. A harcban ez helyezkedést, „pozícióba kerülést” jelent, amelynek sikere függ a karakter és Ellenfelének **Manőver Alapjától**, a Manőver **Nehézségétől** és egyéb módosító körülményektől. A játékban logikailag az **Ellenpróbának** kéne előbb jönnie, de mivel a **Végrehajtás** gyorsabban számolható, azt dobjuk előbb (ha van olyan fázis).
 
-Az **Ellenpróba** dobása során a KM meghatározza a próba **Célszámát**, a játékos, pedig veszi [Manőver Alapját](065_01_manover_alap.md), esetlegesen felhasznál [Manőver Pontokat](065_02_manover_pontok.md), majd dob hozzá `k10`-el. Ha a végső érték eléri a célszámot, akkor az **Ellenpróba** **sikeres volt.**
+Az **Ellenpróba** dobása során a KM meghatározza a próba **Célszámát**, a játékos, pedig veszi [Manőver Alapját](066_01_manover_alap.md), esetlegesen felhasznál [Manőver Pontokat](066_02_manover_pontok.md), majd dob hozzá `k10`-el. Ha a végső érték eléri a célszámot, akkor az **Ellenpróba** **sikeres volt.**
 
 Ha csak az **Ellenpróba** az adott Manőver követelménye, akkor annak sikere esetén az egész **Manőver** automatikusan sikeresnek tekinthető.
 
@@ -116,12 +116,12 @@ A Fegyverméret-kategóriák adta különbségek az **Ellenpróbánál** (`E`) m
 ---
 ### Észrevétlen támadás vs Manőver
 
-Vannak Manőverek, amelyek [Észrevétlen támadást](064_01_harci_helyzetek.md#%C3%A9szrev%C3%A9tlen-t%C3%A1mad%C3%A1s) igényelnek.
+Vannak Manőverek, amelyek [Észrevétlen támadást](065_01_harci_helyzetek.md#észrevétlen-támadás) igényelnek.
 
 Kérdés, hogy ilyenkor miért dobunk mégis **Ellenpróbát**? Az ilyen helyzetben a **Manőver Alap** egyfajta harci ösztönként működik - nem véletlen, hogy az elköltött `HM` pontokon alapszik, amelyek az általános harci tapasztalatot szimbolizálják.
 
 ---
 
-🔗 [Általános Manőverek listája](065_05_altalanos_manoverek.md) →
+🔗 [Általános Manőverek listája](066_05_altalanos_manoverek.md) →
 
 ⚜️ [Nyitóoldal](start.md)

@@ -1,4 +1,4 @@
-### Harcmodor képzettségek
+### Harcmodor képzettségek és bónuszaik
 
 A km100 rendszere az alábbi (Primer) harci képzettségeket ismeri, az alájuk tartozó fegyvercsoportokkal:
 
@@ -42,7 +42,7 @@ A harci képzettségek aktuális szintjétől függ, hogy az alá tartozó fegyv
 ---
 ### Harcmodorok és Manőverek
 
-A Közelharc, Kardvívás, Zúzás, Lándzsavívás Harcmodorok szintjei lehetőséget adnak Manőverek könnyebb elvégzésére. Bővebben lásd a [Manőver Pontok](065_02_manover_pontok.md) fejezetet.
+A Közelharc, Kardvívás, Zúzás, Lándzsavívás Harcmodorok szintjei lehetőséget adnak Manőverek könnyebb elvégzésére. Bővebben lásd a [Manőver Pontok](066_02_manover_pontok.md) fejezetet.
 
 ---
 

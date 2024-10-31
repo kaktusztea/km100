@@ -5,7 +5,7 @@ Alapeset:
  fegyverek támadás száma: 1 / kör
 ```
 
-Néhány kivételnél ez kevesebb. Lásd a [Fegyver](067_fegyverek.md) táblázatot!
+Néhány kivételnél ez kevesebb. Lásd a [Fegyver](068_fegyverek.md) táblázatot!
 
 ---
 ### Harckeret
@@ -53,10 +53,10 @@ Minden újabb támadás során az aktuális Támadó Értékre -10 levonás jár
 - Második támadás: `-10TÉ`
 - Harmadik támadás: `-20TÉ`, stb
 
-További támadásokat `Kétkezes Harc` során szerezhet a karakter. Lásd a [Kétkezes Harc](064_04_ketkezes_harc.md) fejezetet!
+További támadásokat `Kétkezes Harc` során szerezhet a karakter. Lásd a [Kétkezes Harc](065_04_ketkezes_harc.md) fejezetet!
 
 ---
 
-🔗 [Támadások száma varázsláskor](063_05_02_tamadasok_szama_varazslaskor.md) →
+🔗 [Támadások száma varázsláskor](063_07_tamadasok_szama_varazslaskor.md) →
 
 ⚜️ [Nyitóoldal](start.md)

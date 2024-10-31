@@ -7,6 +7,6 @@ Az Akció a harcban megtett elemi cselekedet. 1 Akció az alábbiak cselekedetek
 
 ---
 
-🔗 [Támadások száma fegyverrel](063_05_01_tamadasok_szama_fegyverrel.md) →
+🔗 [Támadások száma fegyverrel](063_06_tamadasok_szama_fegyverrel.md) →
 
 ⚜️ [Nyitóoldal](start.md)
