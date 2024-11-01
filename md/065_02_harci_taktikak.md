@@ -97,7 +97,7 @@ Ha úgy döntesz, hogy a fenti feltételekkel lemondasz a kezdeményezésről, c
 ❌ A Kiváró taktika **NEM** használható **Védő Taktikával** együtt, sőt több ellenféllel való harc esetén sem!
 
 ---
-### Fárasztó taktika
+### Fárasztó taktika ⇄
 
 ```
 VÉ csökkentésre:
@@ -130,7 +130,7 @@ A Fárasztó taktikának leginkább körbevett ellenfél esetén van értelme: a
 Kapcsolódó fortély: [Fárasztás](fortelyok.harci/farasztas.md) harci fortély
 
 ---
-### Visszafogott taktika
+### Visszafogott taktika ⇄
 
 Szándékosan kisebb sebzést próbálsz okozni találatkor - általában olyankor fordul elő, mikor nem cél az ellenfél megölése.
 
@@ -190,7 +190,7 @@ Erre a [Támadás erőből](fortelyok.harci/tamadas_erobol.md) fortélyt haszná
 ❌  Alkalmazása során **NEM** használhatóak más harci taktikák.
 
 ---
-### Érintő taktika
+### Érintő taktika ⇄
 
 ```
 KÉ:0, TÉ:0, VÉ:-10
