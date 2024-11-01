@@ -85,7 +85,7 @@ A `km100` rendszerében nincsenek kasztok, egyes jellemzőket szabad pontokból,
 
 ### KP költésével növelt jellemzők
 
-- **Képzettségek**: Harci, Fizikai, Alvilági, Művészeti, Világi, Tudományos, Misztikus, **Tradíciók** (Mágikus, Papi, Fejvadász, Faji, Slan), Mágiaiskolák (Magas, Vulgár, Ordani tűz, Bárd, Természeti, Sámán)
+- **Képzettségek**: Harci, Fizikai, Alvilági, Művészeti, Világi, Tudományos, Misztikus, **Tradíciók** (Mágia, Papi, Szellemi), Arkánumok, Slan
 - **Fortélyok**: Általános, Harci, Távharc, Misztikus
 - **Harcérték módosítók** (HM/CM)
 
