@@ -30,7 +30,7 @@ Más szóval bemasírozni a mező közepére és frontálisan egymásnak esni - 
 
 Használd környezeted adottságait és az adott körülményeket előnyös szituáció megteremtésére! Harcban az alábbi faktorok okos kombinálásával juthatsz - vagy juthatnak ellenfeleid - előnyhöz.
 
-**⚜️a.** Harci szituációk: ezek adott, vagy megteremtett helyzetek, amelyek módosítanak az alap harcértékeken.
+⚜️ Harci szituációk: ezek adott, vagy megteremtett helyzetek, amelyek módosítanak az alap harcértékeken.
 
 ⚜️ Harci taktikák: tudatosan alkalmazott harci jellegek, amelyek nem-egy-csapásos műveletek, hanem tendenciák, amiket alkalmazol a harcod során.
 
