@@ -131,6 +131,7 @@
 - [Mozgás harc közben](063_05_mozgas_harc_kozben.md)
 - [Harckeret, Támadások száma fegyverrel](063_06_tamadasok_szama_fegyverrel.md)
 - [Varázskeret, Támadások száma mágiával](063_07_tamadasok_szama_varazslaskor.md)
+- [Támadások száma - ábra](063_08_tamadasok_szama_abra.md)
 
 #### 6.4 [Harc menete](064_00_harc_menete.md)
 
