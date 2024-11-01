@@ -13,7 +13,7 @@ Jobban össze tudod sűríteni a varázslatodat, így egy körben nagyobbak a le
 
 🔒 **Követelmény**: Mágia Tradíció - `9.szint` ⭕TODO: ez jó követelmény?
 
-🌟 **Hatás**: [Varázskeret](../063_07_tamadasok_szama_varazslaskor.md#varázskeret) értéked `+4`-vel nő.
+🌟 **Hatás**: [Varázskeret](../063_07_tamadasok_szama_varazslaskor.md#varázskeret) értéked `+4`-el nő (összesen).
 
 <br />
 

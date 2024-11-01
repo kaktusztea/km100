@@ -17,16 +17,19 @@ Varázslásnál nagyjából ez felel meg a **Harckeretnek**.
 
 ```
 Formula-Sebesség =
-   Max Erősség + Max Komplexitás
+     Max Erősség
+   + Max Komplexitás
+   + Formula Extra
 ```
 
-A varázslatban használt összes formula közül a legmagasabb Komplexitás értéket és a legmagasabb Erősség értéket kell összeadnunk.
+A varázslatban használt összes formula közül a legmagasabb **Komplexitás** értéket és a legmagasabb **Erősség** értéket kell összeadnunk, opcionálisan adott Formulák hozzáadhatnak Extra értéket.
 
 Varázslásnál ez felel meg a **Fegyver Sebességnek**, értéke minél magasabb, annál lassabban jön létre a varázslat.
 
 Látható, hogy az apró, egyszerű, kis változtató erejű mágiákból többet jóval könnyebben el lehet varázsolni, mint a nagyobb hatalmú varázslatokból.
 
 ### Varázskeret csökkentése varázsláskor
+
 ```
 Varázskeret =
    Varázskeret - "Formula Sebesség"
