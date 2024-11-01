@@ -14,6 +14,8 @@
 
 #### [Varázskeret, Támadások száma mágiával](063_07_tamadasok_szama_varazslaskor.md)
 
+#### [Támadások száma - ábra](063_08_tamadasok_szama_abra.md)
+
 ---
 
 ⚜️ [Nyitóoldal](start.md)
