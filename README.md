@@ -32,15 +32,15 @@ Használd környezeted adottságait és az adott körülményeket előnyös szit
 
 **⚜️a.** Harci szituációk: ezek adott, vagy megteremtett helyzetek, amelyek módosítanak az alap harcértékeken.
 
-**⚜️b.** Harci taktikák: tudatosan alkalmazott harci jellegek, amelyek nem-egy-csapásos műveletek, hanem tendenciák, amiket alkalmazol a harcod során.
+⚜️ Harci taktikák: tudatosan alkalmazott harci jellegek, amelyek nem-egy-csapásos műveletek, hanem tendenciák, amiket alkalmazol a harcod során.
 
-**⚜️c.** Manőverek: egyedi, speciális trükkök, amelyek egy konkrét hatást, változást okoznak a harcban (Lefegyverzés, Pajzzsal öklelés, stb.)
+⚜️ Manőverek: egyedi, speciális trükkök, amelyek egy konkrét hatást, változást okoznak a harcban (Lefegyverzés, Pajzzsal öklelés, stb.)
 
-**⚜️d.** Harci fortélyok: specializált ismeretek, amelyek 1-1 részterület alaposabb ismeretével juttatnak előnyhöz.
+⚜️ Harci fortélyok: specializált ismeretek, amelyek 1-1 részterület alaposabb ismeretével juttatnak előnyhöz.
 
-**⚜️e**. Fegyverméret-kategóriák: nagyobb fegyver, nagyobb előny... egészen amíg szűk helyre nem kényszerülsz.
+⚜️ Fegyverméret-kategóriák: nagyobb fegyver, nagyobb előny... egészen amíg szűk helyre nem kényszerülsz.
 
-**⚜️f**. Túlerő. Több támadóval harcolni a `km100` rendszerében fokozottan nehéz - sokszor a nyúlcipő felkötése a legjobb ötlet.
+⚜️ Túlerő. Több támadóval harcolni a `km100` rendszerében fokozottan nehéz - sokszor a nyúlcipő felkötése a legjobb ötlet.
 
 ---
 ## Távolsági harcrendszer
