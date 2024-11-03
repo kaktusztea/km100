@@ -2,7 +2,7 @@
 
 Ismered a sivatagi környezetet.
 
-##### Kiterjeszti ezeket:
+##### Kiterjeszti ezeket
 
 - [Észlelés](../kepzettsegek.vilagi/eszleles.md)
 - [Természetjárás](../kepzettsegek.vilagi/termeszetjaras.md)

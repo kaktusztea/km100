@@ -7,8 +7,8 @@
 **Kapcsolódik**: [Kultúrkör](../hatterek.kiemelt/kulturkor.md), [Építészet](../fortelyok.altalanos/epiteszet.md)
 
 **Szabad Hátterek kiterjesztik**:
-- [Éneklés](../hatterek.szabad/enekles.md)
-- [Festészet](../hatterek.szabad/festeszet.md)
+- [Éneklés](../hatterek.szabad/enekles.md): felismered a híres dalnokokat, dallamaikat, slágereiket.
+- [Festészet](../hatterek.szabad/festeszet.md): ismered, felismered adott [Kultúrkör](../hatterek.kiemelt/kulturkor.md) festőit, műveiket, történetüket, stílusukat.
 - [Irodalom](../hatterek.szabad/irodalom.md)
 - [Kalligráfia](../hatterek.szabad/kalligrafia.md)
 - [Színjátszás](../hatterek.szabad/szinjatszas.md)

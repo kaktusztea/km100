@@ -11,6 +11,7 @@
 - [Heraldika](../hatterek.szabad/heraldika.md)
 - [Pénzügyek](../hatterek.szabad/penzugyek.md)
 - [Jogismeret](../hatterek.szabad/jogismeret.md)
+- [Stratégia](../hatterek.szabad/strategia.md): "Kevesen tudják, hogy a XII. Zászlóháború döntő csatájában a párás idő okozta a S0gron papok összhangjainak elvesztését, amely Antoh szolgáinak irányába billentette a mérleget."
 
 ##### Követelmények
  - [Kultúrkör](../hatterek.kiemelt/kulturkor.md)

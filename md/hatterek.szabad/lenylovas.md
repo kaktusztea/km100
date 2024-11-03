@@ -1,6 +1,7 @@
 #### 🟡 Lénylovas (faj neve) 🔁
 
 ##### Kiterjeszti ezeket
+
   - [Lovaglás](../kepzettsegek.fizikai/lovaglas.md) 
   - [Léglovaglás](../kepzettsegek.fizikai/leglovaglas.md)
  

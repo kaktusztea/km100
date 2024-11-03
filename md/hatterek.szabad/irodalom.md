@@ -2,12 +2,12 @@
 
 ##### Kiterjeszti ezeket
 
-- [Előadóművészet](../kepzettsegek.muveszeti/eloadomuveszet.md)
-- [Művészetismeret](../kepzettsegek.muveszeti/muveszetismeret.md)
+- [Előadóművészet](../kepzettsegek.muveszeti/eloadomuveszet.md): Versek, novellák, regények, históriák, színdarabok írása.
+- [Művészetismeret](../kepzettsegek.muveszeti/muveszetismeret.md): Ismered adott [Kultúrkör](../hatterek.kiemelt/kulturkor.md) neves irodalmárait, íróit, költőit és stílusukat, műveiket.
 
 ##### Kapcsolódik
 
-- [Hamisítás](../fortelyok.altalanos/hamisitas.md) fortély
+[Hamisítás](../fortelyok.altalanos/hamisitas.md) fortély
 
 ##### Követelmény
 

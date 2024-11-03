@@ -6,11 +6,11 @@
 
 ##### Kiterjeszti ezeket
 
-- [Hadászat](../kepzettsegek.tudomanyos/hadaszat.md)
+[Hadászat](../kepzettsegek.tudomanyos/hadaszat.md): "Fedezőtüzet a visszavonuló lovasság mögé!"
 
 ##### Követelmény
 
--  Íjászat/Lövészet/Ostromlövészet - `6.szint
+Íjászat/Lövészet/Ostromlövészet - `6.szint
 
 <br />
 

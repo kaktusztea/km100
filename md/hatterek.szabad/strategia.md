@@ -6,7 +6,8 @@ Jellemzően NJK ismeret.
 
 ##### Kiterjeszti ezeket
 
-- [Hadászat](../kepzettsegek.tudomanyos/hadaszat.md)
+- [Hadászat](../kepzettsegek.tudomanyos/hadaszat.md): "A hegyláncot tartani tudjuk, ha a 4. hadtest egy hét múlva megérkezik a folyópartra."
+- [Történelemismeret](../kepzettsegek.tudomanyos/tortenelemismeret.md): "Kevesen tudják, hogy a XII. Zászlóháború döntő csatájában a párás idő okozta a S0gron papok összhangjainak elvesztését, amely Antoh szolgáinak irányába billentette a mérleget."
 
 ##### Követelmény
 
