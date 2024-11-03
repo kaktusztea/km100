@@ -37,6 +37,7 @@
 - [Áttekintés](003_attekintes.md)
 - [km100 alrendszerei](004_alrendszerek.md)
 - [Szimbólumok, Jelzők](005_szimbolumok_jelzok.md)
+- [Harci linkek](006_harci_linkek.md)
 
 ---
 ### 1. [Karakteralkotás](010_karakteralkotas.md)
