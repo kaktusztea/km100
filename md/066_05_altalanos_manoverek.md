@@ -284,10 +284,10 @@ Megpróbálsz ellenfeled mögé kerülni. Nem titokban, sunnyogva, lopakodva, ha
 
 Ha sikeres **Észlelés + Érzékenység** vs. **Lopakodás/rejtőzés** ellenpróbát dobtál és sikerült észrevétlenül ellenfeled mögé kerülni, megpróbálhatsz így végezni vele.
 
-- Nehézség: [Területre támadás](#ter%C3%BCletre--pontra-t%C3%A1mad%C3%A1s) manőver Nehézségei `-3`. Az ott leírt lehetséges célterületekből választhatsz.
+- Nehézség: [Területre támadás](#ter%C3%BCletre--pontra-t%C3%A1mad%C3%A1s) manőver adott Nehézsége `-3`. Az ott leírt lehetséges célterületekből választhatsz.
 - Fázisok: `V E`
+  - `V` fázisban: `Célpont VÉ = Mozgás jellegétől függő érték` (lásd [Észrevétlen támadás](065_01_harci_helyzetek.md#észrevétlen-támadás))
 - Követelmény: [Észrevétlen támadás](065_01_harci_helyzetek.md#észrevétlen-támadás), [Hátulról támadás](065_01_harci_helyzetek.md#hátulról-támadás) harci helyzetek
-- Célpont `VÉ = 30 + mozgás jellegétől függő módosító` (lásd [Észrevétlen támadás](065_01_harci_helyzetek.md#észrevétlen-támadás))
 - **Hatás**:
   - a választott helyre támadsz anélkül, hogy ellenfeled ennek tudatában lenne
   - Sebezz, ahogy a fegyvered sebez + a [Harci Anatómia](fortelyok.harci/harci_anatomia.md) bónuszait megkapod
