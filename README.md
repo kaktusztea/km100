@@ -2,9 +2,11 @@
 
 Egy fantasy világokra tervezett komplett, asztali (papír, kockák) szerepjáték rendszer ([CC](LICENSE)).
 
-⚜️ **[km100 szabályrendszer](./md/start.md)** ⚜️
+⚜️ **[km100 szabályrendszer](md/start.md)** ⚜️
 
 🚧 **[Fejlesztő portál](https://github.com/kaktusztea/km100/wiki)** 🚧
+
+🗡️ **[Harci linkek](md/006_harci_linkek.md)**
 
 ---
 ## Filozófia
