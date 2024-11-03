@@ -6,7 +6,7 @@
 
 ##### Fortélyok kiterjesztik:
 - [Élettan](../fortelyok.altalanos/elettan.md)
-- [Építészet](../fortelyok.altalanos/epiteszet.md)
+- [Építészet](../fortelyok.altalanos/epiteszet.md): "Az a torony pár hónap és leomlik."
 - [Belső síkok lényeinek ismerete](../fortelyok.misztikus/belso_sikok_lenyeinek_ismerete.md)
 - [Külső síkok lényeinek ismerete](../fortelyok.misztikus/kulso_sikok_lenyeinek_ismerete.md)
 - [Mechanika](../fortelyok.altalanos/mechanika.md)

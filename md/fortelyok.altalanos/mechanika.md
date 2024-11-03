@@ -2,12 +2,13 @@
 
 A Fizikai és Matematikai ismeretek is ide tartoznak?? ⭕TODO⭕
 
-**Kapcsolódó fortély**: [Építészet](epiteszet.md) ⭕TODO⭕
+**Kapcsolódó fortély**:
+- [Építészet](epiteszet.md) ⭕TODO⭕
+- [Keresés/Nyomolvasás](kereses_nyomolvasas.md): csapdához, titkosajtóhoz, amiben szerkezet van
 
 ##### Kiterjeszti ezeket
 
 - [Csapdaállítás](../kepzettsegek.alvilagi/csapdaallitas.md): mechanikus csapdák állításához követelmény lehet a Mechanika
-- [Keresés/Nyomolvasás](kereses_nyomolvasas.md): csapdához, titkosajtóhoz, amiben szerkezet van
 - [Szakma - Fegyverkovács](../kepzettsegek.vilagi/szakma.md)
 - [Szakma - Páncélkovács](../kepzettsegek.vilagi/szakma.md)
 - [Tudományok](../kepzettsegek.tudomanyos/tudomanyok.md)
