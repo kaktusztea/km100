@@ -41,7 +41,7 @@ CÉ = -30
 <br />
 
 ---
-### 🤞Kezdeményezés
+### 🤞 Kezdeményezés
 
 ```
 Kezdeményező dobás: KÉ + k10
@@ -56,7 +56,7 @@ Azonos kezdeményezésnél: egyszerre csapnak.
 <br />
 
 ---
-### 🤺Támadás
+### 🤺 Támadás
 
 ```
 Támadó dobás: TÉ + k100
@@ -82,7 +82,7 @@ Előnyös/hátrányos helyzetű harcos:
 <br />
 
 ---
-### 😵TÉ < VÉ  → VÉ csökkentés
+### 😵 TÉ < VÉ  → VÉ csökkentés
 
 Alaphelyzetben: nincs előnyös-hátrányos helyzet
 ```
@@ -118,7 +118,7 @@ Hátrányos helyzetű támadó:
 <br />
 
 ---
-### 🗡️Fegyver
+### 🗡️ Fegyver
 
 ```
 Fegyver SP: k20 + X
@@ -146,7 +146,7 @@ X: fegyver alap sebzése
 <br />
 
 ---
-### 💥TÉ >= VÉ  → Találat, Sebzés
+### 💥 TÉ >= VÉ  → Találat, Sebzés
 
 ```
 Páncéldobás: áldozat dob k10    
@@ -179,7 +179,7 @@ Lásd: [Sebzés táblázat](064_02_harc_menete_reszletes.md#sebzés)
 <br />
 
 ---
-### 🍎VÉ regenerálódás
+### 🍎 VÉ regenerálódás
 ```
 1 kör pihenéssel töltött idő:
     visszatér a harcban
@@ -200,7 +200,7 @@ Ez a siker hatása a szervezetre + heroizmus. Persze itt is lehetnek kivételek 
 <br />
 
 ---
-### 🔢Támadások száma
+### 🔢 Támadások száma
 
 ```
 1 + Plusz támadások
@@ -222,7 +222,7 @@ Lásd: [Fegyverek táblázat](068_fegyverek.md)
 <br />
 
 ---
-### 🚷Mozgásgátló Tényező (MGT)
+### 🚷 Mozgásgátló Tényező (MGT)
 
 Lásd a [Vértek, Páncélok - MGT fejezetét](069_vertek_pancelok.md#mozgásgátló-tényező-mgt).
 
