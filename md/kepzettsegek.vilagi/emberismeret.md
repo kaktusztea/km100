@@ -15,11 +15,11 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 **Kapcsolódó képzettség**: [Befolyásolás](befolyasolas.md), [Etikett](../kepzettsegek.vilagi/etikett.md)
 
 **Szabad Hátterek kiterjesztik**:
-- [Alkudozás](../hatterek.szabad/alkudozas.md)
-- [Csábítás](../hatterek.szabad/csabitas.md)
-- [Hazudozás](../hatterek.szabad/hazudozas.md)
-- [Megfélemlítés](../hatterek.szabad/megfelemlites.md)
-- [Szónoklás](../hatterek.szabad/szonoklas.md)
+- [Alkudozás](../hatterek.szabad/alkudozas.md): "Sajnálom uram, de ez **valódi** pamut, ennyiért egy vak koldus sem adná oda."
+- [Csábítás](../hatterek.szabad/csabitas.md): Kiszúrod, hogy az ellenkező nem közeledése nem épp ártatlan, rejtett szándékot sejtesz.
+- [Hazudozás](../hatterek.szabad/hazudozas.md): "Ugyan kérem, nem ma jöttem le a falvédőről."
+- [Megfélemlítés](../hatterek.szabad/megfelemlites.md): "Hiába lóbálja a kardját uram, fehér kendő nélkül nem engedhetem be."
+- [Szónoklás](../hatterek.szabad/szonoklas.md): "Még egy szélhámos... Azt a csűrt, amivel henceg, nem ő építtette, hanem még az öreg Szakáll kamarás uram."
 
 **Leírás**: Más emberek viselkedésének, hangulatának feltérképezését, belső motivációinak kiismerését célzó „tudomány". Ennek az ismeretnek az elsajátítását leginkább a nagybetűs ÉLET segíti. Sok-sok beszélgetés, néha keserű tapasztalat.
 

@@ -15,6 +15,7 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 - [Jogismeret](../hatterek.szabad/jogismeret.md)
 - [Pénzügyek](../hatterek.szabad/penzugyek.md)
 - [Rejtjelfejtő](../hatterek.szabad/rejtjelfejto.md)
+- [Térképészet](../hatterek.szabad/terkepeszet.md)
 - [Titkos szervezeti kultúra](../hatterek.szabad/titkos_szervezeti_kultura.md)
 
 **Szituáció**: [Nyomok értelmezése városi környzetben](../152_02_nyomok_nyomkovetes_varos.md)

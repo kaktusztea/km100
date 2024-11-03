@@ -2,7 +2,7 @@
 
 ##### Kiterjeszti ezeket
 
-- Érzékenység Tulajdonságodat segíti tapintás esetén
+[Érzékenység](014_01_tulajdonsagok.md#-%C3%A9rz%C3%A9kenys%C3%A9g-%EF%B8%8F) Tulajdonságodat segíti tapintás esetén
 
 ##### Követelmény: -
 

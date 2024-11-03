@@ -6,11 +6,11 @@ Képes vagy falanx formációba fejlődni, együttmaradni, fordulni - harci kör
 
 ##### Kiterjeszti ezeket
 
-- [Hadászat](../kepzettsegek.tudomanyos/hadaszat.md)
+[Hadászat](../kepzettsegek.tudomanyos/hadaszat.md): "Teknősbéka alakzatba!"
 
 ##### Követelmény
 
-- [Lándzsavívás](../kepzettsegek.harci/harcmodor.md) - `6.szint`
+[Lándzsavívás](../kepzettsegek.harci/harcmodor.md) - `6.szint`
 
 <br />
 

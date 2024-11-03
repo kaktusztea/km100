@@ -7,7 +7,7 @@
 **Kapcsolódik**: [Kultúrkör](../hatterek.kiemelt/kulturkor.md) (kapcsolódó kultúra)
 
 **Szabad Hátterek kiterjesztik**:
-- [Festészet](../hatterek.szabad/festeszet.md)
+- [Festészet](../hatterek.szabad/festeszet.md): Vászonra álmodod a lelkedben születő képeket.
 - [Irodalom](../hatterek.szabad/irodalom.md)
 - [Kalligráfia](../hatterek.szabad/kalligrafia.md)
 - [Szobrászat](../hatterek.szabad/szobraszat.md)

@@ -3,8 +3,9 @@
 Oh, az a birka nép! Mind a lábad előtt hever, mikor súlyos gondokkal tépelődve, mégis erős akarattal arcodon kilépsz eléjük a napfényre és lángra gyújtod lelküket...
 
 ##### Kiterjeszti ezeket
-- [Befolyásolás](../kepzettsegek.vilagi/befolyasolas.md)
-- [Emberismeret](../kepzettsegek.vilagi/emberismeret.md)
+
+- [Befolyásolás](../kepzettsegek.vilagi/befolyasolas.md): "Mit választotok? A hazug, kövér urat, aki soha nem fogott kaszát a kezébe, vagy engem, aki magam is egy folyómenti faluból származom?"
+- [Emberismeret](../kepzettsegek.vilagi/emberismeret.md): "Még egy szélhámos... Azt a csűrt, amivel henceg, nem ő építtette, hanem még az öreg Szakáll kamarás uram."
 
 <br />
 

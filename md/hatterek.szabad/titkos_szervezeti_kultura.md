@@ -2,7 +2,7 @@
 
 ##### Kiterjeszti ezeket
 
-- [Etikett](../kepzettsegek.vilagi/etikett.md)
+[Etikett](../kepzettsegek.vilagi/etikett.md)
 
 ##### Követelmény
 

@@ -2,11 +2,12 @@
 
 ##### Kiterjeszti ezeket
 
-- [Képzőművészet](../kepzettsegek.muveszeti/kepzomuveszet.md)
-- [Művészetismeret](../kepzettsegek.muveszeti/muveszetismeret.md)
+- [Képzőművészet](../kepzettsegek.muveszeti/kepzomuveszet.md): Vászonra álmodod a lelkedben születő képeket.
+- [Művészetismeret](../kepzettsegek.muveszeti/muveszetismeret.md): ismered, felismered adott [Kultúrkör](../hatterek.kiemelt/kulturkor.md) festőit, műveiket, történetüket, stílusukat.
 
 ##### Kapcsolódó fortély
-- [Hamisítás](../fortelyok.altalanos/hamisitas.md)
+
+[Hamisítás](../fortelyok.altalanos/hamisitas.md)
 
 ##### Követelmény
 - ⭕xyz

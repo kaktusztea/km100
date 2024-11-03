@@ -11,11 +11,11 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 **Kapcsolódó képzettség**: [Emberismeret](../kepzettsegek.vilagi/emberismeret.md)
 
 **Szabad Hátterek kiterjesztik**:
-- [Alkudozás](../hatterek.szabad/alkudozas.md)
-- [Csábítás](../hatterek.szabad/csabitas.md)
-- [Hazudozás](../hatterek.szabad/hazudozas.md)
-- [Megfélemlítés](../hatterek.szabad/megfelemlites.md)
-- [Szónoklás](../hatterek.szabad/szonoklas.md)
+- [Alkudozás](../hatterek.szabad/alkudozas.md): "Micsoda? A felét nem éri! Félkegyelműnek tűnök talán?!"
+- [Csábítás](../hatterek.szabad/csabitas.md): Eltekered a másik fejét. Hamar megered a nyelve, hisz a szerelem vak. Nem mágikus hatású.
+- [Hazudozás](../hatterek.szabad/hazudozas.md): "Arra mentek! Jajjh, a lábam!"
+- [Megfélemlítés](../hatterek.szabad/megfelemlites.md): "Kár lenne ezért a szép mellényért, nehezen jön ki belőle a vér..."
+- [Szónoklás](../hatterek.szabad/szonoklas.md): "Mit választotok? A hazug, kövér urat, aki soha nem fogott kaszát a kezébe, vagy engem, aki magam is egy folyómenti faluból származom?"
 
 **Leírás**: Mások meggyőzését, szándékainknak megfelelő cselekedetek elérését fedi. Alapból sima érveléstechinka, de a fenti Szabad Hátterekkel kiterjeszthető más szituációkra is. Ha nincs meg a kapcsolódó Szabad Háttér, akkor arra `-3` módósítóval dobsz próbát.
 
