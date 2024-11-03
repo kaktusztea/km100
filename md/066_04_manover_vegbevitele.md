@@ -22,9 +22,9 @@ Manővert végző teszi. `Próbadobás vs Célszám`
 ### Megakasztás (M)
 
 A Megakasztás az első fázis a Manőver végrehajtása során.\
-Megelőző támadási forma, melyre **az Ellenfél** jogosult teljes, fegyveres `TÉ` harcértékével. Ez egy soron kívüli extra támadás. Csak akkor szükséges, ha az adott típusú manőver fázisai között ez szerepel.
+Megelőző támadási forma, melyre **az Ellenfél** jogosult teljes, fegyveres `TÉ` harcértékével. Ez egy soron kívüli extra támadás, nincs rá támadások számából adódó levonás sem. Csak akkor szükséges, ha az adott típusú manőver fázisai között ez (`M`) szerepel.
 
-Ha az így érkező támadás sebző, akkor a Manőver nem sikerült. Tipikus példája a [Belharcba kerülés](066_05_altalanos_manoverek.md#belharcba-kerülés).
+Ha az így érkező támadás találat (nem kell, hogy sebző is legyen), akkor a Manőver nem sikerült. Tipikus példája a [Belharcba kerülés](066_05_altalanos_manoverek.md#belharcba-kerülés).
 
 <br />
 
@@ -107,18 +107,6 @@ Amennyiben nem teljesíti, akkor is nekifuthat, de az **Ellenpróba** dobásán�
 A Manőver ha sikeres volt, ha nem – az Ellenfél legközelebb már számít az ilyen jellegű támadásra, ezért amennyiben ismét ezt a Manővert kísérli meg az alkalmazó, akkor az **Ellenpróba** során a célszám már `+2`-vel nőni fog. Ez a büntetés **nem** halmozódik.
 
 A fenti módosító akkor is megjelenhet, ha az Ellenfél az alkalmazót már látta korábban küzdeni és egy konkrét Manővert gyakran alkalmazni. KM dönt.
-
----
-### Fegyverméret-kategóriák
-
-A Fegyverméret-kategóriák adta különbségek az **Ellenpróbánál** (`E`) módosítóként **nem** szükségesek amennyiben a Manőverben van kötelező (**M**)egakasztás, vagy (**V**)égrehajtás fázis, mert ez a hatás résztvevők harcértékeiben már benne foglaltatnak.
-
----
-### Észrevétlen támadás vs Manőver
-
-Vannak Manőverek, amelyek [Észrevétlen támadást](065_01_harci_helyzetek.md#észrevétlen-támadás) igényelnek.
-
-Kérdés, hogy ilyenkor miért dobunk mégis **Ellenpróbát**? Az ilyen helyzetben a **Manőver Alap** egyfajta harci ösztönként működik - nem véletlen, hogy az elköltött `HM` pontokon alapszik, amelyek az általános harci tapasztalatot szimbolizálják.
 
 ---
 

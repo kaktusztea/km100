@@ -11,20 +11,29 @@ Ha minden kötelező fázisa sikeres a végrehajtó szempontjából (`V E`) és 
 Manőver csak minimum `3.szintű` Harcmodor használata esetén alkalmazható.
 
 ---
-### ⚜️ Harci szituációk és Manőverek
+### ⚜️ Harci szituációk és Manőverek - Meglepetés
 
-[Meglepett](065_01_harci_helyzetek.md#meglepetés), [Készületlen](065_01_harci_helyzetek.md#készületlenség) az Ellenfél:
-- Kimarad a **Megakasztás** (M) és az **Ellenpróba** (E) fázis
-- Végrehajtás `TÉ:+20` - az egész Manőver. Ez megegyezik - és azonos - a [Meglepetés](065_01_harci_helyzetek.md#meglepetés) bónuszával.
+[Meglepett](065_01_harci_helyzetek.md#meglepetés) / [Készületlen](065_01_harci_helyzetek.md#készületlenség) az Ellenfél:
+- Kimarad a **Megakasztás** (`M`) fázis (ha van)
+- **Ellenpróba** Nehézsége: `-3`
+- Végrehajtás `TÉ:+40` (`TÉ:+20` helyett).
+
+### ⚜️ Harci szituációk és Manőverek - Észrevétlen támadás
+
+Vannak Manőverek, amelyek [Észrevétlen támadást](065_01_harci_helyzetek.md#észrevétlen-támadás) igényelnek.
+
+Kérdés, hogy ilyenkor miért dobunk mégis **Ellenpróbát**? Az ilyen helyzetben a **Manőver Alap** egyfajta harci ösztönként működik - nem véletlen, hogy az elköltött `HM` pontokon alapszik, amelyek az általános harci tapasztalatot szimbolizálják.
 
 ---
 ### ⚜️ Harci taktikák és Manőverek
 
-Manőver alkalmazásakor folytatható: [Támadó taktika](065_02_harci_taktikak.md#támadó-taktika)
+Manőver alkalmazásakor folytatható:
+- [Támadó taktika](065_02_harci_taktikak.md#támadó-taktika)
 
-Manőver alkalmazásakor **nem** folytatható: [Teljes Védekezés Taktika](065_02_harci_taktikak.md#teljes-védekezés-taktika), vagy [Védő Taktika](065_02_harci_taktikak.md#védő-taktika)
-
-[Roham:](065_02_harci_taktikak.md#roham-taktika) csak amelyik Manővernél külön meg van említve
+Manőver alkalmazásakor **NEM** folytatható:
+- [Teljes Védekezés Taktika](065_02_harci_taktikak.md#teljes-védekezés-taktika)
+- [Védő Taktika](065_02_harci_taktikak.md#védő-taktika)
+- [Roham:](065_02_harci_taktikak.md#roham-taktika) csak amelyik Manővernél külön meg van említve
 
 ---
 ### ⚜️ Manőverek nehézsége
@@ -32,6 +41,11 @@ Manőver alkalmazásakor **nem** folytatható: [Teljes Védekezés Taktika](065_
 A Manőver **Nehézségét** egy `[2;12]` intervallumból vett számértékkel jellemezzük - ezzel szerepel az [Ellenpróba](066_04_manover_vegbevitele.md#ellenpróba-e) dobásban a Célszám megállapításánál.
 
 A km100 Manővereinek Nehézsége azok adatlapján szerepel - lásd: [Általános](066_05_altalanos_manoverek.md), [Belharcos](066_06_belharcos_manoverek.md) Manőverek.
+
+---
+### ⚜️ Fegyverméret-kategóriák
+
+A Fegyverméret-kategóriák adta különbségek az **Ellenpróbánál** (`E`) módosítóként **nem** szükségesek amennyiben a Manőverben van kötelező (**M**)egakasztás, vagy (**V**)égrehajtás fázis, mert ezt a hatást a résztvevők harcértékeibe már benne foglaltuk.
 
 <br />
 
