@@ -6,6 +6,7 @@ Gyakorlott vagy a lóhátról való íjászatban, ennek hatására kisebbek nega
 🔒 **Követelmény**: -
 
 🌟 **Hatás**:
+- Léptetés esetén: `CÉ:-10`
 - Ügetés esetén: `CÉ:-20`
 - Vágta esetén: `CÉ:-40
 
@@ -19,6 +20,7 @@ Gyakorlott vagy a lóhátról való íjászatban, ennek hatására kisebbek nega
 - [Lovas harc](../fortelyok.harci/lovas_harc.md) - `2.fok`
 
 🌟 **Hatás**:
+- Léptetés esetén: nincs levonás
 - Ügetés esetén: `CÉ:-10`
 - Vágta esetén: `CÉ:-20
 
@@ -32,7 +34,8 @@ Gyakorlott vagy a lóhátról való íjászatban, ennek hatására kisebbek nega
 - [Lovas harc](../fortelyok.harci/lovas_harc.md) - `3.fok`
 
 🌟 **Hatás**:
-- Ügetés esetén: nincs büntetés
+- Léptetés esetén: nincs levonás
+- Ügetés esetén: nincs levonás
 - Vágta esetén: `CÉ:-10
 
 <br />
