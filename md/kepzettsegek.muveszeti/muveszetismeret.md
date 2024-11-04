@@ -9,7 +9,7 @@
 **Szabad Hátterek kiterjesztik**:
 - [Éneklés](../hatterek.szabad/enekles.md): felismered a híres dalnokokat, dallamaikat, slágereiket.
 - [Festészet](../hatterek.szabad/festeszet.md): ismered, felismered adott [Kultúrkör](../hatterek.kiemelt/kulturkor.md) festőit, műveiket, történetüket, stílusukat.
-- [Irodalom](../hatterek.szabad/irodalom.md)
+- [Irodalom](../hatterek.szabad/irodalom.md): Ismered adott [Kultúrkör](../hatterek.kiemelt/kulturkor.md) neves irodalmárait, íróit, költőit és stílusukat, műveiket.
 - [Kalligráfia](../hatterek.szabad/kalligrafia.md)
 - [Színjátszás](../hatterek.szabad/szinjatszas.md)
 - [Szobrászat](../hatterek.szabad/szobraszat.md)

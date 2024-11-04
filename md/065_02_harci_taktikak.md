@@ -38,6 +38,12 @@ A szándékot, hogy Támadó taktikát akarsz alkalmazni, előre be kell jelente
 
 ❌ Támadó taktika **NEM** alkalmazható [Észrevétlen támadás](065_01_harci_helyzetek.md#észrevétlen-támadás) szituációban.
 
+✅ A Támadó taktika alkalmazható **Kezdeményező taktikával** együtt.
+
+✅ A Támadó taktika alkalmazható **Kiváró taktikával** együtt.
+
+❌ A Kezdeményező taktika **NEM** alkalmazható a fentieken kívül más taktikával együtt.
+
 ---
 ### Védő taktika
 
@@ -77,11 +83,15 @@ Fontos, hogy másra nem pazarolhatod figyelmedet, kizárólag a védekezésre. H
 
 Ha mindenáron magadhoz akarod ragadni a kezdeményezést megteheted, de ennek ára van. A kapkodás sebezhetővé tesz. Kezdeményező taktika alkalmazása esetén megnövelheted **Kezdeményező Értékedet** maximum `10`-el de cserébe kétszer akkora **Védő Érték** csökkenést szenvedsz el **az ellenfél első támadásával szemben** (akár megnyerted így a kezdeményezést, akár nem)
 
-Tehát `+1KÉ` → `-2VÉ` (max `+KÉ:10`)
+Tehát `KÉ:+1` → `VÉ:-2` (max `+KÉ:10`)
 
-✅ A Kezdeményező taktika alkalmazható Támadó taktikával együtt.
+✅ A Kezdeményező taktika alkalmazható **Támadó taktikával** együtt, de ügyelj a [Védő Érték eltolás ökölszabályra](#%C3%B6k%C3%B6lszab%C3%A1ly-v%C3%A9d%C5%91-%C3%A9rt%C3%A9k-eltol%C3%A1sra-)!
 
-❌ A Kezdeményező taktika **NEM** alkalmazható Védekező Taktikával kombinálva.
+✅ A Kezdeményező taktika alkalmazható **Visszafogott taktikával** együtt.
+
+✅ A Kezdeményező taktika alkalmazható **Érintő taktikával** együtt.
+
+❌ A Kezdeményező taktika **NEM** alkalmazható a fentieken kívül más taktikával együtt.
 
 ---
 ### Kiváró Taktika
@@ -92,9 +102,17 @@ Ha úgy döntesz, hogy a fenti feltételekkel lemondasz a kezdeményezésről, c
 
 ✅ A Kiváró taktika alkalmazható **Támadó taktikával** együtt.
 
-✅ A Kiváró taktika roham **ellen** is bevethető.
+✅ A Kiváró taktika alkalmazható **Visszafogott taktikával** együtt.
 
-❌ A Kiváró taktika **NEM** használható **Védő Taktikával** együtt, sőt több ellenféllel való harc esetén sem!
+✅ A Kiváró taktika alkalmazható **Támadás Erőből taktikával** együtt.
+
+✅ A Kiváró taktika alkalmazható **Érintő taktikával** együtt.
+
+✅ A Kiváró taktika **Roham ellen** is bevethető.
+ 
+❌ A Kiváró taktika **NEM** alkalmazható a fentieken kívül más taktikával együtt.
+
+❌ A Kiváró taktika **NEM** használható több ellenféllel való harc esetén.
 
 ---
 ### Fárasztó taktika ⇄

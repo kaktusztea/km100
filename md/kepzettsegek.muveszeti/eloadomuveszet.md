@@ -7,7 +7,7 @@
 **Szabad Hátterek kiterjesztik**:
 - [Kultúrkör](../hatterek.kiemelt/kulturkor.md)
 - [Éneklés](../hatterek.szabad/enekles.md): nézők előtt dalolsz a hallgatók örömére.
-- [Irodalom](../hatterek.szabad/irodalom.md)
+- [Irodalom](../hatterek.szabad/irodalom.md): Versek, novellák, regények, históriák, színdarabok írása.
 - [Színjátszás](../hatterek.szabad/szinjatszas.md)
 - [Tánc](../hatterek.szabad/tanc.md)
 - [Tánc: speciális/belső stílus](../hatterek.szabad/tanc_belso_stilus.md)

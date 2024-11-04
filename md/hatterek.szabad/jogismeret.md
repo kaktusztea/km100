@@ -9,7 +9,7 @@
 
 ##### Követelmény
 
-- ⭕xyz
+[Írástudó](../fortelyok.altalanos/irastudo.md)] fortély
 
 <br />
 
