@@ -62,6 +62,8 @@ Tehát vállalásodtól függően így módosíthatod harcértékeidet. Pl:
 
 ❌ Védő taktika **NEM** alkalmazható [Észrevétlen támadás](065_01_harci_helyzetek.md#észrevétlen-támadás) szituációban.
 
+❌ Alkalmazása során **NEM** használhatóak más harci taktikák.
+
 ---
 ### Teljes Védekezés Taktika
 
@@ -76,7 +78,7 @@ Ha úgy döntesz, hogy a következő körben csak a védekezéssel törődsz (el
 
 Fontos, hogy másra nem pazarolhatod figyelmedet, kizárólag a védekezésre. Ha nem így teszel, vagy nem vagy képes a folyamatos hátrálásra (például egy fal miatt, ami elzárja mögötted az utat), akkor a KM – tetszése szerint – csökkentheti a fenti `VÉ` módosítódat, akár `0`-ig is.
 
-❌  Alkalmazása során **NEM** használhatóak más harci taktikák.
+❌ Alkalmazása során **NEM** használhatóak más harci taktikák.
 
 ---
 ### Kezdeményező taktika
@@ -133,9 +135,9 @@ VÉ csökkentésre:
  további +5 VÉ csökkentés
 ```
 
-❌  Alkalmazása során **NEM** használhatóak más harci taktikák.
+❌ Alkalmazása során **NEM** használhatóak más harci taktikák.
 
-Csak azonos, vagy Előnyös helyzetből lehet alkalmazni. Tehát azonos, vagy nagyobb fegyverméretnél.
+Csak **Előnyös helyzetből** lehet alkalmazni. Tehát azonos, vagy nagyobb fegyverméretnél.
 
 Ha fárasztani kívánod ellenfeledet, ellenállását megtörni anélkül, hogy sebet ejtenél rajta, akkor a harc ugyanúgy folyik, mint más esetben, csak `+2`-vel nő **VÉ csökkentésed** ha nem érsz el találatot támadó dobásod során.
 
@@ -163,7 +165,11 @@ TÉ:-30  →  nincs kockadobás
 
 A [Harci anatómia](fortelyok.harci/harci_anatomia.md) fortély minden foka `10`-zel csökkenti a `TÉ` büntetést.
 
-❌  Alkalmazása során **NEM** használhatóak más harci taktikák.
+✅ A Visszafogott taktika alkalmazható **Kezdeményező taktikával** együtt.
+
+✅ A Visszafogott taktika alkalmazható **Kiváró taktikával** együtt.
+
+❌ A Visszafogott taktika **NEM** alkalmazható a fentieken kívül más taktikával együtt.
 
 ---
 ### Roham taktika
@@ -184,7 +190,7 @@ Módosítók az első oda-vissza csapásnál:
 
 Fontos, hogy Rohamnál is számítanak a fegyverméret kategóriák, tehát egy pikás védekezőt megrohamozni nem mindig bölcs dolog...
 
-❌  Alkalmazása során **NEM** használhatóak más harci taktikák.
+❌ Alkalmazása során **NEM** használhatóak más harci taktikák.
 
 ---
 ### Öngyilkos roham taktika
@@ -198,14 +204,16 @@ Módosítók az első oda-vissza csapásnál:
 - `VÉ` csökkentés duplázódik
 - Sebzés: `+7 SP`
 
-❌  Alkalmazása során **NEM** használhatóak más harci taktikák.
+❌ Alkalmazása során **NEM** használhatóak más harci taktikák.
 
 ---
 ### Támadás erőből taktika
 
 Erre a [Támadás erőből](fortelyok.harci/tamadas_erobol.md) fortélyt használhatod (lásd a leírását).
 
-❌  Alkalmazása során **NEM** használhatóak más harci taktikák.
+✅ A Támadás erőből taktika alkalmazható **Kiváró taktikával** együtt.
+
+❌ A Támadás erőből taktika **NEM** alkalmazható a fentieken kívül más taktikával együtt.
 
 ---
 ### Érintő taktika ⇄
@@ -216,7 +224,11 @@ KÉ:0, TÉ:0, VÉ:-10
 
 Ha csak meg akarunk érinteni valakit harc közben, az könnyebb, mint puszta kézzel sérülést okozó támadást végbevinni. Az Érintő támadásnál a Puszta kéz harcértékei ezért a fentiek. Tehát a támadásra kisebb a büntetés, a védekezés viszont nem változik.
 
-❌  Alkalmazása során **NEM** használhatóak más harci taktikák.
+✅ Az Érintő taktika alkalmazható **Kezdeményező taktikával** együtt.
+
+✅ Az Érintő taktika alkalmazható **Kiváró taktikával** együtt.
+
+❌ A Érintő taktika **NEM** alkalmazható a fentieken kívül más taktikával együtt.
 
 ---
 
