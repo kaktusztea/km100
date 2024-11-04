@@ -41,6 +41,8 @@ Gyors elérésű link gyűjtemény - játékosok számára.
 [Gyógyulás](061_04_gyogyulas.md)
 
 ---
-### Páncélok
+### Páncélok, Fegyverek
 
 [Vértek, Páncélok](069_vertek_pancelok.md)
+
+[Fegyverek, pajzsok](068_fegyverek.md)
