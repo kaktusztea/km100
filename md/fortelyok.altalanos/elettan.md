@@ -12,7 +12,7 @@ A speciálisabb fajokhoz külön Szabad Háttér kell a [Különleges faj boncol
 
 - [Nyomozás](../kepzettsegek.vilagi/nyomozas.md): boncolás, halott vizsgálata
 - [Nekromancia](../kepzettsegek.arkanumok/nekromancia.md) arkánum: például homonkulusz kreáláshoz
-- [Lexium](../kepzettsegek.tudomanyos/lexium.md): ⭕
+- [Lexikum](../kepzettsegek.tudomanyos/lexikum.md): ⭕
 
 
 #### TODO

@@ -10,16 +10,16 @@ A külső síkok túlvilági teremtményeinek ismerete. Alapos, előtörténette
 - dzsinnek
 
 ##### Kiterjeszti ezeket:
-- [Lexium](../kepzettsegek.tudomanyos/lexium.md)
+- [Lexikum](../kepzettsegek.tudomanyos/lexikum.md)
 
 ---
 #### 1. fok
 
 🔒 **Követelmény**:
 - Előtörténet
-- [Lexium](../kepzettsegek.tudomanyos/lexium.md) - `6.szint`
+- [Lexikum](../kepzettsegek.tudomanyos/lexikum.md) - `6.szint`
 
-🌟 **Hatás**: Dobhatsz [Lexium](../kepzettsegek.tudomanyos/lexium.md) képzettségpróbát egyes lények ismeretére.
+🌟 **Hatás**: Dobhatsz [Lexikum](../kepzettsegek.tudomanyos/lexikum.md) képzettségpróbát egyes lények ismeretére.
 
 <br />
 

@@ -4,7 +4,7 @@
 
 - [Nyomozás](../kepzettsegek.vilagi/nyomozas.md)
 - [Szakma: hivatalnok](../kepzettsegek.vilagi/szakma.md)
-- [Lexium](../kepzettsegek.tudomanyos/lexium.md)
+- [Lexikum](../kepzettsegek.tudomanyos/lexikum.md)
 
 ##### Követelmény
 

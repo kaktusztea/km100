@@ -1,4 +1,4 @@
-#### 🔵 Lexium
+#### 🔵 Lexikum
 
 Általános ismeret amely a tárgyi tudásra támaszkodó tudományok alapját adja. Könyvtárazás, tárgyi ismeretek gyűjtése, rengeteg olvasás, magolás.
 

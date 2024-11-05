@@ -15,7 +15,7 @@ Kapcsolódó Képzettség-próba:
 - [Etikett](../kepzettsegek.vilagi/etikett.md)
 - [Képzőművészet](../kepzettsegek.muveszeti/kepzomuveszet.md)
 - [Művészetismeret](../kepzettsegek.muveszeti/muveszetismeret.md)
-- [Lexium](../kepzettsegek.tudomanyos/lexium.md)
+- [Lexikum](../kepzettsegek.tudomanyos/lexikum.md)
 
 ##### Kapcsolódó Szabad Háttér
 
