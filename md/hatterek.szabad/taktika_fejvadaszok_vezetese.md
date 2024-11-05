@@ -4,6 +4,8 @@ Képes vagy egy fejvadász alakulat részeként közösen cselekedni, az alakula
 
 Harci jelnyelv alapján tudsz cselekedni, összehangolt csoportként mozogni.
 
+⭕TODO: Számszerű előnyök
+
 ##### Kiterjeszti ezeket
 
 [Hadászat](../kepzettsegek.tudomanyos/hadaszat.md): "Ketten a tetőre, magitor savfelhőt a teraszra. Mortel, ugorhatsz!"
