@@ -1,6 +1,6 @@
 ## Primer és Szekunder ismeretek kategóriái
 
-Szétválasztottuk két halmazra a `km100` rendszeréek `KP`-ból tanulható ismereteit "kalandozásban nagyon hasznos" és "kalandozásban közepesen hasznos" kategóriákra. Ennek oka a színesebb karakterek és a kevésbé "táp" ismeretek helyzetbe hozása.
+Szétválasztottuk két halmazra a `km100` rendszerének `KP`-ból tanulható ismereteit "kalandozásban nagyon hasznos" és "kalandozásban közepesen hasznos" kategóriákra. Ennek oka a színesebb karakterek és a kevésbé "táp" ismeretek helyzetbe hozása.
 
 ### Primer ismeretek
 
