@@ -145,7 +145,7 @@ Ajánlott fortélyok:
 - [Zártörő](fortelyok.altalanos/zartoro.md)
 
 Ajánlott képzettségek:
-- [Tudományok](kepzettsegek.tudomanyos/tudomanyok.md)
+- [Számtan](kepzettsegek.tudomanyos/szamtan.md)
     - [Térképészet](hatterek.szabad/terkepeszet.md) SzH
 
 <br />

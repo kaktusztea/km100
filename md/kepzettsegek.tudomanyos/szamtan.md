@@ -1,27 +1,25 @@
-#### 🔵 Tudományok
+#### 🔵 Számtan
+
+Professzor, vagy számokkal dolgozó tudósember vagy, a tudás a legfőbb kincsed. A képzettség Általános ismeret amely a számokkal való ismeretekre támaszkodó tudományok alapját adja.
+
+Igazi potenciálját a kiterjesztését megvalósító Fortélyokkal és Szabad Hátterekkel érhetjük el.
 
 **Próba:** dobható
 
 **Domináns Tulajdonságok**: Intelligencia, Emlékezet
 
 ##### Fortélyok kiterjesztik:
-- [Élettan](../fortelyok.altalanos/elettan.md)
 - [Építészet](../fortelyok.altalanos/epiteszet.md): "Az a torony pár hónap és leomlik."
-- [Belső síkok lényeinek ismerete](../fortelyok.misztikus/belso_sikok_lenyeinek_ismerete.md)
-- [Külső síkok lényeinek ismerete](../fortelyok.misztikus/kulso_sikok_lenyeinek_ismerete.md)
-- [Mechanika](../fortelyok.altalanos/mechanika.md)
+- [Mechanika](../fortelyok.altalanos/mechanika.md): "Rittyentettem egy átemelő darut, amivel könnyebb lesz az öntözés."
 
 ##### Szabad Hátterek kiterjesztik
 - [Asztrológia](../hatterek.szabad/asztrologia.md)
-- [Heraldika](../hatterek.szabad/heraldika.md)
-- [Jogismeret](../hatterek.szabad/jogismeret.md)
 - [Pénzügyek](../hatterek.szabad/penzugyek.md)
 - [Rejtjelfejtő](../hatterek.szabad/rejtjelfejto.md)
 - [Térképészet](../hatterek.szabad/terkepeszet.md)
 
-
-**Leírás**: Professzor, vagy tudósember vagy, a tudás a legfőbb kincsed.
-
+#### Követelmények:
+- [Írástudó](../fortelyok.altalanos/irastudo.md)
 
 <br />
 

@@ -22,7 +22,7 @@
 
 **9.szint:**
 - Be tudja azonosítani a jelenlét csoportját (például démon)
-- ha van kapcsolódó ismerete (pl. [Tudományok](../../kepzettsegek.tudomanyos/tudomanyok.md) képzettség + [Belső síkok ismerete: elementálok](../../fortelyok.misztikus/belso_sikok_lenyeinek_ismerete.md)) Szabad Háttér, akkor be is tudja azonosítani (Nehézség a lény ismertségétől függ, KM dönt)
+- ha van kapcsolódó ismerete (pl. [Számtan](../../kepzettsegek.tudomanyos/szamtan.md) képzettség + [Belső síkok ismerete: elementálok](../../fortelyok.misztikus/belso_sikok_lenyeinek_ismerete.md)) Szabad Háttér, akkor be is tudja azonosítani (Nehézség a lény ismertségétől függ, KM dönt)
 
 **15.szint:** 
 

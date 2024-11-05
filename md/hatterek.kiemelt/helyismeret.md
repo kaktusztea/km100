@@ -11,7 +11,7 @@
 
 ##### Kiterjeszti ezeket:
 - [Városi jártasság](../kepzettsegek.vilagi/varosi_jartassag.md)
-- [Történelemismeret](../kepzettsegek.tudomanyos/tortenelemismeret.md) - csak ha nagyon konkrétan helyi témával kapcsolatos ismeretről van szó!
+- [Lexium](../kepzettsegek.tudomanyos/lexium.md): csak ha konkrétan helyi témával kapcsolatos ismeretről van szó, akkor szükséges. Ne legyünk túl szigorúak.
 
 ##### Mit fed le
 
