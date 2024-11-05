@@ -33,11 +33,12 @@ Igazi potenciálját a kiterjesztését megvalósító Fortélyokkal és Szabad 
 | Mester (9)       | ⭕xyz <br /> **Példa**: x                                                          |             |
 | Nagymester (12)  | ⭕xyz <br /> **Példa**: x                                                          |             |
 | Élő legenda (15) | ⭕xyz <br /> **Példa**: x                                                          |             |
+
 ##### Képzettség Bónuszok
 
-9. szint: ⭕TODO⭕; Hatodkori ismeretek
-12. szint: Ötödkori ismerete; Postcognition álmok (látja a valós régmúlt eseményeit álmában)
-15. szint: Negyedkori ismeretek; Jósolni képes történelmi/társadalmi mértékben
+- `9. szint`: ⭕TODO⭕; Hatodkori ismeretek
+- `12. szint`: Ötödkori ismerete; Postcognition álmok (látja a valós régmúlt eseményeit álmában)
+- `15. szint`: Negyedkori ismeretek; Jósolni képes történelmi/társadalmi mértékben
 
 ##### Próbák
 
