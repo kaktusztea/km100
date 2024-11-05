@@ -132,9 +132,9 @@ Az aktív előadást igénylő művészeteket szeparáltuk az **Előadóművész
 
 🔵 [Méregkeverés](kepzettsegek.tudomanyos/meregkeveres.md) 🅿️ <sup><sub>(90%)</sub></sup>
 
-🔵 [Történelemismeret](kepzettsegek.tudomanyos/tortenelemismeret.md) <sup><sub>(40%)</sub></sup> 
+🔵 [Lexium](kepzettsegek.tudomanyos/lexium.md) <sup><sub>(40%)</sub></sup> 
 
-🔵 [Tudományok](kepzettsegek.tudomanyos/tudomanyok.md) <sup><sub>(10%)</sub></sup>
+🔵 [Számtan](kepzettsegek.tudomanyos/szamtan.md) <sup><sub>(10%)</sub></sup>
 
 ---
 ## Misztikus képzettségek 🅿️

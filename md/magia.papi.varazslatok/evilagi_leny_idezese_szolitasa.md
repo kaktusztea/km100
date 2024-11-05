@@ -23,7 +23,7 @@
   - `+3` szint Kisszférára
   - állati komponens szükséges. Pédául medvéhez egy medvefog.
 
-**9.szint:** gyengébb szörny (medvehéja, Panthal-massza, Káosz-lények, Kráni harcikutya)
+**9.szint:** gyengébb szörny (medvehéja, Panthal-massza, Káosz-lények, Kr4ni harcikutya)
 
 **12.szint:** erős szörny (Sárkánygyík, Kékgyík)
 

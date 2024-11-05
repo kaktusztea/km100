@@ -20,7 +20,7 @@ Például titkos iratok átböngészése. Egy felfedezett ősi címer elemzése.
   - [Heraldika](hatterek.szabad/heraldika.md)
   - [Jogismeret](hatterek.szabad/jogismeret.md)
   - [Pénzügyek](hatterek.szabad/penzugyek.md)
-  - [Rejtjelfejtő](hatterek.szabad/rejtjelfejto.md)  (ennél használható a [Tudományok](kepzettsegek.tudomanyos/tudomanyok.md)) képzettség is
+  - [Rejtjelfejtő](hatterek.szabad/rejtjelfejto.md)  (ennél használható a [Számtan](kepzettsegek.tudomanyos/szamtan.md)) képzettség is
 
 ---
 

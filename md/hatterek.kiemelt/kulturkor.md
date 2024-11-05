@@ -15,7 +15,7 @@ Kapcsolódó Képzettség-próba:
 - [Etikett](../kepzettsegek.vilagi/etikett.md)
 - [Képzőművészet](../kepzettsegek.muveszeti/kepzomuveszet.md)
 - [Művészetismeret](../kepzettsegek.muveszeti/muveszetismeret.md)
-- [Történelemismeret](../kepzettsegek.tudomanyos/tortenelemismeret.md)
+- [Lexium](../kepzettsegek.tudomanyos/lexium.md)
 
 ##### Kapcsolódó Szabad Háttér
 
@@ -26,9 +26,6 @@ Kapcsolódó Képzettség-próba:
 ##### Kapcsolódó fortély
 - [Hamisítás](../fortelyok.altalanos/hamisitas.md) fortély
 - [Taktika: Testőrség](../hatterek.szabad/taktika_testorseg.md) fortély
-
-##### Követelmény
-- Lásd a fokok leírását!
 
 ##### Leírás
 
@@ -49,9 +46,7 @@ Mi tartozik bele ebbe az ismeretbe? Az adott kultúrkörön belül a(z)...
 
 ⚡Példa-2: mikor van az éves Ocsánysimogató ünnep és mit kell olyankor csinálni?
 
-Kalandozásai során a karakter számos helyre elvetődik.  Ha ott rászán időt az helyi kultúra tanulmányozására, akkor már ott is képes lesz Kultúrkör-függő képzettségeit maximális hatékonysággal kiaknázni, büntetés nélküli próbákat dobni rá. Ez minden, kultúrköri ismeretet igénylő képzettségre igaz, viszont a Kultúrkör igényük (fokban) eltérő.
-
-Hogy mely foka adja meg az adott kultúrkörben a levonások nélküli használatot, az az adott képzettség leírásánál szerepel. A KM ezt - az adott szituációban - felülbírálhatja. 
+Kalandozásai során a karakter számos helyre elvetődik.  Ha ott rászán időt az helyi kultúra tanulmányozására, akkor már ott is képes lesz Kultúrkör-függő képzettségeit maximális hatékonysággal kiaknázni, büntetés nélküli próbákat dobni rá. Ez minden, kultúrköri ismeretet igénylő képzettségre igaz.
 
 Ha nincs épp meg az adott szituációban a szükséges kultúrkörhöz tartozó **Kultúrkör** Szabad Háttér, akkor `-3` büntetés jár adott képzettségpróbák dobásaira, amíg a karakter rá nem szánja a szükséges időt a kapcsolódó Kultúrkör Háttér megszerzésére.
 
@@ -61,13 +56,13 @@ Ha nincs épp meg az adott szituációban a szükséges kultúrkörhöz tartozó
 - pyarr0ni
 - shad0ni
 - gorv1ki
-- kráni
+- kr4ni
 - 1barai
 - törpe
 - elf
 - ⭕TODO⭕
 
-⭕TODO: a lenti Történelemismeret képzettség leírásából importált listát szinkronba hozni a Kultúrkörökkel.⭕
+⭕TODO: a lenti importált listát szinkronba hozni a Kultúrkörökkel.⭕
 
 ÉSZAKON:
 
@@ -77,7 +72,7 @@ Ha nincs épp meg az adott szituációban a szükséges kultúrkörhöz tartozó
 
 DÉLEN
 
-- Krán és a déli nomádok
+- Kr4n és a déli nomádok
 - Py4rroni Államszövetség és Yllin0r
 - Shad0n és környéke
 - Gorv1k és a Kereskedőhercegségek

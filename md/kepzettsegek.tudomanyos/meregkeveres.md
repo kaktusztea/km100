@@ -25,7 +25,7 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 | Kismester (6)    | ⭕xyz <br /> **Példa**: x                                                                                                                                                                           | Lásd: "Limitek" bekezdés |
 | Mester (9)       | Dobhatsz ⚪**Érzékenység-próbát** méregérzékelésre fizikai érzékeid (látás, szaglás, ízlelés) használata nélkül is. A mérgezett borba bele sem kell innod, szagolnod, egyszerűen megérzed a mérget. | Lásd: "Limitek" bekezdés |
 | Nagymester (12)  | Érintésed mérgező, de csak ha akarod. Izzadságod, nyálad, extrém esetben véred mérgező lesz mások számára. Egyfajta "méreg-testkontroll".<br />⭕Hányadik szintű, stb. mérget?⭕                     | Lásd: "Limitek" bekezdés |
-| Élő legenda (15) | - Immunissá válsz a mérgekre<br />- Ha kráni vagy, Banarát készithetsz                                                                                                                             | Lásd: "Limitek" bekezdés |
+| Élő legenda (15) | - Immunissá válsz a mérgekre<br />- Ha kr4ni vagy, Banarát készithetsz                                                                                                                             | Lásd: "Limitek" bekezdés |
 
 <br />
 

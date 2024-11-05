@@ -146,7 +146,7 @@ Tehát a próbát `3 + Érzékenység  vs  Próba célszám` értékekkel dobja.
 - [Orvoslás](kepzettsegek.vilagi/orvoslas.md) ⇆ [Méregkeverés](kepzettsegek.tudomanyos/meregkeveres.md)
 - [Alkímia](kepzettsegek.tudomanyos/alkimia.md) ⇆ [Méregkeverés](kepzettsegek.tudomanyos/meregkeveres.md)
 - [Vajákosság](kepzettsegek.vilagi/vajakossag.md) ⇆ [Természetjárás](kepzettsegek.vilagi/termeszetjaras.md)
-- [Történelemismeret](kepzettsegek.tudomanyos/tortenelemismeret.md) ⇆ [Művészetismeret](kepzettsegek.muveszeti/muveszetismeret.md)
+- [Lexium](kepzettsegek.tudomanyos/lexium.md) ⇆ [Művészetismeret](kepzettsegek.muveszeti/muveszetismeret.md)
 - stb.
 
 

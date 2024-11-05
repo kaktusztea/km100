@@ -3,7 +3,7 @@
 ##### Kiterjeszti ezeket
 
 - [Nyomozás](../kepzettsegek.vilagi/nyomozas.md)
-- [Tudományok](../kepzettsegek.tudomanyos/tudomanyok.md)
+- [Számtan](../kepzettsegek.tudomanyos/szamtan.md)
 
 ##### Követelmény
 

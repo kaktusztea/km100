@@ -13,4 +13,4 @@
 
 **Megjegyzés:**
 
-A **Tudományok** képzettség + **Mechanika** fortély kombináció **NEM** váltja ki a Zárnyitás képzettséget.
+A **Számtan** képzettség + **Mechanika** fortély kombináció **NEM** váltja ki a Zárnyitás képzettséget.

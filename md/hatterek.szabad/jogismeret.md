@@ -4,12 +4,11 @@
 
 - [Nyomozás](../kepzettsegek.vilagi/nyomozas.md)
 - [Szakma: hivatalnok](../kepzettsegek.vilagi/szakma.md)
-- [Történelemismeret](../kepzettsegek.tudomanyos/tortenelemismeret.md)
-- [Tudományok](../kepzettsegek.tudomanyos/tudomanyok.md)
+- [Lexium](../kepzettsegek.tudomanyos/lexium.md)
 
 ##### Követelmény
 
-[Írástudó](../fortelyok.altalanos/irastudo.md)] fortély
+[Írástudó](../fortelyok.altalanos/irastudo.md) fortély
 
 <br />
 

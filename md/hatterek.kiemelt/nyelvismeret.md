@@ -38,7 +38,7 @@ Amennyiben nem rendelkezel a kívánt Nyelvismerettel, akkor - ha van kapcsolód
     - ilanori (ila)
     - lupár (lup)
     - dakh (dak)
-    - kráni birodalmi khors (kho) (kra)
+    - kr4ni birodalmi khors (kho) (kra)
     - niarei (nia)
     - yanna'an (yan)
 3.  Crantai nyelvek
