@@ -18,7 +18,7 @@ Igazi potenciálját a kiterjesztését megvalósító Fortélyokkal és Szabad 
 - [Rejtjelfejtő](../hatterek.szabad/rejtjelfejto.md)
 - [Térképészet](../hatterek.szabad/terkepeszet.md)
 
-#### Követelmények:
+##### Követelmények:
 - [Írástudó](../fortelyok.altalanos/irastudo.md)
 
 <br />
