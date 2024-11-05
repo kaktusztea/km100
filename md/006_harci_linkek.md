@@ -18,18 +18,18 @@ Gyors elérésű link gyűjtemény - játékosok számára.
 [Manőver végbevitele](066_04_manover_vegbevitele.md)
 
 ---
-### Tám/kör, Mozgás
-
-[Támadások száma - ábra](063_08_tamadasok_szama_abra.md)
-
-[Mozgás harc közben](063_05_mozgas_harc_kozben.md)
-
----
 ### Fortélyok 
 
 [Harci fortélyok](042_harci_fortelyok.md)
 
 [Slan fortélyok](044_slan_fortelyok.md)
+
+---
+### Tám/kör, Mozgás
+
+[Támadások száma - ábra](063_08_tamadasok_szama_abra.md)
+
+[Mozgás harc közben](063_05_mozgas_harc_kozben.md)
 
 ---
 ### Egészség
