@@ -9,7 +9,7 @@ Képes vagy fúvós hangszereket megszólaltatni. Amely **Kultúrköröket** ism
 
 ##### Követelmény
 
-[Előadóművészet](../kepzettsegek.muveszeti/eloadomuveszet.md) - `3.szint`
+- [Előadóművészet](../kepzettsegek.muveszeti/eloadomuveszet.md) - `3.szint`
 
 Képes vagy használni a fúvós hangszerek alá tartozó hangszereket.
 

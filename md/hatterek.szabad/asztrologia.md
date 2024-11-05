@@ -2,7 +2,7 @@
 
 ##### Kiterjeszti ezeket
 
-- [Számtan](../kepzettsegek.tudomanyos/szamtan.md)
+[Számtan](../kepzettsegek.tudomanyos/szamtan.md)
 
 <br />
 

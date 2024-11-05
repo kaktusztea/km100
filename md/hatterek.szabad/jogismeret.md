@@ -2,9 +2,9 @@
 
 ##### Kiterjeszti ezeket
 
-- [Lexikum](../kepzettsegek.tudomanyos/lexikum.md)
-- [Nyomozás](../kepzettsegek.vilagi/nyomozas.md)
-- [Szakma: hivatalnok](../kepzettsegek.vilagi/szakma.md)
+- [Lexikum](../kepzettsegek.tudomanyos/lexikum.md): ⭕
+- [Nyomozás](../kepzettsegek.vilagi/nyomozas.md): ⭕
+- [Szakma: hivatalnok](../kepzettsegek.vilagi/szakma.md): ⭕
 
 ##### Követelmény
 

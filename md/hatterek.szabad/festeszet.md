@@ -7,10 +7,7 @@
 
 ##### Kapcsolódó fortély
 
-[Hamisítás](../fortelyok.altalanos/hamisitas.md)
-
-##### Követelmény
-- ⭕xyz
+- [Hamisítás](../fortelyok.altalanos/hamisitas.md)
 
 Jól bánsz az ecsettel, kedvtelésből, vagy önkifejezés céljából vetsz vászonra színes műveket.
 
