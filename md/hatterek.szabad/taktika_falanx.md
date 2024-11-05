@@ -4,6 +4,8 @@ Falanx alakzat részeként képes vagy közösen cselekedni, az alakulatot vezet
 
 Képes vagy falanx formációba fejlődni, együttmaradni, fordulni - harci körülmények között is.
 
+⭕TODO: Számszerű előnyök
+
 ##### Kiterjeszti ezeket
 
 [Hadászat](../kepzettsegek.tudomanyos/hadaszat.md): "Teknősbéka alakzatba!"
