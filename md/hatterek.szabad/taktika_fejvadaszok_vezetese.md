@@ -10,7 +10,7 @@ Harci jelnyelv alapján tudsz cselekedni, összehangolt csoportként mozogni.
 
 ##### Követelmény
 
-**Követelmény**: Tradíció: Fejvadász - `6.szint
+**Követelmény**: Tradíció: Fejvadász - `6.szint`
 
 <br />
 

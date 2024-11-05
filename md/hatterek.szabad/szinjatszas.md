@@ -9,9 +9,6 @@ Képes vagy színpadi műveket előadni, előadásban részt venni. Ismered a sz
 - [Előadóművészet](../kepzettsegek.muveszeti/eloadomuveszet.md)
 - [Művészetismeret](../kepzettsegek.muveszeti/muveszetismeret.md)
 
-##### Követelmény
-- ⭕xyz
-
 <br />
 
 ---

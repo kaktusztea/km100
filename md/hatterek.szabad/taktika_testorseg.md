@@ -13,7 +13,7 @@ Testőrség részeként tudsz mozogni, kommunikálni, járatos vagy az általad 
 ##### Követelmény
 
 - Harcmodor - `6.szint`
-- Észlelés - `6.szint
+- Észlelés - `6.szint`
 
 <br />
 

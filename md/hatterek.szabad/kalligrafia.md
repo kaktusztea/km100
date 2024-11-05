@@ -7,8 +7,8 @@
 
 ##### Kapcsolódó fortély
 
-[Hamisítás](../fortelyok.altalanos/hamisitas.md)
+- [Hamisítás](../fortelyok.altalanos/hamisitas.md)
 
 ##### Követelmény
 
-[Írástudó](../fortelyok.altalanos/irastudo.md) fortély
+- [Írástudó](../fortelyok.altalanos/irastudo.md) fortély

@@ -10,7 +10,7 @@
 
 ##### Követelmény
 
-Íjászat/Lövészet/Ostromlövészet - `6.szint
+Íjászat/Lövészet/Ostromlövészet - `6.szint`
 
 <br />
 
