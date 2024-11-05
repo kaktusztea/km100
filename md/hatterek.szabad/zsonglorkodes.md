@@ -7,7 +7,7 @@
 
 ##### Követelmény
 
-Ügyesség: `0`
+- Ügyesség: `0`
 
 <br />
 

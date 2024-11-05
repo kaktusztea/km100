@@ -8,7 +8,7 @@ Testőrség részeként tudsz mozogni, kommunikálni, járatos vagy az általad 
 
 ##### Kiterjeszti ezeket
 
-[Hadászat](../kepzettsegek.tudomanyos/hadaszat.md): "A kalmár kísérői nagyon bő ruhában vannak, belépéskor alapos motozás. Urunk a konyhán át távozzon, előtte, mögötte két ember."
+- [Hadászat](../kepzettsegek.tudomanyos/hadaszat.md): "A kalmár kísérői nagyon bő ruhában vannak, belépéskor alapos motozás. Urunk a konyhán át távozzon, előtte, mögötte két ember."
 
 ##### Követelmény
 

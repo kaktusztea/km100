@@ -13,7 +13,7 @@
 
 Hogy az adott kultúrkörben képes legyél aktívan művelni (írni, előadni) irodalmi műveket ([Előadóművészet](../kepzettsegek.muveszeti/eloadomuveszet.md)), ahhoz az alábbi követelmények szükségesek:
 - [Kultúrkör](../hatterek.kiemelt/kulturkor.md) - adott kultúra ismerete
-- [Nyelvismeret](../hatterek.kiemelt/nyelvismeret.md) - Udvari fok
+- [Nyelvismeret](../hatterek.kiemelt/nyelvismeret.md) - adott nyelv Udvari foka
 
 A passzív fogyasztásra (Művészetismeret) csak a  "[Nyelvismeret](../hatterek.kiemelt/nyelvismeret.md) - Udvari fok" a követelmény.
 

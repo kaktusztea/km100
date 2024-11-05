@@ -7,7 +7,7 @@
 
 ##### Kapcsolódó fortély
 
-[Hamisítás](../fortelyok.altalanos/hamisitas.md)
+- [Hamisítás](../fortelyok.altalanos/hamisitas.md)
 
 <br />
 

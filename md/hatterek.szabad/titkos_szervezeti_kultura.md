@@ -6,7 +6,6 @@
 
 ##### Követelmény
 
-- ⭕KELL?⭕ [Kultúrkör](../hatterek.kiemelt/kulturkor.md): (adott kultúrkör)
-
+- [Kultúrkör](../hatterek.kiemelt/kulturkor.md): (adott kultúrkör) ⭕KELL EZ?⭕ 
 
 <br />
