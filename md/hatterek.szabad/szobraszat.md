@@ -9,9 +9,6 @@
 
 [Hamisítás](../fortelyok.altalanos/hamisitas.md)
 
-##### Követelmény
-- ⭕xyz
-
 <br />
 
 ---

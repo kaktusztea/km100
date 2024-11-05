@@ -7,7 +7,7 @@
 
 ##### Kapcsolódik
 
-[Hamisítás](../fortelyok.altalanos/hamisitas.md) fortély
+- [Hamisítás](../fortelyok.altalanos/hamisitas.md) fortély ⭕
 
 ##### Követelmény
 

@@ -9,7 +9,7 @@ Képes vagy rablóbanda, vagy különleges alakulat részeként közösen cselek
 ##### Követelmény
 
 - Harcmodor - `6.szint`
-- Észlelés - `3.szint
+- Észlelés - `3.szint`
 
 <br />
 
