@@ -1,6 +1,6 @@
 #### 🔵 Számtan
 
-Professzor, vagy számokkal dolgozó tudósember vagy, a tudás a legfőbb kincsed. A képzettség Általános ismeret amely a számokkal való ismeretekre támaszkodó tudományok alapját adja.
+Professzor, vagy számokkal dolgozó tudósember vagy, a tudás a legfőbb kincsed. A képzettség általános ismeret amely a számokkal való munkára támaszkodó tudományok alapját adja.
 
 Igazi potenciálját a kiterjesztését megvalósító Fortélyokkal és Szabad Hátterekkel érhetjük el.
 
