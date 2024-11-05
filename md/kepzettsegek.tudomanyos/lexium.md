@@ -9,14 +9,14 @@ Igazi potenciálját a kiterjesztését megvalósító Fortélyokkal és Szabad 
 **Domináns Tulajdonságok**: Emlékezet, Intelligencia
 
 **Fortélyok kiterjesztik**:
-- [Élettan](../fortelyok.altalanos/elettan.md)
+- [Élettan](../fortelyok.altalanos/elettan.md): ⭕
 - [Történelemismeret](../fortelyok.altalanos/tortenelemismeret.md): ⭕
-- [Belső síkok lényeinek ismerete](../fortelyok.misztikus/belso_sikok_lenyeinek_ismerete.md) 🔁
-- [Külső síkok lényeinek ismerete](../fortelyok.misztikus/kulso_sikok_lenyeinek_ismerete.md) 🔁
+- [Belső síkok lényeinek ismerete](../fortelyok.misztikus/belso_sikok_lenyeinek_ismerete.md) 🔁 ⭕
+- [Külső síkok lényeinek ismerete](../fortelyok.misztikus/kulso_sikok_lenyeinek_ismerete.md) 🔁 ⭕
 
 **Szabad Hátterek kiterjesztik**: ⭕
-- [Heraldika](../hatterek.szabad/heraldika.md)
-- [Jogismeret](../hatterek.szabad/jogismeret.md)
+- [Heraldika](../hatterek.szabad/heraldika.md) ⭕
+- [Jogismeret](../hatterek.szabad/jogismeret.md) ⭕
 - [Stratégia](../hatterek.szabad/strategia.md): "Kevesen tudják, hogy a legutóbbi Zászlóháború döntő csatájában a párás idő okozta a t0roni S0gron papok összhangjainak elvesztését, amely Antoh szolgáinak irányába billentette a mérleget."
 - [Helyismeret](../hatterek.kiemelt/helyismeret.md): csak ha konkrétan helyi témával kapcsolatos ismeretről van szó, akkor szükséges. Ne legyünk túl szigorúak.
 
@@ -52,6 +52,4 @@ Igazi potenciálját a kiterjesztését megvalósító Fortélyokkal és Szabad 
 
 <br />
 
-##### Célszámot módosító körülmények
-
-Nehézség büntetés, ha nincs kapcsolódó [Kultúrkör](../hatterek.kiemelt/kulturkor.md)
+---
