@@ -24,9 +24,9 @@ Sötétben apró neszek, megérzések segítenek csökkenteni a látáshiány ok
 🔒 **Követelmény**:
 - Érzékenység: `+3`
 - Összpontosítás - `6.szint`
-- ⚪**Érzékenység(Intuíció)**: `+3` - érzékszervi tulajdonság, amely lehet természetes eredetű, de elérhető a ⭕**Hatodik érzék** pszí diszciplína használatával.\
+- ⚪ **Érzékenység(Intuíció)**: `+3` - érzékszervi tulajdonság, amely lehet természetes eredetű, de elérhető a ⭕**Hatodik érzék** pszí diszciplína használatával.\
   VAGY
-- ⚪**Érzékenység(Hallás)**: `+3` - érzékszervi tulajdonság, amely lehet természetes eredetű, de elérhető a  ⭕**Képességnövelés** pszí diszciplína használatával.
+- ⚪ **Érzékenység(Hallás)**: `+3` - érzékszervi tulajdonság, amely lehet természetes eredetű, de elérhető a  ⭕**Képességnövelés** pszí diszciplína használatával.
 
 🌟 **Hatás**:
 - Csönd és sötét: `KÉ:-10`, `TÉ/VÉ:-15`
@@ -38,7 +38,7 @@ Sötétben apró neszek, megérzések segítenek csökkenteni a látáshiány ok
 🔒 **Követelmény**:
 - Érzékenység: `+4`
 - Összpontosítás - `9.szint`
-- ⚪**Érzékenység(Intuíció)**: `+4` - érzékszervi tulajdonság, amely lehet természetes eredetű, de elérhető a ⭕**Hatodik érzék** pszí diszciplína használatával.
+- ⚪ **Érzékenység(Intuíció)**: `+4` - érzékszervi tulajdonság, amely lehet természetes eredetű, de elérhető a ⭕**Hatodik érzék** pszí diszciplína használatával.
 
 🌟 **Hatás**:
 - Csönd és sötét: nincs levonás

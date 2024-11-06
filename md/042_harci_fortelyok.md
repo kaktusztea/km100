@@ -22,7 +22,7 @@
 - [Kitérés lövés elől](fortelyok.harci/kiteres_loves_elol.md)
 - [Körkörös harc](fortelyok.harci/korkoros_harc.md)
 - [Mesterfegyver](fortelyok.harci/mesterfegyver.md)
-- [Pajzshasználat](fortelyok.harci/pajzshasznalat.md) 🔺
+- [Pajzshasználat](fortelyok.harci/pajzshasznalat.md)
 - [Páros harc](fortelyok.harci/paros_harc.md)
 - [Támadás erőből](fortelyok.harci/tamadas_erobol.md)
 - [Természetes fegyver](fortelyok.harci/termeszetes.fegyver.md)

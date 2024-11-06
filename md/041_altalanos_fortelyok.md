@@ -52,6 +52,7 @@ Az Érzék-, Alvilági és fizikai-, Tudományos- és Szociális fortélyok tart
 - [Építészet](fortelyok.altalanos/epiteszet.md)
 - [Írástudó](fortelyok.altalanos/irastudo.md)
 - [Mechanika](fortelyok.altalanos/mechanika.md)
+- [Történelemismeret](fortelyok.altalanos/tortenelemismeret.md)
 
 ---
 ## Szociális fortélyok
