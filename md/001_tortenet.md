@@ -16,7 +16,7 @@ Kezdetek: első, háziszabályokat tartalmazó dokumentum: [2005-05-31_haziszaba
 
 <br />
 
-### 2005.05.31 - 2005.07.10
+### 2005.05.31 - 2005.12.31
 
 2005 júniusa 🔆 volt az időszak, amikor - bő hónap alatt - megszületett a VÉ csökkentés, a sebesülés kategóriák és a távolsági harcrendszer.
 
