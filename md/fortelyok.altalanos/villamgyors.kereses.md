@@ -4,7 +4,7 @@ Gyorsabban tudsz keresni, kutatni egy helyiségben.
 
 #### Kapcsolódó fortély
 
-- [Keresés/Nyomolvasás](kereses_nyomolvasas.md)
+[Keresés/Nyomolvasás](kereses_nyomolvasas.md)
 
 #### Alapeset
 
