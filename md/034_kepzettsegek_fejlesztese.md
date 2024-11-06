@@ -45,13 +45,13 @@ A `12. és 15. szintek` kiemelt mérföldkövek a képzettségek esetében, itt 
 
 Egyes képzettségek az alap tudást lefedő ismeretek keretein túl is "kiterjeszthetőek", egyesek pedig "felszeletelhetőek" tudásterületekre - erre használjuk a [Szabad Háttereket](023_szabad_hatterek.md).
 
-#### ▶️ Első eset
+#### ⚜️ Első eset
 
 Ha van egy képzettségpróba, amelynek ismeret területe a KM szerint ezen képzettség alá tartozik ÉS lefed egy kapcsolódó Szabad Hátteret, akkor...
 - ha megvan a Szabad Háttér, akkor simán, alapértékkel dobjuk a képzettségpróbát
 - ha nincs meg a Szabad Háttér, akkor `-3` módosítóval dobjuk a képzettségpróbát
 
-#### ▶️ Második eset
+#### ⚜️ Második eset
 
 Ha  van egy képzettségpróba, amelynek ismeret területe a KM szerint ezen képzettség alá tartozi, DE nincs rá kapcsolódó Szabad Háttér, akkor simán, alapértékkel dobjuk a képzettségpróbát
 
@@ -62,14 +62,14 @@ Ha  van egy képzettségpróba, amelynek ismeret területe a KM szerint ezen ké
 
 Egyes képzettségek az alap tudást lefedő ismeretek keretein túl Fortélyokkal is "kiterjeszthetőek".
 
-#### ▶️ Fortély mint követelmény (kiterjesztés)
+#### ⚜️ Fortély mint követelmény (kiterjesztés)
 
 Ha van egy képzettségpróba, amelynek ismeret területe a KM szerint ezen képzettség alá tartozik ÉS lefed egy kapcsolódó Fortélyt, akkor...
 - ha megvan a Fortély, akkor simán, alapértékkel dobjuk a képzettségpróbát
 - ha nincs meg a fortély, akkor **nem is dobhatunk képzettségpróbát**.  ⭕hard-követelmény⭕
 - ⭕TODO: esetleg legyen "**soft-követelmény**" is `-6` levonással?⭕
 
-#### ▶️ Fortély mint bónusz
+#### ⚜️ Fortély mint bónusz
 
 Ilyenkor a Fortély megléte nem követelmény, viszont valamilyen statikus bónuszt ad az adott képzettségre.
 
