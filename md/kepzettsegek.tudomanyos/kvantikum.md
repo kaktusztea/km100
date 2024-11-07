@@ -1,4 +1,4 @@
-#### 🔵 Számtan
+#### 🔵 Kvantikum
 
 Professzor, vagy számokkal dolgozó tudósember vagy, a tudás a legfőbb kincsed. A képzettség általános ismeret amely a számokkal való munkára támaszkodó tudományok alapját adja.
 

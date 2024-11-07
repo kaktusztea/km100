@@ -4,9 +4,9 @@ Pénzügyi ismereteid vannak.
 
 ##### Kiterjeszti ezeket
 
+- [Kvantikum](../kepzettsegek.tudomanyos/kvantikum.md): ⭕
 - [Nyomozás](../kepzettsegek.vilagi/nyomozas.md): ⭕
 - [Szakma: hivatalnok](../kepzettsegek.vilagi/szakma.md): ⭕
-- [Számtan](../kepzettsegek.tudomanyos/szamtan.md): ⭕
 
 <br />
 

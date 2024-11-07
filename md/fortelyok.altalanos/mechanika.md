@@ -10,9 +10,10 @@ A Fizikai és Matematikai ismeretek is ide tartoznak?? ⭕TODO⭕
 ##### Kiterjeszti ezeket
 
 - [Csapdaállítás](../kepzettsegek.alvilagi/csapdaallitas.md): mechanikus csapdák állításához követelmény lehet a Mechanika
+- [Kvantikum](../kepzettsegek.tudomanyos/kvantikum.md)
 - [Szakma - Fegyverkovács](../kepzettsegek.vilagi/szakma.md)
 - [Szakma - Páncélkovács](../kepzettsegek.vilagi/szakma.md)
-- [Számtan](../kepzettsegek.tudomanyos/szamtan.md)
+
 
 ##### Bónuszt ad erre
 
