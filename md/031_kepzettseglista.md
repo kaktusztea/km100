@@ -10,7 +10,6 @@
 - Akrobatika
 - Aurafejlesztés
 - Befolyásolás
-- Demonológia
 - Emberismeret
 - Észlelés
 - Fájdalomtűrés
