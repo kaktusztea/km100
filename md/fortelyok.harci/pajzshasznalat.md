@@ -39,7 +39,6 @@ Nagy pajzs: `VÉ:50`, `Erő követelmény: +2`
 - Kis pajzs levonás: `0`
 - Közepes pajzs levonás: `0`
 - Nagy pajzs levonás: `0`
-- MGT: harcban nem érvényesül a pajzs MGT büntetése.
 - Támadhatsz is a pajzzsal.
 - Ha csak pajzs van nálad, akkor azzal.
 - Ha fegyver is van nálad: akkor VAGY a fegyverrel VAGY a pajzzsal támadhatsz.
@@ -58,8 +57,8 @@ Nagy pajzs: `VÉ:50`, `Erő követelmény: +2`
 A kézben tartott pajzs hátrányokat okoz az egyes próbáknál - méretétől függően.
 
 - Kis pajzs: kézben: `0` / háton: `0`
-- Közepes pajzs: kézben `-2` / háton: `1`
-- Nagy pajzs: kézben `-4` / háton: `3`
+- Közepes pajzs: kézben `-2` / háton: `-1`
+- Nagy pajzs: kézben `-4` / háton: `-3`
 
 #### Pajzs hatása fizikai képzettségpróbára
 
