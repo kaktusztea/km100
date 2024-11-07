@@ -4,9 +4,9 @@ Pénzügyi ismereteid vannak.
 
 ##### Kiterjeszti ezeket
 
-- [Kvantikum](../kepzettsegek.tudomanyos/kvantikum.md): 
+- [Kvantikum](../kepzettsegek.tudomanyos/kvantikum.md): ⭕
 - [Nyomozás](../kepzettsegek.vilagi/nyomozas.md): ⭕
-- [Szakma: hivatalnok](../kepzettsegek.vilagi/szakma.md): az ehavi beszedett adók elegek lesznek
+- [Szakma: hivatalnok](../kepzettsegek.vilagi/szakma.md): "Az ehavi beszedett többletadók elegek lesznek a kölcsön törlesztésére."
 
 <br />
 
