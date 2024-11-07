@@ -4,8 +4,8 @@
 
 ##### Kiterjeszti ezeket
 
-- [Kvantikum](../kepzettsegek.tudomanyos/kvantikum.md): ⭕
-- [Nyomozás](../kepzettsegek.vilagi/nyomozas.md): ⭕
+- [Kvantikum](../kepzettsegek.tudomanyos/kvantikum.md): "Nem volt könnyű, de megfejtettem a titkosírást. Ez egy üzenet a tábornoknak, amiben a csapatokat a hágó elhagyására utasítja."
+- [Nyomozás](../kepzettsegek.vilagi/nyomozas.md): "A szimbólumok által jelképezett átjáró az kandalló feletti festményre utal!"
 
 <br />
 
