@@ -1,6 +1,6 @@
 ## Térkép készítése
 
-[Számtan](kepzettsegek.tudomanyos/szamtan.md) képzettségpróba dobás a térkép bonyolultsága és részletessége alapján megállapított Nehézség ellen.
+[Kvantikum](kepzettsegek.tudomanyos/kvantikum.md) képzettségpróba dobás a térkép bonyolultsága és részletessége alapján megállapított Nehézség ellen.
 
 **Követelmény**: [Helyismeret](hatterek.kiemelt/helyismeret.md) - adott városnyi terület
 

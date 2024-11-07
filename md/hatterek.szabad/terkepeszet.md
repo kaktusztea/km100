@@ -2,8 +2,9 @@
 
 ##### Kiterjeszti ezeket
 
+- [Kvantikum](../kepzettsegek.tudomanyos/kvantikum.md): ⭕
 - [Nyomozás](../kepzettsegek.vilagi/nyomozas.md): ⭕
-- [Számtan](../kepzettsegek.tudomanyos/szamtan.md): ⭕
+
 
 <br />
 
