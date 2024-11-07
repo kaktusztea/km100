@@ -15,7 +15,7 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 **Kapcsolódó képzettség**: [Befolyásolás](befolyasolas.md), [Etikett](../kepzettsegek.vilagi/etikett.md)
 
 **Szabad Hátterek kiterjesztik**:
-- [Alkudozás](../hatterek.szabad/alkudozas.md): "Sajnálom uram, de ez **valódi** pamut, ennyiért egy vak koldus sem adná oda."
+- [Alkudozás](../hatterek.szabad/alkudozas.md): "Sajnálom uram, de ez **valódi** pamut, az árért, amit kínál, egy vak koldus sem adná oda."
 - [Csábítás](../hatterek.szabad/csabitas.md): Kiszúrod, hogy az ellenkező nem közeledése nem épp ártatlan, rejtett szándékot sejtesz.
 - [Hazudozás](../hatterek.szabad/hazudozas.md): "Ugyan kérem, nem ma jöttem le a falvédőről."
 - [Megfélemlítés](../hatterek.szabad/megfelemlites.md): "Hiába lóbálja a kardját uram, fehér kendő nélkül nem engedhetem be."
