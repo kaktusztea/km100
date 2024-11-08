@@ -1,6 +1,6 @@
 # Slan misztérium
 
-#### [Slan Tradíció](053_01_slan_tradicio.md)
+#### [Slan Tradíció](053_04_slan_tradicio.md)
 
 #### [Slan fortélyok](044_slan_fortelyok.md)
 

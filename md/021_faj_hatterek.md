@@ -45,7 +45,7 @@ Ajánlott fortélyok:
 - [Kinokozás](fortelyok.harci/kinokozas.md)  (ha amund kultúrában nevelkedett)
 
 Ajánlott képzettségek:
-- [Amund Tradíció](053_04_amund_tradicio.md) (nem kötelező)
+- [Amund Tradíció](053_01_amund_tradicio.md) (nem kötelező)
 - [Ősi nyelv ismerete](kepzettsegek.misztikus/osi_nyelv_ismerete.md) (amund)
 - [Természetjárás](kepzettsegek.vilagi/termeszetjaras.md) + [Tájtípus: sivatagi](hatterek.szabad/tajtipus_sivatagi.md)
 - [Kinzás](kepzettsegek.alvilagi/kinzas.md)
@@ -69,7 +69,7 @@ Ajánlott fortélyok:
 - [Tiszta fej](fortelyok.altalanos/tiszta_fej.md)
 
 Ajánlott képzettségek:
-- [Dzsenn Tradíció](053_03_dzsenn_tradicio.md) (nem kötelező)
+- [Dzsenn Tradíció](053_02_dzsenn_tradicio.md) (nem kötelező)
 - [Ősi nyelv ismerete](kepzettsegek.misztikus/osi_nyelv_ismerete.md) (dzsenn)
 - [Befolyásolás](kepzettsegek.vilagi/befolyasolas.md)
 

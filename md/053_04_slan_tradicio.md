@@ -9,6 +9,6 @@ Jelenleg a saját [STUDY oldalán](https://github.com/kaktusztea/km100/wiki/STUD
 
 🔗 [Slan főoldal](110_slan.md) ↑
 
-🔗 [Fejvadász tradíció](053_02_fejvadasz_tradicio.md) →
+🔗 [Fejvadász tradíció](053_03_fejvadasz_tradicio.md) →
 
 ⚜️ [Nyitóoldal](start.md)

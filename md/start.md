@@ -92,21 +92,25 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 ---
 ### 5. [Tradíciók](050_tradiciok.md)
 
-- [Mágia tradíciók](051_00_magia_tradiciok.md)
-  - [Magasmágia](051_01_magasmagia.md)
-  - [Vulgármágia](051_02_vulgarmagia.md)
-  - [Ordani Tűzmágia](051_03_ordani_tuzmagia.md)
-  - [Bárdmágia](051_04_bardmagia.md)
-  - [Illuzionista](051_05_illuzionista.md)
-  - [Természeti mágia](051_06_termeszeti_magia.md)
-  - [Sámánmágia](051_07_samanmagia.md)
-  - [Drágakőmágia](051_08_dragakomagia.md)
-- [Papi tradíció](052_papi_tradicio.md) (0%)🚧
-- [Szellemi Tradíciók](053_00_szellemi_tradiciok.md)
-  - [Slan Tradíció](053_01_slan_tradicio.md) (25%)🚧
-  - [Fejvadász Tradíció](053_02_fejvadasz_tradicio.md)
-  - [Dzsenn Tradíció](053_03_dzsenn_tradicio.md)
-  - [Amund Tradíció](053_04_amund_tradicio.md)
+#### 5.1 [Mágia tradíciók](051_00_magia_tradiciok.md)
+
+- [Magasmágia](051_01_magasmagia.md)
+- [Vulgármágia](051_02_vulgarmagia.md)
+- [Ordani Tűzmágia](051_03_ordani_tuzmagia.md)
+- [Bárdmágia](051_04_bardmagia.md)
+- [Illuzionista](051_05_illuzionista.md)
+- [Természeti mágia](051_06_termeszeti_magia.md)
+- [Sámánmágia](051_07_samanmagia.md)
+- [Drágakőmágia](051_08_dragakomagia.md)
+
+#### 5.2 [Papi tradíció](052_papi_tradicio.md)
+
+#### 5.3 [Szellemi Tradíciók](053_00_szellemi_tradiciok.md)
+
+- [Amund Tradíció](053_01_amund_tradicio.md)
+- [Dzsenn Tradíció](053_02_dzsenn_tradicio.md)
+- [Fejvadász Tradíció](053_03_fejvadasz_tradicio.md)
+- [Slan Tradíció](053_04_slan_tradicio.md)
 
 ---
 ### 6. [Harcrendszer](060_00_harcrendszer.md) 🗡️
@@ -180,7 +184,7 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 ---
 ### 8. [Pszí](080_pszi.md)
 
-- [Pszi diszciplínák](081_pszi_diszciplinak.md) (0%)
+#### 8.1 [Pszi diszciplínák](081_pszi_diszciplinak.md)
 
 ---
 ### 9. [Mágiarendszer](090_magiarendszer.md)
@@ -216,7 +220,7 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 - [Papi varázslatok](103_papi.varazslatok.md) ✨
 ### 11. [Slan misztérium](110_slan.md)  (10%) 🚧
 
- - [Slan Tradíció](053_01_slan_tradicio.md)
+ - [Slan Tradíció](053_04_slan_tradicio.md)
  - [Slan fortélyok](044_slan_fortelyok.md)
  - [Slan diszciplínák](111_slan_diszciplinak.md)
  - [Chi harc képzettségei](112_chi_harc.md)
