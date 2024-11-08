@@ -143,7 +143,7 @@ Ez a tétel attól függ, hogy milyen típusú mérget szándékozik készíteni
 Ez az alapanyagok beszerezhetőségétől függ. Amennyiben megvan az **Alkímia+Vajákosság** követelmény és az alapanyagok nem rendkívül ritkák, vagy teljesen egyediek, akkor - az ésszerűség határait betartva - bármennyi adag készíthető.
 
 ---
-## Fajok különbözősége
+### Fajok különbözősége
 
 Alapesetben nem teszünk különbséget, a Méregkeverők tisztában vannak Yn3v leggyakoribb elfszabású teremtményeinek méreggel szembeni tulajdonságaival.
 
