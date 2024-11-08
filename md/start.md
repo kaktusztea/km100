@@ -235,7 +235,7 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 
 ### 15. [Szituációk](150_szituaciok.md)
 
-- [Érzékelés, Észlelés](151_erzekeles_harci_eszleles_aktiv_passziv.md)
+- [Érzékelés, Aktív/Passzív Harci Észlelés, Áldozat mögé lopakodás](151_erzekeles_harci_eszleles_aktiv_passziv.md)
 - [Nyomok, nyomkövetés](152_01_nyomok_nyomkovetes_termeszet.md)
 - [Menekülés, üldözés, futás](153_menekules_uldozes_futas.md)
 - [Befolyásolás vs Emberismeret](154_befolyasolas_emberismeret.md)
