@@ -2,9 +2,14 @@
 
 ```
 - 1 fokú
-- többször felvehető egy átlagos városnyi területre
-- 1.Tapasztalati Szinttől kezdve minden 2. TSz-en kapsz egyet
-- Kaland végén kaphatóak újabb pontok ingyen, a KM-től
+- többször felvehető egy-egy
+  átlagos városnyi területre
+
+- 1.Tapasztalati Szinttől kezdve
+  minden 2. TSz-en kapsz egyet
+
+- Kaland végén kaphatóak újabb pontok
+  ingyen, a KM-től
 
 ⚡ Példa: "Helyismeret: Gianag"
 ```
@@ -31,7 +36,7 @@ Kalandozásai során a karakter számos helyre elvetődik.  Ha ott rászán idő
 
 A játékosnak jeleznie kell, hogy aktívan tanulmányozza az adott helységet (könyvtár, bálok, kocsmák, stb. látogatása, helyi kapcsolatrendszer kiépítése).
 
-A **Helyismeret** értéke `Szabad Pontokból` is növelhető, illetve úgy is változhat, hogy a KM egy kaland végén tetszés szerint ad pontot a karakterek **Helyismeret** Hátterére arra a helyre vonatkoztatva, ahol a kaland játszódott.
+Az előírt mennyiség felett a KM egy kaland végén tetszés szerint adhat a karakternek egy **Helyismeret** Hátteret arra a helyre vonatkoztatva, ahol a kaland játszódott.
 
 <br />
 
