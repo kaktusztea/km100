@@ -32,7 +32,8 @@ Tehát például választhat egy **orkot**, akinek mindösszesen "**Infralátás
 #### Amund
 
 ```
-Erő [0;+5] ; Edzettség [0;+5] ; Intelligencia [-5;+3] ; Önuralom [-5;+3]
+Erő [0;+5] ; Edzettség [0;+5]
+Intelligencia [-5;+3] ; Önuralom [-5;+3]
 ```
 
 🔆A Pszít nem képesek elsajátítani.
@@ -79,7 +80,8 @@ Ajánlott képzettségek:
 #### Elf
 
 ```
-Erő: [-5; +4] ; Edzettség: [-5; +4] ; Ügyesség [-2;+6] ; Gyorsaság [-2;+6]
+Erő: [-5; +4] ; Edzettség: [-5; +4]
+Ügyesség [-2;+6] ; Gyorsaság [-2;+6]
 ```
 
 Felvehető Érzék-Fortélyok maximuma:
@@ -131,7 +133,8 @@ Ajánlott képzettségek:
 #### Gnóm
 
 ```
-Erő [-5;+2] ; Edzettség [-5;+3] ; Ügyesség [-2;+5] ; Intelligencia [+0;+6]
+Erő [-5;+2] ; Edzettség [-5;+3]
+Ügyesség [-2;+5] ; Intelligencia [+0;+6]
 ```
 
 🔆Futásnál, úszásnál, gyaloglásnál `-2` jár a Gyorsaságpróbáira.
@@ -157,7 +160,9 @@ Ajánlott képzettségek:
 #### Goblin
 
 ```
-Erő [-5;+2] ; Edzettség [-2;+3] ; Ügyesség [-5;+6] ; Intelligencia [-5; +2]; Önuralom [-5 ;+2]
+Erő [-5;+2] ; Edzettség [-2;+3]
+Ügyesség [-5;+6] ; Intelligencia [-5; +2]
+Önuralom [-5 ;+2]
 ```
 
 Felvehető Érzék-Fortélyok maximuma:
@@ -182,8 +187,9 @@ Ajánlott képzettségek:
 Számukra az emberi civilizáció nehezebben érthető.
 
 ```
-Erő [+1;+6] ; Edzettség [+1;+6] ; Ügyesség [+1;+5] ;
-Gyorsaság [+1;+6] ; Intelligencia [-5 ; +2] ; Önuralom [-5 ; +2]
+Erő [+1;+6] ; Edzettség [+1;+6]
+Ügyesség [+1;+5] ;Gyorsaság [+1;+6]
+Intelligencia [-5 ; +2] ; Önuralom [-5 ; +2]
 ```
 
 Felvehető Érzék-Fortélyok maximuma:
@@ -224,7 +230,8 @@ Ajánlott képzettségek:
 #### Ork
 
 ```
-Erő: [-1;+6] ; Edzettség [+0;+6]; Intelligencia [-5;+2]
+Erő: [-1;+6] ; Edzettség [+0;+6]
+Intelligencia [-5;+2]
 ```
 
 Felvehető Érzék-Fortélyok maximuma:
@@ -245,7 +252,8 @@ Ajánlott képzettségek:
 #### Udvari ork
 
 ```
-Erő: [-1;+6] ; Edzettség [-1;+5]; Intelligencia; [-5;+3]
+Erő: [-1;+6] ; Edzettség [-1;+5]
+Intelligencia; [-5;+3]
 ```
 
 Felvehető Érzék-Fortélyok maximuma:
@@ -266,7 +274,8 @@ Ajánlott képzettségek:
 #### Törpe
 
 ```
-Erő: [-1;+5] ; Gyorsaság [-5;+4] ; Edzettség [-2;+6] ; Emlékezet [-5;+6]
+Erő: [-1;+5] ; Gyorsaság [-5;+4]
+Edzettség [-2;+6] ; Emlékezet [-5;+6]
 ```
 
 🔆Futásnál, úszásnál, gyaloglásnál `-2` jár a Gyorsaságpróbáira.
