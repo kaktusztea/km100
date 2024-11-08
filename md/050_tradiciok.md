@@ -32,10 +32,10 @@ Milyen Tradíciókat ismer a km100 rendszere?
 [Papi tradíció](052_papi_tradicio.md)
 
 [Szellemi Tradíciók](053_00_szellemi_tradiciok.md)
-- [Slan Tradíció](053_01_slan_tradicio.md)
-- [Fejvadász Tradíció](053_02_fejvadasz_tradicio.md)
-- [Dzsenn Tradíció](053_03_dzsenn_tradicio.md)
-- [Amund Tradíció](053_04_amund_tradicio.md)
+- [Slan Tradíció](053_04_slan_tradicio.md)
+- [Fejvadász Tradíció](053_03_fejvadasz_tradicio.md)
+- [Dzsenn Tradíció](053_02_dzsenn_tradicio.md)
+- [Amund Tradíció](053_01_amund_tradicio.md)
 
 Nem Játszható Tradíciók
 - Aquir eredetű
