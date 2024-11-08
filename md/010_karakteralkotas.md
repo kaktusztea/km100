@@ -39,9 +39,9 @@
 #### → [Méregellenállás](017_03_meregellenallas.md) 🎲
 
 ---
-
 ### [Harcérték Módosító (HM), Célzóérték Módosító (CM)](018_hm_cm.md)
 
+---
 ### [Nem Játékos Karakterek](019_njk.md)
 
 ---

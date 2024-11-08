@@ -23,6 +23,7 @@ Itt egy tömör áttekintő struktúrát láthatsz, amely végigvezet, milyen al
 - `k100` Támadás
 - `k20` sebzésdobás
 - (SP - SFÉ) → ÉP sebzésmodell
+- Harcérték/Célzóérték Módosító (HM, CM)
 - Harckeret  vs  Fegyver Sebesség → Támadások száma körönként
   - érinti: Kétkezes harc fortély
   - érinti: Kétkezesség fortély

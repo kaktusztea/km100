@@ -225,6 +225,11 @@
 
 ### 14. [Méregrendszer, Mérgek](140_meregrendszer.md)
 
+- [Méregkeverés szabályai](141_meregkeveres_szabalyai.md)
+- [Méregellenállás próba](142_meregellenallas_proba.md)
+- [Méregérzékelés](143_meregerzekeles.md)
+- [Példamérgek](144_peldamergek.md)
+
 ### 15. [Szituációk](150_szituaciok.md)
 
 - [Érzékelés, Észlelés](151_erzekeles_harci_eszleles_aktiv_passziv.md)

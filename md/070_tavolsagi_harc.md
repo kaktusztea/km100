@@ -33,20 +33,23 @@ CÉ + k100  vs  VÉ
 
 A befolyásoló jellemzők fent említett hatásait a `CÉ` és `VÉ` értékekre az alábbi fejezetekben fejtjük ki.
 
-- [Célzó Érték (CÉ) számítása](071_tavharc_ce.md)
-- [Célpont Védő Értékének (VÉ) számítása; Szorzó; Osztó](072_tavharc_ve_szorzo_oszto.md)
+#### [Célzó Érték (CÉ) számítása](071_tavharc_ce.md)
+
+#### [Célpont Védő Értékének (VÉ) számítása; Szorzó; Osztó](072_tavharc_ve_szorzo_oszto.md)
 
 ---
 ## Taktikák, fegyverek
 
-- [Távolsági Harc Taktikák](073_tavharc_taktikak.md)
-- [Távolsági fegyverek](074_tavharc_fegyverek.md)
+#### [Távolsági Harc Taktikák](073_tavharc_taktikak.md)
+
+#### [Távolsági fegyverek](074_tavharc_fegyverek.md)
 
 ---
 ## Példák
 
-- [Példalövészet](075_tavharc_peldak.md)
-- [Távharc sötétben](076_tavharc_sotetben.md)
+#### [Példalövészet](075_tavharc_peldak.md)
+
+#### [Távharc sötétben](076_tavharc_sotetben.md)
 
 ---
 
