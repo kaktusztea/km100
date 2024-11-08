@@ -3,7 +3,9 @@
 <!-- tag: faj__hatter -->
 
 ```
- Faj követelmény: Érzék-Fortélyok közül minimum 1 fokot fel kell venni
+Faj követelmény:
+  Érzék-Fortélyok közül minimum
+  1 fokot fel kell venni
 ```
 
 Az alábbiakban a játszható és nem játszható fajok bemutatását, Tulajdonság-limiteit és speciálisan felvehető [Érzék-Fortélyaikat](041_altalanos_fortelyok.md#érzék-fortélyok) találhatjuk.
