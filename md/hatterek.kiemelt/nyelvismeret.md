@@ -6,7 +6,7 @@ A józan ész - és a KM - határain belül, az előtörténet és a karakter is
 
 A Nyelvismeretnek `2` foka van.
 - `Alap`: normális, hétköznapi beszéd. Ha nem anyanyelv, a külföldi akcentust ki lehet érezni belőle. Ennek hatását szerepjátékból intézzük.
-- `Udvari`: udvari, egyházi, hivatali körökben hallott, míves beszéd. Fogyasztott, vagy aktívan művelt művészetekhez követelmény. Lásd [Műveltség](../kepzettsegek.muveszeti/muveszetismeret.md) képzettség.
+- `Udvari`: udvari, egyházi, hivatali körökben hallott, míves beszéd. Fogyasztott, vagy aktívan művelt művészetekhez követelmény. Lásd [Művészetismeret](../kepzettsegek.muveszeti/muveszetismeret.md) képzettség.
 
 Amennyiben nem rendelkezel a kívánt Nyelvismerettel, akkor - ha van kapcsolódó [Kultúrkör](kulturkor.md) Hátterred, akkor nagyon alap szavakat ismersz, amivel - plusz kézzel-lábbal - meg tudod értetni magad ("Kő", "Tűz", "Vesz", "Kenyér", stb)
 
