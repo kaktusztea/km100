@@ -4,7 +4,8 @@
 
 ```
 - Primer képzettségek
-- Mágia tradíciók 3. szinttől varázsolhatnak
+- Mágia tradíciók a 3. szinttől
+  varázsolhatnak
 ```
 
 A km100 rendszerében a Tradíciók reprezentálják az egyedi, különleges, karakter életútját alapjaiban meghatározó "csomagot".\
@@ -14,7 +15,8 @@ Mindegyik Tradíció [Primer képzettség](032_primer_szekunder_kepzettsegek.md)
 
 Milyen Tradíciókat ismer a km100 rendszere?
 
-[Mágia tradíciók](051_00_magia_tradiciok.md)
+### [Mágia tradíciók](051_00_magia_tradiciok.md)
+
 - [Magasmágia](051_01_magasmagia.md)
 - [Vulgármágia](051_02_vulgarmagia.md)
 - [Ordani Tűzmágia](051_03_ordani_tuzmagia.md)
@@ -29,15 +31,17 @@ Milyen Tradíciókat ismer a km100 rendszere?
   - Rituális mágia
 - [Drágakőmágia](051_08_dragakomagia.md)
 
-[Papi tradíció](052_papi_tradicio.md)
+### [Papi tradíció](052_papi_tradicio.md)
 
-[Szellemi Tradíciók](053_00_szellemi_tradiciok.md)
+### [Szellemi Tradíciók](053_00_szellemi_tradiciok.md)
+
 - [Slan Tradíció](053_04_slan_tradicio.md)
 - [Fejvadász Tradíció](053_03_fejvadasz_tradicio.md)
 - [Dzsenn Tradíció](053_02_dzsenn_tradicio.md)
 - [Amund Tradíció](053_01_amund_tradicio.md)
 
-Nem Játszható Tradíciók
+### Nem Játszható Tradíciók
+
 - Aquir eredetű
 - Smaragdmágusok (Sheenwall)
 - Ryeki démonikus tradíciók
