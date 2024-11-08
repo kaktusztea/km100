@@ -1,4 +1,4 @@
-## Érzékelés, Észlelés
+## Érzékelés, Aktív/Passzív Harci Észlelés, Áldozat mögé lopakodás
 
 <sub>→ [TODO/ISSUE Érzékelés/Észlelés](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.erzekeles.eszleles)</sub>
 
@@ -53,26 +53,28 @@ A karakternek feltűnik valami anélkül, hogy kifejezetten kereste volna/figyel
 - **Nyomozás** + **Intelligencia** : Rájön-e, hogy mit vett észre? (az igazi szakáll nem nő így például)
 
 ---
-#### Harcot megelőző szituáció: Áldozat háta mögé lopakodás
+#### Lopakodás - áldozat háta mögé (harcot megelőző szituáció)
 
 ```
-Lopakodás/rejtőzés + Ügyesség   vs.  Észlelés + Érzékenység  (+3)
+Lopakodás/rejtőzés + Ügyesség
+          vs.
+Észlelés + Érzékenység  (+3)
 ```
 
 Itt képzettség ellenpróbát dobnak a felek: **Lopakodás/rejtőzés** vs **Észlelés**
 
 Ilyen szituban a **Lopakodás/rejtőzést** általában **Ügyességgel**, az **Észlelést** pedig **Érzékenység** Tulajdonsággal dobjuk.
 
-- Ha az észlelő passzívan szemlélődik (passzív észlelés), mikor a támadás éri: alap ellenpróba
+- Passzív észlelés: ha az észlelő passzívan szemlélődik, mikor a támadás éri: alap ellenpróba
   (alapeset leírását és a próba körülményeit, módosítóit lásd a [Lopakodás/rejtőzés](kepzettsegek.alvilagi/lopakodas_rejtozes.md) képzettség leírásánál!)
-- Ha az észlelő odafigyel, számít a támadásra (aktív észlelés): `+3` jár a próbájára
+- Aktív észlelés: ha az észlelő odafigyel, számít a támadásra: `+3` jár **Észlelés** próbájára
 
 #### Nem harci szituáció
 
 Sima próbadobás adott nehézségre, melyet a KM határoz meg.
 
-- Ha az észlelés passzív: alap nehézség ellen dob
-- Ha az észlelés aktív: egy kategóriával (`-3`) csökken a nehézség
+- Passzív észlelés: alap nehézség ellen dob
+- Aktív észlelés: egy kategóriával (`-3`) csökken a nehézség
 
 ---
 

@@ -4,7 +4,7 @@
 
 TODO: Bevezető
 
-- [Érzékelés, Aktív/Passzív Harci Észlelés](151_erzekeles_harci_eszleles_aktiv_passziv.md)
+- [Érzékelés, Aktív/Passzív Harci Észlelés, Áldozat mögé lopakodás](151_erzekeles_harci_eszleles_aktiv_passziv.md)
 - [Nyomok észrevétele, nyomkövetés - természetben](152_01_nyomok_nyomkovetes_termeszet.md)
 - [Nyomok észrevétele, nyomkövetés - városban](152_02_nyomok_nyomkovetes_varos.md)
 - [Menekülés, üldözés, futás](153_menekules_uldozes_futas.md)
