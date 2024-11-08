@@ -25,13 +25,6 @@ Gyors elérésű link gyűjtemény - játékosok számára.
 [Slan fortélyok](044_slan_fortelyok.md)
 
 ---
-### Tám/kör, Mozgás
-
-[Támadások száma - ábra](063_08_tamadasok_szama_abra.md)
-
-[Mozgás harc közben](063_05_mozgas_harc_kozben.md)
-
----
 ### Egészség
 
 [Kábulat ÉP](061_02_kabulat_ep.md)
@@ -39,6 +32,13 @@ Gyors elérésű link gyűjtemény - játékosok számára.
 [Sebesülés](061_03_sebesules.md)
 
 [Gyógyulás](061_04_gyogyulas.md)
+
+---
+### Tám/kör, Mozgás
+
+[Támadások száma - ábra](063_08_tamadasok_szama_abra.md)
+
+[Mozgás harc közben](063_05_mozgas_harc_kozben.md)
 
 ---
 ### Páncélok, Fegyverek
