@@ -82,8 +82,6 @@
 
 🔵 [Nyomozás](kepzettsegek.vilagi/nyomozas.md) 🅿️ <sup><sub>(50%)</sub></sup>
 
-🔵 [Orvoslás](kepzettsegek.vilagi/orvoslas.md) 🅿️ <sup><sub>(40%)</sub></sup>
-
 🔵 [Szakma](kepzettsegek.vilagi/szakma.md) <sup><sub>(20%)</sub></sup> 🔁
 
 🔵 [Természetjárás](kepzettsegek.vilagi/termeszetjaras.md) <sup><sub>(30%)</sub></sup>
@@ -121,7 +119,6 @@ Az aktív előadást igénylő művészeteket szeparáltuk az **Előadóművész
 
 🔵 [Művészetismeret](kepzettsegek.muveszeti/muveszetismeret.md)
 
-
 ---
 ## Tudományos képzettségek
 
@@ -130,6 +127,8 @@ Az aktív előadást igénylő művészeteket szeparáltuk az **Előadóművész
 🔵 [Hadászat](kepzettsegek.tudomanyos/hadaszat.md) 🅿️ <sup><sub>(0%)</sub></sup> 
 
 🔵 [Méregkeverés](kepzettsegek.tudomanyos/meregkeveres.md) 🅿️ <sup><sub>(90%)</sub></sup>
+
+🔵 [Orvoslás](kepzettsegek.tudomanyos/orvoslas.md) 🅿️ <sup><sub>(40%)</sub></sup>
 
 🔵 [Kvantikum](kepzettsegek.tudomanyos/kvantikum.md) <sup><sub>(60%)</sub></sup>
 

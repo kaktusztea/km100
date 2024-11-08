@@ -143,7 +143,7 @@ Tehát a próbát `3 + Érzékenység  vs  Próba célszám` értékekkel dobja.
 #### ⚡További Összhang példák felsorolásszerűen
 
 - [Akrobatika](kepzettsegek.fizikai/akrobatika.md) ⇆ [Mászás](kepzettsegek.fizikai/maszas.md)
-- [Orvoslás](kepzettsegek.vilagi/orvoslas.md) ⇆ [Méregkeverés](kepzettsegek.tudomanyos/meregkeveres.md)
+- [Orvoslás](kepzettsegek.tudomanyos/orvoslas.md) ⇆ [Méregkeverés](kepzettsegek.tudomanyos/meregkeveres.md)
 - [Alkímia](kepzettsegek.tudomanyos/alkimia.md) ⇆ [Méregkeverés](kepzettsegek.tudomanyos/meregkeveres.md)
 - [Vajákosság](kepzettsegek.vilagi/vajakossag.md) ⇆ [Természetjárás](kepzettsegek.vilagi/termeszetjaras.md)
 - [Lexikum](kepzettsegek.tudomanyos/lexikum.md) ⇆ [Művészetismeret](kepzettsegek.muveszeti/muveszetismeret.md)
