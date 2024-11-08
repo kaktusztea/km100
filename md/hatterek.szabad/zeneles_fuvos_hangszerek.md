@@ -4,12 +4,12 @@ Képes vagy fúvós hangszereket megszólaltatni. Amely **Kultúrköröket** ism
 
 ##### Kiterjeszti ezeket
 
-- [Előadóművészet](../kepzettsegek.muveszeti/eloadomuveszet.md)
+- [Előadóművészet](../kepzettsegek.muveszeti/eloadomuveszet.md): Ismered a fúvós hangszerek megszólaltatásának módját. Hogy mennyire élvezhetően, az az Előadóművészet képzettséged szintjétől függ.
 - [Művészetismeret](../kepzettsegek.muveszeti/muveszetismeret.md)
 
 ##### Követelmény
 
-- [Előadóművészet](../kepzettsegek.muveszeti/eloadomuveszet.md) - `3.szint`
+- [Előadóművészet](../kepzettsegek.muveszeti/eloadomuveszet.md) vagy [Művészetismeret](../kepzettsegek.muveszeti/muveszetismeret.md)- `3.szint`
 
 Képes vagy használni a fúvós hangszerek alá tartozó hangszereket.
 

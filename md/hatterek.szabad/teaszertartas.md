@@ -1,6 +1,6 @@
 #### 🟡 Teaszertartás
 
-Amely **Kultúrköröket** ismersz, annak teaszertartásait **Előadóművészet** képzettséged szintjének megfelelően el is tudod végezni.
+Amely [Kultúrköröket](../hatterek.kiemelt/kulturkor.md) ismersz, annak teaszertartásait **Előadóművészet** képzettséged szintjének megfelelően el is tudod végezni.
 ##### Kiterjeszti ezeket
 
 - [Előadóművészet](../kepzettsegek.muveszeti/eloadomuveszet.md)
