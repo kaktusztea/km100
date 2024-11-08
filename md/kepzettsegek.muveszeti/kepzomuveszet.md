@@ -1,16 +1,17 @@
 #### 🔵 Képzőművészet
 
+Az alkotás, az kézzel alkotott műremekek aktív, ihletett kreálása.
+
 **Próba:** dobható
 
 **Domináns Tulajdonságok**: Érzékenység, Ügyesség
 
-**Kapcsolódik**: [Kultúrkör](../hatterek.kiemelt/kulturkor.md) (kapcsolódó kultúra)
+**Kapcsolódik**: [Kultúrkör](../hatterek.kiemelt/kulturkor.md) (kapcsolódó kultúra) Háttér, [Művészetismeret](muveszetismeret.md) képzettség
 
-**Szabad Hátterek kiterjesztik**:
+**Szabad Hátterek kiterjesztik**
 - [Festészet](../hatterek.szabad/festeszet.md): Vászonra álmodod a lelkedben születő képeket.
-- [Irodalom](../hatterek.szabad/irodalom.md)
-- [Kalligráfia](../hatterek.szabad/kalligrafia.md)
-- [Szobrászat](../hatterek.szabad/szobraszat.md)
+- [Kalligráfia](../hatterek.szabad/kalligrafia.md): Mesterien bánsz a pennával, festett betűidben ott lakozik az örökkévalóság.
+- [Szobrászat](../hatterek.szabad/szobraszat.md): Kezed alatt agyagból, kőből készülnek a mesteri alkotások.
 
 **Leírás**: Aktív, alkotó művész vagy. A fenti [Szabad Háttér](../023_szabad_hatterek.md) listából [Szabad Pontok](../016_02_szp.md) költésével vehetsz fel művészeti ágakat.
 

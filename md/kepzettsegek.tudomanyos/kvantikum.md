@@ -13,10 +13,12 @@ Igazi potenciálját a kiterjesztését megvalósító Fortélyokkal és Szabad 
 - [Mechanika](../fortelyok.altalanos/mechanika.md): "Rittyentettem egy átemelő darut, amivel könnyebb lesz az öntözés."
 
 ##### Szabad Hátterek kiterjesztik
-- [Asztrológia](../hatterek.szabad/asztrologia.md)
-- [Pénzügyek](../hatterek.szabad/penzugyek.md)
+- [Asztrológia](../hatterek.szabad/asztrologia.md): "**Diss tüzének** idejében vagyunk. Nem jó idő ez a gyógyításra."
+- [Pénzügyek](../hatterek.szabad/penzugyek.md): "Ha ennyi aranyat egyben eladnánk, az leverné az árakat az egész megyében."
 - [Rejtjelfejtő](../hatterek.szabad/rejtjelfejto.md)
-- [Térképészet](../hatterek.szabad/terkepeszet.md)
+  - "Nem volt könnyű, de megfejtettem a titkosírást. Ez egy üzenet a tábornoknak, amiben a csapatokat a hágó elhagyására utasítja."
+  - "Megírtam az üzenetet uram, alkalmaztam a titkosírást, ha rossz kezekbe kerül, se tudják elolvasni."
+- [Térképészet](../hatterek.szabad/terkepeszet.md): "Elkészültem a kastély körüli dombok térképével, a magasságvonalakon látszik, hogy kemény mászás vár arra, aki nem a főúton szándékozik bemenni."
 
 ##### Követelmények:
 - [Írástudó](../fortelyok.altalanos/irastudo.md)

@@ -8,13 +8,13 @@
 - [Kultúrkör](../hatterek.kiemelt/kulturkor.md)
 - [Éneklés](../hatterek.szabad/enekles.md): nézők előtt dalolsz a hallgatók örömére.
 - [Irodalom](../hatterek.szabad/irodalom.md): Versek, novellák, regények, históriák, színdarabok írása.
-- [Színjátszás](../hatterek.szabad/szinjatszas.md)
+- [Színjátszás](../hatterek.szabad/szinjatszas.md): Életed a világot jelentő deszkák. Vándorszínháztól a nagyvárosok ünnepelt színészóriásaikig mind a publikum hálájára vágytok. A [Kultúrkörnek](../hatterek.kiemelt/kulturkor.md) megfelelő darabokban játszol.
 - [Tánc](../hatterek.szabad/tanc.md)
 - [Tánc: speciális/belső stílus](../hatterek.szabad/tanc_belso_stilus.md)
 - [Teaszertartás](../hatterek.szabad/teaszertartas.md)
-- [Zenélés: fúvós hangszerek](../hatterek.szabad/zeneles_fuvos_hangszerek.md)
-- [Zenélés: húros hangszerek](../hatterek.szabad/zeneles_huros_hangszerek.md)
-- [Zenélés: ütős hangszerek](../hatterek.szabad/zeneles_utos_hangszerek.md)
+- [Zenélés: fúvós hangszerek](../hatterek.szabad/zeneles_fuvos_hangszerek.md): Ismered a fúvós hangszerek megszólaltatásának módját. Hogy mennyire élvezhetően, az az Előadóművészet képzettséged szintjétől függ.
+- [Zenélés: húros hangszerek](../hatterek.szabad/zeneles_huros_hangszerek.md): Ismered a húros hangszerek megszólaltatásának módját. Hogy mennyire élvezhetően, az az Előadóművészet képzettséged szintjétől függ.
+- [Zenélés: ütős hangszerek](../hatterek.szabad/zeneles_utos_hangszerek.md): Ismered az ütős hangszerek megszólaltatásának módját. Hogy mennyire élvezhetően, az az Előadóművészet képzettséged szintjétől függ.
 - [Zsonglőrködés](../hatterek.szabad/zsonglorkodes.md)
 
 **Leírás**: Aktív, alkotó művész vagy. A fenti Szabad-Hátter listából válogathatsz [Szabad Pontok](../016_02_szp.md) költésével. Ha nincs meg a kívánt művészeti ág Szabad Háttérként, akkor `-3`-mal dobhatsz, de egy szigorú KM - a helyzet ismeretében - meg is tilthatja a dobást.

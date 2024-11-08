@@ -1,5 +1,7 @@
 #### 🔵 Művészetismeret
 
+Passzív műélvezet, a műalkotások ismerete, kritizálása, lexikális és érzelmi ismerete.
+
 **Próba:** dobható
 
 **Domináns Tulajdonságok**: Emlékezet, Intelligencia, Érzékenység
@@ -10,8 +12,8 @@
 - [Éneklés](../hatterek.szabad/enekles.md): felismered a híres dalnokokat, dallamaikat, slágereiket.
 - [Festészet](../hatterek.szabad/festeszet.md): ismered, felismered adott [Kultúrkör](../hatterek.kiemelt/kulturkor.md) festőit, műveiket, történetüket, stílusukat.
 - [Irodalom](../hatterek.szabad/irodalom.md): Ismered adott [Kultúrkör](../hatterek.kiemelt/kulturkor.md) neves irodalmárait, íróit, költőit és stílusukat, műveiket.
-- [Kalligráfia](../hatterek.szabad/kalligrafia.md)
-- [Színjátszás](../hatterek.szabad/szinjatszas.md)
+- [Kalligráfia](../hatterek.szabad/kalligrafia.md): "A kezdőbetű bezártsága alkotójának szomorú sorsát jelzi, a belekényszerített házasság szimbolikája."
+- [Színjátszás](../hatterek.szabad/szinjatszas.md): Ismered a [Kultúrkörnek](../hatterek.kiemelt/kulturkor.md) megfelelő klasszikus darabokat, otthonosan mozogsz a színészvilágban.
 - [Szobrászat](../hatterek.szabad/szobraszat.md)
 - [Tánc](../hatterek.szabad/tanc.md)
 - [Tánc: speciális/belső stílus](../hatterek.szabad/tanc_belso_stilus.md)
