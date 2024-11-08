@@ -29,7 +29,7 @@ Támadó CÉ =
 | Módosító                                                                                                                                          |   **CÉ**   |
 | :------------------------------------------------------------------------------------------------------------------------------------------------ | :--------: |
 | Célzás → 1 célzással eltöltött kör után (nem additív) 🔆                                                                                          |   `+10`    |
-| Célzás → 1 célzással eltöltött kör után (nem additív) - [Képzett célzás](fortelyok.tavharc/kepzett_celzas.md) fortéllyal 🔆                       |   ⭕`+20`   |
+| Célzás → 1 célzással eltöltött kör után (nem additív) - [Képzett célzás](fortelyok.tavharc/kepzett_celzas.md) fortéllyal 🔆                       |   `+20`    |
 | Képzetlenségből adódó levonás                                                                                                                     |   `-40`    |
 | Hirtelen lövés                                                                                                                                    |   `-30`    |
 | Álló cél "belövése" (gyakorlás) min. negyed órán át                                                                                               |  `+10-30`  |

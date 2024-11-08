@@ -46,3 +46,7 @@ Gyors elérésű link gyűjtemény - játékosok számára.
 [Vértek, Páncélok](069_vertek_pancelok.md)
 
 [Fegyverek, pajzsok](068_fegyverek.md)
+
+---
+
+⚜️ [Nyitóoldal](start.md)
