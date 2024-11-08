@@ -7,7 +7,7 @@ A speciálisabb fajokhoz külön Szabad Háttér kell a [Különleges faj boncol
 #### Bónusz ad
 
 - [Méregkeverés](../kepzettsegek.tudomanyos/meregkeveres.md) képzettséghez bónuszt ad (+2)
-- [Orvoslás](../kepzettsegek.vilagi/orvoslas.md) képzettséghez
+- [Orvoslás](../kepzettsegek.tudomanyos/orvoslas.md) képzettséghez
 #### Kiterjeszti ezeket
 
 - [Nyomozás](../kepzettsegek.vilagi/nyomozas.md): boncolás, halott vizsgálata

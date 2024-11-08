@@ -25,7 +25,7 @@ Amennyiben a vérzést sikerült valamilyen módon elállítani, a sebesült kar
 A "gyógyszerész". Akár a lápi boszorkány, akár mágiatudó lótifuti segédje, aki napokig járja az erdőt és a vadont ritka alapanyagok után kutatva. **Gyógyításra NEM képes**, de a gyógyszerek előállításához szükséges növényi és állati alapanyagokat be tudja szerezni. Minél magasabb a képzettsége, annál ritkábbakat.
 
 ---
-## [Orvoslás](kepzettsegek.vilagi/orvoslas.md) képzettség
+## [Orvoslás](kepzettsegek.tudomanyos/orvoslas.md) képzettség
 
 Alacsony szinten a betegségek és sebek kezelését gyógyszerekkel, kencékkel, magasabb szinten félmágikus energiaátadással végzi.
 
