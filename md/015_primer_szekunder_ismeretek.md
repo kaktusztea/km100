@@ -20,7 +20,7 @@ Minden más ismeret, ami nem Primer, viszont Karakteralkotó Pontba (`KP`) kerü
 
 A "kalandozásban legkevéssé hasznos", `3.` kategóriának foghatóak fel a [Szabad Háttér](023_szabad_hatterek.md) ismeretek - erre már nem is `KP`-t költünk, hanem ingyen kapott [Szabad Pontokat](016_02_szp.md).
 
-\- "Na de mééé? Miért nem azokat is KP-ból??"
+\- "Na de mééé? Miért nem azokat is KP-ból??"\
 \- "Ki vett fel Heraldikát vagy Jogismeretet valaha szándékosan **KP**-ból...? Naugye..."
 
 ---
