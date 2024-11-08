@@ -10,7 +10,7 @@ Passzív műélvezet, a műalkotások ismerete, kritizálása, lexikális és é
 
 **Szabad Hátterek kiterjesztik**:
 - [Éneklés](../hatterek.szabad/enekles.md): felismered a híres dalnokokat, dallamaikat, slágereiket.
-- [Festészet](../hatterek.szabad/festeszet.md): ismered, felismered adott [Kultúrkör](../hatterek.kiemelt/kulturkor.md) festőit, műveiket, történetüket, stílusukat.
+- [Festészet](../hatterek.szabad/festeszet.md): Ismered, felismered adott [Kultúrkör](../hatterek.kiemelt/kulturkor.md) festőit, műveiket, történetüket, stílusukat.
 - [Irodalom](../hatterek.szabad/irodalom.md): Ismered adott [Kultúrkör](../hatterek.kiemelt/kulturkor.md) neves irodalmárait, íróit, költőit és stílusukat, műveiket.
 - [Kalligráfia](../hatterek.szabad/kalligrafia.md): "A kezdőbetű bezártsága alkotójának szomorú sorsát jelzi, a belekényszerített házasság szimbolikája."
 - [Színjátszás](../hatterek.szabad/szinjatszas.md): Ismered a [Kultúrkörnek](../hatterek.kiemelt/kulturkor.md) megfelelő klasszikus darabokat, otthonosan mozogsz a színészvilágban.
