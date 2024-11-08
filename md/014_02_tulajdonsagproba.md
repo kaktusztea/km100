@@ -36,7 +36,7 @@ Ha nagyon finom bontást akarunk, akkor akár `2` fokozattal alacsonyabb nehézs
 - Tetves, a tolvaj `Ügyessége: +2`
 - Próba: „Nagyon nehéz" (`Célszám: 6`)
 - Mivel a feladat elég komplex és időben is elhúzódhat, ezért nem intézhető el a dolog `1 db` dobással. A KM `1 db` Másodlagos próbát ír elő.
-- Ekkor a próbák célszámai: `6` és `5` (`50%` és `66%` esély a sikerre). Ezzel kb. `33%`-a van a sikerre (`0.5\*0.66`). Látható, hogy az összetettebb feladatok nagyobb biztos tudást igényelnek.
+- Ekkor a próbák célszámai: `6` és `5` (`50%` és `66%` esély a sikerre). Ezzel kb. `33%`-a van a sikerre (`0.5*0.66`). Látható, hogy az összetettebb feladatok nagyobb biztos tudást igényelnek.
 - Tehát a próbák:
 
 ```
