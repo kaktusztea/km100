@@ -27,16 +27,16 @@
   
 #### → [Szabad Pontok](016_02_szp.md)
   
-#### → [Manőver Pontok](016_03_manover_pontok.md)
+#### → [Manőver Pontok](017_02_manover_pontok.md)
 
 ---
 ## [Számaztatott értékek](017_00_szarmaztatott_ertekek.md)
 
 #### → [Életerő Pont (ÉP)](017_01_ep.md)
   
-#### → [Mágiaellenállás](017_02_magiaellenallas.md) 🎲
+#### → [Mágiaellenállás](017_03_magiaellenallas.md) 🎲
   
-#### → [Méregellenállás](017_03_meregellenallas.md) 🎲
+#### → [Méregellenállás](017_04_meregellenallas.md) 🎲
 
 ---
 ### [Harcérték Módosító (HM), Célzóérték Módosító (CM)](018_hm_cm.md)
@@ -60,7 +60,7 @@ A [Harcérték Módosítók (HM, CM)](018_hm_cm.md) felvétele is `KP`-ból tör
 
 A [Hátterek](020_hattererek.md) számos érdekes aspektussal ruházhatják fel karakteredet. Az egyes fajok mind [Faj-Háttereként](021_faj_hatterek.md) vehetőek fel, limitációik és - érzékeiket érintő - kapcsolódó fortélyaikat ott találod meg. A [Kiemelt Hátterek](022_kiemelt_hatterek.md) három egyedi ismeretet adnak, amelyekre nem kell `KP`-t költened. A [Szabad Hátterek](023_szabad_hatterek.md) - melyeket [Szabad Pontok](016_02_szp.md) elköltésével vehetsz fel - specializált, egy, vagy több képzettséget "kiterjesztő" ismeretek. Ha rendelkezel egy ilyen területtel, akkor adott képzettség(ek)kel `-3` büntetés **nélkül** dobhatsz ilyen jellegű próbáknál. Végül essen szó a [Leíró Hátterekről](024_leiro_hatterek.md), ezek egyszavas jellemzők, melyek a karakter jellemét, hátterét színesítik - tetszés szerint vehetőek fel.
 
-Jöhetnek a [Származtatott értékek](017_00_szarmaztatott_ertekek.md): az [Életerő Pont](017_01_ep.md), a [Mágiaellenállás](017_02_magiaellenallas.md), a [Méregellenállás](017_03_meregellenallas.md) kiszámítása - ezekre nem kell külön pontot költeni.
+Jöhetnek a [Származtatott értékek](017_00_szarmaztatott_ertekek.md): az [Életerő Pont](017_01_ep.md), a [Mágiaellenállás](017_03_magiaellenallas.md), a [Méregellenállás](017_04_meregellenallas.md) kiszámítása - ezekre nem kell külön pontot költeni.
 
 Majd jöjjön végül karaktered [harcértékeinek megállapítása](062_01_ke_te_ve_ce.md).
 

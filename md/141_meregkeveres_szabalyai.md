@@ -151,6 +151,6 @@ Amennyiben nem hagyományos, ritka fajról van szó, akkor ahhoz a [Különleges
 
 ---
 
-🔗 [Méregellenállás próba](142_meregellenallas_proba.md) →
+🔗 [Méregellenállás próba](142_meregellenallas.md) →
 
 ⚜️ [Nyitóoldal](start.md)

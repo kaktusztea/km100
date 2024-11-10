@@ -54,11 +54,11 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 - [Pontok](016_00_pontok.md)
   - [Karakteralkotó Pontok (KP)](016_01_kp.md)
   - [Szabad Pontok (SzP)](016_02_szp.md)
-  - [Manőver Pontok (MP)](016_03_manover_pontok.md)
 - [Számaztatott értékek](017_00_szarmaztatott_ertekek.md)
   - [Életerő Pont (ÉP)](017_01_ep.md)
-  - [Mágiaellenállás](017_02_magiaellenallas.md) 🎲
-  - [Méregellenállás](017_03_meregellenallas.md) 🎲
+  - [Manőver Pontok (MP)](017_02_manover_pontok.md)
+  - [Mágiaellenállás](017_03_magiaellenallas.md) 🎲
+  - [Méregellenállás](017_04_meregellenallas.md) 🎲
 - [Harcérték Módosító (HM), Célzóérték Módosító (CM)](018_hm_cm.md)
 - [Nem Játékos Karakterek](019_njk.md)
 
@@ -233,7 +233,7 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 ### 14. [Méregrendszer, Mérgek](140_meregrendszer.md)
 
 - [Méregkeverés szabályai](141_meregkeveres_szabalyai.md)
-- [Méregellenállás próba](142_meregellenallas_proba.md)
+- [Méregellenállás próba](142_meregellenallas.md)
 - [Méregérzékelés](143_meregerzekeles.md)
 - [Példamérgek](144_peldamergek.md)
 

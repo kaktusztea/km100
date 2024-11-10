@@ -2,9 +2,13 @@
 
 Egyes értékek más, már kiszámolt értékekből származtatva kerülnek meghatározásra.
 
-- [Életerő Pont (ÉP)](017_01_ep.md)
-- [Mágiaellenállás](017_02_magiaellenallas.md)
-- [Méregellenállás](017_03_meregellenallas.md)
+#### [Életerő Pont (ÉP)](017_01_ep.md)
+
+#### [Manőver Pontok (MP)](017_02_manover_pontok.md)
+
+#### [Mágiaellenállás](017_03_magiaellenallas.md)
+
+#### [Méregellenállás](017_04_meregellenallas.md)
 
 ---
 

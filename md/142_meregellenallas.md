@@ -1,4 +1,4 @@
-## Méregellenállás próba
+## Méregellenállás
 
 A Méregellenállás próba egyszerű [Tulajdonságpróba](014_02_tulajdonsagproba.md), melynél a karakter `Edzettség` Tulajdonsága számít.
 
