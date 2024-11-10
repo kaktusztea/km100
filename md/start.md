@@ -198,19 +198,19 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 - **Arkánumok listája**
   - [Asztrálmágia](kepzettsegek.primer.arkanumok/asztralmagia.md)
   - [Elemi mágia](kepzettsegek.primer.arkanumok/elemi_magia.md)
-  - [Belső síkok lényeinek idézése](kepzettsegek.primer.arkanumok/idezes.belso.sikok.md)
-  - [Életerő manipulálása](kepzettsegek.primer.arkanumok/eletero.manipulalasa.md)
+  - [Belső síkok lényeinek idézése](kepzettsegek.primer.arkanumok/idezes_belso_sikok.md)
+  - [Életerő manipulálása](kepzettsegek.primer.arkanumok/eletero_manipulalasa.md)
   - [Időmágia](kepzettsegek.primer.arkanumok/idomagia.md)
   - [Illúziók](kepzettsegek.primer.arkanumok/illuziok.md)
-  - [Külső síkok lényeinek idézése](kepzettsegek.primer.arkanumok/idezes.kulso.sikok.md)
+  - [Külső síkok lényeinek idézése](kepzettsegek.primer.arkanumok/idezes_kulso_sikok.md)
   - [Mentálmágia](kepzettsegek.primer.arkanumok/mentalmagia.md)
   - [Metamágia](kepzettsegek.primer.arkanumok/metamagia.md)
   - [Nekromancia](kepzettsegek.primer.arkanumok/nekromancia.md)
-  - [Sors befolyásolás](kepzettsegek.primer.arkanumok/sors.befolyasolas.md)
-  - [Sors érzékelés](kepzettsegek.primer.arkanumok/sors.erzekeles.md)
+  - [Sors befolyásolás](kepzettsegek.primer.arkanumok/sors_befolyasolas.md)
+  - [Sors érzékelés](kepzettsegek.primer.arkanumok/sors_erzekeles.md)
   - [Térmágia](kepzettsegek.primer.arkanumok/termagia.md)
-  - [Természetes anyagok mágiája](kepzettsegek.primer.arkanumok/termeszetes.anyagok.magiaja.md)
-  - [Természeti jelenségek](kepzettsegek.primer.arkanumok/termeszeti.jelensegek.md)
+  - [Természetes anyagok mágiája](kepzettsegek.primer.arkanumok/termeszetes_anyagok_magiaja.md)
+  - [Természeti jelenségek](kepzettsegek.primer.arkanumok/termeszeti_jelensegek.md)
 
 ---
 ### 10. [Papi mágia](100_papimagia.md) (10%) 🚧

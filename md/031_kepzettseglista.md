@@ -154,7 +154,7 @@ Az aktív előadást igénylő művészeteket szeparáltuk az **Előadóművész
 
 🔵 [Elemi mágia](kepzettsegek.primer.arkanumok/elemi_magia.md) <sup><sub>(30%)</sub></sup>
 
-🔵 [Természetes anyagok mágiája](kepzettsegek.primer.arkanumok/termeszetes.anyagok.magiaja.md)
+🔵 [Természetes anyagok mágiája](kepzettsegek.primer.arkanumok/termeszetes_anyagok_magiaja.md)
 
 ###  Lélek szféra
 
@@ -166,7 +166,7 @@ Az aktív előadást igénylő művészeteket szeparáltuk az **Előadóművész
 
 🔵 [Illúziók](kepzettsegek.primer.arkanumok/illuziok.md)
 
-🔵 [Természeti jelenségek](kepzettsegek.primer.arkanumok/termeszeti.jelensegek.md)
+🔵 [Természeti jelenségek](kepzettsegek.primer.arkanumok/termeszeti_jelensegek.md)
 
 ### Téridő szféra
 
@@ -176,21 +176,21 @@ Az aktív előadást igénylő művészeteket szeparáltuk az **Előadóművész
 
 ### Életerő szféra
 
-🔵 [Életerő Manipulálása](kepzettsegek.primer.arkanumok/eletero.manipulalasa.md)
+🔵 [Életerő Manipulálása](kepzettsegek.primer.arkanumok/eletero_manipulalasa.md)
 
 🔵 [Nekromancia](kepzettsegek.primer.arkanumok/nekromancia.md)  <sup><sub>(15%)</sub></sup>
 
 ### Idézés szféra
 
-🔵 [Belső síkok lényeinek idézése](kepzettsegek.primer.arkanumok/idezes.belso.sikok.md)
+🔵 [Belső síkok lényeinek idézése](kepzettsegek.primer.arkanumok/idezes_belso_sikok.md)
 
-🔵 [Külső síkok lényeinek idézése](kepzettsegek.primer.arkanumok/idezes.kulso.sikok.md)
+🔵 [Külső síkok lényeinek idézése](kepzettsegek.primer.arkanumok/idezes_kulso_sikok.md)
 
 ### Sors szféra
 
-🔵 [Sors Érzékelés](kepzettsegek.primer.arkanumok/sors.erzekeles.md)
+🔵 [Sors Érzékelés](kepzettsegek.primer.arkanumok/sors_erzekeles.md)
 
-🔵 [Sors Befolyásolás](kepzettsegek.primer.arkanumok/sors.befolyasolas.md)
+🔵 [Sors Befolyásolás](kepzettsegek.primer.arkanumok/sors_befolyasolas.md)
 
 ### Belső Szféra
 
