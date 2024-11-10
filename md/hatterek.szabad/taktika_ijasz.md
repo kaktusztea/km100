@@ -6,7 +6,7 @@
 
 ##### Kiterjeszti ezeket
 
-[Hadászat](../kepzettsegek.tudomanyos/hadaszat.md): "Fedezőtüzet a visszavonuló lovasság mögé!"
+[Hadászat](../kepzettsegek.primer.altalanos/hadaszat.md): "Fedezőtüzet a visszavonuló lovasság mögé!"
 
 ##### Követelmény
 

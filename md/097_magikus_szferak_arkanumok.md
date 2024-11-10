@@ -18,13 +18,13 @@ Annyi ősi nyelv van, ahány mágiaiskola.
 
 ✨Ősi nyelv: Aquir
 
-- [Elemi mágia](kepzettsegek.arkanumok/elemi_magia.md)
+- [Elemi mágia](kepzettsegek.primer.arkanumok/elemi_magia.md)
   - Őselem idézése
   - ...
   -  ✨Ősi nyelv: ⭕?
-- [Természetes anyagok mágiája](kepzettsegek.arkanumok/termeszetes.anyagok.magiaja.md)
+- [Természetes anyagok mágiája](kepzettsegek.primer.arkanumok/termeszetes.anyagok.magiaja.md)
   - Ideamágia (CX)
-  - [Méregmágia](kepzettsegek.arkanumok/termeszetes.anyagok.magiaja.md#méregmágia)
+  - [Méregmágia](kepzettsegek.primer.arkanumok/termeszetes.anyagok.magiaja.md#méregmágia)
   - Méregmágia szemita (CX)
   - ✨Ősi nyelv: Gnóm
 
@@ -33,7 +33,7 @@ Annyi ősi nyelv van, ahány mágiaiskola.
 
 ✨Ősi nyelv: ⭕?
 
-- [Asztrál](kepzettsegek.arkanumok/asztralmagia.md)
+- [Asztrál](kepzettsegek.primer.arkanumok/asztralmagia.md)
   - Hangulatmágia
   - Asztrális befolyás
   - ide tartoznak pl. az átkok (sorsjellegű, jellemtorzítás)
@@ -41,7 +41,7 @@ Annyi ősi nyelv van, ahány mágiaiskola.
   - Szexuálmágia
   - Bájolások
   - ✨Ősi nyelv: Amund
-- [Mentál](kepzettsegek.arkanumok/mentalmagia.md)
+- [Mentál](kepzettsegek.primer.arkanumok/mentalmagia.md)
   - mentál-átkok
   - mentál-átoklevétel
   - ✨Ősi nyelv: Dzsenn
@@ -53,12 +53,12 @@ Annyi ősi nyelv van, ahány mágiaiskola.
 
 ⭕CX Elemimágia formuláinak egy része ide jön⭕
 
-- [Illúziók](kepzettsegek.arkanumok/illuziok.md)
+- [Illúziók](kepzettsegek.primer.arkanumok/illuziok.md)
   - Fénymágia, Szagmágia
   - Hangmágia/[Csendmágia](https://github.com/kaktusztea/km100/wiki/RAW.magia#csendmágia)
   - Szagmágia
   - ✨Ősi nyelv: ⭕?
-- [Természeti jelenségek](kepzettsegek.arkanumok/termeszeti.jelensegek.md)
+- [Természeti jelenségek](kepzettsegek.primer.arkanumok/termeszeti.jelensegek.md)
   - Időjárásbefolyásolás
   - Villámmmágia
   - ✨Ősi nyelv: ⭕Óelf⭕?
@@ -68,9 +68,9 @@ Annyi ősi nyelv van, ahány mágiaiskola.
 
 ✨Ősi nyelv: ⭕?
 
-- [Időmágia](kepzettsegek.arkanumok/idomagia.md)
+- [Időmágia](kepzettsegek.primer.arkanumok/idomagia.md)
   - ✨Ősi nyelv: ⭕?
-- [Térmágia](kepzettsegek.arkanumok/termagia.md)
+- [Térmágia](kepzettsegek.primer.arkanumok/termagia.md)
   - ✨Ősi nyelv: ⭕?
 
 ---
@@ -78,7 +78,7 @@ Annyi ősi nyelv van, ahány mágiaiskola.
 
 ✨Ősi nyelv: ⭕?
 
-- [Életerő manipulálása](kepzettsegek.arkanumok/eletero.manipulalasa.md)
+- [Életerő manipulálása](kepzettsegek.primer.arkanumok/eletero.manipulalasa.md)
   - Gyógyítás
     - Sebgyógyítás
     - Isteni Életerő átadása (KT átalakítása ÉP-vé rögtön)
@@ -93,7 +93,7 @@ Annyi ősi nyelv van, ahány mágiaiskola.
     - életerő szívása és átadása (holtnak és élőnek is)
   - Betegségek
   - ✨Ősi nyelv: ⭕?
-- [Nekromancia](kepzettsegek.arkanumok/nekromancia.md)
+- [Nekromancia](kepzettsegek.primer.arkanumok/nekromancia.md)
   - Élőholtak manipulálása
   - ✨Ősi nyelv: ⭕?
 
@@ -102,7 +102,7 @@ Annyi ősi nyelv van, ahány mágiaiskola.
 
 ✨Ősi nyelv: ⭕?
 
-- [Belső síkok lényeinek idézése](kepzettsegek.arkanumok/idezes.belso.sikok.md)
+- [Belső síkok lényeinek idézése](kepzettsegek.primer.arkanumok/idezes.belso.sikok.md)
   - állatok (alacsony szintű)
   - szörnyek (kicsit magasabb)
   - elementálok
@@ -110,7 +110,7 @@ Annyi ősi nyelv van, ahány mágiaiskola.
   - ember lelkek / lelkekbol lehasadt szellemek
   - természeti szellemek
   - ✨Ősi nyelv: ⭕?
-- [Külső síkok lényeinek idézése](kepzettsegek.arkanumok/idezes.kulso.sikok.md)
+- [Külső síkok lényeinek idézése](kepzettsegek.primer.arkanumok/idezes.kulso.sikok.md)
   - Demonológia
   - Theurgia
   - Goécia
@@ -123,10 +123,10 @@ Annyi ősi nyelv van, ahány mágiaiskola.
 
 ✨Ősi nyelv: ⭕?
 
-- [Sors Érzékelés](kepzettsegek.arkanumok/sors.erzekeles.md)
+- [Sors Érzékelés](kepzettsegek.primer.arkanumok/sors.erzekeles.md)
   - jövendőmondás / múltbatekintés
   - ✨Ősi nyelv: ⭕?
-- [Sors Befolyásolás](kepzettsegek.arkanumok/sors.befolyasolas.md)
+- [Sors Befolyásolás](kepzettsegek.primer.arkanumok/sors.befolyasolas.md)
   - Árnyékra ható mágia
   - Lélekmágia (véletlenmágia) (CX)
   - ✨Ősi nyelv: ⭕?
@@ -138,9 +138,9 @@ Annyi ősi nyelv van, ahány mágiaiskola.
 
 Jelenleg nincs olyan isten, amely ezt a Szférát uralná és papjainak elérhető lenne.
 
-- Aura - azonos az [Aurafejlesztés](kepzettsegek.misztikus/aurafejlesztes.md) képzettséggel
+- Aura - azonos az [Aurafejlesztés](kepzettsegek.primer.misztikus/aurafejlesztes.md) képzettséggel
   - ✨Ősi nyelv: ⭕?
-- Pszí - azonos a [Pszí használat](kepzettsegek.misztikus/pszi_hasznalat.md) képzettséggel
+- Pszí - azonos a [Pszí használat](kepzettsegek.primer.misztikus/pszi_hasznalat.md) képzettséggel
   - ✨Ősi nyelv: ⭕?
 
 ---
@@ -154,7 +154,7 @@ Ez a teremtés és mágia szférája.
   - Élet Princípiumának a megteremtése
   - Lélekcsíra megteremtése
   - ✨Ősi nyelv: ⭕?
-- Mana == Minden Tradíció [Metamágia](kepzettsegek.arkanumok/metamagia.md) arkánuma ⭕(== Tradíció ??)⭕
+- Mana == Minden Tradíció [Metamágia](kepzettsegek.primer.arkanumok/metamagia.md) arkánuma ⭕(== Tradíció ??)⭕
 
 ---
 

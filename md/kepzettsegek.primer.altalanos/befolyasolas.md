@@ -8,7 +8,7 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
 **Kapcsolódó fortély**: ⭕xyz
 
-**Kapcsolódó képzettség**: [Emberismeret](../kepzettsegek.vilagi/emberismeret.md)
+**Kapcsolódó képzettség**: [Emberismeret](emberismeret.md)
 
 **Szabad Hátterek kiterjesztik**:
 - [Alkudozás](../hatterek.szabad/alkudozas.md): "Micsoda? A felét nem éri! Félkegyelműnek tűnök talán?!"
@@ -35,7 +35,7 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
 ##### Ellenpróbák
 
-A **Befolyásolás** szinte mindig az [Emberismeret](../kepzettsegek.vilagi/emberismeret.md) képzettséggel áll ellenpróbás szituációban - a szituációtól függő módosítókkal. A leggyakoribb az alábbi próba-szituáció:
+A **Befolyásolás** szinte mindig az [Emberismeret](emberismeret.md) képzettséggel áll ellenpróbás szituációban - a szituációtól függő módosítókkal. A leggyakoribb az alábbi próba-szituáció:
 ```
 Intelligencia + Emberismeret
             vs

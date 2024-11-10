@@ -38,7 +38,7 @@ Mindegyik Belharcos Manőver [Belharci szituációt](065_01_harci_helyzetek.md#b
 - Nehézség: `5`
 - Fázisok: `V E`
 - Végbevitel követelménye:
-	- [Közelharc](kepzettsegek.harci/harcmodor.md) – `4 .szint`
+	- [Közelharc](kepzettsegek.primer.harci/harcmodor.md) – `4 .szint`
 	- [Belharc](fortelyok.harci/belharc.md) – `1.fok`
 - Súlyos ellenfélnél opcionális **Erőpróba** (KM dönt)
 

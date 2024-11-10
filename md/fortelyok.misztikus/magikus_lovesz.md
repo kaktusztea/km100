@@ -5,17 +5,17 @@ Mágiatudóként nagyon kihegyezted magad a távolba direktben ható mágiákra,
 ---
 #### 1. fok
 
-🔒 **Követelmény**: [Mágikus célzás](../kepzettsegek.harci/harcmodor.md) - ⭕`6.szint`
+🔒 **Követelmény**: [Mágikus célzás](../kepzettsegek.primer.harci/harcmodor.md) - ⭕`6.szint`
 
 🌟 **Hatás**:
-- Ha [Mágikus célzás](../kepzettsegek.harci/harcmodor.md) harcmodort használod mágiatudóként, akkor:
-- **Osztó**:`+1`, amikor [Mágikus lövedéket](../kepzettsegek.arkanumok/elemi_magia.md#időtartam)  használsz.
+- Ha [Mágikus célzás](../kepzettsegek.primer.harci/harcmodor.md) harcmodort használod mágiatudóként, akkor:
+- **Osztó**:`+1`, amikor [Mágikus lövedéket](../kepzettsegek.primer.arkanumok/elemi_magia.md#időtartam)  használsz.
   - ⭕TODO: link update⭕
 
 ---
 #### 2. fok
 
-🔒 **Követelmény**: [Mágikus célzás](../kepzettsegek.harci/harcmodor.md) - ⭕`9.szint` 
+🔒 **Követelmény**: [Mágikus célzás](../kepzettsegek.primer.harci/harcmodor.md) - ⭕`9.szint` 
 
 🌟 **Hatás**:
 - Ha **Mágikus célzás** harcmodort használod mágiatudóként, akkor:
@@ -24,7 +24,7 @@ Mágiatudóként nagyon kihegyezted magad a távolba direktben ható mágiákra,
 ---
 #### 3. fok
 
-🔒 **Követelmény**: [Mágikus célzás](../kepzettsegek.harci/harcmodor.md) - ⭕`9.szint` 
+🔒 **Követelmény**: [Mágikus célzás](../kepzettsegek.primer.harci/harcmodor.md) - ⭕`9.szint` 
 
 🌟 **Hatás**:
 - Ha **Mágikus célzás** harcmodort használod mágiatudóként, akkor:

@@ -1,5 +1,7 @@
 #### 🔵 Harcmodorok
 
+Ez egy [Primer (harci) képzettség](../015_primer_szekunder_ismeretek.md).
+
 **Próba:** nincs, csak biztos tudásból
 
 **Leírás**:\

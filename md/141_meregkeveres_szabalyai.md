@@ -11,7 +11,7 @@ A mérgeket összetevő szerint csoportosítva pedig szintén három kategóriá
 - növényi
 - ásványi (szervetlen)
 
-A **Méregkeverés** külön képzettség, működését lásd [annak leírásában](kepzettsegek.tudomanyos/meregkeveres.md).
+A **Méregkeverés** külön képzettség, működését lásd [annak leírásában](kepzettsegek.primer.altalanos/meregkeveres.md).
 
 ---
 ## A méreg szintje

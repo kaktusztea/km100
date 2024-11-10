@@ -2,8 +2,8 @@
 
 ##### Kiterjeszti ezeket
 
-- [Előadóművészet](../kepzettsegek.muveszeti/eloadomuveszet.md)
-- [Művészetismeret](../kepzettsegek.muveszeti/muveszetismeret.md)
+- [Előadóművészet](../kepzettsegek.szekunder/eloadomuveszet.md)
+- [Művészetismeret](../kepzettsegek.szekunder/muveszetismeret.md)
 
 ##### Követelmény
 

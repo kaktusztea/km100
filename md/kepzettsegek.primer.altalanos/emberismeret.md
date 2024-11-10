@@ -12,7 +12,7 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
 **Kapcsolódó fortély**: [Hidegvér](../fortelyok.altalanos/hidegver.md), [Tiszta fej](../fortelyok.altalanos/tiszta_fej.md)
 
-**Kapcsolódó képzettség**: [Befolyásolás](befolyasolas.md), [Etikett](../kepzettsegek.vilagi/etikett.md)
+**Kapcsolódó képzettség**: [Befolyásolás](befolyasolas.md), [Etikett](../kepzettsegek.szekunder/etikett.md)
 
 **Szabad Hátterek kiterjesztik**:
 - [Alkudozás](../hatterek.szabad/alkudozas.md): "Sajnálom uram, de ez **valódi** pamut, az árért, amit kínál, egy vak koldus sem adná oda."

@@ -2,11 +2,11 @@
 
 ##### Kiterjeszti ezeket
 
-[Előadóművészet](../kepzettsegek.muveszeti/eloadomuveszet.md)
+[Előadóművészet](../kepzettsegek.szekunder/eloadomuveszet.md)
 
 ##### Követelmény
 
-[Előadóművészet](../kepzettsegek.muveszeti/eloadomuveszet.md) - `6.szint`
+[Előadóművészet](../kepzettsegek.szekunder/eloadomuveszet.md) - `6.szint`
 
 Nem csak eljátszani tudsz dalokat, zenei műveket, hanem komponálni is.
 

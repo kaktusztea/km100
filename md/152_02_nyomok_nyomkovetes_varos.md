@@ -7,7 +7,7 @@
 
 "Az az asztal el lett mozdítva." / "Huzatos itt a fal mellett."
 
-- [Észlelés](kepzettsegek.vilagi/eszleles.md) képzettségpróba a nyom észrevételének bonyolultságának megfelelő megfelelő Nehézség ellen
+- [Észlelés](kepzettsegek.primer.altalanos/eszleles.md) képzettségpróba a nyom észrevételének bonyolultságának megfelelő megfelelő Nehézség ellen
 - Követelmény: [Keresés/Nyomolvasás](fortelyok.altalanos/kereses_nyomolvasas.md) fortély
 
 ---
@@ -15,12 +15,12 @@
 
 Például titkos iratok átböngészése. Egy felfedezett ősi címer elemzése. Felfedezett titkosírás elemzése.
 
-- [Nyomozás](kepzettsegek.vilagi/nyomozas.md) képzettségpróba a felfedezett nyom értelmezésének bonyolultsága, mint Nehézség ellen.
+- [Nyomozás](kepzettsegek.primer.altalanos/nyomozas.md) képzettségpróba a felfedezett nyom értelmezésének bonyolultsága, mint Nehézség ellen.
 - Nyomozást kiterjeszthetik az alábbi Szabad Hátterek ebben a környezetben. Ha nincs meg az épp szükséges közülük: `-3` a dobásra.
   - [Heraldika](hatterek.szabad/heraldika.md)
   - [Jogismeret](hatterek.szabad/jogismeret.md)
   - [Pénzügyek](hatterek.szabad/penzugyek.md)
-  - [Rejtjelfejtő](hatterek.szabad/rejtjelfejto.md)  (ennél használható a [Kvantikum](kepzettsegek.tudomanyos/kvantikum.md)) képzettség is
+  - [Rejtjelfejtő](hatterek.szabad/rejtjelfejto.md)  (ennél használható a [Kvantikum](kepzettsegek.szekunder/kvantikum.md)) képzettség is
 
 ---
 

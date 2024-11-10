@@ -4,14 +4,14 @@ Többször felvehető. Ez általában egyedi, titkos, vagy nagyon speciális tá
 
 ##### Kiterjeszti ezeket
 
-- [Előadóművészet](../kepzettsegek.muveszeti/eloadomuveszet.md)
-- [Művészetismeret](../kepzettsegek.muveszeti/muveszetismeret.md)
+- [Előadóművészet](../kepzettsegek.szekunder/eloadomuveszet.md)
+- [Művészetismeret](../kepzettsegek.szekunder/muveszetismeret.md)
 
 ##### Követelmény
 
 - Előtörténet
-- [Etikett](../kepzettsegek.vilagi/etikett.md) -`9.szint` (képzettség)
-- [Előadóművészet](../kepzettsegek.muveszeti/eloadomuveszet.md) - `9.szint` (képzettség)
+- [Etikett](../kepzettsegek.szekunder/etikett.md) -`9.szint` (képzettség)
+- [Előadóművészet](../kepzettsegek.szekunder/eloadomuveszet.md) - `9.szint` (képzettség)
 - [Kultúrkör](../hatterek.kiemelt/kulturkor.md) (kapcsolódó Háttér)
 - [Tánc](tanc.md)  (kapcsolódó Szabad Háttér)
 

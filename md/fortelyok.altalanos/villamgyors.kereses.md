@@ -10,7 +10,7 @@ Gyorsabban tudsz keresni, kutatni egy helyiségben.
 
 🔒 **Követelmény**:  - 
 
-🌟 **Hatás**: Alapesetben ha gyorsan, nyomás alatt akarsz valamit megtalálni, akkor `+3`-al emelkedik az [Észlelés](../kepzettsegek.vilagi/eszleles.md) képzettségpróba célszáma.
+🌟 **Hatás**: Alapesetben ha gyorsan, nyomás alatt akarsz valamit megtalálni, akkor `+3`-al emelkedik az [Észlelés](../kepzettsegek.primer.altalanos/eszleles.md) képzettségpróba célszáma.
 
 ---
 #### 1. fok
