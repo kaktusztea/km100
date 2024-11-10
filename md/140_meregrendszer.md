@@ -2,7 +2,7 @@
 
 #### [Méregkeverés szabályai](141_meregkeveres_szabalyai.md)
 
-#### [Méregellenállás próba](142_meregellenallas_proba.md)
+#### [Méregellenállás próba](142_meregellenallas.md)
 
 #### [Méregérzékelés](143_meregerzekeles.md)
 
