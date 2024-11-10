@@ -8,7 +8,7 @@ Képes vagy nehézlovas formációba fejlődni, együttmaradni, fordulni - harci
 
 ##### Kiterjeszti ezeket
 
-- [Hadászat](../kepzettsegek.tudomanyos/hadaszat.md): "Első szakasz, kitérés a pikások előtt, második szakasz rögtön utána, ékben támadás!"
+- [Hadászat](../kepzettsegek.primer.altalanos/hadaszat.md): "Első szakasz, kitérés a pikások előtt, második szakasz rögtön utána, ékben támadás!"
 
 ##### Követelmény
 

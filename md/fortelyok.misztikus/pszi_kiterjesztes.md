@@ -2,7 +2,7 @@
 
 Ezzel a fortéllyal kiterjesztheted az alkalmazott pszí diszciplínákat másra, másokra is.
 
-Kapcsolódik: [Pszí használat](../kepzettsegek.misztikus/pszi_hasznalat.md) képzettség.
+Kapcsolódik: [Pszí használat](../kepzettsegek.primer.misztikus/pszi_hasznalat.md) képzettség.
 
 #### Alapeset
 
@@ -14,8 +14,8 @@ Passzív: az alkalmazó csak magára képes a diszciplínákat alkalmazni﻿.
 🔒 **Követelmény**:
 - Intelligencia: `+0`
 - Önuralom: `+1`
-- [Összpontosítás](../kepzettsegek.misztikus/osszpontositas.md) - `3.szint`
-- [Pszí használat](../kepzettsegek.misztikus/pszi_hasznalat.md) - `3.szint
+- [Összpontosítás](../kepzettsegek.primer.misztikus/osszpontositas.md) - `3.szint`
+- [Pszí használat](../kepzettsegek.primer.misztikus/pszi_hasznalat.md) - `3.szint
 
 🌟 **Hatás**:
 - Aktív: magára, vagy egy célszemélyre képes hatni, akit lát.﻿

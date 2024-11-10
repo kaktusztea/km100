@@ -2,8 +2,8 @@
 
 ##### Kiterjeszti ezeket
 
-- [Képzőművészet](../kepzettsegek.muveszeti/kepzomuveszet.md)
-- [Művészetismeret](../kepzettsegek.muveszeti/muveszetismeret.md)
+- [Képzőművészet](../kepzettsegek.szekunder/kepzomuveszet.md)
+- [Művészetismeret](../kepzettsegek.szekunder/muveszetismeret.md)
 
 ##### Kapcsolódó fortély
 

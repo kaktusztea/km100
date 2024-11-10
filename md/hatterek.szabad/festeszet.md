@@ -2,8 +2,8 @@
 
 ##### Kiterjeszti ezeket
 
-- [Képzőművészet](../kepzettsegek.muveszeti/kepzomuveszet.md): Vászonra álmodod a lelkedben születő képeket.
-- [Művészetismeret](../kepzettsegek.muveszeti/muveszetismeret.md): Ismered, felismered adott [Kultúrkör](../hatterek.kiemelt/kulturkor.md) festőit, műveiket, történetüket, stílusukat.
+- [Képzőművészet](../kepzettsegek.szekunder/kepzomuveszet.md): Vászonra álmodod a lelkedben születő képeket.
+- [Művészetismeret](../kepzettsegek.szekunder/muveszetismeret.md): Ismered, felismered adott [Kultúrkör](../hatterek.kiemelt/kulturkor.md) festőit, műveiket, történetüket, stílusukat.
 
 ##### Kapcsolódó fortély
 

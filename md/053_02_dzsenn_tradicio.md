@@ -6,11 +6,11 @@ Ez egy [Primer](015_primer_szekunder_ismeretek.md) képzettség.
 
 - **NEM** követelmény a tisztavérű dzsenn származás (mint a hatalomszavak alkalmazásánál)
 - Pszí kiterjesztés fortély: `1. fok`⭕(2?)
-- [Pszí használat](kepzettsegek.misztikus/pszi_hasznalat.md) képzettség (Primer) felvétele, amelynek szintje nem lehet alacsonyabb, mint a Dzsenn tradíció képzettség
+- [Pszí használat](kepzettsegek.primer.misztikus/pszi_hasznalat.md) képzettség (Primer) felvétele, amelynek szintje nem lehet alacsonyabb, mint a Dzsenn tradíció képzettség
 - az egyes dzsenn különleges képességeknek nincs olyan változata, amelyek e tradíció nélkül működnének
 
 ---
-###  [Mentálmágia](kepzettsegek.arkanumok/mentalmagia.md), mint speciális pszionikus képesség
+###  [Mentálmágia](kepzettsegek.primer.arkanumok/mentalmagia.md), mint speciális pszionikus képesség
 
 - `Mentálmágia szint == (Dzsenn tradíció szintje) - 8`
 - A dzsenn képes nem Manából, hanem pszi energiáiból Mentálmágikus mozaikokat megidézni. Ennek a különleges képességnek oka a dzsennek mentálsíkkal való szoros összefonódásában keresendő. Fontos: csak 1 darab formulát használhat egyszerre, nem kombinálhatja őket mozaikokként!

@@ -15,7 +15,7 @@
 - arany transzmutáció (nagyon magas szinten - félmágikus hatás)
 - mágiához szükséges fizikai komponensek létrehozása, szekszerű tárolása, tartósítása
 - Prima Materia, Mindent Oldó Szer kutatása
-- Mérgek **alapanyagainak** előállítása (nem magának a méregnek!). Ez által speciális követelménye is a [Méregkeverés](meregkeveres.md) képzettségnek!
+- Mérgek **alapanyagainak** előállítása (nem magának a méregnek!). Ez által speciális követelménye is a [Méregkeverés](../kepzettsegek.primer.altalanos/meregkeveres.md) képzettségnek!
 
 <br />
 

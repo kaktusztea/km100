@@ -6,13 +6,13 @@ A speciálisabb fajokhoz külön Szabad Háttér kell a [Különleges faj boncol
 
 #### Bónusz ad
 
-- [Méregkeverés](../kepzettsegek.tudomanyos/meregkeveres.md) képzettséghez bónuszt ad (+2)
-- [Orvoslás](../kepzettsegek.tudomanyos/orvoslas.md) képzettséghez
+- [Méregkeverés](../kepzettsegek.primer.altalanos/meregkeveres.md) képzettséghez bónuszt ad (+2)
+- [Orvoslás](../kepzettsegek.primer.altalanos/orvoslas.md) képzettséghez
 #### Kiterjeszti ezeket
 
-- [Nyomozás](../kepzettsegek.vilagi/nyomozas.md): boncolás, halott vizsgálata
-- [Nekromancia](../kepzettsegek.arkanumok/nekromancia.md) arkánum: például homonkulusz kreáláshoz
-- [Lexikum](../kepzettsegek.tudomanyos/lexikum.md): ⭕
+- [Nyomozás](../kepzettsegek.primer.altalanos/nyomozas.md): boncolás, halott vizsgálata
+- [Nekromancia](../kepzettsegek.primer.arkanumok/nekromancia.md) arkánum: például homonkulusz kreáláshoz
+- [Lexikum](../kepzettsegek.szekunder/lexikum.md): ⭕
 
 
 #### TODO

@@ -15,8 +15,8 @@
 ```
 
 ##### Kiterjeszti ezeket:
-- [Városi jártasság](../kepzettsegek.vilagi/varosi_jartassag.md)
-- [Lexikum](../kepzettsegek.tudomanyos/lexikum.md): csak ha konkrétan helyi témával kapcsolatos ismeretről van szó, akkor szükséges. Ne legyünk túl szigorúak.
+- [Városi jártasság](../kepzettsegek.szekunder/varosi_jartassag.md)
+- [Lexikum](../kepzettsegek.szekunder/lexikum.md): csak ha konkrétan helyi témával kapcsolatos ismeretről van szó, akkor szükséges. Ne legyünk túl szigorúak.
 
 ##### Mit fed le
 

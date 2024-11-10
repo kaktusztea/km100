@@ -7,16 +7,16 @@ Lásd bővebben: [Szándékos kitérés lövés elől](../073_tavharc_taktikak.m
 ---
 #### 1. fok
 
-🔒 **Követelmény**: [Mágikus célzás](../kepzettsegek.harci/harcmodor.md) - `6.szint` ⭕TODO: ez jó követelmény?
+🔒 **Követelmény**: [Mágikus célzás](../kepzettsegek.primer.harci/harcmodor.md) - `6.szint` ⭕TODO: ez jó követelmény?
 
-🌟 **Hatás**: Lövedékeid a [Mágikus lövedék II.](../kepzettsegek.arkanumok/elemi_magia.md#komplexitás) sebességével haladnak
+🌟 **Hatás**: Lövedékeid a [Mágikus lövedék II.](../kepzettsegek.primer.arkanumok/elemi_magia.md#komplexitás) sebességével haladnak
 
 ---
 #### 2. fok
 
-🔒 **Követelmény**: [Mágikus célzás](../kepzettsegek.harci/harcmodor.md) - `9.szint` ⭕TODO: ez jó követelmény?
+🔒 **Követelmény**: [Mágikus célzás](../kepzettsegek.primer.harci/harcmodor.md) - `9.szint` ⭕TODO: ez jó követelmény?
 
-🌟 **Hatás**: Lövedékeid a [Mágikus lövedék III.](../kepzettsegek.arkanumok/elemi_magia.md#komplexitás) sebességével haladnak
+🌟 **Hatás**: Lövedékeid a [Mágikus lövedék III.](../kepzettsegek.primer.arkanumok/elemi_magia.md#komplexitás) sebességével haladnak
 
 <br />
 

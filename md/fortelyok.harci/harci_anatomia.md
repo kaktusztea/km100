@@ -4,8 +4,8 @@ Ismered a test sebezhető pontjait és tisztában vagy a létfontosságú belső
 #### 1. fok
 
 🔒 **Követelmény**:
-- [Harcmodor](../kepzettsegek.harci/harcmodor.md) - `4.szint`
-- [Összpontosítás](../kepzettsegek.misztikus/osszpontositas.md) - `3.szint`
+- [Harcmodor](../kepzettsegek.primer.harci/harcmodor.md) - `4.szint`
+- [Összpontosítás](../kepzettsegek.primer.misztikus/osszpontositas.md) - `3.szint`
 
 🌟 **Hatás**:
 - [Területre / Pontra Támadás](../066_05_altalanos_manoverek.md#területre--pontra-támadás) Manőver esetén:  `SP:+2` (csak vértmentes ponton)
@@ -15,8 +15,8 @@ Ismered a test sebezhető pontjait és tisztában vagy a létfontosságú belső
 #### 2. fok
 
 🔒 **Követelmény**:
-- [Harcmodor](../kepzettsegek.harci/harcmodor.md) - `8.szint`
-- [Összpontosítás](../kepzettsegek.misztikus/osszpontositas.md) - `6.szint`
+- [Harcmodor](../kepzettsegek.primer.harci/harcmodor.md) - `8.szint`
+- [Összpontosítás](../kepzettsegek.primer.misztikus/osszpontositas.md) - `6.szint`
 - [Élettan](../fortelyok.altalanos/elettan.md) fortély: `1.fok`
 
 🌟 **Hatás**:
@@ -27,8 +27,8 @@ Ismered a test sebezhető pontjait és tisztában vagy a létfontosságú belső
 #### 3. fok
 
 🔒 **Követelmény**:
-- [Harcmodor](../kepzettsegek.harci/harcmodor.md) - `12.szint`
-- [Összpontosítás](../kepzettsegek.misztikus/osszpontositas.md) - `9.szint`
+- [Harcmodor](../kepzettsegek.primer.harci/harcmodor.md) - `12.szint`
+- [Összpontosítás](../kepzettsegek.primer.misztikus/osszpontositas.md) - `9.szint`
 - [Élettan](../fortelyok.altalanos/elettan.md) fortély: `2.fok`
 - [Fejvadász Tradíció](../053_03_fejvadasz_tradicio.md) - `6.szint`
 - Mester, aki tanítja

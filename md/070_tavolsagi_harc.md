@@ -3,7 +3,7 @@
 <sub>→ [TODO/ISSUE távharc](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.tavharc)</sub>
 
 A távolsági lő- és hajítófegyverekkel végzett harc során az alábbi **Harcmodor képzettségek** vesznek részt a támadó oldalán:\
-[Hajítás](kepzettsegek.harci/harcmodor.md), [Íjászat](kepzettsegek.harci/harcmodor.md), [Lövészet](kepzettsegek.harci/harcmodor.md), [Ostromlövészet](kepzettsegek.harci/harcmodor.md), [Mágikus lövészet](kepzettsegek.harci/harcmodor.md)
+[Hajítás](kepzettsegek.primer.harci/harcmodor.md), [Íjászat](kepzettsegek.primer.harci/harcmodor.md), [Lövészet](kepzettsegek.primer.harci/harcmodor.md), [Ostromlövészet](kepzettsegek.primer.harci/harcmodor.md), [Mágikus lövészet](kepzettsegek.primer.harci/harcmodor.md)
 
 ## Befolyásoló jellemzők
 
