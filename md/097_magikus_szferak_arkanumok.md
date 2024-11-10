@@ -22,9 +22,9 @@ Annyi ősi nyelv van, ahány mágiaiskola.
   - Őselem idézése
   - ...
   -  ✨Ősi nyelv: ⭕?
-- [Természetes anyagok mágiája](kepzettsegek.primer.arkanumok/termeszetes.anyagok.magiaja.md)
+- [Természetes anyagok mágiája](kepzettsegek.primer.arkanumok/termeszetes_anyagok_magiaja.md)
   - Ideamágia (CX)
-  - [Méregmágia](kepzettsegek.primer.arkanumok/termeszetes.anyagok.magiaja.md#méregmágia)
+  - [Méregmágia](kepzettsegek.primer.arkanumok/termeszetes_anyagok_magiaja.md#méregmágia)
   - Méregmágia szemita (CX)
   - ✨Ősi nyelv: Gnóm
 
@@ -58,7 +58,7 @@ Annyi ősi nyelv van, ahány mágiaiskola.
   - Hangmágia/[Csendmágia](https://github.com/kaktusztea/km100/wiki/RAW.magia#csendmágia)
   - Szagmágia
   - ✨Ősi nyelv: ⭕?
-- [Természeti jelenségek](kepzettsegek.primer.arkanumok/termeszeti.jelensegek.md)
+- [Természeti jelenségek](kepzettsegek.primer.arkanumok/termeszeti_jelensegek.md)
   - Időjárásbefolyásolás
   - Villámmmágia
   - ✨Ősi nyelv: ⭕Óelf⭕?
@@ -78,7 +78,7 @@ Annyi ősi nyelv van, ahány mágiaiskola.
 
 ✨Ősi nyelv: ⭕?
 
-- [Életerő manipulálása](kepzettsegek.primer.arkanumok/eletero.manipulalasa.md)
+- [Életerő manipulálása](kepzettsegek.primer.arkanumok/eletero_manipulalasa.md)
   - Gyógyítás
     - Sebgyógyítás
     - Isteni Életerő átadása (KT átalakítása ÉP-vé rögtön)
@@ -102,7 +102,7 @@ Annyi ősi nyelv van, ahány mágiaiskola.
 
 ✨Ősi nyelv: ⭕?
 
-- [Belső síkok lényeinek idézése](kepzettsegek.primer.arkanumok/idezes.belso.sikok.md)
+- [Belső síkok lényeinek idézése](kepzettsegek.primer.arkanumok/idezes_belso_sikok.md)
   - állatok (alacsony szintű)
   - szörnyek (kicsit magasabb)
   - elementálok
@@ -110,7 +110,7 @@ Annyi ősi nyelv van, ahány mágiaiskola.
   - ember lelkek / lelkekbol lehasadt szellemek
   - természeti szellemek
   - ✨Ősi nyelv: ⭕?
-- [Külső síkok lényeinek idézése](kepzettsegek.primer.arkanumok/idezes.kulso.sikok.md)
+- [Külső síkok lényeinek idézése](kepzettsegek.primer.arkanumok/idezes_kulso_sikok.md)
   - Demonológia
   - Theurgia
   - Goécia
@@ -123,10 +123,10 @@ Annyi ősi nyelv van, ahány mágiaiskola.
 
 ✨Ősi nyelv: ⭕?
 
-- [Sors Érzékelés](kepzettsegek.primer.arkanumok/sors.erzekeles.md)
+- [Sors Érzékelés](kepzettsegek.primer.arkanumok/sors_erzekeles.md)
   - jövendőmondás / múltbatekintés
   - ✨Ősi nyelv: ⭕?
-- [Sors Befolyásolás](kepzettsegek.primer.arkanumok/sors.befolyasolas.md)
+- [Sors Befolyásolás](kepzettsegek.primer.arkanumok/sors_befolyasolas.md)
   - Árnyékra ható mágia
   - Lélekmágia (véletlenmágia) (CX)
   - ✨Ősi nyelv: ⭕?
