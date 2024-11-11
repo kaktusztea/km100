@@ -7,16 +7,15 @@ Erő [-5; +2] ; Edzettség [-2; +3]
 ```
 
 Felvehető Érzék-Fortélyok maximuma:
-- [Infralátás](fortelyok.erzekek/infralatas.md) - 1. fok
-- [Barlangi tájékozódás](fortelyok.erzekek/barlangi_tajekozodas.md) - 1. fok
-- [Fejlett szaglás](fortelyok.erzekek/fejlett_szaglas.md) - 1. fok
+- [Infralátás](../fortelyok.erzekek/infralatas.md) - 1. fok
+- [Barlangi tájékozódás](../fortelyok.erzekek/barlangi_tajekozodas.md) - 1. fok
+- [Fejlett szaglás](../fortelyok.erzekek/fejlett_szaglas.md) - 1. fok
 
 Ajánlott fortélyok:
-- [Hazudozás](hatterek.szabad/hazudozas.md)
-- [Suhanó árnyék](fortelyok.altalanos/suhano_arnyek.md)
-- [Szabotőr](fortelyok.altalanos/szabotor.md)
+- [Hazudozás](../hatterek.szabad/hazudozas.md)
+- [Suhanó árnyék](../fortelyok.altalanos/suhano_arnyek.md)
+- [Szabotőr](../fortelyok.altalanos/szabotor.md)
 
-Ajánlott képzettségek:
-- alvilági képzettségek
+Ajánlott képzettségek: [alvilági képzettségek](../031_kepzettseglista.md#alvil%C3%A1gi-k%C3%A9pzetts%C3%A9gek)
 
 <br />
