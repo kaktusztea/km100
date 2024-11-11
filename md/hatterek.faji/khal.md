@@ -14,7 +14,7 @@ Felvehető Érzék-Fortélyok maximuma:
 - [Fejlett szaglás](../fortelyok.erzekek/fejlett_szaglas.md) - 1. fok
 
 Ajánlott fortélyok:
-- Természetes fegyver - 1.fok ⭕TODO⭕
+- [Természetes fegyver](../fortelyok.harci/termeszetes.fegyver.md)
 - [Kétkezes Harc](../fortelyok.harci/ketkezes_harc.md)
 - [Kitartás](../fortelyok.altalanos/kitartas.md)
 
