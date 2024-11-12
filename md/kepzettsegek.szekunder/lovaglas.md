@@ -7,9 +7,9 @@
 **Kapcsolódó fortélyok**: [Lovas harc](../fortelyok.harci/lovas_harc.md)
 
 **Szabad Hátterek kiterjesztik**:
-- [Lénylovas](../hatterek.szabad/lenylovas.md) (1 faj ingyenes)
+- [Lénylovas](../hatterek.szabad/lenylovas.md) (1 faj felvétele kötelező)
 
-**Leírás**:  Aki lovaglást tanul, az képes megülni egy választott földi hátast lényt (válassz fajt: 1db Lénylovas) - a képzettség szintjétől függő tehetséggel. A tudás univerzális, némi gyakorlással más fajú földi hátasokra is használható - lásd a [Lénylovas](../hatterek.szabad/lenylovas.md) Szabad Hátteret.
+**Leírás**: Aki lovaglást tanul, az képes megülni egy választott földi hátast lényt a képzettség szintjétől függő tehetséggel. Válassz hátas fajt: 1 db [Lénylovas](../hatterek.szabad/lenylovas.md) Szabad Hátteret kötelezően fel kell venned. A tudás univerzális, némi gyakorlással más fajú földi hátasokra is használható: a [Lénylovas](../hatterek.szabad/lenylovas.md) Szabad Hátter többszöri felvételével.
 
 <br />
 
