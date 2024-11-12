@@ -7,7 +7,7 @@
 **Kapcsolódó fortélyok**: [Léglovas harc](../fortelyok.harci/leglovas_harc.md)
 
 **Szabad Hátterek kiterjesztik**:
-- [Lénylovas](../hatterek.szabad/lenylovas.md) (1 faj ingyenes)
+- [Lénylovas](../hatterek.szabad/lenylovas.md) (1 faj felvétele kötelező)
 
 **Leírás**: Ritka szerencsés, aki ezt a képzettséget tanulhatja, mert Yn3v kevés levegőben meglovagolható teremtményeinek egyikét ülheti meg. `Pteropták, Wyvern-ek, Racklák` - hogy csak a közismertebbeket említsük. Aki léglovaglást tanul, az képes megülni a fent említett repülő lényeket a képzettség szintjétől függő tehetséggel. A tudás univerzális, némi gyakorlással más fajú légi hátasokra is használható: a [Lénylovas](../hatterek.szabad/lenylovas.md) Szabad Hátter többszöri felvételével.
 
