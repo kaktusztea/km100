@@ -35,7 +35,7 @@ Harci extázisba esel, melyből nagyon nehéz kizökkenteni. A menekülésre nem
 - Sebesülés TÉ levonása `10`-tel mérséklődik
 
 ---
-#### 3. fok
+#### 3. fok 🔆
 
 🔒 **Követelmény**: 🔆Speciális, nem vehető fel KP-ért.<br />Csak mágiával érhető el, például ork ereklye hatása, vagy Arel áldása.<br />Ezek különleges állapotok, ezt a szintet nem lehet tanulással elérni, így **KP**-t sem lehet rá költeni.
 
