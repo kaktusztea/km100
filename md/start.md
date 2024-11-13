@@ -130,7 +130,7 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 - [Mesterfegyver fortély bónuszai](fortelyok.harci/mesterfegyver.md)
 - [Mozgásgátló tényező (MGT)](062_03_mgt.md)
 
-#### 6.4 [Harci alapfogalmak](063_00_harci_alapfogalmak.md)
+#### 6.3 [Harci alapfogalmak](063_00_harci_alapfogalmak.md)
 
 - [Előnyös és Hátrányos helyzetű fél](063_01_elonyos_hatranyos_helyzetu_fel.md)
 - [Kiskocka, Nagykocka](063_02_kiskocka_nagykocka.md)
