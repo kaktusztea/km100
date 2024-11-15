@@ -332,6 +332,6 @@ Zuhanás, zúzódás, egyéb fizikai sérülések esetén a KM meghatároz egy s
 
 ---
 
-🔗 [Pédaharc](064_05_peldaharc.md) →
+🔗 [Pédaharc](064_03_peldaharc.md) →
 
 ⚜️ [Nyitóoldal](start.md)

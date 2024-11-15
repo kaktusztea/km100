@@ -4,7 +4,7 @@
 
 #### [Harc menete (részletes)](064_02_harc_menete_reszletes.md) 🎲
 
-#### [Példaharc](064_05_peldaharc.md)
+#### [Példaharc](064_03_peldaharc.md)
 
 ---
 
