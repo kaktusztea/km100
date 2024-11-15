@@ -38,7 +38,7 @@ Az igazi jó harcos taktikus. Ismeri saját gyengéit és erősségeit és igyek
 
 - [Harc menete (összefoglaló)](064_01_harc_menete_osszefoglalas.md) 🎲
 - [Harc menete (részletes)](064_02_harc_menete_reszletes.md) 🎲
-- [Példaharc](064_05_peldaharc.md)
+- [Példaharc](064_03_peldaharc.md)
 
 ## 6.5 [Harcot módosító tényezők](065_00_harcot_modosito_tenyezok.md)
 
@@ -62,7 +62,26 @@ Az igazi jó harcos taktikus. Ismeri saját gyengéit és erősségeit és igyek
 ## 6.7 [Harc lóhátról](067_harc_lohatrol.md)
 
 ## 6.8 [Fegyverek, pajzsok](068_00_fegyverek.md)
+
+- [Fegyverek általános szabályai](068_01_fegyverek_altalanos_szabalyai.md)
+- [Közelharci fegyverek](068_02_kozelharci_fegyverek.md)
+- [Kardvívó fegyverek](068_03_kardvivo_fegyverek.md)
+- [Zúzó fegyverek](068_04_zuzo_fegyverek.md)
+- [Lándzsavívó fegyverek](068_05_landzsavivo_fegyverek.md)
+- [Hajítófegyverek](068_06_hajitofegyverek.md)
+- [Lőfegyverek](068_07_lofegyverek.md)
+- [Lovas fegyverek](068_08_lovas_fegyverek.md)
+- [Pajzsok](068_09_pajzsok.md)
+
 ## 6.9 [Vértek, páncélok](069_00_vertek_pancelok.md)
+
+- [Páncélok jellemzői](069_01_pancelok_jellemzoi.md)
+- [Sebzésfelfogó Érték (SFÉ)](069_02_SFE.md)
+- [Mozgásgátló Tényező (MGT)](069_03_MGT.md)
+- [Védett terület, Páncéldobás](069_04_vedett_terulet_panceldobas.md)
+- [Vértviselet fortély bónuszai](069_05_vertviselet_fortely_bonuszai.md)
+- [Páncél ára](069_06_pancel_ara.md)
+- [Páncél példák](069_07_pancel_peldak.md)
 
 ---
 

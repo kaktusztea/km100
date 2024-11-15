@@ -145,7 +145,7 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 
 - [Harc menete (összefoglaló)](064_01_harc_menete_osszefoglalas.md) 🎲
 - [Harc menete (részletes)](064_02_harc_menete_reszletes.md) 🎲
-- [Példaharc](064_05_peldaharc.md)
+- [Példaharc](064_03_peldaharc.md)
 
 #### 6.5 [Harcot módosító tényezők](065_00_harcot_modosito_tenyezok.md)
 
