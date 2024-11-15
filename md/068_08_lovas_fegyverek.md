@@ -9,6 +9,6 @@
 
 ---
 
-🔗 [Hajítófegyverek](068_07_hajitofegyverek.md) →
+🔗 [Hajítófegyverek](068_06_hajitofegyverek.md) →
 
 ⚜️ [Nyitóoldal](start.md)

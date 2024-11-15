@@ -34,4 +34,6 @@ Egy helyen rögzített „lengő” anyagok könnyen megfoghatják az íjász l�
 
 ---
 
+🔗 [Pajzsok](068_09_pajzsok.md) →
+
 ⚜️ [Nyitóoldal](start.md)
