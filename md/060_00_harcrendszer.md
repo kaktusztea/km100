@@ -62,7 +62,7 @@ Az igazi jó harcos taktikus. Ismeri saját gyengéit és erősségeit és igyek
 ## 6.7 [Harc lóhátról](067_harc_lohatrol.md)
 
 ## 6.8 [Fegyverek, pajzsok](068_00_fegyverek.md)
-## 6.9 [Vértek, páncélok](069_vertek_pancelok.md)
+## 6.9 [Vértek, páncélok](069_00_vertek_pancelok.md)
 
 ---
 

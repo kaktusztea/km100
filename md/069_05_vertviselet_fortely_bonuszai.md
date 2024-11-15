@@ -1,0 +1,23 @@
+## Vértviselet fortély bónuszai
+
+Ennek a fortélynak az ismerete csökkenti az **MGT** okozta levonások hatását.
+
+A teljes szabályt lásd a fortély leírásánál: **[Vértviselet](fortelyok.harci/vertviselet.md)**
+
+```
+1.fok: -15 MGT (könnyűvértre)
+
+2.fok: -30 MGT
+
+3.fok: -35 MGT
+- Mellvértnél : VÉ:+5
+- Full vértnél: VÉ:+10
+```
+
+⭕Képzettségpróbáknál is csökkenjen a büntetés?⭕
+
+---
+
+🔗 [Páncél ára](069_06_pancel_ara.md) →
+
+⚜️ [Nyitóoldal](start.md)
