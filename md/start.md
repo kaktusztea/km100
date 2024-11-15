@@ -168,7 +168,17 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 
 #### 6.7 [Harc lóhátról](067_harc_lohatrol.md)
 
-#### 6.8 [Fegyverek, pajzsok](068_fegyverek.md)
+#### 6.8 [Fegyverek, pajzsok](068_00_fegyverek.md)
+
+- [Fegyverek általános szabályai](068_01_fegyverek_altalanos_szabalyai.md)
+- [Közelharci fegyverek](068_02_kozelharci_fegyverek.md)
+- [Kardvívó fegyverek](068_03_kardvivo_fegyverek.md)
+- [Zúzó fegyverek](068_04_zuzo_fegyverek.md)
+- [Lándzsavívó fegyverek](068_05_landzsavivo_fegyverek.md)
+- [Lovas fegyverek](068_06_lovas_fegyverek.md)
+- [Hajítófegyverek](068_07_hajitofegyverek.md)
+- [Lőfegyverek](068_08_lofegyverek.md)
+
 #### 6.9 [Vértek, páncélok](069_vertek_pancelok.md)
 
 ---

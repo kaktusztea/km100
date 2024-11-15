@@ -5,7 +5,7 @@ Alapeset:
  fegyverek támadás száma: 1 / kör
 ```
 
-Néhány kivételnél ez kevesebb. Lásd a [Fegyver](068_fegyverek.md) táblázatot!
+Néhány kivételnél ez kevesebb. Lásd a [Fegyver](068_00_fegyverek.md) táblázatot!
 
 ---
 ### Harckeret (harcmodoronként)
