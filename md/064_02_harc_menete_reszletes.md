@@ -204,19 +204,19 @@ A harcban használt fegyverek igen sokszínűek, a **km100** rendszere különbs
 Egyes fegyverek többféle támadási formát is lehetővé tesznek, gondoljunk csak a jól ismert hosszú kardra, amellyel szúrni is, vágni is lehet.
 
 ---
-#### Elsődleges támadási típus
+#### Elsődleges sebzési típus
 
 ```
-TÉ:-10 - másodlagos támadási típussal
-TÉ:-20 - alkalmatlan támadási típussal
+TÉ:-10 - másodlagos sebzési típussal
+TÉ:-20 - alkalmatlan sebzési típussal
 
 Jelölése "/" jellel: például "V/S"
 V: Vágás;  S: Szúrás;  Z: Zúzás
 ```
 
-Majdnem minden fegyver rendelkezik egy **elsődleges támadási (sebzési) típussal**, pl. szúrás. Ha emellett más típusú támadásra is alkalmas, az legtöbbször másodlagos lehet (kivételeket lásd lejjebb az "Egyenjogú támadási típus" bekezdésben). Ha a karakter nem jelenti be, hogy milyen típusú támadást akar leadni, akkor mindig az elsődleges támadás típust vesszük megtörténtnek. Például a hosszú kard: vágás/szúrás (V/S). Ekkor az alapértelmezett támadási típus a vágás. Ha a karakter bejelenti, hogy szúrni szeretne, akkor azt `TÉ:-10` módosítóval teheti meg. Ha pedig zúzni szeretne (amire a fegyver alkalmatlan), akkor – ha a KM engedi – azt `TÉ-20`-vel teheti meg.
+Majdnem minden fegyver rendelkezik egy **elsődleges sebzési típussal**, pl. szúrás. Ha emellett más típusú támadásra is alkalmas, az legtöbbször másodlagos lehet (kivételeket lásd lejjebb az "Egyenjogú támadási típus" bekezdésben). Ha a karakter nem jelenti be, hogy milyen típusú támadást akar leadni, akkor mindig az elsődleges sebzési típust vesszük megtörténtnek. Például a hosszú kard: vágás/szúrás (V/S). Ekkor az alapértelmezett sebzési típus a vágás. Ha a karakter bejelenti, hogy szúrni szeretne, akkor azt `TÉ:-10` módosítóval teheti meg. Ha pedig zúzni szeretne (amire a fegyver alkalmatlan), akkor – ha a KM engedi – azt `TÉ-20`-vel teheti meg.
 
-A Harcrendszer végén található **Fegyvertáblázatban** minden fegyver támadási típusa megtalálható.
+A Harcrendszer végén található **Fegyvertáblázatban** minden fegyver sebzési típusa megtalálható.
 
 ---
 #### Egyenjogú támadási típus
