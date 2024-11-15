@@ -1,14 +1,23 @@
 ### 🟣 Vértviselet (3)
 
 A vértek helyes viselése is ismereteket igényel, különben csak csetlesz-botlasz bennük.
+
+Kapcsolódik: **[Vértek, Páncélok](../069_00_vertek_pancelok.md)**
+
+```
+1 MGT → -0,5 KÉ, -1 TÉ,VÉ
+
+1 MGT → -1/5 mozgást igénylő 
+képzettségpróbákra (lefele kerekítve)
+```
+
+---
 #### Alapeset
 
 🔒 **Követelmény**: -
 
 🌟 **Hatás**:
 - A vért teljes MGT-je érvényesül.
-  - `1` MGT → `-0,5 KÉ`, `-1 TÉ,VÉ`
-  - `1` MGT → `-1/5` mozgást igénylő képzettségpróbákra (lefele kerekítve)
 - Ha nehézvértet vesz fel a karakter teljesen képzetlenül, akkor a képzetlen fegyverhasználat büntetéseinek megfelelő levonások sújtják:
   - `KÉ: -20`, `TÉ: -30`, `VÉ:-30`
 - Nehéz vért: Fegyverkabát, Lánc/Sodrony, Pikkely, Lemez
@@ -20,10 +29,14 @@ A vértek helyes viselése is ismereteket igényel, különben csak csetlesz-bot
 🔒 **Követelmény**: Erő: `+1`
 
 🌟 **Hatás**:
-- Harcban ha könnyű vértet viselsz, `15`-tel csökken a vért MGT-je.
+- Harcban ha **könnyű vértet** viselsz, `15`-tel csökken a vért MGT-je.
 - A mozgást igénylő képzettségpróbákra továbbra is a teljes levonás érvényes.
-- Nehézvért viselése esetén nem csökken az MGT és a képzetlen fegyverhasználat levonásainak fele sújtja a karaktert:
-  - `KÉ:-10`, `TÉ:-15`, `VÉ:-15`
+- Nehézvért viselése esetén **NEM csökken** az MGT és a képzetlen fegyverhasználat levonásainak fele sújtja a karaktert:
+
+```
+KÉ:-10, TÉ:-15, VÉ:-15
+```
+
 
 ---
 #### 2. fok

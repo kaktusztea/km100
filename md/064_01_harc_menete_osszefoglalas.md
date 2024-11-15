@@ -224,7 +224,7 @@ Lásd: [Fegyverek táblázat](068_00_fegyverek.md)
 ---
 ### 🚷 Mozgásgátló Tényező (MGT)
 
-Lásd a [Vértek, Páncélok - MGT fejezetét](069_vertek_pancelok.md#mozgásgátló-tényező-mgt).
+Lásd a [Vértek, Páncélok - MGT fejezetét](069_00_vertek_pancelok.md#mozgásgátló-tényező-mgt).
 
 <br />
 

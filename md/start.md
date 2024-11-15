@@ -180,7 +180,15 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 - [Lovas fegyverek](068_08_lovas_fegyverek.md)
 - [Pajzsok](068_09_pajzsok.md)
 
-#### 6.9 [Vértek, páncélok](069_vertek_pancelok.md)
+#### 6.9 [Vértek, páncélok](069_00_vertek_pancelok.md)
+
+- [Páncélok jellemzői](069_01_pancelok_jellemzoi.md)
+- [Sebzésfelfogó Érték (SFÉ)](069_02_SFE.md)
+- [Mozgásgátló Tényező (MGT)](069_03_MGT.md)
+- [Védett terület, Páncéldobás](069_04_vedett_terulet_panceldobas.md)
+- [Vértviselet fortély bónuszai](069_05_vertviselet_fortely_bonuszai.md)
+- [Páncél ára](069_06_pancel_ara.md)
+- [Páncél példák](069_07_pancel_peldak.md)
 
 ---
 ### 7. [Távolsági harcrendszer](070_tavolsagi_harc.md) 🏹

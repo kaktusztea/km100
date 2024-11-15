@@ -43,7 +43,7 @@ Gyors elérésű link gyűjtemény - játékosok számára.
 ---
 ### Páncélok, Fegyverek
 
-[Vértek, Páncélok](069_vertek_pancelok.md)
+[Vértek, Páncélok](069_00_vertek_pancelok.md)
 
 [Fegyverek, pajzsok](068_00_fegyverek.md)
 
