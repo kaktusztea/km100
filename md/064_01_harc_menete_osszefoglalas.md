@@ -217,7 +217,7 @@ Fegyver-Sebesség:
   fegyverenként eltérő egyéni érték 
 ```
 
-Lásd: [Fegyverek táblázat](068_fegyverek.md)
+Lásd: [Fegyverek táblázat](068_00_fegyverek.md)
 
 <br />
 

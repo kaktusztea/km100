@@ -13,8 +13,8 @@ A távolsági fegyverek több kategóriába sorolhatóak attól függően, hogy 
 
 🔆 **Megjegyzés**: Amennyiben valaki hajításra nem alkalmas fegyvert akar dobni, akkor az adott fegyver harcmodorában kismesteri, azaz `6`.szinten jártasnak kell lennie. Ez alatt képzetlen fegyverhasználat büntetéseivel történhet a dobás.
 
-- [Hajítófegyverek táblázata](068_fegyverek.md#hajítófegyverek-harcértékei)
-- [Lőfegyverek táblázata](068_fegyverek.md#lőfegyverek-harcértékei)
+- [Hajítófegyverek táblázata](068_00_fegyverek.md#hajítófegyverek-harcértékei)
+- [Lőfegyverek táblázata](068_00_fegyverek.md#lőfegyverek-harcértékei)
 
 <br />
 
@@ -45,14 +45,14 @@ Távolsági fegyverek esetén viszont nem mindegyiknek van **Sebesség** kategó
 
 Ebben az esetben lehet hasznos a [Gyors újratöltés](fortelyok.tavharc/gyors_ujratoltes.md) harci fortély.
 
-Az egyes fegyverek Sebesség kategóriáját lásd a **Harcrendszer** [Fegyverek](068_fegyverek.md) alfejezetében (táblázat)!
+Az egyes fegyverek Sebesség kategóriáját lásd a **Harcrendszer** [Fegyverek](068_00_fegyverek.md) alfejezetében (táblázat)!
 
 <br />
 
 ---
 ### Erőből / Ügyességből forgatott fegyverek
 
-Távolba ható fegyverek esetén különbséget teszünk **Erőből** és **Ügyességből** használtak között. A fenti tulajdonság szerepe a sebzésbónusz és a végső Célzó Érték kiszámításánál mutatkozik meg. Hogy egy fegyvert Erőből, vagy Ügyességből forgathatunk, azt a [Távolsági fegyverek fejezet](068_fegyverek.md#hajítófegyverek-harcértékei) alatt található táblázatból olvashatjuk ki.
+Távolba ható fegyverek esetén különbséget teszünk **Erőből** és **Ügyességből** használtak között. A fenti tulajdonság szerepe a sebzésbónusz és a végső Célzó Érték kiszámításánál mutatkozik meg. Hogy egy fegyvert Erőből, vagy Ügyességből forgathatunk, azt a [Távolsági fegyverek fejezet](068_00_fegyverek.md#hajítófegyverek-harcértékei) alatt található táblázatból olvashatjuk ki.
 
 <br />
 
