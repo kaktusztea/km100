@@ -104,7 +104,8 @@ $$ {cél\ távolsága\ (m) \over fegyver\ Osztó} → felfelé\ kerekítünk $$
 
 Ez a hányados adja meg, hogy a fegyver **Osztójához** viszonyítva hányadik távolság “cellában” található a célpont. A Védő Érték kiszámításánál ezzel a számmal lesz beszorozva a célpont **Szorzója**, amelyet feljebb tárgyaltunk.
 
-Például ha egy hosszú íjjal (melynek **Osztója** `3`) lövünk egy `7` méterre levő célra, akkor a hányados: `3`.  `7/3 → 3` mivel a `7` osztva `3`-al, felfelé kerekítve egyenlő `3`-al.
+Például ha egy hosszú íjjal (melynek **Osztója** `3`) lövünk egy `7` méterre levő célra, akkor a hányados: `3`. \
+`7/3 → 3` mivel a `7` osztva `3`-al, felfelé kerekítve egyenlő `3`-al.
 
 Az egyszerűség kedvéért álljon erről itt egy ábra, melyről megérthetőek a fentiek.
 
