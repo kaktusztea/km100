@@ -66,7 +66,7 @@ Támadó dobás: TÉ + k100
 Minden újabb támadás a körben:
    TÉ:-10; -20, ...
 
-Támadás jellege: elsődleges támadási
+Sebzés jellege: elsődleges sebzési
         típusa az alapértelmezett
         (például: Szúró).
         Másodlagos támadási formával
