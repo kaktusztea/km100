@@ -237,6 +237,8 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 - [Papi mágia világképe](101_papi.magia.vilagkep.md)
 - [Papi mágia alapszabályai](102_papi.magia.alapszabalyok.md)
 - [Papi varázslatok](103_papi.varazslatok.md) ✨
+
+---
 ### 11. [Slan misztérium](110_slan.md)  (10%) 🚧
 
  - [Slan Tradíció](053_04_slan_tradicio.md)
@@ -245,9 +247,13 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
  - [Chi harc képzettségei](112_chi_harc.md)
  - [Slan fegyverek](113_slan_fegyverek.md)
 
+---
 ### 12. [Varázstárgyak](120_varazstargyak.md)  (10%) 🚧
 
+---
 ### 13. [Gyógyítás, gyógyulás](130_gyogyitas_gyogyulas.md)
+
+---
 
 ### 14. [Méregrendszer, Mérgek](140_meregrendszer.md)
 
@@ -256,6 +262,7 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 - [Méregérzékelés](143_meregerzekeles.md)
 - [Példamérgek](144_peldamergek.md)
 
+---
 ### 15. [Szituációk](150_szituaciok.md)
 
 - [Érzékelés, Aktív/Passzív Harci Észlelés, Áldozat mögé lopakodás](151_erzekeles_harci_eszleles_aktiv_passziv.md)
