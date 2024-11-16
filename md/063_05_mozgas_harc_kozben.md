@@ -15,7 +15,7 @@ Egy karakter egy harci körön belül szabadon mozoghat maximum (`5 + Gyorsaság
 ---
 ### Mozgás a kör elején
 
-Ha a kört mozgással kezded, akkor utolsó helyre csúszol a [Kezdeményezésben](064_02_harc_menete_reszletes.md#kezdeményezés).
+Ha a kört mozgással kezded, akkor utolsó helyre csúszol a [Kezdeményezésben](064_02_00_harc_menete_reszletes.md#kezdeményezés).
 
 ---
 ### Maximum mozgás egy körben
