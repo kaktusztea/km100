@@ -18,3 +18,7 @@ minden kör elején
 ```
 
 Mivel nem fáradnak szellemileg, legfeljebb ideiglenes hátrányos harci pozícióba kerülnek, ezért az élőholtak `VÉ`-je **minden** kör elején visszaáll eredeti értékére.
+
+---
+
+⚜️ [Nyitóoldal](start.md)
