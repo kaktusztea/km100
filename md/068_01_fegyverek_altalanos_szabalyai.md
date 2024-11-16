@@ -20,9 +20,9 @@ Alább alapelveket találhatunk az egyes általános fegyverkategóriákhoz – 
 | lándzsa           | 4 penge       |      9      |             18             |             36             |             36             |
 
 ---
-### Elsődleges támadási típus
+### Elsődleges sebzési típus
 
-Lásd: [Harc menete → Elsődleges támadási típus](064_02_harc_menete_reszletes.md#elsődleges-támadási-típus)
+Lásd: [Harc menete → Elsődleges sebzési típus](064_02_harc_menete_reszletes.md#els%C5%91dleges-sebz%C3%A9si-t%C3%ADpus)
 
 ---
 ### Egyenjogú támadási típus
