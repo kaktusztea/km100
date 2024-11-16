@@ -1,6 +1,6 @@
 ## Fegyverek
 
-Ebben a fejezetben a játékos- és nem játékos karakterek által forgatott fegyverek leírását találhatjuk. Egyedi jellemzőiknek fontos szerep juthat egyedi szituációkban. Okos felhasználásukkal előnybe kerülhet a ravasz alkalmazó.
+Ebben a fejezetben a játékos- és nem játékos karakterek által forgatott fegyverek leírását találhatjuk. Speciális jellemzőiknek fontos szerep juthat egyedi szituációkban. Okos felhasználásukkal előnybe kerülhet a ravasz alkalmazó.
 
 #### [Fegyverek általános szabályai](068_01_fegyverek_altalanos_szabalyai.md)
 
