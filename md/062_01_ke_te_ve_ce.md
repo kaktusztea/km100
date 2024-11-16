@@ -41,13 +41,13 @@ CÉ konstans: -30
 
 A Kezdeményező Érték (**KÉ**) szerepe a harcban, hogy meghatározza, ki „mozdul először” a harcban. Nem jelent harci dominanciát, csak azt, hogy ki a gyorsabb, ki cselekedhet előbb.
 
-A kezdeményezés műveletéről bővebben lásd a [Harc menete - Kezdeményezés](064_02_harc_menete_reszletes.md#kezdeményezés) fejezetet!
+A kezdeményezés műveletéről bővebben lásd a [Harc menete - Kezdeményezés](064_02_00_harc_menete_reszletes.md#kezdeményezés) fejezetet!
 
 Két típusú KÉ létezik:
 - Fegyveres KÉ
 - Varázslás KÉ
 
-A fenti két KÉ számítása azonos, egyedül a "Harcmodor"/"Mágia Tradíció" által adott bónuszban térnek el (lásd lenn). Külön számolandóak és külön is kezelendőek. Bővebben lásd a [Harc menete](064_02_harc_menete_reszletes.md#kezdeményezés) - "Kezdeményezés" és "Varázslás kezdeményezése" bekezdéseket.
+A fenti két KÉ számítása azonos, egyedül a "Harcmodor"/"Mágia Tradíció" által adott bónuszban térnek el (lásd lenn). Külön számolandóak és külön is kezelendőek. Bővebben lásd a [Harc menete](064_02_00_harc_menete_reszletes.md#kezdeményezés) - "Kezdeményezés" és "Varázslás kezdeményezése" bekezdéseket.
 
 A karakter Kezdeményező Értékét a következőképpen kell kiszámítani:
 
