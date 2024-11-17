@@ -68,7 +68,7 @@ Az igazi jó harcos taktikus. Ismeri saját gyengéit és erősségeit és igyek
 - [Példa Manőver alkalmazására: Lefegyverzés](066_08_01_pelda_manover_lefegyverzes.md)
 - [Példa Manőver alkalmazására:  Lábsöprés](066_08_02_pelda_manover_lapsopres.md)
 
-## 6.7 [Harc lóhátról](067_harc_lohatrol.md)
+## 6.7 [Harc lóhátról](067_00_harc_hatasrol.md)
 
 ## 6.8 [Fegyverek, pajzsok](068_00_fegyverek.md)
 

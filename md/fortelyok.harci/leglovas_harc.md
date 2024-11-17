@@ -32,7 +32,7 @@ A forgatott fegyver Harcmodorából adódó értékek továbbra is megmaradnak, 
 - Érzékenység: `0`
 - Léglovaglás - `6.szint`
 
-🌟 **Hatás**: A bónuszok fele (felfele kerekítve) adódik hozzá a fegyveres harcértékeidhez. [Léglovas Manővereket](../067_harc_lohatrol.md#léglovas-manőverek) végezhetsz.
+🌟 **Hatás**: A bónuszok fele (felfele kerekítve) adódik hozzá a fegyveres harcértékeidhez. [Léglovas Manővereket](../067_00_harc_hatasrol.md#léglovas-manőverek) végezhetsz.
 
 ---
 #### 3. fok
@@ -43,13 +43,13 @@ A forgatott fegyver Harcmodorából adódó értékek továbbra is megmaradnak, 
 - Érzékenység: `+1`
 - Léglovaglás - `9.szint`
 
-🌟 **Hatás**: A bónuszok `1:1`-ben hozzáadódnak a fegyveres harcértékeidhez. [Léglovas Manővereket](../067_harc_lohatrol.md#léglovas-manőverek) végezhetsz.
+🌟 **Hatás**: A bónuszok `1:1`-ben hozzáadódnak a fegyveres harcértékeidhez. [Léglovas Manővereket](../067_00_harc_hatasrol.md#léglovas-manőverek) végezhetsz.
 
 
 <br />
 #### Speciális
 
-Lásd a [Harc lóhátról fejezetet](../067_harc_lohatrol.md) - itt tárgyaljuk a **Léglovaglás** részleteit is.
+Lásd a [Harc lóhátról fejezetet](../067_00_harc_hatasrol.md) - itt tárgyaljuk a **Léglovaglás** részleteit is.
 
 <br />
 
