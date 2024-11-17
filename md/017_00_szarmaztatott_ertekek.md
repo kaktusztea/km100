@@ -2,7 +2,7 @@
 
 Egyes értékek más, már kiszámolt értékekből származtatva kerülnek meghatározásra.
 
-#### [Életerő Pont (ÉP)](017_01_ep.md)
+#### [Életerő Pont (ÉP), Kábulat Életerő pont (KT)](017_01_ep_kt.md)
 
 #### [Manőver Pontok (MP)](017_02_manover_pontok.md)
 

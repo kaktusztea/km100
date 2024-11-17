@@ -55,7 +55,7 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
   - [Karakteralkotó Pontok (KP)](016_01_kp.md)
   - [Szabad Pontok (SzP)](016_02_szp.md)
 - [Számaztatott értékek](017_00_szarmaztatott_ertekek.md)
-  - [Életerő Pont (ÉP)](017_01_ep.md)
+  - [Életerő Pont (ÉP), Kábulat Életerő Pont (KT)](017_01_ep_kt.md)
   - [Manőver Pontok (MP)](017_02_manover_pontok.md)
   - [Mágiaellenállás](017_03_magiaellenallas.md) 🎲
   - [Méregellenállás](017_04_meregellenallas.md) 🎲
