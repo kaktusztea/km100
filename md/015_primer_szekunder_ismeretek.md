@@ -8,7 +8,7 @@ Szétválasztottuk két halmazra a `km100` rendszerének `KP`-ból tanulható is
 
 → **Fortélyok**: minden harci, misztikus és mágikus fortély
 
-→ **Harcérték Módosító** (HM), **Célzőérték Módosító** (CM) pontok
+→ **Harcérték Módosító** (HM), **Célzóérték Módosító** (CM) pontok
 
 ---
 ### Szekunder ismeretek
