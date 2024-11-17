@@ -175,7 +175,12 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 - [Példa Manőver alkalmazására: Lefegyverzés](066_08_01_pelda_manover_lefegyverzes.md)
 - [Példa Manőver alkalmazására:  Lábsöprés](066_08_02_pelda_manover_lapsopres.md)
 
-#### 6.7 [Harc lóhátról](067_harc_lohatrol.md)
+#### 6.7 [Harc lóhátról, légi hátasról](067_00_harc_hatasrol.md)
+
+- [Lovas, Léglovas harc szabályai](067_01_lovas_harc_szabalyok.md)
+- [Lovas, Léglovas fortélyok](067_02_lovas_leglovas_fortelyok.md)
+- [Lovas. Léglovas harci taktikák](067_03_lovas_harci_taktikak.md)
+- [Lovas, Léglovas manőverek](067_04_lovas_leglovas_manoverek.md)
 
 #### 6.8 [Fegyverek, pajzsok](068_00_fegyverek.md)
 
