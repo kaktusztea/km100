@@ -23,9 +23,9 @@ A Manőverek végrehajtója ezekkel az értékekkel próbálkozhat a Manőver **
 
 Három kategóriába csoportosítottuk a `km100` által ismert Manővereket. Listájukat és leírásukat itt találhatod:
 
-- [Általános Manőverek](066_05_altalanos_manoverek.md) 🗡️
-- [Belharcos Manőverek](066_06_belharcos_manoverek.md) 🗡️
-- [Lovas Manőverek](066_07_lovas_manoverek.md) 🗡️
+- [Általános Manőverek](066_05_altalanos_manoverek.md) 🎲
+- [Belharcos Manőverek](066_06_belharcos_manoverek.md) 🎲
+- [Lovas Manőverek](066_07_lovas_manoverek.md) 🎲
 
 ### ⚡ Példák
 
