@@ -1,6 +1,6 @@
 ### Lovas Manőverek
 
-A lóval és ló ellen végbevihető Manőverek a [Harc lóhátról](067_00_harc_hatasrol.md#lovas-manőverek) fejezetben találhatóak.
+A lóval és ló ellen végbevihető Manőverek a [Harci fortélyok](042_harci_fortelyok.md#lovas-fort%C3%A9lyok) fejezetben találhatóak.
 
 ---
 
