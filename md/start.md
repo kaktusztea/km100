@@ -169,9 +169,9 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 - [Manőver Pontok](066_02_manover_pontok.md)
 - [Manőver szabályok](066_03_manover_szabalyok.md)
 - [Manőver végrehajtásának lépései](066_04_manover_vegbevitele.md)
-- [Általános Manőverek listája](066_05_altalanos_manoverek.md)
-- [Belharcos Manőverek listája](066_06_belharcos_manoverek.md)
-- [Lovas Manőverek listája](066_07_lovas_manoverek.md)
+- [Általános Manőverek listája](066_05_altalanos_manoverek.md) 🎲
+- [Belharcos Manőverek listája](066_06_belharcos_manoverek.md) 🎲
+- [Lovas Manőverek listája](066_07_lovas_manoverek.md) 🎲
 - [Példa Manőver alkalmazására: Lefegyverzés](066_08_01_pelda_manover_lefegyverzes.md)
 - [Példa Manőver alkalmazására:  Lábsöprés](066_08_02_pelda_manover_lapsopres.md)
 
