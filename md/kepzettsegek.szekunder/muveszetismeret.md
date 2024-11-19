@@ -16,7 +16,7 @@ __
 - [Irodalom](../fortelyok.szabad/irodalom.md): Ismered adott [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) neves irodalmárait, íróit, költőit és stílusukat, műveiket.
 - [Kalligráfia](../fortelyok.szabad/kalligrafia.md): "A kezdőbetű bezártsága alkotójának szomorú sorsát jelzi, a belekényszerített házasság szimbolikája."
 - [Színjátszás](../fortelyok.szabad/szinjatszas.md): Ismered a [Kultúrkörnek](../fortelyok.kiemelt/kulturkor.md) megfelelő klasszikus darabokat, otthonosan mozogsz a színészvilágban.
-- [Szobrászat](../fortelyok.szabad/szobraszat.md)
+- [Szobrászat](../fortelyok.szabad/szobraszat.md): Ismered a [Kultúrkörnek](../fortelyok.kiemelt/kulturkor.md) megfelelő klasszikus szobrokat, felismered az egyes stílusokat, korszakokat akár ismeretlen szobrokon is.
 - [Tánc](../fortelyok.szabad/tanc.md)
 - [Zenélés: fúvós hangszerek](../fortelyok.szabad/zeneles_fuvos_hangszerek.md)
 - [Zenélés: húros hangszerek](../fortelyok.szabad/zeneles_huros_hangszerek.md)
