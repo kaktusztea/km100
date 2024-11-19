@@ -10,11 +10,11 @@
 
 #### Erős kiterjesztés
 
-- [Lénylovas](../fortelyok.szabad/lenylovas.md) (1 faj felvétele kötelező)
+[Lénylovas](../fortelyok.szabad/lenylovas.md) (1 faj felvétele kötelező)
 
 #### Bónusz: Állat testvér
 
-Megegyezik az [Idomítás](../kepzettsegek.szekunder/idomitas.md#állat-testvér) képzettségnél leírtakkal.
+Megegyezik az [Idomítás](../kepzettsegek.szekunder/idomitas.md#b%C3%B3nusz-%C3%A1llat-testv%C3%A9r) képzettségnél leírtakkal.
 
 #### Leírás
 
@@ -24,13 +24,13 @@ Ritka szerencsés, aki ezt a képzettséget tanulhatja, mert Yn3v kevés levegő
 
 #### Biztos tudás, követelmények
 
-| Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub>                                                       |   Követelmény    |
-| :--------------- | :--------------------------------------------------------------------------------------------------------------------------------------- | :--------------: |
-| Novícius (3)     | Lassan, alacsonyan repülő lényt képes óvatosan navigálni.<br />**Példa**: Újonc léglovas                                                 | Önuralom:&nbsp;0 |
-| Kismester (6)    | Képes önállóan felmérni a szelet, ami felszálláshoz elengedhetetlen.                                                                     | Önuralom:&nbsp;0 |
-| Mester (9)       | Képes jó eséllyel kiszámítani légi ellenfelének röppályáját.⭕                                                                            | Önuralom:&nbsp;0 |
-| Nagymester (12)  | [Állat testvér](#%C3%A1llat-testv%C3%A9r)                                                                                                | Önuralom:&nbsp;0 |
-| Élő legenda (15) | [Állat testvér](#%C3%A1llat-testv%C3%A9r)<br>Szinte egybeforr hátasával.<br />**Példa**: A legendás Sárkányszövetség óelf sárkánylovasa. | Önuralom:&nbsp;0 |
+| Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub>                                                                   |   Követelmény    |
+| :--------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------: |
+| Novícius (3)     | Lassan, alacsonyan repülő lényt képes óvatosan navigálni.<br />**Példa**: Újonc léglovas                                                             | Önuralom:&nbsp;0 |
+| Kismester (6)    | Képes önállóan felmérni a szelet, ami felszálláshoz elengedhetetlen.                                                                                 | Önuralom:&nbsp;0 |
+| Mester (9)       | Képes jó eséllyel kiszámítani légi ellenfelének röppályáját.⭕                                                                                        | Önuralom:&nbsp;0 |
+| Nagymester (12)  | [Állat testvér](#b%C3%B3nusz-%C3%A1llat-testv%C3%A9r)                                                                                                | Önuralom:&nbsp;0 |
+| Élő legenda (15) | [Állat testvér](#b%C3%B3nusz-%C3%A1llat-testv%C3%A9r)<br>Szinte egybeforr hátasával.<br />**Példa**: A legendás Sárkányszövetség óelf sárkánylovasa. | Önuralom:&nbsp;0 |
 
 <br />
 
