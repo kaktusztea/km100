@@ -6,20 +6,20 @@ Az alkotás, az kézzel alkotott műremekek aktív, ihletett kreálása.
 
 **Domináns Tulajdonságok**: Érzékenység, Ügyesség
 
-**Kapcsolódik**: [Kultúrkör](../hatterek.kiemelt/kulturkor.md) (kapcsolódó kultúra) Háttér, [Művészetismeret](muveszetismeret.md) képzettség
+**Kapcsolódik**: [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) (kapcsolódó kultúra) Háttér, [Művészetismeret](muveszetismeret.md) képzettség
 
-**Szabad Hátterek kiterjesztik**
-- [Festészet](../hatterek.szabad/festeszet.md): Vászonra álmodod a lelkedben születő képeket.
-- [Kalligráfia](../hatterek.szabad/kalligrafia.md): Mesterien bánsz a pennával, festett betűidben ott lakozik az örökkévalóság.
-- [Szobrászat](../hatterek.szabad/szobraszat.md): Kezed alatt agyagból, kőből készülnek a mesteri alkotások.
+**Fortélyok kiterjesztik**
+- [Festészet](../fortelyok.szabad/festeszet.md): Vászonra álmodod a lelkedben születő képeket.
+- [Kalligráfia](../fortelyok.szabad/kalligrafia.md): Mesterien bánsz a pennával, festett betűidben ott lakozik az örökkévalóság.
+- [Szobrászat](../fortelyok.szabad/szobraszat.md): Kezed alatt agyagból, kőből készülnek a mesteri alkotások.
 
-**Leírás**: Aktív, alkotó művész vagy. A fenti [Szabad Háttér](../023_szabad_hatterek.md) listából [Szabad Pontok](../016_02_szp.md) költésével vehetsz fel művészeti ágakat.
+**Leírás**: Aktív, alkotó művész vagy. A fenti [Szabad Fortély](../042_szabad_fortelyok.md) listából vehetsz fel művészeti ágakat, terjesztheted ki a képzettséget ezekkel az ismeretekkel.
 
 <br />
 
 ##### Biztos tudás, követelmények
 
-Az általad ismert [Kultúrkör](../hatterek.kiemelt/kulturkor.md)öknek megfelelő műveket hozhatsz létre. Anélkül nem megy.
+Az általad ismert [Kultúrkör](../fortelyok.kiemelt/kulturkor.md)öknek megfelelő műveket hozhatsz létre. Anélkül nem megy.
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub> | Követelmény |
 |:---------------- |:---------------------------------------------------------------------------------- |:-----------:|

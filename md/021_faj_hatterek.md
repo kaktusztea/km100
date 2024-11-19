@@ -8,7 +8,7 @@ Faj követelmény:
   1 fokot fel kell venni
 ```
 
-Az alábbiakban a játszható és nem játszható fajok bemutatását, Tulajdonság-limiteit és speciálisan felvehető [Érzék-Fortélyaikat](041_altalanos_fortelyok.md#érzék-fortélyok) találhatjuk.
+Az alábbiakban a játszható és nem játszható fajok bemutatását, Tulajdonság-limiteit és speciálisan felvehető [Érzék-Fortélyaikat](043_altalanos_fortelyok.md#érzék-fortélyok) találhatjuk.
 
 🔆 Amennyiben egy játékos választ egy Faj Hátteret a karakterének, akkor az annál felsorolt lehetséges **Érzék-Fortélyok** közül **minimum 1 fokot** köteles felvenni hozzá.
 
@@ -31,6 +31,6 @@ Tehát például választhat egy **orkot**, akinek mindösszesen "**Infralátás
 
 ---
 
-🔗 [Kiemelt Hátterek](022_kiemelt_hatterek.md) →
+🔗 [Kiemelt Hátterek](041_kiemelt_fortelyok.md) →
 
 ⚜️ [Nyitóoldal](start.md)

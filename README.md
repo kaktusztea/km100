@@ -58,7 +58,7 @@ A rendszer jól adaptálható más, akár modern kori környezetbe is.
 
 Távharc esetén pusztán a fegyver [Célzó Értékének](md/071_tavharc_ce.md) és  [Szorzó](md/072_tavharc_ve.md#%EF%B8%8F-szorz%C3%B3) jellemzőjének változtatásával - máris kész a távcsöves mesterlövész puska.
 
-A képzettségrendszer új [Szabad Hátterekkel](md/023_szabad_hatterek.md) meghatározásával remekül hozzáigazítható más világokhoz.
+A képzettségrendszer új [Szabad Fortélyok](md/042_szabad_fortelyok.md) meghatározásával remekül hozzáigazítható más világokhoz.
 
 ---
 ## Mágia
@@ -83,7 +83,6 @@ A `km100` rendszerében nincsenek kasztok, egyes jellemzőket szabad pontokból,
 
 - **Tulajdonságok**: Erő, Edzettség, Ügyesség, Gyorsaság, Intelligencia, Emlékezet, Önuralom, Érzékenység
 - **Származtatott Harcértékek**: KÉ, TÉ, VÉ, CÉ, Manőver Pontok
-- **Szabad Hátterek**: Szabad Pontok (SzP) költhetőek rá
 
 ### KP költésével növelt jellemzők
 

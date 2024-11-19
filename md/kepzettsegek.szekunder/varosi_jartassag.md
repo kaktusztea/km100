@@ -6,10 +6,10 @@
 
 **Kapcsolódódik**: ⭕xyz  ((fortély, más képzettség. Ha nincs, törölni))
 
-**Szabad Hátterek kiterjesztik**:
-- [Helyismeret](../hatterek.kiemelt/helyismeret.md)
-- [Kultúrkör](../hatterek.kiemelt/kulturkor.md)
-- [Titkos szervezeti kultúra](../hatterek.szabad/titkos_szervezeti_kultura.md)
+**Fortélyok kiterjesztik**:
+- [Helyismeret](../fortelyok.kiemelt/helyismeret.md)
+- [Kultúrkör](../fortelyok.kiemelt/kulturkor.md)
+- [Titkos szervezeti kultúra](../fortelyok.szabad/titkos_szervezeti_kultura.md)
 
 **Követelmények**: ⭕ ((ha nincs, törölni))
 

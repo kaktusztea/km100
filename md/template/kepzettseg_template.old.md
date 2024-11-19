@@ -6,7 +6,7 @@
 
 **Kapcsolódódik**: ⭕xyz  ((fortély, más képzettség. Ha nincs, törölni))
 
-**Szabad Hátterek kiterjesztik**: ⭕ ((ha nincs, törölni))
+**Fortélyok kiterjesztik**: ⭕ ((ha nincs, törölni))
 - ⭕xyz
 - zxy
 

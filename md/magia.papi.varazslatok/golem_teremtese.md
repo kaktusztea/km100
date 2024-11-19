@@ -11,7 +11,7 @@
 
  **Követelmény**:
 - [Élettan](../fortelyok.altalanos/elettan.md) fortély
-- [Képzőművészet képzettség](../kepzettsegek.szekunder/kepzomuveszet.md) + [Szobrászat SzH](../hatterek.szabad/szobraszat.md) - `9.szint`
+- [Képzőművészet képzettség](../kepzettsegek.szekunder/kepzomuveszet.md) + [Szobrászat SzH](../fortelyok.szabad/szobraszat.md) - `9.szint`
 - komponens: ⭕drágakő? ⭕TODO⭕
 ##### Kisszféra
 

@@ -17,7 +17,7 @@ A támadott fél nem saját **Védő Értékével** vesz részt a harcban, hanem
 - Célpont Észlelhetősége (látási viszonyok, célpont láthatósága, sötétben hangossága)
 - Szél hatása
 - Egyéb körülmények
-- **[Távolsági Harci Fortély módosítók](042_harci_fortelyok.md#t%C3%A1vols%C3%A1gi-harci-fort%C3%A9lyok)**
+- **[Távolsági Harci Fortély módosítók](044_harci_fortelyok.md#távolsági-harci-fortélyok)**
 
 ---
 ## Célzó dobás

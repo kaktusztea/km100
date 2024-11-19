@@ -6,12 +6,10 @@ Itt egy tömör áttekintő struktúrát láthatsz, amely végigvezet, milyen al
 
 - Tulajdonságok: `[-5; +5]` + `k6` Tulajdonságpróba
 - Képzettségek: `[0-15]` + `k10` Képzettségpróba
-- Képzettség-kiterjesztés Szabad-Hátterekkel
+- Képzettség-kiterjesztés Szabad-Fortélyokkal
 - Fortélyok: `1-4.` fokig terjedhetnek - statikus ismeretek, nincs próba
 - Hátterek:
-    - Kiemelt: Helyismeret, Kultúrkör, Nyelvismeret
     - Faj: Elf, Ember, Törpe, stb.
-    - Szabad: kiterjesztenek képzettségeket; `Szabad Pont = Tapasztalati Szint; 1 SzP = 1 Szabad Háttér`
     - Leíró: színesítő, szabadon választható jellemzők
     - Karma: kalandjaid során KM-től kapod
 - Életerő kategóriák (**Edzettség** Tulajdonság függő)

@@ -6,7 +6,7 @@
 
 **Kapcsolódódik**: ⭕xyz
 
-**Szabad Hátterek kiterjesztik**: ⭕
+**Fortélyok kiterjesztik**: ⭕
 
 **Leírás**: A jól felszerelt, világi tudósok, királyi kegyeltek, buzgó kutatók szakterülete. Labor (akár tábori is) felszerelést igényel. Ide tartoznak az alábbi ismeretek:
 - anyagok összetevőinek elemzése saját laboreszközökkel; kémiai kísérletek

@@ -2,7 +2,7 @@
 
 Általános ismeret amely a tárgyi tudásra támaszkodó tudományok alapját adja. Könyvtárazás, tárgyi ismeretek gyűjtése, rengeteg olvasás, magolás.
 
-Igazi potenciálját a kiterjesztését megvalósító Fortélyokkal és Szabad Hátterekkel érhetjük el.
+Igazi potenciálját a kiterjesztését megvalósító Fortélyokkal érhetjük el.
 
 **Próba:** dobható
 
@@ -13,16 +13,14 @@ Igazi potenciálját a kiterjesztését megvalósító Fortélyokkal és Szabad 
 - [Történelemismeret](../fortelyok.altalanos/tortenelemismeret.md): ⭕
 - [Belső síkok lényeinek ismerete](../fortelyok.misztikus/belso_sikok_lenyeinek_ismerete.md) 🔁 ⭕
 - [Külső síkok lényeinek ismerete](../fortelyok.misztikus/kulso_sikok_lenyeinek_ismerete.md) 🔁 ⭕
-
-**Szabad Hátterek kiterjesztik**: ⭕
-- [Heraldika](../hatterek.szabad/heraldika.md) ⭕
-- [Jogismeret](../hatterek.szabad/jogismeret.md) ⭕
-- [Stratégia](../hatterek.szabad/strategia.md): "Kevesen tudják, hogy a legutóbbi Zászlóháború döntő csatájában a párás idő okozta a t0roni S0gron papok összhangjainak elvesztését, amely Antoh szolgáinak irányába billentette a mérleget."
-- [Helyismeret](../hatterek.kiemelt/helyismeret.md): csak ha konkrétan helyi témával kapcsolatos ismeretről van szó, akkor szükséges. Ne legyünk túl szigorúak.
+- [Heraldika](../fortelyok.szabad/heraldika.md) ⭕
+- [Jogismeret](../fortelyok.szabad/jogismeret.md) ⭕
+- [Stratégia](../fortelyok.szabad/strategia.md): "Kevesen tudják, hogy a legutóbbi Zászlóháború döntő csatájában a párás idő okozta a t0roni S0gron papok összhangjainak elvesztését, amely Antoh szolgáinak irányába billentette a mérleget."
+- [Helyismeret](../fortelyok.kiemelt/helyismeret.md): csak ha konkrétan helyi témával kapcsolatos ismeretről van szó, akkor szükséges. Ne legyünk túl szigorúak.
 
 ##### Követelmények
 - [Írástudó](../fortelyok.altalanos/irastudo.md) fortély
-- [Kultúrkör](../hatterek.kiemelt/kulturkor.md) - Az adott, kapcsolódó **Kultúrkör** ismerete sokszor (nem mindig) szükséges, hiánya esetén jár a standard levonás.
+- [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) - Az adott, kapcsolódó **Kultúrkör** ismerete sokszor (nem mindig) szükséges, hiánya esetén jár a standard levonás.
 
 ##### Biztos tudás, követelmények
 

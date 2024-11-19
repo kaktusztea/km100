@@ -36,7 +36,7 @@ Támadó CÉ =
 | Fegyver minősége                                                                                                                                  | ⭕`-5 - +5` |
 | Nem “belőtt” íjak  / most lő először ezzel az íjjal - [Távolsági Harcmodor](kepzettsegek.primer.harci/tavolsagi_harcmodor.md) 9.szintje alatt            |   `-30`    |
 | Nem “belőtt” nyílpuskák / most lő először ezzel a nyílpuskával - [Távolsági Harcmodor](kepzettsegek.primer.harci/tavolsagi_harcmodor.md) 9.szintje alatt |   `-15`    |
-| Egyes [Távolsági Harci Fortélyokból](042_harci_fortelyok.md#t%C3%A1vols%C3%A1gi-harci-fort%C3%A9lyok) adódó bónuszok.                             |            |
+| Egyes [Távolsági Harci Fortélyokból](044_harci_fortelyok.md#távolsági-harci-fortélyok) adódó bónuszok.                             |            |
 
 🔆 **Célzás**: íjnál csak 1 körig lehet kitartani! 1 kör után nincs bónusz, sőt körönként `CÉ:-10` büntetés jár!
 

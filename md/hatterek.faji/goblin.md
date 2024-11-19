@@ -12,7 +12,7 @@ Felvehető Érzék-Fortélyok maximuma:
 - [Fejlett szaglás](../fortelyok.erzekek/fejlett_szaglas.md) - 1. fok
 
 Ajánlott fortélyok:
-- [Hazudozás](../hatterek.szabad/hazudozas.md)
+- [Hazudozás](../fortelyok.szabad/hazudozas.md)
 - [Suhanó árnyék](../fortelyok.altalanos/suhano_arnyek.md)
 - [Szabotőr](../fortelyok.altalanos/szabotor.md)
 

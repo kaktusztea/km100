@@ -6,10 +6,10 @@
 
 **Kapcsolódó fortélyok**: [Léglovas harc](../fortelyok.harci/leglovas_harc.md)
 
-**Szabad Hátterek kiterjesztik**:
-- [Lénylovas](../hatterek.szabad/lenylovas.md) (1 faj felvétele kötelező)
+**Fortélyok kiterjesztik**:
+- [Lénylovas](../fortelyok.szabad/lenylovas.md) (1 faj felvétele kötelező)
 
-**Leírás**: Ritka szerencsés, aki ezt a képzettséget tanulhatja, mert Yn3v kevés levegőben meglovagolható teremtményeinek egyikét ülheti meg. `Pteropták, Wyvern-ek, Racklák` - hogy csak a közismertebbeket említsük. Aki léglovaglást tanul, az képes megülni a fent említett repülő lényeket a képzettség szintjétől függő tehetséggel. A tudás univerzális, némi gyakorlással más fajú légi hátasokra is használható: a [Lénylovas](../hatterek.szabad/lenylovas.md) Szabad Hátter többszöri felvételével.
+**Leírás**: Ritka szerencsés, aki ezt a képzettséget tanulhatja, mert Yn3v kevés levegőben meglovagolható teremtményeinek egyikét ülheti meg. `Pteropták, Wyvern-ek, Racklák` - hogy csak a közismertebbeket említsük. Aki léglovaglást tanul, az képes megülni a fent említett repülő lényeket a képzettség szintjétől függő tehetséggel. A tudás univerzális, némi gyakorlással más fajú légi hátasokra is használható: a [Lénylovas](../fortelyok.szabad/lenylovas.md) Szabad Fortély többszöri felvételével.
 
 <br />
 
@@ -49,4 +49,4 @@ Megegyezik az [Idomítás](../kepzettsegek.szekunder/idomitas.md#állat-testvér
 ##### Célszámot módosító körülmények
 
 - Vad hátas: + [1-3]
-- Más fajú légi hátas esetén: [Lénylovas](../hatterek.szabad/lenylovas.md) Szabad Háttér
+- Más fajú légi hátas esetén: [Lénylovas](../fortelyok.szabad/lenylovas.md) Szabad Fortély

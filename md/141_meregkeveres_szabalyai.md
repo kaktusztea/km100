@@ -147,7 +147,7 @@ Ez az alapanyagok beszerezhetőségétől függ. Amennyiben megvan az **Alkímia
 
 Alapesetben nem teszünk különbséget, a Méregkeverők tisztában vannak Yn3v leggyakoribb elfszabású teremtményeinek méreggel szembeni tulajdonságaival.
 
-Amennyiben nem hagyományos, ritka fajról van szó, akkor ahhoz a [Különleges faj boncolása](hatterek.szabad/kulonleges_faj_boncolasa.md) Szabad Háttér megléte szükséges az adott fajra felvéve.
+Amennyiben nem hagyományos, ritka fajról van szó, akkor ahhoz a [Különleges faj boncolása](fortelyok.szabad/kulonleges_faj_boncolasa.md) Szabad Fortély megléte szükséges az adott fajra felvéve.
 
 ---
 

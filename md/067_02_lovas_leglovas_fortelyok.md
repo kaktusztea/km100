@@ -1,7 +1,7 @@
 ## Lovas és Léglovas fortélyok
 
 A Lovas és Léglovas harchoz szükséges, vagy azt érintő fortélyok rövid listáját a Harci fortélyok oldalán találhatjuk:
-#### [Lovas, Léglovas fortélyok listája](042_harci_fortelyok.md#lovas-fort%C3%A9lyok)
+#### [Lovas, Léglovas fortélyok listája](044_harci_fortelyok.md#lovas-fortélyok)
 
 ---
 

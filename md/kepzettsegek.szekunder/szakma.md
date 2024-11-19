@@ -4,5 +4,5 @@
 
 Kapcsolódik: [Hamisítás](../fortelyok.altalanos/hamisitas.md)
 
-**Szabad Háttér**:
-- Hivatalnok szakmához: [Pénzügyek](../hatterek.szabad/penzugyek.md), [Jogismeret](../hatterek.szabad/jogismeret.md)
+**Fortélyok kiterjesztik**:
+- Hivatalnok szakmához: [Pénzügyek](../fortelyok.szabad/penzugyek.md), [Jogismeret](../fortelyok.szabad/jogismeret.md)

@@ -6,10 +6,10 @@
 
 **Kapcsolódó fortélyok**: [Lovas harc](../fortelyok.harci/lovas_harc.md)
 
-**Szabad Hátterek kiterjesztik**:
-- [Lénylovas](../hatterek.szabad/lenylovas.md) (1 faj felvétele kötelező)
+**Fortélyok kiterjesztik**:
+- [Lénylovas](../fortelyok.szabad/lenylovas.md) (1 faj felvétele kötelező)
 
-**Leírás**: Aki lovaglást tanul, az képes megülni egy választott földi hátast lényt a képzettség szintjétől függő tehetséggel. Válassz hátas fajt: 1 db [Lénylovas](../hatterek.szabad/lenylovas.md) Szabad Hátteret kötelezően fel kell venned. A tudás univerzális, némi gyakorlással más fajú földi hátasokra is használható: a [Lénylovas](../hatterek.szabad/lenylovas.md) Szabad Hátter többszöri felvételével.
+**Leírás**: Aki lovaglást tanul, az képes megülni egy választott földi hátast lényt a képzettség szintjétől függő tehetséggel. Válassz hátas fajt: 1 db [Lénylovas](../fortelyok.szabad/lenylovas.md) Szabad Fortélyt kötelezően fel kell venned. A tudás univerzális, némi gyakorlással más fajú földi hátasokra is használható: a [Lénylovas](../fortelyok.szabad/lenylovas.md) Szabad Fortély többszöri felvételével.
 
 <br />
 
@@ -49,4 +49,4 @@ Megegyezik az [Idomítás](../kepzettsegek.szekunder/idomitas.md#állat-testvér
 ##### Célszámot módosító körülmények
 
 - Vad hátas: + [1-6]
-- Más fajú földi hátas esetén: [Lénylovas](../hatterek.szabad/lenylovas.md) Szabad Háttér
+- Más fajú földi hátas esetén: [Lénylovas](../fortelyok.szabad/lenylovas.md) Szabad Fortély

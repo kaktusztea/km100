@@ -19,6 +19,6 @@ Ajánlott fortélyok:
 
 Ajánlott képzettségek:
 - [Kvantikum](../kepzettsegek.szekunder/kvantikum.md)
-    - [Térképészet](../hatterek.szabad/terkepeszet.md) SzH
+    - [Térképészet](../fortelyok.szabad/terkepeszet.md) SzH
 
 <br />

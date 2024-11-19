@@ -14,12 +14,12 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 - [Villámgyors keresés](../fortelyok.altalanos/villamgyors.kereses.md) 
 - [Éber alvó](../fortelyok.altalanos/eber_alvo.md)
 
-**Szabad Hátterek kiterjesztik**:
+**Fortélyok kiterjesztik**:
 
-- [Tájtípus - dzsungel](../hatterek.szabad/tajtipus_dzsungel.md)
-- [Tájtípus - sivatagi](../hatterek.szabad/tajtipus_sivatagi.md)
-- [Tájtípus - magaslati](../hatterek.szabad/tajtipus_magaslati.md)
-- [Tájtípus - erdős](../hatterek.szabad/tajtipus_erdos.md)
+- [Tájtípus - dzsungel](../fortelyok.szabad/tajtipus_dzsungel.md)
+- [Tájtípus - sivatagi](../fortelyok.szabad/tajtipus_sivatagi.md)
+- [Tájtípus - magaslati](../fortelyok.szabad/tajtipus_magaslati.md)
+- [Tájtípus - erdős](../fortelyok.szabad/tajtipus_erdos.md)
 
 
 **Leírás**: Az Észlelés valaminek az észrevételét takarja. Ez lehet egy villanó tőr, egy meglapuló merénylő a lombok közt, egy árulkodó súrlódó nesz. Fontos, hogy az Észlelés csak a momentum észrevételt jelenti, annak értelmezését nem! Az a játékos feladata, melyet esetleg megkönnyíthet például a [Nyomozás](nyomozas.md), vagy a [Természetjárás](../kepzettsegek.szekunder/termeszetjaras.md) képzettség.

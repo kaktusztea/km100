@@ -5,7 +5,7 @@ Magába foglalja a legendák ismeretét is és az ősi kultúrák ismeretét is.
 
 A [Lexikum](../kepzettsegek.szekunder/lexikum.md) képzettség alacsonyabb szintjein a hetedkori Yn3v általános történelmét ismered, magasabb szinten fellebbennek a titkok a régebbi korok titkairól is.
 #### Kapcsolódó Háttér
-- [Kultúrkör](../hatterek.kiemelt/kulturkor.md) - nélküle az ott leírt levonások járulnak a kiterjesztett képzettség próbadobásához.
+- [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) - nélküle az ott leírt levonások járulnak a kiterjesztett képzettség próbadobásához.
 
 ##### Kiterjeszti ezeket
 - [Lexikum](../kepzettsegek.szekunder/lexikum.md)

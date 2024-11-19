@@ -16,7 +16,7 @@ Ajánlott fortélyok:
 Ajánlott képzettségek:
 - [Amund Tradíció](../053_01_amund_tradicio.md) (nem kötelező)
 - [Ősi nyelv ismerete](../kepzettsegek.primer.misztikus/osi_nyelv_ismerete.md) (amund)
-- [Természetjárás](../kepzettsegek.szekunder/termeszetjaras.md) + [Tájtípus: sivatagi](../hatterek.szabad/tajtipus_sivatagi.md)
+- [Természetjárás](../kepzettsegek.szekunder/termeszetjaras.md) + [Tájtípus: sivatagi](../fortelyok.szabad/tajtipus_sivatagi.md)
 - [Kinzás](../kepzettsegek.szekunder/kinzas.md)
 
 <br />
