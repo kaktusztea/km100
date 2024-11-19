@@ -16,7 +16,7 @@
 
 Előbb észre kell venni az első nyomot, utána lehet követni a csapást.
 
-- [Észlelés](kepzettsegek.primer.altalanos/eszleles.md) -  [összetett képzettségpróba](036_kepzettsegproba.md#%C3%B6sszetett-k%C3%A9pzetts%C3%A9gpr%C3%B3ba-m%C3%A1sodlagos-pr%C3%B3badob%C3%A1sok), tehát több dobás kell, mivel átfogóbb próba kell a folyamatos követéshez.
+- [Észlelés](kepzettsegek.primer.altalanos/eszleles.md) -  [összetett képzettségpróba](037_kepzettsegproba.md#összetett-képzettségpróba-másodlagos-próbadobások), tehát több dobás kell, mivel átfogóbb próba kell a folyamatos követéshez.
 - Követelmény: [Keresés/Nyomolvasás](fortelyok.altalanos/kereses_nyomolvasas.md) fortély
 - Észlelést kiterjeszti: az épp adott [Tájtípus](042_szabad_fortelyok.md#tanulható-szabad-hátterek-listája) Szabad Fortély (ha nincs meg `-3` a dobásra)
 

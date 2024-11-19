@@ -25,10 +25,12 @@ Ha egy képzettség egy bizonyos fokának eléréséhez szükség van valamilyen
 
 A képzettségek egyes kiemelt szintjeinek is lehetnek követelményei! Magas szinten főleg.
 
+---
 ### Kulturális korlát
 
 A másik felső korlát lehet az adott kultúra fejletlensége, vagy korlátai. Például egy primitív nomád törzs kuruzslója nem fejlődhet **Vajákosságban** `6`-os érték fölé, mert nincs olyan forrás, ahonnan a hatékonyabb módszereket megtanulhatná. A KM mindig vegye figyelembe az adott körülményeket és fejlődési lehetőségeket.
 
+---
 ### A 14. és 15. képzettségszint
 
 `14`-es és `15`-ös szintre csak úgy juthat el a karakter, ha a képzettséggel kapcsolatos, nagyon ritka titkos tudásra tesz szert. Ez kaland alapja is lehet! Például megszerezni a "*Gyógyító Érintés Tudományának Titkos Fóliását*" ([Orvosláshoz](kepzettsegek.primer.altalanos/orvoslas.md)).
@@ -39,39 +41,6 @@ A másik felső korlát lehet az adott kultúra fejletlensége, vagy korlátai. 
 A `12. és 15. szintek` kiemelt mérföldkövek a képzettségek esetében, itt már félmágikus, különleges bónuszok tűnnek fel. Ezek leírását lásd minden esetben az adott képzettség leírásában.
 
 <br />
-
----
-### Képzettségek kiterjesztése Szabad Fortélyokkal
-
-Egyes képzettségek az alap tudást lefedő ismeretek keretein túl is "kiterjeszthetőek", egyesek pedig "felszeletelhetőek" tudásterületekre - erre használjuk a [Szabad Fortélyokat](042_szabad_fortelyok.md).
-
-#### ⚜️ Első eset
-
-Ha van egy képzettségpróba, amelynek ismeret területe a KM szerint ezen képzettség alá tartozik ÉS lefed egy kapcsolódó Szabad Fortélyt, akkor...
-- ha megvan a Szabad Fortély, akkor simán, alapértékkel dobjuk a képzettségpróbát
-- ha nincs meg a Szabad Fortély, akkor `-3` módosítóval dobjuk a képzettségpróbát
-
-#### ⚜️ Második eset
-
-Ha  van egy képzettségpróba, amelynek ismeret területe a KM szerint ezen képzettség alá tartozi, DE nincs rá kapcsolódó Szabad Fortély, akkor simán, alapértékkel dobjuk a képzettségpróbát
-
-<br />
-
----
-### Képzettségek és Fortélyok
-
-Egyes képzettségek az alap tudást lefedő ismeretek keretein túl Fortélyokkal is "kiterjeszthetőek".
-
-#### ⚜️ Fortély mint követelmény (kiterjesztés)
-
-Ha van egy képzettségpróba, amelynek ismeret területe a KM szerint ezen képzettség alá tartozik ÉS lefed egy kapcsolódó Fortélyt, akkor...
-- ha megvan a Fortély, akkor simán, alapértékkel dobjuk a képzettségpróbát
-- ha nincs meg a fortély, akkor **nem is dobhatunk képzettségpróbát**.  ⭕hard-követelmény⭕
-- ⭕TODO: esetleg legyen "**soft-követelmény**" is `-6` levonással?⭕
-
-#### ⚜️ Fortély mint bónusz
-
-Ilyenkor a Fortély megléte nem követelmény, viszont valamilyen statikus bónuszt ad az adott képzettségre.
 
 ---
 
