@@ -62,6 +62,6 @@ Ebben az esetben az adott fortély megléte nem követelmény, viszont ha megvan
 
 ---
 
-🔗 [Képzettségpróba](037_kepzettsegproba.md) →
+🔗 [Képzettségpróba, Összhangok](037_kepzettsegproba.md) →
 
 ⚜️ [Nyitóoldal](start.md)
