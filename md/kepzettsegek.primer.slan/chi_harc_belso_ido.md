@@ -1,4 +1,4 @@
-#### Chi Harc - Belső idő
+### Chi Harc - Belső idő
 
 ⭕TODO: kidolgozni⭕
 
@@ -6,16 +6,22 @@
 
 **Domináns Tulajdonságok**: Érzékenység
 
-**Kapcsolódódik**: ⭕xyz  ((fortély, más képzettség. Ha nincs, törölni))
+#### Kapcsolódik
 
-**Követelmények**: ⭕ ((ha nincs, törölni))
+⭕xyz  ((fortély, más képzettség. Ha nincs, törölni))
 
-**Leírás**: xyz
+#### Követelmény
+
+⭕ ((ha nincs, törölni))
+
+#### Leírás
+
+⭕xyz
 
 
 <br />
 
-##### Biztos tudás, követelmények
+#### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub> | Követelmény |
 |:---------------- |:---------------------------------------------------------------------------------- |:-----------:|
@@ -27,7 +33,7 @@
 
 <br />
 
-##### Próbák
+#### Próbák
 
 | Célszám | Példa  |
 | :----------- | :----------- |
@@ -40,6 +46,6 @@
 
 <br />
 
-##### Célszámot módosító körülmények
+#### Célszámot módosító körülmények
 
 - ⭕xyz

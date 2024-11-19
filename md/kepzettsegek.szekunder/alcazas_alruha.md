@@ -1,4 +1,4 @@
-#### 🔵 Álcázás/álruha
+### 🔵 Álcázás/álruha
 
 ````diff
 - Ellenpróbával menjen? Melyik képzettséggel? Álcázás/álruha vs. Észlelés VAGY Emberismeret??
@@ -8,11 +8,28 @@
 
 **Domináns Tulajdonságok**: Ügyesség, Intelligencia, Önuralom, Érzékenység
 
-**Kapcsolódódik**: [Százarcú](../fortelyok.altalanos/szazarcu.md), [Kaméleon](../fortelyok.altalanos/kameleon.md)
+#### Kapcsolódik
 
-**Fortélyok kiterjesztik**: ⭕
+- [Százarcú](../fortelyok.altalanos/szazarcu.md) fortély
+- [Kaméleon](../fortelyok.altalanos/kameleon.md) fortély
 
-**Leírás**: Az álcázás nagy előny, főleg ha vadásznak rád. Megfelelő maszk, smink, ruha, ezek elengedhetetlenek. Egy jó bajusz csodákat tehet, csak le ne essen a kritikus pillanatban.
+#### Követelmény
+
+⭕ ((ha nincs, törölni))
+
+#### Normál kiterjesztés
+⭕ ((ha nincs, törölni)
+
+#### Bónuszok: Élő álca
+
+Titkos, félmágikus ismeret. Csak az álcázás legnagyobb mesterei ismerik – állítólag.
+
+`15.szint:` Alkalmazója kellékek nélkül is képes átformálni vonásait. A hatás csak annyi lehet, amennyit maszkkészítő eszközökkel is el tudna érni. Például: pár perc alatt szakállat, bajszot növeszt, ráncokat varázsol az arcára, megváltozik szeme színe, stb.
+
+
+#### Leírás
+
+Az álcázás nagy előny, főleg ha vadásznak rád. Megfelelő maszk, smink, ruha, ezek elengedhetetlenek. Egy jó bajusz csodákat tehet, csak le ne essen a kritikus pillanatban.
 
 Az Álcázás/álruha képzettséggel megváltoztathatod külsődet, tudásodtól függ, hogy mennyire és milyen hitelesen. A képzettség a fentieken kívül úgynevezett „szerepeket" ad a karakternek. Ezek lehetnek pl. „pap", „nemes", „paraszt", stb. Arra jók, hogy alapvető - nem etikett! - viselkedési sablonokat adnak, melyek segítségével pl. elhitetheti a karakter a felületes szemlélővel, hogy ő pl. tényleg pap. Hogy ezek a szerepek mennyire passzolnak a karakterhez, az az előtörténettel való szinkrontól függ (beleértve a kalandok során történt előzményeket is. Pl. paraszt volt, de évek óta nemesi udvarba jár. Ekkor hamarabb is felveheti a „nemes" szerepet).
 
@@ -20,7 +37,7 @@ Minden szerep ⭕`„0-ra hoz" (??)`⭕, azaz nem kap levonásokat a karakter. A
 
 <br />
 
-##### Biztos tudás, követelmények
+#### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                           Követelmény                            |
 | :--------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------: |
@@ -33,15 +50,7 @@ Minden szerep ⭕`„0-ra hoz" (??)`⭕, azaz nem kap levonásokat a karakter. A
 <br />
 
 ---
-##### Képzettség Bónuszok
-###### Élő álca
-
-Titkos, félmágikus ismeret. Csak az álcázás legnagyobb mesterei ismerik – állítólag.
-
-15. szint: Alkalmazója kellékek nélkül is képes átformálni vonásait. A hatás csak annyi lehet, amennyit maszkkészítő eszközökkel is el tudna érni. Például: pár perc alatt szakállat, bajszot növeszt, ráncokat varázsol az arcára, megváltozik szeme színe, stb.
-
----
-##### Próbák
+#### Próbák
 
 | Célszám | Példa  |
 | ----------- | :----------- |
@@ -54,7 +63,7 @@ Titkos, félmágikus ismeret. Csak az álcázás legnagyobb mesterei ismerik –
 
 <br />
 
-##### Célszámot módosító körülmények
+#### Célszámot módosító körülmények
 
 - Gyors átöltözés: körülménytől függ: \[+1-6\]
 - Szegényes felszerelés: \[+1-6\]

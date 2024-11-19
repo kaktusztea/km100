@@ -4,16 +4,24 @@
 
 **Domináns Tulajdonságok**: ⭕xyz
 
-**Kapcsolódódik**: ⭕xyz  ((fortély, más képzettség. Ha nincs, törölni))
+#### Kapcsolódik
 
-**Fortélyok kiterjesztik**: ⭕ ((ha nincs, törölni))
-- ⭕xyz
-- zxy
+⭕xyz  ((fortély, más képzettség. Ha nincs, törölni))
 
-**Követelmények**: ⭕ ((ha nincs, törölni))
 
-**Leírás**: xyz
+#### Normál kiterjesztés
 
+⭕xyz. Ha nincs, törölni
+
+
+#### Erős kiterjesztés
+
+⭕xyz. Ha nincs, törölni
+
+
+#### Leírás
+
+⭕xyz
 
 <br />
 

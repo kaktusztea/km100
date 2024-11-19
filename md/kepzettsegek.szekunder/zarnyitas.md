@@ -1,16 +1,13 @@
-#### 🔵 Zárnyitás
+### 🔵 Zárnyitás
 
 **Próba:** dobható
 
 **Domináns Tulajdonságok**: Ügyesség, Önuralom
 
-**Kapcsolódó fortélyok**: [Mechanika](../fortelyok.altalanos/mechanika.md)
+#### Leírás
 
-**Fortélyok kiterjesztik**: ⭕
+⭕TODO⭕
 
-**Leírás**: ⭕TODO⭕
+#### Megjegyzés
 
-
-**Megjegyzés:**
-
-A **Kvantikum** képzettség + **Mechanika** fortély kombináció **NEM** váltja ki a Zárnyitás képzettséget.
+A **Kvantikum** képzettség + **Mechanika** fortély kombináció **NEM** váltja ki a [Zárnyitás](zarnyitas.md) képzettséget.

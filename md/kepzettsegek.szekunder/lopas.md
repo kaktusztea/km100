@@ -1,4 +1,4 @@
-#### 🔵 Lopás
+### 🔵 Lopás
 
 Tipikusan ellenpróbás képesség. Helyzettől függ a módosítók mértéke.
 

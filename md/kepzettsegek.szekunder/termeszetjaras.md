@@ -1,19 +1,23 @@
-#### 🔵 Természetjárás
+### 🔵 Természetjárás
 
 **Próba:** dobható
 
 **Domináns Tulajdonságok**: Érzékenység, Intelligencia
 
-**Fortélyok kiterjesztik**:
+#### Normál kiterjesztés
 
 - [Tájtípus - dzsungel](../fortelyok.szabad/tajtipus_dzsungel.md)
 - [Tájtípus - sivatagi](../fortelyok.szabad/tajtipus_sivatagi.md)
 - [Tájtípus - magaslati](../fortelyok.szabad/tajtipus_magaslati.md)
 - [Tájtípus - erdős](../fortelyok.szabad/tajtipus_erdos.md)
 
-**Szituáció**: [Nyomok értelmezése természetben](../152_01_nyomok_nyomkovetes_termeszet.md)
+#### Szituáció
 
-**Leírás**: A képzettség a táj ismeretét és annak környezeti jellemzőit fogja egybe és adott tájtípusokra lehet megtanulni, amelyeket a fenti **Szabad Fortélyok** határoznak meg. Ebből 1 alapból jár a képzettség felvételekor, a többi `SzP` használatával vehető fel később.
+- [Nyomok értelmezése természetben](../152_01_nyomok_nyomkovetes_termeszet.md)
+
+#### Leírás
+
+A képzettség a táj ismeretét és annak környezeti jellemzőit fogja egybe és adott tájtípusokra lehet megtanulni, amelyeket a fenti **ok** határoznak meg. Ebből 1 alapból jár a képzettség felvételekor, a többi `SzP` használatával vehető fel később.
 
 A képzettség magában foglalja a következőket:
 - Túlélés, hideg és meleg elleni technikák, tűzrakás
@@ -24,15 +28,15 @@ A képzettség magában foglalja a következőket:
 - Víz megtalálása (ha van egyáltalán)
 - Nyomkövetés (állat, elfszabású)
 
-##### Nyomkövetés
+#### Nyomkövetés
 
  A képzettség a vadonban található nyomok értelmezését is magában foglalja. Képes vagy olvasni az elfszabásúak, állatok, helyre jellemző szörnyetegek által hagyott nyomokból. Nem keverendő össze az [Észlelés](../kepzettsegek.primer.altalanos/eszleles.md) képzettséggel (+[Keresés/Nyomolvasás](../fortelyok.altalanos/kereses_nyomolvasas.md) fortéllyal), ami valaminek az észrevételét jelenti, titkos rejtekajtók, zugok felkutatását fedi, az észrevett jellemző értelmezését nem!
 
 Fontos, hogy a képzettség nem helyettesítheti a szerepjátszást, csak támpontokat, mankót adhat. Tehát ha a karakter megdobja próbáját, akkor a KM csak segítségeket tárhat a játékos elé, a teljes megoldást nem kínálhatja tálcán.
 
-
 ⭕TODO: szokásos kifejtés, szintek, esetleges követelmények⭕
-##### Biztos tudás, követelmények
+
+#### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub> | Követelmény |
 |:---------------- |:---------------------------------------------------------------------------------- |:-----------:|
@@ -44,7 +48,7 @@ Fontos, hogy a képzettség nem helyettesítheti a szerepjátszást, csak támpo
 
 <br />
 
-##### Próbák
+#### Próbák
 
 | Célszám | Példa  |
 | :----------- | :----------- |
@@ -57,11 +61,6 @@ Fontos, hogy a képzettség nem helyettesítheti a szerepjátszást, csak támpo
 
 <br />
 
-##### Célszámot módosító körülmények
+#### Célszámot módosító körülmények
 
 - ⭕xyz
-
----
-
-
-

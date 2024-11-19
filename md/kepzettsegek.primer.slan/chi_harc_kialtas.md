@@ -6,11 +6,17 @@
 
 **Domináns Tulajdonságok**: Érzékenység
 
-**Kapcsolódódik**: ⭕xyz  ((fortély, más képzettség. Ha nincs, törölni))
+#### Kapcsolódik
 
-**Követelmények**: ⭕ ((ha nincs, törölni))
+⭕xyz  ((fortély, más képzettség. Ha nincs, törölni))
 
-**Leírás**: xyz
+#### Követelmény
+
+⭕ ((ha nincs, törölni))
+
+#### Leírás
+
+⭕xyz
 
 
 <br />

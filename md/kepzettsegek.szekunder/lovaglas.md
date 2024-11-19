@@ -1,19 +1,28 @@
-#### 🔵 Lovaglás
+### 🔵 Lovaglás
 
 **Próba**: dobható
 
 **Domináns Tulajdonságok**: Önuralom, Ügyesség, Gyorsaság
 
-**Kapcsolódó fortélyok**: [Lovas harc](../fortelyok.harci/lovas_harc.md)
+#### Kapcsolódik
 
-**Fortélyok kiterjesztik**:
+[Lovas harc](../fortelyok.harci/lovas_harc.md) fortély
+
+#### Erős kiterjesztés
+
 - [Lénylovas](../fortelyok.szabad/lenylovas.md) (1 faj felvétele kötelező)
 
-**Leírás**: Aki lovaglást tanul, az képes megülni egy választott földi hátast lényt a képzettség szintjétől függő tehetséggel. Válassz hátas fajt: 1 db [Lénylovas](../fortelyok.szabad/lenylovas.md) Szabad Fortélyt kötelezően fel kell venned. A tudás univerzális, némi gyakorlással más fajú földi hátasokra is használható: a [Lénylovas](../fortelyok.szabad/lenylovas.md) Szabad Fortély többszöri felvételével.
+#### Bónusz: Állat testvér
+
+Megegyezik az [Idomítás](../kepzettsegek.szekunder/idomitas.md#állat-testvér) képzettségnél leírtakkal.
+
+#### Leírás
+
+Aki lovaglást tanul, az képes megülni egy választott földi hátast lényt a képzettség szintjétől függő tehetséggel. Válassz hátas fajt: 1 db [Lénylovas](../fortelyok.szabad/lenylovas.md) Szabad Fortélyt kötelezően fel kell venned. A tudás univerzális, némi gyakorlással más fajú földi hátasokra is használható: a [Lénylovas](../fortelyok.szabad/lenylovas.md) Szabad Fortély többszöri felvételével.
 
 <br />
 
-##### Biztos tudás, követelmények
+#### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub> |    Követelmény    |
 |:---------------- |:---------------------------------------------------------------------------------- |:-----------------:|
@@ -25,15 +34,9 @@
 
 <br />
 
----
-##### Képzettség Bónuszok
-
-###### Állat testvér
-
-Megegyezik az [Idomítás](../kepzettsegek.szekunder/idomitas.md#állat-testvér) képzettségnél leírtakkal.
 
 ---
-##### Próbák
+#### Próbák
 
 | Célszám              | Példa                                                                                                                                                                                                                                                               |
 | :------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -46,7 +49,7 @@ Megegyezik az [Idomítás](../kepzettsegek.szekunder/idomitas.md#állat-testvér
 
 <br />
 
-##### Célszámot módosító körülmények
+#### Célszámot módosító körülmények
 
 - Vad hátas: + [1-6]
 - Más fajú földi hátas esetén: [Lénylovas](../fortelyok.szabad/lenylovas.md) Szabad Fortély

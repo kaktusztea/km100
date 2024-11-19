@@ -1,14 +1,31 @@
-#### 🔵 Alkímia
+### 🔵 Alkímia
 
 **Próba:** dobható
 
 **Domináns Tulajdonságok**: Intelligencia, Emlékezet
 
-**Kapcsolódódik**: ⭕xyz
+#### Kapcsolódik
 
-**Fortélyok kiterjesztik**: ⭕
+⭕xyz  ((fortély, más képzettség. Ha nincs, törölni))
 
-**Leírás**: A jól felszerelt, világi tudósok, királyi kegyeltek, buzgó kutatók szakterülete. Labor (akár tábori is) felszerelést igényel. Ide tartoznak az alábbi ismeretek:
+
+#### Követelmény
+
+⭕ ((ha nincs, törölni))
+
+
+#### Normál kiterjesztés
+
+⭕xyz. Ha nincs, törölni
+
+
+#### Erős kiterjesztés
+
+⭕xyz. Ha nincs, törölni
+
+#### Leírás
+
+A jól felszerelt, világi tudósok, királyi kegyeltek, buzgó kutatók szakterülete. Labor (akár tábori is) felszerelést igényel. Ide tartoznak az alábbi ismeretek:
 - anyagok összetevőinek elemzése saját laboreszközökkel; kémiai kísérletek
 - szerves és növényi anyagok kutatása
 - savas, lúgos anyagok, illatszerek, ragasztók, festékek előállítása
@@ -19,7 +36,7 @@
 
 <br />
 
-##### Biztos tudás, követelmények
+#### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub> |                    Követelmény                     |
 |:---------------- |:---------------------------------------------------------------------------------- |:--------------------------------------------------:|
@@ -31,7 +48,7 @@
 
 <br />
 
-##### Próbák
+#### Próbák
 
 | Célszám | Példa  |
 | :----------- | :----------- |
@@ -44,6 +61,6 @@
 
 <br />
 
-##### Célszámot módosító körülmények
+#### Célszámot módosító körülmények
 
-- Rosszul felszerelt labor, műszerek hiánya: `[+3-9]`
+Rosszul felszerelt labor, műszerek hiánya: `[+3-9]`

@@ -1,4 +1,4 @@
-#### 🔵 Emberismeret
+### 🔵 Emberismeret
 
 Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
@@ -10,11 +10,15 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
 **Domináns Tulajdonságok**: Érzékenység, Intelligencia
 
-**Kapcsolódó fortély**: [Hidegvér](../fortelyok.altalanos/hidegver.md), [Tiszta fej](../fortelyok.altalanos/tiszta_fej.md)
+#### Kapcsolódik
 
-**Kapcsolódó képzettség**: [Befolyásolás](befolyasolas.md), [Etikett](../kepzettsegek.szekunder/etikett.md)
+- [Hidegvér](../fortelyok.altalanos/hidegver.md) fortély
+- [Tiszta fej](../fortelyok.altalanos/tiszta_fej.md) fortély
+- [Befolyásolás](befolyasolas.md) képzettség
+- [Etikett](../kepzettsegek.szekunder/etikett.md) képzettség
 
-**Fortélyok kiterjesztik**:
+#### Normál kiterjesztés
+
 - [Alkudozás](../fortelyok.szabad/alkudozas.md): "Sajnálom uram, de ez **valódi** pamut, az árért, amit kínál, egy vak koldus sem adná oda."
 - [Csábítás](../fortelyok.szabad/csabitas.md): Kiszúrod, hogy az ellenkező nem közeledése nem épp ártatlan, rejtett szándékot sejtesz.
 - [Hazudozás](../fortelyok.szabad/hazudozas.md): "Ugyan kérem, nem ma jöttem le a falvédőről."
@@ -29,7 +33,7 @@ Az egyes, speciális szituációkban a fenti Fortélyok adhatnak segítséget (C
 
 <br />
 
-##### Biztos tudás, követelmények
+#### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub>                                                                                                      |                   Követelmény                    |
 | :--------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------: |
@@ -41,7 +45,7 @@ Az egyes, speciális szituációkban a fenti Fortélyok adhatnak segítséget (C
 
 <br />
 
-##### Ellenpróbák
+#### Ellenpróbák
 
 A **Emberismeret** szinte mindig a [Befolyásolás](befolyasolas.md) képzettséggel áll ellenpróbás szituációban - a szituációtól függő módosítókkal. A leggyakoribb az alábbi próba-szituáció:
 
@@ -53,7 +57,7 @@ Intelligencia + Emberismeret
 
 Bővebben lásd: [Szituációk: Befolyásolás vs Emberismeret](../154_befolyasolas_emberismeret.md) fejezet.
 
-##### Aktív próbák
+#### Aktív próbák
 
 Ilyenkor az Emberismeret egyfajta „radarként” működik, megpróbál a különböző jelek alapján következtetésekre jutni. Ez lehet tudatos, vagy tudatlan vizsgálódás, lényeg, hogy nem az alkalmazót, vagy személyiségét éri külső behatás más által (lásd Passzív próbáknál), hanem ő érzékel bizonyos jeleket.
 
@@ -72,11 +76,10 @@ Ilyenkor az Emberismeret egyfajta „radarként” működik, megpróbál a kül
 
 <br />
 
-##### Célszámot módosító körülmények
+#### Célszámot módosító körülmények
 
 - Rövidebb a kontaktus ideje és/vagy kevésbé mély az alapesetnél: `[+1; +6]`
 - Hosszabb a kontaktus ideje és/vagy elmélyültebb az alapesetnél: `[-1; -6]`
 - Más fajú a célszemély: `[+2;+4]`
 - Asztrál szem hatása: ⭕TODO⭕
 
-<br />
