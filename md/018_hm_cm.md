@@ -4,7 +4,7 @@ Ahogy fejlődik, megjár sok harci helyzetet, a karakter általános harcérték
 
 ### Harcérték Módosító (HM)
 
-A `HM` pontok a [Támadó Érték](062_01_ke_te_ve_ce.md#támadó-érték) (`TÉ`) és  [Védő Érték](062_01_ke_te_ve_ce.md#védő-érték) (`VÉ`) harcértékek általános növelésére fordíthatóak.
+A `HM` pontok a [Támadó Érték](062_01_ke_te_ve_ce.md#t%C3%A1mad%C3%B3-%C3%A9rt%C3%A9k-t%C3%A9) (`TÉ`) és  [Védő Érték](062_01_ke_te_ve_ce.md#v%C3%A9d%C5%91-%C3%A9rt%C3%A9k-v%C3%A9) (`VÉ`) harcértékek általános növelésére fordíthatóak.
 
 ```
 1 HM = 2 KP
@@ -29,7 +29,7 @@ HM összesen:
 ---
 ### Célzóérték Módosító (CM)
 
-A `CM` pontok a [Célzó Érték](062_01_ke_te_ve_ce.md#célzó-érték) (`CÉ`) általános növelésére fordíthatóak.
+A `CM` pontok a [Célzó Érték](071_tavharc_ce.md) (`CÉ`) általános növelésére fordíthatóak.
 
 ```
 1 CM = 2 KP
