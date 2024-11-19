@@ -7,7 +7,7 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 **Domináns Tulajdonságok**: Intelligencia, Érzékenység
 #### Kapcsolódik
 
-[Emberismeret](emberismeret.md) képzettség
+- [Emberismeret](emberismeret.md) képzettség
 
 #### Normál kiterjesztés
 

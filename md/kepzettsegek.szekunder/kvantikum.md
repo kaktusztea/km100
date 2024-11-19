@@ -35,11 +35,11 @@ Igazi potenciálját a kiterjesztését megvalósító Fortélyokkal érhetjük 
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub> | Követelmény |
 |:---------------- |:---------------------------------------------------------------------------------- |:-----------:|
-| Novícius (3)     | xyz <br /> **Példa**: x                                                            |             |
-| Kismester (6)    | xyz <br /> **Példa**: x                                                            |             |
-| Mester (9)       | xyz <br /> **Példa**: x                                                            |             |
-| Nagymester (12)  | xyz <br /> **Példa**: x                                                            |             |
-| Élő legenda (15) | xyz <br /> **Példa**: x                                                            |             |
+| Novícius (3)     | ⭕xyz <br /> **Példa**: x                                                           |             |
+| Kismester (6)    | ⭕xyz <br /> **Példa**: x                                                           |             |
+| Mester (9)       | ⭕xyz <br /> **Példa**: x                                                           |             |
+| Nagymester (12)  | ⭕xyz <br /> **Példa**: x                                                           |             |
+| Élő legenda (15) | ⭕xyz <br /> **Példa**: x                                                           |             |
 
 <br />
 

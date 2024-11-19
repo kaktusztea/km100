@@ -19,11 +19,12 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
 #### Normál kiterjesztés
 
+Az alábbi Fortélyok a képzettség `3.szintjének` elérésekor vehetőek csak fel!
 - [Alkudozás](../fortelyok.szabad/alkudozas.md): "Sajnálom uram, de ez **valódi** pamut, az árért, amit kínál, egy vak koldus sem adná oda."
 - [Csábítás](../fortelyok.szabad/csabitas.md): Kiszúrod, hogy az ellenkező nem közeledése nem épp ártatlan, rejtett szándékot sejtesz.
 - [Hazudozás](../fortelyok.szabad/hazudozas.md): "Ugyan kérem, nem ma jöttem le a falvédőről."
 - [Megfélemlítés](../fortelyok.szabad/megfelemlites.md): "Hiába lóbálja a kardját uram, fehér kendő nélkül nem engedhetem be."
-- [Szónoklás](../fortelyok.szabad/szonoklas.md): "Még egy szélhámos... Azt a csűrt, amivel henceg, nem ő építtette, hanem még az öreg Szakáll kamarás uram."
+- [Szónoklás](../fortelyok.szabad/szonoklas.md): "Még egy szélhámos... Azt a csűrt, amivel a tömegnek henceg, nem ő építtette, hanem még az öreg Szakáll kamarás uram."
 
 **Leírás**: Más emberek viselkedésének, hangulatának feltérképezését, belső motivációinak kiismerését célzó „tudomány". Ennek az ismeretnek az elsajátítását leginkább a nagybetűs ÉLET egyengeti. Sok-sok beszélgetés, néha keserű tapasztalat.
 

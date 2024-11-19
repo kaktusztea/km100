@@ -10,7 +10,7 @@
 
 #### Erős kiterjesztés
 
-- [Lénylovas](../fortelyok.szabad/lenylovas.md) (1 faj felvétele kötelező)
+[Lénylovas](../fortelyok.szabad/lenylovas.md) (1 faj felvétele kötelező)
 
 #### Bónusz: Állat testvér
 
@@ -24,13 +24,13 @@ Aki lovaglást tanul, az képes megülni egy választott földi hátast lényt a
 
 #### Biztos tudás, követelmények
 
-| Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub>   |    Követelmény    |
-| :--------------- | :----------------------------------------------------------------------------------- | :---------------: |
-| Novícius (3)     | Lassan léptető hátast képes vagy óvatosan navigálni.<br />**Példa**: Újonc lovas     | Önuralom:&nbsp;-1 |
-| Kismester (6)    | Képes vagy egyenletes galoppra, vágtára.                                             | Önuralom:&nbsp;-1 |
-| Mester (9)       | Képes nyereg nélkül, "szőrén" megülni a hátast.                                      | Önuralom:&nbsp;0  |
-| Nagymester (12)  | [Állat testvér](#b%C3%B3nusz-%C3%A1llat-testv%C3%A9r)                                | Önuralom:&nbsp;0  |
-| Élő legenda (15) | [Állat testvér](#b%C3%B3nusz-%C3%A1llat-testv%C3%A9r)<br>Szinte egybeforr hátasával. | Önuralom:&nbsp;0  |
+| Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub>   |     Követelmény     |
+| :--------------- | :----------------------------------------------------------------------------------- | :-----------------: |
+| Novícius (3)     | Lassan léptető hátast képes vagy óvatosan navigálni.<br />**Példa**: Újonc lovas     | Önuralom:&nbsp;`-1` |
+| Kismester (6)    | Képes vagy egyenletes galoppra, vágtára.                                             | Önuralom:&nbsp;`-1` |
+| Mester (9)       | Képes nyereg nélkül, "szőrén" megülni a hátast.                                      | Önuralom:&nbsp;`0`  |
+| Nagymester (12)  | [Állat testvér](#b%C3%B3nusz-%C3%A1llat-testv%C3%A9r)                                | Önuralom:&nbsp;`0`  |
+| Élő legenda (15) | [Állat testvér](#b%C3%B3nusz-%C3%A1llat-testv%C3%A9r)<br>Szinte egybeforr hátasával. | Önuralom:&nbsp;`0`  |
 
 <br />
 

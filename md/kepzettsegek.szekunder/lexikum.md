@@ -41,8 +41,8 @@ Könyvtárazás, tárgyi ismeretek gyűjtése, rengeteg olvasás, magolás. Igaz
 
 #### Bónuszok
 
-- `9.szint`: ⭕TODO⭕; Hatodkori ismeretek
-- `12.szint`: ⭕TODO⭕Ötödkori ismerete; Postcognition álmok (látja a valós régmúlt eseményeit álmában)
+- `9.szint`: ⭕TODO⭕; Hatodkori ⭕? ismeretek
+- `12.szint`: ⭕TODO⭕Ötödkori ⭕? ismeretek; Postcognition álmok (látja a valós régmúlt eseményeit álmában)
 - `15.szint`: Negyedkori ismeretek; Jósolni képes történelmi/társadalmi mértékben
 
 #### Próbák

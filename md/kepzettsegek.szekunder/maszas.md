@@ -36,7 +36,7 @@ Ha a terep (próba) nehézsége nem nagyobb a a Mászás képzettségnél, akkor
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub>                                                                                                                                                                                                                                                            |                                       Követelmény                                        |
 | :--------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------: |
 | Novícius (3)     | Tudja melyik fa bírja el a súlyát és melyik nem.<br />**Példa**: Erdőszerető gyerek, aki felmászik minden fára.                                                                                                                                                                                                                               |                                Erő:`-1`<br />Ügyesség:`0`                                |
-| Kismester (6)    | • Ismeri az alapvető mászási technikákat, pár hasznos csomót.<br />• **Példa**: Gyakorlott mászó, rendszeres kiránduló<br />Tanulható:<br />• [Pók](../fortelyok.altalanos/pok.md) fortély                                                                                                                                                    |                               Erő:`-1`<br />Ügyesség:`+1`                                |
+| Kismester (6)    | • Ismeri az alapvető mászási technikákat, pár hasznos csomót.<br />• **Példa**: Gyakorlott mászó, rendszeres kiránduló<br />Tanulható:  [Pók](../fortelyok.altalanos/pok.md) fortély                                                                                                                                                          |                               Erő:`-1`<br />Ügyesség:`+1`                                |
 | Mester (9)       | • Ismeri az összes mászási technikát és faltípust, mászáshoz szükséges csomókat. Jó látási viszonyok közt ránézésre nagyjából meg tudja mondani, mennyire omladékos a terep. Tudja milyen testhelyzetben pihenjen kapaszkodás közben.<br />• **Példa**: Képzett hegymászó, profi besurranó tolvaj                                             |                      Erő:`-2`<br />Ügyesség:`+2`<br />Önuralom:`+1`                      |
 | Nagymester (12)  | • A fentieken kívül képes úgy tartalékolni az erejét, hogy hosszabb távon se fárad ki. Akár ⭕fél óráig⭕ is tartja magát puszta kézzel.<br />• **Példa**: Neves mestergyilkos, behatoló egység vezető fejvadásza                                                                                                                               | Erő:`-2`<br />Ügyesség:`+3`<br />Önuralom:&nbsp;`+2`<br />Összpontosítás:&nbsp;`3.szint` |
 | Élő legenda (15) | • Ilyen nincs!! A puszta, csúszós sziklafalon is felkúszik. Kézfeje, lába deformálódott – alkalmazkodva a mászás követelményeihez. Félmágikus hatású ismeretekhez jut.<br />• Függeszkedve ⭕1 órát⭕ is kibír!<br />• **Példa**: mágiával kondicionált elit birodalmi fejvadász<br />• Képzettség bónusz: [Tapadás](#b%C3%B3nusz-tapad%C3%A1s) |      Erő:`-2`<br />Ügyesség:`+4`<br />Önuralom:`+3`<br />Összpontosítás: `6.szint`       |
@@ -48,7 +48,7 @@ Ha a terep (próba) nehézsége nem nagyobb a a Mászás képzettségnél, akkor
 
 Titkos, félmágikus ismeret.
 
-**Követelmény**: Életed a mászás, Mászás - `15.szint`
+**Követelmény**: Életed a mászás; Mászás - `15.szint`
 
 `15.szint`: Képes vagy pókként megtapadni a falon – akár a mennyezeten is. A kapaszkodáshoz nincs szükséged kiszögelésre.
 
@@ -66,12 +66,13 @@ Titkos, félmágikus ismeret.
 
 <br />
 
+---
 #### Célszámot módosító körülmények
 
-- Gyorsan mászni: +3
-- Sötétben mászni: +[3-6]
-- Plusz súllyal mászni: Erőtől függ, a KM dönt. Keretek: + [1-6] ; Erőpróba kellhet
-- Lengő kötélen mászni: +[1-6]
+- Gyorsan mászni: `+3`
+- Sötétben mászni: `+[3;6]`
+- Plusz súllyal mászni: Erőtől függ, a KM dönt. Keretek: `+[1;6]` ; Erőpróba kellhet
+- Lengő kötélen mászni: `+[1;6]`
 - Sérülten mászni: Lásd a [Sérülés hatása képzettségpróbára](../037_kepzettsegproba.md#sérülés-hatása-képzettségpróbára) c. fejezetet!
 - Mászókampók: ⭕?????  ez adjon pluszt, vagy legyen követelmény a durvább próbákhoz? Ha pluszt ad, az borítja a próbák „behangolt” értékeit.⭕
 
@@ -93,54 +94,53 @@ Hogy egy karakter hányas `Erő` tulajdonsággal képes még továbbmászni, az 
 
 <br />
 
+---
 #### Példa ⚡
 
 ⚡ Részlet Tetves, a tolvaj küzdelmes útjából a **Szent Vágránáf ereklyéjét** őrző **Wakzahanbarr** erődmonostor cigiterasza alatti sziklafalon:
 
-**Tetves, a tolvaj:**&nbsp;&nbsp;`Mászás: 9, Ügyesség: +3, Edzettség: +3, Erő: +1`
-
 ```
-A mászás elején Tetves Mászás-próbát dob. A terep nehézsége 15-ös (nagyon nehéz).
-
-A táv miatt a KM összetett próbát ír elő +1 próbával, így egy 15-ös és egy 12-es próbát kell dobnia.
-
-A játékos dob: 2 és 1. Mivel Mászás(9)+Ügyesség(3) = 12, ezért az első próba nem, de a második sikerült...
+Mászás: 9.szint
+Ügyesség: +3
+Edzettség: +3
+Erő: +1
 ```
 
-"Az áthajláson kell  már csak átjutnom, ott akár félseggel ki is ülhetek arra a pici párkányra és az adna egy kis szuszt. Ááá, csak ez a buzi áthajlás... de itt már kurvára alig bírom... na csak odáig még, azt jó lesz... ehehhheee,  ott a kis lépésem is.. kicsit messze, de ez van. Na lássuk..."
 
-```
-Kevéssel rontott képzettségpróba ⭕(ezt hogy meséljük le? A képzettségpróbát a mászás elején kell dobni!)⭕
+A mászás elején Tetves Mászás-próbát dob. A terep nehézsége `15`-ös (nagyon nehéz).
+
+A táv miatt a KM összetett próbát ír elő `+1` próbával, így egy `15`-ös és egy `12`-es próbát kell dobnia.
+
+A játékos dob: `2 és 1`.\
+Mivel `Mászás(9)+Ügyesség(3) = 12`, ezért az első próba nem, de a második már sikerült...
+
+
+
+🔆 "Az áthajláson kell  már csak átjutnom, ott akár félseggel ki is ülhetek arra a pici párkányra és az adna egy kis szuszt. Ááá, csak ez a buzi áthajlás... de itt már kurvára alig bírom... na csak odáig még, azt jó lesz... ehehhheee,  ott a kis lépésem is.. kicsit messze, de ez van. Na lássuk..."
+
+⚙️ Kevéssel rontott képzettségpróba ⭕(ezt hogy meséljük le? A képzettségpróbát a mászás elején kell dobni!)⭕
 A lépést elérte, de nem bírja már a testsúlyát rendesen áthelyezni, a visszalépés pedig
-kifejezetten szuicid érzésnek tűnik)`
-```
+kifejezetten szuicid érzésnek tűnik)
 
-"...annnyád!!!!! ANYÁD!!!!! úúú, baszki, mostmiafaszlegyenmiafaszlegyen..."
+🔆 "...annnyád!!!!! ANYÁD!!!!! úúú, baszki, mostmiafaszlegyenmiafaszlegyen..."
 
-```
-Önuralom próba - sikeres
-Edzettségpróba - rontott
-```
+⚙️ Önuralom próba - sikeres\
+⚙️ Edzettségpróba - rontott
 
-"ááá, nem bírom sokáig, gyerünk baszki"
 
-```
-+3-as erő bevetése, mászáspróba így épphogy megvan
-```
+🔆 "ááá, nem bírom sokáig, gyerünk baszki"
 
-"áááá, kurvák vérit!!"
+⚙️ `+3`-as **Erő** bevetése, a Mászás képzettségpróba így épphogy megvan
 
-Tetves minden erejét bevetve felgyűrte magát a 11cm széles kiszögellésre. ott elfér kb félseggel. Minden tagja remeg az igénybevételtől, mielőtt teljesen elhagyná magát...
+🔆 "Áááá, kurvák vérit!!"
 
-```
-az eddigiekhez képest -3 edzettségpróba
-```
+Tetves minden erejét bevetve felgyűrte magát a 11 cm széles kiszögellésre. ott elfér kb félseggel. Minden tagja remeg az igénybevételtől, mielőtt teljesen elhagyná magát...
+
+⚙️ Az eddigiekhez képest Edzettség Tulajdonságpróba: `-3` büntivel
 
 ... még egy repedésbe tesz egy mászóéket amihez kiköti magát. Nem tartaná meg, de a 11 cm-es peremmel együtt már jó, nem kell annyit kapaszkodni.
 
-```
-Ék: ⭕+1⭕ mászásra ILYEN szituban vagy biztosításra
-Perem: sokkal könnyebb mászáspróba
-```
+⚙️ Ék: ⭕+1⭕ mászásra ILYEN szituban vagy biztosításra\
+⚙️ Perem: sokkal könnyebb mászáspróba
 
 A kettő együtt ad annyit ami már rég biztos tudásból megvan, lehet pihenni, egy idő múlva visszatér az eredeti edzettségpróbához kellő erőnlét. Ha egy nem képzett mászót tesznek ugyanide, annak nem lesz meg a biztos tudása a pihenéshez, tehát nem tudja magát kipihenni sem.

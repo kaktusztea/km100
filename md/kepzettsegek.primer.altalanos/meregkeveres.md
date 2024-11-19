@@ -12,17 +12,14 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
 ⭕xyz  ((fortély, más képzettség. Ha nincs, törölni))
 
-
 #### Normál kiterjesztés
 
-Tájtpus Szabad fortélyok talán, pl. [Tájtípus - erdős](../fortelyok.szabad/tajtipus_erdos.md)
+⭕Tájtpus⭕ Szabad fortélyok talán, pl. [Tájtípus - erdős](../fortelyok.szabad/tajtipus_erdos.md)
 ⭕xyz. Ha nincs, törölni
-
 
 #### Erős kiterjesztés
 
 ⭕xyz. Ha nincs, törölni
-
 
 #### Leírás
 
