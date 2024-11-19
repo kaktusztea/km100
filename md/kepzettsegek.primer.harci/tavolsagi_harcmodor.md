@@ -1,4 +1,4 @@
-#### 🔵 Távolsági harcmodor
+### 🔵 Távolsági harcmodor
 
 Ez egy [Primer (harci) képzettség](../015_primer_szekunder_ismeretek.md).
 
@@ -16,7 +16,7 @@ Ezek a képzettségek - szintjüktől függően - büntetéseket/bónuszokat adn
 
 <br />
 
-##### Biztos tudás, követelmények
+#### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub>                                                                                                                                                                                 |  Követelmény  |
 |:---------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |:-------------:|
@@ -25,7 +25,3 @@ Ezek a képzettségek - szintjüktől függően - büntetéseket/bónuszokat adn
 | Mester (9)       | Bármilyen lőfegyver/hajítófegyver kerül a kezedbe, nem kell "belőnöd", gyakorolnod vele, büntetés nélkül azonnal teljes harcértékeddel tudod használni.<br />Alapeset: [CÉ számítás - Módosítók](../071_tavharc_ce.md#m%C3%B3dos%C3%ADt%C3%B3k) → "Nem “belőtt..." | Ügyesség: `2` |
 | Nagymester (12)  | **Pattanó lövés/hajítás**:<br>félmágikus ismeret. Lövedéked valamilyen rejtélyes módon visszapattan bármilyen szilárd felületről, így akár takarásban levő ellenfelet is eltalálhatsz. Ezt a fajta lövést `-20 CÉ`-vel teheted meg.                                | Ügyesség: `3` |
 | Élő legenda (15) | Ha nálad alacsonyabb szintű ellenfelet megsebzel, az azonnal teljesen harcképtelen lesz.<br />Választhatsz: `0 ÉP`-re kerül, vagy tetsződleges végtagját használhatatlanná teszed (össz ÉP `1/4`-ét elveszíti).                                                    | Ügyesség: `3` |
-
-<br />
-
----

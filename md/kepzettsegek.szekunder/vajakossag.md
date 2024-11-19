@@ -1,15 +1,18 @@
-#### 🔵 Vajákosság
+### 🔵 Vajákosság
 
 **Próba:** dobható
 
 **Domináns Tulajdonságok**: Emlékezet, Intelligencia
 
-**Fortélyok kiterjesztik**:
+#### Normál kiterjesztés
+
 - [Tájtípus dzsungel](../fortelyok.szabad/tajtipus_dzsungel.md)
 - [Tájtípus: erdős](../fortelyok.szabad/tajtipus_erdos.md)
 - [Tájtípus: sivatagi](../fortelyok.szabad/tajtipus_sivatagi.md)
 
-**Leírás**: A "gyógyszerész". Akár a lápi boszorkány, akár mágiatudó lótifuti segédje, aki napokig járja az erdőt és a vadont ritka alapanyagok után kutatva. A [Orvoslás](../kepzettsegek.primer.altalanos/orvoslas.md) képzettséghez szükséges orvosságok alapanyagainak beszerzéséhez szükséges képzettség. Továbbá:
+#### Leírás
+
+A "gyógyszerész". Akár a lápi boszorkány, akár mágiatudó lótifuti segédje, aki napokig járja az erdőt és a vadont ritka alapanyagok után kutatva. A [Orvoslás](../kepzettsegek.primer.altalanos/orvoslas.md) képzettséghez szükséges orvosságok alapanyagainak beszerzéséhez szükséges képzettség. Továbbá:
 
 - növényi alapanyagok ismerete
 - állatokból kinyert anyagok ismerete
@@ -28,7 +31,7 @@
 
 <br />
 
-##### Biztos tudás, követelmények
+#### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub> | Követelmény |
 |:---------------- |:---------------------------------------------------------------------------------- |:-----------:|
@@ -40,7 +43,7 @@
 
 <br />
 
-##### Próbák
+#### Próbák
 
 | Célszám | Példa  |
 | :----------- | :----------- |
@@ -53,7 +56,6 @@
 
 <br />
 
-##### Célszámot módosító körülmények
+#### Célszámot módosító körülmények
 
 - ⭕xyz
-

@@ -1,4 +1,4 @@
-#### 🔵 Észlelés
+### 🔵 Észlelés
 
 Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
@@ -8,19 +8,18 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
 **Domináns Tulajdonságok**: Érzékenység (fizikai érzékekre is ez használandó), Intelligencia
 
-**Kapcsolódó fortélyok**:
+#### Kapcsolódik
 
-- [Keresés/Nyomolvasás](../fortelyok.altalanos/kereses_nyomolvasas.md)
-- [Villámgyors keresés](../fortelyok.altalanos/villamgyors.kereses.md) 
-- [Éber alvó](../fortelyok.altalanos/eber_alvo.md)
+- [Keresés/Nyomolvasás](../fortelyok.altalanos/kereses_nyomolvasas.md) fortély
+- [Villámgyors keresés](../fortelyok.altalanos/villamgyors.kereses.md) fortély
+- [Éber alvó](../fortelyok.altalanos/eber_alvo.md) fortély
 
-**Fortélyok kiterjesztik**:
+#### Normál kiterjesztés
 
 - [Tájtípus - dzsungel](../fortelyok.szabad/tajtipus_dzsungel.md)
 - [Tájtípus - sivatagi](../fortelyok.szabad/tajtipus_sivatagi.md)
 - [Tájtípus - magaslati](../fortelyok.szabad/tajtipus_magaslati.md)
 - [Tájtípus - erdős](../fortelyok.szabad/tajtipus_erdos.md)
-
 
 **Leírás**: Az Észlelés valaminek az észrevételét takarja. Ez lehet egy villanó tőr, egy meglapuló merénylő a lombok közt, egy árulkodó súrlódó nesz. Fontos, hogy az Észlelés csak a momentum észrevételt jelenti, annak értelmezését nem! Az a játékos feladata, melyet esetleg megkönnyíthet például a [Nyomozás](nyomozas.md), vagy a [Természetjárás](../kepzettsegek.szekunder/termeszetjaras.md) képzettség.
 
@@ -28,7 +27,7 @@ A képzettség különböző alkalmazási formáiról bővebben a [Szituációk]
 
 <br />
 
-##### Biztos tudás, követelmények
+#### Biztos tudás, követelmények
 
 Nincs kiemelt szinteken megkapott biztos tudás.
 
@@ -42,7 +41,7 @@ Nincs kiemelt szinteken megkapott biztos tudás.
 
 <br />
 
-##### Próbák
+#### Próbák
 
 | Célszám              | Példa                                                                                                                                                                                                                                                                                |
 | :------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -55,7 +54,7 @@ Nincs kiemelt szinteken megkapott biztos tudás.
 
 <br />
 
-##### Célszámot módosító körülmények
+#### Célszámot módosító körülmények
 
 - Zavaró körülmények: `[+1;+6]`
 - Ha az észlelés aktív: `-3` (egy kategória)

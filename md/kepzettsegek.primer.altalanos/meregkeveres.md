@@ -1,4 +1,4 @@
-#### 🔵 Méregkeverés
+### 🔵 Méregkeverés
 
 Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
@@ -8,16 +8,30 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
 **Domináns Tulajdonságok**: Emlékezet, Önuralom, Intelligencia
 
-**Kapcsolódó fortélyok**: ⭕
+#### Kapcsolódik
 
-**Fortélyok kiterjesztik**: ⭕
+⭕xyz  ((fortély, más képzettség. Ha nincs, törölni))
 
-**Leírás**: Ismered a különböző hatású és erősségű mérgek kikeverésének módját, receptjeit. Magasabb szinten egyre komplexebb, rafináltabb keverékeket vagy képes összeállítani.
+
+#### Normál kiterjesztés
+
+Tájtpus Szabad fortélyok talán, pl. [Tájtípus - erdős](../fortelyok.szabad/tajtipus_erdos.md)
+⭕xyz. Ha nincs, törölni
+
+
+#### Erős kiterjesztés
+
+⭕xyz. Ha nincs, törölni
+
+
+#### Leírás
+
+Ismered a különböző hatású és erősségű mérgek kikeverésének módját, receptjeit. Magasabb szinten egyre komplexebb, rafináltabb keverékeket vagy képes összeállítani.
 
 <br />
 
 ---
-##### Biztos tudás, követelmények
+#### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub>                                                                                                                 |       Követelmény        |
 | :--------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------: |
@@ -29,11 +43,11 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
 <br />
 
-##### Próbák
+#### Próbák
 
 A méreg kikeverése **Méregkeverés** képzettpróbához kötött, amelynek célszáma a **Méreg szintjével** azonos. A **Méreg szintjének** számítása a [Méregrendszer](../140_meregrendszer.md) fejezetben található.
 
-##### Méreg azonosítása tünetek, környezeti hatás alapján
+#### Méreg azonosítása tünetek, környezeti hatás alapján
 - Sima Méregkeverés próba
 - Alap célszám: `6`
 - Félrevezető (speciális) :`+3/6`
@@ -41,7 +55,7 @@ A méreg kikeverése **Méregkeverés** képzettpróbához kötött, amelynek c�
 
 <br />
 
-##### Megjegyzések 
+#### Megjegyzések 
 - Méreganyagok kivonásához növényből/állatból a **Vajákosság**, ásványokból az **Alkímia** képzettség szükséges. Emiatt:
 - Méreg alapanyagok követelménye: `(Alkimia + Vajákosság) >= (méreg szintje / 2)`
   - Például: méreg szintje: `16`, ez `8`-as követelmény: `(alkimia+vajákosság)` szint összege legalább `8` legyen.

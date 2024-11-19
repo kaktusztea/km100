@@ -1,19 +1,28 @@
-#### 🔵 Léglovaglás
+### 🔵 Léglovaglás
 
 **Próba**: dobható
 
 **Domináns Tulajdonságok**: Önuralom, Ügyesség, Gyorsaság
 
-**Kapcsolódó fortélyok**: [Léglovas harc](../fortelyok.harci/leglovas_harc.md)
+#### Kapcsolódik
 
-**Fortélyok kiterjesztik**:
+[Léglovas harc](../fortelyok.harci/leglovas_harc.md) fortély
+
+#### Erős kiterjesztés
+
 - [Lénylovas](../fortelyok.szabad/lenylovas.md) (1 faj felvétele kötelező)
 
-**Leírás**: Ritka szerencsés, aki ezt a képzettséget tanulhatja, mert Yn3v kevés levegőben meglovagolható teremtményeinek egyikét ülheti meg. `Pteropták, Wyvern-ek, Racklák` - hogy csak a közismertebbeket említsük. Aki léglovaglást tanul, az képes megülni a fent említett repülő lényeket a képzettség szintjétől függő tehetséggel. A tudás univerzális, némi gyakorlással más fajú légi hátasokra is használható: a [Lénylovas](../fortelyok.szabad/lenylovas.md) Szabad Fortély többszöri felvételével.
+#### Bónusz: Állat testvér
+
+Megegyezik az [Idomítás](../kepzettsegek.szekunder/idomitas.md#állat-testvér) képzettségnél leírtakkal.
+
+#### Leírás
+
+Ritka szerencsés, aki ezt a képzettséget tanulhatja, mert Yn3v kevés levegőben meglovagolható teremtményeinek egyikét ülheti meg. `Pteropták, Wyvern-ek, Racklák` - hogy csak a közismertebbeket említsük. Aki léglovaglást tanul, az képes megülni a fent említett repülő lényeket a képzettség szintjétől függő tehetséggel. A tudás univerzális, némi gyakorlással más fajú légi hátasokra is használható: a [Lénylovas](../fortelyok.szabad/lenylovas.md) Szabad Fortély többszöri felvételével.
 
 <br />
 
-##### Biztos tudás, követelmények
+#### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub>                                                       |   Követelmény    |
 | :--------------- | :--------------------------------------------------------------------------------------------------------------------------------------- | :--------------: |
@@ -26,14 +35,7 @@
 <br />
 
 ---
-##### Képzettség Bónuszok
-
-###### Állat testvér
-
-Megegyezik az [Idomítás](../kepzettsegek.szekunder/idomitas.md#állat-testvér) képzettségnél leírtakkal.
-
----
-##### Próbák
+#### Próbák
 
 | Célszám              | Példa                                                                                                                   |
 | :------------------- | :---------------------------------------------------------------------------------------------------------------------- |
@@ -46,7 +48,7 @@ Megegyezik az [Idomítás](../kepzettsegek.szekunder/idomitas.md#állat-testvér
 
 <br />
 
-##### Célszámot módosító körülmények
+#### Célszámot módosító körülmények
 
 - Vad hátas: + [1-3]
 - Más fajú légi hátas esetén: [Lénylovas](../fortelyok.szabad/lenylovas.md) Szabad Fortély

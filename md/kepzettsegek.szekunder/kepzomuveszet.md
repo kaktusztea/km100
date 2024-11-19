@@ -1,4 +1,4 @@
-#### 🔵 Képzőművészet
+### 🔵 Képzőművészet
 
 Az alkotás, az kézzel alkotott műremekek aktív, ihletett kreálása.
 
@@ -6,18 +6,40 @@ Az alkotás, az kézzel alkotott műremekek aktív, ihletett kreálása.
 
 **Domináns Tulajdonságok**: Érzékenység, Ügyesség
 
-**Kapcsolódik**: [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) (kapcsolódó kultúra) Háttér, [Művészetismeret](muveszetismeret.md) képzettség
+#### Kapcsolódik
 
-**Fortélyok kiterjesztik**
+- [Művészetismeret](muveszetismeret.md) képzettség
+
+
+#### Követelmény
+
+⭕ ((ha nincs, törölni))
+
+
+#### Normál kiterjesztés
+
+⭕ ((ha nincs, törölni))
+
+
+#### Erős kiterjesztés
+
+- [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) (kapcsolódó kultúra)
 - [Festészet](../fortelyok.szabad/festeszet.md): Vászonra álmodod a lelkedben születő képeket.
 - [Kalligráfia](../fortelyok.szabad/kalligrafia.md): Mesterien bánsz a pennával, festett betűidben ott lakozik az örökkévalóság.
 - [Szobrászat](../fortelyok.szabad/szobraszat.md): Kezed alatt agyagból, kőből készülnek a mesteri alkotások.
 
-**Leírás**: Aktív, alkotó művész vagy. A fenti [Szabad Fortély](../042_szabad_fortelyok.md) listából vehetsz fel művészeti ágakat, terjesztheted ki a képzettséget ezekkel az ismeretekkel.
+
+#### Bónuszok
+
+⭕xyz
+
+#### Leírás
+
+Aktív, alkotó művész vagy. A fenti [Szabad Fortély](../042_szabad_fortelyok.md) listából vehetsz fel művészeti ágakat, terjesztheted ki a képzettséget ezekkel az ismeretekkel.
 
 <br />
 
-##### Biztos tudás, követelmények
+#### Biztos tudás, követelmények
 
 Az általad ismert [Kultúrkör](../fortelyok.kiemelt/kulturkor.md)öknek megfelelő műveket hozhatsz létre. Anélkül nem megy.
 
@@ -31,7 +53,7 @@ Az általad ismert [Kultúrkör](../fortelyok.kiemelt/kulturkor.md)öknek megfel
 
 <br />
 
-##### Próbák
+#### Próbák
 
 | Célszám | Példa  |
 | :----------- | :----------- |
@@ -44,9 +66,6 @@ Az általad ismert [Kultúrkör](../fortelyok.kiemelt/kulturkor.md)öknek megfel
 
 <br />
 
-##### Célszámot módosító körülmények
+#### Célszámot módosító körülmények
 
 - ⭕xyz
-
-
-

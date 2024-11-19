@@ -10,14 +10,21 @@ Képzettségeket
 terjesztenek ki
 ```
 
-A Szabad Fortélyok specializált, egy, vagy több [képzettséget](031_kepzettseglista.md) "kiterjesztő" ismeretek. Amennyiben a szituációhoz kapcsolódó/szükséges **Szabad Fortély** nincs meg, akkor ⭕TODO: Normál kapcsolat / Erős kapcsolat link⭕
+Specializált, egy, vagy több [képzettséget](031_kepzettseglista.md) "kiterjesztő" ismeretek. Az adott képzettséggel való viszonyuk a [Normál kapcsolat és Erős kapcsolat](036_kepzettsegek_fortelyok_kapcsolata.md) oldalon olvasható.
 
-#### Szabad Fortély tanulása
+---
+### Szabad Fortély tanulása
 
-Hozzájutni ilyen Hátterekhez többféleképpen lehet:
-1. KM adja ingyen, olyan kalandban történt megpróbáltató esemény után, ami ezt indokolja. Például a történet során megültél egy **Wyvernt**, ekkor megkapod a [Lénylovas - Wyvern](fortelyok.szabad/lenylovas.md) Szabad Fortélyt ingyen.
-2.  A Tapasztalati Szintenként ingyen kapott egy Szabad Fortélyt elköltöd a felvételére
-3. `KP`-t költesz rá (Sima, vagy Szekunder)
+Hozzájutni Szabad Fortélyokhoz többféleképpen lehet:
+
+`1.` KM adja ingyen, olyan kalandban történt megpróbáltató esemény után, ami ezt indokolja. Például a történet során megültél egy **Wyvernt**, ekkor megkapod a [Lénylovas - Wyvern](fortelyok.szabad/lenylovas.md) Szabad Fortélyt ingyen.
+
+`2.`  A Tapasztalati Szintenként ingyen kapott egy Szabad Fortélyt elköltöd a felvételére
+
+`3.` `KP`-t költesz rá (Sima, vagy Szekunder)
+
+---
+### Általános szabályok
 
 Van, hogy egy képzettséghez számos Szabad Fortély kapcsolódik - gyakorlatilag felszabdalják a képzettséget alterületekre.
 
@@ -26,7 +33,7 @@ Van, hogy egy Szabad Fortély több képzettséget is kiterjeszt.
 🔁 jelentése: többször felvehető Szabad Fortély
 
 ---
-#### Tanulható Szabad Hátterek listája
+### Tanulható Szabad Hátterek listája
 
 - [Alkudozás](fortelyok.szabad/alkudozas.md)
 - [Asztrológia](fortelyok.szabad/asztrologia.md)

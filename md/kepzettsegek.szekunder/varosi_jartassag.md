@@ -1,19 +1,16 @@
-#### 🔵 Városi jártasság
+### 🔵 Városi jártasság
 
 **Próba:** dobható
 
 **Domináns Tulajdonságok**: Emlékezet, Intelligencia
 
-**Kapcsolódódik**: ⭕xyz  ((fortély, más képzettség. Ha nincs, törölni))
+#### Normál kiterjesztés
 
-**Fortélyok kiterjesztik**:
-- [Helyismeret](../fortelyok.kiemelt/helyismeret.md)
-- [Kultúrkör](../fortelyok.kiemelt/kulturkor.md)
-- [Titkos szervezeti kultúra](../fortelyok.szabad/titkos_szervezeti_kultura.md)
+- [Helyismeret](../fortelyok.kiemelt/helyismeret.md) ⭕
+- [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) ⭕
+- [Titkos szervezeti kultúra ](../fortelyok.szabad/titkos_szervezeti_kultura.md) ⭕
 
-**Követelmények**: ⭕ ((ha nincs, törölni))
-
-**Leírás**:
+#### Leírás
 
 ⭕TODO⭕
 - helyi pletykák ismerete és megszerzése
@@ -29,10 +26,7 @@ Például
 - tolvaj
 
 
-
-⭕TODO⭕
-
-**Speciális**:
+#### Speciális
 
 Segít a Helyismeret gyorsabb megszerzésében
 - ⭕TODO⭕erre lehet valami képlet, vagy próba a megszerzésre
@@ -40,7 +34,7 @@ Segít a Helyismeret gyorsabb megszerzésében
 
 <br />
 
-##### Biztos tudás, követelmények
+#### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub> | Követelmény |
 |:---------------- |:---------------------------------------------------------------------------------- |:-----------:|
@@ -52,12 +46,10 @@ Segít a Helyismeret gyorsabb megszerzésében
 
 <br />
 
-##### Próbák
+#### Próbák
 
-⭕Példa:
- - keresek egy csövest, aki infót ad
+⭕Példa: keresek egy csövest, aki infót ad
  
-
 | Célszám | Példa  |
 | :----------- | :----------- |
 | Könnyű       (6)  | |
@@ -69,6 +61,6 @@ Segít a Helyismeret gyorsabb megszerzésében
 
 <br />
 
-##### Célszámot módosító körülmények
+#### Célszámot módosító körülmények
 
 - ⭕TODO⭕

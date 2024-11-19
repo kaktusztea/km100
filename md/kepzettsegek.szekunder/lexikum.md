@@ -1,28 +1,35 @@
-#### 🔵 Lexikum
+### 🔵 Lexikum
 
-Általános ismeret amely a tárgyi tudásra támaszkodó tudományok alapját adja. Könyvtárazás, tárgyi ismeretek gyűjtése, rengeteg olvasás, magolás.
-
-Igazi potenciálját a kiterjesztését megvalósító Fortélyokkal érhetjük el.
+Általános ismeret amely a tárgyi tudásra támaszkodó tudományok alapját adja. 
 
 **Próba:** dobható
 
 **Domináns Tulajdonságok**: Emlékezet, Intelligencia
 
-**Fortélyok kiterjesztik**:
-- [Élettan](../fortelyok.altalanos/elettan.md): ⭕
-- [Történelemismeret](../fortelyok.altalanos/tortenelemismeret.md): ⭕
-- [Belső síkok lényeinek ismerete](../fortelyok.misztikus/belso_sikok_lenyeinek_ismerete.md) 🔁 ⭕
-- [Külső síkok lényeinek ismerete](../fortelyok.misztikus/kulso_sikok_lenyeinek_ismerete.md) 🔁 ⭕
+#### Normál kiterjesztés
+
+- [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) - Az adott, kapcsolódó **Kultúrkör** ismerete sokszor (nem mindig) szükséges, hiánya esetén jár a standard levonás.
+- [Helyismeret](../fortelyok.kiemelt/helyismeret.md): csak ha konkrétan helyi témával kapcsolatos ismeretről van szó, akkor szükséges. Ne legyünk túl szigorúak.
 - [Heraldika](../fortelyok.szabad/heraldika.md) ⭕
 - [Jogismeret](../fortelyok.szabad/jogismeret.md) ⭕
 - [Stratégia](../fortelyok.szabad/strategia.md): "Kevesen tudják, hogy a legutóbbi Zászlóháború döntő csatájában a párás idő okozta a t0roni S0gron papok összhangjainak elvesztését, amely Antoh szolgáinak irányába billentette a mérleget."
-- [Helyismeret](../fortelyok.kiemelt/helyismeret.md): csak ha konkrétan helyi témával kapcsolatos ismeretről van szó, akkor szükséges. Ne legyünk túl szigorúak.
 
-##### Követelmények
-- [Írástudó](../fortelyok.altalanos/irastudo.md) fortély
-- [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) - Az adott, kapcsolódó **Kultúrkör** ismerete sokszor (nem mindig) szükséges, hiánya esetén jár a standard levonás.
+#### Erős kiterjesztés
 
-##### Biztos tudás, követelmények
+- [Írástudó](../fortelyok.altalanos/irastudo.md): enélkül egyik sem megy
+__
+- [Élettan](../fortelyok.altalanos/elettan.md): ⭕
+- [Mechanika](../fortelyok.altalanos/mechanika.md): Mechanikus zárak készítése. Nem helyettesíti a [Zárnyitás](zarnyitas.md) képzettséget
+- [Történelemismeret](../fortelyok.altalanos/tortenelemismeret.md): ⭕
+- [Belső síkok lényeinek ismerete](../fortelyok.misztikus/belso_sikok_lenyeinek_ismerete.md) 🔁 ⭕
+- [Külső síkok lényeinek ismerete](../fortelyok.misztikus/kulso_sikok_lenyeinek_ismerete.md) 🔁 ⭕
+
+#### Leírás
+
+Könyvtárazás, tárgyi ismeretek gyűjtése, rengeteg olvasás, magolás. Igazi potenciálját a kiterjesztését megvalósító fenti Fortélyokkal érhetjük el.
+
+
+#### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub> | Követelmény |
 |:---------------- |:---------------------------------------------------------------------------------- |:-----------:|
@@ -32,13 +39,13 @@ Igazi potenciálját a kiterjesztését megvalósító Fortélyokkal érhetjük 
 | Nagymester (12)  | ⭕xyz <br /> **Példa**: x                                                          |             |
 | Élő legenda (15) | ⭕xyz <br /> **Példa**: x                                                          |             |
 
-##### Képzettség Bónuszok
+#### Bónuszok
 
-- `9. szint`: ⭕TODO⭕; Hatodkori ismeretek
-- `12. szint`: Ötödkori ismerete; Postcognition álmok (látja a valós régmúlt eseményeit álmában)
-- `15. szint`: Negyedkori ismeretek; Jósolni képes történelmi/társadalmi mértékben
+- `9.szint`: ⭕TODO⭕; Hatodkori ismeretek
+- `12.szint`: ⭕TODO⭕Ötödkori ismerete; Postcognition álmok (látja a valós régmúlt eseményeit álmában)
+- `15.szint`: Negyedkori ismeretek; Jósolni képes történelmi/társadalmi mértékben
 
-##### Próbák
+#### Próbák
 
 | Célszám              | Példa |
 | :------------------- | :---- |
@@ -48,7 +55,3 @@ Igazi potenciálját a kiterjesztését megvalósító Fortélyokkal érhetjük 
 | Nagyon nehéz (15)    | ⭕     |
 | Rendkívül nehéz (18) | ⭕     |
 | Emberfeletti (21)    | ⭕     |
-
-<br />
-
----

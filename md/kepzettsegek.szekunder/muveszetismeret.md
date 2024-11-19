@@ -1,39 +1,40 @@
-#### 🔵 Művészetismeret
+### 🔵 Művészetismeret
 
 Passzív műélvezet, a műalkotások ismerete, kritizálása, lexikális és érzelmi ismerete.
 
 **Próba:** dobható
 
 **Domináns Tulajdonságok**: Emlékezet, Intelligencia, Érzékenység
+#### Normál kiterjesztés
 
-**Kapcsolódik**: [Kultúrkör](../fortelyok.kiemelt/kulturkor.md), [Építészet](../fortelyok.altalanos/epiteszet.md)
-
-**Fortélyok kiterjesztik**:
+- [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) (adott kultúra): enélkül érvényes a levonás mindegyik lenti művészeti ágra.
+- [Nyelvismeret](../fortelyok.kiemelt/nyelvismeret.md): Udvari fok (ahol szükségesnek érezzük)
+__
 - [Éneklés](../fortelyok.szabad/enekles.md): felismered a híres dalnokokat, dallamaikat, slágereiket.
+- [Építészet](../fortelyok.altalanos/epiteszet.md)
 - [Festészet](../fortelyok.szabad/festeszet.md): Ismered, felismered adott [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) festőit, műveiket, történetüket, stílusukat.
 - [Irodalom](../fortelyok.szabad/irodalom.md): Ismered adott [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) neves irodalmárait, íróit, költőit és stílusukat, műveiket.
 - [Kalligráfia](../fortelyok.szabad/kalligrafia.md): "A kezdőbetű bezártsága alkotójának szomorú sorsát jelzi, a belekényszerített házasság szimbolikája."
 - [Színjátszás](../fortelyok.szabad/szinjatszas.md): Ismered a [Kultúrkörnek](../fortelyok.kiemelt/kulturkor.md) megfelelő klasszikus darabokat, otthonosan mozogsz a színészvilágban.
 - [Szobrászat](../fortelyok.szabad/szobraszat.md)
 - [Tánc](../fortelyok.szabad/tanc.md)
-- [Tánc: speciális/belső stílus](../fortelyok.szabad/tanc_belso_stilus.md)
-- [Teaszertartás](../fortelyok.szabad/teaszertartas.md)
 - [Zenélés: fúvós hangszerek](../fortelyok.szabad/zeneles_fuvos_hangszerek.md)
 - [Zenélés: húros hangszerek](../fortelyok.szabad/zeneles_huros_hangszerek.md)
 - [Zenélés: ütős hangszerek](../fortelyok.szabad/zeneles_utos_hangszerek.md)
-- [Zsonglőrködés](../fortelyok.szabad/zsonglorkodes.md)
 
-**Leírás**: Alapból tartalmazza a karakter által ismert **Kultúrkörök** alá tartozó művészeti ágakat, amelyekre felvette a kapcsolódó **Szabad Fortélyokat**. 
+#### Erős kiterjesztés
 
-A tudás szélesíthető a fent található Szabad Fortélyok felvételével.
+- [Tánc: speciális/belső stílus](../fortelyok.szabad/tanc_belso_stilus.md)
+- [Teaszertartás](../fortelyok.szabad/teaszertartas.md)
 
-**Követelmény**:
-  - [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) (adott kultúra). Enélkül `-3` a képzettségpróba dobásra.
-  - [Nyelvismeret](../fortelyok.kiemelt/nyelvismeret.md): Udvari fok
+#### Leírás
+
+A tudás szélesíthető a fent található **Szabad Fortélyok** felvételével.
+
 
 <br />
 
-##### Biztos tudás, követelmények
+#### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub> | Követelmény |
 |:---------------- |:---------------------------------------------------------------------------------- |:-----------:|
@@ -45,7 +46,7 @@ A tudás szélesíthető a fent található Szabad Fortélyok felvételével.
 
 <br />
 
-##### Próbák
+#### Próbák
 
 Ha egy passzív próbánál (például: "Mi ez a zene?, Ki festette ezt a képet?") magasabb az [Előadóművészet](../kepzettsegek.szekunder/eloadomuveszet.md) képzettség, **akkor is a Művészetismeret képzettség szintjével dobunk próbát!** Attól hogy valaki remekül furulyázik a kocsmában, nem feltétlenül járatos a zenei nagyvilágban.
 
@@ -60,6 +61,6 @@ Ha egy passzív próbánál (például: "Mi ez a zene?, Ki festette ezt a képet
 
 <br />
 
-##### Célszámot módosító körülmények
+#### Célszámot módosító körülmények
 
 - ⭕xyz

@@ -1,29 +1,37 @@
-#### 🔵 Kvantikum
+### 🔵 Kvantikum
 
-Professzor, vagy számokkal dolgozó tudósember vagy, a tudás a legfőbb kincsed. A képzettség általános ismeret amely a számokkal való munkára támaszkodó tudományok alapját adja.
-
-Igazi potenciálját a kiterjesztését megvalósító Fortélyokkal érhetjük el.
+Professzor, vagy számokkal dolgozó tudósember vagy, a tudás a legfőbb kincsed. 
 
 **Próba:** dobható
 
 **Domináns Tulajdonságok**: Intelligencia, Emlékezet
 
-##### Fortélyok kiterjesztik:
-- [Építészet](../fortelyok.altalanos/epiteszet.md): "Az a torony pár hónap és leomlik."
-- [Mechanika](../fortelyok.altalanos/mechanika.md): "Rittyentettem egy átemelő darut, amivel könnyebb lesz az öntözés."
-- [Asztrológia](../fortelyok.szabad/asztrologia.md): "**Diss tüzének** idejében vagyunk. Nem jó idő ez a gyógyításra."
+#### Normál kiterjesztés
+
 - [Pénzügyek](../fortelyok.szabad/penzugyek.md): "Ha ennyi aranyat egyben eladnánk, az leverné az árakat az egész megyében."
 - [Rejtjelfejtő](../fortelyok.szabad/rejtjelfejto.md)
   - "Nem volt könnyű, de megfejtettem a titkosírást. Ez egy üzenet a tábornoknak, amiben a csapatokat a hágó elhagyására utasítja."
   - "Megírtam az üzenetet uram, alkalmaztam a titkosírást, ha rossz kezekbe kerül, se tudják elolvasni."
 - [Térképészet](../fortelyok.szabad/terkepeszet.md): "Elkészültem a kastély körüli dombok térképével, a magasságvonalakon látszik, hogy kemény mászás vár arra, aki nem a főúton szándékozik bemenni."
 
-##### Követelmények:
-- [Írástudó](../fortelyok.altalanos/irastudo.md)
+#### Erős kiterjesztés
+
+- [Írástudó](../fortelyok.altalanos/irastudo.md): enélkül egyik sem megy
+__
+- [Asztrológia](../fortelyok.szabad/asztrologia.md): "**Diss tüzének** idejében vagyunk. Nem jó idő ez a gyógyításra."
+- [Építészet](../fortelyok.altalanos/epiteszet.md): "Az a torony pár hónap és leomlik."
+- [Mechanika](../fortelyok.altalanos/mechanika.md): "Rittyentettem egy átemelő darut, amivel könnyebb lesz az öntözés."
+
+#### Leírás
+
+A képzettség általános ismeret amely a számokkal való munkára támaszkodó tudományok alapját adja.
+
+Igazi potenciálját a kiterjesztését megvalósító Fortélyokkal érhetjük el.
+
 
 <br />
 
-##### Biztos tudás, követelmények
+#### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub> | Követelmény |
 |:---------------- |:---------------------------------------------------------------------------------- |:-----------:|
@@ -35,7 +43,7 @@ Igazi potenciálját a kiterjesztését megvalósító Fortélyokkal érhetjük 
 
 <br />
 
-##### Próbák
+#### Próbák
 
 | Célszám | Példa  |
 | :----------- | :----------- |
@@ -48,8 +56,6 @@ Igazi potenciálját a kiterjesztését megvalósító Fortélyokkal érhetjük 
 
 <br />
 
-##### Célszámot módosító körülmények
+#### Célszámot módosító körülmények
 
 - ⭕xyz
-
----
