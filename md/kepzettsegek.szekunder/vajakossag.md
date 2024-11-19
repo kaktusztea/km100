@@ -4,10 +4,10 @@
 
 **Domináns Tulajdonságok**: Emlékezet, Intelligencia
 
-**Szabad Hátterek kiterjesztik**:
-- [Tájtípus dzsungel](../hatterek.szabad/tajtipus_dzsungel.md)
-- [Tájtípus: erdős](../hatterek.szabad/tajtipus_erdos.md)
-- [Tájtípus: sivatagi](../hatterek.szabad/tajtipus_sivatagi.md)
+**Fortélyok kiterjesztik**:
+- [Tájtípus dzsungel](../fortelyok.szabad/tajtipus_dzsungel.md)
+- [Tájtípus: erdős](../fortelyok.szabad/tajtipus_erdos.md)
+- [Tájtípus: sivatagi](../fortelyok.szabad/tajtipus_sivatagi.md)
 
 **Leírás**: A "gyógyszerész". Akár a lápi boszorkány, akár mágiatudó lótifuti segédje, aki napokig járja az erdőt és a vadont ritka alapanyagok után kutatva. A [Orvoslás](../kepzettsegek.primer.altalanos/orvoslas.md) képzettséghez szükséges orvosságok alapanyagainak beszerzéséhez szükséges képzettség. Továbbá:
 

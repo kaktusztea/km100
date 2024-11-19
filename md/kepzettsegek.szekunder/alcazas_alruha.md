@@ -10,7 +10,7 @@
 
 **Kapcsolódódik**: [Százarcú](../fortelyok.altalanos/szazarcu.md), [Kaméleon](../fortelyok.altalanos/kameleon.md)
 
-**Szabad Hátterek kiterjesztik**: ⭕
+**Fortélyok kiterjesztik**: ⭕
 
 **Leírás**: Az álcázás nagy előny, főleg ha vadásznak rád. Megfelelő maszk, smink, ruha, ezek elengedhetetlenek. Egy jó bajusz csodákat tehet, csak le ne essen a kritikus pillanatban.
 

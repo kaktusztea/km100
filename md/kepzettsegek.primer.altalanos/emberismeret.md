@@ -14,18 +14,18 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
 **Kapcsolódó képzettség**: [Befolyásolás](befolyasolas.md), [Etikett](../kepzettsegek.szekunder/etikett.md)
 
-**Szabad Hátterek kiterjesztik**:
-- [Alkudozás](../hatterek.szabad/alkudozas.md): "Sajnálom uram, de ez **valódi** pamut, az árért, amit kínál, egy vak koldus sem adná oda."
-- [Csábítás](../hatterek.szabad/csabitas.md): Kiszúrod, hogy az ellenkező nem közeledése nem épp ártatlan, rejtett szándékot sejtesz.
-- [Hazudozás](../hatterek.szabad/hazudozas.md): "Ugyan kérem, nem ma jöttem le a falvédőről."
-- [Megfélemlítés](../hatterek.szabad/megfelemlites.md): "Hiába lóbálja a kardját uram, fehér kendő nélkül nem engedhetem be."
-- [Szónoklás](../hatterek.szabad/szonoklas.md): "Még egy szélhámos... Azt a csűrt, amivel henceg, nem ő építtette, hanem még az öreg Szakáll kamarás uram."
+**Fortélyok kiterjesztik**:
+- [Alkudozás](../fortelyok.szabad/alkudozas.md): "Sajnálom uram, de ez **valódi** pamut, az árért, amit kínál, egy vak koldus sem adná oda."
+- [Csábítás](../fortelyok.szabad/csabitas.md): Kiszúrod, hogy az ellenkező nem közeledése nem épp ártatlan, rejtett szándékot sejtesz.
+- [Hazudozás](../fortelyok.szabad/hazudozas.md): "Ugyan kérem, nem ma jöttem le a falvédőről."
+- [Megfélemlítés](../fortelyok.szabad/megfelemlites.md): "Hiába lóbálja a kardját uram, fehér kendő nélkül nem engedhetem be."
+- [Szónoklás](../fortelyok.szabad/szonoklas.md): "Még egy szélhámos... Azt a csűrt, amivel henceg, nem ő építtette, hanem még az öreg Szakáll kamarás uram."
 
 **Leírás**: Más emberek viselkedésének, hangulatának feltérképezését, belső motivációinak kiismerését célzó „tudomány". Ennek az ismeretnek az elsajátítását leginkább a nagybetűs ÉLET egyengeti. Sok-sok beszélgetés, néha keserű tapasztalat.
 
 A képzettség annyiban speciális, hogy a (harcmodorokhoz hasonlóan) a `3.szint` adja az „alapszintet", azaz egy felnőtt átlagember ekkora emberismerettel rendelkezik. Az ez alatti értékkel rendelkezők köznyelven a „szerencsétlen balek" és a „palimadár" kategóriába tartoznak..
 
-Az egyes, speciális szituációkban a fenti Szabad Hátterek adhatnak segítséget (Csábítás, stb). Ha nincs meg a kapcsolódó Szabad Háttér, akkor arra `-3` módósítóval dobsz próbát.
+Az egyes, speciális szituációkban a fenti Fortélyok adhatnak segítséget (Csábítás, stb).
 
 <br />
 

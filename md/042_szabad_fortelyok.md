@@ -1,0 +1,78 @@
+## Szabad Fortélyok
+
+<!-- tag: szabad_hatter -->
+
+```
+Ingyenes
+1 db / TSz
+
+Képzettségeket
+terjesztenek ki
+```
+
+A Szabad Fortélyok specializált, egy, vagy több [képzettséget](031_kepzettseglista.md) "kiterjesztő" ismeretek. Amennyiben a szituációhoz kapcsolódó/szükséges **Szabad Fortély** nincs meg, akkor ⭕TODO: Normál kapcsolat / Erős kapcsolat link⭕
+
+#### Szabad Fortély tanulása
+
+Hozzájutni ilyen Hátterekhez többféleképpen lehet:
+1. KM adja ingyen, olyan kalandban történt megpróbáltató esemény után, ami ezt indokolja. Például a történet során megültél egy **Wyvernt**, ekkor megkapod a [Lénylovas - Wyvern](fortelyok.szabad/lenylovas.md) Szabad Fortélyt ingyen.
+2.  A Tapasztalati Szintenként ingyen kapott egy Szabad Fortélyt elköltöd a felvételére
+3. `KP`-t költesz rá (Sima, vagy Szekunder)
+
+Van, hogy egy képzettséghez számos Szabad Fortély kapcsolódik - gyakorlatilag felszabdalják a képzettséget alterületekre.
+
+Van, hogy egy Szabad Fortély több képzettséget is kiterjeszt.
+
+🔁 jelentése: többször felvehető Szabad Fortély
+
+---
+#### Tanulható Szabad Hátterek listája
+
+- [Alkudozás](fortelyok.szabad/alkudozas.md)
+- [Asztrológia](fortelyok.szabad/asztrologia.md)
+- [Csábítás](fortelyok.szabad/csabitas.md)
+- [Éneklés](fortelyok.szabad/enekles.md)
+- [Fejlett ízlelés](fortelyok.szabad/fejlett_izleles.md)
+- [Fejlett tapintás](fortelyok.szabad/fejlett_tapintas.md)
+- [Festészet](fortelyok.szabad/festeszet.md)
+- [Hazudozás](fortelyok.szabad/hazudozas.md)
+- [Heraldika](fortelyok.szabad/heraldika.md)
+- [Irodalom](fortelyok.szabad/irodalom.md)
+- [Jogismeret](fortelyok.szabad/jogismeret.md)
+- [Kalligráfia](fortelyok.szabad/kalligrafia.md)
+- [Különleges faj boncolása](fortelyok.szabad/kulonleges_faj_boncolasa.md) 🔁
+- [Lénylovas](fortelyok.szabad/lenylovas.md) 🔁
+- [Logisztika](fortelyok.szabad/logisztika.md)
+- [Megfélemlítés](fortelyok.szabad/megfelemlites.md)
+- [Pénzügyek](fortelyok.szabad/penzugyek.md)
+- [Rejtjelfejtő](fortelyok.szabad/rejtjelfejto.md)
+- [Stratégia](fortelyok.szabad/strategia.md)
+- [Színjátszás](fortelyok.szabad/szinjatszas.md)
+- [Szobrászat](fortelyok.szabad/szobraszat.md)
+- [Szónoklás](fortelyok.szabad/szonoklas.md)
+- [Tájtípus: dzsungel](fortelyok.szabad/tajtipus_dzsungel.md)
+- [Tájtípus: erdős](fortelyok.szabad/tajtipus_erdos.md)
+- [Tájtípus: magaslati](fortelyok.szabad/tajtipus_magaslati.md)
+- [Tájtípus: sivatagi](fortelyok.szabad/tajtipus_sivatagi.md)
+- [Tánc](fortelyok.szabad/tanc.md)
+- [Tánc: speciális/belső stílus](fortelyok.szabad/tanc_belso_stilus.md) 🔁
+- [Taktika: Falanx](fortelyok.szabad/taktika_falanx.md)🔺
+- [Taktika: Fejvadászok vezetése](fortelyok.szabad/taktika_fejvadaszok_vezetese.md)🔺
+- [Taktika: Íjász](fortelyok.szabad/taktika_ijasz.md)🔺
+- [Taktika Nehézlovas](fortelyok.szabad/taktika_nehezlovas.md)🔺
+- [Taktika: Testőrség](fortelyok.szabad/taktika_testorseg.md)🔺
+- [Taktika: Útonállás, rajtaütés](fortelyok.szabad/taktika_utonallas_rajtautes.md)🔺
+- [Teaszertartás](fortelyok.szabad/teaszertartas.md)
+- [Térképészet](fortelyok.szabad/terkepeszet.md)
+- [Titkos szervezeti kultúra](fortelyok.szabad/titkos_szervezeti_kultura.md) 🔁
+- [Zenélés: fúvós hangszerek](fortelyok.szabad/zeneles_fuvos_hangszerek.md)
+- [Zenélés: húros hangszerek](fortelyok.szabad/zeneles_huros_hangszerek.md)
+- [Zenélés: ütős hangszerek](fortelyok.szabad/zeneles_utos_hangszerek.md)
+- [Zeneszerző](fortelyok.szabad/zeneszerzo.md)
+- [Zsonglőrködés](fortelyok.szabad/zsonglorkodes.md)
+
+---
+
+🔗 [Általános fortélyok](043_altalanos_fortelyok.md) →
+
+⚜️ [Nyitóoldal](start.md)

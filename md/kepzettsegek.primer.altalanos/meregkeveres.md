@@ -10,7 +10,7 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
 **Kapcsolódó fortélyok**: ⭕
 
-**Szabad Hátterek kiterjesztik**: ⭕
+**Fortélyok kiterjesztik**: ⭕
 
 **Leírás**: Ismered a különböző hatású és erősségű mérgek kikeverésének módját, receptjeit. Magasabb szinten egyre komplexebb, rafináltabb keverékeket vagy képes összeállítani.
 

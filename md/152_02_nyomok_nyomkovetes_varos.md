@@ -16,11 +16,11 @@
 Például titkos iratok átböngészése. Egy felfedezett ősi címer elemzése. Felfedezett titkosírás elemzése.
 
 - [Nyomozás](kepzettsegek.primer.altalanos/nyomozas.md) képzettségpróba a felfedezett nyom értelmezésének bonyolultsága, mint Nehézség ellen.
-- Nyomozást kiterjeszthetik az alábbi Szabad Hátterek ebben a környezetben. Ha nincs meg az épp szükséges közülük: `-3` a dobásra.
-  - [Heraldika](hatterek.szabad/heraldika.md)
-  - [Jogismeret](hatterek.szabad/jogismeret.md)
-  - [Pénzügyek](hatterek.szabad/penzugyek.md)
-  - [Rejtjelfejtő](hatterek.szabad/rejtjelfejto.md)  (ennél használható a [Kvantikum](kepzettsegek.szekunder/kvantikum.md)) képzettség is
+- Nyomozást kiterjeszthetik az alábbi Szabad Fortélyok ebben a környezetben. Ha nincs meg az épp szükséges közülük: `-3` a dobásra.
+  - [Heraldika](fortelyok.szabad/heraldika.md)
+  - [Jogismeret](fortelyok.szabad/jogismeret.md)
+  - [Pénzügyek](fortelyok.szabad/penzugyek.md)
+  - [Rejtjelfejtő](fortelyok.szabad/rejtjelfejto.md)  (ennél használható a [Kvantikum](kepzettsegek.szekunder/kvantikum.md)) képzettség is
 
 ---
 

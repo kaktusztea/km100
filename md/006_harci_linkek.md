@@ -20,9 +20,9 @@ Gyors elérésű link gyűjtemény - játékosok számára.
 ---
 ### Fortélyok 
 
-[Harci fortélyok](042_harci_fortelyok.md)
+[Harci fortélyok](044_harci_fortelyok.md)
 
-[Slan fortélyok](044_slan_fortelyok.md)
+[Slan fortélyok](046_slan_fortelyok.md)
 
 ---
 ### Egészség

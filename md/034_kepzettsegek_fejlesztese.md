@@ -41,19 +41,19 @@ A `12. és 15. szintek` kiemelt mérföldkövek a képzettségek esetében, itt 
 <br />
 
 ---
-### Képzettségek kiterjesztése Szabad Hátterekkel
+### Képzettségek kiterjesztése Szabad Fortélyokkal
 
-Egyes képzettségek az alap tudást lefedő ismeretek keretein túl is "kiterjeszthetőek", egyesek pedig "felszeletelhetőek" tudásterületekre - erre használjuk a [Szabad Háttereket](023_szabad_hatterek.md).
+Egyes képzettségek az alap tudást lefedő ismeretek keretein túl is "kiterjeszthetőek", egyesek pedig "felszeletelhetőek" tudásterületekre - erre használjuk a [Szabad Fortélyokat](042_szabad_fortelyok.md).
 
 #### ⚜️ Első eset
 
-Ha van egy képzettségpróba, amelynek ismeret területe a KM szerint ezen képzettség alá tartozik ÉS lefed egy kapcsolódó Szabad Hátteret, akkor...
-- ha megvan a Szabad Háttér, akkor simán, alapértékkel dobjuk a képzettségpróbát
-- ha nincs meg a Szabad Háttér, akkor `-3` módosítóval dobjuk a képzettségpróbát
+Ha van egy képzettségpróba, amelynek ismeret területe a KM szerint ezen képzettség alá tartozik ÉS lefed egy kapcsolódó Szabad Fortélyt, akkor...
+- ha megvan a Szabad Fortély, akkor simán, alapértékkel dobjuk a képzettségpróbát
+- ha nincs meg a Szabad Fortély, akkor `-3` módosítóval dobjuk a képzettségpróbát
 
 #### ⚜️ Második eset
 
-Ha  van egy képzettségpróba, amelynek ismeret területe a KM szerint ezen képzettség alá tartozi, DE nincs rá kapcsolódó Szabad Háttér, akkor simán, alapértékkel dobjuk a képzettségpróbát
+Ha  van egy képzettségpróba, amelynek ismeret területe a KM szerint ezen képzettség alá tartozi, DE nincs rá kapcsolódó Szabad Fortély, akkor simán, alapértékkel dobjuk a képzettségpróbát
 
 <br />
 

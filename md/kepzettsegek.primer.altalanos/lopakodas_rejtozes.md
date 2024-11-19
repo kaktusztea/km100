@@ -16,7 +16,7 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
 **Kapcsolódó fortélyok**: ⭕xyz
 
-**Szabad Hátterek kiterjesztik**: ⭕
+**Fortélyok kiterjesztik**: ⭕
 
 **Leírás**: Beletartozik a rejtőzködés is. ⭕xyz
 

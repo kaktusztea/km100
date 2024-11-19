@@ -8,15 +8,15 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
 **Kapcsolódó fortélyok**: [Keresés/Nyomolvasás](../fortelyok.altalanos/kereses_nyomolvasas.md), [Építészet](../fortelyok.altalanos/epiteszet.md), [Élettan](../fortelyok.altalanos/elettan.md) (boncoláshoz)
 
-**Szabad Hátterek kiterjesztik**:
+**Fortélyok kiterjesztik**:
 
-- [Hazudozás](../hatterek.szabad/hazudozas.md)
-- [Heraldika](../hatterek.szabad/heraldika.md)
-- [Jogismeret](../hatterek.szabad/jogismeret.md)
-- [Pénzügyek](../hatterek.szabad/penzugyek.md)
-- [Rejtjelfejtő](../hatterek.szabad/rejtjelfejto.md)
-- [Térképészet](../hatterek.szabad/terkepeszet.md)
-- [Titkos szervezeti kultúra](../hatterek.szabad/titkos_szervezeti_kultura.md)
+- [Hazudozás](../fortelyok.szabad/hazudozas.md)
+- [Heraldika](../fortelyok.szabad/heraldika.md)
+- [Jogismeret](../fortelyok.szabad/jogismeret.md)
+- [Pénzügyek](../fortelyok.szabad/penzugyek.md)
+- [Rejtjelfejtő](../fortelyok.szabad/rejtjelfejto.md)
+- [Térképészet](../fortelyok.szabad/terkepeszet.md)
+- [Titkos szervezeti kultúra](../fortelyok.szabad/titkos_szervezeti_kultura.md)
 
 **Szituáció**: [Nyomok értelmezése városi környzetben](../152_02_nyomok_nyomkovetes_varos.md)
 

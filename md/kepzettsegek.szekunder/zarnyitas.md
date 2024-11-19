@@ -6,7 +6,7 @@
 
 **Kapcsolódó fortélyok**: [Mechanika](../fortelyok.altalanos/mechanika.md)
 
-**Szabad Hátterek kiterjesztik**: ⭕
+**Fortélyok kiterjesztik**: ⭕
 
 **Leírás**: ⭕TODO⭕
 

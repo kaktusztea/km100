@@ -19,7 +19,7 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 ---
 ## Gyors elérés
 
-[Képzettséglista](031_kepzettseglista.md) &nbsp;-&nbsp; [Fortélyok](040_fortelyok.md) &nbsp;-&nbsp; [Szabad Hátterek](023_szabad_hatterek.md)
+[Képzettséglista](031_kepzettseglista.md) &nbsp;-&nbsp; [Fortélyok](040_fortelyok.md)
 
 ---
 ## Részletes szabályrendszer
@@ -51,9 +51,7 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 - [Tulajdonságok](014_01_tulajdonsagok.md)
 - [Tulajdonságpróba](014_02_tulajdonsagproba.md) 🎲
 - [Primer és Szekunder ismeretek](015_primer_szekunder_ismeretek.md)
-- [Pontok](016_00_pontok.md)
-  - [Karakteralkotó Pontok (KP)](016_01_kp.md)
-  - [Szabad Pontok (SzP)](016_02_szp.md)
+- [Karakteralkotó Pontok (KP)](016_kp.md)
 - [Számaztatott értékek](017_00_szarmaztatott_ertekek.md)
   - [Életerő Pont (ÉP), Kábulat Életerő Pont (KT)](017_01_ep_kt.md)
   - [Manőver Pontok (MP)](017_02_manover_pontok.md)
@@ -66,8 +64,6 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 ### 2. [Hátterek](020_hattererek.md)
 
   - [Faj Hátterek](021_faj_hatterek.md)
-  - [Kiemelt Hátterek](022_kiemelt_hatterek.md)
-  - [Szabad Hátterek](023_szabad_hatterek.md)
   - [Leíró Hátterek](024_leiro_hatterek.md)
   - [Karma Hátterek](025_karma_hatterek.md)
 
@@ -84,10 +80,12 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 ---
 ### 4. [Fortélyok](040_fortelyok.md)
 
-  - [Érzék, Alvilági és Fizikai fortélyok](041_altalanos_fortelyok.md)
-  - [Harci, Távharc és Lovas fortélyok](042_harci_fortelyok.md)
-  - [Misztikus és Mágia fortélyok](043_misztikus_magia_fortelyok.md)
-  - [Slan fortélyok](044_slan_fortelyok.md)
+  - [Kiemelt Fortélyok](041_kiemelt_fortelyok.md)
+  - [Szabad Fortélyok](042_szabad_fortelyok.md)
+  - [Általános: Érzék, Alvilági és Fizikai fortélyok](043_altalanos_fortelyok.md)
+  - [Harci, Távharc és Lovas fortélyok](044_harci_fortelyok.md)
+  - [Misztikus és Mágia fortélyok](045_misztikus_magia_fortelyok.md)
+  - [Slan fortélyok](046_slan_fortelyok.md)
 
 ---
 ### 5. [Tradíciók](050_tradiciok.md)
@@ -256,7 +254,7 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 ### 11. [Slan misztérium](110_slan.md)  (10%) 🚧
 
  - [Slan Tradíció](053_04_slan_tradicio.md)
- - [Slan fortélyok](044_slan_fortelyok.md)
+ - [Slan fortélyok](046_slan_fortelyok.md)
  - [Slan diszciplínák](111_slan_diszciplinak.md)
  - [Chi harc képzettségei](112_chi_harc.md)
  - [Slan fegyverek](113_slan_fegyverek.md)

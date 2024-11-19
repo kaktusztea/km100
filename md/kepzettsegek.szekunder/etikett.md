@@ -6,21 +6,21 @@
 
 **Kapcsolódó Fortélyok**: [Hidegvér](../fortelyok.altalanos/hidegver.md), [Tiszta fej](../fortelyok.altalanos/tiszta_fej.md)
 
-**Kapcsolódódik**: [Kultúrkör](../hatterek.kiemelt/kulturkor.md)
+**Kapcsolódódik**: [Kultúrkör](../fortelyok.kiemelt/kulturkor.md)
 
-**Szabad Hátterek kiterjesztik**:
-- [Tánc: belső stílus](../hatterek.szabad/tanc_belso_stilus.md)
-- [Titkos szervezeti kultúra](../hatterek.szabad/titkos_szervezeti_kultura.md)
+**Fortélyok kiterjesztik**:
+- [Tánc: belső stílus](../fortelyok.szabad/tanc_belso_stilus.md)
+- [Titkos szervezeti kultúra](../fortelyok.szabad/titkos_szervezeti_kultura.md)
 
 **Leírás**: Hogy kell köszönteni a nemesi vendégeket, hogyan kell udvariasan hárítani egy meghívást, mi számít könnyed tréfának és mi halálos sértésnek? A képzettség elsősorban az udvari, nemesi környezetben való "viselkedést" fedi.
 
-Természetesen nem mindegy, melyik kultúrkörben kell a társasági kihívásokat teljesíteni, de az alapismeret és a gyors tanulás segítségével hamar beépíthető más kultúrkörök ismerete is. Például egy "Etikett: `9.szint`"-el rendelkező py4rroni nemes pár nap alatt képes megtanulni a tor0ni udvari Etikett szabályait, mert már megvan a mentális "váz", amire csak fel kell "aggatnia" az új tudást. Ezt a  [Kultúrkör](../hatterek.kiemelt/kulturkor.md) Szabad Háttér rendszerén keresztül szimuláljuk.
+Természetesen nem mindegy, melyik kultúrkörben kell a társasági kihívásokat teljesíteni, de az alapismeret és a gyors tanulás segítségével hamar beépíthető más kultúrkörök ismerete is. Például egy "Etikett: `9.szint`"-el rendelkező py4rroni nemes pár nap alatt képes megtanulni a tor0ni udvari Etikett szabályait, mert már megvan a mentális "váz", amire csak fel kell "aggatnia" az új tudást. Ezt a [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) Kiemelt Fortély rendszerén keresztül szimuláljuk.
 
-##### Kultúrkör Szabad Hátterek
+##### Kultúrkör Kiemelt Fortély
 
-Ha a karakter rendelkezik az épp a helyszínen található kultúrkört lefedő [Kultúrkör](../hatterek.kiemelt/kulturkor.md) Szabad háttérrel, akkor képes a kapcsolódó **Etikett** képzettségét ott büntetések nélkül alkalmazni. Ha nem, akkor csak ⭕az ott leírt⭕ nehezítéssel tudja a képzettséget alkalmazni.
+Ha a karakter rendelkezik az épp a helyszínen található kultúrkört lefedő [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) Kiemelt Fortéllyal, akkor képes a kapcsolódó **Etikett** képzettségét ott büntetések nélkül alkalmazni. Ha nem, akkor csak ⭕az ott leírt⭕ nehezítéssel tudja a képzettséget alkalmazni.
 
-Bővebben lásd a **Kultúrkör** Szabad háttér leírását.
+Bővebben lásd a **Kultúrkör** Kiemelt Fortély leírását.
 
 <br />
 
@@ -52,4 +52,4 @@ Bővebben lásd a **Kultúrkör** Szabad háttér leírását.
 ##### Célszámot módosító körülmények
 
 - Bódult, részeg állapotban: `+[1-6]`
-- Nehézség büntetés, ha nincs kapcsolódó [Kultúrkör](../hatterek.kiemelt/kulturkor.md) Háttér.
+- Nehézség büntetés, ha nincs kapcsolódó [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) Háttér.

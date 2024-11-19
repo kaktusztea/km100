@@ -4,13 +4,17 @@
 
 ---
 
-[Általános fortélyok](041_altalanos_fortelyok.md)
+[Kiemelt fortélyok](041_kiemelt_fortelyok.md): Nyelvismeret, Kultúrkör, Helyismeret - kezelésük speciális
 
-[Harci, Távharc és Lovas fortélyok](042_harci_fortelyok.md)
+[Szabad Fortélyok](042_szabad_fortelyok.md): képzettségeket "kiterjesztő" elemek.
 
-[Misztikus és Mágia fortélyok](043_misztikus_magia_fortelyok.md)
+[Általános: Érzék, Alvilági és Fizikai fortélyok](043_altalanos_fortelyok.md)
 
-[Slan fortélyok](044_slan_fortelyok.md)
+[Harci, Távharc és Lovas fortélyok](044_harci_fortelyok.md)
+
+[Misztikus és Mágia fortélyok](045_misztikus_magia_fortelyok.md)
+
+[Slan fortélyok](046_slan_fortelyok.md)
 
 
 ---
@@ -36,7 +40,9 @@ Egy fortély jellemzően egy képzettségre adhat pluszokat. Ilyenkor az által�
 
 ## Jellemző hatás 2: Képzettség kiterjesztése
 
-A [Szabad Hátterekhez](023_szabad_hatterek.md) hasonlóan egyes Fortélyok képesek képzettségeket kiterjeszteni. Fortélyok esetén ez **követelményként** működik, tehát a fortély hiánya esetén próba nem is doható.
+`1.` Normál kiterjesztés ⭕TODO⭕ kifejteni
+
+`2.` Erős kiterjesztés ⭕TODO⭕ kifejteni
 
 ---
 

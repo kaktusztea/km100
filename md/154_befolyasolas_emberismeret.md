@@ -5,13 +5,13 @@
 ```
 Befolyásolás képzettség
   + Intelligencia / Érzékenység Tulajdonság
-  -3 (ha nincs Megfélemlítés Szabad Háttér)
+  -3 (ha nincs Megfélemlítés Szabad Fortély)
 
             vs
 
 Emberismeret képzettség
   + Önuralom Tulajdonság
-  -3 (ha nincs Megfélemlítés Szabad Háttér)
+  -3 (ha nincs Megfélemlítés Szabad Fortély)
 ```
 
 #### Megfélelmlítés Módosítók
@@ -26,13 +26,13 @@ Véres karddal, félmeztelenül hadonászás: ⚪**Erő** Tulajdonság különbs
 ```
 Befolyásolás(képzettség)
   + Erő Tulajdonság
-  -3 (ha nincs Csábítás Szabad Háttér)
+  -3 (ha nincs Csábítás Szabad Fortély)
 
             vs
 
 Emberismeret képzettség
   + Önuralom Tulajdonság
-  -3 (ha nincs Csábítás Szabad Háttér)
+  -3 (ha nincs Csábítás Szabad Fortély)
 ```
 
 ---

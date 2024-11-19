@@ -4,16 +4,16 @@
 
 **Domináns Tulajdonságok**: Érzékenység, Intelligencia
 
-**Szabad Hátterek kiterjesztik**:
+**Fortélyok kiterjesztik**:
 
-- [Tájtípus - dzsungel](../hatterek.szabad/tajtipus_dzsungel.md)
-- [Tájtípus - sivatagi](../hatterek.szabad/tajtipus_sivatagi.md)
-- [Tájtípus - magaslati](../hatterek.szabad/tajtipus_magaslati.md)
-- [Tájtípus - erdős](../hatterek.szabad/tajtipus_erdos.md)
+- [Tájtípus - dzsungel](../fortelyok.szabad/tajtipus_dzsungel.md)
+- [Tájtípus - sivatagi](../fortelyok.szabad/tajtipus_sivatagi.md)
+- [Tájtípus - magaslati](../fortelyok.szabad/tajtipus_magaslati.md)
+- [Tájtípus - erdős](../fortelyok.szabad/tajtipus_erdos.md)
 
 **Szituáció**: [Nyomok értelmezése természetben](../152_01_nyomok_nyomkovetes_termeszet.md)
 
-**Leírás**: A képzettség a táj ismeretét és annak környezeti jellemzőit fogja egybe és adott tájtípusokra lehet megtanulni, amelyeket a fenti **Szabad Hátterek** határoznak meg. Ebből 1 alapból jár a képzettség felvételekor, a többi `SzP` használatával vehető fel később.
+**Leírás**: A képzettség a táj ismeretét és annak környezeti jellemzőit fogja egybe és adott tájtípusokra lehet megtanulni, amelyeket a fenti **Szabad Fortélyok** határoznak meg. Ebből 1 alapból jár a képzettség felvételekor, a többi `SzP` használatával vehető fel később.
 
 A képzettség magában foglalja a következőket:
 - Túlélés, hideg és meleg elleni technikák, tűzrakás

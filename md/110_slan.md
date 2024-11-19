@@ -2,7 +2,7 @@
 
 #### [Slan Tradíció](053_04_slan_tradicio.md)
 
-#### [Slan fortélyok](044_slan_fortelyok.md)
+#### [Slan fortélyok](046_slan_fortelyok.md)
 
 #### [Slan diszciplínák](111_slan_diszciplinak.md)
 
