@@ -1,6 +1,6 @@
 ## Képzettséglista
 
-🔵 Képzettség, 🔁 Többször felvehető, 🅿️ Primer, ⭕ TODO, kérdéses
+🔵 Képzettség, 🔁 Többször felvehető, 🅿️ Primer
 
 ---
 
