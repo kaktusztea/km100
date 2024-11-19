@@ -61,6 +61,23 @@ Valamilyen bónuszt ad
 Ebben az esetben az adott fortély megléte nem követelmény, viszont ha megvan, akkor valamilyen - jellemzően statikus -, vagy egyedi bónuszt ad az kapcsolódó képzettségre.
 
 ---
+### ⚜️ Példa
+
+Johanius Krad pap egy címert vizsgál az bálterem tükrös falán.
+
+\- JK: "Felismerem ezt a címert?"
+
+\- KM: "Ez egy Nehéz (Célszám: `12`) **Lexikum** képzettségpróba, amit ebben az esetben kiterjeszt a Heraldika Szabad Fortély. Megvan a karakterednek ez a fortély?"
+
+\- JK: "Nincs. A Lexikum képzettségem amúgy `8.szintű`."
+
+\- KM: "A Heraldika fortély **Normál kiterjesztésben** van a Lexikummal, így - bár nincs meg a Heraldika Szabad Fortélyod - így is dobhatsz képzettségpróbát, de csak `-3`-mal. A próbánál az **Emlékezet** Tulajdonságodat használd."
+
+\- JK: "Jó, akkor `+2` (Emlékezet) + `8-3` (Lexikum -3) + `k10`  vs. `12`"\
+`7 + k10 vs 12`  → Tehát ha legalább `5`-öt dobok `k10`-en, akkor sikerül a próba.
+
+
+---
 
 🔗 [Képzettségpróba, Összhangok](037_kepzettsegproba.md) →
 
