@@ -14,13 +14,15 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
 #### Normál kiterjesztés
 
-- [Hazudozás](../fortelyok.szabad/hazudozas.md)
-- [Heraldika](../fortelyok.szabad/heraldika.md)
-- [Jogismeret](../fortelyok.szabad/jogismeret.md)
-- [Pénzügyek](../fortelyok.szabad/penzugyek.md)
-- [Rejtjelfejtő](../fortelyok.szabad/rejtjelfejto.md)
-- [Térképészet](../fortelyok.szabad/terkepeszet.md)
-- [Titkos szervezeti kultúra](../fortelyok.szabad/titkos_szervezeti_kultura.md)
+- [Helyismeret](../fortelyok.kiemelt/helyismeret.md): ha a KM szerint indokolt, akkor ez lehet követelmény a lentiekre
+__
+- [Hazudozás](../fortelyok.szabad/hazudozas.md): "Sokat  pislog, kerüli a tekintetem, hazudik..."
+- [Heraldika](../fortelyok.szabad/heraldika.md): "A famor címerében levő lombok vérszínűek - akárcsak az - állítólagos - ellenséges házéban."
+- [Jogismeret](../fortelyok.szabad/jogismeret.md): "Az anyai ági öröklés miatt a féltestvér is részesül az örökségből a gyászév leteltével! Tehát neki is volt indítéka."
+- [Pénzügyek](../fortelyok.szabad/penzugyek.md): "A legfoglalt iratokból egyből kiviláglik: Kamarás uram kettős könyvelést vezetett."
+- [Rejtjelfejtő](../fortelyok.szabad/rejtjelfejto.md): "A szimbólumok által jelképezett átjáró az kandalló feletti festményre utal!"
+- [Térképészet](../fortelyok.szabad/terkepeszet.md): "A két 'O' a két ablakot, az 'Y', a hátsó ajtót jelzi, a szaggatott vonalon az 'X' szerintem csapdát jelent."
+- [Titkos szervezeti kultúra](../fortelyok.szabad/titkos_szervezeti_kultura.md): "A Karvaly céh második embere..., a nyakát az Ítészek céhének stílusában vágták át."
 
 #### Erős kiterjesztés
 

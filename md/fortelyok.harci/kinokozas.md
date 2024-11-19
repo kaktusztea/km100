@@ -9,7 +9,7 @@ Harc közben nem a pusztítás a célod, hanem különösen fájdalmas pontokat 
 
 🌟 **Hatás**: 
 - Sebzésed: `-10 SP`
-- Ellenfeled 🔵[Fájdalomtűrés](../kepzettsegek.primer.altalanos/fajdalomtures.md) célszáma `3`-al nő. ⭕Milyen próbát dob alapból??⭕
+- Ellenfeled 🔵 [Fájdalomtűrés](../kepzettsegek.primer.altalanos/fajdalomtures.md) célszáma `3`-al nő. ⭕Milyen próbát dob alapból??⭕
 - A próba rontása esetén ⚪ **Önuralom** próba: `6` (nehéz) ellen.
 - Ha elrontja, akkor a következő körben 🗡️[Gyűlöletből](../065_01_harci_helyzetek.md#gyűlöletből) vagy 🗡️[Félelem alatt](../065_01_harci_helyzetek.md#félelem-alatt) módosítóival harcol (KM dönt).
 

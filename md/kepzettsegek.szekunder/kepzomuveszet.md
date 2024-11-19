@@ -8,18 +8,7 @@ Az alkotás, az kézzel alkotott műremekek aktív, ihletett kreálása.
 
 #### Kapcsolódik
 
-- [Művészetismeret](muveszetismeret.md) képzettség
-
-
-#### Követelmény
-
-⭕ ((ha nincs, törölni))
-
-
-#### Normál kiterjesztés
-
-⭕ ((ha nincs, törölni))
-
+[Művészetismeret](muveszetismeret.md) képzettség
 
 #### Erős kiterjesztés
 
@@ -27,11 +16,6 @@ Az alkotás, az kézzel alkotott műremekek aktív, ihletett kreálása.
 - [Festészet](../fortelyok.szabad/festeszet.md): Vászonra álmodod a lelkedben születő képeket.
 - [Kalligráfia](../fortelyok.szabad/kalligrafia.md): Mesterien bánsz a pennával, festett betűidben ott lakozik az örökkévalóság.
 - [Szobrászat](../fortelyok.szabad/szobraszat.md): Kezed alatt agyagból, kőből készülnek a mesteri alkotások.
-
-
-#### Bónuszok
-
-⭕xyz
 
 #### Leírás
 

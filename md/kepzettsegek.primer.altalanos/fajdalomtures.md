@@ -11,7 +11,10 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 - [Harci láz](../fortelyok.harci/harci_laz.md) fortély
 - [Kínokozás](../fortelyok.harci/kinokozas.md) fortély
 - [Fakír](../fortelyok.altalanos/fakir.md) fortély
-- [Harci láz](../fortelyok.harci/harci_laz.md) fortély
+
+#### Bónusz: Fakír
+
+Lásd a [Fakír](../fortelyok.altalanos/fakir.md) fortély leírását
 
 #### Leírás
 

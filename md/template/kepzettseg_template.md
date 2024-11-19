@@ -6,25 +6,20 @@
 
 #### Kapcsolódik
 
-⭕xyz  ((fortély, más képzettség. Ha nincs, törölni))
-
+⭕xyz  ((fortély, más képzettség ahol ez a képzettség említve van. Ha nincs, törölni))
 
 #### Követelmény
 
 ⭕ ha ez egy fortély, akkor tegyük az "Erős kiterjesztés" szekcióba.
 ⭕ ((ha nincs, törölni))
 
-
-
 #### Normál kiterjesztés
 
 ⭕xyz. Ha nincs, törölni
 
-
 #### Erős kiterjesztés
 
 ⭕xyz. Ha nincs, törölni
-
 
 #### Bónuszok
 
