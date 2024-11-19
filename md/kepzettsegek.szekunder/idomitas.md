@@ -25,8 +25,8 @@ A képzettség állatok idomítását fogja magában. Az egyes állatcsoportokra
 | Novícius (3)     | ⭕xyz <br /> **Példa**: x                                                           |             |
 | Kismester (6)    | ⭕xyz <br /> **Példa**: x                                                           |             |
 | Mester (9)       | ⭕xyz <br /> **Példa**: x                                                           |             |
-| Nagymester (12)  | Érzékenység: `+3`<br />[Állat testvér](#%C3%A1llat-testv%C3%A9r)                   |             |
-| Élő legenda (15) | Érzékenység: `+3`<br />[Állat testvér](#%C3%A1llat-testv%C3%A9r)                   |             |
+| Nagymester (12)  | Érzékenység: `+3`<br />[Állat testvér](#b%C3%B3nusz-%C3%A1llat-testv%C3%A9r)       |             |
+| Élő legenda (15) | Érzékenység: `+3`<br />[Állat testvér](#b%C3%B3nusz-%C3%A1llat-testv%C3%A9r)       |             |
 
 <br />
 
