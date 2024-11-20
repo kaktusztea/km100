@@ -4,8 +4,9 @@ Többször felvehető. Ez általában egyedi, titkos, vagy nagyon speciális tá
 
 ##### Kiterjeszti ezeket
 
-- [Előadóművészet](../kepzettsegek.szekunder/eloadomuveszet.md)
-- [Művészetismeret](../kepzettsegek.szekunder/muveszetismeret.md)
+- [Etikett](../kepzettsegek.szekunder/etikett.md): "A vérnász során egyre több pengét kell elkerülni, a hetedik után hátulról is jöhet egy meglepetés."
+- [Előadóművészet](../kepzettsegek.szekunder/eloadomuveszet.md): Ismersz egy speciális belső táncstílust. Hogy milyen jól tudod előadni, az a próbától függ.
+- [Művészetismeret](../kepzettsegek.szekunder/muveszetismeret.md): Mozdulatok alapján felismersz egy adott belső táncstílust. Minél magasabb szintű próbát dobsz meg, annál mélyebb jelentések, árnyalatok válnak egyértelművé.
 
 ##### Követelmény
 
