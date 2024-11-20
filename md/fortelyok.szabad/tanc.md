@@ -8,7 +8,7 @@ Amely **Kultúrköröket** ismersz, azok táncait **Előadóművészet** képzet
 
 #### Követelmény
 
-- Adott [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) Háttér
+- Adott [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) Fortély
 
 <br />
 

@@ -1,6 +1,6 @@
 ### 🟣 Tánc: speciális/belső stílus 🔁
 
-Többször felvehető. Ez általában egyedi, titkos, vagy nagyon speciális táncot takar, mint például a **Tor0ni Vérnász**. Magától értetődik, hogy speciális/belső táncstílus tanulásához kapcsolódó **Kultúrkör** Háttér is szükségeltetik (lásd követelmények).
+Többször felvehető. Ez általában egyedi, titkos, vagy nagyon speciális táncot takar, mint például a **Tor0ni Vérnász**. Magától értetődik, hogy speciális/belső táncstílus tanulásához kapcsolódó **Kultúrkör** fortély is szükségeltetik (lásd követelmények).
 
 #### Kiterjeszti ezeket
 
@@ -13,8 +13,8 @@ Többször felvehető. Ez általában egyedi, titkos, vagy nagyon speciális tá
 - Előtörténet
 - [Etikett](../kepzettsegek.szekunder/etikett.md) -`9.szint` (képzettség)
 - [Előadóművészet](../kepzettsegek.szekunder/eloadomuveszet.md) - `9.szint` (képzettség)
-- [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) (kapcsolódó Háttér)
-- [Tánc](tanc.md)  (kapcsolódó Szabad Háttér)
+- [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) (kapcsolódó fortély)
+- [Tánc](tanc.md)  (kapcsolódó fortély)
 
 <br />
 
