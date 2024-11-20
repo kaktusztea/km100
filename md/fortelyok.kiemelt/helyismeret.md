@@ -37,7 +37,7 @@ Kalandozásai során a karakter számos helyre elvetődik.  Ha ott rászán idő
 
 A játékosnak jeleznie kell, hogy aktívan tanulmányozza az adott helységet (könyvtár, bálok, kocsmák, stb. látogatása, helyi kapcsolatrendszer kiépítése).
 
-Az előírt mennyiség felett a KM egy kaland végén tetszés szerint adhat a karakternek egy **Helyismeret** Hátteret arra a helyre vonatkoztatva, ahol a kaland játszódott.
+Az előírt mennyiség felett a KM egy kaland végén tetszés szerint adhat a karakternek egy **Helyismeret** Fortélyt arra a helyre vonatkoztatva, ahol a kaland játszódott.
 
 <br />
 
