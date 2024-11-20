@@ -11,12 +11,12 @@
 
 #### Normál kiterjesztés
 
-- [Kultúrkör](../fortelyok.kiemelt/kulturkor.md)
+- [Kultúrkör](../fortelyok.kiemelt/kulturkor.md): Nélküle általános etikett szabályokra és megérzéseidre támaszkodsz csak. Ha ismered, nincs gond.
 
 #### Erős kiterjesztés
 
-- [Tánc: belső stílus](../fortelyok.szabad/tanc_belso_stilus.md)
-- [Titkos szervezeti kultúra](../fortelyok.szabad/titkos_szervezeti_kultura.md)
+- [Tánc: belső stílus](../fortelyok.szabad/tanc_belso_stilus.md): "A vérnász során egyre több pengét kell elkerülni, a hetedik után hátulról is jöhet egy meglepetés."
+- [Titkos szervezeti kultúra](../fortelyok.szabad/titkos_szervezeti_kultura.md):  "A" véráldozat után két perc ima, utána indul minden fejvadász a küldetésre. Most nem szabad megszólalnom."
 
 #### Leírás
 

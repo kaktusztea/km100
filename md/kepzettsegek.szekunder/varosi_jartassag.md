@@ -6,9 +6,13 @@
 
 #### Normál kiterjesztés
 
-- [Helyismeret](../fortelyok.kiemelt/helyismeret.md) ⭕
-- [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) ⭕
-- [Titkos szervezeti kultúra ](../fortelyok.szabad/titkos_szervezeti_kultura.md) ⭕
+- [Helyismeret](../fortelyok.kiemelt/helyismeret.md): Az adott környék ismerete sokat segít, nélküle az általános tapasztalatok dominálnak inkább.
+- [Kultúrkör](../fortelyok.kiemelt/kulturkor.md): Az adott kultúrkör ismerete képes pótolni a Helyismeret hiányát. Ha ez megvan, de az nem, akkor sem jár a levonás.
+
+#### Erős kiterjesztés
+
+- [Titkos szervezeti kultúra](../fortelyok.szabad/titkos_szervezeti_kultura.md): Egy adott titkos klán vagy szervezet belső működésének, szokásainak, hierarchiájának ismerete. Székhelyek, besúgók, informátorok fellelésének helyei.
+
 
 #### Leírás
 
