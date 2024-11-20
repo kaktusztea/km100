@@ -11,7 +11,7 @@ Passzív műélvezet, a műalkotások ismerete, kritizálása, lexikális és é
 - [Nyelvismeret](../fortelyok.kiemelt/nyelvismeret.md): Udvari fok (ahol szükségesnek érezzük)
 __
 - [Éneklés](../fortelyok.szabad/enekles.md): felismered a híres dalnokokat, dallamaikat, slágereiket.
-- [Építészet](../fortelyok.altalanos/epiteszet.md)
+- [Építészet](../fortelyok.altalanos/epiteszet.md):  "Shad0ni hatást érzek azon az oszlopfőn..."
 - [Festészet](../fortelyok.szabad/festeszet.md): Ismered, felismered adott [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) festőit, műveiket, történetüket, stílusukat.
 - [Irodalom](../fortelyok.szabad/irodalom.md): Ismered adott [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) neves irodalmárait, íróit, költőit és stílusukat, műveiket.
 - [Kalligráfia](../fortelyok.szabad/kalligrafia.md): "A kezdőbetű bezártsága alkotójának szomorú sorsát jelzi, a belekényszerített házasság szimbolikája."

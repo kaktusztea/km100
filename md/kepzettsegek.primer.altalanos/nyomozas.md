@@ -6,16 +6,11 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
 **Domináns Tulajdonságok**: Intelligencia, Emlékezet
 
-#### Kapcsolódik
-
-- [Keresés/Nyomolvasás](../fortelyok.altalanos/kereses_nyomolvasas.md)
-- [Építészet](../fortelyok.altalanos/epiteszet.md)
-- [Élettan](../fortelyok.altalanos/elettan.md) (boncoláshoz)
-
 #### Normál kiterjesztés
 
 - [Helyismeret](../fortelyok.kiemelt/helyismeret.md): ha a KM szerint indokolt, akkor ez lehet követelmény a lentiekre
 __
+- [Építészet](../fortelyok.altalanos/epiteszet.md): "Az a fal sokkal vastagabb, mint a másik!"
 - [Hazudozás](../fortelyok.szabad/hazudozas.md): "Sokat  pislog, kerüli a tekintetem, hazudik..."
 - [Heraldika](../fortelyok.szabad/heraldika.md): "A famor címerében levő lombok vérszínűek - akárcsak az - állítólagos - ellenséges házéban."
 - [Jogismeret](../fortelyok.szabad/jogismeret.md): "Az anyai ági öröklés miatt a féltestvér is részesül az örökségből a gyászév leteltével! Tehát neki is volt indítéka."
@@ -23,11 +18,10 @@ __
 - [Rejtjelfejtő](../fortelyok.szabad/rejtjelfejto.md): "A szimbólumok által jelképezett átjáró az kandalló feletti festményre utal!"
 - [Térképészet](../fortelyok.szabad/terkepeszet.md): "A két 'O' a két ablakot, az 'Y', a hátsó ajtót jelzi, a szaggatott vonalon az 'X' szerintem csapdát jelent."
 - [Titkos szervezeti kultúra](../fortelyok.szabad/titkos_szervezeti_kultura.md): "A Karvaly céh második embere..., a nyakát az Ítészek céhének stílusában vágták át."
-
+- [Keresés/Nyomolvasás](../fortelyok.altalanos/kereses_nyomolvasas.md): ⭕TODO⭕
 #### Erős kiterjesztés
 
-⭕xyz. Ha nincs, törölni
-
+- [Élettan](../fortelyok.altalanos/elettan.md) (boncoláshoz)
 
 #### Szituáció
 

@@ -1,22 +1,18 @@
-### 🟣Élettan (1)
+### 🟣 Élettan (1)
 
 Magába foglalja az összes közismert faj ismeretét, anatómiáját és boncolását.
 
 A speciálisabb fajokhoz külön Szabad Fortély kell a [Különleges faj boncolása](../fortelyok.szabad/kulonleges_faj_boncolasa.md) formájában. Például: „Különleges faj – Amund”.
 
-#### Bónusz ad
+#### Bónuszt ad erre
 
-- [Méregkeverés](../kepzettsegek.primer.altalanos/meregkeveres.md) képzettséghez bónuszt ad (+2)
+- [Méregkeverés](../kepzettsegek.primer.altalanos/meregkeveres.md) képzettséghez bónuszt ad (`+2`)
 - [Orvoslás](../kepzettsegek.primer.altalanos/orvoslas.md) képzettséghez
 #### Kiterjeszti ezeket
 
 - [Nyomozás](../kepzettsegek.primer.altalanos/nyomozas.md): boncolás, halott vizsgálata
 - [Nekromancia](../kepzettsegek.primer.arkanumok/nekromancia.md) arkánum: például homonkulusz kreáláshoz
 - [Lexikum](../kepzettsegek.szekunder/lexikum.md): ⭕
-
-
-#### TODO
-- Méregkeveréshez adjon bónuszt? ⭕
 
 <br />
 
