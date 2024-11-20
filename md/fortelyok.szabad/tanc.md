@@ -1,12 +1,12 @@
-#### 🟣 Tánc
+### 🟣 Tánc
 
 Amely **Kultúrköröket** ismersz, azok táncait **Előadóművészet** képzettséged szintjének megfelelően járni is tudod.
-##### Kiterjeszti ezeket
+#### Kiterjeszti ezeket
 
 - [Előadóművészet](../kepzettsegek.szekunder/eloadomuveszet.md)
 - [Művészetismeret](../kepzettsegek.szekunder/muveszetismeret.md)
 
-##### Követelmény
+#### Követelmény
 
 - Adott [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) Háttér
 

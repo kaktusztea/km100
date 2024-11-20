@@ -1,11 +1,11 @@
-#### 🟣 Festészet
+### 🟣 Festészet
 
-##### Kiterjeszti ezeket
+#### Kiterjeszti ezeket
 
 - [Képzőművészet](../kepzettsegek.szekunder/kepzomuveszet.md): Vászonra álmodod a lelkedben születő képeket.
 - [Művészetismeret](../kepzettsegek.szekunder/muveszetismeret.md): Ismered, felismered adott [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) festőit, műveiket, történetüket, stílusukat.
 
-##### Kapcsolódó fortély
+#### Kapcsolódó fortély
 
 - [Hamisítás](../fortelyok.altalanos/hamisitas.md)
 

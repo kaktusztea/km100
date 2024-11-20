@@ -1,6 +1,6 @@
-#### 🟣 Asztrológia
+### 🟣 Asztrológia
 
-##### Kiterjeszti ezeket
+#### Kiterjeszti ezeket
 
 [Kvantikum](../kepzettsegek.szekunder/kvantikum.md): "**Diss tüzének** idejében vagyunk. Nem jó idő ez a gyógyításra."
 

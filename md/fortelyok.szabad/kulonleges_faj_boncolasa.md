@@ -1,13 +1,13 @@
-#### 🟣 Különleges faj boncolása (faj neve) 🔁
+### 🟣 Különleges faj boncolása (faj neve) 🔁
 
 Többször felvehető - egyedi fajonként.
 
 Ha olyan faj anatómiáját akarod megismerni, amely KM-ed szerint nem fér bele az [Élettan](../fortelyok.altalanos/elettan.md) fortély által nyújtott általános ismereti körbe, akkor fel kell venned minden ilyen speciális fajra (vagy faj-csoportra) ezt a Szabad Fortélyt. Például: aun, amund, sárkány, ...
-##### Kiterjeszti ezeket
+#### Kiterjeszti ezeket
 
 - [Harci anatómia](../fortelyok.harci/harci_anatomia.md) fortély ⭕ ez egy fortély!⭕
 
-##### Követelmény
+#### Követelmény
 
 - [Élettan](../fortelyok.altalanos/elettan.md) fortély
 - Legalább egy nap időtartam, míg a boncolás folyik

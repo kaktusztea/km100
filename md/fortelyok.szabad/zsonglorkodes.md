@@ -1,11 +1,11 @@
-#### 🟣 Zsonglőrködés
+### 🟣 Zsonglőrködés
 
-##### Kiterjeszti ezeket
+#### Kiterjeszti ezeket
 
 - [Előadóművészet](../kepzettsegek.szekunder/eloadomuveszet.md)
 - [Művészetismeret](../kepzettsegek.szekunder/muveszetismeret.md)
 
-##### Követelmény
+#### Követelmény
 
 - Ügyesség: `0`
 
