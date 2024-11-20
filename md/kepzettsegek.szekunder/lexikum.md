@@ -10,8 +10,8 @@
 
 - [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) - Az adott, kapcsolódó **Kultúrkör** ismerete sokszor (nem mindig) szükséges, hiánya esetén jár a standard levonás.
 - [Helyismeret](../fortelyok.kiemelt/helyismeret.md): csak ha konkrétan helyi témával kapcsolatos ismeretről van szó, akkor szükséges. Ne legyünk túl szigorúak.
-- [Heraldika](../fortelyok.szabad/heraldika.md) ⭕
-- [Jogismeret](../fortelyok.szabad/jogismeret.md) ⭕
+- [Heraldika](../fortelyok.szabad/heraldika.md): "Ez a címer egy - már kihalt - kyr házé, akik Sogron egyházának voltak erős szövetségesei a hatodkorban."
+- [Jogismeret](../fortelyok.szabad/jogismeret.md): "Az íly gyalázatos tett büntetése Shadon székesfővárosában 6 holdév tömlőc és 10 ezüstpénz. Kivéve ha nemesúr áll jót az elkövetőért."
 - [Stratégia](../fortelyok.szabad/strategia.md): "Kevesen tudják, hogy a legutóbbi Zászlóháború döntő csatájában a párás idő okozta a t0roni S0gron papok összhangjainak elvesztését, amely Antoh szolgáinak irányába billentette a mérleget."
 
 #### Erős kiterjesztés
