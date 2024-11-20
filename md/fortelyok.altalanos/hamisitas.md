@@ -20,7 +20,7 @@ Jól tudsz másolni műkincseket, műtárgyakat. Képes vagy egyes művészeti �
 - Rendelkezned kell a kapcsolódó [Szabad Fortéllyal](../042_szabad_fortelyok.md)  (például: "Festészet").
 -  A [Képzőművészet](../kepzettsegek.szekunder/kepzomuveszet.md) adja a képzettségedet.
 - Hamisítvány felismerése: [Művészetismeret](../kepzettsegek.szekunder/muveszetismeret.md) képzettséggel dobunk ellenpróbát a hamisító [Képzőművészet](../kepzettsegek.szekunder/kepzomuveszet.md) képzettsége ellen.
-- [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) (adott kultúra) Háttér szükséges. Anélkül `+3` nehezítés a képzettségpróbákra.
+- [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) (adott kultúra) Fortély szükséges. Anélkül `+3` nehezítés a képzettségpróbákra.
 
 #### Ha szakmával kapcsolatos hamisítást akarsz végezni
 

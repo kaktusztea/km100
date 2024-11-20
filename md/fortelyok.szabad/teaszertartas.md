@@ -8,7 +8,7 @@ Amely [Kultúrköröket](../fortelyok.kiemelt/kulturkor.md) ismersz, annak teasz
 
 #### Követelmény
 
-- Adott [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) Háttér
+- Adott [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) Fortély
 
 <br />
 

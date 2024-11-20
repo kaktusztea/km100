@@ -17,15 +17,13 @@ Kapcsolódó Képzettség-próba:
 - [Művészetismeret](../kepzettsegek.szekunder/muveszetismeret.md)
 - [Lexikum](../kepzettsegek.szekunder/lexikum.md)
 
-#### Kapcsolódó Szabad Háttér
+#### Kapcsolódik
 
-- [Nyelvismeret](nyelvismeret.md) Háttér
-- [Tánc](../fortelyok.szabad/tanc.md) Szabad Háttér
-- [Tánc: belső stílus](../fortelyok.szabad/tanc_belso_stilus.md)  Szabad Háttér
-
-#### Kapcsolódó fortély
 - [Hamisítás](../fortelyok.altalanos/hamisitas.md) fortély
 - [Taktika: Testőrség](../fortelyok.szabad/taktika_testorseg.md) fortély
+- [Nyelvismeret](nyelvismeret.md) fortély
+- [Tánc](../fortelyok.szabad/tanc.md) fortély
+- [Tánc: belső stílus](../fortelyok.szabad/tanc_belso_stilus.md) fortély
 
 #### Leírás
 
@@ -48,7 +46,7 @@ Mi tartozik bele ebbe az ismeretbe? Az adott kultúrkörön belül a(z)...
 
 Kalandozásai során a karakter számos helyre elvetődik.  Ha ott rászán időt az helyi kultúra tanulmányozására, akkor már ott is képes lesz Kultúrkör-függő képzettségeit maximális hatékonysággal kiaknázni, büntetés nélküli próbákat dobni rá. Ez minden, kultúrköri ismeretet igénylő képzettségre igaz.
 
-Ha nincs épp meg az adott szituációban a szükséges kultúrkörhöz tartozó **Kultúrkör** Szabad Háttér, akkor `-3` büntetés jár adott képzettségpróbák dobásaira, amíg a karakter rá nem szánja a szükséges időt a kapcsolódó Kultúrkör Háttér megszerzésére.
+Ha nincs épp meg az adott szituációban a szükséges kultúrkörhöz tartozó **Kultúrkör** Szabad Fortély, akkor `-3` büntetés jár adott képzettségpróbák dobásaira, amíg a karakter rá nem szánja a szükséges időt a kapcsolódó Kultúrkör fortély megszerzésére.
 
 #### Kultúrkör lista draft
 - erv
