@@ -1,4 +1,3 @@
-
 ### 🟣 Történelemismeret (2)
 
 Magába foglalja a legendák ismeretét is és az ősi kultúrák ismeretét is. A Történelemismeret alapvetően az emberi történelem írott részét jelenti (magyarán azt, amiről van elég írott forrás, ezek hozzáférhetőek és jórészt földolgozottak). Minden más az ⭕Ősi Kultúrák ismeretébe⭕ (Ősi nyelv ismerete??)⭕ tartozik.

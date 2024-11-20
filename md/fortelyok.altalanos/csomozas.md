@@ -1,4 +1,3 @@
-
 ### Csomózás / Kötelékből szabadulás - fortély pár
 
 A lenti két fortély egymással "szimbiózisban" létezik. Egy jól megkötött csomóból nehezebb szabadulni, egy képzett szabadulóművész trükkös csomókból is kibújik.
