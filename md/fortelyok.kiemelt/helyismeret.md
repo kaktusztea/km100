@@ -8,16 +8,17 @@
 - 1.Tapasztalati Szinttől kezdve
   minden 2. TSz-en kapsz egyet
 
-- Kaland végén kaphatóak újabb pontok
+- Kaland végén kaphatóak belőle
   ingyen, a KM-től
 
 ⚡ Példa: "Helyismeret: Gianag"
 ```
 
-#### Kiterjeszti ezeket:
+#### Kiterjeszti ezeket
 
-- [Városi jártasság](../kepzettsegek.szekunder/varosi_jartassag.md)
+- [Nyomozás](../kepzettsegek.primer.altalanos/nyomozas.md): ha a KM szerint indokolt, akkor ez lehet követelmény
 - [Lexikum](../kepzettsegek.szekunder/lexikum.md): csak ha konkrétan helyi témával kapcsolatos ismeretről van szó, akkor szükséges. Ne legyünk túl szigorúak.
+- [Városi jártasság](../kepzettsegek.szekunder/varosi_jartassag.md): Az adott környék ismerete sokat segít, nélküle az általános tapasztalatok dominálnak inkább.
 
 #### Mit fed le
 

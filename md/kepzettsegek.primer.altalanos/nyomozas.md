@@ -25,7 +25,7 @@ __
 
 #### Szituáció
 
-[Nyomok értelmezése városi környzetben](../152_02_nyomok_nyomkovetes_varos.md)
+- [Nyomok értelmezése városi környzetben](../152_02_nyomok_nyomkovetes_varos.md)
 
 #### Leírás
 
