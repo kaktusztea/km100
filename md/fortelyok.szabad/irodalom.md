@@ -5,10 +5,6 @@
 - [Előadóművészet](../kepzettsegek.szekunder/eloadomuveszet.md): Versek, novellák, regények, históriák, színdarabok írása.
 - [Művészetismeret](../kepzettsegek.szekunder/muveszetismeret.md): Ismered adott [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) neves irodalmárait, íróit, költőit és stílusukat, műveiket.
 
-#### Kapcsolódik
-
-- [Hamisítás](../fortelyok.altalanos/hamisitas.md) fortély ⭕
-
 #### Követelmény
 
 Hogy az adott kultúrkörben képes legyél aktívan művelni (írni, előadni) irodalmi műveket ([Előadóművészet](../kepzettsegek.szekunder/eloadomuveszet.md)), ahhoz az alábbi követelmények szükségesek:

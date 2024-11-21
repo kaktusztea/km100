@@ -3,7 +3,6 @@
 **Próba:** dobható
 
 **Domináns Tulajdonságok**: Érzékenység, Emlékezet
-
 #### Normál kiterjesztés
 
 - [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) (adott kultúra): enélkül érvényes a levonás mindegyik lenti művészeti ágra.
@@ -20,7 +19,6 @@
 - [Zenélés: ütős hangszerek](../fortelyok.szabad/zeneles_utos_hangszerek.md): Ismered az ütős hangszerek megszólaltatásának módját. Hogy mennyire élvezhetően, az az Előadóművészet képzettséged szintjétől függ.
 - [Tánc: speciális/belső stílus](../fortelyok.szabad/tanc_belso_stilus.md)
 - [Teaszertartás](../fortelyok.szabad/teaszertartas.md)
-
 
 #### Leírás
 
