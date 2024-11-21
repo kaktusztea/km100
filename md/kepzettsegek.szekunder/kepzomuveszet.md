@@ -8,7 +8,11 @@ Az alkotás, az kézzel alkotott műremekek aktív, ihletett kreálása.
 
 #### Kapcsolódik
 
-[Művészetismeret](muveszetismeret.md) képzettség
+- [Művészetismeret](muveszetismeret.md) képzettség
+
+#### Normál kiterjesztés
+
+- [Hamisítás](../fortelyok.altalanos/hamisitas.md): valamelyik lenti képzőművészeti ágban - amelynek fortélya megvan karakterednek - képes vagy tudásodnak megfelelő szintű hamisítványokat létrehozni.
 
 #### Erős kiterjesztés
 
