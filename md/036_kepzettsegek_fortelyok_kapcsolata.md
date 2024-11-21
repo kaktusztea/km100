@@ -22,7 +22,13 @@ Egyes képzettségek az alap tudást lefedő ismeretek keretein túl is "kiterje
 
 A képzettségkiterjesztésnek két módja van: **Normál** és **Erős**. Ez azt fejezi ki, hogy mennyire szigorú a kapcsolat a képzettség és a fortély között. Ha van egy képzettségpróba, amelynek ismeret területe a KM szerint ezen képzettség alá tartozik ÉS lefed egy kapcsolódó Fortélyt, akkor használjuk ezeket a kiterjesztéseket.
 
-### ⚜️ Normál kiterjesztés
+### 🔆 Képzettség törzstudása
+
+Amennyiben nincs olyan fortély, amely az adott próba esetén szükséges lenne, kiterjesztené a képzettséget, akkor a szükséges tudás része az alapismeretnek, amit a képzettség felvétele önmagában is lefed. Ilyenkor sima képzettségpróba dobandó az itt leírt megkötések nélkül.
+
+<br />
+
+### ⚜️ `2.1` Normál kiterjesztés
 
 Ebben a kapcsolatban a Fortély megléte nem követelmény, de hiánya esetén levonással dobhat a játékos, mivel a törzstudás (a képzettség maga) nem nyújt az adott területen teljeskörű ismeretet.
 
@@ -40,7 +46,7 @@ Ebben a kapcsolatban a Fortély megléte nem követelmény, de hiánya esetén l
 
 `2+.fok`: ha több fokú a fortély, akkor minden további foka `+2` bónuszt ad a próbára
 
-### ⚜️ Erős kiterjesztés
+### ⚜️ `2.2` Erős kiterjesztés
 
 Ekkor a kapcsolat olyan erős a két ismeret között, hogy a fortély követelménnyé válik, amennyiben nincs meg lagalább `1.fokon`, akkor a képzettségpróba nem is dobható.
 
@@ -60,7 +66,8 @@ Ekkor a kapcsolat olyan erős a két ismeret között, hogy a fortély követelm
 
 <br />
 
-### 🔆 Több fortély terjeszt ki képzettséget próbánál
+---
+### 🔆 Speciális: Több fortély terjeszt ki egy képzettséget
 
 Van, hogy egy képzettségpróba esetén nem csak egy, hanem több fortély is szükséges, mint kiterjesztés. Két eset különböztetünk meg:
 
@@ -74,8 +81,23 @@ Ha több fortély terjeszt ki képzettségpróbánál és legalább `1 db` olyan
 
 <br />
 
+### 🔆 Speciális: Más karakter pótolja a hiányzó kiterjesztő fortélyt
+
+Mikor több fortély terjeszt ki egy képzettséget (mind szükséges az adott probánál), de valamelyik hiányzik, akkor ezt - a szituáció ismeretében a KM bírálata után -  pótolhatja egy másik karakter, így elkerülve a levonást (Normál hiány), vagy az automatikus sikertelen próbát (Erős hiány).
+
+#### ⚡Példa besegítésre
+
+- Mechanikus felvonót tervezni egy épületbe
+- Kell hozzá: [Kvantikum](kepzettsegek.szekunder/kvantikum.md) képzettség
+- Erős kiterjesztés: [Építészet](fortelyok.altalanos/epiteszet.md), [Mechanika](fortelyok.altalanos/mechanika.md)
+- JK-1: "Kvantikum - 7.szint", Építészet fortélyom van, de Mechanikám nincs.
+- JK-2: De nekem van!
+- A két JK együtt megtervezi a felvonót és a beépítés módját
+
+<br />
+
 ---
-### ⚜️ Példa
+### ⚡ Példa képzettség kiterjesztésere - hiányzó fortéllyal
 
 Johanius Krad pap egy címert vizsgál az bálterem tükrös falán.
 
@@ -87,9 +109,12 @@ Johanius Krad pap egy címert vizsgál az bálterem tükrös falán.
 
 \- KM: "A Heraldika fortély **Normál kiterjesztésben** van a Lexikummal, így - bár nincs meg a Heraldika Szabad Fortélyod - így is dobhatsz képzettségpróbát, de csak `-3`-mal. A próbánál az **Emlékezet** Tulajdonságodat használd."
 
-\- JK: "Jó, akkor `+2` (Emlékezet) + `8-3` (Lexikum -3) + `k10`  vs. `12`"\
-`7 + k10 vs 12`  → Tehát ha legalább `5`-öt dobok `k10`-en, akkor sikerül a próba.
+\- JK: "Jó, akkor `+2` (Emlékezet) + `8-3` (Lexikum -3) + `k10`  vs. `12`"
 
+```
+7 + k10  vs  12
+```
+  → Tehát ha legalább `5`-öt dobok `k10`-en, akkor sikerül a próba.
 
 ---
 
