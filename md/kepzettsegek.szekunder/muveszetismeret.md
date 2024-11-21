@@ -17,15 +17,15 @@ __
 - [Kalligráfia](../fortelyok.szabad/kalligrafia.md): "A kezdőbetű bezártsága alkotójának szomorú sorsát jelzi, a belekényszerített házasság szimbolikája."
 - [Színjátszás](../fortelyok.szabad/szinjatszas.md): Ismered a [Kultúrkörnek](../fortelyok.kiemelt/kulturkor.md) megfelelő klasszikus darabokat, otthonosan mozogsz a színészvilágban.
 - [Szobrászat](../fortelyok.szabad/szobraszat.md): Ismered a [Kultúrkörnek](../fortelyok.kiemelt/kulturkor.md) megfelelő klasszikus szobrokat, felismered az egyes stílusokat, korszakokat akár ismeretlen szobrokon is.
-- [Tánc](../fortelyok.szabad/tanc.md)
-- [Zenélés: fúvós hangszerek](../fortelyok.szabad/zeneles_fuvos_hangszerek.md)
-- [Zenélés: húros hangszerek](../fortelyok.szabad/zeneles_huros_hangszerek.md)
-- [Zenélés: ütős hangszerek](../fortelyok.szabad/zeneles_utos_hangszerek.md)
+- [Tánc](../fortelyok.szabad/tanc.md): ⭕
+- [Zenélés: fúvós hangszerek](../fortelyok.szabad/zeneles_fuvos_hangszerek.md): ⭕
+- [Zenélés: húros hangszerek](../fortelyok.szabad/zeneles_huros_hangszerek.md): ⭕
+- [Zenélés: ütős hangszerek](../fortelyok.szabad/zeneles_utos_hangszerek.md): ⭕
 
 #### Erős kiterjesztés
 
 - [Tánc: speciális/belső stílus](../fortelyok.szabad/tanc_belso_stilus.md): Mozdulatok alapján felismersz egy adott belső táncstílust. Minél magasabb szintű próbát dobsz meg, annál mélyebb jelentések, árnyalatok válnak egyértelművé.
-- [Teaszertartás](../fortelyok.szabad/teaszertartas.md)
+- [Teaszertartás](../fortelyok.szabad/teaszertartas.md): ⭕
 
 #### Leírás
 

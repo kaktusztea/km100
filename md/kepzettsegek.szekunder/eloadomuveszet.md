@@ -9,16 +9,16 @@
 - [Éneklés](../fortelyok.szabad/enekles.md): nézők előtt dalolsz a hallgatók örömére.
 - [Irodalom](../fortelyok.szabad/irodalom.md): Versek, novellák, regények, históriák, színdarabok írása.
 - [Színjátszás](../fortelyok.szabad/szinjatszas.md): Életed a világot jelentő deszkák. Vándorszínháztól a nagyvárosok ünnepelt színészóriásaikig mind a publikum hálájára vágytok. A [Kultúrkörnek](../fortelyok.kiemelt/kulturkor.md) megfelelő darabokban játszol.
-- [Tánc](../fortelyok.szabad/tanc.md)
-- [Zsonglőrködés](../fortelyok.szabad/zsonglorkodes.md)
+- [Tánc](../fortelyok.szabad/tanc.md): ⭕
+- [Zsonglőrködés](../fortelyok.szabad/zsonglorkodes.md): ⭕
 
 #### Erős kiterjesztés
 
 - [Zenélés: fúvós hangszerek](../fortelyok.szabad/zeneles_fuvos_hangszerek.md): Ismered a fúvós hangszerek megszólaltatásának módját. Hogy mennyire élvezhetően, az az Előadóművészet képzettséged szintjétől függ.
 - [Zenélés: húros hangszerek](../fortelyok.szabad/zeneles_huros_hangszerek.md): Ismered a húros hangszerek megszólaltatásának módját. Hogy mennyire élvezhetően, az az Előadóművészet képzettséged szintjétől függ.
 - [Zenélés: ütős hangszerek](../fortelyok.szabad/zeneles_utos_hangszerek.md): Ismered az ütős hangszerek megszólaltatásának módját. Hogy mennyire élvezhetően, az az Előadóművészet képzettséged szintjétől függ.
-- [Tánc: speciális/belső stílus](../fortelyok.szabad/tanc_belso_stilus.md)
-- [Teaszertartás](../fortelyok.szabad/teaszertartas.md)
+- [Tánc: speciális/belső stílus](../fortelyok.szabad/tanc_belso_stilus.md): ⭕
+- [Teaszertartás](../fortelyok.szabad/teaszertartas.md): ⭕
 
 #### Leírás
 
