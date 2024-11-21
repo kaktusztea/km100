@@ -5,7 +5,7 @@ Magába foglalja a legendák ismeretét is és az ősi kultúrák ismeretét is.
 A [Lexikum](../kepzettsegek.szekunder/lexikum.md) képzettség alacsonyabb szintjein a hetedkori Yn3v általános történelmét ismered, magasabb szinten fellebbennek a titkok a régebbi korok titkairól is.
 #### Kiterjeszti ezeket
 - [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) - nélküle az ott leírt levonások járulnak a kiterjesztett képzettség próbadobásához.
-- [Lexikum](../kepzettsegek.szekunder/lexikum.md)
+- [Lexikum](../kepzettsegek.szekunder/lexikum.md): Járatos vagy a történelmi események és korszakok lefolyásában. Neves alakok, emlékezetes csaták, politikai csatározások, trónviszályok, öröklődés.
 
 #### Alapeset
 

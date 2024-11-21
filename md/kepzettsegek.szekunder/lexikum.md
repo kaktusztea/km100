@@ -10,24 +10,24 @@
 
 - [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) - Az adott, kapcsolódó **Kultúrkör** ismerete sokszor (nem mindig) szükséges, hiánya esetén jár a standard levonás.
 - [Helyismeret](../fortelyok.kiemelt/helyismeret.md): csak ha konkrétan helyi témával kapcsolatos ismeretről van szó, akkor szükséges. Ne legyünk túl szigorúak.
+__
 - [Heraldika](../fortelyok.szabad/heraldika.md): "Ez a címer egy - már kihalt - kyr házé, akik Sogron egyházának voltak erős szövetségesei a hatodkorban."
 - [Jogismeret](../fortelyok.szabad/jogismeret.md): "Az íly gyalázatos tett büntetése Shadon székesfővárosában 6 holdév tömlőc és 10 ezüstpénz. Kivéve ha nemesúr áll jót az elkövetőért."
 - [Stratégia](../fortelyok.szabad/strategia.md): "Kevesen tudják, hogy a legutóbbi Zászlóháború döntő csatájában a párás idő okozta a t0roni S0gron papok összhangjainak elvesztését, amely Antoh szolgáinak irányába billentette a mérleget."
 
 #### Erős kiterjesztés
 
-- [Írástudó](../fortelyok.altalanos/irastudo.md): enélkül egyik sem megy
+- [Írástudó](../fortelyok.altalanos/irastudo.md): enélkül egyik sem megy ❗
 __
-- [Élettan](../fortelyok.altalanos/elettan.md): ⭕
-- [Mechanika](../fortelyok.altalanos/mechanika.md): Mechanikus zárak készítése. Nem helyettesíti a [Zárnyitás](zarnyitas.md) képzettséget
-- [Történelemismeret](../fortelyok.altalanos/tortenelemismeret.md): ⭕
+- [Élettan](../fortelyok.altalanos/elettan.md): Jártas vagy az általad ismert fajok anatómiájában a képzettségnek megfelelő szinten.
+- [Mechanika](../fortelyok.altalanos/mechanika.md): Mechanikus zárak készítése. **Nem** helyettesíti a [Zárnyitás](zarnyitas.md) képzettséget
+- [Történelemismeret](../fortelyok.altalanos/tortenelemismeret.md): Járatos vagy a történelmi események és korszakok lefolyásában. Neves alakok, emlékezetes csaták, politikai csatározások, trónviszályok, öröklődés.
 - [Belső síkok lényeinek ismerete](../fortelyok.misztikus/belso_sikok_lenyeinek_ismerete.md) 🔁 ⭕
 - [Külső síkok lényeinek ismerete](../fortelyok.misztikus/kulso_sikok_lenyeinek_ismerete.md) 🔁 ⭕
 
 #### Leírás
 
 Könyvtárazás, tárgyi ismeretek gyűjtése, rengeteg olvasás, magolás. Igazi potenciálját a kiterjesztését megvalósító fenti Fortélyokkal érhetjük el.
-
 
 #### Biztos tudás, követelmények
 

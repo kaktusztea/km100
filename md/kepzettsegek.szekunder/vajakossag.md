@@ -6,9 +6,9 @@
 
 #### Normál kiterjesztés
 
-- [Tájtípus dzsungel](../fortelyok.szabad/tajtipus_dzsungel.md)
-- [Tájtípus: erdős](../fortelyok.szabad/tajtipus_erdos.md)
-- [Tájtípus: sivatagi](../fortelyok.szabad/tajtipus_sivatagi.md)
+- [Tájtípus dzsungel](../fortelyok.szabad/tajtipus_dzsungel.md): ⭕
+- [Tájtípus: erdős](../fortelyok.szabad/tajtipus_erdos.md): ⭕
+- [Tájtípus: sivatagi](../fortelyok.szabad/tajtipus_sivatagi.md): ⭕
 
 #### Leírás
 

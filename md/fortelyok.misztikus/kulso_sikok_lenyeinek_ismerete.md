@@ -9,8 +9,9 @@ A külső síkok túlvilági teremtményeinek ismerete. Alapos, előtörténette
 - szeráfok
 - dzsinnek
 
-##### Kiterjeszti ezeket:
-- [Lexikum](../kepzettsegek.szekunder/lexikum.md)
+##### Kiterjeszti ezeket
+
+- [Lexikum](../kepzettsegek.szekunder/lexikum.md): ⭕
 
 ---
 #### 1. fok

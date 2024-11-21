@@ -1,6 +1,6 @@
 ### 🟣 Írástudó (1)
 
-Ismered a betűvésés tudományát.
+Ismered a betűvésés és olvasás udományát.
 
 #### 1. fok
 
