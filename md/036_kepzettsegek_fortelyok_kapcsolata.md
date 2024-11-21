@@ -2,7 +2,21 @@
 
 Két módszer létezik: **Kiterjesztés** (Normál, Erős) és **Bónusz adása**.
 
-### `1.` Képzettségek kiterjesztése Fortélyokkal
+### `1.` Fortély mint bónusz
+
+```
+Valamilyen bónuszt ad
+
+1.fok: Jellemzően +2
+2.fok: Jellemzően +4
+3.fok: Jellemzően +6
+...
+```
+
+Ebben az esetben az adott fortély megléte nem követelmény, viszont ha megvan, akkor valamilyen - jellemzően statikus -, vagy egyedi bónuszt ad az kapcsolódó képzettségre.
+
+---
+### `2.` Képzettségek kiterjesztése Fortélyokkal
 
 Egyes képzettségek az alap tudást lefedő ismeretek keretein túl is "kiterjeszthetőek", egyesek pedig "felszeletelhetőek" tudásterületekre. A [Szabad Fortélyok](042_szabad_fortelyok.md) jellemzője, hogy mind ilyen képzettség-kiterjesztést végeznek, de egyes egyéb fortélyok is képesek erre. Hogy melyek, azok mindig az adott képzettség adatlapján olvashatóak.
 
@@ -46,19 +60,19 @@ Ekkor a kapcsolat olyan erős a két ismeret között, hogy a fortély követelm
 
 <br />
 
----
-### `2.` Fortély mint bónusz
+### 🔆 Több fortély terjeszt ki képzettséget próbánál
 
-```
-Valamilyen bónuszt ad
+Van, hogy egy képzettségpróba esetén nem csak egy, hanem több fortély is szükséges, mint kiterjesztés. Két eset különböztetünk meg:
 
-1.fok: Jellemzően +2
-2.fok: Jellemzően +4
-3.fok: Jellemzően +6
-...
-```
+#### • Több Normál kiterjesztés hiányzik
 
-Ebben az esetben az adott fortély megléte nem követelmény, viszont ha megvan, akkor valamilyen - jellemzően statikus -, vagy egyedi bónuszt ad az kapcsolódó képzettségre.
+A Normál kiterjesztések `-3` büntetései **NEM** additívak. Ha több (Normál kiterjesztésű) fortély kapcsolódik a képzettségpróbához és egyik sincs meg, a büntetés akkor is csak `-3`-ban maximálódik.
+
+#### • Több fortély kiterjeszt, amelyek között van Erős kiterjesztés
+
+Ha több fortély terjeszt ki képzettségpróbánál és legalább `1 db` olyan hiányzik, amelyik **Erős kiterjesztésben** van, akkor **az egész próba automatikusan sikertelen** - nem is lehet dobni.
+
+<br />
 
 ---
 ### ⚜️ Példa
