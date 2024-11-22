@@ -16,15 +16,15 @@ Professzor, vagy számokkal dolgozó tudósember vagy, a tudás a legfőbb kincs
 
 #### Erős kiterjesztés
 
-- [Írástudó](../fortelyok.altalanos/irastudo.md): enélkül egyik sem megy
+- [Írástudó](../fortelyok.altalanos/irastudo.md): enélkül egyik sem megy ❗
 __
-- [Asztrológia](../fortelyok.szabad/asztrologia.md): "**Diss tüzének** idejében vagyunk. Nem jó idő ez a gyógyításra."
+- [Asztrológia](../fortelyok.szabad/asztrologia.md): "Kiszámoltam: **Diss tüzének** idejében vagyunk. Nem jó idő ez a gyógyításra."
 - [Építészet](../fortelyok.altalanos/epiteszet.md): "Az a torony pár hónap és leomlik."
 - [Mechanika](../fortelyok.altalanos/mechanika.md): "Rittyentettem egy átemelő darut, amivel könnyebb lesz az öntözés."
 
 #### Leírás
 
-A képzettség általános ismeret amely a számokkal való munkára támaszkodó tudományok alapját adja.
+A képzettség általános ismeret amely a számokkal való munkára támaszkodó tudományok alapját adja. Alapból magába foglalja a matematikát, számtant, mértant.
 
 Igazi potenciálját a kiterjesztését megvalósító Fortélyokkal érhetjük el.
 
