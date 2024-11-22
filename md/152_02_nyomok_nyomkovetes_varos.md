@@ -9,7 +9,8 @@
 
 → **[Észlelés](kepzettsegek.primer.altalanos/eszleles.md)** képzettségpróba a nyom észrevételének bonyolultságának megfelelő megfelelő Nehézség ellen
 
-**Kiterjesztés**: [Keresés](fortelyok.altalanos/kereses.md) fortély
+**Normál Kiterjesztés**:
+- [Keresés (2)](fortelyok.altalanos/kereses.md) fortély
 
 ---
 ### Nyomok értelmezése városi környzetben 🏠

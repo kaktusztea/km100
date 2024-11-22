@@ -16,7 +16,6 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 #### Normál kiterjesztés
 
 - [Keresés](../fortelyok.altalanos/kereses.md): ⭕
-- [Nyomolvasás](../fortelyok.altalanos/nyomolvasas.md): ⭕
 - [Tájtípus - dzsungel](../fortelyok.szabad/tajtipus_dzsungel.md): ⭕
 - [Tájtípus - sivatagi](../fortelyok.szabad/tajtipus_sivatagi.md): ⭕
 - [Tájtípus - magaslati](../fortelyok.szabad/tajtipus_magaslati.md): ⭕

@@ -1,30 +1,27 @@
 ### 🟣 Nyomolvasás (2)
 
-Titkos rejtekajtók, zugok, rejtett tárgyak, rekeszek, valamint természeti közegben megbújó nyomok felkutatásában adhat segítséget, amely próbát az [Észlelés](../kepzettsegek.primer.altalanos/eszleles.md) képzettséggel végzünk.
+Megtalált nyomok értelmezését, illetve városon kívül a nyomok követését végezzük vele.
 
-Bővebben lásd: [Nyomok észrevétele, Nyomkövetés - természetben](../152_01_nyomok_nyomkovetes_termeszet.md) Szituációk fejezetét.
+Bővebben lásd az alábbi Szituációk fejezetét:
+- [Nyomok észrevétele, Nyomkövetés - természetben](../152_01_nyomok_nyomkovetes_termeszet.md)
+- [Nyomok észrevétele, Nyomkövetés - városi környezetben](../152_02_nyomok_nyomkovetes_varos.md)
 
 #### Kiterjeszti ezeket
 
-- [Észlelés](../kepzettsegek.primer.altalanos/eszleles.md)
 - [Nyomozás](../kepzettsegek.primer.altalanos/nyomozas.md)
 - [Természetjárás](../kepzettsegek.szekunder/termeszetjaras.md)
 
-#### Kapcsolódó fortély
-
-- [Villámgyors keresés](villamgyors.kereses.md)
-
 #### 1. fok
 
-🔒 **Követelmény**: Észlelés - `3.szint`
+🔒 **Követelmény**: -
 
-🌟 **Hatás**: Lásd a leírást fenn.
+🌟 **Hatás**: Lásd a Szituációkat fenn.
 
 #### 2. fok
 
-🔒 **Követelmény**: Észlelés - `3.szint`
+🔒 **Követelmény**: -
 
-🌟 **Hatás**: Lásd a leírást fenn.
+🌟 **Hatás**: Lásd a Szituációkat fenn.
 
 <br />
 
