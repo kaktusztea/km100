@@ -10,13 +10,6 @@ Kapcsolódó Képzettség-próba:
   ha nincs meg a követelt Kultúrkör fok, akkor -3 a dobásra.
 ```
 
-#### Kiterjeszti ezeket:
-- [Előadóművészet](../kepzettsegek.szekunder/eloadomuveszet.md)
-- [Etikett](../kepzettsegek.szekunder/etikett.md)
-- [Képzőművészet](../kepzettsegek.szekunder/kepzomuveszet.md)
-- [Művészetismeret](../kepzettsegek.szekunder/muveszetismeret.md)
-- [Lexikum](../kepzettsegek.szekunder/lexikum.md)
-
 #### Kapcsolódik
 
 - [Hamisítás](../fortelyok.altalanos/hamisitas.md) fortély
@@ -24,6 +17,14 @@ Kapcsolódó Képzettség-próba:
 - [Nyelvismeret](nyelvismeret.md) fortély
 - [Tánc](../fortelyok.szabad/tanc.md) fortély
 - [Tánc: belső stílus](../fortelyok.szabad/tanc_belso_stilus.md) fortély
+
+#### Kiterjeszti ezeket
+
+- [Előadóművészet](../kepzettsegek.szekunder/eloadomuveszet.md)
+- [Etikett](../kepzettsegek.szekunder/etikett.md)
+- [Képzőművészet](../kepzettsegek.szekunder/kepzomuveszet.md)
+- [Művészetismeret](../kepzettsegek.szekunder/muveszetismeret.md)
+- [Lexikum](../kepzettsegek.szekunder/lexikum.md)
 
 #### Leírás
 
