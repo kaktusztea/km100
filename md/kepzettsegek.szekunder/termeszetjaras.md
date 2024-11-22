@@ -6,10 +6,10 @@
 
 #### Normál kiterjesztés
 
-- [Tájtípus - dzsungel](../fortelyok.szabad/tajtipus_dzsungel.md): ⭕
-- [Tájtípus - sivatagi](../fortelyok.szabad/tajtipus_sivatagi.md): ⭕
-- [Tájtípus - magaslati](../fortelyok.szabad/tajtipus_magaslati.md): ⭕
-- [Tájtípus - erdős](../fortelyok.szabad/tajtipus_erdos.md): ⭕
+- [Tájtípus - dzsungel](../fortelyok.szabad/tajtipus_dzsungel.md): Járatos vagy dzsungel típusú környezetben. Ismered a növényeket, azok hatásait, állatokat, azok viselkedési szokásait, továbbá a tájtípusnak megfelelő időjárást, egyedi jellemzőket - a Természetjárás képzettségnek megfelelő szinten.
+- [Tájtípus - sivatagi](../fortelyok.szabad/tajtipus_sivatagi.md): Járatos vagy sivatagi típusú környezetben. Ismered a növényeket, azok hatásait, állatokat, azok viselkedési szokásait, továbbá a tájtípusnak megfelelő időjárást, egyedi jellemzőket - a Természetjárás képzettségnek megfelelő szinten.
+- [Tájtípus - magaslati](../fortelyok.szabad/tajtipus_magaslati.md): Járatos vagy magaslati típusú környezetben. Ismered a növényeket, azok hatásait, állatokat, azok viselkedési szokásait, továbbá a tájtípusnak megfelelő időjárást, egyedi jellemzőket - a Természetjárás képzettségnek megfelelő szinten.
+- [Tájtípus - erdős](../fortelyok.szabad/tajtipus_erdos.md): Járatos vagy erdős típusú környezetben. Ismered a növényeket, azok hatásait, állatokat, azok viselkedési szokásait, továbbá a tájtípusnak megfelelő időjárást, egyedi jellemzőket - a Természetjárás képzettségnek megfelelő szinten.
 
 #### Szituáció
 
