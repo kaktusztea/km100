@@ -16,8 +16,8 @@ Ezeket kategóriánként alább láthatjuk:
 
 ### Szociális
 
-- [Befolyásolás](kepzettsegek.vilagi/befolyasolas.md): aktív, hatást kifejtő alap (🅿️ Primer ismeret)
-- [Emberismeret](kepzettsegek.vilagi/emberismeret.md): passzív, hatást felismerő alap ( 🅿️Primer ismeret)
+- [Befolyásolás](kepzettsegek.primer.altalanos/befolyasolas.md): aktív, hatást kifejtő alap (🅿️ Primer ismeret)
+- [Emberismeret](kepzettsegek.primer.altalanos/emberismeret.md): passzív, hatást felismerő alap ( 🅿️Primer ismeret)
 
 ### Hadi tudományok
 
