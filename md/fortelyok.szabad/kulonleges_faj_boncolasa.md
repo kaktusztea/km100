@@ -4,9 +4,9 @@ Többször felvehető - egyedi fajonként.
 
 Ha olyan faj anatómiáját akarod megismerni, amely KM-ed szerint nem fér bele az [Élettan](../fortelyok.altalanos/elettan.md) fortély által nyújtott általános ismereti körbe, akkor fel kell venned minden ilyen speciális fajra (vagy faj-csoportra) ezt a Szabad Fortélyt. Például: aun, amund, sárkány, ...
 
-#### Kiterjeszti ezeket
+#### Kapcsolódik
 
-- [Harci anatómia](../fortelyok.harci/harci_anatomia.md) FORTÉLYT!
+- [Harci anatómia](../fortelyok.harci/harci_anatomia.md) fortély
 
 #### Követelmény
 
