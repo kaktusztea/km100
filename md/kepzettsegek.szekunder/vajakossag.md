@@ -6,9 +6,10 @@
 
 #### Normál kiterjesztés
 
-- [Tájtípus dzsungel](../fortelyok.szabad/tajtipus_dzsungel.md): ⭕
-- [Tájtípus: erdős](../fortelyok.szabad/tajtipus_erdos.md): ⭕
-- [Tájtípus: sivatagi](../fortelyok.szabad/tajtipus_sivatagi.md): ⭕
+- [Tájtípus dzsungel](../fortelyok.szabad/tajtipus_dzsungel.md): Ismered a dzsungelben növő növényeket, gyógyító, vagy ártó hatóanyagaikat.
+- [Tájtípus: sivatagi](../fortelyok.szabad/tajtipus_sivatagi.md): Ismered a sivatagban növő növényeket, gyógyító, vagy ártó hatóanyagaikat.
+- [Tájtípus: magaslati](../fortelyok.szabad/tajtipus_magaslati.md): Ismered a magaslati tájon növő növényeket, gyógyító, vagy ártó hatóanyagaikat.
+- [Tájtípus: erdős](../fortelyok.szabad/tajtipus_erdos.md): Ismered az erdős tájon növő növényeket, gyógyító, vagy ártó hatóanyagaikat.
 
 #### Leírás
 
