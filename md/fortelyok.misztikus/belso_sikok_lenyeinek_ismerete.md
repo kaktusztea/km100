@@ -13,7 +13,7 @@ A belső síkok túlvilági teremtményeinek ismerete. Alapos, előtörténettel
 
 ##### Kiterjeszti ezeket
 
-- [Lexikum](../kepzettsegek.szekunder/lexikum.md): ⭕
+- [Lexikum](../kepzettsegek.szekunder/lexikum.md): ismered az adott lénycsoport fajait, alfajait, azok jellemzőit, képességeit - a képzettség szintjének megfelelő mértékben.
 
 ---
 #### 1. fok

@@ -4,8 +4,8 @@ Ismered a magaslati, sarkvidéki környezetet.
 
 #### Kiterjeszti ezeket
 
-- [Észlelés](../kepzettsegek.primer.altalanos/eszleles.md)
-- [Természetjárás](../kepzettsegek.szekunder/termeszetjaras.md)
+- [Észlelés](../kepzettsegek.primer.altalanos/eszleles.md): ⭕
+- [Természetjárás](../kepzettsegek.szekunder/termeszetjaras.md): ⭕
 
 #### Követelmény
 

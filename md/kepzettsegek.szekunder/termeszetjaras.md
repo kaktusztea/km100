@@ -6,10 +6,10 @@
 
 #### Normál kiterjesztés
 
-- [Tájtípus - dzsungel](../fortelyok.szabad/tajtipus_dzsungel.md)
-- [Tájtípus - sivatagi](../fortelyok.szabad/tajtipus_sivatagi.md)
-- [Tájtípus - magaslati](../fortelyok.szabad/tajtipus_magaslati.md)
-- [Tájtípus - erdős](../fortelyok.szabad/tajtipus_erdos.md)
+- [Tájtípus - dzsungel](../fortelyok.szabad/tajtipus_dzsungel.md): ⭕
+- [Tájtípus - sivatagi](../fortelyok.szabad/tajtipus_sivatagi.md): ⭕
+- [Tájtípus - magaslati](../fortelyok.szabad/tajtipus_magaslati.md): ⭕
+- [Tájtípus - erdős](../fortelyok.szabad/tajtipus_erdos.md): ⭕
 
 #### Szituáció
 
