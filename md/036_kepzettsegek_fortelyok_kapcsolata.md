@@ -48,7 +48,7 @@ Ebben a kapcsolatban a Fortély megléte nem követelmény, de hiánya esetén l
 
 ### ⚜️ `2.2` Erős kiterjesztés
 
-Ekkor a kapcsolat olyan erős a két ismeret között, hogy a fortély követelménnyé válik, amennyiben nincs meg lagalább `1.fokon`, akkor a képzettségpróba nem is dobható.
+Ekkor a kapcsolat olyan erős a két ismeret között, hogy a fortély követelménnyé válik, amennyiben nincs meg legalább `1.fokon`, akkor a képzettségpróba nem is dobható.
 
 ```
 0.fok: letilt
