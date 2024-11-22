@@ -4,7 +4,7 @@ Gyorsabban tudsz keresni, kutatni egy helyiségben.
 
 #### Kapcsolódó fortély
 
-[Keresés/Nyomolvasás](kereses_nyomolvasas.md)
+[Keresés](kereses.md)
 
 #### Alapeset
 
@@ -25,4 +25,4 @@ Gyorsabban tudsz keresni, kutatni egy helyiségben.
 
 #### Megjegyzés
 
-Ahhoz, hogy keresést végezz, követelmény a [Keresés/Nyomolvasás](kereses_nyomolvasas.md) fortély.
+Ahhoz, hogy keresést végezz, követelmény a [Keresés/Nyomolvasás](kereses.md) fortély.

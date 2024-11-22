@@ -27,10 +27,11 @@ Az Érzék-, Alvilági és fizikai-, Tudományos- és Szociális fortélyok tart
 - [Hamisítás](fortelyok.altalanos/hamisitas.md) 🔺
 - [Hangutánzás](fortelyok.altalanos/hangutanzas.md)
 - [Kaméleon](fortelyok.altalanos/kameleon.md)
-- [Keresés/Nyomolvasás](fortelyok.altalanos/kereses_nyomolvasas.md)
+- [Keresés](fortelyok.altalanos/kereses.md)
 - [Kitartás](fortelyok.altalanos/kitartas.md)
 - [Kocsihajtás](fortelyok.altalanos/kocsihajtas.md)
 - [Kötelékből szabadulás](fortelyok.altalanos/kotelekbol_szabadulas.md)
+- [Nyomolvasás](fortelyok.altalanos/nyomolvasas.md)
 - [Pók](fortelyok.altalanos/pok.md) 🔺
 - [Sprint](fortelyok.altalanos/sprint.md)
 - [Suhanó árnyék](fortelyok.altalanos/suhano_arnyek.md) 🔺
