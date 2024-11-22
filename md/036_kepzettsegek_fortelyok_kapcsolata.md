@@ -85,7 +85,7 @@ Ha több fortély terjeszt ki képzettségpróbánál és legalább `1 db` olyan
 
 Mikor több fortély terjeszt ki egy képzettséget (mind szükséges az adott probánál), de valamelyik hiányzik, akkor ezt - a szituáció ismeretében a KM bírálata után -  pótolhatja egy másik karakter, így elkerülve a levonást (Normál hiány), vagy az automatikus sikertelen próbát (Erős hiány).
 
-Ilyen, több karakteres képzettségpróbánál a kapcsolódó képzettség és tulajdonság minimuma számít, azaz annak a résztvevőnek a képzettség-szintje és kapcsolódó tulajdonsága, akié az alacsonyabb.
+Ilyen, több karakteres képzettségpróbánál a kapcsolódó képzettség és Tulajdonság minimuma számít, azaz annak a résztvevőnek a képzettség-szintje és kapcsolódó Tulajdonsága, akié az alacsonyabb.
 
 ### ⚡Példa besegítésre, hiányzó fortély pótlásával
 
