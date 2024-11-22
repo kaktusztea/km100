@@ -6,7 +6,7 @@ Ha olyan faj anatómiáját akarod megismerni, amely KM-ed szerint nem fér bele
 
 #### Kiterjeszti ezeket
 
-- [Harci anatómia](../fortelyok.harci/harci_anatomia.md)
+- [Harci anatómia](../fortelyok.harci/harci_anatomia.md) FORTÉLYT!
 
 #### Követelmény
 
