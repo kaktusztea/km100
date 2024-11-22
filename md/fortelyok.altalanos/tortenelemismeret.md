@@ -6,7 +6,7 @@ A [Lexikum](../kepzettsegek.szekunder/lexikum.md) képzettség alacsonyabb szint
 
 #### Kapcsolódik
 
-- [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) - nélküle az ott leírt levonások járulnak a kiterjesztett képzettség próbadobásához.
+- [Kultúrkör](../fortelyok.kiemelt/kulturkor.md): Nélküle az ott leírt levonások járulnak a kiterjesztett képzettség próbadobásához.
 
 #### Kiterjeszti ezeket
 
