@@ -1,6 +1,6 @@
 ## Képzettségek és fortélyok kapcsolata
 
-Két módszer létezik: **Kiterjesztés** (Normál, Erős) és **Bónusz adása**.
+Két módszer létezik: **Bónusz adása** és **Kiterjesztés** (Normál, Erős).
 
 ### `1.` Fortély mint bónusz
 
