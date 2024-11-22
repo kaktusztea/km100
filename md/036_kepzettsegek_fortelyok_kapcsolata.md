@@ -75,7 +75,7 @@ Van, hogy egy képzettségpróba esetén nem csak egy, hanem több fortély is s
 
 A Normál kiterjesztések `-3` büntetései **NEM** additívak. Ha több (Normál kiterjesztésű) fortély kapcsolódik a képzettségpróbához és egyik sincs meg, a büntetés akkor is csak `-3`-ban maximálódik.
 
-#### • Több fortély kiterjeszt, amelyek között van Erős kiterjesztés
+#### • Legalább 1 Erős kiterjesztés hiányzik
 
 Ha több fortély terjeszt ki képzettségpróbánál és legalább `1 db` olyan hiányzik, amelyik **Erős kiterjesztésben** van, akkor **az egész próba automatikusan sikertelen** - nem is lehet dobni.
 
