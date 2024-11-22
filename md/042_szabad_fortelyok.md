@@ -33,7 +33,7 @@ Van, hogy egy Szabad Fortély több képzettséget is kiterjeszt.
 🔁 jelentése: többször felvehető Szabad Fortély
 
 ---
-### Tanulható Szabad Hátterek listája
+### Tanulható Szabad Fortélyok listája
 
 - [Alkudozás](fortelyok.szabad/alkudozas.md)
 - [Asztrológia](fortelyok.szabad/asztrologia.md)

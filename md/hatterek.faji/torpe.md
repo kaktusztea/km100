@@ -14,9 +14,10 @@ Felvehető Érzék-Fortélyok maximuma:
 
 Ajánlott fortélyok:
 - [Építészet](../fortelyok.altalanos/epiteszet.md)
-- [Keresés/Nyomolvasás](../fortelyok.altalanos/kereses_nyomolvasas.md)
-- [Villámgyors keresés](../fortelyok.altalanos/villamgyors.kereses.md)
 - [Kitartás](../fortelyok.altalanos/kitartas.md)
+- [Keresés](../fortelyok.altalanos/kereses.md)
+- [Nyomolvasás](../fortelyok.altalanos/nyomolvasas.md)
+- [Villámgyors keresés](../fortelyok.altalanos/villamgyors.kereses.md)
 
 Ajánlott képzettségek: -
 

@@ -10,12 +10,13 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
 #### Kapcsolódik
 
-- [Keresés/Nyomolvasás](../fortelyok.altalanos/kereses_nyomolvasas.md) fortély
 - [Villámgyors keresés](../fortelyok.altalanos/villamgyors.kereses.md) fortély
 - [Éber alvó](../fortelyok.altalanos/eber_alvo.md) fortély
 
 #### Normál kiterjesztés
 
+- [Keresés](../fortelyok.altalanos/kereses.md): ⭕
+- [Nyomolvasás](../fortelyok.altalanos/nyomolvasas.md): ⭕
 - [Tájtípus - dzsungel](../fortelyok.szabad/tajtipus_dzsungel.md): ⭕
 - [Tájtípus - sivatagi](../fortelyok.szabad/tajtipus_sivatagi.md): ⭕
 - [Tájtípus - magaslati](../fortelyok.szabad/tajtipus_magaslati.md): ⭕
