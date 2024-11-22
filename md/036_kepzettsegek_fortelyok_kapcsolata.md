@@ -107,7 +107,7 @@ Ilyen, több karakteres képzettségpróbánál a kapcsolódó képzettség és 
 ---
 ### ⚡ Példa képzettség kiterjesztésere - hiányzó fortéllyal
 
-Johanius Krad pap egy címert vizsgál az bálterem tükrös falán.
+Johanius Krad pap egy címert vizsgál a bálterem tükrös falán.
 
 \- JK: "Felismerem ezt a címert?"
 
