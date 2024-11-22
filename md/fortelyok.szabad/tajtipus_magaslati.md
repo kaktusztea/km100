@@ -5,7 +5,7 @@ Ismered a magaslati, sarkvidéki környezetet.
 #### Kiterjeszti ezeket
 
 - [Észlelés](../kepzettsegek.primer.altalanos/eszleles.md): ⭕
-- [Természetjárás](../kepzettsegek.szekunder/termeszetjaras.md): ⭕
+- [Természetjárás](../kepzettsegek.szekunder/termeszetjaras.md): Járatos vagy dzsungel típusú környezetben. Ismered a növényeket, azok hatásait, állatokat, azok viselkedési szokásait, továbbá a tájtípusnak megfelelő időjárást, egyedi jellemzőket - a Természetjárás képzettségnek megfelelő szinten.
 
 #### Követelmény
 
