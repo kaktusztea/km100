@@ -6,11 +6,11 @@ Bővebben lásd az alábbi Szituációk fejezetét:
 - [Nyomok észrevétele, Nyomkövetés - természetben](../152_01_nyomok_nyomkovetes_termeszet.md)
 - [Nyomok észrevétele, Nyomkövetés - városi környezetben](../152_02_nyomok_nyomkovetes_varos.md)
 
-#### Kiterjeszti ezeket
+#### Kiterjeszti
 
-- [Nyomozás](../kepzettsegek.primer.altalanos/nyomozas.md)
-- [Természetjárás](../kepzettsegek.szekunder/termeszetjaras.md)
-
+[Természetjárás](../kepzettsegek.szekunder/termeszetjaras.md)
+- Nyomok követése a természetben - miután már megtaláltad. "Erre haladt tovább, látszik a letört ágakból."
+- Nyomok értelmezése a természetben. "Két napja gázolt át itt egy nagytestű vad. A szőrnyomokból ítélve medve lehetett."
 #### 1. fok
 
 🔒 **Követelmény**: -

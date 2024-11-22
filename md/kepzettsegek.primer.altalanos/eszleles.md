@@ -15,11 +15,7 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
 #### Normál kiterjesztés
 
-- [Keresés](../fortelyok.altalanos/kereses.md): ⭕
-- [Tájtípus - dzsungel](../fortelyok.szabad/tajtipus_dzsungel.md): ⭕
-- [Tájtípus - sivatagi](../fortelyok.szabad/tajtipus_sivatagi.md): ⭕
-- [Tájtípus - magaslati](../fortelyok.szabad/tajtipus_magaslati.md): ⭕
-- [Tájtípus - erdős](../fortelyok.szabad/tajtipus_erdos.md): ⭕
+- [Keresés](../fortelyok.altalanos/kereses.md): Nyomok észrevétele városi környezetben. "Az az asztal el lett mozdítva." / "Huzatos itt a fal mellett."
 
 **Leírás**: Az Észlelés valaminek az észrevételét takarja. Ez lehet egy villanó tőr, egy meglapuló merénylő a lombok közt, egy árulkodó súrlódó nesz. Fontos, hogy az Észlelés csak a momentum észrevételt jelenti, annak értelmezését nem! Az a játékos feladata, melyet esetleg megkönnyíthet például a [Nyomozás](nyomozas.md), vagy a [Természetjárás](../kepzettsegek.szekunder/termeszetjaras.md) képzettség.
 

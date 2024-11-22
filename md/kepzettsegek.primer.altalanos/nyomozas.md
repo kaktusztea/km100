@@ -10,8 +10,6 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
 - [Helyismeret](../fortelyok.kiemelt/helyismeret.md): ha a KM szerint indokolt, akkor ez lehet követelmény a lentiekre
 __
-- [Keresés](../fortelyok.altalanos/kereses.md): ⭕TODO⭕
-- [Nyomolvasás](../fortelyok.altalanos/nyomolvasas.md): ⭕TODO⭕
 - [Építészet](../fortelyok.altalanos/epiteszet.md): "Az a fal sokkal vastagabb, mint a másik!"
 - [Hazudozás](../fortelyok.szabad/hazudozas.md): "Sokat  pislog, kerüli a tekintetem, hazudik..."
 - [Heraldika](../fortelyok.szabad/heraldika.md): "A famor címerében levő lombok vérszínűek, akárcsak az - állítólagos - ellenséges házéban."
@@ -40,7 +38,7 @@ Egy helyszín átvizsgálásakor rengeteg nyom van, amit értelmezni kell, illet
 - Kit érdemes kikérdezni a helyszínen
 - KM kis segítsége: "Valamit még nem kérdeztél meg"
 
-A rejtett nyomok megtalálásához az [Észlelés](eszleles.md) képzettség használandó, az értelmezéséhez pedig a **Nyomozás**.
+A rejtett nyomok megtalálásához az **[Észlelés](eszleles.md)** képzettség használandó, az értelmezéséhez pedig a **Nyomozás**.
 
 <br />
 
