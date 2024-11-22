@@ -12,7 +12,7 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 __
 - [Építészet](../fortelyok.altalanos/epiteszet.md): "Az a fal sokkal vastagabb, mint a másik!"
 - [Hazudozás](../fortelyok.szabad/hazudozas.md): "Sokat  pislog, kerüli a tekintetem, hazudik..."
-- [Heraldika](../fortelyok.szabad/heraldika.md): "A famor címerében levő lombok vérszínűek - akárcsak az - állítólagos - ellenséges házéban."
+- [Heraldika](../fortelyok.szabad/heraldika.md): "A famor címerében levő lombok vérszínűek, akárcsak az - állítólagos - ellenséges házéban."
 - [Jogismeret](../fortelyok.szabad/jogismeret.md): "Az anyai ági öröklés miatt a féltestvér is részesül az örökségből a gyászév leteltével! Tehát neki is volt indítéka."
 - [Pénzügyek](../fortelyok.szabad/penzugyek.md): "A legfoglalt iratokból egyből kiviláglik: Kamarás uram kettős könyvelést vezetett."
 - [Rejtjelfejtő](../fortelyok.szabad/rejtjelfejto.md): "A szimbólumok által jelképezett átjáró az kandalló feletti festményre utal!"

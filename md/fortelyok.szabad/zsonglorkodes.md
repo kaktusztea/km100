@@ -2,8 +2,7 @@
 
 #### Kiterjeszti ezeket
 
-- [Előadóművészet](../kepzettsegek.szekunder/eloadomuveszet.md)
-- [Művészetismeret](../kepzettsegek.szekunder/muveszetismeret.md)
+- [Előadóművészet](../kepzettsegek.szekunder/eloadomuveszet.md): Ujjaid között pörögnek, forognak a labdák, kések, kisállatok. A publikum ámul.
 
 #### Követelmény
 
