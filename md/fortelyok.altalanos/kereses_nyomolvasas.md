@@ -9,8 +9,6 @@ Bővebben lásd: [Nyomok, Nyomkövetés](../152_01_nyomok_nyomkovetes_termeszet.
 - [Nyomozás](../kepzettsegek.primer.altalanos/nyomozas.md)
 - [Természetjárás](../kepzettsegek.szekunder/termeszetjaras.md)
 
-Mivel ez egy fortély, ezért követelményként terjeszti ki a fenti képzettségeket, tehát nem is lehet dobni nélküle, ha a kapcsolódó tudás szükséges éppen.
-
 ##### Kapcsolódó fortély:
 - [Villámgyors keresés](villamgyors.kereses.md)
 
