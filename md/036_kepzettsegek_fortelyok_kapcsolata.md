@@ -13,7 +13,7 @@ Valamilyen bónuszt ad
 ...
 ```
 
-Ebben az esetben az adott fortély megléte nem követelmény, viszont ha megvan, akkor valamilyen - jellemzően statikus -, vagy egyedi bónuszt ad az kapcsolódó képzettségre.
+Ebben az esetben az adott fortély megléte nem követelmény, viszont ha megvan, akkor valamilyen - jellemzően statikus -, vagy egyedi bónuszt ad a kapcsolódó képzettségre.
 
 ---
 ### `2.` Képzettségek kiterjesztése Fortélyokkal
