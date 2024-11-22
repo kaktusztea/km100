@@ -3,8 +3,13 @@
 Magába foglalja a legendák ismeretét is és az ősi kultúrák ismeretét is. A Történelemismeret alapvetően az emberi történelem írott részét jelenti (magyarán azt, amiről van elég írott forrás, ezek hozzáférhetőek és jórészt földolgozottak). Minden más az ⭕Ősi Kultúrák ismeretébe⭕ (Ősi nyelv ismerete??)⭕ tartozik.
 
 A [Lexikum](../kepzettsegek.szekunder/lexikum.md) képzettség alacsonyabb szintjein a hetedkori Yn3v általános történelmét ismered, magasabb szinten fellebbennek a titkok a régebbi korok titkairól is.
-#### Kiterjeszti ezeket
+
+#### Kapcsolódik
+
 - [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) - nélküle az ott leírt levonások járulnak a kiterjesztett képzettség próbadobásához.
+
+#### Kiterjeszti ezeket
+
 - [Lexikum](../kepzettsegek.szekunder/lexikum.md): Járatos vagy a történelmi események és korszakok lefolyásában. Neves alakok, emlékezetes csaták, politikai csatározások, trónviszályok, öröklődés.
 
 #### Alapeset
