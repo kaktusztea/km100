@@ -69,7 +69,7 @@ Ekkor a kapcsolat olyan erős a két ismeret között, hogy a fortély követelm
 ---
 ### 🔆 Speciális: Több fortély terjeszt ki egy képzettséget
 
-Van, hogy egy képzettségpróba esetén nem csak egy, hanem több fortély is szükséges, mint kiterjesztés. Két eset különböztetünk meg:
+Van, hogy egy képzettségpróba esetén nem csak egy, hanem több fortély is szükséges, mint kiterjesztés. Két esetet különböztetünk meg:
 
 #### • Több Normál kiterjesztés hiányzik
 
