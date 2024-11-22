@@ -16,7 +16,7 @@
 #### Erős kiterjesztés
 
 - [Tánc: belső stílus](../fortelyok.szabad/tanc_belso_stilus.md): "A vérnász során egyre több pengét kell elkerülni, a hetedik után hátulról is jöhet egy meglepetés."
-- [Titkos szervezeti kultúra](../fortelyok.szabad/titkos_szervezeti_kultura.md):  "A" véráldozat után két perc ima, utána indul minden fejvadász a küldetésre. Most nem szabad megszólalnom."
+- [Titkos szervezeti kultúra](../fortelyok.szabad/titkos_szervezeti_kultura.md):  "A véráldozat után két perc ima, utána indul minden fejvadász a küldetésre. Most nem szabad megszólalnom."
 
 #### Leírás
 
