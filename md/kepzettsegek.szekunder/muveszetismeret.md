@@ -25,7 +25,6 @@ __
 #### Erős kiterjesztés
 
 - [Tánc: speciális/belső stílus](../fortelyok.szabad/tanc_belso_stilus.md): Mozdulatok alapján felismersz egy adott belső táncstílust. Minél magasabb szintű próbát dobsz meg, annál mélyebb jelentések, árnyalatok válnak egyértelművé.
-- [Teaszertartás](../fortelyok.szabad/teaszertartas.md): Amely Kultúrköröket ismersz, azok teaszertartásait felismered.
 
 #### Leírás
 

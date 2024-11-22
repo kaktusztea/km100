@@ -17,8 +17,8 @@
 - [Zenélés: fúvós hangszerek](../fortelyok.szabad/zeneles_fuvos_hangszerek.md): Ismered a fúvós hangszerek megszólaltatásának módját. Hogy mennyire élvezhetően, az az Előadóművészet képzettséged szintjétől függ.
 - [Zenélés: húros hangszerek](../fortelyok.szabad/zeneles_huros_hangszerek.md): Ismered a húros hangszerek megszólaltatásának módját. Hogy mennyire élvezhetően, az az Előadóművészet képzettséged szintjétől függ.
 - [Zenélés: ütős hangszerek](../fortelyok.szabad/zeneles_utos_hangszerek.md): Ismered az ütős hangszerek megszólaltatásának módját. Hogy mennyire élvezhetően, az az Előadóművészet képzettséged szintjétől függ.
+- [Zeneszerző](../fortelyok.szabad/zeneszerzo.md): Dallamok születnek a fejedben, melyeket papírra vetsz, hogy te, vagy akár egy zenekar előadhassa.
 - [Tánc: speciális/belső stílus](../fortelyok.szabad/tanc_belso_stilus.md): Ismersz egy speciális belső táncstílust. Hogy milyen jól tudod előadni, az a próbától függ.
-- [Teaszertartás](../fortelyok.szabad/teaszertartas.md): Amely Kultúrköröket ismersz, azok teaszertartásait **Előadóművészet** képzettséged szintjének megfelelően el is tudod végezni.
 
 #### Leírás
 

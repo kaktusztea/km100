@@ -2,7 +2,7 @@
 
 #### Kiterjeszti ezeket
 
-[Előadóművészet](../kepzettsegek.szekunder/eloadomuveszet.md)
+[Előadóművészet](../kepzettsegek.szekunder/eloadomuveszet.md): Dallamok születnek a fejedben, melyeket papírra vetsz, hogy te, vagy akár egy zenekar előadhassa.
 
 #### Követelmény
 
