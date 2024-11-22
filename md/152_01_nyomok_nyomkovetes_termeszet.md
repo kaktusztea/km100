@@ -11,7 +11,7 @@
 
 **Kiterjesztés**:
 - [Keresés](fortelyok.altalanos/kereses.md) fortély
-- [Tájtípus](042_szabad_fortelyok.md#tanulható-szabad-hátterek-listája) (aktuális tájra) fortély
+- [Tájtípus](042_szabad_fortelyok.md#tanulhat%C3%B3-szabad-fort%C3%A9lyok-list%C3%A1ja) (aktuális tájra) fortély
 
 ---
 ### Nyomok követése a természetben 🌳
@@ -22,7 +22,7 @@ Előbb észre kell venni az első nyomot, utána lehet követni a csapást.
 
 **Normál Kiterjesztés**:
 - [Nyomolvasás](fortelyok.altalanos/nyomolvasas.md) fortély
-- [Tájtípus](042_szabad_fortelyok.md#tanulható-szabad-hátterek-listája) (aktuális tájra) fortély
+- [Tájtípus](042_szabad_fortelyok.md#tanulhat%C3%B3-szabad-fort%C3%A9lyok-list%C3%A1ja) (aktuális tájra) fortély
 
 ---
 ### Nyomok értelmezése a természetben 🌳
@@ -31,7 +31,7 @@ Előbb észre kell venni az első nyomot, utána lehet követni a csapást.
 
  → **[Természetjárás](kepzettsegek.szekunder/termeszetjaras.md)** képzettségpróba a nyom bonyolultságának megfelelő **Nehézség** ellen
 
-**Kiterjesztés**: [Tájtípus](042_szabad_fortelyok.md#tanulható-szabad-hátterek-listája) (aktuális tájra) fortély
+**Kiterjesztés**: [Tájtípus](042_szabad_fortelyok.md#tanulhat%C3%B3-szabad-fort%C3%A9lyok-list%C3%A1ja) (aktuális tájra) fortély
 
 ---
 
