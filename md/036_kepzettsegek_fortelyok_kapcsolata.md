@@ -87,7 +87,7 @@ Mikor több fortély terjeszt ki egy képzettséget (mind szükséges az adott p
 
 Ilyen, több karakteres képzettségpróbánál a kapcsolódó képzettség és tulajdonság minimuma számít, azaz annak a résztvevőnek a képzettség-szintje és kapcsolódó tulajdonsága, akié az alacsonyabb.
 
-#### ⚡Példa besegítésre
+### ⚡Példa besegítésre, hiányzó fortély pótlásával
 
 - Mechanikus felvonót tervezni egy épületbe
 - Nehézség: `18` (Rendkívül Nehéz)
