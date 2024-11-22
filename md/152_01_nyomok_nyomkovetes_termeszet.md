@@ -18,7 +18,7 @@
 
 Előbb észre kell venni az első nyomot, utána lehet követni a csapást.
 
-→ **[Természetjárás](kepzettsegek.szekunder/termeszetjaras.md)** - [összetett képzettségpróba](037_kepzettsegproba.md#összetett-képzettségpróba-másodlagos-próbadobások), tehát több dobás kell, mivel átfogóbb próba kell a folyamatos követéshez.
+→ **[Természetjárás](kepzettsegek.szekunder/termeszetjaras.md)** - [összetett képzettségpróba](036_kepzettsegproba.md#összetett-képzettségpróba-másodlagos-próbadobások), tehát több dobás kell, mivel átfogóbb próba kell a folyamatos követéshez.
 
 **Normál Kiterjesztés**:
 - [Nyomolvasás](fortelyok.altalanos/nyomolvasas.md) fortély

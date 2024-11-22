@@ -41,7 +41,7 @@ Az adott fortély leírásában található egyedi bónuszt szolgáltat.
 
 ## Jellemző hatás 2: Képzettség kiterjesztése, képzettség bónusz adása
 
-Erről a [Képzettségek és fortélyok kapcsolata](036_kepzettsegek_fortelyok_kapcsolata.md) fejezetben olvashatunk.
+Erről a [Képzettségek és fortélyok kapcsolata](037_kepzettsegek_fortelyok_kapcsolata.md) fejezetben olvashatunk.
 
 ---
 
