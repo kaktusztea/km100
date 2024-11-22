@@ -6,8 +6,10 @@
 
 #### Normál kiterjesztés
 
-- [Keresés](../fortelyok.altalanos/kereses.md): ⭕
-- [Nyomolvasás](../fortelyok.altalanos/nyomolvasas.md): ⭕
+- [Keresés](../fortelyok.altalanos/kereses.md): Nyomok észrevétele a természetben. "Itt egy csapás, levelekkel próbálták elfedni, de a fű még nem egyenesedett ki."
+- [Nyomolvasás](../fortelyok.altalanos/nyomolvasas.md):
+    - Nyomok követése a természetben - miután már megtaláltad. "Erre haladt tovább, látszik a letört ágakból."
+    - Nyomok értelmezése a természetben. "Két napja gázolt át itt egy nagytestű vad. A szőrnyomokból ítélve medve lehetett."
 - [Tájtípus - dzsungel](../fortelyok.szabad/tajtipus_dzsungel.md): Járatos vagy dzsungel típusú környezetben. Ismered a növényeket, azok hatásait, állatokat, azok viselkedési szokásait, továbbá a tájtípusnak megfelelő időjárást, egyedi jellemzőket - a Természetjárás képzettségnek megfelelő szinten.
 - [Tájtípus - sivatagi](../fortelyok.szabad/tajtipus_sivatagi.md): Járatos vagy sivatagi típusú környezetben. Ismered a növényeket, azok hatásait, állatokat, azok viselkedési szokásait, továbbá a tájtípusnak megfelelő időjárást, egyedi jellemzőket - a Természetjárás képzettségnek megfelelő szinten.
 - [Tájtípus - magaslati](../fortelyok.szabad/tajtipus_magaslati.md): Járatos vagy magaslati típusú környezetben. Ismered a növényeket, azok hatásait, állatokat, azok viselkedési szokásait, továbbá a tájtípusnak megfelelő időjárást, egyedi jellemzőket - a Természetjárás képzettségnek megfelelő szinten.
@@ -32,7 +34,7 @@ A képzettség magában foglalja a következőket:
 
 #### Nyomkövetés
 
- A képzettség a vadonban található nyomok értelmezését is magában foglalja. Képes vagy olvasni az elfszabásúak, állatok, helyre jellemző szörnyetegek által hagyott nyomokból. Nem keverendő össze az [Észlelés](../kepzettsegek.primer.altalanos/eszleles.md) képzettséggel (+[Keresés](../fortelyok.altalanos/kereses.md) +[Nyomolvasás](../fortelyok.altalanos/nyomolvasas.md) fortéllyal), ami valaminek az észrevételét jelenti, titkos rejtekajtók, zugok felkutatását fedi, az észrevett jellemző értelmezését nem!
+ A képzettség a vadonban található nyomok értelmezését is magában foglalja. Képes vagy olvasni az elfszabásúak, állatok, helyre jellemző szörnyetegek által hagyott nyomokból. Nem keverendő össze az [Észlelés](../kepzettsegek.primer.altalanos/eszleles.md) képzettséggel (+[Keresés](../fortelyok.altalanos/kereses.md) fortéllyal), ami valaminek az észrevételét jelenti, titkos rejtekajtók, zugok felkutatását fedi, az észrevett jellemző értelmezését nem!
 
 Fontos, hogy a képzettség nem helyettesítheti a szerepjátszást, csak támpontokat, mankót adhat. Tehát ha a karakter megdobja próbáját, akkor a KM csak segítségeket tárhat a játékos elé, a teljes megoldást nem kínálhatja tálcán.
 

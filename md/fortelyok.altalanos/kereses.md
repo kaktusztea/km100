@@ -2,13 +2,14 @@
 
 Titkos rejtekajtók, zugok, rejtett tárgyak, rekeszek, valamint természeti közegben megbújó nyomok felkutatásában adhat segítséget, amely próbát az [Észlelés](../kepzettsegek.primer.altalanos/eszleles.md) képzettséggel végzünk.
 
-Bővebben lásd: [Nyomok, Nyomkövetés](../152_01_nyomok_nyomkovetes_termeszet.md) Szituációk fejezetét.
+Bővebben lásd az alábbi Szituációk fejezetét:
+- [Nyomok észrevétele, Nyomkövetés - természetben](../152_01_nyomok_nyomkovetes_termeszet.md)
+- [Nyomok észrevétele, Nyomkövetés - városi környezetben](../152_02_nyomok_nyomkovetes_varos.md)
 
 ##### Kiterjeszti ezeket
 
-- [Észlelés](../kepzettsegek.primer.altalanos/eszleles.md)
-- [Nyomozás](../kepzettsegek.primer.altalanos/nyomozas.md)
-- [Természetjárás](../kepzettsegek.szekunder/termeszetjaras.md)
+- [Észlelés](../kepzettsegek.primer.altalanos/eszleles.md): Nyomok észrevétele városi környezetben. "Az az asztal el lett mozdítva." / "Huzatos itt a fal mellett."
+- [Természetjárás](../kepzettsegek.szekunder/termeszetjaras.md): Nyomok észrevétele a természetben. "Itt egy csapás, levelekkel próbálták elfedni, de a fű még nem egyenesedett ki."
 
 ##### Kapcsolódó fortély
 

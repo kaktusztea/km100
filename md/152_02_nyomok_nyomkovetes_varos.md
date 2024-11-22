@@ -3,7 +3,7 @@
 ⭕TODO:Bevezető
 
 ---
-### Nyomok észrevétele városi környzetben 🏠
+### Nyomok észrevétele városi környezetben 🏠
 
 "Az az asztal el lett mozdítva." / "Huzatos itt a fal mellett."
 
