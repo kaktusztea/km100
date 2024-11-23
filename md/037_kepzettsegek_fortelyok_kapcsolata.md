@@ -89,7 +89,7 @@ Ilyen, több karakteres képzettségpróbánál a kapcsolódó képzettség és 
 
 ### ⚡Példa besegítésre, hiányzó fortély pótlásával
 
-- Mechanikus felvonót tervezni egy épületbe
+Mechanikus felvonót tervezni egy épületbe
 - Nehézség: `18` (Rendkívül Nehéz)
 - Kell hozzá: [Kvantikum](kepzettsegek.szekunder/kvantikum.md) képzettség + **Emlékezet** Tulajdonsággal dobjuk a próbát.
 - KM dönt: erre az adott esetre az alábbi 2 képzettség kiterjesztő fortély szükséges:
