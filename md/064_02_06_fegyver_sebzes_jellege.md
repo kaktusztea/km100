@@ -1,6 +1,6 @@
 ## Fegyver sebzés jellege
 
-⭕ TODO: rövid bevezető⭕
+Számos paraméter befolyásolja az éppen forgatott fegyver aktuális sebzését.
 
 #### Erőbónusz és Erőhiány
 

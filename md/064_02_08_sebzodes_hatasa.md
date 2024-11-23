@@ -1,6 +1,6 @@
 ## Sebződés hatása
 
-⭕TODO: bevezető⭕
+Sebesüléskor a karakter nyilván nem képes ugyanúgy 100%-ot nyújtani a továbbiakban. Alább arról olvashatunk, hogy milyen következményei vannak a sérüléseknek számokban kifejezve.
 ### Harcérték csökkenés
 
 Ha valakit találat ért és átkerül másik sebesülés-kategóriába (`S2, S3, S4`), akkor `TÉ levonást` kap, melyet statikusan mérsékel a [Fájdalomtűrés képzettség](kepzettsegek.primer.altalanos/fajdalomtures.md) és [Önuralom tulajdonságok](014_01_tulajdonsagok.md#-önuralom-️) összege. Ez azért előnyös, mert megint csak karakteralkotás időben számítjuk ki a fenti értékeket.

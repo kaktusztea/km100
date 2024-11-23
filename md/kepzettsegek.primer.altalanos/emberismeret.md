@@ -2,10 +2,6 @@
 
 Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
-````diff
-- Fontos: Etikett magas fokához legyen követelmény az Emberismeret.
-````
-
 **Próba**: dobható
 
 **Domináns Tulajdonságok**: Érzékenység, Intelligencia

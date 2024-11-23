@@ -4,17 +4,15 @@
 
 **Domináns Tulajdonságok**: Érzékenység, Intelligencia, Emlékezet
 
-#### Követelmény
-
-⭕ ((ha nincs, törölni))
-
 #### Normál kiterjesztés
 
- [Lénylovas](../fortelyok.szabad/lenylovas.md) (⭕1 faj ingyenes; az adott állatot is tudod idomítani⭕)
-
+ [Lénylovas](../fortelyok.szabad/lenylovas.md) 
+ 
 #### Leírás
 
-A képzettség állatok idomítását fogja magában. Az egyes állatcsoportokra vonatkozó ismereteket [Szabad Fortélyok](../042_szabad_fortelyok.md) felvételével nyerheted el.  ⭕TODO: Állatcsopot Szabad Fortélyok - voltak, töröltük. Legyenek újra?⭕
+A képzettség állatok idomítását fogja magában. Az egyes állatcsoportokra vonatkozó ismereteket [Szabad Fortélyok](../042_szabad_fortelyok.md) felvételével nyerheted el. 
+
+⭕TODO: Állatcsopot Szabad Fortélyok - voltak, töröltük. Legyenek újra?⭕
 
 <br />
 
