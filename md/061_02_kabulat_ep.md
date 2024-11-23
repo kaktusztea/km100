@@ -38,6 +38,7 @@ Ha a karakter például méregnek „köszönhetően” tartósan gyengélkedik,
 
 ---
 #### Verekedés, Kocsmai bunyó és Kábulat ÉP
+
 ```
 Minden 5. KT
 1 ÉP sebet okoz. 
