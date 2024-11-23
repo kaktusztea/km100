@@ -1,6 +1,6 @@
 ## Alapfogalmak
 
-⭕TODO: Bevezető⭕
+A fejezetben gyakran használt kifejezések gyűjtőhelye.
 
 ### Harci kör
 

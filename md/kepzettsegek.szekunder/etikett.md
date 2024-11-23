@@ -25,12 +25,6 @@ Hogy kell köszönteni a nemesi vendégeket, hogyan kell udvariasan hárítani e
 
 Természetesen nem mindegy, melyik kultúrkörben kell a társasági kihívásokat teljesíteni, de az alapismeret és a gyors tanulás segítségével hamar beépíthető más kultúrkörök ismerete is. Például egy "Etikett: `9.szint`"-el rendelkező py4rroni nemes pár nap alatt képes megtanulni a tor0ni udvari Etikett szabályait, mert már megvan a mentális "váz", amire csak fel kell "aggatnia" az új tudást. Ezt a [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) Kiemelt Fortély rendszerén keresztül szimuláljuk.
 
-#### Kultúrkör Kiemelt Fortély
-
-Ha a karakter rendelkezik az épp a helyszínen található kultúrkört lefedő [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) Kiemelt Fortéllyal, akkor képes a kapcsolódó **Etikett** képzettségét ott büntetések nélkül alkalmazni. Ha nem, akkor csak ⭕az ott leírt⭕ nehezítéssel tudja a képzettséget alkalmazni.
-
-Bővebben lásd a **Kultúrkör** Kiemelt Fortély leírását.
-
 <br />
 
 #### Biztos tudás, követelmények

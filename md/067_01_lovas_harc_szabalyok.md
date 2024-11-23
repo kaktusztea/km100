@@ -1,6 +1,6 @@
 ## Harc lóhátról
 
-⭕TODO: Bevezető⭕
+Mikor lóra szállsz, számos előnyhöz juthatsz, amennyiben képzett lovas vagy.
 
 ### Követelmény
 
