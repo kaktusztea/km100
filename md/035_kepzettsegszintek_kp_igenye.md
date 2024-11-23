@@ -24,6 +24,6 @@ Az egyes képzettségszintek KP igénye az alábbi táblázatban található:
 
 ---
 
-🔗 [Képzettségek és Fortélyok kapcsolata](038_kepzettsegek_fortelyok_kapcsolata.md) →
+🔗 [Képzettségpróba](036_kepzettsegproba.md) →
 
 ⚜️ [Nyitóoldal](start.md)
