@@ -22,6 +22,7 @@
 | [Rosszabbik kézben tartott fegyver](065_01_harci_helyzetek.md#rosszabbik-kézben-tartott-fegyver) |                        `KÉ:-10, TÉ:-20, VÉ:-20`                        | Kivétel:<br/>• **Kétkezesség** fortély. Csak annyit ad, hogy rosszabbik kézzel is levonás nélkül tudsz harcolni, de csak 1 fegyverrel!!<br/>• **Kétkezes Harc** fortély                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | [Vadállatok ellen](065_01_harci_helyzetek.md#vadállatok-ellen)                                   |                            Lásd a leírást!                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | [Védekező takarásban](065_01_harci_helyzetek.md#védekező-takarásban)                             |                `Támadó TÉ: -20`<br/>`Védekező TÉ: -10`                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Védő Érték kiterjesztése másra                                                                   |                                                                        | `VÉ:-25 VÉ` módosítóval.<br>Levonás csökkenthető a [Testőr](fortelyok.harci/testor.md) fortély tanulásával.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
 <br />
 
@@ -374,6 +375,14 @@ Figyelem: ha a védekező mozgásában korlátozottá válik a körülötte lev�
 
 <br />
 
+---
+### Védő Érték kiterjesztése másra
+
+Ha társadat akarod védeni, kiterjesztheted rá **Védő Értékedet**, de csak `-25 VÉ` csökkenéssel.
+
+Ezt a képességedet javíthatod és a levonást csökkentheted a [Testőr](fortelyok.harci/testor.md) fortély tanulásával.
+
+<br />
 
 ---
 
