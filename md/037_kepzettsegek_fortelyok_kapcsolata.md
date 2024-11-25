@@ -126,6 +126,6 @@ Johanius Krad pap egy címert vizsgál a bálterem tükrös falán.
 
 ---
 
-🔗 [Bázis képzettségek](038_bazis_kepzettsegek.md) →
+🔗 [Fortélyok kiterjesztéslistája](038_fortelyok_kiterjeszteslistaja.md) →
 
 ⚜️ [Nyitóoldal](start.md)
