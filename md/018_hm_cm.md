@@ -56,4 +56,4 @@ A `HM` és `CM` nem keverhetőek, tehát a `CM`-re költhető max `4` pont nem �
 
 🔗 [Nem Játékos Karakterek](019_njk.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#1-karakteralkot%C3%A1s)

@@ -22,4 +22,4 @@ Az imént felsorolt jellemzők egy részét csokorba szedtük és "ingyenes", ú
 
 🔗 [Tapasztalati szint, Szintlépés](013_tsz_szintlepes.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#1-karakteralkot%C3%A1s)

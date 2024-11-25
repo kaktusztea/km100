@@ -66,4 +66,4 @@ Majd jöjjön végül karaktered [harcértékeinek megállapítása](062_01_ke_t
 
 🔗 [Karakteralkotó ods](011_karakteralkoto_ods.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#1-karakteralkot%C3%A1s)

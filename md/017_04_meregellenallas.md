@@ -8,4 +8,4 @@ Bővebben lásd a [Méregkeverés](kepzettsegek.primer.altalanos/meregkeveres.md
 
 🔗 [Harcérték Módosítók, Célzóérték Módosítók](018_hm_cm.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#1-karakteralkot%C3%A1s)

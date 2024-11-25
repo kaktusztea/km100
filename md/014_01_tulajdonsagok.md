@@ -297,4 +297,4 @@ a külső hatásokat meg se próbálja értelmezni. Nem indítja meg semmi, legf
 
 🔗 [Tulajdonságpróba](014_02_tulajdonsagproba.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#1-karakteralkot%C3%A1s)

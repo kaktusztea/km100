@@ -31,4 +31,4 @@ Irányelvek karakter szintekre:
 
 🔗 [Tulajdonságok](014_01_tulajdonsagok.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#1-karakteralkot%C3%A1s)

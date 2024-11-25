@@ -19,4 +19,4 @@ Minden más ismeret, ami nem Primer, viszont Karakteralkotó Pontba (`KP`) kerü
 
 🔗 [Karakteralkotó Pontok](016_kp.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#1-karakteralkot%C3%A1s)
