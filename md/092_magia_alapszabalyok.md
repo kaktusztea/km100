@@ -220,4 +220,4 @@ A Támadások (Varázslások) száma is bejátszik. A nagyobb Erejű varázslato
 
 🔗 [Aura, Mágia Átütése, Mágiaellenállás](094_aura_atutes_magiaellenallas.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#9-m%C3%A1giarendszer)

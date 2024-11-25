@@ -20,4 +20,4 @@ A teljes szabályt lásd a fortély leírásánál: **[Vértviselet](fortelyok.h
 
 🔗 [Páncél ára](069_06_pancel_ara.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#6-harcrendszer-%EF%B8%8F)

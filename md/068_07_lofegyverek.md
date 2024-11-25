@@ -34,6 +34,6 @@ Egy helyen rögzített „lengő” anyagok könnyen megfoghatják az íjász l�
 
 ---
 
-🔗 [Pajzsok](068_09_pajzsok.md) →
+🔗 [Lovas fegyverek](068_08_lovas_fegyverek.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#6-harcrendszer-%EF%B8%8F)

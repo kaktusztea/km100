@@ -6,4 +6,4 @@ Jelenleg a saját [STUDY oldalán](https://github.com/kaktusztea/km100/wiki/STUD
 
 ---
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#8-psz%C3%AD)

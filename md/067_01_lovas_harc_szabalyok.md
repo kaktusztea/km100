@@ -52,4 +52,4 @@ Ha sebet kap a lovas, akkor **Lovaglás** képzettségpróbát kell dobnia, hogy
 
 🔗 [Lovas fortélyok](067_02_lovas_leglovas_fortelyok.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#6-harcrendszer-%EF%B8%8F)

@@ -80,4 +80,4 @@ Szót érdemelnek még a politikai cselszövések, mint szociális vonatkozású
 
 🔗 [Harci fortélyok](044_harci_fortelyok.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#4-fort%C3%A9lyok)

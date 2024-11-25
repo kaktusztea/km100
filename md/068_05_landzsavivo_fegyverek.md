@@ -24,6 +24,6 @@ A fenti alól kivétel, ha két oldalról természetes, vagy épített kordonnal
 
 ---
 
-🔗 [Lovas fegyverek](068_08_lovas_fegyverek.md) →
+🔗 [Hajítófegyverek](068_06_hajitofegyverek.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#6-harcrendszer-%EF%B8%8F)

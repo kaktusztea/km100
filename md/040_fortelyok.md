@@ -47,4 +47,4 @@ Erről a [Képzettségek és fortélyok kapcsolata](037_kepzettsegek_fortelyok_k
 
 ---
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#4-fort%C3%A9lyok)

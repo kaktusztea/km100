@@ -80,4 +80,4 @@ Sima próbadobás adott nehézségre, melyet a KM határoz meg.
 
 🔗 [Nyomok észrevétele, Nyomkövetés - természetben](152_01_nyomok_nyomkovetes_termeszet.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#15-szitu%C3%A1ci%C3%B3k)

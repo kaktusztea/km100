@@ -70,4 +70,4 @@ Ha további seb nem éri, akkor – a magához térés után – a `9 KT` 9 óra
 
 🔗 [Sebesülés](061_03_sebesules.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#6-harcrendszer-%EF%B8%8F)

@@ -53,4 +53,4 @@ Az SFÉ táblázatban nem véletlenül _szorzó_ értékek szerepelnek arany, va
 
 🔗 [Páncél példák](069_07_pancel_peldak.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#6-harcrendszer-%EF%B8%8F)

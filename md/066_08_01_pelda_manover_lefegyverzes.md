@@ -37,6 +37,6 @@ Ha Rühes `2` Manőver Pontot költött volna el, akkor már `+4` járna a prób
 
 ---
 
-🔗 [Példa Manőver: Gáncsolás](066_08_02_pelda_manover_lapsopres.md) →
+🔗 [Példa Manőver: Lábsöprés](066_08_02_pelda_manover_lapsopres.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#6-harcrendszer-%EF%B8%8F)

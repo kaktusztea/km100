@@ -16,4 +16,4 @@ TODO: Bevezető
 
 ---
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#15-szitu%C3%A1ci%C3%B3k)

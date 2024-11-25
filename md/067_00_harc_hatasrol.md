@@ -14,4 +14,4 @@ Aki lóról harcol, az előnyben van, részben a magasabb pozíció, részben lo
 
 ---
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#6-harcrendszer-%EF%B8%8F)

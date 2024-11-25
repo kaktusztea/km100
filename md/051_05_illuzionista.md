@@ -55,4 +55,4 @@ A haladóbb formulák leírását alább.
 
 🔗 [Természeti Mágia Tradíció](051_06_termeszeti_magia.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#5-trad%C3%ADci%C3%B3k)

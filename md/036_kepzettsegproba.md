@@ -164,4 +164,4 @@ Ha megsérül a karakter, képzettségpróbáira levonások járnak. Hogy mennyi
 
 🔗 [Képzettségek és Fortélyok kapcsolata](037_kepzettsegek_fortelyok_kapcsolata.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#3-k%C3%A9pzetts%C3%A9grendszer)

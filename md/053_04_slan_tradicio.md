@@ -11,4 +11,4 @@ Jelenleg a saját [STUDY oldalán](https://github.com/kaktusztea/km100/wiki/STUD
 
 🔗 [Fejvadász tradíció](053_03_fejvadasz_tradicio.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#11-slan-miszt%C3%A9rium--10-)

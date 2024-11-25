@@ -18,4 +18,4 @@ Lásd : [Akciók fogalma](063_04_akcio_fogalma.md#akció-fogalma).
 
 🔗 [Kezdeményezés](064_02_02_kezdemenyezes.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#6-harcrendszer-%EF%B8%8F)

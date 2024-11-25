@@ -379,4 +379,4 @@ Figyelem: ha a védekező mozgásában korlátozottá válik a körülötte lev�
 
 🔗 [Harci taktikák](065_02_harci_taktikak.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#6-harcrendszer-%EF%B8%8F)

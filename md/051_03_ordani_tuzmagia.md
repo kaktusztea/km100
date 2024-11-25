@@ -55,4 +55,4 @@ A haladóbb formulák leírását alább.
 
 🔗 [Bárdmágia Tradíció](051_04_bardmagia.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#5-trad%C3%ADci%C3%B3k)

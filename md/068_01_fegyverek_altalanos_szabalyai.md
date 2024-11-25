@@ -62,4 +62,4 @@ Puszta kéz:  KÉ:-10,  TÉ:0,  VÉ:-10
 
 🔗 [Közelharci fegyverek](068_02_kozelharci_fegyverek.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#6-harcrendszer-%EF%B8%8F)

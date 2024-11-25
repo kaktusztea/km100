@@ -16,3 +16,7 @@
 #### [Páncél ára](069_06_pancel_ara.md)
 
 #### [Páncél példák](069_07_pancel_peldak.md)
+
+---
+
+⚜️ [Nyitóoldal](start.md#6-harcrendszer-%EF%B8%8F)

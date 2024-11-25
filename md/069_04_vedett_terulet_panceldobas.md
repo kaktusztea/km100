@@ -30,4 +30,4 @@ Torzót, felkart és alkart védő páncél a test `70%`-át védi (`50+10+10`).
 
 🔗 [Vértviselet fortély bónuszai](069_05_vertviselet_fortely_bonuszai.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#6-harcrendszer-%EF%B8%8F)

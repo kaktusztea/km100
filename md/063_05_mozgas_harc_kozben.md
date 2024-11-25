@@ -28,6 +28,6 @@ Ha a karakter a `Max mozgás` távolságnál mindenképpen nagyobb távot akar m
 
 ---
 
-🔗 [Harc menete - összefoglalás](064_01_harc_menete_osszefoglalas.md) →
+🔗 [Támadások száma fegyverrel](063_06_tamadasok_szama_fegyverrel.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#6-harcrendszer-%EF%B8%8F)

@@ -26,6 +26,4 @@ Most lássuk részletesen, hogy a fentieket hogyan alkalmazza a harcos, mikor k�
 
 ---
 
-🔗 [Pédaharc](064_03_peldaharc.md) →
-
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#6-harcrendszer-%EF%B8%8F)

@@ -55,4 +55,4 @@ A haladóbb formulák leírását alább.
 
 🔗 [Drágakőmágia Tradíció](051_08_dragakomagia.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#5-trad%C3%ADci%C3%B3k)

@@ -157,4 +157,4 @@ Lásd a [Belharcból kibontakozás](066_05_altalanos_manoverek.md#belharcból-ki
 
 🔗 [Lovas Manőverek listája](066_07_lovas_manoverek.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#6-harcrendszer-%EF%B8%8F)

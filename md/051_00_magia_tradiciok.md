@@ -38,4 +38,6 @@ Ha egy karakter tiszta Mágikus vagy Papi Tradíciót tanul, akkor automatikusan
 
 ---
 
-⚜️ [Nyitóoldal](start.md)
+🔗 [Magasmágia tradíció](051_01_magasmagia.md) →
+
+⚜️ [Nyitóoldal](start.md#5-trad%C3%ADci%C3%B3k)

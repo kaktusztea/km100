@@ -9,3 +9,7 @@ Itt tárgyaljuk a karakter előterővel, sebesüléssel kapcsolatos értékeit, 
 #### [Sebesülés](061_03_sebesules.md)
 
 #### [Gyógyulás](061_04_gyogyulas.md)
+
+---
+
+⚜️ [Nyitóoldal](start.md#6-harcrendszer-%EF%B8%8F)

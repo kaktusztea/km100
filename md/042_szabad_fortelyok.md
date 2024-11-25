@@ -80,6 +80,8 @@ Van, hogy egy Szabad Fortély több képzettséget is kiterjeszt.
 
 ---
 
+🔗 [Fortélyok](040_fortelyok.md) ↑
+
 🔗 [Általános fortélyok](043_altalanos_fortelyok.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#4-fort%C3%A9lyok)

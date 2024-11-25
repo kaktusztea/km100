@@ -68,4 +68,4 @@ További támadásokat `Kétkezes Harc` során szerezhet a karakter. Lásd a [K�
 
 🔗 [Támadások száma varázsláskor](063_07_tamadasok_szama_varazslaskor.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#6-harcrendszer-%EF%B8%8F)

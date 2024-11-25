@@ -38,4 +38,5 @@ Ha `2 pengehosszal` nagyobb fegyverű a támadó, akkor természetesen itt is a 
 
 🔗 [Akció fogalma](063_04_akcio_fogalma.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#6-harcrendszer-%EF%B8%8F)
+

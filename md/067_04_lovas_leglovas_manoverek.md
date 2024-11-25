@@ -28,3 +28,5 @@ Lovaddal vadul forgolódsz, a hátas ki-kirúg ide-oda, borzasztó nehéz közel
 ⭕TODO: kidolgozni⭕
 
 ---
+
+⚜️ [Nyitóoldal](start.md#6-harcrendszer-%EF%B8%8F)
