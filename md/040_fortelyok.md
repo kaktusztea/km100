@@ -43,6 +43,8 @@ Az adott fortély leírásában található egyedi bónuszt szolgáltat.
 
 Erről a [Képzettségek és fortélyok kapcsolata](037_kepzettsegek_fortelyok_kapcsolata.md) fejezetben olvashatunk.
 
+Összefoglaló ábrát a fortélyok és képzettségkiterjesztésről pedig [itt láthatunk](038_fortelyok_kiterjeszteslistaja).
+
 ---
 
 ⚜️ [Nyitóoldal](start.md)
