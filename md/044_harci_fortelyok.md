@@ -13,7 +13,7 @@
 - [Harci akrobatika](fortelyok.harci/harci_akrobatika.md)
 - [Harci anatómia](fortelyok.harci/harci_anatomia.md)
 - [Harci láz](fortelyok.harci/harci_laz.md)
-- [Harcos elme](fortelyok.harci/harcos_elme.md) 🔺
+- [Harcos elme](fortelyok.harci/harcos_elme.md)
 - [Hárítófegyver használat](fortelyok.harci/haritofegyver_hasznalat.md)
 - [Kaszabolás](fortelyok.harci/kaszabolas.md)
 - [Kétkezes harc](fortelyok.harci/ketkezes_harc.md)

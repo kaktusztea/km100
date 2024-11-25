@@ -42,7 +42,7 @@ Siker esetén ezt a próbát a következő sebesüléskor kell csak újradobnia.
 ---
 #### ⚡ Példa Fájdalomtűrésre
 
-Tetves Fájdalomtűrése `7.szintű`, `Önuralma:+1` (`összesen:8`)
+Tetves, a tolvaj Fájdalomtűrése `7.szintű`, `Önuralma:+1` (`összesen:8`)
 Ekkor az ő sebesülés táblázata így néz ki:
 
 | - | S1 | S2 | S3 | S4 |

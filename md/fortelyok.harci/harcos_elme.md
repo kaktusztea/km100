@@ -43,7 +43,7 @@ A harc ritmusát fenntartva, elméd erejének hála kevésbé merít ki a harc s
 - Harcmodor - `12.szint`
 - (**Közelharc** vagy **Kardvívás** vagy **Lándzsavívás** vagy **Zúzás**)
 - [Teljes Védekezés Taktika](../065_02_harci_taktikak.md#teljes-védekezés-taktika) alkalmazása
-- [Chi harc - Harcmeditáció](../kepzettsegek.primer.slan/chi_harc_harcmeditacio.md) VAGY ⭕[Fejvadász Tradíció](../053_03_fejvadasz_tradicio.md) - `12.szint`⭕
+- [Chi harc - Harcmeditáció](../kepzettsegek.primer.slan/chi_harc_harcmeditacio.md) VAGY [Fejvadász Tradíció](../053_03_fejvadasz_tradicio.md) - `12.szint`
 
 🌟 **Hatás**:
 - Az alkalmazó `VÉ`-je [Teljes Védekezés Taktika](../065_02_harci_taktikak.md#teljes-védekezés-taktika) alkalmazásakor **egyáltalán nem csökken** ellenfelei támadásának hatására.
