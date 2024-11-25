@@ -187,4 +187,4 @@ A mágiatudó csalódottan horkant fel, mágiája csődöt mondott.
 
 🔗 [Varázslás módszerek](095_varazslas_modszerek.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#9-m%C3%A1giarendszer)

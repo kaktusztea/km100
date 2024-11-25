@@ -29,4 +29,4 @@ A Hajítófegyverek sebzése általánosságban **Szúró** jellegű. Ahol ez m�
 
 🔗 [Lőfegyverek](068_07_lofegyverek.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#6-harcrendszer-%EF%B8%8F)

@@ -112,4 +112,4 @@ A fenti módosító akkor is megjelenhet, ha az Ellenfél az alkalmazót már l�
 
 🔗 [Általános Manőverek listája](066_05_altalanos_manoverek.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#6-harcrendszer-%EF%B8%8F)

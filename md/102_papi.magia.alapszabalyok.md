@@ -84,4 +84,4 @@ A Kegy pontokat a varázslatok **Átütésének** egyszeri erősítésére lehet
 
 🔗 [Papi varázslatok](103_papi.varazslatok.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#10-papi-m%C3%A1gia-10-)

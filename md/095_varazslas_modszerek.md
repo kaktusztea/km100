@@ -8,4 +8,4 @@ Bővebben lásd a [Varázslás módszerek](045_misztikus_magia_fortelyok.md#var�
 
 🔗 [Mágikus komponensek, összhangok](096_magikus_komponensek_osszhangok.md)→
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#9-m%C3%A1giarendszer)

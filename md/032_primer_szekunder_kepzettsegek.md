@@ -10,4 +10,4 @@ Ezek pontos listáját lásd a [Képzettséglista](031_kepzettseglista.md) oldal
 
 🔗 [Képzettségszint skála](033_kepzettsegszint_skala.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#3-k%C3%A9pzetts%C3%A9grendszer)

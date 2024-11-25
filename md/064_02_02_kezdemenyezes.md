@@ -31,4 +31,4 @@ Ha olyan speciális helyzet áll elő, hogy harcolni ÉS varázsolni is szeretn�
 
 🔗 [Támadó dobás](064_02_03_tamado_dobas.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#6-harcrendszer-%EF%B8%8F)

@@ -9,6 +9,6 @@
 
 ---
 
-🔗 [Hajítófegyverek](068_06_hajitofegyverek.md) →
+🔗 [Pajzsok](068_09_pajzsok.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#6-harcrendszer-%EF%B8%8F)

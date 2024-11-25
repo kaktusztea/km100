@@ -151,4 +151,5 @@ Az apró, kis hatású varázslatokat ingyen, vagy 1-2 Manáért tudja alkalmazn
 
 ---
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#2-h%C3%A1tterek)
+

@@ -11,4 +11,4 @@
 
 ---
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#10-papi-m%C3%A1gia-10-)

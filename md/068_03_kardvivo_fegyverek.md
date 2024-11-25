@@ -53,4 +53,4 @@ ellen +2 SP sebzésbónusz
 
 🔗 [Zúzó fegyverek](068_04_zuzo_fegyverek.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#6-harcrendszer-%EF%B8%8F)

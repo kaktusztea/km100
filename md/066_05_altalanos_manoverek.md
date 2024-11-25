@@ -404,4 +404,4 @@ Alkalmazható egyszerre, csoportosan is. Csoportot terelni nehezebb. Ilyenkor em
 
 🔗 [Belharcos Manőverek listája](066_06_belharcos_manoverek.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#6-harcrendszer-%EF%B8%8F)

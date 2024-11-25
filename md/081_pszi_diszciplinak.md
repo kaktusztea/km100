@@ -32,3 +32,7 @@ Dobás: [Önuralom](014_01_tulajdonsagok.md#-önuralom-️) Tulajdonsággal
 
 ⭕Transz
 - ??
+
+---
+
+⚜️ [Nyitóoldal](start.md#8-psz%C3%AD)

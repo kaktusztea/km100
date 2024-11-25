@@ -20,4 +20,4 @@ Pontosabban "nagyobbikat dobott kocka".
 
 🔗 [Védő Érték csökkentése](063_03_vedo_ertek_csokkentese.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#6-harcrendszer-%EF%B8%8F)

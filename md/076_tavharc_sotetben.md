@@ -56,3 +56,5 @@ A karakter Érzékenysége `+2`. A játékos először is dob `k10`-el:  ha az e
 - Találati esély: `51%`
 
 ---
+
+⚜️ [Nyitóoldal](start.md#7-t%C3%A1vols%C3%A1gi-harcrendszer-)

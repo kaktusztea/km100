@@ -34,4 +34,4 @@ ellen +2 SP sebzésbónusz
 
 🔗 [Kardvívó fegyverek](068_03_kardvivo_fegyverek.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#6-harcrendszer-%EF%B8%8F)

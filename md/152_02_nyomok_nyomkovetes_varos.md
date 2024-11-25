@@ -29,4 +29,4 @@ Például titkos iratok átböngészése. Egy felfedezett ősi címer elemzése.
 
 🔗 [Menekülés, üldözés, Futás](153_menekules_uldozes_futas.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#15-szitu%C3%A1ci%C3%B3k)

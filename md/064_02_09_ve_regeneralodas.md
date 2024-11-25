@@ -21,4 +21,6 @@ Mivel nem fáradnak szellemileg, legfeljebb ideiglenes hátrányos harci pozíci
 
 ---
 
-⚜️ [Nyitóoldal](start.md)
+🔗 [Példaharc](064_03_peldaharc.md) →
+
+⚜️ [Nyitóoldal](start.md#6-harcrendszer-%EF%B8%8F)

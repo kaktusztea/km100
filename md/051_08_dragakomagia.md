@@ -53,4 +53,4 @@ A haladóbb formulák leírását alább.
 
 ---
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#5-trad%C3%ADci%C3%B3k)

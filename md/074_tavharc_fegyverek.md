@@ -76,4 +76,4 @@ A távolsági fegyverek minősége azok **CÉ**-jét javítja, vagy éppen rontj
 
 🔗 [Távharc példák](075_tavharc_peldak.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#7-t%C3%A1vols%C3%A1gi-harcrendszer-)

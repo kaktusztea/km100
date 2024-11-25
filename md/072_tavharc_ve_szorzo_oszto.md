@@ -131,4 +131,4 @@ Alább az egyes fegyver-kategóriák tipikus **Osztó** értékét látjuk. Ett�
 
 🔗 [Távharc taktikák](073_tavharc_taktikak.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#7-t%C3%A1vols%C3%A1gi-harcrendszer-)

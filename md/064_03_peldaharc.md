@@ -173,3 +173,5 @@ Fájdalomtűrés (K) + Edzettség (T)  vs.  12 (Nehéz)
 A lovag kínkeservesen feltápászkodik, hite, bátorsága és a láncing megmentette az életét. A háttérben vasalt csizmák csattogása hallatszik, az őrjárat érkezik futva, de sok dolguk már nem akad...
 
 ---
+
+⚜️ [Nyitóoldal](start.md#6-harcrendszer-%EF%B8%8F)

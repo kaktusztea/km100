@@ -36,4 +36,4 @@ Megnő a [Támadó/Védő taktika](065_02_harci_taktikak.md#támadó-taktika) je
 
 🔗 [Találat](064_02_05_talalat.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#6-harcrendszer-%EF%B8%8F)

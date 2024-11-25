@@ -55,4 +55,4 @@ CÉ + k100  vs  VÉ
 
 🔗 [Célpont Védő Értékének számítása, Szorzó, Osztó](072_tavharc_ve_szorzo_oszto.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#7-t%C3%A1vols%C3%A1gi-harcrendszer-)

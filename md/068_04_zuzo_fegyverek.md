@@ -19,4 +19,4 @@
 
 🔗 [Lándzsavívó fegyverek](068_05_landzsavivo_fegyverek.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#6-harcrendszer-%EF%B8%8F)

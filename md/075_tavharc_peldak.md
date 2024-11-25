@@ -54,4 +54,4 @@ De lássunk egy bonyolultabb esetet.
 
 🔗 [Távharc sötétben](076_tavharc_sotetben.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#7-t%C3%A1vols%C3%A1gi-harcrendszer-)

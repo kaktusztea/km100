@@ -15,4 +15,4 @@ Két okból lehet valaki harcban Hátrányos helyzetben:
 
 🔗 [Kiskocka, Nagykocka](063_02_kiskocka_nagykocka.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#6-harcrendszer-%EF%B8%8F)
