@@ -6,6 +6,7 @@
 - [Csonkolás](#csonkol%C3%A1s)
 - [Ellenfél elfogása](#ellenf%C3%A9l-elfog%C3%A1sa)
 - [Felállás földről](#fel%C3%A1ll%C3%A1s-f%C3%B6ldr%C5%91l)
+- Forgószél támadás
 - [Kibontakozás](#kibontakoz%C3%A1s)
 - [Kiegészítő támadás](#kieg%C3%A9sz%C3%ADt%C5%91-t%C3%A1mad%C3%A1s)
 - [Lábkirántás szálfegyverrel](#l%C3%A1bkir%C3%A1nt%C3%A1s-sz%C3%A1lfegyverrel)
@@ -96,7 +97,7 @@ Továbbá megfelelő mennyiségű `ÉP` sebzést kell okoznod.
 #### Ellenfél elfogása
 
   - Nehézség: 10
-  - Fázisok: `Ellenpróba, Végrehajtás`
+  - Fázisok: `Végrehajtás, Ellenpróba`
   - **Végrehajtás** fázisra **NEM JÁR** a `TÉ:+20` módosító
 
 **Hatás**: Olyan helyzetet alakítasz ki, ahol az ellenfél fegyvere már nem fenyeget, te viszont életfontosságú pont mellé helyezed fegyvered- például a nyakára teszed fegyveredet, míg ő kiszolgáltatottan féltérdre rogy. Ha megmozdul, végzel vele.
@@ -111,6 +112,22 @@ Továbbá megfelelő mennyiségű `ÉP` sebzést kell okoznod.
 - Fázisok: `Megakasztás, Ellenpróba`
 
 **Hatás**: Sikerült harc közben a földről feltápászkodnod, folytathatod a harcot, immár levonások nélkül.
+
+<br />
+
+---
+#### Forgószél támadás
+
+- Nehézség: `7 + ellenfél`
+- Fázisok: `Végrehajtás, Ellenpróba`
+- Ellenfél Manőver Alap: a legmagasabb értékű ellenfélé számít
+- Ellenfél `VÉ`: a legmagasabb értékű ellenfélé számít
+
+**Hatás**: Egy köríves támadásod egyszerre több ellenfelet ér el. Dobj sebzést mindegyikük ellen.
+
+**Feltétel**ek:
+- csak azokra támadhatsz így, akik mind közvetlenül ellened harcolnak
+- fegyvered pengehossza nem lehet kisebb, mint ellenfeleid közül a leghosszabb fegyverrel harcolóé
 
 <br />
 
