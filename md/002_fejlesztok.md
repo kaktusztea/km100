@@ -23,4 +23,4 @@ Mittelholcz Iván
 
 🔗 [Áttekintés](003_attekintes.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#0-kezdetek) 

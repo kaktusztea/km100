@@ -120,4 +120,4 @@ Hetente jelenik meg Github Release:\
 
 🔗 [Fejlesztők](002_fejlesztok.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#0-kezdetek) 
