@@ -49,4 +49,4 @@ Gyors elérésű link gyűjtemény - játékosok számára.
 
 ---
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#0-kezdetek) 

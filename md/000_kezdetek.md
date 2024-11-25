@@ -18,4 +18,4 @@ Mielőtt belevágunk a szabályok ismertetésébe, orientálódjunk egy kicsit. 
 
 ---
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#0-kezdetek) 
