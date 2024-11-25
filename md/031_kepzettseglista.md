@@ -101,8 +101,6 @@
 
 🔵 [Lopás](kepzettsegek.szekunder/lopas.md) <sup><sub>(10%)</sub></sup>
 
-🔵 [Kínzás](kepzettsegek.szekunder/kinzas.md) <sup><sub>(0%)</sub></sup>
-
 🔵 [Szerencsejáték](kepzettsegek.szekunder/szerencsejatek.md) <sup><sub>(0%)</sub></sup>
 
 🔵 [Zárnyitás](kepzettsegek.szekunder/zarnyitas.md) <sup><sub>(0%)</sub></sup>
