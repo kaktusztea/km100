@@ -77,7 +77,8 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 - [Képzettségszintek KP igénye](035_kepzettsegszintek_kp_igenye.md)
 - [Képzettségpróba, Összhangok](036_kepzettsegproba.md) 🎲
 - [Képzettségek és Fortélyok kapcsolata](037_kepzettsegek_fortelyok_kapcsolata.md)
-- [Bázis képzettségek](038_bazis_kepzettsegek.md)
+- [Fortélyok kiterjesztéslistája (ábra)](038_fortelyok_kiterjeszteslistaja.md)
+- [Bázis képzettségek](039_bazis_kepzettsegek.md)
 
 ---
 ### 4. [Fortélyok](040_fortelyok.md)
