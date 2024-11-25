@@ -19,7 +19,7 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 ---
 ## Gyors elérés
 
-[Képzettséglista](031_kepzettseglista.md) &nbsp;-&nbsp; [Fortélyok](040_fortelyok.md)
+[Képzettséglista](031_kepzettseglista.md) &nbsp;-&nbsp; [Fortélyok](040_fortelyok.md)&nbsp;-&nbsp; [Fortély-Képzettség kiterjesztéslista](038_fortelyok_kiterjeszteslistaja.md)
 
 ---
 ## Részletes szabályrendszer
