@@ -8,4 +8,4 @@ Lásd a [Mágiarendszer](090_magiarendszer.md) fejezetet!
 
 🔗 [Méregellenállás](017_04_meregellenallas.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#1-karakteralkot%C3%A1s)

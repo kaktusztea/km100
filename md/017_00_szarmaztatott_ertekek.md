@@ -12,4 +12,4 @@ Egyes értékek más, már kiszámolt értékekből származtatva kerülnek megh
 
 ---
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#1-karakteralkot%C3%A1s)

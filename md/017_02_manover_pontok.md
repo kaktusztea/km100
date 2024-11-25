@@ -8,6 +8,6 @@ Leírásukat lásd a [Manőver - Manőver Pontok](066_02_manover_pontok.md) feje
 
 ---
 
-🔗 [Származtatott értékek](017_00_szarmaztatott_ertekek.md) →
+🔗 [Mágiaellenállás](017_03_magiaellenallas.md) →
 
-⚜️ [Nyitóoldal](start.md)
+⚜️ [Nyitóoldal](start.md#1-karakteralkot%C3%A1s)
