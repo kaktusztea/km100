@@ -7,7 +7,6 @@
 - [Elsöprő roham](fortelyok.harci/elsopro_roham.md)
 - [Fárasztás](fortelyok.harci/farasztas.md)
 - [Fegyverrántás](fortelyok.harci/fegyverrantas.md)
-- [Forgószél támadás](fortelyok.harci/forgoszel_tamadas.md) 🔺
 - [Gyors kezdeményezés](fortelyok.harci/gyors_kezdemenyezes.md)
 - [Harc helyhez kötve](fortelyok.harci/harc_helyhez_kotve.md)
 - [Harci akrobatika](fortelyok.harci/harci_akrobatika.md)
