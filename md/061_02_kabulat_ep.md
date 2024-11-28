@@ -9,7 +9,7 @@ A sima `ÉP` és a `KT` értékek kezelése ugyanabban az ÉP táblázatban tör
 ---
 #### Sebzések jelölése az ÉP táblázatban
 
-Először jelöljük be a valós sebesülés okozta ÉP-ket, majd utána a Kábulat ÉP-ket (ajánlott egy „**K**” betű írása a rubrikákba).
+Először jelöljük be a valós sebesülés okozta `ÉP`-ket, majd utána a Kábulat `ÉP`-ket (ajánlott egy „**K**” betű írása a rubrikákba).
 
 ---
 #### Valós ÉP seb elszenvedése Kábulat ÉP után
@@ -19,7 +19,7 @@ Amennyiben a karakter életerő táblázatában van bármennyi KT, akkor egy új
 ---
 #### Túlcsordult Kábulat ÉP
 
-Amennyiben az életerő táblázat "betelt" és vannak benne Kábulat ÉP pontok, akkor a "túlcsorduló" bármilyen sebzés (ÉP, KT) felülről átírja a KT pontokat ÉP pontokra.
+Amennyiben az életerő táblázat "betelt" és vannak benne Kábulat ÉP pontok, akkor a "túlcsorduló" bármilyen sebzés (`ÉP, KT`) felülről átírja a `KT` pontokat `ÉP` pontokra.
 
 ---
 #### Kábulat ÉP gyógyulása
@@ -29,7 +29,7 @@ Amennyiben az életerő táblázat "betelt" és vannak benne Kábulat ÉP pontok
 Alvásban óránként 2 KT
 ```
 
-A Kábulat ÉP, mivel nem valós sebesülés okozta, gyorsabban „gyógyul”, mint a valós ÉP seb. Fizikai behatás esetén kb. **óránként 1 pont „tűnik el”**, és így szép lassan „visszaolvad” a valós sebzésbe. Mérgezés, betegség esetén a hatás tartósabb is lehet, itt a KM dönt. **Alvás közben** a gyógyulási sebesség duplázódik, tehát **2KT/óra**. Ha a KM úgy látja indokoltnak eltérhet a fenti számoktól.
+A Kábulat ÉP, mivel nem valós sebesülés okozta, gyorsabban „gyógyul”, mint a valós ÉP seb. Fizikai behatás esetén kb. **óránként 1 pont „tűnik el”**, és így szép lassan „visszaolvad” a valós sebzésbe. Mérgezés, betegség esetén a hatás tartósabb is lehet, itt a KM dönt. **Alvás közben** a gyógyulási sebesség duplázódik, tehát `2 KT / óra`. Ha a KM úgy látja indokoltnak eltérhet a fenti számoktól.
 
 ---
 #### Tartós rosszullét
@@ -45,12 +45,12 @@ Minden 5. KT
 ```
 A `KT` kiválóan alkalmas kocsmai verekedések, kisebb – nem „vérre menő” – összetűzések szimulálására is. Mint ahogy azt a „Fegyverek” fejezetben láthatjuk, a Puszta kéz sebzése mindig `KT` (kivéve egyes harcművész stílusokat).
 
-**Minden 5. KT okoz csak 1 ÉP valós sebesülést: 4 KT, 1 ÉP**
+**Minden `5. KT` okoz csak `1 ÉP` valós sebesülést: `4 KT, 1 ÉP`**
 
 ---
 #### Fejbe vágás
 
-Gyakori eset, hogy valakinek ráhúznak egy nagyot a fejére. Például sisakos ellenfelet fejen találnak egy buzogánnyal. A sisak ugyan megvédi, de a feje mégis igen nagy traumát szenved el, pár körig meglehetősen kellemetlenül érzi magát. Ez természetesen helyzet specifikus, a – KM dönt –, de irányadónak elmondhatjuk, hogy ilyenkor például plusz 2-3 KT büntetést kap az áldozat, amelyek azonban pár kör alatt elmúlnak. Ne keverjük a **Fejbe vágást** a 🗡️[Leütés hátulról](066_05_altalanos_manoverek.md#leütés-hátulról) harci taktikával!
+Gyakori eset, hogy valakinek ráhúznak egy nagyot a fejére. Például sisakos ellenfelet fejen találnak egy buzogánnyal. A sisak ugyan megvédi, de a feje mégis igen nagy traumát szenved el, pár körig meglehetősen kellemetlenül érzi magát. Ez természetesen helyzet specifikus, a – KM dönt –, de irányadónak elmondhatjuk, hogy ilyenkor például plusz `2-3 KT` büntetést kap az áldozat, amelyek azonban pár kör alatt elmúlnak. Ne keverjük a **Fejbe vágást** a 🗡️[Leütés hátulról](066_05_altalanos_manoverek.md#leütés-hátulról) harci taktikával!
 
 ---
 #### ⚡ Példa Kábulat ÉP alkalmazására
