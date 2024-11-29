@@ -40,15 +40,26 @@ Ismered a test sebezhető pontjait és tisztában vagy a létfontosságú belső
 - Ismer olyan kényes pontokat, amelyekkel béníthat, görcsöt vagy kábulatot okozhat, és az ilyen technikával okozott ugyanilyen hatásokat szüntethet meg.
 - Szemgolyót szedhet ki harc közben: Sikeres [Területre / Pontra Támadás](../066_05_altalanos_manoverek.md#területre--pontra-támadás) Manőver (Nehézség alacsonyabb:`10`) Puszta kézzel. Nem csak kiüti, hanem ki is szedheti.
 
+<br />
+
 ---
 #### [Leütés hátulról](../066_05_altalanos_manoverek.md#leütés-hátulról) Manőver alkalmazásakor
 
 ... a **Harci anatómia** fortély minden foka: `2`-vel csökkenti a Manőver Ellenpróba Nehézséget.
 
+<br />
+
 ---
 #### [Visszafogott taktika](../065_02_harci_taktikak.md#visszafogott-taktika-) alkalmazásakor
 
 A **Harci anatómia** fortély minden foka `10`-zel csökkenti a **Visszafogott taktika** esetén kapott `TÉ` büntetést.
+
+<br />
+
+---
+#### [Kínokozás](kinokozas.md) fortély
+
+Alkalmazásához követelmény a **Harci anatómia**, melynek egyes fokai egyre erősebb hatáshoz vezetnek.
 
 ---
 #### Megjegyzések

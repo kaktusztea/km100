@@ -383,6 +383,8 @@ Meglepetés esetén is kell **Ellenpróbát** dobni
 
 **Hatás**: Az általad kiszemelt területre sikerül leadnod a támadásod, sebezz, ahogy szoktál. Érme méretű, páncéllal nem fedett terület eseténa [Harci Anatómia](fortelyok.harci/harci_anatomia.md) **SP** bónusz érvényesül.
 
+**Kapcsolódik**: [Kínokozás](fortelyok.harci/kinokozas.md) fortély.
+
 <br />
 
 ---
