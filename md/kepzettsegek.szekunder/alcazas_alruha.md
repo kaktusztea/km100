@@ -26,14 +26,21 @@ Titkos, félmágikus ismeret. Csak az álcázás legnagyobb mesterei ismerik –
 
 `15.szint:` Alkalmazója kellékek nélkül is képes átformálni vonásait. A hatás csak annyi lehet, amennyit maszkkészítő eszközökkel is el tudna érni. Például: pár perc alatt szakállat, bajszot növeszt, ráncokat varázsol az arcára, megváltozik szeme színe, stb.
 
-
 #### Leírás
 
 Az álcázás nagy előny, főleg ha vadásznak rád. Megfelelő maszk, smink, ruha, ezek elengedhetetlenek. Egy jó bajusz csodákat tehet, csak le ne essen a kritikus pillanatban.
 
-Az Álcázás/álruha képzettséggel megváltoztathatod külsődet, tudásodtól függ, hogy mennyire és milyen hitelesen. A képzettség a fentieken kívül úgynevezett „szerepeket" ad a karakternek. Ezek lehetnek pl. „pap", „nemes", „paraszt", stb. Arra jók, hogy alapvető - nem etikett! - viselkedési sablonokat adnak, melyek segítségével pl. elhitetheti a karakter a felületes szemlélővel, hogy ő pl. tényleg pap. Hogy ezek a szerepek mennyire passzolnak a karakterhez, az az előtörténettel való szinkrontól függ (beleértve a kalandok során történt előzményeket is. Pl. paraszt volt, de évek óta nemesi udvarba jár. Ekkor hamarabb is felveheti a „nemes" szerepet).
+Az Álcázás/álruha képzettséggel megváltoztathatod külsődet, tudásodtól függ, hogy mennyire és milyen hitelesen. A képzettség a fentieken kívül úgynevezett „szerepeket" ad a karakternek. Ezek lehetnek pl. „pap", „nemes", „paraszt", stb. Arra jók, hogy alapvető - nem etikett! - viselkedési sablonokat adnak, melyek segítségével például elhitetheti a karakter a szemlélőkkel, hogy ő tényleg pap.
 
-Minden szerep ⭕`„0-ra hoz" (??)`⭕, azaz nem kap levonásokat a karakter. Adott szituációban a KM dönt, hogy kell-e még valamilyen követelmény az adott szerephez. A fenti szerepek tehát csak egy kis pluszt adnak, a hiteles viselkedés előadása, a megtévesztés a szerepjáték része! Hiába tökéletes a fizikai álca és a bónusz, ha hiteltelen az alakítás...
+A szerepek megvalósítása magában foglalja a jellegzetes testtartások átvételét, mozgási jellegeket is. Ez nem színészet, hanem hosszasan begyakorolt gyakorlati tudás.
+
+Természetesen a fenti, nevesített szerepeken felül mássá is átlényegülhesz - erről képzettségpróba dönt. Minél távolabbi a szerep a meglevő, ismert szerepeidtől, illetve alap személyiségedtől, külsődtől, annál nehezebb a próba. KM dönt.
+
+#### Szürke átlagember szerep
+
+Beolvadni a helyi átlagos lakosok közé nagy előny - eltűnni az üldözők elől, nem kitűnni.
+
+Ennek Nehézsége függ a tömeg nagyságától is: `9-15` között mozog jellemzően
 
 <br />
 
