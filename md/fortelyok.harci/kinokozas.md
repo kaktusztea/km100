@@ -1,14 +1,17 @@
 ### 🟣 Kínokozás (1)
 
 Harc közben nem a pusztítás a célod, hanem különösen fájdalmas pontokat támadsz, amivel kibillentheted ellenfeledet lelki nyugalmából.
+
+Támadás előtt kell bejelentened, hogy alkalmazni akarod ezt az ismeretet.
+
 #### 1. fok
 
 🔒 **Követelmény**:
+- Szúró, vagy vágófegyver, amellyel lehetséges pontra támadni
 - [Harci anatómia](harci_anatomia.md): `1.fok`
 - Sikeres [Területre/Pontra támadás](../066_05_altalanos_manoverek.md#területre--pontra-támadás) manőver (ne feledjük: csak vértmentes pontnál számít!)
 
-🌟 **Hatás**: 
-
+🌟 **Hatás**:
 - Eltaláltad a kiszemelt, különösen fájdalmas pontot ellenfeled testén
 - Sebzésed: `1 ÉP`
 - Ellenfeled `🔵 Fájdalomtűrés + ⚪ Önuralom` próbát dob.
