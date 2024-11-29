@@ -17,7 +17,7 @@
 - [Kaszabolás](fortelyok.harci/kaszabolas.md)
 - [Kétkezes harc](fortelyok.harci/ketkezes_harc.md)
 - [Kétkezesség](fortelyok.harci/ketkezesseg.md)
-- [Kínokozás](fortelyok.harci/kinokozas.md) 🔺
+- [Kínokozás](fortelyok.harci/kinokozas.md)
 - [Kitérés lövés elől](fortelyok.harci/kiteres_loves_elol.md)
 - [Körkörös harc](fortelyok.harci/korkoros_harc.md)
 - [Mesterfegyver](fortelyok.harci/mesterfegyver.md)
@@ -26,7 +26,7 @@
 - [Támadás erőből](fortelyok.harci/tamadas_erobol.md)
 - [Természetes fegyver](fortelyok.harci/termeszetes.fegyver.md)
 - [Testőr](fortelyok.harci/testor.md)
-- [Vakharc](fortelyok.harci/vakharc.md) 🔺
+- [Vakharc](fortelyok.harci/vakharc.md)
 - [Vértviselet](fortelyok.harci/vertviselet.md)
 
 ---
