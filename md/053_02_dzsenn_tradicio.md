@@ -38,6 +38,6 @@ Dzsenn tradíció szintek (biztos tudás (⭕vagy próba legyen?)):
 
 ---
 
-🔗 [Amund Tradíció](053_01_amund_tradicio.md) →
+🔗 [Fejvadász tradíció](053_03_fejvadasz_tradicio.md) →
 
 ⚜️ [Nyitóoldal](start.md)
