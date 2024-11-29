@@ -26,4 +26,6 @@ Továbbá minden Szférát rendesen tanulnia kell. A két képesség nem kombin�
 
 ---
 
+🔗 [Dzsenn Tradíció](053_02_dzsenn_tradicio.md) →
+
 ⚜️ [Nyitóoldal](start.md)
