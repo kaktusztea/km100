@@ -31,6 +31,7 @@ Kapcsolódó Képzettség-próba:
 A karakter ismeri az adott kultúra általánosságait.
 
 Mi tartozik bele ebbe az ismeretbe? Az adott kultúrkörön belül a(z)...
+- akcentus, dialektus
 - zenék
 - ételek
 - szokások
