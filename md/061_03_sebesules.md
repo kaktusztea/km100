@@ -32,10 +32,15 @@ Ha harc közben más sebesülés kategóriába (S) lép a karakter, akkor fix `T
 | TÉ levonás |  -  | -10 | -20 | -30 |
 
 #### S4 kategóriás fájdalomtűrés
+
+```
+Fájdalomtűrés (K) + Edzettség (T)
+          vs. 12
+```
+
 ⭕[Harci láz ad bónuszt?](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.fortelyok#harci-l%C3%A1z)
 
-Ha a karakter az S4-es (Súlyosan sebesült) kategóriába ér egyszeri [Fájdalomtűrés](kepzettsegek.primer.altalanos/fajdalomtures.md) próbát kell dobnia Nehéz (`12`) célszám ellen.
-`Fájdalomtűrés (K) + Edzettség (T)  vs.  12`
+Ha a karakter az S4-es (Súlyosan sebesült) kategóriába ér egyszeri [Fájdalomtűrés](kepzettsegek.primer.altalanos/fajdalomtures.md) + **Edzettség** próbát kell dobnia Nehéz (`12`) célszám ellen.
 
 Siker esetén ezt a próbát a következő sebesüléskor kell csak újradobnia.
 
@@ -52,7 +57,7 @@ Ekkor az ő sebesülés táblázata így néz ki:
 ---
 #### Fájdalomtűrés harcon kívül
 
-Mérgezés, kínzás, egyéb fájdalom esetén a karakterek Fájdalomtűrés-próbát kell dobnia a KM által meghatározott célszámra.
+Mérgezés, kínzás, egyéb fájdalom esetén a karakterek Fájdalomtűrés-próbát kell dobnia a KM által meghatározott célszámra - általában **Önuralom** Tulajdonsággal.
 
 ---
 #### Sérülés hatása képzettségpróbára
@@ -86,9 +91,9 @@ Gustav ismét megsebesül. Ezúttal `5 ÉP`, ezzel az `S2` kategóriába kerül.
 
 A harmadik seb `4 ÉP`, Gustav a harmadik (közepesen sérült) kategóriába kerül. Alapból (`-20TÉ`) lenne a büntetés, de ez (`-9TÉ`)-re mérséklődik (`-11`).
 
-Gustav hátrálás közben belefejel a kovácsoltvas kapuba. `4KT` a büntetése. Ezzel az `S4` (utolsó) kategóriába került. Büntetése `-19TÉ` (a `-30` helyett).
+Gustav hátrálás közben belefejel a kovácsoltvas kapuba. `4 KT` a büntetése. Ezzel az `S4` (utolsó) kategóriába került. Büntetése `-19TÉ` (a `-30` helyett).
 
-Mivel S4-es kategóriába került, jön az [automatikus Fájdalomtűrás próba](#s4-kateg%C3%B3ri%C3%A1s-f%C3%A1jdalomt%C5%B1r%C3%A9s) `12` (Nehéz) ellen Edzettséggel. Ha elrontja, akkor el is ájul.
+Mivel `S4` kategóriába került, jön az [automatikus Fájdalomtűrás próba](#s4-kateg%C3%B3ri%C3%A1s-f%C3%A1jdalomt%C5%B1r%C3%A9s) `12` (Nehéz) ellen Edzettséggel. Ha elrontja, akkor el is ájul.
 
 Ha túléli a kalandot, akkor a „szerzett” `4 Kábulat ÉP` gyógyulása `4 óra` alatt, a sebek okozta ÉP csökkenés pedig a [Gyógyulás](061_04_gyogyulas.md) fejezetben meghatározott ütemben történik.
 
