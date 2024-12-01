@@ -172,7 +172,7 @@ VÉ csökkentés:
     nincs Sebzés, VÉ:+5 csökkentés
 ```
 
-Lásd: [Sebzés táblázat](064_02_00_harc_menete_reszletes.md#sebzés)
+Lásd: [Sebzés táblázat](064_02_07_sebzes.md)
 
 **Megjegyzés**: a [Harci anatómia](fortelyok.harci/harci_anatomia.md) ÉP bónusza csak akkor adható hozzá, ha az vértmentes pontot támadsz!
 
