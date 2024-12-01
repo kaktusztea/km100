@@ -40,7 +40,8 @@ Ha a karakter például méregnek „köszönhetően” tartósan gyengélkedik,
 #### Verekedés, Kocsmai bunyó és Kábulat ÉP
 
 ```
-Minden 5. KT
+Bunyóban minden
+5. KT
 1 ÉP sebet okoz. 
 ```
 A `KT` kiválóan alkalmas kocsmai verekedések, kisebb – nem „vérre menő” – összetűzések szimulálására is. Mint ahogy azt a „Fegyverek” fejezetben láthatjuk, a Puszta kéz sebzése mindig `KT` (kivéve egyes harcművész stílusokat).
@@ -55,16 +56,21 @@ Gyakori eset, hogy valakinek ráhúznak egy nagyot a fejére. Például sisakos 
 ---
 #### ⚡ Példa Kábulat ÉP alkalmazására
 
-⭕TODO: Aktualizálni a kész Orvtámadáshoz (amikor kész lesz). Nem lesz Orvtámadás fortély. Csak észrevétlen támadás van.⭕
+Cravignon rossz napja kezdetén rossz embernek, az elöljáró élénkítőszereket előszeretettel magába tömő testőrének szólt be a hétvégi körmeneten, mikor az áttiport a lovag lábán. A jó lovag foghegyről odavetett szitkozódása a kántálásban beállt lélegzetvételnyi szünetben szisszent ki fogainak keritésén. A testőr - ki lábát taposta imént - ezt hallván egy gyors fordulat után méretes öklével vágott Cravignon bal vállába.
 
-Cravignon-t leütik hátulról. ÉP-inek száma 14. Támadója mesterfokú **Orvtámadással** rendelkezik. Sebzést dob `k6`-al, az eredmény `4`. Ekkor a mesterfokú Orvtámadás miatt a valós sebzés csak `2 ÉP`. Lássuk a kábulat sebzést:
-`4 KT + k10SP` amely bónusz szintén a `Mf` miatt csak `KT` sebzést okoz. `k10` dobás eredménye: `7`.
+- Cravignon `ÉP: 14`
+- Testőr Erő: `+2`
+- Testőr, Puszta kéz sebzése: `k20 - 5 KT + 2 (Erőbónusz)`
+- `1. Sebzés`: `19-5+2 = 14 SP` → `6`, azaz `5 KT és 1 ÉP`
 
-Az összesített `KT` sebzés tehát: `4+7=11`. A hatás így `11 ÉP`-nyi sebre vonatkozik, ebből `2 ÉP` valós sérülés. Cravignon tehát bejelöl `2 ÉP` valós és `11-2=9 KT` sérülést.
+Ezzel Cravignon már `S2` kategóriába került. Csillagokat lát a vállába hasító tompa, de brutális ütéstől. Lustán előrekaszál, de elvéti és ellenfele ismét betalál. Ezúttal gyomorszájon találják. Sziszegve szökik ki száján a levegő.
 
-Látható, hogy a karaktert irdatlanul fejbe kólintották, ha elrontja **Fájdalomtűrés próbáját** `18-as célszám` ellen, akkor elájul. Maradt `2` „érintetlen” `ÉP`-je.
+- `2. Sebzés`: `9 SP` → `3 KT
+- ezzel már `9 db` rubrika lett bejelölve a lovag Életerő táblázatában. `S3` kategóriában van. Még `2` rubrika és `S4`-be kerül.
 
-Ha további seb nem éri, akkor – a magához térés után – a `9 KT` 9 óra alatt tűnik el, Cravignon pedig `12 ÉP`-vel és egy púppal a fején éli tovább életét.
+Szerencséjére a testőr elégnek találja a megtorlást és felzárkózik gazdája mellé. Cravignon kivonszolja magát a kocsma mellé és lerogy a lépcsőre.
+
+Összesen `8 KT` és `1 ÉP` sebet szenvedett el. A `8 KT` szerencsére `8` óra múlva magától, alvással pedig már `4` óra alatt elmúlik. Az `1 ÉP` seb viszont csak `1` nap alatt tűnik el - ahogy máskor is.
 
 ---
 
