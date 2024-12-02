@@ -1,4 +1,4 @@
-name: Run and Commit Changes
+name: Fegyver md tables to json
 
 on:
   push:
