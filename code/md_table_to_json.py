@@ -42,19 +42,21 @@ class MdToJsonConverter:
         """
         Filter markdown table code from raw markdown data
         """
-        ## BUG: bad code here
+        extracted_lines = []
+        is_between_markers = False
 
-        blocks = re.split(rf'{self.tag_start}|{self.tag_end}', self.raw_md)
-        # print(f"BATMAN-1: {blocks}")
-        blocks = [block.strip() for block in blocks if block.strip()]
-        # print(f"BATMAN-2: {blocks}")
-        blocks = [block for block in blocks if block != self.tag_start]
-        print(f"BATMAN-3: {blocks}")
-        self.raw_md = '\n'.join(blocks)
-        # print(json.dumps(self.raw_md))      # DEBUG
+        for line in self.raw_md.split("\n"):
+            if self.tag_start in line:
+                is_between_markers = True
+                continue
+            if self.tag_end in line:
+                is_between_markers = False
+                break
+            if is_between_markers:
+                extracted_lines.append(line.strip())
 
+        self.raw_md = "\n".join(extracted_lines)
         # TODO: handle multiple sections
-
 
     def convert_md_to_json(self):
         for n, line in enumerate(self.raw_md[1:-1].split('\n')):
@@ -109,7 +111,7 @@ if __name__ == "__main__":
         path_md = os.path.join(dir_md_root, fegyver_file)
         mjc = MdToJsonConverter(path_md, None)
         # print(mjc.get_json_data())                                                               # DEBUG
-        # full_json.append(mjc.get_json_data())
+        full_json.append(mjc.get_json_data())
 
     # print(full_json)                                                                            # DEBUG
 
