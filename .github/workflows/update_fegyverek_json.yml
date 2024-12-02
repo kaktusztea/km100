@@ -19,13 +19,13 @@ jobs:
       with:
         python-version: '3.13.0'
 
-    - name: Install Dependencies
+    - name: Install Python Dependencies
       run: |
         python -m pip install --upgrade pip
         # Install dependencies if requirements.txt exists
         # if [ -f "requirements.txt" ]; then pip install -r requirements.txt; fi
 
-    - name: Execute Script
+    - name: Execute md_table_to_json.py
       run: python code/md_table_to_json.py
 
     - name: Check for Changes
