@@ -15,6 +15,7 @@ class MdToJsonConverter:
         self.raw_json = []
 
         self.read_md()
+        self.filter_raw_md()
         self.convert_md_to_json()
 
     def read_md(self):
@@ -42,26 +43,34 @@ class MdToJsonConverter:
     def get_json_data(self):
         return self.raw_json
 
+    def filter_raw_md():
+        """
+        Filter markdown table code from raw markdown data
+        """
+        pass
+        # TODO: filter md table from "self.raw_md"
+
 
 def write_json(path_json, raw_json):
     with open(path_json, 'w', encoding="utf-8") as fj:
         fj.seek(0)
+        fj.truncate()
         json.dump(raw_json, fj, ensure_ascii=False, indent=4)
 
 
 dir_code = os.path.dirname(os.path.abspath(__file__))
 dir_md_root = os.path.join(dir_code, '../md')
 
-fegyver_files = ['068_02_kozelharci_fegyverek.md',
+fegyver_raw_md_files = ['068_02_kozelharci_fegyverek.md',
                  '068_03_kardvivo_fegyverek.md',
                  '068_04_zuzo_fegyverek.md',
                  '068_05_landzsavivo_fegyverek.md']
 
 
 raw_full_json = []
-for fegyver_file in fegyver_files:
+for fegyver_file in fegyver_raw_md_files:
     path_md = os.path.join(dir_md_root, fegyver_file)
-    mjc = MdToJsonConverter(path_md)
+    mjc = MdToJsonConverter(path_md, None)
     raw_full_json.append(mjc.get_json_data())
 
 
