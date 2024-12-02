@@ -111,7 +111,7 @@ if __name__ == "__main__":
         path_md = os.path.join(dir_md_root, fegyver_file)
         mjc = MdToJsonConverter(path_md, None)
         # print(mjc.get_json_data())                                                               # DEBUG
-        full_json.append(mjc.get_json_data())
+        full_json.extend(mjc.get_json_data())
 
     # print(full_json)                                                                            # DEBUG
 
