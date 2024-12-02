@@ -28,17 +28,24 @@ jobs:
     - name: Execute Script
       run: python code/md_table_to_json.py
 
+    - name: Check for Changes
+      id: changes
+      run: echo "::set-output name=changes::$(git status --porcelain)"
+
     - name: Configure Git
+      if: steps.changes.outputs.changes != ''
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
 
     - name: Commit Changes
+      if: steps.changes.outputs.changes != ''
       run: |
         git add .
         git commit -m "GitHub Action: md_table_to_json.py"
 
     - name: Push Changes
+      if: steps.changes.outputs.changes != ''
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
