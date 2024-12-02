@@ -13,14 +13,18 @@ A fenti alól kivétel, ha két oldalról természetes, vagy épített kordonnal
 
 ⭕TODO: MGT bejön nagy méretnél⭕
 
-| **Fegyver**       | Forgatás módja |    SP     | Sebzés módja | **Átütés** | **Pengehossz** |  KÉ  |  TÉ  |  VÉ  | Sebesség | Speciális                                                                         |
-| ----------------- |:--------------:|:---------:|:------------:|:----------:|:--------------:|:----:|:----:|:----:|:--------:| --------------------------------------------------------------------------------- |
-| Alabárd           |    kétkezes    |   `+4`    |    S+Z/V     |    `6`     |    3 penge     | `12` | `28` | `28` |   `8`    | Talán a legjobb a páncélok ellen                                                  |
-| Bot, hosszú       |    kétkezes    |   `+1`    |      Z       |    `0`     |    2 penge     | `14` | `16` | `24` |   `6`    |                                                                                   |
-| Lándzsa           |    kétkezes    | `+2`/`+4` |      S       |  `4`/`0`   |    4 penge     | `14` | `32` | `32` |   `6`    | spec: lásd a hegyeket                                                             |
-| Pika              |    kétkezes    | `+2`/`+4` |      S       |  `4`/`0`   |    8 penge     | `18` | `40` | `40` |   `9`    | Ha közrefognak, a fegyver az egyik (választott) támadó ellen `0` harcértékű lesz. |
-| Szigony, egykezes |    egykezes    |   `+2`    |      S       |    `0`     |    2 penge     | `5`  | `10` | `14` |   `7`    |                                                                                   |
-| Szigony, kétkezes |    kétkezes    |   `+4`    |      S       |    `2`     |    3 penge     | `10` | `22` | `26` |   `8`    |                                                                                   |
+<!-- tag: md_table_start -->
+
+| Fegyver           | Forgatás módja |    SP     | Sebzés módja | Átütés  | Pengehossz |  KÉ  |  TÉ  |  VÉ  | Sebesség | Speciális                                                                         |
+| ----------------- |:--------------:|:---------:|:------------:|:-------:|:----------:|:----:|:----:|:----:|:--------:| --------------------------------------------------------------------------------- |
+| Alabárd           |    kétkezes    |   `+4`    |    S+Z/V     |   `6`   |  3 penge   | `12` | `28` | `28` |   `8`    | Talán a legjobb a páncélok ellen                                                  |
+| Bot, hosszú       |    kétkezes    |   `+1`    |      Z       |   `0`   |  2 penge   | `14` | `16` | `24` |   `6`    |                                                                                   |
+| Lándzsa           |    kétkezes    | `+2`/`+4` |      S       | `4`/`0` |  4 penge   | `14` | `32` | `32` |   `6`    | spec: lásd a hegyeket                                                             |
+| Pika              |    kétkezes    | `+2`/`+4` |      S       | `4`/`0` |  8 penge   | `18` | `40` | `40` |   `9`    | Ha közrefognak, a fegyver az egyik (választott) támadó ellen `0` harcértékű lesz. |
+| Szigony, egykezes |    egykezes    |   `+2`    |      S       |   `0`   |  2 penge   | `5`  | `10` | `14` |   `7`    |                                                                                   |
+| Szigony, kétkezes |    kétkezes    |   `+4`    |      S       |   `2`   |  3 penge   | `10` | `22` | `26` |   `8`    |                                                                                   |
+
+<!-- tag: md_table_end -->
 
 ---
 
