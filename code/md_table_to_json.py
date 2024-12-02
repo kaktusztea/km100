@@ -4,6 +4,7 @@
 # https://stackoverflow.com/questions/66185838/convert-markdown-table-to-json-with-python
 
 import json
+import os
 
 class MdToJsonConverter:
 
@@ -42,9 +43,32 @@ class MdToJsonConverter:
         return self.raw_json
 
 
-## TODO: process all types of weapons. Retrieve it from  live .md files
-path_md="/repo/github/km100.code/data/fegyverek.md"
-path_json="/repo/github/km100.code/data/fegyverek.json"
+def write_json(path_json, raw_json):
+    with open(path_json, 'w', encoding="utf-8") as fj:
+        fj.seek(0)
+        json.dump(raw_json, fj, ensure_ascii=False, indent=4)
 
-mjc = MdToJsonConverter(path_md, path_json)
-mjc.write_json()
+
+dir_code = os.path.dirname(os.path.abspath(__file__))
+dir_md_root = os.path.join(dir_code, '../md')
+
+fegyver_files = ['068_02_kozelharci_fegyverek.md',
+                 '068_03_kardvivo_fegyverek.md',
+                 '068_04_zuzo_fegyverek.md',
+                 '068_05_landzsavivo_fegyverek.md']
+
+
+raw_full_json = []
+for fegyver_file in fegyver_files:
+    path_md = os.path.join(dir_md_root, fegyver_file)
+    mjc = MdToJsonConverter(path_md)
+    raw_full_json.append(mjc.get_json_data())
+
+
+path_json="/repo/github/km100.code/data/fegyverek.json"
+write_json(path_json, raw_full_json)
+
+
+# mjc = MdToJsonConverter(path_md, path_json)
+# mjc.write_json()
+
