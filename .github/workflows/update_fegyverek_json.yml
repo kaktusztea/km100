@@ -31,7 +31,7 @@ jobs:
     - name: Check for Changes
       run: |
         if [[ $(git status --porcelain) ]]; then
-           echo "files_modified=true" > $GITHUB_ENV
+          echo "files_modified=true" > $GITHUB_ENV
         else
           echo "files_modified=false" > $GITHUB_ENV
         fi
