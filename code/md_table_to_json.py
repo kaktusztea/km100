@@ -42,9 +42,17 @@ class MdToJsonConverter:
         """
         Filter markdown table code from raw markdown data
         """
+        ## BUG: bad code here
+
         blocks = re.split(rf'{self.tag_start}|{self.tag_end}', self.raw_md)
+        # print(f"BATMAN-1: {blocks}")
         blocks = [block.strip() for block in blocks if block.strip()]
-        self.raw_md = [block for block in blocks if block != self.tag_start]
+        # print(f"BATMAN-2: {blocks}")
+        blocks = [block for block in blocks if block != self.tag_start]
+        print(f"BATMAN-3: {blocks}")
+        self.raw_md = '\n'.join(blocks)
+        # print(json.dumps(self.raw_md))      # DEBUG
+
         # TODO: handle multiple sections
 
 
@@ -92,30 +100,18 @@ if __name__ == "__main__":
     dir_md_root = os.path.join(Path(dir_code).parent, 'md')
 
 
-    fegyver_raw_md_files = [f for f in os.listdir(dir_md_root) if re.match(r'[a-z]*_fegyverek*\.md', f)]
+    fegyver_raw_md_files = [f for f in os.listdir(dir_md_root) if f.endswith('_fegyverek.md')]
 
-    print(dir_data_root)
-    print(dir_md_root)
-    print(fegyver_raw_md_files)
-
-    sys.exit(0)
-
-    # fegyver_raw_md_files = ['068_02_kozelharci_fegyverek.md',
-    #                 '068_03_kardvivo_fegyverek.md',
-    #                 '068_04_zuzo_fegyverek.md',
-    #                 '068_05_landzsavivo_fegyverek.md']
+    # print(fegyver_raw_md_files)                                                                 # DEBUG
 
     full_json = []
     for fegyver_file in fegyver_raw_md_files:
         path_md = os.path.join(dir_md_root, fegyver_file)
         mjc = MdToJsonConverter(path_md, None)
-        full_json.append(mjc.get_json_data())
+        # print(mjc.get_json_data())                                                               # DEBUG
+        # full_json.append(mjc.get_json_data())
 
+    # print(full_json)                                                                            # DEBUG
 
     path_json=os.path.join(dir_data_root, "fegyverek.json")
     write_out_to_json(path_json, full_json)
-
-
-    # mjc = MdToJsonConverter(path_md, path_json)
-    # mjc.write_json()
-
