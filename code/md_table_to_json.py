@@ -1,13 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# https://stackoverflow.com/questions/66185838/convert-markdown-table-to-json-with-python
-
 from pathlib import Path
 import json
-import sys
 import os
-import re
 
 class MdToJsonConverter:
 
@@ -25,7 +21,7 @@ class MdToJsonConverter:
         self.filter_raw_md()
         self.get_table_sections_from_raw_md()
         self.convert_md_to_json()
-        # self.order_json_by_fegyver_name()         # TODO: kell ez?
+        # self.order_json_by_fegyver_name()
 
     def read_md(self):
         with open(path_md, 'r') as fh:
@@ -75,7 +71,6 @@ class MdToJsonConverter:
         Order json by fegyver nev
         """
         pass
-        # TODO: kell ez?? Lehet, hogy jó a meglevő sorrend
 
     def write_json(self, path_json=None):
         if not path_json:
@@ -94,26 +89,19 @@ def write_out_to_json(path_json, raw_json):
         json.dump(raw_json, fj, ensure_ascii=False, indent=4)
 
 
-
 if __name__ == "__main__":
 
     dir_code = os.path.dirname(os.path.abspath(__file__))
-    dir_data_root = os.path.join(Path(dir_code).parent, 'data')
-    dir_md_root = os.path.join(Path(dir_code).parent, 'md')
+    dir_data = os.path.join(Path(dir_code).parent, 'data')
+    dir_md = os.path.join(Path(dir_code).parent, 'md')
 
-
-    fegyver_raw_md_files = [f for f in os.listdir(dir_md_root) if f.endswith('_fegyverek.md')]
-
-    # print(fegyver_raw_md_files)                                                                 # DEBUG
+    fegyver_raw_md_files = [f for f in os.listdir(dir_md) if f.endswith('_fegyverek.md')]
 
     full_json = []
     for fegyver_file in fegyver_raw_md_files:
-        path_md = os.path.join(dir_md_root, fegyver_file)
+        path_md = os.path.join(dir_md, fegyver_file)
         mjc = MdToJsonConverter(path_md, None)
-        # print(mjc.get_json_data())                                                               # DEBUG
         full_json.extend(mjc.get_json_data())
 
-    # print(full_json)                                                                            # DEBUG
-
-    path_json=os.path.join(dir_data_root, "fegyverek.json")
+    path_json=os.path.join(dir_data, "fegyverek.json")
     write_out_to_json(path_json, full_json)
