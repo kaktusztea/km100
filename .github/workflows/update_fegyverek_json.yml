@@ -29,23 +29,27 @@ jobs:
       run: python code/md_table_to_json.py
 
     - name: Check for Changes
-      id: changes
-      run: echo "::set-output name=changes::$(git status --porcelain)"
+      run: |
+        if [[ $(git status --porcelain) ]]; then
+           echo "files_modified=true" > $GITHUB_ENV
+        else
+          echo "files_modified=false" > $GITHUB_ENV
+        fi
 
     - name: Configure Git
-      if: steps.changes.outputs.changes != ''
+      if: ${{ env.files_modified == 'true' }}
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
 
     - name: Commit Changes
-      if: steps.changes.outputs.changes != ''
+      if: ${{ env.files_modified == 'true' }}
       run: |
         git add .
         git commit -m "GitHub Action: md_table_to_json.py"
 
     - name: Push Changes
-      if: steps.changes.outputs.changes != ''
+      if: ${{ env.files_modified == 'true' }}
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
