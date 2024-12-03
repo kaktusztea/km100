@@ -9,7 +9,7 @@ Egy helyen rögzített „lengő” anyagok könnyen megfoghatják az íjász l�
 
 ### Íjász lőfegyverek
 
-<!-- tag: md_table_start -->
+<!-- tag: md_table_fegyver_start -->
 
 | Fegyver         | Forgatás módja |   SP   | Sebzés módja | Átütés |  KÉ  |  CÉ   | Osztó | Hatótáv | Sebesség | Speciális / Megjegyzés                                                                                                                          |     |
 | --------------- |:--------------:|:------:|:------------:|:------:|:----:|:-----:|:-----:| -------:|:--------:| ----------------------------------------------------------------------------------------------------------------------------------------------- | --- |
@@ -20,14 +20,14 @@ Egy helyen rögzített „lengő” anyagok könnyen megfoghatják az íjász l�
 | Fúvócső, kicsi  |    egykezes    | spec\* |      S       |  `0`   | `10` | `+8`  |  `1`  |   `16m` |   `8`    | `k20` dobásnál: `20`-as dobás: `1 ÉP`, különben `0 ÉP`                                                                                          |     |
 | Fúvócső, vadász |    kétkezes    | `-10`  |      S       |  `0`   | `5`  | `+10` |  `1`  |   `30m` |   `9`    |                                                                                                                                                 |     |
 
-<!-- tag: md_table_end -->
+<!-- tag: md_table_fegyver_end -->
 
 ---
 ### Lövész lőfegyverek
 
  Az Erőbónusz **nem** adódik hozzá a Lövész lőfegyverek **SP** értékéhez.
 
-<!-- tag: md_table_start -->
+<!-- tag: md_table_fegyver_start -->
 
 | Fegyver            | Forgatás módja |      SP      | Sebzés módja | Átütés | KÉ  |  CÉ   | Osztó | Hatótáv | Sebesség | Speciális / Megjegyzés                                          |
 | ------------------ | -------------- |:------------:|:------------:|:------:|:---:|:-----:|:-----:|:-------:|:--------:| --------------------------------------------------------------- |
@@ -38,7 +38,7 @@ Egy helyen rögzített „lengő” anyagok könnyen megfoghatják az íjász l�
 | Kharei nyílpuska   | kétkezes       |     `+3`     |      S       |  `0`   | `5` | `+14` |  `4`  |  `50m`  |   `5`    | \* Míg ki nem fogy a tár. Újratöltés: `1` kör                   |
 | Aquir nyílpuska    | egykezes       | `halál / +6` |      S       |  `20`  | `8` | `+16` |  `4`  |  `50m`  |   `6`    | - Halálos hatása és harcértékei csak aquir kézben érvényesülnek |
 
-<!-- tag: md_table_end -->
+<!-- tag: md_table_fegyver_end -->
 
 ---
 

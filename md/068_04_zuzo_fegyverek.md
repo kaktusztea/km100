@@ -1,6 +1,6 @@
 ## Zúzó fegyverek
 
-<!-- tag: md_table_start -->
+<!-- tag: md_table_fegyver_start -->
 
 | Fegyver             | Forgatás módja |  SP  | Sebzés módja | Átütés | Pengehossz | KÉ  |  TÉ  |  VÉ  | Sebesség | Speciális                                                                        |
 | ------------------- | :------------: | :--: | :----------: | :----: | :--------: | :-: | :--: | :--: | :------: | -------------------------------------------------------------------------------- |
@@ -17,7 +17,7 @@
 | Csatacsákány        |    egykezes    | `+5` |     `Z`      |  `10`  |    `1`     | `5` | `14` | `5`  |   `7`    | Nagyon vérzik<br />`50%` az esély, hogy beragad és nem lehet kihúzni harc közben |
 | Harci kalapács      |    kétkezes    | `+7` |     `Z`      |  `0`   |   `1.5`    | `1` | `20` | `8`  |   `8`    | **Erő** követelmény:`+2`                                                         |
 
-<!-- tag: md_table_end -->
+<!-- tag: md_table_fegyver_end -->
 
 ---
 

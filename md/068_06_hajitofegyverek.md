@@ -10,7 +10,7 @@ A Hajítófegyverek sebzése általánosságban **Szúró** jellegű. Ahol ez m�
  a hajítófegyverek SP értékéhez.
 ```
  
-<!-- tag: md_table_start -->
+<!-- tag: md_table_fegyver_start -->
 
 | Fegyver      | Forgatás módja |  SP   | Sebzés módja | Átütés |  KÉ  |  CÉ  | Osztó |          Hatótáv | Sebesség | Speciális / Megjegyzés                                                                                                                                       |
 | ------------ |:--------------:|:-----:|:------------:|:------:|:----:|:----:|:-----:| ----------------:|:--------:| ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -26,7 +26,7 @@ A Hajítófegyverek sebzése általánosságban **Szúró** jellegű. Ahol ez m�
 | Slan csillag |    egykezes    | `-5`  |      S       |  `0`   | `12` | `+3` |  `1`  |            `15m` |   `4`    |                                                                                                                                                              |
 | Tőr          |    egykezes    | `+0`  |      S       |  `0`   | `7`  | `+2` |  `2`  |            `10m` |   `6`    |                                                                                                                                                              |
 
-<!-- tag: md_table_end -->
+<!-- tag: md_table_fegyver_end -->
 
 ---
 

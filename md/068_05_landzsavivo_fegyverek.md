@@ -13,7 +13,7 @@ A fenti alól kivétel, ha két oldalról természetes, vagy épített kordonnal
 
 ⭕TODO: MGT bejön nagy méretnél⭕
 
-<!-- tag: md_table_start -->
+<!-- tag: md_table_fegyver_start -->
 
 | Fegyver           | Forgatás módja |    SP     | Sebzés módja | Átütés  | Pengehossz |  KÉ  |  TÉ  |  VÉ  | Sebesség | Speciális                                                                         |
 | ----------------- |:--------------:|:---------:|:------------:|:-------:|:----------:|:----:|:----:|:----:|:--------:| --------------------------------------------------------------------------------- |
@@ -24,7 +24,7 @@ A fenti alól kivétel, ha két oldalról természetes, vagy épített kordonnal
 | Szigony, egykezes |    egykezes    |   `+2`    |     `S`      |   `0`   |    `2`     | `5`  | `10` | `14` |   `7`    |                                                                                   |
 | Szigony, kétkezes |    kétkezes    |   `+4`    |     `S`      |   `2`   |    `3`     | `10` | `22` | `26` |   `8`    |                                                                                   |
 
-<!-- tag: md_table_end -->
+<!-- tag: md_table_fegyver_end -->
 
 ---
 

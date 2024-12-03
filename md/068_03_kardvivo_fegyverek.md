@@ -19,7 +19,7 @@ Páncélozatlan ellenfél
 ellen +2 SP sebzésbónusz
 ```
 
-<!-- tag: md_table_start -->
+<!-- tag: md_table_fegyver_start -->
 
 | Fegyver              | Forgatás módja |  SP  | Sebzés módja | Átütés | Pengehossz |  KÉ  |  TÉ  |  VÉ  | Sebesség | Speciális                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | -------------------- | :------------: | :--: | :----------: | :----: | :--------: | :--: | :--: | :--: | :------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -50,7 +50,7 @@ ellen +2 SP sebzésbónusz
 | Sequor               |    egykezes    | `+4` |   `V`/`S`    |  `0`   |   `0.5`    | `6`  | `13` | `11` |   `5`    | `IV` fegyver, `KF`: **Tradíció: Fejvadász** - `9.szint`                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | Tőrkard              |    egykezes    | `+2` |     S/V      |  `0`   |    `1`     | `6`  | `12` | `12` |   `5`    | Nemesemberek fegyvere városi környezetben. Részben esztétikai értékkel bír, részben a szűk utcákban, sikátorokban könnyen forgatható tulajdonságában emelkedik ki.<br />- [Területre/pontra támadás](066_05_altalanos_manoverek.md#ter%C3%BCletre--pontra-t%C3%A1mad%C3%A1s) manővernél: a Nehézség `1`-el csökken <br />- Ha az ellenfél is tőrkarddal harcol, mindketten kapnak `+10` VÉ bónuszt egymás ellen.<br />- Erőbónusz nem számít!<br />- Könnyebb ellene a [Fegyvertörés](066_05_altalanos_manoverek.md#lefegyverz%C3%A9s--fegyvert%C3%B6r%C3%A9s) Manőver → Nehézség:`-2`<br />- Zúzó fegyverek ellen `VÉ` büntetés: `VÉ:-8` |
 
-<!-- tag: md_table_end -->
+<!-- tag: md_table_fegyver_end -->
 
 ---
 
