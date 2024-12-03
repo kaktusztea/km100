@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-import JinjaHandler
+from lib.JinjaHandler import JinjaHandler
+import
 import sys
 
 template_dir =  sys.argv[1]
