@@ -7,7 +7,7 @@ import os
 
 class MdToJsonConverter:
 
-    def __init__(self, path_md, path_json, filepattern, table_pattern):
+    def __init__(self, path_md, path_json, filepattern, table_pattern, skip_columns):
         self.path_md = path_md
         self.path_json = path_json
 
@@ -18,6 +18,7 @@ class MdToJsonConverter:
         self.tag_start = f"<!-- tag: md_table_{table_pattern}_start -->"
         self.tag_end = f"<!-- tag: md_table_{table_pattern}_end -->"
         self.filter_out_chars = ['**', '`', '⭕TODO⭕', '⭕TODO', '⭕']
+        self.skip_columns = skip_columns
 
         self.read_md()
         self.filter_raw_md()
@@ -52,9 +53,7 @@ class MdToJsonConverter:
                 break
             if is_between_markers:
                 extracted_lines.append(line.strip())
-
         self.raw_md = "\n".join(extracted_lines)
-        # TODO: handle multiple sections
 
     def convert_md_to_json(self):
         for n, line in enumerate(self.raw_md[1:-1].split('\n')):
@@ -64,7 +63,8 @@ class MdToJsonConverter:
             if n > 1:
                 values = [t.strip() for t in line.split('|')[1:-1]]
                 for col, value in zip(header, values):
-                    data[col] = value
+                    if col not in self.skip_columns:
+                        data[col] = value
                 self.raw_json.append(data)
             n += 1
 
@@ -102,23 +102,25 @@ if __name__ == "__main__":
         'id':'fegyverek',
         'output':'fegyverek.json',
         'file_pattern': 'fegyverek.md',
-        'table_pattern': 'fegyver'
+        'table_pattern': 'fegyver',
+        'skip_columns': []
        },
        {
         'id':'kepzettseg_kp',
         'output':'kepzettseg_kp.json',
-        'file_pattern': 'fegyverek2',
-        'table_pattern': 'fegyver2'
+        'file_pattern': 'kepzettsegszintek_kp_igenye.md',
+        'table_pattern': 'kepzettsegkp',
+        'skip_columns': ['Fokozat']
        },
     ]
 
     for d in data:
         path_json = os.path.join(dir_data, d['output'])
         full_json = []
-        for item in os.listdir(dir_md):
-            if (d['file_pattern']) in item:
-                path_md = os.path.join(dir_md, item)
-                mjc = MdToJsonConverter(path_md, None, d['file_pattern'], d['table_pattern'])
+        for fname in os.listdir(dir_md):
+            if (d['file_pattern']) in fname:
+                path_md = os.path.join(dir_md, fname)
+                mjc = MdToJsonConverter(path_md, None, d['file_pattern'], d['table_pattern'], d['skip_columns'])
                 full_json.extend(mjc.get_json_data())
         path_json=os.path.join(dir_data, d['output'])
         write_out_to_json(path_json, full_json)
