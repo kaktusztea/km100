@@ -8,7 +8,7 @@ Páncélozatlan ellenfél
 ellen +2 SP sebzésbónusz
 ```
 
-<!-- tag: md_table_start -->
+<!-- tag: md_table_fegyver_start -->
 
 | Fegyver                 | Forgatás módja |     SP      | Sebzési típus | Átütés  | Pengehossz |  KÉ   |  TÉ   |  VÉ   | Sebesség | Speciális                                                                                                                                                                                                                                                     |
 | ----------------------- | :------------: | :---------: | :-----------: | :-----: | :--------: | :---: | :---: | :---: | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -31,7 +31,7 @@ ellen +2 SP sebzésbónusz
 | Tőr, Slan               |    egykezes    |    `+2`     |    `S`/`V`    |   `0`   |    `0`     |  `0`  |  `6`  |  `2`  |   `5`    |                                                                                                                                                                                                                                                               |
 | Vasököl / páncélkesztyű |    egykezes    |    `+0`     |      `Z`      |   `0`   |    `0`     | `-7`  | `-7`  | `-7`  |   `5`    | Az Erőbónusz beszámít.                                                                                                                                                                                                                                        |
 
-<!-- tag: md_table_end -->
+<!-- tag: md_table_fegyver_end -->
 
 ### Megjegyzések
 

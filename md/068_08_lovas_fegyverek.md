@@ -1,6 +1,6 @@
 ## Lovas fegyverek
 
-<!-- tag: md_table_start -->
+<!-- tag: md_table_fegyver_start -->
 
 | **Fegyver**          | Forgatás módja | SP  | Sebzés módja | **Átütés** | **Pengehossz** | KÉ  | TÉ  | VÉ  | Sebesség | Speciális |
 | -------------------- |:--------------:|:---:|:------------:|:----------:|:--------------:|:---:|:---:|:---:|:--------:| --------- |
@@ -9,7 +9,7 @@
 | ⭕ Kopja, nehézlovas |                |     |              |            |                |     |     |     |          |           |
 | ⭕ Lovas lándzsa?    |                |     |              |            |                |     |     |     |          |           |
 
-<!-- tag: md_table_end -->
+<!-- tag: md_table_fegyver_end -->
 
 ---
 
