@@ -7,14 +7,16 @@ import os
 
 class MdToJsonConverter:
 
-    def __init__(self, path_md, path_json):
+    def __init__(self, path_md, path_json, filepattern, table_pattern):
         self.path_md = path_md
         self.path_json = path_json
+
         self.raw_md = None
         self.raw_json = []
+        self.filepattern = filepattern
 
-        self.tag_start = '<!-- tag: md_table_start -->'
-        self.tag_end = '<!-- tag: md_table_end -->'
+        self.tag_start = f"<!-- tag: md_table_{table_pattern}_start -->"
+        self.tag_end = f"<!-- tag: md_table_{table_pattern}_end -->"
         self.filter_out_chars = ['**', '`', '⭕TODO⭕', '⭕TODO', '⭕']
 
         self.read_md()
@@ -95,13 +97,28 @@ if __name__ == "__main__":
     dir_data = os.path.join(Path(dir_code).parent, 'data')
     dir_md = os.path.join(Path(dir_code).parent, 'md')
 
-    fegyver_raw_md_files = [f for f in os.listdir(dir_md) if f.endswith('fegyverek.md')]
+    data = [
+       {
+        'id':'fegyverek',
+        'output':'fegyverek.json',
+        'file_pattern': 'fegyverek.md',
+        'table_pattern': 'fegyver'
+       },
+       {
+        'id':'kepzettseg_kp',
+        'output':'kepzettseg_kp.json',
+        'file_pattern': 'fegyverek2',
+        'table_pattern': 'fegyver2'
+       },
+    ]
 
-    full_json = []
-    for fegyver_file in fegyver_raw_md_files:
-        path_md = os.path.join(dir_md, fegyver_file)
-        mjc = MdToJsonConverter(path_md, None)
-        full_json.extend(mjc.get_json_data())
-
-    path_json=os.path.join(dir_data, "fegyverek.json")
-    write_out_to_json(path_json, full_json)
+    for d in data:
+        path_json = os.path.join(dir_data, d['output'])
+        full_json = []
+        for item in os.listdir(dir_md):
+            if (d['file_pattern']) in item:
+                path_md = os.path.join(dir_md, item)
+                mjc = MdToJsonConverter(path_md, None, d['file_pattern'], d['table_pattern'])
+                full_json.extend(mjc.get_json_data())
+        path_json=os.path.join(dir_data, d['output'])
+        write_out_to_json(path_json, full_json)
