@@ -15,7 +15,7 @@ class MdToJsonConverter:
 
         self.tag_start = '<!-- tag: md_table_start -->'
         self.tag_end = '<!-- tag: md_table_end -->'
-        self.filter_out_chars = ['**', '`']
+        self.filter_out_chars = ['**', '`', '⭕TODO⭕', '⭕TODO', '⭕']
 
         self.read_md()
         self.filter_raw_md()
