@@ -26,19 +26,6 @@
         "Speciális": ""
     },
     {
-        "Fegyver": "Bola",
-        "Forgatás módja": "egykezes",
-        "SP": "-",
-        "Sebzés módja": "-",
-        "Átütés": "0",
-        "KÉ": "2",
-        "CÉ": "+2",
-        "Osztó": "1",
-        "Hatótáv": "20m",
-        "Sebesség": "10",
-        "Speciális / Megjegyzés": ""
-    },
-    {
         "Fegyver": "Bot, furkós",
         "Forgatás módja": "egykezes",
         "SP": "-1",
@@ -195,19 +182,6 @@
         "Speciális": "Nagyon vérzik<br />50% az esély, hogy beragad és nem lehet kihúzni harc közben"
     },
     {
-        "Fegyver": "Dobóháló",
-        "Forgatás módja": "egykezes",
-        "SP": "-",
-        "Sebzés módja": "-",
-        "Átütés": "0",
-        "KÉ": "2",
-        "CÉ": "+0",
-        "Osztó": "1",
-        "Hatótáv": "4m*",
-        "Sebesség": "10",
-        "Speciális / Megjegyzés": "Maximális hatótávolsága: 4+Erő méterben"
-    },
-    {
         "Fegyver": "Dzsambia",
         "Forgatás módja": "egykezes",
         "SP": "+0",
@@ -219,61 +193,6 @@
         "VÉ": "4",
         "Sebesség": "5",
         "Speciális": "Páncélozott ellenfélnél: SP:+0<br />Páncél nélküli ellenfélnél: SP:+2"
-    },
-    {
-        "Fegyver": "Dárda",
-        "Forgatás módja": "egykezes",
-        "SP": "+3",
-        "Sebzés módja": "S",
-        "Átütés": "3",
-        "KÉ": "5",
-        "CÉ": "+3",
-        "Osztó": "2",
-        "Hatótáv": "5m + (Erő x 3)",
-        "Sebesség": "8",
-        "Speciális / Megjegyzés": "Követelmény: Erő +0<br />Maximális hatótávolsága: 5 + (Erő x 3) méterben.<br />Pajzsba dobva csökkenti annak Védő Értékét a dobott SP értékkel<br />"
-    },
-    {
-        "Fegyver": "Elf íj",
-        "Forgatás módja": "kétkezes",
-        "SP": "+4",
-        "Sebzés módja": "S",
-        "Átütés": "0",
-        "KÉ": "8",
-        "CÉ": "+13",
-        "Osztó": "4",
-        "Hatótáv": "120m",
-        "Sebesség": "6",
-        "Speciális / Megjegyzés": "Csak a készítője (és egyben birtokosa) kezében érvényes értékek, egyébként hagyományos íjként működik, aminek Osztója: 3<br />Erőbónusz nincs",
-        "": ""
-    },
-    {
-        "Fegyver": "Fúvócső, kicsi",
-        "Forgatás módja": "egykezes",
-        "SP": "spec\\*",
-        "Sebzés módja": "S",
-        "Átütés": "0",
-        "KÉ": "10",
-        "CÉ": "+8",
-        "Osztó": "1",
-        "Hatótáv": "16m",
-        "Sebesség": "8",
-        "Speciális / Megjegyzés": "k20 dobásnál: 20-as dobás: 1 ÉP, különben 0 ÉP",
-        "": ""
-    },
-    {
-        "Fegyver": "Fúvócső, vadász",
-        "Forgatás módja": "kétkezes",
-        "SP": "-10",
-        "Sebzés módja": "S",
-        "Átütés": "0",
-        "KÉ": "5",
-        "CÉ": "+10",
-        "Osztó": "1",
-        "Hatótáv": "30m",
-        "Sebesség": "9",
-        "Speciális / Megjegyzés": "",
-        "": ""
     },
     {
         "Fegyver": "Garott",
@@ -289,32 +208,6 @@
         "Speciális": "Csak orvtámadás harci taktikában használható.<br />Az Erőbónusz beszámít."
     },
     {
-        "Fegyver": "Hajítóbárd",
-        "Forgatás módja": "egykezes",
-        "SP": "+2",
-        "Sebzés módja": "Z",
-        "Átütés": "0",
-        "KÉ": "8",
-        "CÉ": "+4",
-        "Osztó": "2",
-        "Hatótáv": "20m*",
-        "Sebesség": "6",
-        "Speciális / Megjegyzés": "Maximális hatótávolsága:  <br />20+(Erő x 4) méterben<br />Pajzsba dobva csökkenti annak Védő Értékét a dobott SP értékkel"
-    },
-    {
-        "Fegyver": "Hajítótőr",
-        "Forgatás módja": "egykezes",
-        "SP": "+0",
-        "Sebzés módja": "S",
-        "Átütés": "0",
-        "KÉ": "12",
-        "CÉ": "+4",
-        "Osztó": "2",
-        "Hatótáv": "15m",
-        "Sebesség": "5",
-        "Speciális / Megjegyzés": "Automatikusan jár rá a Közeli lövés fortélynál leírt CÉ:+10 bónusz ha a célpont Cellaszáma 1.<br />Erőbónusz beszámít."
-    },
-    {
         "Fegyver": "Harci kalapács",
         "Forgatás módja": "kétkezes",
         "SP": "+7",
@@ -326,20 +219,6 @@
         "VÉ": "8",
         "Sebesség": "8",
         "Speciális": "Erő követelmény:+2"
-    },
-    {
-        "Fegyver": "Hosszú íj",
-        "Forgatás módja": "kétkezes",
-        "SP": "+3",
-        "Sebzés módja": "S",
-        "Átütés": "0",
-        "KÉ": "6",
-        "CÉ": "+12",
-        "Osztó": "3",
-        "Hatótáv": "120m",
-        "Sebesség": "7",
-        "Speciális / Megjegyzés": "Az Erőbónusz csak akkor számít ha az íj erre az Erő értékre lett tervezve!<br />Erőbónusz max: +3",
-        "": ""
     },
     {
         "Fegyver": "Kard, dzsenn szablya",
@@ -680,32 +559,6 @@
         "Speciális": "-"
     },
     {
-        "Fegyver": "Kő",
-        "Forgatás módja": "egykezes",
-        "SP": "-10",
-        "Sebzés módja": "Z",
-        "Átütés": "0",
-        "KÉ": "6",
-        "CÉ": "+0",
-        "Osztó": "1",
-        "Hatótáv": "20m*",
-        "Sebesség": "5",
-        "Speciális / Megjegyzés": "Maximális hatótávolsága: <br />20+(Erő x 5) méterben"
-    },
-    {
-        "Fegyver": "Lasszó",
-        "Forgatás módja": "egykezes",
-        "SP": "-",
-        "Sebzés módja": "-",
-        "Átütés": "0",
-        "KÉ": "0",
-        "CÉ": "+0",
-        "Osztó": "1",
-        "Hatótáv": "10m",
-        "Sebesség": "9",
-        "Speciális / Megjegyzés": "Sebesülés az esés következtében lehet."
-    },
-    {
         "Fegyver": "Levéltőr",
         "Forgatás módja": "egykezes",
         "SP": "+1",
@@ -797,19 +650,6 @@
         "Speciális": "Ha sebzést okoz, befecskendezi a benne tárolt mérget."
     },
     {
-        "Fegyver": "Parittya",
-        "Forgatás módja": "egykezes",
-        "SP": "+0",
-        "Sebzés módja": "Z",
-        "Átütés": "0",
-        "KÉ": "4",
-        "CÉ": "+4",
-        "Osztó": "2",
-        "Hatótáv": "70m",
-        "Sebesség": "9",
-        "Speciális / Megjegyzés": "Lehet nagy sebzése, de az SFÉ duplán számítson ellene (vagy SFÉ bónusz)"
-    },
-    {
         "Fegyver": "Pika",
         "Forgatás módja": "kétkezes",
         "SP": "+2/+4",
@@ -864,19 +704,6 @@
     {
         "Fegyver": "Ramiera",
         "Forgatás módja": "egykezes",
-        "SP": "+0",
-        "Sebzés módja": "S",
-        "Átütés": "0",
-        "KÉ": "7",
-        "CÉ": "+1",
-        "Osztó": "1",
-        "Hatótáv": "10m",
-        "Sebesség": "6",
-        "Speciális / Megjegyzés": ""
-    },
-    {
-        "Fegyver": "Ramiera",
-        "Forgatás módja": "egykezes",
         "SP": "+2",
         "Sebzési típus": "S/V",
         "Átütés": "0",
@@ -886,20 +713,6 @@
         "VÉ": "5",
         "Sebesség": "5",
         "Speciális": "KF - Amennyiben ez nincs meg, akkor csak a Rövidkard értékeivel forgatható.<br />Tőrnél nehezebb elrejteni."
-    },
-    {
-        "Fegyver": "Rövid íj",
-        "Forgatás módja": "kétkezes",
-        "SP": "+1",
-        "Sebzés módja": "S",
-        "Átütés": "0",
-        "KÉ": "10",
-        "CÉ": "+10",
-        "Osztó": "3",
-        "Hatótáv": "60m",
-        "Sebesség": "5",
-        "Speciális / Megjegyzés": "Az Erőbónusz csak akkor számít ha az íj erre az Erő értékre lett tervezve!<br />Erőbónusz max: +2",
-        "": ""
     },
     {
         "Fegyver": "Sequor",
@@ -913,19 +726,6 @@
         "VÉ": "11",
         "Sebesség": "5",
         "Speciális": "IV fegyver, KF: Tradíció: Fejvadász - 9.szint"
-    },
-    {
-        "Fegyver": "Slan csillag",
-        "Forgatás módja": "egykezes",
-        "SP": "-5",
-        "Sebzés módja": "S",
-        "Átütés": "0",
-        "KÉ": "12",
-        "CÉ": "+3",
-        "Osztó": "1",
-        "Hatótáv": "15m",
-        "Sebesség": "4",
-        "Speciális / Megjegyzés": ""
     },
     {
         "Fegyver": "Szigony, egykezes",
@@ -952,19 +752,6 @@
         "VÉ": "26",
         "Sebesség": "8",
         "Speciális": ""
-    },
-    {
-        "Fegyver": "Tőr",
-        "Forgatás módja": "egykezes",
-        "SP": "+0",
-        "Sebzés módja": "S",
-        "Átütés": "0",
-        "KÉ": "7",
-        "CÉ": "+2",
-        "Osztó": "2",
-        "Hatótáv": "10m",
-        "Sebesség": "6",
-        "Speciális / Megjegyzés": ""
     },
     {
         "Fegyver": "Tőr",
@@ -1069,19 +856,5 @@
         "VÉ": "-7",
         "Sebesség": "5",
         "Speciális": "Az Erőbónusz beszámít."
-    },
-    {
-        "Fegyver": "Visszacsapó íj",
-        "Forgatás módja": "kétkezes",
-        "SP": "+4",
-        "Sebzés módja": "S",
-        "Átütés": "3",
-        "KÉ": "6",
-        "CÉ": "+10",
-        "Osztó": "3",
-        "Hatótáv": "160m",
-        "Sebesség": "7",
-        "Speciális / Megjegyzés": "Az Erőbónusz csak akkor számít ha az íj erre az Erő értékre lett tervezve!<br />Erőbónusz max: +4",
-        "": ""
     }
 ]

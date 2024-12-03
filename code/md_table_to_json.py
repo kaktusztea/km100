@@ -89,6 +89,8 @@ class MdToJsonConverter:
     def get_json_data(self):
         return self.raw_json
 
+
+## Global defs
 def order_list_of_dicts_by_key(raw_json, sortkey):
     """"
     Order list of dicts  by key
@@ -116,6 +118,14 @@ if __name__ == "__main__":
         'output':'fegyverek.json',
         'file_pattern': 'fegyverek.md',
         'table_pattern': 'fegyver',
+        'sortkey': 'Fegyver',
+        'skip_columns': []
+       },
+       {
+        'id':'tavfegyverek',
+        'output':'tavfegyverek.json',
+        'file_pattern': 'fegyverek.md',
+        'table_pattern': 'tavfegyver',
         'sortkey': 'Fegyver',
         'skip_columns': []
        },
