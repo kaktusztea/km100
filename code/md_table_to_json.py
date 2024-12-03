@@ -95,7 +95,7 @@ if __name__ == "__main__":
     dir_data = os.path.join(Path(dir_code).parent, 'data')
     dir_md = os.path.join(Path(dir_code).parent, 'md')
 
-    fegyver_raw_md_files = [f for f in os.listdir(dir_md) if f.endswith('_fegyverek.md')]
+    fegyver_raw_md_files = [f for f in os.listdir(dir_md) if f.endswith('fegyverek.md')]
 
     full_json = []
     for fegyver_file in fegyver_raw_md_files:
