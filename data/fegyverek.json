@@ -864,19 +864,6 @@
     {
         "Fegyver": "Ramiera",
         "Forgatás módja": "egykezes",
-        "SP": "+2",
-        "Sebzési típus": "S/V",
-        "Átütés": "0",
-        "Pengehossz": "0",
-        "KÉ": "3",
-        "TÉ": "5",
-        "VÉ": "5",
-        "Sebesség": "5",
-        "Speciális": "KF - Amennyiben ez nincs meg, akkor csak a Rövidkard értékeivel forgatható.<br />Tőrnél nehezebb elrejteni."
-    },
-    {
-        "Fegyver": "Ramiera",
-        "Forgatás módja": "egykezes",
         "SP": "+0",
         "Sebzés módja": "S",
         "Átütés": "0",
@@ -886,6 +873,19 @@
         "Hatótáv": "10m",
         "Sebesség": "6",
         "Speciális / Megjegyzés": ""
+    },
+    {
+        "Fegyver": "Ramiera",
+        "Forgatás módja": "egykezes",
+        "SP": "+2",
+        "Sebzési típus": "S/V",
+        "Átütés": "0",
+        "Pengehossz": "0",
+        "KÉ": "3",
+        "TÉ": "5",
+        "VÉ": "5",
+        "Sebesség": "5",
+        "Speciális": "KF - Amennyiben ez nincs meg, akkor csak a Rövidkard értékeivel forgatható.<br />Tőrnél nehezebb elrejteni."
     },
     {
         "Fegyver": "Rövid íj",
@@ -956,19 +956,6 @@
     {
         "Fegyver": "Tőr",
         "Forgatás módja": "egykezes",
-        "SP": "+1",
-        "Sebzési típus": "S/V",
-        "Átütés": "0",
-        "Pengehossz": "0",
-        "KÉ": "2",
-        "TÉ": "4",
-        "VÉ": "4",
-        "Sebesség": "5",
-        "Speciális": "-"
-    },
-    {
-        "Fegyver": "Tőr",
-        "Forgatás módja": "egykezes",
         "SP": "+0",
         "Sebzés módja": "S",
         "Átütés": "0",
@@ -978,6 +965,19 @@
         "Hatótáv": "10m",
         "Sebesség": "6",
         "Speciális / Megjegyzés": ""
+    },
+    {
+        "Fegyver": "Tőr",
+        "Forgatás módja": "egykezes",
+        "SP": "+1",
+        "Sebzési típus": "S/V",
+        "Átütés": "0",
+        "Pengehossz": "0",
+        "KÉ": "2",
+        "TÉ": "4",
+        "VÉ": "4",
+        "Sebesség": "5",
+        "Speciális": "-"
     },
     {
         "Fegyver": "Tőr, hárító",
