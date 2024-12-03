@@ -7,18 +7,22 @@ import os
 
 class MdToJsonConverter:
 
-    def __init__(self, path_md, path_json, filepattern, table_pattern, skip_columns):
+    def __init__(self, path_md, path_json, params):
         self.path_md = path_md
         self.path_json = path_json
 
+        if not isinstance(params, dict):
+            raise Exception("MdToJsonConverter.init(): params is not dict")
+
         self.raw_md = None
         self.raw_json = []
-        self.filepattern = filepattern
+        self.filepattern = params['file_pattern']
+        self.table_pattern = params['table_pattern']
 
-        self.tag_start = f"<!-- tag: md_table_{table_pattern}_start -->"
-        self.tag_end = f"<!-- tag: md_table_{table_pattern}_end -->"
+        self.tag_start = f"<!-- tag: md_table_{self.table_pattern}_start -->"
+        self.tag_end = f"<!-- tag: md_table_{self.table_pattern}_end -->"
         self.filter_out_chars = ['**', '`', '⭕TODO⭕', '⭕TODO', '⭕']
-        self.skip_columns = skip_columns
+        self.skip_columns = params['skip_columns']
 
         self.read_md()
         self.filter_raw_md()
@@ -91,6 +95,7 @@ def write_out_to_json(path_json, raw_json):
         json.dump(raw_json, fj, ensure_ascii=False, indent=4)
 
 
+## START SCRIPT ########################################
 if __name__ == "__main__":
 
     dir_code = os.path.dirname(os.path.abspath(__file__))
@@ -120,7 +125,7 @@ if __name__ == "__main__":
         for fname in os.listdir(dir_md):
             if (d['file_pattern']) in fname:
                 path_md = os.path.join(dir_md, fname)
-                mjc = MdToJsonConverter(path_md, None, d['file_pattern'], d['table_pattern'], d['skip_columns'])
+                mjc = MdToJsonConverter(path_md, None, d)
                 full_json.extend(mjc.get_json_data())
         path_json=os.path.join(dir_data, d['output'])
         write_out_to_json(path_json, full_json)
