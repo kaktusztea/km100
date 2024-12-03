@@ -4,6 +4,8 @@ A képzettségek fejlődése során a `KP igény` fokozatosan nő, tehát `1.`sz
 
 Az egyes képzettségszintek KP igénye az alábbi táblázatban található:
 
+<!-- tag: md_table_kepzettsegkp_start -->
+
 | Fokozat     | Képzettség Szint | **KP igény** |  Diff   |
 | ----------- | :--------------: | :----------: | :-----: |
 |             |       `1`        |    **6**     | `+6KP`  |
@@ -21,6 +23,8 @@ Az egyes képzettségszintek KP igénye az alábbi táblázatban található:
 |             |       `13`       |   **186**    | `+26KP` |
 |             |       `14`       |   **214**    | `+28KP` |
 | Élő legenda |       `15`       |   **244**    | `+30KP` |
+
+<!-- tag: md_table_kepzettsegkp_end -->
 
 ---
 
