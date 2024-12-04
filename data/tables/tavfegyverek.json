@@ -10,6 +10,7 @@
         "Osztó": "1",
         "Hatótáv": "20m",
         "Sebesség": "10",
+        "Kategória": "hajító",
         "Speciális / Megjegyzés": ""
     },
     {
@@ -23,6 +24,7 @@
         "Osztó": "1",
         "Hatótáv": "4m*",
         "Sebesség": "10",
+        "Kategória": "hajító",
         "Speciális / Megjegyzés": "Maximális hatótávolsága: 4+Erő méterben"
     },
     {
@@ -36,6 +38,7 @@
         "Osztó": "2",
         "Hatótáv": "5m + (Erő x 3)",
         "Sebesség": "8",
+        "Kategória": "hajító",
         "Speciális / Megjegyzés": "Követelmény: Erő +0<br />Maximális hatótávolsága: 5 + (Erő x 3) méterben.<br />Pajzsba dobva csökkenti annak Védő Értékét a dobott SP értékkel<br />"
     },
     {
@@ -49,6 +52,7 @@
         "Osztó": "4",
         "Hatótáv": "120m",
         "Sebesség": "6",
+        "Kategória": "lőfegyver",
         "Speciális / Megjegyzés": "Csak a készítője (és egyben birtokosa) kezében érvényes értékek, egyébként hagyományos íjként működik, aminek Osztója: 3<br />Erőbónusz nincs"
     },
     {
@@ -62,6 +66,7 @@
         "Osztó": "1",
         "Hatótáv": "16m",
         "Sebesség": "8",
+        "Kategória": "lőfegyver",
         "Speciális / Megjegyzés": "k20 dobásnál: 20-as dobás: 1 ÉP, különben 0 ÉP"
     },
     {
@@ -75,6 +80,7 @@
         "Osztó": "1",
         "Hatótáv": "30m",
         "Sebesség": "9",
+        "Kategória": "lőfegyver",
         "Speciális / Megjegyzés": ""
     },
     {
@@ -88,6 +94,7 @@
         "Osztó": "2",
         "Hatótáv": "20m*",
         "Sebesség": "6",
+        "Kategória": "hajító",
         "Speciális / Megjegyzés": "Maximális hatótávolsága:  <br />20+(Erő x 4) méterben<br />Pajzsba dobva csökkenti annak Védő Értékét a dobott SP értékkel"
     },
     {
@@ -101,6 +108,7 @@
         "Osztó": "2",
         "Hatótáv": "15m",
         "Sebesség": "5",
+        "Kategória": "hajító",
         "Speciális / Megjegyzés": "Automatikusan jár rá a Közeli lövés fortélynál leírt CÉ:+10 bónusz ha a célpont Cellaszáma 1.<br />Erőbónusz beszámít."
     },
     {
@@ -114,6 +122,7 @@
         "Osztó": "3",
         "Hatótáv": "120m",
         "Sebesség": "7",
+        "Kategória": "lőfegyver",
         "Speciális / Megjegyzés": "Az Erőbónusz csak akkor számít ha az íj erre az Erő értékre lett tervezve!<br />Erőbónusz max: +3"
     },
     {
@@ -127,6 +136,7 @@
         "Osztó": "1",
         "Hatótáv": "20m*",
         "Sebesség": "5",
+        "Kategória": "hajító",
         "Speciális / Megjegyzés": "Maximális hatótávolsága: <br />20+(Erő x 5) méterben"
     },
     {
@@ -140,6 +150,7 @@
         "Osztó": "1",
         "Hatótáv": "10m",
         "Sebesség": "9",
+        "Kategória": "hajító",
         "Speciális / Megjegyzés": "Sebesülés az esés következtében lehet."
     },
     {
@@ -153,6 +164,7 @@
         "Osztó": "2",
         "Hatótáv": "70m",
         "Sebesség": "9",
+        "Kategória": "hajító",
         "Speciális / Megjegyzés": "Lehet nagy sebzése, de az SFÉ duplán számítson ellene (vagy SFÉ bónusz)"
     },
     {
@@ -166,6 +178,7 @@
         "Osztó": "1",
         "Hatótáv": "10m",
         "Sebesség": "6",
+        "Kategória": "hajító",
         "Speciális / Megjegyzés": ""
     },
     {
@@ -179,6 +192,7 @@
         "Osztó": "3",
         "Hatótáv": "60m",
         "Sebesség": "5",
+        "Kategória": "lőfegyver",
         "Speciális / Megjegyzés": "Az Erőbónusz csak akkor számít ha az íj erre az Erő értékre lett tervezve!<br />Erőbónusz max: +2"
     },
     {
@@ -192,6 +206,7 @@
         "Osztó": "1",
         "Hatótáv": "15m",
         "Sebesség": "4",
+        "Kategória": "hajító",
         "Speciális / Megjegyzés": ""
     },
     {
@@ -205,6 +220,7 @@
         "Osztó": "2",
         "Hatótáv": "10m",
         "Sebesség": "6",
+        "Kategória": "hajító",
         "Speciális / Megjegyzés": ""
     },
     {
@@ -218,6 +234,7 @@
         "Osztó": "3",
         "Hatótáv": "160m",
         "Sebesség": "7",
+        "Kategória": "lőfegyver",
         "Speciális / Megjegyzés": "Az Erőbónusz csak akkor számít ha az íj erre az Erő értékre lett tervezve!<br />Erőbónusz max: +4"
     }
 ]

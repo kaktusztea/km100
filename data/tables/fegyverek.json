@@ -10,6 +10,7 @@
         "TÉ": "28",
         "VÉ": "28",
         "Sebesség": "8",
+        "Kategória": "kardvívó",
         "Speciális": "Talán a legjobb a páncélok ellen"
     },
     {
@@ -23,6 +24,7 @@
         "TÉ": "6",
         "VÉ": "1",
         "Sebesség": "6",
+        "Kategória": "kardvívó",
         "Speciális": ""
     },
     {
@@ -36,6 +38,7 @@
         "TÉ": "10",
         "VÉ": "8",
         "Sebesség": "6",
+        "Kategória": "kardvívó",
         "Speciális": ""
     },
     {
@@ -49,6 +52,7 @@
         "TÉ": "16",
         "VÉ": "24",
         "Sebesség": "6",
+        "Kategória": "kardvívó",
         "Speciális": ""
     },
     {
@@ -62,6 +66,7 @@
         "TÉ": "9",
         "VÉ": "6",
         "Sebesség": "5",
+        "Kategória": "kardvívó",
         "Speciális": ""
     },
     {
@@ -75,6 +80,7 @@
         "TÉ": "12",
         "VÉ": "8",
         "Sebesség": "6",
+        "Kategória": "kardvívó",
         "Speciális": ""
     },
     {
@@ -88,6 +94,7 @@
         "TÉ": "20",
         "VÉ": "8",
         "Sebesség": "8",
+        "Kategória": "kardvívó",
         "Speciális": "Erő követelmény:+2"
     },
     {
@@ -101,6 +108,7 @@
         "TÉ": "15",
         "VÉ": "6",
         "Sebesség": "6",
+        "Kategória": "kardvívó",
         "Speciális": "Ellene a Pajzs VÉ fele számít csak!"
     },
     {
@@ -114,6 +122,7 @@
         "TÉ": "14",
         "VÉ": "9",
         "Sebesség": "6",
+        "Kategória": "kardvívó",
         "Speciális": ""
     },
     {
@@ -127,6 +136,7 @@
         "TÉ": "9",
         "VÉ": "4",
         "Sebesség": "5",
+        "Kategória": "kardvívó",
         "Speciális": ""
     },
     {
@@ -140,6 +150,7 @@
         "TÉ": "4",
         "VÉ": "4",
         "Sebesség": "5",
+        "Kategória": "közelharci",
         "Speciális": "- Ha minimum 11 SP lett a sebződobás, akkor +5 SP jár.<br />    <br />- Páncélos ellenfélnél minden esetben elakad, ha átment rajta a sebzés.<br />    <br />- Páncéltalan esetén: K6 dobás:  <br /> 1-2: a fegyver elakad a testben, ha volt sebzés."
     },
     {
@@ -153,6 +164,7 @@
         "TÉ": "8",
         "VÉ": "8",
         "Sebesség": "6",
+        "Kategória": "kardvívó",
         "Speciális": ""
     },
     {
@@ -166,6 +178,7 @@
         "TÉ": "18",
         "VÉ": "10",
         "Sebesség": "8",
+        "Kategória": "kardvívó",
         "Speciális": ""
     },
     {
@@ -179,6 +192,7 @@
         "TÉ": "14",
         "VÉ": "5",
         "Sebesség": "7",
+        "Kategória": "kardvívó",
         "Speciális": "Nagyon vérzik<br />50% az esély, hogy beragad és nem lehet kihúzni harc közben"
     },
     {
@@ -192,6 +206,7 @@
         "TÉ": "4",
         "VÉ": "4",
         "Sebesség": "5",
+        "Kategória": "közelharci",
         "Speciális": "Páncélozott ellenfélnél: SP:+0<br />Páncél nélküli ellenfélnél: SP:+2"
     },
     {
@@ -205,6 +220,7 @@
         "TÉ": "0",
         "VÉ": "0",
         "Sebesség": "-",
+        "Kategória": "közelharci",
         "Speciális": "Csak orvtámadás harci taktikában használható.<br />Az Erőbónusz beszámít."
     },
     {
@@ -218,6 +234,7 @@
         "TÉ": "20",
         "VÉ": "8",
         "Sebesség": "8",
+        "Kategória": "kardvívó",
         "Speciális": "Erő követelmény:+2"
     },
     {
@@ -231,6 +248,7 @@
         "TÉ": "15",
         "VÉ": "15",
         "Sebesség": "5",
+        "Kategória": "kardvívó",
         "Speciális": "IV fegyver"
     },
     {
@@ -244,6 +262,7 @@
         "TÉ": "13",
         "VÉ": "13",
         "Sebesség": "6",
+        "Kategória": "kardvívó",
         "Speciális": ""
     },
     {
@@ -257,6 +276,7 @@
         "TÉ": "9",
         "VÉ": "11",
         "Sebesség": "5",
+        "Kategória": "kardvívó",
         "Speciális": "KF: Tradíció: Fejvadász - 6.szint<br />Gorv1ki klánnal, vagy mesterrel.<br />Ha a karakter nem ismeri a fegyver különleges fogásait akkor harcértékei sima rövidkardé lesznek.<br />Hárítófegyverként is használható."
     },
     {
@@ -270,6 +290,7 @@
         "TÉ": "13",
         "VÉ": "10",
         "Sebesség": "6",
+        "Kategória": "kardvívó",
         "Speciális": "IV fegyver<br />Erő követelmény: +2"
     },
     {
@@ -283,6 +304,7 @@
         "TÉ": "12",
         "VÉ": "8",
         "Sebesség": "6",
+        "Kategória": "kardvívó",
         "Speciális": "Elfek használják. Előtörténet!"
     },
     {
@@ -296,6 +318,7 @@
         "TÉ": "12",
         "VÉ": "12",
         "Sebesség": "6",
+        "Kategória": "kardvívó",
         "Speciális": "Nem éri meg, mert a másfélkezes sokkal jobb mindenben és nincs hátránya"
     },
     {
@@ -309,6 +332,7 @@
         "TÉ": "9",
         "VÉ": "7",
         "Sebesség": "5",
+        "Kategória": "kardvívó",
         "Speciális": "IV fegyver"
     },
     {
@@ -322,6 +346,7 @@
         "TÉ": "11",
         "VÉ": "10",
         "Sebesség": "6",
+        "Kategória": "kardvívó",
         "Speciális": "Elfek használják. Előtörténet!"
     },
     {
@@ -335,6 +360,7 @@
         "TÉ": "20",
         "VÉ": "15",
         "Sebesség": "8",
+        "Kategória": "kardvívó",
         "Speciális": "Ha közrefogják a forgatót, fegyverének VÉ-je 0-ra zuhan.<br />Erő követelmény: +2<br />Edzettség követelmény: +1"
     },
     {
@@ -348,6 +374,7 @@
         "TÉ": "11",
         "VÉ": "11",
         "Sebesség": "6<br>",
+        "Kategória": "kardvívó",
         "Speciális": "Szúró sebzés: +5 SP; IV: ugyan nem íves fegyver, de kialakítása miatt érvényesek rá annak extrái."
     },
     {
@@ -361,6 +388,7 @@
         "TÉ": "16",
         "VÉ": "16",
         "Sebesség": "6",
+        "Kategória": "kardvívó",
         "Speciális": "KF: Tradíció: Fejvadász - 9.szint<br /> Amennyiben ez nincs meg, akkor csak a Hosszúkard értékeivel forgatható."
     },
     {
@@ -374,6 +402,7 @@
         "TÉ": "15",
         "VÉ": "12",
         "Sebesség": "7",
+        "Kategória": "kardvívó",
         "Speciális": "Erő követelmény: +2"
     },
     {
@@ -387,6 +416,7 @@
         "TÉ": "18",
         "VÉ": "13",
         "Sebesség": "7",
+        "Kategória": "kardvívó",
         "Speciális": "MK"
     },
     {
@@ -400,6 +430,7 @@
         "TÉ": "16",
         "VÉ": "16",
         "Sebesség": "7",
+        "Kategória": "kardvívó",
         "Speciális": "MK, továbbá:<br />- 2 kézre fogva: alap <br />- 1 kézre fogva:  <br />&nbsp;&nbsp;• -3 KÉ, -5 TÉ, -5 VÉ<br />&nbsp;&nbsp;• Átütés megszűnik (ha volt)<br />&nbsp;&nbsp;• Erőbónuszra -3 büntetés, azaz a SP: -3 büntetés<br />&nbsp;&nbsp;• Sebesség, marad <br />- +1-es Erő alatt forgatva:<br />&nbsp;&nbsp;• 1 pontonként -10 minden harcértékre<br />&nbsp;&nbsp;• 1:1 levonás SP-ből"
     },
     {
@@ -413,6 +444,7 @@
         "TÉ": "12",
         "VÉ": "12",
         "Sebesség": "5",
+        "Kategória": "kardvívó",
         "Speciális": "KF: Tradíció: Fejvadász - 9.szint"
     },
     {
@@ -426,6 +458,7 @@
         "TÉ": "12",
         "VÉ": "12",
         "Sebesség": "6",
+        "Kategória": "kardvívó",
         "Speciális": "Nemesemberek jellemző fegyvere valós harci körülmények között. Nem összetévesztendő a tőrkarddal."
     },
     {
@@ -439,6 +472,7 @@
         "TÉ": "8",
         "VÉ": "8",
         "Sebesség": "6",
+        "Kategória": "kardvívó",
         "Speciális": "-"
     },
     {
@@ -452,6 +486,7 @@
         "TÉ": "19",
         "VÉ": "13",
         "Sebesség": "6",
+        "Kategória": "kardvívó",
         "Speciális": "MK, KF: Tradíció: Slan - 6.szint<br />Nagyon ritka, rendkívül nehéz hozzájutni, legtöbbször személyre szabott.<br />Fegyverrántásban képzett karakter fegyverrántó szituációban +5 KÉ-t kap."
     },
     {
@@ -465,6 +500,7 @@
         "TÉ": "23",
         "VÉ": "17",
         "Sebesség": "8",
+        "Kategória": "kardvívó",
         "Speciális": "Hihetetlen drága és ritka.<br />Csak két kézzel forgatható.  <br />(spec)"
     },
     {
@@ -478,6 +514,7 @@
         "TÉ": "11",
         "VÉ": "5",
         "Sebesség": "5",
+        "Kategória": "kardvívó",
         "Speciális": "Lásd Slan kard (de nem (MK))"
     },
     {
@@ -491,6 +528,7 @@
         "TÉ": "12",
         "VÉ": "12",
         "Sebesség": "6",
+        "Kategória": "kardvívó",
         "Speciális": "IV fegyver"
     },
     {
@@ -504,7 +542,8 @@
         "TÉ": "",
         "VÉ": "",
         "Sebesség": "",
-        "Speciális": ""
+        "Kategória": "",
+        "Speciális / Megjegyzés": ""
     },
     {
         "Fegyver": "Kopja, lovas",
@@ -517,7 +556,8 @@
         "TÉ": "",
         "VÉ": "",
         "Sebesség": "",
-        "Speciális": ""
+        "Kategória": "",
+        "Speciális / Megjegyzés": ""
     },
     {
         "Fegyver": "Kopja, nehézlovas",
@@ -530,7 +570,8 @@
         "TÉ": "",
         "VÉ": "",
         "Sebesség": "",
-        "Speciális": ""
+        "Kategória": "",
+        "Speciális / Megjegyzés": ""
     },
     {
         "Fegyver": "Kriszkés",
@@ -543,6 +584,7 @@
         "TÉ": "5",
         "VÉ": "2",
         "Sebesség": "5",
+        "Kategória": "közelharci",
         "Speciális": "Páncél nélküli ellenfélnél, szúrás esetén sebzése: +3 SP<br />Fegyverrántás szituációban +5 KÉ<br />Páncélszúrásra nem használható."
     },
     {
@@ -556,6 +598,7 @@
         "TÉ": "3",
         "VÉ": "1",
         "Sebesség": "5",
+        "Kategória": "közelharci",
         "Speciális": "-"
     },
     {
@@ -569,6 +612,7 @@
         "TÉ": "4",
         "VÉ": "5",
         "Sebesség": "5",
+        "Kategória": "közelharci",
         "Speciális": "-"
     },
     {
@@ -582,7 +626,8 @@
         "TÉ": "",
         "VÉ": "",
         "Sebesség": "",
-        "Speciális": ""
+        "Kategória": "",
+        "Speciális / Megjegyzés": ""
     },
     {
         "Fegyver": "Lándzsa",
@@ -595,6 +640,7 @@
         "TÉ": "32",
         "VÉ": "32",
         "Sebesség": "6",
+        "Kategória": "kardvívó",
         "Speciális": "spec: lásd a hegyeket"
     },
     {
@@ -608,6 +654,7 @@
         "TÉ": "20",
         "VÉ": "16",
         "Sebesség": "6",
+        "Kategória": "kardvívó",
         "Speciális": "MK,KF: Tradíció: Fejvadász - 9.szint"
     },
     {
@@ -621,6 +668,7 @@
         "TÉ": "-7",
         "VÉ": "-7",
         "Sebesség": "5",
+        "Kategória": "közelharci",
         "Speciális": "Ugyanazok az értékei, mint a Vasökölnek."
     },
     {
@@ -634,6 +682,7 @@
         "TÉ": "10",
         "VÉ": "7",
         "Sebesség": "6",
+        "Kategória": "kardvívó",
         "Speciális": "KF: Tradíció: Amund - 9.szint; Spec:"
     },
     {
@@ -647,6 +696,7 @@
         "TÉ": "3",
         "VÉ": "3",
         "Sebesség": "5",
+        "Kategória": "közelharci",
         "Speciális": "Ha sebzést okoz, befecskendezi a benne tárolt mérget."
     },
     {
@@ -660,6 +710,7 @@
         "TÉ": "40",
         "VÉ": "40",
         "Sebesség": "9",
+        "Kategória": "kardvívó",
         "Speciális": "Ha közrefognak, a fegyver az egyik (választott) támadó ellen 0 harcértékű lesz."
     },
     {
@@ -673,6 +724,7 @@
         "TÉ": "13",
         "VÉ": "11",
         "Sebesség": "6",
+        "Kategória": "kardvívó",
         "Speciális": "-"
     },
     {
@@ -686,6 +738,7 @@
         "TÉ": "5",
         "VÉ": "4",
         "Sebesség": "5",
+        "Kategória": "közelharci",
         "Speciális": "Különleges fegyver használata szabály: gorv1ki klánnal, vagy mesterrel.<br />Ha a karakter nem ismeri a fegyver különleges fogásait akkor harcértékei sima tőré lesznek."
     },
     {
@@ -699,6 +752,7 @@
         "TÉ": "-10",
         "VÉ": "-10",
         "Sebesség": "5",
+        "Kategória": "közelharci",
         "Speciális": "KT sebesülést okoz.<br />Minden 5-ik KT 1 ÉP elvesztését okozza.<br />Kivéve: harcművészek „Sárkány ököl” fortélya.<br />Erőbónusz: Az Erő 1:1-ben beszámít"
     },
     {
@@ -712,6 +766,7 @@
         "TÉ": "5",
         "VÉ": "5",
         "Sebesség": "5",
+        "Kategória": "közelharci",
         "Speciális": "KF - Amennyiben ez nincs meg, akkor csak a Rövidkard értékeivel forgatható.<br />Tőrnél nehezebb elrejteni."
     },
     {
@@ -725,6 +780,7 @@
         "TÉ": "13",
         "VÉ": "11",
         "Sebesség": "5",
+        "Kategória": "kardvívó",
         "Speciális": "IV fegyver, KF: Tradíció: Fejvadász - 9.szint"
     },
     {
@@ -738,6 +794,7 @@
         "TÉ": "10",
         "VÉ": "14",
         "Sebesség": "7",
+        "Kategória": "kardvívó",
         "Speciális": ""
     },
     {
@@ -751,6 +808,7 @@
         "TÉ": "22",
         "VÉ": "26",
         "Sebesség": "8",
+        "Kategória": "kardvívó",
         "Speciális": ""
     },
     {
@@ -764,6 +822,7 @@
         "TÉ": "4",
         "VÉ": "4",
         "Sebesség": "5",
+        "Kategória": "közelharci",
         "Speciális": "-"
     },
     {
@@ -777,6 +836,7 @@
         "TÉ": "4",
         "VÉ": "10",
         "Sebesség": "5",
+        "Kategória": "közelharci",
         "Speciális": "Nagyon drága!"
     },
     {
@@ -790,6 +850,7 @@
         "TÉ": "4",
         "VÉ": "4",
         "Sebesség": "5",
+        "Kategória": "közelharci",
         "Speciális": "Áldozótőr<br />Vágásnál: +0 SP"
     },
     {
@@ -803,6 +864,7 @@
         "TÉ": "8",
         "VÉ": "2",
         "Sebesség": "6",
+        "Kategória": "közelharci",
         "Speciális": "\\*Erőbónusz hozzáadódik az Átütéshez"
     },
     {
@@ -816,6 +878,7 @@
         "TÉ": "6",
         "VÉ": "2",
         "Sebesség": "5",
+        "Kategória": "közelharci",
         "Speciális": ""
     },
     {
@@ -829,6 +892,7 @@
         "TÉ": "0",
         "VÉ": "-5",
         "Sebesség": "5",
+        "Kategória": "közelharci",
         "Speciális": ""
     },
     {
@@ -842,6 +906,7 @@
         "TÉ": "12",
         "VÉ": "12",
         "Sebesség": "5",
+        "Kategória": "kardvívó",
         "Speciális": "Nemesemberek fegyvere városi környezetben. Részben esztétikai értékkel bír, részben a szűk utcákban, sikátorokban könnyen forgatható tulajdonságában emelkedik ki.<br />- [Területre/pontra támadás](066_05_altalanos_manoverek.md#ter%C3%BCletre--pontra-t%C3%A1mad%C3%A1s) manővernél: a Nehézség 1-el csökken <br />- Ha az ellenfél is tőrkarddal harcol, mindketten kapnak +10 VÉ bónuszt egymás ellen.<br />- Erőbónusz nem számít!<br />- Könnyebb ellene a [Fegyvertörés](066_05_altalanos_manoverek.md#lefegyverz%C3%A9s--fegyvert%C3%B6r%C3%A9s) Manőver → Nehézség:-2<br />- Zúzó fegyverek ellen VÉ büntetés: VÉ:-8"
     },
     {
@@ -855,6 +920,7 @@
         "TÉ": "-7",
         "VÉ": "-7",
         "Sebesség": "5",
+        "Kategória": "közelharci",
         "Speciális": "Az Erőbónusz beszámít."
     }
 ]
