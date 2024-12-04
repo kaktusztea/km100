@@ -157,5 +157,5 @@ if __name__ == "__main__":
                 full_json.extend(mjc.get_json_data())
         # Sort the list by sortkey
         full_json = order_list_of_dicts_by_key(full_json, d['sortkey'])
-        path_json=os.path.join(dir_data, d['output'])
+        path_json=os.path.join(dir_data, 'tables', d['output'])
         write_out_to_json(path_json, full_json)
