@@ -25,11 +25,8 @@ class MdToJsonConverter:
         self.filter_out_chars = ['**', '`', '⭕TODO⭕', '⭕TODO', '⭕']
         self.skip_columns = params['skip_columns']
 
-        print(self.tag_start)
-
         # execute processing
         self.read_md()
-        print(self.md)
         self.filter_raw_md()
         self.get_table_sections_from_raw_md()
         self.convert_md_to_json()
@@ -55,7 +52,6 @@ class MdToJsonConverter:
 
         for line in self.md.split("\n"):
             if self.tag_start in line:
-                print(f"In line: {self.tag_start}")
                 is_between_markers = True
                 continue
             if self.tag_end in line:
