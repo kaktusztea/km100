@@ -1,1 +1,65 @@
-[]
+[
+    {
+        "Harcmodor Szint": "0",
+        "Hatás": "KÉ: -20, TÉ: -30, VÉ:-30, CÉ: -30"
+    },
+    {
+        "Harcmodor Szint": "1",
+        "Hatás": "csak -10KÉ, -20 TÉ,VÉ,CÉ"
+    },
+    {
+        "Harcmodor Szint": "10",
+        "Hatás": "+7 KÉ ; +21 TÉ,VÉ,"
+    },
+    {
+        "Harcmodor Szint": "11",
+        "Hatás": "+8 KÉ ; +24 TÉ,VÉ,CÉ"
+    },
+    {
+        "Harcmodor Szint": "12",
+        "Hatás": "+9 KÉ ; +27 TÉ,VÉ,CÉ"
+    },
+    {
+        "Harcmodor Szint": "13",
+        "Hatás": "+10 KÉ ; +30 TÉ,VÉ,"
+    },
+    {
+        "Harcmodor Szint": "14",
+        "Hatás": "+11 KÉ ; +33 TÉ,VÉ,CÉ"
+    },
+    {
+        "Harcmodor Szint": "15"
+    },
+    {
+        "Harcmodor Szint": "2",
+        "Hatás": "csak -5KÉ, -10 TÉ,VÉ,CÉ"
+    },
+    {
+        "Harcmodor Szint": "3",
+        "Hatás": "0"
+    },
+    {
+        "Harcmodor Szint": "4",
+        "Hatás": "+1 KÉ ; +3 TÉ,VÉ,CÉ"
+    },
+    {
+        "Harcmodor Szint": "5",
+        "Hatás": "+2 KÉ ; +6TÉ,VÉ,CÉ"
+    },
+    {
+        "Harcmodor Szint": "6",
+        "Hatás": "+3 KÉ ; +9 TÉ,VÉ,CÉ"
+    },
+    {
+        "Harcmodor Szint": "7",
+        "Hatás": "+4 KÉ ; +12 TÉ,VÉ,CÉ"
+    },
+    {
+        "Harcmodor Szint": "8",
+        "Hatás": "+5 KÉ ; +15 TÉ,VÉ,CÉ"
+    },
+    {
+        "Harcmodor Szint": "9",
+        "Hatás": "+6 KÉ ; +18 TÉ,VÉ,CÉ"
+    }
+]
