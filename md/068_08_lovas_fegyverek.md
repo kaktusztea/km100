@@ -2,12 +2,12 @@
 
 <!-- tag: md_table_fegyver_start -->
 
-| **Fegyver**          | Forgatás módja | SP  | Sebzés módja | **Átütés** | **Pengehossz** | KÉ  | TÉ  | VÉ  | Sebesség | Speciális |
-| -------------------- |:--------------:|:---:|:------------:|:----------:|:--------------:|:---:|:---:|:---:|:--------:| --------- |
-| ⭕ Kopja, könnyű     |                |     |              |            |                |     |     |     |          |           |
-| ⭕ Kopja, lovas      |                |     |              |            |                |     |     |     |          |           |
-| ⭕ Kopja, nehézlovas |                |     |              |            |                |     |     |     |          |           |
-| ⭕ Lovas lándzsa?    |                |     |              |            |                |     |     |     |          |           |
+| **Fegyver**         | Forgatás módja | SP  | Sebzés módja | **Átütés** | **Pengehossz** | KÉ  | TÉ  | VÉ  | Sebesség | Kategória | Speciális / Megjegyzés |
+| ------------------- | :------------: | :-: | :----------: | :--------: | :------------: | :-: | :-: | :-: | :------: | --------- | ---------------------- |
+| ⭕ Kopja, könnyű     |                |     |              |            |                |     |     |     |          |           |                        |
+| ⭕ Kopja, lovas      |                |     |              |            |                |     |     |     |          |           |                        |
+| ⭕ Kopja, nehézlovas |                |     |              |            |                |     |     |     |          |           |                        |
+| ⭕ Lovas lándzsa?    |                |     |              |            |                |     |     |     |          |           |                        |
 
 <!-- tag: md_table_fegyver_end -->
 
