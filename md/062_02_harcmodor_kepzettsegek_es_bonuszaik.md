@@ -32,10 +32,10 @@ A harci képzettségek aktuális szintjétől függ, hogy az alá tartozó fegyv
 |       `7`       |       `+4 KÉ ; +12 TÉ,VÉ,CÉ`        |
 |       `8`       |       `+5 KÉ ; +15 TÉ,VÉ,CÉ`        |
 |       `9`       |       `+6 KÉ ; +18 TÉ,VÉ,CÉ`        |
-|      `10`       |        `+7 KÉ ; +21 TÉ,VÉ,`         |
+|      `10`       |       `+7 KÉ ; +21 TÉ,VÉ,CÉ`        |
 |      `11`       |       `+8 KÉ ; +24 TÉ,VÉ,CÉ`        |
 |      `12`       |       `+9 KÉ ; +27 TÉ,VÉ,CÉ`        |
-|      `13`       |        `+10 KÉ ; +30 TÉ,VÉ,`        |
+|      `13`       |       `+10 KÉ ; +30 TÉ,VÉ,CÉ`       |
 |      `14`       |       `+11 KÉ ; +33 TÉ,VÉ,CÉ`       |
 |      `15`       |       `+12 KÉ ; +36 TÉ,VÉ,CÉ`       |
 <!-- tag: md_table_harcmodor_kepzettseg_bonuszok_end -->
