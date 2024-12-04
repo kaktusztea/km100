@@ -14,8 +14,8 @@ class MdToJsonConverter:
         if not isinstance(params, dict):
             raise Exception("MdToJsonConverter.init(): params is not dict")
 
-        self.raw_md = None
-        self.raw_json = []
+        self.md = None
+        self.list_dicts = []
         self.filepattern = params['file_pattern']
         self.table_pattern = params['table_pattern']
         self.sortkey = params['sortkey']
@@ -25,8 +25,11 @@ class MdToJsonConverter:
         self.filter_out_chars = ['**', '`', '⭕TODO⭕', '⭕TODO', '⭕']
         self.skip_columns = params['skip_columns']
 
+        print(self.tag_start)
+
         # execute processing
         self.read_md()
+        print(self.md)
         self.filter_raw_md()
         self.get_table_sections_from_raw_md()
         self.convert_md_to_json()
@@ -34,14 +37,14 @@ class MdToJsonConverter:
 
     def read_md(self):
         with open(path_md, 'r') as fh:
-            self.raw_md = fh.read()
+            self.md = fh.read()
 
     def filter_raw_md(self):
         """
         Filter unnecessary strings from raw markdown data
         """
         for ch in self.filter_out_chars:
-            self.raw_md = self.raw_md.replace(ch, '')
+            self.md = self.md.replace(ch, '')
 
     def get_table_sections_from_raw_md(self):
         """
@@ -50,8 +53,9 @@ class MdToJsonConverter:
         extracted_lines = []
         is_between_markers = False
 
-        for line in self.raw_md.split("\n"):
+        for line in self.md.split("\n"):
             if self.tag_start in line:
+                print(f"In line: {self.tag_start}")
                 is_between_markers = True
                 continue
             if self.tag_end in line:
@@ -59,10 +63,10 @@ class MdToJsonConverter:
                 break
             if is_between_markers:
                 extracted_lines.append(line.strip())
-        self.raw_md = "\n".join(extracted_lines)
+        self.md = "\n".join(extracted_lines)
 
     def convert_md_to_json(self):
-        for n, line in enumerate(self.raw_md[1:-1].split('\n')):
+        for n, line in enumerate(self.md[1:-1].split('\n')):
             data = {}
             if n == 0:
                 header = [t.strip() for t in line.split('|')[1:-1]]
@@ -71,38 +75,38 @@ class MdToJsonConverter:
                 for col, value in zip(header, values):
                     if col not in self.skip_columns:
                         data[col] = value
-                self.raw_json.append(data)
+                self.list_dicts.append(data)
             n += 1
 
     def order_json_by_key(self):
         """"
         Order json by fegyver nev
         """
-        self.raw_json = sorted(self.raw_json, key=lambda x: x[self.sortkey].lower())
+        self.list_dicts = sorted(self.list_dicts, key=lambda x: x[self.sortkey].lower())
 
     def write_json(self, path_json=None):
         if not path_json:
             path_json = self.path_json
         with open(path_json, 'w', encoding="utf-8") as fj:
-            json.dump(self.raw_json, fj, ensure_ascii=False, indent=4)
+            json.dump(self.list_dicts, fj, ensure_ascii=False, indent=4)
 
     def get_json_data(self):
-        return self.raw_json
+        return self.list_dicts
 
 
 ## Global defs
-def order_list_of_dicts_by_key(raw_json, sortkey):
+def order_list_of_dicts_by_key(list_dicts, sortkey):
     """"
     Order list of dicts  by key
     """
-    return sorted(raw_json, key=lambda x: x[sortkey].lower())
+    return sorted(list_dicts, key=lambda x: x[sortkey].lower())
 
 
-def write_out_to_json(path_json, raw_json):
+def write_out_to_json(path_json, list_dicts):
     with open(path_json, 'w', encoding="utf-8") as fj:
         fj.seek(0)
         fj.truncate()
-        json.dump(raw_json, fj, ensure_ascii=False, indent=4)
+        json.dump(list_dicts, fj, ensure_ascii=False, indent=4)
 
 
 ## START SCRIPT ########################################
@@ -137,6 +141,14 @@ if __name__ == "__main__":
         'sortkey': 'Képzettség Szint',
         'skip_columns': ['Fokozat']
        },
+       {
+        'id':'harcmodor_kepzettseg_bonuszok',
+        'output':'harcmodor_kepzettseg_bonuszok.json',
+        'file_pattern': 'harcmodor_kepzettsegek_es_bonuszaik.md',
+        'table_pattern': 'harcmodor_kepzettseg_bonuszok',
+        'sortkey': 'Harcmodor Szint',
+        'skip_columns': []
+       }
     ]
 
     for d in data:
