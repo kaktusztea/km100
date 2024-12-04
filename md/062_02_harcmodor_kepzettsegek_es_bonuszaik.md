@@ -18,9 +18,11 @@ A harci képzettségek aktuális szintjétől függ, hogy az alá tartozó fegyv
 
 <br />
 
-| Harcmodor Szint |               Hatás*                |
+<!-- tag: md_table_harcmodor_kepzettseg_bonuszok_start -->
+
+| Harcmodor Szint |                Hatás                |
 | :-------------: | :---------------------------------: |
-|    Képzetlen    | `KÉ: -20, TÉ: -30, VÉ:-30, CÉ: -30` |
+|       `0`       | `KÉ: -20, TÉ: -30, VÉ:-30, CÉ: -30` |
 |       `1`       |     csak `-10KÉ, -20 TÉ,VÉ,CÉ`      |
 |       `2`       |      csak `-5KÉ, -10 TÉ,VÉ,CÉ`      |
 |       `3`       |                 `0`                 |
@@ -36,8 +38,9 @@ A harci képzettségek aktuális szintjétől függ, hogy az alá tartozó fegyv
 |      `13`       |        `+10 KÉ ; +30 TÉ,VÉ,`        |
 |      `14`       |       `+11 KÉ ; +33 TÉ,VÉ,CÉ`       |
 |      `15`       |       `+12 KÉ ; +36 TÉ,VÉ,CÉ`       |
+<!-- tag: md_table_harcmodor_kepzettseg_bonuszok_end -->
 
-\* A távolsági fegyvereknél értelemszerűen csak `KÉ: +1` és `CÉ: +3` jár szintenként, hiszen nincs `TÉ` és `VÉ` értékük.
+⚜️ A távolsági fegyvereknél értelemszerűen csak `KÉ: +1` és `CÉ: +3` jár szintenként, hiszen nincs `TÉ` és `VÉ` értékük.
 
 ---
 ### Harcmodorok és Manőverek
