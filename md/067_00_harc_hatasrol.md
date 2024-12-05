@@ -4,13 +4,13 @@
 
 Aki lóról harcol, az előnyben van, részben a magasabb pozíció, részben lova állandó mozgása, fenyegetése miatt.
 
-#### [Lovas, Léglovas harc szabályai](067_01_lovas_harc_szabalyok.md)
+### [Lovas, Léglovas harc szabályai](067_01_lovas_harc_szabalyok.md)
 
-#### [Lovas, Léglovas fortélyok](067_02_lovas_leglovas_fortelyok.md)
+### [Lovas, Léglovas fortélyok](067_02_lovas_leglovas_fortelyok.md)
 
-#### [Lovas, Léglovas harci taktikák](067_03_lovas_harci_taktikak.md)
+### [Lovas, Léglovas harci taktikák](067_03_lovas_harci_taktikak.md)
 
-#### [Lovas, Léglovas manőverek](067_04_lovas_leglovas_manoverek.md)
+### [Lovas, Léglovas manőverek](067_04_lovas_leglovas_manoverek.md)
 
 ---
 
