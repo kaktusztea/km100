@@ -74,7 +74,7 @@ class MdToJsonConverter:
 
     def order_json_by_key(self):
         """"
-        Order json by fegyver nev
+        Order json by sortkey value
         """
         if self.sortkey:
             self.list_dicts = sorted(self.list_dicts, key=lambda x: x[self.sortkey].lower())
