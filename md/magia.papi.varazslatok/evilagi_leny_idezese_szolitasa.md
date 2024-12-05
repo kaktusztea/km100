@@ -1,4 +1,4 @@
-#### ✨Evilági állat/lény idézése/szólítása
+### ✨Evilági állat/lény idézése/szólítása
 
 **Szféra**: Idézés, Lélek
 
@@ -8,7 +8,7 @@
 
 **Csoportosan**: működik 
 
-##### Kisszféra
+#### Kisszféra
 
 **3.szint:**
 - kis lények (madár, rágcsálók, denevér  (max 1 csoportnyi)).
@@ -30,12 +30,12 @@
 **15.szint:** Legendás szörny (Legtáposabb állati intelligenciájú állat a Bestiáriumból akár tengerből is. Krák, Tengeri kígyó, Jégdémon.)
 
 ---
-##### Hatás
+#### Hatás
 
 Megidézel/szólítasz egy állati intelligenciájú lényt, akinek aztán egy darab parancsot adhatsz. Csak olyan lényt tudsz idézni, amely istenednek tetsző, vagy semleges. A lény egyszerűen megjelenik, kisétál a fák közül, előbújik a fűből, mintha eddig is ott lett volna.
 
 ---
-##### Szabályok
+#### Szabályok
 
 - Ha véletlenül van ilyen lény a környéken (szitufüggő, KM dönt), akkor `-6` követelményre és akkor nem odateleportál(nak), hanem odajön(nek).
 - A lénynek 1 db parancsot adhatsz. Pl. támadjon rá ellenfeleidre, ússzon át a folyón.

@@ -1,4 +1,4 @@
-#### ✨Gólem teremtése
+### ✨Gólem teremtése
 
 **Szféra**: Idézés, Anyag
 
@@ -8,12 +8,12 @@
 
 **Csoportosan**: működik 
 
-
- **Követelmény**:
+#### Követelmény
+ 
 - [Élettan](../fortelyok.altalanos/elettan.md) fortély
 - [Képzőművészet képzettség](../kepzettsegek.szekunder/kepzomuveszet.md) + [Szobrászat SzH](../fortelyok.szabad/szobraszat.md) - `9.szint`
 - komponens: ⭕drágakő? ⭕TODO⭕
-##### Kisszféra
+#### Kisszféra
 
 **8.szint:** Agyaggólem. Komponens: ⭕TODO⭕
 
@@ -23,16 +23,15 @@
 
 **15.szint:** Mágikus fémből készült gólem. Komponens: megfelelő mágikus fém.
 
-
 ---
-##### Hatás
+#### Hatás
 
 A pap sajátkezűleg gólemet teremt. Bármilyen anyagból is készül, kézzel kell formázni (mágikusan). A pap a kész testbe angyali/ördögi lényt idéz, amely fizikailag is hasonul némileg a beléidézett lényhez. Például Domviké egy páncélos, szőke lovag-szerű (de nem pont olyan). Ranagolé szarvakkal, stb.
 
 A gólem teljesíti gazdája minden parancsát, élelemre, levegőre nincs szüksége.
 
 ---
-##### Szabályok
+#### Szabályok
 
 - a pap saját esszenciájából is megköt valamennyit a gólemben. Idézés és Anyag Szférája ideiglenesen `2`-vel csökken, amíg a gólem él.
 - harcértékei egy Kisszférának megfelelő Tapasztalati Szintű harcosé ⭕TODO⭕

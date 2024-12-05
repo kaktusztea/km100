@@ -1,4 +1,4 @@
-### 🔵 Összpontosítás
+## 🔵 Összpontosítás
 
 Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 

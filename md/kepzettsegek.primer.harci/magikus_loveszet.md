@@ -1,4 +1,4 @@
-### 🔵 Mágikus lövészet
+## 🔵 Mágikus lövészet
 
 Ez egy [Primer (harci) képzettség](../015_primer_szekunder_ismeretek.md).
 

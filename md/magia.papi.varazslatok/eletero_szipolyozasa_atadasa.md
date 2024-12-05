@@ -1,4 +1,4 @@
-#### ✨Életerő szipolyozása, átadása
+### ✨Életerő szipolyozása, átadása
 
 **Szféra**: Életerő
 
@@ -6,7 +6,7 @@
 
 **Hatótáv**: Érintés
 
-##### Kisszféra
+#### Kisszféra
 
 **6.szint:** Innen alkalmazható.
 
@@ -18,7 +18,7 @@
 
 
 ---
-##### Hatás
+#### Hatás
 
 A Pap a lefogott, rögzített áldozat fejéhez térdel, majd gonosz urát/úrnőjét segítségül hívva elorozza annak életerejét.
 
@@ -28,6 +28,6 @@ A varázslattal annyi `ÉP` szívható el, amennyi maradt az áldozatban, KT kel
 
 
 ---
-##### Szabályok
+#### Szabályok
 
 Feketemágiának számít, így leplezés nélkül meglátszik alkalmazójának Auráján is.

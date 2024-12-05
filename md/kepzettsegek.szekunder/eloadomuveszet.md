@@ -1,9 +1,9 @@
-### 🔵 Előadóművészet
+## 🔵 Előadóművészet
 
 **Próba:** dobható
 
 **Domináns Tulajdonságok**: Érzékenység, Emlékezet
-#### Normál kiterjesztés
+### Normál kiterjesztés
 
 - [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) (adott kultúra): enélkül érvényes a levonás mindegyik lenti művészeti ágra.
 - [Éneklés](../fortelyok.szabad/enekles.md): nézők előtt dalolsz a hallgatók örömére.
@@ -12,7 +12,7 @@
 - [Tánc](../fortelyok.szabad/tanc.md): Művelni vagy képes a Kultúrköreidnek megfelelő tánc stílusokat.
 - [Zsonglőrködés](../fortelyok.szabad/zsonglorkodes.md): Ujjaid között pörögnek, forognak a labdák, kések, kisállatok. A publikum ámul.
 
-#### Erős kiterjesztés
+### Erős kiterjesztés
 
 - [Zenélés: fúvós hangszerek](../fortelyok.szabad/zeneles_fuvos_hangszerek.md): Ismered a fúvós hangszerek megszólaltatásának módját. Hogy mennyire élvezhetően, az az Előadóművészet képzettséged szintjétől függ.
 - [Zenélés: húros hangszerek](../fortelyok.szabad/zeneles_huros_hangszerek.md): Ismered a húros hangszerek megszólaltatásának módját. Hogy mennyire élvezhetően, az az Előadóművészet képzettséged szintjétől függ.
@@ -20,13 +20,13 @@
 - [Zeneszerző](../fortelyok.szabad/zeneszerzo.md): Dallamok születnek a fejedben, melyeket papírra vetsz, hogy te, vagy akár egy zenekar előadhassa.
 - [Tánc: speciális/belső stílus](../fortelyok.szabad/tanc_belso_stilus.md): Ismersz egy speciális belső táncstílust. Hogy milyen jól tudod előadni, az a próbától függ.
 
-#### Leírás
+### Leírás
 
 Aktív, alkotó művész vagy. A fenti[ Szabad-Fortélyok](../042_szabad_fortelyok.md) listájából válogathatsz a képzettség kiterjesztéséhez.
 
 <br />
 
-#### Biztos tudás, követelmények
+### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub> | Követelmény |
 |:---------------- |:---------------------------------------------------------------------------------- |:-----------:|
@@ -38,7 +38,7 @@ Aktív, alkotó művész vagy. A fenti[ Szabad-Fortélyok](../042_szabad_fortely
 
 <br />
 
-#### Próbák
+### Próbák
 
 Ha egy passzív próbánál (például: "Mi ez a zene?, Ki festette ezt a képet?") magasabb az **Előadóművészet** képzettség, **akkor is a [Művészetismeret](muveszetismeret.md) képzettség szintjével dobunk próbát**! Attól hogy valaki remekül furulyázik a kocsmában, nem feltétlenül járatos a zenei nagyvilágban.
 
@@ -53,6 +53,6 @@ Ha egy passzív próbánál (például: "Mi ez a zene?, Ki festette ezt a képet
 
 <br />
 
-#### Célszámot módosító körülmények
+### Célszámot módosító körülmények
 
 - ⭕xyz

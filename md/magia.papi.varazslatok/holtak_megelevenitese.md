@@ -1,4 +1,4 @@
-#### ✨Holtak megelevenítése
+### ✨Holtak megelevenítése
 
 **Szféra**: Anyag, Életerő
 
@@ -6,7 +6,7 @@
 
 **Hatótáv**: Közvetlen
 
-##### Kisszféra
+#### Kisszféra
 
 **5.szint:** Harcmodor == Kisszféra⭕
 
@@ -21,12 +21,12 @@
 ⭕TODO⭕: a fenti skálát meghatározni. Harcértékek, gyorsaság, stb.
 
 ---
-##### Hatás
+#### Hatás
 
 A Pap a közelében levő összes holttestet megeleveníti, amelyeket ő irányít. A papnak a varázslás alatt folyamatosan koncentrálnia kell. Sétálhat, lovon léptethet, de nem harcolhat, vagy varázsolhat mást.
 
 ---
-##### Szabályok
+#### Szabályok
 
 holtak harcértékei: ⭕TODO⭕
 

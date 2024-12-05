@@ -1,4 +1,4 @@
-#### ✨Regeneráció
+### ✨Regeneráció
 
 **Szféra**: Életerő
 
@@ -8,7 +8,7 @@
 
 **Csoportosan**: működik
 
-##### Kisszféra
+#### Kisszféra
 
 **5. szint**: 1 ÉP / kör
 
@@ -21,12 +21,12 @@
 **15.szint**: 5 ÉP / kör
 
 ---
-##### Hatás
+#### Hatás
 
 A Pap varázslata folyamatos gyógyulást okoz amíg a harc tart. Az alany(ok) számára körönként `X ÉP` visszatér minden harci kör legvégén. Hogy `X` mennyi, az a **Kisszféra** szintjétől függ.
 
 ---
-##### Szabályok
+#### Szabályok
 
 A varázslatot a harc elején, vagy alatta lehet megidézni, korábban "előkészíteni" nem lehet, ekkor a varázslat létre sem jön.
 

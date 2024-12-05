@@ -1,4 +1,4 @@
-#### ✨Méregsemlegesítés
+### ✨Méregsemlegesítés
 
 **Szféra**: Anyag, Életerő
 
@@ -6,7 +6,7 @@
 
 **Hatótáv**: Érintés
 
-##### Kisszféra
+#### Kisszféra
 
 **3.szint:** ⭕TODO⭕
 
@@ -19,13 +19,13 @@
 **15.szint:** ⭕TODO⭕
 
 ---
-##### Hatás
+#### Hatás
 
 A varázslat eltünteti a méreganyagot a alany szervezetéből, így állapota nem súlyosbodik tovább. Viszont a méreg eddigi hatása, az okozott betegség nem múlik el.
 
 A fenti hatást Betegség gyógyítás varázslat képes megszűntetni.
 
 ---
-##### Szabályok
+#### Szabályok
 
 Ezt a varázslatot elvégezheti Ranagol vagy Darton pap, de "Betegség gyógyítását" nem.

@@ -1,4 +1,4 @@
-### 🔵 Orvoslás
+## 🔵 Orvoslás
 
 Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
@@ -8,22 +8,22 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
 **Domináns Tulajdonságok**: Érzékenység, Emlékezet, Intelligencia
 
-#### Kapcsolódik
+### Kapcsolódik
 
 [Élettan](../fortelyok.altalanos/elettan.md)
 
 
-#### Normál kiterjesztés
+### Normál kiterjesztés
 
 ⭕xyz. Ha nincs, törölni
 
 
-#### Erős kiterjesztés
+### Erős kiterjesztés
 
 ⭕xyz. Ha nincs, törölni
 
 
-#### Leírás
+### Leírás
 
 Igen sokszintű képzettség, amely alacsony szinten a betegségek és sebek kezelését gyógyszerekkel, kencékkel, magasabb szinten félmágikus energiaátadással végzi. Az Orvoslás tehát magában foglalja a sebgyógyítást és nagyon fejlett szinten a gyógyítást is.
 
@@ -36,7 +36,7 @@ A képzettség az alábbi tevékenységeket fedi le:
 Magasabb szinteken egyre kevésbé van szükség fizikai komponensekre, keverékekre.
 
 ---
-#### Betegségek kezelése gyógyszerekkel
+### Betegségek kezelése gyógyszerekkel
 
 A gyógyszerek kikeveréséhez szükség van alapanyagokra, amelyeket a [Vajákosság](../kepzettsegek.szekunder/vajakossag.md) képzettség segítségével lehet beszerezni.
 
@@ -45,7 +45,8 @@ Vajákosság szint követelmény: `Betegség szintje / 2`
 **Fontos**: az alapanyagok mástól is beszerezhetőek, aki járatos a **Vajákosság** képzettségben a fent leírt szint követelményének megfelelően.
 
 ---
-#### Sebek kezelése gyógyszerekkel, kencékkel
+### Sebek kezelése gyógyszerekkel, kencékkel
+
 ```
 Próbadobás Nehézség: Legnagyobb seb (ÉP táblázatból) - ⭕TODO: nehézség korelláció⭕
 ```
@@ -60,7 +61,7 @@ Vajákosság szint követelmény: `Gyógyítandó ÉP / 2`
 <br />
 
 ---
-#### Biztos tudás, követelmények
+### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub>                                              | Követelmény |
 | :--------------- | :------------------------------------------------------------------------------------------------------------------------------ | :---------: |
@@ -72,13 +73,13 @@ Vajákosság szint követelmény: `Gyógyítandó ÉP / 2`
 
 <br />
 
-#### Speciális
+### Speciális
 
 A [Vajákosság](../kepzettsegek.szekunder/vajakossag.md) képzettséggel **NINCS** ad Összhang, mert az csak a gyógyszer komponens beszerzésének követelménye.
 
 <br />
 
-##### Próbák
+### Próbák
 
 | Célszám | Példa  |
 | :----------- | :----------- |
@@ -91,6 +92,6 @@ A [Vajákosság](../kepzettsegek.szekunder/vajakossag.md) képzettséggel **NINC
 
 <br />
 
-#### Célszámot módosító körülmények
+### Célszámot módosító körülmények
 
 - ⭕xyz

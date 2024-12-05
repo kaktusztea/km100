@@ -1,4 +1,4 @@
-### 🔵 Távolsági harcmodor
+## 🔵 Távolsági harcmodor
 
 Ez egy [Primer (harci) képzettség](../015_primer_szekunder_ismeretek.md).
 
@@ -16,7 +16,7 @@ Ezek a képzettségek - szintjüktől függően - büntetéseket/bónuszokat adn
 
 <br />
 
-#### Biztos tudás, követelmények
+### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub>                                                                                                                                                                                 |  Követelmény  |
 |:---------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |:-------------:|

@@ -1,4 +1,4 @@
-### 🔵 Észlelés
+## 🔵 Észlelés
 
 Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
@@ -8,12 +8,12 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
 **Domináns Tulajdonságok**: Érzékenység (fizikai érzékekre is ez használandó), Intelligencia
 
-#### Kapcsolódik
+### Kapcsolódik
 
 - [Villámgyors keresés](../fortelyok.altalanos/villamgyors.kereses.md) fortély
 - [Éber alvó](../fortelyok.altalanos/eber_alvo.md) fortély
 
-#### Normál kiterjesztés
+### Normál kiterjesztés
 
 - [Keresés](../fortelyok.altalanos/kereses.md): Nyomok észrevétele városi környezetben. "Az az asztal el lett mozdítva." / "Huzatos itt a fal mellett."
 
@@ -23,7 +23,7 @@ A képzettség különböző alkalmazási formáiról bővebben a [Szituációk]
 
 <br />
 
-#### Biztos tudás, követelmények
+### Biztos tudás, követelmények
 
 Nincs kiemelt szinteken megkapott biztos tudás.
 
@@ -37,7 +37,7 @@ Nincs kiemelt szinteken megkapott biztos tudás.
 
 <br />
 
-#### Próbák
+### Próbák
 
 | Célszám              | Példa                                                                                                                                                                                                                                                                                |
 | :------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -50,7 +50,7 @@ Nincs kiemelt szinteken megkapott biztos tudás.
 
 <br />
 
-#### Célszámot módosító körülmények
+### Célszámot módosító körülmények
 
 - Zavaró körülmények: `[+1;+6]`
 - Ha az észlelés aktív: `-3` (egy kategória)

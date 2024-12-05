@@ -1,5 +1,4 @@
-#### ✨Asztrálpillantás
-
+### ✨Asztrálpillantás
 
 **Szféra**: Lélek
 
@@ -7,7 +6,7 @@
 
 **Hatótáv**: Közvetlen
 
-##### Kisszféra
+#### Kisszféra
 
 **5.szint:** Valami átdereng a fizikai síkra az asztrálsíkról, leplezetlen, erős lényeket elmosódottan megpillanthatsz
 
@@ -23,11 +22,11 @@
 
 
 ---
-##### Hatás
+#### Hatás
 
 Bepillantasz az Asztrálsíkra. ⭕TODO
 
 ---
-##### Szabályok
+#### Szabályok
 
 ⭕TODO

@@ -1,4 +1,4 @@
-#### ✨Vámpír fegyver
+### ✨Vámpír fegyver
 
 [Vámpír fegyver](https://github.com/kaktusztea/km100/wiki/STUDY.pap.varazslatok#vámpír-fegyver)
 
@@ -8,7 +8,7 @@
 
 **Hatótáv**: Érintés
 
-##### Kisszféra
+#### Kisszféra
 
 **5. szint**: 1 ÉP-t szív el (max)
 
@@ -17,12 +17,12 @@
 **10.szint**: 3 ÉP-t szív el (max)
 
 ---
-##### Hatás
+#### Hatás
 
 A Pap érintésére az általa megérintett fegyver különleges képességre tesz szert a harc idejére. Mikor a fegyver sebet ejt az ellenfelen, az Kisszférától függő mértékben az ejtett sebből valamennyi `ÉP`-t átáramoltat forgatójába. 
 
 ---
-##### Szabályok
+#### Szabályok
 
 Követelmény: csak halál jellemű istenek papjai alkalmazhatják.
 

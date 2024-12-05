@@ -1,4 +1,4 @@
-#### ✨Élőholt teremtése
+### ✨Élőholt teremtése
 
 **Szféra**: Idézés, Életerő
 
@@ -6,7 +6,7 @@
 
 **Hatótáv**: Érintés
 
-##### Kisszféra
+#### Kisszféra
 
 **5.szint:** mászni, kúszni, lassan lépkedni tud, ész nélküli csoszogó zombi.
 
@@ -21,12 +21,12 @@
 ⭕TODO⭕: a fenti skálát meghatározni. Harcértékek, gyorsaság, stb.
 
 ---
-##### Hatás
+#### Hatás
 
 A Pap istene átküld egy lelket a kárpiton túlról, aki beleköltözik a holttestbe és mozgatni kezdi. Ez nem igazi feltámasztás, a lélek csak bitorolja a testet, a varázslat lejártakor eltávozik éa a test összeomlik. 
 
 ---
-##### Szabályok
+#### Szabályok
 
 A varázslathoz hulla szükséges, a mozgást a mágia biztostja.
 

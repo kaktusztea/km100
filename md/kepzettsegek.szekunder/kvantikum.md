@@ -1,4 +1,4 @@
-### 🔵 Kvantikum
+## 🔵 Kvantikum
 
 Professzor, vagy számokkal dolgozó tudósember vagy, a tudás a legfőbb kincsed. 
 
@@ -6,7 +6,7 @@ Professzor, vagy számokkal dolgozó tudósember vagy, a tudás a legfőbb kincs
 
 **Domináns Tulajdonságok**: Intelligencia, Emlékezet
 
-#### Normál kiterjesztés
+### Normál kiterjesztés
 
 - [Pénzügyek](../fortelyok.szabad/penzugyek.md): "Ha ennyi aranyat egyben eladnánk, az leverné az árakat az egész megyében."
 - [Rejtjelfejtő](../fortelyok.szabad/rejtjelfejto.md)
@@ -14,7 +14,7 @@ Professzor, vagy számokkal dolgozó tudósember vagy, a tudás a legfőbb kincs
   - "Megírtam az üzenetet uram, alkalmaztam a titkosírást, ha rossz kezekbe kerül, se tudják elolvasni."
 - [Térképészet](../fortelyok.szabad/terkepeszet.md): "Elkészültem a kastély körüli dombok térképével, a magasságvonalakon látszik, hogy kemény mászás vár arra, aki nem a főúton szándékozik bemenni."
 
-#### Erős kiterjesztés
+### Erős kiterjesztés
 
 - [Írástudó](../fortelyok.altalanos/irastudo.md): enélkül egyik sem megy ❗
 __
@@ -22,7 +22,7 @@ __
 - [Építészet](../fortelyok.altalanos/epiteszet.md): "Az a torony pár hónap és leomlik."
 - [Mechanika](../fortelyok.altalanos/mechanika.md): "Rittyentettem egy átemelő darut, amivel könnyebb lesz az öntözés."
 
-#### Leírás
+### Leírás
 
 A képzettség általános ismeret amely a számokkal való munkára támaszkodó tudományok alapját adja. Alapból magába foglalja a matematikát, számtant, mértant.
 
@@ -31,7 +31,7 @@ Igazi potenciálját a kiterjesztését megvalósító Fortélyokkal érhetjük 
 
 <br />
 
-#### Biztos tudás, követelmények
+### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub> | Követelmény |
 |:---------------- |:---------------------------------------------------------------------------------- |:-----------:|
@@ -43,7 +43,7 @@ Igazi potenciálját a kiterjesztését megvalósító Fortélyokkal érhetjük 
 
 <br />
 
-#### Próbák
+### Próbák
 
 | Célszám | Példa  |
 | :----------- | :----------- |
@@ -56,6 +56,6 @@ Igazi potenciálját a kiterjesztését megvalósító Fortélyokkal érhetjük 
 
 <br />
 
-#### Célszámot módosító körülmények
+### Célszámot módosító körülmények
 
 - ⭕xyz

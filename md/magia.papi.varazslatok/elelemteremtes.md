@@ -1,4 +1,4 @@
-#### ✨Élelemteremtés
+### ✨Élelemteremtés
 
 **Szféra**: Anyag
 
@@ -8,20 +8,20 @@
 
 **Csoportosan**: működik 
 
-##### Kisszféra
+#### Kisszféra
 
 **3.szint:** Legfeljebb fél tucat embernek
 
 **6.szint:** Legfeljebb 2 tucat embernek
 
 ---
-##### Hatás
+#### Hatás
 
 A pap segít az éhezőkön. Vízet fakaszt, élelmet teremt - látszólag a semmiből.
 
 
 ---
-##### Szabályok
+#### Szabályok
 
 - annyi élelem, ivóvíz terem, amennyi a pap környezetében a híveknek elég a jóllakáshoz
 - az imában név szerint kell említeni azokat, akik kapnak majd az ételből

@@ -1,8 +1,8 @@
-### 🔵 Lopás
+## 🔵 Lopás
 
 Tipikusan ellenpróbás képesség. Helyzettől függ a módosítók mértéke.
 
-#### ⚡ Példa szituáció 1:  Nemeshölgy testőrrel
+### ⚡ Példa szituáció 1:  Nemeshölgy testőrrel
 
 `a.)` Nem tudja a tolvaj, hogy ott a testőr: Két **Lopás** próba
 - Lopás próba: **Könnyű** (6) 

@@ -1,4 +1,4 @@
-#### ✨Túlvilági lény idézése
+### ✨Túlvilági lény idézése
 
 **Szféra**: Idézés
 
@@ -8,7 +8,7 @@
 
 **Csoportosan**: működik 
 
-##### Kisszféra
+#### Kisszféra
 
 **6.szint:** ⭕
 
@@ -20,11 +20,11 @@
 
 
 ---
-##### Hatás
+#### Hatás
 
-⭕
+⭕TODO
 
 ---
-##### Szabályok
+#### Szabályok
 
-- ⭕
+- ⭕TODO

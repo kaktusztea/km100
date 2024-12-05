@@ -1,4 +1,4 @@
-#### ✨Feltámasztás
+### ✨Feltámasztás
 
 **Szféra**: Életerő, Idézés, Lélek
 
@@ -8,17 +8,17 @@
 
 **Csoportosan**: működik
 
-##### Kisszféra
+#### Kisszféra
 
 **13.szint:** ⭕Itt alkalmazható
 
 ---
-##### Hatás
+#### Hatás
 
 A Pap egy hosszú rituálé keretében visszahívja a halott lelket a kárpiton túlról és az régi testben újra életre kel.
 
 ---
-##### Szabályok
+#### Szabályok
 
 Az ilyen hatalmas varázslatnak sok követekménye van: ⭕
 - A Papnak bírnia kell istene kegyét, ha konkrét rosszallásással viseltet felé ura, a varázslat biztos nem jön létre.

@@ -1,4 +1,4 @@
-#### ✨Állathoz hasonulás
+### ✨Állathoz hasonulás
 
 **Szféra**: Jelenségek
 
@@ -8,7 +8,7 @@
 
 **Időtartam**: `TSz x perc`
 
-##### Kisszféra
+#### Kisszféra
 
 **4.szint:** `2x` Képesség
 
@@ -16,7 +16,7 @@
 
 
 ---
-##### Hatás
+#### Hatás
 
 Arelnek kedves állatok képességeivel ruházhatja fel a pap saját magát, vagy egy kijelölt, szövetséges, baráti személyt.
 
@@ -24,6 +24,6 @@ Arelnek kedves állatok képességeivel ruházhatja fel a pap saját magát, vag
 - Szarvasugrás: nagyobbat tudsz ugrani és magasabbról biztonságban leérkezni (esni)
 
 ---
-##### Szabályok
+#### Szabályok
 
 .

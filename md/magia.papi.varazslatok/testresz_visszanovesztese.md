@@ -1,4 +1,4 @@
-#### ✨Testrész visszanövesztése
+### ✨Testrész visszanövesztése
 
 **Szféra**: Gyógyítás
 
@@ -8,18 +8,18 @@
 
 **Csoportosan**: működik 
 
-##### Kisszféra
+#### Kisszféra
 
 **9.szint:** Itt végezhető el
 
 
 ---
-##### Hatás
+#### Hatás
 
  Az elvesztett végtag a ceremónia végére visszanő.
 
 ---
-##### Szabályok
+#### Szabályok
 
 A ceremoniális varázslathoz komponensek szükségesek: ⭕TODO⭕
 

@@ -1,4 +1,4 @@
-#### ✨Betegség gyógyítás
+### ✨Betegség gyógyítás
 
 **Szféra**: Életerő
 
@@ -6,7 +6,7 @@
 
 **Hatótáv**: Érintés
 
-##### Kisszféra
+#### Kisszféra
 
 **3.szint:** ⭕TODO⭕
 
@@ -19,7 +19,7 @@
 **15.szint:** ⭕TODO⭕
 
 ---
-##### Hatás
+#### Hatás
 
 Betegségek gyógyítása, illetve öregség okozta betegségek, mint rossz izület, öreg problémák is ide jönnek.
 
@@ -28,6 +28,6 @@ A Betegségeknél a Mérgek modelljét használjuk.
 Méreg által okozott hatás, a betegség gyógyítása. A mérget nem távolítja el, így annak hatása újra életbe lép "nulláról", amennyiben mét tart annak hatása.
 
 ---
-##### Szabályok
+#### Szabályok
 
 ⭕TODO⭕

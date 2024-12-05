@@ -1,4 +1,4 @@
-### 🔵 Álcázás/álruha
+## 🔵 Álcázás/álruha
 
 ````diff
 - Ellenpróbával menjen? Melyik képzettséggel? Álcázás/álruha vs. Észlelés VAGY Emberismeret??
@@ -8,25 +8,26 @@
 
 **Domináns Tulajdonságok**: Ügyesség, Intelligencia, Önuralom, Érzékenység
 
-#### Kapcsolódik
+### Kapcsolódik
 
 - [Százarcú](../fortelyok.altalanos/szazarcu.md) fortély
 - [Kaméleon](../fortelyok.altalanos/kameleon.md) fortély
 
-#### Követelmény
+### Követelmény
 
 ⭕ ((ha nincs, törölni))
 
-#### Normál kiterjesztés
+### Normál kiterjesztés
+
 ⭕ ((ha nincs, törölni)
 
-#### Bónuszok: Élő álca
+### Bónuszok: Élő álca
 
 Titkos, félmágikus ismeret. Csak az álcázás legnagyobb mesterei ismerik – állítólag.
 
 `15.szint:` Alkalmazója kellékek nélkül is képes átformálni vonásait. A hatás csak annyi lehet, amennyit maszkkészítő eszközökkel is el tudna érni. Például: pár perc alatt szakállat, bajszot növeszt, ráncokat varázsol az arcára, megváltozik szeme színe, stb.
 
-#### Leírás
+### Leírás
 
 Az álcázás nagy előny, főleg ha vadásznak rád. Megfelelő maszk, smink, ruha, szerep felvétele - ezek elengedhetetlenek. Egy jó bajusz csodákat tehet, csak le ne essen a kritikus pillanatban.
 
@@ -34,7 +35,7 @@ Az Álcázás/álruha képzettséggel megváltoztathatod külsődet, tudásodtó
 
 Természetesen a fenti, nevesített szerepeken felül mássá is átlényegülhesz - erről képzettségpróba dönt. Minél távolabbi a szerep a meglevő, ismert szerepeidtől, illetve alap személyiségedtől, külsődtől, annál nehezebb a próba. KM dönt.
 
-#### Szürke átlagember szerep
+### Szürke átlagember szerep
 
 Beolvadni a helyi átlagos lakosok közé nagy előny - eltűnni az üldözők elől, nem kitűnni.
 
@@ -42,7 +43,7 @@ Ennek Nehézsége függ a tömeg nagyságától is: `9-15` között mozog jellem
 
 <br />
 
-#### Biztos tudás, követelmények
+### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                           Követelmény                            |
 | :--------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------: |
@@ -55,7 +56,7 @@ Ennek Nehézsége függ a tömeg nagyságától is: `9-15` között mozog jellem
 <br />
 
 ---
-#### Próbák
+### Próbák
 
 | Célszám | Példa  |
 | ----------- | :----------- |
@@ -68,7 +69,7 @@ Ennek Nehézsége függ a tömeg nagyságától is: `9-15` között mozog jellem
 
 <br />
 
-#### Célszámot módosító körülmények
+### Célszámot módosító körülmények
 
 - Gyors átöltözés: körülménytől függ: \[+1-6\]
 - Szegényes felszerelés: \[+1-6\]

@@ -1,15 +1,15 @@
-### 🔵 Befolyásolás
+## 🔵 Befolyásolás
 
 Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md). 
 
 **Próba:** dobható
 
 **Domináns Tulajdonságok**: Intelligencia, Érzékenység
-#### Kapcsolódik
+### Kapcsolódik
 
 - [Emberismeret](emberismeret.md) képzettség
 
-#### Normál kiterjesztés
+### Normál kiterjesztés
 
 - [Alkudozás](../fortelyok.szabad/alkudozas.md): "Micsoda? A felét nem éri! Félkegyelműnek tűnök talán?!"
 - [Csábítás](../fortelyok.szabad/csabitas.md): Eltekered a másik fejét. Hamar megered a nyelve, hisz a szerelem vak. Nem mágikus hatású.
@@ -17,13 +17,13 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 - [Megfélemlítés](../fortelyok.szabad/megfelemlites.md): "Kár lenne ezért a szép mellényért, nehezen jön ki belőle a vér..."
 - [Szónoklás](../fortelyok.szabad/szonoklas.md): "Mit választotok? A hazug, kövér urat, aki soha nem fogott kaszát a kezébe, vagy engem, aki magam is egy folyómenti faluból származom?"
 
-#### Leírás
+### Leírás
 
 Mások meggyőzését, szándékainknak megfelelő cselekedetek elérését fedi. Alapból sima érveléstechinka, de a fenti Fortélyokkal kiterjeszthető más szituációkra is.
 
 <br />
 
-#### Biztos tudás, követelmények
+### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub> | Követelmény |
 |:---------------- |:---------------------------------------------------------------------------------- |:-----------:|
@@ -35,7 +35,7 @@ Mások meggyőzését, szándékainknak megfelelő cselekedetek elérését fedi
 
 <br />
 
-#### Ellenpróbák
+### Ellenpróbák
 
 A **Befolyásolás** szinte mindig az [Emberismeret](emberismeret.md) képzettséggel áll ellenpróbás szituációban - a szituációtól függő módosítókkal. A leggyakoribb az alábbi próba-szituáció:
 ```
@@ -44,13 +44,13 @@ Intelligencia + Emberismeret
 Érzékenység + Emberismeret
 ```
 
-#### Szerepjátékos módosító
+### Szerepjátékos módosító
 
 A parti dönti el a játék kezdetekor, hogy alkalmazza -e ezt a paramétert.
 
 A játékos élőszóban előadja, a befolyásolási kísérletet. Az előadás minőségétől függően a KM ad egy módosítót `[-2;+2]` tartományban és a játékos ezt adja hozzáadja (vagy kivonja) a **Befolyásolás** képzettségpróbájához.
 
-#### Próbák
+### Próbák
 
 | Célszám | Példa  |
 | :----------- | :----------- |
@@ -63,6 +63,6 @@ A játékos élőszóban előadja, a befolyásolási kísérletet. Az előadás 
 
 <br />
 
-#### Célszámot módosító körülmények
+### Célszámot módosító körülmények
 
 - ⭕xyz

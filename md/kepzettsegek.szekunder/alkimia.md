@@ -1,29 +1,28 @@
-### 🔵 Alkímia
+## 🔵 Alkímia
 
 **Próba:** dobható
 
 **Domináns Tulajdonságok**: Intelligencia, Emlékezet
 
-#### Kapcsolódik
+### Kapcsolódik
 
 ⭕xyz  ((fortély, más képzettség. Ha nincs, törölni))
 
 
-#### Követelmény
+### Követelmény
 
 ⭕ ((ha nincs, törölni))
 
 
-#### Normál kiterjesztés
+### Normál kiterjesztés
 
 ⭕xyz. Ha nincs, törölni
 
-
-#### Erős kiterjesztés
+### Erős kiterjesztés
 
 ⭕xyz. Ha nincs, törölni
 
-#### Leírás
+### Leírás
 
 A jól felszerelt, világi tudósok, királyi kegyeltek, buzgó kutatók szakterülete. Labor (akár tábori is) felszerelést igényel. Ide tartoznak az alábbi ismeretek:
 - anyagok összetevőinek elemzése saját laboreszközökkel; kémiai kísérletek
@@ -36,7 +35,7 @@ A jól felszerelt, világi tudósok, királyi kegyeltek, buzgó kutatók szakter
 
 <br />
 
-#### Biztos tudás, követelmények
+### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub> |                    Követelmény                     |
 |:---------------- |:---------------------------------------------------------------------------------- |:--------------------------------------------------:|
@@ -48,7 +47,7 @@ A jól felszerelt, világi tudósok, királyi kegyeltek, buzgó kutatók szakter
 
 <br />
 
-#### Próbák
+### Próbák
 
 | Célszám | Példa  |
 | :----------- | :----------- |
@@ -61,6 +60,6 @@ A jól felszerelt, világi tudósok, királyi kegyeltek, buzgó kutatók szakter
 
 <br />
 
-#### Célszámot módosító körülmények
+### Célszámot módosító körülmények
 
 Rosszul felszerelt labor, műszerek hiánya: `[+3-9]`

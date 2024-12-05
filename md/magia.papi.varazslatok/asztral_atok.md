@@ -1,4 +1,4 @@
-#### ✨Asztrál átok
+### ✨Asztrál átok
 
 **Szféra**: Lélek, Idézés
 
@@ -8,7 +8,7 @@
 
 **Csoportosan**: működik 
 
-##### Kisszféra
+#### Kisszféra
 
 **5.szint:** 
 
@@ -20,12 +20,12 @@
 
 
 ---
-##### Hatás
+#### Hatás
 
 Megidézel egy ártó lényt az Asztrálsíkról és hozzákötöd a varázslat célpontjához, így az folyamatosan kifejti rá érzelmi hatását.
 
 ---
-##### Szabályok
+#### Szabályok
 
 - Átok/lény érzékelése más által: ⭕
 - Élet jellemű papok nem gyakorolhatják

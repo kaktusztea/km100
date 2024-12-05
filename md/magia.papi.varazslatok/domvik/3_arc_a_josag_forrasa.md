@@ -1,4 +1,4 @@
-#### ✨3. arc: "A jóság forrása"
+### ✨3. arc: "A jóság forrása"
 
 **Szféra**: Lélek
 
@@ -11,12 +11,12 @@
 **3.szint:** Innen alkalmazható.
 
 ---
-##### Hatás
+#### Hatás
 
 A varázslat empátiát plántál a Pap közvetlen környezetében levő, annak szent szimbólumát látó emberekbe mikor egy elesett, segítségre szoruló személyt látnak. A pap halk szavakkal is megerősíti a kérést, hogy segítsenek, fogadják be a szükségben levő illetőt, illetőket, lássák el és így tovább. Az egész folyamat egy csendes beszélgetésként írható le külső megfigyelő számára, tömegekre nem alkalmazható és nem támaszthat lehetetlen kéréseket a varázslat alanyai felé.
 
 ---
-##### Szabályok
+#### Szabályok
 
 A mágia Asztrális befolyást végez, az mágiaellenállás így értelmezhető.
 

@@ -1,17 +1,17 @@
-### 🔵 Vajákosság
+## 🔵 Vajákosság
 
 **Próba:** dobható
 
 **Domináns Tulajdonságok**: Emlékezet, Intelligencia
 
-#### Normál kiterjesztés
+### Normál kiterjesztés
 
 - [Tájtípus dzsungel](../fortelyok.szabad/tajtipus_dzsungel.md): Ismered a dzsungelben növő növényeket, gyógyító, vagy ártó hatóanyagaikat.
 - [Tájtípus: sivatagi](../fortelyok.szabad/tajtipus_sivatagi.md): Ismered a sivatagban növő növényeket, gyógyító, vagy ártó hatóanyagaikat.
 - [Tájtípus: magaslati](../fortelyok.szabad/tajtipus_magaslati.md): Ismered a magaslati tájon növő növényeket, gyógyító, vagy ártó hatóanyagaikat.
 - [Tájtípus: erdős](../fortelyok.szabad/tajtipus_erdos.md): Ismered az erdős tájon növő növényeket, gyógyító, vagy ártó hatóanyagaikat.
 
-#### Leírás
+### Leírás
 
 A "gyógyszerész". Akár a lápi boszorkány, akár mágiatudó lótifuti segédje, aki napokig járja az erdőt és a vadont ritka alapanyagok után kutatva. A [Orvoslás](../kepzettsegek.primer.altalanos/orvoslas.md) képzettséghez szükséges orvosságok alapanyagainak beszerzéséhez szükséges képzettség. Továbbá:
 
@@ -32,7 +32,7 @@ A "gyógyszerész". Akár a lápi boszorkány, akár mágiatudó lótifuti segé
 
 <br />
 
-#### Biztos tudás, követelmények
+### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub> | Követelmény |
 |:---------------- |:---------------------------------------------------------------------------------- |:-----------:|
@@ -44,7 +44,7 @@ A "gyógyszerész". Akár a lápi boszorkány, akár mágiatudó lótifuti segé
 
 <br />
 
-#### Próbák
+### Próbák
 
 | Célszám | Példa  |
 | :----------- | :----------- |
@@ -57,6 +57,6 @@ A "gyógyszerész". Akár a lápi boszorkány, akár mágiatudó lótifuti segé
 
 <br />
 
-#### Célszámot módosító körülmények
+### Célszámot módosító körülmények
 
 - ⭕xyz
