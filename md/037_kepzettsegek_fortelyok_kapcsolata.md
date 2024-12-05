@@ -125,6 +125,39 @@ Johanius Krad pap egy címert vizsgál a bálterem tükrös falán.
   → Tehát ha legalább `5`-öt dobok `k10`-en, akkor sikerül a próba.
 
 ---
+### ⚡ Példa képzettség kiterjesztésere - 2 fortéllyal
+
+Horgas Apó orkok [nyomát fedezte fel](152_01_nyomok_nyomkovetes_termeszet.md#nyomok-%C3%A9szrev%C3%A9tele-a-term%C3%A9szetben-) a folyóparton és követni szeretné, hova vezetnek.
+
+Ez a klasszikus [Nyomok követése természetben](152_01_nyomok_nyomkovetes_termeszet.md#nyomok-k%C3%B6vet%C3%A9se-a-term%C3%A9szetben-) Szituáció.
+
+\- KM: "Mennyi a **Természetjárás** képzettséged és az **Érzékenység** Tulajdonságod? Ezekkel fogsz dobni."
+
+\- JK: "Természetjárás: `7.szint`, Érzékenység: `+2`"
+
+\- KM: "Ehhez a szituációhoz a **Természetjárás** képzettséghez **két** kiterjesztő **Szabad Hátter** kapcsolódik. Ezekkel hogy állsz? Ha nincs meg bármelyik, akkor is dobhatsz, de csak `-3` büntetéssel."
+- [Nyomolvasás](fortelyok.altalanos/nyomolvasas.md)
+- [Tájtípus: erdős](fortelyok.szabad/tajtipus_erdos.md)
+
+\- JK: "Nyomolvasás: `2.fok`, Tájtípus: erdős: `1.fok`, kimaxoltam."
+
+\- KM: "Remek, mindkét kiterjesztés megvan és kapsz `+2` bónuszt, mert a Nyomolvasás Szabad Háttered nem `1.`, hanem `2.fokú`."\
+Összetett képzettségpróba lesz, mert hosszan kell követni a nyomokat. Két próbát kell dobnod:
+
+```
+Nehéz: 12
+Átlagos: 9
+```
+
+\- JK: "OK, az **Átlagos (9)** így már dobás nélkül is megvan. A **Nehéz (12)**-re dobok... megvan!
+
+```
+7 + 2 + k10 → 14
+```
+
+\- KM: "Rendben, meglátod a következő csizmanyomot, aztán pár letört ágat, némi szőrcsomóval, ami beleakadt. Észak felé, a hegyek irányába haladtok..."
+
+---
 
 🔗 [Fortélyok kiterjesztéslistája](038_fortelyok_kepzettsegkiterjesztes_listaja.md) →
 
