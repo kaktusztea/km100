@@ -1,4 +1,4 @@
-#### ✨Belső síkok lényeinek megidézése
+### ✨Belső síkok lényeinek megidézése
 
 **Szféra**:
 - elementál: Idézés, Anyag
@@ -13,7 +13,7 @@
 
 **Csoportosan**: működik
 
-##### Kisszféra
+#### Kisszféra
 
 **3.szint:** ⭕TODO⭕
 
@@ -31,12 +31,12 @@
 - ⭕ milyen komplex parancsot lehessen adni neki (vagy erre külön Pap-Tradíció próbált dobjon?)
 
 ---
-##### Hatás
+#### Hatás
 
 A Pap megidéz egy kívánt lényt a belső síkok egyikéről, melynek jó esetben parancsolni is tud.
 
 ---
-##### Szabályok
+#### Szabályok
 
 Az egyes lények csoportjai más-más Szféra ismeretét követelik meg.
 

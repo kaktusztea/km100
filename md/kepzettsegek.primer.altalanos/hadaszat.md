@@ -1,4 +1,4 @@
-### 🔵 Hadászat
+## 🔵 Hadászat
 
 Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
@@ -6,7 +6,7 @@ Passzív tudásként is.
 
 Reguláris haderővel kapcsolatos ismeretek. Stratégiai tervezés, logisztika, hadtáp, harci csoportok vezetése (taktikák).
 
-#### Normál kiterjesztés
+### Normál kiterjesztés
 
 - [Logisztika](../fortelyok.szabad/logisztika.md): "A hadtápot szét tudjuk húzni még 5 mérfölddel, de kettővel növelnünk kell a szállító szekerek számát naponta."
 - [Stratégia](../fortelyok.szabad/strategia.md): "A hegyláncot tartani tudjuk, ha a 4. hadtest egy hét múlva megérkezik a folyópartra."

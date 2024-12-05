@@ -1,4 +1,4 @@
-### 🔵 Ősi nyelv ismerete 🔁
+## 🔵 Ősi nyelv ismerete 🔁
 
 Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
@@ -11,13 +11,13 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
 **Domináns Tulajdonságok**: Emlékezet
 
-#### Leírás
+### Leírás
 
 xyz
 
 <br />
 
-#### Biztos tudás, követelmények
+### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub> | Követelmény |
 | :--------------- | :--------------------------------------------------------------------------------- | :---------: |
@@ -29,7 +29,7 @@ xyz
 
 <br />
 
-#### Próbák
+### Próbák
 
 | Célszám | Példa  |
 | :----------- | :----------- |
@@ -42,6 +42,6 @@ xyz
 
 <br />
 
-#### Célszámot módosító körülmények
+### Célszámot módosító körülmények
 
 - ⭕xyz

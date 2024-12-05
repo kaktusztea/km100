@@ -1,4 +1,4 @@
-#### ✨Engedelmesség: növények
+### ✨Engedelmesség: növények
 
 **Szféra**: Jelenségek
 
@@ -8,7 +8,7 @@
 
 **Csoportosan**: működik 
 
-##### Kisszféra
+#### Kisszféra
 
 **3.szint:** ne robbanjon fel a pöffeteg
 
@@ -22,11 +22,11 @@
 
 
 ---
-##### Hatás
+#### Hatás
 
 Egy kijelölt növény végrehajt 1 db nagyon egyszerű parancsot. Ez nem lehet önmagát szándékosan károsító hatás.
 
 ---
-##### Szabályok
+#### Szabályok
 
 .

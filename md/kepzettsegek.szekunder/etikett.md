@@ -1,25 +1,25 @@
-### 🔵 Etikett
+## 🔵 Etikett
 
 **Próba**: dobható, sokszor [összetett próba](../036_kepzettsegproba.md#összetett-képzettségpróba-másodlagos-próbadobások) indokolt
 
 **Domináns Tulajdonságok**: Érzékenység, Intelligencia, Önuralom, Emlékezet
 
-#### Kapcsolódik
+### Kapcsolódik
 
 - [Hidegvér](../fortelyok.altalanos/hidegver.md)
 - [Tiszta fej](../fortelyok.altalanos/tiszta_fej.md)
 
-#### Normál kiterjesztés
+### Normál kiterjesztés
 
 - [Kultúrkör](../fortelyok.kiemelt/kulturkor.md): Nélküle általános etikett szabályokra és megérzéseidre támaszkodsz csak. Ha ismered, nincs gond.
 
-#### Erős kiterjesztés
+### Erős kiterjesztés
 
 - [Tánc: speciális/belső stílus](../fortelyok.szabad/tanc_belso_stilus.md): "A vérnász során egyre több pengét kell elkerülni, a hetedik után hátulról is jöhet egy meglepetés."
 - [Teaszertartás](../fortelyok.szabad/teaszertartas.md): Amely Kultúrköröket ismersz, azok teaszertartásait **Etikett** képzettséged szintjének megfelelően el is tudod végezni, illetve felismered az említett Kultúrkörökhöz tartozó teaszertartásokat.
 - [Titkos szervezeti kultúra](../fortelyok.szabad/titkos_szervezeti_kultura.md):  "A véráldozat után két perc ima, utána indul minden fejvadász a küldetésre. Most nem szabad megszólalnom."
 
-#### Leírás
+### Leírás
 
 Hogy kell köszönteni a nemesi vendégeket, hogyan kell udvariasan hárítani egy meghívást, mi számít könnyed tréfának és mi halálos sértésnek? A képzettség elsősorban az udvari, nemesi környezetben való "viselkedést" fedi.
 
@@ -27,7 +27,7 @@ Természetesen nem mindegy, melyik kultúrkörben kell a társasági kihívások
 
 <br />
 
-#### Biztos tudás, követelmények
+### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub>                                                                                                 |                   Követelmény                    |
 | :--------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------: |
@@ -39,7 +39,7 @@ Természetesen nem mindegy, melyik kultúrkörben kell a társasági kihívások
 
 <br />
 
-#### Próbák
+### Próbák
 
 | Célszám              | Példa                                                                                                                                                                     |
 | -------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -52,7 +52,7 @@ Természetesen nem mindegy, melyik kultúrkörben kell a társasági kihívások
 
 <br />
 
-#### Célszámot módosító körülmények
+### Célszámot módosító körülmények
 
 - Bódult, részeg állapotban: `+[1-6]`
 - Nehézség büntetés, ha nincs kapcsolódó [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) Háttér.

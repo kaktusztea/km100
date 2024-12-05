@@ -1,4 +1,4 @@
-### 🔵 Mászás
+## 🔵 Mászás
 
 ⭕**TODO**⭕
 
@@ -18,18 +18,18 @@ Menet felfelé:
 
 **Domináns Tulajdonságok**: Ügyesség (a mászáshoz), Önuralom (rontott próbánál), Erő (erőtartalék kritikus helyzetben), Edzettség (rontáskor kitartani), Intelligencia (felmérni a mászandó terepet, helyeket)
 
-#### Kapcsolódik
+### Kapcsolódik
 
 - [Biztos kezű mászó](../fortelyok.altalanos/biztos_kezu_maszo.md) fortély
 - [Pók](../fortelyok.altalanos/pok.md) fortély
 
-#### Leírás
+### Leírás
 
 Sokszor fordul elő, hogy fel kell jutni olyan helyekre, ahova egy átlagember nem képes. Ebben segít a Mászás képzettség. Magas szintű alkalmazói jellemzően egyes tolvaj- és fejvadászklánok elit tagjai.
 
 <br />
 
-#### Biztos tudás, követelmények
+### Biztos tudás, követelmények
 
 Ha a terep (próba) nehézsége nem nagyobb a a Mászás képzettségnél, akkor azon a terepen a mászó bárhol képes megállva kipihenni magát.
 
@@ -44,7 +44,7 @@ Ha a terep (próba) nehézsége nem nagyobb a a Mászás képzettségnél, akkor
 <br />
 
 ---
-#### Bónusz: Tapadás
+### Bónusz: Tapadás
 
 Titkos, félmágikus ismeret.
 
@@ -53,7 +53,7 @@ Titkos, félmágikus ismeret.
 `15.szint`: Képes vagy pókként megtapadni a falon – akár a mennyezeten is. A kapaszkodáshoz nincs szükséged kiszögelésre.
 
 ---
-#### Próbák
+### Próbák
 
 | Célszám | Példa  |
 | :----------- | :----------- |
@@ -67,7 +67,7 @@ Titkos, félmágikus ismeret.
 <br />
 
 ---
-#### Célszámot módosító körülmények
+### Célszámot módosító körülmények
 
 - Gyorsan mászni: `+3`
 - Sötétben mászni: `+[3;6]`
@@ -78,7 +78,7 @@ Titkos, félmágikus ismeret.
 
 <br />
 
-#### Edzettség és Erő
+### Edzettség és Erő
 
 Rontott Mászás próba esetén dobható – a rontás mértékétől függő – Edzettségpróba (`1 pont rontás: Könnyű próba`, `2 pont rontás: Átlagos próba`, stb), hogy a kritikus (rontott) szituációban képes -e megtartani magát a mászó. Ha nem, lehullik, mint a falevél, ha igen, sikerül megkapaszkodnia egy stabil pozícióban. Az Edzettségpróbára „rátehet” a karakter az `Erő` tulajdonságából, kvázi erőtartalékait felemésztve. Ennek viszont ára van: az így átcsoportosított Erő pontok elvesznek, és óránként csak `1` tér vissza (⭕vagy esetleg inkább 10 percenként 1⭕).
 
@@ -86,7 +86,7 @@ Rontott Mászás próba esetén dobható – a rontás mértékétől függő �
 
 <br />
 
-#### Önuralom
+### Önuralom
 
 Ha a próbát nagyon kiélezett, életveszélyes helyzetben rontja el a karakter, a KM dönthet úgy, hogy `Önuralom` próbát dobat. Ha ez nincs meg, akkor a KM-nek jogában áll, hogy tetszőlegesen nagy `Erő` tulajdonság tartalékot felhasználtasson a karakterrel (adrenalin hatása). Így jó eséllyel meg tud kapaszkodni, de minden erőtartalékát feléli, gyakorlatilag remegve a falhoz tapadva marad, további mászása erősen kérdéses, segítségre szorul.
 
@@ -95,7 +95,7 @@ Hogy egy karakter hányas `Erő` tulajdonsággal képes még továbbmászni, az 
 <br />
 
 ---
-#### Példa ⚡
+### Példa ⚡
 
 ⚡ Részlet Tetves, a tolvaj küzdelmes útjából a **Szent Vágránáf ereklyéjét** őrző **Wakzahanbarr** erődmonostor cigiterasza alatti sziklafalon:
 
@@ -113,8 +113,6 @@ A táv miatt a KM összetett próbát ír elő `+1` próbával, így egy `15`-ö
 
 A játékos dob: `2 és 1`.\
 Mivel `Mászás(9)+Ügyesség(3) = 12`, ezért az első próba nem, de a második már sikerült...
-
-
 
 🔆 "Az áthajláson kell  már csak átjutnom, ott akár félseggel ki is ülhetek arra a pici párkányra és az adna egy kis szuszt. Ááá, csak ez a buzi áthajlás... de itt már kurvára alig bírom... na csak odáig még, azt jó lesz... ehehhheee,  ott a kis lépésem is.. kicsit messze, de ez van. Na lássuk..."
 

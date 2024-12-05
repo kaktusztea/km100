@@ -1,4 +1,4 @@
-#### ✨Időjárás befolyásolása
+### ✨Időjárás befolyásolása
 
 **Szféra**: Jelenségek
 
@@ -8,7 +8,7 @@
 
 **Csoportosan**: működik 
 
-##### Kisszféra
+#### Kisszféra
 
 **3.szint:** mérsékelten feltámad a szél, szellő fújkál
 
@@ -24,12 +24,12 @@
 
 
 ---
-##### Hatás
+#### Hatás
 
 Befolyásolhatod az időjárást.
 
 ---
-##### Szabályok
+#### Szabályok
 
 - minél hatalmasabb az időjárás változása, annál tovább tart a varázslat.
 - **12.szinttől** már Ceremoniális a Varázslás ideje.

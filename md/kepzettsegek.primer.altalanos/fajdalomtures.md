@@ -1,4 +1,4 @@
-### 🔵 Fájdalomtűrés
+## 🔵 Fájdalomtűrés
 
 Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
@@ -6,17 +6,17 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
 **Domináns Tulajdonságok**: Önuralom
 
-#### Kapcsolódik
+### Kapcsolódik
 
 - [Harci láz](../fortelyok.harci/harci_laz.md) fortély
 - [Kínokozás](../fortelyok.harci/kinokozas.md) fortély
 - [Fakír](../fortelyok.altalanos/fakir.md) fortély
 
-#### Bónusz: Fakír
+### Bónusz: Fakír
 
 Lásd a [Fakír](../fortelyok.altalanos/fakir.md) fortély leírását
 
-#### Leírás
+### Leírás
 
 Legyőzni a fájdalmat, legyőzni önmagunkat. Ez a képzettség nem véletlenül kapcsolódik szorosan a harchoz, hiszen az a harcos, aki nem képes legyűrni sebei fájdalmát, hamar elhullik. 
 
@@ -26,7 +26,7 @@ Ezt a képzettségedet használod váratlan fájdalmak kiállásakor, illetve k�
 
 <br />
 
-#### Biztos tudás, követelmények
+### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub> |    Követelmény    |
 |:---------------- |:---------------------------------------------------------------------------------- |:-----------------:|
@@ -38,7 +38,7 @@ Ezt a képzettségedet használod váratlan fájdalmak kiállásakor, illetve k�
 
 <br />
 
-#### Próbák
+### Próbák
 
 | Célszám | Példa  |
 | :----------- | :----------- |
@@ -51,7 +51,7 @@ Ezt a képzettségedet használod váratlan fájdalmak kiállásakor, illetve k�
 
 <br />
 
-#### Célszámot módosító körülmények
+### Célszámot módosító körülmények
 
 - Bódult állapot (áfiumok, kábítószerek hatására): mínusz `[3-15]`
 - [Harci láz](../fortelyok.harci/harci_laz.md) (lásd a leírását!)

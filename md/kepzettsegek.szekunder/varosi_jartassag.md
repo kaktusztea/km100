@@ -1,20 +1,19 @@
-### 🔵 Városi jártasság
+## 🔵 Városi jártasság
 
 **Próba:** dobható
 
 **Domináns Tulajdonságok**: Emlékezet, Intelligencia
 
-#### Normál kiterjesztés
+### Normál kiterjesztés
 
 - [Helyismeret](../fortelyok.kiemelt/helyismeret.md): Az adott környék ismerete sokat segít, nélküle az általános tapasztalatok dominálnak inkább.
 - [Kultúrkör](../fortelyok.kiemelt/kulturkor.md): Az adott kultúrkör ismerete képes pótolni a Helyismeret hiányát. Ha ez megvan, de az nem, akkor sem jár a levonás.
 
-#### Erős kiterjesztés
+### Erős kiterjesztés
 
 - [Titkos szervezeti kultúra](../fortelyok.szabad/titkos_szervezeti_kultura.md): Egy adott titkos klán vagy szervezet belső működésének, szokásainak, hierarchiájának ismerete. Székhelyek, besúgók, informátorok fellelésének helyei.
 
-
-#### Leírás
+### Leírás
 
 ⭕TODO⭕
 - helyi pletykák ismerete és megszerzése
@@ -29,8 +28,7 @@ Például
 - bajvívó
 - tolvaj
 
-
-#### Speciális
+### Speciális
 
 Segít a Helyismeret gyorsabb megszerzésében
 - ⭕TODO⭕erre lehet valami képlet, vagy próba a megszerzésre
@@ -38,7 +36,7 @@ Segít a Helyismeret gyorsabb megszerzésében
 
 <br />
 
-#### Biztos tudás, követelmények
+### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub> | Követelmény |
 |:---------------- |:---------------------------------------------------------------------------------- |:-----------:|
@@ -50,7 +48,7 @@ Segít a Helyismeret gyorsabb megszerzésében
 
 <br />
 
-#### Próbák
+### Próbák
 
 ⭕Példa: keresek egy csövest, aki infót ad
  
@@ -65,6 +63,6 @@ Segít a Helyismeret gyorsabb megszerzésében
 
 <br />
 
-#### Célszámot módosító körülmények
+### Célszámot módosító körülmények
 
 - ⭕TODO⭕

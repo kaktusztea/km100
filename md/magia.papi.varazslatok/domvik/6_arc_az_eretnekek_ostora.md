@@ -1,4 +1,4 @@
-#### ✨6.arc: "Az Eretnekek ostora"
+### ✨6.arc: "Az Eretnekek ostora"
 
 **Szféra**: Lélek, Idézés, Mágia
 
@@ -6,7 +6,7 @@
 
 **Hatótáv**: Érintés (személyre), Közvetlen (területre)
 
-##### Kisszféra
+#### Kisszféra
 
 **4.szint:**
 - nem tudható, hogy konkrétan mi az, csak hogy jelen van
@@ -26,9 +26,8 @@
 
 **15.szint:** 
 
-
 ---
-##### Hatás
+#### Hatás
 
 A Pap képes hite ellenségeinek hatásait, jelenlétét érzékelni:
 - aktív és nem leplezett feketemágiát `2x Kisszféra` sugarú körben
@@ -38,9 +37,8 @@ A Pap képes hite ellenségeinek hatásait, jelenlétét érzékelni:
   - módszer (Átok, Bűbáj vagy Csókmágia)
   - jellege: Mentál, Asztrál, Betegség, Megszállás
 
-
 ---
-##### Szabályok
+#### Szabályok
 
 A Pap a varázslattal `Kisszféra` szintű **Leplezés** varázslaton képes átlátni, de csak akkor, ha az feketemágiát takar.
 

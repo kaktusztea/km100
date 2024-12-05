@@ -1,14 +1,14 @@
-### 🔵 Idomítás
+## 🔵 Idomítás
 
 **Próba:** dobható
 
 **Domináns Tulajdonságok**: Érzékenység, Intelligencia, Emlékezet
 
-#### Normál kiterjesztés
+### Normál kiterjesztés
 
  [Lénylovas](../fortelyok.szabad/lenylovas.md) 
  
-#### Leírás
+### Leírás
 
 A képzettség állatok idomítását fogja magában. Az egyes állatcsoportokra vonatkozó ismereteket [Szabad Fortélyok](../042_szabad_fortelyok.md) felvételével nyerheted el. 
 
@@ -16,7 +16,7 @@ A képzettség állatok idomítását fogja magában. Az egyes állatcsoportokra
 
 <br />
 
-#### Biztos tudás, követelmények
+### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub> | Követelmény |
 | :--------------- | :--------------------------------------------------------------------------------- | :---------: |
@@ -29,13 +29,13 @@ A képzettség állatok idomítását fogja magában. Az egyes állatcsoportokra
 <br />
 
 ---
-#### Bónusz: Állat testvér
+### Bónusz: Állat testvér
 
 A felsorolt valamelyik 3 képzettség legfelső szintjein már olyan magas fokú kapcsolat jön létre ember és állat között – lelki társsá válnak –, ami különleges telepátiát hoz létre közöttük. A kapcsolat olyan konkrét állatokra vonatkozik csak, akikkel a viselője legalább 1 éve szoros napi érintkezésben van és a köztük levő kapcsolat szeretetteljesnek mondható.
 
 **Követelmény** : [Idomítás](idomitas.md) / [Lovaglás](lovaglas.md) / [Léglovaglás](leglovaglas.md) &nbsp;–&nbsp;`12-15.szint` és [Lénylovas](../fortelyok.szabad/lenylovas.md) Fortély az adott lény fajára.
 
-#### Szint Bónuszok 
+### Szint Bónuszok 
 
 `12.szint:` a karakter a társául szegődött állattal folyamatos telepatikus kapcsolatban van, képes csupán a gondolataival irányítani őt. Az állat nem köteles engedelmeskedni, ez pusztán kétoldalú kommunikáció, nem akaratirányítás. A gondolatok átadása mellett egymás érzelmi állapotát és annak változásait is képesek érzékelni, átélni.
 
@@ -45,7 +45,7 @@ A felsorolt valamelyik 3 képzettség legfelső szintjein már olyan magas fokú
 <br />
 
 ---
-#### Próbák
+### Próbák
 
 | Célszám | Példa  |
 | :----------- | :----------- |
@@ -58,6 +58,6 @@ A felsorolt valamelyik 3 képzettség legfelső szintjein már olyan magas fokú
 
 <br />
 
-#### Célszámot módosító körülmények
+### Célszámot módosító körülmények
 
 - ⭕xyz

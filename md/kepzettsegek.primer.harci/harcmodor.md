@@ -1,4 +1,4 @@
-### 🔵 Harcmodorok
+## 🔵 Harcmodorok
 
 Ez egy [Primer (harci) képzettség](../015_primer_szekunder_ismeretek.md).
 
@@ -18,7 +18,7 @@ Ezek a képzettségek - szintjüktől függően - büntetéseket/bónuszokat adn
 
 <br />
 
-#### Biztos tudás, követelmények
+### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub>                                                                   |  Követelmény  |
 | :--------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: |
@@ -27,4 +27,3 @@ Ezek a képzettségek - szintjüktől függően - büntetéseket/bónuszokat adn
 | Mester (9)       | ⭕xyz <br /> **Példa**: x                                                                                                                             | Ügyesség: `2` |
 | Nagymester (12)  | Bármilyen fegyvert veszel a kezedbe, annak Sebzése mágikus lesz.                                                                                     | Ügyesség: `3` |
 | Élő legenda (15) | Ha nálad alacsonyabb szintű ellenfelet megsebzel, az azonnal teljesen harcképtelen lesz.<br />Vagy `0` ÉP-re, vagy **max KT**-re kerül (te döntesz). | Ügyesség: `3` |
-

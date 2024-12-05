@@ -1,4 +1,4 @@
-### 🔵 Pszí használat
+## 🔵 Pszí használat
 
 Kapcsolódó:
 - [Pszí főfejezet](../080_pszi.md)

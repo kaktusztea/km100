@@ -1,4 +1,4 @@
-#### ✨Sólyomalak
+### ✨Sólyomalak
 
 **Szféra**: Anyag
 
@@ -8,7 +8,7 @@
 
 **Időtartam**: amíg akarod
 
-##### Kisszféra
+#### Kisszféra
 
 **5.szint:** Karjaid szárnyakká alakulnak, zuhanást Ügyességpróbával (Célszám: `5`) képes vagy megfékezni. Ilyenkor képes vagy siklásban kontrolláltan ereszkedni, emelkedni csak ritka, nagyon erős áramlatok hatására tudsz.
 
@@ -21,12 +21,12 @@
 **12.szint:** Félelmetes, griff méretű óriássólyommá alakulhatsz minden felszerelési tárgyaddal együtt
 
 ---
-##### Hatás
+#### Hatás
 
 Az Arel pap a Kisszféránál leírtaknál megfelelően átalakul Arel szent állatává, sólyommá, vagy alacsony szinten hasonul hozzá. Amíg a pap koncentrál rá, képes fenntartani az állapotot. Ez idő alatt nem varázsolhat.
 
 ---
-##### Szabályok
+#### Szabályok
 
 ⭕TODO⭕
 - ⭕ÉP hogy legyen? JK ÉP, vagy sólyom ÉP

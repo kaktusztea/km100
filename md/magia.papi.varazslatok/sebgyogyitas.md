@@ -1,4 +1,4 @@
-#### ✨Sebgyógyítás
+### ✨Sebgyógyítás
 
 **Szféra**: Életerő
 
@@ -8,7 +8,7 @@
 
 **Csoportosan**: működik 
 
-##### Kisszféra
+#### Kisszféra
 
 **3.szint**: minden seb begyógyul (ms), KT mind megmarad (kt). Kábultság/Bódultság állapot S2-S3-S4 kategórában.
 
@@ -27,12 +27,12 @@
 **12.szint**: ms, minden KT eltűnik.
 
 ---
-##### Hatás
+#### Hatás
 
 A pap kézrátétellel - isteni csodaként - gyógyitja a sebeket.
 
 ---
-##### Szabályok
+#### Szabályok
 
 - A gyógyitást nem lehet újrapróbálni többször egymás után azonos személyen, csak akkor, ha az illető új ÉP sebet kap és akkor is csak az új sebekre vonatkozik a mágia.
 - ⭕0 ÉP-ről visszahozás után a karakter a kaland (nem játékalkalom!) végéig 1 ÉP-vel kevesebbel rendelkezik

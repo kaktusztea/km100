@@ -1,4 +1,4 @@
-### 🔵 Nyomozás
+## 🔵 Nyomozás
 
 Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
@@ -6,7 +6,7 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
 **Domináns Tulajdonságok**: Intelligencia, Emlékezet
 
-#### Normál kiterjesztés
+### Normál kiterjesztés
 
 - [Helyismeret](../fortelyok.kiemelt/helyismeret.md): ha a KM szerint indokolt, akkor ez lehet követelmény a lentiekre
 __
@@ -19,15 +19,15 @@ __
 - [Térképészet](../fortelyok.szabad/terkepeszet.md): "A két 'O' a két ablakot, az 'Y', a hátsó ajtót jelzi, a szaggatott vonalon az 'X' szerintem csapdát jelent."
 - [Titkos szervezeti kultúra](../fortelyok.szabad/titkos_szervezeti_kultura.md): "A Karvaly céh második embere..., a nyakát az Ítészek céhének stílusában vágták át."
 
-#### Erős kiterjesztés
+### Erős kiterjesztés
 
 - [Élettan](../fortelyok.altalanos/elettan.md) (boncoláshoz)
 
-#### Szituáció
+### Szituáció
 
 - [Nyomok értelmezése városi környzetben](../152_02_nyomok_nyomkovetes_varos.md)
 
-#### Leírás
+### Leírás
 
 Egy helyszín átvizsgálásakor rengeteg nyom van, amit értelmezni kell, illetve az felderítés eljárásrendjének ismerete is fontos segítséget adhat. Az alábbi példák segítenek leírni, milyen jellegű információk nyerhetők a képzettség segítségével:
 - bűnjelek elemzése és következtetés is. Példa: el lett mozdítva a bútor.
@@ -42,7 +42,8 @@ A rejtett nyomok megtalálásához az **[Észlelés](eszleles.md)** képzettség
 
 <br />
 
-#### Biztos tudás, követelmények
+### Biztos tudás, követelmények
+
 ⭕TODO
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub> | Követelmény |
@@ -55,7 +56,7 @@ A rejtett nyomok megtalálásához az **[Észlelés](eszleles.md)** képzettség
 
 <br />
 
-#### Próbák
+### Próbák
 ⭕TODO
 
 | Célszám | Példa  |
@@ -69,6 +70,6 @@ A rejtett nyomok megtalálásához az **[Észlelés](eszleles.md)** képzettség
 
 <br />
 
-#### Célszámot módosító körülmények
+### Célszámot módosító körülmények
 
 - ⭕xyz

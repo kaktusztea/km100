@@ -1,4 +1,4 @@
-#### ✨Áldás
+### ✨Áldás
 
 **Szféra**: Mágia
 
@@ -8,7 +8,7 @@
 
 **Csoportosan**: működik 
 
-##### Kisszféra
+#### Kisszféra
 
 **3.szint:** Lelkesültség
 
@@ -21,7 +21,7 @@
 **15.szint:** 
 
 ---
-##### Hatás
+#### Hatás
 
 Az Áldás hatására az alábbi pozitív hatásokat érzi a célpont
 
@@ -31,7 +31,7 @@ Az Áldás hatására az alábbi pozitív hatásokat érzi a célpont
  - fegyverek áldása: a megáldott fegyver mágikus lesz. Ugyan nincs harcérték növekedés, de túlvilági lényeket ezzel már sebezni tud. Ha a pappal ellentétes Karmájú karakter fegyverét áldja meg, akkor - amennyiben nem mágikus - látványosan rosszabb állapotú lesz. Veszít SP értékéből, esetleg harcértékéből is. KM dönt. Ugyanez vonatkozik olyan Ideájú fegyverekre, amivel például már öltek gyereket (Élet jellemű pap esetén. Ranagol híveit ez nyilván nem zavarja).
 
 ---
-##### Szabályok
+#### Szabályok
 
 - Nem alkalmas méreg kimutatására
 - ⭕1 személyre/tárgyra: alapérték

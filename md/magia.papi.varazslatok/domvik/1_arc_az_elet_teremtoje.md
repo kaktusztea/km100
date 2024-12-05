@@ -1,4 +1,4 @@
-#### ✨1. arc: "Az Élet teremtője"
+### ✨1. arc: "Az Élet teremtője"
 
 **Szféra**: Anyag, Jelenségek
 
@@ -6,12 +6,12 @@
 
 **Hatótáv**: Tömeg
 
-##### Kisszféra
+#### Kisszféra
 
 **6.szint:** Innen alkalmazható
 
 ---
-##### Hatás
+#### Hatás
 
 Domvik első arcát egy termékenység varázslat képében fordítja hívei felé.
 
@@ -22,7 +22,7 @@ Ha a hallgatósághoz szól, a termékeny nők sok könnyebben teherbe esnek, n�
 Ha az állatokat áldja meg, azok sokkal könnyebben lesznek vemhesek.
 
 ---
-##### Szabályok
+#### Szabályok
 
 Aki terméketlen arra nem hat az efféle mágia, az ő bajára a [Betegsés gyógyítása](../betegseg_gyogyitasa.md) varázslat hozhat gyógyírt.
 

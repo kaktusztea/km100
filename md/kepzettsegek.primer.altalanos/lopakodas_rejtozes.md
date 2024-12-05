@@ -1,4 +1,4 @@
-### 🔵 Lopakodás/rejtőzés
+## 🔵 Lopakodás/rejtőzés
 
 Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
@@ -14,21 +14,21 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
 **Domináns Tulajdonságok**: ⭕xyz
 
-#### Kapcsolódik
+### Kapcsolódik
 
 ⭕xyz  ((fortély, más képzettség. Ha nincs, törölni))
 
-#### Normál kiterjesztés
+### Normál kiterjesztés
 
 ⭕xyz. Ha nincs, törölni
 
-#### Leírás
+### Leírás
 
 Beletartozik a rejtőzködés is. ⭕xyz
 
 <br />
 
-#### Biztos tudás, követelmények
+### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub> | Követelmény |
 | :--------------- | :--------------------------------------------------------------------------------- | :---------: |
@@ -40,7 +40,7 @@ Beletartozik a rejtőzködés is. ⭕xyz
 
 <br />
 
-#### Próbák
+### Próbák
 
 **Alapeset**: kőpadló, nem zajos ruha, félhomály (közepes fáklyafény), gyenge alapzaj (pl. tücsök cirip, fáklya ropogás)
 
@@ -55,6 +55,6 @@ Beletartozik a rejtőzködés is. ⭕xyz
 
 <br />
 
-#### Célszámot módosító körülmények
+### Célszámot módosító körülmények
 
 - ⭕xyz

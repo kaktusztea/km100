@@ -1,4 +1,4 @@
-#### ✨Szent fegyver
+### ✨Szent fegyver
 
 
 **Szféra**: Idézés, Anyag, Mágia(Tradíció)
@@ -7,25 +7,25 @@
 
 **Hatótáv**: Közvetlen
 
-##### Kisszféra
+#### Kisszféra
 
 **5.szint:** Itt idézhető meg először a fegyver.
 
 ---
-##### Hatás
+#### Hatás
 
  A kijelölt szövetséges kezében megjelenik egy olyan kézifegyver, amihez legjobban ért (nem lehet távolbaható). Fontos: nem lehet jellemütközés a pap, illetve istene és a kijelölt személy között.
 
-##### Időtartam
+#### Időtartam
 
 A fegyver a harc idejére jelenik meg. Akkor tűnik el, amikor a forgatója már nincs közvetlen harci szituációban, vagy veszélyben és Védő Értéke elkezd visszatöltődni - ekkor a fegyver eltűnik.
 
-##### Mellékhatások
+#### Mellékhatások
 
 Fény, isten jellegével egyező hanghatások (kórus, zene, vadállatok üvöltése).
 
 ---
-##### Szabályok
+#### Szabályok
 
 **Megfélemlítés**:\
 Kisszféra szintnek megfelelő **Befolyásolás (Megfélemlítés)** hatás ér automatikusan mindenkit, aki a fegyver forgatójával harcol. Ez ellen a próbát a harc során csak egyszer kell megdobni (Emberismeret+Intelligencia) kombinációval. Ha a másik fél ezt elbukja, akkor a [Félelem alatt](../065_01_harci_helyzetek.md#félelem-alatt) módosítóival harcol az összecsapás végéig.

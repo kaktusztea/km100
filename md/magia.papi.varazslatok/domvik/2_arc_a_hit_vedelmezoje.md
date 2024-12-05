@@ -1,4 +1,4 @@
-#### ✨2. arc: "A Hit védelmezője"
+### ✨2. arc: "A Hit védelmezője"
 
 **Szféra**: Lélek (+Anyag)
 
@@ -8,7 +8,7 @@
 
 **Időtartam**: `TSz x perc` ⭕
 
-##### Kisszféra
+#### Kisszféra
 
 **5.szint:** a Pap csak önmagára alkalmazhatja
 
@@ -20,7 +20,7 @@
 
 
 ---
-##### Hatás
+#### Hatás
 
 A Pap Asztrális és Mentális behatások ellen nyújt védelmet maga, vagy szövetségesei számára.
 
@@ -29,7 +29,7 @@ Bónusz = Kisszféra x 2 ⭕
 ```
 
 ---
-##### Szabályok
+#### Szabályok
 
 Az AME, MME esetén elég a **Lélek** Szféra.
 

@@ -1,4 +1,4 @@
-### 🔵 Képzőművészet
+## 🔵 Képzőművészet
 
 Az alkotás, az kézzel alkotott műremekek aktív, ihletett kreálása.
 
@@ -6,28 +6,28 @@ Az alkotás, az kézzel alkotott műremekek aktív, ihletett kreálása.
 
 **Domináns Tulajdonságok**: Érzékenység, Ügyesség
 
-#### Kapcsolódik
+### Kapcsolódik
 
 - [Művészetismeret](muveszetismeret.md) képzettség
 
-#### Normál kiterjesztés
+### Normál kiterjesztés
 
 - [Hamisítás](../fortelyok.altalanos/hamisitas.md): valamelyik lenti képzőművészeti ágban - amelynek fortélya megvan karakterednek - képes vagy tudásodnak megfelelő szintű hamisítványokat létrehozni.
 
-#### Erős kiterjesztés
+### Erős kiterjesztés
 
 - [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) (kapcsolódó kultúra)
 - [Festészet](../fortelyok.szabad/festeszet.md): Vászonra álmodod a lelkedben születő képeket.
 - [Kalligráfia](../fortelyok.szabad/kalligrafia.md): Mesterien bánsz a pennával, festett betűidben ott lakozik az örökkévalóság.
 - [Szobrászat](../fortelyok.szabad/szobraszat.md): Kezed alatt agyagból, kőből, fából, fémből készülnek a mesteri alkotások.
 
-#### Leírás
+### Leírás
 
 Aktív, alkotó művész vagy. A fenti [Szabad Fortély](../042_szabad_fortelyok.md) listából vehetsz fel művészeti ágakat, terjesztheted ki a képzettséget ezekkel az ismeretekkel.
 
 <br />
 
-#### Biztos tudás, követelmények
+### Biztos tudás, követelmények
 
 Az általad ismert [Kultúrkör](../fortelyok.kiemelt/kulturkor.md)öknek megfelelő műveket hozhatsz létre. Anélkül nem megy.
 
@@ -41,7 +41,7 @@ Az általad ismert [Kultúrkör](../fortelyok.kiemelt/kulturkor.md)öknek megfel
 
 <br />
 
-#### Próbák
+### Próbák
 
 | Célszám | Példa  |
 | :----------- | :----------- |
@@ -54,6 +54,6 @@ Az általad ismert [Kultúrkör](../fortelyok.kiemelt/kulturkor.md)öknek megfel
 
 <br />
 
-#### Célszámot módosító körülmények
+### Célszámot módosító körülmények
 
 - ⭕xyz

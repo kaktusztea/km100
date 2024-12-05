@@ -1,4 +1,4 @@
-### 🔵 Aurafejlesztés
+## 🔵 Aurafejlesztés
 
 **Mágikus világkép**: a [Belső Szféra](../097_magikus_szferak_arkanumok.md#bels%C5%91-szf%C3%A9ra) alá tartozó **Aura arkánum** azonos az **Aurafejlesztés** képzettséggel.
 
@@ -6,16 +6,18 @@
 
 **Domináns Tulajdonságok**: Intelligencia, Érzékenység
 
-#### Kapcsolódódik
-⭕xyz
+### Kapcsolódódik
 
-#### Leírás
+⭕TODO⭕
+
+### Leírás
 
 Minden élőlény rendelkezik Aurával, az élettapasztalatok során ez magától erősödik is, de lehetséges tudatosan is növelni erejét.
 Lásd: [STUDY: Aura](https://github.com/kaktusztea/km100/wiki/STUDY.magia.Aura#modell-a) (⭕link véglegesítése, ha kész⭕)
 
 <br />
-#### Biztos tudás, követelmények
+
+### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub> | Követelmény |
 |:---------------- |:---------------------------------------------------------------------------------- |:-----------:|
@@ -26,7 +28,8 @@ Lásd: [STUDY: Aura](https://github.com/kaktusztea/km100/wiki/STUDY.magia.Aura#m
 | Élő legenda (15) | xyz <br /> **Példa**: x                                                            |             |
 
 <br />
-#### Próbák
+
+### Próbák
 
 | Célszám | Példa  |
 | :----------- | :----------- |
@@ -39,6 +42,6 @@ Lásd: [STUDY: Aura](https://github.com/kaktusztea/km100/wiki/STUDY.magia.Aura#m
 
 <br />
 
-#### Célszámot módosító körülmények
+### Célszámot módosító körülmények
 
 - ⭕xyz
