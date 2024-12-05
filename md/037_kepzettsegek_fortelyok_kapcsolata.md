@@ -87,6 +87,8 @@ Mikor több fortély terjeszt ki egy képzettséget (mind szükséges az adott p
 
 Ilyen, több karakteres képzettségpróbánál a kapcsolódó képzettség és Tulajdonság minimuma számít, azaz annak a résztvevőnek a képzettség-szintje és kapcsolódó Tulajdonsága, akié az alacsonyabb.
 
+<br />
+
 ---
 ### ⚡Példa besegítésre, hiányzó fortély pótlásával
 
