@@ -87,6 +87,7 @@ Mikor több fortély terjeszt ki egy képzettséget (mind szükséges az adott p
 
 Ilyen, több karakteres képzettségpróbánál a kapcsolódó képzettség és Tulajdonság minimuma számít, azaz annak a résztvevőnek a képzettség-szintje és kapcsolódó Tulajdonsága, akié az alacsonyabb.
 
+---
 ### ⚡Példa besegítésre, hiányzó fortély pótlásával
 
 Mechanikus felvonót tervezni egy épületbe
@@ -123,6 +124,8 @@ Johanius Krad pap egy címert vizsgál a bálterem tükrös falán.
 7 + k10  vs  12
 ```
   → Tehát ha legalább `5`-öt dobok `k10`-en, akkor sikerül a próba.
+
+<br />
 
 ---
 ### ⚡ Példa képzettség kiterjesztésere - 2 fortéllyal
