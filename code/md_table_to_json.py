@@ -2,26 +2,11 @@
 # -*- coding: utf-8 -*-
 
 from lib.MdToJsonConverter import MdToJsonConverter
+from lib.util import *
 from pathlib import Path
 import json
 import os
 
-
-def order_list_of_dicts_by_key(list_dicts, sortkey):
-    """"
-    Order list of dicts  by key
-    """
-    return sorted(list_dicts, key=lambda x: x[sortkey].lower())
-
-
-def write_out_to_json(path_json, list_dicts):
-    with open(path_json, 'w', encoding="utf-8") as fj:
-        fj.seek(0)
-        fj.truncate()
-        json.dump(list_dicts, fj, ensure_ascii=False, indent=4)
-
-
-## START SCRIPT ########################################
 if __name__ == "__main__":
 
     dir_code = os.path.dirname(os.path.abspath(__file__))
