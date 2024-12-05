@@ -4,11 +4,14 @@
 
 Kapcsolódik: [Pajzshasználat](fortelyok.harci/pajzshasznalat.md) fortély
 
+<!-- tag: md_table_pajzs_start -->
+
 | Pajzs név     |  SP  | KÉ  | TÉ  |  VÉ  | Sebesség | Speciális |
 | ------------- | :--: | :-: | :-: | :--: | :------: | :-------: |
 | Kis Pajzs     | `+0` |  ⭕  |  ⭕  | `10` |    ⭕     |     ⭕     |
 | Közepes Pajzs | `+0` |  ⭕  |  ⭕  | `30` |    ⭕     |     ⭕     |
 | Nagy Pajzs    | `+0` |  ⭕  |  ⭕  | `50` |    ⭕     |     ⭕     |
+<!-- tag: md_table_pajzs_end -->
 
 ---
 

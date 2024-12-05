@@ -1,0 +1,28 @@
+[
+    {
+        "Pajzs név": "Kis Pajzs",
+        "SP": "+0",
+        "KÉ": "",
+        "TÉ": "",
+        "VÉ": "10",
+        "Sebesség": "",
+        "Speciális": ""
+    },
+    {
+        "Pajzs név": "Közepes Pajzs",
+        "SP": "+0",
+        "KÉ": "",
+        "TÉ": "",
+        "VÉ": "30",
+        "Sebesség": "",
+        "Speciális": ""
+    },
+    {
+        "Pajzs név": "Nagy Pajzs",
+        "SP": "+0",
+        "KÉ": "",
+        "TÉ": "",
+        "VÉ": "50",
+        "Sebesség": ""
+    }
+]

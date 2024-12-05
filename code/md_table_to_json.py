@@ -3,6 +3,7 @@
 
 from lib.MdToJsonConverter import MdToJsonConverter
 from lib.util import *
+
 from pathlib import Path
 import json
 import os
@@ -30,7 +31,8 @@ if __name__ == "__main__":
                 mjc = MdToJsonConverter(path_md, None, d)
                 full_json.extend(mjc.get_json_data())
         # Sort the list by sortkey
-        full_json = order_list_of_dicts_by_key(full_json, d['sortkey'])
+        if d['sortkey']:
+            full_json = order_list_of_dicts_by_key(full_json, d['sortkey'])
 
         # Write output file
         path_json=os.path.join(dir_data, 'tables', d['output'])
