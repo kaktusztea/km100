@@ -76,7 +76,8 @@ class MdToJsonConverter:
         """"
         Order json by fegyver nev
         """
-        self.list_dicts = sorted(self.list_dicts, key=lambda x: x[self.sortkey].lower())
+        if self.sortkey:
+            self.list_dicts = sorted(self.list_dicts, key=lambda x: x[self.sortkey].lower())
 
     def write_json(self, path_json=None):
         if not path_json:
