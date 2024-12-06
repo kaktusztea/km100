@@ -12,7 +12,8 @@ class MdToJsonConverter:
         self.path_json = path_json
 
         if not isinstance(params, dict):
-            raise Exception("MdToJsonConverter.init(): params is not dict")
+            print("Error in MdToJsonConverter.init(): params is not dict")
+            sys.exit(1)
 
         self.md = None
         self.list_dicts = []
