@@ -14,20 +14,6 @@
         "Speciális / Megjegyzés": ""
     },
     {
-        "Fegyver": "Dobóháló",
-        "Forgatás módja": "egykezes",
-        "SP": "-",
-        "Sebzés módja": "-",
-        "Átütés": "0",
-        "KÉ": "2",
-        "CÉ": "+0",
-        "Osztó": "1",
-        "Hatótáv": "4m*",
-        "Sebesség": "10",
-        "Kategória": "hajító",
-        "Speciális / Megjegyzés": "Maximális hatótávolsága: 4+Erő méterben"
-    },
-    {
         "Fegyver": "Dárda",
         "Forgatás módja": "egykezes",
         "SP": "+3",
@@ -40,6 +26,20 @@
         "Sebesség": "8",
         "Kategória": "hajító",
         "Speciális / Megjegyzés": "Követelmény: Erő +0<br />Maximális hatótávolsága: 5 + (Erő x 3) méterben.<br />Pajzsba dobva csökkenti annak Védő Értékét a dobott SP értékkel<br />"
+    },
+    {
+        "Fegyver": "Dobóháló",
+        "Forgatás módja": "egykezes",
+        "SP": "-",
+        "Sebzés módja": "-",
+        "Átütés": "0",
+        "KÉ": "2",
+        "CÉ": "+0",
+        "Osztó": "1",
+        "Hatótáv": "4m*",
+        "Sebesség": "10",
+        "Kategória": "hajító",
+        "Speciális / Megjegyzés": "Maximális hatótávolsága: 4+Erő méterben"
     },
     {
         "Fegyver": "Elf íj",

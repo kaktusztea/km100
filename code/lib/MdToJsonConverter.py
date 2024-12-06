@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+import re
 import sys
 import json
 import natsort
@@ -82,7 +83,6 @@ class MdToJsonConverter:
         """
         if self.sortkey:
             try:
-                # self.list_dicts = sorted(self.list_dicts, key=lambda x: x[self.sortkey].lower())
                 self.list_dicts = natsort.natsorted(self.list_dicts, key=lambda x: x[self.sortkey].lower())
             except KeyError as e:
                 print(f"MdToJsonConverter.sortkey(): 'sortkey' in dict is not present at '{self.id}'")

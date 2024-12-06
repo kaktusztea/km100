@@ -2,12 +2,13 @@
 # -*- coding: utf-8 -*-
 
 import json
+import natsort
 
 def order_list_of_dicts_by_key(list_dicts, sortkey):
     """"
     Order list of dicts  by key
     """
-    return sorted(list_dicts, key=lambda x: x[sortkey].lower())
+    return natsort.natsorted(list_dicts, key=lambda x: x[sortkey].lower())
 
 
 def write_list_of_dicts_to_jsonfile(path_json, list_dicts):

@@ -5,36 +5,6 @@
         "Diff": "+6KP"
     },
     {
-        "Képzettség Szint": "10",
-        "KP igény": "114",
-        "Diff": "+20KP"
-    },
-    {
-        "Képzettség Szint": "11",
-        "KP igény": "136",
-        "Diff": "+22KP"
-    },
-    {
-        "Képzettség Szint": "12",
-        "KP igény": "160",
-        "Diff": "+24KP"
-    },
-    {
-        "Képzettség Szint": "13",
-        "KP igény": "186",
-        "Diff": "+26KP"
-    },
-    {
-        "Képzettség Szint": "14",
-        "KP igény": "214",
-        "Diff": "+28KP"
-    },
-    {
-        "Képzettség Szint": "15",
-        "KP igény": "244",
-        "Diff": "+30KP"
-    },
-    {
         "Képzettség Szint": "2",
         "KP igény": "10",
         "Diff": "+4KP"
@@ -73,5 +43,35 @@
         "Képzettség Szint": "9",
         "KP igény": "94",
         "Diff": "+18KP"
+    },
+    {
+        "Képzettség Szint": "10",
+        "KP igény": "114",
+        "Diff": "+20KP"
+    },
+    {
+        "Képzettség Szint": "11",
+        "KP igény": "136",
+        "Diff": "+22KP"
+    },
+    {
+        "Képzettség Szint": "12",
+        "KP igény": "160",
+        "Diff": "+24KP"
+    },
+    {
+        "Képzettség Szint": "13",
+        "KP igény": "186",
+        "Diff": "+26KP"
+    },
+    {
+        "Képzettség Szint": "14",
+        "KP igény": "214",
+        "Diff": "+28KP"
+    },
+    {
+        "Képzettség Szint": "15",
+        "KP igény": "244",
+        "Diff": "+30KP"
     }
 ]

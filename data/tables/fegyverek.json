@@ -28,6 +28,20 @@
         "Speciális": ""
     },
     {
+        "Fegyver": "Béltépő",
+        "Forgatás módja": "egykezes",
+        "SP": "+1",
+        "Sebzési típus": "S",
+        "Átütés": "0",
+        "Pengehossz": "0",
+        "KÉ": "2",
+        "TÉ": "4",
+        "VÉ": "4",
+        "Sebesség": "5",
+        "Kategória": "közelharci",
+        "Speciális": "- Ha minimum 11 SP lett a sebződobás, akkor +5 SP jár.<br />    <br />- Páncélos ellenfélnél minden esetben elakad, ha átment rajta a sebzés.<br />    <br />- Páncéltalan esetén: K6 dobás:  <br /> 1-2: a fegyver elakad a testben, ha volt sebzés."
+    },
+    {
         "Fegyver": "Bot, furkós",
         "Forgatás módja": "egykezes",
         "SP": "-1",
@@ -138,20 +152,6 @@
         "Sebesség": "5",
         "Kategória": "kardvívó",
         "Speciális": ""
-    },
-    {
-        "Fegyver": "Béltépő",
-        "Forgatás módja": "egykezes",
-        "SP": "+1",
-        "Sebzési típus": "S",
-        "Átütés": "0",
-        "Pengehossz": "0",
-        "KÉ": "2",
-        "TÉ": "4",
-        "VÉ": "4",
-        "Sebesség": "5",
-        "Kategória": "közelharci",
-        "Speciális": "- Ha minimum 11 SP lett a sebződobás, akkor +5 SP jár.<br />    <br />- Páncélos ellenfélnél minden esetben elakad, ha átment rajta a sebzés.<br />    <br />- Páncéltalan esetén: K6 dobás:  <br /> 1-2: a fegyver elakad a testben, ha volt sebzés."
     },
     {
         "Fegyver": "Csatabárd, egykezes",
@@ -336,20 +336,6 @@
         "Speciális": "IV fegyver"
     },
     {
-        "Fegyver": "Kard, khossas",
-        "Forgatás módja": "egykezes",
-        "SP": "+4",
-        "Sebzés módja": "V/S",
-        "Átütés": "0",
-        "Pengehossz": "1",
-        "KÉ": "4",
-        "TÉ": "11",
-        "VÉ": "10",
-        "Sebesség": "6",
-        "Kategória": "kardvívó",
-        "Speciális": "Elfek használják. Előtörténet!"
-    },
-    {
         "Fegyver": "Kard, kétkezes",
         "Forgatás módja": "kétkezes",
         "SP": "+8",
@@ -362,6 +348,20 @@
         "Sebesség": "8",
         "Kategória": "kardvívó",
         "Speciális": "Ha közrefogják a forgatót, fegyverének VÉ-je 0-ra zuhan.<br />Erő követelmény: +2<br />Edzettség követelmény: +1"
+    },
+    {
+        "Fegyver": "Kard, khossas",
+        "Forgatás módja": "egykezes",
+        "SP": "+4",
+        "Sebzés módja": "V/S",
+        "Átütés": "0",
+        "Pengehossz": "1",
+        "KÉ": "4",
+        "TÉ": "11",
+        "VÉ": "10",
+        "Sebesség": "6",
+        "Kategória": "kardvívó",
+        "Speciális": "Elfek használják. Előtörténet!"
     },
     {
         "Fegyver": "Kard, kígyó",
@@ -406,20 +406,6 @@
         "Speciális": "Erő követelmény: +2"
     },
     {
-        "Fegyver": "Kard, mesterkard",
-        "Forgatás módja": "kétkezes",
-        "SP": "+5",
-        "Sebzés módja": "V/S",
-        "Átütés": "0",
-        "Pengehossz": "1.5",
-        "KÉ": "9",
-        "TÉ": "18",
-        "VÉ": "13",
-        "Sebesség": "7",
-        "Kategória": "kardvívó",
-        "Speciális": "MK"
-    },
-    {
         "Fegyver": "Kard, másfélkezes",
         "Forgatás módja": "kétkezes",
         "SP": "+5",
@@ -432,6 +418,20 @@
         "Sebesség": "7",
         "Kategória": "kardvívó",
         "Speciális": "MK, továbbá:<br />- 2 kézre fogva: alap <br />- 1 kézre fogva:  <br />&nbsp;&nbsp;• -3 KÉ, -5 TÉ, -5 VÉ<br />&nbsp;&nbsp;• Átütés megszűnik (ha volt)<br />&nbsp;&nbsp;• Erőbónuszra -3 büntetés, azaz a SP: -3 büntetés<br />&nbsp;&nbsp;• Sebesség, marad <br />- +1-es Erő alatt forgatva:<br />&nbsp;&nbsp;• 1 pontonként -10 minden harcértékre<br />&nbsp;&nbsp;• 1:1 levonás SP-ből"
+    },
+    {
+        "Fegyver": "Kard, mesterkard",
+        "Forgatás módja": "kétkezes",
+        "SP": "+5",
+        "Sebzés módja": "V/S",
+        "Átütés": "0",
+        "Pengehossz": "1.5",
+        "KÉ": "9",
+        "TÉ": "18",
+        "VÉ": "13",
+        "Sebesség": "7",
+        "Kategória": "kardvívó",
+        "Speciális": "MK"
     },
     {
         "Fegyver": "Kard, Pugoss",
@@ -532,6 +532,20 @@
         "Speciális": "IV fegyver"
     },
     {
+        "Fegyver": "Kés",
+        "Forgatás módja": "egykezes",
+        "SP": "+0",
+        "Sebzési típus": "S/V",
+        "Átütés": "0",
+        "Pengehossz": "0",
+        "KÉ": "2",
+        "TÉ": "3",
+        "VÉ": "1",
+        "Sebesség": "5",
+        "Kategória": "közelharci",
+        "Speciális": "-"
+    },
+    {
         "Fegyver": "Kopja, könnyű",
         "Forgatás módja": "",
         "SP": "",
@@ -588,18 +602,18 @@
         "Speciális": "Páncél nélküli ellenfélnél, szúrás esetén sebzése: +3 SP<br />Fegyverrántás szituációban +5 KÉ<br />Páncélszúrásra nem használható."
     },
     {
-        "Fegyver": "Kés",
-        "Forgatás módja": "egykezes",
-        "SP": "+0",
-        "Sebzési típus": "S/V",
-        "Átütés": "0",
-        "Pengehossz": "0",
-        "KÉ": "2",
-        "TÉ": "3",
-        "VÉ": "1",
-        "Sebesség": "5",
-        "Kategória": "közelharci",
-        "Speciális": "-"
+        "Fegyver": "Lándzsa",
+        "Forgatás módja": "kétkezes",
+        "SP": "+2/+4",
+        "Sebzés módja": "S",
+        "Átütés": "4/0",
+        "Pengehossz": "4",
+        "KÉ": "14",
+        "TÉ": "32",
+        "VÉ": "32",
+        "Sebesség": "6",
+        "Kategória": "kardvívó",
+        "Speciális": "spec: lásd a hegyeket"
     },
     {
         "Fegyver": "Levéltőr",
@@ -628,20 +642,6 @@
         "Sebesség": "",
         "Kategória": "",
         "Speciális / Megjegyzés": ""
-    },
-    {
-        "Fegyver": "Lándzsa",
-        "Forgatás módja": "kétkezes",
-        "SP": "+2/+4",
-        "Sebzés módja": "S",
-        "Átütés": "4/0",
-        "Pengehossz": "4",
-        "KÉ": "14",
-        "TÉ": "32",
-        "VÉ": "32",
-        "Sebesség": "6",
-        "Kategória": "kardvívó",
-        "Speciális": "spec: lásd a hegyeket"
     },
     {
         "Fegyver": "Mara-sequor",
@@ -854,6 +854,20 @@
         "Speciális": "Áldozótőr<br />Vágásnál: +0 SP"
     },
     {
+        "Fegyver": "Tőr, ököl",
+        "Forgatás módja": "egykezes",
+        "SP": "+0",
+        "Sebzési típus": "S",
+        "Átütés": "0",
+        "Pengehossz": "0",
+        "KÉ": "-5",
+        "TÉ": "0",
+        "VÉ": "-5",
+        "Sebesség": "5",
+        "Kategória": "közelharci",
+        "Speciális": ""
+    },
+    {
         "Fegyver": "Tőr, páncélszúró",
         "Forgatás módja": "egykezes",
         "SP": "+1",
@@ -877,20 +891,6 @@
         "KÉ": "0",
         "TÉ": "6",
         "VÉ": "2",
-        "Sebesség": "5",
-        "Kategória": "közelharci",
-        "Speciális": ""
-    },
-    {
-        "Fegyver": "Tőr, ököl",
-        "Forgatás módja": "egykezes",
-        "SP": "+0",
-        "Sebzési típus": "S",
-        "Átütés": "0",
-        "Pengehossz": "0",
-        "KÉ": "-5",
-        "TÉ": "0",
-        "VÉ": "-5",
         "Sebesség": "5",
         "Kategória": "közelharci",
         "Speciális": ""
