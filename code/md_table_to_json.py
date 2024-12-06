@@ -36,4 +36,4 @@ if __name__ == "__main__":
 
         # Write output file
         path_json=os.path.join(dir_data, 'tables', d['output'])
-        write_out_to_json(path_json, full_json)
+        write_list_of_dicts_to_jsonfile(path_json, full_json)
