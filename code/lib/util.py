@@ -10,7 +10,7 @@ def order_list_of_dicts_by_key(list_dicts, sortkey):
     return sorted(list_dicts, key=lambda x: x[sortkey].lower())
 
 
-def write_out_to_json(path_json, list_dicts):
+def write_list_of_dicts_to_jsonfile(path_json, list_dicts):
     with open(path_json, 'w', encoding="utf-8") as fj:
         fj.seek(0)
         fj.truncate()
