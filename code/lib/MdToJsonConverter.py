@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+import sys
 import json
+import natsort
 
 class MdToJsonConverter:
 
@@ -14,6 +16,7 @@ class MdToJsonConverter:
 
         self.md = None
         self.list_dicts = []
+        self.id = params['id']
         self.filepattern = params['file_pattern']
         self.table_pattern = params['table_pattern']
         self.sortkey = params['sortkey']
@@ -77,7 +80,12 @@ class MdToJsonConverter:
         Order json by sortkey value
         """
         if self.sortkey:
-            self.list_dicts = sorted(self.list_dicts, key=lambda x: x[self.sortkey].lower())
+            try:
+                # self.list_dicts = sorted(self.list_dicts, key=lambda x: x[self.sortkey].lower())
+                self.list_dicts = natsort.natsorted(self.list_dicts, key=lambda x: x[self.sortkey].lower())
+            except KeyError as e:
+                print(f"MdToJsonConverter.sortkey(): 'sortkey' in dict is not present at '{self.id}'")
+                sys.exit(1)
 
     def write_json(self, path_json=None):
         if not path_json:
