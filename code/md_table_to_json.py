@@ -25,13 +25,16 @@ if __name__ == "__main__":
     for d in data:
         path_json = os.path.join(dir_data, d['output'])
         full_json = []
+        fcount = 0
         for fname in os.listdir(dir_md):
             if (d['file_pattern']) in fname:
                 path_md = os.path.join(dir_md, fname)
                 mjc = MdToJsonConverter(path_md, None, d)
                 full_json.extend(mjc.get_json_data())
-        # Sort the list by sortkey
-        if d['sortkey']:
+                fcount += 1
+
+        # Sort the unified list by sortkey if there are multiple tables
+        if d['sortkey'] and fcount > 1:
             full_json = order_list_of_dicts_by_key(full_json, d['sortkey'])
 
         # Write output file
