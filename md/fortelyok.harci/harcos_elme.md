@@ -1,8 +1,8 @@
-### 🟣 Harcos elme (4)
+## 🟣 Harcos elme (4)
 
 A harc ritmusát fenntartva, elméd erejének hála kevésbé merít ki a harc szellemileg.
 
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**:
 - Önuralom: `+1`
@@ -13,7 +13,7 @@ A harc ritmusát fenntartva, elméd erejének hála kevésbé merít ki a harc s
 🌟 **Hatás**: `1` VÉ-t semlegesít az ellenfél VÉ csökkenést okozó támadásaiból.
 
 ---
-#### 2. fok
+### 2. fok
 
 🔒 **Követelmény**:
 - Önuralom: `+2`
@@ -24,7 +24,7 @@ A harc ritmusát fenntartva, elméd erejének hála kevésbé merít ki a harc s
 🌟 **Hatás**: `2` VÉ semlegesítése.
 
 ---
-#### 3. fok
+### 3. fok
 
 🔒 **Követelmény**:
 - Önuralom: `+3`
@@ -35,7 +35,7 @@ A harc ritmusát fenntartva, elméd erejének hála kevésbé merít ki a harc s
 🌟 **Hatás**: `3` VÉ semlegesítése.
 
 ---
-#### 4. fok
+### 4. fok
 
 🔒 **Követelmény**:
 - Önuralom: `+4`
@@ -51,7 +51,8 @@ A harc ritmusát fenntartva, elméd erejének hála kevésbé merít ki a harc s
 
 <br />
 
-#### Megjegyzések
+---
+### Megjegyzések
 
 Az `ÉP` seb okozta **VÉ csökkenésre** egyik fok sem ad védelmet.
 

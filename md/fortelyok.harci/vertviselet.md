@@ -1,4 +1,4 @@
-### 🟣 Vértviselet (3)
+## 🟣 Vértviselet (3)
 
 A vértek helyes viselése is ismereteket igényel, különben csak csetlesz-botlasz bennük.
 
@@ -12,7 +12,7 @@ képzettségpróbákra (lefele kerekítve)
 ```
 
 ---
-#### Alapeset
+### Alapeset
 
 🔒 **Követelmény**: -
 
@@ -24,7 +24,7 @@ képzettségpróbákra (lefele kerekítve)
 - A fenti érték és az MGT okozta levonás közül a hátrányosabb az érvényes.
 
 ---
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**: Erő: `+1`
 
@@ -39,7 +39,7 @@ KÉ:-10, TÉ:-15, VÉ:-15
 
 
 ---
-#### 2. fok
+### 2. fok
 
 🔒 **Követelmény**:
 - Erő: `+2`
@@ -50,7 +50,7 @@ KÉ:-10, TÉ:-15, VÉ:-15
 - A mozgást igénylő képzettségpróbákra továbbra is a teljes levonás érvényes.
 
 ---
-#### 3. fok
+### 3. fok
 
 🔒 **Követelmény**:
 - Erő: `+2`
@@ -61,7 +61,6 @@ KÉ:-10, TÉ:-15, VÉ:-15
 - A többi, mint a `2.foknál` leírtak, de ha nehéz vértet viselsz, akkor
   - lemez félvért esetén `+5 VÉ`, lemez teljes vért esetén `+10 VÉ` bónusz adódik hozzá **Védő Értékedhez**.
   - Ennek oka, hogy már tudatosan használod vértezetedet, lecsúsztatsz róla támadásokat, stb.
-
 
 <br />
 

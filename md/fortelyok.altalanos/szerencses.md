@@ -1,4 +1,4 @@
-### 🟣 Szerencsés (1)
+## 🟣 Szerencsés (1)
 
 #### 1. fok
 

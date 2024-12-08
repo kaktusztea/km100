@@ -1,14 +1,14 @@
-### 🟣 Testőr (2)
+## 🟣 Testőr (2)
 
 Hasznos fortély, ha **Védő Értékedet** egy másik személyre is ki akarod terjeszteni.
-#### Alapeset
+### Alapeset
 
 🔒 **Követelmény**: -
 
 🌟 **Hatás**: Ha társadat akarod védeni, kiterjesztheted rá **Védő Értékedet**, de csak `-25 VÉ` csökkenéssel.
 
 ---
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**:
 - Önuralom: `+1`
@@ -19,7 +19,7 @@ Hasznos fortély, ha **Védő Értékedet** egy másik személyre is ki akarod t
 🌟 **Hatás**: A levonás csak `-15 VÉ`
 
 ---
-#### 2. fok
+### 2. fok
 
 🔒 **Követelmény**:
 - Önuralom: `+2`
@@ -31,7 +31,7 @@ Hasznos fortély, ha **Védő Értékedet** egy másik személyre is ki akarod t
 
 <br />
 
-#### Megjegyzések
+### Megjegyzések
 
 Az oltalmazott személy nem harcolhat, a testőrnek pedig két méteren belül kell lennie.
 

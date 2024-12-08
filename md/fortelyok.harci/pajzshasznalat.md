@@ -1,4 +1,4 @@
-### 🟣 Pajzshasználat (2)
+## 🟣 Pajzshasználat (2)
 
 Ismered a fegyvereket remekül kiegészítő pajzsok használatát.
 
@@ -8,7 +8,7 @@ Nagy pajzs: `VÉ:50`, `Erő követelmény: +2`
 
 <br />
 
-#### Alapeset
+### Alapeset
 
 🔒 **Követelmény**: -
 
@@ -19,7 +19,7 @@ Nagy pajzs: `VÉ:50`, `Erő követelmény: +2`
 - Nagy pajzs levonás: `TÉ:-20`
 
 ---
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**: Erő: `+0`
 
@@ -30,7 +30,7 @@ Nagy pajzs: `VÉ:50`, `Erő követelmény: +2`
 - Nagy pajzs levonás: `TÉ:-10`
 
 ---
-#### 2. fok
+### 2. fok
 
 🔒 **Követelmény**: Erő: `+1`
 
@@ -46,13 +46,13 @@ Nagy pajzs: `VÉ:50`, `Erő követelmény: +2`
 
 <br />
 
-#### Megjegyzések
+### Megjegyzések
 
 - Ha a karakter 🗡️[Készületlen](../065_01_harci_helyzetek.md#készületlenség), vagy 🗡️[Meglepetés](../065_01_harci_helyzetek.md#meglepetés) támadás áldozata, akkor a `pajzs VÉ` nem adódik hozzá a aktuális `Védő Értékhez`.
 - Nagy pajzsot cipelni hosszú távon igen kimerítő, ezért is viszik lovon, vagy fegyverhordozókkal a harcosok. Továbbá behatolásnál, szűk helyen, sűrű erdőben képtelenség cipelni.
 
 ---
-#### Pajzs hatása fizikai Tulajdonságpróbákra
+### Pajzs hatása fizikai Tulajdonságpróbákra
 
 A kézben tartott pajzs hátrányokat okoz az egyes próbáknál - méretétől függően.
 
@@ -60,7 +60,7 @@ A kézben tartott pajzs hátrányokat okoz az egyes próbáknál - méretétől 
 - Közepes pajzs: kézben `-2` / háton: `-1`
 - Nagy pajzs: kézben `-4` / háton: `-3`
 
-#### Pajzs hatása fizikai képzettségpróbára
+### Pajzs hatása fizikai képzettségpróbára
 
 - Kis pajzs: kézben `-1` / háton: `0`
 - Közepes pajzs: kézben`-3` / háton: `-2`

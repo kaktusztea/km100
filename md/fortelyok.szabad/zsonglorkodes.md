@@ -1,12 +1,12 @@
-### 🟣 Zsonglőrködés
+## 🟣 Zsonglőrködés
 
-#### Kiterjeszti ezeket
+### Kiterjeszti ezeket
 
-- [Előadóművészet](../kepzettsegek.szekunder/eloadomuveszet.md): Ujjaid között pörögnek, forognak a labdák, kések, kisállatok. A publikum ámul.
+[Előadóművészet](../kepzettsegek.szekunder/eloadomuveszet.md): Ujjaid között pörögnek, forognak a labdák, kések, kisállatok. A publikum ámul.
 
-#### Követelmény
+### Követelmény
 
-- Ügyesség: `0`
+**Ügyesség**: `0`
 
 <br />
 

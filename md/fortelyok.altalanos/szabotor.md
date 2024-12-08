@@ -1,8 +1,8 @@
-### 🟣 Szabotőr (1)
+## 🟣 Szabotőr (1)
 
 Egy kis homok a gépezetbe.
 
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**: [Mechanika](mechanika.md) - `1.fok`
 

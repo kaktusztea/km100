@@ -1,4 +1,4 @@
-### 🟣 Taktika: Falanx
+## 🟣 Taktika: Falanx
 
 Falanx alakzat részeként képes vagy közösen cselekedni, az alakulatot vezetni.
 
@@ -6,11 +6,11 @@ Képes vagy falanx formációba fejlődni, együttmaradni, fordulni - harci kör
 
 ⭕TODO: Számszerű előnyök
 
-#### Kiterjeszti ezeket
+### Kiterjeszti ezeket
 
 [Hadászat](../kepzettsegek.primer.altalanos/hadaszat.md): "Teknősbéka alakzatba!"
 
-#### Követelmény
+### Követelmény
 
 [Lándzsavívás](../kepzettsegek.primer.harci/harcmodor.md) - `6.szint`
 

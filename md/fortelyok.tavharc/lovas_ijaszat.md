@@ -1,7 +1,7 @@
-### 🟣 Lovas íjászat (2)
+## 🟣 Lovas íjászat (2)
 
 Gyakorlott vagy a lóhátról való íjászatban, ennek hatására kisebbek negatív módosítóid, ha mozgó hátasodról lősz.
-#### Alapeset
+### Alapeset
 
 🔒 **Követelmény**: -
 
@@ -11,7 +11,7 @@ Gyakorlott vagy a lóhátról való íjászatban, ennek hatására kisebbek nega
 - Vágta esetén: `CÉ:-40`
 
 ---
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**:
 - Lovaglás - `6.szint`
@@ -25,7 +25,7 @@ Gyakorlott vagy a lóhátról való íjászatban, ennek hatására kisebbek nega
 - Vágta esetén: `CÉ:-20`
 
 ---
-#### 2. fok
+### 2. fok
 
 🔒 **Követelmény**:
 - Lovaglás - `9.szint`

@@ -1,4 +1,4 @@
-### 🟣 Lovas harc (3)
+## 🟣 Lovas harc (3)
 
 Hátason ülve sem esel kétségbe, ha harcolni kell.
 
@@ -6,14 +6,14 @@ Lovas harc során ezen fortély fokától függő mértékben harcértékeidhez 
 
 A forgatott fegyver Harcmodorából adódó értékek továbbra is megmaradnak, tehát a fentiek bónuszként értelmezendők!
 
-#### Alapeset
+### Alapeset
 
 🔒 **Követelmény**: -
 
 🌟 **Hatás**: A bónuszok nem adódnak hozzá, de `3.szint` alatti Lovaglás esetén elszenvedi a harcmodor szokásos harcérték büntetéseit
 
 ---
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**:
 - Ügyesség: `+1`
@@ -24,7 +24,7 @@ A forgatott fegyver Harcmodorából adódó értékek továbbra is megmaradnak, 
 🌟 **Hatás**:  A bónuszok negyede (felfele kerekítve) adódik hozzá a fegyveres harcértékeidhez.
 
 ---
-#### 2. fok
+### 2. fok
 
 🔒 **Követelmény**:
 - Ügyesség: `+2`
@@ -35,7 +35,7 @@ A forgatott fegyver Harcmodorából adódó értékek továbbra is megmaradnak, 
 🌟 **Hatás**: A bónuszok fele (felfele kerekítve) adódik hozzá a fegyveres harcértékeidhez. [Lovas Manővereket](../067_04_lovas_leglovas_manoverek.md) végezhetsz.
 
 ---
-#### 3. fok
+### 3. fok
 
 🔒 **Követelmény**:
 - Ügyesség: `+3`
@@ -47,7 +47,8 @@ A forgatott fegyver Harcmodorából adódó értékek továbbra is megmaradnak, 
 
 <br />
 
-#### Speciális
+---
+### Speciális
 
 [Harc lóhátról, Légi hátasról fejezet](../067_00_harc_hatasrol.md)
 

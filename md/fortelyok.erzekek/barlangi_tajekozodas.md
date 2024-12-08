@@ -1,10 +1,10 @@
-### 🟣 Barlangi tájékozódás (1)
+## 🟣 Barlangi tájékozódás (1)
 
 <!-- tag: erzekfortely -->
 
 Fajhoz felvehető Érzék-fortély.
 
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**: Kapcsolódó [Faj Háttér](../021_faj_hatterek.md)
 
@@ -13,7 +13,7 @@ Fajhoz felvehető Érzék-fortély.
  
 <br />
 
-#### Megjegyzések
+### Megjegyzések
 
 Felvételéhez olyan [Faj-Háttér](../021_faj_hatterek.md) szükséges, amelynél szerepel a **Barlangi tájékozódás**, mint felvehető Érzék-fortély
 

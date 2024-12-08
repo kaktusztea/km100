@@ -1,8 +1,8 @@
-### 🟣 Kitartás (1)
+## 🟣 Kitartás (1)
 
 Szívós vagy mint egy rozsomák.
 
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**: Edzettség: `+1`
 

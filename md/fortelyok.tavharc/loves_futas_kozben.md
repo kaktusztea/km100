@@ -1,14 +1,14 @@
-### 🟣 Lövés futás közben (1)
+## 🟣 Lövés futás közben (1)
 
 Futás közben is biztos marad a kezed, nem kell megállnod, hogy ellenfeledet eltaláld.
-#### Alapeset
+### Alapeset
 
 🔒 **Követelmény**: -
 
 🌟 **Hatás**: Lassú futás közben `+5x` [Szorzó](../072_tavharc_ve_szorzo_oszto.md#️-szorzó) büntetés jár a célpont `VÉ` kiszámításánál.
 
 ---
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**:
 - Önuralom: `+1`  

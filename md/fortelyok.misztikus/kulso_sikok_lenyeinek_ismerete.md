@@ -1,20 +1,20 @@
-### 🟣 Külső síkok lényeinek ismerete (1) 🔁
+## 🟣 Külső síkok lényeinek ismerete (1) 🔁
 
 A külső síkok túlvilági teremtményeinek ismerete. Alapos, előtörténettel megtámogatott indoklás kell, hogy a karakter felvehesse.
 
-##### Többször felvehető 🔁
+### Többször felvehető 🔁
 
 - démonok
 - angyalok
 - szeráfok
 - dzsinnek
 
-##### Kiterjeszti ezeket
+### Kiterjeszti ezeket
 
 - [Lexikum](../kepzettsegek.szekunder/lexikum.md): Ismered az adott lénycsoport fajait, alfajait, azok jellemzőit, képességeit - a képzettség szintjének megfelelő mértékben.
 
 ---
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**:
 - Előtörténet

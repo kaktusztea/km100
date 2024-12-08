@@ -1,18 +1,18 @@
-### 🟣 Infralátás (2)
+## 🟣 Infralátás (2)
 
 <!-- tag: erzekfortely -->
 
 Fajhoz felvehető Érzék-fortély.
 
 Sötétben (leginkább élőlények által kibocsátott) hőképek alapján is képes vagy tájékozódni.
-#### Alapeset
+### Alapeset
 
 🔒 **Követelmény**:  -
 
 🌟 **Hatás**: Emberi látás, sötétben nem látsz hőképeket.
 
 ---
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**: Kapcsolódó [Faj Háttér](../021_faj_hatterek.md)
 
@@ -23,7 +23,7 @@ Sötétben (leginkább élőlények által kibocsátott) hőképek alapján is k
 
 
 ---
-#### 2. fok
+### 2. fok
 
 🔒 **Követelmény**: Kapcsolódó [Faj Háttér](../021_faj_hatterek.md)
 
@@ -33,7 +33,7 @@ Sötétben (leginkább élőlények által kibocsátott) hőképek alapján is k
 
 ⭕TODO⭕Harcnál mit adnak?⭕
 
-#### Megjegyzések
+### Megjegyzések
 
 - Felvételéhez olyan [Faj-Háttér](../021_faj_hatterek.md) szükséges, amelynél szerepel az **Infralátás**, mint felvehető Érzék-fortély
 - A távolság "használhatóságát" továbbra is az **Észlelés** képzettség határozza meg (mennyire folynak össze a hőfoltok).

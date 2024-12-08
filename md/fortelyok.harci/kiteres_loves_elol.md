@@ -1,7 +1,7 @@
-### 🟣 Kitérés lövés elől (1)
+## 🟣 Kitérés lövés elől (1)
 
 Gyorsaságod és hidegvéred páratlan! Kimondottan jó vagy a rád kilőtt lövedékek elől való kitérésben.
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**:
 - Ügyesség: `+3`

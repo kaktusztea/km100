@@ -1,10 +1,10 @@
-### 🟣 Kínokozás (1)
+## 🟣 Kínokozás (1)
 
 Harc közben nem a pusztítás a célod, hanem különösen fájdalmas pontokat támadsz, amivel kibillentheted ellenfeledet lelki nyugalmából.
 
 Támadás előtt kell bejelentened, hogy alkalmazni akarod ezt az ismeretet.
 
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**:
 - Csak egykezes szúró-vágó fegyverrel alkalmazhatod, amellyel lehetséges pontra támadni

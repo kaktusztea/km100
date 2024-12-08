@@ -1,6 +1,6 @@
-### 🟣 Éber alvó (1)
+## 🟣 Éber alvó (1)
 
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**: nincs
 

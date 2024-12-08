@@ -1,7 +1,7 @@
-### 🟣 Vakharc (3)
+## 🟣 Vakharc (3)
 
 Sötétben apró neszek, megérzések segítenek csökkenteni a látáshiány okozta hátrányt.
-#### Alapeset
+### Alapeset
 
 🔒 **Követelmény**: -
 
@@ -10,7 +10,7 @@ Sötétben apró neszek, megérzések segítenek csökkenteni a látáshiány ok
 - Zajok és sötét: `KÉ:-20`, `TÉ/VÉ:-30`
 
 ---
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**: Összpontosítás - `3.szint`
 
@@ -19,7 +19,7 @@ Sötétben apró neszek, megérzések segítenek csökkenteni a látáshiány ok
 - Zajok és sötét: `KÉ:-10`, `TÉ/VÉ:-15`
 
 ---
-#### 2. fok
+### 2. fok
 
 🔒 **Követelmény**:
 - Érzékenység: `+3`
@@ -33,7 +33,7 @@ Sötétben apró neszek, megérzések segítenek csökkenteni a látáshiány ok
 - Zajok és sötét: nincs levonás
 
 ---
-#### 3. fok
+### 3. fok
 
 🔒 **Követelmény**:
 - Érzékenység: `+4`
@@ -46,7 +46,8 @@ Sötétben apró neszek, megérzések segítenek csökkenteni a látáshiány ok
 
 <br />
 
-#### Megjegyzések
+---
+### Megjegyzések
 
 Ha a harc résztvevői mind képzetlen vakharcosok, akkor jó eséllyel ütőtávba se kerülnek. KM dönt a szituáció ismeretében.
 

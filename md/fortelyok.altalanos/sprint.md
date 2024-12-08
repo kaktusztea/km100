@@ -1,8 +1,8 @@
-### 🟣 Sprint (1)
+## 🟣 Sprint (1)
 
 Rövidtávú futásban nincs párod.
 
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**: Gyorsaság: `+1`
 

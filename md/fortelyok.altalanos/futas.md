@@ -1,8 +1,8 @@
-### 🟣 Futás (2)
+## 🟣 Futás (2)
 
 Nem csak rohangálsz, mint egy futóbolond, hanem kitartó, hosszas futás során is jól osztod be az erődet.
 
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**: Edzettség: `+1`
 
@@ -11,7 +11,7 @@ Nem csak rohangálsz, mint egy futóbolond, hanem kitartó, hosszas futás sorá
 - Rövidtávfutásra: **Gyorsaság** próbára: `+1`
 
 ---
-#### 2. fok
+### 2. fok
 
 🔒 **Követelmény**: Edzettség: `+2`
 

@@ -1,8 +1,8 @@
-### 🟣 Belső síkok lényeinek ismerete (1) 🔁
+## 🟣 Belső síkok lényeinek ismerete (1) 🔁
 
 A belső síkok túlvilági teremtményeinek ismerete. Alapos, előtörténettel megtámogatott indoklás kell, hogy a karakter felvehesse.
 
-##### Többször felvehető 🔁
+### Többször felvehető 🔁
 
 - elementálok
 - asztrállények
@@ -11,12 +11,12 @@ A belső síkok túlvilági teremtményeinek ismerete. Alapos, előtörténettel
 - élőholtak (kísértetek, elfszabású lények szellemei, testtel rendelkező élőholt rémek)
 - természetszellemek
 
-##### Kiterjeszti ezeket
+### Kiterjeszti ezeket
 
 - [Lexikum](../kepzettsegek.szekunder/lexikum.md): ismered az adott lénycsoport fajait, alfajait, azok jellemzőit, képességeit - a képzettség szintjének megfelelő mértékben.
 
 ---
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**:
 - Előtörténet

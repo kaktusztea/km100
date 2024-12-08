@@ -1,7 +1,7 @@
-### 🟣 Harci láz (3)
+## 🟣 Harci láz (3)
 
 Harci extázisba esel, melyből nagyon nehéz kizökkenteni. A menekülésre nem gondolsz.
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**:
 - Erő: `+1`
@@ -18,7 +18,7 @@ Harci extázisba esel, melyből nagyon nehéz kizökkenteni. A menekülésre nem
 - Sebesülés TÉ levonása `5`-tel mérséklődik
 
 ---
-#### 2. fok
+### 2. fok
 
 🔒 **Követelmény**:
 - Erő: `+2`
@@ -35,7 +35,7 @@ Harci extázisba esel, melyből nagyon nehéz kizökkenteni. A menekülésre nem
 - Sebesülés TÉ levonása `10`-tel mérséklődik
 
 ---
-#### 3. fok 🔆
+### 3. fok 🔆
 
 🔒 **Követelmény**: 🔆Speciális, nem vehető fel KP-ért.<br />Csak mágiával érhető el, például ork ereklye hatása, vagy Arel áldása.<br />Ezek különleges állapotok, ezt a szintet nem lehet tanulással elérni, így **KP**-t sem lehet rá költeni.
 
@@ -49,13 +49,15 @@ Harci extázisba esel, melyből nagyon nehéz kizökkenteni. A menekülésre nem
 
 <br />
 
-#### Speciális
+---
+### Speciális
 
 - Pajzs VÉ nem számít, lövés, mágia, pszi tiltott
 - Hajításnál a fegyver Osztója csökken: `-1` <sup><sub>(min 1)</sub></sup>
 - A +ÉP a Harci láz alkalmazása alatt adódik csak hozzá az utolsó egészség kategória oszlopához.
 
-#### Bekerülés Harci lázba
+---
+### Bekerülés Harci lázba
 
 - 2 kör hergelés szükséges
 - Harc közben elég `1` kör

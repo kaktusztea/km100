@@ -1,4 +1,4 @@
-### Dzsenn
+## Dzsenn
 
 ```
 Intelligencia [+1; +6] ; Önuralom [+1; +6]

@@ -1,4 +1,4 @@
-### 🟣 Fejlett látás (1)
+## 🟣 Fejlett látás (1)
 
 <!-- tag: erzekfortely -->
 
@@ -6,14 +6,14 @@ Fajhoz felvehető Érzék-fortély.
 
 Különlegesen éles a szemed, messzire ellátsz.
 
-#### Alapeset
+### Alapeset
 
 🔒 **Követelmény**:  -
 
 🌟 **Hatás**: Emberi látás
 
 ---
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**: Kapcsolódó [Faj Háttér](../021_faj_hatterek.md)
 
@@ -22,7 +22,7 @@ Különlegesen éles a szemed, messzire ellátsz.
 
 <br />
 
-#### Megjegyzések
+### Megjegyzések
 
 - Felvételéhez olyan [Faj-Háttér](../021_faj_hatterek.md) szükséges, amelynél szerepel az **Fejlett látás**, mint felvehető Érzék-fortély
 - Infrára is vonatkozik, így aki ezt felveszi, az a hőkép-tartományban is messzebbre ellát. Jellemzően ilyenek az elfek.

@@ -1,8 +1,8 @@
-### 🟣 Élő fegyver (xx)
+## 🟣 Élő fegyver (xx)
 
 ⭕TODO⭕
 
-#### Alapeset
+### Alapeset
 
 ⭕TODO⭕
 🔒 **Követelmény**: 
@@ -13,7 +13,7 @@
 - lorem ipsum
 
 ---
-#### 1. fok
+### 1. fok
 
 ⭕TODO⭕
 🔒 **Követelmény**:
@@ -25,7 +25,7 @@
 - lorem ipsum
 
 ---
-#### 2. fok
+### 2. fok
 
 ⭕TODO⭕
 🔒 **Követelmény**:
@@ -37,7 +37,7 @@
 
 <br />
 
-#### Megjegyzések
+### Megjegyzések
 
 - lorem ipsum dorem🗡️ amet
 

@@ -1,8 +1,8 @@
-### 🟣 Vadember (1)
+## 🟣 Vadember (1)
 
 Olyan edzett vagy, hogy szinte a jég hátán is megélsz.
 
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**: Edzettség: `+2`
 

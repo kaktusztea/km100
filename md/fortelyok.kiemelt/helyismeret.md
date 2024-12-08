@@ -1,4 +1,4 @@
-### 🟣 Helyismeret (városnyi terület) 🔁
+## 🟣 Helyismeret (városnyi terület) 🔁
 
 ```
 - 1 fokú
@@ -14,13 +14,13 @@
 ⚡ Példa: "Helyismeret: Gianag"
 ```
 
-#### Kiterjeszti ezeket
+### Kiterjeszti ezeket
 
 - [Nyomozás](../kepzettsegek.primer.altalanos/nyomozas.md): ha a KM szerint indokolt, akkor ez lehet követelmény
 - [Lexikum](../kepzettsegek.szekunder/lexikum.md): csak ha konkrétan helyi témával kapcsolatos ismeretről van szó, akkor szükséges. Ne legyünk túl szigorúak.
 - [Városi jártasság](../kepzettsegek.szekunder/varosi_jartassag.md): Az adott környék ismerete sokat segít, nélküle az általános tapasztalatok dominálnak inkább.
 
-#### Mit fed le
+### Mit fed le
 
 A Helyismeret forrása az előtörténet és az átélt kalandok. Az alábbi ismereteket foglalja magában:
 
@@ -32,7 +32,7 @@ A Helyismeret forrása az előtörténet és az átélt kalandok. Az alábbi ism
 - alvilági alakokat hol keresd
 - helyi színdarabok
 
-#### Leírás
+### Leírás
 
 Kalandozásai során a karakter számos helyre elvetődik.  Ha ott rászán időt a város tanulmányozására, akkor már ott is képes lesz Helyismeret-függő képzettségeit maximális hatékonysággal kiaknázni, büntetés nélküli próbákat dobni rá.
 

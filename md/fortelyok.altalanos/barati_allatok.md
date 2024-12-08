@@ -1,6 +1,6 @@
-### 🟣 Baráti állatok (1)
+## 🟣 Baráti állatok (1)
 
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**: nincs
 

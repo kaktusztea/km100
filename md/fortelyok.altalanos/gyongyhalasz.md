@@ -1,8 +1,8 @@
-### 🟣 Gyöngyhalász (1)
+## 🟣 Gyöngyhalász (1)
 
 A víz mélye a te közeged, ritkábban kell feljönnöd levegőért.
 
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**:
 - Úszás: `2.fok`

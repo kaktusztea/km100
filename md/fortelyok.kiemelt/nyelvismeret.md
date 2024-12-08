@@ -1,4 +1,4 @@
-### 🟣 Nyelvismeret 🔁
+## 🟣 Nyelvismeret 🔁
 
 A nyelvek ismerete **nem kerül** sem `KP`-ba, sem `SzP`-be.
 
@@ -10,11 +10,11 @@ A Nyelvismeretnek `2` foka van.
 
 Amennyiben nem rendelkezel a kívánt Nyelvismerettel, akkor - ha van kapcsolódó [Kultúrkör](kulturkor.md) Hátterred, akkor nagyon alap szavakat ismersz, amivel - plusz kézzel-lábbal - meg tudod értetni magad ("Kő", "Tűz", "Vesz", "Kenyér", stb)
 
-#### Kiterjeszti: -
+### Kiterjeszti: -
 
-#### Követelmény: -
+### Követelmény: -
 
-#### Emberi nyelvek listája
+### Emberi nyelvek listája
 ([forrás](https://magus.fandom.com/hu/wiki/Nyelvek_%C3%A9s_nyelcsal%C3%A1dok))
 
 1. Godoni nyelvek (god)
@@ -45,7 +45,7 @@ Amennyiben nem rendelkezel a kívánt Nyelvismerettel, akkor - ha van kapcsolód
     - eme-chran (cra) (a Nagy-Crantai Birodalom nyelve)
     - anagmar nyelv (ang) (a Tajtéktrónus Birodalom nyelve)
 
-#### Faj nyelvek
+### Faj nyelvek
 
 - Amund (amu)
 - Aquir nyelvek (aqu)
@@ -58,7 +58,7 @@ Amennyiben nem rendelkezel a kívánt Nyelvismerettel, akkor - ha van kapcsolód
   - Vanír  (van) (Tarín lakóinak bórogi eredetű nyelve)
 - Snil (sni) (gyíklények nyelve)
 
-#### Kyr nyelvek
+### Kyr nyelvek
 
 - ókyr (kyr)
 - godorai (gdr)

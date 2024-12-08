@@ -1,7 +1,7 @@
-### 🟣 Antissjárás (⭕1?)
+## 🟣 Antissjárás (⭕1?)
 
 Képes vagy az álomsíkon közlekedni.
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**: ⭕???⭕
 

@@ -1,8 +1,8 @@
-### 🟣 Rejtjelfejtő
+## 🟣 Rejtjelfejtő
 
 Érthetetlen szimbólumokkal teli fóliásokat bújsz, a rejtélyek megfejtése legfőbb szenvedélyed. Ha titkosírás megfejtésére kerül sor, ezzel a fortéllyal büntetés nélkül dobhatsz [Kvantikum](../kepzettsegek.szekunder/kvantikum.md) képzettségpróbát.
 
-#### Kiterjeszti ezeket
+### Kiterjeszti ezeket
 
 - [Kvantikum](../kepzettsegek.szekunder/kvantikum.md):
   - "Nem volt könnyű, de megfejtettem a titkosírást. Ez egy üzenet a tábornoknak, amiben a csapatokat a hágó elhagyására utasítja."

@@ -1,8 +1,8 @@
-### 🟣 Elsöprő roham (1)
+## 🟣 Elsöprő roham (1)
 
 Rutinos rohamozó vagy, jókor, megfelelő helyre csapsz futásból.
 
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**:
 - Harcmodor  **-** `4.szint`
@@ -15,7 +15,8 @@ Rutinos rohamozó vagy, jókor, megfelelő helyre csapsz futásból.
 
 <br />
 
-#### Megjegyzések
+---
+### Megjegyzések
 
 [Öngyilkos roham](../065_02_harci_taktikak.md#öngyilkos-roham-taktika) esetén a fentiek nem használhatóak.
 

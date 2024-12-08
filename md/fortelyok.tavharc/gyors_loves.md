@@ -1,7 +1,7 @@
-### 🟣 Gyors lövés (1)
+## 🟣 Gyors lövés (1)
 
 Lövéseidet/hajításaidat kivételesen gyorsan tudod leadni.
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**:
 - Gyorsaság: `+1`
@@ -9,7 +9,6 @@ Lövéseidet/hajításaidat kivételesen gyorsan tudod leadni.
 - (**Íjászat** vagy **Lövészet** vagy **Hajítás**)
 
 🌟 **Hatás**: Fegyvered [Sebesség](../063_06_tamadasok_szama_fegyverrel.md#fegyver-sebesség) értéke `1`-el csökken
-
 
 <br />
 
