@@ -65,15 +65,15 @@ class MdToJsonConverter:
         self.md = "\n".join(extracted_lines)
 
     def is_csv_string(self, vstr):
+        """
+        If data segments splitted by ";" equal the number
+        of key:value counts.
+        """
         parts_sc = vstr.split(';')
-        parts_co = vstr.split(':')
-        if len(parts_sc) > 1 and ((len(parts_sc)-1) == len(parts_co)):
-            print("true!!")
+        if len(parts_sc) > 1 and (len(parts_sc) == vstr.count(":")):
             return True
         else:
             return False
-
-
 
     def convert_md_to_json(self):
         for n, line in enumerate(self.md[1:-1].split('\n')):
@@ -85,13 +85,12 @@ class MdToJsonConverter:
                 for col, value in zip(header, values):
                     if col not in self.skip_columns:
                         if self.is_csv_string(value):
-                            parts = value.split(';')
+                            parts = [ tp.strip() for tp in value.split(';') ]
+                            data[col] = dict()
+                            # Split by ":" and store them as key:value entry
                             for pp in parts:
-                                k = pp.split(":")[0]
-                                v = pp.split(":")[1]
-                                print(f"k: {k}")
-                                print(f"v: {v}")
-                                data[col] = dict()
+                                k = pp.split(":")[0].strip()
+                                v = pp.split(":")[1].strip()
                                 data[col][k] = v
                         else:
                             data[col] = value
