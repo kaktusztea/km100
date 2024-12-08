@@ -32,14 +32,17 @@ Megkülönböztetünk Harcot megelőző és harcon kívüli észlelés szituáci
 
 Azaz az "észreveszem-e?" jellegű szituációk
 ```
- +3 az Észlelés képzettségpróba-dobásra
+ +3 az Észlelés
+ képzettségpróba-dobásra
 ```
 - A karakter rákérdez, hogy érzékel-e egy konkrét dolgot
 - A karakter jelzi, hogy kifejezetten érzékeire figyel most (általánosságban)
 
 #### Passzív észlelés
+
 ```
- Módosulatlan nehézség az Észlelés képzettségpróba-dobásra
+ Módosulatlan nehézség az
+ Észlelés képzettségpróba-dobásra
 ```
 
 A karakternek feltűnik valami anélkül, hogy kifejezetten kereste volna/figyelt volna rá.
@@ -47,7 +50,7 @@ A karakternek feltűnik valami anélkül, hogy kifejezetten kereste volna/figyel
 ⚡Például: orgyilkos a háta mögött (**Észlelés+Érzékenység**) , vagy a nemesúrnak álbajusza van, mérgezett az étel, stb.
 
 ---
-#### Milyen Tulajdonsággal dobjuk a próbát?
+#### Különbség az észrevétel és az értelmezés között
 
 - **Észlelés** + **Érzékenység**: Követik-e? ; Észreveszi-e a ruha alatt villanó tőrt?
 - **Nyomozás** + **Intelligencia** : Rájön-e, hogy mit vett észre? (az igazi szakáll nem nő így például)
@@ -61,7 +64,7 @@ Lopakodás/rejtőzés + Ügyesség
 Észlelés + Érzékenység  (+3)
 ```
 
-Itt képzettség ellenpróbát dobnak a felek: **Lopakodás/rejtőzés** vs **Észlelés**
+Itt **képzettség ellenpróbát** dobnak a felek: **Lopakodás/rejtőzés** vs **Észlelés**
 
 Ilyen szituban a **Lopakodás/rejtőzést** általában **Ügyességgel**, az **Észlelést** pedig **Érzékenység** Tulajdonsággal dobjuk.
 
@@ -71,10 +74,10 @@ Ilyen szituban a **Lopakodás/rejtőzést** általában **Ügyességgel**, az **
 
 #### Nem harci szituáció
 
-Sima próbadobás adott nehézségre, melyet a KM határoz meg.
+Sima próbadobás - NEM ellenpróba - adott nehézségre, melyet a KM határoz meg.
 
 - Passzív észlelés: alap nehézség ellen dob
-- Aktív észlelés: egy kategóriával (`-3`) csökken a nehézség
+- Aktív észlelés: egy kategóriával (`-3`) csökken a Nehézség
 
 ---
 
