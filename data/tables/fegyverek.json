@@ -375,7 +375,10 @@
         "VÉ": "11",
         "Sebesség": "6<br>",
         "Kategória": "kardvívó",
-        "Speciális": "Szúró sebzés: +5 SP; IV: ugyan nem íves fegyver, de kialakítása miatt érvényesek rá annak extrái."
+        "Speciális": {
+            "Szúró sebzés": "+5 SP",
+            "IV": "ugyan nem íves fegyver, de kialakítása miatt érvényesek rá annak extrái."
+        }
     },
     {
         "Fegyver": "Kard, Lagoss",
