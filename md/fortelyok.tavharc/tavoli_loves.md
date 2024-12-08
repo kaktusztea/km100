@@ -1,7 +1,7 @@
-### 🟣 Távoli lövés (1)
+## 🟣 Távoli lövés (1)
 
 Gyakorlott vagy a nagy távolságú célok belövésében.
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**:
 - Önuralom: `+1`

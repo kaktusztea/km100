@@ -1,4 +1,4 @@
-### Amund
+## Amund
 
 ```
 Erő [0; +5] ; Edzettség [0; +5]

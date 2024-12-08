@@ -1,4 +1,4 @@
-### 🟣 Kultúrkör (adott kultúrkör) 🔁
+## 🟣 Kultúrkör (adott kultúrkör) 🔁
 
 ```
 - 1 fokú
@@ -10,7 +10,7 @@ Kapcsolódó Képzettség-próba:
   ha nincs meg a követelt Kultúrkör fok, akkor -3 a dobásra.
 ```
 
-#### Kapcsolódik
+### Kapcsolódik
 
 - [Hamisítás](../fortelyok.altalanos/hamisitas.md) fortély
 - [Taktika: Testőrség](../fortelyok.szabad/taktika_testorseg.md) fortély
@@ -18,7 +18,7 @@ Kapcsolódó Képzettség-próba:
 - [Tánc](../fortelyok.szabad/tanc.md) fortély
 - [Tánc: belső stílus](../fortelyok.szabad/tanc_belso_stilus.md) fortély
 
-#### Kiterjeszti ezeket
+### Kiterjeszti ezeket
 
 - [Előadóművészet](../kepzettsegek.szekunder/eloadomuveszet.md)
 - [Etikett](../kepzettsegek.szekunder/etikett.md)
@@ -26,7 +26,7 @@ Kapcsolódó Képzettség-próba:
 - [Művészetismeret](../kepzettsegek.szekunder/muveszetismeret.md)
 - [Lexikum](../kepzettsegek.szekunder/lexikum.md)
 
-#### Leírás
+### Leírás
 
 A karakter ismeri az adott kultúra általánosságait.
 
@@ -50,7 +50,8 @@ Kalandozásai során a karakter számos helyre elvetődik.  Ha ott rászán idő
 
 Ha nincs épp meg az adott szituációban a szükséges kultúrkörhöz tartozó **Kultúrkör** Szabad Fortély, akkor `-3` büntetés jár adott képzettségpróbák dobásaira, amíg a karakter rá nem szánja a szükséges időt a kapcsolódó Kultúrkör fortély megszerzésére.
 
-#### Kultúrkör lista draft
+### Kultúrkör lista draft
+
 - erv
 - tor0ni
 - pyarr0ni

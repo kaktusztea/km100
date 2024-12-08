@@ -1,13 +1,13 @@
-### 🟣 💫 Mágiamódszer: Bábúmágia (1)
+## 🟣 💫 Mágiamódszer: Bábúmágia (1)
 
 Kézzel készített bábúkkal távolról hatsz áldozatodra.
 
-#### Tradíció felveheti
+### Tradíció felveheti
 
 - [Sámánmágia](../051_07_samanmagia.md)
 - [Vulgármágia](../051_02_vulgarmagia.md)
 
-#### Leírás
+### Leírás
 
 xyz
 

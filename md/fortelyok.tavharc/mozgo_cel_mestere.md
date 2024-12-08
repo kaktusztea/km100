@@ -1,4 +1,4 @@
-### 🟣 Mozgó cél mestere (1)
+## 🟣 Mozgó cél mestere (1)
 
 Nem okoz számodra gondot, hogy összevissza mozgó ellenfelet kell eltalálnod.
 
@@ -12,7 +12,7 @@ Amennyiben **Kiszámíthatatlanul mozgó**, vagy **Harcoló** ellenfélre lősz 
 - Harcoló Szorzó: `20x`
 
 ---
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**:
 - Önuralom: `+1`

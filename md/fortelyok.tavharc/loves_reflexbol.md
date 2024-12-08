@@ -1,4 +1,4 @@
-### 🟣 Lövés reflexből (1)
+## 🟣 Lövés reflexből (1)
 
 Ha hirtelen kell lőnöd, rutinosan kapod elő lőfegyveredet.
 #### Alapeset
@@ -8,7 +8,7 @@ Ha hirtelen kell lőnöd, rutinosan kapod elő lőfegyveredet.
 🌟 **Hatás**: Ha hirtelen kell lőni, a **Célzó Értéket** `-30` levonás sújtja.
 
 ---
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**:
 - Gyorsaság: `+1`  

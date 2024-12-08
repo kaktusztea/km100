@@ -1,4 +1,4 @@
-### 🟣 Kaszabolás (2)
+## 🟣 Kaszabolás (2)
 
 A győzelem mámora megacélozza izmaid és akaratod.
 #### 1. fok
@@ -13,7 +13,7 @@ A győzelem mámora megacélozza izmaid és akaratod.
 <br />
 
 ---
-#### 2. fok
+### 2. fok
 
 🔒 **Követelmény**:
 - Erő: `+1`
@@ -24,7 +24,8 @@ A győzelem mámora megacélozza izmaid és akaratod.
 
 <br />
 
-#### Megjegyzések
+---
+### Megjegyzések
 
 A fortély hatása lő- és hajítófegyverek használatánál nem érvényesül!
 

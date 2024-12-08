@@ -1,14 +1,15 @@
-### 🟣 Képzett célzás (1)
+## 🟣 Képzett célzás (1)
 
 Rövidebb idő alatt felméred a szelet, a távolságot és a többi változót, ami lövésedet segíti, vagy gátolja - mikor kitartod célzással lövésedet.
-#### Alapeset
+
+### Alapeset
 
 🔒 **Követelmény**: -
 
 🌟 **Hatás**: `1` célzással eltöltött kör után `+10 CÉ` módosítót kapsz. 
 
 ---
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**:
 - Önuralom: `+1`
@@ -19,7 +20,7 @@ Rövidebb idő alatt felméred a szelet, a távolságot és a többi változót,
 
 <br />
 
-#### Megjegyzések
+### Megjegyzések
 
 - A **Képzett célzás** csak kiszámíthatóan mozgó cél ellen alkalmazható.
 - Íjat legfeljebb `1` körig tarthatsz ki, utána minden további kör nemhogy javít, de ront a találati esélyeken (körönként ugyanennyit).

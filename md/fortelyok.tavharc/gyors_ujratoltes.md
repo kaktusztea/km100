@@ -1,15 +1,15 @@
-### 🟣 Gyors újratöltés (1)
+## 🟣 Gyors újratöltés (1)
 
 Gyakorlatodnak köszönhetően kifejezetten gyorsan tudod újratölteni számszeríjadat.
 
-#### Alapeset
+### Alapeset
 
 🔒 **Követelmény**:  -
 
 🌟 **Hatás**: Kézi- vagy Könnyű nyílpuskával körönként maximum egyszer lehet támadni.
 
 ---
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**:
 - Gyorsaság: `+1`

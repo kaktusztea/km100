@@ -1,8 +1,8 @@
-### 🟣 Suhanó árnyék (1)
+## 🟣 Suhanó árnyék (1)
 
 Gyorsabban tudsz lopózni.
 
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**:
 - Lopózás/Rejtőzés - `6.szint`

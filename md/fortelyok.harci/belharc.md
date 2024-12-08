@@ -1,4 +1,4 @@
-### 🟣 Belharc (2)
+## 🟣 Belharc (2)
 
 Testközelben érzed igazában elemedben magad. Magában foglalja a birkozást és a földharcot is.
 
@@ -8,7 +8,7 @@ Bővebben:
 - [Harci helyzet: Belharci szituáció](../065_01_harci_helyzetek.md#belharci-szituáció)
 - [Belharcos manőverek](../066_06_belharcos_manoverek.md)
 
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**:
 - Ügyesség: `+1`
@@ -22,7 +22,7 @@ Bővebben:
 - `VÉ:+3`
 
 ---
-#### 2. fok
+### 2. fok
 
 🔒 **Követelmény**:
 - Ügyesség: `+2`
@@ -37,6 +37,7 @@ Bővebben:
 
 <br />
 
+---
 #### Megjegyzések
 
 Az ellenfél módosítóinak változását is a Harcrendszer fejezet [Belharc, belharci szituáció](../065_01_harci_helyzetek.md#belharci-szituáció) harci helyzet leírásánál találod.

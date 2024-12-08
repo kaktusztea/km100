@@ -1,8 +1,8 @@
-### 🟣 Zártörő (1)
+## 🟣 Zártörő (1)
 
 Alapesetben ha gyorsabban akarsz kinyitni egy zárat, akkor emelkedik a célszám.
 
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**: [Zárnyitás](../kepzettsegek.szekunder/zarnyitas.md) - `6.szint`
 

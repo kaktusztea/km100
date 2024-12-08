@@ -1,4 +1,4 @@
-### 🟣 Mesterfegyver (3)
+## 🟣 Mesterfegyver (3)
 
 A legtöbb esetben egy karakternek van egy (vagy több) fegyver típusa, amelyet előnyben részesít, gyakran forgat egy harcmodoron belül.
 
@@ -10,7 +10,7 @@ A **Mesterfegyver fortély** segítségével egyes fegyverek harcértékeit tov�
 🌟 **Hatás**: fegyver alap harcértékei (bónuszokkal)
 
 ---
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**: Harcmodor - `4.szint`
 
@@ -21,7 +21,7 @@ A **Mesterfegyver fortély** segítségével egyes fegyverek harcértékeit tov�
 - `SP:+1`
 
 ---
-#### 2. fok
+### 2. fok
 
 🔒 **Követelmény**: Harcmodor - `8.szint`
 
@@ -32,7 +32,7 @@ A **Mesterfegyver fortély** segítségével egyes fegyverek harcértékeit tov�
 - `SP:+2`
 
 ---
-#### 3. fok
+### 3. fok
 
 🔒 **Követelmény**: Harcmodor - `12.szint`
 
@@ -44,7 +44,8 @@ A **Mesterfegyver fortély** segítségével egyes fegyverek harcértékeit tov�
 
 <br />
 
-#### Megjegyzések
+---
+### Megjegyzések
 
 Bizonyos [manőverek](../066_00_manoverek.md) végbevitelének követelménye lehet ennek a fortélynak valamely foka, melyet csak az adott fegyverrel képes végrehajtani a forgatója. Például: [Mesterjel](../066_05_altalanos_manoverek.md#mesterjel)
 

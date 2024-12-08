@@ -1,9 +1,9 @@
-### 🟣 Harci akrobatika (2)
+## 🟣 Harci akrobatika (2)
 
 „Pattog, mint a nikkelbolha” - mondják, ha harcolni látnak.
 Küzdelem közben akrobatikus elemeket - ugrásokat, vetődéseket, pörgéseket - alkalmazol, amelyek előnyhöz juttatnak a földhözragadt kis senkik ellen...
 
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**:
 - Ügyesség: `+2`
@@ -17,7 +17,7 @@ Küzdelem közben akrobatikus elemeket - ugrásokat, vetődéseket, pörgéseket
 - `Akrobatika x 0.5` → +VÉ
 
 ---
-#### 2. fok
+### 2. fok
 
 🔒 **Követelmény**:
 - Ügyesség: `+4`
@@ -32,7 +32,8 @@ Küzdelem közben akrobatikus elemeket - ugrásokat, vetődéseket, pörgéseket
 
 <br />
 
-#### Megjegyzések
+---
+### Megjegyzések
 
 - **Fegyverek**: A forgatott fegyverek össz pengehossza nem lehet nagyobb, mint `1 penge` (Például 1db hosszú kard, vagy 2db rövidkard), továbbá súlyuk is fontos tényező (KM dönt).
 - **Vértek**: a fortély csak olyan hajlékony, könnyű, nem-fém vértben használható, melynek nem nagyobb MGT-je `10`-nél.

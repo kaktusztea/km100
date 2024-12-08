@@ -1,8 +1,8 @@
-### 🟣 Írástudó (1)
+## 🟣 Írástudó (1)
 
 Ismered a betűvésés és olvasás udományát.
 
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**: Nyelvismeret - Udvari szint
 
@@ -10,7 +10,7 @@ Ismered a betűvésés és olvasás udományát.
 
 <br />
 
-#### Speciális
+### Speciális
 
 Ha [Tradíciót](../050_tradiciok.md) veszel fel, automatikusan megkapod az **Írástudó** fortélyt. 
 

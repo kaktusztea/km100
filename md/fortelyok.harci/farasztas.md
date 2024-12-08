@@ -1,8 +1,8 @@
-### 🟣 Fárasztás (1)
+## 🟣 Fárasztás (1)
 
 A fortély nagy ismerői a bajvívók és harcosok.
 
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**:
 - Ügyesség: `+1`

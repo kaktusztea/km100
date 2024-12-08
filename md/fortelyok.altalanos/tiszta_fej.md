@@ -1,8 +1,8 @@
-### 🟣 Tiszta fej (1)
+## 🟣 Tiszta fej (1)
 
 "Érvelése számos hibát, vagy úgy is mondhatnám... hazugságot tartalmazott."
 
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**: -
 

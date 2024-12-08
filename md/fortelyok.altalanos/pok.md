@@ -1,8 +1,8 @@
-### 🟣 Pók (1)
+## 🟣 Pók (1)
 
 Gyorsabban tudsz mászni.
 
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**:
 - Ügyesség: `+2`

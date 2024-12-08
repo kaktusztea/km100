@@ -1,8 +1,8 @@
-### 🟣 Páros harc (3)
+## 🟣 Páros harc (3)
 
 Az összeszokott harcosok együtt eredményesebbek.
 
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**: Harcmodor  **-** `3.szint` (mindkét félnek)
 
@@ -14,7 +14,7 @@ Az összeszokott harcosok együtt eredményesebbek.
 - `3` ellenfél felett `VÉ:-5` plusz ellenfelenként mindkét alkalmazóra
 
 ---
-#### 2. fok
+### 2. fok
 
 🔒 **Követelmény**: Harcmodor  **-** `6.szint` (mindkét félnek)
 
@@ -26,7 +26,7 @@ Az összeszokott harcosok együtt eredményesebbek.
 - `4` ellenfél felett `VÉ:-5` plusz ellenfelenként mindkét alkalmazóra
 
 ---
-#### 3. fok
+### 3. fok
 
 🔒 **Követelmény**:
 - Harcmodor  **-** `9.szint` (mindkét félnek)
@@ -42,7 +42,8 @@ Az összeszokott harcosok együtt eredményesebbek.
 
 <br />
 
-#### Ikerharc
+---
+### Ikerharc
 
 - Csak ikertestvérek között lehetséges, az is csak akkor ha kisgyerekkoruk óta folyamatosan legalább `5 évig` gyakorolták a közös taktikát, mivel mély rezdülések, teljes összhang szükséges.
 - Ha a két fél haragban van, kapcsolatuk disszonáns, vagy már `1 éve` nem gyakoroltak együtt, akkor a `2.foknak` megfelelő szintre esnek vissza.

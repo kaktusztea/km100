@@ -1,4 +1,4 @@
-### 🟣 Taktika: Nehézlovas
+## 🟣 Taktika: Nehézlovas
 
 Nehézlovas alakulat részeként képes vagy közösen cselekedni.
 
@@ -6,11 +6,11 @@ Képes vagy nehézlovas formációba fejlődni, együttmaradni, fordulni - harci
 
 ⭕TODO: Számszerű előnyök
 
-#### Kiterjeszti ezeket
+### Kiterjeszti ezeket
 
 - [Hadászat](../kepzettsegek.primer.altalanos/hadaszat.md): "Első szakasz, kitérés a pikások előtt, második szakasz rögtön utána, ékben támadás!"
 
-#### Követelmény
+### Követelmény
 
 - Harcmodor - `6.szint`
 - Lovaglás - `6.szint` (nehézlovaglásra alkalmas hátas fajra)

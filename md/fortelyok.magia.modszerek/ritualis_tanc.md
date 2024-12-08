@@ -1,8 +1,8 @@
-### 🟣 💫 Mágiamódszer: Rituális / Táncmágia (1)
+## 🟣 💫 Mágiamódszer: Rituális / Táncmágia (1)
 
 Képes vagy szakrális Tánc, vagy nem-szakrális Rituálé formájában mágikus hatást létrehozni.
 
-#### Tradíció felveheti
+### Tradíció felveheti
 
 - [Bárdmágia](../051_04_bardmagia.md) ⭕TODO: ??⭕
 - [Papi mágia](../052_papi_tradicio.md)
@@ -10,7 +10,7 @@ Képes vagy szakrális Tánc, vagy nem-szakrális Rituálé formájában mágiku
 - [Természeti mágia](../051_06_termeszeti_magia.md)
 - [Vulgármágia](../051_02_vulgarmagia.md)
 
-#### Leírás
+### Leírás
 
 xyz
 

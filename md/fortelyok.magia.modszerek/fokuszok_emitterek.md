@@ -1,17 +1,17 @@
-### 🟣 💫 Mágiamódszer: Fókuszok, Emitterek (1)
+## 🟣 💫 Mágiamódszer: Fókuszok, Emitterek (1)
 
 Képes vagy mágikus fókuszt, vagy emittert létrehozni.
 
 Lásd még: [Ereklyék, mágikus emitterek](../120_varazstargyak.md#ereklyék-mágikus-emitterek)
 
-#### Tradíció felveheti
+### Tradíció felveheti
 
 - [Illuzionista](../051_05_illuzionista.md)
 - [Magasmágia](../051_01_magasmagia.md)
 - [Papi mágia](../100_papimagia.md)
 - ⭕???⭕
 
-#### Mágikus emitter
+### Mágikus emitter
 
 ⭕TODO⭕
 Ötlet: lehetnének mágikusan helyhez kötött varázstárgyak. Pl. egy erődhöz (annak mágikus "aurájához") kötött tárgyak, amik ha kikerülnek a "tápláló" területről, akkor elveszítik mágikus hatásukat.

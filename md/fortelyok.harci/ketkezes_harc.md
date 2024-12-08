@@ -1,8 +1,8 @@
-### 🟣 Kétkezes harc (3)
+## 🟣 Kétkezes harc (3)
 
 Egyszerre mindkét kezedben képes vagy fegyvert forgatni.
 
-#### Alapeset
+### Alapeset
 
 🔒 **Követelmény**: -
 
@@ -13,7 +13,7 @@ Egyszerre mindkét kezedben képes vagy fegyvert forgatni.
 - Harckeret: `+1`
 
 ---
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**:
 - Főfegyver harcmodora - `6.szint`
@@ -26,7 +26,7 @@ Egyszerre mindkét kezedben képes vagy fegyvert forgatni.
   - Harckeret: `+3`
 
 ---
-#### 2. fok
+### 2. fok
 
 🔒 **Követelmény**:
 - Főfegyver harcmodora - `9.szint`
@@ -39,7 +39,7 @@ Egyszerre mindkét kezedben képes vagy fegyvert forgatni.
 - Harckeret: `+6`
 
 ---
-#### 3. fok
+### 3. fok
 
 🔒 **Követelmény**:
 - Főfegyver harcmodora - `9.szint`
@@ -55,7 +55,7 @@ Egyszerre mindkét kezedben képes vagy fegyvert forgatni.
 <br />
 
 ---
-####  Harckeret bónusz
+###  Harckeret bónusz
 
 A sebesség bónusz végső értékét úgy kapjuk meg, hogy még fegyver-függő levonásokat alkalmazunk rá az alábbiak szerint:
 
@@ -64,20 +64,23 @@ A sebesség bónusz végső értékét úgy kapjuk meg, hogy még fegyver-függ�
 -  Fontos: A „rövid” fegyverek `0` pengének számítanak számolásnál!)
 
 ---
-#### Támadások száma
+### Támadások száma
 
  A nagyobb fegyver számít (+Sebesség beszámításánál)
 
+---
 #### [Kétkezesség](ketkezesseg.md) fortély
 
 Ha a **Kétkezes harc** legalább `1.fokon` megvan, akkor `+1` Sebesség bónuszt ad.
 
-#### Méret limit, követelmény
+---
+### Méret limit, követelmény
 
 - legfeljebb 2db `1` pengés kombinációval lehet kétkezes harcot folytatni, e felett semmilyen bónusz nem számít és a fegyverek harcértéke `0`-ra esik.
 - `2`db `1` penge hosszú fegyver forgatása esetén követelmény is van: `Erő +2`
 
-#### Sebzésnél melyik fegyver talál be
+---
+### Sebzésnél melyik fegyver talál be
 
 A `k20`-as sebződobással együtt dobunk k6-al is:
 - azonos méretű fegyverek esetén:

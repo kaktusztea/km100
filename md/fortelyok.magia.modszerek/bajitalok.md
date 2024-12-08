@@ -1,13 +1,13 @@
-### 🟣 💫 Mágiamódszer: Bájitalok (1)
+## 🟣 💫 Mágiamódszer: Bájitalok (1)
 
 Bájitalokba foglalhatsz mágikus hatásokat.
 
-#### Tradíció felveheti
+### Tradíció felveheti
 
 - [Papi mágia](../052_papi_tradicio.md)
 - [Vulgármágia](../051_02_vulgarmagia.md)
 
-#### Leírás
+### Leírás
 
 xyz
 

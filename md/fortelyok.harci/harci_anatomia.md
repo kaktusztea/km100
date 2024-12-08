@@ -1,7 +1,7 @@
-### 🟣 Harci anatómia (3)
+## 🟣 Harci anatómia (3)
 
 Ismered a test sebezhető pontjait és tisztában vagy a létfontosságú belső szervek elhelyezkedésével.
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**:
 - [Harcmodor](../kepzettsegek.primer.harci/harcmodor.md) - `4.szint`
@@ -12,7 +12,7 @@ Ismered a test sebezhető pontjait és tisztában vagy a létfontosságú belső
 - [Orvtámadás](../066_05_altalanos_manoverek.md#orvtámadás) Manőver esetén `SP:+2` (csak vértmentes ponton)
 
 ---
-#### 2. fok
+### 2. fok
 
 🔒 **Követelmény**:
 - [Harcmodor](../kepzettsegek.primer.harci/harcmodor.md) - `8.szint`
@@ -24,7 +24,7 @@ Ismered a test sebezhető pontjait és tisztában vagy a létfontosságú belső
 - [Orvtámadás](../066_05_altalanos_manoverek.md#orvtámadás) Manőver esetén `SP:+4` (csak vértmentes ponton)
 
 ---
-#### 3. fok
+### 3. fok
 
 🔒 **Követelmény**:
 - [Harcmodor](../kepzettsegek.primer.harci/harcmodor.md) - `12.szint`
@@ -43,26 +43,26 @@ Ismered a test sebezhető pontjait és tisztában vagy a létfontosságú belső
 <br />
 
 ---
-#### [Leütés hátulról](../066_05_altalanos_manoverek.md#leütés-hátulról) Manőver alkalmazásakor
+### [Leütés hátulról](../066_05_altalanos_manoverek.md#leütés-hátulról) Manőver alkalmazásakor
 
 ... a **Harci anatómia** fortély minden foka: `2`-vel csökkenti a Manőver Ellenpróba Nehézséget.
 
 <br />
 
 ---
-#### [Visszafogott taktika](../065_02_harci_taktikak.md#visszafogott-taktika-) alkalmazásakor
+### [Visszafogott taktika](../065_02_harci_taktikak.md#visszafogott-taktika-) alkalmazásakor
 
 A **Harci anatómia** fortély minden foka `10`-zel csökkenti a **Visszafogott taktika** esetén kapott `TÉ` büntetést.
 
 <br />
 
 ---
-#### [Kínokozás](kinokozas.md) fortély
+### [Kínokozás](kinokozas.md) fortély
 
 Alkalmazásához követelmény a **Harci anatómia**, melynek egyes fokai egyre erősebb hatáshoz vezetnek.
 
 ---
-#### Megjegyzések
+### Megjegyzések
 
 - A fortély alapból csak elfszabásúak ellen használható, ha anatómiájuk nem titok, vagy nem ismeretlen az alkalmazó számára.
 - [Különleges faj boncolása (faj neve)](../fortelyok.szabad/kulonleges_faj_boncolasa.md) Szabad Fortélyhoz juthatsz, ha új, nem elfszabású lények anatómiáját akarod megismerni ([Élettan](../fortelyok.altalanos/elettan.md) követelmény).

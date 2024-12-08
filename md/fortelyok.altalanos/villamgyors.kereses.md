@@ -1,19 +1,19 @@
-### 🟣 Villámgyors keresés (1)
+## 🟣 Villámgyors keresés (1)
 
 Gyorsabban tudsz keresni, kutatni egy helyiségben.
 
-#### Kapcsolódó fortély
+### Kapcsolódó fortély
 
 [Keresés](kereses.md)
 
-#### Alapeset
+### Alapeset
 
 🔒 **Követelmény**:  - 
 
 🌟 **Hatás**: Alapesetben ha gyorsan, nyomás alatt akarsz valamit megtalálni, akkor `+3`-al emelkedik az [Észlelés](../kepzettsegek.primer.altalanos/eszleles.md) képzettségpróba célszáma.
 
 ---
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**: Észlelés - `3.szint`
 
@@ -22,7 +22,6 @@ Gyorsabban tudsz keresni, kutatni egy helyiségben.
 <br />
 
 ---
-
-#### Megjegyzés
+### Megjegyzés
 
 Ahhoz, hogy keresést végezz, követelmény a [Keresés/Nyomolvasás](kereses.md) fortély.

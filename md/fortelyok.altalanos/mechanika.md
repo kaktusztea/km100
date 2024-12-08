@@ -1,31 +1,31 @@
-### 🟣 Mechanika (2)
+## 🟣 Mechanika (2)
 
 A Fizikai és Matematikai ismeretek is ide tartoznak?? ⭕TODO⭕
 
-#### Kapcsolódó fortély
+### Kapcsolódó fortély
 
 - [Építészet](epiteszet.md) ⭕TODO⭕
 - [Keresés](kereses.md): csapdához, titkosajtóhoz, amiben szerkezet van
 
-#### Kiterjeszti ezeket
+### Kiterjeszti ezeket
 
 - [Csapdaállítás](../kepzettsegek.szekunder/csapdaallitas.md): mechanikus csapdák állításához követelmény lehet a Mechanika
 - [Kvantikum](../kepzettsegek.szekunder/kvantikum.md)
 - [Szakma - Fegyverkovács](../kepzettsegek.szekunder/szakma.md)
 - [Szakma - Páncélkovács](../kepzettsegek.szekunder/szakma.md)
 
-##### Bónuszt ad erre
+### Bónuszt ad erre
 
 - [Zárnyitás](../kepzettsegek.szekunder/zarnyitas.md) képzettség → `+2` bónusz minden Mechanika fok után
 
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**: ⭕
 
 🌟 **Hatás**: ⭕
 
 ---
-#### 2. fok
+### 2. fok
 
 🔒 **Követelmény**: ⭕
 

@@ -1,4 +1,4 @@
-### Goblin
+## Goblin
 
 ```
 Erő [-5; +2] ; Edzettség [-2; +3]

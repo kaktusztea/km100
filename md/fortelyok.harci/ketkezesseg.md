@@ -1,7 +1,7 @@
-### 🟣 Kétkezesség (1)
+## 🟣 Kétkezesség (1)
 
 Kétkezes vagy születésed óta.
-#### Alapeset
+### Alapeset
 
 🔒 **Követelmény**: -
 
@@ -10,7 +10,7 @@ Kétkezes vagy születésed óta.
 - `KÉ:10`, `TÉ:-20`, `VÉ:-20`
 
 ---
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**: Csak `1.`Tapasztalati Szinten vehető fel.
 

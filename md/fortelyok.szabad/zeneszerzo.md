@@ -1,10 +1,10 @@
-### 🟣 Zeneszerző
+## 🟣 Zeneszerző
 
-#### Kiterjeszti ezeket
+### Kiterjeszti ezeket
 
 [Előadóművészet](../kepzettsegek.szekunder/eloadomuveszet.md): Dallamok születnek a fejedben, melyeket papírra vetsz, hogy te, vagy akár egy zenekar előadhassa.
 
-#### Követelmény
+### Követelmény
 
 [Előadóművészet](../kepzettsegek.szekunder/eloadomuveszet.md) - `6.szint`
 

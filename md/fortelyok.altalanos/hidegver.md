@@ -1,8 +1,8 @@
-### 🟣 Hidegvér (1)
+## 🟣 Hidegvér (1)
 
 "Szép nagy kard... és népes kíséret."
 
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**: nincs
 

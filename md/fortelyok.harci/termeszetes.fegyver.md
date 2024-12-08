@@ -1,14 +1,14 @@
-### 🟣 Természetes fegyver (1)
+## 🟣 Természetes fegyver (1)
 
 Olyan fajú karakterrel játszol, amelynek végtagjai / harapása, egyéb fizikai szerve fegyvernek minősül.
 
-#### Alapeset
+### Alapeset
 
 🔒 **Követelmény**: -
 
 🌟 **Hatás**: A "Puszta kéz" sebzése `-5+k20`
 
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**: [Faj Háttér](../021_faj_hatterek.md)
 
@@ -18,7 +18,7 @@ Olyan fajú karakterrel játszol, amelynek végtagjai / harapása, egyéb fizika
 
 <br />
 
-#### Megjegyzések
+### Megjegyzések
 
 - Olyan  [Faj Háttér](../021_faj_hatterek.md), amely faj leírásában szerepel az ajánlottan felvehető fortélyok között a "Természetes fegyver"
 - Például [Faj Háttér: Khál](../hatterek.faji/khal.md) mellé vehető fel

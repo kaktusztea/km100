@@ -1,9 +1,9 @@
-### 🟣 Mágikus lövész (3)
+## 🟣 Mágikus lövész (3)
 
 Mágiatudóként nagyon kihegyezted magad a távolba direktben ható mágiákra, pontosabban tudsz távolba lődözni.
 
 ---
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**: [Mágikus célzás](../kepzettsegek.primer.harci/harcmodor.md) - ⭕`6.szint`
 
@@ -13,7 +13,7 @@ Mágiatudóként nagyon kihegyezted magad a távolba direktben ható mágiákra,
   - ⭕TODO: link update⭕
 
 ---
-#### 2. fok
+### 2. fok
 
 🔒 **Követelmény**: [Mágikus célzás](../kepzettsegek.primer.harci/harcmodor.md) - ⭕`9.szint` 
 
@@ -22,7 +22,7 @@ Mágiatudóként nagyon kihegyezted magad a távolba direktben ható mágiákra,
 - **Osztó**:`+2`, amikor Mágikus lövedéket használsz.
 
 ---
-#### 3. fok
+### 3. fok
 
 🔒 **Követelmény**: [Mágikus célzás](../kepzettsegek.primer.harci/harcmodor.md) - ⭕`9.szint` 
 

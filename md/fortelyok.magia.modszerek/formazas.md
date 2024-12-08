@@ -1,13 +1,13 @@
-### 🟣 💫 Mágiamódszer: Formázás (1)
+## 🟣 💫 Mágiamódszer: Formázás (1)
 
 Képes vagy formázni a létrehozott mágiát.
 
-#### Tradíció felveheti
+### Tradíció felveheti
 
 - [Magasmágia](../051_01_magasmagia.md)
 - [Ordani tűzmágia](../051_03_ordani_tuzmagia.md)
 
-#### Leírás
+### Leírás
 
 xyz
 

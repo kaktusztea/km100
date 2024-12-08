@@ -1,4 +1,4 @@
-### Khál
+## Khál
 
 Számukra az emberi civilizáció nehezebben érthető.
 

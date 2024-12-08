@@ -1,8 +1,8 @@
-### 🟣 Gyors kezdeményezés (1)
+## 🟣 Gyors kezdeményezés (1)
 
 Kivételesen gyorsan mozdulsz a harcban.
 
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**: Gyorsaság: `+2`
 

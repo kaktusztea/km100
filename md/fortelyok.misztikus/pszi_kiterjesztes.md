@@ -1,4 +1,4 @@
-### 🟣 Pszí kiterjesztés (3*)
+## 🟣 Pszí kiterjesztés (3*)
 
 Ezzel a fortéllyal kiterjesztheted az alkalmazott pszí diszciplínákat másra, másokra is.
 
@@ -9,7 +9,7 @@ Kapcsolódik: [Pszí használat](../kepzettsegek.primer.misztikus/pszi_hasznalat
 Passzív: az alkalmazó csak magára képes a diszciplínákat alkalmazni﻿.
 
 ---
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**:
 - Intelligencia: `+0`
@@ -23,7 +23,7 @@ Passzív: az alkalmazó csak magára képes a diszciplínákat alkalmazni﻿.
 - `+5` méterenként `+1` Komplexitás **Pszí használat** képzettségpróbára
 
 ---
-#### 2. fok
+### 2. fok
 
 🔒 **Követelmény**:
 - Intelligencia: `+1`
@@ -37,7 +37,7 @@ Passzív: az alkalmazó csak magára képes a diszciplínákat alkalmazni﻿.
 - `+10` méterenként `+1` Komplexitás **Pszí használat** képzettségpróbára
 
 ---
-#### 3. fok
+### 3. fok
 
 🔒 **Követelmény**:
 - Intelligencia: `+2`
@@ -52,7 +52,7 @@ Passzív: az alkalmazó csak magára képes a diszciplínákat alkalmazni﻿.
 - `+20` méterenként `+1` Komplexitás **Pszí használat** képzettségpróbára
 
 ---
-#### 4.fok
+### 4.fok
 
 🔒 **Követelmény**: Ki tudja..?
 
@@ -60,7 +60,7 @@ Passzív: az alkalmazó csak magára képes a diszciplínákat alkalmazni﻿.
 
 <br />
 
-#### Megjegyzések
+### Megjegyzések
 
 Lehetséges, hogy létezik egy titkos, 4. fok, amiről alig tudni valamit
 

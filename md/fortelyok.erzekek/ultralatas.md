@@ -1,4 +1,4 @@
-### 🟣 Ultralátás (3)
+## 🟣 Ultralátás (3)
 
 <!-- tag: erzekfortely -->
 
@@ -6,28 +6,28 @@ Fajhoz felvehető Érzék-fortély.
 
 Teljes sötétben is képes vagy tájékozódni.
 
-#### Alapeset
+### Alapeset
 
 🔒 **Követelmény**:  -
 
 🌟 **Hatás**: Emberi látás, teljes sötétben gyakorlatilag vakság, nem látsz semmit.
 
 ---
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**: Kapcsolódó [Faj Háttér](../021_faj_hatterek.md)
 
 🌟 **Hatás**: Mintha telihold fényénél tájékozódnál vaksötétben.
 
 ---
-#### 2. fok
+### 2. fok
 
 🔒 **Követelmény**: Kapcsolódó [Faj Háttér](../021_faj_hatterek.md)
 
 🌟 **Hatás**: Mintha szürkületkor tájékozódnál. Vaksötétben is tudsz olvasni.
 
 ---
-#### 3. fok
+### 3. fok
 
 🔒 **Követelmény**: Kapcsolódó [Faj Háttér](../021_faj_hatterek.md)
 
@@ -40,7 +40,7 @@ Teljes sötétben is képes vagy tájékozódni.
 
 <br />
 
-#### Megjegyzések
+### Megjegyzések
 
 - Felvételéhez olyan [Faj-Háttér](../021_faj_hatterek.md) szükséges, amelynél szerepel az **Ultralátás**, mint felvehető **Érzék-fortély**
 - A látás fekete-fehérben történik
