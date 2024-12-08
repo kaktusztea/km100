@@ -1,39 +1,53 @@
 ## Befolyásolás vs. Emberismeret
 
+Klasszikus szociális helyzetek, melyekben az egyik fél különböző verbális, non-verbális eszközökkel megpróbálja befolyásolni a másikat.
+
 ### Megfélemlítés szituáció
 
-```
-Befolyásolás képzettség
-  + Intelligencia / Érzékenység Tulajdonság
-  -3 (ha nincs Megfélemlítés Szabad Fortély)
+[Befolyásolás](kepzettsegek.primer.altalanos/befolyasolas.md) képzettség
+- Tulajdonság: Intelligencia vagy Érzékenység
+- Normál kiterjesztés: [Megfélemlítés](fortelyok.szabad/megfelemlites.md) fortély
 
-            vs
+`VS`
 
-Emberismeret képzettség
-  + Önuralom Tulajdonság
-  -3 (ha nincs Megfélemlítés Szabad Fortély)
-```
+[Emberismeret](kepzettsegek.primer.altalanos/emberismeret.md) képzettség
+- Tulajdonság: Önuralom
+- Normál kiterjesztés: [Megfélemlítés](fortelyok.szabad/megfelemlites.md) fortély
 
-#### Megfélelmlítés Módosítók
+#### Megfélemlítés Módosítók
 
-Véres karddal, félmeztelenül hadonászás: ⚪**Erő** Tulajdonság különbsége hozzáadódik bónuszként a **Befolyásolás** képzettséghez.
+Véres karddal, félmeztelenül hadonászás: a felek ⚪ **Erő** Tulajdonságának **különbsége** hozzáadódik bónuszként a **Befolyásolás** képzettséghez.
+
+<br />
 
 ---
-### Csábítás
+### Csábítás: Erős, izmos barbár csábít
 
-#### Erős, izmos barbár csábít
+[Befolyásolás](kepzettsegek.primer.altalanos/befolyasolas.md) képzettség
+- Tulajdonság: Erő
+- Normál kiterjesztés: [Csábítás](fortelyok.szabad/csabitas.md) fortély
 
-```
-Befolyásolás(képzettség)
-  + Erő Tulajdonság
-  -3 (ha nincs Csábítás Szabad Fortély)
+`VS`
 
-            vs
+[Emberismeret](kepzettsegek.primer.altalanos/emberismeret.md) képzettség
+- Tulajdonság: Önuralom
+- Normál kiterjesztés: [Csábítás](fortelyok.szabad/csabitas.md) fortély
 
-Emberismeret képzettség
-  + Önuralom Tulajdonság
-  -3 (ha nincs Csábítás Szabad Fortély)
-```
+<br />
+
+---
+### Csábítás: igéző huri táncos bájolása
+
+[Befolyásolás](kepzettsegek.primer.altalanos/befolyasolas.md) képzettség
+- Tulajdonság: Érzékenység
+- Normál kiterjesztés: [Csábítás](fortelyok.szabad/csabitas.md) fortély
+- Extra: a bájoló karakter szubjektív szépségétől függő bónuszok [-3;+3] tartományban - KM dönt a szituáció és a karakterek ismeretében.
+
+`VS`
+
+[Emberismeret](kepzettsegek.primer.altalanos/emberismeret.md) képzettség
+- Tulajdonság: Önuralom
+- Normál kiterjesztés: [Csábítás](fortelyok.szabad/csabitas.md) fortély
 
 ---
 
