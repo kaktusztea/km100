@@ -11,6 +11,7 @@ Játék során vannak klasszikus, gyakran előforduló **szituációk**, amelyek
 - [Befolyásolás vs Emberismeret](154_befolyasolas_emberismeret.md)
   - Megfélemlítés
   - Csábítás
+  - Átverés, hazudozás
 - [Térkép készítése](155_terkep_keszitese.md)
 - [Lóról leesés](156_lorol_leeses.md)
 
