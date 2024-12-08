@@ -17,6 +17,10 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 - [Megfélemlítés](../fortelyok.szabad/megfelemlites.md): "Kár lenne ezért a szép mellényért, nehezen jön ki belőle a vér..."
 - [Szónoklás](../fortelyok.szabad/szonoklas.md): "Mit választotok? A hazug, kövér urat, aki soha nem fogott kaszát a kezébe, vagy engem, aki magam is egy folyómenti faluból származom?"
 
+### Szituációk
+
+- [Befolyásolás vs. Emberismeret](../154_befolyasolas_emberismeret.md)
+
 ### Leírás
 
 Mások meggyőzését, szándékainknak megfelelő cselekedetek elérését fedi. Alapból sima érveléstechinka, de a fenti Fortélyokkal kiterjeszthető más szituációkra is.

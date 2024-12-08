@@ -22,6 +22,10 @@ Az alábbi Fortélyok a képzettség `3.szintjének` elérésekor vehetőek csak
 - [Megfélemlítés](../fortelyok.szabad/megfelemlites.md): "Hiába lóbálja a kardját uram, fehér kendő nélkül nem engedhetem be."
 - [Szónoklás](../fortelyok.szabad/szonoklas.md): "Még egy szélhámos... Azt a csűrt, amivel a tömegnek henceg, nem ő építtette, hanem még az öreg Szakáll kamarás uram."
 
+### Szituációk
+
+- [Befolyásolás vs. Emberismeret](../154_befolyasolas_emberismeret.md)
+
 **Leírás**: Más emberek viselkedésének, hangulatának feltérképezését, belső motivációinak kiismerését célzó „tudomány". Ennek az ismeretnek az elsajátítását leginkább a nagybetűs ÉLET egyengeti. Sok-sok beszélgetés, néha keserű tapasztalat.
 
 A képzettség annyiban speciális, hogy a (harcmodorokhoz hasonlóan) a `3.szint` adja az „alapszintet", azaz egy felnőtt átlagember ekkora emberismerettel rendelkezik. Az ez alatti értékkel rendelkezők köznyelven a „szerencsétlen balek" és a „palimadár" kategóriába tartoznak..

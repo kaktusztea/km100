@@ -19,7 +19,10 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
 **Leírás**: Az Észlelés valaminek az észrevételét takarja. Ez lehet egy villanó tőr, egy meglapuló merénylő a lombok közt, egy árulkodó súrlódó nesz. Fontos, hogy az Észlelés csak a momentum észrevételt jelenti, annak értelmezését nem! Az a játékos feladata, melyet esetleg megkönnyíthet például a [Nyomozás](nyomozas.md), vagy a [Természetjárás](../kepzettsegek.szekunder/termeszetjaras.md) képzettség.
 
-A képzettség különböző alkalmazási formáiról bővebben a [Szituációk](../150_szituaciok.md) fejezetben olvashatsz.
+### Szituációk
+
+- [Érzékelés, Aktív/Passzív Harci Észlelés, Áldozat mögé lopakodás](../151_erzekeles_harci_eszleles_aktiv_passziv.md)
+- [Nyomok észrevétele, Nyomkövetés - városi környezetben](../152_02_nyomok_nyomkovetes_varos.md)
 
 <br />
 

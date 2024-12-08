@@ -11,3 +11,7 @@ Magába foglalja az esést, ugrást és a kötéltáncot is.
 ### Normál kiterjesztés
 
 ⭕TODO⭕
+
+### Szituációk
+
+- [Lóról leesés](../156_lorol_leeses.md)
