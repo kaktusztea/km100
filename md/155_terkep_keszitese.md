@@ -1,10 +1,11 @@
 ## Térkép készítése
 
-[Kvantikum](kepzettsegek.szekunder/kvantikum.md) képzettségpróba dobás a térkép bonyolultsága és részletessége alapján megállapított Nehézség ellen.
+Nem valami hevenyészett papírfecnire gondoljunk, hanem valós, méréseken, földrajzi ismereten alapuló térkép készítésére.
 
-**Követelmény**: [Helyismeret](fortelyok.kiemelt/helyismeret.md) - adott városnyi terület
-
-**Kiterjeszti**: [Térképészet](fortelyok.szabad/terkepeszet.md) Szabad Fortély (nélküle `-3` levonás)
+[Kvantikum](kepzettsegek.szekunder/kvantikum.md) képzettségpróba
+- **Nehézség**: a térkép bonyolultsága és részletessége alapján megállapított szint
+- Erős kiterjesztés: [Helyismeret](fortelyok.kiemelt/helyismeret.md) - adott városnyi terület
+- Normál kiterjesztés: [Térképészet](fortelyok.szabad/terkepeszet.md) fortély
 
 ---
 
