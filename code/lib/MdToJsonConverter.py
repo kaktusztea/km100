@@ -64,6 +64,17 @@ class MdToJsonConverter:
                 extracted_lines.append(line.strip())
         self.md = "\n".join(extracted_lines)
 
+    def is_csv_string(self, vstr):
+        parts_sc = vstr.split(';')
+        parts_co = vstr.split(':')
+        if len(parts_sc) > 1 and ((len(parts_sc)-1) == len(parts_co)):
+            print("true!!")
+            return True
+        else:
+            return False
+
+
+
     def convert_md_to_json(self):
         for n, line in enumerate(self.md[1:-1].split('\n')):
             data = {}
@@ -73,7 +84,17 @@ class MdToJsonConverter:
                 values = [t.strip() for t in line.split('|')[1:-1]]
                 for col, value in zip(header, values):
                     if col not in self.skip_columns:
-                        data[col] = value
+                        if self.is_csv_string(value):
+                            parts = value.split(';')
+                            for pp in parts:
+                                k = pp.split(":")[0]
+                                v = pp.split(":")[1]
+                                print(f"k: {k}")
+                                print(f"v: {v}")
+                                data[col] = dict()
+                                data[col][k] = v
+                        else:
+                            data[col] = value
                 self.list_dicts.append(data)
             n += 1
 
