@@ -49,6 +49,25 @@ Véres karddal, félmeztelenül hadonászás: a felek ⚪ **Erő** Tulajdonság�
 - Tulajdonság: Önuralom
 - Normál kiterjesztés: [Csábítás](fortelyok.szabad/csabitas.md) fortély
 
+<br />
+
+---
+### Átverés, hazudozás
+
+Gyakori eset, hogy a karaktert át akarják verni. Lehet, hogy ezzel még a játékos is tisztában van, de karaktere egyáltalán nem biztos!\
+„Elhittem, amit mondott?” - hangzik el sokszor.
+
+[Befolyásolás](kepzettsegek.primer.altalanos/befolyasolas.md) képzettség
+- Tulajdonság: Intelligencia
+- Normál kiterjesztés: [Hazudozás](fortelyok.szabad/hazudozas.md) fortély
+- Extra: A KM a játékos előadásának, karakterének jelleme, háttere ismeretében adhat/levonhat extrát.
+
+`VS`
+
+[Emberismeret](kepzettsegek.primer.altalanos/emberismeret.md) képzettség
+- Tulajdonság: Intelligencia
+- Normál kiterjesztés: [Hazudozás](fortelyok.szabad/hazudozas.md) fortély
+
 ---
 
 🔗 [Térkép készítése](155_terkep_keszitese.md) →
