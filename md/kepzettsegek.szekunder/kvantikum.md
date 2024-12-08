@@ -22,6 +22,10 @@ __
 - [Építészet](../fortelyok.altalanos/epiteszet.md): "Az a torony pár hónap és leomlik."
 - [Mechanika](../fortelyok.altalanos/mechanika.md): "Rittyentettem egy átemelő darut, amivel könnyebb lesz az öntözés."
 
+### Szituációk
+
+- [Térkép készítése](../155_terkep_keszitese.md)
+
 ### Leírás
 
 A képzettség általános ismeret amely a számokkal való munkára támaszkodó tudományok alapját adja. Alapból magába foglalja a matematikát, számtant, mértant.

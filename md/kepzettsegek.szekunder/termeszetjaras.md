@@ -15,9 +15,9 @@
 - [Tájtípus - magaslati](../fortelyok.szabad/tajtipus_magaslati.md): Járatos vagy magaslati típusú környezetben. Ismered a növényeket, azok hatásait, állatokat, azok viselkedési szokásait, továbbá a tájtípusnak megfelelő időjárást, egyedi jellemzőket - a Természetjárás képzettségnek megfelelő szinten.
 - [Tájtípus - erdős](../fortelyok.szabad/tajtipus_erdos.md): Járatos vagy erdős típusú környezetben. Ismered a növényeket, azok hatásait, állatokat, azok viselkedési szokásait, továbbá a tájtípusnak megfelelő időjárást, egyedi jellemzőket - a Természetjárás képzettségnek megfelelő szinten.
 
-### Szituáció
+### Szituációk
 
-- [Nyomok értelmezése természetben](../152_01_nyomok_nyomkovetes_termeszet.md)
+- [Nyomok észrevétele, Nyomkövetés - természetben](../152_01_nyomok_nyomkovetes_termeszet.md)
 
 ### Leírás
 
