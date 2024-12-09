@@ -1,4 +1,4 @@
-## Információ szerzés valakitől
+## Információszerzés valakitől
 
 Sokszor futunk bele karakterekbe, akikből megpróbálunk kihúzni némi információt. Nyilván nem mindenkit ejtettek a fejére, gyakran nem akarnak választ adni holmi jöttment idegeneknek. Ilyenkor jön jól a **Kihallgatás** fortély.
 
