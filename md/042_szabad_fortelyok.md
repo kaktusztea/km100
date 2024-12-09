@@ -47,6 +47,7 @@ Van, hogy egy Szabad Fortély több képzettséget is kiterjeszt.
 - [Irodalom](fortelyok.szabad/irodalom.md)
 - [Jogismeret](fortelyok.szabad/jogismeret.md)
 - [Kalligráfia](fortelyok.szabad/kalligrafia.md)
+- [Kihallgatás](fortelyok.szabad/kihallgatas.md)
 - [Különleges faj boncolása](fortelyok.szabad/kulonleges_faj_boncolasa.md) 🔁
 - [Lénylovas](fortelyok.szabad/lenylovas.md) 🔁
 - [Logisztika](fortelyok.szabad/logisztika.md)
