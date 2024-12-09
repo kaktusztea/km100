@@ -12,7 +12,7 @@ Ilyenkor egyszerű harci [Kezdeményezést](../064_02_02_kezdemenyezes.md) kell 
 
 ### Nem harci cselekedet esetén
 
-Ilyen esetben Gyorsaság tulajdonság ellenpróbát dobassunk. Reflex jellegű és futás szituáció esetén is így járjunk el.
+Ilyen esetben **Gyorsaság** tulajdonsággal **ellenpróbát** dobassunk. Reflex jellegű és futás szituáció esetén is így járjunk el.
 
 A próbát módosíthatja, ha valaki közelebb van az elérni kívánt célhoz, illetve ne feledkezzünk meg a [Sprint](../fortelyok.altalanos/sprint.md) fortély módosítóiról sem.
 
