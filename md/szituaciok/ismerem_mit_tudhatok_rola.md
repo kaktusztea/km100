@@ -11,16 +11,15 @@ Gyakori szituáció, mikor elhangzik egy név és szükség van a karakter ismer
 ---
 ### Alvilági alak
 
-[Nyomozás](../kepzettsegek.primer.altalanos/nyomozas.md) képzettség
+[Városi jártasság](../kepzettsegek.szekunder/varosi_jartassag.md) képzettség
 - Tulajdonság: Emlékezet
 - Normál kiterjesztés: [Helyismeret](../fortelyok.kiemelt/helyismeret.md) (adott helység) fortély
 
 `VAGY`
 
-[Városi jártasság](../kepzettsegek.szekunder/varosi_jartassag.md) képzettség
+[Nyomozás](../kepzettsegek.primer.altalanos/nyomozas.md) képzettség
 - Tulajdonság: Emlékezet
 - Normál kiterjesztés: [Helyismeret](../fortelyok.kiemelt/helyismeret.md) (adott helység) fortély
- 
 
 ---
 ### Alvilági alak egy adott bűnszervezetben
