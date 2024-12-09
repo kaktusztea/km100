@@ -21,10 +21,10 @@ Ez egy sima ⚪ **Gyorsaság** [Tulajdonság ellenpróba](../014_02_tulajdonsagp
 
 🔆 Bónuszt ad: [Sprint](../fortelyok.altalanos/sprint.md) fortély
 
-🔆 [MGT hatása a próbára](069_00_vertek_pancelok.md#mozgásgátló-tényező-mgt): KM dönt a helyzet ismeretében
+🔆 [MGT hatása a próbára](../069_00_vertek_pancelok.md#mozgásgátló-tényező-mgt): KM dönt a helyzet ismeretében
 
 ---
 
-🔗 [Befolyásolás vs Emberismeret](befolyasolas_emberismeret.md) →
+🔗 [Szituációk](../150_szituaciok.md) ↑
 
 ⚜️ [Nyitóoldal](../start.md#15-szitu%C3%A1ci%C3%B3k)

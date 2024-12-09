@@ -280,14 +280,14 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 ---
 ### 15. [Szituációk](150_szituaciok.md)
 
+- [Befolyásolás módszerei](szituaciok/befolyasolas_modszerei.md)
 - [Érzékelés, Aktív/Passzív Harci Észlelés, Áldozat mögé lopakodás](szituaciok/erzekeles_harci_eszleles_aktiv_passziv.md)
+- [Ismerem ezt a nevet? Mit tudhatok róla?](szituaciok/ismerem_mit_tudhatok_rola.md)
+- [Lóról leesés](szituaciok/lorol_leeses.md)
+- [Menekülés, üldözés, futás](szituaciok/menekules_uldozes_futas.md)
 - [Nyomok észrevétele, nyomkövetés - természetben](szituaciok/nyomok_nyomkovetes_termeszet.md)
 - [Nyomok észrevétele, nyomkövetés - városban](szituaciok/nyomok_nyomkovetes_varos.md)
-- [Menekülés, üldözés, futás](szituaciok/menekules_uldozes_futas.md)
-- [Befolyásolás vs Emberismeret](szituaciok/befolyasolas_emberismeret.md)
-- [Ismerem ezt a nevet? Mit tudhatok róla?](szituaciok/ismerem_mit_tudhatok_rola.md)
 - [Térkép készítése](szituaciok/terkep_keszitese.md)
-- [Lóról leesés](szituaciok/lorol_leeses.md)
 
 ---
 ## [🚧 Fejlesztő portál 🚧](https://github.com/kaktusztea/km100/wiki)

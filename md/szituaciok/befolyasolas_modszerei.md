@@ -1,4 +1,4 @@
-## Befolyásolás vs. Emberismeret
+## Befolyásolás módszerei
 
 Klasszikus szociális helyzetek, melyekben az egyik fél különböző verbális, non-verbális eszközökkel megpróbálja befolyásolni a másikat.
 
@@ -70,6 +70,6 @@ Gyakori eset, hogy a karaktert át akarják verni. Lehet, hogy ezzel még a ját
 
 ---
 
-🔗 [Ismerem ezt a nevet? Mit tudhatok róla?](szituaciok/ismerem_mit_tudhatok_rola.md) →
+🔗 [Szituációk](../150_szituaciok.md) ↑
 
 ⚜️ [Nyitóoldal](../start.md#15-szitu%C3%A1ci%C3%B3k)

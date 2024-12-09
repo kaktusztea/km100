@@ -35,6 +35,6 @@ Előbb észre kell venni az első nyomot, utána lehet követni a csapást.
 
 ---
 
-🔗 [Nyomok észrevétele, Nyomkövetés - városi környezetben](nyomok_nyomkovetes_varos.md) →
+🔗 [Szituációk](../150_szituaciok.md) ↑
 
 ⚜️ [Nyitóoldal](../start.md#15-szitu%C3%A1ci%C3%B3k)
