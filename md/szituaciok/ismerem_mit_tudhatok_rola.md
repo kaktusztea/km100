@@ -25,13 +25,13 @@ Gyakori szituáció, mikor elhangzik egy név és szükség van a karakter ismer
 ---
 ### Alvilági alak egy adott bűnszervezetben
 
-[Nyomozás](../kepzettsegek.primer.altalanos/nyomozas.md) képzettség
+[Városi jártasság](../kepzettsegek.szekunder/varosi_jartassag.md) képzettség
 - Tulajdonság: Emlékezet
 - Normál kiterjesztés: ["Titkos szervezeti kultúra"](../fortelyok.szabad/titkos_szervezeti_kultura.md) (adott szervezetre) fortély
 
 `VAGY`
 
-[Városi jártasság](../kepzettsegek.szekunder/varosi_jartassag.md) képzettség
+[Nyomozás](../kepzettsegek.primer.altalanos/nyomozas.md) képzettség
 - Tulajdonság: Emlékezet
 - Normál kiterjesztés: ["Titkos szervezeti kultúra"](../fortelyok.szabad/titkos_szervezeti_kultura.md) (adott szervezetre) fortély
 
