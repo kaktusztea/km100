@@ -132,9 +132,9 @@ Johanius Krad pap egy címert vizsgál a bálterem tükrös falán.
 ---
 ### ⚡ Példa képzettség kiterjesztésere - 2 fortéllyal
 
-Horgas Apó orkok [nyomát fedezte fel](152_01_nyomok_nyomkovetes_termeszet.md#nyomok-%C3%A9szrev%C3%A9tele-a-term%C3%A9szetben-) a folyóparton és követni szeretné, hova vezetnek.
+Horgas Apó orkok [nyomát fedezte fel](szituaciok/nyomok_nyomkovetes_termeszet.md#nyomok-észrevétele-a-természetben-) a folyóparton és követni szeretné, hova vezetnek.
 
-Ez a klasszikus [Nyomok követése természetben](152_01_nyomok_nyomkovetes_termeszet.md#nyomok-k%C3%B6vet%C3%A9se-a-term%C3%A9szetben-) Szituáció.
+Ez a klasszikus [Nyomok követése természetben](szituaciok/nyomok_nyomkovetes_termeszet.md#nyomok-követése-a-természetben-) Szituáció.
 
 \- KM: "Mennyi a **Természetjárás** képzettséged és az **Érzékenység** Tulajdonságod? Ezekkel fogsz dobni."
 

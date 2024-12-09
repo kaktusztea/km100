@@ -25,7 +25,7 @@ __
 
 ### Szituáció
 
-- [Nyomok észrevétele, Nyomkövetés - városi környezetben](../152_02_nyomok_nyomkovetes_varos.md)
+- [Nyomok észrevétele, Nyomkövetés - városi környezetben](../szituaciok/nyomok_nyomkovetes_varos.md)
 
 ### Leírás
 

@@ -70,6 +70,6 @@ Gyakori eset, hogy a karaktert át akarják verni. Lehet, hogy ezzel még a ját
 
 ---
 
-🔗 [Térkép készítése](155_terkep_keszitese.md) →
+🔗 [Térkép készítése](terkep_keszitese.md) →
 
 ⚜️ [Nyitóoldal](start.md#15-szitu%C3%A1ci%C3%B3k)

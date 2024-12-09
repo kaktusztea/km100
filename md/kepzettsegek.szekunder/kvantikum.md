@@ -24,7 +24,7 @@ __
 
 ### Szituációk
 
-- [Térkép készítése](../155_terkep_keszitese.md)
+- [Térkép készítése](../szituaciok/terkep_keszitese.md)
 
 ### Leírás
 

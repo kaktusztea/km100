@@ -3,8 +3,8 @@
 Titkos rejtekajtók, zugok, rejtett tárgyak, rekeszek, valamint természeti közegben megbújó nyomok felkutatásában adhat segítséget, amely próbát az [Észlelés](../kepzettsegek.primer.altalanos/eszleles.md) képzettséggel végzünk.
 
 Bővebben lásd az alábbi Szituációk fejezetét:
-- [Nyomok észrevétele, Nyomkövetés - természetben](../152_01_nyomok_nyomkovetes_termeszet.md)
-- [Nyomok észrevétele, Nyomkövetés - városi környezetben](../152_02_nyomok_nyomkovetes_varos.md)
+- [Nyomok észrevétele, Nyomkövetés - természetben](../szituaciok/nyomok_nyomkovetes_termeszet.md)
+- [Nyomok észrevétele, Nyomkövetés - városi környezetben](../szituaciok/nyomok_nyomkovetes_varos.md)
 
 ### Kiterjeszti ezeket
 

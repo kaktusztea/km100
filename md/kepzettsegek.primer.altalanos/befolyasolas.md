@@ -19,7 +19,7 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
 ### Szituációk
 
-- [Befolyásolás vs. Emberismeret](../154_befolyasolas_emberismeret.md)
+- [Befolyásolás vs. Emberismeret](../szituaciok/befolyasolas_emberismeret.md)
 
 ### Leírás
 
