@@ -11,7 +11,7 @@ Játék során vannak klasszikus, gyakran előforduló **szituációk**, amelyek
   - Átverés, hazudozás
 - [Érzékelés, Aktív/Passzív Harci Észlelés, Áldozat mögé lopakodás](szituaciok/erzekeles_harci_eszleles_aktiv_passziv.md)
 - [Harcolót hátbaszúrni](szituaciok/harcolot_hatbaszurni.md)
-- [Információszerzés valakitől](szituaciok/informacio_szerzes.md)
+- [Információszerzés valakitől](szituaciok/informacioszerzes_valakitol.md)
 - [Ismerem ezt a nevet? Mit tudhatok róla?](szituaciok/ismerem_mit_tudhatok_rola.md)
 - [Ki mozdul elsőnek?](szituaciok/ki_mozdul_elsonek.md)
 - [Lóról leesés](szituaciok/lorol_leeses.md)

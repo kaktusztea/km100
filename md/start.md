@@ -284,7 +284,7 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 - [Befolyásolás módszerei](szituaciok/befolyasolas_modszerei.md)
 - [Érzékelés, Aktív/Passzív Harci Észlelés, Áldozat mögé lopakodás](szituaciok/erzekeles_harci_eszleles_aktiv_passziv.md)
 - [Harcolót hátbaszúrni](szituaciok/harcolot_hatbaszurni.md)
-- [Információ szerzés valakitől](szituaciok/informacio_szerzes.md)
+- [Információszerzés valakitől](szituaciok/informacioszerzes_valakitol.md)
 - [Ismerem ezt a nevet? Mit tudhatok róla?](szituaciok/ismerem_mit_tudhatok_rola.md)
 - [Ki mozdul elsőnek?](szituaciok/ki_mozdul_elsonek.md)
 - [Lóról leesés](szituaciok/lorol_leeses.md)
