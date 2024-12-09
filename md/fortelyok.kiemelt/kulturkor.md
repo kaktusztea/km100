@@ -20,11 +20,11 @@ Kapcsolódó Képzettség-próba:
 
 ### Kiterjeszti ezeket
 
-- [Előadóművészet](../kepzettsegek.szekunder/eloadomuveszet.md)
-- [Etikett](../kepzettsegek.szekunder/etikett.md)
-- [Képzőművészet](../kepzettsegek.szekunder/kepzomuveszet.md)
-- [Művészetismeret](../kepzettsegek.szekunder/muveszetismeret.md)
-- [Lexikum](../kepzettsegek.szekunder/lexikum.md)
+- [Előadóművészet](../kepzettsegek.szekunder/eloadomuveszet.md): enélkül érvényes a levonás mindegyik lenti művészeti ágra.
+- [Etikett](../kepzettsegek.szekunder/etikett.md): Nélküle általános etikett szabályokra és megérzéseidre támaszkodsz csak. Ha ismered, nincs gond.
+- [Képzőművészet](../kepzettsegek.szekunder/kepzomuveszet.md): enélkül érvényes a levonás mindegyik lenti művészeti ágra.
+- [Művészetismeret](../kepzettsegek.szekunder/muveszetismeret.md): enélkül érvényes a levonás mindegyik lenti művészeti ágra.
+- [Lexikum](../kepzettsegek.szekunder/lexikum.md): Az adott, kapcsolódó **Kultúrkör** ismerete sokszor (nem mindig) szükséges, hiánya esetén jár a standard levonás.
 
 ### Leírás
 
