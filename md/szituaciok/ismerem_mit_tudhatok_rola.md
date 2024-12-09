@@ -2,6 +2,10 @@
 
 Gyakori szituáció, mikor elhangzik egy név és szükség van a karakter ismereteire, hogy eldöntsük, hallott -e már róla és ha igen, mit.
 
+\- JK: *"Ismerem ezt az "Mottar" nevű alakot?"* \
+\- KM: *"Igen, ő az Ekkorin család vezetője. Úgy hírlik, kapzsi és gyáva is."*
+
+---
 ### Régi idők híres/hírhedt alakja
 
 [Lexikum](../kepzettsegek.szekunder/lexikum.md) képzettség
