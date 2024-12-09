@@ -25,6 +25,6 @@ Ez egy sima ⚪ **Gyorsaság** [Tulajdonság ellenpróba](014_02_tulajdonsagprob
 
 ---
 
-🔗 [Befolyásolás vs Emberismeret](154_befolyasolas_emberismeret.md) →
+🔗 [Befolyásolás vs Emberismeret](befolyasolas_emberismeret.md) →
 
 ⚜️ [Nyitóoldal](start.md#15-szitu%C3%A1ci%C3%B3k)

@@ -81,6 +81,6 @@ Sima próbadobás - NEM ellenpróba - adott nehézségre, melyet a KM határoz m
 
 ---
 
-🔗 [Nyomok észrevétele, Nyomkövetés - természetben](152_01_nyomok_nyomkovetes_termeszet.md) →
+🔗 [Nyomok észrevétele, Nyomkövetés - természetben](nyomok_nyomkovetes_termeszet.md) →
 
 ⚜️ [Nyitóoldal](start.md#15-szitu%C3%A1ci%C3%B3k)

@@ -24,7 +24,7 @@ Az alábbi Fortélyok a képzettség `3.szintjének` elérésekor vehetőek csak
 
 ### Szituációk
 
-- [Befolyásolás vs. Emberismeret](../154_befolyasolas_emberismeret.md)
+- [Befolyásolás vs. Emberismeret](../szituaciok/befolyasolas_emberismeret.md)
 
 **Leírás**: Más emberek viselkedésének, hangulatának feltérképezését, belső motivációinak kiismerését célzó „tudomány". Ennek az ismeretnek az elsajátítását leginkább a nagybetűs ÉLET egyengeti. Sok-sok beszélgetés, néha keserű tapasztalat.
 
@@ -56,7 +56,7 @@ Intelligencia + Emberismeret
 Érzékenység + Emberismeret
 ```
 
-Bővebben lásd: [Szituációk: Befolyásolás vs Emberismeret](../154_befolyasolas_emberismeret.md) fejezet.
+Bővebben lásd: [Szituációk: Befolyásolás vs Emberismeret](../szituaciok/befolyasolas_emberismeret.md) fejezet.
 
 ### Aktív próbák
 

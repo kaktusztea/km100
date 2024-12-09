@@ -17,7 +17,7 @@
 
 ### Szituációk
 
-- [Nyomok észrevétele, Nyomkövetés - természetben](../152_01_nyomok_nyomkovetes_termeszet.md)
+- [Nyomok észrevétele, Nyomkövetés - természetben](../szituaciok/nyomok_nyomkovetes_termeszet.md)
 
 ### Leírás
 

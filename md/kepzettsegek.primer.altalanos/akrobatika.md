@@ -14,4 +14,4 @@ Magába foglalja az esést, ugrást és a kötéltáncot is.
 
 ### Szituációk
 
-- [Lóról leesés](../156_lorol_leeses.md)
+- [Lóról leesés](../szituaciok/lorol_leeses.md)
