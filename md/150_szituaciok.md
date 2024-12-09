@@ -9,6 +9,7 @@ Játék során vannak klasszikus, gyakran előforduló **szituációk**, amelyek
   - Csábítás
   - Átverés, hazudozás
 - [Érzékelés, Aktív/Passzív Harci Észlelés, Áldozat mögé lopakodás](szituaciok/erzekeles_harci_eszleles_aktiv_passziv.md)
+- [Információ szerzés valakitől](szituaciok/informacio_szerzes.md)
 - [Ismerem ezt a nevet? Mit tudhatok róla?](szituaciok/ismerem_mit_tudhatok_rola.md)
 - [Lóról leesés](szituaciok/lorol_leeses.md)
 - [Menekülés, üldözés, futás](szituaciok/menekules_uldozes_futas.md)
