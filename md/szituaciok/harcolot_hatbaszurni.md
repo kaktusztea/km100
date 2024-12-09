@@ -9,3 +9,9 @@ Egy "konstelláció" van, mikor ez mégis kivitelezhető:
 	- Sikeres Lopakodás/rejtőzés `vs` Észlelés ellenpróba a támadó részéről
 	- Az [Észlelés Aktív](erzekeles_harci_eszleles_aktiv_passziv.md#akt%C3%ADv-%C3%A9szlel%C3%A9s) az áldozat részéről az ellenpróba során!
 - Egy társ leköti és "irányban tartja" az áldozatot [Terelés manőver](../066_05_altalanos_manoverek.md#terel%C3%A9s) sikeres alkalmazásával
+
+---
+
+🔗 [Szituációk](../150_szituaciok.md) ↑
+
+⚜️ [Nyitóoldal](start.md#12-var%C3%A1zst%C3%A1rgyak--10-)

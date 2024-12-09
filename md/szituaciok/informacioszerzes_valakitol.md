@@ -27,3 +27,9 @@ Jellemző a kihallgatásnál, hogy nem `1 db` dobás dönt el mindent, mivel a k
 ### Megvezetés, hazudozás
 
 A Befolyásolásos szituációknál említett [Átverés, Hazudozás](befolyasolas_modszerei.md#%C3%A1tver%C3%A9s-hazudoz%C3%A1s) technika is használható sokszor információ szerzésre.
+
+---
+
+🔗 [Szituációk](../150_szituaciok.md) ↑
+
+⚜️ [Nyitóoldal](start.md#12-var%C3%A1zst%C3%A1rgyak--10-)
