@@ -285,6 +285,7 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 - [Nyomok észrevétele, nyomkövetés - városban](szituaciok/nyomok_nyomkovetes_varos.md)
 - [Menekülés, üldözés, futás](szituaciok/menekules_uldozes_futas.md)
 - [Befolyásolás vs Emberismeret](szituaciok/befolyasolas_emberismeret.md)
+- [Ismerem ezt a nevet? Mit tudhatok róla?](szituaciok/ismerem_mit_tudhatok_rola.md)
 - [Térkép készítése](szituaciok/terkep_keszitese.md)
 - [Lóról leesés](szituaciok/lorol_leeses.md)
 

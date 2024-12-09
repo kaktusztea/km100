@@ -12,6 +12,7 @@ Játék során vannak klasszikus, gyakran előforduló **szituációk**, amelyek
   - Megfélemlítés
   - Csábítás
   - Átverés, hazudozás
+- [Ismerem ezt a nevet? Mit tudhatok róla?](szituaciok/ismerem_mit_tudhatok_rola.md)
 - [Térkép készítése](szituaciok/terkep_keszitese.md)
 - [Lóról leesés](szituaciok/lorol_leeses.md)
 

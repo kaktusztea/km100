@@ -12,6 +12,7 @@
 ### Normál kiterjesztés
 
 - [Kultúrkör](../fortelyok.kiemelt/kulturkor.md): Nélküle általános etikett szabályokra és megérzéseidre támaszkodsz csak. Ha ismered, nincs gond.
+- [Helyismeret](../fortelyok.kiemelt/helyismeret.md): a helyi celebritások, nemesi körökben forgó emberek ismerete
 
 ### Erős kiterjesztés
 
