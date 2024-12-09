@@ -26,7 +26,7 @@ __
 
 ### Szituáció
 
-- [Információ szerzés valakitől](../szituaciok/informacio_szerzes.md)
+- [Információ szerzés valakitől](../szituaciok/informacioszerzes_valakitol.md)
 - [Nyomok észrevétele, Nyomkövetés - városi környezetben](../szituaciok/nyomok_nyomkovetes_varos.md)
 
 ### Leírás
