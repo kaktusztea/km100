@@ -30,6 +30,6 @@ Példákhoz lásd a fenti, kapcsolódó fortélyok **Nyomozás** képzettséghez
 
 ---
 
-🔗 [Menekülés, üldözés, Futás](menekules_uldozes_futas.md) →
+🔗 [Szituációk](../150_szituaciok.md) ↑
 
 ⚜️ [Nyitóoldal](../start.md#15-szitu%C3%A1ci%C3%B3k)

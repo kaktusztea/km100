@@ -9,6 +9,6 @@ Nem valami hevenyészett papírfecnire gondoljunk, hanem valós, méréseken, f�
 
 ---
 
-🔗 [Lóról leesés](lorol_leeses.md) →
+🔗 [Szituációk](../150_szituaciok.md) ↑
 
 ⚜️ [Nyitóoldal](../start.md#15-szitu%C3%A1ci%C3%B3k)
