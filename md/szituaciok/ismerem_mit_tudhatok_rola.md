@@ -44,3 +44,10 @@ Gyakori szituáció, mikor elhangzik egy név és szükség van a karakter ismer
 [Etikett](../kepzettsegek.szekunder/etikett.md) képzettség
 - Tulajdonság: Emlékezet
 - Normál kiterjesztés: [Helyismeret](../fortelyok.kiemelt/helyismeret.md) (adott helység) fortély (nem mindig szükséges, ne legyünk szigorúak)
+
+
+---
+
+🔗 [Térkép készítése](terkep_keszitese.md) →
+
+⚜️ [Nyitóoldal](../start.md#15-szitu%C3%A1ci%C3%B3k)

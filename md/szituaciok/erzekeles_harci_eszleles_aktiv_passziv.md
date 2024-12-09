@@ -17,12 +17,12 @@
 
 Az érzékeket (látás, hallás, szaglás, ízlelés) érintő próbákat **Észlelés** képzettségpróbával dobjuk, **Érzékenység** Tulajdonsággal.
 
-A fajok esetleges bónuszai felvehetőek Érzék-Fortélyként. Bővebben lásd a [Faj Hátterek](021_faj_hatterek.md) fejezetben.
+A fajok esetleges bónuszai felvehetőek Érzék-Fortélyként. Bővebben lásd a [Faj Hátterek](../021_faj_hatterek.md) fejezetben.
 
 ---
 ### Észlelés
 
-Idézet az [Észlelés](kepzettsegek.primer.altalanos/eszleles.md) képzettség leírásából:
+Idézet az [Észlelés](../kepzettsegek.primer.altalanos/eszleles.md) képzettség leírásából:
 
 *"Az Észlelés valaminek az észrevételét takarja. Ez lehet egy villanó tőr, egy meglapuló merénylő a lombok közt, egy árulkodó súrlódó nesz. Fontos, hogy az Észlelés csak a momentum észrevételt jelenti, annak értelmezését nem! Az a játékos feladata, melyet esetleg megkönnyíthet például a **Nyomozás**, vagy a **Természetjárás** képzettség."*
 
@@ -69,7 +69,7 @@ Itt **képzettség ellenpróbát** dobnak a felek: **Lopakodás/rejtőzés** vs 
 Ilyen szituban a **Lopakodás/rejtőzést** általában **Ügyességgel**, az **Észlelést** pedig **Érzékenység** Tulajdonsággal dobjuk.
 
 - Passzív észlelés: ha az észlelő passzívan szemlélődik, mikor a támadás éri: alap ellenpróba
-  (alapeset leírását és a próba körülményeit, módosítóit lásd a [Lopakodás/rejtőzés](kepzettsegek.primer.altalanos/lopakodas_rejtozes.md) képzettség leírásánál!)
+  (alapeset leírását és a próba körülményeit, módosítóit lásd a [Lopakodás/rejtőzés](../kepzettsegek.primer.altalanos/lopakodas_rejtozes.md) képzettség leírásánál!)
 - Aktív észlelés: ha az észlelő odafigyel, számít a támadásra: `+3` jár **Észlelés** próbájára
 
 ### Nem harci szituáció
@@ -83,4 +83,4 @@ Sima próbadobás - NEM ellenpróba - adott nehézségre, melyet a KM határoz m
 
 🔗 [Nyomok észrevétele, Nyomkövetés - természetben](nyomok_nyomkovetes_termeszet.md) →
 
-⚜️ [Nyitóoldal](start.md#15-szitu%C3%A1ci%C3%B3k)
+⚜️ [Nyitóoldal](../start.md#15-szitu%C3%A1ci%C3%B3k)
