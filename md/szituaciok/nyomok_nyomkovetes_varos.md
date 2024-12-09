@@ -7,9 +7,9 @@ Szintén gyakori eset, hogy városban, vagy egyéb lakott településen kell nyo
 
 "Az az asztal el lett mozdítva." / "Huzatos itt a fal mellett."
 
-**[Észlelés](kepzettsegek.primer.altalanos/eszleles.md)** képzettségpróba
+**[Észlelés](../kepzettsegek.primer.altalanos/eszleles.md)** képzettségpróba
 - **Nehézség**: a nyom észrevételének bonyolultságának megfelelő megfelelő szint ellen
-- **Normál Kiterjesztés**: [Keresés (2)](fortelyok.altalanos/kereses.md) fortély
+- **Normál Kiterjesztés**: [Keresés (2)](../fortelyok.altalanos/kereses.md) fortély
 
 <br />
 
@@ -18,13 +18,13 @@ Szintén gyakori eset, hogy városban, vagy egyéb lakott településen kell nyo
 
 Például titkos iratok átböngészése. Egy felfedezett ősi címer elemzése. Felfedezett titkosírás elemzése.
 
-**[Nyomozás](kepzettsegek.primer.altalanos/nyomozas.md)** képzettségpróba
+**[Nyomozás](../kepzettsegek.primer.altalanos/nyomozas.md)** képzettségpróba
 - **Nehézség**: a felfedezett nyom értelmezésének bonyolultságától függő szint ellen
 - **Normál Kiterjesztés**: egyet válassz az aktuális szituációhoz passzolóan:
-  - [Heraldika](fortelyok.szabad/heraldika.md)
-  - [Jogismeret](fortelyok.szabad/jogismeret.md)
-  - [Pénzügyek](fortelyok.szabad/penzugyek.md)
-  - [Rejtjelfejtő](fortelyok.szabad/rejtjelfejto.md)  (ennél használható a [Kvantikum](kepzettsegek.szekunder/kvantikum.md)) képzettség is
+  - [Heraldika](../fortelyok.szabad/heraldika.md)
+  - [Jogismeret](../fortelyok.szabad/jogismeret.md)
+  - [Pénzügyek](../fortelyok.szabad/penzugyek.md)
+  - [Rejtjelfejtő](../fortelyok.szabad/rejtjelfejto.md)  (ennél használható a [Kvantikum](../kepzettsegek.szekunder/kvantikum.md)) képzettség is
 
 Példákhoz lásd a fenti, kapcsolódó fortélyok **Nyomozás** képzettséghez kapcsolódó leírásait.
 
@@ -32,4 +32,4 @@ Példákhoz lásd a fenti, kapcsolódó fortélyok **Nyomozás** képzettséghez
 
 🔗 [Menekülés, üldözés, Futás](menekules_uldozes_futas.md) →
 
-⚜️ [Nyitóoldal](start.md#15-szitu%C3%A1ci%C3%B3k)
+⚜️ [Nyitóoldal](../start.md#15-szitu%C3%A1ci%C3%B3k)
