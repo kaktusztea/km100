@@ -28,4 +28,4 @@ Ebben az esetben viszont **neki is** [Kezdeményezést](../064_02_02_kezdemenyez
 
 🔗 [Szituációk](../150_szituaciok.md) ↑
 
-⚜️ [Nyitóoldal](start.md#12-var%C3%A1zst%C3%A1rgyak--10-)
+⚜️ [Nyitóoldal](../start.md#15-szitu%C3%A1ci%C3%B3k)
