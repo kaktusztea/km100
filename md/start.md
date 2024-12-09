@@ -280,6 +280,7 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 ---
 ### 15. [Szituációk](150_szituaciok.md)
 
+- [Ajtóstul nekirontani az túloldalról benyitó ellenfélnek](szituaciok/ajtostul_tamadni.md)
 - [Befolyásolás módszerei](szituaciok/befolyasolas_modszerei.md)
 - [Érzékelés, Aktív/Passzív Harci Észlelés, Áldozat mögé lopakodás](szituaciok/erzekeles_harci_eszleles_aktiv_passziv.md)
 - [Harcolót hátbaszúrni](szituaciok/harcolot_hatbaszurni.md)
