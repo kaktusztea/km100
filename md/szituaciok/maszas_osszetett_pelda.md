@@ -12,9 +12,9 @@ Erő: +2
 Önuralom: +1
 ```
 
-A mászás elején Tetves Mászás képzettségpróbát dob. A terep `Nehézség: 15` (nagyon nehéz).
+A mászás elején Tetves [Mászás](../kepzettsegek.szekunder/maszas.md) képzettségpróbát dob. A terep `Nehézség: 15` (nagyon nehéz).
 
-A táv miatt a KM összetett próbát ír elő `+1 db` próbával, így Tetvesnek egy `15`-ös és egy `12`-es próbát kell dobnia.
+A táv miatt a KM [összetett képzettségróbát](../036_kepzettsegproba.md#%C3%B6sszetett-k%C3%A9pzetts%C3%A9gpr%C3%B3ba-m%C3%A1sodlagos-pr%C3%B3badob%C3%A1sok) ír elő `+1 db` próbával, így Tetvesnek egy `15`-ös és egy `12`-es próbát kell dobnia.
 
 🔆 "Az áthajláson kell  már csak átjutnom, ott akár félseggel ki is ülhetek arra a pici párkányra és az adna egy kis szuszt. Ááá, csak ez a buzi áthajlás... de itt már kurvára alig bírom... na csak odáig még, azt jó lesz... ehehhheee,  ott a kis lépésem is.. kicsit messze, de ez van. Na lássuk..."
 
@@ -34,9 +34,9 @@ A lépést elérte, de nem bírja már a testsúlyát rendesen áthelyezni, a vi
 
 🔆 "Ááá, nem bírom sokáig, gyerünk baszki!"
 
-⚙️ `+2`-es **Erő** bevetése: az aktuális mászás során elhasználhat pontokat karaktere `Erő` Tulajdonságából (maximum `0` értékre mehet le), amiből utána percenként `1` pont tér vissza. Tetves felhasználja mind a kettőt.
+⚙️ `+2`-es **Erő** bevetése: az aktuális mászás során a játékos elhasználhat pontokat karaktere `Erő` Tulajdonságából (maximum `0` értékre mehet le), amiből utána percenként `1` pont tér vissza (bővebben lásd a [Mászás képzettség leírását](../kepzettsegek.szekunder/maszas.md)). Tetves felhasználja mind a két pontját.
 
-Mászás képzettségpróba: fel tudja -e húzni magát a kitett helyzetből - erőtartalékai bevetésével (nagyon nehéz próba: `15`)?
+⚙️ Mászás képzettségpróba: fel tudja -e húzni magát a kitett helyzetből - erőtartalékai bevetésével (nagyon nehéz próba: `15`)?
 
 `Mászás(7)+Ügyesség(3)+Erő(2) = 12 + k10`
 
