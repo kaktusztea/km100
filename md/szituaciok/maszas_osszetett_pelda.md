@@ -29,8 +29,8 @@ A lépést elérte, de nem bírja már a testsúlyát rendesen áthelyezni, a vi
 
 🔆 "...annnyád!!!!! ANYÁD!!!!! úúú, baszki, mostmiafaszlegyenmiafaszlegyen..."
 
-🎲 Önuralom próba: `1+k6 vs 5 (Nehéz) →` sikeres ✅\
-🎲 Edzettség próba: `3+k6 vs 5 (Nehéz) →` rontott ⛔
+🎲 Önuralom próba: `1+k6 vs 5 (Nehéz)  →  ` sikeres ✅\
+🎲 Edzettség próba: `3+k6 vs 5 (Nehéz)  →  ` rontott ⛔
 
 🔆 "Ááá, nem bírom sokáig, gyerünk baszki!"
 
