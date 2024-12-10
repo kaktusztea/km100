@@ -44,4 +44,4 @@ Tetves minden erejét bevetve felgyűrte magát a 11 cm széles kiszögellésre.
 ⚙️ Ék: ⭕+1⭕ mászásra ILYEN szituban vagy biztosításra\
 ⚙️ Perem: sokkal könnyebb mászáspróba
 
-A kettő együtt ad annyit ami már rég biztos tudásból megvan, lehet pihenni, egy idő múlva visszatér az eredeti edzettségpróbához kellő erőnlét. Ha egy nem képzett mászót tesznek ugyanide, annak nem lesz meg a biztos tudása a pihenéshez, tehát nem tudja magát kipihenni sem.
+A kettő együtt ad annyit ami már rég biztos tudásból megvan, lehet pihenni, egy idő múlva visszatér az eredeti edzettségpróbához kellő erőnlét. Ha egy nem képzett mászót tesznek ugyanide, annak nem lesz meg a biztos tudása a pihenéshez, tehát nem tudja visszanyerni az erejét sem.
