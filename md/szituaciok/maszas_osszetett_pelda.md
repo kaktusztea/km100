@@ -8,7 +8,7 @@
 Mászás: 9.szint
 Ügyesség: +3
 Edzettség: +3
-Erő: +1
+Erő: +2
 ```
 
 
@@ -31,7 +31,7 @@ A lépést elérte, de nem bírja már a testsúlyát rendesen áthelyezni, a vi
 
 🔆 "ááá, nem bírom sokáig, gyerünk baszki"
 
-⚙️ `+3`-as **Erő** bevetése, a Mászás képzettségpróba így épphogy megvan
+⚙️ `+2`-es **Erő** bevetése, a Mászás képzettségpróba így épphogy megvan
 
 🔆 "Áááá, kurvák vérit!!"
 
