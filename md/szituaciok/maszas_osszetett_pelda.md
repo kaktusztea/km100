@@ -22,8 +22,7 @@ Mivel `Mászás(9)+Ügyesség(3) = 12`, ezért az első próba nem, de a másodi
 🔆 "Az áthajláson kell  már csak átjutnom, ott akár félseggel ki is ülhetek arra a pici párkányra és az adna egy kis szuszt. Ááá, csak ez a buzi áthajlás... de itt már kurvára alig bírom... na csak odáig még, azt jó lesz... ehehhheee,  ott a kis lépésem is.. kicsit messze, de ez van. Na lássuk..."
 
 ⚙️ A második - rontott - képzettségpróba hatása:\
-A lépést elérte, de nem bírja már a testsúlyát rendesen áthelyezni, a visszalépés pedig
-kifejezetten szuicid érzésnek tűnik)
+A lépést elérte, de nem bírja már a testsúlyát rendesen áthelyezni, a visszalépés pedig kifejezetten szuicid érzésnek tűnik.
 
 🔆 "...annnyád!!!!! ANYÁD!!!!! úúú, baszki, mostmiafaszlegyenmiafaszlegyen..."
 
