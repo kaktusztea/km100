@@ -15,6 +15,7 @@ Játék során vannak klasszikus, gyakran előforduló **szituációk**, amelyek
 - [Ismerem ezt a nevet? Mit tudhatok róla?](szituaciok/ismerem_mit_tudhatok_rola.md)
 - [Ki mozdul elsőnek?](szituaciok/ki_mozdul_elsonek.md)
 - [Lóról leesés](szituaciok/lorol_leeses.md)
+- [Lövész nyúl a fegyveréért, támad rá egy harcos](szituaciok/lovesz_nyul_fegyvereert_tamad_ra_harcos.md)
 - [Menekülés, üldözés, futás](szituaciok/menekules_uldozes_futas.md)
 - [Nyomok észrevétele, nyomkövetés - természetben](szituaciok/nyomok_nyomkovetes_termeszet.md)
 - [Nyomok észrevétele, nyomkövetés - városban](szituaciok/nyomok_nyomkovetes_varos.md)
