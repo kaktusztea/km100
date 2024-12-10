@@ -289,6 +289,7 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 - [Ki mozdul elsőnek?](szituaciok/ki_mozdul_elsonek.md)
 - [Lóról leesés](szituaciok/lorol_leeses.md)
 - [Lövész nyúl a fegyveréért, támad rá egy harcos](szituaciok/lovesz_nyul_fegyvereert_tamad_ra_harcos.md)
+- [Mászás képzettségpróbára összetett példa](szituaciok/maszas_osszetett_pelda.md)
 - [Menekülés, üldözés, futás](szituaciok/menekules_uldozes_futas.md)
 - [Nyomok észrevétele, nyomkövetés - természetben](szituaciok/nyomok_nyomkovetes_termeszet.md)
 - [Nyomok észrevétele, nyomkövetés - városban](szituaciok/nyomok_nyomkovetes_varos.md)
