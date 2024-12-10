@@ -29,8 +29,8 @@ A lépést elérte, de nem bírja már a testsúlyát rendesen áthelyezni, a vi
 
 🔆 "...annnyád!!!!! ANYÁD!!!!! úúú, baszki, mostmiafaszlegyenmiafaszlegyen..."
 
-🎲 Önuralom próba: `1+k6 vs 5 (Nehéz)  →  ` sikeres ✅\
-🎲 Edzettség próba: `3+k6 vs 5 (Nehéz)  →  ` rontott ⛔
+🎲 Önuralom próba: `1+k6 vs 5 (Nehéz) →` sikeres ✅\
+🎲 Edzettség próba: `3+k6 vs 5 (Nehéz) →` rontott ⛔
 
 🔆 "Ááá, nem bírom sokáig, gyerünk baszki!"
 
@@ -48,7 +48,7 @@ Mászás képzettségpróba: fel tudja -e húzni magát a kitett helyzetből - e
 
 Tetves minden erejét bevetve felgyűrte magát a `11 cm` széles kiszögellésre. Ott elfér kb félseggel. Minden tagja remeg az igénybevételtől, mielőtt teljesen elhagyná magát...
 
-⚙️ Újabb **Edzettség** Tulajdonságpróba, hogy meg tudja -e tartani magát tartósan. Nehézség: `6` (Magyon Nehéz)
+⚙️ Újabb **Edzettség** Tulajdonságpróba, hogy meg tudja -e tartani magát tartósan. Nehézség: `6` (Nagyon Nehéz)
 
 ... még egy repedésbe tesz egy mászóéket amihez kiköti magát. Nem tartaná meg, de a `11 cm`-es peremmel együtt már jó, nem kell annyit kapaszkodni.
 
