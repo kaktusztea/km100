@@ -39,7 +39,7 @@ Tetves minden erejét bevetve felgyűrte magát a 11 cm széles kiszögellésre.
 
 ⚙️ Az eddigiekhez képest Edzettség Tulajdonságpróba: `-3` büntivel
 
-... még egy repedésbe tesz egy mászóéket amihez kiköti magát. Nem tartaná meg, de a 11 cm-es peremmel együtt már jó, nem kell annyit kapaszkodni.
+... még egy repedésbe tesz egy mászóéket amihez kiköti magát. Nem tartaná meg, de a `11 cm`-es peremmel együtt már jó, nem kell annyit kapaszkodni.
 
 ⚙️ Ék: ⭕+1⭕ mászásra ILYEN szituban vagy biztosításra\
 ⚙️ Perem: sokkal könnyebb mászáspróba
