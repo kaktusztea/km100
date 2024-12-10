@@ -27,7 +27,7 @@ A lépést elérte, de nem bírja már a testsúlyát rendesen áthelyezni, a vi
 🔆 "...annnyád!!!!! ANYÁD!!!!! úúú, baszki, mostmiafaszlegyenmiafaszlegyen..."
 
 ⚙️ Önuralom próba - sikeres\
-⚙️ Edzettségpróba - rontott
+⚙️ Edzettség próba - rontott
 
 🔆 "ááá, nem bírom sokáig, gyerünk baszki"
 
