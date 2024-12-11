@@ -6,6 +6,7 @@ A Fizikai és Matematikai ismeretek is ide tartoznak?? ⭕TODO⭕
 
 - [Építészet](epiteszet.md) ⭕TODO⭕
 - [Keresés](kereses.md): csapdához, titkosajtóhoz, amiben szerkezet van
+- [Zárnyitás](../kepzettsegek.szekunder/zarnyitas.md): bónuszt ad rá a Mechanika (lásd ott)
 
 ### Kiterjeszti ezeket
 

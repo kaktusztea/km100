@@ -5,6 +5,7 @@
 ### Normál kiterjesztés 
 
 - [Hamisítás](../fortelyok.altalanos/hamisitas.md): az adott szakma magas szintű produktumainak hamisítása.
+- [Mechanika](mechanika.md) (fegyverkovács, páncélkovács): mechanikus komponensekkel bővített fegyverekhez, páncélokhoz
 
 ### Normál kiterjesztés (Hivatalnok Szakmához)
 
