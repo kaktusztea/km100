@@ -1,18 +1,6 @@
 ## 🔵 Mászás
 
-⭕**TODO**⭕
-
-````diff
-Menet felfelé:
-- Edzettségpróba kell, de ha sokat dobatunk, az exponenciálisan csökkenti az esélyt!
-- Ezért legyen szerintem Összetett Edzettségpróba (lásd Összetett tulajdonságpróba) a mászás elején.
-- Menet közben Edzettségpróbák
-  - Milyen gyakran és milyen nehézség ellen?
-- Rontott Edzettségpróba esetén: Újra Mászás képzettségpróba. Az eredeti nehézség + Edzettségpróba rontás különbség ellen.
-- Mekkora nehézségű legyen az Edzettségpróba?
-- Rontott mászás képzettségpróba:
-  - Soron kívüli azonnali Edzettségpróba. Nehézsége: ⭕????⭕
-````
+⭕[Mászás nyitott problémái](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.kepzettsegek#m%C3%A1sz%C3%A1s-k%C3%A9pzetts%C3%A9g)
 
 **Próba**: dobható
 
@@ -44,6 +32,7 @@ Ha a terep (próba) nehézsége nem nagyobb a a Mászás képzettségnél, akkor
 | Mester (9)       | • Ismeri az összes mászási technikát és faltípust, mászáshoz szükséges csomókat. Jó látási viszonyok közt ránézésre nagyjából meg tudja mondani, mennyire omladékos a terep. Tudja milyen testhelyzetben pihenjen kapaszkodás közben.<br />• **Példa**: Képzett hegymászó, profi besurranó tolvaj                                             |                      Erő:`-2`<br />Ügyesség:`+2`<br />Önuralom:`+1`                      |
 | Nagymester (12)  | • A fentieken kívül képes úgy tartalékolni az erejét, hogy hosszabb távon se fárad ki. Akár ⭕fél óráig⭕ is tartja magát puszta kézzel.<br />• **Példa**: Neves mestergyilkos, behatoló egység vezető fejvadásza                                                                                                                               | Erő:`-2`<br />Ügyesség:`+3`<br />Önuralom:&nbsp;`+2`<br />Összpontosítás:&nbsp;`3.szint` |
 | Élő legenda (15) | • Ilyen nincs!! A puszta, csúszós sziklafalon is felkúszik. Kézfeje, lába deformálódott – alkalmazkodva a mászás követelményeihez. Félmágikus hatású ismeretekhez jut.<br />• Függeszkedve ⭕1 órát⭕ is kibír!<br />• **Példa**: mágiával kondicionált elit birodalmi fejvadász<br />• Képzettség bónusz: [Tapadás](#b%C3%B3nusz-tapad%C3%A1s) |      Erő:`-2`<br />Ügyesség:`+4`<br />Önuralom:`+3`<br />Összpontosítás: `6.szint`       |
+|                  |                                                                                                                                                                                                                                                                                                                                               |                                                                                          |
 
 <br />
 
@@ -59,14 +48,14 @@ Titkos, félmágikus ismeret.
 ---
 ### Próbák
 
-| Célszám | Példa  |
-| :----------- | :----------- |
-| Könnyű       (6)  | Felmászni a magas tölgyfára,<br />Kötélen mászni (plusz súllyal, illetve lengő kötélen nehezebb! Lásd a módosítóknál) |
-| Átlagos      (9)  | Felmászni a fogadó tetejére. ⭕Félig kikötve, félseggel ülve pihenni.⭕ |
-| Nehéz        (12) | Repedéses kőfalon felmászni, omladékos, nagyon meredek leejtőn feljutni. |
-| Nagyon nehéz (15) | Függőleges – nem repedéses – téglafalon felmászni, visszahajlásokkal tagolt meredek sziklafalon felmászni. |
-| Rendkívül nehéz (18) | Gleccserszakadékból puszta kézzel kimászni. |
-| Emberfeletti (21) | ⭕Olajjal leöntött visszahajló acélfalon felmászni.⭕ |
+| Célszám              | Példa                                                                                                                 |
+| :------------------- | :-------------------------------------------------------------------------------------------------------------------- |
+| Könnyű       (6)     | Felmászni a magas tölgyfára,<br />Kötélen mászni (plusz súllyal, illetve lengő kötélen nehezebb! Lásd a módosítóknál) |
+| Átlagos      (9)     | Felmászni a fogadó tetejére. ⭕Félig kikötve, félseggel ülve pihenni.⭕                                                 |
+| Nehéz        (12)    | Repedéses kőfalon felmászni, omladékos, nagyon meredek leejtőn feljutni.                                              |
+| Nagyon nehéz (15)    | Függőleges – nem repedéses – téglafalon felmászni, visszahajlásokkal tagolt meredek sziklafalon felmászni.            |
+| Rendkívül nehéz (18) | Gleccserszakadékból puszta kézzel kimászni.                                                                           |
+| Emberfeletti (21)    | ⭕Olajjal leöntött visszahajló acélfalon felmászni.⭕                                                                   |
 
 <br />
 
