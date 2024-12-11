@@ -2,6 +2,10 @@
 
 Épületek statikai ismerete, építésének módja, építészet korszakai, stílusainak ismerete.
 
+### Kapcsolódó fortély
+
+- [Mechanika](mechanika.md)
+
 ### Kiterjeszti ezeket
 
 - [Nyomozás](../kepzettsegek.primer.altalanos/nyomozas.md): "Az a fal sokkal vastagabb, mint a másik!"
