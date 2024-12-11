@@ -5,10 +5,7 @@
 Játék során vannak klasszikus, gyakran előforduló **szituációk**, amelyekkel újra és újra találkoznak a játékosok. Egyfajta sorvezetést nyúltani: milyen próbák, ellenpróbák szükségesek ezek során a résztvevő felek oldaláról - milyen képzettségek, fortélyok vesznek részt ilyen esetekben.
 
 - [Ajtóstul nekirontani az túloldalról benyitó ellenfélnek](szituaciok/ajtostul_tamadni.md)
-- [Befolyásolás módszerei](szituaciok/befolyasolas_modszerei.md)
-  - Megfélemlítés
-  - Csábítás
-  - Átverés, hazudozás
+- [Befolyásolás módszerei: Megfélemlítés, Csábítás, Átverés, hazudozás](szituaciok/befolyasolas_modszerei.md)
 - [Érzékelés, Aktív/Passzív Harci Észlelés, Áldozat mögé lopakodás](szituaciok/erzekeles_harci_eszleles_aktiv_passziv.md)
 - [Harcolót hátbaszúrni](szituaciok/harcolot_hatbaszurni.md)
 - [Információszerzés valakitől](szituaciok/informacioszerzes_valakitol.md)
