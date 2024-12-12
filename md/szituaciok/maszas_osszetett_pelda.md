@@ -12,6 +12,8 @@ Erő: +2
 Önuralom: +1
 ```
 
+### ⚙️ Kezdés
+
 A mászás elején Tetves [Mászás](../kepzettsegek.szekunder/maszas.md) képzettségpróbát dob. A terep `Nehézség: 15` (nagyon nehéz).
 
 A táv miatt a KM [összetett képzettségróbát](../036_kepzettsegproba.md#%C3%B6sszetett-k%C3%A9pzetts%C3%A9gpr%C3%B3ba-m%C3%A1sodlagos-pr%C3%B3badob%C3%A1sok) ír elő `+1 db` próbával, így Tetvesnek egy `15`-ös és egy `12`-es próbát kell dobnia.
@@ -29,48 +31,41 @@ A lépést elérte, de nem bírja már a testsúlyát rendesen áthelyezni, a vi
 
 🔆 "...annnyád!!!!! ANYÁD!!!!! úúú, baszki, mostmiafaszlegyenmiafaszlegyen..."
 
-🎲 Önuralom próba: `1+k6 vs 5 (Nehéz)   →` sikeres ✅\
-🎲 Edzettség próba: `3+k6 vs 5 (Nehéz)   →` rontott ⛔
+### ⚙️ Rontott próba után
+
+🎲 Önuralom próba pánik ellen: `1+k6 vs 5 (Nehéz)   →` sikeres ✅
 
 🔆 "Ááá, nem bírom sokáig, gyerünk baszki!"
 
-⚙️ `+2`-es **Erő** bevetése: az aktuális mászás során a játékos elhasználhat pontokat karaktere `Erő` Tulajdonságából (maximum `0` értékre mehet le), amiből utána percenként `1` pont tér vissza (bővebben lásd a [Mászás képzettség leírását](../kepzettsegek.szekunder/maszas.md)). Tetves felhasználja mind a két pontját.
+⚙️ `+2`-es **Erő** bevetése: az aktuális mászás során a játékos elhasználhat pontokat karaktere `Erő` Tulajdonságából (maximum `0` értékre mehet le), amiből utána percenként `1` pont tér vissza (bővebben lásd a [Mászás képzettség leírását](../kepzettsegek.szekunder/maszas.md#er%C5%91-bevet%C3%A9se-rontott-m%C3%A1sz%C3%A1s-ut%C3%A1ni-ment%C5%91-k%C3%A9pzetts%C3%A9gpr%C3%B3ba-dob%C3%A1sn%C3%A1l)). Tetves felhasználja mind a két **Erő** pontját.
 
-⚙️ Mászás képzettségpróba: fel tudja -e húzni magát a kitett helyzetből - erőtartalékai bevetésével (nagyon nehéz próba: `15`)?
+⚙️ Mászás képzettségpróba: fel tudja -e húzni magát a kitett helyzetből - erőtartalékai bevetésével?\
+⚙️ A Nehézség `+3` az eredetihez képesz, így `15+3 = 18`, azaz Rendkívül nehéz próba
 
 `Mászás(7)+Ügyesség(3)+Erő(2) = 12 + k10`
 
-🎲 `3` → `15  vs  15` → épphogy megvan ✅
+🎲 `6` → `18  vs  18` → épphogy megvan ✅
  
 ⚙️ Tetves `Erő` Tulajdonsága az aktuális mászás idejére `0` értékre csökkent.
 
 🔆 "Áááá, kurvák vérit!!"
 
-Tetves minden erejét bevetve felgyűrte magát a `11 cm` széles kiszögellésre. Ott elfér kb félseggel. Minden tagja remeg az igénybevételtől, mielőtt teljesen elhagyná magát...
+Tetves minden erejét bevetve felgyűrte magát a `11 cm` széles kiszögellésre. Ott elfér kb félseggel. Minden tagja remeg az igénybevételtől, mielőtt teljesen elhagyná magát még egy repedésbe tesz egy mászóéket amihez kiköti magát. Nem tartaná meg, de a `11 cm`-es peremmel együtt már jó, nem kell annyit kapaszkodni.
 
-⚙️ Újabb **Edzettség** Tulajdonságpróba, hogy meg tudja -e tartani magát tartósan. Nehézség: `6` (Nagyon Nehéz)
+### ⚙️[Megállás és pihenés a falon rontás után](../kepzettsegek.szekunder/maszas.md#meg%C3%A1ll%C3%A1s-%C3%A9s-pihen%C3%A9s-a-falon-ront%C3%A1s-ut%C3%A1n)
 
-... még egy repedésbe tesz egy mászóéket amihez kiköti magát. Nem tartaná meg, de a `11 cm`-es peremmel együtt már jó, nem kell annyit kapaszkodni.
+Ez **2 biztos tudást** igényel, hogy meg tudja -e tartani magát tartósan. Ebben segíti a **perem** és az **ék**.
 
-⚙️ Ék: `+2` bónusz **Edzettség** Tulajdonságpróbára ILYEN szituációban
+1️⃣ **Edzettség** Tulajdonságpróba - Könnyű (`3`) → megvan biztos tudásból ✅
+- Ék: `-2` Nehézség
+- Perem: `-1` Nehézség
+- Nagyon Nehéz (`6`) helyett `3` lett a Nehézség
 
-⚙️ Perem:
-- `+1` **Edzettség** bónusz Tulajdonságpróbára
-- Mászás képzettségpróbára: `Nehézség: -6`.  Könnyebb biztosítás. Sokkal könnyebb lesz elrugaszkodni is.
+2️⃣ **Mászás** képzettségpróba - Átlagos (`9`) → megvan biztos tudásból ✅
+- Ék: `-6` Nehézség
+- Perem: `-3` Nehézség
+- Nagyon Nehéz (`18`) helyett `9` lett a Nehézség.  Könnyebb biztosítás. Sokkal könnyebb lesz elrugaszkodni is.
 
-🎲 Edzettség Tulajdonságpróba:
+Az ék és a perem együtt ad annyit ami már rég biztos tudásból megvan, lehet pihenni, 2 perc múlva visszatér az eredeti **Erő** Tulajdonság értéke (`+2`).
 
-```
- 3 (Edzettség)
-+2 (ék bónusz)
-+1 (perem bónusz)
-+k6
-
-vs 6 (Nagyon Nehéz)
-```
-
-→ megvan biztos tudásból ✅
-
-A kettő együtt ad annyit ami már rég biztos tudásból megvan, lehet pihenni, egy idő múlva visszatér az eredeti **Erő** Tulajdonság értéke.
-
-⚙️ Ha egy nem képzett mászót tesznek ugyanide, annak nem lesz meg a biztos tudása a pihenéshez, tehát nem tudja visszanyerni az **Erő** Tulajdonságát sem.
+⚙️ Ha egy nem képzett mászót tesznek ugyanide, annak nem lesz meg a biztos tudása a pihenéshez, és azon túl, hogy nem tudja visszanyerni az **Erő** Tulajdonságát sem, jó eséllyel leesik.

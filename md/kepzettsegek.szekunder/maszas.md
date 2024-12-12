@@ -74,7 +74,7 @@ Titkos, félmágikus ismeret.
 <br />
 
 ---
-### Hosszabb út
+### Hosszabb mászandó út
 
 Ilyen esetben [Összetett képzettségpróba](../036_kepzettsegproba.md#%C3%B6sszetett-k%C3%A9pzetts%C3%A9gpr%C3%B3ba-m%C3%A1sodlagos-pr%C3%B3badob%C3%A1sok) dobást kell végezni (Edzettség Tulajdonsággal).
 
