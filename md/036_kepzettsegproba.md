@@ -85,28 +85,29 @@ Ha a karakternek egy olyan összetett feladatot kell elvégeznie, ami nem intéz
 - Hogy a másodlagos dobásból hány kell, az főleg attól függ, hogy a feladat „milyen hosszú", mennyire „többlépcsős".
 - Ha nagyon finom bontást akarunk, akkor `akár 2 fokozattal` (-6  célszám) alacsonyabb nehézségre is dobathatunk akár így is: Nagyon nehéz (1db), Nehéz(1db), Átlagos (1db).
 
-#### ⚡Példa: Megmászni egy 200 méter magas, omladékos hegyet
+### ⚡Példa: Megmászni egy 200 méter magas, omladékos hegyet
 
 **Tetves**, a tolvaj 
 - `Mászás képzettsége: 7`
 - `Ügyessége: +2`
 - így `8+2=9`-re dob majd rá `k10`-el.
 
-A próba „Nagyon nehéz" (`Célszám: 15`)
+⚙️ A próba „Nagyon nehéz" (`Célszám: 15`)
 
-Mivel az út hosszú, nem intézhető el a dolog 1db dobással, a KM `2db Másodlagos próbát` ír elő.
+⚙️ Mivel az út hosszú, nem intézhető el a dolog `1 db` dobással, a KM `2 db Másodlagos próbát` ír elő.
 
-Ekkor a próbák célszámai: `15`, `12`, `12` (azaz `50%`, `80%` és `80%` esély a sikerre).
+⚙️ Ekkor a próbák célszámai: `15`, `12`, `12` (azaz `50%`, `80%` és `80%` esély a sikerre).
 
-Ezzel kb. `30%`-a van a teljes feladat sikerére (`0.5 x 0.8 x 0.8`). Látható, hogy az összetettebb feladatok nagyobb fokú biztos tudást igényelnek.
+⚙️ Ezzel kb. `30%`-a van a teljes feladat sikerére (`0.5 x 0.8 x 0.8`). Látható, hogy az összetettebb feladatok nagyobb fokú biztos tudást igényelnek.
 
 Tehát a próbák:
+
 ```
 - 1x Nagyon nehéz (15)
 - 2x Nehéz        (12)
 ```
 
-⭕ **TODO**: Kidolgozni további példákat⭕
+Hasonló szituáció: [Mászás képzettségpróbára összetett példa](szituaciok/maszas_osszetett_pelda.md)
 
 ---
 ### Összhangok
