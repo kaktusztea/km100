@@ -24,4 +24,4 @@ Gyorsabban tudsz keresni, kutatni egy helyiségben.
 ---
 ### Megjegyzés
 
-Ahhoz, hogy keresést végezz, követelmény a [Keresés/Nyomolvasás](kereses.md) fortély.
+Ahhoz, hogy keresést végezz, követelmény a [Keresés](kereses.md) fortély.
