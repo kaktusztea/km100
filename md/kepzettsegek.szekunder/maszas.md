@@ -1,7 +1,5 @@
 ## 🔵 Mászás
 
-⭕[Mászás nyitott problémái](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.kepzettsegek#m%C3%A1sz%C3%A1s-k%C3%A9pzetts%C3%A9g)
-
 Sokszor fordul elő, hogy fel kell jutni olyan helyekre, ahova egy átlagember nem képes. Ebben segít a Mászás képzettség. Magas szintű alkalmazói jellemzően egyes tolvaj- és fejvadászklánok elit tagjai.
 
 **Próba**: dobható
@@ -28,13 +26,13 @@ Sokszor fordul elő, hogy fel kell jutni olyan helyekre, ahova egy átlagember n
 
 Ha a terep (próba) nehézsége nem nagyobb a a Mászás képzettségnél, akkor azon a terepen a mászó bárhol képes megállva kipihenni magát.
 
-| Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub>                                                                                                                                                                                                                                                            |                                       Követelmény                                        |
-| :--------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------: |
-| Novícius (3)     | Tudja melyik fa bírja el a súlyát és melyik nem.<br />**Példa**: Erdőszerető gyerek, aki felmászik minden fára.                                                                                                                                                                                                                               |                                Erő:`-1`<br />Ügyesség:`0`                                |
-| Kismester (6)    | • Ismeri az alapvető mászási technikákat, pár hasznos csomót.<br />• **Példa**: Gyakorlott mászó, rendszeres kiránduló<br />Tanulható:  [Pók](../fortelyok.altalanos/pok.md) fortély                                                                                                                                                          |                               Erő:`-1`<br />Ügyesség:`+1`                                |
-| Mester (9)       | • Ismeri az összes mászási technikát és faltípust, mászáshoz szükséges csomókat. Jó látási viszonyok közt ránézésre nagyjából meg tudja mondani, mennyire omladékos a terep. Tudja milyen testhelyzetben pihenjen kapaszkodás közben.<br />• **Példa**: Képzett hegymászó, profi besurranó tolvaj                                             |                      Erő:`-2`<br />Ügyesség:`+2`<br />Önuralom:`+1`                      |
-| Nagymester (12)  | • A fentieken kívül képes úgy tartalékolni az erejét, hogy hosszabb távon se fárad ki. Akár ⭕fél óráig⭕ is tartja magát puszta kézzel.<br />• **Példa**: Neves mestergyilkos, behatoló egység vezető fejvadásza                                                                                                                               | Erő:`-2`<br />Ügyesség:`+3`<br />Önuralom:&nbsp;`+2`<br />Összpontosítás:&nbsp;`3.szint` |
-| Élő legenda (15) | • Ilyen nincs!! A puszta, csúszós sziklafalon is felkúszik. Kézfeje, lába deformálódott – alkalmazkodva a mászás követelményeihez. Félmágikus hatású ismeretekhez jut.<br />• Függeszkedve ⭕1 órát⭕ is kibír!<br />• **Példa**: mágiával kondicionált elit birodalmi fejvadász<br />• Képzettség bónusz: [Tapadás](#b%C3%B3nusz-tapad%C3%A1s) |      Erő:`-2`<br />Ügyesség:`+4`<br />Önuralom:`+3`<br />Összpontosítás: `6.szint`       |
+| Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub>                                                                                                                                                                                                                                                          |                                       Követelmény                                        |
+| :--------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------: |
+| Novícius (3)     | Tudja melyik fa bírja el a súlyát és melyik nem.<br />**Példa**: Erdőszerető gyerek, aki felmászik minden fára.                                                                                                                                                                                                                             |                                Erő:`-1`<br />Ügyesség:`0`                                |
+| Kismester (6)    | • Ismeri az alapvető mászási technikákat, pár hasznos csomót.<br />• **Példa**: Gyakorlott mászó, rendszeres kiránduló<br />Tanulható:  [Pók](../fortelyok.altalanos/pok.md) fortély                                                                                                                                                        |                               Erő:`-1`<br />Ügyesség:`+1`                                |
+| Mester (9)       | • Ismeri az összes mászási technikát és faltípust, mászáshoz szükséges csomókat. Jó látási viszonyok közt ránézésre nagyjából meg tudja mondani, mennyire omladékos a terep. Tudja milyen testhelyzetben pihenjen kapaszkodás közben.<br />• **Példa**: Képzett hegymászó, profi besurranó tolvaj                                           |                      Erő:`-2`<br />Ügyesség:`+2`<br />Önuralom:`+1`                      |
+| Nagymester (12)  | • A fentieken kívül képes úgy tartalékolni az erejét, hogy hosszabb távon se fárad ki. Akár egy órát is tartja magát puszta kézzel.<br />• **Példa**: Neves mestergyilkos, behatoló egység vezető fejvadásza                                                                                                                                | Erő:`-2`<br />Ügyesség:`+3`<br />Önuralom:&nbsp;`+2`<br />Összpontosítás:&nbsp;`3.szint` |
+| Élő legenda (15) | • Ilyen nincs!! A puszta, csúszós sziklafalon is felkúszik. Kézfeje, lába deformálódott – alkalmazkodva a mászás követelményeihez. Félmágikus hatású ismeretekhez jut.<br />• Függeszkedve órákat is kibír!<br />• **Példa**: mágiával kondicionált elit birodalmi fejvadász<br />• Képzettség bónusz: [Tapadás](#b%C3%B3nusz-tapad%C3%A1s) |      Erő:`-2`<br />Ügyesség:`+4`<br />Önuralom:`+3`<br />Összpontosítás: `6.szint`       |
 
 <br />
 
@@ -53,7 +51,7 @@ Titkos, félmágikus ismeret.
 | Célszám              | Példa                                                                                                                 |
 | :------------------- | :-------------------------------------------------------------------------------------------------------------------- |
 | Könnyű       (6)     | Felmászni a magas tölgyfára,<br />Kötélen mászni (plusz súllyal, illetve lengő kötélen nehezebb! Lásd a módosítóknál) |
-| Átlagos      (9)     | Felmászni a fogadó tetejére. ⭕Félig kikötve, félseggel ülve pihenni.⭕                                                 |
+| Átlagos      (9)     | Felmászni a fogadó tetejére. Félig kikötve, félseggel ülve pihenni egy peremen.                                       |
 | Nehéz        (12)    | Repedéses kőfalon felmászni, omladékos, nagyon meredek leejtőn feljutni.                                              |
 | Nagyon nehéz (15)    | Függőleges – nem repedéses – téglafalon felmászni, visszahajlásokkal tagolt meredek sziklafalon felmászni.            |
 | Rendkívül nehéz (18) | Gleccserszakadékból puszta kézzel kimászni.                                                                           |
@@ -70,7 +68,7 @@ Titkos, félmágikus ismeret.
 - Plusz súllyal mászni: Erőtől függ, a KM dönt. Keretek: `+[1;6]` ; Erőpróba kellhet
 - Lengő kötélen mászni: `+[1;6]`
 - Sérülten mászni: Lásd a [Sérülés hatása képzettségpróbára](../036_kepzettsegproba.md#sérülés-hatása-képzettségpróbára) c. fejezetet!
-- Mászókampók: ⭕?????  ez adjon pluszt, vagy legyen követelmény a durvább próbákhoz? Ha pluszt ad, az borítja a próbák „behangolt” értékeit.⭕
+- Mászókampók: ⭕
 
 <br />
 
@@ -117,9 +115,9 @@ A Nehézség a körülményektől függ, de jellemzően alacsonyabb, mint az ere
 ---
 ### Leesés szituáció
 
-Van, hogy semmi nem segít és hősünk lehullik a magasból. Ilyenkor esés képzettségpróba jön, amelyet **Akrobatika** képzettséggel dobunk, Ügyesség, vagy Edzettség Tulajdonsággal.
+Van, hogy semmi nem segít és hősünk lehullik a magasból.
 
-⭕[TODO: Akrobatika próba Nehézség](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.kepzettsegek#lees%C3%A9s-szitu%C3%A1ci%C3%B3-akrobatika-pr%C3%B3ba)
+Lásd: [Esés magasból](../szituaciok/eses_magasbol.md) szituáció.
 
 ---
 ### Pánik, Önuralom próba
