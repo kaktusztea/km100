@@ -1,6 +1,6 @@
 ## 🟣 Történelemismeret (2)
 
-Magába foglalja a legendák ismeretét is és az ősi kultúrák ismeretét is. A Történelemismeret alapvetően az emberi történelem írott részét jelenti (magyarán azt, amiről van elég írott forrás, ezek hozzáférhetőek és jórészt földolgozottak). Minden más az ⭕Ősi Kultúrák ismeretébe⭕ (Ősi nyelv ismerete??)⭕ tartozik.
+Magába foglalja a múlt, a legendák és az ⭕ősi kultúrák ismeretét is⭕. A Történelemismeret alapvetően az emberi történelem írott részét jelenti (magyarán azt, amiről van elég írott forrás, ezek hozzáférhetőek és jórészt földolgozottak). Minden más az ⭕Ősi Kultúrák ismeretébe⭕ (Ősi nyelv ismerete??)⭕ tartozik.
 
 A [Lexikum](../kepzettsegek.szekunder/lexikum.md) képzettség alacsonyabb szintjein a hetedkori Yn3v általános történelmét ismered, magasabb szinten fellebbennek a titkok a régebbi korok titkairól is.
 
