@@ -37,15 +37,6 @@ Ha a terep (próba) nehézsége nem nagyobb a a Mászás képzettségnél, akkor
 <br />
 
 ---
-### Bónusz: Tapadás
-
-Titkos, félmágikus ismeret.
-
-**Követelmény**: Mászás - `15.szint`, Életed a mászás
-
-`15.szint`: Képes vagy pókként megtapadni a falon – akár a mennyezeten is. A kapaszkodáshoz nincs szükséged kiszögelésre.
-
----
 ### Próbák
 
 | Célszám                | Példa                                                                                                                 |
@@ -56,8 +47,6 @@ Titkos, félmágikus ismeret.
 | Nagyon nehéz `(15)`    | Függőleges – nem repedéses – téglafalon felmászni, visszahajlásokkal tagolt meredek sziklafalon felmászni.            |
 | Rendkívül nehéz `(18)` | Gleccserszakadékból puszta kézzel kimászni.                                                                           |
 | Emberfeletti `(21)`    | Visszahajló acélfalon felmászni.                                                                                      |
-
-<br />
 
 ---
 ### Célszámot módosító körülmények
@@ -126,6 +115,15 @@ Ha a próbát nagyon kiélezett, életveszélyes helyzetben rontja el a karakter
 
 Hogy egy karakter hányas `Erő` tulajdonsággal képes még továbbmászni, az főleg a testsúlyától, kisebb részben pedig pszichikai állapotától függ. A fenti probléma eldöntése a KM feladata.
 
-<br />
+
 
 ---
+### Bónusz: Tapadás
+
+Titkos, félmágikus ismeret.
+
+**Követelmény**: Mászás - `15.szint`, Életed a mászás
+
+`15.szint`: Képes vagy pókként megtapadni a falon – akár a mennyezeten is. A kapaszkodáshoz nincs szükséged kiszögelésre.
+
+<br />
