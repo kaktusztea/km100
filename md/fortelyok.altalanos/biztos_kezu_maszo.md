@@ -1,8 +1,6 @@
 ## 🟣 Biztos kezű mászó (1)
 
-⭕ TODO: Leírni ⭕
-
-⭕A leeséstől való rontásoktól véd. Bár az Erő és Edzettség bevetése ezt megoldja, szóval talán nem kell.⭕
+Ritkán csúszik meg a kezed.
 
 ### 1. fok
 
@@ -10,8 +8,7 @@
 - Ügyesség: `+1`
 - [Mászás](../kepzettsegek.szekunder/maszas.md) - `6.szint`
 
-🌟 **Hatás**:
-- ⭕Kifejteni.⭕
+🌟 **Hatás**: A Mászás képzettségpróba rontása után a megkapaszkodás során kapott ⭕link⭕ Nehézség büntetés rád nem vonatkozik.
 
 <br />
 

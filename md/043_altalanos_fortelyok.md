@@ -18,7 +18,7 @@ Az Érzék-, Alvilági és fizikai-, Tudományos- és Szociális fortélyok tart
 
 <!-- tag: alvilagi__fizikai__fortely -->
 
-- [Biztos kezű mászó](fortelyok.altalanos/biztos_kezu_maszo.md) 🔺
+- [Biztos kezű mászó](fortelyok.altalanos/biztos_kezu_maszo.md)
 - [Csomózás](fortelyok.altalanos/csomozas.md)
 - [Éber alvó](fortelyok.altalanos/eber_alvo.md)
 - [Fakír](fortelyok.altalanos/fakir.md)
@@ -32,7 +32,7 @@ Az Érzék-, Alvilági és fizikai-, Tudományos- és Szociális fortélyok tart
 - [Kocsihajtás](fortelyok.altalanos/kocsihajtas.md)
 - [Kötelékből szabadulás](fortelyok.altalanos/kotelekbol_szabadulas.md)
 - [Nyomolvasás](fortelyok.altalanos/nyomolvasas.md)
-- [Pók](fortelyok.altalanos/pok.md) 🔺
+- [Pók](fortelyok.altalanos/pok.md)
 - [Sprint](fortelyok.altalanos/sprint.md)
 - [Suhanó árnyék](fortelyok.altalanos/suhano_arnyek.md) 🔺
 - [Szabotőr](fortelyok.altalanos/szabotor.md)
