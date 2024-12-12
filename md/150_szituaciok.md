@@ -8,7 +8,7 @@ Játék során vannak klasszikus, gyakran előforduló **szituációk**, amelyek
 - [Befolyásolás módszerei: Megfélemlítés, Csábítás, Átverés, hazudozás](szituaciok/befolyasolas_modszerei.md)
 - [Érzékelés, Aktív/Passzív Harci Észlelés, Áldozat mögé lopakodás](szituaciok/erzekeles_harci_eszleles_aktiv_passziv.md)
 - [Esés magasból](szituaciok/eses_magasbol.md)
-- [Harcolót hátbaszúrni](szituaciok/harcolot_hatbaszurni.md)
+- [Hátbaszúrni harcolót](szituaciok/hatbaszurni_harcolot.md)
 - [Információszerzés valakitől](szituaciok/informacioszerzes_valakitol.md)
 - [Ismerem ezt a nevet? Mit tudhatok róla?](szituaciok/ismerem_mit_tudhatok_rola.md)
 - [Ki mozdul elsőnek?](szituaciok/ki_mozdul_elsonek.md)
