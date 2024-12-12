@@ -1,5 +1,7 @@
 ## 🟣 Szájról olvasás (1)
 
+"Azt mondja neki, végezzenek velünk..!"
+
 ### 1. fok
 
 🔒 **Követelmény**:
