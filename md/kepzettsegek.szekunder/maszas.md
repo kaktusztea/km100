@@ -2,18 +2,20 @@
 
 ⭕[Mászás nyitott problémái](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.kepzettsegek#m%C3%A1sz%C3%A1s-k%C3%A9pzetts%C3%A9g)
 
+Sokszor fordul elő, hogy fel kell jutni olyan helyekre, ahova egy átlagember nem képes. Ebben segít a Mászás képzettség. Magas szintű alkalmazói jellemzően egyes tolvaj- és fejvadászklánok elit tagjai.
+
 **Próba**: dobható
 
-**Domináns Tulajdonságok**: Ügyesség, Edzettség (a mászáshoz), Önuralom (rontott próbánál), Erő (erőtartalék kritikus helyzetben), Intelligencia (felmérni a mászandó terepet, helyeket)
+**Domináns Tulajdonságok**:
+- Ügyesség, Edzettség (a mászáshoz): technikás, rövid úthoz az Ügyesség, hosszabb úthoz az Edzettség a javasolt
+- Önuralom (rontott próbánál)
+- Erő (erőtartalék kritikus helyzetben)
+- Intelligencia (felmérni a mászandó terepet, helyeket)
 
 ### Kapcsolódik
 
 - [Biztos kezű mászó](../fortelyok.altalanos/biztos_kezu_maszo.md) fortély
 - [Pók](../fortelyok.altalanos/pok.md) fortély
-
-### Leírás
-
-Sokszor fordul elő, hogy fel kell jutni olyan helyekre, ahova egy átlagember nem képes. Ebben segít a Mászás képzettség. Magas szintű alkalmazói jellemzően egyes tolvaj- és fejvadászklánok elit tagjai.
 
 ### Szituációk
 
@@ -32,7 +34,6 @@ Ha a terep (próba) nehézsége nem nagyobb a a Mászás képzettségnél, akkor
 | Mester (9)       | • Ismeri az összes mászási technikát és faltípust, mászáshoz szükséges csomókat. Jó látási viszonyok közt ránézésre nagyjából meg tudja mondani, mennyire omladékos a terep. Tudja milyen testhelyzetben pihenjen kapaszkodás közben.<br />• **Példa**: Képzett hegymászó, profi besurranó tolvaj                                             |                      Erő:`-2`<br />Ügyesség:`+2`<br />Önuralom:`+1`                      |
 | Nagymester (12)  | • A fentieken kívül képes úgy tartalékolni az erejét, hogy hosszabb távon se fárad ki. Akár ⭕fél óráig⭕ is tartja magát puszta kézzel.<br />• **Példa**: Neves mestergyilkos, behatoló egység vezető fejvadásza                                                                                                                               | Erő:`-2`<br />Ügyesség:`+3`<br />Önuralom:&nbsp;`+2`<br />Összpontosítás:&nbsp;`3.szint` |
 | Élő legenda (15) | • Ilyen nincs!! A puszta, csúszós sziklafalon is felkúszik. Kézfeje, lába deformálódott – alkalmazkodva a mászás követelményeihez. Félmágikus hatású ismeretekhez jut.<br />• Függeszkedve ⭕1 órát⭕ is kibír!<br />• **Példa**: mágiával kondicionált elit birodalmi fejvadász<br />• Képzettség bónusz: [Tapadás](#b%C3%B3nusz-tapad%C3%A1s) |      Erő:`-2`<br />Ügyesség:`+4`<br />Önuralom:`+3`<br />Összpontosítás: `6.szint`       |
-|                  |                                                                                                                                                                                                                                                                                                                                               |                                                                                          |
 
 <br />
 
@@ -41,7 +42,7 @@ Ha a terep (próba) nehézsége nem nagyobb a a Mászás képzettségnél, akkor
 
 Titkos, félmágikus ismeret.
 
-**Követelmény**: Életed a mászás; Mászás - `15.szint`
+**Követelmény**: Mászás - `15.szint`, Életed a mászás
 
 `15.szint`: Képes vagy pókként megtapadni a falon – akár a mennyezeten is. A kapaszkodáshoz nincs szükséged kiszögelésre.
 
@@ -55,13 +56,14 @@ Titkos, félmágikus ismeret.
 | Nehéz        (12)    | Repedéses kőfalon felmászni, omladékos, nagyon meredek leejtőn feljutni.                                              |
 | Nagyon nehéz (15)    | Függőleges – nem repedéses – téglafalon felmászni, visszahajlásokkal tagolt meredek sziklafalon felmászni.            |
 | Rendkívül nehéz (18) | Gleccserszakadékból puszta kézzel kimászni.                                                                           |
-| Emberfeletti (21)    | ⭕Olajjal leöntött visszahajló acélfalon felmászni.⭕                                                                   |
+| Emberfeletti (21)    | Visszahajló acélfalon felmászni.                                                                                      |
 
 <br />
 
 ---
 ### Célszámot módosító körülmények
 
+- Rontott próba utáni Mentő képzettségpróba: `+3`
 - Gyorsan mászni: `+3`
 - Sötétben mászni: `+[3;6]`
 - Plusz súllyal mászni: Erőtől függ, a KM dönt. Keretek: `+[1;6]` ; Erőpróba kellhet
@@ -71,17 +73,57 @@ Titkos, félmágikus ismeret.
 
 <br />
 
-### Edzettség és Erő
+---
+### Hosszabb út
 
-Rontott Mászás próba esetén dobható – a rontás mértékétől függő – Edzettségpróba (`1 pont rontás: Könnyű próba`, `2 pont rontás: Átlagos próba`, stb), hogy a kritikus (rontott) szituációban képes -e megtartani magát a mászó. Ha nem, lehullik, mint a falevél, ha igen, sikerül megkapaszkodnia egy stabil pozícióban. Az Edzettségpróbára „rátehet” a karakter az `Erő` tulajdonságából, kvázi erőtartalékait felemésztve. Ennek viszont ára van: az így átcsoportosított Erő pontok elvesznek, és óránként csak `1` tér vissza (⭕vagy esetleg inkább 10 percenként 1⭕).
+Ilyen esetben [Összetett képzettségpróba](../036_kepzettsegproba.md#%C3%B6sszetett-k%C3%A9pzetts%C3%A9gpr%C3%B3ba-m%C3%A1sodlagos-pr%C3%B3badob%C3%A1sok) dobást kell végezni (Edzettség Tulajdonsággal).
 
-⭕Kérdés: ha csak meg akarja így tartani magát, azt mennyi ideig tudja megtenni?⭕
+---
+### Rontott mászás próba után: Mentő képzettségpróba
 
-<br />
+Kiemelt szituáció a mászás próba rontása, hiszen itt sokszor élet-halál szituációban van a karakter - adnunk kell számára esélyt, hogy hibájából kikeveredjen. Ilyenkor azonnal egy új - soron kívüli - Mászás képzettségpróbát (sima, nem összetett) kell dobni **Edzettség** Tulajdonsággal és emelt Nehézséggel:
 
-### Önuralom
+Mentő Mászás képzettségpróba dobás:
 
-Ha a próbát nagyon kiélezett, életveszélyes helyzetben rontja el a karakter, a KM dönthet úgy, hogy `Önuralom` próbát dobat. Ha ez nincs meg, akkor a KM-nek jogában áll, hogy tetszőlegesen nagy `Erő` tulajdonság tartalékot felhasználtasson a karakterrel (adrenalin hatása). Így jó eséllyel meg tud kapaszkodni, de minden erőtartalékát feléli, gyakorlatilag remegve a falhoz tapadva marad, további mászása erősen kérdéses, segítségre szorul.
+```
+Eredeti Nehézség +3
+```
+
+#### Erő bevetése rontott mászás utáni mentő képzettségpróba dobásnál
+
+```
++0 Erőig lehet lemenni
+Mentő Mászás dobásnál
+```
+
+Az **Erő** Tulajdonság bevethető rontás utáni  Mentő Mászás képzettségpróbánál. ilyenkor **Erő** Tulajdonságból pontokat tehetünk a próbába. Ennek hatására az **Erő** Tulajdonság - a költés mértékével - ideiglenesen lecsökken. Korlát: `+0` értékig csökkenthetjük így a Tulajdonságot.
+
+Az elköltött **Erő** pontok az aktuális mászó szituáció végéig nem térnek vissza. Pihenésben `1 pont / perc` tér vissza.
+
+### Megállás ÉS pihenés a falon rontás után
+
+Előfordul, hogy egy **rontott** Mászás képzettségpróba dobás után meg kell állni, pihenni a falon. 
+
+Ehhez 2 próbának kell meglennie **biztos tudásból**:
+- Edzettség tulajdonságpróba (a fenti körülményektől függ)
+- Mászás képzettségpróba  (a fenti körülményektől függ)
+
+A Nehézség a körülményektől függ, de jellemzően alacsonyabb, mint az eredeti próba. Az alábbi tényezők adhatnak bónuszt:
+- van -e kikötés valahova
+- van -e rendes biztosítás
+- van -e perem, amin ülni lehet
+
+---
+### Leesés szituáció
+
+Van, hogy semmi nem segít és hősünk lehullik a magasból. Ilyenkor esés képzettségpróba jön, amelyet **Akrobatika** képzettséggel dobunk, Ügyesség, vagy Edzettség Tulajdonsággal.
+
+⭕[TODO: Akrobatika próba Nehézség](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.kepzettsegek#lees%C3%A9s-szitu%C3%A1ci%C3%B3-akrobatika-pr%C3%B3ba)
+
+---
+### Pánik, Önuralom próba
+
+Ha a próbát nagyon kiélezett, életveszélyes helyzetben rontja el a karakter, a KM dönthet úgy, hogy `Önuralom` próbát dobat. Ha ez nincs meg, akkor a KM-nek jogában áll, hogy tetszőlegesen nagy `Erő` Tulajdonság tartalékot felhasználtasson a karakterrel (adrenalin hatása). Így jó eséllyel meg tud kapaszkodni, de minden erőtartalékát feléli, gyakorlatilag remegve a falhoz tapadva marad, további mászása erősen kérdéses, segítségre szorul.
 
 Hogy egy karakter hányas `Erő` tulajdonsággal képes még továbbmászni, az főleg a testsúlyától, kisebb részben pedig pszichikai állapotától függ. A fenti probléma eldöntése a KM feladata.
 
