@@ -6,7 +6,7 @@ Az Érzék-, Alvilági és fizikai-, Tudományos- és Szociális fortélyok tart
 
 <!-- tag: erzek__fortely -->
 
-- [Barlangi tájékozódás](fortelyok.erzekek/barlangi_tajekozodas.md) 🔺
+- [Barlangi tájékozódás](fortelyok.erzekek/barlangi_tajekozodas.md)
 - [Fejlett hallás](fortelyok.erzekek/fejlett_hallas.md)
 - [Fejlett látás](fortelyok.erzekek/fejlett_latas.md)
 - [Fejlett szaglás](fortelyok.erzekek/fejlett_szaglas.md) 🔺
