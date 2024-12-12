@@ -24,7 +24,7 @@ Az Érzék-, Alvilági és fizikai-, Tudományos- és Szociális fortélyok tart
 - [Fakír](fortelyok.altalanos/fakir.md)
 - [Futás](fortelyok.altalanos/futas.md)
 - [Gyöngyhalász](fortelyok.altalanos/gyongyhalasz.md) 🔺
-- [Hamisítás](fortelyok.altalanos/hamisitas.md) 🔺
+- [Hamisítás](fortelyok.altalanos/hamisitas.md)
 - [Hangutánzás](fortelyok.altalanos/hangutanzas.md)
 - [Kaméleon](fortelyok.altalanos/kameleon.md)
 - [Keresés](fortelyok.altalanos/kereses.md)
