@@ -8,7 +8,7 @@ A víz mélye a te közeged, ritkábban kell feljönnöd levegőért.
 - Úszás: `2.fok`
 - Edzettség: `+2`
 
-🌟 **Hatás**: Tovább bírja a víz alatt. ⭕Kifejteni.⭕
+🌟 **Hatás**: Egy átlagos, fitt fajtársához képest `2x` tovább bírja a víz alatt. Nem számszerűsítjük, a KM a szituáció heroikus voltát is számba véve dönthet, az időtartamról.
 
 <br />
 
