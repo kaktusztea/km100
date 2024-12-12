@@ -19,6 +19,7 @@ Sokszor fordul elő, hogy fel kell jutni olyan helyekre, ahova egy átlagember n
 
 ### Szituációk
 
+- [Esés magasból](../szituaciok/eses_magasbol.md)
 - [Mászás képzettségpróbára összetett példa](../szituaciok/maszas_osszetett_pelda.md)
 
 <br />
