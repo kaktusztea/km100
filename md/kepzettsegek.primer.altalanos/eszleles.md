@@ -55,5 +55,6 @@ Nincs kiemelt szinteken megkapott biztos tudás.
 
 ### Célszámot módosító körülmények
 
+- Gyorsan, nyomás alatt keresni: `+3`
 - Zavaró körülmények: `[+1;+6]`
 - Ha az észlelés aktív: `-3` (egy kategória)
