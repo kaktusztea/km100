@@ -62,7 +62,7 @@ Az Érzék-, Alvilági és fizikai-, Tudományos- és Szociális fortélyok tart
 
 - [Baráti állatok](fortelyok.altalanos/barati_allatok.md)
 - [Hidegvér](fortelyok.altalanos/hidegver.md) 🔺
-- [Tiszta fej](fortelyok.altalanos/tiszta_fej.md) 🔺
+- [Tiszta fej](fortelyok.altalanos/tiszta_fej.md)
 
 A fenti fortélyok köztes pontot foglalnak el a játékos saját alakítása és a szabályrendszer között. Talán meglepő lehetett, hogy a Szociális képzettségeknél egyedül az Etikett szerepelt, de nem véletlenül! Szeretnénk leszögezni, hogy a meggyőzés, megfélemlítés, befolyásolás, ingerlés, valamint a szónoki helyzetek mind a szóbeli játék részei, nem intézhetőek el sima kockadobással. Mikor egy karakter nem mágikus befolyással kíván élni egy másik karakterre, olyankor a KM – a játékos alakítását elbírálva (beleszámítva a karakter jellemrajzát is) – megállapít egy célszámot, ami ellen a befolyásolni kívánt személynek Emberismeret próbát kell dobnia. (Ettől a KM különösen jó előadás és/vagy tökhülye áldozat esetén, vagy mert úgy tartja kedve – eltekinthet).
 
