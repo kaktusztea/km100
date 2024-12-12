@@ -5,7 +5,7 @@ Gyorsabban tudsz lopózni.
 ### 1. fok
 
 🔒 **Követelmény**:
-- Lopózás/Rejtőzés - `6.szint`
+- [Lopakodás/rejtőzés](../kepzettsegek.primer.altalanos/lopakodas_rejtozes.md) - `6.szint`
 - Ügyesség: `+1`
 
 🌟 **Hatás**: ⭕Kifejteni.⭕
