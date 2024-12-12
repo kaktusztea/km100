@@ -36,7 +36,7 @@ Az Érzék-, Alvilági és fizikai-, Tudományos- és Szociális fortélyok tart
 - [Sprint](fortelyok.altalanos/sprint.md)
 - [Suhanó árnyék](fortelyok.altalanos/suhano_arnyek.md) 🔺
 - [Szabotőr](fortelyok.altalanos/szabotor.md)
-- [Szájról olvasás](fortelyok.altalanos/szajrol_olvasas.md) 🔺
+- [Szájról olvasás](fortelyok.altalanos/szajrol_olvasas.md)
 - [Százarcú](fortelyok.altalanos/szazarcu.md)
 - [Szerencsés](fortelyok.altalanos/szerencses.md)
 - [Úszás](fortelyok.altalanos/uszas.md)
