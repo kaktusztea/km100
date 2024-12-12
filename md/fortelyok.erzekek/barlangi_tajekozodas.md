@@ -8,7 +8,7 @@ Fajhoz felvehető Érzék-fortély.
 
 🔒 **Követelmény**: Kapcsolódó [Faj Háttér](../021_faj_hatterek.md)
 
-🌟 **Hatás**: Időérzék föld alatt is, milyen mélyen vagy, merre van észak. ⭕TODO⭕
+🌟 **Hatás**: Időérzék föld alatt is, milyen mélyen vagy, merre van észak.
 
  
 <br />
