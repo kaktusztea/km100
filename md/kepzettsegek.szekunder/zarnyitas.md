@@ -14,7 +14,7 @@
 
 ### Célszámot módosító tényezők
 
-Sietségben nyitás: `+3`
+Sietős nyitás: `+3`
 
 ### Megjegyzés
 
