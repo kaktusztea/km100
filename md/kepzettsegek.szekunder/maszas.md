@@ -4,7 +4,7 @@
 
 **Próba**: dobható
 
-**Domináns Tulajdonságok**: Ügyesség (a mászáshoz), Önuralom (rontott próbánál), Erő (erőtartalék kritikus helyzetben), Edzettség (rontáskor kitartani), Intelligencia (felmérni a mászandó terepet, helyeket)
+**Domináns Tulajdonságok**: Ügyesség, Edzettség (a mászáshoz), Önuralom (rontott próbánál), Erő (erőtartalék kritikus helyzetben), Intelligencia (felmérni a mászandó terepet, helyeket)
 
 ### Kapcsolódik
 
