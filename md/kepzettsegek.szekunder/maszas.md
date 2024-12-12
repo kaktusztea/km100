@@ -48,21 +48,21 @@ Titkos, félmágikus ismeret.
 ---
 ### Próbák
 
-| Célszám              | Példa                                                                                                                 |
-| :------------------- | :-------------------------------------------------------------------------------------------------------------------- |
-| Könnyű       (6)     | Felmászni a magas tölgyfára,<br />Kötélen mászni (plusz súllyal, illetve lengő kötélen nehezebb! Lásd a módosítóknál) |
-| Átlagos      (9)     | Felmászni a fogadó tetejére. Félig kikötve, félseggel ülve pihenni egy peremen.                                       |
-| Nehéz        (12)    | Repedéses kőfalon felmászni, omladékos, nagyon meredek leejtőn feljutni.                                              |
-| Nagyon nehéz (15)    | Függőleges – nem repedéses – téglafalon felmászni, visszahajlásokkal tagolt meredek sziklafalon felmászni.            |
-| Rendkívül nehéz (18) | Gleccserszakadékból puszta kézzel kimászni.                                                                           |
-| Emberfeletti (21)    | Visszahajló acélfalon felmászni.                                                                                      |
+| Célszám                | Példa                                                                                                                 |
+|:---------------------- |:--------------------------------------------------------------------------------------------------------------------- |
+| Könnyű `(6)`           | Felmászni a magas tölgyfára,<br />Kötélen mászni (plusz súllyal, illetve lengő kötélen nehezebb! Lásd a módosítóknál) |
+| Átlagos `(9)`          | Felmászni a fogadó tetejére. Félig kikötve, félseggel ülve pihenni egy peremen.                                       |
+| Nehéz `(12)`           | Repedéses kőfalon felmászni, omladékos, nagyon meredek leejtőn feljutni.                                              |
+| Nagyon nehéz `(15)`    | Függőleges – nem repedéses – téglafalon felmászni, visszahajlásokkal tagolt meredek sziklafalon felmászni.            |
+| Rendkívül nehéz `(18)` | Gleccserszakadékból puszta kézzel kimászni.                                                                           |
+| Emberfeletti `(21)`    | Visszahajló acélfalon felmászni.                                                                                      |
 
 <br />
 
 ---
 ### Célszámot módosító körülmények
 
-- Rontott próba utáni Mentő képzettségpróba: `+3`
+- Rontott próba utáni **Mentő** képzettségpróba: `+3`
 - Gyorsan mászni: `+3`
 - Sötétben mászni: `+[3;6]`
 - Plusz súllyal mászni: Erőtől függ, a KM dönt. Keretek: `+[1;6]` ; Erőpróba kellhet
