@@ -1,6 +1,6 @@
 ## Általános fortélyok
 
-Az Érzék-, Alvilági és fizikai-, Tudományos- és Szociális fortélyok tartoznak ide.
+Az Érzék-, Alvilági és fizikai-, Tudományos- és Befolyástól védő fortélyok tartoznak ide.
 
 ## Érzék fortélyok
 
