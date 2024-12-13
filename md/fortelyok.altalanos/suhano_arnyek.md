@@ -8,7 +8,7 @@ Gyorsabban tudsz lopózni.
 - [Lopakodás/rejtőzés](../kepzettsegek.primer.altalanos/lopakodas_rejtozes.md) - `6.szint`
 - Ügyesség: `+1`
 
-🌟 **Hatás**: ⭕Kifejteni.⭕
+🌟 **Hatás**: ⭕Kifejteni.⭕ A gyors lopakodás levonásai rád nem érvényesek.
 
 <br />
 
