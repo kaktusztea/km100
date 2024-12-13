@@ -19,6 +19,7 @@ Játék során vannak klasszikus, gyakran előforduló **szituációk**, amelyek
 - [Nyomok észrevétele, nyomkövetés - természetben](szituaciok/nyomok_nyomkovetes_termeszet.md)
 - [Nyomok észrevétele, nyomkövetés - városban](szituaciok/nyomok_nyomkovetes_varos.md)
 - [Térkép készítése](szituaciok/terkep_keszitese.md)
+- [Víz alatt bírni](szituaciok/viz_alatt_birni.md)
 
 ---
 
