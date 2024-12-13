@@ -2,6 +2,11 @@
 
 Nem csak rohangálsz, mint egy futóbolond, hanem kitartó, hosszas futás során is jól osztod be az erődet.
 
+### Kapcsolódik
+
+- [Kitartás](kitartas.md)
+- [Sprint](sprint.md)
+
 ### 1. fok
 
 🔒 **Követelmény**: Edzettség: `+1`

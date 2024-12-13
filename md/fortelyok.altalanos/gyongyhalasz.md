@@ -2,6 +2,10 @@
 
 A víz mélye a te közeged, ritkábban kell feljönnöd levegőért.
 
+### Kapcsolódik
+
+- [Úszás](uszas.md)
+
 ### Alapeset
 
 🔒 **Követelmény**:
