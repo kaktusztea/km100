@@ -34,11 +34,16 @@ Több fokú Fortélyoknál szintenként csak egy fokot lehet fejlődni akkor is,
 A fortélyoknak lehetnek **követelményei**:\
 Tulajdonságok elvárt értékei, képzettségek elvárt szintje, esetleg más fortélyok megléte, vagy valamilyen nem számszerűsíthető körülmény.
 
+<br />
+
 ---
 ## Jellemző hatás 1: Egyedi bónusz adása
 
 Az adott fortély leírásában található egyedi bónuszt szolgáltat.
 
+<br />
+
+---
 ## Jellemző hatás 2: Képzettség kiterjesztése, képzettség bónusz adása
 
 Erről a [Képzettségek és fortélyok kapcsolata](037_kepzettsegek_fortelyok_kapcsolata.md) fejezetben olvashatunk.
