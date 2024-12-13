@@ -2,13 +2,22 @@
 
 A víz mélye a te közeged, ritkábban kell feljönnöd levegőért.
 
+### Alapeset
+
+🔒 **Követelmény**:
+- Úszás: `1.fok`
+- Edzettség: `+0`
+
+🌟 **Hatás**: Ennyi ideig bírod a víz alatt: `1 + Edzettség perc`
+
+---
 ### 1. fok
 
 🔒 **Követelmény**:
 - Úszás: `2.fok`
 - Edzettség: `+2`
 
-🌟 **Hatás**: Egy átlagos, fitt fajtársához képest `2x` tovább bírja a víz alatt. Nem számszerűsítjük, a KM a szituáció heroikus voltát is számba véve dönthet, az időtartamról.
+🌟 **Hatás**: Ennyi ideig bírod a víz alatt: `1 + (2x Edzettség) perc`
 
 <br />
 

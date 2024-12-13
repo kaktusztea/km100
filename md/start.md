@@ -295,6 +295,7 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 - [Nyomok észrevétele, nyomkövetés - természetben](szituaciok/nyomok_nyomkovetes_termeszet.md)
 - [Nyomok észrevétele, nyomkövetés - városban](szituaciok/nyomok_nyomkovetes_varos.md)
 - [Térkép készítése](szituaciok/terkep_keszitese.md)
+- [Víz alatt bírni](szituaciok/viz_alatt_birni.md)
 
 ---
 ## [🚧 Fejlesztő portál 🚧](https://github.com/kaktusztea/km100/wiki)
