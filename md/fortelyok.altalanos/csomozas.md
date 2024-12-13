@@ -2,9 +2,13 @@
 
 A lenti két fortély egymással "szimbiózisban" létezik. Egy jól megkötött csomóból nehezebb szabadulni, egy képzett szabadulóművész trükkös csomókból is kibújik.
 
-Megkötözés/szabadulás szituációban (akár egymás távollétében):\
-⚪**Ügyesség ellenpróba**, melyhez 1.fokon `+2`, 2.fokon `+4` bónusz járul mindkét fortély esetén.
+Megkötözés/szabadulás szituációban (akár egymás távollétében) Ügyesség tulajdonság-ellenpróba dobandó. Mindkét fortély esetén az alábbi bónuszok járnak:
 
+```
+Ügyesség ellenpróba
+- 1.fok: +2
+- 2.fok: +4
+```
 
 ## 🟣 Csomózás (2)
 
@@ -25,7 +29,6 @@ Csomók ismerete.
 
 🌟 **Hatás**:
 - Ügyesség ellenpróbához: `+4` 
-
 
 <br />
 
@@ -51,6 +54,5 @@ Könnyebben kibújsz kötelékeidből.
 - Ügyesség ellenpróbához: `+4` 
 
 <br />
-
 
 ---
