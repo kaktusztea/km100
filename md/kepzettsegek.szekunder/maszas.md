@@ -40,8 +40,8 @@ Ha a terep (próba) nehézsége nem nagyobb a a Mászás képzettségnél, akkor
 ### Próbák
 
 | Célszám                | Példa                                                                                                                 |
-|:---------------------- |:--------------------------------------------------------------------------------------------------------------------- |
-| Könnyű `(6)`           | Felmászni a magas tölgyfára,<br />Kötélen mászni (plusz súllyal, illetve lengő kötélen nehezebb! Lásd a módosítóknál) |
+| :--------------------- | :-------------------------------------------------------------------------------------------------------------------- |
+| Könnyű `(6)`           | Felmászni a magas tölgyfára.<br />Kötélen mászni (plusz súllyal, illetve lengő kötélen nehezebb! Lásd a módosítóknál) |
 | Átlagos `(9)`          | Felmászni a fogadó tetejére. Félig kikötve, félseggel ülve pihenni egy peremen.                                       |
 | Nehéz `(12)`           | Repedéses kőfalon felmászni, omladékos, nagyon meredek leejtőn feljutni.                                              |
 | Nagyon nehéz `(15)`    | Függőleges – nem repedéses – téglafalon felmászni, visszahajlásokkal tagolt meredek sziklafalon felmászni.            |
@@ -57,7 +57,18 @@ Ha a terep (próba) nehézsége nem nagyobb a a Mászás képzettségnél, akkor
 - Plusz súllyal mászni: Erőtől függ, a KM dönt. Keretek: `+[1;6]` ; Erőpróba kellhet
 - Lengő kötélen mászni: `+[1;6]`
 - Sérülten mászni: Lásd a [Sérülés hatása képzettségpróbára](../036_kepzettsegproba.md#sérülés-hatása-képzettségpróbára) c. fejezetet!
-- Mászókampók: ⭕
+- Mászókampók: `-3` → csak ha a mászófelületbe könnyen rögzíthetőek.
+
+<br />
+
+---
+### Bónusz: Tapadás
+
+Titkos, félmágikus ismeret.
+
+**Követelmény**: Mászás - `15.szint`, Életed a mászás
+
+`15.szint`: Képes vagy pókként megtapadni a falon – akár a mennyezeten is. A kapaszkodáshoz nincs szükséged kiszögelésre.
 
 <br />
 
@@ -115,15 +126,4 @@ Ha a próbát nagyon kiélezett, életveszélyes helyzetben rontja el a karakter
 
 Hogy egy karakter hányas `Erő` tulajdonsággal képes még továbbmászni, az főleg a testsúlyától, kisebb részben pedig pszichikai állapotától függ. A fenti probléma eldöntése a KM feladata.
 
-
-
 ---
-### Bónusz: Tapadás
-
-Titkos, félmágikus ismeret.
-
-**Követelmény**: Mászás - `15.szint`, Életed a mászás
-
-`15.szint`: Képes vagy pókként megtapadni a falon – akár a mennyezeten is. A kapaszkodáshoz nincs szükséged kiszögelésre.
-
-<br />
