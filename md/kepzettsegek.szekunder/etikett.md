@@ -4,11 +4,6 @@
 
 **Domináns Tulajdonságok**: Érzékenység, Intelligencia, Önuralom, Emlékezet
 
-### Kapcsolódik
-
-- [Hidegvér](../fortelyok.altalanos/hidegver.md)
-- [Tiszta fej](../fortelyok.altalanos/tiszta_fej.md)
-
 ### Normál kiterjesztés
 
 - [Kultúrkör](../fortelyok.kiemelt/kulturkor.md): Nélküle általános etikett szabályokra és megérzéseidre támaszkodsz csak. Ha ismered, nincs gond.
