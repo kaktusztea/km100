@@ -2,6 +2,17 @@
 
 Ismered a betűvésés és olvasás udományát.
 
+### Kapcsolódó fortélyok
+
+- [Jogismeret](../fortelyok.szabad/jogismeret.md)
+- [Kalligráfia](../fortelyok.szabad/kalligrafia.md)
+- [Nyelvismeret](../fortelyok.kiemelt/nyelvismeret.md)
+
+### Kapcsolódó képzettségek
+
+- [Kvantikum](../kepzettsegek.szekunder/kvantikum.md)
+- [Lexikum](../kepzettsegek.szekunder/lexikum.md)
+
 ### 1. fok
 
 🔒 **Követelmény**: Nyelvismeret - Udvari szint

@@ -10,8 +10,8 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
 ### Kapcsolódik
 
-- [Villámgyors keresés](../fortelyok.altalanos/villamgyors.kereses.md) fortély
 - [Éber alvó](../fortelyok.altalanos/eber_alvo.md) fortély
+- [Villámgyors keresés](../fortelyok.altalanos/villamgyors.kereses.md) fortély
 
 ### Normál kiterjesztés
 
