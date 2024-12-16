@@ -2,7 +2,7 @@
 
 Gyakori eset, hogy a játékosok és / vagy Nem Játékos Karakterek között kergetőzés veszi kezdetét.
 
-### Menekülés / Üldözés
+### 🔆 Menekülés / Üldözés
 
 Ha harc közben dönt úgy egy karakter, hogy ideje távozni, akkor [Kibontakozás Manővert](../066_05_altalanos_manoverek.md#kibontakozás) kell dobnia. Ha sikertelen, akkor is kibontakozik, de ellenfele kap egy extra támadást, amivel még utána csaphat.
 
@@ -15,7 +15,7 @@ Ha elveszíti az ellenpróbát, dönthet VAGY-VAGY:
 Ha megnyerted a Futás ellenpróbát, sikerült lehagynod üldöződet.
 
 ---
-### Futás ellenpróba
+### 🔆 Futás ellenpróba
 
 Ez egy sima ⚪ **Gyorsaság** [Tulajdonság ellenpróba](../014_02_tulajdonsagproba.md#tulajdonság-ellenpróba).
 

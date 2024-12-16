@@ -4,13 +4,13 @@ Számos szituáció van, mikor elhangozhat a fenti kérdés. Igyekszünk nem bon
 
 <br />
 
-### Harci cselekedet esetén
+### 🔆 Harci cselekedet esetén
 
 Ilyenkor egyszerű harci [Kezdeményezést](../064_02_02_kezdemenyezes.md) kell dobnia minden félnek.
 
 <br />
 
-### Nem harci cselekedet esetén
+### 🔆 Nem harci cselekedet esetén
 
 Ilyen esetben **Gyorsaság** [tulajdonság ellenpróbát](../014_02_tulajdonsagproba.md#tulajdons%C3%A1g-ellenpr%C3%B3ba) dobassunk. Reflex jellegű és futás szituáció esetén is így járjunk el.
 
@@ -18,7 +18,7 @@ A próbát módosíthatja, ha valaki közelebb van az elérni kívánt célhoz, 
 
 <br />
 
-### Vegyes eset
+### 🔆 Vegyes eset
 
 Előfordul, hogy valaki nem akar résztvenni a harcban és úgy akar mozgást végezni.
 

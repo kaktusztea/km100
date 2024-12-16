@@ -31,6 +31,8 @@ A lépést elérte, de nem bírja már a testsúlyát rendesen áthelyezni, a vi
 
 🔆 "...annnyád!!!!! ANYÁD!!!!! úúú, baszki, mostmiafaszlegyenmiafaszlegyen..."
 
+<br />
+
 ### ⚙️ Rontott próba után
 
 🎲 Önuralom próba pánik ellen: `1+k6 vs 5 (Nehéz)   →` sikeres ✅
@@ -52,6 +54,8 @@ A lépést elérte, de nem bírja már a testsúlyát rendesen áthelyezni, a vi
 
 Tetves minden erejét bevetve felgyűrte magát a `11 cm` széles kiszögellésre. Ott elfér kb félseggel. Minden tagja remeg az igénybevételtől, mielőtt teljesen elhagyná magát még egy repedésbe tesz egy mászóéket amihez kiköti magát. Nem tartaná meg, de a `11 cm`-es peremmel együtt már jó, nem kell annyit kapaszkodni.
 
+<br />
+
 ### ⚙️ [Megállás és pihenés a falon rontás után](../kepzettsegek.szekunder/maszas.md#meg%C3%A1ll%C3%A1s-%C3%A9s-pihen%C3%A9s-a-falon-ront%C3%A1s-ut%C3%A1n)
 
 Ez **2 biztos tudást** igényel, hogy meg tudja -e tartani magát tartósan. Ebben segíti a **perem** és az **ék**.
@@ -69,6 +73,8 @@ Ez **2 biztos tudást** igényel, hogy meg tudja -e tartani magát tartósan. Eb
 Az ék és a perem együtt ad annyit ami már rég biztos tudásból megvan, lehet pihenni, 2 perc múlva visszatér az eredeti **Erő** Tulajdonság értéke (`+2`).
 
 ⚙️ Ha egy nem képzett mászót tesznek ugyanide, annak nem lesz meg a biztos tudása a pihenéshez, és azon túl, hogy nem tudja visszanyerni az **Erő** Tulajdonságát sem, jó eséllyel leesik.
+
+<br />
 
 ### ⚙️ Leesés
 
