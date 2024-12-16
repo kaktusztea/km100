@@ -4,7 +4,7 @@
 
 ### Kapcsolódó fortély
 
-- [Mechanika](mechanika.md)
+- [Mechanika](../fortelyok.altalanos/mechanika.md)
 
 ### Normál kiterjesztés 
 
