@@ -31,6 +31,6 @@ Tehát például választhat egy **orkot**, akinek mindösszesen "**Infralátás
 
 ---
 
-🔗 [Leíró Hátterek](024_leiro_hatterek.md) →
+🔗 [Leíró Hátterek](022_leiro_hatterek.md) →
 
 ⚜️ [Nyitóoldal](start.md#2-h%C3%A1tterek)

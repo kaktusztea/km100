@@ -41,7 +41,7 @@ Megjegyzés: nem kell mindet elköltened, tartalékolhatsz is egy későbbi nagy
 ---
 A Tulajdonságok értéke alapesetben `-5` és `+5` között mozoghat. A `-5` értelemszerűen a leggyengébb, súlyosan fogyatékos karakterek sajátja, míg a `+5`-ös értékkel bírók a legendák héroszai, irigyelt, rosszabb esetben gyűlölt nagyságok. A fenti határokon a [Faj Hátterek jellemzői](021_faj_hatterek.md), illetve esetleges mágikus hatások változtathatnak, de ökölszabály, hogy **elfszabásúak** egyik tulajdonsága sem nőhet `+7` fölé semmilyen körülmények között.
 
-A kinézetre és érzelmi „felépítésre" vonatkozó jellemzőket a játékosra bízzuk, dolgozza ki ő karakteralkotáskor, a KM-el egyeztetve és használja ehhez bátran a [Leíró Háttereket](024_leiro_hatterek.md). Hisszük, hogy nem kell minden jellemzőt számszerűsíteni és a fentiek részben szabadon meghatározható jellemzők, így főleg a játékos beleélőképességén múlik, hogy milyen hatással vannak más karakterekre.
+A kinézetre és érzelmi „felépítésre" vonatkozó jellemzőket a játékosra bízzuk, dolgozza ki ő karakteralkotáskor, a KM-el egyeztetve és használja ehhez bátran a [Leíró Háttereket](022_leiro_hatterek.md). Hisszük, hogy nem kell minden jellemzőt számszerűsíteni és a fentiek részben szabadon meghatározható jellemzők, így főleg a játékos beleélőképességén múlik, hogy milyen hatással vannak más karakterekre.
 
 ---
 ### Milyen értékekbe számítanak bele?
