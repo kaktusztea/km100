@@ -6,6 +6,11 @@ Fajhoz felvehető Érzék-fortély.
 
 Különlegesen éles a szemed, messzire ellátsz.
 
+### Kapcsolódik
+
+- [Infralátás](infralatas.md)
+- [Ultralátás](ultralatas.md)
+
 ### Alapeset
 
 🔒 **Követelmény**:  -

@@ -11,6 +11,7 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 ### Kapcsolódik
 
 - [Éber alvó](../fortelyok.altalanos/eber_alvo.md) fortély
+- [Infralátás](../fortelyok.erzekek/infralatas.md) fortély
 - [Villámgyors keresés](../fortelyok.altalanos/villamgyors.kereses.md) fortély
 
 ### Normál kiterjesztés
