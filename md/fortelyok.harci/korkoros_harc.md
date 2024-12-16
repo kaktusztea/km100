@@ -1,6 +1,7 @@
 ## 🟣 Körkörös harc (1)
 
 Kiválóan érzed ellenfeleid elhelyezkedését, nehezebben tudnak körbezárni.
+
 ### 1. fok
 
 🔒 **Követelmény**: [Akrobatika](../kepzettsegek.primer.altalanos/akrobatika.md) - `6.szint`

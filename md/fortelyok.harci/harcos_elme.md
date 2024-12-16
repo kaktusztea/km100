@@ -6,8 +6,8 @@ A harc ritmusát fenntartva, elméd erejének hála kevésbé merít ki a harc s
 
 🔒 **Követelmény**:
 - Önuralom: `+1`
-- Összpontosítás - `3.szint`
-- Harcmodor - `3.szint`
+- [Összpontosítás](../kepzettsegek.primer.misztikus/osszpontositas.md) - `3.szint`
+- [Harcmodor](../kepzettsegek.primer.harci/harcmodor.md) - `3.szint`
 - (**Közelharc** vagy **Kardvívás** vagy **Lándzsavívás** vagy **Zúzás**)
 
 🌟 **Hatás**: `1` VÉ-t semlegesít az ellenfél VÉ csökkenést okozó támadásaiból.

@@ -2,6 +2,11 @@
 
 Egyszerre mindkét kezedben képes vagy fegyvert forgatni.
 
+### Kapcsolódik
+
+- [Mesterfegyver](mesterfegyver.md) fortély
+- [Kétkezesség](ketkezesseg.md) fortély
+
 ### Alapeset
 
 🔒 **Követelmény**: -
