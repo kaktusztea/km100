@@ -15,7 +15,7 @@
 
 #### [Páncél ára](069_06_pancel_ara.md)
 
-#### [Páncél példák](069_07_pancel_peldak.md)
+#### [Páncél példák](069_07_pancel_peldak.md) ⚡
 
 ---
 

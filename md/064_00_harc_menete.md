@@ -13,7 +13,8 @@
 - [Sebzés](064_02_07_sebzes.md)
 - [Sebződés](064_02_08_sebzodes_hatasa.md)
 - [Védő Érték regenerálódása](064_02_09_ve_regeneralodas.md)
-- [Példaharc](064_03_peldaharc.md)
+
+#### [Példaharc](064_03_peldaharc.md) ⚡
 
 ---
 
