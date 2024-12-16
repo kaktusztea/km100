@@ -155,7 +155,7 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
   - [Sebzés](064_02_07_sebzes.md)
   - [Sebződés hatása](064_02_08_sebzodes_hatasa.md)
   - [Védő Érték regenerálódása](064_02_09_ve_regeneralodas.md)
-- [Példaharc](064_03_peldaharc.md)
+- [Példaharc](064_03_peldaharc.md) ⚡
 
 #### 6.5 [Harcot módosító tényezők](065_00_harcot_modosito_tenyezok.md)
 
@@ -173,8 +173,8 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 - [Általános Manőverek listája](066_05_altalanos_manoverek.md) 🎲
 - [Belharcos Manőverek listája](066_06_belharcos_manoverek.md) 🎲
 - [Lovas Manőverek listája](066_07_lovas_manoverek.md) 🎲
-- [Példa Manőver alkalmazására: Lefegyverzés](066_08_01_pelda_manover_lefegyverzes.md)
-- [Példa Manőver alkalmazására: Lábsöprés](066_08_02_pelda_manover_lapsopres.md)
+- [Példa Manőver alkalmazására: Lefegyverzés](066_08_01_pelda_manover_lefegyverzes.md) ⚡
+- [Példa Manőver alkalmazására: Lábsöprés](066_08_02_pelda_manover_lapsopres.md) ⚡
 
 #### 6.7 [Harc lóhátról, légi hátasról](067_00_harc_hatasrol.md)
 
@@ -203,7 +203,7 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 - [Védett terület, Páncéldobás](069_04_vedett_terulet_panceldobas.md)
 - [Vértviselet fortély bónuszai](069_05_vertviselet_fortely_bonuszai.md)
 - [Páncél ára](069_06_pancel_ara.md)
-- [Páncél példák](069_07_pancel_peldak.md)
+- [Páncél példák](069_07_pancel_peldak.md) ⚡
 
 ---
 ### 7. [Távolsági harcrendszer](070_tavolsagi_harc.md) 🏹
@@ -212,7 +212,7 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 - [Célpont Védő Értékének számítása; Szorzó; Osztó](072_tavharc_ve_szorzo_oszto.md)
 - [Távolsági Harc Taktikák](073_tavharc_taktikak.md)
 - [Távolsági fegyverek](074_tavharc_fegyverek.md)
-- [Példák](075_tavharc_peldak.md)
+- [Példalövészet](075_tavharc_peldak.md) ⚡
 - [Távharc sötétben](076_tavharc_sotetben.md)
 
 ---
@@ -275,7 +275,7 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 - [Méregkeverés szabályai](141_meregkeveres_szabalyai.md)
 - [Méregellenállás próba](142_meregellenallas.md)
 - [Méregérzékelés](143_meregerzekeles.md)
-- [Példamérgek](144_peldamergek.md)
+- [Példamérgek](144_peldamergek.md) ⚡
 
 ---
 ### 15. [Szituációk](150_szituaciok.md)
@@ -290,7 +290,7 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 - [Ki mozdul elsőnek?](szituaciok/ki_mozdul_elsonek.md)
 - [Lóról leesés](szituaciok/lorol_leeses.md)
 - [Lövész nyúl a fegyveréért, támad rá egy harcos](szituaciok/lovesz_nyul_fegyvereert_tamad_ra_harcos.md)
-- [Mászás képzettségpróbára összetett példa](szituaciok/maszas_osszetett_pelda.md)
+- [Mászás képzettségpróbára összetett példa](szituaciok/maszas_osszetett_pelda.md) ⚡
 - [Menekülés, üldözés, futás](szituaciok/menekules_uldozes_futas.md)
 - [Nyomok észrevétele, nyomkövetés - természetben](szituaciok/nyomok_nyomkovetes_termeszet.md)
 - [Nyomok észrevétele, nyomkövetés - városban](szituaciok/nyomok_nyomkovetes_varos.md)

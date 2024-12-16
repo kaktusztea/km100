@@ -6,7 +6,7 @@
 
 #### [Méregérzékelés](143_meregerzekeles.md)
 
-#### [Példamérgek](144_peldamergek.md)
+#### [Példamérgek](144_peldamergek.md) ⚡
 
 ---
 
