@@ -2,7 +2,7 @@
 
 Klasszikus szociális helyzetek, melyekben az egyik fél különböző verbális, non-verbális eszközökkel megpróbálja befolyásolni a másikat.
 
-### Megfélemlítés szituáció
+### 🔆 Megfélemlítés szituáció
 
 [Befolyásolás](../kepzettsegek.primer.altalanos/befolyasolas.md) képzettség
 - Tulajdonság: Intelligencia vagy Érzékenység
@@ -21,7 +21,7 @@ Véres karddal, félmeztelenül hadonászás: a felek ⚪ **Erő** Tulajdonság�
 <br />
 
 ---
-### Csábítás: Erős, izmos barbár csábít
+### 🔆 Csábítás: Erős, izmos barbár csábít
 
 [Befolyásolás](../kepzettsegek.primer.altalanos/befolyasolas.md) képzettség
 - Tulajdonság: Erő
@@ -36,7 +36,7 @@ Véres karddal, félmeztelenül hadonászás: a felek ⚪ **Erő** Tulajdonság�
 <br />
 
 ---
-### Csábítás: igéző huri táncos bájolása
+### 🔆 Csábítás: igéző huri táncos bájolása
 
 [Befolyásolás](../kepzettsegek.primer.altalanos/befolyasolas.md) képzettség
 - Tulajdonság: Érzékenység
@@ -52,7 +52,7 @@ Véres karddal, félmeztelenül hadonászás: a felek ⚪ **Erő** Tulajdonság�
 <br />
 
 ---
-### Átverés, hazudozás
+### 🔆 Átverés, hazudozás
 
 Gyakori eset, hogy a karaktert át akarják verni. Lehet, hogy ezzel még a játékos is tisztában van, de karaktere egyáltalán nem biztos!\
 „Elhittem, amit mondott?” - hangzik el sokszor.

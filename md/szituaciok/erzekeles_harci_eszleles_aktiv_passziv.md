@@ -9,7 +9,7 @@
 >⭕TODO: Még nem tudom, mennyire kell itt belefolyni a többi területbe (mágia/pszí), de általános szabályokat érdemes egy helyre gyűjteni⭕
 
 ---
-### Érzékek
+### 🔆 Érzékek
 
 ```
 Észlelés (K) + Érzékenység (T)
@@ -20,7 +20,7 @@ Az érzékeket (látás, hallás, szaglás, ízlelés) érintő próbákat **És
 A fajok esetleges bónuszai felvehetőek Érzék-Fortélyként. Bővebben lásd a [Faj Hátterek](../021_faj_hatterek.md) fejezetben.
 
 ---
-### Észlelés
+### 🔆 Észlelés
 
 Idézet az [Észlelés](../kepzettsegek.primer.altalanos/eszleles.md) képzettség leírásából:
 
@@ -50,13 +50,13 @@ A karakternek feltűnik valami anélkül, hogy kifejezetten kereste volna/figyel
 ⚡Például: orgyilkos a háta mögött (**Észlelés+Érzékenység**) , vagy a nemesúrnak álbajusza van, mérgezett az étel, stb.
 
 ---
-### Különbség az észrevétel és az értelmezés között
+### 🔆 Különbség az észrevétel és az értelmezés között
 
 - **Észlelés** + **Érzékenység**: Követik-e? ; Észreveszi-e a ruha alatt villanó tőrt?
 - **Nyomozás** + **Intelligencia** : Rájön-e, hogy mit vett észre? (az igazi szakáll nem nő így például)
 
 ---
-### Lopakodás - áldozat háta mögé (harcot megelőző szituáció)
+### 🔆 Lopakodás - áldozat háta mögé (harcot megelőző szituáció)
 
 ```
 Lopakodás/rejtőzés + Ügyesség
@@ -72,7 +72,7 @@ Ilyen szituban a **Lopakodás/rejtőzést** általában **Ügyességgel**, az **
   (alapeset leírását és a próba körülményeit, módosítóit lásd a [Lopakodás/rejtőzés](../kepzettsegek.primer.altalanos/lopakodas_rejtozes.md) képzettség leírásánál!)
 - Aktív észlelés: ha az észlelő odafigyel, számít a támadásra: `+3` jár **Észlelés** próbájára
 
-### Nem harci szituáció
+### 🔆 Nem harci szituáció
 
 Sima próbadobás - NEM ellenpróba - adott nehézségre, melyet a KM határoz meg.
 
