@@ -12,8 +12,12 @@ Amennyiben nem rendelkezel a kívánt Nyelvismerettel, akkor - ha van kapcsolód
 
 ### Kapcsolódik
 
+- [Írástudó](../fortelyok.altalanos/irastudo.md) fortély
+- [Irodalom](../fortelyok.szabad/irodalom.md) fortély
 - [Kultúrkör](kulturkor.md) fortély
+- [Szájról olvasás](../fortelyok.altalanos/szajrol_olvasas.md) fortély
 - [Előadóművészet](../kepzettsegek.szekunder/eloadomuveszet.md) képzettség
+- [Művészetismeret](../kepzettsegek.szekunder/muveszetismeret.md) képzettség
 
 ### Emberi nyelvek listája
 ([forrás](https://magus.fandom.com/hu/wiki/Nyelvek_%C3%A9s_nyelcsal%C3%A1dok))
