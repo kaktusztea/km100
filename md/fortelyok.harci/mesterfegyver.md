@@ -7,7 +7,7 @@ A **Mesterfegyver fortély** segítségével egyes fegyverek harcértékeit tov�
 
 🔒 **Követelmény**: -
 
-🌟 **Hatás**: fegyver alap harcértékei (bónuszokkal)
+🌟 **Hatás**: fegyver alap harcértékei (egyéb bónuszokkal)
 
 ---
 ### 1. fok

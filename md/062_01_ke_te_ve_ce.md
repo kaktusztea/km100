@@ -112,6 +112,6 @@ A Védő Érték szimbolizálja a karakter közelharcban nyújtott azon képess�
 
 ---
 
-🔗 [Harcmodor képzettségek](062_02_harcmodor_kepzettsegek_es_bonuszaik.md) →
+🔗 [Harcmodor képzettségek és bónuszaik](062_02_harcmodor_kepzettsegek_es_bonuszaik.md) →
 
 ⚜️ [Nyitóoldal](start.md#6-harcrendszer-%EF%B8%8F)
