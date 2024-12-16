@@ -81,6 +81,18 @@ Ha több fortély terjeszt ki képzettségpróbánál és legalább `1 db` olyan
 
 <br />
 
+### 🔆 Speciális: Több fortély bónusza
+
+Amennyiben több fortély terjeszt ki egy képzettséget, akkor az esetleges bónuszok (`2.foktól kezdődően`) közül a legalacsonyabb számít.
+
+Tehát ha például egy képzettséget kiterjeszt
+- `A` fortély - `2.fok`
+- `B` fortély - `3.fok`
+
+... akkor csak `+2` jár a képzettségpróbára, mivel a `2.fok` (alacsonyabb) bónusza határozza meg a plusz értéket.
+
+<br />
+
 ### 🔆 Speciális: Más karakter pótolja a hiányzó kiterjesztő fortélyt
 
 Mikor több fortély terjeszt ki egy képzettséget (mind szükséges az adott probánál), de valamelyik hiányzik, akkor ezt - a szituáció ismeretében a KM bírálata után -  pótolhatja egy másik karakter, így elkerülve a levonást (Normál hiány), vagy az automatikus sikertelen próbát (Erős hiány).
