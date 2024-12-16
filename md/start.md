@@ -64,8 +64,8 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 ### 2. [Hátterek](020_hattererek.md)
 
   - [Faj Hátterek](021_faj_hatterek.md)
-  - [Leíró Hátterek](024_leiro_hatterek.md)
-  - [Karma Hátterek](025_karma_hatterek.md)
+  - [Leíró Hátterek](022_leiro_hatterek.md)
+  - [Karma Hátterek](023_karma_hatterek.md)
 
 ---
 ### 3. [Képzettségrendszer](030_kepzettsegrendszer.md)

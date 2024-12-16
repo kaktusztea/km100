@@ -56,7 +56,7 @@ A [Pszí alkalmazás](fortelyok.misztikus/pszi_kiterjesztes.md) is a Fortélyok 
 
 A [Harcérték Módosítók (HM, CM)](018_hm_cm.md) felvétele is `KP`-ból történik, ezek az általános harci tapasztalat növekedését hivatottak modellezni. A [Manőver Pontokat](066_02_manover_pontok.md) automatikusan kapod, az elvégzett [Manővereidet](066_00_manoverek.md) könnyítheted meg velük.
 
-A [Hátterek](020_hattererek.md) számos érdekes aspektussal ruházhatják fel karakteredet. Az egyes fajok mind [Faj-Háttereként](021_faj_hatterek.md) vehetőek fel, limitációik és - érzékeiket érintő - kapcsolódó fortélyaikat ott találod meg. Végül essen szó a [Leíró Hátterekről](024_leiro_hatterek.md), ezek egyszavas jellemzők, melyek a karakter jellemét, hátterét színesítik - tetszés szerint vehetőek fel.
+A [Hátterek](020_hattererek.md) számos érdekes aspektussal ruházhatják fel karakteredet. Az egyes fajok mind [Faj-Háttereként](021_faj_hatterek.md) vehetőek fel, limitációik és - érzékeiket érintő - kapcsolódó fortélyaikat ott találod meg. Végül essen szó a [Leíró Hátterekről](022_leiro_hatterek.md), ezek egyszavas jellemzők, melyek a karakter jellemét, hátterét színesítik - tetszés szerint vehetőek fel.
 
 Jöhetnek a [Származtatott értékek](017_00_szarmaztatott_ertekek.md): az [Életerő Pont](017_01_ep_kt.md), a [Mágiaellenállás](017_03_magiaellenallas.md), a [Méregellenállás](017_04_meregellenallas.md) kiszámítása - ezekre nem kell külön pontot költeni.
 
