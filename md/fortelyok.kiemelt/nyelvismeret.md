@@ -10,9 +10,10 @@ A Nyelvismeretnek `2` foka van.
 
 Amennyiben nem rendelkezel a kívánt Nyelvismerettel, akkor - ha van kapcsolódó [Kultúrkör](kulturkor.md) Hátterred, akkor nagyon alap szavakat ismersz, amivel - plusz kézzel-lábbal - meg tudod értetni magad ("Kő", "Tűz", "Vesz", "Kenyér", stb)
 
-### Kiterjeszti: -
+### Kapcsolódik
 
-### Követelmény: -
+- [Kultúrkör](kulturkor.md) fortély
+- [Előadóművészet](../kepzettsegek.szekunder/eloadomuveszet.md) képzettség
 
 ### Emberi nyelvek listája
 ([forrás](https://magus.fandom.com/hu/wiki/Nyelvek_%C3%A9s_nyelcsal%C3%A1dok))
