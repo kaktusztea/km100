@@ -27,6 +27,26 @@ Mások meggyőzését, szándékainknak megfelelő cselekedetek elérését fedi
 
 <br />
 
+### Ellenpróbák
+
+A **Befolyásolás** szinte mindig az [Emberismeret](emberismeret.md) képzettséggel áll ellenpróbás szituációban - a szituációtól függő módosítókkal. A leggyakoribb az alábbi próba-szituáció:
+```
+Intelligencia + Emberismeret
+            vs
+Érzékenység + Emberismeret
+```
+
+### 🔆 Szerepjátékos módosító
+
+A parti dönti el a játék kezdetekor, hogy alkalmazza -e ezt a paramétert.
+
+A játékos élőszóban előadja, eljátssza a befolyásolási kísérletet. Az előadás/párbeszéd minőségétől függően a KM ad egy módosítót `[-6;+3]` tartományban és a játékos ezt hozzáadja a **Befolyásolás** képzettségpróbájához.
+
+Például a játékos nem feccöl bele túl sok energiát sem a karaktere megszemélyesítésébe, sem az ötletbe, amivel át akarja verni a másik felet, tehát valami nagyon átlátszó hazugságot akar megetetni, akkor nyugodtan kaphat `-6` büntetést is a dobásra.
+
+<br />
+
+---
 ### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub> | Követelmény |
@@ -38,21 +58,6 @@ Mások meggyőzését, szándékainknak megfelelő cselekedetek elérését fedi
 | Élő legenda (15) | xyz <br /> **Példa**: x                                                            |             |
 
 <br />
-
-### Ellenpróbák
-
-A **Befolyásolás** szinte mindig az [Emberismeret](emberismeret.md) képzettséggel áll ellenpróbás szituációban - a szituációtól függő módosítókkal. A leggyakoribb az alábbi próba-szituáció:
-```
-Intelligencia + Emberismeret
-            vs
-Érzékenység + Emberismeret
-```
-
-### Szerepjátékos módosító
-
-A parti dönti el a játék kezdetekor, hogy alkalmazza -e ezt a paramétert.
-
-A játékos élőszóban előadja, a befolyásolási kísérletet. Az előadás minőségétől függően a KM ad egy módosítót `[-2;+2]` tartományban és a játékos ezt adja hozzáadja (vagy kivonja) a **Befolyásolás** képzettségpróbájához.
 
 ### Próbák
 
