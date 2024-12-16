@@ -4,7 +4,7 @@ Az összeszokott harcosok együtt eredményesebbek.
 
 ### 1. fok
 
-🔒 **Követelmény**: Harcmodor  **-** `3.szint` (mindkét félnek)
+🔒 **Követelmény**: [Harcmodor](../kepzettsegek.primer.harci/harcmodor.md)  **-** `3.szint` (mindkét félnek)
 
 🌟 **Hatás**:
 - Két jól összeszokott társ. Legalább 1 éve harcolnak együtt a közös taktika szerint. Ilyenkor közös harc esetén plusz harcértékek: 

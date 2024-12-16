@@ -2,6 +2,10 @@
 
 Képes vagy hárítófegyvert használni.
 
+### Kapcsolódik
+
+[Mesterfegyver](mesterfegyver.md) fortély
+
 ### Alapeset
 
 🔒 **Követelmény**: -

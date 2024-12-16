@@ -1,6 +1,7 @@
 ## 🟣 Vakharc (3)
 
 Sötétben apró neszek, megérzések segítenek csökkenteni a látáshiány okozta hátrányt.
+
 ### Alapeset
 
 🔒 **Követelmény**: -
@@ -12,7 +13,7 @@ Sötétben apró neszek, megérzések segítenek csökkenteni a látáshiány ok
 ---
 ### 1. fok
 
-🔒 **Követelmény**: Összpontosítás - `3.szint`
+🔒 **Követelmény**: [Összpontosítás](../kepzettsegek.primer.misztikus/osszpontositas.md) - `3.szint`
 
 🌟 **Hatás**:
 - Csönd és sötét: `KÉ:-20`, `TÉ/VÉ:-30`

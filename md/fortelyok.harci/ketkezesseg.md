@@ -1,6 +1,11 @@
 ## 🟣 Kétkezesség (1)
 
 Kétkezes vagy születésed óta.
+
+### Kapcsolódik
+
+[Kétkezes harc](ketkezes_harc.md) fortély
+
 ### Alapeset
 
 🔒 **Követelmény**: -

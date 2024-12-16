@@ -6,7 +6,7 @@ Harci extázisba esel, melyből nagyon nehéz kizökkenteni. A menekülésre nem
 🔒 **Követelmény**:
 - Erő: `+1`
 - Edzettség `+1`
-- Harcmodor - `4.szint`
+- [Harcmodor](../kepzettsegek.primer.harci/harcmodor.md) - `4.szint`
 - (**Közelharc** vagy **Kardvívás** vagy **Lándzsavívás** vagy **Zúzás**)
 
 🌟 **Hatás**:

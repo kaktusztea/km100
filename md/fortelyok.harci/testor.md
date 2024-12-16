@@ -1,6 +1,7 @@
 ## 🟣 Testőr (2)
 
 Hasznos fortély, ha **Védő Értékedet** egy másik személyre is ki akarod terjeszteni.
+
 ### Alapeset
 
 🔒 **Követelmény**: -
@@ -12,8 +13,8 @@ Hasznos fortély, ha **Védő Értékedet** egy másik személyre is ki akarod t
 
 🔒 **Követelmény**:
 - Önuralom: `+1`
-- Összpontosítás - `3.szint`
-- Harcmodor - `4.szint`
+- [Összpontosítás](../kepzettsegek.primer.misztikus/osszpontositas.md) - `3.szint`
+- [Harcmodor](../kepzettsegek.primer.harci/harcmodor.md) - `4.szint`
 - (**Közelharc** vagy **Kardvívás** vagy **Lándzsavívás** vagy **Zúzás**)
 
 🌟 **Hatás**: A levonás csak `-15 VÉ`
