@@ -77,7 +77,7 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 - [Képzettségszintek KP igénye](035_kepzettsegszintek_kp_igenye.md)
 - [Képzettségpróba, Összhangok](036_kepzettsegproba.md) 🎲
 - [Képzettségek és Fortélyok kapcsolata](037_kepzettsegek_fortelyok_kapcsolata.md)
-- [Fortélyok képzettségkiterjesztés listája (ábra)](038_fortelyok_kepzettsegkiterjesztes_listaja.md)
+- [Fortélyok képzettségkiterjesztés listája (ábra)](038_fortelyok_kepzettsegkiterjesztes_listaja.md) 📊
 - [Bázis képzettségek](039_bazis_kepzettsegek.md)
 
 ---
@@ -140,7 +140,7 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 - [Mozgás harc közben](063_05_mozgas_harc_kozben.md)
 - [Harckeret, Támadások száma fegyverrel](063_06_tamadasok_szama_fegyverrel.md)
 - [Varázskeret, Támadások száma mágiával](063_07_tamadasok_szama_varazslaskor.md)
-- [Támadások száma - ábra](063_08_tamadasok_szama_abra.md)
+- [Támadások száma - ábra](063_08_tamadasok_szama_abra.md) 📊
 
 #### 6.4 [Harc menete](064_00_harc_menete.md)
 
