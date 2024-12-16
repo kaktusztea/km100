@@ -3,6 +3,11 @@
 **Próba:** dobható
 
 **Domináns Tulajdonságok**: Érzékenység, Emlékezet
+
+### Kapcsolódik
+
+- [Nyelvismeret](../fortelyok.kiemelt/nyelvismeret.md)
+
 ### Normál kiterjesztés
 
 - [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) (adott kultúra): enélkül érvényes a levonás mindegyik meglevő művészeti ágra.
