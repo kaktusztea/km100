@@ -4,6 +4,10 @@
 
 **Domináns Tulajdonságok**: Ügyesség, Önuralom
 
+### Kapcsolódó fortély
+
+[Mechanika](mechanika.md)
+
 ### Leírás
 
 ⭕TODO⭕

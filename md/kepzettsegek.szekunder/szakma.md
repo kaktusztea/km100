@@ -2,6 +2,10 @@
 
 Ács, asztalos, borbély, cipész, cserző, ékszerész, gazdálkodás(birtok), hivatalnok, kötélgyártó, kőműves, kádár, (fegyver)kovács, lakatos, molnár, páncélkováscs, pék, pénzverő, rejtjelfejtő, szabó, szűcs, varga
 
+### Kapcsolódó fortély
+
+- [Mechanika](mechanika.md)
+
 ### Normál kiterjesztés 
 
 - [Hamisítás](../fortelyok.altalanos/hamisitas.md): az adott szakma magas szintű produktumainak hamisítása.
