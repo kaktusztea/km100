@@ -10,7 +10,7 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
 ### Kapcsolódik
 
-⭕xyz  ((fortély, más képzettség. Ha nincs, törölni))
+[Suhanó árnyék](../fortelyok.altalanos/suhano_arnyek.md)
 
 ### Normál kiterjesztés
 

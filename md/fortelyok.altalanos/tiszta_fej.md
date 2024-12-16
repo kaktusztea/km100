@@ -2,6 +2,12 @@
 
 "Érvelése számos hibát, vagy úgy is mondhatnám... hazugságot tartalmazott."
 
+### Kapcsolódik
+
+- [Hazudozás](../fortelyok.szabad/hazudozas.md) fortély
+- [Befolyásolás](../kepzettsegek.primer.altalanos/befolyasolas.md) képzettség
+- [Emberismeret](../kepzettsegek.primer.altalanos/emberismeret.md) képzettség
+
 ### 1. fok
 
 🔒 **Követelmény**: -

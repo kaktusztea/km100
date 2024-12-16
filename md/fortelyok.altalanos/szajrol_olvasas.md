@@ -7,7 +7,7 @@
 🔒 **Követelmény**:
 - Intelligencia: `+1`
 - Érzékenység: `+0`
-- Nyelvismeret - Udvari szint (az épp beszélt nyelvre)
+- [Nyelvismeret](../fortelyok.kiemelt/nyelvismeret.md) - Udvari szint (az épp beszélt nyelvre)
 - Jól látható legyen a célszemély szája
 
 🌟 **Hatás**:

@@ -2,6 +2,10 @@
 
 ⭕TODO: bevezető⭕
 
+### Kapcsolódik
+
+- [Tiszta fej](../fortelyok.altalanos/tiszta_fej.md) fortély
+
 ### Kiterjeszti ezeket
 
 - [Befolyásolás](../kepzettsegek.primer.altalanos/befolyasolas.md): "Arra mentek! Jajjh, a lábam!"

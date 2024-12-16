@@ -2,6 +2,10 @@
 
 Szívós vagy mint egy rozsomák.
 
+### Kapcsolódik
+
+- [Úszás](uszas.md)
+
 ### 1. fok
 
 🔒 **Követelmény**: Edzettség: `+1`
