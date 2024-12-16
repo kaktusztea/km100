@@ -10,6 +10,7 @@ Mások meggyőzését, szándékainknak megfelelő cselekedetek elérését fedi
 ### Kapcsolódik
 
 - [Emberismeret](emberismeret.md) képzettség
+- [Tiszta fej](../fortelyok.altalanos/tiszta_fej.md) fortély
 
 ### Normál kiterjesztés
 

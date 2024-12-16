@@ -6,7 +6,8 @@
 
 ### Kapcsolódó fortély
 
-[Mechanika](../fortelyok.altalanos/mechanika.md)
+- [Mechanika](../fortelyok.altalanos/mechanika.md)
+- [Zártörő](../fortelyok.altalanos/zartoro.md)
 
 ### Leírás
 

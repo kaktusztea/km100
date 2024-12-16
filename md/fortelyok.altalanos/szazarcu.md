@@ -4,6 +4,10 @@ Rögtönzött kellékekből is képes vagy álruhát barkácsolni. Gyorsan át t
 
 🔆 Ne feledjük: ilyen gyors esetekben a próba célszáma növekszik!
 
+### Kapcsolódik
+
+[Álcázás/álruha](../kepzettsegek.szekunder/alcazas_alruha.md) képzettség
+
 ### Alapeset
 
 🔒 **Követelmény**:  -
@@ -13,7 +17,7 @@ Rögtönzött kellékekből is képes vagy álruhát barkácsolni. Gyorsan át t
 ---
 ### 1. fok
 
-🔒 **Követelmény**: Álcázás/Álruha - `4.szint`
+🔒 **Követelmény**: [Álcázás/álruha](../kepzettsegek.szekunder/alcazas_alruha.md) - `4.szint`
 
 🌟 **Hatás**: A gyors átöltözés büntetését `3`-al csökkentheted képzettségpróbánál.
 
