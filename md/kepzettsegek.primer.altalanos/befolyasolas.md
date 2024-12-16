@@ -2,6 +2,8 @@
 
 Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md). 
 
+Mások meggyőzését, szándékainknak megfelelő cselekedetek elérését fedi. Alapból sima érveléstechinka, de a lenti Fortélyokkal **kiterjeszthető** más szituációkra is.
+
 **Próba:** dobható
 
 **Domináns Tulajdonságok**: Intelligencia, Érzékenység
@@ -21,9 +23,6 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
 - [Befolyásolás vs. Emberismeret](../szituaciok/befolyasolas_modszerei.md)
 
-### Leírás
-
-Mások meggyőzését, szándékainknak megfelelő cselekedetek elérését fedi. Alapból sima érveléstechinka, de a fenti Fortélyokkal kiterjeszthető más szituációkra is.
 
 <br />
 

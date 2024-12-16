@@ -1,5 +1,8 @@
 ## Képzettség neve
 
+<--- Leírás ide jön --->
+
+
 **Próba:** ⭕dobható / ⭕nincs, csak biztos tudásból
 
 **Domináns Tulajdonságok**: ⭕xyz
@@ -22,10 +25,6 @@
 ⭕xyz. Ha nincs, törölni
 
 ### Bónuszok
-
-⭕xyz
-
-### Leírás
 
 ⭕xyz
 
