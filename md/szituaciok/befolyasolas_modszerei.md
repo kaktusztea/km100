@@ -21,25 +21,6 @@ Gyakori eset, hogy a karaktert át akarják verni. Lehet, hogy ezzel még a ját
 <br />
 
 ---
-### 🔆 Megfélemlítés szituáció
-
-[Befolyásolás](../kepzettsegek.primer.altalanos/befolyasolas.md) képzettség
-- Tulajdonság: Intelligencia vagy Érzékenység
-- Normál kiterjesztés: [Megfélemlítés](../fortelyok.szabad/megfelemlites.md) fortély
-
-`VS`
-
-[Emberismeret](../kepzettsegek.primer.altalanos/emberismeret.md) képzettség
-- Tulajdonság: Önuralom
-- Normál kiterjesztés: [Megfélemlítés](../fortelyok.szabad/megfelemlites.md) fortély
-
-#### Megfélemlítés Módosítók
-
-Véres karddal, félmeztelenül hadonászás: a felek ⚪ **Erő** Tulajdonságának **különbsége** hozzáadódik bónuszként a **Befolyásolás** képzettséghez.
-
-<br />
-
----
 ### 🔆 Csábítás: Erős, izmos barbár csábít
 
 [Befolyásolás](../kepzettsegek.primer.altalanos/befolyasolas.md) képzettség
@@ -67,6 +48,25 @@ Véres karddal, félmeztelenül hadonászás: a felek ⚪ **Erő** Tulajdonság�
 [Emberismeret](../kepzettsegek.primer.altalanos/emberismeret.md) képzettség
 - Tulajdonság: Önuralom
 - Normál kiterjesztés: [Csábítás](../fortelyok.szabad/csabitas.md) fortély
+
+<br />
+
+---
+### 🔆 Megfélemlítés szituáció
+
+[Befolyásolás](../kepzettsegek.primer.altalanos/befolyasolas.md) képzettség
+- Tulajdonság: Intelligencia vagy Érzékenység
+- Normál kiterjesztés: [Megfélemlítés](../fortelyok.szabad/megfelemlites.md) fortély
+
+`VS`
+
+[Emberismeret](../kepzettsegek.primer.altalanos/emberismeret.md) képzettség
+- Tulajdonság: Önuralom
+- Normál kiterjesztés: [Megfélemlítés](../fortelyok.szabad/megfelemlites.md) fortély
+
+#### Megfélemlítés Módosítók
+
+Véres karddal, félmeztelenül hadonászás: a felek ⚪ **Erő** Tulajdonságának **különbsége** hozzáadódik bónuszként a **Befolyásolás** képzettséghez.
 
 ---
 
