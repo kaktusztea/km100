@@ -8,10 +8,7 @@ Lopakodás/rejtőzés + Ügyesség
 Észlelés + Érzékenység  (+3)
 ```
 
-Itt **képzettség ellenpróbát** dobnak a felek:\
-[Lopakodás/rejtőzés](../kepzettsegek.primer.altalanos/lopakodas_rejtozes.md) vs [Észlelés](../kepzettsegek.primer.altalanos/eszleles.md)
-
-Ilyen szituban a **Lopakodás/rejtőzést** általában **Ügyességgel**, az **Észlelést** pedig **Érzékenység** Tulajdonsággal dobjuk.
+Ilyen szituban a [Lopakodás/rejtőzést](../kepzettsegek.primer.altalanos/lopakodas_rejtozes.md) általában **Ügyességgel**, az [Észlelést](../kepzettsegek.primer.altalanos/eszleles.md) pedig **Érzékenység** Tulajdonsággal dobjuk.
 
 - ⚜️ Passzív észlelés: ha az észlelő passzívan szemlélődik, mikor a támadás éri: alap ellenpróba
   (alapeset leírását és a próba körülményeit, módosítóit lásd a [Lopakodás/rejtőzés](../kepzettsegek.primer.altalanos/lopakodas_rejtozes.md) képzettség leírásánál!)
