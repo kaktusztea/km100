@@ -12,8 +12,8 @@ Képes vagy nehézlovas formációba fejlődni, együttmaradni, fordulni - harci
 
 ### Követelmény
 
-- Harcmodor - `6.szint`
-- Lovaglás - `6.szint` (nehézlovaglásra alkalmas hátas fajra)
+- [Harcmodor](../kepzettsegek.primer.harci/harcmodor.md) - `6.szint`
+- [Lovaglás](../kepzettsegek.szekunder/lovaglas.md) - `6.szint` (nehézlovaglásra alkalmas hátas fajra)
 
 <br />
 

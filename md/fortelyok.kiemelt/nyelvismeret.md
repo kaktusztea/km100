@@ -8,7 +8,7 @@ A Nyelvismeretnek `2` foka van.
 - `Alap`: normális, hétköznapi beszéd. Ha nem anyanyelv, a külföldi akcentust ki lehet érezni belőle. Ennek hatását szerepjátékból intézzük.
 - `Udvari`: udvari, egyházi, hivatali körökben hallott, míves beszéd. Fogyasztott, vagy aktívan művelt művészetekhez követelmény. Lásd [Előadóművészet](../kepzettsegek.szekunder/eloadomuveszet.md) képzettség.
 
-Amennyiben nem rendelkezel a kívánt Nyelvismerettel, akkor - ha van kapcsolódó [Kultúrkör](kulturkor.md) Hátterred, akkor nagyon alap szavakat ismersz, amivel - plusz kézzel-lábbal - meg tudod értetni magad ("Kő", "Tűz", "Vesz", "Kenyér", stb)
+Amennyiben nem rendelkezel a kívánt Nyelvismerettel, akkor - ha van kapcsolódó [Kultúrkör](kulturkor.md) Hátterred, akkor nagyon alap szavakat ismersz, amivel - plusz kézzel-lábbal - meg tudod értetni magad ("kő", "tűz", "vesz", "kenyér", stb)
 
 ### Kapcsolódik
 
@@ -37,10 +37,10 @@ Amennyiben nem rendelkezel a kívánt Nyelvismerettel, akkor - ha van kapcsolód
     - dzsad - fayumi dialektus (fay)
     - dzsad - Gredh' il adf Ladzs (gre) (a fém titkos nyelve)
     - sinemosi (sin)
-    - tiadlani (tia)
+    - ti4dlani (tia)
     - dolamin (dol)
-    - enoszukei (eno)
-    - ilanori (ila)
+    - en0szukei (eno)
+    - il4nori (ila)
     - lupár (lup)
     - dakh (dak)
     - kr4ni birodalmi khors (kho) (kra)
