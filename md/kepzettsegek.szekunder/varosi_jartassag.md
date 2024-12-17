@@ -7,7 +7,7 @@
 ### Normál kiterjesztés
 
 - [Helyismeret](../fortelyok.kiemelt/helyismeret.md): Az adott környék ismerete sokat segít, nélküle az általános tapasztalatok dominálnak inkább.
-- [Kultúrkör](../fortelyok.kiemelt/kulturkor.md): Az adott kultúrkör ismerete képes pótolni a Helyismeret hiányát. Ha ez megvan, de az nem, akkor sem jár a levonás.
+- [Kultúrkör](../fortelyok.kiemelt/kulturkor.md): Az adott kultúrkör ismerete 🔆képes pótolni 🔆 a Helyismeret hiányát. Ha ez megvan, de az nem, akkor sem jár a levonás.
 
 ### Erős kiterjesztés
 

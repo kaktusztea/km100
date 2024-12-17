@@ -17,6 +17,7 @@ Kapcsolódó Képzettség-próba:
 - [Nyelvismeret](nyelvismeret.md) fortély
 - [Tánc](../fortelyok.szabad/tanc.md) fortély
 - [Tánc: belső stílus](../fortelyok.szabad/tanc_belso_stilus.md) fortély
+- [Teaszertartás](../fortelyok.szabad/teaszertartas.md)
 
 ### Kiterjeszti ezeket
 
@@ -25,6 +26,7 @@ Kapcsolódó Képzettség-próba:
 - [Képzőművészet](../kepzettsegek.szekunder/kepzomuveszet.md): enélkül érvényes a levonás mindegyik lenti művészeti ágra.
 - [Művészetismeret](../kepzettsegek.szekunder/muveszetismeret.md): enélkül érvényes a levonás mindegyik lenti művészeti ágra.
 - [Lexikum](../kepzettsegek.szekunder/lexikum.md): Az adott, kapcsolódó **Kultúrkör** ismerete sokszor (nem mindig) szükséges, hiánya esetén jár a standard levonás.
+- [Városi jártasság](../kepzettsegek.szekunder/varosi_jartassag.md): Az adott kultúrkör ismerete képes pótolni a Helyismeret hiányát. Ha ez megvan, de az nem, akkor sem jár a levonás.
 
 ### Leírás
 

@@ -7,9 +7,9 @@ Jól bánsz az ecsettel, kedvtelésből, vagy önkifejezés céljából vetsz v�
 - [Képzőművészet](../kepzettsegek.szekunder/kepzomuveszet.md): Vászonra álmodod a lelkedben születő képeket.
 - [Művészetismeret](../kepzettsegek.szekunder/muveszetismeret.md): Ismered, felismered adott [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) festőit, műveiket, történetüket, stílusukat.
 
-### Kapcsolódó fortély
+### Kapcsolódik
 
-- [Hamisítás](../fortelyok.altalanos/hamisitas.md)
+- [Hamisítás](../fortelyok.altalanos/hamisitas.md) fortély
 
 <br />
 

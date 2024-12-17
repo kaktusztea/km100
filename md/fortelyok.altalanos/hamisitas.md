@@ -2,12 +2,12 @@
 
 Jól tudsz másolni műkincseket, műtárgyakat. Képes vagy egyes művészeti ágakban és szakmákban az eredetire megtévesztésig hasonló másolatot készíteni, vagy az adott stílusban újat készíteni.
 
-### Kapcsolódó Fortélyok
+### Kapcsolódik
 
-- [Kultúrkör](../fortelyok.kiemelt/kulturkor.md)
-- [Festészet](../fortelyok.szabad/festeszet.md)
-- [Kalligráfia](../fortelyok.szabad/kalligrafia.md)
-- [Szobrászat](../fortelyok.szabad/szobraszat.md)
+- [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) fortély
+- [Festészet](../fortelyok.szabad/festeszet.md) fortély
+- [Kalligráfia](../fortelyok.szabad/kalligrafia.md) fortély
+- [Szobrászat](../fortelyok.szabad/szobraszat.md) fortély
 
 ### Kiterjeszti ezeket
 

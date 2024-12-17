@@ -11,6 +11,7 @@
 ### Normál kiterjesztés
 
 - [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) (adott kultúra): enélkül érvényes a levonás mindegyik meglevő művészeti ágra.
+__
 - [Éneklés](../fortelyok.szabad/enekles.md): nézők előtt dalolsz a hallgatók örömére.
 - [Irodalom](../fortelyok.szabad/irodalom.md): Versek, novellák, regények, históriák, színdarabok írása.
 - [Színjátszás](../fortelyok.szabad/szinjatszas.md): Életed a világot jelentő deszkák. Vándorszínháztól a nagyvárosok ünnepelt színészóriásaikig mind a publikum hálájára vágytok. A [Kultúrkörnek](../fortelyok.kiemelt/kulturkor.md) megfelelő darabokban játszol.
