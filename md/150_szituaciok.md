@@ -13,6 +13,7 @@ Játék során vannak klasszikus, gyakran előforduló **szituációk**, amelyek
 - [Információszerzés valakitől](szituaciok/informacioszerzes_valakitol.md)
 - [Ismerem ezt a nevet? Mit tudhatok róla?](szituaciok/ismerem_mit_tudhatok_rola.md)
 - [Ki mozdul elsőnek?](szituaciok/ki_mozdul_elsonek.md)
+- [Lopakodás/rejtőzés és észlelése](szituaciok/lopakodas_rejtozes_es_eszlelese.md)
 - [Lóról leesés](szituaciok/lorol_leeses.md)
 - [Lövész nyúl a fegyveréért, támad rá egy harcos](szituaciok/lovesz_nyul_fegyvereert_tamad_ra_harcos.md)
 - [Mászás képzettségpróbára összetett példa](szituaciok/maszas_osszetett_pelda.md) ⚡

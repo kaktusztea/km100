@@ -2,6 +2,10 @@
 
 Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
+Beletartozik a rejtőzködés is. ⭕xyz
+
+
+
 → ⭕[TODO elemek](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.kepzettsegek#lopakod%C3%A1srejt%C5%91z%C3%A9s)
 
 **Próba:** dobható
@@ -16,9 +20,9 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
 ⭕xyz. Ha nincs, törölni
 
-### Leírás
+### Szituációk
 
-Beletartozik a rejtőzködés is. ⭕xyz
+[Lopakodás/rejtőzés és észlelése](../szituaciok/lopakodas_rejtozes_es_eszlelese.md)
 
 <br />
 
