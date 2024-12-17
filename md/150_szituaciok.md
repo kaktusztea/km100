@@ -6,6 +6,7 @@ Játék során vannak klasszikus, gyakran előforduló **szituációk**, amelyek
 
 - [Ajtóstul nekirontani az túloldalról benyitó ellenfélnek](szituaciok/ajtostul_tamadni.md)
 - [Befolyásolás módszerei: Megfélemlítés, Csábítás, Átverés, hazudozás](szituaciok/befolyasolas_modszerei.md)
+- [Csapda hatástalanítás, mechanikus szerkezet szabotásása](szituaciok/csapda_hatatalanitas_szabotalas.md)
 - [Érzékelés, Aktív/Passzív Harci Észlelés, Áldozat mögé lopakodás](szituaciok/erzekeles_harci_eszleles_aktiv_passziv.md)
 - [Esés magasból](szituaciok/eses_magasbol.md)
 - [Hátbaszúrni harcolót](szituaciok/hatbaszurni_harcolot.md)
