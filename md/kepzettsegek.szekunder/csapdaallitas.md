@@ -13,7 +13,7 @@
 
 ### Szituációk
 
-[Csapda hatástalanítás](../szituaciok/csapda_hatatalanitas_szabotalas.md)
+[Csapda hatástalanítás, mechanikus szerkezet szabotásása](../szituaciok/csapda_hatatalanitas_szabotalas.md)
 
 ⭕TODO⭕
 
