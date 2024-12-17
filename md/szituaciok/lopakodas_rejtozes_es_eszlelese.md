@@ -19,6 +19,8 @@ Ilyen szituban a **Lopakodás/rejtőzést** általában **Ügyességgel**, az **
 
 ⭕TODO: Alapeset, módosítók: itt vagy a Lopakodás/rejtőzés oldalán?⭕
 
+<br />
+
 ### 🔆 Nem harci szituáció
 
 Sima próbadobás - NEM ellenpróba - adott nehézségre, melyet a KM határoz meg.
