@@ -12,7 +12,7 @@ Csak már felfedezett csapdát lehet hatástalanítani!
 
 `vs`
 
-Csapda komplexitásától függő **Nehézség** (maximum: a készítő **Csapdaállítás** képzettsége)
+Csapda komplexitásától függő **Nehézség** (maximum: a készítő által megdobott **Csapdaállítás** képzettségpróba Nehézsége)
 
 <br />
 
