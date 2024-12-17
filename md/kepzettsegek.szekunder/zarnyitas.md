@@ -4,10 +4,10 @@
 
 **Domináns Tulajdonságok**: Ügyesség, Önuralom
 
-### Kapcsolódó fortély
+### Kapcsolódik
 
-- [Mechanika](../fortelyok.altalanos/mechanika.md)
-- [Zártörő](../fortelyok.altalanos/zartoro.md)
+- [Mechanika](../fortelyok.altalanos/mechanika.md) fortély
+- [Zártörő](../fortelyok.altalanos/zartoro.md) fortély
 
 ### Leírás
 

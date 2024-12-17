@@ -2,9 +2,9 @@
 
 Épületek statikai ismerete, építésének módja, építészet korszakai, stílusainak ismerete.
 
-### Kapcsolódó fortély
+### Kapcsolódik
 
-- [Mechanika](mechanika.md)
+- [Mechanika](mechanika.md) fortély
 
 ### Kiterjeszti ezeket
 

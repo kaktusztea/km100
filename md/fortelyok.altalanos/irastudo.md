@@ -2,11 +2,11 @@
 
 Ismered a betűvésés és olvasás udományát.
 
-### Kapcsolódó fortélyok
+### Kapcsolódik
 
-- [Jogismeret](../fortelyok.szabad/jogismeret.md)
-- [Kalligráfia](../fortelyok.szabad/kalligrafia.md)
-- [Nyelvismeret](../fortelyok.kiemelt/nyelvismeret.md)
+- [Jogismeret](../fortelyok.szabad/jogismeret.md) fortély
+- [Kalligráfia](../fortelyok.szabad/kalligrafia.md) fortély
+- [Nyelvismeret](../fortelyok.kiemelt/nyelvismeret.md) fortély
 
 ### Kapcsolódó képzettségek
 

@@ -2,9 +2,9 @@
 
 Gyorsabban tudsz keresni, kutatni egy helyiségben.
 
-### Kapcsolódó fortély
+### Kapcsolódik
 
-[Keresés](kereses.md)
+[Keresés](kereses.md) fortély
 
 ### Alapeset
 
