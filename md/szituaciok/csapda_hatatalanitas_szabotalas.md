@@ -1,0 +1,33 @@
+## Csapda hatástalanítás, mechanikus szerkezet szabotásása
+
+
+Előfordul, hogy egy csapdát akarsz hatástalanítani, vagy mechanikus szerkezetet tönkretenni.
+
+Csak már felfedezett csapdát lehet hatástalanítani!
+
+### 🔆 Hagyományos csapda hatástalanítása / szabotálása
+
+[Csapdaállítás](../kepzettsegek.szekunder/csapdaallitas.md) + Intelligencia/Ügyesség/Emlékezet (KM dönt)
+- [Szabotőr](../fortelyok.altalanos/szabotor.md) fortély bónuszt ad (`+2`)
+
+`vs`
+
+Csapda komplexitásától függő **Nehézség** (maximum: a készítő **Csapdaállítás** képzettsége)
+
+<br />
+
+### 🔆 Mechanikus csapda hatástalanítása / szabotálása
+
+[Csapdaállítás](../kepzettsegek.szekunder/csapdaallitas.md) + Intelligencia/Ügyesség/Emlékezet (KM dönt)
+
+- **Erős kiterjesztés**:  [Mechanika](mechanika.md) (`2.foktól` ugye bónusz jár)
+- [Szabotőr](../fortelyok.altalanos/szabotor.md) fortély bónuszt ad (`+2`)
+
+<br />
+
+### 🔆 Mechanikus szerkezet szabotálása
+
+[Lexikum](../kepzettsegek.szekunder/lexikum.md) + Intelligencia/Ügyesség/Emlékezet (KM dönt)
+
+- **Erős kiterjesztés**:  [Mechanika](mechanika.md)
+- [Szabotőr](../fortelyok.altalanos/szabotor.md) fortély bónuszt ad (`+2`)
