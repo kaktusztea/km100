@@ -1,14 +1,19 @@
 ## 🟣 Szabotőr (1)
 
-Egy kis homok a gépezetbe.
+Egy kis homok a gépezetbe. Kifejezetten járatos vagy a csapdák/szerkezetek hatástalanításában, szabotálásában.
+
+## Szituáció
+
+[Csapda hatástalanítása, szabotálása](../szituaciok/csapda_hatatalanitas_szabotalas.md)
 
 ### 1. fok
 
-🔒 **Követelmény**: [Mechanika](mechanika.md) - `1.fok`
+🔒 **Követelmény**: [Csapdaállítás](../kepzettsegek.szekunder/csapdaallitas.md) - `6.szint`
 
-🌟 **Hatás**:
-- Ha egy csapdát akarsz hatástalanítani, vagy mechanikus szerkezetet tönkretenni, akkor [Kvantikum](../kepzettsegek.szekunder/kvantikum.md) képzettségpróbát dobsz, aminek [Mechanika](mechanika.md) követelménye van. Ekkor a Szabotőr fortély megléte esetén erre a dobásra **Mechanika** fokonként `+3` bónuszt kapsz.
-- Csak már felfedezett csapdákra vonatkozik!
+🌟 **Hatás**: Ha csapdákat/szerkezeteket hatástalanítanítasz
+- `+2` bónuszt kapsz a [Csapdaállítás](../kepzettsegek.szekunder/csapdaallitas.md) képzettségpróbádra.
+- Nem kapsz levonást ha a csapdát ⭕külső nyom hátrahagyása nélkül⭕link⭕ akarod hatástalanítani.
+- Nem kapsz levonást ha egy másik **Szabotőr** által hatástalanított csapdát akarsz kiszúrni, hogy már nem aktív.
 
 <br />
 
