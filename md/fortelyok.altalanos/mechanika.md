@@ -2,12 +2,12 @@
 
 A Fizikai és Matematikai ismeretek is ide tartoznak?? ⭕TODO⭕
 
-### Kapcsolódó fortély
+### Kapcsolódik
 
-- [Építészet](epiteszet.md) ⭕TODO⭕
-- [Keresés](kereses.md): csapdához, titkosajtóhoz, amiben szerkezet van
-- [Szabotőr](szabotor.md)
-- [Zárnyitás](../kepzettsegek.szekunder/zarnyitas.md): bónuszt ad rá a Mechanika (lásd ott)
+- [Építészet](epiteszet.md) fortély: ⭕TODO⭕
+- [Keresés](kereses.md) fortély: csapdához, titkosajtóhoz, amiben szerkezet van
+- [Szabotőr](szabotor.md) fortély
+- [Zárnyitás](../kepzettsegek.szekunder/zarnyitas.md) fortély: bónuszt ad rá a Mechanika (lásd ott)
 
 ### Kiterjeszti ezeket
 

@@ -6,10 +6,10 @@ Bővebben lásd az alábbi Szituációk fejezetét:
 - [Nyomok észrevétele, Nyomkövetés - természetben](../szituaciok/nyomok_nyomkovetes_termeszet.md)
 - [Nyomok észrevétele, Nyomkövetés - városi környezetben](../szituaciok/nyomok_nyomkovetes_varos.md)
 
-### Kapcsolódó fortély
+### Kapcsolódik
 
-- [Mechanika](mechanika.md)
-- [Villámgyors keresés](villamgyors.kereses.md)
+- [Mechanika](mechanika.md) fortély
+- [Villámgyors keresés](villamgyors.kereses.md) fortély
 
 ### Kiterjeszti ezeket
 
