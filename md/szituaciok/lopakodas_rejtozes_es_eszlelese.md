@@ -1,5 +1,8 @@
 ## Lopakodás/rejtőzés és észlelése
 
+⭕TODO ⭕ Az egész oldalt átdolgozni
+
+
 ### 🔆 Lopakodás - áldozat háta mögé (harcot megelőző szituáció)
 
 ```
@@ -20,7 +23,9 @@ Ilyen szituban a [Lopakodás/rejtőzést](../kepzettsegek.primer.altalanos/lopak
 
 ### 🔆 Nem harci szituáció
 
-Sima próbadobás - NEM ellenpróba - adott nehézségre, melyet a KM határoz meg.
+⭕TODO ⭕
+
+?? Sima próbadobás - NEM ellenpróba - adott nehézségre, melyet a KM határoz meg ??
 
 - Passzív észlelés: alap nehézség ellen dob
 - Aktív észlelés: egy kategóriával (`-3`) csökken a Nehézség
