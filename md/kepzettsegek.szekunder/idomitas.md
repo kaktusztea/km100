@@ -47,17 +47,19 @@ A felsorolt valamelyik 3 képzettség legfelső szintjein már olyan magas fokú
 ---
 ### Próbák
 
-| Célszám | Példa  |
-| :----------- | :----------- |
-| Könnyű       (6)  | |
-| Átlagos      (9)  | |
-| Nehéz        (12) | |
-| Nagyon nehéz (15) | |
-| Rendkívül nehéz (18) | |
-| Emberfeletti (21) | |
+| Célszám              | Példa                                                                         |
+| :------------------- | :---------------------------------------------------------------------------- |
+| Könnyű       (6)     | Egyszerű parancsok végrehajtása, mint "Ül!", "Áll!".                          |
+| Átlagos      (9)     | Komplexebb parancsok, mint tárgyak hozatása, átvitele valakinek.              |
+| Nehéz        (12)    | Speciális parancsok, mint védelmezés.                                         |
+| Nagyon nehéz (15)    | Állat irányítása veszélyes helyzetekben.                                      |
+| Rendkívül nehéz (18) | Telepatikus kapcsolat fenntartása, egyszerűbb gondolatok, érzések megosztása. |
+| Emberfeletti (21)    | Teljes érzelmi, értelmi egybeolvadás az állattal.                             |
 
 <br />
 
 ### Célszámot módosító körülmények
 
-- ⭕xyz
+- Az állat intelligenciája: `[-3; +3]`
+- Zavaró tényezők: zaj, villogó fények, harc: `[0; +6]`
+- Az állat meglevő idomítása: `[-3; 0]`
