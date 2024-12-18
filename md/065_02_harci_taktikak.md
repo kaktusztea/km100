@@ -162,6 +162,7 @@ Kapcsolódó fortély: [Fárasztás](fortelyok.harci/farasztas.md) harci fortél
 ### Visszafogott taktika ⇄
 
 ```
+Sebzéskocka változik:
 TÉ:-10  →  k20 helyett k10
 TÉ:-20  →  k20 helyett k6
 TÉ:-30  →  nincs kockadobás
