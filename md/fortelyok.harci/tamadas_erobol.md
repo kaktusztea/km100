@@ -1,8 +1,14 @@
 ## 🟣 Támadás erőből (2)
 
-Lassabbat, de nagyobbat ütsz.
+Lassabbat, de nagyobbat ütsz. `TÉ`-ből átrakhatsz **SP** értékedre `1:3` váltószámmal.
 
-`TÉ`-ből átrakhatsz **SP** értékedre `1:3` váltószámmal.
+```
+TÉ:-3, SP:+1
+...
+TÉ:-9, SP:+3
+...
+TÉ:-18, SP:+6
+```
 
 ### 1. fok
 
@@ -19,7 +25,7 @@ Lassabbat, de nagyobbat ütsz.
 - Erő: `+3`
 - Harcmodor - `6.szint`<br /> (Kardvívás / Lándzsavívás / Zúzás)
 
-🌟 **Hatás**: legfeljebb `+6 SP` (`TÉ:-12`) pakolható át
+🌟 **Hatás**: legfeljebb `+6 SP` (`TÉ:-18`) pakolható át
 
 ---
 ### Megjegyzések
