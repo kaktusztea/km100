@@ -5,29 +5,28 @@
 
 **Próba:** ⭕dobható / ⭕nincs, csak biztos tudásból
 
-**Domináns Tulajdonságok**: ⭕xyz
+**Domináns Tulajdonságok**: ⭕TODO⭕
 
 ### Kapcsolódik
 
-⭕xyz  ((fortély, más képzettség ahol ez a képzettség említve van. Ha nincs, törölni))
+⭕TODO  ((fortély, más képzettség ahol ez a képzettség említve van. Ha nincs, törölni))⭕
 
 ### Követelmény
 
-⭕ ha ez egy fortély, akkor tegyük az "Erős kiterjesztés" szekcióba.
+⭕ ha ez egy fortély, akkor tegyük az "Erős kiterjesztés" szekcióba.⭕
 ⭕ ((ha nincs, törölni))
 
 ### Normál kiterjesztés
 
-⭕xyz. Ha nincs, törölni
+⭕TODO. Ha nincs, törölni⭕
 
 ### Erős kiterjesztés
 
-⭕xyz. Ha nincs, törölni
+⭕TODO. Ha nincs, törölni
 
 ### Bónuszok
 
-⭕xyz
-
+⭕TODO⭕
 
 <br />
 
@@ -37,48 +36,73 @@
 #### Novívius (3)
 
 🔒 Követelmény:
-- Tulajdonság: `+1`
-- Képzettség - `1.szint`
+- ⭕Tulajdonság⭕: ⭕`+1`⭕
+- ⭕Képzettség⭕ - ⭕`1.szint`⭕
 
-🌟 Hatás:
-((Speciális, tanulható fortély, különleges  képesség is ide jön))
+🌟 Hatás: ⭕TODO: ((Speciális, tanulható fortély, különleges képesség is ide jön))⭕
 
 ---
 #### Kismester (6)
 
-🔒 Követelmény:
+🔒 Követelmény: ⭕TODO⭕
 
-🌟 Hatás:
+🌟 Hatás: ⭕TODO: ((Speciális, tanulható fortély, különleges képesség is ide jön))⭕
+
+<br />
+
+---
+#### Mester (9)
+
+🔒 Követelmény: ⭕TODO⭕
+
+🌟 Hatás: ⭕TODO: ((Speciális, tanulható fortély, különleges képesség is ide jön))⭕
+
+<br />
+
+---
+#### Nagymester (12)
+
+🔒 Követelmény:  ⭕TODO⭕
+
+🌟 Hatás: ⭕TODO: ((Speciális, tanulható fortély, különleges képesség is ide jön))⭕
+
+<br />
+
+---
+#### Élő legenda (15)
+
+🔒 Követelmény:  ⭕TODO⭕
+
+🌟 Hatás: ⭕TODO: ((Speciális, tanulható fortély, különleges képesség is ide jön))⭕
 
 <br />
 
 ---
 ### Próbák
 
-
 #### Könnyű (6)
 
-lorem
+⭕TODO⭕
 
 #### Átlagos (9)
 
-lorem
+⭕TODO⭕
 
 #### Nehéz (12)
 
-lorem
+⭕TODO⭕
 
 #### Nagyon nehéz (15)
 
-lorem
+⭕TODO⭕
 
 #### Rendkívül nehéz (18)
 
-lorem
+⭕TODO⭕
 
 #### Emberfeletti (21)
 
-lorem
+⭕TODO⭕
 
 
 <br />
@@ -86,4 +110,4 @@ lorem
 ---
 ### Célszámot módosító körülmények
 
-- ⭕xyz
+- ⭕TODO⭕
