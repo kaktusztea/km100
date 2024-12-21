@@ -6,6 +6,7 @@
 
 ```
 Mászás: 7.szint
+
 Ügyesség: +3
 Edzettség: +3
 Erő: +2
