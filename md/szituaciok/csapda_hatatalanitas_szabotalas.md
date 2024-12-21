@@ -1,4 +1,4 @@
-## Csapda hatástalanítás, mechanikus szerkezet szabotásása
+## Csapda hatástalanítás, mechanikus szerkezet szabotálása
 
 
 Előfordul, hogy egy csapdát akarsz hatástalanítani, vagy mechanikus szerkezetet tönkretenni.
