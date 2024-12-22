@@ -4,9 +4,9 @@
 
 Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
-Takarásban, zajkeltés nélkül odaosonni helyekre, átsiklani őrök között, áldozat háta mögé sunnyogni.
+Takarásban, zajkeltés nélkül odaosonni helyekre, átsiklani őrök között, áldozat háta mögé sunnyogni, beolvadni a környezetbe, elbújni az üldözők elől.
 
-A képzettség ismeretei alá odatartozik a rejtőzködés is.
+A képzettség ismeretei alá tartozik a rejtőzködés is.
 
 ### Domináns Tulajdonságok
 
@@ -45,7 +45,7 @@ A képzettség ismeretei alá odatartozik a rejtőzködés is.
 
 Ennek a képzettségnek a próbadobásai jellemzően ellepróbák az [Észlelés](eszleles.md) képzettséggel. Bővebben lásd a [Lopakodás/rejtőzés és észlelése](../szituaciok/lopakodas_rejtozes_es_eszlelese.md) szituációt.
 
-**Alapeset**: kőpadló, nem zajos ruha, félhomály (közepes fáklyafény), gyenge alapzaj (pl. tücsök cirip, fáklya ropogás)
+Nem ellenpróbás szituációban tapasztalati ismeretekre támaszkodás történik.
 
 | Célszám              | Példa                                       |
 | :------------------- | :------------------------------------------ |
@@ -56,13 +56,12 @@ Ennek a képzettségnek a próbadobásai jellemzően ellepróbák az [Észlelés
 | Rendkívül nehéz (18) | ⭕                                           |
 | Emberfeletti (21)    | ⭕                                           |
 
-
 ---
 ### Célszámot módosító körülmények
 
 #### 🔆 Hallás
 
-Alapeset: nem zajos ruha, gyenge alapzaj (pl. tücsök cirip, fáklya ropogás, erdő hangjai; város halk moraja, szomszédok neszezése)
+Alapeset: nem zajos ruha, gyenge alapzaj, például tücsök ciripelés, fáklya ropogás, erdő hangjai; város halk moraja, szomszédok neszezése.
   
 ⚜️ **Felszerelés**
 

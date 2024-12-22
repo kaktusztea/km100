@@ -1,31 +1,35 @@
 ## Lopakodás/rejtőzés és észlelése
 
-⭕TODO ⭕ Az egész oldalt átdolgozni
-
-
-### 🔆 Lopakodás - áldozat háta mögé (harcot megelőző szituáció)
+Ilyen szituációban a [Lopakodás/rejtőzést](../kepzettsegek.primer.altalanos/lopakodas_rejtozes.md) általában **Ügyességgel**, vagy **Önuralommal** az [Észlelést](../kepzettsegek.primer.altalanos/eszleles.md) pedig **Érzékenység** Tulajdonsággal dobjuk.
 
 ```
-Lopakodás/rejtőzés + Ügyesség
+Lopakodás/rejtőzés + Ügyesség/Önuralom
           vs.
-Észlelés + Érzékenység  (+3)
+Észlelés + Érzékenység  (+3 aktívnál)
 ```
 
-Ilyen szituban a [Lopakodás/rejtőzést](../kepzettsegek.primer.altalanos/lopakodas_rejtozes.md) általában **Ügyességgel**, az [Észlelést](../kepzettsegek.primer.altalanos/eszleles.md) pedig **Érzékenység** Tulajdonsággal dobjuk.
+### ⚜️ Alapeset
 
-- ⚜️ Passzív észlelés: ha az észlelő passzívan szemlélődik, mikor a támadás éri: alap ellenpróba
-  (alapeset leírását és a próba körülményeit, módosítóit lásd a [Lopakodás/rejtőzés](../kepzettsegek.primer.altalanos/lopakodas_rejtozes.md) képzettség leírásánál!)
-- ⚜️ Aktív észlelés: ha az észlelő odafigyel, számít a támadásra: `+3` jár [Észlelés](../kepzettsegek.primer.altalanos/eszleles.md) próbájára
+Leírását és a próba körülményeit, módosítóit lásd a [Lopakodás/rejtőzés](../kepzettsegek.primer.altalanos/lopakodas_rejtozes.md) képzettség leírásánál.
 
-⭕TODO: Alapeset, módosítók: itt vagy a Lopakodás/rejtőzés oldalán?⭕
+### ⚜️ Módosítók
 
-<br />
+A **Lopakodás/rejtőzés** képzettség oldalán a [Célszámok, módosító körülmények](../kepzettsegek.primer.altalanos/lopakodas_rejtozes.md#c%C3%A9lsz%C3%A1mot-m%C3%B3dos%C3%ADt%C3%B3-k%C3%B6r%C3%BClm%C3%A9nyek) bekezdés alatt található.
 
-### 🔆 Nem harci szituáció
+### ⚜️ Passzív észlelés
 
-⭕TODO ⭕
+Ha az észlelő passzívan szemlélődik: **alap ellenpróba**
 
-?? Sima próbadobás - NEM ellenpróba - adott nehézségre, melyet a KM határoz meg ??
+### ⚜️ Aktív észlelés
 
-- Passzív észlelés: alap nehézség ellen dob
-- Aktív észlelés: egy kategóriával (`-3`) csökken a Nehézség
+```
+Észlelés dobás: +3
+```
+
+Ha az észlelő odafigyel, számít a támadásra: `+3` jár [Észlelés](../kepzettsegek.primer.altalanos/eszleles.md) próbájára.
+
+### ⚜️  Csoport ember elől kell elbújni
+
+A csoport tagjai közül a legmagasabb **Észlelés** képzettséggel rendelkező dob.
+
+Észelés próba bónusz: `+3`
