@@ -1,8 +1,10 @@
 ## 🔵 Zárnyitás
 
-**Próba:** dobható
+⭕TODO⭕
 
-**Domináns Tulajdonságok**: Ügyesség, Önuralom
+### Domináns Tulajdonságok
+
+Ügyesség, Önuralom
 
 ### Kapcsolódik
 

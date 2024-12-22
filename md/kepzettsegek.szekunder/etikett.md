@@ -1,8 +1,14 @@
 ## 🔵 Etikett
 
-**Próba**: dobható, sokszor [összetett próba](../036_kepzettsegproba.md#összetett-képzettségpróba-másodlagos-próbadobások) indokolt
+⭕TODO⭕
 
-**Domináns Tulajdonságok**: Érzékenység, Intelligencia, Önuralom, Emlékezet
+### Próba speciális
+
+Sokszor [összetett próba](../036_kepzettsegproba.md#összetett-képzettségpróba-másodlagos-próbadobások) indokolt.
+
+### Domináns Tulajdonságok
+
+Érzékenység, Intelligencia, Önuralom, Emlékezet
 
 ### Normál kiterjesztés
 

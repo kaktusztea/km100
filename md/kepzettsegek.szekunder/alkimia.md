@@ -1,8 +1,10 @@
 ## 🔵 Alkímia
 
-**Próba:** dobható
+⭕TODO⭕
 
-**Domináns Tulajdonságok**: Intelligencia, Emlékezet
+### Domináns Tulajdonságok
+
+Intelligencia, Emlékezet
 
 ### Kapcsolódik
 

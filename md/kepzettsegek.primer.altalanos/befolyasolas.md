@@ -4,9 +4,10 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
 Mások meggyőzését, szándékainknak megfelelő cselekedetek elérését fedi. Alapból sima érveléstechinka, de a lenti Fortélyokkal **kiterjeszthető** más szituációkra is.
 
-**Próba:** dobható
+### Domináns Tulajdonságok
 
-**Domináns Tulajdonságok**: Intelligencia, Érzékenység
+Intelligencia, Érzékenység
+
 ### Kapcsolódik
 
 - [Emberismeret](emberismeret.md) képzettség
@@ -51,24 +52,24 @@ Például a játékos nem feccöl bele túl sok energiát sem a karaktere megsze
 
 | Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub> | Követelmény |
 |:---------------- |:---------------------------------------------------------------------------------- |:-----------:|
-| Novícius (3)     | xyz <br /> **Példa**: x                                                            |             |
-| Kismester (6)    | xyz <br /> **Példa**: x                                                            |             |
-| Mester (9)       | xyz <br /> **Példa**: x                                                            |             |
-| Nagymester (12)  | xyz <br /> **Példa**: x                                                            |             |
-| Élő legenda (15) | xyz <br /> **Példa**: x                                                            |             |
+| Novícius (3)     | ⭕TODO <br /> **Példa**: x                                                          |             |
+| Kismester (6)    | ⭕TODO <br /> **Példa**: x                                                          |             |
+| Mester (9)       | ⭕TODO <br /> **Példa**: x                                                          |             |
+| Nagymester (12)  | ⭕TODO <br /> **Példa**: x                                                          |             |
+| Élő legenda (15) | ⭕TODO <br /> **Példa**: x                                                          |             |
 
 <br />
 
 ### Próbák
 
-| Célszám | Példa  |
-| :----------- | :----------- |
-| Könnyű       (6)  | |
-| Átlagos      (9)  | |
-| Nehéz        (12) | |
-| Nagyon nehéz (15) | |
-| Rendkívül nehéz (18) | |
-| Emberfeletti (21) | |
+| Célszám              | Példa |
+| :------------------- | :---- |
+| Könnyű       (6)     | ⭕     |
+| Átlagos      (9)     | ⭕     |
+| Nehéz        (12)    | ⭕     |
+| Nagyon nehéz (15)    | ⭕     |
+| Rendkívül nehéz (18) | ⭕     |
+| Emberfeletti (21)    | ⭕     |
 
 <br />
 

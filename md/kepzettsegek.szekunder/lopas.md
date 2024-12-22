@@ -2,6 +2,10 @@
 
 Tipikusan ellenpróbás képesség. Helyzettől függ a módosítók mértéke.
 
+### Domináns Tulajdonságok
+
+Ügyesség, Önuralom
+
 ### ⚡ Példa szituáció 1:  Nemeshölgy testőrrel
 
 `a.)` Nem tudja a tolvaj, hogy ott a testőr: Két **Lopás** próba

@@ -1,8 +1,10 @@
 ## 🔵 Lovaglás
 
-**Próba**: dobható
+⭕TODO⭕
 
-**Domináns Tulajdonságok**: Önuralom, Ügyesség, Gyorsaság
+### Domináns Tulajdonságok
+
+Önuralom, Ügyesség, Gyorsaság
 
 ### Kapcsolódik
 

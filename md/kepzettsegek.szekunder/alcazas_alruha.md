@@ -4,9 +4,9 @@
 - Ellenpróbával menjen? Melyik képzettséggel? Álcázás/álruha vs. Észlelés VAGY Emberismeret??
 ````
 
-**Próba**: dobható
+### Domináns Tulajdonságok
 
-**Domináns Tulajdonságok**: Ügyesség, Intelligencia, Önuralom, Érzékenység
+Ügyesség, Intelligencia, Önuralom, Érzékenység
 
 ### Kapcsolódik
 

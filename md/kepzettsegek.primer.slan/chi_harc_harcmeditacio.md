@@ -2,9 +2,13 @@
 
 ⭕TODO: kidolgozni⭕
 
-**Próba:** nincs, csak biztos tudásból
+### Próba
 
-**Domináns Tulajdonságok**: Érzékenység
+Nincs, csak biztos tudásból.
+
+### Domináns Tulajdonságok
+
+Érzékenység
 
 ### Kapcsolódik
 

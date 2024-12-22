@@ -2,9 +2,9 @@
 
 Az alkotás, az kézzel alkotott műremekek aktív, ihletett kreálása.
 
-**Próba:** dobható
+### Domináns Tulajdonságok
 
-**Domináns Tulajdonságok**: Érzékenység, Ügyesség
+Érzékenység, Ügyesség
 
 ### Kapcsolódik
 

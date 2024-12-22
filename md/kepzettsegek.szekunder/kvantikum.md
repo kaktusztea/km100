@@ -2,9 +2,9 @@
 
 Professzor, vagy számokkal dolgozó tudósember vagy, a tudás a legfőbb kincsed. 
 
-**Próba:** dobható
+### Domináns Tulajdonságok
 
-**Domináns Tulajdonságok**: Intelligencia, Emlékezet
+Intelligencia, Emlékezet
 
 ### Normál kiterjesztés
 

@@ -2,9 +2,10 @@
 
 Passzív műélvezet, a műalkotások ismerete, kritizálása, lexikális és érzelmi ismerete.
 
-**Próba:** dobható
+### Domináns Tulajdonságok
 
-**Domináns Tulajdonságok**: Emlékezet, Intelligencia, Érzékenység
+Emlékezet, Intelligencia, Érzékenység
+
 ### Normál kiterjesztés
 
 - [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) (adott kultúra): enélkül érvényes a levonás mindegyik lenti művészeti ágra.

@@ -1,8 +1,10 @@
 ## 🔵 Városi jártasság
 
-**Próba:** dobható
+⭕TODO⭕
 
-**Domináns Tulajdonságok**: Emlékezet, Intelligencia
+### Domináns Tulajdonságok
+
+Emlékezet, Intelligencia
 
 ### Normál kiterjesztés
 

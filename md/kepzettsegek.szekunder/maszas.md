@@ -2,9 +2,8 @@
 
 Sokszor fordul elő, hogy fel kell jutni olyan helyekre, ahova egy átlagember nem képes. Ebben segít a Mászás képzettség. Magas szintű alkalmazói jellemzően egyes tolvaj- és fejvadászklánok elit tagjai.
 
-**Próba**: dobható
+### Domináns Tulajdonságok
 
-**Domináns Tulajdonságok**:
 - Ügyesség, Edzettség (a mászáshoz): technikás, rövid úthoz az Ügyesség, hosszabb úthoz az Edzettség a javasolt
 - Önuralom (rontott próbánál)
 - Erő (erőtartalék kritikus helyzetben)
