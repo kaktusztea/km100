@@ -1,6 +1,6 @@
 ## Fortélyok képzettségkiterjesztés listája
 
-![](images/038_fortelyok_kiterjeszteslistaja.jpg)
+![](images/038_fortelyok_kiterjeszteslistaja.png)
 
 ---
 
