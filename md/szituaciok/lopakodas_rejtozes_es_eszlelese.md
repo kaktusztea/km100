@@ -16,7 +16,7 @@ Leírását és a próba körülményeit, módosítóit lásd a [Lopakodás/rejt
 
 ### ⚜️ Módosítók
 
-A **Lopakodás/rejtőzés** képzettség oldalán a [Célszámok, módosító körülmények](../kepzettsegek.primer.altalanos/lopakodas_rejtozes.md#c%C3%A9lsz%C3%A1mot-m%C3%B3dos%C3%ADt%C3%B3-k%C3%B6r%C3%BClm%C3%A9nyek) bekezdés alatt található.
+A **Lopakodás/rejtőzés** képzettség oldalán a [Célszámok, módosító körülmények](../kepzettsegek.primer.altalanos/lopakodas_rejtozes.md#%EF%B8%8F-alapeset) bekezdés alatt található.
 
 <br />
 
