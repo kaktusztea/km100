@@ -33,3 +33,21 @@ Ha az észlelő odafigyel, számít a támadásra: `+3` jár [Észlelés](../kep
 A csoport tagjai közül a legmagasabb **Észlelés** képzettséggel rendelkező dob.
 
 Észelés próba bónusz: `+3`
+
+### ⚜️  Hátulról, látótéren kívülről hátbaszúró szituációig eljutni
+
+Tegyük fel, hogy az éjjeli, csendes palota folyósóján az őr mögé lopakodni, majd hátbaszúrni.
+
+Lopakodás/rejtőzés módosítók
+- `-3`: Környezeti zajok: süket csend
+- `+6`: Lopakodó helyzete: mozgás a látótéren kívül
+- `-9`: Távolság: Testközelbe kerülni
+
+Észlelés módosítók
+- `+0`: passzív észlelés
+
+```
+Lopakodás/rejtőzés (-6)
+        vs
+Észlelés (palotaőr)
+```
