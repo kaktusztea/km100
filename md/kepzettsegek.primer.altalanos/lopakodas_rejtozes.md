@@ -88,10 +88,10 @@ Távolság. `10-15` méter
 - `+0`: mozgás a látás periférián
 - `+6`: mozgás a látótéren kívül
 
-### ⚜️ Távolság módosító
+### ⚜️ Távolság módosító, Harci szituáció megteremtése
 
-- `-9: Testközelbe kerülni`
-- `-6: 1 - 5 méter`
+- `-9: Testközelbe kerülni; Észrevétlen támadás`
+- `-6: 1 - 5 méter; Meglepetésből támadás`
 - `-3: 6 - 9 méter`
 - `+0: 10 - 15 méter` 🔆
 - `+3: 16 - 20 méter`
