@@ -73,6 +73,6 @@ Például a játékos nem feccöl bele túl sok energiát sem a karaktere megsze
 
 <br />
 
-### Célszámot módosító körülmények
+### Módosító körülmények
 
 - ⭕xyz

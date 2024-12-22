@@ -72,6 +72,6 @@ A rejtett nyomok megtalálásához az **[Észlelés](eszleles.md)** képzettség
 
 <br />
 
-### Célszámot módosító körülmények
+### Módosító körülmények
 
 - ⭕xyz

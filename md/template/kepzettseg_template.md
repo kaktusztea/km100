@@ -113,6 +113,6 @@
 <br />
 
 ---
-### Célszámot módosító körülmények
+### Módosító körülmények
 
 - ⭕TODO⭕

@@ -55,3 +55,7 @@ Könyvtárazás, tárgyi ismeretek gyűjtése, rengeteg olvasás, magolás. Igaz
 | Nagyon nehéz (15)    | ⭕     |
 | Rendkívül nehéz (18) | ⭕     |
 | Emberfeletti (21)    | ⭕     |
+
+### Módosító körülmények
+
+- Könyvtár: `[+1; +6]`

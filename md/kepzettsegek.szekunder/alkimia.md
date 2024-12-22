@@ -62,6 +62,6 @@ A jól felszerelt, világi tudósok, királyi kegyeltek, buzgó kutatók szakter
 
 <br />
 
-### Célszámot módosító körülmények
+### Módosító körülmények
 
-Rosszul felszerelt labor, műszerek hiánya: `[+3-9]`
+Rosszul felszerelt labor, műszerek hiánya: `[-3; -9]`

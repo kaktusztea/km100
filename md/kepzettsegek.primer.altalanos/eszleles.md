@@ -2,7 +2,7 @@
 
 Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
-**Kapcsolódó főfejezet**: [Érzékelés, észlelés](../szituaciok/erzekeles_harci_eszleles_aktiv_passziv.md)
+**Kapcsolódó főfejezet**: [Érzékelés, észlelés](../szituaciok/erzekeles_eszleles_aktiv_passziv.md)
 
 ### Domináns Tulajdonságok
 
@@ -22,7 +22,7 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
 ### Szituációk
 
-- [Érzékelés, Aktív/Passzív Harci Észlelés, Áldozat mögé lopakodás](../szituaciok/erzekeles_harci_eszleles_aktiv_passziv.md)
+- [Érzékelés, Aktív/Passzív Harci Észlelés, Áldozat mögé lopakodás](../szituaciok/erzekeles_eszleles_aktiv_passziv.md)
 - [Nyomok észrevétele, Nyomkövetés - városi környezetben](../szituaciok/nyomok_nyomkovetes_varos.md)
 
 <br />
@@ -54,8 +54,8 @@ Nincs kiemelt szinteken megkapott biztos tudás.
 
 <br />
 
-### Célszámot módosító körülmények
+### Módosító körülmények
 
-- Gyorsan, nyomás alatt keresni: `+3`
-- Zavaró körülmények: `[+1;+6]`
-- Ha az észlelés aktív: `-3` (egy kategória)
+- Gyorsan, nyomás alatt keresni: `-3`
+- Zavaró körülmények: `[-1;-6]`
+- Ha az észlelés aktív: `+3`

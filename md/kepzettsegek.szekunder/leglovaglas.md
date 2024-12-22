@@ -50,7 +50,7 @@ Ritka szerencsés, aki ezt a képzettséget tanulhatja, mert Yn3v kevés levegő
 
 <br />
 
-### Célszámot módosító körülmények
+### Módosító körülmények
 
-- Vad hátas: `+[1-3]`
+- Vad hátas: `[-1; -3]`
 - Más fajú légi hátas esetén: [Lénylovas](../fortelyok.szabad/lenylovas.md) Szabad Fortély

@@ -42,6 +42,6 @@ Lásd: [STUDY: Aura](https://github.com/kaktusztea/km100/wiki/STUDY.magia.Aura#m
 
 <br />
 
-### Célszámot módosító körülmények
+### Módosító körülmények
 
 - ⭕xyz

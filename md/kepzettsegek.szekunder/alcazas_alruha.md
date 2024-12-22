@@ -69,7 +69,7 @@ Ennek Nehézsége függ a tömeg nagyságától is: `9-15` között mozog jellem
 
 <br />
 
-### Célszámot módosító körülmények
+### Módosító körülmények
 
-- Gyors átöltözés: körülménytől függ: \[+1-6\]
-- Szegényes felszerelés: \[+1-6\]
+- Gyors átöltözés: körülménytől függ: `[-1; -6]`
+- Szegényes felszerelés: `[-1; -6]`
