@@ -48,12 +48,12 @@ A csoport tagjai közül a legmagasabb **Észlelés** képzettséggel rendelkez�
 
 Tegyük fel, hogy az éjjeli, csendes palota folyósóján az őr mögé lopakodni, majd hátbaszúrni. A módosítókat a [Lopakodás/rejtőzés](../kepzettsegek.primer.altalanos/lopakodas_rejtozes.md#%EF%B8%8F-alapeset) képzettség módosítók bekezdéséből vettük.
 
-Lopakodás/rejtőzés módosítók
+#### Lopakodás/rejtőzés módosítók
 - `-3`: Környezeti zajok: süket csend
 - `+6`: Lopakodó helyzete: mozgás a látótéren kívül
 - `-9`: Távolság: Testközelbe kerülni
 
-Észlelés módosítók
+#### Észlelés módosítók
 - `+0`: passzív észlelés
 
 ```
