@@ -2,10 +2,15 @@
 
 <--- Leírás ide jön --->
 
+### ⭕ Próba / Próba speciális
 
-**Próba:** ⭕dobható / ⭕nincs, csak biztos tudásból
+<--- Csak akkor  kell ez a szekció, ha nem dobható --->
 
-**Domináns Tulajdonságok**: ⭕TODO⭕
+⭕Nincs, csak biztos tudásból
+
+### Domináns Tulajdonságok
+
+⭕TODO⭕
 
 ### Kapcsolódik
 

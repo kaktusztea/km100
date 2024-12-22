@@ -8,11 +8,9 @@ Takarásban, zajkeltés nélkül odaosonni helyekre, átsiklani őrök között,
 
 A képzettség ismeretei alá odatartozik a rejtőzködés is.
 
-<br />
+### Domináns Tulajdonságok
 
-**Próba:** dobható
-
-**Domináns Tulajdonságok**: Ügyesség, Önuralom
+Ügyesség, Önuralom
 
 ### Kapcsolódik
 
@@ -33,32 +31,31 @@ A képzettség ismeretei alá odatartozik a rejtőzködés is.
 
 ### Biztos tudás, követelmények
 
-| Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub> | Követelmény |
-|:---------------- |:---------------------------------------------------------------------------------- |:-----------:|
-| Novícius (3)     | ⭕xyz <br /> **Példa**: x                                                          |             |
-| Kismester (6)    | ⭕xyz <br /> **Példa**: x                                                          |             |
-| Mester (9)       | ⭕xyz <br /> **Példa**: x                                                          |             |
-| Nagymester (12)  | ⭕xyz <br /> **Példa**: x                                                          |             |
-| Élő legenda (15) | ⭕xyz <br /> **Példa**: x                                                          |             |
+| Képzettség szint | Biztos tudás, Speciális <br /><sub>(tanulható fortély, különleges  képesség)</sub> |  Követelmény   |
+| :--------------- | :--------------------------------------------------------------------------------- | :------------: |
+| Novícius (3)     | ⭕xyz <br /> **Példa**: x                                                           | Önuralom: `+0` |
+| Kismester (6)    | ⭕xyz <br /> **Példa**: x                                                           | Önuralom: `+0` |
+| Mester (9)       | ⭕xyz <br /> **Példa**: x                                                           | Önuralom: `+1` |
+| Nagymester (12)  | ⭕xyz <br /> **Példa**: x                                                           | Önuralom: `+2` |
+| Élő legenda (15) | ⭕xyz <br /> **Példa**: x                                                           | Önuralom: `+2` |
 
 <br />
 
 ### Próbák
 
-Ennek a képzettségnek a próbadobásai jellemzően ellepróbák.
+Ennek a képzettségnek a próbadobásai jellemzően ellepróbák az [Észlelés](eszleles.md) képzettséggel. Bővebben lásd a [Lopakodás/rejtőzés és észlelése](../szituaciok/lopakodas_rejtozes_es_eszlelese.md) szituációt.
 
 **Alapeset**: kőpadló, nem zajos ruha, félhomály (közepes fáklyafény), gyenge alapzaj (pl. tücsök cirip, fáklya ropogás)
 
 | Célszám              | Példa                                       |
-|:-------------------- |:------------------------------------------- |
-| Könnyű       (6)     | ⭕                                          |
+| :------------------- | :------------------------------------------ |
+| Könnyű       (6)     | ⭕                                           |
 | Átlagos      (9)     | Piacon gyorsan kiszúrni a jó rejtekhelyet   |
 | Nehéz        (12)    | Egy kihalt köztéren jó rejtekhelyet találni |
-| Nagyon nehéz (15)    | ⭕                                          |
-| Rendkívül nehéz (18) | ⭕                                          |
-| Emberfeletti (21)    | ⭕                                          |
+| Nagyon nehéz (15)    | ⭕                                           |
+| Rendkívül nehéz (18) | ⭕                                           |
+| Emberfeletti (21)    | ⭕                                           |
 
-<br />
 
 ---
 ### Célszámot módosító körülmények

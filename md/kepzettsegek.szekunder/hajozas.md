@@ -2,9 +2,9 @@
 
 A hajózás képessége magában foglalja a hajók kezelését, irányítását és a tengeri navigációt.
 
-**Próba:** dobható
+### Domináns Tulajdonságok
 
-**Domináns Tulajdonságok**: Érzékenység, Intelligencia, Emlékezet, Ügyesség
+Érzékenység, Intelligencia, Emlékezet, Ügyesség
 
 ### Kapcsolódik
 

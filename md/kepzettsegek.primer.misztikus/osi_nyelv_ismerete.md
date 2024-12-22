@@ -1,15 +1,18 @@
 ## 🔵 Ősi nyelv ismerete 🔁
 
+→ [STUDY](https://github.com/kaktusztea/km100/wiki/STUDY.osi.nyelv.ismerete)
+
 Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
 Ősi nyelvenként külön-külön kell felvenni.
 
-→ [STUDY](https://github.com/kaktusztea/km100/wiki/STUDY.osi.nyelv.ismerete)
+### Próba
 
----
-**Próba:** ⭕dobható / ⭕nincs, csak biztos tudásból
+⭕Dobható / ⭕Nincs, csak biztos tudásból ???
 
-**Domináns Tulajdonságok**: Emlékezet
+### Domináns Tulajdonságok
+
+Emlékezet
 
 ### Leírás
 

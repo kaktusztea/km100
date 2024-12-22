@@ -2,9 +2,6 @@
 
 Ez egy [Primer (harci) képzettség](../015_primer_szekunder_ismeretek.md).
 
-**Próba:** nincs, csak biztos tudásból
-
-**Leírás**:\
 A harcmodorok a közvetlenül, fegyverrel való harc képességét fedik le. Kategóriánként külön-külön fel kell venni rájuk a képzettséget.\
 Alább összesen 4 különálló ilyen harcmodor képzettség általános leírását találjuk:
 - Közelharc
@@ -14,7 +11,13 @@ Alább összesen 4 különálló ilyen harcmodor képzettség általános leír�
 
 Ezek a képzettségek - szintjüktől függően - büntetéseket/bónuszokat adnak harcértékedre. Bővebben lásd a [Harcértékek elemei - Harcmodor képzettségek](../062_02_harcmodor_kepzettsegek_es_bonuszaik.md) fejezetet.
 
-**Speciális**: a képzettség minden `3. szintje` után `1` [Manőver Pont](../017_02_manover_pontok.md) jár.
+### Próba
+
+Nincs, csak biztos tudásból
+
+### Speciális
+
+A képzettség minden `3. szintje` után `1` [Manőver Pont](../017_02_manover_pontok.md) jár.
 
 <br />
 

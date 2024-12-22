@@ -1,8 +1,10 @@
 ## 🔵 Idomítás
 
-**Próba:** dobható
+⭕TODO⭕
 
-**Domináns Tulajdonságok**: Érzékenység, Intelligencia, Emlékezet
+### Domináns Tulajdonságok
+
+Érzékenység, Intelligencia, Emlékezet
 
 ### Normál kiterjesztés
 

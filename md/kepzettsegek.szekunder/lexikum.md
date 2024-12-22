@@ -2,9 +2,9 @@
 
 Általános ismeret amely a tárgyi tudásra támaszkodó tudományok alapját adja. 
 
-**Próba:** dobható
+### Domináns Tulajdonságok
 
-**Domináns Tulajdonságok**: Emlékezet, Intelligencia
+Emlékezet, Intelligencia
 
 ### Normál kiterjesztés
 

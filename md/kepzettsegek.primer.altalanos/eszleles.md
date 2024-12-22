@@ -4,9 +4,9 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
 **Kapcsolódó főfejezet**: [Érzékelés, észlelés](../szituaciok/erzekeles_harci_eszleles_aktiv_passziv.md)
 
-**Próba**: dobható
+### Domináns Tulajdonságok
 
-**Domináns Tulajdonságok**: Érzékenység (fizikai érzékekre is ez használandó), Intelligencia
+Érzékenység (fizikai érzékekre is ez használandó), Intelligencia
 
 ### Kapcsolódik
 

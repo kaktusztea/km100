@@ -2,9 +2,9 @@
 
 Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
-**Próba:** dobható
+### Domináns Tulajdonságok
 
-**Domináns Tulajdonságok**: Intelligencia, Emlékezet
+Intelligencia, Emlékezet
 
 ### Normál kiterjesztés
 

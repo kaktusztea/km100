@@ -2,6 +2,10 @@
 
 ⭕TODO⭕
 
+### Domináns Tulajdonságok
+
+Intelligencia, Önuralom
+
 ### Erős kiterjesztés
 
 [Mechanika](../fortelyok.altalanos/mechanika.md): mechanikus csapdákat készíteni/hatástalanítani

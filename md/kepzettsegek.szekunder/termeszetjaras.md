@@ -1,8 +1,10 @@
 ## 🔵 Természetjárás
 
-**Próba:** dobható
+⭕TODO⭕
 
-**Domináns Tulajdonságok**: Érzékenység, Intelligencia
+### Domináns Tulajdonságok
+
+Érzékenység, Intelligencia
 
 ### Normál kiterjesztés
 

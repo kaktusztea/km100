@@ -1,8 +1,10 @@
 ## 🔵 Előadóművészet
 
-**Próba:** dobható
+⭕TODO⭕
 
-**Domináns Tulajdonságok**: Érzékenység, Emlékezet
+### Domináns Tulajdonságok
+
+Érzékenység, Emlékezet
 
 ### Kapcsolódik
 

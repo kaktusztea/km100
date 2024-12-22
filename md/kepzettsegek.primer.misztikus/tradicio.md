@@ -1,8 +1,10 @@
 ## 🔵 Tradíció
 
-**Próba:** dobható
+⭕TODO⭕
 
-**Domináns Tulajdonságok**: Tradíciótól függ
+### Domináns Tulajdonságok
+
+Tradíciótól függ.
 
 ### Leírás
 

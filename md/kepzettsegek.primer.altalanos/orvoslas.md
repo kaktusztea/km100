@@ -4,14 +4,13 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
 → [STUDY: Gyógyítás](https://github.com/kaktusztea/km100/wiki/STUDY.gyogyitas.gyogyulas)
 
-**Próba:** dobható
+### Domináns Tulajdonságok
 
-**Domináns Tulajdonságok**: Érzékenység, Emlékezet, Intelligencia
+Érzékenység, Emlékezet, Intelligencia
 
 ### Kapcsolódik
 
 [Élettan](../fortelyok.altalanos/elettan.md)
-
 
 ### Normál kiterjesztés
 

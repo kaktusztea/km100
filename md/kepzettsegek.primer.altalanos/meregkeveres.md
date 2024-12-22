@@ -4,9 +4,13 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
 → [Lásd: Méregrendszer](../140_meregrendszer.md)
 
-**Próba**: van, a rontás rejtett, a játékos csak a méreg alkalmazásakor szembesül a balsikerrel (nem hat). 
+### Próba speciális
 
-**Domináns Tulajdonságok**: Emlékezet, Önuralom, Intelligencia
+A rontás rejtett, a játékos csak a méreg alkalmazásakor szembesül a balsikerrel (nem hat). 
+
+### Domináns Tulajdonságok
+
+Emlékezet, Önuralom, Intelligencia
 
 ### Kapcsolódik
 
