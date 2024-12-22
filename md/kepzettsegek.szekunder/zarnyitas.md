@@ -19,9 +19,9 @@
 
 [Mechanika](../fortelyok.altalanos/mechanika.md) fortély `+2` bónuszt ad.
 
-### Célszámot módosító tényezők
+### Módosító tényezők
 
-Sietős nyitás: `+3`
+Sietős nyitás: `-3`
 
 ### Megjegyzés
 

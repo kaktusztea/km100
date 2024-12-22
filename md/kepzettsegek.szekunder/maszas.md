@@ -48,15 +48,15 @@ Ha a terep (próba) nehézsége nem nagyobb a a Mászás képzettségnél, akkor
 | Emberfeletti `(21)`    | Visszahajló acélfalon felmászni.                                                                                      |
 
 ---
-### Célszámot módosító körülmények
+### Módosító körülmények
 
-- Rontott próba utáni **Mentő** képzettségpróba: `+3`
-- Gyorsan mászni: `+3`
-- Sötétben mászni: `+[3;6]`
-- Plusz súllyal mászni: Erőtől függ, a KM dönt. Keretek: `+[1;6]` ; Erőpróba kellhet
-- Lengő kötélen mászni: `+[1;6]`
+- Rontott próba utáni **Mentő** képzettségpróba: `-3`
+- Gyorsan mászni: `-3`
+- Sötétben mászni: `[-3; -6]`
+- Plusz súllyal mászni: Erőtől függ, a KM dönt. Keretek: `[-1; -6]` ; Erőpróba kellhet
+- Lengő kötélen mászni: `[-1; -6]`
 - Sérülten mászni: Lásd a [Sérülés hatása képzettségpróbára](../036_kepzettsegproba.md#sérülés-hatása-képzettségpróbára) c. fejezetet!
-- Mászókampók: `-3` → csak ha a mászófelületbe könnyen rögzíthetőek.
+- Mászókampók: `+3` → csak ha a mászófelületbe könnyen rögzíthetőek.
 
 <br />
 
