@@ -6,8 +6,6 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
 Takarásban, zajkeltés nélkül odaosonni helyekre, átsiklani őrök között, áldozat háta mögé sunnyogni, beolvadni a környezetbe, elbújni az üldözők elől.
 
-A képzettség ismeretei alá tartozik a rejtőzködés is.
-
 ### Domináns Tulajdonságok
 
 Ügyesség, Önuralom
@@ -57,38 +55,40 @@ Nem ellenpróbás szituációban tapasztalati ismeretekre támaszkodás történ
 | Emberfeletti (21)    | ⭕                                           |
 
 ---
-###  Módosító körülmények
+### ⚜️ Alapeset
 
-#### 🔆 Hallás
+Nem zajos ruha.
 
-Alapeset: nem zajos ruha, gyenge alapzaj, például tücsök ciripelés, fáklya ropogás, erdő hangjai; város halk moraja, szomszédok neszezése.
-  
-⚜️ **Felszerelés**
+Gyenge alapzaj, például tücsök ciripelés, fáklya ropogás, erdő hangjai; város halk moraja, szomszédok neszezése.
 
-- `-6`: csörgő ruha, fémpáncél
+Átlagos nappali fény, mozgás a látás periférián.
+
+Távolság. `10-15` méter
+
+### ⚜️ Felszerelés módosító
+
+- `+0`: csendes ruha
 - `-3`: nyikorgós ruha
+- `-6`: csörgő ruha, fémpáncél
 
-⚜️ **Környezeti zajok**
+### ⚜️ Környezeti zajok módosító
+
 - `-3`: süket csend
+- `+0`: gyenge alapzaj
 - `+3`: közepesen zajos környezet (nyugisabb piac)
 - `+6`: hangzavar (üvöltő dervisek, kofák)
 
-#### 🔆 Látás
+### ⚜️ Lopakodó helyzete módosító
 
-Alapeset: átlagos nappali fény, mozgás a látás periférián, `10-15` méterre
+- `-6`: lopakodó direkt a látótérben
+- `+0`: mozgás a látás periférián
+- `+6`: mozgás a látótéren kívül
 
-⚜️ **Lopakodó helyzete**
+### ⚜️ Távolság módosító
 
-- lopakodó direkt a látótérben: `-6`
-- mozgás a látótéren kívül: `+6`
-
-⚜️ **Távolság**
-
-Alapeset: `10-15` méter távolság
-
-- `Testközelbe kerülni: -9`
-- `1 - 5 méter: -6`
-- `6 - 9 méter: -3`
-- `10 - 15 méter: +0` 🔆
-- `16 - 20 méter: +3`
-- `20 - 30 méter: +6`
+- `-9: Testközelbe kerülni`
+- `-6: 1 - 5 méter`
+- `-3: 6 - 9 méter`
+- `+0: 10 - 15 méter` 🔆
+- `+3: 16 - 20 méter`
+- `+6: 20 - 30 méter`
