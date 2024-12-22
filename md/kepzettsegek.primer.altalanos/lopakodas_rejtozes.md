@@ -57,7 +57,7 @@ Nem ellenpróbás szituációban tapasztalati ismeretekre támaszkodás történ
 | Emberfeletti (21)    | ⭕                                           |
 
 ---
-### Célszámot módosító körülmények
+###  Módosító körülmények
 
 #### 🔆 Hallás
 
@@ -65,29 +65,30 @@ Alapeset: nem zajos ruha, gyenge alapzaj, például tücsök ciripelés, fáklya
   
 ⚜️ **Felszerelés**
 
-- `+6`: csörgő ruha, fémpáncél
-- `+3`: nyikorgós ruha
+- `-6`: csörgő ruha, fémpáncél
+- `-3`: nyikorgós ruha
 
 ⚜️ **Környezeti zajok**
-- `+3`: süket csend
-- `-3`: közepesen zajos környezet (nyugisabb piac)
-- `-6`: hangzavar (üvöltő dervisek, kofák)
+- `-3`: süket csend
+- `+3`: közepesen zajos környezet (nyugisabb piac)
+- `+6`: hangzavar (üvöltő dervisek, kofák)
 
 #### 🔆 Látás
 
-Alapeset: átlagos nappali fény, mozgás a periférián, 10-15 méterre
+Alapeset: átlagos nappali fény, mozgás a látás periférián, `10-15` méterre
 
 ⚜️ **Lopakodó helyzete**
 
-- lopakodó direkt a látótérben: `+6`
-- mozgás a látótéren kívül: `-6`
+- lopakodó direkt a látótérben: `-6`
+- mozgás a látótéren kívül: `+6`
 
 ⚜️ **Távolság**
 
 Alapeset: `10-15` méter távolság
 
-- `1 - 5 méter: +6`
-- `6 - 9 méter: +3`
-- `10 - 15 méter: +0`
-- `16 - 20 méter: -3`
-- `20 - 30 méter:  -6`
+- `Testközelbe kerülni: -9`
+- `1 - 5 méter: -6`
+- `6 - 9 méter: -3`
+- `10 - 15 méter: +0` 🔆
+- `16 - 20 méter: +3`
+- `20 - 30 méter: +6`
