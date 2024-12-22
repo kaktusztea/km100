@@ -8,11 +8,11 @@ A hajózás képessége magában foglalja a hajók kezelését, irányítását 
 
 ### Kapcsolódik
 
-\⭕TODO⭕
+⭕TODO⭕
 
 ### Követelmény
 
-\⭕TODO⭕
+⭕TODO⭕
 
 ### Gyenge kiterjesztés
 
