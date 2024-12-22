@@ -8,9 +8,9 @@ Gyorsabban tudsz keresni, kutatni egy helyiségben.
 
 ### Alapeset
 
-🔒 **Követelmény**:  - 
+🔒 **Követelmény**:  -
 
-🌟 **Hatás**: Alapesetben ha gyorsan, nyomás alatt akarsz valamit megtalálni, akkor `+3`-al emelkedik az [Észlelés](../kepzettsegek.primer.altalanos/eszleles.md#c%C3%A9lsz%C3%A1mot-m%C3%B3dos%C3%ADt%C3%B3-k%C3%B6r%C3%BClm%C3%A9nyek) képzettségpróba célszáma.
+🌟 **Hatás**: Alapesetben ha gyorsan, nyomás alatt akarsz valamit megtalálni, akkor `-3` büntetéssel dobod az [Észlelés](../kepzettsegek.primer.altalanos/eszleles.md#m%C3%B3dos%C3%ADt%C3%B3-k%C3%B6r%C3%BClm%C3%A9nyek) képzettségpróbát.
 
 ---
 ### 1. fok
