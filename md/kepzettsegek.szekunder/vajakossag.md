@@ -59,6 +59,6 @@ A "gyógyszerész". Akár a lápi boszorkány, akár mágiatudó lótifuti segé
 
 <br />
 
-### Célszámot módosító körülmények
+### Módosító körülmények
 
 - ⭕xyz

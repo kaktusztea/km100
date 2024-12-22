@@ -67,6 +67,6 @@ Fontos, hogy a képzettség nem helyettesítheti a szerepjátszást, csak támpo
 
 <br />
 
-### Célszámot módosító körülmények
+### Módosító körülmények
 
 - ⭕xyz

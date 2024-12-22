@@ -65,6 +65,6 @@ Segít a Helyismeret gyorsabb megszerzésében
 
 <br />
 
-### Célszámot módosító körülmények
+### Módosító körülmények
 
 - ⭕TODO⭕
