@@ -1,4 +1,4 @@
-## Érzékelés, Aktív/Passzív Harci Észlelés, Áldozat mögé lopakodás
+## Érzékelés, Aktív/Passzív Észlelés
 
 <sub>→ [TODO/ISSUE Érzékelés/Észlelés](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.erzekeles.eszleles)</sub>
 
@@ -26,15 +26,15 @@ Idézet az [Észlelés](../kepzettsegek.primer.altalanos/eszleles.md) képzetts�
 
 *"Az Észlelés valaminek az észrevételét takarja. Ez lehet egy villanó tőr, egy meglapuló merénylő a lombok közt, egy árulkodó súrlódó nesz. Fontos, hogy az Észlelés csak a momentum észrevételt jelenti, annak értelmezését nem! Az a játékos feladata, melyet esetleg megkönnyíthet például a **Nyomozás**, vagy a **Természetjárás** képzettség."*
 
-Megkülönböztetünk Harcot megelőző és harcon kívüli észlelés szituációt, valamint ezeken belül aktív és passzív észlelést.
-
 #### Aktív észlelés
 
 Azaz az "észreveszem-e?" jellegű szituációk
+
 ```
  +3 az Észlelés
  képzettségpróba-dobásra
 ```
+
 - A karakter rákérdez, hogy érzékel-e egy konkrét dolgot
 - A karakter jelzi, hogy kifejezetten érzékeire figyel most (általánosságban)
 
@@ -47,13 +47,13 @@ Azaz az "észreveszem-e?" jellegű szituációk
 
 A karakternek feltűnik valami anélkül, hogy kifejezetten kereste volna/figyelt volna rá.
 
-⚡Például: orgyilkos a háta mögött (**Észlelés+Érzékenység**) , vagy a nemesúrnak álbajusza van, mérgezett az étel, stb.
+⚡Például: a nemesúrnak álbajusza van, mérgezett az étel, stb.
 
 ---
 ### 🔆 Különbség az észrevétel és az értelmezés között
 
 - **Észlelés** + **Érzékenység**: Követik-e? ; Észreveszi-e a ruha alatt villanó tőrt?
-- **Nyomozás** + **Intelligencia** : Rájön-e, hogy mit vett észre? (az igazi szakáll nem nő így például)
+- **Nyomozás** + **Intelligencia**: Rájön-e, hogy mit vett észre? (az igazi szakáll nem nő így például)
 
 ---
 ### 🔆 Lopakodás/rejtőzés és észlelése

@@ -91,6 +91,6 @@ A [Vajákosság](../kepzettsegek.szekunder/vajakossag.md) képzettséggel **NINC
 
 <br />
 
-### Célszámot módosító körülmények
+### Módosító körülmények
 
 - ⭕xyz

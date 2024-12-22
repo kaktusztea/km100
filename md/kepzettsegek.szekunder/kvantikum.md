@@ -60,6 +60,6 @@ Igazi potenciálját a kiterjesztését megvalósító Fortélyokkal érhetjük 
 
 <br />
 
-### Célszámot módosító körülmények
+### Módosító körülmények
 
 - ⭕xyz

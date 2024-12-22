@@ -65,6 +65,10 @@ Gyenge alapzaj, például tücsök ciripelés, fáklya ropogás, erdő hangjai; 
 
 Távolság. `10-15` méter
 
+### ⚜️ Mozgás
+
+- `+6`: gyors haladás
+
 ### ⚜️ Felszerelés módosító
 
 - `+0`: csendes ruha

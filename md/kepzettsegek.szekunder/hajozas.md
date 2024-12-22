@@ -97,7 +97,7 @@ Navigáció extrém időjárási körülmények között. ⭕TODO⭕
 <br />
 
 ---
-### Célszámot módosító körülmények
+### Módosító körülmények
 
 - Időjárási viszonyok ⭕TODO⭕
 - Hajó állapota ⭕TODO⭕

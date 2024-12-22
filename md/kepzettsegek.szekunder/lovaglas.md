@@ -50,7 +50,7 @@ Aki lovaglást tanul, az képes megülni egy választott földi hátast lényt a
 
 <br />
 
-### Célszámot módosító körülmények
+### Módosító körülmények
 
-- Vad hátas: `+[1-6]`
+- Vad hátas: `[-1; -3]`
 - Más fajú földi hátas esetén: [Lénylovas](../fortelyok.szabad/lenylovas.md) Szabad Fortély

@@ -54,7 +54,7 @@ Természetesen nem mindegy, melyik kultúrkörben kell a társasági kihívások
 
 <br />
 
-### Célszámot módosító körülmények
+### Módosító körülmények
 
-- Bódult, részeg állapotban: `+[1-6]`
-- Nehézség büntetés, ha nincs kapcsolódó [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) Háttér.
+- Bódult, részeg állapotban: `[-1; -6]`
+

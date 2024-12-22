@@ -78,10 +78,10 @@ Ilyenkor az Emberismeret egyfajta „radarként” működik, megpróbál a kül
 
 <br />
 
-### Célszámot módosító körülmények
+### Módosító körülmények
 
-- Rövidebb a kontaktus ideje és/vagy kevésbé mély az alapesetnél: `[+1; +6]`
-- Hosszabb a kontaktus ideje és/vagy elmélyültebb az alapesetnél: `[-1; -6]`
-- Más fajú a célszemély: `[+2;+4]`
+- Rövidebb a kontaktus ideje és/vagy kevésbé mély az alapesetnél: `[-1; -6]`
+- Hosszabb a kontaktus ideje és/vagy elmélyültebb az alapesetnél: `[+1; +6]`
+- Más fajú a célszemély: `[-2;-4]`
 - Asztrál szem hatása: ⭕TODO⭕
 

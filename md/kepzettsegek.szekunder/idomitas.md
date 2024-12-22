@@ -60,8 +60,8 @@ A felsorolt valamelyik 3 képzettség legfelső szintjein már olyan magas fokú
 
 <br />
 
-### Célszámot módosító körülmények
+### Módosító körülmények
 
 - Az állat intelligenciája: `[-3; +3]`
-- Zavaró tényezők: zaj, villogó fények, harc: `[0; +6]`
-- Az állat meglevő idomítása: `[-3; 0]`
+- Zavaró tényezők: zaj, villogó fények, harc: `[-1; -6]`
+- Az állat meglevő idomítása: `[+1; +3]`
