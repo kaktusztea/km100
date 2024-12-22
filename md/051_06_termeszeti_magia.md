@@ -21,29 +21,29 @@ Most lássuk a **Természeti Tradíció** egyes szintjeihez rendelt jellemzőket
 > Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás            | Speciális <br /> <sub>(tanulható fortély, különleges  képesség)</sub>                                                       | Követelmény |
-| :--------------- | :---------------------- | :-------------------------------------------------------------------------------------------------------------------------- | :---------: |
-| Novícius (3)     | xyz <br /> **Példa**: x | Ettől a szinttől képes a mágiahasználó Arkánumokat (mágiaiskola képzettségeket) alkalmazni, ez alatt a tudás csak elméleti. |      ⭕      |
-| Kismester (6)    | xyz <br /> **Példa**: x |                                                                                                                             |      ⭕      |
-| Mester (9)       | xyz <br /> **Példa**: x |                                                                                                                             |      ⭕      |
-| Nagymester (12)  | xyz <br /> **Példa**: x |                                                                                                                             |      ⭕      |
-| Élő legenda (15) | xyz <br /> **Példa**: x |                                                                                                                             |      ⭕      |
+|:---------------- |:----------------------- |:--------------------------------------------------------------------------------------------------------------------------- |:-----------:|
+| Novícius (3)     | xyz <br /> **Példa**: x | Ettől a szinttől képes a mágiahasználó Arkánumokat (mágiaiskola képzettségeket) alkalmazni, ez alatt a tudás csak elméleti. |     ⭕      |
+| Kismester (6)    | xyz <br /> **Példa**: x |                                                                                                                             |     ⭕      |
+| Mester (9)       | xyz <br /> **Példa**: x |                                                                                                                             |     ⭕      |
+| Nagymester (12)  | xyz <br /> **Példa**: x |                                                                                                                             |     ⭕      |
+| Élő legenda (15) | xyz <br /> **Példa**: x |                                                                                                                             |     ⭕      |
 
 <br />
 
-> Próbák
+### Próbák
 
-| Célszám | Példa  |
-| :----------- | :----------- |
-| Könnyű       (6)  | |
-| Átlagos      (9)  | |
-| Nehéz        (12) | |
-| Nagyon nehéz (15) | |
-| Rendkívül nehéz (18) | |
-| Emberfeletti (21) | |
+| Célszám              | Példa |
+|:-------------------- |:----- |
+| Könnyű       (6)     |       |
+| Átlagos      (9)     |       |
+| Nehéz        (12)    |       |
+| Nagyon nehéz (15)    |       |
+| Rendkívül nehéz (18) |       |
+| Emberfeletti (21)    |       |
 
 <br />
 
-> Célszámot módosító körülmények
+### Módosító körülmények
 
 - ⭕xyz
 

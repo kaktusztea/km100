@@ -10,7 +10,7 @@ Most lássuk a **Vulgármágia Tradíció** egyes szintjeihez rendelt jellemzők
 
 <br />
 
-> Biztos tudás, követelmények
+### Biztos tudás, követelmények
 
 | Képzettség szint | Biztos tudás            | Speciális <br /> <sub>(tanulható fortély, különleges  képesség)</sub>                                                       | Követelmény |
 | :--------------- | :---------------------- | :-------------------------------------------------------------------------------------------------------------------------- | :---------: |
@@ -22,7 +22,7 @@ Most lássuk a **Vulgármágia Tradíció** egyes szintjeihez rendelt jellemzők
 
 <br />
 
-> Próbák
+### Próbák
 
 | Célszám | Példa  |
 | :----------- | :----------- |
@@ -35,7 +35,7 @@ Most lássuk a **Vulgármágia Tradíció** egyes szintjeihez rendelt jellemzők
 
 <br />
 
-> Célszámot módosító körülmények
+### Módosító körülmények
 
 - ⭕xyz
 
