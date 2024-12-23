@@ -43,16 +43,16 @@ Takarásban, zajkeltés nélkül odaosonni helyekre, átsiklani őrök között,
 
 Ennek a képzettségnek a próbadobásai jellemzően ellepróbák az [Észlelés](eszleles.md) képzettséggel. Bővebben lásd a [Lopakodás/rejtőzés és észlelése](../szituaciok/lopakodas_rejtozes_es_eszlelese.md) szituációt.
 
-Nem ellenpróbás szituációban tapasztalati ismeretekre támaszkodás történik.
+Nem ellenpróbás szituációban tapasztalati ismeretekre támaszkodik az alkalmazó:
 
-| Célszám              | Példa                                       |
-| :------------------- | :------------------------------------------ |
-| Könnyű       (6)     | ⭕xyz                                        |
-| Átlagos      (9)     | Piacon gyorsan kiszúrni a jó rejtekhelyet   |
-| Nehéz        (12)    | Egy kihalt köztéren jó rejtekhelyet találni |
-| Nagyon nehéz (15)    | ⭕xyz                                       |
-| Rendkívül nehéz (18) | ⭕xyz                                        |
-| Emberfeletti (21)    | ⭕xyz                                        |
+| Célszám              | Példa                                               |
+| :------------------- | :-------------------------------------------------- |
+| Könnyű       (6)     | Csendesen belépni egy nyitott ajtón                 |
+| Átlagos      (9)     | Piacon gyorsan kiszúrni a jó rejtekhelyet           |
+| Nehéz        (12)    | Egy kihalt köztéren jó rejtekhelyet találni         |
+| Nagyon nehéz (15)    | Teljesen hangtalanul érkezni esésből                |
+| Rendkívül nehéz (18) | Megérezni, melyik rejtekhely mögött van az ellenség |
+| Emberfeletti (21)    | Nyílt téren kaméleonként beleolvadni a mintázatba.  |
 
 ---
 ### ⚜️ Alapeset
@@ -87,6 +87,12 @@ Távolság. `10-15` méter
 - `-6`: lopakodó direkt a látótérben
 - `+0`: mozgás a látás periférián
 - `+6`: mozgás a látótéren kívül
+
+### ⚜️ Környezet, rejtekhely
+
+- `-6`: nyílt tér fedezék nélkül
+- `+0`: pár tucat ember a piacon, néhány jól használható rejtekhely, fedezék
+- `+6`: zsúfolt piac, rengeteg pult, beugró, alkóv
 
 ### ⚜️ Távolság módosító, Harci szituáció megteremtése
 
