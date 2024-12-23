@@ -54,7 +54,7 @@ Az igazi jó harcos taktikus. Ismeri saját gyengéit és erősségeit és igyek
 - [Harci helyzetek](065_01_harci_helyzetek.md)
 - [Harci taktikák](065_02_harci_taktikak.md)
 - [Harci alakzatok, Alakzatharc](065_03_harci_alakzatok.md)
-- [Kétkezes harc](065_04_ketkezes_harc_szabalyai.md)
+- [Kétkezes harc szabályai](065_04_ketkezes_harc_szabalyai.md)
 
 ## 6.6 [Manőverek](066_00_manoverek.md) 🎲
 
