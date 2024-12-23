@@ -4,6 +4,6 @@ Jelenleg a saját [STUDY oldalán](https://github.com/kaktusztea/km100/wiki/STUD
 
 ---
 
-🔗 [Kétkezes harc](065_04_ketkezes_harc_szabalyai.md) →
+🔗 [Kétkezes harc szabályai](065_04_ketkezes_harc_szabalyai.md) →
 
 ⚜️ [Nyitóoldal](start.md#6-harcrendszer-%EF%B8%8F)
