@@ -57,13 +57,10 @@ Nem ellenpróbás szituációban tapasztalati ismeretekre támaszkodik az alkalm
 ---
 ### ⚜️ Alapeset
 
-Nem zajos ruha.
-
-Gyenge alapzaj, például tücsök ciripelés, fáklya ropogás, erdő hangjai; város halk moraja, szomszédok neszezése.
-
-Átlagos nappali fény, mozgás a látás periférián.
-
-Távolság. `10-15` méter
+- Nem zajos ruha
+- Gyenge alapzaj, például tücsök ciripelés, fáklya ropogás, erdő hangjai; város halk moraja, szomszédok neszezése
+- Átlagos nappali fény, mozgás a látás periférián
+- Távolság: `10-15` méter
 
 ### ⚜️ Mozgás
 
