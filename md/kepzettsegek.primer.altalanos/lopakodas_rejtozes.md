@@ -47,12 +47,12 @@ Nem ellenpróbás szituációban tapasztalati ismeretekre támaszkodás történ
 
 | Célszám              | Példa                                       |
 | :------------------- | :------------------------------------------ |
-| Könnyű       (6)     | ⭕                                           |
+| Könnyű       (6)     | ⭕xyz                                        |
 | Átlagos      (9)     | Piacon gyorsan kiszúrni a jó rejtekhelyet   |
 | Nehéz        (12)    | Egy kihalt köztéren jó rejtekhelyet találni |
-| Nagyon nehéz (15)    | ⭕                                           |
-| Rendkívül nehéz (18) | ⭕                                           |
-| Emberfeletti (21)    | ⭕                                           |
+| Nagyon nehéz (15)    | ⭕xyz                                       |
+| Rendkívül nehéz (18) | ⭕xyz                                        |
+| Emberfeletti (21)    | ⭕xyz                                        |
 
 ---
 ### ⚜️ Alapeset
