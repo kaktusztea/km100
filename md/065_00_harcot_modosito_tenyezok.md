@@ -6,7 +6,7 @@
 
 #### [Harci alakzatok, Alakzatharc](065_03_harci_alakzatok.md)
 
-#### [Kétkezes harc](065_04_ketkezes_harc.md)
+#### [Kétkezes harc](065_04_ketkezes_harc_szabalyai.md)
 
 ---
 

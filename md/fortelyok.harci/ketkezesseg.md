@@ -17,7 +17,7 @@ Kétkezes vagy születésed óta.
 ---
 ### 1. fok
 
-🔒 **Követelmény**: Csak `1.`Tapasztalati Szinten vehető fel.
+🔒 **Követelmény**: Csak `1.`Tapasztalati Szinten, karakteralkotáskor vehető fel.
 
 🌟 **Hatás**:
 - Mindkét kezeddel levonás nélkül tudsz harcolni, de csak 1 fegyverrel!!
