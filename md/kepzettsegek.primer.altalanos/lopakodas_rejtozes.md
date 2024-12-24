@@ -55,16 +55,17 @@ Nem ellenpróbás szituációban tapasztalati ismeretekre támaszkodik az alkalm
 | Emberfeletti (21)    | Nyílt téren kaméleonként beleolvadni a mintázatba.  |
 
 ---
-### ⚜️ Alapeset
+### ⚜️ Alapeset Lopakodás/rejtőzés vs. Észlelés ellenpróbához
 
 - Nem zajos ruha
 - Gyenge alapzaj, például tücsök ciripelés, fáklya ropogás, erdő hangjai; város halk moraja, szomszédok neszezése
-- Átlagos nappali fény, mozgás a látás periférián
+- Átlagos nappali fény
+- Mozgás: a lopakodó az észlelő látásának perifériáján halad
 - Távolság: `10-15` méter
 
-### ⚜️ Mozgás
+### ⚜️ Mozgás módosító
 
-- `+6`: gyors haladás
+- `-6`: gyors haladás ([Suhanó árnyék](../fortelyok.altalanos/suhano_arnyek.md) fortély semmissé teszi)
 
 ### ⚜️ Felszerelés módosító
 
@@ -77,13 +78,13 @@ Nem ellenpróbás szituációban tapasztalati ismeretekre támaszkodik az alkalm
 - `-3`: süket csend
 - `+0`: gyenge alapzaj
 - `+3`: közepesen zajos környezet (nyugisabb piac)
-- `+6`: hangzavar (üvöltő dervisek, kofák)
+- `+3 és hallással észlelhetetlen`: hangzavar (üvöltő dervisek, kofák)
 
 ### ⚜️ Lopakodó helyzete módosító
 
 - `-6`: lopakodó direkt a látótérben
-- `+0`: mozgás a látás periférián
-- `+6`: mozgás a látótéren kívül
+- `+0`: lopakodó az észlelő látásának perifériáján halad
+- `+6`: lopakodó az észlelő látókörén kívül halad
 
 ### ⚜️ Környezet, rejtekhely
 
