@@ -14,7 +14,7 @@ A hajózás képessége magában foglalja a hajók kezelését, irányítását 
 
 ⭕TODO⭕
 
-### Gyenge kiterjesztés
+### Normál kiterjesztés
 
 - [Térképészet](../fortelyok.szabad/terkepeszet.md): "A térkép szerint is veszélyes homokpadok vannak. Kormányos: jobbra, a sziget bal oldala felé, maradj szél alatt!". Az egyszerű tájékozódáshoz nem szükséges, ne legyünk szigorúak, de a speciális jelzések ismeretéhez kellhet.
 
