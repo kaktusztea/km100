@@ -16,7 +16,7 @@ Leírását és a próba körülményeit, módosítóit lásd a [Lopakodás/rejt
 
 ### ⚜️ Módosítók
 
-A **Lopakodás/rejtőzés** képzettség oldalán a [Célszámok, módosító körülmények](../kepzettsegek.primer.altalanos/lopakodas_rejtozes.md#%EF%B8%8F-alapeset) bekezdés alatt található.
+A **Lopakodás/rejtőzés** képzettség oldalán a [Célszámok, módosító körülmények](../kepzettsegek.primer.altalanos/lopakodas_rejtozes.md#%EF%B8%8F-alapeset-lopakod%C3%A1srejt%C5%91z%C3%A9s-vs-%C3%A9szlel%C3%A9s-ellenpr%C3%B3b%C3%A1hoz) bekezdés alatt található.
 
 <br />
 
@@ -46,7 +46,7 @@ A csoport tagjai közül a legmagasabb **Észlelés** képzettséggel rendelkez�
 
 ### ⚜️  Hátulról, látótéren kívülről hátbaszúró szituációig eljutni
 
-Tegyük fel, hogy az éjjeli, csendes palota folyósóján az őr mögé lopakodni, majd hátbaszúrni. A módosítókat a [Lopakodás/rejtőzés](../kepzettsegek.primer.altalanos/lopakodas_rejtozes.md#%EF%B8%8F-alapeset) képzettség módosítók bekezdéséből vettük.
+Tegyük fel, hogy az éjjeli, csendes palota folyósóján az őr mögé lopakodni, majd hátbaszúrni. A módosítókat a [Lopakodás/rejtőzés](../kepzettsegek.primer.altalanos/lopakodas_rejtozes.md#%EF%B8%8F-alapeset-lopakod%C3%A1srejt%C5%91z%C3%A9s-vs-%C3%A9szlel%C3%A9s-ellenpr%C3%B3b%C3%A1hoz) képzettség módosítók bekezdéséből vettük.
 
 #### Lopakodás/rejtőzés módosítók
 - `-3`: Környezeti zajok: süket csend
