@@ -34,7 +34,7 @@ A **Harckeretbe** beleszámít a Kétkezes harc fortély által adott bónusz.
 <br />
 
 ---
-#### Ügyesebb kéz, [Kétkezesség](fortelyok.harci/ketkezesseg.md) fortély 
+### Ügyesebb kéz, [Kétkezesség](fortelyok.harci/ketkezesseg.md) fortély 
 
 Kétkezes harc bónuszainak érvényesítéséhez fontos feltétel, hogy a nagyobbik fegyver **csak az ügyesebbik kézben forgatható**. Kivéve **Kétkezesség** fortély megléte esetén - ekkor nincs ilyen megkötés.
 
