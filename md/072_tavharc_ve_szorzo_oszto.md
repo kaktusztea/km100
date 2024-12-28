@@ -52,7 +52,8 @@ Természetesen a lövést végző személy mozgása is befolyásolja a találati
 | Átlagos ember/elf méretű |   +0x    |
 | Ló oldalról, Ogre        |   -1x    |
 | Lovas                    |   -2x    |
-| ⭕TODO⭕                   |          |
+| Bölény                   |  ⭕TODO⭕  |
+| Óriás                    |  ⭕TODO⭕  |
 
 → 🔺ISSUE: [Túl kicsi a fej szorzója](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.tavharc#l%C3%B6v%C3%A9szet-haj%C3%ADt%C3%A1s-kaland-tapasztalatok)
 
