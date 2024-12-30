@@ -113,7 +113,7 @@ Lássuk hát a részletes szabályrendszert:\
 ![](https://progress-bar.xyz/15/?title=M%C3%A1giarendszer%20%20%20%20%20%20%20%20%20%20%20%20%20%20&width=400&color=babaca)
 
 ---
-**km100**: Szerepjáték szabályrendszer a M\* világához
+**km100**: Szerepjáték szabályrendszer fantasy világokra
 
 **Kapcsolat**: `km100rpg _kukac_ protonmail _pont_ com`
 
