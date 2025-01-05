@@ -117,4 +117,4 @@ Lássuk hát a részletes szabályrendszert:\
 
 **Kapcsolat**: `km100rpg _kukac_ protonmail _pont_ com`
 
-Ailtas, Kaktusztea, 2005-2024 ([CC](LICENSE))
+Ailtas, Kaktusztea, 2005-2025 ([CC](LICENSE))
