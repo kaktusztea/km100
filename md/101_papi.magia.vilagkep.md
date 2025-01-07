@@ -18,4 +18,4 @@ Ha a játékos a szabályok kijátszásával, egyedi értelmezésével akar blas
 
 🔗 [Papi mágia alapszabályok](102_papi.magia.alapszabalyok.md) →
 
-⚜️ [Nyitóoldal](start.md#10-papi-m%C3%A1gia-10-)
+⚜️ [Nyitóoldal](start.md#10-papi-m%C3%A1gia)

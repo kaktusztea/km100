@@ -18,4 +18,4 @@
 
 ---
 
-⚜️ [Nyitóoldal](start.md#11-slan-miszt%C3%A9rium--10-)
+⚜️ [Nyitóoldal](start.md#11-slan-miszt%C3%A9rium)

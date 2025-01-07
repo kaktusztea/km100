@@ -9,4 +9,4 @@ Jelenleg a saját [STUDY oldalán](https://github.com/kaktusztea/km100/wiki/STUD
 
 🔗 [Slan főoldal](110_slan.md) ↑
 
-⚜️ [Nyitóoldal](start.md#11-slan-miszt%C3%A9rium--10-)
+⚜️ [Nyitóoldal](start.md#11-slan-miszt%C3%A9rium)
