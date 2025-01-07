@@ -4,7 +4,7 @@
 
 **[Karakteralkotó v8.7.9 (ods)](https://github.com/kaktusztea/km100/raw/master/segedlet/karakteralkoto_v8.7.9.ods?raw=true)** &nbsp;&nbsp;- &nbsp;&nbsp;<!-- markdown-link-check-disable -->[LibreOffice ⬇️](https://www.libreoffice.org/download/download/)<!-- markdown-link-check-enable --> 
 
-## Segédletek
+## Segédletek játékalkalmakhoz
 
 **[Segédlet esszencia (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_ingame.pdf?raw=true)**
 
@@ -19,16 +19,18 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 ---
 ## Gyors elérés
 
+[Harci linkek](006_harci_linkek.md)
+
 [Képzettséglista](031_kepzettseglista.md) &nbsp;-&nbsp; [Fortélyok](040_fortelyok.md)&nbsp;-&nbsp; [Fortély-Képzettség kiterjesztéslista](038_fortelyok_kepzettsegkiterjesztes_listaja.md)
 
 ---
-## Részletes szabályrendszer
+## Fejezetek
 
-[Kezdetek](#0-kezdetek) &nbsp;-&nbsp; [Karakteralkotás](#1-karakteralkot%C3%A1s)\
-[Hátterek](#2-h%C3%A1tterek)  &nbsp;-&nbsp; [Képzettségrendszer](#3-k%C3%A9pzetts%C3%A9grendszer) &nbsp;-&nbsp; [Fortélyok](#4-fort%C3%A9lyok) &nbsp;-&nbsp; [Tradíciók](#5-trad%C3%ADci%C3%B3k)\
-[Harcrendszer](#6-harcrendszer-%EF%B8%8F) &nbsp;-&nbsp; [Távolsági Harcrendszer](#7-t%C3%A1vols%C3%A1gi-harcrendszer-)\
-[Pszí](#8-psz%C3%AD) &nbsp;-&nbsp; [Mágiarendszer](#9-m%C3%A1giarendszer) &nbsp;-&nbsp; [Papi mágia](#10-papi-m%C3%A1gia-10-) &nbsp;-&nbsp; [Slan misztérium](#11-slan-miszt%C3%A9rium--10-) &nbsp;-&nbsp; [Varázstárgyak](#12-var%C3%A1zst%C3%A1rgyak--10-)\
-[Gyógyítás, gyógyulás](#13-gy%C3%B3gy%C3%ADt%C3%A1s-gy%C3%B3gyul%C3%A1s) &nbsp;-&nbsp; [Méregrendszer, Mérgek](#14-m%C3%A9regrendszer-m%C3%A9rgek) &nbsp;-&nbsp; [Szituációk](#15-szitu%C3%A1ci%C3%B3k)
+- [Kezdetek](#0-kezdetek) &nbsp;-&nbsp; [Karakteralkotás](#1-karakteralkot%C3%A1s)
+- [Hátterek](#2-h%C3%A1tterek)  &nbsp;-&nbsp; [Képzettségrendszer](#3-k%C3%A9pzetts%C3%A9grendszer) &nbsp;-&nbsp; [Fortélyok](#4-fort%C3%A9lyok) &nbsp;-&nbsp; [Tradíciók](#5-trad%C3%ADci%C3%B3k)
+- [Harcrendszer](#6-harcrendszer-%EF%B8%8F) &nbsp;-&nbsp; [Távolsági Harcrendszer](#7-t%C3%A1vols%C3%A1gi-harcrendszer-)
+- [Pszí](#8-psz%C3%AD) &nbsp;-&nbsp; [Mágiarendszer](#9-m%C3%A1giarendszer) &nbsp;-&nbsp; [Papi mágia](#10-papi-m%C3%A1gia-10-) &nbsp;-&nbsp; [Slan misztérium](#11-slan-miszt%C3%A9rium--10-) &nbsp;-&nbsp; [Varázstárgyak](#12-var%C3%A1zst%C3%A1rgyak--10-)
+- [Gyógyítás, gyógyulás](#13-gy%C3%B3gy%C3%ADt%C3%A1s-gy%C3%B3gyul%C3%A1s) &nbsp;-&nbsp; [Méregrendszer, Mérgek](#14-m%C3%A9regrendszer-m%C3%A9rgek) &nbsp;-&nbsp; [Szituációk](#15-szitu%C3%A1ci%C3%B3k)
 
 <br />
 ⚜️ ⚜️ ⚜️
@@ -247,14 +249,14 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
   - [Természeti jelenségek](kepzettsegek.primer.arkanumok/termeszeti_jelensegek.md)
 
 ---
-### 10. [Papi mágia](100_papimagia.md) (10%) 🚧
+### 10. [Papi mágia](100_papimagia.md)
 
 - [Papi mágia világképe](101_papi.magia.vilagkep.md)
 - [Papi mágia alapszabályai](102_papi.magia.alapszabalyok.md)
 - [Papi varázslatok](103_papi.varazslatok.md) ✨
 
 ---
-### 11. [Slan misztérium](110_slan.md)  (10%) 🚧
+### 11. [Slan misztérium](110_slan.md)
 
  - [Slan Tradíció](053_04_slan_tradicio.md)
  - [Slan fortélyok](046_slan_fortelyok.md)
@@ -263,7 +265,7 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
  - [Slan fegyverek](113_slan_fegyverek.md)
 
 ---
-### 12. [Varázstárgyak](120_varazstargyak.md)  (10%) 🚧
+### 12. [Varázstárgyak](120_varazstargyak.md)
 
 ---
 ### 13. [Gyógyítás, gyógyulás](130_gyogyitas_gyogyulas.md)

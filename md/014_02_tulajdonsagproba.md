@@ -2,7 +2,7 @@
 
 Mikor a karakter olyan helyzetbe kerül, hogy valamelyik Tulajdonságát kell próbára tennie, – tehát nem valamelyik képzettségét érintő ismeretre van szükség –, akkor Tulajdonságpróbát kell tennie. Ez a következőképpen történik:
 
-A KM meghatároz egy **3-8-ig** terjedő célszámot nehézségnek, a játékos pedig dob **k6**-al, és az eredményt hozzáadja az adott Tulajdonságának értékéhez. Ha a kapott szám nagyobb, vagy egyenlő a célszámmal, akkor a próba sikerült.
+A KM meghatároz egy `3-8`-ig terjedő célszámot nehézségnek, a játékos pedig dob `k6`-tal, és az eredményt hozzáadja az adott **Tulajdonságának** értékéhez. Ha a kapott szám nagyobb, vagy egyenlő a célszámmal, akkor a próba sikerült.
 
 | Tulajdonságpróba <br /><sub>(dobás k6-al)</sub>  |  Célszám |
 |----------|:-------------:|
@@ -18,13 +18,13 @@ A KM meghatároz egy **3-8-ig** terjedő célszámot nehézségnek, a játékos 
 
 Ha a karakternek egy olyan összetett próbát kell tennie, ami nem intézhető el `1 db` dobással (pl. több fázisból álló kombinált mozdulatsor, egy összetett, hosszan tartó, hullámzó érzelemimpulzus értelmezése **Érzékenység** próbával), akkor igazságtalan lenne a maximális nehézséget többször megdobatni vele, hiszen így drasztikusan lecsökken az esélye a sikerre. Ilyenkor a következő módszert használjuk:
 
-`1.` A játékos dob egy próbát az indokolt maximális nehézségre (pl. „Nagyon nehéz" (`Célszám:6`))
+`1.` A játékos dob egy próbát az indokolt maximális nehézségre. Pl. „Nagyon nehéz" → `Célszám:6`
 
-`2.` Ezután dob több (a KM dönti el, hány) próbát **1 fokozattal alacsonyabb nehézség ellen**. Pl. (2db Nehéz próbát). Így a siker eloszlása sokkal fokozatosabb és a biztos tudást is jobban jutalmazzuk, valamint elkerüljük, hogy egy kezdő - csak azért, mert szerencséset dobott - egy hosszú, részletes, tudását jóval meghaladó feladatot „véletlenül" megcsinálhasson.
+`2.` Ezután dob több (a KM dönti el, hány) próbát **1 fokozattal alacsonyabb nehézség ellen**. Pl. 2 db "Nehéz" próbát. Így a siker eloszlása sokkal fokozatosabb és a biztos tudást is jobban jutalmazzuk, valamint elkerüljük, hogy egy kezdő - csak azért, mert szerencséset dobott - egy hosszú, részletes, tudását jóval meghaladó feladatot „véletlenül" megcsinálhasson.
 
 Hogy a másodlagos dobásból hány kell, az főleg attól függ, hogy a feladat „milyen hosszú", mennyire „többlépcsős".
 
-Ha nagyon finom bontást akarunk, akkor akár `2` fokozattal alacsonyabb nehézségre is dobathatunk akár így is: Nagyon nehéz (`1 db`), Nehéz(`1 db`), Átlagos (`1 db`).
+Ha nagyon finom bontást akarunk, akkor akár `2` fokozattal alacsonyabb nehézségre is dobathatunk akár így is: "Nagyon nehéz" (`1 db`), "Nehéz" (`1 db`), "Átlagos" (`1 db`).
 
 <br />
 
