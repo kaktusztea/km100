@@ -1,8 +1,8 @@
 # Fortélyok táp kategóriái - értékelő táblázat
 
-TODO
-- felülvizsgálni a meglevő pontozást
-- kitölteni a hiányzókat
+**TODO**:
+- hangolni a pontozást, egyeztetni AGÓRA alkalmával
+- 4 fokúvá alakítani talán. 1: Szabad Fortélyok, 2-4: normál fortélyok 1-3. fokig
 
 <br />
 
@@ -181,4 +181,3 @@ Szabályok
 | [Lövés reflexből](https://github.com/kaktusztea/km100/blob/master/md/fortelyok.tavharc/loves_reflexbol.md)       |  `1`   |     |     | `1f` |      |     |
 | [Mozgó cél mestere](https://github.com/kaktusztea/km100/blob/master/md/fortelyok.tavharc/mozgo_cel_mestere.md)   |  `1`   |     |     |      | `1f` |     |
 | [Távoli lövés](https://github.com/kaktusztea/km100/blob/master/md/fortelyok.tavharc/tavoli_loves.md)             |  `1`   |     |     | `1f` |      |     |
-
