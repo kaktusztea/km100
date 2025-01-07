@@ -16,12 +16,16 @@
 
 NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2.odt?raw=true) • [odt 2 oldalas](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2_ketoldalas.odt) • [pdf](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2.pdf?raw=true)
 
+<br />
+
 ---
 ## Gyors elérés
 
 [Harci linkek](006_harci_linkek.md)
 
 [Képzettséglista](031_kepzettseglista.md) &nbsp;-&nbsp; [Fortélyok](040_fortelyok.md)&nbsp;-&nbsp; [Fortély-Képzettség kiterjesztéslista](038_fortelyok_kepzettsegkiterjesztes_listaja.md)
+
+<br />
 
 ---
 ## Fejezetek
@@ -33,6 +37,7 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 - [Gyógyítás, gyógyulás](#13-gy%C3%B3gy%C3%ADt%C3%A1s-gy%C3%B3gyul%C3%A1s) &nbsp;-&nbsp; [Méregrendszer, Mérgek](#14-m%C3%A9regrendszer-m%C3%A9rgek) &nbsp;-&nbsp; [Szituációk](#15-szitu%C3%A1ci%C3%B3k)
 
 <br />
+
 ⚜️ ⚜️ ⚜️
 
 ### 0. [Kezdetek](000_kezdetek.md)
