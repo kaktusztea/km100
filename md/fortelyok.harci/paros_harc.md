@@ -10,8 +10,6 @@ Az összeszokott harcosok együtt eredményesebbek.
 - Két jól összeszokott társ. Legalább 1 éve harcolnak együtt a közös taktika szerint. Ilyenkor közös harc esetén plusz harcértékek: 
 - `TÉ:+5`, `VÉ:+5`  
 - `1` ellenfél ellen `KÉ:+5` (többnél nem jár)  
-- `3` ellenfélig nincs túlerőből adódó `VÉ` csökkenés  
-- `3` ellenfél felett `VÉ:-5` plusz ellenfelenként mindkét alkalmazóra
 
 ---
 ### 2. fok
@@ -21,9 +19,7 @@ Az összeszokott harcosok együtt eredményesebbek.
 🌟 **Hatás**:
 - Két jól összeszokott társ. Legalább 1 éve harcolnak együtt a közös taktika szerint. Ilyenkor közös harc esetén plusz harcértékek: 
 - `TÉ:+10`, `VÉ:+10`  
-- `2` ellenfél ellen `KÉ:+5` (többnél nem jár)  
-- `4` ellenfélig nincs túlerőből adódó `VÉ` csökkenés  
-- `4` ellenfél felett `VÉ:-5` plusz ellenfelenként mindkét alkalmazóra
+- `1-2` ellenfél ellen `KÉ:+5` (többnél nem jár)  
 
 ---
 ### 3. fok
@@ -36,9 +32,7 @@ Az összeszokott harcosok együtt eredményesebbek.
 🌟 **Hatás**:
 - Ikerharc. Lásd lenn.
 - `TÉ:+15`, `VÉ:+15`
-- `3` ellenfél ellen `+5 KÉ` (többnél nem jár)
-- `5` ellenfélig nincs túlerőből adódó `VÉ` csökkenés
-- `5` ellenfél felett `-5 VÉ` plusz ellenfelenként mindkét alkalmazóra
+- `1-3` ellenfél ellen `+5 KÉ` (többnél nem jár)
 
 <br />
 
