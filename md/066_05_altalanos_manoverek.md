@@ -15,6 +15,7 @@
 - [Lánccsapdából szabadítás](#l%C3%A1nccsapd%C3%A1b%C3%B3l-szabad%C3%ADt%C3%A1s)
 - [Lefegyverzés / Fegyvertörés](#lefegyverz%C3%A9s--fegyvert%C3%B6r%C3%A9s)
 - [Leütés hátulról](#le%C3%BCt%C3%A9s-h%C3%A1tulr%C3%B3l)
+- [Lovas, léglovas akasztása](#lovas-l%C3%A9glovas-akaszt%C3%A1sa)
 - [Mesterjel](#mesterjel)
 - [Mögékerülés](#m%C3%B6g%C3%A9ker%C3%BCl%C3%A9s)
 - [Orvtámadás](#orvt%C3%A1mad%C3%A1s)
@@ -42,6 +43,8 @@ Harcoló felek között, vagy akár veled harcolni vágyó ellenfél mellett els
 - Taktikák: Átsiklás közben nem végezhető semmilyen Harci taktika.
 
 **Hatás**: Sikerül átsiklanod fegyveres, esetleg harcoló ellenfeled/ellenfeleid mellett/között. Ha üldöznek, futás: támadóddal **Gyorsaság** ellenpróba. Ha megnyerted, leléptél, ha üldöződ nyerte, akkor utolért és leadhat egy támadást rád hátulról (`+10 TÉ`).
+
+<br />
 
 ---
 #### Belharcba kerülés
@@ -93,6 +96,8 @@ Továbbá megfelelő mennyiségű `ÉP` sebzést kell okoznod.
 - Kéz csonkolása: (áldozat `max ÉP / 3`) (felfele kerekítve) sebzés szükséges
 - Láb csonkolása: (áldozat `max ÉP / 2`) (felfele kerekítve) sebzés szükséges
 
+<br />
+
 ---
 #### Ellenfél elfogása
 
@@ -103,6 +108,8 @@ Továbbá megfelelő mennyiségű `ÉP` sebzést kell okoznod.
 **Hatás**: Olyan helyzetet alakítasz ki, ahol az ellenfél fegyvere már nem fenyeget, te viszont életfontosságú pont mellé helyezed fegyvered- például a nyakára teszed fegyveredet, míg ő kiszolgáltatottan féltérdre rogy. Ha megmozdul, végzel vele.
 
 **Kijövetel**: egy ilyen helyzetből `10`-es Nehézségű [Kibontakozás](#kibontakoz%C3%A1s) Manőverrel jöhetsz ki, ahol ellenfeled megelőző **Megakasztás** támadására `TÉ:+50` módosítót kap!
+
+<br />
 
 ---
 #### Felállás földről
@@ -228,6 +235,8 @@ Láncos fegyverrel foglyul ejtett fegyveredet kiszabadítod.
 
 **Hatás**: kiszabadítottad fegyveredet a láncos csapdából.
 
+<br />
+
 ---
 #### Lefegyverzés / Fegyvertörés
 
@@ -267,6 +276,15 @@ Hasonlatos az Orvtámadáshoz, de itt nem a minél nagyobb sebzés, hanem az áj
 - A sebzés `KT` sebesülésként jelenik meg mindkét esetben.
 
 **Megjegyezés**: a **Fegyver markolat** sebzése: `k20 + 0 SP + Erőbónusz` (Zúzó)
+
+<br />
+
+---
+### Lovas, léglovas akasztása
+
+Lásd a [Lovas, léglovas manőverek](067_04_lovas_leglovas_manoverek.md#man%C5%91ver-lovas-l%C3%A9glovas-akaszt%C3%A1sa) oldalán.
+
+<br />
 
 ---
 #### Mesterjel
