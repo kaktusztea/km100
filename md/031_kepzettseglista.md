@@ -82,6 +82,8 @@
 
 🔵 [Nyomozás](kepzettsegek.primer.altalanos/nyomozas.md) 🅿️ <sup><sub>(50%)</sub></sup>
 
+🔵 [Nyelvtanulás](kepzettsegek.szekunder/nyelvtanulas.md) <sup><sub>(40%)</sub></sup>
+
 🔵 [Szakma](kepzettsegek.szekunder/szakma.md) <sup><sub>(20%)</sub></sup> 🔁
 
 🔵 [Természetjárás](kepzettsegek.szekunder/termeszetjaras.md) <sup><sub>(30%)</sub></sup>

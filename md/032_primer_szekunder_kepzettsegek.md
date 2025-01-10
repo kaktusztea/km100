@@ -2,9 +2,12 @@
 
 A [Primer és Szekunder ismeretek](015_primer_szekunder_ismeretek.md) féle felosztás a képzettségeken belül is megtörténik. Önkényesen felosztottuk a tanulható képzettségeket e két csoport között.
 
-Primer alá tartozik minden harci, misztikus, szakrális és mágikus képzettség, valamint számos világi képzettség is.
+**Primer** alá tartozik
 
-Ezek pontos listáját lásd a [Képzettséglista](031_kepzettseglista.md) oldalon. Jelölése: 🅿️.
+- minden harci képzettség
+- minden misztikus képzettség
+- minden szakrális és mágikus képzettség
+- valamint számos világi képzettség is. Ezek pontos listáját lásd a [Képzettséglista](031_kepzettseglista.md) oldalon. Jelölésük: 🅿️
 
 ---
 
