@@ -55,7 +55,7 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 ### 1. [Karakteralkotás](010_karakteralkotas.md)
 
 - [Karakteralkotó ods](011_karakteralkoto_ods.md)
-- [Előtörténet, Személyiség](012_elotortenet_szemelyiseg.md)
+- [Kalandozók, Előtörténet, Személyiség](012_kalandozok_elotortenet_szemelyiseg.md)
 - [Tapasztalati Szint](013_tsz_szintlepes.md)
 - [Tulajdonságok](014_01_tulajdonsagok.md)
 - [Tulajdonságpróba](014_02_tulajdonsagproba.md) 🎲
@@ -64,8 +64,8 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 - [Számaztatott értékek](017_00_szarmaztatott_ertekek.md)
   - [Életerő Pont (ÉP), Kábulat Életerő Pont (KT)](017_01_ep_kt.md)
   - [Manőver Pontok (MP)](017_02_manover_pontok.md)
-  - [Mágiaellenállás](017_03_magiaellenallas.md) 🎲
-  - [Méregellenállás](017_04_meregellenallas.md) 🎲
+  - [Mágiaellenállás](017_04_magiaellenallas.md) 🎲
+  - [Méregellenállás](017_05_meregellenallas.md) 🎲
 - [Harcérték Módosító (HM), Célzóérték Módosító (CM)](018_hm_cm.md)
 - [Nem Játékos Karakterek](019_njk.md)
 

@@ -1,7 +1,6 @@
 ### Gyógyulás
 
-⭕Jelenleg a saját [STUDY oldalán](https://github.com/kaktusztea/km100/wiki/STUDY.gyogyulas.gyogyitas) fejlesztjük. Amint ott elkészül, bemásolni ide.\
-Jelenleg az `1 ÉP` / nap és `1 KT` / óra gyógyulás szabály az irányadó.⭕
+A stabilizálás után az alábbi sebességgel gyógyulnak a Kalandozó karakterek.
 
 ```
 1 ÉP / nap

@@ -1,6 +1,6 @@
 # Gyógyítás, gyógyulás
 
-<sub>→ [STUDY: Gyógyítás](https://github.com/kaktusztea/km100/wiki/STUDY.gyogyitas.gyogyulas)</sub>
+<sub>→ [STUDY: Gyógyítás, gyógyulás](https://github.com/kaktusztea/km100/wiki/STUDY.gyogyitas.gyogyulas)</sub>
 
 <sub>→ [STUDY: Papi mágia Gyógyítás szféra / Sebgyógyítás](magia.papi.varazslatok/sebgyogyitas.md)</sub>
 
@@ -17,6 +17,7 @@ A Sebesülés modellel már megismerkedtünk a harcrendszer [Életerő - Sebesü
 ```
 1 ÉP / nap
 1 KT / óra
+2 KT / óra alvásban
 ```
 
 Amennyiben a vérzést sikerült valamilyen módon elállítani, a sebesült karakter sebeiből `1 ÉP` 1 nap alatt, `1 KT` 1 óra alatt gyógyul meg összesen.
