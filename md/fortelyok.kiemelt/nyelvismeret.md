@@ -1,12 +1,11 @@
-## 🟣 Nyelvismeret 🔁
+## 🟣 Nyelvismeret (2) 🔁
 
-A nyelvek ismerete **nem kerül** sem `KP`-ba, sem `SzP`-be.
+A [Nyelvtanulás](../kepzettsegek.szekunder/nyelvtanulas.md) képzettség által adott fortély fokokból vehető fel külön-külön minden nyelvre. A nyelvek listáját lásd [lenn](#emberi-nyelvek-list%C3%A1ja).
 
-A józan ész - és a KM - határain belül, az előtörténet és a karakter ismeretei fényében vehetsz fel tetszőleges számú nyelvismeretet.
+A Nyelvismeret fortélynak `2` foka van, amelyeket kivételesen nevesítünk is:
 
-A Nyelvismeretnek `2` foka van.
-- `Alap`: normális, hétköznapi beszéd. Ha nem anyanyelv, a külföldi akcentust ki lehet érezni belőle. Ennek hatását szerepjátékból intézzük.
-- `Udvari`: udvari, egyházi, hivatali körökben hallott, míves beszéd. Fogyasztott, vagy aktívan művelt művészetekhez követelmény. Lásd [Előadóművészet](../kepzettsegek.szekunder/eloadomuveszet.md) képzettség.
+- `Alap`: ez az `1.fok`. Normális, hétköznapi beszéd. Ha nem anyanyelv, a külföldi akcentust ki lehet érezni belőle. Ennek hatását szerepjátékból intézzük.
+- `Udvari`: ez a `2.fok`. Udvari, egyházi, hivatali körökben hallott, míves beszéd. Fogyasztott, vagy aktívan művelt művészetekhez követelmény. Lásd [Előadóművészet](../kepzettsegek.szekunder/eloadomuveszet.md) képzettség.
 
 Amennyiben nem rendelkezel a kívánt Nyelvismerettel, akkor - ha van kapcsolódó [Kultúrkör](kulturkor.md) Hátterred, akkor nagyon alap szavakat ismersz, amivel - plusz kézzel-lábbal - meg tudod értetni magad ("kő", "tűz", "vesz", "kenyér", stb)
 
