@@ -30,6 +30,8 @@ A fenti pont keretet `1` harci jelenet során használhatja fel a karakter - meg
 
 Egyszerre legfeljebb `2` pont használható fel (`+4` bónusz).
 
+A Manőver Pontokat a Manőver dobásainak megkezdése **előtt** kell beletenni, így megvan a rizikója, hogy kudarc esetén elvesznek.
+
 Bővebben lásd: Manőver [Ellenpróba](066_04_manover_vegbevitele.md#ellenpróba-e) fázisa.
 
 ---
