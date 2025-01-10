@@ -6,9 +6,9 @@ Egyes értékek más, már kiszámolt értékekből származtatva kerülnek megh
 
 #### [Manőver Pontok (MP)](017_02_manover_pontok.md)
 
-#### [Mágiaellenállás](017_03_magiaellenallas.md)
+#### [Mágiaellenállás](017_04_magiaellenallas.md)
 
-#### [Méregellenállás](017_04_meregellenallas.md)
+#### [Méregellenállás](017_05_meregellenallas.md)
 
 ---
 

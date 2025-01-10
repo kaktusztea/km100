@@ -6,7 +6,7 @@
 
 #### → [Karakteralkotó ods](011_karakteralkoto_ods.md)
 
-#### → [Előtörténet, Személyiség](012_elotortenet_szemelyiseg.md)
+#### → [Kalandozók, Előtörténet, Személyiség](012_kalandozok_elotortenet_szemelyiseg.md)
 
 #### → [Tapasztalati Szint](013_tsz_szintlepes.md)
 
@@ -30,9 +30,11 @@
 
 #### → [Manőver Pontok](017_02_manover_pontok.md)
 
-#### → [Mágiaellenállás](017_03_magiaellenallas.md) 🎲
+#### → [Szilánk](017_03_szilank.md)
 
-#### → [Méregellenállás](017_04_meregellenallas.md) 🎲
+#### → [Mágiaellenállás](017_04_magiaellenallas.md) 🎲
+
+#### → [Méregellenállás](017_05_meregellenallas.md) 🎲
 
 ---
 ### [Harcérték Módosító (HM), Célzóérték Módosító (CM)](018_hm_cm.md)
@@ -58,7 +60,7 @@ A [Harcérték Módosítók (HM, CM)](018_hm_cm.md) felvétele is `KP`-ból tör
 
 A [Hátterek](020_hattererek.md) számos érdekes aspektussal ruházhatják fel karakteredet. Az egyes fajok mind [Faj-Háttereként](021_faj_hatterek.md) vehetőek fel, limitációik és - érzékeiket érintő - kapcsolódó fortélyaikat ott találod meg. Végül essen szó a [Leíró Hátterekről](022_leiro_hatterek.md), ezek egyszavas jellemzők, melyek a karakter jellemét, hátterét színesítik - tetszés szerint vehetőek fel.
 
-Jöhetnek a [Származtatott értékek](017_00_szarmaztatott_ertekek.md): az [Életerő Pont](017_01_ep_kt.md), a [Mágiaellenállás](017_03_magiaellenallas.md), a [Méregellenállás](017_04_meregellenallas.md) kiszámítása - ezekre nem kell külön pontot költeni.
+Jöhetnek a [Származtatott értékek](017_00_szarmaztatott_ertekek.md): az [Életerő Pont](017_01_ep_kt.md), a [Mágiaellenállás](017_04_magiaellenallas.md), a [Méregellenállás](017_05_meregellenallas.md) kiszámítása - ezekre nem kell külön pontot költeni.
 
 Majd jöjjön végül karaktered [harcértékeinek megállapítása](062_01_ke_te_ve_ce.md).
 
