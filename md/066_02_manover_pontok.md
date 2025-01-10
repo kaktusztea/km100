@@ -15,9 +15,9 @@ Egy karakter [harcmodor](kepzettsegek.primer.harci/harcmodor.md) képzettség-sz
 
 Ez adja a **Manőver Pontok** mennyiségét - felfelé ↑ kerekítve. Látható, hogy a pontok értékének fenntartásához - a Tapasztalati Szint növekedésével - folyamatosan kell növelni a harcmodor képzettségeket.
 
-A Manőver pontok értéke így mindig `[1-4]` tartományban mozog.
+A Manőver pontok értéke így mindig `[0-4]` tartományban mozog.
 
-A fenti pont keretet `1` játékalkalom (vagy `1` kaland, KM dönt) során használhatja fel a karakter - megtámogatva egyes elvégzett Manővereit. A következő játékalkalommal ez a keret "visszatöltődik".
+A fenti pont keretet `1` harci jelenet során használhatja fel a karakter - megtámogatva egyes elvégzett Manővereit. A [Védő Érték regenerálódásakor](064_02_09_ve_regeneralodas.md) ez a keret is "visszatöltődik".
 
 ---
 #### Felhasználása, Hatása
