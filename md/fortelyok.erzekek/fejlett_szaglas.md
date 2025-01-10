@@ -16,15 +16,29 @@ Különlegesen jó a szaglásod, állatokéval vetekszik.
 
 🔒 **Követelmény**: Kapcsolódó [Faj Háttér](../021_faj_hatterek.md)
 
-🌟 **Hatás**: Szag alapján is kiszúrsz a közeledben mozgó élőlényeket, kiérzed az italból, amit egy átlagos ember nem. A szaglást érintő Észleléspróbákra `+2` bónuszt kapsz.
+🌟 **Hatás**:
+- Olyan **Érzékenység** próbákat dobhatsz, amelyet egy átlag szaglású ember egyáltalán nem, tehát megnyit lehetőségeket
+- A karakter szaglás képességét **a kutya szaglásával vesszük azonosnak** 🔆
+- Egyszerre több szagot képes érezni, míg az ember csak egyet
+- Egyéb alap szagok nem zavarják meg - ha nem túl erősek
 
+---
+### Tulajdonságpróbához paraméterek
+
+A KM számára az alábbi paraméterek adhatnak kapaszkodót, mikor megállapítja a Nehézséget:
+- szag erőssége
+- széljárás iránya
+- távolság
+- több személy jelenléte, esetleg (ember)tömeg nagysága
+
+Például a közelben van egy ember, vagy kiérzed az italból, a fura mellékillatot.
 
 <br />
 
-### Megjegyzések
+### Követelmény
 
 - Felvételéhez olyan [Faj-Háttér](../021_faj_hatterek.md) szükséges, amelynél szerepel a **Fejlett szaglás**, mint felvehető Érzék-fortély
-- Élőlényeket ⭕TODO⭕ méter távolságból tudsz kiszagolni
+
  
 <br />
 
