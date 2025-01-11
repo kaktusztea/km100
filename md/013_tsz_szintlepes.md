@@ -8,7 +8,7 @@ Egy karakter „fejlettségét" az abszolút szubjektív „**Tapasztalati szint
 
 Az első `2` tapasztalati szint az előtörténet részének tekinthető, amennyiben ezt nem akarja lejátszani a parti, akkor ajánlott a `3.szinten` való kezdés - más rendszerekkel ellentétben itt ez adja a "kezdő kalandozó" élettapasztalatot. Ennek további előnye, hogy így könnyebb `1.` és `2.` szintű **Nem Játékos Karakterek** (NJK) alacsonyabb képességeit rendszerben megjeleníteni.
 
-A karakter fejlődése - kalandjai során megélt tapasztalatoknak köszönhetően - természetesen folyamatos, de az adminisztráció megkönnyítése érdekében alkalmazzuk a „Szintlépés" fogalmát. Szintlépés olyankor következik be, amikor a KM úgy ítéli, a karakter jelentősen fejlődött, sokat tapasztalt és ennek ideje lenne értékeiben is megmutatkozniuk.
+A karakter fejlődése - kalandjai során megélt tapasztalatoknak köszönhetően - természetesen folyamatos, de az adminisztráció megkönnyítése érdekében alkalmazzuk a „Szintlépés" fogalmát. Szintlépés olyankor következik be, amikor a KM úgy ítéli, a karakter jelentősen fejlődött, sokat tapasztalt és ennek ideje lenne értékeiben is megmutatkoznia.
 
 Mikor a mesélő (KM) úgy érzi, az adott játékos karaktere kellően sokat felődött, bejelenti annak szintlépését. Ekkor a játékos a karakteralkotásnál meghatározott szabályok szerint növelheti karaktere egyes értékeit az ún. **Karakteralkotó Pontokból** (`KP`), melyeket ilyenkor kap. Ez utóbbi pontok elköltését lásd bővebben a [Karakteralkotó pontok (KP)](016_kp.md) fejezetben.
 
