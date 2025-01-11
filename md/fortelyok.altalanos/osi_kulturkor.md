@@ -8,7 +8,7 @@ Külön kezeljük a [Kultúrköröktől](../fortelyok.kiemelt/kulturkor.md) az �
 
 ### Kapcsolódik
 
-- [Nyelvismeret](nyelvismeret.md) fortély
+- [Nyelvismeret](../fortelyok.kiemelt/nyelvismeret.md) fortély
 
 ### Kiterjeszti ezeket
 
