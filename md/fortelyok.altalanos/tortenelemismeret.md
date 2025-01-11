@@ -1,8 +1,10 @@
 ## 🟣 Történelemismeret (2)
 
-Magába foglalja a múlt, a legendák és az ⭕ősi kultúrák ismeretét is⭕. A Történelemismeret alapvetően az emberi történelem írott részét jelenti (magyarán azt, amiről van elég írott forrás, ezek hozzáférhetőek és jórészt földolgozottak). Minden más az ⭕Ősi Kultúrák ismeretébe⭕ ([Ősi nyelv ismerete??](https://github.com/kaktusztea/km100/wiki/STUDY.osi.nyelv.ismerete))⭕ tartozik.
+A Történelemismeret alapvetően a történelem írott részét jelenti - magyarán azt, amiről van elég írott forrás, ezek hozzáférhetőek és jórészt földolgozottak. Magába foglalja a múlt eseményeit, lexikális tudást és a legendák ismeretét is.
 
-A [Lexikum](../kepzettsegek.szekunder/lexikum.md) képzettség alacsonyabb szintjein a hetedkori Yn3v általános történelmét ismered, magasabb szinten fellebbennek a titkok a régebbi korok titkairól is.
+A fortély alapvetően a [Lexikum](../kepzettsegek.szekunder/lexikum.md) képzettséget terjeszti ki. Minél régebbi történelmi eseményről próbál információt előásni az alkalmazó, annál magasabb a **Lexikum** képzettségpróba Nehézsége. Tehát a Lexikum képzettség alacsonyabb szintjein a hetedkori Yn3v általános történelmét ismered, magasabb szinten fellebbennek a titkok a régebbi korok titkairól is.
+
+Az ősi kultúrák történelmének ismerete a Történelemismeret fortély fokaitól függ. Lásd lenn.
 
 ### Kapcsolódik
 
@@ -23,6 +25,7 @@ A fortély nélkül történelmi témában nem dobhatsz próbát [Lexikum](../ke
 
 🌟 **Hatás**:
 - A [Lexikum](../kepzettsegek.szekunder/lexikum.md) próbát már büntetés nélkül dobhatod történelmi témában.
+- Ősi kultúrák nélkül a világtörténelem ismerete
 
 ### 2. fok
 
@@ -31,6 +34,7 @@ A fortély nélkül történelmi témában nem dobhatsz próbát [Lexikum](../ke
 
 🌟 **Hatás**:
 - A [Lexikum](../kepzettsegek.szekunder/lexikum.md) próbát `+2` bónusszal dobhatod történelmi témában.
+- Magában foglalja az ősi kultúrák ismeretét is, de csak a történelmüket!
 
 <br />
 
