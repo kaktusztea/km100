@@ -8,9 +8,11 @@ Emlékezet, Intelligencia, Érzékenység
 
 ### Normál kiterjesztés
 
-- [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) (adott kultúra): enélkül érvényes a levonás mindegyik lenti művészeti ágra.
+- [Kultúrkör](../fortelyok.kiemelt/kulturkor.md): Ha érintett az adott kultúrkör. Enélkül érvényes a levonás mindegyik meglevő művészeti ágra.
 - [Nyelvismeret](../fortelyok.kiemelt/nyelvismeret.md): Udvari fok (ahol szükségesnek érezzük)
+
 __
+
 - [Éneklés](../fortelyok.szabad/enekles.md): felismered a híres dalnokokat, dallamaikat, slágereiket.
 - [Építészet](../fortelyok.altalanos/epiteszet.md):  "Shad0ni hatást érzek azon az oszlopfőn..."
 - [Festészet](../fortelyok.szabad/festeszet.md): Ismered, felismered adott [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) festőit, műveiket, történetüket, stílusukat.

@@ -1,57 +1,48 @@
 ## 🟣 Ősi kultúrkör (adott kultúrkör) (1) 🔁
 
-Külön kezeljük a [Kultúrköröktől](../fortelyok.kiemelt/kulturkor.md) az Ősi kultúrák ismeretét. Ebből nem jár ingyenesen, ugyanúgy tanulható, moint bármely más fortély.
-
-```
 ⚡ Példa: "Ősi Kultúrkör: Dawa birodalom"
-```
+
+Többször felvehető fortély. Az Ősi kultúrkörök ismeretét külön kezeljük a [Kultúrköröktől](../fortelyok.kiemelt/kulturkor.md) és ebből nem jár ingyenes ismeret - ugyanúgy tanulható, mint bármely más fortély.
+
+Az ismeret olyan ősi kultúrákra vehető fel, amelyek már kihaltak, ezek szakértője vagy. Specializált tudásod a földi egyiptológusokhoz hasonló.
+
+Mi tartozik bele ebbe az ismeretbe? Az adott ősi kultúrkörön belül:
+- zenék, ünnepek, ételek
+- szokások, népszokások, babonák, vallásismeret
+- hírességek
 
 ### Kapcsolódik
 
-- [Nyelvismeret](../fortelyok.kiemelt/nyelvismeret.md) fortély
+[Nyelvismeret](../fortelyok.kiemelt/nyelvismeret.md) fortély
 
-### Kiterjeszti ezeket
+### Kiterjeszti ezt
 
-⭕TODO⭕
+[Lexikum](../kepzettsegek.szekunder/lexikum.md): Az adott, kapcsolódó **Ősi kultúrkör** ismerete néha (nem mindig) szükséges.
 
-- [Előadóművészet](../kepzettsegek.szekunder/eloadomuveszet.md): enélkül érvényes a levonás mindegyik lenti művészeti ágra.
-- [Etikett](../kepzettsegek.szekunder/etikett.md): Nélküle általános etikett szabályokra és megérzéseidre támaszkodsz csak. Ha ismered, nincs gond.
-- [Képzőművészet](../kepzettsegek.szekunder/kepzomuveszet.md): enélkül érvényes a levonás mindegyik lenti művészeti ágra.
-- [Művészetismeret](../kepzettsegek.szekunder/muveszetismeret.md): enélkül érvényes a levonás mindegyik lenti művészeti ágra.
-- [Lexikum](../kepzettsegek.szekunder/lexikum.md): Az adott, kapcsolódó **Kultúrkör** ismerete sokszor (nem mindig) szükséges, hiánya esetén jár a standard levonás.
+---
+### Példák
 
-⭕TODO⭕
+#### ⚡ Lexikum + Ősi kultúrkör kiterjesztés
 
-### Leírás
+"A jobboldali amund szobor kéztartása azt jelenti, hogy csapda várható."
 
-A karakter ismeri az adott ősi kultúra általánosságait.
+Ez konkrét lexikális tudás, nem történelmi ismeret.
 
-Mi tartozik bele ebbe az ismeretbe? Az adott kultúrkörön belül a(z)...
-- akcentus, dialektus
-- zenék
-- ételek
-- szokások
-- népszokások
-- ünnepek
-- szleng
-- hírességek
-- alkudozás kultúrája
-- vallásismeret
+#### ⚡ Lexikum + Történelemismeret kiterjesztés
 
-⚡Példa-1: ⭕TODO⭕
+"Az amundok ilyen piramisokat Pyarron előtt 3000-ben csináltak."
 
-⚡Példa-2: ⭕TODO⭕
+Itt nem szükséges az **Ősi kultúrkör** ismerete, hiszen itt általános történelmi ismeretekre támaszkodunk.
 
-Kalandozásai során a karakter számos helyre elvetődik.  Ha ott rászán időt az helyi kultúra tanulmányozására, akkor már ott is képes lesz Kultúrkör-függő képzettségeit maximális hatékonysággal kiaknázni, büntetés nélküli próbákat dobni rá. Ez minden, kultúrköri ismeretet igénylő képzettségre igaz.
+#### ⚡ Lexikum + Történelemismeret ÉS Ősi kultúra kiterjesztés
 
-Ha nincs épp meg az adott szituációban a szükséges kultúrkörhöz tartozó **Kultúrkör** Szabad Fortély, akkor `-3` büntetés jár adott képzettségpróbák dobásaira, amíg a karakter rá nem szánja a szükséges időt a kapcsolódó Kultúrkör fortély megszerzésére.
+"Kevesen tudják, de ezek a titkos kéztartások Pyarron előtti 30. században jöttek be és már a Pyarroni előtti 28. században el is tűntek az amund kultúrából!"
 
-### Ősi kultúrkörök ismerete - draft
+---
+### Ősi kultúrkörök
 
 - Dawa birodalom
-- ⭕TODO⭕
-
-⭕TODO: a lenti importált listát szinkronba hozni a Kultúrkörökkel.⭕
+- ⭕TODO⭕ lista bővítése
 
 <br />
 

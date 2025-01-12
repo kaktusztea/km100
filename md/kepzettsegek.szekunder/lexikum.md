@@ -8,7 +8,8 @@ Emlékezet, Intelligencia
 
 ### Normál kiterjesztés
 
-- [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) - Az adott, kapcsolódó **Kultúrkör** ismerete sokszor (nem mindig) szükséges, hiánya esetén jár a standard levonás.
+- [Kultúrkör](../fortelyok.kiemelt/kulturkor.md): Az adott, kapcsolódó **Kultúrkör** ismerete sokszor (nem mindig) szükséges.
+- [Ősi kultúrkör](../fortelyok.altalanos/osi_kulturkor.md): Az adott, kapcsolódó **Ősi Kultúrkör** ismerete néha (nem mindig) szükséges, akkor is csak [Történelemismeret](../fortelyok.altalanos/tortenelemismeret.md) fortéllyal együtt.
 - [Helyismeret](../fortelyok.kiemelt/helyismeret.md): csak ha konkrétan helyi témával kapcsolatos ismeretről van szó, akkor szükséges. Ne legyünk túl szigorúak.
 __
 - [Heraldika](../fortelyok.szabad/heraldika.md): "Ez a címer egy - már kihalt - kyr házé, akik Sogron egyházának voltak erős szövetségesei a hatodkorban."
