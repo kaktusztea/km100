@@ -1,11 +1,19 @@
 ## 🟣 Kultúrkör (adott kultúrkör) (1) 🔁
 
 ```
-- 1 fokú
-- 1.Tapasztalati Szinttől kezdve minden 2. TSz-en kapsz egyet
-
-⚡ Példa: "Kultúrkör: Tor0n", "Kultúrkör: Py4rron"
+1. Tapasztalati Szinttől kezdve
+  minden 2. TSz-en kapsz egyet
 ```
+
+⚡ Példa: "Kultúrkör: Tor0n"; "Kultúrkör: Py4rron"
+
+Kalandozásai során a karakter számos helyre elvetődik. Ha ott rászán időt az helyi kultúra tanulmányozására, akkor már ott is képes lesz Kultúrkör-függő képzettségeit maximális hatékonysággal kiaknázni, büntetés nélküli próbákat dobni rá. Ez minden - kultúrköri ismeretet igénylő - képzettségre igaz.
+
+Mi tartozik bele ebbe az ismeretbe? Az adott kultúrkörön belül:
+- akcentus, dialektus
+- zenék, ünnepek, ételek
+- szokások, népszokások, babonák, vallásismeret
+- szleng, alkudozás kultúrája, hírességek
 
 ### Kapcsolódik
 
@@ -25,30 +33,24 @@
 - [Lexikum](../kepzettsegek.szekunder/lexikum.md): Az adott, kapcsolódó **Kultúrkör** ismerete sokszor (nem mindig) szükséges, hiánya esetén jár a standard levonás.
 - [Városi jártasság](../kepzettsegek.szekunder/varosi_jartassag.md): Az adott kultúrkör ismerete képes pótolni a Helyismeret hiányát. Ha ez megvan, de az nem, akkor sem jár a levonás.
 
-### Leírás
+### Példák
 
-A karakter ismeri az adott kultúra általánosságait.
+⚡Példa-1: Eren állam 600 éves koronázási szokásaira dobok egy történelemismeretet
 
-Mi tartozik bele ebbe az ismeretbe? Az adott kultúrkörön belül a(z)...
-- akcentus, dialektus
-- zenék
-- ételek
-- szokások
-- népszokások
-- ünnepek
-- szleng
-- hírességek
-- alkudozás kultúrája
-- vallásismeret
+Lexikum képzettségpróba
++ Történelemismeret (Erős kiterjesztés)
++ Kultúrkör (Normál kiterjesztés)
 
-⚡Példa-1: szakállas törpe nőket hogyan különböztessünk meg?
+⚡Példa-2: szakállas törpe nőket hogyan különböztessünk meg?
 
-⚡Példa-2: mikor van az éves Ocsánysimogató ünnep és mit kell olyankor csinálni?
+Etikett képzettségpróba + Kultúrkör (Normál kiterjesztés)
 
-Kalandozásai során a karakter számos helyre elvetődik.  Ha ott rászán időt az helyi kultúra tanulmányozására, akkor már ott is képes lesz Kultúrkör-függő képzettségeit maximális hatékonysággal kiaknázni, büntetés nélküli próbákat dobni rá. Ez minden, kultúrköri ismeretet igénylő képzettségre igaz.
+⚡Példa-3: mikor van az éves Ocsánysimogató ünnep és mit kell olyankor csinálni?
 
-Ha nincs épp meg az adott szituációban a szükséges kultúrkörhöz tartozó **Kultúrkör** Szabad Fortély, akkor `-3` büntetés jár adott képzettségpróbák dobásaira, amíg a karakter rá nem szánja a szükséges időt a kapcsolódó Kultúrkör fortély megszerzésére.
+Lexikum képzettségpróba + Kultúrkör (Normál kiterjesztés)
 
+
+---
 ### Kultúrkör lista draft
 
 - erv

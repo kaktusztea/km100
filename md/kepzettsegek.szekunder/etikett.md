@@ -12,7 +12,7 @@ Sokszor [összetett próba](../036_kepzettsegproba.md#összetett-képzettségpr�
 
 ### Normál kiterjesztés
 
-- [Kultúrkör](../fortelyok.kiemelt/kulturkor.md): Nélküle általános etikett szabályokra és megérzéseidre támaszkodsz csak. Ha ismered, nincs gond.
+- [Kultúrkör](../fortelyok.kiemelt/kulturkor.md): Ha érintett az adott kultúrkör. Nélküle általános etikett szabályokra és megérzéseidre támaszkodsz csak. Ha ismered, nincs gond.
 - [Helyismeret](../fortelyok.kiemelt/helyismeret.md): a helyi celebritások, nemesi körökben forgó emberek ismerete
 
 ### Erős kiterjesztés
