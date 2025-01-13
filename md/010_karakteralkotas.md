@@ -6,7 +6,7 @@
 
 #### → [Karakteralkotó ods](011_karakteralkoto_ods.md)
 
-#### → [Kalandozók, Előtörténet, Személyiség](012_kalandozok_elotortenet_szemelyiseg.md)
+#### → [Kalandozók, Előtörténet, Személyiség, Felszerelés](012_kalandozok_elotortenet_szemelyiseg_felszereles.md)
 
 #### → [Tapasztalati Szint](013_tsz_szintlepes.md)
 
