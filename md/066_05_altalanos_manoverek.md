@@ -1,4 +1,4 @@
-### Általános manőverek listája
+## Általános manőverek listája
 
 - [Átsiklás](#%C3%A1tsikl%C3%A1s)
 - [Belharcba kerülés](#belharcba-ker%C3%BCl%C3%A9s)
@@ -27,7 +27,7 @@
 - [Terelés](#terel%C3%A9s)
 
 ---
-#### Átsiklás
+### Átsiklás
 
 Harcoló felek között, vagy akár veled harcolni vágyó ellenfél mellett elsiklani a harcérintkezés elkerülése végett.
 
@@ -47,7 +47,7 @@ Harcoló felek között, vagy akár veled harcolni vágyó ellenfél mellett els
 <br />
 
 ---
-#### Belharcba kerülés
+### Belharcba kerülés
 
 Átjutva a nagyobb fegyverek fenyegetésén testközelbe lavírozod magad.
 
@@ -68,7 +68,7 @@ Harcoló felek között, vagy akár veled harcolni vágyó ellenfél mellett els
 <br />
 
 ---
-#### Belharcból kibontakozás
+### Belharcból kibontakozás
 
 - Nehézség: `5`
     - `-2` Belharc fortély fokonként
@@ -85,7 +85,7 @@ Harcoló felek között, vagy akár veled harcolni vágyó ellenfél mellett els
 <br />
 
 ---
-#### Csonkolás
+### Csonkolás
 
 Nehézség: `8` (kéz), `10` (láb)
 
@@ -99,7 +99,7 @@ Továbbá megfelelő mennyiségű `ÉP` sebzést kell okoznod.
 <br />
 
 ---
-#### Ellenfél elfogása
+### Ellenfél elfogása
 
   - Nehézség: 10
   - Fázisok: `Végrehajtás, Ellenpróba`
@@ -112,7 +112,7 @@ Továbbá megfelelő mennyiségű `ÉP` sebzést kell okoznod.
 <br />
 
 ---
-#### Felállás földről
+### Felállás földről
 
 - Nehézség: `6`
     - `- (Akrobatika szint / 3)` (↓)
@@ -123,7 +123,7 @@ Továbbá megfelelő mennyiségű `ÉP` sebzést kell okoznod.
 <br />
 
 ---
-#### Forgószél támadás
+### Forgószél támadás
 
 - Nehézség: `7 + ellenfél`
 - Fázisok: `Végrehajtás, Ellenpróba`
@@ -139,7 +139,7 @@ Továbbá megfelelő mennyiségű `ÉP` sebzést kell okoznod.
 <br />
 
 ---
-#### Kibontakozás
+### Kibontakozás
 
 - Nehézség: `5`
   - ± `2`  (`1` penge különbségenként) - több támadónál a legnagyobb fegyver számít
@@ -156,7 +156,7 @@ Továbbá megfelelő mennyiségű `ÉP` sebzést kell okoznod.
 <br />
 
 ---
-#### Kiegészítő támadás
+### Kiegészítő támadás
 
 - Nehézség: `7`
 - Fázisok: `Végrehajtás, Ellenpróba`
@@ -171,7 +171,7 @@ Természetesen az esetleges „kiegészítők”, mint *vaskesztyű*, *szegecsek
 <br />
 
 ---
-#### Lábkirántás szálfegyverrel
+### Lábkirántás szálfegyverrel
 
 Csak kétlábú ellenfelek ellen alkalmazható, több lábbal rendelkező ellenfélnél **Ökleléssel** kell próbálkoznod.
 
@@ -188,7 +188,7 @@ Csak kétlábú ellenfelek ellen alkalmazható, több lábbal rendelkező ellenf
 <br />
 
 ---
-#### Lábsöprés / Öklelés
+### Lábsöprés / Öklelés
 
 Harc közben kirúgod ellenfeled lábát, vagy nekifutásból felökleled. A hatás ugyanaz.
 
@@ -203,7 +203,7 @@ Harc közben kirúgod ellenfeled lábát, vagy nekifutásból felökleled. A hat
 <br />
 
 ---
-#### Lánccsapda
+### Lánccsapda
 
 Láncos fegyverekkel hajthatod vége.
 
@@ -226,7 +226,7 @@ Láncos fegyverekkel hajthatod vége.
 <br />
 
 ---
-#### Lánccsapdából szabadítás
+### Lánccsapdából szabadítás
 
 Láncos fegyverrel foglyul ejtett fegyveredet kiszabadítod.
 
@@ -238,7 +238,7 @@ Láncos fegyverrel foglyul ejtett fegyveredet kiszabadítod.
 <br />
 
 ---
-#### Lefegyverzés / Fegyvertörés
+### Lefegyverzés / Fegyvertörés
 
 Ha meg akarod fosztani ellenfeledet fegyverétől, vagy kiütve kezéből, vagy annak eltörésével, akkor lefegyverezés manővert kell alkalmaznod. Azokra a Harcmodorokra és fegyverre kapod meg az adott szint bónuszát, amelyek követelményeit teljesíted. Karmok és szarvak ellen nem használható a Manőver, ott **Csonkolás** szükséges. Hogy fegyvercsellel, végtagsebzéssel, vagy fegyvertöréssel fosztja meg ellenfelét a karakter, arról a KM dönt és az esetleges módosítókat is ő határozza meg.
 
@@ -287,7 +287,7 @@ Lásd a [Lovas, léglovas manőverek](067_04_lovas_leglovas_manoverek.md#man%C5%
 <br />
 
 ---
-#### Mesterjel
+### Mesterjel
 
 A használt fegyver csak valamilyen (legfeljebb 1 penge hosszú) hegyes szúrófegyver lehet.
 
@@ -300,7 +300,7 @@ A használt fegyver csak valamilyen (legfeljebb 1 penge hosszú) hegyes szúróf
 <br />
 
 ---
-#### Mögékerülés
+### Mögékerülés
 
 Megpróbálsz ellenfeled mögé kerülni. Nem titokban, sunnyogva, lopakodva, hanem ügyes helyezkedéssel mozogsz a megfelelő helyre. Minél többen vagytok, minél nagyobb a túlerő, annál könnyebb a dolgod.
 
@@ -315,7 +315,7 @@ Megpróbálsz ellenfeled mögé kerülni. Nem titokban, sunnyogva, lopakodva, ha
 <br />
 
 ---
-#### Orvtámadás
+### Orvtámadás
 
 Ha sikeres **Észlelés + Érzékenység** vs. **Lopakodás/rejtőzés** ellenpróbát dobtál és sikerült észrevétlenül ellenfeled mögé kerülni, megpróbálhatsz így végezni vele.
 
@@ -330,7 +330,7 @@ Ha sikeres **Észlelés + Érzékenység** vs. **Lopakodás/rejtőzés** ellenpr
 <br />
 
 ---
-#### Pajzzsal öklelés
+### Pajzzsal öklelés
 
 - Nehézség: `7`
     - ± **Erő** különbség
@@ -346,7 +346,7 @@ Ha sikeres **Észlelés + Érzékenység** vs. **Lopakodás/rejtőzés** ellenpr
 <br />
 
 ---
-#### Pajzsrongálás
+### Pajzsrongálás
 
 Szándékosan rongálod ellenfeled pajzsát, csökkentve annak Védő Értékét.
 
@@ -360,7 +360,7 @@ Szándékosan rongálod ellenfeled pajzsát, csökkentve annak Védő Értékét
 <br />
 
 ---
-#### Rávetődés hátulról
+### Rávetődés hátulról
 
 Ha sikeres **Észlelés + Érzékenység** vs. **Lopakodás/rejtőzés** ellenpróbát dobtál és sikerült észrevétlenül ellenfeled mögé kerülni, megpróbálkozhatsz a nyakába/hátára ugrani.
 
@@ -378,7 +378,7 @@ Ha sikeres **Észlelés + Érzékenység** vs. **Lopakodás/rejtőzés** ellenpr
 <br />
 
 ---
-#### Területre / Pontra támadás
+### Területre / Pontra támadás
 
 Meglepetés esetén is kell **Ellenpróbát** dobni
 
@@ -406,7 +406,7 @@ Meglepetés esetén is kell **Ellenpróbát** dobni
 <br />
 
 ---
-#### Távoltartás
+### Távoltartás
 
 Ha kezedben legalább `1` pengével nagyobb fegyver forog, mint Ellenfeled kezében, akkor megpróbálhatod távoltartani őt, így nem tudja leadni támadását.
 
@@ -423,7 +423,7 @@ Ha kezedben legalább `1` pengével nagyobb fegyver forog, mint Ellenfeled kezé
 <br />
 
 ---
-#### Terelés
+### Terelés
 
 Alkalmazható egyszerre, csoportosan is. Csoportot terelni nehezebb. Ilyenkor emelkedik a nehézség (KM dönt).
 

@@ -1,4 +1,4 @@
-### Manőver végbevitelének lépései
+## Manőver végbevitelének lépései
 
 A játékosnak a kör elején be kell jelentenie, hogy Manővert akar alkalmazni és azt is, hogy melyiket. Ezután a karakterek kezdeményezést dobnak (kivéve pl. a **Meglepetés** szituációt), majd mikor az alkalmazóra kerül a sor, jön a Manőver. Ha a KM úgy látja jónak, megtilthatja adott szituációban a Manőver alkalmazását. Amennyiben a játékos ezt a döntést nem képes kulturáltan kezelni, a KM növelje intenzíven a Manőver nehézségét...
 
@@ -19,7 +19,7 @@ Azért dobjuk ezt előbb, mert ez ad gyorsabban eredményt 🔆
 Manővert végző teszi. `Próbadobás vs Célszám`
 
 ---
-### Megakasztás (M)
+## Megakasztás (M)
 
 A Megakasztás az első fázis a Manőver végrehajtása során.\
 Megelőző támadási forma, melyre **az Ellenfél** jogosult teljes, fegyveres `TÉ` harcértékével. Ez egy soron kívüli extra támadás, nincs rá támadások számából adódó levonás sem. Csak akkor szükséges, ha az adott típusú manőver fázisai között ez (`M`) szerepel.
@@ -29,7 +29,7 @@ Ha az így érkező támadás találat (nem kell, hogy sebző is legyen), akkor 
 <br />
 
 ---
-### Végrehajtás (V)
+## Végrehajtás (V)
 
 Nem más, mint egy támadás az aktuális, **fegyveres TÉ** értékkel, melyhez `+20 TÉ` módosító járul. Ha ez a támadás sikeres, akkor a Végrehajtás is sikeres (sebzés nincs). Ne feledjük, hogy a `TÉ` értékébe beleszámít az esetleges több támadás levonása is (`-10` támadásonként)!
 
@@ -38,7 +38,7 @@ Ha a **Végrehajtás** sikertelen, akkor a helyzet megvolt, de nem sikerült kih
 <br />
 
 ---
-### Ellenpróba (E)
+## Ellenpróba (E)
 
 ```
 Dobás: Manőver Alap + k10
@@ -52,7 +52,7 @@ Célszám:
 
 <br />
 
-#### ⚜️ Dobás extra módosítói
+### ⚜️ Dobás extra módosítói
 
 | Manőver Pont          | Opcionális. Pontonként `+2` bónuszt ad. Maximum `2 pont` költhető. |
 |:--------------------- | ------------------------------------------------------------------ | 
@@ -60,7 +60,7 @@ Célszám:
 | Belharc fortély fokai | `+2/fok` az alkalmazó oldalán (Belharci Manőver esetén)            |
 <br />
 
-#### ⚜️ Célszám extra módosítói
+### ⚜️ Célszám extra módosítói
 
 | Manőver Pont         | Ellenfél alkalmazhatja opcionálisan. Pontonként `+2` bónuszt ad. Maximum `2 pont` költhető. A dobások előtt kell bejelenteni. |
 |:-------------------- | :---------------------------------------------------------------------------------------------------------------------------- |
@@ -85,7 +85,7 @@ A KM a körülményektől és szituációtól függően adhat pozitív/negatív 
 <br />
 
 ---
-### Követelmények nélkül
+## Követelmények nélkül
 
 ```
 Követelmények nélkül:
@@ -97,7 +97,7 @@ A Manőverek végrehajtásával bárki próbálkozhat, aki az adott Manővernél
 Amennyiben nem teljesíti, akkor is nekifuthat, de az **Ellenpróba** dobásánál a célszám számára `3`-mal megemelkedik.
 
 ---
-### Újrapróbálkozás
+## Újrapróbálkozás
 
 ```
 +2 Nehézség
