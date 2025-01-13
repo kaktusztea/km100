@@ -53,7 +53,7 @@ A km100 Manővereinek Nehézsége azok adatlapján szerepel - lásd: [Általáno
 ---
 ## ⚜️ Fegyverméret-kategóriák
 
-A Fegyverméret-kategóriák adta különbségek az **Ellenpróbánál** (`E`) módosítóként **nem** szükségesek amennyiben a Manőverben van kötelező (**M**)egakasztás, vagy (**V**)égrehajtás fázis, mert ezt a hatást a résztvevők harcértékeibe már benne foglaltuk.
+A Fegyverméret-kategóriák adta különbségek az **Ellenpróbánál** (`E`) módosítóként **nem** szükségesek amennyiben a Manőverben van kötelező (**M**)egakasztás, vagy (**V**)égrehajtás fázis, mert ezt a hatást a résztvevők harcértékeibe már belefoglaltuk.
 
 <br />
 
