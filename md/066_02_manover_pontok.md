@@ -1,4 +1,4 @@
-### Manőver Pontok
+## Manőver Pontok
 
 A Manőverek [Ellenpróba](066_04_manover_vegbevitele.md#ellenpróba-e) fázisánál használhatjuk fel - opcionálisan - ezeket a pontokat, amelyek mennyisége leginkább a "harctéri", általános harci tapasztalatból nyert trükkök ismeretét szimulálja. Számítása karakteralkotási időben történik.
 
@@ -20,7 +20,7 @@ A Manőver pontok értéke így mindig `[0-4]` tartományban mozog.
 A fenti pont keretet `1` harci jelenet során használhatja fel a karakter - megtámogatva egyes elvégzett Manővereit. A [Védő Érték regenerálódásakor](064_02_09_ve_regeneralodas.md) ez a keret is "visszatöltődik".
 
 ---
-#### Felhasználása, Hatása
+### Felhasználása, Hatása
 
 ```
 1 Manőver Pont:
@@ -33,6 +33,19 @@ Egyszerre legfeljebb `2` pont használható fel (`+4` bónusz).
 A Manőver Pontokat a Manőver dobásainak megkezdése **előtt** kell beletenni, így megvan a rizikója, hogy kudarc esetén elvesznek.
 
 Bővebben lásd: Manőver [Ellenpróba](066_04_manover_vegbevitele.md#ellenpróba-e) fázisa.
+
+
+---
+### NJK Manőver Pontok
+
+```
+Névtelen NJK: 1 MP
+Erős NJK: mint egy JK
+```
+
+Névtelen, átlagos **Nem Játékos Karakterek** fixen `1 MP` javadalmazást kapnak.
+
+A komolyabb, kidolgozottabb, nagyobb ellenfelek, Nem Játékos Karakterek viszont ugyannyi `MP` mennyiséggel rendelkeznek, mint egy **Játékos Karakter**.
 
 ---
 
