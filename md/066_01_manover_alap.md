@@ -1,4 +1,4 @@
-### Manőver Alap
+## Manőver Alap
 
 ```
 Manőver Alap = (HM / 10) ↑
