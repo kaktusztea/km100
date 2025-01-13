@@ -55,7 +55,7 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 ### 1. [Karakteralkotás](010_karakteralkotas.md)
 
 - [Karakteralkotó ods](011_karakteralkoto_ods.md)
-- [Kalandozók, Előtörténet, Személyiség](012_kalandozok_elotortenet_szemelyiseg.md)
+- [Kalandozók, Előtörténet, Személyiség, Felszerelés](012_kalandozok_elotortenet_szemelyiseg_felszereles.md)
 - [Tapasztalati Szint](013_tsz_szintlepes.md)
 - [Tulajdonságok](014_01_tulajdonsagok.md)
 - [Tulajdonságpróba](014_02_tulajdonsagproba.md) 🎲

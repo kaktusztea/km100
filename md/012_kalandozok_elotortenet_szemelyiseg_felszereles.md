@@ -41,7 +41,28 @@ Mennyire gazdag érzelmileg? Az **Önuralom**, **Érzékenység** **Tulajdonság
 Az imént felsorolt jellemzők egy részét csokorba szedtük és "ingyenes", úgynevezett [Leíró Hátterekként](022_leiro_hatterek.md) felvehetőek (a [Karakteralkotó](start.md#karakteralkot%C3%B3) "Speciális" fülén is), hogy tovább színesítsék a karaktert. Ezek a KM és a játékos egyeztetése után (részben) szabadon bővíthetőek.
 
 ---
+## Felszerelés
 
+```
+Felszerelés keret:
+  2 + Erő
+
+Közepes tárgy: 1 pont
+Nagy tárgy: 2 pont
+```
+
+Apró, vagy kis tárgyból ésszerű keretek között "bármennyi" lehet a karakternél - ezeket nem tartjuk számon.
+
+Hogy hány **közepes** és **nagy** tárgyat vagy képes hordozni anélkül, hogy súlyuk akadályozna, azt a **Felszerelés keret** határozza meg, ami `Erő` Tulajdonságod, melyhez `+2`-t adsz hozzá.
+
+Ebből a keretből vonnak le a **közepes** és **nagy** hordozott tárgyak az alábbiak szerint:
+
+- közepes tárgy: `-1 pont` → példa: rövidkard, 20m kötél
+- nagy tárgy: `-2 pont` → példa: alabárd, nagy pajzs
+
+Minden túlcsorduló pont, amely a **Felszerelés keretet** negatívba viszi, pontonként `+3 MGT` hatást okoz, amelyre nem vonatkozik a [Vértviselet](fortelyok.harci/vertviselet.md) fortély mérséklő hatása.
+
+---
 🔗 [Tapasztalati szint, Szintlépés](013_tsz_szintlepes.md) →
 
 ⚜️ [Nyitóoldal](start.md#1-karakteralkot%C3%A1s)
