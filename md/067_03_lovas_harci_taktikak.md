@@ -22,6 +22,7 @@ Követelmények:
 
 ---
 ### Lovas támadás galoppból
+
 ```
 - TÉ: 15
 - VÉ: -30

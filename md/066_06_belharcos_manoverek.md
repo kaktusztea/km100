@@ -1,4 +1,4 @@
-### 🤼‍♂️ Belharcos Manőverek listája
+## 🤼‍♂️ Belharcos Manőverek listája
 
 - [Átdobás](#%C3%A1tdob%C3%A1s)
 - [Belharcba kerülés](#belharcba-ker%C3%BCl%C3%A9s)
@@ -13,19 +13,19 @@
 
 <br />
 
-#### Közös követelmény
+## Közös követelmény
 
 Mindegyik Belharcos Manőver [Belharci szituációt](065_01_harci_helyzetek.md#belharci-szituáció) igényel - kivéve a **Belharcba kerülést**.
 
 ---
-#### [Ellenpróba](066_04_manover_vegbevitele.md#ellenpróba-e) módosítói Belharcos Manőverek esetén
+## [Ellenpróba](066_04_manover_vegbevitele.md#ellenpróba-e) módosítói Belharcos Manőverek esetén
 
 - [Belharc](fortelyok.harci/belharc.md) fortély: `+2 / fok` - Támadó és Védekező számára is
 - Testméret különbség: `[-2; +2]`
 - Páncél különbség: `[-2; +2]`
 
 ---
-### Állatok és Belharc
+## Állatok és Belharc
 
 Állatok általában rendelkeznek [Belharc](fortelyok.harci/belharc.md) fortéllyal. Ennek mértékéről a KM dönt.
 
@@ -33,7 +33,7 @@ Mindegyik Belharcos Manőver [Belharci szituációt](065_01_harci_helyzetek.md#b
 
 ---
 ---
-#### Átdobás
+### Átdobás
 
 - Nehézség: `5`
 - Fázisok: `Végrehajtás, Ellenpróba`
@@ -47,21 +47,21 @@ Mindegyik Belharcos Manőver [Belharci szituációt](065_01_harci_helyzetek.md#b
 <br />
 
 ---
-#### Belharcba kerülés
+### Belharcba kerülés
 
 Lásd a [Belharcba kerülés manővereknél](066_05_altalanos_manoverek.md#belharcba-kerülés)!
 
 <br />
 
 ---
-#### Belharcból kibontakozás
+### Belharcból kibontakozás
 
 Lásd a [Belharcból kibontakozás](066_05_altalanos_manoverek.md#belharcból-kibontakozás)!
 
 <br />
 
 ---
-#### Feszítés, Leszorítás / Feszítésből kijövetel
+### Feszítés, Leszorítás / Feszítésből kijövetel
 
 - Nehézség: `6` ± **Erő** különbség
 - Fázisok: `Végrehajtás, Ellenpróba`
@@ -78,7 +78,7 @@ Lásd a [Belharcból kibontakozás](066_05_altalanos_manoverek.md#belharcból-ki
 <br />
 
 ---
-#### Gáncsolás
+### Gáncsolás
 
 - Nehézség: `5`
 - Fázisok: `Végrehajtás, Ellenpróba`
@@ -91,7 +91,7 @@ Lásd a [Belharcból kibontakozás](066_05_altalanos_manoverek.md#belharcból-ki
 <br />
 
 ---
-#### Kéztörés
+### Kéztörés
 
 - Nehézség: `7`
 	- ± **Erő** különbség
@@ -107,7 +107,7 @@ Lásd a [Belharcból kibontakozás](066_05_altalanos_manoverek.md#belharcból-ki
 <br />
 
 ---
-#### Lábtörés
+### Lábtörés
 
 - Nehézség: `8` 
 	- ± **Erő** különbség
@@ -120,7 +120,7 @@ Lásd a [Belharcból kibontakozás](066_05_altalanos_manoverek.md#belharcból-ki
 <br />
 
 ---
-#### Lefejelés
+### Lefejelés
 
 - Nehézség: `5`
 - Fázisok: `Végrehajtás, Ellenpróba`
@@ -130,7 +130,7 @@ Lásd a [Belharcból kibontakozás](066_05_altalanos_manoverek.md#belharcból-ki
 <br />
 
 ---
-#### Leforgatás/Irányítás
+### Leforgatás/Irányítás
 
 - Nehézség: `8 / 4` (Lefeszített ellenfél ellen a nehézség csak `4`)
 - Fázisok: `Végrehajtás, Ellenpróba`
@@ -140,7 +140,7 @@ Lásd a [Belharcból kibontakozás](066_05_altalanos_manoverek.md#belharcból-ki
 <br />
 
 ---
-#### Nyaktörés
+### Nyaktörés
 
 - Nehézség: `10`
 	- `+[1-6]`: ellenfél páncélban van. KM dönt a mértékről.
