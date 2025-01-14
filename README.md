@@ -56,7 +56,7 @@ A távolsági harcot számos más körülmény cizellálja, mint a célpont mozg
 
 A rendszer jól adaptálható más, akár modern kori környezetbe is.
 
-Távharc esetén pusztán a fegyver [Célzó Értékének](md/071_tavharc_ce.md) és  [Szorzó](md/072_tavharc_ve.md#%EF%B8%8F-szorz%C3%B3) jellemzőjének változtatásával - máris kész a távcsöves mesterlövész puska.
+Távharc esetén pusztán a fegyver [Célzó Értékének](md/071_tavharc_ce.md) és [Osztó](md/072_tavharc_ve_szorzo_oszto.md#%EF%B8%8F-fegyver-oszt%C3%B3) jellemzőjének változtatásával - máris kész a távcsöves mesterlövész puska.
 
 A képzettségrendszer új [Szabad Fortélyok](md/042_szabad_fortelyok.md) meghatározásával remekül hozzáigazítható más világokhoz.
 
@@ -70,7 +70,7 @@ Mágiában kisebb/nagyobb mellékhatások jelennek meg, különösen nagy hatalm
 ---
 ## Szociális ismeretek
 
-Az **Etikett**, **Befolyásolás** és **Emberismeret** képzettségek fedik le ezt az ismerethalmazt, de a meggyőzés, megfélemlítés, átverés jellegű szituációk nem intézhetőek el tisztán egy **Befolyásolás** vs. **Emberismeret** kockadobással - rengeteg múlik a KM és a játékos közti párbeszéden, illetve az elképzelt karaktereken is. A dobást kapcsolódó fortélyok még tovább könnyíthetik, de a szerepjáték részt nem pótolhatják. Bővebben lásd a [Befolyásolás](md/kepzettsegek/befolyasolas.md) képzettség leírását és a "pszeudo-Tulajdonság" bemutatását.
+Az **Etikett**, **Befolyásolás** és **Emberismeret** képzettségek fedik le ezt az ismerethalmazt, de a meggyőzés, megfélemlítés, átverés jellegű szituációk nem intézhetőek el tisztán egy **Befolyásolás** vs. **Emberismeret** kockadobással - rengeteg múlik a KM és a játékos közti párbeszéden, illetve az elképzelt karaktereken is. A dobást kapcsolódó fortélyok még tovább könnyíthetik, de a szerepjáték részt nem pótolhatják. Bővebben lásd a [Befolyásolás](md/kepzettsegek.primer.altalanos/befolyasolas.md) képzettség leírását és a "pszeudo-Tulajdonság" bemutatását.
 
 A rendszer a **_szerep-játékra_** helyezi a hangsúlyt - szemben például egy számítógépes játékkal, ahol minden szociális szituáció dobással kerül elintézésre. Az élő játék egyik legnagyobb előnyét fontosnak tartottuk kiemelten kezelni.
 
