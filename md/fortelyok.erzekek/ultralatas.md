@@ -24,7 +24,7 @@ Teljes sötétben is képes vagy tájékozódni.
 
 🔒 **Követelmény**: Kapcsolódó [Faj Háttér](../021_faj_hatterek.md)
 
-🌟 **Hatás**: Mintha szürkületkor tájékozódnál. Vaksötétben is tudsz olvasni.
+🌟 **Hatás**: Mintha szürkületkor tájékozódnál. Vaksötétben is tudsz olvasni, de csak bogarászva, mintha egy gyufa fényénél forgatnád a lapokat. Türelemjáték.
 
 ---
 ### 3. fok
