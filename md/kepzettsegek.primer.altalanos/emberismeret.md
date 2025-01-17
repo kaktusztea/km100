@@ -52,7 +52,7 @@ Az egyes, speciális szituációkban a fenti Fortélyok adhatnak segítséget (C
 A **Emberismeret** szinte mindig a [Befolyásolás](befolyasolas.md) képzettséggel áll ellenpróbás szituációban - a szituációtól függő módosítókkal. A leggyakoribb az alábbi próba-szituáció:
 
 ```
-Intelligencia + Emberismeret
+Intelligencia + Befolyásolás
             vs
 Érzékenység + Emberismeret
 ```
