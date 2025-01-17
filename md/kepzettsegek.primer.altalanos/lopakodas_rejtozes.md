@@ -63,7 +63,7 @@ Nem ellenpróbás szituációban tapasztalati ismeretekre támaszkodik az alkalm
 - Mozgás: a lopakodó az észlelő látásának perifériáján halad
 - Távolság: `10-15` méter
 
-### Láthatóság
+### ⚜️ Láthatóság
 
 - `-6`: Világosban, éles kontúrral válsz el a háttértől
 - `-3`: Világosban, háttértől elütő ruházatban
