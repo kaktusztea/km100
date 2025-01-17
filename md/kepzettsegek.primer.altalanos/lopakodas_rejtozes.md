@@ -63,6 +63,14 @@ Nem ellenpróbás szituációban tapasztalati ismeretekre támaszkodik az alkalm
 - Mozgás: a lopakodó az észlelő látásának perifériáján halad
 - Távolság: `10-15` méter
 
+### Láthatóság
+
+- `-6`: Világosban, éles kontúrral válsz el a háttértől
+- `-3`: Világosban, háttértől elütő ruházatban
+- `+0`: Átlagos nappali fény, ruhád nem üt el nagyon a háttértől
+- `+3`: Szürkület, félhomány
+- `+6`: Vaksötét. Szabad szemmel csak Infra- vagy Ultralátással vagy észlelhető.
+
 ### ⚜️ Mozgás módosító
 
 - `-6`: gyors haladás ([Suhanó árnyék](../fortelyok.altalanos/suhano_arnyek.md) fortély semmissé teszi)
