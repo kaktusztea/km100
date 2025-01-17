@@ -63,13 +63,19 @@ Nem ellenpróbás szituációban tapasztalati ismeretekre támaszkodik az alkalm
 - Mozgás: a lopakodó az észlelő látásának perifériáján halad
 - Távolság: `10-15` méter
 
-### ⚜️ Láthatóság
+### ⚜️ Láthatóság módosító
 
 - `-6`: Világosban, éles kontúrral válsz el a háttértől
 - `-3`: Világosban, háttértől elütő ruházatban
 - `+0`: Átlagos nappali fény, ruhád nem üt el nagyon a háttértől
 - `+3`: Szürkület, félhomány
 - `+6`: Vaksötét. Szabad szemmel csak Infra- vagy Ultralátással vagy észlelhető.
+
+### ⚜️ Lopakodó helyzete módosító
+
+- `-6`: lopakodó direkt a látótérben
+- `+0`: lopakodó az észlelő látásának perifériáján halad
+- `+6`: lopakodó az észlelő látókörén kívül halad
 
 ### ⚜️ Mozgás módosító
 
@@ -88,11 +94,6 @@ Nem ellenpróbás szituációban tapasztalati ismeretekre támaszkodik az alkalm
 - `+3`: közepesen zajos környezet (nyugisabb piac)
 - `+3 és hallással észlelhetetlen`: hangzavar (üvöltő dervisek, kofák)
 
-### ⚜️ Lopakodó helyzete módosító
-
-- `-6`: lopakodó direkt a látótérben
-- `+0`: lopakodó az észlelő látásának perifériáján halad
-- `+6`: lopakodó az észlelő látókörén kívül halad
 
 ### ⚜️ Környezet, rejtekhely
 
