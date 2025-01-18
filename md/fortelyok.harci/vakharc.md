@@ -10,6 +10,17 @@ Sötétben apró neszek, megérzések segítenek csökkenteni a látáshiány ok
 - Csönd és sötét: `KÉ:-30`, `TÉ/VÉ:-50`
 - Zajok és sötét: `KÉ:-20`, `TÉ/VÉ:-30`
 
+
+---
+### Bónusz: harci ösztön
+
+```
+Vakharc minden foka:
+  +2 Észlelésre
+```
+
+[Lopakodás/rejtőzés és Észlelése](../szituaciok/lopakodas_rejtozes_es_eszlelese.md) szituációban, **kizárólag** hátbatámadás elszenvedése esetén az ellenpróbánál az Észlelés képzettségpróba dobásodra a Vakharc minden foka `+2` bónuszt ad. Ez akkor is jár, ha egy tudottan hátad mögött álló személy hirtelen rádtámad.
+
 ---
 ### 1. fok
 
@@ -50,7 +61,7 @@ Sötétben apró neszek, megérzések segítenek csökkenteni a látáshiány ok
 ---
 ### Megjegyzések
 
-Ha a harc résztvevői mind képzetlen vakharcosok, akkor jó eséllyel ütőtávba se kerülnek. KM dönt a szituáció ismeretében.
+Ha a harc résztvevői mind képzetlen vakharcosok, akkor jó eséllyel ütőtávba se kerülnek, csak kóvályognak, fegyvereikkel kaszálva. KM dönt a szituáció ismeretében.
 
 <br />
 
