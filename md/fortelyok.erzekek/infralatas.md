@@ -17,21 +17,17 @@ Sötétben (leginkább élőlények által kibocsátott) hőképek alapján is k
 🔒 **Követelmény**: Kapcsolódó [Faj Háttér](../021_faj_hatterek.md)
 
 🌟 **Hatás**:
-- Valami derengél, de [Észlelés](../kepzettsegek.primer.altalanos/eszleles.md) próba kell a tájékozódáshoz és a harchoz is.
-- Ha van **Vakharc** fortélya legalább `1. fokon`, akkor ez a próba elhagyható.
-- ⭕TODO⭕ezzel tápolni lehet, ki lehet hagyni a Vakharc 2. fok felvételét⭕
 
+Mintha félhomályban tájékozódnál. A harc is ilyen módosítókkal folyik számodra: [bővebben](../065_01_harci_helyzetek.md#f%C3%A9lhom%C3%A1lyban).
 
 ---
 ### 2. fok
 
 🔒 **Követelmény**: Kapcsolódó [Faj Háttér](../021_faj_hatterek.md)
 
-🌟 **Hatás**: Ha van a hőképben eltérés, látod a sötétben - legyenek akár élőlények, akár tárgyak.
+🌟 **Hatás**: Ha van a hőképben eltérés, látod a sötétben - legyenek akár élőlények, akár tárgyak. Amenyiben ez teljeseül, a harcban nem jár számodra levonás.
 
 <br />
-
-⭕TODO⭕Harcnál mit adnak?⭕
 
 ### Megjegyzések
 
@@ -40,6 +36,8 @@ Sötétben (leginkább élőlények által kibocsátott) hőképek alapján is k
 - A látótávolságot infrában a [Fejlett látás](fejlett_latas.md) Érzék-fortély is befolyásolja, ezért látnak az elfek a legtávolabb hőképek alapján.
 - &#8203;2. fokon sem adnak értékelhető képet egy föld alatti kripta hideg kőfalai
 - A látható fény "elnyomja" a hőképeket, napvilágnál nem használható, szürkületkor lassan kezd "átderengeni", sötétben magától átveszi a hagyományos látás szerepét.
+- Tűz, vagy erős hőforrások közelében nem működik (mintha napba néznél)
+- Erős ködben nem működik
 
 <br />
 
