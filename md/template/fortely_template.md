@@ -1,8 +1,8 @@
-### 🟣 xyz (xx)
+## 🟣 xyz (xx)
 
 blah
 
-#### Alapeset
+### Alapeset
 
 🔒 **Követelmény**: 
 - Tulajdonság: `+1`
@@ -12,7 +12,7 @@ blah
 - lorem ipsum
 
 ---
-#### 1. fok
+### 1. fok
 
 🔒 **Követelmény**:
 - Tulajdonság: `+1`
@@ -23,7 +23,7 @@ blah
 - lorem ipsum
 
 ---
-#### 2. fok
+### 2. fok
 
 🔒 **Követelmény**:
 - Tulajdonság: `+1`
@@ -34,7 +34,7 @@ blah
 
 <br />
 
-#### Megjegyzések
+### Megjegyzések
 
 - lorem ipsum dorem🗡️ amet
 
