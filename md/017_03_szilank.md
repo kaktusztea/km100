@@ -1,6 +1,6 @@
 ## Szilánk
 
-Korábban, a Kalandozók bemutatásánál említett, lélekben szunnyadó **Szilánk** a játékmenetben is megjelenik. Valóságformáló hatása a játékosok számára konkrét előnyökkel jár.
+Korábban, a [Kalandozók](012_kalandozok_elotortenet_szemelyiseg_felszereles.md) bemutatásánál említett, lélekben szunnyadó **Szilánk** a játékmenetben is megjelenik. Valóságformáló hatása a játékosok számára konkrét előnyökkel jár.
 
 A Szilánk a szabályrendszerben egy pontérték, amit csak és kizárólag Kalandozók kapnak, NJK nem (kivéve, ha ő is Kalandozó!).
 
@@ -98,3 +98,9 @@ A `1.` modell a heroikus fantasyt jutalmazza, a `2.` a szerepjátékozást.
 Minden csapat meghatározhatja a maga preferenciáját, melyiket szeretné. Onnantól a kaland végéig a választott modellt kell kövessék.
 
 <br />
+
+---
+
+🔗 [Mágiaellenállás](017_04_magiaellenallas.md) →
+
+⚜️ [Nyitóoldal](start.md#1-karakteralkot%C3%A1s)
