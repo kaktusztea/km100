@@ -40,6 +40,7 @@ Példák:
 - Véletlenül épp ismerem a fogadóst korábbról.
 - Mindenkinek jut épp elég ló, mikor friss hátasokra váltunk.
 - A boltos nőnek épp a férfiideálja a Játékos Karakter.
+- Elrontottam az Emberismeret képzettségpróbámat, szeretnék újra dobni.
 - Szerencsére épp van egy titkosajtó a fogadó szobájában. Fontos: attól, hogy ott van, még lehet, hogy nem taláják meg, mert elrontják az Észlelés képzettségpróbát.
 - "Egy ritka növényt keresek, dobhassak rá Természetjárást, hogy találok -e." Olyan esetben, ahol nem is dobhatna, mert nem őshonos erre a növény.
 
@@ -52,6 +53,7 @@ Fontos: a `2` Szilánk költség NEM adható össze két külön karakter pontja
 Példák:
 - "Éppen sikerül kihallgatnom a fekete mágust - gonosz terveiről". KM: "Rendben, nagy mázlid volt, a mágus azt mondja, hogy ..."
 - Épp van egy titkosajtó a halálszekta börtönében (ezt is meg kell még találni)
+- Újra elrontottam a Mászás próbámat. Ha nem dobom újra, lezuhanok a biztos halálba. Újradobnám...
 
 <br />
 
