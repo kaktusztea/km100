@@ -8,6 +8,8 @@
 - [Elsöprő roham](fortelyok.harci/elsopro_roham.md)
 - [Fárasztás](fortelyok.harci/farasztas.md)
 - [Fegyverrántás](fortelyok.harci/fegyverrantas.md)
+- [Gladiátor bestiái](fortelyok.harci/gladiator.bestiai.md)
+- [Gladiátor közönsége](fortelyok.harci/gladiator.kozonsege.md)
 - [Gyors kezdeményezés](fortelyok.harci/gyors_kezdemenyezes.md)
 - [Harc helyhez kötve](fortelyok.harci/harc_helyhez_kotve.md)
 - [Harci akrobatika](fortelyok.harci/harci_akrobatika.md)
