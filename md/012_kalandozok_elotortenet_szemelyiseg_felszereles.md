@@ -1,6 +1,6 @@
 ## Kalandozók
 
-A **Kalandozó** lélek speciális. Mindegyikben ott szunnyad a ✨**Szilánk**✨, amely a nyughatatlan, folyton kalandot kereső jellemmel ruházza fel minden hordozóját.
+A **Kalandozó** lélek speciális. Mindegyikben ott szunnyad a ✨[Szilánk](017_03_szilank.md)✨, amely a nyughatatlan, folyton kalandot kereső jellemmel ruházza fel minden hordozóját.
 
 Ez az oka annak is, hogy egy **kalandozó lelkű** elf hasonlóan viselkedik, mint egyéb, akár más fajú kalandozó - kilóg a sajátjai közül. Tehát a kalandozó lelkek viselői inkarnációtól (milyen testbe születik) függetlenül némileg hasonlóan viselkednek.
 
