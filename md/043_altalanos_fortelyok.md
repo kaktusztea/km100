@@ -35,7 +35,7 @@ Az Érzék-, Alvilági és fizikai-, Tudományos- és Befolyástól védő fort�
 - [Nyomolvasás](fortelyok.altalanos/nyomolvasas.md)
 - [Pók](fortelyok.altalanos/pok.md)
 - [Sprint](fortelyok.altalanos/sprint.md)
-- [Suhanó árnyék](fortelyok.altalanos/suhano_arnyek.md) 🔺
+- [Suhanó árnyék](fortelyok.altalanos/suhano_arnyek.md)
 - [Szabotőr](fortelyok.altalanos/szabotor.md)
 - [Szájról olvasás](fortelyok.altalanos/szajrol_olvasas.md)
 - [Százarcú](fortelyok.altalanos/szazarcu.md)
@@ -55,7 +55,7 @@ Az Érzék-, Alvilági és fizikai-, Tudományos- és Befolyástól védő fort�
 - [Írástudó](fortelyok.altalanos/irastudo.md)
 - [Mechanika](fortelyok.altalanos/mechanika.md)
 - [Ősi kultúrkör](fortelyok.altalanos/osi_kulturkor.md)
-- [Történelemismeret](fortelyok.altalanos/tortenelemismeret.md) 🔺
+- [Történelemismeret](fortelyok.altalanos/tortenelemismeret.md)
 
 ---
 ## Befolyástól védő fortélyok
