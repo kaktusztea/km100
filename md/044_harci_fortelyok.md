@@ -31,11 +31,6 @@
 - [Vértviselet](fortelyok.harci/vertviselet.md)
 
 ---
-## Slan harci fortélyok
-
-A Slan misztérium alá többfajta fortély is tartozik. Ezek közül a harci érintettségűek (is) a [Slan fortélyok](046_slan_fortelyok.md#harci-slan-fortélyok) oldal alatt találhatóak.
-
----
 ## Lovas fortélyok
 
 <!-- tag: harci__lovas__fortely -->
@@ -57,6 +52,11 @@ A Slan misztérium alá többfajta fortély is tartozik. Ezek közül a harci é
 - [Lövés reflexből](fortelyok.tavharc/loves_reflexbol.md)
 - [Mozgó cél mestere](fortelyok.tavharc/mozgo_cel_mestere.md)
 - [Távoli lövés](fortelyok.tavharc/tavoli_loves.md)
+
+---
+## Slan harci fortélyok
+
+A Slan misztérium alá többfajta fortély is tartozik. Ezek közül a harci érintettségűek (is) a [Slan fortélyok](046_slan_fortelyok.md#harci-slan-fortélyok) oldal alatt találhatóak.
 
 ---
 
