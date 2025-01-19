@@ -4,6 +4,8 @@ Korábban, a [Kalandozók](012_kalandozok_elotortenet_szemelyiseg_felszereles.md
 
 A Szilánk a szabályrendszerben egy pontérték, amit csak és kizárólag Kalandozók kapnak, NJK nem (kivéve, ha ő is Kalandozó!).
 
+<br />
+
 ### Mire jó?
 
 Egy Szilánk (pont) elhasználásával a játékos képes lesz a kalandban narratív események módosítására, akár kockadobás megismétlésére is.
@@ -11,6 +13,8 @@ Egy Szilánk (pont) elhasználásával a játékos képes lesz a kalandban narra
 ❗FONTOS: **harc befolyásolására a Szilánk semmilyen formában NEM alkalmas**, ott a [Szerencsés](fortelyok.altalanos/szerencses.md) fortély vethető be - amennyiben a karakter rendelkezik vele.
 
 Sokszor az ilyen narratív módosítás a kalandban nem hoz automatikus sikert, csak egy lehetőséget teremt, amivel vagy képes élni a játékos, vagy nem.
+
+<br />
 
 ### Javadalmazás
 
@@ -25,6 +29,8 @@ Minden kaland elején a Szilánk értéke visszaáll `1`-re. A kaland során sze
 
 Egy kaland során `1` új Szilánkot szerezni nagy dolognak számít. `2` Szilánk szerezése egy kaland során pedig már epikus cselekedet.
 
+<br />
+
 ---
 ### 🔆 Használata: Átlagos belenyúlás a történetbe: `1 Szilánk`
 
@@ -36,6 +42,8 @@ Példák:
 - A boltos nőnek épp a férfiideálja a Játékos Karakter.
 - Szerencsére épp van egy titkosajtó a fogadó szobájában. Fontos: attól, hogy ott van, még lehet, hogy nem taláják meg, mert elrontják az Észlelés képzettségpróbát.
 - "Egy ritka növényt keresek, dobhassak rá Természetjárást, hogy találok -e." Olyan esetben, ahol nem is dobhatna, mert nem őshonos erre a növény.
+
+<br />
 
 ### 🔆 Használata: Nagy belenyúlás a történetbe: `2 Szilánk`
 
@@ -89,7 +97,7 @@ A Kaland végén a KM és a Játékosok tartanak egy áttekintést a kalandról,
 <br />
 
 ---
-## A csapat döntése a kaland elején: melyik modell?
+## A csapat döntése kaland elején: melyik modell?
 
 A kalandot megelőző áttekintő beszélgetésen a csapat eldöntheti, melyik modellt szeretné követni.
 
