@@ -39,7 +39,7 @@ Természetesen a fenti, nevesített szerepeken felül mássá is átlényegülhe
 
 Beolvadni a helyi átlagos lakosok közé nagy előny - eltűnni az üldözők elől, nem kitűnni.
 
-Ennek Nehézsége függ a tömeg nagyságától is: `9-15` között mozog jellemzően
+**Nehézség**: `9-15` között mozog jellemzően. Függ a tömeg nagyságától is.
 
 <br />
 
@@ -58,14 +58,14 @@ Ennek Nehézsége függ a tömeg nagyságától is: `9-15` között mozog jellem
 ---
 ### Próbák
 
-| Célszám | Példa  |
-| ----------- | :----------- |
-| Könnyű       (6)  | Olyan álbajuszt/szakállat ragasztani, ami nem esik le egész nap.  |
-| Átlagos      (9)  |Azonos nemű és felépítésű, +/-20 év korú személlyé átvedleni.      |
-| Nehéz        (12) | 20 évnél nagyobb korkülönbséget hitelesen megjeleníteni. <br /><br />Más nemű, hasonló korú személlyé átvedleni. |
-| Nagyon nehéz (15) | Más felépítésű személlyé átvedleni. |
+| Célszám              | Példa                                                                                                                                |
+| -------------------- | :----------------------------------------------------------------------------------------------------------------------------------- |
+| Könnyű       (6)     | Olyan álbajuszt/szakállat ragasztani, ami nem esik le egész nap.                                                                     |
+| Átlagos      (9)     | Azonos nemű és felépítésű, +/-20 év korú személlyé átvedleni.                                                                        |
+| Nehéz        (12)    | 20 évnél nagyobb korkülönbséget hitelesen megjeleníteni. <br />Más nemű, hasonló korú személlyé átvedleni.                           |
+| Nagyon nehéz (15)    | Más felépítésű személlyé átvedleni.                                                                                                  |
 | Rendkívül nehéz (18) | Más magasságú, nemű, teljesen más karakterű másik személlyé átváltozni.<br />Más fajú (de hasonló testfelépítésű) lénnyé átalakulni. |
-| Emberfeletti (21) | Egy kis cérnából és egy falevélből álcát készíteni. Más testfelépítésű lénnyé válni. |
+| Emberfeletti (21)    | Egy kis cérnából és egy falevélből álcát készíteni. Más testfelépítésű lénnyé válni.                                                 |
 
 <br />
 

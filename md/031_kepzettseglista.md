@@ -53,32 +53,32 @@
 ---
 ## Fizikai képzettségek
 
-🔵 [Akrobatika](kepzettsegek.primer.altalanos/akrobatika.md) 🅿️
+🔵 [Akrobatika](kepzettsegek.primer.altalanos/akrobatika.md) 🅿️ <sup><sub>(10%)</sub></sup>
 
 🔵 [Fájdalomtűrés](kepzettsegek.primer.altalanos/fajdalomtures.md) 🅿️ <sup><sub>(70%)</sub></sup>
 
-🔵 [Mászás](kepzettsegek.szekunder/maszas.md) <sup><sub>(90%)</sub></sup>
+🔵 [Mászás](kepzettsegek.szekunder/maszas.md) <sup><sub>(100%)</sub></sup>
 
-🔵 [Lovaglás](kepzettsegek.szekunder/lovaglas.md) <sup><sub>(0%)</sub></sup>
+🔵 [Lovaglás](kepzettsegek.szekunder/lovaglas.md) <sup><sub>(100%)</sub></sup>
 
-🔵 [Léglovaglás](kepzettsegek.szekunder/leglovaglas.md) <sup><sub>(80%)</sub></sup>
+🔵 [Léglovaglás](kepzettsegek.szekunder/leglovaglas.md) <sup><sub>(100%)</sub></sup>
 
 ---
 ## Világi képzettségek
 
-🔵 [Befolyásolás](kepzettsegek.primer.altalanos/befolyasolas.md) 🅿️ <sup><sub>(0%)</sub></sup>
+🔵 [Befolyásolás](kepzettsegek.primer.altalanos/befolyasolas.md) 🅿️ <sup><sub>(50%)</sub></sup>
 
 🔵 [Emberismeret](kepzettsegek.primer.altalanos/emberismeret.md) 🅿️ <sup><sub>(90%)</sub></sup>
 
 🔵 [Észlelés](kepzettsegek.primer.altalanos/eszleles.md) 🅿️ <sup><sub>(95%)</sub></sup>
 
-🔵 [Értékbecslés](kepzettsegek.szekunder/ertekbecsles.md) <sup><sub>(0%)</sub></sup>
+🔵 [Értékbecslés](kepzettsegek.szekunder/ertekbecsles.md) <sup><sub>(10%)</sub></sup>
 
-🔵 [Etikett](kepzettsegek.szekunder/etikett.md) <sup><sub>(99%)</sub></sup>
+🔵 [Etikett](kepzettsegek.szekunder/etikett.md) <sup><sub>(100%)</sub></sup>
 
-🔵 [Hajózás](kepzettsegek.szekunder/hajozas.md) <sup><sub>(0%)</sub></sup>
+🔵 [Hajózás](kepzettsegek.szekunder/hajozas.md) <sup><sub>(50%)</sub></sup>
 
-🔵 [Idomítás](kepzettsegek.szekunder/idomitas.md) <sup><sub>(20%)</sub></sup> 
+🔵 [Idomítás](kepzettsegek.szekunder/idomitas.md) <sup><sub>(80%)</sub></sup> 
 
 🔵 [Nyomozás](kepzettsegek.primer.altalanos/nyomozas.md) 🅿️ <sup><sub>(50%)</sub></sup>
 
@@ -105,7 +105,7 @@
 
 🔵 [Szerencsejáték](kepzettsegek.szekunder/szerencsejatek.md) <sup><sub>(0%)</sub></sup>
 
-🔵 [Zárnyitás](kepzettsegek.szekunder/zarnyitas.md) <sup><sub>(0%)</sub></sup>
+🔵 [Zárnyitás](kepzettsegek.szekunder/zarnyitas.md) <sup><sub>(20%)</sub></sup>
 
 
 ---
@@ -113,26 +113,26 @@
 
 Az aktív előadást igénylő művészeteket szeparáltuk az **Előadóművészet** képzettségbe a belső művészetek alkotói folyamatait lefedő **Képzőművészettől**. A passzív művészeti ismereteket a **Művészetismeret** képzettség adja. Mind a három  [Szabad Fortélyok](042_szabad_fortelyok.md) alkalmazásával terjeszthető ki különböző művézeti ágakra.
 
-🔵 [Előadóművészet](kepzettsegek.szekunder/eloadomuveszet.md)
+🔵 [Előadóművészet](kepzettsegek.szekunder/eloadomuveszet.md) <sup><sub>(40%)</sub></sup>
 
-🔵 [Képzőművészet](kepzettsegek.szekunder/kepzomuveszet.md)
+🔵 [Képzőművészet](kepzettsegek.szekunder/kepzomuveszet.md) <sup><sub>(40%)</sub></sup>
 
-🔵 [Művészetismeret](kepzettsegek.szekunder/muveszetismeret.md)
+🔵 [Művészetismeret](kepzettsegek.szekunder/muveszetismeret.md) <sup><sub>(40%)</sub></sup>
 
 ---
 ## Tudományos képzettségek
 
-🔵 [Alkímia](kepzettsegek.szekunder/alkimia.md) <sup><sub>(0%)</sub></sup>
+🔵 [Alkímia](kepzettsegek.szekunder/alkimia.md) <sup><sub>(30%)</sub></sup>
 
-🔵 [Hadászat](kepzettsegek.primer.altalanos/hadaszat.md) 🅿️ <sup><sub>(0%)</sub></sup> 
+🔵 [Hadászat](kepzettsegek.primer.altalanos/hadaszat.md) 🅿️ <sup><sub>(30%)</sub></sup> 
 
 🔵 [Méregkeverés](kepzettsegek.primer.altalanos/meregkeveres.md) 🅿️ <sup><sub>(90%)</sub></sup>
 
-🔵 [Orvoslás](kepzettsegek.primer.altalanos/orvoslas.md) 🅿️ <sup><sub>(40%)</sub></sup>
+🔵 [Orvoslás](kepzettsegek.primer.altalanos/orvoslas.md) 🅿️ <sup><sub>(70%)</sub></sup>
 
-🔵 [Kvantikum](kepzettsegek.szekunder/kvantikum.md) <sup><sub>(60%)</sub></sup>
+🔵 [Kvantikum](kepzettsegek.szekunder/kvantikum.md) <sup><sub>(40%)</sub></sup>
 
-🔵 [Lexikum](kepzettsegek.szekunder/lexikum.md) <sup><sub>(60%)</sub></sup>
+🔵 [Lexikum](kepzettsegek.szekunder/lexikum.md) <sup><sub>(40%)</sub></sup>
 
 ---
 ## Misztikus képzettségek 🅿️

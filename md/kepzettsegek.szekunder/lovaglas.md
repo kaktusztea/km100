@@ -1,6 +1,8 @@
 ## 🔵 Lovaglás
 
-⭕TODO⭕
+Aki lovaglást tanul, az képes megülni egy választott földi hátast lényt a képzettség szintjétől függő tehetséggel.
+
+Válassz hátas fajt: 1 db [Lénylovas](../fortelyok.szabad/lenylovas.md) Szabad Fortélyt kötelezően fel kell venned. A tudás univerzális, némi gyakorlással más fajú földi hátasokra is használható: a [Lénylovas](../fortelyok.szabad/lenylovas.md) Szabad Fortély többszöri felvételével.
 
 ### Domináns Tulajdonságok
 
@@ -17,10 +19,6 @@
 ### Bónusz: Állat testvér
 
 Megegyezik az [Idomítás](../kepzettsegek.szekunder/idomitas.md#b%C3%B3nusz-%C3%A1llat-testv%C3%A9r) képzettségnél leírtakkal.
-
-### Leírás
-
-Aki lovaglást tanul, az képes megülni egy választott földi hátast lényt a képzettség szintjétől függő tehetséggel. Válassz hátas fajt: 1 db [Lénylovas](../fortelyok.szabad/lenylovas.md) Szabad Fortélyt kötelezően fel kell venned. A tudás univerzális, némi gyakorlással más fajú földi hátasokra is használható: a [Lénylovas](../fortelyok.szabad/lenylovas.md) Szabad Fortély többszöri felvételével.
 
 <br />
 
