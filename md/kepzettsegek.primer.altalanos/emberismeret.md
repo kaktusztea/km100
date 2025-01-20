@@ -52,9 +52,9 @@ Az egyes, speciális szituációkban a fenti Fortélyok adhatnak segítséget (C
 A **Emberismeret** szinte mindig a [Befolyásolás](befolyasolas.md) képzettséggel áll ellenpróbás szituációban - a szituációtól függő módosítókkal. A leggyakoribb az alábbi próba-szituáció:
 
 ```
-Intelligencia + Befolyásolás
+Befolyásolás + Intelligencia
             vs
-Érzékenység + Emberismeret
+Emberismeret + Érzékenység
 ```
 
 Bővebben lásd: [Szituációk: Befolyásolás vs Emberismeret](../szituaciok/befolyasolas_modszerei.md) fejezet.
@@ -84,4 +84,3 @@ Ilyenkor az Emberismeret egyfajta „radarként” működik, megpróbál a kül
 - Hosszabb a kontaktus ideje és/vagy elmélyültebb az alapesetnél: `[+1; +6]`
 - Más fajú a célszemély: `[-2;-4]`
 - Asztrál szem hatása: ⭕TODO⭕
-

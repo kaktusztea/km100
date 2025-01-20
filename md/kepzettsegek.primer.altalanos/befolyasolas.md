@@ -31,10 +31,11 @@ Intelligencia, Érzékenység
 ### Ellenpróbák
 
 A **Befolyásolás** szinte mindig az [Emberismeret](emberismeret.md) képzettséggel áll ellenpróbás szituációban - a szituációtól függő módosítókkal. A leggyakoribb az alábbi próba-szituáció:
+
 ```
-Intelligencia + Emberismeret
+Befolyásolás + Intelligencia
             vs
-Érzékenység + Emberismeret
+Emberismeret + Érzékenység
 ```
 
 ### 🔆 Szerepjátékos módosító
