@@ -65,7 +65,7 @@ Cravignon rossz napja kezdetén rossz embernek, az elöljáró élénkítőszere
 
 Ezzel Cravignon már `S2` kategóriába került. Csillagokat lát a vállába hasító tompa, de brutális ütéstől. Lustán előrekaszál, de elvéti és ellenfele ismét betalál. Ezúttal gyomorszájon találják. Sziszegve szökik ki száján a levegő.
 
-- `2. Sebzés`: `9 SP` → `3 KT
+- `2. Sebzés`: `9 SP` → `3 KT`
 - ezzel már `9 db` rubrika lett bejelölve a lovag Életerő táblázatában. `S3` kategóriában van. Még `2` rubrika és `S4`-be kerül.
 
 Szerencséjére a testőr elégnek találja a megtorlást és felzárkózik gazdája mellé. Cravignon kivonszolja magát a kocsma mellé és lerogy a lépcsőre.
