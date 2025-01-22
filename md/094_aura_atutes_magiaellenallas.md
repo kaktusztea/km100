@@ -2,13 +2,74 @@
 
 <sub>→ [STUDY oldal](https://github.com/kaktusztea/km100/wiki/STUDY.magia.Aura) </sub>
 
-### Aura értéke, jellemzői
+Minden lélekkel rendelkező lény rendelkezik Aurával, amely az Erők Síkján öleli körbe, védelmezi a lelket. Az Aura a karakterek mágikus akarata és egyben Mágiaellenállása is (Asztrál, Mentál, Fizikai).
 
-Az Aura a karakterek mágikus akarata és egyben Mágiaellenállása is (Asztrál, Mentál, Fizikai).
+### Aura Alap
 
-Minden lélekkel rendelkező lény rendelkezik Aurával, ez a Tapasztalati Szint (TSz) emelkedésével automatikusan nő (**Aura alap**).
+```
+Aura Alap == Tsz x 2
+```
 
-A fentieken túl lehetséges - védelmi, vagy mágikus célokból - konkrét gyakorlati képzéssel fejleszteni az Aurát. Ezt reprezentálja az [Aurafejlesztés](kepzettsegek.primer.misztikus/aurafejlesztes.md) képzettség. ⭕duplicate⭕
+Az **Aura Alap** az Aura része, annak "bázisa", ami mindig jelen van. Egy karakter élete során megedződik, sokat tapasztal. Az **Aura Alap** értéke ebből a tapasztalásból származik, nem igényel semmilyen tanult képzettséget - értéke a **Tapasztalati Szint** (TSz) emelkedésével automatikusan nő.
+
+### Aurafejlesztés képzettség
+
+Az **Aura Alapon** felül lehetséges - védelmi, vagy mágikus célokból - konkrét gyakorlati képzéssel továbbfejleszteni az Aura erejét. Ezt reprezentálja az [Aurafejlesztés](kepzettsegek.primer.misztikus/aurafejlesztes.md) képzettség.
+
+<br />
+
+---
+### Aura aktuális értéke
+
+Az aktuális **Aura** értékére az [Aurafejlesztés](kepzettsegek.primer.misztikus/aurafejlesztes.md) képzettség ad, adhat további pontokat - erre a játékosnak is aktív ráhatása van.
+
+```
+Aura = Aura Alap
+     + Aurafejlesztés próba eredménye
+     - Aura kiterjesztés
+```
+
+```
+Aurafejlesztés próba:
+ Aurafejlesztés + Önuralom +k10
+```
+
+Az **Aura** egy változó érték, amit úgy kapunk meg, hogy a varázsló és a védekező fél is **Aurafejlesztés** képzettségpróbát dob az **általa önként kiválasztott Nehézségre**. Természetesen választhatják a **biztos tudás**t is, amit az `1`-es dobás (`k10`) által elérhető maximum jelent - ilyenkor nyilván nem kell dobni sem. ⭕TODO: tisztázni, egyértelműsíteni⭕Ez a "**Biztos Aura**" a támadó felől, és a "**Tudatalatti Mágiaellenállás**" a védekező fél felől.
+
+| Aurafejlesztés Próba<br>⭕TODO: más név? |       Aura       |
+| :-------------------------------------: | :--------------: |
+|                 `3`   →                 | `2 + Aura alap`  |
+|                 `6`   →                 | `5 + Aura alap`  |
+|                 `9`   →                 | `10 + Aura alap` |
+|                 `12`  →                 | `15 + Aura alap` |
+|                 `15`  →                 | `20 + Aura alap` |
+|                 `18`  →                 | `25 + Aura alap` |
+|                 `21`  →                 | `30 + Aura alap` |
+|                 `24`  →                 | `35 + Aura alap` |
+|                 `27`  →                 | `40 + Aura alap` |
+|                 `30`  →                 | `45 + Aura alap` |
+
+```
+Ha sikerül a próba:
+Aura = érték a táblázatból
+
+Ha nem sikerül a próba:
+Aura = Aura Alap
+```
+
+Tehát a **Mágia Akaratát** és a **Mágiaellenállást** azonos módon kell meghatározni.
+
+<br />
+
+### Rontott Aurafejlesztés próba
+
+⭕ más név?
+
+Ha a fent tárgyalt Aurafejlesztés próbát elrontotta a karakter, további negatív hatásokkal kell szembesülnie:
+
+**Védekező**: 1 körig csak az Alap Aurája számít (`2x TSz`), ez idő alatt nem dobhat magasabb **Aura** érték meghatározására.
+
+**Mágiatudó**: ugyanaz, mint a Védekezőnél + `1 körig` nem képes varázsolni sem!
 
 <br />
 
@@ -27,54 +88,6 @@ Ha a **Mágia Akarata** eléri, vagy meghaladja a **Mágiellenállás** érték�
 
 A Mágiaellenállás egységes, nincs külön asztrál/mentál ellenállás, vagy "pajzs". Az **Aura** mind az **Asztrál**, **Mentál** és **Fizikai** síkon érkező befolyásoló/változtató hatás ellen védelmet nyújt. Egyes hatásokkal szemben alkalmanként gyengébb/erősebb lehet.
 
-### Aura Alap ⭕duplicate⭕
-
-Az **Aura Alap** az Aura része, annak "bázisa", ami mindig jelen van. A karakter élete során megedződött, sokat tapasztalt. Az Aura értéke ebből a tapasztalásból származik, nem igényel semmilyen tanult képzettséget:⭕duplicate⭕
-
-```
-Aura Alap == Tsz x 2
-```
-
-### Aura
-
-Az aktuális **Aura** értékére az [Aurafejlesztés](kepzettsegek.primer.misztikus/aurafejlesztes.md) képzettség ad, adhat további pontokat - erre a játékosnak is aktív ráhatása van.
-
-```
-Aura =
-   Aura Alap
-   + Aurafejlesztés próba⭕formázás, egyszerűbb, átláthatóbb leírás⭕
-     (+Önuralom)
-
-   - Aura kiterjesztés
-```
-
-Az **Aura** egy változó érték, amit úgy kapunk meg, hogy a varázsló és a védekező fél is **Aurafejlesztés** képzettségpróbát dob az **általa önként kiválasztott Nehézségre**. Természetesen választhatják a **biztos tudás**t is, amit az `1`-es dobás (`k10`) által elérhető maximum jelent - ilyenkor nyilván nem kell dobni sem. Ez a "**Biztos Aura**" a támadó felől, és a "**Tudatalatti Mágiaellenállás**" a védekező fél felől.
-
-| Aurafejlesztés Próba |       Aura       |
-| :------------------: | :--------------: |
-|       `3`   →        | `2 + Aura alap`  |
-|       `6`   →        | `5 + Aura alap`  |
-|       `9`   →        | `10 + Aura alap` |
-|       `12`  →        | `15 + Aura alap` |
-|       `15`  →        | `20 + Aura alap` |
-|       `18`  →        | `25 + Aura alap` |
-|       `21`  →        | `30 + Aura alap` |
-|       `24`  →        | `35 + Aura alap` |
-|       `27`  →        | `40 + Aura alap` |
-|       `30`  →        | `45 + Aura alap` |
-
-```
-Ha sikerül a próba:
-Aura = érték a táblázatból
-
-Ha nem sikerül a próba:
-Aura = Aura Alap
-```
-
-Tehát a **Mágia Akaratát** és a **Mágiaellenállást** azonos módon kell meghatározni.
-
-<br />
-
 ---
 ### Tudatalatti mágiaellenállás (TME) / Biztos Aura
 
@@ -88,16 +101,6 @@ TME / Biztos Aura:
 
 <br />
 
----
-### Rontott Aurafejlesztés próba
-
-Ha a fent tárgyalt Aurafejlesztés próbát elrontotta a karakter, további negatív hatásokkal kell szembesülnie:
-
-**Védekező**: 1 körig csak az Alap Aurája számít (`2x TSz`), ez idő alatt nem dobhat magasabb **Aura** érték meghatározására.
-
-**Mágiatudó**: ugyanaz, mint a Védekezőnél + `1 körig` nem képes varázsolni sem!
-
-<br />
 
 ---
 ### Mágiaellenállás változása
