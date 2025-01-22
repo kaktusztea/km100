@@ -1,90 +1,89 @@
-## Aura, Mágia Átütése, Mágiaellenállás
+## Aura, Mágia Akarata, Mágiaellenállás
 
 <sub>→ [STUDY oldal](https://github.com/kaktusztea/km100/wiki/STUDY.magia.Aura) </sub>
 
 ### Aura értéke, jellemzői
 
-Az Aura a karakterek mágikus akaraa és egyben Mágiaellenállása is (Asztrál, Mentál, Fizikai).
+Az Aura a karakterek mágikus akarata és egyben Mágiaellenállása is (Asztrál, Mentál, Fizikai).
 
 Minden lélekkel rendelkező lény rendelkezik Aurával, ez a Tapasztalati Szint (TSz) emelkedésével automatikusan nő (**Aura alap**).
 
-A fentieken túl lehetséges - védelmi, vagy mágikus célokból - konkrét gyakorlati képzéssel fejleszteni az Aurát. Ezt reprezentálja az [Aurafejlesztés](kepzettsegek.primer.misztikus/aurafejlesztes.md) képzettség.
+A fentieken túl lehetséges - védelmi, vagy mágikus célokból - konkrét gyakorlati képzéssel fejleszteni az Aurát. Ezt reprezentálja az [Aurafejlesztés](kepzettsegek.primer.misztikus/aurafejlesztes.md) képzettség. ⭕duplicate⭕
 
 <br />
 
 ---
-### Aura, mint mágikus akarat: Átütés
-
-Varázsláskor a mágiatudó Aktuális Aura értéke (ez a Mágia **Átütése**) feszül szembe az áldozat **Aktuális Aurájával**. 
-
-<br />
-
----
-### Mágia Átütése vs Mágiaellenállás
+### Mágia Akarata vs Mágiaellenállás
 
 ```
-Mágia Átütése  vs  Mágiaellenállás
+Mágia Akarata  vs  Mágiaellenállás
+               =
+   Támadó Aura vs Védekező Aura
 ```
 
-Varázsláskor a varázsló és a védekező fél is meghatározza **Aktuális Aura** értékékét és ezt vetik össze. A támadónál ezt **Mágia Átütésnek**, a védekezőnél **Mágiaellenállásnak** nevezzük.
-Ha az Átütés eléri, vagy meghaladja a Mágiellenállás értékét, akkor a mágia átjutott a védelmen és kifejti hatását.
+Varázsláskor a varázsló és a védekező fél is meghatározza **Aura** értékékét és ezeket vetik össze. A támadónál ezt **Mágia Akaratának**, a védekezőnél **Mágiaellenállásnak** nevezzük.
 
-A Mágiaellenállás egységes, nincs külön asztrál/mentálellenállás, vagy "pajzs". Az Aura mind az Asztrál, Mentál és Fizikai síkon érkező befolyásoló/változtató hatás ellen védelmet nyújt. Egyes hatásokkal szemben alkalmanként gyengébb/erősebb lehet.
+Ha a **Mágia Akarata** eléri, vagy meghaladja a **Mágiellenállás** értékét, akkor a mágia átjutott a védelmen és kifejti hatását.
 
-#### Aura Alap; AuraErő; Aktuális Aura kiszámolása
+A Mágiaellenállás egységes, nincs külön asztrál/mentál ellenállás, vagy "pajzs". Az **Aura** mind az **Asztrál**, **Mentál** és **Fizikai** síkon érkező befolyásoló/változtató hatás ellen védelmet nyújt. Egyes hatásokkal szemben alkalmanként gyengébb/erősebb lehet.
+
+### Aura Alap ⭕duplicate⭕
+
+Az **Aura Alap** az Aura része, annak "bázisa", ami mindig jelen van. A karakter élete során megedződött, sokat tapasztalt. Az Aura értéke ebből a tapasztalásból származik, nem igényel semmilyen tanult képzettséget:⭕duplicate⭕
 
 ```
 Aura Alap == Tsz x 2
-
-AuraErő =
-   Aurafejlesztés + Önuralom képzettségpróba
-   a táblázatos célszámokra
 ```
 
+### Aura
+
+Az aktuális **Aura** értékére az [Aurafejlesztés](kepzettsegek.primer.misztikus/aurafejlesztes.md) képzettség ad, adhat további pontokat - erre a játékosnak is aktív ráhatása van.
+
 ```
-Aktuális Aura = Aura alap
-              + Aura Erő
-              - Aura kiterjesztés
+Aura =
+   Aura Alap
+   + Aurafejlesztés próba⭕formázás, egyszerűbb, átláthatóbb leírás⭕
+     (+Önuralom)
+
+   - Aura kiterjesztés
 ```
 
-Az AuraErő egy változó érték, amit úgy kapunk meg, hogy a varázsló és a védekező fél is **Aurafejlesztés** képzettségpróbát dob az **általa önként kiválasztott Nehézségre**. Természetesen választhatják a biztos tudást, amit az `1`-es dobás (k10) által elérhető maximum jelent - ilyenkor nyilván nem kell dobni sem (ez a "Biztos Átütés" a támadó felől, és a "Tudatalatti Mágiaellenállás" a védekező fél felől).
+Az **Aura** egy változó érték, amit úgy kapunk meg, hogy a varázsló és a védekező fél is **Aurafejlesztés** képzettségpróbát dob az **általa önként kiválasztott Nehézségre**. Természetesen választhatják a **biztos tudás**t is, amit az `1`-es dobás (`k10`) által elérhető maximum jelent - ilyenkor nyilván nem kell dobni sem. Ez a "**Biztos Aura**" a támadó felől, és a "**Tudatalatti Mágiaellenállás**" a védekező fél felől.
 
-| Aurafejlesztés Próba | AuraErő |
-|:--------------------:|:-------:|
-|          3   →       |    2    |
-|          6   →       |    5    |
-|          9   →       |   10    |
-|          12  →       |   15    |
-|          15  →       |   20    |
-|          18  →       |   25    |
-|          21  →       |   30    |
-|          24  →       |   35    |
-|          27  →       |   40    |
-|          30  →       |   45    |
+| Aurafejlesztés Próba |       Aura       |
+| :------------------: | :--------------: |
+|       `3`   →        | `2 + Aura alap`  |
+|       `6`   →        | `5 + Aura alap`  |
+|       `9`   →        | `10 + Aura alap` |
+|       `12`  →        | `15 + Aura alap` |
+|       `15`  →        | `20 + Aura alap` |
+|       `18`  →        | `25 + Aura alap` |
+|       `21`  →        | `30 + Aura alap` |
+|       `24`  →        | `35 + Aura alap` |
+|       `27`  →        | `40 + Aura alap` |
+|       `30`  →        | `45 + Aura alap` |
 
 ```
 Ha sikerül a próba:
-Aktuális Aura = (2x TSz) + AuraErő
+Aura = érték a táblázatból
 
 Ha nem sikerül a próba:
-Aktuális Aura = (2x TSz)
+Aura = Aura Alap
 ```
 
-Tehát a **Mágia Átütését** és a **Mágiaellenállást** azonos módon kell meghatározni.
+Tehát a **Mágia Akaratát** és a **Mágiaellenállást** azonos módon kell meghatározni.
 
 <br />
 
 ---
-### Tudatalatti mágiaellenállás (TME) / Biztos Átütés
+### Tudatalatti mágiaellenállás (TME) / Biztos Aura
 
-Amennyiben az áldozat nem tud róla, hogy varázsolnak rá, olyankor a Tudatalatti Mágiaellenállása érvényesül, amely a biztos tudásból meglevő AuraErő értékével számol (tehát ha k10-en `1`-es dobott volna, akkor mit ért volna el a próbán). Ugyanígy számoljuk ki a **Biztos Átütés** értékét is - a támadó szempontjából.
+Amennyiben az áldozat nem tud róla, hogy varázsolnak rá, olyankor a **Tudatalatti Mágiaellenállása** érvényesül, amely a biztos tudásból meglevő **Aura** értékével számol (tehát ha k10-en `1`-es dobott volna, akkor mit ért volna el a próbán). Ugyanígy számoljuk ki a **Biztos Aura** értékét is - a támadó szempontjából.
 
 ```
-Önuralom + Aurafejlesztés + 1
-  → X AuraErő
-
-TME / Biztos Átütés
-  = Aura Alap + (X AuraErő)
+TME / Biztos Aura:
+  Önuralom + Aurafejlesztés + 1
+  → X Aura
 ```
 
 <br />
@@ -94,9 +93,9 @@ TME / Biztos Átütés
 
 Ha a fent tárgyalt Aurafejlesztés próbát elrontotta a karakter, további negatív hatásokkal kell szembesülnie:
 
-**Védekező**: 1 körig csak az Alap Aurája számít (`2x TSz`), ez idő alatt nem dobhat AuraErőre.
+**Védekező**: 1 körig csak az Alap Aurája számít (`2x TSz`), ez idő alatt nem dobhat magasabb **Aura** érték meghatározására.
 
-**Mágiatudó**: ugyanaz, mint a Védekezőnél + 1 körig nem képes varázsolni sem
+**Mágiatudó**: ugyanaz, mint a Védekezőnél + `1 körig` nem képes varázsolni sem!
 
 <br />
 
@@ -109,12 +108,13 @@ Ilyen esetekben a KM kérhet **Összpontosítás** próbát, hogy kap -e büntet
 
 |                          Hatás, esemény                          |                       Aura Alap diff                        |
 | :--------------------------------------------------------------: | :---------------------------------------------------------: |
-|                           Érzelmi sokk                           |                       -3  (Asztrális)                       |
-|                            Kiégettség                            |                      +1-3 (Asztrális)                       |
-|                     Erős koncentrálás másra                      | Összpontosítás próba: [6-9-12-15] Ha nincs meg, -3 Akt.Aura |
-|                            Harci láz                             |               +3 Asztrál/Mentál hatások ellen               |
+|                           Érzelmi sokk                           |                      `-3`  (Asztrális)                      |
+|                            Kiégettség                            |                     `+1-3` (Asztrális)                      |
+|                     Erős koncentrálás másra                      | Összpontosítás próba: `[6-9-12-15]` Ha nincs meg, `-3` Aura |
+|                            Harci láz                             |              `+3` Asztrál/Mentál hatások ellen              |
 |                         Papi védő áldás                          |                  +⭕X⭕ adott hatások ellen                   |
 | Olyan érzelmi befolyás, ami tudat alatt kedvére van a célpontnak |               `-3` ilyen Asztrál hatás ellen                |
+|                                                                  |                                                             |
 
 <br />
 
@@ -125,13 +125,15 @@ Ha a mágiatudó közvetlenül a célpont testét szeretné átalakítani, akkor
 
 ```
 Mágiellenállás fizikai
-behatás ellen: +(2x Edzettség)
+behatás ellen: Aura +(2x Edzettség)
 ```
 
 <br />
 
 ---
 ### ⚡Példa
+
+⭕TODO: hozzáigazítani a doksi változtatásokhoz
 
 #### Varázsló, mint támadó
 
@@ -161,9 +163,9 @@ behatás ellen: +(2x Edzettség)
 A varázsló megpróbálja asztrális befolyása alá vonni a nemesembert. Úgy dönt, nem dob, neki elég a Biztos Átütés (24), áldozatát jóval gyengébbnek véli.
 
 A nemesember érzékeli az Auraérintést és úgy véli támadója jelentősen erősebb nála - kockázat.
-Szeretne `+15`-at elérni az AuraErő dobás hatására, hogy Aura alapjával együtt `25`-as Mágiaellenállást érjen el (`10+15`).
+Szeretne `+25`-öt elérni az Aurafejlesztés próbadobás hatására, hogy Aura alapjával együtt `25`-as Aurát (Mágiaellenállást) érjen el (`10+15`).
 
-A `15`-ös AuraErőhöz `12`-es célszámot kell megdobnia az `Önuralom + Aurafejlesztés` képzettségpróbán:
+A `25`-ös Aurához `12`-es célszámot kell megdobnia az `Önuralom + Aurafejlesztés` képzettségpróbán:
 
 ```
 6 + k10  vs  12
@@ -176,10 +178,10 @@ Ekkor a támadó vs Védő állás így néz ki:
 ```
 24 (Varázsló Mágiájának Akarata)
   vs
-25  (Nemesember Mágiaellenálása)
+25 (Nemesember Mágiaellenálása)
 ```
 
-A nemesembernek szerencséje volt. Nem tudhatta, mekkora lesz ellenfele Mágiájának Akarata, de jól taktikázott és a kockázatot is megfelelő mederben tartotta. Megpróbálhatott volna `+20` AuraErőre dobni, de mivel annak Nehézség `15`, így annak megdobására csak 20% esélye lett volna (`6 + k10  vs 15`).
+A nemesembernek szerencséje volt. Nem tudhatta, mekkora lesz ellenfele Mágiájának Akarata, de jól taktikázott és a kockázatot is megfelelő mederben tartotta. Megpróbálhatott volna `+20` Aura értékre dobni, de mivel annak Nehézsége `15`, így annak megdobására csak `20%` esélye lett volna (`6 + k10  vs 15`).
 
 A mágiatudó csalódottan horkant fel, mágiája csődöt mondott.
 
