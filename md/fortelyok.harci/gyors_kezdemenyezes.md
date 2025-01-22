@@ -1,4 +1,4 @@
-## 🟣 Gyors kezdeményezés (1)
+## 🟣 Gyors kezdeményezés (3)
 
 Kivételesen gyorsan mozdulsz a harcban.
 
