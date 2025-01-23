@@ -53,7 +53,7 @@ Fontos: a `2` Szilánk költség NEM adható össze két külön karakter pontja
 Példák:
 - "Éppen sikerül kihallgatnom a fekete mágust - gonosz terveiről". KM: "Rendben, nagy mázlid volt, a mágus azt mondja, hogy ..."
 - Épp van egy titkosajtó a halálszekta börtönében (ezt is meg kell még találni)
-- Újra elrontottam a Mászás próbámat. Ha nem dobom újra, lezuhanok a biztos halálba. Újradobnám...
+- "Újra elrontottam a Mászás próbámat, le fogok zuhanni a biztos halálba. Mi van, ha pont ledob egy kötelet az a goblin, akinek az életét megkíméltem a sziklateraszon?" KM: "Rendben."
 
 <br />
 
@@ -68,7 +68,7 @@ Példák:
 
 #### Milyen szituációkban járhat **Szilánk**?
 
-- Tökéletesen kijátszod a jellemed ÉS emiatt nehéz helyzetbe kerülsz - de nem a csapat egészére vonatkozóan.
+- Tökéletesen kijátszod a jellemed ÉS emiatt nehéz helyzetbe kerülsz. Fontos, hogy ez **rád**, az általad játszott karakterre vonatkozik, nem a csapat egészére. Ezt azért fontos kiemelni, mert azzal nem lehet Szilánkot felhalmozni, hogy önző módon kibabrálsz a parti egészével.
 - Kiemelkedő, epikus momentum. Kalandonként jellemzően `1` ilyen fordul elő egy konkrét Játékos Karakterrel.
 - Ha olyan jelenet következik be, ahol több történetszál összeér és ebben a Játékos Karakternek fontos szerepe lett, akkor akár `2` Szilánk is járhat.
 - Következetes jó szerepjátékért.
