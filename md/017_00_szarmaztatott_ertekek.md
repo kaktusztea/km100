@@ -4,9 +4,9 @@ Egyes értékek más, már kiszámolt értékekből származtatva kerülnek megh
 
 #### [Életerő Pont (ÉP), Kábulat Életerő pont (KT)](017_01_ep_kt.md)
 
-#### [Manőver Pontok (MP)](017_02_manover_pontok.md)
+#### [Manőver Pontok (MP)](017_03_manover_pontok.md)
 
-#### [Szilánk](017_03_szilank.md)
+#### [Szilánk](018_szilank.md)
 
 #### [Mágiaellenállás](017_04_magiaellenallas.md)
 
