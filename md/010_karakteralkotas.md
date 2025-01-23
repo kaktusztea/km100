@@ -28,16 +28,16 @@
 
 #### → [Életerő Pont (ÉP), Kábulat Életerő Pont (KT)](017_01_ep_kt.md)
 
-#### → [Manőver Pontok](017_02_manover_pontok.md)
+#### → [Manőver Pontok](017_03_manover_pontok.md)
 
-#### → [Szilánk](017_03_szilank.md)
+#### → [Szilánk](018_szilank.md)
 
 #### → [Mágiaellenállás](017_04_magiaellenallas.md) 🎲
 
 #### → [Méregellenállás](017_05_meregellenallas.md) 🎲
 
 ---
-### [Harcérték Módosító (HM), Célzóérték Módosító (CM)](018_hm_cm.md)
+### [Harcérték Módosító (HM), Célzóérték Módosító (CM)](017_02_hm_cm.md)
 
 ---
 ### [Nem Játékos Karakterek](019_njk.md)
@@ -56,7 +56,7 @@ Karakteralkotó Pontjaidat [Fortélyok](040_fortelyok.md) felvételére is költ
 
 A [Pszí alkalmazás](fortelyok.misztikus/pszi_kiterjesztes.md) is a Fortélyok közt található. Fontos kiemelni a [Mesterfegyver](fortelyok.harci/mesterfegyver.md) harci fortélyt amely egy konkrét fegyver hatékonyabb használatát jeleníti meg.
 
-A [Harcérték Módosítók (HM, CM)](018_hm_cm.md) felvétele is `KP`-ból történik, ezek az általános harci tapasztalat növekedését hivatottak modellezni. A [Manőver Pontokat](066_02_manover_pontok.md) automatikusan kapod, az elvégzett [Manővereidet](066_00_manoverek.md) könnyítheted meg velük.
+A [Harcérték Módosítók (HM, CM)](017_02_hm_cm.md) felvétele is `KP`-ból történik, ezek az általános harci tapasztalat növekedését hivatottak modellezni. A [Manőver Pontokat](066_02_manover_pontok.md) automatikusan kapod, az elvégzett [Manővereidet](066_00_manoverek.md) könnyítheted meg velük.
 
 A [Hátterek](020_hattererek.md) számos érdekes aspektussal ruházhatják fel karakteredet. Az egyes fajok mind [Faj-Háttereként](021_faj_hatterek.md) vehetőek fel, limitációik és - érzékeiket érintő - kapcsolódó fortélyaikat ott találod meg. Végül essen szó a [Leíró Hátterekről](022_leiro_hatterek.md), ezek egyszavas jellemzők, melyek a karakter jellemét, hátterét színesítik - tetszés szerint vehetőek fel.
 

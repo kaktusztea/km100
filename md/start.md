@@ -61,13 +61,13 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 - [Tulajdonságpróba](014_02_tulajdonsagproba.md) 🎲
 - [Primer és Szekunder ismeretek](015_primer_szekunder_ismeretek.md)
 - [Karakteralkotó Pontok (KP)](016_kp.md)
-- [Számaztatott értékek](017_00_szarmaztatott_ertekek.md)
+- [Származtatott értékek](017_00_szarmaztatott_ertekek.md)
   - [Életerő Pont (ÉP), Kábulat Életerő Pont (KT)](017_01_ep_kt.md)
-  - [Manőver Pontok (MP)](017_02_manover_pontok.md)
-  - [Szilánk](017_03_szilank.md)
+  - [Harcérték Módosító (HM), Célzóérték Módosító (CM)](017_02_hm_cm.md)
+  - [Manőver Pontok (MP)](017_03_manover_pontok.md)
   - [Mágiaellenállás](017_04_magiaellenallas.md) 🎲
   - [Méregellenállás](017_05_meregellenallas.md) 🎲
-- [Harcérték Módosító (HM), Célzóérték Módosító (CM)](018_hm_cm.md)
+- [Szilánk](018_szilank.md)
 - [Nem Játékos Karakterek](019_njk.md)
 
 ---
@@ -138,7 +138,7 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 - [KÉ, TÉ, VÉ, CÉ](062_01_ke_te_ve_ce.md)
 - [Harcmodor képzettségek és bónuszaik](062_02_harcmodor_kepzettsegek_es_bonuszaik.md)
 - [Mozgásgátló tényező (MGT)](062_03_mgt.md)
-- [HM, CM](018_hm_cm.md)
+- [HM, CM](017_02_hm_cm.md)
 - [Mesterfegyver fortély bónuszai](fortelyok.harci/mesterfegyver.md)
 
 #### 6.3 [Harci alapfogalmak](063_00_harci_alapfogalmak.md)
