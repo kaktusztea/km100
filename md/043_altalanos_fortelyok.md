@@ -50,8 +50,8 @@ Az Érzék-, Alvilági és fizikai-, Tudományos- és Befolyástól védő fort�
 
 <!-- tag: tudomanyos__fortely -->
 
-- [Élettan](fortelyok.altalanos/elettan.md)
-- [Építészet](fortelyok.altalanos/epiteszet.md)
+- [Élettan](fortelyok.altalanos/elettan.md) 🔻
+- [Építészet](fortelyok.altalanos/epiteszet.md) 🔻
 - [Írástudó](fortelyok.altalanos/irastudo.md)
 - [Mechanika](fortelyok.altalanos/mechanika.md) 🔻
 - [Ősi kultúrkör](fortelyok.altalanos/osi_kulturkor.md)
@@ -64,10 +64,6 @@ Az Érzék-, Alvilági és fizikai-, Tudományos- és Befolyástól védő fort�
 
 - [Hidegvér](fortelyok.altalanos/hidegver.md)
 - [Tiszta fej](fortelyok.altalanos/tiszta_fej.md)
-
-
-
-
 
 ---
 
