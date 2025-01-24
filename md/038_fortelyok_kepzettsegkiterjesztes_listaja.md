@@ -1,5 +1,8 @@
 ## Fortélyok képzettségkiterjesztés listája
 
+🟩 Normál kiterjesztés\
+🟥 Erős kiterjesztés
+
 ![](images/038_fortelyok_kiterjeszteslistaja.png)
 
 ---
