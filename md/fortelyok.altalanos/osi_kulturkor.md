@@ -2,9 +2,9 @@
 
 ⚡ Példa: "Ősi Kultúrkör: Dawa birodalom"
 
-Többször felvehető fortély. Az Ősi kultúrkörök ismeretét külön kezeljük a [Kultúrköröktől](../fortelyok.kiemelt/kulturkor.md) és ebből nem jár ingyenes ismeret - ugyanúgy tanulható, mint bármely más fortély.
+Többször felvehető fortély. Az Ősi kultúrkörök ismeretét külön kezeljük a [Kultúrköröktől](../fortelyok.kiemelt/kulturkor.md) és ebből nem jár ingyenes ismeret, hanem ugyanúgy tanulható, mint bármely más általános fortély.
 
-Az ismeret olyan ősi kultúrákra vehető fel, amelyek már kihaltak, ezek szakértője vagy. Specializált tudásod a földi egyiptológusokhoz hasonló.
+Az ismeret olyan ősi kultúrákra vehető fel, amelyek már kihaltak, ezek közül vagy szakértője egynek. Specializált tudásod a földi egyiptológusokhoz hasonló.
 
 Mi tartozik bele ebbe az ismeretbe? Az adott ősi kultúrkörön belül:
 - zenék, ünnepek, ételek
@@ -13,11 +13,17 @@ Mi tartozik bele ebbe az ismeretbe? Az adott ősi kultúrkörön belül:
 
 ### Kapcsolódik
 
-[Nyelvismeret](../fortelyok.kiemelt/nyelvismeret.md) fortély
+- [Asztrológia](../fortelyok.szabad/asztrologia.md) fortély
+- [Kalligráfia](../fortelyok.szabad/kalligrafia.md) fortély
+- [Nyelvismeret](../fortelyok.kiemelt/nyelvismeret.md) fortély
+- [Rejtjelfejtő ](../fortelyok.szabad/rejtjelfejto.md) fortély
+- [Történelemismeret](tortenelemismeret.md) fortély
 
 ### Kiterjeszti ezt
 
-[Lexikum](../kepzettsegek.szekunder/lexikum.md): Az adott, kapcsolódó **Ősi kultúrkör** ismerete néha (nem mindig) szükséges.
+- [Értékbecslés](../kepzettsegek.szekunder/ertekbecsles.md): Az adott **Ősi kultúrkör** idejében készült műkincsek felismerése, értékük felmérése.
+- [Lexikum](../kepzettsegek.szekunder/lexikum.md): Az adott, kapcsolódó **Ősi kultúrkör** ismerete néha (nem mindig) szükséges. Gyakran párban terjesztik ki például [Építészet](epiteszet.md) ÉS **Ősi kultúrkör**.
+
 
 ---
 ### Példák

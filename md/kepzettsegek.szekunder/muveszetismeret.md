@@ -10,6 +10,7 @@ Emlékezet, Intelligencia, Érzékenység
 
 - [Kultúrkör](../fortelyok.kiemelt/kulturkor.md): Ha érintett az adott kultúrkör. Enélkül érvényes a levonás mindegyik meglevő művészeti ágra.
 - [Nyelvismeret](../fortelyok.kiemelt/nyelvismeret.md): Udvari fok (ahol szükségesnek érezzük)
+- [Ősi kultúrkör](osi_kulturkor.md): Ha érintett az adott ősi kultúrkör. Ekkor enélkül érvényes a levonás mindegyik meglevő művészeti ágra.
 
 __
 

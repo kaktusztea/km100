@@ -5,6 +5,7 @@
 ### Kapcsolódik
 
 - [Mechanika](mechanika.md) fortély
+- [Ősi kultúrkör](osi_kulturkor.md) fortély
 
 ### Kiterjeszti ezeket
 

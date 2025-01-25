@@ -17,6 +17,7 @@ Az alkotás, az kézzel alkotott műremekek aktív, ihletett kreálása.
 ### Erős kiterjesztés
 
 - [Kultúrkör](../fortelyok.kiemelt/kulturkor.md): Ha érintett az adott kultúrkör. Enélkül érvényes a levonás mindegyik meglevő művészeti ágra.
+- [Ősi kultúrkör](osi_kulturkor.md): Ha érintett az adott ősi kultúrkör. Ekkor enélkül érvényes a levonás mindegyik meglevő művészeti ágra.
 
 __
 
