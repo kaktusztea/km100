@@ -4,7 +4,7 @@
 
 ### Kapcsolódik
 
-[Ősi kultúrkör](osi_kulturkor.md): Ha érintett az adott ősi kultúrkör. Ekkor ennek hiánya is levonást okoz.
+[Ősi kultúrkör](../fortelyok.altalanos/osi_kulturkor.md): Ha érintett az adott ősi kultúrkör. Ekkor ennek hiánya is levonást okoz.
 
 ### Kiterjeszti ezeket
 
