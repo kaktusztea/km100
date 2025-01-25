@@ -1,5 +1,12 @@
 ## 🟣 Kalligráfia
 
+Írástípusok, írásmódok, titkosírás és annak fejtése.
+
+### Kapcsolódik
+
+- [Hamisítás](../fortelyok.altalanos/hamisitas.md): Ha hamisított, vagy annak sejtett művel van dolgod. Ekkor ennek hiánya is levonást okoz.
+- [Ősi kultúrkör](osi_kulturkor.md): Ha érintett az adott ősi kultúrkör. Ekkor ennek hiánya is levonást okoz.
+
 ### Kiterjeszti ezeket
 
 - [Képzőművészet](../kepzettsegek.szekunder/kepzomuveszet.md): Mesterien bánsz a pennával, festett betűidben ott lakozik az örökkévalóság.
@@ -8,7 +15,3 @@
 ### Követelmény
 
 - [Írástudó](../fortelyok.altalanos/irastudo.md) fortély
-
-### Kapcsolódik
-
-- [Hamisítás](../fortelyok.altalanos/hamisitas.md) fortély

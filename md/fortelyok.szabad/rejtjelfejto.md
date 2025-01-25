@@ -2,6 +2,10 @@
 
 Érthetetlen szimbólumokkal teli fóliásokat bújsz, a rejtélyek megfejtése legfőbb szenvedélyed. Ha titkosírás megfejtésére kerül sor, ezzel a fortéllyal büntetés nélkül dobhatsz [Kvantikum](../kepzettsegek.szekunder/kvantikum.md) képzettségpróbát.
 
+### Kapcsolódik
+
+- [Ősi kultúrkör](osi_kulturkor.md): Ha érintett az adott ősi kultúrkör. Ekkor ennek hiánya is levonást okoz.
+
 ### Kiterjeszti ezeket
 
 - [Kvantikum](../kepzettsegek.szekunder/kvantikum.md):
