@@ -41,7 +41,7 @@ Példák:
 - Mindenkinek jut épp elég ló, mikor friss hátasokra váltunk.
 - A boltos nőnek épp a férfiideálja a Játékos Karakter.
 - Elrontottam az Emberismeret képzettségpróbámat, de tegnap hallottam erről a törpéről a kártyaasztalnál, hogy imádja az arany ékszereket.
-- Szerencsére épp van egy titkosajtó a fogadó szobájában. Fontos: attól, hogy ott van, még lehet, hogy nem taláják meg, mert elrontják az Észlelés képzettségpróbát.
+- Szerencsére épp van egy titkosajtó a fogadó szobájában. Fontos: attól, hogy ott van, még lehet, hogy nem taláják meg - például mert elrontják az Észlelés képzettségpróbát.
 - "Egy ritka növényt keresek, dobhassak rá Természetjárást, hogy találok -e." Olyan esetben, ahol nem is dobhatna, mert nem őshonos erre a növény.
 
 <br />
