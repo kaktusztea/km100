@@ -8,7 +8,7 @@ A Szilánk a szabályrendszerben egy pontérték, amit csak és kizárólag Kala
 
 ### Mire jó?
 
-Egy Szilánk (pont) elhasználásával a játékos képes lesz a kalandban narratív események módosítására, akár kockadobás megismétlésére is.
+Egy Szilánk (pont) elhasználásával a játékos képes lesz a kalandban narratív események módosítására, akár kockadobás "megkerülésére" is.
 
 ❗FONTOS: **harc befolyásolására a Szilánk semmilyen formában NEM alkalmas**, ott a [Szerencsés](fortelyok.altalanos/szerencses.md) fortély vethető be - amennyiben a karakter rendelkezik vele.
 
