@@ -22,13 +22,13 @@ A Fizikai és Matematikai ismeretek is ide tartoznak?? ⭕TODO⭕
 
 ### 1. fok
 
-🔒 **Követelmény**: ⭕
+🔒 **Követelmény**: Intelligencia: `+0`
 
 🌟 **Hatás**: ⭕
 
 ---
 ### 2. fok
 
-🔒 **Követelmény**: ⭕
+🔒 **Követelmény**: `+1`
 
 🌟 **Hatás**: ⭕
