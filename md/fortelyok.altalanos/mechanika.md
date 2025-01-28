@@ -4,7 +4,7 @@ A Fizikai és Matematikai ismeretek is ide tartoznak?? ⭕TODO⭕
 
 ### Kapcsolódik
 
-- [Építészet](epiteszet.md) fortély: ⭕TODO⭕
+- [Építészet](epiteszet.md) fortély: Ritka eset, hogy mindkettő kell a Lexikum dobáshoz. Épületbe épített mechanikus szerkezetek készítésekor. Gnómok és törpék sajátja. 
 - [Keresés](kereses.md) fortély: csapdához, titkosajtóhoz, amiben szerkezet van
 - [Szabotőr](szabotor.md) fortély
 - [Zárnyitás](../kepzettsegek.szekunder/zarnyitas.md) fortély: bónuszt ad rá a Mechanika (lásd ott)
