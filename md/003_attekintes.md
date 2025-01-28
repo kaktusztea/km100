@@ -6,7 +6,7 @@ Elsőnek segítünk megalkotni a játékban megszemélyesített szereplődet a [
 
 A M* világán nem az acél az egyetlen fegyver, vagy óvó erő. Szellemi energiáidat a [Pszí](080_pszi.md), mágikus hatalmadat a [Mágiarendszer](090_magiarendszer.md) fejezetekben terjesztheted ki. A számos összecsapás során sebeket osztasz és szenvedsz el. A [Gyógyítás, Gyógyulás](130_gyogyitas_gyogyulas.md) fejezet ennek a folyamatát fedi le, a [Méregrendszer](140_meregrendszer.md) a sunyibb megoldások alkalmazóinak mutathat érdekes oldalakat.
 
-Kiemelt fejezet az [Érzékelés, Észlelés](szituaciok/erzekeles_eszleles_aktiv_passziv.md), ami talán a leggyakoribb ellenpróbás szituációt taglalja, amivel a kalandozásaid során találkozhatsz. De hogy ne maradj sorvezető nélkül más, klasszikus próbahelyzetek során sem, külön fejezetet szenteltünk a [Szituációknak](150_szituaciok.md).
+Kiemelt fejezetet szenteltünk a [Szituációknak](150_szituaciok.md), amely fejezetei segítenek, hogy ne maradj sorvezető nélkül klasszikus próbahelyzetek során sem, mint például az [Érzékelés, Észlelés](szituaciok/erzekeles_eszleles_aktiv_passziv.md) - ami talán a leggyakoribb ellenpróbás szituáció, amivel a kalandozásaid során találkozhatsz. 
 
 Alább a dokumentumban előforduló, segítő szimbólumok magyarázatát találod. Utána pedig belevágunk a [Karakteralkotás](010_karakteralkotas.md) mélységeibe. Kalandra fel!
 
