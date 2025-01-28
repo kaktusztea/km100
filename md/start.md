@@ -4,11 +4,15 @@
 
 **[Karakteralkotó v8.8.1 (ods)](https://github.com/kaktusztea/km100/raw/master/segedlet/karakteralkoto_v8.8.1.ods?raw=true)** &nbsp;&nbsp;- &nbsp;&nbsp;<!-- markdown-link-check-disable -->[LibreOffice ⬇️](https://www.libreoffice.org/download/download/)<!-- markdown-link-check-enable --> 
 
+<br />
+
 ## Segédletek játékalkalmakhoz
 
 **[Segédlet esszencia (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_ingame.pdf?raw=true)**
 
 [Távharc segédlet (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_tavharc.pdf?raw=true)
+
+<br />
 
 ## Másodlagos karakterlapok
 
