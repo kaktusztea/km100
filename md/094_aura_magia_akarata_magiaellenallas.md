@@ -145,7 +145,7 @@ behatás ellen: Aura +(2x Edzettség)
 - Önuralom: +3
 - Aurafejlesztés - 7.szint
 
-- TME / Biztos Átütés
+- TME / Biztos Aura
       = Aura Alap (14)
       + (3+7+1)  → 10
       = 24
@@ -163,7 +163,7 @@ behatás ellen: Aura +(2x Edzettség)
       = 15
 ```
 
-A varázsló megpróbálja asztrális befolyása alá vonni a nemesembert. Úgy dönt, nem dob, neki elég a Biztos Átütés (24), áldozatát jóval gyengébbnek véli.
+A varázsló megpróbálja asztrális befolyása alá vonni a nemesembert. Úgy dönt, nem dob, neki elég a Biztos Aura (24), áldozatát jóval gyengébbnek véli.
 
 A nemesember érzékeli az Auraérintést és úgy véli támadója jelentősen erősebb nála - kockázat.
 Szeretne `+25`-öt elérni az Aurafejlesztés próbadobás hatására, hogy Aura alapjával együtt `25`-as Aurát (Mágiaellenállást) érjen el (`10+15`).

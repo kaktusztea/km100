@@ -4,7 +4,7 @@
 
 #### [Mágia alapszabályok](092_magia_alapszabalyok.md)
 
-#### [Aura, Mágikus Átütés, Mágiaellenállás](094_aura_atutes_magiaellenallas.md)
+#### [Aura, Mágikus Átütés, Mágiaellenállás](094_aura_magia_akarata_magiaellenallas.md)
 
 #### [Varázslás módszerek](095_varazslas_modszerek.md)
 

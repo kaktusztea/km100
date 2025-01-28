@@ -235,7 +235,7 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 
 - [Mágiaelmélet](091_magiaelmelet.md)
 - [Mágia alapszabályok](092_magia_alapszabalyok.md)
-- [Aura, Átütés, Mágiaellenállás](094_aura_atutes_magiaellenallas.md)
+- [Aura, Mágia akarata, Mágiaellenállás](094_aura_magia_akarata_magiaellenallas.md)
 - [Varázslás módszerei](095_varazslas_modszerek.md)
 - [Mágikus komponensek, összhangok](096_magikus_komponensek_osszhangok.md)
 - [Mágikus Szférák és Arkánumaik](097_magikus_szferak_arkanumok.md)
