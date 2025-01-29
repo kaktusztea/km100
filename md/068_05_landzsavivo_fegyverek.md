@@ -17,12 +17,12 @@ A fenti alól kivétel, ha két oldalról természetes, vagy épített kordonnal
 
 | Fegyver           | Forgatás módja |    SP     | Sebzés módja | Átütés  | Pengehossz |  KÉ  |  TÉ  |  VÉ  | Sebesség | Kategória | Speciális                                                                         |
 | ----------------- |:--------------:|:---------:|:------------:|:-------:|:----------:|:----:|:----:|:----:|:--------:|:---------:| --------------------------------------------------------------------------------- |
-| Alabárd           |    kétkezes    |   `+4`    |  `S+Z`/`V`   |   `6`   |    `3`     | `12` | `28` | `28` |   `8`    | kardvívó  | Talán a legjobb a páncélok ellen                                                  |
-| Bot, hosszú       |    kétkezes    |   `+1`    |     `Z`      |   `0`   |    `2`     | `14` | `16` | `24` |   `6`    | kardvívó  |                                                                                   |
-| Lándzsa           |    kétkezes    | `+2`/`+4` |     `S`      | `4`/`0` |    `4`     | `14` | `32` | `32` |   `6`    | kardvívó  | spec: lásd a hegyeket                                                             |
+| Alabárd           |    kétkezes    |   `+4`    |  `S+Z`/`V`   |   `6`   |    `3`     | `12` | `28` | `28` |   `9`    | kardvívó  | Talán a legjobb a páncélok ellen                                                  |
+| Bot, hosszú       |    kétkezes    |   `+1`    |     `Z`      |   `0`   |    `2`     | `14` | `16` | `24` |   `7`    | kardvívó  |                                                                                   |
+| Lándzsa           |    kétkezes    | `+2`/`+4` |     `S`      | `4`/`0` |    `4`     | `14` | `32` | `32` |   `7`    | kardvívó  | spec: lásd a hegyeket                                                             |
 | Pika              |    kétkezes    | `+2`/`+4` |     `S`      | `4`/`0` |    `8`     | `18` | `40` | `40` |   `9`    | kardvívó  | Ha közrefognak, a fegyver az egyik (választott) támadó ellen `0` harcértékű lesz. |
-| Szigony, egykezes |    egykezes    |   `+2`    |     `S`      |   `0`   |    `2`     | `5`  | `10` | `14` |   `7`    | kardvívó  |                                                                                   |
-| Szigony, kétkezes |    kétkezes    |   `+4`    |     `S`      |   `2`   |    `3`     | `10` | `22` | `26` |   `8`    | kardvívó  |                                                                                   |
+| Szigony, egykezes |    egykezes    |   `+2`    |     `S`      |   `0`   |    `2`     | `5`  | `10` | `14` |   `8`    | kardvívó  |                                                                                   |
+| Szigony, kétkezes |    kétkezes    |   `+4`    |     `S`      |   `2`   |    `3`     | `10` | `22` | `26` |   `9`    | kardvívó  |                                                                                   |
 
 <!-- tag: md_table_fegyver_end -->
 
