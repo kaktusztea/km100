@@ -12,9 +12,9 @@ A Fizikai és Matematikai ismeretek is ide tartoznak?? ⭕TODO⭕
 ### Kiterjeszti ezeket
 
 - [Csapdaállítás](../kepzettsegek.szekunder/csapdaallitas.md): mechanikus csapdák állításához követelmény lehet a Mechanika
-- [Kvantikum](../kepzettsegek.szekunder/kvantikum.md)
-- [Szakma - Fegyverkovács](../kepzettsegek.szekunder/szakma.md)
-- [Szakma - Páncélkovács](../kepzettsegek.szekunder/szakma.md)
+- [Kvantikum](../kepzettsegek.szekunder/kvantikum.md): "Rittyentettem egy átemelő darut, amivel könnyebb lesz az öntözés."
+- [Szakma - Fegyverkovács](../kepzettsegek.szekunder/szakma.md): Kh4rei nyílpuska és társai 
+- [Szakma - Páncélkovács](../kepzettsegek.szekunder/szakma.md): "A gépszolga nem kér enni!"
 
 ### Bónuszt ad erre
 
