@@ -10,7 +10,7 @@
         "TÉ": "28",
         "VÉ": "28",
         "Sebesség": "9",
-        "Kategória": "kardvívó",
+        "Kategória": "lándzsavívó",
         "Speciális": "Talán a legjobb a páncélok ellen"
     },
     {
@@ -24,7 +24,7 @@
         "TÉ": "6",
         "VÉ": "1",
         "Sebesség": "7",
-        "Kategória": "kardvívó",
+        "Kategória": "zúzó",
         "Speciális": ""
     },
     {
@@ -52,7 +52,7 @@
         "TÉ": "10",
         "VÉ": "8",
         "Sebesség": "7",
-        "Kategória": "kardvívó",
+        "Kategória": "zúzó",
         "Speciális": ""
     },
     {
@@ -66,7 +66,7 @@
         "TÉ": "16",
         "VÉ": "24",
         "Sebesség": "7",
-        "Kategória": "kardvívó",
+        "Kategória": "lándzsavívó",
         "Speciális": ""
     },
     {
@@ -80,7 +80,7 @@
         "TÉ": "9",
         "VÉ": "6",
         "Sebesség": "6",
-        "Kategória": "kardvívó",
+        "Kategória": "zúzó",
         "Speciális": ""
     },
     {
@@ -94,7 +94,7 @@
         "TÉ": "12",
         "VÉ": "8",
         "Sebesség": "7",
-        "Kategória": "kardvívó",
+        "Kategória": "zúzó",
         "Speciális": ""
     },
     {
@@ -107,8 +107,8 @@
         "KÉ": "1",
         "TÉ": "20",
         "VÉ": "8",
-        "Sebesség": "8",
-        "Kategória": "kardvívó",
+        "Sebesség": "9",
+        "Kategória": "zúzó",
         "Speciális": "Erő követelmény:+2"
     },
     {
@@ -122,7 +122,7 @@
         "TÉ": "15",
         "VÉ": "6",
         "Sebesség": "7",
-        "Kategória": "kardvívó",
+        "Kategória": "zúzó",
         "Speciális": "Ellene a Pajzs VÉ fele számít csak!"
     },
     {
@@ -136,7 +136,7 @@
         "TÉ": "14",
         "VÉ": "9",
         "Sebesség": "7",
-        "Kategória": "kardvívó",
+        "Kategória": "zúzó",
         "Speciális": ""
     },
     {
@@ -150,7 +150,7 @@
         "TÉ": "9",
         "VÉ": "4",
         "Sebesség": "6",
-        "Kategória": "kardvívó",
+        "Kategória": "zúzó",
         "Speciális": ""
     },
     {
@@ -164,7 +164,7 @@
         "TÉ": "8",
         "VÉ": "8",
         "Sebesség": "7",
-        "Kategória": "kardvívó",
+        "Kategória": "zúzó",
         "Speciális": ""
     },
     {
@@ -177,8 +177,8 @@
         "KÉ": "4",
         "TÉ": "18",
         "VÉ": "10",
-        "Sebesség": "8",
-        "Kategória": "kardvívó",
+        "Sebesség": "9",
+        "Kategória": "zúzó",
         "Speciális": ""
     },
     {
@@ -192,7 +192,7 @@
         "TÉ": "14",
         "VÉ": "5",
         "Sebesség": "8",
-        "Kategória": "kardvívó",
+        "Kategória": "zúzó",
         "Speciális": "Nagyon vérzik<br />50% az esély, hogy beragad és nem lehet kihúzni harc közben"
     },
     {
@@ -234,7 +234,7 @@
         "TÉ": "20",
         "VÉ": "8",
         "Sebesség": "9",
-        "Kategória": "kardvívó",
+        "Kategória": "zúzó",
         "Speciális": "Erő követelmény:+2"
     },
     {
@@ -559,7 +559,7 @@
         "TÉ": "",
         "VÉ": "",
         "Sebesség": "",
-        "Kategória": "",
+        "Kategória": "lovas",
         "Speciális / Megjegyzés": ""
     },
     {
@@ -573,7 +573,7 @@
         "TÉ": "",
         "VÉ": "",
         "Sebesség": "",
-        "Kategória": "",
+        "Kategória": "lovas",
         "Speciális / Megjegyzés": ""
     },
     {
@@ -587,7 +587,7 @@
         "TÉ": "",
         "VÉ": "",
         "Sebesség": "",
-        "Kategória": "",
+        "Kategória": "lovas",
         "Speciális / Megjegyzés": ""
     },
     {
@@ -615,7 +615,7 @@
         "TÉ": "32",
         "VÉ": "32",
         "Sebesség": "7",
-        "Kategória": "kardvívó",
+        "Kategória": "lándzsavívó",
         "Speciális": "spec: lásd a hegyeket"
     },
     {
@@ -643,7 +643,7 @@
         "TÉ": "",
         "VÉ": "",
         "Sebesség": "",
-        "Kategória": "",
+        "Kategória": "lovas",
         "Speciális / Megjegyzés": ""
     },
     {
@@ -712,8 +712,8 @@
         "KÉ": "18",
         "TÉ": "40",
         "VÉ": "40",
-        "Sebesség": "9",
-        "Kategória": "kardvívó",
+        "Sebesség": "10",
+        "Kategória": "lándzsavívó",
         "Speciális": "Ha közrefognak, a fegyver az egyik (választott) támadó ellen 0 harcértékű lesz."
     },
     {
@@ -797,7 +797,7 @@
         "TÉ": "10",
         "VÉ": "14",
         "Sebesség": "8",
-        "Kategória": "kardvívó",
+        "Kategória": "lándzsavívó",
         "Speciális": ""
     },
     {
@@ -811,7 +811,7 @@
         "TÉ": "22",
         "VÉ": "26",
         "Sebesség": "9",
-        "Kategória": "kardvívó",
+        "Kategória": "lándzsavívó",
         "Speciális": ""
     },
     {
