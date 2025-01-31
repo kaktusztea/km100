@@ -1,5 +1,11 @@
 User-agent: *
-Disallow:
+Allow: /
 
-User-agent: "LLM-Bot"
+User-agent: OpenAI
+User-agent: GPTBot
+User-agent: AnthropicAI
+User-agent: ClaudeBot
+User-agent: Google-Extended
+User-agent: CCBot
+User-agent: ChatGPT-User
 Disallow: /
