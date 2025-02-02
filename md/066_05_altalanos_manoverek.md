@@ -115,7 +115,7 @@ Továbbá megfelelő mennyiségű `ÉP` sebzést kell okoznod.
 ### Felállás földről
 
 - Nehézség: `6`
-    - `- (Akrobatika szint / 3)` (↓)
+  - csökkenti: `(Akrobatika szint / 3)` (↓)
 - Fázisok: `Megakasztás, Ellenpróba`
 
 **Hatás**: Sikerült harc közben a földről feltápászkodnod, folytathatod a harcot, immár levonások nélkül.
