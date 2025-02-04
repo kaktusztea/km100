@@ -29,7 +29,7 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 
 [Képzettséglista](031_kepzettseglista.md) &nbsp;•&nbsp; [Fortélyok](040_fortelyok.md)
 
-[Fortély-Képzettség kiterjesztéslista](038_fortelyok_kepzettsegkiterjesztes_listaja.md)
+[Fortély-Képzettség kiterjesztéslista](038_02_fortelyok_kepzettsegkiterjesztes_listaja.md)
 
 <br />
 
@@ -90,8 +90,9 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 - [Képzettségek fejlesztése](034_kepzettsegek_fejlesztese.md)
 - [Képzettségszintek KP igénye](035_kepzettsegszintek_kp_igenye.md)
 - [Képzettségpróba, Összhangok](036_kepzettsegproba.md) 🎲
-- [Képzettségek és Fortélyok kapcsolata](037_kepzettsegek_fortelyok_kapcsolata.md)
-- [Fortélyok képzettségkiterjesztés listája (ábra)](038_fortelyok_kepzettsegkiterjesztes_listaja.md) 📊
+- [Kooperáció, csoportmunka képzettségpróbánál](037_kepzettsegproba_kooperacio.md)
+- [Képzettségek és Fortélyok kapcsolata](038_01_kepzettsegek_fortelyok_kapcsolata.md)
+- [Fortélyok képzettségkiterjesztés listája (ábra)](038_02_fortelyok_kepzettsegkiterjesztes_listaja.md) 📊
 - [Bázis képzettségek](039_bazis_kepzettsegek.md)
 
 ---

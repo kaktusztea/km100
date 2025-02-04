@@ -1,4 +1,4 @@
-## Képzettségpróba
+# Képzettségpróba
 
   - [Próbadobás](#pr%C3%B3badob%C3%A1s)
   - [Vállalás](#v%C3%A1llal%C3%A1s)
@@ -8,7 +8,7 @@
   - [Összhangok](#%C3%B6sszhangok)
   - [Sérülés hatása képzettségpróbára](#s%C3%A9r%C3%BCl%C3%A9s-hat%C3%A1sa-k%C3%A9pzetts%C3%A9gpr%C3%B3b%C3%A1ra)
 
-### Próbadobás
+## Próbadobás
 
 Vesszük az adott szituációban épp szükséges Tulajdonság értékét (KM mondja meg, hogy melyiket), hozzáadjuk a **Képzettség** értékét, majd dobunk `k10`-es kockával és a fentieket összeadjuk. Ha a kapott szám nagyobb, vagy egyenlő a Célszámmal, akkor a próba sikerült.
 
@@ -30,7 +30,7 @@ Tulajdonság + Képzettség + k10
 Ha a KM úgy látja, hogy az adott próbánál több Tulajdonság is szerepet játszik, akkor a szükséges Tulajdonságok átlagával kell számolni.
 
 ---
-### Vállalás
+## Vállalás
 
 A Vállalás azt jelenti, hogy (ha a KM is beleegyezik) képzettségpróba esetén kaphatsz legfeljebb `+3` bónuszt a próbára - Te döntöd el mennyit. Minél többet vállalsz, annál nagyobb veszélynek teszed ki magad. Ugyanis a próba előtt „Vállalás próbát" kell dobni:
 
@@ -60,12 +60,12 @@ Ez sokat dob az esélyeken, de megvan a rizikója is: ha a fenti karakter a dob�
 > **Fontos**: összetett, több dobást igénylő képzettségpróbánál nem alkalmazható Vállalás! (pl. megmászni a nagy hegyet).
 
 ---
-### Próba biztos tudásból
+## Próba biztos tudásból
 
 Bizonyos képzettségeket csak biztos tudásból lehet megpróbálni, nincs lehetőség képzettségpróba dobására. Tipikusan a „Tudok-e valamit róla?"-jellegű határozottan eldönthető esetekben. Ilyenkor a KM dönti el, hogy az adott képzettségszinttel az adott feladat megoldható, avagy sem.
 
 ---
-### Próba képzetlenül
+## Próba képzetlenül
 
 ```
 → +3 a próba nehézségére
@@ -76,7 +76,7 @@ Ha a karakter egyáltalán nem jártas az adott képzettségben (vonatkozó ért
 Ha az adott képzettséget nem lehet képzetlenül megpróbálni, akkor a KM egyszerűen megtagadja a próbát, automatikusan sikertelennek véve azt.
 
 ---
-### Összetett képzettségpróba, Másodlagos próbadobások
+## Összetett képzettségpróba, Másodlagos próbadobások
 
 Ha a karakternek egy olyan összetett feladatot kell elvégeznie, ami nem intézhető el 1db dobással (pl. megmászni egy hegyet, vagy rettentő magas várfalat, esetleg órákon keresztül verset szavalni), akkor igazságtalan lenne a maximális nehézséget többször megdobatni vele, hiszen így drasztikusan lecsökken az esélye a sikerre. Ilyenkor a következő módszert használjuk:
 
@@ -110,7 +110,7 @@ Tehát a próbák:
 Hasonló szituáció: [Mászás képzettségpróbára összetett példa](szituaciok/maszas_osszetett_pelda.md)
 
 ---
-### Összhangok
+## Összhangok
 
 Vannak olyan esetek, amikor egyes képzettségek ismerete helyettesítő segítséget nyújthat más képzettségek használatakor. Az ilyet nevezzük Összhangnak.
 
@@ -130,7 +130,7 @@ A helyettesítő képzettség(ek) értelemszerűen legfeljebb `5.szintű` helyet
 
 Az egyes Összhang-párokat nem írjuk le mind, ezek helyzetfüggőek, a KM rögtönözhet ha az adott szituációban úgy ítéli meg, hogy egy képzettség behelyettesíthető a fentiek szerint a másik helyére.
 
-#### ⚡Példa: Nyomozás összhangokkal
+### ⚡Példa: Nyomozás összhangokkal
 
 A karakter egy bűntény helyszínén gyanús személyekkel találkozik. Kikérezné őket, **Nyomozás** képzettségpróbát kéne dobnia. Mivel **Nyomozás** képzettsége csak `2.szintű`, ezért egy kapcsolódó képzettsége segítségére támaszkodik, amiben sokkal járatosabb és le is fedi az aktuális szituációban szükséges ismeretet. A KM az adott helyzetben ezt jól megindokoltnak látja, így engedélyezi.
 
@@ -141,7 +141,7 @@ Ebben az esetben az **Emberismeret** képzettség az, amely helyettesítő képz
 
 Tehát a próbát `3 + Érzékenység  vs  Próba célszám` értékekkel dobja.
 
-#### ⚡További Összhang példák felsorolásszerűen
+### ⚡További Összhang példák felsorolásszerűen
 
 - [Akrobatika](kepzettsegek.primer.altalanos/akrobatika.md) ⇆ [Mászás](kepzettsegek.szekunder/maszas.md)
 - [Orvoslás](kepzettsegek.primer.altalanos/orvoslas.md) ⇆ [Méregkeverés](kepzettsegek.primer.altalanos/meregkeveres.md)
@@ -152,7 +152,7 @@ Tehát a próbát `3 + Érzékenység  vs  Próba célszám` értékekkel dobja.
 
 
 ---
-### Sérülés hatása képzettségpróbára
+## Sérülés hatása képzettségpróbára
 
 Ha megsérül a karakter, képzettségpróbáira levonások járnak. Hogy mennyi, az attól függ, hogy melyik [sebesülés kategóriában](061_03_sebesules.md#sebes%C3%BCl%C3%A9s)) van, illetve hogy fizikai mozgást igénylő, vagy nem igénylő képzettségét teszi próbára:
 
@@ -163,6 +163,6 @@ Ha megsérül a karakter, képzettségpróbáira levonások járnak. Hogy mennyi
 
 ---
 
-🔗 [Képzettségek és Fortélyok kapcsolata](037_kepzettsegek_fortelyok_kapcsolata.md) →
+🔗 [Képzettségek és Fortélyok kapcsolata](038_01_kepzettsegek_fortelyok_kapcsolata.md) →
 
 ⚜️ [Nyitóoldal](start.md#3-k%C3%A9pzetts%C3%A9grendszer)
