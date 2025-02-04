@@ -1,4 +1,4 @@
-## Képzettséglista
+# Képzettséglista
 
 🔵 Képzettség, 🔁 Többször felvehető, 🅿️ Primer
 
