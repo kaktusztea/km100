@@ -1,15 +1,15 @@
-### Fáradtság Pont (FP)
+### Fáradtság Pont (`FP`)
 
-A rendszer különbséget tesz a fizikai sérülés és a karakter azon állapota között, amely a pillanatnyi állapotát, ájulástól való „távolságát” meghatározza. Ez utóbbit szimulálja a **Fáradtság Pont** (`FP`). Az `FP` nem azonos a **Fájdalomtűrés** képzettséggel, tőle független fogalom. Az `FP` jelenthet kábultságot, rosszullétet, mérgezés okozta gyengeséget, sőt másnaposságot is!
+A rendszer különbséget tesz a fizikai sérülés és a karakter azon állapota között, amely a pillanatnyi állapotát, ájulástól való „távolságát” meghatározza. Ez utóbbit szimulálja a **Fáradtság Pont** (`FP`). Az `FP` értékének nincs köze a **Fájdalomtűrés** képzettséghez, tőle független fogalom. Az `FP` főleg a "leharcoltságot" jelenti, de átmeneti kábultság hatását, rosszullétet, mérgezés okozta gyengeséget, sőt másnaposságot is jelölhetünk vele.
 
-Az `FP`-nek nincs kezdeti értéke, csak a fenti hatások valamelyike következtében jöhet létre. Tehát ebből a szempontból jegyzése az `ÉP`-vel ellentétes. Mikor valaki olyan „sebesülést” szenved el, hogy `FP`-t „szerez”, a hatás megegyezik azzal, mint amit valós sebesülés esetén tapasztal, de nem jár strukturális károsodással (valódi ÉP sebbel), vagy halállal, legfeljebb ájulással. Tipikus esete az `FP` sebesülésnek, mikor valakit alaposan fejbe kólintanak. Ez – szándéktól függően – okozhat valós sebesülést is, de ezen kívül `Fáradtság Pontokat` is szül. Másik példa lehet, mikor a karakter rosszullétet okozó mérget iszik.
+Az `FP`-nek nincs kezdeti értéke, csak a fenti hatások valamelyike következtében jöhet létre. Tehát ebből a szempontból jegyzése az `ÉP`-vel ellentétes. Mikor valaki olyan „sebesülést” szenved el, hogy `FP`-t „szerez”, a hatás megegyezik azzal, mint amit valós sebesülés esetén tapasztal, de nem jár strukturális károsodással (valódi `ÉP` sebbel), vagy halállal, legfeljebb ájulással. Tipikus esete az `FP` sebesülésnek, mikor valakit alaposan fejbe kólintanak. Ez – szándéktól függően – okozhat valós sebesülést is, de ezen kívül `Fáradtság Pontokat` is szül. Másik példa lehet, mikor a karakter rosszullétet okozó mérget iszik.
 
-A sima `ÉP` és az `FP` értékek kezelése ugyanabban az ÉP táblázatban történik, hatásaik is megegyeznek, csak az `FP` esetén nincs valós fizikai sérülés. Így tehát a „sebesülés” okozta harcérték levonások úgy számítandóak, mintha valós sebzés történt volna! A gyakorlatban ez úgy néz ki, hogy ha a karakter **Fáradság Pontot** szerez, azt bejelöli a rendes `ÉP` táblázatban.
+A sima `ÉP` és az `FP` értékek kezelése ugyanabban az `ÉP` táblázatban történik, hatásaik is megegyeznek, csak az `FP` esetén nincs valós fizikai sérülés, viszont a „sebesülés” okozta harcérték levonások úgy számítandóak, mintha valós sebzés történt volna! A gyakorlatban ez úgy néz ki, hogy ha a karakter **Fáradság Pontot** szerez, azt bejelöli a rendes `ÉP` táblázatban.
 
 ---
-#### Sebzések jelölése az ÉP táblázatban
+#### Sebzések jelölése az `ÉP` táblázatban
 
-Először jelöljük be a valós sebesülés okozta `ÉP`-ket, majd utána az `FP`-ket (ajánlott egy „**F**” betű írása a rubrikákba).
+Először jelöljük be a valós sebesülés okozta `ÉP`-ket, majd utána az `FP`-ket (ajánlott egy `F` betű írása a rubrikákba).
 
 ---
 #### Valós ÉP seb elszenvedése FP után
