@@ -20,10 +20,16 @@ Harckeret =
   + Gyorsaság tulajdonság
 ```
 
+A **Harckeret** értéke a [Harckeret növelés](fortelyok.harci/harckeret_noveles.md) fortély segítségével emelhető tovább.
+
+<br />
+
 ---
 ### Fegyver Sebesség
 
 Szintén minden fegyvernek van egy egyedi **Sebesség** értéke. Minél kisebb ez a szám, annál fürgébb, minél nagyobb, annál lomhább az adott fegyver.
+
+<br />
 
 ---
 ### Plusz támadások száma (fegyverrel)
@@ -34,6 +40,8 @@ Az alap `1` támadáson felül kapott **plusz** támadások számát úgy kapjuk
 Plusz támadások (db) =
    Harckeret / (Fegyver Sebesség) ↓
 ```
+
+<br />
 
 ---
 ### TÉ levonás támadásonként
@@ -50,6 +58,8 @@ Harmadik támadás: `TÉ:-20`, ...
 ```
 
 A fenti módosítóknak matematikai oka van: így kerüljük el a plusz kapott támadás okozta radikális ugrást az 1 körön belül leadott támadások sikeressége kapcsán. Ne feledjük: legrosszabb esetben még így is **Védő Érték csökkenést** okoz minden támadás, így a plusz támadások ereje már önmagában is elég hangsúlyos.
+
+<br />
 
 ---
 ### ⚡Példa több támadásra
