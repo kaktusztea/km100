@@ -26,7 +26,7 @@
 ---
 ## [Számaztatott értékek](017_00_szarmaztatott_ertekek.md)
 
-#### → [Életerő Pont (ÉP), Kábulat Életerő Pont (KT)](017_01_ep_kt.md)
+#### → [Életerő Pont (ÉP), Fáradtság Pont (FP)](017_01_ep_kt.md)
 
 #### → [Manőver Pontok](017_03_manover_pontok.md)
 

@@ -10,7 +10,7 @@
 
 #### Kisszféra
 
-**3.szint**: minden seb begyógyul (ms), KT mind megmarad (kt). Kábultság/Bódultság állapot S2-S3-S4 kategórában.
+**3.szint**: minden seb begyógyul (ms), FP mind megmarad (kt). Kábultság/Bódultság állapot S2-S3-S4 kategórában.
 
 **4.szint**: ms, kt,  Kábultság/Bódultság állapot állapot S3-S4 kategórában.
 
@@ -18,13 +18,13 @@
 
 **6.szint**: ms, kt, minden seb begyógyul, **nincs** Kábultság/Bódultság.
 
-**7.szint**: ms, 1 kategóriányi KT is eltűnik.
+**7.szint**: ms, 1 kategóriányi `FP` is eltűnik.
 
-**8.szint**: ms, 2 kategóriányi KT is eltűnik. Levágott végtag visszaillesztése azonnal, de csak ha még nem kezd el rohadni.
+**8.szint**: ms, 2 kategóriányi `FP` is eltűnik. Levágott végtag visszaillesztése azonnal, de csak ha még nem kezd el rohadni.
 
-**10.szint**: ms, 3 kategóriányi KT is eltűnik.
+**10.szint**: ms, 3 kategóriányi `FP` is eltűnik.
 
-**12.szint**: ms, minden KT eltűnik.
+**12.szint**: ms, minden `FP` eltűnik.
 
 ---
 #### Hatás

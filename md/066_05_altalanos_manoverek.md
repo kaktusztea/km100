@@ -273,7 +273,7 @@ Hasonlatos az Orvtámadáshoz, de itt nem a minél nagyobb sebzés, hanem az áj
 **Hatás**:
 - Ha a sebzés eléri az áldozat `Max ÉP / 4 ↓` értéket, akkor az az eszméletét veszti.
 - Ha nem éri el, akkor az áldozat eszméletén marad, de [Kábulat](065_01_harci_helyzetek.md#kábult--bódult--megrendült) módosítóival harcol tovább. A **Hátulról támadás** szituáció megszűnik.
-- A sebzés `KT` sebesülésként jelenik meg mindkét esetben.
+- A sebzés `FP` sebesülésként jelenik meg mindkét esetben.
 
 **Megjegyezés**: a **Fegyver markolat** sebzése: `k20 + 0 SP + Erőbónusz` (Zúzó)
 

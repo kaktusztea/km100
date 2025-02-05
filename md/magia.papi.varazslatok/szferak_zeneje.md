@@ -17,7 +17,7 @@ A Pap nagymisét celebrál, amely órákat vesz igénybe, kellemes, alig hallhat
 
 Valóságos idill szálja meg ahelyet. 
 
-Ez idő alatt a hallgatóságban lecsillapodnak a lelki fájdalmak, fáradtságuk megszűnik, felfrissülnek (minden KT eltűnik).
+Ez idő alatt a hallgatóságban lecsillapodnak a lelki fájdalmak, fáradtságuk megszűnik, felfrissülnek (minden `FP` eltűnik).
 
 ---
 #### Szabályok

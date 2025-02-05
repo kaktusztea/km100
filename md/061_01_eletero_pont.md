@@ -26,6 +26,6 @@ A bal oldali ábra `18 ÉP` elosztását mutatja be. Az állapot romlásának ha
 
 ---
 
-🔗 [Kábulat Életerő Pont](061_02_kabulat_ep.md) →
+🔗 [Fáradság Pont](061_02_faradsag_pont.md) →
 
 ⚜️ [Nyitóoldal](start.md#6-harcrendszer-%EF%B8%8F)

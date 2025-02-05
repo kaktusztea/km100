@@ -2,7 +2,7 @@
 
 Mikor már mindenki azt hiszi, lekaszaboltak, hirtelen felülsz a vértócsában és elbotorkálsz..
 
-A fortély segítségével minden fegyver okozta, bekapott `ÉP` sebből "átalakíthatsz" pár `ÉP` pontot `KT` ponttá.
+A fortély segítségével minden fegyver okozta, bekapott `ÉP` sebből "átalakíthatsz" pár `ÉP` pontot `FP` ponttá.
 
 
 ### 1. fok
@@ -14,7 +14,7 @@ A fortély segítségével minden fegyver okozta, bekapott `ÉP` sebből "átala
 
 🌟 **Hatás**:
 
-- `1 ÉP` forgatható át `KT` ponttá.
+- `1 ÉP` forgatható át `FP` ponttá.
 
 ---
 ### 2. fok
@@ -25,13 +25,13 @@ A fortély segítségével minden fegyver okozta, bekapott `ÉP` sebből "átala
 
 🌟 **Hatás**:
 
-- `2 ÉP` forgatható át `KT` ponttá.
+- `2 ÉP` forgatható át `FP` ponttá.
 
 <br />
 
 #### Megjegyzések
 
-Fontos: ne feledjük, a következő seb `ÉP` pontjai "felülírják" a `KT` pontokat! [Bővebben](../061_02_kabulat_ep.md#val%C3%B3s-%C3%A9p-seb-elszenved%C3%A9se-k%C3%A1bulat-%C3%A9p-ut%C3%A1n).
+Fontos: ne feledjük, a következő seb `ÉP` pontjai "felülírják" az `FT` pontokat! [Bővebben](../061_02_faradsag_pont.md#valós-ép-seb-elszenvedése-kábulat-ép-után).
 
 <br />
 
