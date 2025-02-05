@@ -31,7 +31,7 @@ A fortély segítségével minden fegyver okozta, bekapott `ÉP` sebből "átala
 
 #### Megjegyzések
 
-Fontos: ne feledjük, a következő seb `ÉP` pontjai "felülírják" az `FT` pontokat! [Bővebben](../061_02_faradsag_pont.md#valós-ép-seb-elszenvedése-kábulat-ép-után).
+Fontos: ne feledjük, a következő seb `ÉP` pontjai "felülírják" az `FT` pontokat! [Bővebben](../061_02_faradsag_pont.md#val%C3%B3s-%C3%A9p-seb-elszenved%C3%A9se-fp-ut%C3%A1n).
 
 <br />
 
