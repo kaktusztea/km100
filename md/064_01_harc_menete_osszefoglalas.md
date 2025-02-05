@@ -211,7 +211,7 @@ Plusz támadások (db) =
 
 ```
 Harckeret =
-    aktuális harcmodor
+    aktuális Harcmodor szint
   + Gyorsaság
   - 3
 
