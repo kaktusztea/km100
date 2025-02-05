@@ -11,12 +11,12 @@ A **harcérték**, **Harckeret** bónuszokat és módosítókat, valamint az **A
 
 ```
 Minden 0,5 penge:
-  -1 pont a Harckeret bónuszból
+  -1 Harckeret
 ```
 
 🔆 Látható, hogy a fortély fokainak felvétele az aktuális **Harckeret** értéket is növeli, így juthat újabb támadásokhoz a karakter.
 
-Viszont ebbe a forgatott fegyverek hossza is beleszól: a **Harckeretet** az alábbiak módosítják:
+A Harckeret értékébe forgatott fegyverek **hossza** is beleszól:
 
 - Adjuk össze a forgatott két fegyver pengehosszait
 - Minden `0,5` penge `1` ponttal csökkenti a **Harckeretet**
@@ -27,9 +27,9 @@ Viszont ebbe a forgatott fegyverek hossza is beleszól: a **Harckeretet** az al�
 ---
 ### Támadások számának kalkulálása
 
- A nagyobb pengehosszú fegyver Sebessége számít.
+ A nagyobb pengehosszú fegyver **Sebesség** értéke számít.
 
-A **Harckeretbe** beleszámít a Kétkezes harc fortély által adott bónusz.
+A **Harckeretbe** beleszámít a **Kétkezes harc** fortély által adott bónusz.
 
 <br />
 
@@ -38,7 +38,7 @@ A **Harckeretbe** beleszámít a Kétkezes harc fortély által adott bónusz.
 
 Kétkezes harc bónuszainak érvényesítéséhez fontos feltétel, hogy a nagyobbik fegyver **csak az ügyesebbik kézben forgatható**. Kivéve **Kétkezesség** fortély megléte esetén - ekkor nincs ilyen megkötés.
 
-Ha a **Kétkezes harc** legalább `1.fokon` megvan, akkor a **Kétkezesség** megléte `+1` Sebesség bónuszt ad.
+Ha a **Kétkezes harc** legalább `1.fokon` megvan, akkor a **Kétkezesség** megléte `+1` **Harckeret** bónuszt ad.
 
 <br />
 

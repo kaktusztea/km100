@@ -42,7 +42,7 @@ Harci extázisba esel, melyből nagyon nehéz kizökkenteni. A menekülésre nem
 🌟 **Hatás**:
 - Erő, Edzettség, Gyorsaság tulajdonságpróbákra: `+2`
 - `KÉ:+4`; `TÉ:+8`; `VÉ:-10`; `SP:+2`
-- Harckeret: `+1`
+- Harckeret: `+5`
 - `ÉP:+2`
 - `AME, MME: +6`
 - Sebesülés TÉ levonása `15`-tel mérséklődik

@@ -206,14 +206,16 @@ Ez a siker hatása a szervezetre + heroizmus. Persze itt is lehetnek kivételek 
 1 + Plusz támadások
 
 Plusz támadások (db) =
-  Harckeret / (Fegyver-Sebesség)
+  Harckeret / (Fegyver Sebesség)
 ```
 
 ```
 Harckeret =
-  aktuális harcmodor + Gyorsaság
+    aktuális harcmodor
+  + Gyorsaság
+  - 3
 
-Fegyver-Sebesség:
+Fegyver Sebesség:
   fegyverenként eltérő egyéni érték 
 ```
 

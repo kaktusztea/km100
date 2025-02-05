@@ -8,19 +8,20 @@ Alapeset:
 Néhány kivételnél ez kevesebb. Lásd a [Fegyver](068_00_fegyverek.md) táblázatot!
 
 ---
-### Harckeret (harcmodoronként)
-
-Egy karakter plusz támadásainak száma attól függ, hogy milyen fegyvert forgat, mennyire képzett annak Harcmodorában, és hogy mennyire fürge (`Gyorsaság` tulajdonság).
-
-Számszerűen: az aktuális fegyverhez tartozó harcmodor-képzettség szintje és a Gyorsaság tulajdonság összege határozzák meg az ún. **Harckeret** értéket. Tehát harcmodoronként egyedi érték.
+### Harckeret
 
 ```
 Harckeret = 
     aktuális Harcmodor szint
   + Gyorsaság tulajdonság
+  - 3
 ```
 
-A **Harckeret** értéke a [Harckeret növelés](fortelyok.harci/harckeret_noveles.md) fortély segítségével emelhető tovább.
+Egy karakter plusz támadásainak száma attól függ, hogy milyen fegyvert forgat, mennyire képzett annak Harcmodorában, és hogy mennyire fürge (`Gyorsaság` tulajdonság).
+
+Számszerűen: az aktuális fegyverhez tartozó harcmodor-képzettség szintje és a Gyorsaság tulajdonság összege határozzák meg az ún. **Harckeret** értéket - amiből lejön még `3` pont. A Harckeret tehát harcmodoronként egyedi érték. A `-3` jelképezi a szokásos "nullpontot", ami a képzettségeknél az "alapszint".
+
+A **Harckeret** értéke a [Harckeret növelés](fortelyok.harci/harckeret_noveles.md), [Kétkezes harc](fortelyok.harci/ketkezes_harc.md) , vagy a [Harci láz](fortelyok.harci/harci_laz.md) fortély segítségével emelhető tovább.
 
 <br />
 
@@ -29,12 +30,20 @@ A **Harckeret** értéke a [Harckeret növelés](fortelyok.harci/harckeret_novel
 
 Szintén minden fegyvernek van egy egyedi **Sebesség** értéke. Minél kisebb ez a szám, annál fürgébb, minél nagyobb, annál lomhább az adott fegyver.
 
+Kézifegyvereknél az alábbi módon kategorizálunk, de ez csak irányadó, a konkrét értékeket lásd a [Fegyverek](068_00_fegyverek.md) fejezet táblázataiban:
+
+```
+(6) rövid fegyverek            → 6 Sebesség pontonként nő 1-el a támadások száma
+(7) egykezes és szálfegyverek  → 7 Sebesség pontonként nő 1-el a támadások száma
+(8) kétkezes fegyverek         → 8 Sebesség pontonként nő 1-el a támadások száma
+```
+
 <br />
 
 ---
 ### Plusz támadások száma (fegyverrel)
 
-Az alap `1` támadáson felül kapott **plusz** támadások számát úgy kapjuk meg, hogy megvizsgáljuk, a `„Fegyver-Sebesség”` hányszor van meg a karakter aktuális „**Harckeret**” értékében (lefelé kerekítve).
+Az alap `1` támadáson felül kapott **plusz** támadások számát úgy kapjuk meg, hogy megvizsgáljuk, a fegyver `Sebesség` értéke hányszor van meg a karakter aktuális „**Harckeret**” értékében (lefelé kerekítve).
 
 ```
 Plusz támadások (db) =
@@ -53,26 +62,25 @@ TÉ:-10 minden újabb támadásnál
 ```
 
 ```
-Második támadás: `TÉ:-10`
-Harmadik támadás: `TÉ:-20`, ...
+Második támadás: TÉ:-10
+Harmadik támadás: TÉ:-20
+...
 ```
 
-A fenti módosítóknak matematikai oka van: így kerüljük el a plusz kapott támadás okozta radikális ugrást az 1 körön belül leadott támadások sikeressége kapcsán. Ne feledjük: legrosszabb esetben még így is **Védő Érték csökkenést** okoz minden támadás, így a plusz támadások ereje már önmagában is elég hangsúlyos.
+A fenti módosítóknak matematikai oka van: így kerüljük el a plusz kapott támadás okozta radikális ugrást az `1` körön belül leadott támadások sikeressége kapcsán. Ne feledjük: legrosszabb esetben még így is **Védő Érték csökkenést** okoz minden támadás, így a plusz támadások ereje már önmagában is elég hangsúlyos.
 
 <br />
 
 ---
 ### ⚡Példa több támadásra
 
-- Fegyver: Hosszú kard: `Fegyver-Sebesség: 6`
-- Harcmodor: `Kardvívás – 4.szint`
+- Fegyver: Hosszú kard: `Sebesség: 7`
+- Harcmodor: `Kardvívás – 5.szint`
 - Gyorsaság tulajdonság: `+3`
 
-Ekkor az aktuális Harckeret érték:  `4+3 = 7`
+Ekkor az aktuális **Harckeret** érték:  `5+3 = 8`
 
-Mivel ez elérte a`6`-os értéket, ezért `+1` támadás – összesen tehát már `2db` jár körönként. A `3.` támadást `12`-es, a `4.` támadást pedig `18`-as **Harckeret** értéknél kapja meg.
-
-További támadásokat `Kétkezes Harc` során szerezhet a karakter. Lásd a [Kétkezes Harc](065_04_ketkezes_harc_szabalyai.md) fejezetet!
+Mivel ez elérte a`7`-es értéket, ezért `+1` támadás – összesen tehát már `2 db` jár körönként. A `3.` támadást `14`-es, a `4.` támadást pedig `21`-es **Harckeret** értéknél kapja meg.
 
 ---
 
