@@ -87,9 +87,9 @@ Sebek jellegének jelölései:
 
 Találat esetén a sebesülést először az `S1` rubrikában kezdjük jelölni, oszlopon belül pedig fentről lefelé. Ha Lord Gustav egy `2 ÉP`-s sebet kap, az az `S1` oszlopban kerül bejelölésre fentről lefele. Ilyenkor még nem sújtja levonás.
 
-Gustav ismét megsebesül. Ezúttal `5 ÉP`, ezzel az `S2` kategóriába kerül. Mivel a `(Fájdalomtűrés+Önuralom=11)` mérsékli a standard `S2`-nél használt (`-10TÉ`) büntetést, ezért még itt sincs `TÉ` levonás.
+Gustav ismét megsebesül. Ezúttal `5 ÉP`, ezzel az `S2` kategóriába kerül. Mivel a `(Fájdalomtűrés+Önuralom=11)` mérsékli a standard `S2`-nél használt (`TÉ:-10`) büntetést, ezért még itt sincs `TÉ` levonás.
 
-A harmadik seb `4 ÉP`, Gustav a harmadik (közepesen sérült) kategóriába kerül. Alapból (`-20TÉ`) lenne a büntetés, de ez (`TÉ:-9`)-re mérséklődik (`-11`).
+A harmadik seb `4 ÉP`, Gustav a harmadik (közepesen sérült) kategóriába kerül. Alapból (`TÉ:-20`) lenne a büntetés, de ez (`TÉ:-9`)-re mérséklődik (`-11`).
 
 Gustav hátrálás közben belefejel a kovácsoltvas kapuba. `4 FP` a büntetése. Ezzel az `S4` (utolsó) kategóriába került. Büntetése `TÉ:-19` (a `-30` helyett).
 
