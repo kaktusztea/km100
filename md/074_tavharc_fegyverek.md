@@ -28,7 +28,7 @@ Távolsági fegyverek esetén NINCS **Többszörös találatból** adódó plusz
 ---
 ### Harckeret, Támadások száma (Íjászat, Hajítás)
 
-Ugyanúgy, ahogy a kétkezi fegyverek esetén itt is ugyanúgy a [Harckeret](063_06_tamadasok_szama_fegyverrel.md#harckeret-harcmodoronk%C3%A9nt) rendszert használjuk.
+Ugyanúgy, ahogy a kétkezi fegyverek esetén itt is ugyanúgy a [Harckeret](063_06_tamadasok_szama_fegyverrel.md#harckeret) rendszert használjuk.
 
 ```
 Harckeret = 
