@@ -42,6 +42,8 @@ k6 vs. (a vállalás értéke)
 
 Ha `k6`-on a Vállalás értékével megegyezőt, vagy kisebbet dobsz, akkor kritikus, halálos hibát vétesz és természetesen nem dobhatsz képzettségpróbát se. Ebből látszik, hogy vállalni csak nagyon fontos, ritka esetben van értelme. Úgy foglalhatjuk össze, hogy mikor vállalsz, olyankor megpróbálkozol valami olyan dologgal, ami hatékonyabb, mint jelenlegi tudásod, de még nem gyakoroltad be rendesen (pl. csak ellested a mesteredtől), így a rontásra is nagyobb az esélyed.
 
+A "halálos" hiba nem jelenti szükségszerűen a karakter végleges eltávozását, de jó időre kivonja őt a forgalomból - 🔆 **sőt, ilyenkor a papi gyógyítás sem hat rajta** - a sors oly erőihez próbált nyúlni, amelyek eltaszították vakmerő tettét.
+
 A fenti példánál maradva egy 2-es Vállalás esetén már a következőképpen fest a próba:
 
 ```
