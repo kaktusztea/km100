@@ -66,7 +66,7 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 - [Primer és Szekunder ismeretek](015_primer_szekunder_ismeretek.md)
 - [Karakteralkotó Pontok (KP)](016_kp.md)
 - [Származtatott értékek](017_00_szarmaztatott_ertekek.md)
-  - [Életerő Pont (ÉP), Fáradság Pont (FT)](017_01_ep_kt.md)
+  - [Életerő Pont (ÉP), Fáradság Pont (FP)](017_01_ep_kt.md)
   - [Harcérték Módosító (HM), Célzóérték Módosító (CM)](017_02_hm_cm.md)
   - [Manőver Pontok (MP)](017_03_manover_pontok.md)
   - [Mágiaellenállás](017_04_magiaellenallas.md) 🎲
@@ -134,7 +134,7 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 #### 6.1 [Életerő, Sebesülés](061_00_eletero.md)
 
 - [Életerő Pont (ÉP)](061_01_eletero_pont.md)
-- [Fáradság Pont (FT)](061_02_faradsag_pont.md)
+- [Fáradság Pont (FP)](061_02_faradsag_pont.md)
 - [Sebesülés](061_03_sebesules.md)
 - [Gyógyulás](061_04_gyogyulas.md)
 
