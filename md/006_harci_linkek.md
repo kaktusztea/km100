@@ -29,7 +29,7 @@ Gyors elérésű link gyűjtemény - játékosok számára.
 ---
 ### Egészség
 
-[Kábulat ÉP](061_02_kabulat_ep.md)
+[Fáradtság Pont](061_02_faradsag_pont.md)
 
 [Sebesülés](061_03_sebesules.md)
 

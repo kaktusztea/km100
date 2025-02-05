@@ -75,13 +75,13 @@ Módszerek listáját lásd a [misztikus fortélyok](045_misztikus_magia_fortely
 → Ájulás, SP sebzés: `k20+0` kritikus hiba. A mágia elszabadul, a varázslat valamilyen bizarr módon visszahat, teljes erősséggel.
 
 `Arkánum + Tulajdonság + k10  =  Célszám - 6`\
-→ Kábulat SP sebzés: `k20+10`. A varázslat valamilyen bizarr módon visszahat, kb. fele erősségel, esetleg célt vált. KM dönt. Zavarodottság, 1 kör elvész (vagy Összpontosítás próba: 21 (Nehéz) esetén semmi).
+→ FP sebzés: `k20+10`. A varázslat valamilyen bizarr módon visszahat, kb. fele erősségel, esetleg célt vált. KM dönt. Zavarodottság, 1 kör elvész (vagy Összpontosítás próba: 21 (Nehéz) esetén semmi).
 
 `Arkánum + Tulajdonság + k10  =  Célszám - 5`\
-→ Zavarodottság, 1 kör elvész (vagy Összpontosítás próba: 18 (Nehéz) esetén semmi), Kábulat SP sebzés: `k20+5`
+→ Zavarodottság, 1 kör elvész (vagy Összpontosítás próba: 18 (Nehéz) esetén semmi), FP sebzés: `k20+5`
 
 `Arkánum + Tulajdonság + k10  =  Célszám - 4`\
-→ Zavarodottság, 1 kör elvész (vagy Összpontosítás próba: 15 (Nehéz) esetén semmi), Kábulat SP sebzés: `k20+0`
+→ Zavarodottság, 1 kör elvész (vagy Összpontosítás próba: 15 (Nehéz) esetén semmi), FP sebzés: `k20+0`
 
 `Arkánum + Tulajdonság + k10  =  Célszám - 3`\
 → Zavarodottság, 1 kör elvész (vagy Összpontosítás próba: 12 (Nehéz) esetén semmi)

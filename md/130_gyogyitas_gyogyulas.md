@@ -16,11 +16,11 @@ A Sebesülés modellel már megismerkedtünk a harcrendszer [Életerő - Sebesü
 
 ```
 1 ÉP / nap
-1 KT / óra
-2 KT / óra alvásban
+1 FP / óra
+2 FP / óra alvásban
 ```
 
-Amennyiben a vérzést sikerült valamilyen módon elállítani, a sebesült karakter sebeiből `1 ÉP` 1 nap alatt, `1 KT` 1 óra alatt gyógyul meg összesen.
+Amennyiben a vérzést sikerült valamilyen módon elállítani, a sebesült karakter sebeiből `1 ÉP` 1 nap alatt, `1 FP` 1 óra alatt gyógyul meg összesen.
 
 <br />
 

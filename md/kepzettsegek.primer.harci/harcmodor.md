@@ -29,4 +29,4 @@ A képzettség minden `3. szintje` után `1` [Manőver Pont](../017_03_manover_p
 | Kismester (6)    |                                                                                                                                                      | Ügyesség: `1` |
 | Mester (9)       | ⭕xyz <br /> **Példa**: x                                                                                                                             | Ügyesség: `2` |
 | Nagymester (12)  | Bármilyen fegyvert veszel a kezedbe, annak Sebzése mágikus lesz.                                                                                     | Ügyesség: `3` |
-| Élő legenda (15) | Ha nálad alacsonyabb szintű ellenfelet megsebzel, az azonnal teljesen harcképtelen lesz.<br />Vagy `0` ÉP-re, vagy **max KT**-re kerül (te döntesz). | Ügyesség: `3` |
+| Élő legenda (15) | Ha nálad alacsonyabb szintű ellenfelet megsebzel, az azonnal teljesen harcképtelen lesz.<br />Vagy `0` ÉP-re, vagy **max FP**-re kerül (te döntesz). | Ügyesség: `3` |

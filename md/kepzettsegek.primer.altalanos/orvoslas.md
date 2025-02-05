@@ -80,14 +80,14 @@ A [Vajákosság](../kepzettsegek.szekunder/vajakossag.md) képzettséggel **NINC
 
 ### Próbák
 
-| Célszám | Példa  |
-| :----------- | :----------- |
-| Könnyű       (6)  | ⭕ |
-| Átlagos      (9)  | ⭕ |
-| Nehéz        (12) | ⭕ |
-| Nagyon nehéz (15) | 1 S kategóriát kézrátétellel begyógyítani (ÉP → KT) |
-| Rendkívül nehéz (18) | 2 S kategóriát kézrátétellel begyógyítani (ÉP → KT) |
-| Emberfeletti (21) | 3 S kategóriát kézrátétellel begyógyítani (ÉP → KT); csonkolást gyógyítani (csak ha megvan a végtag) |
+| Célszám              | Példa                                                                                                    |
+| :------------------- | :------------------------------------------------------------------------------------------------------- |
+| Könnyű       (6)     | ⭕                                                                                                        |
+| Átlagos      (9)     | ⭕                                                                                                        |
+| Nehéz        (12)    | ⭕                                                                                                        |
+| Nagyon nehéz (15)    | 1 S kategóriát kézrátétellel begyógyítani (`ÉP` → `FP`)                                                  |
+| Rendkívül nehéz (18) | 2 S kategóriát kézrátétellel begyógyítani (`ÉP` → `FP`)                                                  |
+| Emberfeletti (21)    | 3 S kategóriát kézrátétellel begyógyítani (`ÉP` → `FP`); csonkolást gyógyítani (csak ha megvan a végtag) |
 
 <br />
 

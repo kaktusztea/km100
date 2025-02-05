@@ -81,7 +81,7 @@ Annyi ősi nyelv van, ahány mágiaiskola.
 - [Életerő manipulálása](kepzettsegek.primer.arkanumok/eletero_manipulalasa.md)
   - Gyógyítás
     - Sebgyógyítás
-    - Isteni Életerő átadása (KT átalakítása ÉP-vé rögtön)
+    - Isteni Életerő átadása (`FP` átalakítása `ÉP`-vé rögtön)
     - Betegségek gyógyítása
     - Méregsemlegesítés
     - Fiatalítás

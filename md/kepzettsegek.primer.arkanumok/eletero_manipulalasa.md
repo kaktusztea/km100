@@ -7,7 +7,7 @@ Az **Életerő** szféra alá tartozó arkánum.
 ### Gyógyítás
 
 - Sebgyógyítás
-- Isteni Életerő átadása (KT átalakítása ÉP-vé rögtön)
+- Isteni Életerő átadása (FP átalakítása ÉP-vé rögtön)
 - Betegségek gyógyítása
 - Méregsemlegesítés
 - Fiatalítás
