@@ -11,7 +11,6 @@ Egyszerre mindkét kezedben képes vagy fegyvert forgatni.
 
 - [Kétkezes harc szabályai](../065_04_ketkezes_harc_szabalyai.md)
 
-
 ### Alapeset
 
 Képzetlen kétkezes harc esetén két fegyver használatakor.

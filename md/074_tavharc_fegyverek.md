@@ -26,26 +26,24 @@ Távolsági fegyverek esetén NINCS **Többszörös találatból** adódó plusz
 <br />
 
 ---
-### Támadások száma (Íjászat, Hajítás)
-```
-Sebesség = aktuális harcmodor + Gyorsaság Tulajdonság
-```
+### Harckeret, Támadások száma (Íjászat, Hajítás)
 
-Az íjász/hajigász támadásainak száma attól függ, hogy milyen képzett az adott fegyver használatában, vagy annak Harcmodorában, illetve fürge. Ezt a kapcsolódó harci képzettség foka és a Gyorsaság tulajdonság határozzák meg a fentiek szerint.
-
-Kézifegyvereknél az alábbi módon kategorizálunk:
+Ugyanúgy, ahogy a kétkezi fegyverek esetén itt is ugyanúgy a [Harckeret](063_06_tamadasok_szama_fegyverrel.md#harckeret-harcmodoronk%C3%A9nt) rendszert használjuk.
 
 ```
-(5) rövid fegyverek            → 5 Sebesség pontonként nő 1-el a támadások száma
-(6) egykezes és szálfegyverek  → 6 Sebesség pontonként nő 1-el a támadások száma
-(7) kétkezes fegyverek         → 7 Sebesség pontonként nő 1-el a támadások száma
+Harckeret = 
+    aktuális Harcmodor szint
+  + Gyorsaság tulajdonság
+  - 3
 ```
 
-Távolsági fegyverek esetén viszont nem mindegyiknek van **Sebesség** kategóriája, mivel újratöltésük annyi időt vesz igénybe, hogy nem lehetséges velük egy körben többször támadni (pl. nyílpuskák).
+Az íjász/hajigász támadásainak száma attól függ, hogy milyen képzett az adott fegyver használatában, vagy annak Harcmodorában, illetve fürge. Ezt a kapcsolódó harci képzettség foka és a **Gyorsaság** Tulajdonság határozzák meg a fentiek szerint - amiből lejön még `3` pont.
+
+Távolsági fegyverek esetén - szemben a kétkezi fegyverekkel - nem mindegyiknek van **Sebesség** értéke, mivel újratöltésük annyi időt vesz igénybe, hogy nem lehetséges velük egy körben többször támadni (pl. nyílpuskák).
 
 Ebben az esetben lehet hasznos a [Gyors újratöltés](fortelyok.tavharc/gyors_ujratoltes.md) harci fortély.
 
-Az egyes fegyverek Sebesség kategóriáját lásd a **Harcrendszer** [Fegyverek](068_00_fegyverek.md) alfejezetében (táblázat)!
+Az egyes fegyverek **Sebesség** értékét lásd a **Harcrendszer** [Fegyverek](068_00_fegyverek.md) alfejezetében (táblázat)!
 
 <br />
 
