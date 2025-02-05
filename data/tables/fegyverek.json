@@ -756,7 +756,7 @@
         "VÉ": "-10",
         "Sebesség": "6",
         "Kategória": "közelharci",
-        "Speciális": "KT sebesülést okoz.<br />Minden 5-ik KT 1 ÉP elvesztését okozza.<br />Kivéve: harcművészek „Sárkány ököl” fortélya.<br />Erőbónusz: Az Erő 1:1-ben beszámít"
+        "Speciális": "FP sebesülést okoz.<br />Minden 5-ik FP 1 ÉP elvesztését okozza.<br />Kivéve: harcművészek „Sárkány ököl” fortélya.<br />Erőbónusz: Az Erő 1:1-ben beszámít"
     },
     {
         "Fegyver": "Ramiera",
