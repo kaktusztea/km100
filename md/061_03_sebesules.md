@@ -83,7 +83,7 @@ Sebek jellegének jelölései:
 - **Z: Zúzott seb**
 - **F: FP**
 
-![](images/03_eletero_lord_gustav_small.png)
+![](images/03_eletero_lord_gustav.png)
 
 Találat esetén a sebesülést először az `S1` rubrikában kezdjük jelölni, oszlopon belül pedig fentről lefelé. Ha Lord Gustav egy `2 ÉP`-s sebet kap, az az `S1` oszlopban kerül bejelölésre fentről lefele. Ilyenkor még nem sújtja levonás.
 
