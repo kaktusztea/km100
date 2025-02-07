@@ -25,8 +25,8 @@ Amennyiben az életerő táblázat "betelt" és van benne `FP`, akkor a "túlcso
 ### FP gyógyulása
 
 ```
-Óránként 1 FP gyógyul
-Alvásban óránként 2 FP
+1 FP: ébren óránként
+2 FP: alvásban óránként
 ```
 
 Az `FP`, mivel nem valós sebesülés okozta, gyorsabban „gyógyul”, mint a valós `ÉP` seb. Fizikai behatás esetén kb. **óránként 1 pont „tűnik el”**, és így szép lassan „visszaolvad” a valós sebzésbe. Mérgezés, betegség esetén a hatás tartósabb is lehet, itt a KM dönt. **Alvás közben** a gyógyulási sebesség duplázódik, tehát `2 FP / óra`. Ha a KM úgy látja indokoltnak eltérhet a fenti számoktól.
