@@ -1,4 +1,4 @@
-### Gyógyulás
+## Gyógyulás
 
 A stabilizálás után az alábbi sebességgel gyógyulnak a Kalandozó karakterek.
 

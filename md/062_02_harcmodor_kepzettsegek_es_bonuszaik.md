@@ -1,4 +1,4 @@
-### Harcmodor képzettségek és bónuszaik
+## Harcmodor képzettségek és bónuszaik
 
 A km100 rendszere az alábbi (Primer) harci képzettségeket ismeri, az alájuk tartozó fegyvercsoportokkal:
 

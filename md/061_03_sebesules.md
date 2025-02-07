@@ -1,4 +1,4 @@
-### Sebesülés
+## Sebesülés
 
 Ha a karakter találatot kap, harcértékeit - fizikumától függően - levonások sújtják. Persze ami például egy nyeszlett alakot az összeesés szélére sodor, az nem okoz akkora hátrányt egy edzett korgnak.
 
@@ -17,12 +17,12 @@ Az `S2`, `S3` és `S4` kategóriákba kerülve viszont már rendre `-10`; `-20` 
 `0 ÉP`-re érve a karakter elájul, és haldokolni kezd (Lásd [Haldoklás](#haldokl%C3%A1s)). Ha további sebet kap, meghal.
 
 ---
-#### Fájdalomtűrés
+### Fájdalomtűrés
 
 A Fájdalomtűrés képzettség fontos szerepet játszik a harcban elszenvedett sebek fájdalmának elnyomásában, illetve egyéb helyzetekben a kín elviselésében. Részben játéktechnikai gyorsítás miatt, részben azért teszünk különbséget a harc közben és azon kívüli fájdalomtűrés miatt, mert harc közben az adrenalin hatására jobban bírja a karakter a fájdalmat, valamint próbáltuk a harc heroizmusát megőrizni.
 
 ---
-#### Fájdalomtűrés harc közben
+### Fájdalomtűrés harc közben
 
 Ha harc közben más sebesülés kategóriába (S) lép a karakter, akkor fix `TÉ` levonást kap büntetésül. Ennek értékét csökkenti statikusan az alábbiak összege:\
 `Önuralom + Fájdalomtűrés`
@@ -31,7 +31,7 @@ Ha harc közben más sebesülés kategóriába (S) lép a karakter, akkor fix `T
 | :--------: | :-: | :-: | :-: | :-: |
 | TÉ levonás |  -  | -10 | -20 | -30 |
 
-#### S4 kategóriás fájdalomtűrés
+### S4 kategóriás fájdalomtűrés
 
 ```
 Fájdalomtűrés (K) + Edzettség (T)
@@ -45,7 +45,7 @@ Ha a karakter az S4-es (Súlyosan sebesült) kategóriába ér egyszeri [Fájdal
 Siker esetén ezt a próbát a következő sebesüléskor kell csak újradobnia.
 
 ---
-#### ⚡ Példa Fájdalomtűrésre
+### ⚡ Példa Fájdalomtűrésre
 
 Tetves, a tolvaj Fájdalomtűrése `7.szintű`, `Önuralma:+1` (`összesen:8`)
 Ekkor az ő sebesülés táblázata így néz ki:
@@ -55,12 +55,12 @@ Ekkor az ő sebesülés táblázata így néz ki:
 | TÉ levonás | - | -2 | -12 | -22 |
 
 ---
-#### Fájdalomtűrés harcon kívül
+### Fájdalomtűrés harcon kívül
 
 Mérgezés, kínzás, egyéb fájdalom esetén a karakterek Fájdalomtűrés-próbát kell dobnia a KM által meghatározott célszámra - általában **Önuralom** Tulajdonsággal.
 
 ---
-#### Sérülés hatása képzettségpróbára
+### Sérülés hatása képzettségpróbára
 
 Ha megsérül a karakter, képzettségpróbáira levonások járnak. Hogy mennyi, az attól függ, hogy melyik sebesülés kategóriában van, illetve hogy fizikai mozgást igénylő, vagy nem igénylő képzettségét teszi próbára:
 
@@ -70,7 +70,7 @@ Ha megsérül a karakter, képzettségpróbáira levonások járnak. Hogy mennyi
 | Egyéb képzettség | - | - | -1 | -3 |
 
 ---
-#### ⚡ Példa a sebesülésre
+### ⚡ Példa a sebesülésre
 
 Az alábbi példa Lord Gustav – Domvik lovagjának – egészség kategóriáit mutatja. `17 ÉP`-je van, `Önuralom` tulajdonságának és `Fájdalomtűrés` képzettségének összege pedig `11`.
 `(Önuralom + Fájdalomtűrés) = 11`

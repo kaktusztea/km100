@@ -1,5 +1,7 @@
 ## Harci fortélyok
 
+### Általános harci fortélyok
+
 <!-- tag: harci__fortely -->
 
 - [Alakzatharc](fortelyok.harci/alakzatharc.md)
@@ -34,7 +36,7 @@
 - [Vértviselet](fortelyok.harci/vertviselet.md)
 
 ---
-## Lovas fortélyok
+### Lovas harci fortélyok
 
 <!-- tag: harci__lovas__fortely -->
 
@@ -43,7 +45,7 @@
 - [Lovas íjászat](fortelyok.tavharc/lovas_ijaszat.md)
 
 ---
-## Távolsági harci fortélyok
+### Távolsági harci fortélyok
 
 <!-- tag: tavharc__fortely -->
 
@@ -57,7 +59,7 @@
 - [Távoli lövés](fortelyok.tavharc/tavoli_loves.md)
 
 ---
-## Slan harci fortélyok
+### Slan harci fortélyok
 
 A Slan misztérium alá többfajta fortély is tartozik. Ezek közül a harci érintettségűek (is) a [Slan fortélyok](046_slan_fortelyok.md#harci-slan-fortélyok) oldal alatt találhatóak.
 

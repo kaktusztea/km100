@@ -1,4 +1,4 @@
-# Képzettséglista
+## Képzettséglista
 
 🔵 Képzettség, 🔁 Többször felvehető, 🅿️ Primer
 
@@ -30,7 +30,7 @@
 [Misztikus](#misztikus-k%C3%A9pzetts%C3%A9gek-%F0%9F%85%BF%EF%B8%8F) - [Mágikus Szférák és Arkánumaik](#m%C3%A1gikus-szf%C3%A9r%C3%A1k-%C3%A9s-ark%C3%A1numaik-%F0%9F%85%BF%EF%B8%8F) - [Papi mágia](#papi-m%C3%A1gia-%F0%9F%85%BF%EF%B8%8F)
 
 ---
-## Harci képzettségek 🅿️
+### Harci képzettségek 🅿️
 
 🔵 [Közelharc](kepzettsegek.primer.harci/harcmodor.md) <sup><sub>(60%)</sub></sup>
 
@@ -51,7 +51,7 @@
 🔵 [Mágikus lövészet](kepzettsegek.primer.harci/magikus_loveszet.md) <sup><sub>(40%)</sub></sup>
 
 ---
-## Fizikai képzettségek
+### Fizikai képzettségek
 
 🔵 [Akrobatika](kepzettsegek.primer.altalanos/akrobatika.md) 🅿️ <sup><sub>(10%)</sub></sup>
 
@@ -64,7 +64,7 @@
 🔵 [Léglovaglás](kepzettsegek.szekunder/leglovaglas.md) <sup><sub>(100%)</sub></sup>
 
 ---
-## Világi képzettségek
+### Világi képzettségek
 
 🔵 [Befolyásolás](kepzettsegek.primer.altalanos/befolyasolas.md) 🅿️ <sup><sub>(50%)</sub></sup>
 
@@ -93,7 +93,7 @@
 🔵 [Városi jártasság](kepzettsegek.szekunder/varosi_jartassag.md) <sup><sub>(40%)</sub></sup>
 
 ---
-## Alvilági képzettségek
+### Alvilági képzettségek
 
 🔵 [Álcázás/Álruha](kepzettsegek.szekunder/alcazas_alruha.md) <sup><sub>(80%)</sub></sup>
 
@@ -109,7 +109,7 @@
 
 
 ---
-## Művészeti képzettségek
+### Művészeti képzettségek
 
 Az aktív előadást igénylő művészeteket szeparáltuk az **Előadóművészet** képzettségbe a belső művészetek alkotói folyamatait lefedő **Képzőművészettől**. A passzív művészeti ismereteket a **Művészetismeret** képzettség adja. Mind a három  [Szabad Fortélyok](042_szabad_fortelyok.md) alkalmazásával terjeszthető ki különböző művézeti ágakra.
 
@@ -120,7 +120,7 @@ Az aktív előadást igénylő művészeteket szeparáltuk az **Előadóművész
 🔵 [Művészetismeret](kepzettsegek.szekunder/muveszetismeret.md) <sup><sub>(40%)</sub></sup>
 
 ---
-## Tudományos képzettségek
+### Tudományos képzettségek
 
 🔵 [Alkímia](kepzettsegek.szekunder/alkimia.md) <sup><sub>(30%)</sub></sup>
 
@@ -135,7 +135,7 @@ Az aktív előadást igénylő művészeteket szeparáltuk az **Előadóművész
 🔵 [Lexikum](kepzettsegek.szekunder/lexikum.md) <sup><sub>(40%)</sub></sup>
 
 ---
-## Misztikus képzettségek 🅿️
+### Misztikus képzettségek 🅿️
 
 🔵 [Aurafejlesztés](kepzettsegek.primer.misztikus/aurafejlesztes.md)
 
@@ -148,69 +148,69 @@ Az aktív előadást igénylő művészeteket szeparáltuk az **Előadóművész
 🔵 [Tradíció](kepzettsegek.primer.misztikus/tradicio.md)
 
 ---
-## Mágikus Szférák és Arkánumaik 🅿️
+### Mágikus Szférák és Arkánumaik 🅿️
 
-### Anyag szféra
+#### Anyag szféra
 
 🔵 [Elemi mágia](kepzettsegek.primer.arkanumok/elemi_magia.md) <sup><sub>(30%)</sub></sup>
 
 🔵 [Természetes anyagok mágiája](kepzettsegek.primer.arkanumok/termeszetes_anyagok_magiaja.md)
 
-###  Lélek szféra
+####  Lélek szféra
 
 🔵 [Asztrálmágia](kepzettsegek.primer.arkanumok/asztralmagia.md)
 
 🔵 [Mentálmágia](kepzettsegek.primer.arkanumok/mentalmagia.md)
 
-### Jelenségek szféra
+#### Jelenségek szféra
 
 🔵 [Illúziók](kepzettsegek.primer.arkanumok/illuziok.md)
 
 🔵 [Természeti jelenségek](kepzettsegek.primer.arkanumok/termeszeti_jelensegek.md)
 
-### Téridő szféra
+#### Téridő szféra
 
 🔵 [Időmágia](kepzettsegek.primer.arkanumok/idomagia.md)
 
 🔵 [Térmágia](kepzettsegek.primer.arkanumok/termagia.md)
 
-### Életerő szféra
+#### Életerő szféra
 
 🔵 [Életerő Manipulálása](kepzettsegek.primer.arkanumok/eletero_manipulalasa.md)
 
 🔵 [Nekromancia](kepzettsegek.primer.arkanumok/nekromancia.md)  <sup><sub>(15%)</sub></sup>
 
-### Idézés szféra
+#### Idézés szféra
 
 🔵 [Belső síkok lényeinek idézése](kepzettsegek.primer.arkanumok/idezes_belso_sikok.md)
 
 🔵 [Külső síkok lényeinek idézése](kepzettsegek.primer.arkanumok/idezes_kulso_sikok.md)
 
-### Sors szféra
+#### Sors szféra
 
 🔵 [Sors Érzékelés](kepzettsegek.primer.arkanumok/sors_erzekeles.md)
 
 🔵 [Sors Befolyásolás](kepzettsegek.primer.arkanumok/sors_befolyasolas.md)
 
-### Belső Szféra
+#### Belső Szféra
 
 → **Aura** arkánum, amely azonos az 🔵 [Aurafejlesztés](kepzettsegek.primer.misztikus/aurafejlesztes.md) képzettséggel
 
 → **Pszí** arkánum, amely azonos a 🔵 [Pszí használat](kepzettsegek.primer.misztikus/pszi_hasznalat.md) képzettséggel
 
-### Titkos Szféra
+#### Titkos Szféra
 
 → Élet Princípiumának a megteremtése, Lélekcsíra megteremtése: csak az istenek rendelkeznek vele, halandó nem ismerheti.
 
 → [Metamágia](kepzettsegek.primer.arkanumok/metamagia.md) arkánum, amely a [Mágia Tradíciók](051_00_magia_tradiciok.md) tanulása által kapható meg, így nem kell külön képzettségként felvenni.
 
 ---
-## Papi mágia 🅿️
+### Papi mágia 🅿️
 
 [STUDY oldal: Varázslat szférák](https://github.com/kaktusztea/km100/wiki/STUDY.magiatradicio.papimagia#var%C3%A1zslat-szf%C3%A9r%C3%A1k) - mint iskola-képzettségek (draft)
 
 ---
-## Slan 🅿️
+### Slan 🅿️
 
 🔵 [Chi Harc - Aranyharang](kepzettsegek.primer.slan/chi_harc_aranyharang.md)
 

@@ -1,4 +1,4 @@
-### Kiskocka
+## Kiskocka
 
 Pontosabban "kisebbiket dobott kocka".
 
@@ -7,7 +7,7 @@ A `k100` támadó dobásban a két `k10` kocka közül a **kisebbik** értéket 
 `Példa: 58 → Kiskocka: 5`
 
 ---
-### Nagykocka
+## Nagykocka
 
 Pontosabban "nagyobbikat dobott kocka".
 
