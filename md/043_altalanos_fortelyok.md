@@ -2,7 +2,7 @@
 
 Az Érzék-, Alvilági és fizikai-, Tudományos- és Befolyástól védő fortélyok tartoznak ide.
 
-## Érzék fortélyok
+### Érzék fortélyok
 
 <!-- tag: erzek__fortely -->
 
@@ -14,7 +14,7 @@ Az Érzék-, Alvilági és fizikai-, Tudományos- és Befolyástól védő fort�
 - [Ultralátás](fortelyok.erzekek/ultralatas.md)
 
 ---
-## Alvilági és fizikai fortélyok
+### Alvilági és fizikai fortélyok
 
 <!-- tag: alvilagi__fizikai__fortely -->
 
@@ -46,7 +46,7 @@ Az Érzék-, Alvilági és fizikai-, Tudományos- és Befolyástól védő fort�
 - [Zártörő](fortelyok.altalanos/zartoro.md)
 
 ---
-## Tudományos fortélyok
+### Tudományos fortélyok
 
 <!-- tag: tudomanyos__fortely -->
 
@@ -58,7 +58,7 @@ Az Érzék-, Alvilági és fizikai-, Tudományos- és Befolyástól védő fort�
 - [Történelemismeret](fortelyok.altalanos/tortenelemismeret.md)
 
 ---
-## Befolyástól védő fortélyok
+### Befolyástól védő fortélyok
 
 <!-- tag: szocialis__fortely -->
 

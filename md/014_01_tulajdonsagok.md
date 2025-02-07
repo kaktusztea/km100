@@ -48,7 +48,6 @@ A kinézetre és érzelmi „felépítésre" vonatkozó jellemzőket a játékos
 
 Az egyes Tulajdonságok bemutatása előtt egy tömör összefoglaló táblázat róluk, amely bemutatja: mégis milyen értékekbe számítanak bele.
 
-
 ```
 Erő
   - Támadó Érték (TÉ)

@@ -1,4 +1,4 @@
-# Fortélyok
+## Fortélyok
 
 <sub>→ [TODO/ISSUE fortélyok](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.fortelyok)</sub>
 
@@ -21,7 +21,7 @@
 
 A Fortélyok egyedi ismeretek, melyeket ugyanúgy KP-ből vehet fel a karakter, mint a Képzettségeket, de legtöbbször pont rájuk épülnek, kiegészítik őket, valamint kevésbé differenciált tudást takarnak.
 
-## Általános szabályok
+### Általános szabályok
 
 ```
 Fortély: 6 KP / fok
@@ -37,14 +37,14 @@ Tulajdonságok elvárt értékei, képzettségek elvárt szintje, esetleg más f
 <br />
 
 ---
-## Jellemző hatás 1: Egyedi bónusz adása
+### Jellemző hatás 1: Egyedi bónusz adása
 
 Az adott fortély leírásában található egyedi bónuszt szolgáltat.
 
 <br />
 
 ---
-## Jellemző hatás 2: Képzettség kiterjesztése, képzettség bónusz adása
+### Jellemző hatás 2: Képzettség kiterjesztése, képzettség bónusz adása
 
 Erről a [Képzettségek és fortélyok kapcsolata](038_01_kepzettsegek_fortelyok_kapcsolata.md) fejezetben olvashatunk.
 

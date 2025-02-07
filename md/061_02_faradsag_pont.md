@@ -1,4 +1,4 @@
-### Fáradtság Pont (`FP`)
+## Fáradtság Pont (`FP`)
 
 A rendszer különbséget tesz a fizikai sérülés és a karakter azon állapota között, amely a pillanatnyi állapotát, ájulástól való „távolságát” meghatározza. Ez utóbbit szimulálja a **Fáradtság Pont** (`FP`). Az `FP` értékének nincs köze a **Fájdalomtűrés** képzettséghez, tőle független fogalom. Az `FP` főleg a "leharcoltságot" jelenti, de átmeneti kábultság hatását, rosszullétet, mérgezés okozta gyengeséget, sőt másnaposságot is jelölhetünk vele.
 
@@ -7,22 +7,22 @@ Az `FP`-nek nincs kezdeti értéke, csak a fenti hatások valamelyike következt
 A sima `ÉP` és az `FP` értékek kezelése ugyanabban az `ÉP` táblázatban történik, hatásaik is megegyeznek, csak az `FP` esetén nincs valós fizikai sérülés, viszont a „sebesülés” okozta harcérték levonások úgy számítandóak, mintha valós sebzés történt volna! A gyakorlatban ez úgy néz ki, hogy ha a karakter **Fáradság Pontot** szerez, azt bejelöli a rendes `ÉP` táblázatban.
 
 ---
-#### Sebzések jelölése az `ÉP` táblázatban
+### Sebzések jelölése az `ÉP` táblázatban
 
 Először jelöljük be a valós sebesülés okozta `ÉP`-ket, majd utána az `FP`-ket (ajánlott egy `F` betű írása a rubrikákba).
 
 ---
-#### Valós ÉP seb elszenvedése FP után
+### Valós ÉP seb elszenvedése FP után
 
 Amennyiben a karakter életerő táblázatában van bármennyi `FP`, akkor egy újabb, - immár valós - `ÉP` seb elszenvedésekor először ezeket az `FP` jelölőket "alakítsuk" át valós sebbé és csak utána jelöljünk be újabb seb rubrikákat. Egyszerűen fogalmazva: egy valós sebzés először az `FP`-ket írja át ("felülről") és csak a "maradék" sebez újonnan.
 
 ---
-#### Túlcsordult `FP`
+### Túlcsordult `FP`
 
 Amennyiben az életerő táblázat "betelt" és van benne `FP`, akkor a "túlcsorduló" bármilyen sebzés (`ÉP, FP`) felülről átírja az `FP` pontokat `ÉP` pontokra.
 
 ---
-#### FP gyógyulása
+### FP gyógyulása
 
 ```
 Óránként 1 FP gyógyul
@@ -32,12 +32,12 @@ Alvásban óránként 2 FP
 Az `FP`, mivel nem valós sebesülés okozta, gyorsabban „gyógyul”, mint a valós `ÉP` seb. Fizikai behatás esetén kb. **óránként 1 pont „tűnik el”**, és így szép lassan „visszaolvad” a valós sebzésbe. Mérgezés, betegség esetén a hatás tartósabb is lehet, itt a KM dönt. **Alvás közben** a gyógyulási sebesség duplázódik, tehát `2 FP / óra`. Ha a KM úgy látja indokoltnak eltérhet a fenti számoktól.
 
 ---
-#### Tartós rosszullét
+### Tartós rosszullét
 
 Ha a karakter például méregnek „köszönhetően” tartósan gyengélkedik, akkor tartósan alkalmazhatjuk az `FP`-ket, azaz a rosszullét idejére ezek megmaradnak, vagy lassabban tűnnek el.
 
 ---
-#### Verekedés, Kocsmai bunyó és `FP`
+### Verekedés, Kocsmai bunyó és `FP`
 
 ```
 Bunyóban minden 5. FP
@@ -49,12 +49,12 @@ Az `FP` kiválóan alkalmas kocsmai verekedések, kisebb – nem „vérre menő
 **Minden `5. FP` okoz csak `1 ÉP` valós sebesülést: `4 FP, 1 ÉP`**
 
 ---
-#### Fejbe vágás
+### Fejbe vágás
 
 Gyakori eset, hogy valakinek ráhúznak egy nagyot a fejére. Például sisakos ellenfelet fejen találnak egy buzogánnyal. A sisak ugyan megvédi, de a feje mégis igen nagy traumát szenved el, pár körig meglehetősen kellemetlenül érzi magát. Ez természetesen helyzet specifikus, a – KM dönt –, de irányadónak elmondhatjuk, hogy ilyenkor például plusz `2-3 FP` büntetést kap az áldozat, amelyek azonban pár kör alatt elmúlnak. Ne keverjük a **Fejbe vágást** a 🗡️[Leütés hátulról](066_05_altalanos_manoverek.md#leütés-hátulról) harci taktikával!
 
 ---
-#### ⚡ Példa `FP` alkalmazására
+### ⚡ Példa `FP` alkalmazására
 
 Cravignon rossz napja kezdetén rossz embernek, az elöljáró élénkítőszereket előszeretettel magába tömő testőrének szólt be a hétvégi körmeneten, mikor az áttiport a lovag lábán. A jó lovag foghegyről odavetett szitkozódása a kántálásban beállt lélegzetvételnyi szünetben szisszent ki fogainak keritésén. A testőr - ki lábát taposta imént - ezt hallván egy gyors fordulat után méretes öklével vágott Cravignon bal vállába.
 

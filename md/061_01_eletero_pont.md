@@ -1,4 +1,4 @@
-### Életerő Pont
+## Életerő Pont
 
 A Karakteralkotás fejezetben már ismertetett **Életerő pontokat** használjuk a harcban elszenvedett sérülések jegyzésére. Emlékeztetőül:
 

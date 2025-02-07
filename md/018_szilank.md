@@ -99,7 +99,7 @@ A Kaland végén a KM és a Játékosok tartanak egy áttekintést a kalandról,
 <br />
 
 ---
-## A csapat döntése kaland elején: melyik modell?
+### A csapat döntése kaland elején: melyik modell?
 
 A kalandot megelőző áttekintő beszélgetésen a csapat eldöntheti, melyik modellt szeretné követni.
 

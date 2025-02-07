@@ -6,7 +6,7 @@ Ide tartoznak a karakter Származását, Jellemét, Küllemét leíró Hátterek
 
 Alább 1-2 szavas jelzőket találsz, amelyek további szinesítő elemeket adhatnak karaktered megalkotásakor. A lentiek nem fednek le mindent, a KM és a játékos is közösen kitalálhatnak új, szinesítő Háttereket bármelyik lenti kategóriában. Az ésszerűség keretein belül bármennyit felvehetsz.
 
-#### Származás
+### Származás
 
 - Árva
 - Erdőlakó
@@ -15,7 +15,7 @@ Alább 1-2 szavas jelzőket találsz, amelyek további szinesítő elemeket adha
 - Polgár
 - Városlakó
 
-#### Jellem, fóbiák, hobbik
+### Jellem, fóbiák, hobbik
 
 - Élet
 - Rend
@@ -52,7 +52,7 @@ Alább 1-2 szavas jelzőket találsz, amelyek további szinesítő elemeket adha
 - Tudálékos
 - Vezéralkat
 
-#### Küllem, fizikum
+### Küllem, fizikum
 
 - Alacsony
 - Albínó
@@ -67,7 +67,7 @@ Alább 1-2 szavas jelzőket találsz, amelyek további szinesítő elemeket adha
 - Tömzsi
 - Vékony
 
-## Viszony
+### Viszony
 
 - "Barát:"
 - "Ellenség:"
