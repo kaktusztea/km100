@@ -1,28 +1,20 @@
-## Életerő Pont
-
-A Karakteralkotás fejezetben már ismertetett **Életerő pontokat** használjuk a harcban elszenvedett sérülések jegyzésére. Emlékeztetőül:
+## Életerő Pont (`ÉP`)
 
 ```
 ÉP = 12 + (Edzettség x 2)
 ```
 
-Ha sebet kapunk, ezekből a pontokból kell levonnunk az okozott sérülést (lásd [Sebesülés fejezet](061_03_sebesules.md)).
+A [Karakteralkotás fejezetben](017_01_ep_kt.md) már röviden említett úgynevezett **Életerő pontokat** használjuk annak modellezésére, hogy a karakter mennyi sebet, milyen súlyos betegségeket, harcban elszenvedett sérülést képes elviselni. Ha sebet kap, ezekből a pontokból kell levonnunk az elszenvedett sérülést jelképező pontokat (lásd [Sebesülés fejezet](061_03_sebesules.md)).
 
-**Életerő Pontok elosztása**
+### Életerő Pontok elosztása
 
-|S1  <br>(ÉP/4)|S2  <br>(ÉP/4)|S3  <br>(ÉP/4)|S4  <br>(ÉP/4)|
-|---|---|---|---|
-|.|.|.|.|
-|.|.|.|.|
-|.|.|.|.|
-|.|.|.|.|
-|.|.|xx|xx|
+![](images/06_eletero_tablazat.png)
 
-Az **Életerő Pontok** (ÉP) 4 egészség kategória közt egyenlő arányban oszlanak el. A maradékot balról jobbra osztjuk el. Az ún. sebesülés kategóriák szimulálják, hogy milyen állapotban van a karakter. Az `S1` az enyhén, `S2` a közepesen, `S3` a súlyosan, az `S4` pedig a halálosan sérült állapotot jelöli.
+Az **Életerő Pontok** `4` egészség kategória közt egyenlő arányban oszlanak el. A maradékot balról jobbra osztjuk el az oszlopok között. Az ún. **Sebesülés kategóriák** (`S`) szimulálják, hogy milyen állapotban van a karakter: az `S1` az enyhén, `S2` a közepesen, `S3` a súlyosan, az `S4` pedig a halálosan sérült állapotot jelöli.
 
-Az egyes kategóriák jelölésében az "`S`" a „Sebesülés” -re utal, a szám utána pedig könnyen azonosítja állapotunkat.
+A fenti ábra `18 ÉP` elosztását mutatja be.
 
-A bal oldali ábra `18 ÉP` elosztását mutatja be. Az állapot romlásának hatásait a „Sebesülés” fejezetben ismertetjük.
+Az állapot romlásának hatásait a [Sebesülés](061_03_sebesules.md) fejezetben ismertetjük.
 
 ---
 
