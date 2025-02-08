@@ -245,6 +245,6 @@ Ha csak meg akarunk érinteni valakit harc közben, az könnyebb, mint puszta k�
 
 ---
 
-🔗 [Harci alakzatok](065_03_harci_alakzatok.md) →
+🔗 [Alakzatharc](065_03_alakzatharc.md) →
 
 ⚜️ [Nyitóoldal](start.md#6-harcrendszer-%EF%B8%8F)

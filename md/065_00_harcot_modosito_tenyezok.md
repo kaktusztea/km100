@@ -4,7 +4,7 @@
 
 #### [Harci taktikák](065_02_harci_taktikak.md)
 
-#### [Harci alakzatok, Alakzatharc](065_03_harci_alakzatok.md)
+#### [Alakzatharc](065_03_alakzatharc.md)
 
 #### [Kétkezes harc szabályai](065_04_ketkezes_harc_szabalyai.md)
 
