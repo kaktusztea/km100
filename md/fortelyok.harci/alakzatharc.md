@@ -27,7 +27,7 @@ Sok féle alakzat létezik. Gyalogos, kisebb létszámra, nagy, csatatéri form�
 
 - Egyes alakzatok ismeretének több foka van, ezekre külön költeni kell. Például egy 🟣**Alakzatharc - Lovas ék** alakzat **2.fokához** külön alakzatként ismerni kell már a 🟣**Alakzatharc - Lovas ék** **1.fokát** is.
 - Ha egy csoportban a társak legalább fele alacsonyabb fokon ismeri az adott alakzatot, akkor mindenkire az alacsonyabb bónuszok érvényesek.
-- A választható alakzatok (kicsi, nagy, lovas) listáját, módosítóit, alkalmazását lásd a Harcrendszer fejezet [Harci alakzatok](../065_03_harci_alakzatok.md) fejezetében.
+- A választható alakzatok (kicsi, nagy, lovas) listáját, módosítóit, alkalmazását lásd a Harcrendszer fejezet [Alakzatharc](../065_03_alakzatharc.md) fejezetében.
 
 <br />
 
