@@ -48,6 +48,8 @@ Az `FP` kiválóan alkalmas kocsmai verekedések, kisebb – nem „vérre menő
 
 **Minden `5. FP` okoz csak `1 ÉP` valós sebesülést: `4 FP, 1 ÉP`**
 
+A szabály sebzésenként számít, tehát bekaphat a karakter több '4 FP' sebet anélkül, hogy 'ÉP' sebet szerezne.
+
 ---
 ### Fejbe vágás
 
