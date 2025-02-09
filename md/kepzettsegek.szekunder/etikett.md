@@ -21,6 +21,10 @@ Sokszor [összetett próba](../036_kepzettsegproba.md#összetett-képzettségpr�
 - [Teaszertartás](../fortelyok.szabad/teaszertartas.md): Amely Kultúrköröket ismersz, azok teaszertartásait **Etikett** képzettséged szintjének megfelelően el is tudod végezni, illetve felismered az említett Kultúrkörökhöz tartozó teaszertartásokat.
 - [Titkos szervezeti kultúra](../fortelyok.szabad/titkos_szervezeti_kultura.md):  "A véráldozat után két perc ima, utána indul minden fejvadász a küldetésre. Most nem szabad megszólalnom."
 
+### Szituációk
+
+- [Ismerem azt a nevet? Mit tudhatok róla?](../szituaciok/ismerem_mit_tudhatok_rola.md)
+
 ### Leírás
 
 Természetesen nem mindegy, melyik kultúrkörben kell a társasági kihívásokat teljesíteni, de az alapismeret és a gyors tanulás segítségével hamar beépíthető más kultúrkörök ismerete is. Például egy "Etikett: `9.szint`"-el rendelkező py4rroni nemes pár nap alatt képes megtanulni a tor0ni udvari Etikett szabályait, mert már megvan a mentális "váz", amire csak fel kell "aggatnia" az új tudást. Ezt a [Kultúrkör](../fortelyok.kiemelt/kulturkor.md) Kiemelt Fortély rendszerén keresztül szimuláljuk.

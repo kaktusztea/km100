@@ -4,7 +4,11 @@ A víz mélye a te közeged, ritkábban kell feljönnöd levegőért.
 
 ### Kapcsolódik
 
-- [Úszás](uszas.md)
+- [Úszás](uszas.md) fortély
+
+### Szituációk
+
+- [Víz alatt bírni](../szituaciok/viz_alatt_birni.md)
 
 ### Alapeset
 
@@ -24,5 +28,3 @@ A víz mélye a te közeged, ritkábban kell feljönnöd levegőért.
 🌟 **Hatás**: Ennyi ideig bírod a víz alatt: `1 + (2x Edzettség) perc`
 
 <br />
-
----

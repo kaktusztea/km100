@@ -23,7 +23,7 @@ Intelligencia, Érzékenység
 
 ### Szituációk
 
-- [Befolyásolás vs. Emberismeret](../szituaciok/befolyasolas_modszerei.md)
+- [Befolyásolás módszerei (Befolyásolás vs. Emberismeret)](../szituaciok/befolyasolas_modszerei.md)
 
 
 <br />

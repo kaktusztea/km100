@@ -22,7 +22,8 @@ Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
 ### Szituációk
 
-- [Érzékelés, Aktív/Passzív Harci Észlelés, Áldozat mögé lopakodás](../szituaciok/erzekeles_eszleles_aktiv_passziv.md)
+- [Érzékelés, Aktív/Passzív Harci Észlelés](../szituaciok/erzekeles_eszleles_aktiv_passziv.md)
+- [Lopakodás/rejtőzés és észlelése](../szituaciok/lopakodas_rejtozes_es_eszlelese.md)
 - [Nyomok észrevétele, Nyomkövetés - városi környezetben](../szituaciok/nyomok_nyomkovetes_varos.md)
 
 <br />
