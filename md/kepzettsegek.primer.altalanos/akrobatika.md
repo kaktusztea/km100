@@ -6,7 +6,7 @@ Magába foglalja az esést, ugrást és a kötéltáncot is.
 
 ### Kapcsolódik
 
-[Harci akrobatika](../fortelyok.harci/harci_akrobatika.md) fortély
+- [Harci akrobatika](../fortelyok.harci/harci_akrobatika.md) fortély
 
 ### Normál kiterjesztés
 
