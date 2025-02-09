@@ -14,7 +14,6 @@ Intelligencia, Önuralom
 
 [Szabotőr](../fortelyok.altalanos/szabotor.md) fortély
 
-
 ### Szituációk
 
 [Csapda hatástalanítás, mechanikus szerkezet szabotásása](../szituaciok/csapda_hatatalanitas_szabotalas.md)

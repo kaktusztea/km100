@@ -26,6 +26,10 @@ __
 - [Belső síkok lényeinek ismerete](../fortelyok.misztikus/belso_sikok_lenyeinek_ismerete.md) 🔁 Ismered az adott lénycsoport fajait, alfajait, azok jellemzőit, képességeit - a képzettség szintjének megfelelő mértékben.
 - [Külső síkok lényeinek ismerete](../fortelyok.misztikus/kulso_sikok_lenyeinek_ismerete.md) 🔁 Ismered az adott lénycsoport fajait, alfajait, azok jellemzőit, képességeit - a képzettség szintjének megfelelő mértékben.
 
+### Szituációk
+
+- [Ismerem azt a nevet? Mit tudhatok róla?](../szituaciok/ismerem_mit_tudhatok_rola.md)
+
 ### Leírás
 
 Könyvtárazás, tárgyi ismeretek gyűjtése, rengeteg olvasás, magolás. Igazi potenciálját a kiterjesztését megvalósító fenti Fortélyokkal érhetjük el.

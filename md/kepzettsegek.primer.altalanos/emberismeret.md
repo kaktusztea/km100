@@ -25,7 +25,7 @@ Az alábbi Fortélyok a képzettség `3.szintjének` elérésekor vehetőek csak
 
 ### Szituációk
 
-- [Befolyásolás vs. Emberismeret](../szituaciok/befolyasolas_modszerei.md)
+- [Befolyásolás módszerei (Befolyásolás vs. Emberismeret)](../szituaciok/befolyasolas_modszerei.md)
 
 **Leírás**: Más emberek viselkedésének, hangulatának feltérképezését, belső motivációinak kiismerését célzó „tudomány". Ennek az ismeretnek az elsajátítását leginkább a nagybetűs ÉLET egyengeti. Sok-sok beszélgetés, néha keserű tapasztalat.
 

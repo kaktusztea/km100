@@ -27,6 +27,7 @@ __
 ### Szituáció
 
 - [Információ szerzés valakitől](../szituaciok/informacioszerzes_valakitol.md)
+- [Ismerem azt a nevet? Mit tudhatok róla?](../szituaciok/ismerem_mit_tudhatok_rola.md)
 - [Nyomok észrevétele, Nyomkövetés - városi környezetben](../szituaciok/nyomok_nyomkovetes_varos.md)
 
 ### Leírás
