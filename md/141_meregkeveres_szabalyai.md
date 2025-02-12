@@ -21,7 +21,12 @@ A mérgeket elkészítésük bonyolultsága szerint egy ún. Szinttel jellemzün
 A méreg kikeverése **Méregkeverés** képzettpróbához kötött, amelynek célszáma a **Méreg szintjével** azonos.
 
 ```
-Méreg szintje = Erősség + Súlyosság + Elállás + Hatóidő + Speciális
+Méreg szintje =
+    Erősség
+  + Súlyosság
+  + Elállás
+  + Hatóidő
+  + Speciális
 ```
 
 ---
