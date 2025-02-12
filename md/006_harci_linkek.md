@@ -38,7 +38,7 @@ Gyors elérésű link gyűjtemény - játékosok számára.
 ---
 ### Tám/kör, Mozgás
 
-[Támadások száma - ábra](063_08_tamadasok_szama_abra.md)
+[Támadások száma - ábra](063_08_harc_es_varazskeret_tamadasok_szama_abra.md)
 
 [Mozgás harc közben](063_05_mozgas_harc_kozben.md)
 
