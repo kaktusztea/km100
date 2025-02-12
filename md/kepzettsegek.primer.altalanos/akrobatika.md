@@ -74,12 +74,10 @@ Magába foglalja az [esést](../szituaciok/eses_magasbol.md), **ugrást** és a 
 
 #### Átlagos (9)
 
-- Kötéltánc közepes szélben.
 - Elugrani egy száguldó lovaskocsi elől. Észlelés: `5 méter`.
 
 #### Nehéz (12)
 
-- Kötéltánc közepes szélben.
 - Lecsúszni talpon egy hosszú lépcső korlátján
 - Elugrani egy száguldó lovaskocsi elől. Észlelés: `3 méter`.
 - Kimozodni közepes mennyiségű potyogó sziklát
