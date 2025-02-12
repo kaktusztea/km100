@@ -47,7 +47,9 @@ Magába foglalja az [esést](../szituaciok/eses_magasbol.md), **ugrást** és a 
 
 🔒 Követelmény: **Ügyesség**: `+3`
 
-🌟 Hatás: Ugrástávolság felmérése korlátlanul
+🌟 Hatás:
+- Ugrástávolság felmérése korlátlanul
+- ⭕TODO: különleges képesség⭕
 
 <br />
 
@@ -56,7 +58,7 @@ Magába foglalja az [esést](../szituaciok/eses_magasbol.md), **ugrást** és a 
 
 🔒 Követelmény: **Ügyesség**: `+3`
 
-🌟 Hatás: ⭕TODO: ((Speciális, tanulható fortély, különleges képesség is ide jön))⭕
+🌟 Hatás: ⭕TODO: ((Speciális skill, tanulható fortély, különleges képesség is ide jön))⭕
 
 <br />
 
@@ -67,27 +69,37 @@ Magába foglalja az [esést](../szituaciok/eses_magasbol.md), **ugrást** és a 
 
 #### Könnyű (6)
 
-Kötéltánc alaphelyzet.
+- Kötéltánc alaphelyzet.
+- Lecsúszni fenéken egy hosszú lépcső korlátján
 
 #### Átlagos (9)
 
-Kötéltánc közepes szélben.
+- Kötéltánc közepes szélben.
+- Elugrani egy száguldó lovaskocsi elől. Észlelés: `5 méter`.
 
 #### Nehéz (12)
 
-Kötéltánc közepes szélben.
+- Kötéltánc közepes szélben.
+- Lecsúszni talpon egy hosszú lépcső korlátján
+- Elugrani egy száguldó lovaskocsi elől. Észlelés: `3 méter`.
+- Kimozodni közepes mennyiségű potyogó sziklát
 
 #### Nagyon nehéz (15)
 
-⭕TODO⭕
+- Végigfutni a függőleges falon `3 méter` hosszan.
+- Nekifutásból felfutni egy `3 méter` magas falon és beugrani egy ablakon
+- Elugrani egy száguldó lovaskocsi elől. Észlelés: `2 méter`.
+
 
 #### Rendkívül nehéz (18)
 
-⭕TODO⭕
+- Elugrani egy száguldó lovaskocsi elől. Észlelés: `1 méter`.
+- Kimozodni sűrű sziklaomlást
+- Liánokon folyamatosan lengeni fák között (ahol lehetséges)
 
 #### Emberfeletti (21)
 
-⭕TODO⭕
+- Szakadékbaugrani és elkapni a `10+ méterre` levő liánt sérülés nélkül.
 
 
 <br />
