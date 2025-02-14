@@ -1,6 +1,6 @@
 ## 🟢 Pszí diszciplínák
 
-<sub>→ [STUDY doksi](https://github.com/kaktusztea/km100/wiki/STUDY.pszi.diszciplinak)</sub>
+<sub>→ [STUDY doksi](https://github.com/kaktusztea/szilankrpg/wiki/STUDY.pszi.diszciplinak)</sub>
 
 Dobás: [Önuralom](014_01_tulajdonsagok.md#-önuralom-️) Tulajdonsággal
 

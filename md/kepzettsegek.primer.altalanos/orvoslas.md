@@ -2,7 +2,7 @@
 
 Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 
-→ [STUDY: Gyógyítás](https://github.com/kaktusztea/km100/wiki/STUDY.gyogyitas.gyogyulas)
+→ [STUDY: Gyógyítás](https://github.com/kaktusztea/szilankrpg/wiki/STUDY.gyogyitas.gyogyulas)
 
 ### Domináns Tulajdonságok
 

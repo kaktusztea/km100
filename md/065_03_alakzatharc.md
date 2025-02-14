@@ -1,6 +1,6 @@
 ## Alakzatharc
 
-Jelenleg a saját [ADR oldalán](https://github.com/kaktusztea/km100/wiki/ADR.alakzatharc) fejlesztjük. Amint ott elkészül, bemásolni ide.
+Jelenleg a saját [ADR oldalán](https://github.com/kaktusztea/szilankrpg/wiki/ADR.alakzatharc) fejlesztjük. Amint ott elkészül, bemásolni ide.
 
 ---
 

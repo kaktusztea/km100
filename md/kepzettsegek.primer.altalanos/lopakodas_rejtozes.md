@@ -1,6 +1,6 @@
 ## 🔵 Lopakodás/rejtőzés
 
-→ ⭕[TODO elemek](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.kepzettsegek#lopakod%C3%A1srejt%C5%91z%C3%A9s)
+→ ⭕[TODO elemek](https://github.com/kaktusztea/szilankrpg/wiki/TODO.ISSUE.kepzettsegek#lopakod%C3%A1srejt%C5%91z%C3%A9s)
 
 Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 

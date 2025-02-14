@@ -1,6 +1,6 @@
 ## Mágia alapszabályok
 
-<sub>→ [STUDY oldal](https://github.com/kaktusztea/km100/wiki/STUDY.magia.alapszabalyok)</sub>
+<sub>→ [STUDY oldal](https://github.com/kaktusztea/szilankrpg/wiki/STUDY.magia.alapszabalyok)</sub>
 
 ## Mágia alapszabályok
 
@@ -15,7 +15,7 @@
 - `3.` szintű Tradíciótól (Metamágiától)
   - innentől lehet elkezdeni varázsolni egyáltalán, ez a feltétele a mágiaiskolák `3.` szintjének is
   - tehát a karakter `3.` tapasztalati szintjén lehet először varázsolni
-  - megállhatsz `3.` szinten. Ami feljebb van, azok a metamágia spécijei. Lásd [ott](https://github.com/kaktusztea/km100/wiki/STUDY.magia.metamagia).
+  - megállhatsz `3.` szinten. Ami feljebb van, azok a metamágia spécijei. Lásd [ott](https://github.com/kaktusztea/szilankrpg/wiki/STUDY.magia.metamagia).
   - egyes metamágia formulákat szétszórhatjuk biztos tudás szintek közé
   - `6.` szinten:
     - Leplezés
@@ -149,7 +149,7 @@ Fénymágia   - Mozgó Illúzió (4. szint)
 
 #### Időtartam kitolás
 
-🚧 ⭕[Folyamatban a STUDY oldalon](https://github.com/kaktusztea/km100/wiki/STUDY.magia.alapszabalyok#id%C5%91tartam-kitol%C3%A1s)⭕
+🚧 ⭕[Folyamatban a STUDY oldalon](https://github.com/kaktusztea/szilankrpg/wiki/STUDY.magia.alapszabalyok#id%C5%91tartam-kitol%C3%A1s)⭕
 
 <br />
 
@@ -193,14 +193,14 @@ Fénymágia - Mozgó Illúzió
 
 ### Varázslások száma
 
-[Lásd a STUDY oldalt](https://github.com/kaktusztea/km100/wiki/STUDY.magia.alapszabalyok#var%C3%A1zsl%C3%A1sok-sz%C3%A1ma)
+[Lásd a STUDY oldalt](https://github.com/kaktusztea/szilankrpg/wiki/STUDY.magia.alapszabalyok#var%C3%A1zsl%C3%A1sok-sz%C3%A1ma)
 
 ---
 ### Varázslás utáni kimerülés - Rizikó varázslatnál
 
 Amennyiben a varázsló olyan mágiát használ, aminél nem biztos tudásból varázsol (Rizikó), mind az Erősség, mind a Komplexitás esetén csökken a használt Arkánum szintje - ideiglenesen.    
 
-🚧 ⭕[Modell-1 és Modell-2 a STUDY oldalon](https://github.com/kaktusztea/km100/wiki/STUDY.magia.alapszabalyok#var%C3%A1zsl%C3%A1s-ut%C3%A1ni-kimer%C3%BCl%C3%A9s---rizik%C3%B3-var%C3%A1zslatn%C3%A1l)⭕
+🚧 ⭕[Modell-1 és Modell-2 a STUDY oldalon](https://github.com/kaktusztea/szilankrpg/wiki/STUDY.magia.alapszabalyok#var%C3%A1zsl%C3%A1s-ut%C3%A1ni-kimer%C3%BCl%C3%A9s---rizik%C3%B3-var%C3%A1zslatn%C3%A1l)⭕
 
 A Támadások (Varázslások) száma is bejátszik. A nagyobb Erejű varázslatoknak nagyobb a Varázslás-Sebessége, így ritkábban lehet ellőni ilyen varázslatokat. ezt magyarázhatjuk a Kimerüléssel is.
 

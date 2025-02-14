@@ -81,7 +81,7 @@ Ez is képzettségpróba.
 🔆Fontos: az idézett forma TÉ/VÉ-je nem lehet nagyobb a varázsló harcértékeinél - kivéve, ha mentálisan összeköt egy képzettebb harcost a varázslattal. Az ilyesmi már igazán magas szintű mágiának számít.
 
 
-⭕TODO: Link [Mágia célzására](https://github.com/kaktusztea/km100/wiki/STUDY.magia.celzasa), ha bekerül a fő doksiba.
+⭕TODO: Link [Mágia célzására](https://github.com/kaktusztea/szilankrpg/wiki/STUDY.magia.celzasa), ha bekerül a fő doksiba.
 
 ⭕TODO: Méret módosító: ez is link a Mágia alaptörvényeire - ha kész lesz.
 

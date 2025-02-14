@@ -1,6 +1,6 @@
 # Papi Mágia Tradíció
 
-<sub>→ [STUDY oldal](https://github.com/kaktusztea/km100/wiki/STUDY.magiatradicio.papimagia) </sub>
+<sub>→ [STUDY oldal](https://github.com/kaktusztea/szilankrpg/wiki/STUDY.magiatradicio.papimagia) </sub>
 
 ---
 #### [Papi mágia világképe](101_papi.magia.vilagkep.md)

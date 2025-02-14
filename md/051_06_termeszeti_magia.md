@@ -1,6 +1,6 @@
 ## Természeti mágia tradíció / Természeti mágia Metamágia arkánum
 
-<sub>→ [STUDY fejlesztő oldal](https://github.com/kaktusztea/km100/wiki/STUDY.magiatradicio.samanmagia)</sub>
+<sub>→ [STUDY fejlesztő oldal](https://github.com/kaktusztea/szilankrpg/wiki/STUDY.magiatradicio.samanmagia)</sub>
 
 <br />
 

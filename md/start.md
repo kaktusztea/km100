@@ -2,23 +2,23 @@
 
 ## Karakteralkotó
 
-**[Karakteralkotó v8.8.3 (ods)](https://github.com/kaktusztea/km100/raw/master/segedlet/karakteralkoto_v8.8.3.ods?raw=true)** &nbsp;&nbsp;- &nbsp;&nbsp;<!-- markdown-link-check-disable -->[LibreOffice ⬇️](https://www.libreoffice.org/download/download/)<!-- markdown-link-check-enable --> 
+**[Karakteralkotó v8.8.3 (ods)](https://github.com/kaktusztea/szilankrpg/raw/master/segedlet/karakteralkoto_v8.8.3.ods?raw=true)** &nbsp;&nbsp;- &nbsp;&nbsp;<!-- markdown-link-check-disable -->[LibreOffice ⬇️](https://www.libreoffice.org/download/download/)<!-- markdown-link-check-enable --> 
 
 <br />
 
 ## Segédletek játékalkalmakhoz
 
-**[Segédlet esszencia (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_ingame.pdf?raw=true)**
+**[Segédlet esszencia (PDF)](https://github.com/kaktusztea/szilankrpg/raw/master/segedlet/km100_segedlet_ingame.pdf?raw=true)**
 
-[Távharc segédlet (PDF)](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_segedlet_tavharc.pdf?raw=true)
+[Távharc segédlet (PDF)](https://github.com/kaktusztea/szilankrpg/raw/master/segedlet/km100_segedlet_tavharc.pdf?raw=true)
 
 <br />
 
 ## Másodlagos karakterlapok
 
-[ÉP, VÉ firkálólap](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_EP_VE_firka.pdf?raw=true)
+[ÉP, VÉ firkálólap](https://github.com/kaktusztea/szilankrpg/raw/master/segedlet/km100_EP_VE_firka.pdf?raw=true)
 
-NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2.odt?raw=true) • [odt 2 oldalas](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2_ketoldalas.odt) • [pdf](https://github.com/kaktusztea/km100/raw/master/segedlet/km100_NJK_karlap_v1.2.pdf?raw=true)
+NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/szilankrpg/raw/master/segedlet/km100_NJK_karlap_v1.2.odt?raw=true) • [odt 2 oldalas](https://github.com/kaktusztea/szilankrpg/raw/master/segedlet/km100_NJK_karlap_v1.2_ketoldalas.odt) • [pdf](https://github.com/kaktusztea/szilankrpg/raw/master/segedlet/km100_NJK_karlap_v1.2.pdf?raw=true)
 
 <br />
 
@@ -296,6 +296,6 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/km100/
 ### 15. [Szituációk](150_szituaciok.md)
 
 ---
-## [🚧 Fejlesztő portál 🚧](https://github.com/kaktusztea/km100/wiki)
+## [🚧 Fejlesztő portál 🚧](https://github.com/kaktusztea/szilankrpg/wiki)
 
 ---

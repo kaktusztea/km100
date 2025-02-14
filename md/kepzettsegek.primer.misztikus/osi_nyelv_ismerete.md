@@ -1,6 +1,6 @@
 ## 🔵 Ősi nyelv ismerete 🔁
 
-→ [STUDY](https://github.com/kaktusztea/km100/wiki/STUDY.osi.nyelv.ismerete)
+→ [STUDY](https://github.com/kaktusztea/szilankrpg/wiki/STUDY.osi.nyelv.ismerete)
 
 Ez egy [Primer képzettség](../015_primer_szekunder_ismeretek.md).
 

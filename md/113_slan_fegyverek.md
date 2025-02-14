@@ -1,6 +1,6 @@
 ## Slan fegyverek
 
-<sub>→[STUDY link](https://github.com/kaktusztea/km100/wiki/STUDY.slan#slan-fegyverek)</sub>
+<sub>→[STUDY link](https://github.com/kaktusztea/szilankrpg/wiki/STUDY.slan#slan-fegyverek)</sub>
 
 ---
 

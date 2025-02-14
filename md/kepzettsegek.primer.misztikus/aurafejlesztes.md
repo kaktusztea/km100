@@ -13,7 +13,7 @@ Intelligencia, Érzékenység
 ### Leírás
 
 Minden élőlény rendelkezik Aurával, az élettapasztalatok során ez magától erősödik is, de lehetséges tudatosan is növelni erejét.
-Lásd: [STUDY: Aura](https://github.com/kaktusztea/km100/wiki/STUDY.magia.Aura#modell-a) (⭕link véglegesítése, ha kész⭕)
+Lásd: [STUDY: Aura](https://github.com/kaktusztea/szilankrpg/wiki/STUDY.magia.Aura#modell-a) (⭕link véglegesítése, ha kész⭕)
 
 <br />
 

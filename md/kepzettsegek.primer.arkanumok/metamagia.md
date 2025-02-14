@@ -2,4 +2,4 @@
 
 A **Titkos** szféra alá tartozó arkánum.
 
-[STUDY: Metamágia](https://github.com/kaktusztea/km100/wiki/STUDY.magia.metamagia)
+[STUDY: Metamágia](https://github.com/kaktusztea/szilankrpg/wiki/STUDY.magia.metamagia)

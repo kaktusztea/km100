@@ -12,7 +12,7 @@ Alább egy rövid summázatot találhatunk a rendszer fejlesztésének főbb mé
 
 ### 2005.05.31
 
-Kezdetek: első, háziszabályokat tartalmazó dokumentum: [2005-05-31_haziszabalyok_0v2.pdf](https://github.com/kaktusztea/km100/raw/master/archive/history/2005-05-31_haziszabalyok_0v2.pdf?raw=true)
+Kezdetek: első, háziszabályokat tartalmazó dokumentum: [2005-05-31_haziszabalyok_0v2.pdf](https://github.com/kaktusztea/szilankrpg/raw/master/archive/history/2005-05-31_haziszabalyok_0v2.pdf?raw=true)
 
 <br />
 
@@ -21,10 +21,10 @@ Kezdetek: első, háziszabályokat tartalmazó dokumentum: [2005-05-31_haziszaba
 2005 júniusa 🔆 volt az időszak, amikor - bő hónap alatt - megszületett a VÉ csökkentés, a sebesülés kategóriák és a távolsági harcrendszer.
 
 Állapotok ebből az időszakból:
-- [2005-07-10 km20_0v9.pdf](https://github.com/kaktusztea/km100/raw/master/archive/history/2005-07-10_km20_0v9.pdf?raw=true)
-- [2005-08-01 km20_import_v0.pdf](https://github.com/kaktusztea/km100/raw/master/archive/history/2005-08-01_km20_import_v0.pdf?raw=true)
-- [2005-10-19 km20b_0v2.4.2.pdf](https://github.com/kaktusztea/km100/raw/master/archive/history/2005-10-19_km20b_0v2.4.2.pdf)
-- [2005-12-31 km20_karlap_0.62.ods](https://github.com/kaktusztea/km100/raw/master/archive/history/2005-12-31_km20_karlap_0.62.ods?raw=true)
+- [2005-07-10 km20_0v9.pdf](https://github.com/kaktusztea/szilankrpg/raw/master/archive/history/2005-07-10_km20_0v9.pdf?raw=true)
+- [2005-08-01 km20_import_v0.pdf](https://github.com/kaktusztea/szilankrpg/raw/master/archive/history/2005-08-01_km20_import_v0.pdf?raw=true)
+- [2005-10-19 km20b_0v2.4.2.pdf](https://github.com/kaktusztea/szilankrpg/raw/master/archive/history/2005-10-19_km20b_0v2.4.2.pdf)
+- [2005-12-31 km20_karlap_0.62.ods](https://github.com/kaktusztea/szilankrpg/raw/master/archive/history/2005-12-31_km20_karlap_0.62.ods?raw=true)
 
 <br />
 
@@ -32,7 +32,7 @@ Kezdetek: első, háziszabályokat tartalmazó dokumentum: [2005-05-31_haziszaba
 
 Eddig folyt privát dokumentumokban és email útján a fejlesztés.
 
-Az utolsó ilyen dokumentum: [2006-05-09 km20_0v3.0.1.pdf](https://github.com/kaktusztea/km100/raw/master/archive/history/2006-05-09_km20_0v3.0.1.pdf?raw=true)
+Az utolsó ilyen dokumentum: [2006-05-09 km20_0v3.0.1.pdf](https://github.com/kaktusztea/szilankrpg/raw/master/archive/history/2006-05-09_km20_0v3.0.1.pdf?raw=true)
 
 <br />
 
@@ -59,7 +59,7 @@ Az első nagy fejlesztési korszak vége❗
 
 🔆 **összesen: 3 év, 3 hónap** 🔆
 
-A dokumentumok utolsó állapota ekkor: [2009-02-22_km100_develop.zip](https://github.com/kaktusztea/km100/raw/master/archive/history/2009-02-22_km100_develop.zip?raw=true)
+A dokumentumok utolsó állapota ekkor: [2009-02-22_km100_develop.zip](https://github.com/kaktusztea/szilankrpg/raw/master/archive/history/2009-02-22_km100_develop.zip?raw=true)
 
 Eddig tartott az aktív fejlesztés. Ekkor már elég végleges állapotban voltak a rendszer alapjai. Később ennek az átdolgozása, finomítása történik, a fundamentumok viszonylag ritkán változtak.
 
@@ -83,7 +83,7 @@ Eddig tartott az aktív fejlesztés. Ekkor már elég végleges állapotban volt
 
 `km100` dokumentumok migrálásának kezdete
 - odt dokumentumok konvertálása manuálisan markdown formátumba és a `km100` Github repository alá letárolva
-- ötletek, TODO, ISSUE elemek csoportosítása, felvitele a [fejlesztői wikire](https://github.com/kaktusztea/km100/wiki)
+- ötletek, TODO, ISSUE elemek csoportosítása, felvitele a [fejlesztői wikire](https://github.com/kaktusztea/szilankrpg/wiki)
 
 <br />
 
@@ -91,14 +91,14 @@ Eddig tartott az aktív fejlesztés. Ekkor már elég végleges állapotban volt
 
 ODT, TXT, külső jegyzet állományok → MARKDOWN MIGRÁLÁS VÉGE.
 
-Régi állományok [archiválva](https://github.com/kaktusztea/km100/tree/master/archive).
+Régi állományok [archiválva](https://github.com/kaktusztea/szilankrpg/tree/master/archive).
 
 <br />
 
 ### 2023.12.29
 
 Első, Github release:\
-[km100 v0.4.0.0](https://github.com/kaktusztea/km100/releases/tag/0.4.0.0)
+[km100 v0.4.0.0](https://github.com/kaktusztea/szilankrpg/releases/tag/0.4.0.0)
 
 <br />
 
@@ -107,14 +107,14 @@ Első, Github release:\
 Ekkor - a dokumentumok migrálása után - indult újra az aktív fejlesztés, valamint teszt játékok a rendszer aktuális állapotával. 
 
 Hetente jelenik meg Github Release:\
-[km100 Releases](https://github.com/kaktusztea/km100/releases)
+[km100 Releases](https://github.com/kaktusztea/szilankrpg/releases)
 
 <br />
 
 ### 2024.05.01
 
 Áttérés az `ÉV.HÉT` verziószámozásra ezzel a kiadással:\
-[km100 v24.18](https://github.com/kaktusztea/km100/releases/tag/24.18)
+[km100 v24.18](https://github.com/kaktusztea/szilankrpg/releases/tag/24.18)
 
 ---
 

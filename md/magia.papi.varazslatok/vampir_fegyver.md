@@ -1,6 +1,6 @@
 ### ✨Vámpír fegyver
 
-[Vámpír fegyver](https://github.com/kaktusztea/km100/wiki/STUDY.pap.varazslatok#vámpír-fegyver)
+[Vámpír fegyver](https://github.com/kaktusztea/szilankrpg/wiki/STUDY.pap.varazslatok#vámpír-fegyver)
 
 **Szféra**: Életerő
 

@@ -1,7 +1,7 @@
 ## 🟣 Sárkány ököl (3)
 
 
-⭕TODO: Lehet, hogy ez külön lesz a [Slan](https://github.com/kaktusztea/km100/wiki/STUDY.slan) alatt.
+⭕TODO: Lehet, hogy ez külön lesz a [Slan](https://github.com/kaktusztea/szilankrpg/wiki/STUDY.slan) alatt.
 
 ⭕TODO: Belharci szituációban mi legyen? Ugye ott `-10`-ről `0`-ra emelkednek a Puszta Kéz értékei... Kapjon a Sárkány öklös `+10`-et simán?⭕
 
