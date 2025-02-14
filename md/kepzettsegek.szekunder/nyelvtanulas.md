@@ -1,6 +1,6 @@
 ## 🔵 Nyelvtanulás
 
-Ez egy speciális képzettség, mert nem adott nyelvre veszed fel, hanem ez jelképezi az összes nyelv tanulását. `4.szinttől` kezdve minden szinten `3 pontot` kapsz, melyeket [Nyelvismeret](../fortelyok.kiemelt/nyelvismeret.md) fortély fokokra költhetsz. Az első `3 szint` az alapozást jelképezi, ahogy a `km100` sok más területén. Ugyanez táblázatban:
+Ez egy speciális képzettség, mert nem adott nyelvre veszed fel, hanem ez jelképezi az összes nyelv tanulását. `4.szinttől` kezdve minden szinten `3 pontot` kapsz, melyeket [Nyelvismeret](../fortelyok.kiemelt/nyelvismeret.md) fortély fokokra költhetsz. Az első `3 szint` az alapozást jelképezi, ahogy a `Szilánk` sok más területén. Ugyanez táblázatban:
 
 | Szint | Pont |
 |:-----:|:----:|

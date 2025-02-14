@@ -14,7 +14,7 @@ Mikor a mesélő (KM) úgy érzi, az adott játékos karaktere kellően sokat fe
 
 Aki békésen, kihívások, újdonságok, megpróbáltatások nélkül éli életét, az nem tapasztal sokat, élete végére legfeljebb `5-6.szintre` jut el.
 
-A `km100` rendszerében maximum a `21.tapasztalati szint` érhető el.
+A `Szilánk` rendszerében maximum a `21.tapasztalati szint` érhető el.
 
 Irányelvek karakter szintekre:
 

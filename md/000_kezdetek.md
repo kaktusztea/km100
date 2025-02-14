@@ -1,6 +1,6 @@
 # Kezdetek
 
-Üdvözlünk a `km100` szerepjáték rendszer oldalain!
+Üdvözlünk a `Szilánk` szerepjáték rendszer oldalain!
 
 Mielőtt belevágunk a szabályok ismertetésébe, orientálódjunk egy kicsit. Mi ez a rendszer, honnan, mikor indult és miért? Mik a főbb jellemzői, kinek szántuk? És végül egy rövid áttekintés a rendszer struktúrájáról, filozófiájáról, valamint a dokumentumban használt szimbólumokról.
 

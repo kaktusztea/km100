@@ -1,6 +1,6 @@
 ## km100 alrendszerei
 
-Itt egy tömör áttekintő struktúrát láthatsz, amely végigvezet, milyen alrendszerek működnek a `km100` rendszere alatt.
+Itt egy tömör áttekintő struktúrát láthatsz, amely végigvezet, milyen alrendszerek működnek a `Szilánk` rendszere alatt.
 
 ### Általános
 
@@ -66,7 +66,7 @@ Itt egy tömör áttekintő struktúrát láthatsz, amely végigvezet, milyen al
 ---
 ### Legfontosabbak
 
-Szubjektív lista, hogy mely alrendszerek adják a `km100`  "egyedi DNS"-ét (legfontosabbtól visszafelé):
+Szubjektív lista, hogy mely alrendszerek adják a `Szilánk`  "egyedi DNS"-ét (legfontosabbtól visszafelé):
 
 - VÉ csökkentés
 - Képzettség-kiterjesztés Szabad-Hátterekkel

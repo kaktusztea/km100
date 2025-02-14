@@ -2,7 +2,7 @@
 
 A rendszer fejlesztése a 2000-es évek közepén kezdődött, eleinte csak a frissen megjelent D20-as M* (nagy fehér) szabálykönyvre írt egyedi háziszabályok formájában. Miután kezdte kinőni magát, rájöttünk, hogy egy alapjaiból újrakezdett forma lenne megfelelő a nekünk kedves rendszer megteremtéséhez.
 
-A `km100`-nak nem célja helyettesíteni a hivatalos szabályrendszert, amely a régi rendszerrel való viszonylagos szabályrendszeri és hangulati kompatibilitást próbálta megőrizni. A `km100` a haladó játékosoknak készült, akiknek nem fontos a régihez való kötődés, szívesen kipróbálnak egy kompromisszumok és \"nosztalgia nélküli\" rendszert.
+A `Szilánk`-nak nem célja helyettesíteni a hivatalos szabályrendszert, amely a régi rendszerrel való viszonylagos szabályrendszeri és hangulati kompatibilitást próbálta megőrizni. A `Szilánk` a haladó játékosoknak készült, akiknek nem fontos a régihez való kötődés, szívesen kipróbálnak egy kompromisszumok és \"nosztalgia nélküli\" rendszert.
 
 Az évek során több \"alapmotort\" fejlesztettünk és dobtunk ki (ez leginkább a képzettségrendszerre igaz). A cél, hogy egy jól teljesítő, nem túlbonyolított, mégis logikus egységbe foglaljuk az egyes alrendszereket, valamint pótoljunk számunkra régóta fájó hiányokat, vagy korrigáljunk idegesítő logikátlanságokat.
 
@@ -81,8 +81,8 @@ Eddig tartott az aktív fejlesztés. Ekkor már elég végleges állapotban volt
 ---
 ### 2022.07.18
 
-`km100` dokumentumok migrálásának kezdete
-- odt dokumentumok konvertálása manuálisan markdown formátumba és a `km100` Github repository alá letárolva
+`Szilánk` dokumentumok migrálásának kezdete
+- odt dokumentumok konvertálása manuálisan markdown formátumba és a `Szilánk` Github repository alá letárolva
 - ötletek, TODO, ISSUE elemek csoportosítása, felvitele a [fejlesztői wikire](https://github.com/kaktusztea/szilankrpg/wiki)
 
 <br />

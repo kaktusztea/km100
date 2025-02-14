@@ -1,6 +1,6 @@
 ## Primer és Szekunder ismeretek kategóriái
 
-Szétválasztottuk két halmazra a `km100` rendszerének `KP`-ból tanulható ismereteit "kalandozásban nagyon hasznos" (**Primer**) és "kalandozásban átlagosan hasznos" (**Szekunder**) kategóriákra, tehát "táposság" szerint csoportosítottuk őket. Ennek oka a színesebb karakterek és a kevésbé "táp" ismeretek helyzetbe hozása.
+Szétválasztottuk két halmazra a `Szilánk` rendszerének `KP`-ból tanulható ismereteit "kalandozásban nagyon hasznos" (**Primer**) és "kalandozásban átlagosan hasznos" (**Szekunder**) kategóriákra, tehát "táposság" szerint csoportosítottuk őket. Ennek oka a színesebb karakterek és a kevésbé "táp" ismeretek helyzetbe hozása.
 
 ### Primer ismeretek
 

@@ -2,7 +2,7 @@
 
 Harc közben gyakran előfordul, hogy egy karakter speciális húzásokkal próbálkozik, egyedi cseleket vet be, hogy megkönnyítse győzelmét, például kirúgja ellenfele lábát, vagy homokot szór annak szemébe. Sokszor van olyan is, hogy egy karakter különösen jó egy adott csel alkalmazásában és azt előszeretettel veti be minden új ellenfelénél. De ha egyszer olyannal kerül szembe, aki számít rá...
 
-A `km100` harcrendszere lehetőséget ad rá, hogy a karakter harc közben ilyen speciális cselekedeteket – Manővereket – alkalmazzon. Vannak olyan Manőverek is, melyek csak adott fegyverre, vagy harcmodorra jellemzőek, de a legtöbb szabadon, bárki által alkalmazható, amennyiben eleget tesz a leírt követelményeknek.
+A `Szilánk` harcrendszere lehetőséget ad rá, hogy a karakter harc közben ilyen speciális cselekedeteket – Manővereket – alkalmazzon. Vannak olyan Manőverek is, melyek csak adott fegyverre, vagy harcmodorra jellemzőek, de a legtöbb szabadon, bárki által alkalmazható, amennyiben eleget tesz a leírt követelményeknek.
 
 ---
 ### Alapértékek
@@ -21,7 +21,7 @@ A Manőverek végrehajtója ezekkel az értékekkel próbálkozhat a Manőver **
 
 ### Manőver kategóriák
 
-Három kategóriába csoportosítottuk a `km100` által ismert Manővereket. Listájukat és leírásukat itt találhatod:
+Három kategóriába csoportosítottuk a `Szilánk` által ismert Manővereket. Listájukat és leírásukat itt találhatod:
 
 - [Általános Manőverek](066_05_altalanos_manoverek.md) 🎲
 - [Belharcos Manőverek](066_06_belharcos_manoverek.md) 🎲

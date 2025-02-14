@@ -1,6 +1,6 @@
 ## Fejlesztők
 
-A `km100` fejlesztésében részt vevő személyek.
+A `Szilánk` fejlesztésében részt vevő személyek.
 
 ### Jogtulajdonos
 
