@@ -1,4 +1,4 @@
-## km100 alrendszerei
+## A Szilánk RPG alrendszerei
 
 Itt egy tömör áttekintő struktúrát láthatsz, amely végigvezet, milyen alrendszerek működnek a `Szilánk` rendszere alatt.
 

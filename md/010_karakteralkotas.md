@@ -46,7 +46,7 @@
 
 Mikor karaktert alkotsz, először fejben elképzeled a küllemét, a jellemét, a származását, hogy mihez ért, miben jó, milyen ismereteket tanult eddigi pályafutása során.
 
-Először a karakter [Tapasztalati Szintjét](013_tsz_szintlepes.md) kell meghatároznod. A km100 rendszerében `1-21.szint` intervallumban játszhatsz karakterrel, a **3. Tapasztalati szint** szimbolizálja a "nullpontot" - ez a filozófia a szabályrendszer más területein is visszaköszön majd -, amit más szerepjátékok `1.szintű` kalandozóként jellemeznek. Hogy a KM hányadik szintet engedélyez kezdésnek, az csak rajta és a parti játékosainak megegyezésén múlik.
+Először a karakter [Tapasztalati Szintjét](013_tsz_szintlepes.md) kell meghatároznod. A `Szilánk` rendszerében `1-21.szint` intervallumban játszhatsz karakterrel, a **3. Tapasztalati szint** szimbolizálja a "nullpontot" - ez a filozófia a szabályrendszer más területein is visszaköszön majd -, amit más szerepjátékok `1.szintű` kalandozóként jellemeznek. Hogy a KM hányadik szintet engedélyez kezdésnek, az csak rajta és a parti játékosainak megegyezésén múlik.
 
 Folytatásként a 8 [Tulajdonságod](014_01_tulajdonsagok.md) értékét kell meghatároznod `[-5; 5]` intervallumban **Tulajdonságpontok** elosztásával, majd a [Karakteralkotó Pontjaid](016_kp.md) (`KP`) kiszámolása következik, amelyekből különböző ismereteket vehetsz majd fel. Figyelj, hogy a [Szekunder KP](016_kp.md)-kat csak [Szekunder ismeretekre költheted](015_primer_szekunder_ismeretek.md).
 

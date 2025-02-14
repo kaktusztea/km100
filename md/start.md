@@ -1,4 +1,4 @@
-# km100 szabályrendszer
+# Szilánk RPG szabályrendszer
 
 ## Karakteralkotó
 
@@ -8,17 +8,17 @@
 
 ## Segédletek játékalkalmakhoz
 
-**[Segédlet esszencia (PDF)](https://github.com/kaktusztea/szilankrpg/raw/master/segedlet/km100_segedlet_ingame.pdf?raw=true)**
+**[Segédlet esszencia (PDF)](https://github.com/kaktusztea/szilankrpg/raw/master/segedlet/szilank_segedlet_ingame.pdf?raw=true)**
 
-[Távharc segédlet (PDF)](https://github.com/kaktusztea/szilankrpg/raw/master/segedlet/km100_segedlet_tavharc.pdf?raw=true)
+[Távharc segédlet (PDF)](https://github.com/kaktusztea/szilankrpg/raw/master/segedlet/szilank_segedlet_tavharc.pdf?raw=true)
 
 <br />
 
 ## Másodlagos karakterlapok
 
-[ÉP, VÉ firkálólap](https://github.com/kaktusztea/szilankrpg/raw/master/segedlet/km100_EP_VE_firka.pdf?raw=true)
+[ÉP, VÉ firkálólap](https://github.com/kaktusztea/szilankrpg/raw/master/segedlet/szilank_EP_VE_firka.pdf?raw=true)
 
-NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/szilankrpg/raw/master/segedlet/km100_NJK_karlap_v1.2.odt?raw=true) • [odt 2 oldalas](https://github.com/kaktusztea/szilankrpg/raw/master/segedlet/km100_NJK_karlap_v1.2_ketoldalas.odt) • [pdf](https://github.com/kaktusztea/szilankrpg/raw/master/segedlet/km100_NJK_karlap_v1.2.pdf?raw=true)
+NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/szilankrpg/raw/master/segedlet/szilank_NJK_karlap_v1.2.odt?raw=true) • [odt 2 oldalas](https://github.com/kaktusztea/szilankrpg/raw/master/segedlet/szilank_NJK_karlap_v1.2_ketoldalas.odt) • [pdf](https://github.com/kaktusztea/szilankrpg/raw/master/segedlet/szilank_NJK_karlap_v1.2.pdf?raw=true)
 
 <br />
 
@@ -51,7 +51,7 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/szilan
 - [Történet](001_tortenet.md)
 - [Fejlesztők, Tesztelők](002_fejlesztok.md)
 - [Áttekintés](003_attekintes.md)
-- [km100 alrendszerei](004_alrendszerek.md)
+- [Szilánk RPG alrendszerei](004_alrendszerek.md)
 - [Szimbólumok, Jelzők](005_szimbolumok_jelzok.md)
 - [Harci linkek](006_harci_linkek.md)
 

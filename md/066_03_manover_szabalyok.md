@@ -46,7 +46,7 @@ Manőver alkalmazásakor **NEM** folytatható:
 
 A Manőver **Nehézségét** egy `[2;12]` intervallumból vett számértékkel jellemezzük - ezzel szerepel az [Ellenpróba](066_04_manover_vegbevitele.md#ellenpróba-e) dobásban a Célszám megállapításánál.
 
-A km100 Manővereinek Nehézsége azok adatlapján szerepel - lásd: [Általános](066_05_altalanos_manoverek.md), [Belharcos](066_06_belharcos_manoverek.md) Manőverek.
+A `Szilánk` Manővereinek Nehézsége azok adatlapján szerepel - lásd: [Általános](066_05_altalanos_manoverek.md), [Belharcos](066_06_belharcos_manoverek.md) Manőverek.
 
 <br />
 

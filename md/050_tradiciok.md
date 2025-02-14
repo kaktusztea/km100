@@ -8,12 +8,12 @@
   varázsolhatnak
 ```
 
-A km100 rendszerében a Tradíciók reprezentálják az egyedi, különleges, karakter életútját alapjaiban meghatározó "csomagot".\
+A `Szilánk` rendszerében a Tradíciók reprezentálják az egyedi, különleges, karakter életútját alapjaiban meghatározó "csomagot".\
 Egy-két kivételtől eltekintve a karakterek **csak 1 Tradíciót vehetnek fel**, azt is **csak 1. tapasztalati szinten**.
 
 Mindegyik Tradíció [Primer képzettség](032_primer_szekunder_kepzettsegek.md), így csak annak szintkorlát határáig növelhető.
 
-Milyen Tradíciókat ismer a km100 rendszere?
+Milyen Tradíciókat ismer a `Szilánk` rendszere?
 
 ### [Mágia tradíciók](051_00_magia_tradiciok.md)
 

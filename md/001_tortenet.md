@@ -1,4 +1,4 @@
-## A km100 rendszer fejlesztésének története
+## A Szilánk rendszer fejlesztésének története
 
 A rendszer fejlesztése a 2000-es évek közepén kezdődött, eleinte csak a frissen megjelent D20-as M* (nagy fehér) szabálykönyvre írt egyedi háziszabályok formájában. Miután kezdte kinőni magát, rájöttünk, hogy egy alapjaiból újrakezdett forma lenne megfelelő a nekünk kedves rendszer megteremtéséhez.
 
@@ -81,8 +81,8 @@ Eddig tartott az aktív fejlesztés. Ekkor már elég végleges állapotban volt
 ---
 ### 2022.07.18
 
-`Szilánk` dokumentumok migrálásának kezdete
-- odt dokumentumok konvertálása manuálisan markdown formátumba és a `Szilánk` Github repository alá letárolva
+`km100` dokumentumok migrálásának kezdete
+- odt dokumentumok konvertálása manuálisan markdown formátumba és a `km100` Github repository alá letárolva
 - ötletek, TODO, ISSUE elemek csoportosítása, felvitele a [fejlesztői wikire](https://github.com/kaktusztea/szilankrpg/wiki)
 
 <br />
@@ -98,7 +98,7 @@ Régi állományok [archiválva](https://github.com/kaktusztea/szilankrpg/tree/m
 ### 2023.12.29
 
 Első, Github release:\
-[km100 v0.4.0.0](https://github.com/kaktusztea/szilankrpg/releases/tag/0.4.0.0)
+[Szilánk v0.4.0.0](https://github.com/kaktusztea/szilankrpg/releases/tag/0.4.0.0)
 
 <br />
 
@@ -107,14 +107,24 @@ Első, Github release:\
 Ekkor - a dokumentumok migrálása után - indult újra az aktív fejlesztés, valamint teszt játékok a rendszer aktuális állapotával. 
 
 Hetente jelenik meg Github Release:\
-[km100 Releases](https://github.com/kaktusztea/szilankrpg/releases)
+[Szilánk Releases](https://github.com/kaktusztea/szilankrpg/releases)
 
 <br />
 
 ### 2024.05.01
 
 Áttérés az `ÉV.HÉT` verziószámozásra ezzel a kiadással:\
-[km100 v24.18](https://github.com/kaktusztea/szilankrpg/releases/tag/24.18)
+[Szilánk v24.18](https://github.com/kaktusztea/szilankrpg/releases/tag/24.18)
+
+<br />
+
+### 2025-02-14
+
+Megszületik a `Szilánk RPG`.
+
+A rendszer átnevezése: `km100` → `Szilánk`
+
+<br />
 
 ---
 

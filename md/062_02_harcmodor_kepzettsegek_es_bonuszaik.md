@@ -1,6 +1,6 @@
 ## Harcmodor képzettségek és bónuszaik
 
-A km100 rendszere az alábbi (Primer) harci képzettségeket ismeri, az alájuk tartozó fegyvercsoportokkal:
+A `Szilánk` rendszere az alábbi (Primer) harci képzettségeket ismeri, az alájuk tartozó fegyvercsoportokkal:
 
 - **Közelharc**: Rövid (`0`) pengehosszú fegyverek, puszta kéz
 - **Kardvívás**: minden további „pengés” fegyver (kétkezes kard is)

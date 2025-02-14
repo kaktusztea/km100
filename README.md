@@ -1,8 +1,8 @@
-# km100
+# Szilánk
 
 Egy fantasy világokra tervezett komplett, asztali (papír, kockák) szerepjáték rendszer ([CC](LICENSE)).
 
-⚜️ **[km100 szabályrendszer](md/start.md)** ⚜️
+⚜️ **[Szilánk szabályrendszer](md/start.md)** ⚜️
 
 🚧 **[Fejlesztő portál](https://github.com/kaktusztea/szilankrpg/wiki)** 🚧
 
@@ -98,7 +98,7 @@ Minden dokumentumra a `Creative Commons` licenc feltételei érvényesek. [Bőve
 ## A Szabályrendszer
 
 Lássuk hát a részletes szabályrendszert:\
-⚜️ **[km100 szabályrendszer](./md/start.md)** ⚜️
+⚜️ **[Szilánk szabályrendszer](md/start.md)** ⚜️
 
 ---
 
@@ -113,8 +113,8 @@ Lássuk hát a részletes szabályrendszert:\
 ![](https://progress-bar.xyz/15/?title=M%C3%A1giarendszer%20%20%20%20%20%20%20%20%20%20%20%20%20%20&width=400&color=babaca)
 
 ---
-**km100**: Szerepjáték szabályrendszer fantasy világokra
+**Szilánk**: Szerepjáték szabályrendszer fantasy világokra
 
-**Kapcsolat**: `km100rpg _kukac_ protonmail _pont_ com`
+**Kapcsolat**: `szilankrpg _kukac_ protonmail _pont_ com`
 
 Ailtas, Kaktusztea, 2005-2025 ([CC](LICENSE))
