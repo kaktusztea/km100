@@ -2,7 +2,7 @@
 
 A rendszer fejlesztése a 2000-es évek közepén kezdődött, eleinte csak a frissen megjelent D20-as M* (nagy fehér) szabálykönyvre írt egyedi háziszabályok formájában. Miután kezdte kinőni magát, rájöttünk, hogy egy alapjaiból újrakezdett forma lenne megfelelő a nekünk kedves rendszer megteremtéséhez.
 
-A `Szilánk`-nak nem célja helyettesíteni a hivatalos szabályrendszert, amely a régi rendszerrel való viszonylagos szabályrendszeri és hangulati kompatibilitást próbálta megőrizni. A `Szilánk` a haladó játékosoknak készült, akiknek nem fontos a régihez való kötődés, szívesen kipróbálnak egy kompromisszumok és \"nosztalgia nélküli\" rendszert.
+A `Szilánk` számára nem cél a hivatalos szabályrendszer helyettesítése, nem próbál a régi rendszerrel viszonylagos szabályrendszeri és hangulati kompatibilitást megőrizni. A `Szilánk` a haladó játékosoknak készült, akiknek nem fontos a régihez való kötődés, szívesen kipróbálnak egy kompromisszumok és \"nosztalgia nélküli\" rendszert.
 
 Az évek során több \"alapmotort\" fejlesztettünk és dobtunk ki (ez leginkább a képzettségrendszerre igaz). A cél, hogy egy jól teljesítő, nem túlbonyolított, mégis logikus egységbe foglaljuk az egyes alrendszereket, valamint pótoljunk számunkra régóta fájó hiányokat, vagy korrigáljunk idegesítő logikátlanságokat.
 
@@ -12,7 +12,9 @@ Alább egy rövid summázatot találhatunk a rendszer fejlesztésének főbb mé
 
 ### 2005.05.31
 
-Kezdetek: első, háziszabályokat tartalmazó dokumentum: [2005-05-31_haziszabalyok_0v2.pdf](https://github.com/kaktusztea/szilankrpg/raw/master/archive/history/2005-05-31_haziszabalyok_0v2.pdf?raw=true)
+Kezdetek:
+- a rendszer első neve `km20` volt
+- első, háziszabályokat tartalmazó dokumentum: [2005-05-31_haziszabalyok_0v2.pdf](https://github.com/kaktusztea/szilankrpg/raw/master/archive/history/2005-05-31_haziszabalyok_0v2.pdf?raw=true)
 
 <br />
 
@@ -37,6 +39,8 @@ Az utolsó ilyen dokumentum: [2006-05-09 km20_0v3.0.1.pdf](https://github.com/ka
 <br />
 
 ### 2006.07. hónap
+
+A rendszer új neve`km100` lett - a harcrendszer `k100` alapú dobására való áttérés miatt.
 
 Ebben a hónapban indult el a [km100 Google Groups](https://groups.google.com/g/km100) fejlesztői csoport
 
@@ -97,8 +101,7 @@ Régi állományok [archiválva](https://github.com/kaktusztea/szilankrpg/tree/m
 
 ### 2023.12.29
 
-Első, Github release:\
-[Szilánk v0.4.0.0](https://github.com/kaktusztea/szilankrpg/releases/tag/0.4.0.0)
+Első, Github release: [v0.4.0.0](https://github.com/kaktusztea/szilankrpg/releases/tag/0.4.0.0)
 
 <br />
 
@@ -106,23 +109,19 @@ Első, Github release:\
 
 Ekkor - a dokumentumok migrálása után - indult újra az aktív fejlesztés, valamint teszt játékok a rendszer aktuális állapotával. 
 
-Hetente jelenik meg Github Release:\
-[Szilánk Releases](https://github.com/kaktusztea/szilankrpg/releases)
+Hetente jelenik meg Github Release: [bővebben](https://github.com/kaktusztea/szilankrpg/releases)
 
 <br />
 
 ### 2024.05.01
 
-Áttérés az `ÉV.HÉT` verziószámozásra ezzel a kiadással:\
-[Szilánk v24.18](https://github.com/kaktusztea/szilankrpg/releases/tag/24.18)
+Áttérés az `ÉV.HÉT` verziószámozásra ezzel a kiadással: [v24.18](https://github.com/kaktusztea/szilankrpg/releases/tag/24.18)
 
 <br />
 
 ### 2025-02-14
 
-Megszületik a `Szilánk RPG`.
-
-A rendszer átnevezése: `km100` → `Szilánk`
+Bevezetjük a **`Szilánk RPG`** elnevezést a régi `km100` név elhagyásával.
 
 <br />
 
