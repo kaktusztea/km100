@@ -55,7 +55,7 @@ Annyi ősi nyelv van, ahány mágiaiskola.
 
 - [Illúziók](kepzettsegek.primer.arkanumok/illuziok.md)
   - Fénymágia, Szagmágia
-  - Hangmágia/[Csendmágia](https://github.com/kaktusztea/km100/wiki/RAW.magia#csendmágia)
+  - Hangmágia/[Csendmágia](https://github.com/kaktusztea/szilankrpg/wiki/RAW.magia#csendmágia)
   - Szagmágia
   - ✨Ősi nyelv: ⭕?
 - [Természeti jelenségek](kepzettsegek.primer.arkanumok/termeszeti_jelensegek.md)
@@ -114,7 +114,7 @@ Annyi ősi nyelv van, ahány mágiaiskola.
   - Demonológia
   - Theurgia
   - Goécia
-  - [Szeráfok, szerafisták](https://github.com/kaktusztea/km100/wiki/RAW.magia#szer%C3%A1fi-m%C3%A1gi%C3%A1k) ?
+  - [Szeráfok, szerafisták](https://github.com/kaktusztea/szilankrpg/wiki/RAW.magia#szer%C3%A1fi-m%C3%A1gi%C3%A1k) ?
   - Isteni síkra távozott lelkek visszahívása (ez feketemágia)
   - ✨Ősi nyelv: ⭕?
 

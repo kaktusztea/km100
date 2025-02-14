@@ -1,6 +1,6 @@
 ## Magasmágia tradíció / Metamágia arkánum
 
-<sub>→ [STUDY fejlesztő oldal](https://github.com/kaktusztea/km100/wiki/STUDY.magiatradicio.magasmagia)</sub>
+<sub>→ [STUDY fejlesztő oldal](https://github.com/kaktusztea/szilankrpg/wiki/STUDY.magiatradicio.magasmagia)</sub>
 
 <br />
 
@@ -49,7 +49,7 @@ Most lássuk a **Magasmágia Tradíció** egyes szintjeihez rendelt jellemzőket
 
 A haladóbb formulák leírását alább.
 
-→ [STUDY: Metamágia](https://github.com/kaktusztea/km100/wiki/STUDY.magia.metamagia)
+→ [STUDY: Metamágia](https://github.com/kaktusztea/szilankrpg/wiki/STUDY.magia.metamagia)
 
 ---
 

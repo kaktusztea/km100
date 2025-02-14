@@ -1,6 +1,6 @@
 ## Bárdmágia tradíció / Bárd Metamágia arkánum
 
-<sub>→ [STUDY fejlesztő oldal](https://github.com/kaktusztea/km100/wiki/STUDY.magiatradicio.bardmagia)</sub>
+<sub>→ [STUDY fejlesztő oldal](https://github.com/kaktusztea/szilankrpg/wiki/STUDY.magiatradicio.bardmagia)</sub>
 
 <br />
 

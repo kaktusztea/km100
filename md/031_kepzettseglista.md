@@ -207,7 +207,7 @@ Az aktív előadást igénylő művészeteket szeparáltuk az **Előadóművész
 ---
 ### Papi mágia 🅿️
 
-[STUDY oldal: Varázslat szférák](https://github.com/kaktusztea/km100/wiki/STUDY.magiatradicio.papimagia#var%C3%A1zslat-szf%C3%A9r%C3%A1k) - mint iskola-képzettségek (draft)
+[STUDY oldal: Varázslat szférák](https://github.com/kaktusztea/szilankrpg/wiki/STUDY.magiatradicio.papimagia#var%C3%A1zslat-szf%C3%A9r%C3%A1k) - mint iskola-képzettségek (draft)
 
 ---
 ### Slan 🅿️

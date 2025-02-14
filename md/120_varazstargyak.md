@@ -1,6 +1,6 @@
 # Varázstárgyak
 
-<sub>→ [STUDY: Varázstárgyak](https://github.com/kaktusztea/km100/wiki/STUDY.varazstargyak)</sub>
+<sub>→ [STUDY: Varázstárgyak](https://github.com/kaktusztea/szilankrpg/wiki/STUDY.varazstargyak)</sub>
 
 A varázstárgyakat három kategóriára bonthatjuk:
 - [Rúnamágiával felruházott tárgyak](#r%C3%BAnam%C3%A1gi%C3%A1val-felruh%C3%A1zott-t%C3%A1rgyak)

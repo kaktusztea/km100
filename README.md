@@ -4,7 +4,7 @@ Egy fantasy világokra tervezett komplett, asztali (papír, kockák) szerepját�
 
 ⚜️ **[km100 szabályrendszer](md/start.md)** ⚜️
 
-🚧 **[Fejlesztő portál](https://github.com/kaktusztea/km100/wiki)** 🚧
+🚧 **[Fejlesztő portál](https://github.com/kaktusztea/szilankrpg/wiki)** 🚧
 
 🗡️ **[Harci linkek](md/006_harci_linkek.md)**
 

@@ -1,6 +1,6 @@
 ## Érzékelés, Aktív/Passzív Észlelés
 
-<sub>→ [TODO/ISSUE Érzékelés/Észlelés](https://github.com/kaktusztea/km100/wiki/TODO.ISSUE.erzekeles.eszleles)</sub>
+<sub>→ [TODO/ISSUE Érzékelés/Észlelés](https://github.com/kaktusztea/szilankrpg/wiki/TODO.ISSUE.erzekeles.eszleles)</sub>
 
 ### Tág értelmezés
 

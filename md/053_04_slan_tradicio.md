@@ -1,6 +1,6 @@
 ## Slan tradíció
 
-Jelenleg a saját [STUDY oldalán](https://github.com/kaktusztea/km100/wiki/STUDY.slan) fejlesztjük. Amint ott elkészül, bemásolni ide.
+Jelenleg a saját [STUDY oldalán](https://github.com/kaktusztea/szilankrpg/wiki/STUDY.slan) fejlesztjük. Amint ott elkészül, bemásolni ide.
 
 
 ---
