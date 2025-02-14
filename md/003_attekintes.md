@@ -12,6 +12,6 @@ Alább a dokumentumban előforduló, segítő szimbólumok magyarázatát talál
 
 ---
 
-🔗 [A Szilánk RPG alrendszerei](004_alrendszerek.md) →
+🔗 [A Szilánk RPG alrendszerei](005_alrendszerek.md) →
 
 ⚜️ [Nyitóoldal](start.md#0-kezdetek) 

@@ -10,11 +10,11 @@ Mielőtt belevágunk a szabályok ismertetésébe, orientálódjunk egy kicsit. 
 
 #### [Áttekintés](003_attekintes.md)
 
-#### [Szilánk RPG alrendszerei](004_alrendszerek.md)
+#### [Szilánk RPG alrendszerei](005_alrendszerek.md)
 
-#### [Szimbólumok, Jelzők](005_szimbolumok_jelzok.md)
+#### [Szimbólumok, Jelzők](006_szimbolumok_jelzok.md)
 
-#### [Harci linkek](006_harci_linkek.md)
+#### [Harci linkek](007_harci_linkek.md)
 
 ---
 

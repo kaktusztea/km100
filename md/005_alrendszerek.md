@@ -79,6 +79,6 @@ Szubjektív lista, hogy mely alrendszerek adják a `Szilánk`  "egyedi DNS"-ét 
 
 ---
 
-🔗 [Szimbólumok, Jelzők](005_szimbolumok_jelzok.md) →
+🔗 [Szimbólumok, Jelzők](006_szimbolumok_jelzok.md) →
 
 ⚜️ [Nyitóoldal](start.md#0-kezdetek) 

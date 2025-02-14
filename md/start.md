@@ -25,7 +25,7 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/szilan
 ---
 ## Gyors elérés
 
-[Harci linkek](006_harci_linkek.md)
+[Harci linkek](007_harci_linkek.md)
 
 [Képzettséglista](031_kepzettseglista.md) &nbsp;•&nbsp; [Fortélyok](040_fortelyok.md)
 
@@ -51,9 +51,9 @@ NJK Karakterlap (v1.2)  → [odt 1 oldalas](https://github.com/kaktusztea/szilan
 - [Történet](001_tortenet.md)
 - [Fejlesztők, Tesztelők](002_fejlesztok.md)
 - [Áttekintés](003_attekintes.md)
-- [Szilánk RPG alrendszerei](004_alrendszerek.md)
-- [Szimbólumok, Jelzők](005_szimbolumok_jelzok.md)
-- [Harci linkek](006_harci_linkek.md)
+- [Szilánk RPG alrendszerei](005_alrendszerek.md)
+- [Szimbólumok, Jelzők](006_szimbolumok_jelzok.md)
+- [Harci linkek](007_harci_linkek.md)
 
 ---
 ### 1. [Karakteralkotás](010_karakteralkotas.md)

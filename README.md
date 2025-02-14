@@ -6,7 +6,7 @@ Egy fantasy világokra tervezett komplett, asztali (papír, kockák) szerepját�
 
 🚧 **[Fejlesztő portál](https://github.com/kaktusztea/szilankrpg/wiki)** 🚧
 
-🗡️ **[Harci linkek](md/006_harci_linkek.md)**
+🗡️ **[Harci linkek](md/007_harci_linkek.md)**
 
 ---
 ## Filozófia
