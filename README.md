@@ -1,8 +1,8 @@
-# Szilánk
+# Szilánk RPG
 
 Egy fantasy világokra tervezett komplett, asztali (papír, kockák) szerepjáték rendszer ([CC](LICENSE)).
 
-⚜️ **[Szilánk szabályrendszer](md/start.md)** ⚜️
+⚜️ **[Szilánk RPG szabályrendszer](md/start.md)** ⚜️
 
 🚧 **[Fejlesztő portál](https://github.com/kaktusztea/szilankrpg/wiki)** 🚧
 
@@ -11,7 +11,7 @@ Egy fantasy világokra tervezett komplett, asztali (papír, kockák) szerepját�
 ---
 ## Filozófia
 
-A `Szilánk` egy nagyfokú realitásra törekvő szerepjáték, ami mégis gördülékenynek tűnik játék során. Ennek oka, hogy a legtöbb számolást igénylő feladatot karakteralkotási időbe száműztünk. Így egy karakter megalkotása több időt vehet igénybe, viszont rendkívül egyedi, specializált végeredményt kapunk.
+A `Szilánk RPG` egy nagyfokú realitásra törekvő szerepjáték, ami mégis gördülékenynek tűnik játék során. Ennek oka, hogy a legtöbb számolást igénylő feladatot karakteralkotási időbe száműztünk. Így egy karakter megalkotása több időt vehet igénybe, viszont rendkívül egyedi, specializált végeredményt kapunk. Az elkövetkezőkben egyszerűen `Szilánk` néven fogunk hivatkozni a rendszerre.
 
 Az első mindig a misztikus, kalandos történet hangulata és annak karakterei - a rendszer csak "másodhegedűs" - a mesélő keze alá dolgozik és fix kereteket biztosít. Az elképzelt cél egy már-már regényszerű, drámai, színészet-közeli szerepjátékot megvalósítható közeg, amit a háttérből erősen támogat a "szürke eminenciás" szabályrendszer, amely tág kereteket biztosít a kreativitásra, aztán viszont a háttérbe húzódik. A legjobb, ha egy olyan tág "kerítést" von a rendszer, hogy a játékos azt érezze, egy végtelen, rengeteg lehetőséget rejtő erdőben van, nem egy kerítéssel bekerített fenyvesben (mint ahogy amúgy). Az ilyen világ veszélyesebb, mint mondjuk egy narratív rendszer puhán körülölelő karjai, de talán magasabb szabadságérzetet is élhetünk át vele. Fontos viszont, hogy ne a kizárólag a kocka vezesse a kaland folyását - egy random rossz dobásba ne haljon bele a karakter. A rendszer legyen a játékosokért és ne fordítva!
 
@@ -98,7 +98,7 @@ Minden dokumentumra a `Creative Commons` licenc feltételei érvényesek. [Bőve
 ## A Szabályrendszer
 
 Lássuk hát a részletes szabályrendszert:\
-⚜️ **[Szilánk szabályrendszer](md/start.md)** ⚜️
+⚜️ **[Szilánk RPG szabályrendszer](md/start.md)** ⚜️
 
 ---
 
