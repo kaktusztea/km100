@@ -7,10 +7,12 @@ Magaslatra ugrással eljutni, vagy átugorni egy akadályt: a karakternek ilyen 
 
 ```
 Akrobatika próba Nehézség:
-1m: 6
-2m: 12
-3m: 18
-4m: 21
+1m:    6
+1,5m:  9
+2m:   12
+2,5m: 15
+3m:   18
+4m:   21
 
 Tulajdonságok:
 - Ügyesség
