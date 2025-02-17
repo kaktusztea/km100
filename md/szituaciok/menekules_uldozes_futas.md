@@ -1,4 +1,4 @@
-## Menekülés, üldözés, Futás
+## Menekülés, Üldözés, Futás
 
 Gyakori eset, hogy a játékosok és / vagy Nem Játékos Karakterek között kergetőzés veszi kezdetét.
 

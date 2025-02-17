@@ -11,6 +11,7 @@ Magába foglalja az [esést](../szituaciok/eses_magasbol.md), **ugrást** és a 
 ### Szituációk
 
 - [Esés magasból](../szituaciok/eses_magasbol.md)
+- [Ugrás magasba / távolba](../szituaciok/ugras_magasba_tavolba.md)
 - [Lóról leesés](../szituaciok/lorol_leeses.md)
 
 ### Biztos tudás, követelmények
