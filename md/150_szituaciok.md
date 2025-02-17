@@ -27,7 +27,7 @@ Játék során vannak klasszikus, gyakran előforduló **szituációk**, amelyek
 
 ## Fizikai szituációk
 
-- [Ugrás magasba / távolba](.szituaciok/ugras_magasba_tavolba.md) (Akrobatika)
+- [Ugrás magasba / távolba](szituaciok/ugras_magasba_tavolba.md) (Akrobatika)
 - [Esés magasból](szituaciok/eses_magasbol.md) (Akrobatika)
 - [Mászás képzettségpróbára összetett példa](szituaciok/maszas_osszetett_pelda.md) ⚡
 - [Menekülés, Üldözés, Futás](szituaciok/menekules_uldozes_futas.md)
