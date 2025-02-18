@@ -89,7 +89,6 @@ Magába foglalja az [esést](../szituaciok/eses_magasbol.md), **ugrást** és a 
 - Nekifutásból felfutni egy `3 méter` magas falon és beugrani egy ablakon
 - Elugrani egy száguldó lovaskocsi elől. Észlelés: `2 méter`.
 
-
 #### Rendkívül nehéz (18)
 
 - Elugrani egy száguldó lovaskocsi elől. Észlelés: `1 méter`.

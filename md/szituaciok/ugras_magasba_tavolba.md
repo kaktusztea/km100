@@ -21,6 +21,7 @@ Tulajdonságok:
 
 ### Módosítók
 
+- falon felfutva ugrani: `-3` (könnyebb, mint erőből felugrani)
 - elégtelen hely nekifutásra; helyből ugrás: `[+3-6]`
 - felszerelés súly módosító: `[+1-6]` (KM dönt)
 - páncél módosító: `[+1-9]` (KM dönt)
