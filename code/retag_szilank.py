@@ -29,8 +29,9 @@ class GitOps:
     def get_tag_lists(self):
         self.tags = sorted(self.repo.tags, key=lambda t: t.commit.committed_date, reverse=False)
 
-        # TODO, BUG: detached tags are appear not detached...
-        self.tags_detached = [tag for tag in self.tags if not tag.is_detached]
+        # TODO, BUG: all tags appear detached even ones are attached to master...
+        # First detached should be tag: 0.4.2.9
+        self.tags_detached = [tag for tag in self.tags if tag.is_detached]
 
     def guess_zero_tag(self):                     # DONE (testit)
         if self.tags[0].is_detached:
