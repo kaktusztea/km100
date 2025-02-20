@@ -14,7 +14,7 @@ class GitOps:
             self.active_branch_name = self.repo.active_branch.name        # master if you are on default
         else:
             self.active_branch_name = work_branch_name
-        self.rename_prefix = 'xx'
+        self.rename_prefix = 'xx_'
 
         self.tags = []
         self.tags_detached = []
@@ -27,7 +27,7 @@ class GitOps:
             sys.exit(1)
 
     def get_tag_lists(self):
-        self.tags = sorted(self.repo.tags, key=lambda t: t.commit.committed_date, reverse=True)
+        self.tags = sorted(self.repo.tags, key=lambda t: t.commit.committed_date, reverse=False)
 
         # TODO, BUG: detached tags are appear not detached...
         self.tags_detached = [tag for tag in self.tags if not tag.is_detached]
@@ -66,12 +66,6 @@ class GitOps:
         self.repo.delete_tag(original_tagname)
         return new_tag
 
-    def dump_tag_infos(self):                                 # DONE
-        for tag in self.tags:
-            print(f"Normal tag: {tag.name}, Commit: {tag.commit}")
-        for tag in self.tags_detached:
-            print(f"Detached tag: {tag.name}, Commit: {tag.commit}")
-
     def iterate_and_fix_on_detached_tags(self):
         for tag in gg.tags_detached:
             distance = self.get_commit_count_distance_from_zero_tag(tag)
@@ -81,7 +75,13 @@ class GitOps:
             active_commit = self.get_commit_hash_from_tag(distance)
             self.repo.git.create_tag(actual_tagname, active_commit)
 
-            self.repo.git.tag('-d', prefixed_tagname)
+            # self.repo.git.tag('-d', prefixed_tagname)     # DEBUG: put back, when commits are passing
+
+    def dump_tag_infos(self):                                 # DONE
+        for tag in self.tags:
+            print(f"Normal tag: {tag.name}, Commit: {tag.commit}")
+        for tag in self.tags_detached:
+            print(f"Detached tag: {tag.name}, Commit: {tag.commit}")
 
 
 gg = GitOps(repo_path='/repo/github/szilank.code', work_branch_name='master')
