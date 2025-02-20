@@ -6,11 +6,14 @@ import sys
 
 
 class GitOps:
-    def __init__(self, repo_path):
+    def __init__(self, repo_path, work_branch_name):
         self.repo = git.Repo(repo_path)
 
         self.zero_tag = None
-        self.active_branch_name = self.repo.active_branch.name        # master if you are on default
+        if not work_branch_name:
+            self.active_branch_name = self.repo.active_branch.name        # master if you are on default
+        else:
+            self.active_branch_name = work_branch_name
         self.rename_prefix = 'xx'
 
         self.tags = []
@@ -29,6 +32,7 @@ class GitOps:
         previous_tag = None
         for tag in self.tags:
             if tag.is_detached:
+                # TODO: if it is the first element
                 self.zero_tag = previous_tag
                 return
             else:
@@ -38,11 +42,23 @@ class GitOps:
     def get_commit_count_distance_from_zero_tag(self, next_tag):        # DONE (testit)
         return next_tag.commit.count() - self.zero_tag.commit.count()
 
-    def get_commit_hash_from_tag(self, distance):               # DONE (testit)
+    def get_commit_hash_from_tag(self, distance):                   # DONE (testit)
         commit = self.repo.commit(self.zero_tag)
         for _ in range(distance):
-            commit = commit.children[0]
+            children = commit.children
+            if len(children) == 0:
+                break
+            for child in children:
+                if child.branches == [self.active_branch_name]:
+                    commit = child
+                    break
         return commit.hexsha
+
+    # def get_commit_hash_from_tag(self, distance):               # DONE (testit)
+    #     commit = self.repo.commit(self.zero_tag)
+    #     for _ in range(distance):
+    #         commit = commit.children[0]
+    #     return commit.hexsha
 
     def rename_tag_with_prefix(self, original_tagname):         # DONE
         new_tag = f"{self.rename_prefix}{original_tagname}"
@@ -67,6 +83,6 @@ class GitOps:
             self.repo.git.tag('-d', prefixed_tagname)
 
 
-gg = GitOps(repo_path='/repo/github/szilank.code')
+gg = GitOps(repo_path='/repo/github/szilank.code', work_branch_name='master')
 gg.iterate_and_fix_on_detached_tags()
 gg.dump_tag_infos()
