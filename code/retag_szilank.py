@@ -29,20 +29,21 @@ class GitOps:
         self.tags_detached = [tag for tag in self.tags if not tag.is_detached]
 
     def guess_zero_tag(self):                     # DONE (testit)
+        if self.tags[0].is_detached:
+            return None
         previous_tag = None
         for tag in self.tags:
             if tag.is_detached:
-                # TODO: if it is the first element
                 self.zero_tag = previous_tag
                 return
             else:
                 previous_tag = tag
         return None     # if there was no detached tag
 
-    def get_commit_count_distance_from_zero_tag(self, next_tag):        # DONE (testit)
+    def get_commit_count_distance_from_zero_tag(self, next_tag):     # DONE (testit)
         return next_tag.commit.count() - self.zero_tag.commit.count()
 
-    def get_commit_hash_from_tag(self, distance):                   # DONE (testit)
+    def get_commit_hash_from_tag(self, distance):                    # DONE (testit)
         commit = self.repo.commit(self.zero_tag)
         for _ in range(distance):
             children = commit.children
@@ -53,12 +54,6 @@ class GitOps:
                     commit = child
                     break
         return commit.hexsha
-
-    # def get_commit_hash_from_tag(self, distance):               # DONE (testit)
-    #     commit = self.repo.commit(self.zero_tag)
-    #     for _ in range(distance):
-    #         commit = commit.children[0]
-    #     return commit.hexsha
 
     def rename_tag_with_prefix(self, original_tagname):         # DONE
         new_tag = f"{self.rename_prefix}{original_tagname}"
