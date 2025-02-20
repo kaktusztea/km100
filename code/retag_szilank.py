@@ -20,12 +20,16 @@ class GitOps:
         self.tags_detached = []
 
         self.get_tag_lists()
+        self.dump_tag_infos()       # DEBUG only
+
         if self.guess_zero_tag() is None:
             print("No detached tags found. Exiting.")
             sys.exit(1)
 
     def get_tag_lists(self):
         self.tags = sorted(self.repo.tags, key=lambda t: t.commit.committed_date, reverse=True)
+
+        # TODO, BUG: detached tags are appear not detached...
         self.tags_detached = [tag for tag in self.tags if not tag.is_detached]
 
     def guess_zero_tag(self):                     # DONE (testit)
@@ -63,8 +67,10 @@ class GitOps:
         return new_tag
 
     def dump_tag_infos(self):                                 # DONE
-        for tag, commit in self.tags_detached.items():
-            print(f"Tag: {tag}, Commit: {commit}")
+        for tag in self.tags:
+            print(f"Normal tag: {tag.name}, Commit: {tag.commit}")
+        for tag in self.tags_detached:
+            print(f"Detached tag: {tag.name}, Commit: {tag.commit}")
 
     def iterate_and_fix_on_detached_tags(self):
         for tag in gg.tags_detached:
