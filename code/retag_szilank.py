@@ -31,6 +31,7 @@ class GitOps:
 
         # TODO, BUG: all tags appear detached even ones are attached to master...
         # First detached should be tag: 0.4.2.9
+        # tag class type: git.refs.tag.TagReference
         self.tags_detached = [tag for tag in self.tags if tag.is_detached]
 
     def guess_zero_tag(self):                     # DONE (testit)
@@ -82,7 +83,7 @@ class GitOps:
         for tag in self.tags:
             print(f"Normal tag: {tag.name}, Commit: {tag.commit}")
         for tag in self.tags_detached:
-            print(f"Detached tag: {tag.name}, Commit: {tag.commit}")
+            print(f"Detached tag: {tag.name}, Commit: {tag.commit}, typeof class: {type(tag)}")
 
 
 gg = GitOps(repo_path='/repo/github/szilank.code', work_branch_name='master')
