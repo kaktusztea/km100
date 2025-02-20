@@ -20,7 +20,7 @@ class GitOps:
         self.tags_detached = []
 
         self.get_tag_lists()
-        if not self.guess_zero_tag():
+        if self.guess_zero_tag() is None:
             print("No detached tags found. Exiting.")
             sys.exit(1)
 
