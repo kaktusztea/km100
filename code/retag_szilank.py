@@ -32,6 +32,8 @@ class GitOps:
         # TODO, BUG: all tags appear detached even ones are attached to master...
         # First detached should be tag: 0.4.2.9
         # tag class type: git.refs.tag.TagReference
+        ## if branch_head.tags and tag_name not in branch_head.tags:
+        ##     print("tag is not attached to branch head")
         self.tags_detached = [tag for tag in self.tags if tag.is_detached]
 
     def guess_zero_tag(self):                     # DONE (testit)
