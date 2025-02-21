@@ -58,14 +58,15 @@ class GitOps:
         return next_tag.commit.count() - self.zero_tag.commit.count()
 
     def get_commit_hash_from_tag(self, distance):                   # BUG: not working
-        commit = self.repo.commit(self.zero_tag)
+        commit = self.repo.commit(self.zero_tag.commit)
         for _ in range(distance):
-            children = commit.children
+            tree = commit.tree
+            children = list(tree.traverse())
             if len(children) == 0:
                 break
             for child in children:
-                if child.branches == [self.active_branch_name]:
-                    commit = child
+                if child.path in [self.active_branch_name]:
+                    commit = child.commit
                     break
         return commit.hexsha
 
