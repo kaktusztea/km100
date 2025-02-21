@@ -57,18 +57,20 @@ class GitOps:
     def get_commit_count_distance_from_zero_tag(self, next_tag):     # DONE (testit)
         return next_tag.commit.count() - self.zero_tag.commit.count()
 
-    def get_commit_hash_from_tag(self, distance):                   # BUG: not working
-        commit = self.repo.commit(self.zero_tag.commit)
-        for _ in range(distance):
-            tree = commit.tree
-            children = list(tree.traverse())
-            if len(children) == 0:
-                break
-            for child in children:
-                if child.path in [self.active_branch_name]:
-                    commit = child.commit
-                    break
-        return commit.hexsha
+    # get commit which is on active branch AND is in distance from zero. Search direction: forward
+    def get_commit_in_distance_from_zero(self, distance):                # TODO
+        zero_commit = self.repo.commit(self.zero_tag.commit)
+
+        commits = list(self.repo.iter_commits(zero_commit, max_count=distance + 1))  # max_count to limit the number of commits
+
+        # Check if the distance is within the range of available commits
+        if len(commits) <= distance or distance < 0:
+            print(f"Invalid distance: the repo has fewer than {distance+1} commits from zero.")
+            sys.exit(1)
+
+        # Return the commit at the specified distance
+        target_commit = commits[distance]
+        return target_commit
 
     def rename_tag_with_prefix(self, original_tagname):         # DONE
         new_tag = f"{self.rename_prefix}{original_tagname}"
@@ -80,16 +82,18 @@ class GitOps:
     def iterate_and_fix_on_detached_tags(self):
         for tag in gg.tags_detached:
             distance = self.get_commit_count_distance_from_zero_tag(tag)
-            print(f"tag: {tag.name}, distance: {distance}")
+            print(f"ZERO tag ({self.zero_tag.name}) commit hash: {self.zero_tag.commit.hexsha}")
+            print(f"tag: {tag.name}, distance from zero tag: {distance}")
             actual_tagname = tag.name
             # prefixed_tagname = self.rename_tag_with_prefix(actual_tagname)  # DEBUG: put back, when commits are passing
-            print(f"self.rename_tag_with_prefix({actual_tagname})")
 
-            active_commit = self.get_commit_hash_from_tag(distance)
-            print(f"git_create_tag: '{actual_tagname}' on '{active_commit}'")
-            # self.repo.git.create_tag(actual_tagname, active_commit)  # DEBUG: put back, when commits are passing
+            active_commit = self.get_commit_in_distance_from_zero(distance)
+            print(f"detached tag commit: '{tag.commit.hexsha}', message: '{tag.commit.message.strip()}'\n")
+            print(f"onbranch commit: '{active_commit.hexsha}', message: '{active_commit.message.strip()}'\n")
+            print("==========================================================================")
 
-            # self.repo.git.tag('-d', prefixed_tagname)     # DEBUG: put back, when commits are passing
+            # self.repo.git.create_tag(actual_tagname, active_commit)         # DEBUG: put back, when commits are passing
+            # self.repo.git.tag('-d', prefixed_tagname)                       # DEBUG: put back, when commits are passing
 
     def dump_tag_infos(self):                                 # DONE
         for tag in self.tags:
