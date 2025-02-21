@@ -10,7 +10,6 @@ class GitOps:
         self.repo = git.Repo(repo_path)
 
         self.zero_tag = None
-        self.distance_zero = 0
         if not work_branch_name:
             self.active_branch_name = self.repo.active_branch.name        # master if you are on default
         else:
@@ -55,18 +54,14 @@ class GitOps:
                 previous_tag = tag
         return None     # if there was no detached tag
 
-    def get_tag_distance_from_branch_head(self, tag):
-        return self.repo.head.commit.count() - tag.commit.count()
-
-    def get_distance_from_zero_tag(self, next_tag):         # TODO
-        xxx self.zero_tag.commit.count() - next_tag.commit.count()
+    def get_commit_count_distance_from_zero_tag(self, next_tag):     # DONE (testit)
+        return next_tag.commit.count() - self.zero_tag.commit.count()
 
     # get commit which is on active branch AND is in distance from zero. Search direction: forward
     def get_commit_in_distance_from_zero(self, distance):                # TODO
-        # zero_commit = self.repo.commit(self.zero_tag.commit)
-        zero_commit = self.zero_tag.commit
+        zero_commit = self.repo.commit(self.zero_tag.commit)
 
-        commits = list(self.repo.iter_commits(rev=self.repo.active_branch, max_count=distance + 1, first_parent=True, reverse=True))
+        commits = list(self.repo.iter_commits(zero_commit, max_count=distance + 1))  # max_count to limit the number of commits
 
         # Check if the distance is within the range of available commits
         if len(commits) <= distance or distance < 0:
@@ -77,20 +72,6 @@ class GitOps:
         target_commit = commits[distance]
         return target_commit
 
-
-    # def get_commit_distance(self, master_commit, detached_commit):
-    #     # Get the commit history starting from the master branch
-    #     commits = list(self.repo.iter_commits(master_commit))
-
-    #     # Find the distance between the detached commit and master commit
-    #     for i, commit in enumerate(commits):
-    #         if commit.hexsha == detached_commit.hexsha:
-    #             return i
-
-    #     # If we get here, the detached commit isn't in the history of master
-    #     raise ValueError("Detached commit not found in the history of the master branch.")
-
-
     def rename_tag_with_prefix(self, original_tagname):         # DONE
         new_tag = f"{self.rename_prefix}{original_tagname}"
         commit = self.repo.commit(original_tagname)
@@ -99,10 +80,8 @@ class GitOps:
         return new_tag
 
     def iterate_and_fix_on_detached_tags(self):
-        self.distance_zero = self.get_tag_distance_from_branch_head(self.zero_tag)
-
         for tag in gg.tags_detached:
-            distance = self.get_distance_from_zero_tag(tag)
+            distance = self.get_commit_count_distance_from_zero_tag(tag)
             print(f"ZERO tag ({self.zero_tag.name}) commit hash: {self.zero_tag.commit.hexsha}")
             print(f"tag: {tag.name}, distance from zero tag: {distance}")
             actual_tagname = tag.name
@@ -126,3 +105,4 @@ class GitOps:
 gg = GitOps(repo_path='/repo/github/szilank.code', work_branch_name='master')
 gg.iterate_and_fix_on_detached_tags()
 # gg.dump_tag_infos()
+
