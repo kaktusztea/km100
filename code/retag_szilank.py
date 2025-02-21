@@ -20,11 +20,15 @@ class GitOps:
         self.tags_detached = []
 
         self.get_tag_lists()
-        self.dump_tag_infos()       # DEBUG only
+        # self.dump_tag_infos()       # DEBUG only
 
         if self.guess_zero_tag() is None:
             print("No detached tags found. Exiting.")
             sys.exit(1)
+
+    def is_tag_on_active_branch(self, tag):
+        active_branch_commit = self.repo.active_branch.commit
+        return self.repo.merge_base(active_branch_commit, tag.commit)[0].hexsha == tag.commit.hexsha
 
     def get_tag_lists(self):
         self.tags = sorted(self.repo.tags, key=lambda t: t.commit.committed_date, reverse=False)
@@ -34,16 +38,18 @@ class GitOps:
         # tag class type: git.refs.tag.TagReference
         ## if branch_head.tags and tag_name not in branch_head.tags:
         ##     print("tag is not attached to branch head")
-        self.tags_detached = [tag for tag in self.tags if tag.is_detached]
+        # self.tags_detached = [tag for tag in self.tags if tag.is_detached]
+        self.tags_detached = [tag for tag in self.tags if not self.is_tag_on_active_branch(tag)]
 
-    def guess_zero_tag(self):                     # DONE (testit)
-        if self.tags[0].is_detached:
+    def guess_zero_tag(self):
+        if not self.is_tag_on_active_branch(self.tags[0]):
+            print("First tag is not on active branch. Exiting.")
             return None
         previous_tag = None
         for tag in self.tags:
-            if tag.is_detached:
+            if not self.is_tag_on_active_branch(tag):
                 self.zero_tag = previous_tag
-                return
+                return True
             else:
                 previous_tag = tag
         return None     # if there was no detached tag
@@ -51,7 +57,7 @@ class GitOps:
     def get_commit_count_distance_from_zero_tag(self, next_tag):     # DONE (testit)
         return next_tag.commit.count() - self.zero_tag.commit.count()
 
-    def get_commit_hash_from_tag(self, distance):                    # DONE (testit)
+    def get_commit_hash_from_tag(self, distance):                   # BUG: not working
         commit = self.repo.commit(self.zero_tag)
         for _ in range(distance):
             children = commit.children
@@ -73,11 +79,14 @@ class GitOps:
     def iterate_and_fix_on_detached_tags(self):
         for tag in gg.tags_detached:
             distance = self.get_commit_count_distance_from_zero_tag(tag)
-            actual_tagname = tag.tagname
-            prefixed_tagname = self.rename_tag_with_prefix(actual_tagname)
+            print(f"tag: {tag.name}, distance: {distance}")
+            actual_tagname = tag.name
+            # prefixed_tagname = self.rename_tag_with_prefix(actual_tagname)  # DEBUG: put back, when commits are passing
+            print(f"self.rename_tag_with_prefix({actual_tagname})")
 
             active_commit = self.get_commit_hash_from_tag(distance)
-            self.repo.git.create_tag(actual_tagname, active_commit)
+            print(f"git_create_tag: '{actual_tagname}' on '{active_commit}'")
+            # self.repo.git.create_tag(actual_tagname, active_commit)  # DEBUG: put back, when commits are passing
 
             # self.repo.git.tag('-d', prefixed_tagname)     # DEBUG: put back, when commits are passing
 
@@ -90,4 +99,4 @@ class GitOps:
 
 gg = GitOps(repo_path='/repo/github/szilank.code', work_branch_name='master')
 gg.iterate_and_fix_on_detached_tags()
-gg.dump_tag_infos()
+# gg.dump_tag_infos()
