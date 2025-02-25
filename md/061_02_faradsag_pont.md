@@ -1,6 +1,16 @@
 ## Fáradtság Pont (`FP`)
 
-A rendszer különbséget tesz a fizikai sérülés és a karakter azon állapota között, amely a pillanatnyi állapotát, ájulástól való „távolságát” meghatározza. Ez utóbbit szimulálja a **Fáradtság Pont** (`FP`). Az `FP` értékének nincs köze a **Fájdalomtűrés** képzettséghez, tőle független fogalom. Az `FP` főleg a "leharcoltságot" jelenti, de átmeneti kábultság hatását, rosszullétet, mérgezés okozta gyengeséget, sőt másnaposságot is jelölhetünk vele.
+A rendszer különbséget tesz a fizikai sérülés és a karakter azon állapota között, amely a pillanatnyi állapotát, ájulástól való „távolságát” meghatározza. Ez utóbbit szimulálja a **Fáradtság Pont** (`FP`). Az `FP` értékének semmi köze nincs a **Fájdalomtűrés** képzettséghez, tőle teljesen független fogalom!
+
+Az `FP` az alábbi állapotok szimulálására alkalmas:
+- tartós kimerültség
+- zúzódásokból adódó "leharcoltság"
+- kialvatlanság
+- éhség
+- rosszullét
+- mérgezés okozta gyengeség
+- másnaposság
+- pánikroham hatása
 
 Az `FP`-nek nincs kezdeti értéke, csak a fenti hatások valamelyike következtében jöhet létre. Tehát ebből a szempontból jegyzése az `ÉP`-vel ellentétes. Mikor valaki olyan „sebesülést” szenved el, hogy `FP`-t „szerez”, a hatás megegyezik azzal, mint amit valós sebesülés esetén tapasztal, de nem jár strukturális károsodással (valódi `ÉP` sebbel), vagy halállal, legfeljebb ájulással. Tipikus esete az `FP` sebesülésnek, mikor valakit alaposan fejbe kólintanak. Ez – szándéktól függően – okozhat valós sebesülést is, de ezen kívül `Fáradtság Pontokat` is szül. Másik példa lehet, mikor a karakter rosszullétet okozó mérget iszik.
 
