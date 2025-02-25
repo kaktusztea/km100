@@ -1,7 +1,7 @@
 ## Harci taktikák
 
 | **Taktika név**                                                       | **Hatás**                                                                                                                                                                                                                              |
-| :-------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|:--------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Támadó taktika](#t%C3%A1mad%C3%B3-taktika)                           | `TÉ:+1 = VÉ:-2`, max `TÉ:+15`                                                                                                                                                                                                          |
 | [Védő taktika](#v%C3%A9d%C5%91-taktika)                               | `VÉ:+1 = TÉ:-2`, max `VÉ:+20`                                                                                                                                                                                                          |
 | [Teljes Védekezés taktika](#teljes-v%C3%A9dekez%C3%A9s-taktika)       | `VÉ:+30`, ellenfeled csak `kiskockával` csökkenthet rajtad `VÉ`-t. Folyamatos hátrálás, nincs támadás, nem kombinálható más taktikával.                                                                                                |
@@ -9,6 +9,7 @@
 | [Kiváró taktika](#kiv%C3%A1r%C3%B3-taktika)                           | • Átengedett `KÉ`, cserébe első visszatámadásra `TÉ:+5`<br/>• **Támadó taktikával** együtt mehet, Védővel nem, több ellenfeles harcban sem.                                                                                            |
 | [Fárasztó taktika](#f%C3%A1raszt%C3%B3-taktika-) ⇄                    | • `+2 VÉ` csökkentés <br />• Sebzés helyett: nagykockás VÉ csökkentés + további `+10 VÉ` csökkentés<br />• `00` dobásnál: további `+5 VÉ` csökkentés<br />• Csak Előnyös helyzetből lehet alkalmazni                                   |
 | [Visszafogott taktika](#visszafogott-taktika-) ⇄                      | Kisebb értékű kockával dobhatsz sebzéskor. Lásd a taktika részletes leírását!                                                                                                                                                          |
+| Plusz támadás taktika                                                 | `+1 támadás`<br />Cserébe **minden** támadásodnál a körben kiskockás VÉ csökkenést szenvedsz el. A kör elején kell eldönteni, kör közben már nem módosítható.                                                                          |
 | [Roham taktika](#roham-taktika)                                       | • `TÉ:+20`, `VÉ:-40` (első oda-visszacsapáskor)<br/>• `VÉ` csökkentés duplázódik első oda-visszacsapásnál , Sebzéshez: `+5 SP` (oda-vissza)                                                                                            |
 | [Öngyilkos roham taktika](#%C3%B6ngyilkos-roham-taktika)              | • `TÉ:+25`,`VÉ:-50` (első oda-visszacsapáskor)<br/>• `VÉ` csökkentés duplázódik első oda-visszacsapásnál, Sebzéshez: `+7 SP` (oda-vissza)<br/>• `TÉ` büntetések (sérülésből) nem érvényesek<br/>• Max `1x` használható egy küzdelemben |
 | [Támadás erőből taktika](#t%C3%A1mad%C3%A1s-er%C5%91b%C5%91l-taktika) | Erre a [Támadás erőből](fortelyok.harci/tamadas_erobol.md) fortélyt használhatod (lásd a leírását).                                                                                                                                    |
@@ -181,6 +182,34 @@ A [Harci anatómia](fortelyok.harci/harci_anatomia.md) fortély minden foka `10`
 Szándékosan kisebb sebzést próbálsz okozni találatkor - általában olyankor fordul elő, mikor nem cél az ellenfél megölése.
 
 Némi ritmus megtörés bevállalásával csökkentheted az okozott sebzést: kisebb értékű kockával dobhatsz sebzéskor.
+
+---
+### Plusz támadás taktika
+
+```
++1 támadás
+
+Minden támadásodnál
+  kiskockás VÉ csökkentést
+  szenvedsz el
+```
+
+✅ **Támadó taktikával** együtt
+
+✅ **Támadás Erőből taktikával** együtt
+
+✅ **Érintő taktikával** együtt
+ 
+❌ Más taktikával együtt
+
+✅ Több ellenféllel való harc esetén
+
+
+Felpörögsz és csapásaid záporoznak ellenfeledre. `+1 támadáshoz` jutsz a körben.
+
+Cserébe **minden** támadásodnál az adott körben **kiskockás** `VÉ csökkenést` szenvedsz el, mivel rendkívül fárasztó az ilyen felfokozott ritnusú harc. A taktikát a kör elején kell eldönteni és a kör végéig már nem módosítható.
+
+🔆Tipp: ha fix növelésre vágysz, a [Harckeret növelés](fortelyok.harci/harckeret_noveles.md) fortély felvétele segíthet.
 
 ---
 ### Roham taktika
