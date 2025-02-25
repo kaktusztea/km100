@@ -53,7 +53,8 @@ Az Érzék-, Alvilági és fizikai-, Tudományos- és Befolyástól védő fort�
 - [Élettan](fortelyok.altalanos/elettan.md)
 - [Építészet](fortelyok.altalanos/epiteszet.md)
 - [Írástudó](fortelyok.altalanos/irastudo.md)
-- [Mechanika](fortelyok.altalanos/mechanika.md) 🔻
+- [Koordinátor](fortelyok.altalanos/koordinator.md)
+- [Mechanika](fortelyok.altalanos/mechanika.md)
 - [Ősi kultúrkör](fortelyok.altalanos/osi_kulturkor.md)
 - [Történelemismeret](fortelyok.altalanos/tortenelemismeret.md)
 

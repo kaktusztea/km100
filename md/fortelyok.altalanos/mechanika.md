@@ -1,6 +1,6 @@
 ## 🟣 Mechanika (2)
 
-A Fizikai és Matematikai ismeretek is ide tartoznak?? ⭕TODO⭕
+A mechanikus szerkezetek ismerete sok esetben lehet megkövetelt tudás.
 
 ### Kapcsolódik
 
@@ -32,3 +32,9 @@ A Fizikai és Matematikai ismeretek is ide tartoznak?? ⭕TODO⭕
 🔒 **Követelmény**: `+1`
 
 🌟 **Hatás**: ⭕
+
+<br />
+
+### Megjegyzések
+
+- A Fizikai és Matematikai ismeretek NEM ide tartoznak, azok a [Kvantikum](../kepzettsegek.szekunder/kvantikum.md) képzettség szerves részét képezik.

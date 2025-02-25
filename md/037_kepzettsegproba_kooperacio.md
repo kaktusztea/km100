@@ -18,7 +18,7 @@ Ez tipikusan a "Ne csesszük el" típusú próba. ⚡ Példa: csoportos Lopakod�
 
 Ebben az esetben a “leggyengébb láncszem” határozza meg a próbadobást, azaz aki a csapatban legképzetlenebb. A legalacsonyabb `(képzettség szint + Tulajdonság)` értékű karakter dobja a próbát. Ha ront, az az egész csapatra negatív hatással van.
 
-#### Segítők büntetései
+#### Társak büntetései
 
 Ha a "kripli kommandóban" többen is vannak, azaz többen bírnak a leggyengébb személy képzettség szintjével hasonló értékkel, az tovább rontja az esélyeket.
 
@@ -28,9 +28,9 @@ Ha a "kripli kommandóban" többen is vannak, azaz többen bírnak a leggyengéb
 Max -3 büntetés
 ```
 
-Minden "segítő" `-1` büntetést ad a dobáshoz, amennyiben megfelel a követelményeknek. Legfeljebb `-3` büntetés érhető így el.
+Minden társ `-1` büntetést ad a dobáshoz, amennyiben megfelel a lenti követelményeknek. Legfeljebb `-3` büntetés érhető így el.
 
-#### Segítő követelménye
+#### Társ követelménye
 
 ```
 (Képzettség-szint + Tulajdonság)
@@ -41,7 +41,7 @@ Minden "segítő" `-1` büntetést ad a dobáshoz, amennyiben megfelel a követe
 ⚡ Példa: legképzetlenebb személy `Képzettség-szint + Tulajdonság` értéke: `4`\
 Ilyenkor a `5, 6` és `7` értékkel bíró emberek beszámítanak fejenként `-1` büntetés pontnak. Legfeljebb `-3` büntetés pont érthető így el összesen, tehát a csoport `4-3 = 1` értékre dob `k10` kockával legrosszabb esetben.
 
-⭕TODO: **Koordinátor** fortély könnyítsen valahogy??
+⭕TODO: [Koordinátor](fortelyok.altalanos/koordinator.md) fortély könnyítsen valahogy??
 
 <br />
 
@@ -78,19 +78,11 @@ Ilyenkor a `8, 7` és `6` értékkel bíró emberek beszámítanak fejenként `+
 
 A fent említett `+3` limit növelhető a **Koordinátor** fortéllyal.
 
-#### Koordinátor fortély
+#### 🔆 Koordinátor fortély
 
-```
-Koordináció Bónusz limitre
-1.fok: +1 (4)
-2.fok: +2 (5)
-3.fok: +3 (6)
-```
+A fenti limit határt a [Koordonátor](fortelyok.altalanos/koordinator.md) fortély segítségével emelhetjük.
 
-Jól tudsz egy csoportot koordinálni, nagyobb mennyiségű ember tudását a közös cél érdekében harmonizálni. A Kooperáció esetén kapható `+3` maximális bónusz limitet emelheted meg - így többen tudják már tudásukat a közös cél érdekében bevetni, amennyiben teljesítik a Kooperáció követelményeit.
-
-Ez akkor is működik, ha nem te dobsz a próbára, azaz nem neked van a legmagasabb dobás alap értéked, viszont fontos, hogy legalább `3.szinten` neked is jártasnak kell lenned az adott képzettségben.
-
+<br />
 
 ---
 ### ⚜️ 3. Csapatmunka egy komplex feladat különböző kiosztott részfeladatokkal
