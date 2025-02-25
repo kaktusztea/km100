@@ -10,7 +10,7 @@
 
 ### Próbadobás
 
-Vesszük az adott szituációban épp szükséges Tulajdonság értékét (KM mondja meg, hogy melyiket), hozzáadjuk a **Képzettség** értékét, majd dobunk `k10`-es kockával és a fentieket összeadjuk. Ha a kapott szám nagyobb, vagy egyenlő a Célszámmal, akkor a próba sikerült.
+Vesszük az adott szituációban épp szükséges **Tulajdonság** értékét (KM mondja meg, hogy melyiket), hozzáadjuk a **Képzettség** értékét, majd dobunk `k10`-es kockával és a fentieket összeadjuk. Ha a kapott szám nagyobb, vagy egyenlő a Célszámmal, akkor a próba sikerült.
 
 ```
 Tulajdonság + Képzettség + k10
@@ -28,6 +28,33 @@ Tulajdonság + Képzettség + k10
 | Emberfeletti    | 21 |
 
 Ha a KM úgy látja, hogy az adott próbánál több Tulajdonság is szerepet játszik, akkor a szükséges Tulajdonságok átlagával kell számolni.
+
+---
+
+### Tulajdonság választás (opcionális)
+
+Hogy mely Tulajdonsággal kell a képzettségpróbát dobni, azt alapesetben a KM határozza meg, de van, hogy megoldható több Tulajdonsággal is.
+
+A KM is felajánlhatja a "menüt", de a játékos is jelentkezhet ötlettel, hogy ő melyik Tulajdonság segítségével **hogyan** oldaná meg a feladatot. A KM dönt, hogy ezt elfogadja -e.
+
+Tulajdonságonként viszont eltér(het)
+- Nehézség
+- a megvalósítás módja, hossza
+- a rontás hatása
+
+⚡ Példa: **Ügyesség** segítségével a határoló falakon ide-oda pattogva feljutni valahova, vagy helyből **Erő** segítségével ugrani egyet felfelé. Lehet, hogy a különböző megvalósítások különböző Nehézséget eredményznek.
+
+---
+### Kombinált képzettségpróba (több Tulajdonsággal egyszerre)
+
+Kizárólag [Összetett képzettségpróba](#%C3%B6sszetett-k%C3%A9pzetts%C3%A9gpr%C3%B3ba-m%C3%A1sodlagos-pr%C3%B3badob%C3%A1sok) esetén alkalmazható!
+
+A Kombinált Tulajdonságpróbához hasonló helyzet, mikor a KM szerint nem csak `1`, hanem `2` Tulajdonság is szerepet kell kapjon a próba során.
+
+Ekkor 
+- a fontosabbnak ítélt Tulajdonsággal dobandó az első próba
+- a másodlagos fontosságúnak ítélt Tulajdonsággal adobandó csökkentett Nehézségű próba (lásd fenn az Összetett próbát!)
+
 
 ---
 ### Vállalás
