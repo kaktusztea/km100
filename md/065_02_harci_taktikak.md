@@ -207,7 +207,7 @@ Minden támadásodnál
 
 Felpörögsz és csapásaid záporoznak ellenfeledre. `+1 támadáshoz` jutsz a körben.
 
-Cserébe **minden** támadásodnál az adott körben **kiskockás** `VÉ csökkenést` szenvedsz el, mivel rendkívül fárasztó az ilyen felfokozott ritnusú harc. A taktikát a kör elején kell eldönteni és a kör végéig már nem módosítható.
+Cserébe **minden** támadásodnál az adott körben **kiskockás** `VÉ csökkenést` szenvedsz el, mivel rendkívül fárasztó az ilyen felfokozott ritmusú harc. A kiskocka a támadó dobásod kockáiból származik. A taktikát a kör elején kell eldönteni és a kör végéig már nem módosítható.
 
 🔆Tipp: ha fix növelésre vágysz, a [Harckeret növelés](fortelyok.harci/harckeret_noveles.md) fortély felvétele segíthet.
 
