@@ -64,7 +64,6 @@ Van, hogy egy Szabad Fortély több képzettséget is kiterjeszt.
 - [Tájtípus: sivatagi](fortelyok.szabad/tajtipus_sivatagi.md)
 - [Tánc](fortelyok.szabad/tanc.md)
 - [Tánc: speciális/belső stílus](fortelyok.szabad/tanc_belso_stilus.md) 🔁
-- [Taktika: Falanx](fortelyok.szabad/taktika_falanx.md)🔺
 - [Taktika: Fejvadászok vezetése](fortelyok.szabad/taktika_fejvadaszok_vezetese.md)🔺
 - [Taktika: Íjász](fortelyok.szabad/taktika_ijasz.md)🔺
 - [Taktika Nehézlovas](fortelyok.szabad/taktika_nehezlovas.md)🔺
