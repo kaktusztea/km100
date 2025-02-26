@@ -1,6 +1,6 @@
 ## 🟣 Taktika: Íjász
 
-Íjász alakulat részeként képes vagy közösen cselekedni. Képes vagy falanx formációba fejlődni, együttmaradni, fordulni - harci körülmények között is.
+Íjász alakulat részeként képes vagy közösen cselekedni.
 
 ⭕TODO: Számszerű előnyök
 
