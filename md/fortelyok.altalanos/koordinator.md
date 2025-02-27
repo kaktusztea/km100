@@ -20,7 +20,8 @@ Ez akkor is működik, ha nem te dobsz a próbára, azaz nem neked van a legmaga
 
 
 🌟 **Hatás**:
-- Koordináció Bónusz limitre: +1 (Max 4)
+- Koordináció Bónusz limitre: `+1` (Max 4)
+- Koordináció büntetés pontra: `-1`
 
 ---
 ### 2. fok
@@ -31,7 +32,7 @@ Ez akkor is működik, ha nem te dobsz a próbára, azaz nem neked van a legmaga
 
 🌟 **Hatás**:
 - Koordináció Bónusz limitre: +2 (Max 5)
-
+- Koordináció büntetés pontra: `-2`
 
 ---
 ### 3. fok
@@ -42,7 +43,7 @@ Ez akkor is működik, ha nem te dobsz a próbára, azaz nem neked van a legmaga
 
 🌟 **Hatás**:
 - Koordináció Bónusz limitre: +3 (Max 6)
-
+- Koordináció büntetés pontra: `-3`
 
 <br />
 
