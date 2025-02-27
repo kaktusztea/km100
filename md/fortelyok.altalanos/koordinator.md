@@ -10,6 +10,7 @@ Ez akkor is működik, ha nem te dobsz a próbára, azaz nem neked van a legmaga
 
 🌟 **Hatás**:
 - Koordináció Bónusz limitre: Max `3`
+- Koordináció büntetésre: Max -3
 
 ---
 ### 1. fok
